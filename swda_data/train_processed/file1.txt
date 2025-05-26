@@ -1,0 +1,7 @@
+spk0|text for spk0 line 1
+spk0|text for spk0 line 2
+spk1|text for spk1 line 1
+spk2|text for spk2 line 1
+spk3|text for spk3 line 1
+spk3|text for spk3 line 2
+spk1|text for spk1 line 2 (return)

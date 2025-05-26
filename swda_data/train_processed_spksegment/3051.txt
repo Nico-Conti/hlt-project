@@ -1,0 +1,213 @@
+B|There you go.|fo_o_fw_"_by_bc|3051|0
+B|First question,|sd|3051|0
+B|do you own your house?|qy|3051|0
+A|Uh, right,|na|3051|1
+A|well, we try.|sd|3051|1
+A|I mean it's a big mortgage in the sky|sd|3051|1
+A|and someday, maybe, we might even own it,|sd|3051|1
+A|but, um, for all practical purposes, I guess we hold the mortgage|sd|3051|1
+B|Our name is on the till,|sd|3051|0
+A|Yeah,|b|3051|1
+A|right.|b|3051|1
+B|so that implies ownership.|sd|3051|0
+A|No one else has offered to pay for it.|sd|3051|1
+B|That's right.|aa|3051|0
+B|I would not object if anybody did.|sd|3051|0
+A|Yeah,|b|3051|1
+A|really they could move right into the spare room|sd|3051|1
+B|Yeah.|b|3051|0
+B|Well, we have, we have had this one for five years now.|sd|3051|0
+B|Before that we lived in Garland, uh, probably about, you know, four blocks away.|sd|3051|0
+A|Uh-huh.|b|3051|1
+B|Liked the area, chose to stay inside of Spring Park.|sd|3051|0
+B|It's a, uh,|%|3051|0
+B|I don't know if you have been up here,|qy^d|3051|0
+B|but it is a residential homeowners, association.|sd|3051|0
+A|Right,|b|3051|1
+A|yeah,|b|3051|1
+B|So, there's a lot of, you know, activities, a lot of pluses and common land.|sd|3051|0
+B|But, uh, we thought we were buying at the bottom of the market, you know,|sd|3051|0
+B|it could not possibly have gone any lower|sd|3051|0
+B|and so we were wrong|sd|3051|0
+A|Oh, five years ago.|bf|3051|1
+B|Yeah.|aa|3051|0
+A|Yeah,|b|3051|1
+B|I think,|%|3051|0
+B|what,|%|3051|0
+B|it bottom out about a year later.|sd|3051|0
+A|Yeah,|b|3051|1
+A|it, well,|%|3051|1
+A|I mean just recently, I would say, I would give it two years back, when it was, I think, bottomed out.|sv|3051|1
+B|Oddly enough, two years, you know,|aa|3051|0
+B|I, uh, I think that,|%|3051|0
+A|But, maybe not in your area,|sv|3051|1
+A|see, it was just different areas,|sd|3051|1
+B|not in, in, uh, this area.|sd|3051|0
+B|Cause this is about like the,|%|3051|0
+A|That's a really nice area.|sv|3051|1
+B|Yeah.|b|3051|0
+A|Besides, it's, you know, it's not, it's not Richardson. Is it?|qy|3051|1
+A|It's still considered Garland.|qy^d|3051|1
+B|No,|nn|3051|0
+B|it's, it's Richardson.|sd|3051|0
+A|Oh, ok,|bk|3051|1
+A|yeah.|b|3051|1
+B|It's, Richardson|sd|3051|0
+B|and, hold on a second.|ad|3051|0
+B|to someone in Paul, I can hear you perfectly, perfectly well,|t3|3051|0
+B|I don't want to hear you.|t3|3051|0
+B|You are being rude.|t3|3051|0
+B|Whatever you ask or scream when I'm on the phone, the answer is no.|t3|3051|0
+B|Do you understand?|t3|3051|0
+B|to talking on How does that sound?|qw|3051|0
+A|There you go.|ba|3051|1
+A|Write that one down.|ad|3051|1
+B|Yeah,|b|3051|0
+B|there I go.|fo_o_fw_"_by_bc|3051|0
+A|It sounded good to me|sd|3051|1
+B|Yeah,|b|3051|0
+B|well, I hate to say how long that will last too.|sd|3051|0
+B|No,|^h|3051|0
+B|this area up here is, uh, all custom homes,|sd|3051|0
+B|and, it's,|%|3051|0
+A|Right.|b|3051|1
+B|I don't think that many by the builder that built this house.|sd|3051|0
+B|And, we were not the first people, the first owners,|sd|3051|0
+B|I think we are the third owners.|sd|3051|0
+A|Uh, okay.|b|3051|1
+B|It was built by the architect for himself, who never moved into it. Who sold it to a couple who had no idea that homes ever needed upkeep.|sd|3051|0
+A|Oh, no.|ba|3051|1
+B|Oh, yeah,|ba|3051|0
+B|caulking windows was a great mystery to them.|sd|3051|0
+A|Oh, gee.|ba|3051|1
+B|So, they just watched the water pour in on the carpet.|sd|3051|0
+B|But, it's a Sharif Myneer Homes, if that means anything,|sd|3051|0
+B|it did not really mean anything to me except,  I liked it.|sd|3051|0
+A|I, I,  kept thinking of Omar Sharif every time I saw that name somewhere,|sd|3051|1
+A|so,|%|3051|1
+B|He builds eight hundred thousand dollar houses now.|sd|3051|0
+B|I think he got out of the lower end market. And decided,|sd|3051|0
+A|Uh.|b|3051|1
+B|but, the houses here in, in this class of housing never dropped below two hundred.|sd|3051|0
+A|Oh, wow.|ba|3051|1
+B|Yeah,|b|3051|0
+B|well but, still I know that this one was built for two ninety nine, which is nowhere near what we paid for it.|sd|3051|0
+A|Right.|b|3051|1
+B|And I think somebody told me it's also on a creek side lot, heavily wooded off the golf course.|sd|3051|0
+A|Oh, great.|ba|3051|1
+B|Yeah,|b|3051|0
+B|and the guy around the corner is being transferred|sd|3051|0
+B|so he said, uh, well, he did comparables that it's about eighty dollars,|sd|3051|0
+B|let's see what,|^h|3051|0
+B|I don't remember if he said it was sixty dollars a square foot off the creek and eighty on the creek, or, if it was eighty and a hundred.|sd|3051|0
+A|Well Yeah.|b|3051|1
+A|Probably eighty.|sv|3051|1
+B|I think it was sixty, eighty.|ar|3051|0
+A|Sixty, eighty.|b^m|3051|1
+B|I think.|h|3051|0
+A|Well because, I know our, our little house over here stuck in the middle of, you know, the subdivision is, I think fifty five,|sd|3051|1
+A|so, I think the high end is definitely, you know somewhere there|sv|3051|1
+B|Well, try and think if it was a hundred dollars a square foot|ad|3051|0
+B|No,|ar|3051|0
+B|it could not be,|sv|3051|0
+B|because this house has around thirty four hundred square feet,|sd|3051|0
+B|and it would never sell for three hundred forty thousand dollars.|sv|3051|0
+A|Yeah.|b|3051|1
+B|Just never.|sv|3051|0
+A|Well|%|3051|1
+B|Now, maybe, you know, that's pretty close to what it would have sold for, uh, brand new,|sv|3051|0
+B|or that's pretty much what it was built for.|sv|3051|0
+B|It's got an awful lot of nice things in it|sd|3051|0
+B|but, you know, I don't think, I think it's going to be a long time, if ever, when nice things and really quality construction and all the other additional amenities are really, uh, desirable.|sv|3051|0
+B|It's seems like people go for square footage only now|sv|3051|0
+A|Yeah.|b|3051|1
+B|and, uh, cause. Have you been back to the Perry Homes, back here?|qy|3051|0
+A|Um, the ones that look like brick houses|br|3051|1
+B|The one that looks like Monopoly apartments.|sd|3051|0
+A|Right.|b|3051|1
+A|Yeah,|ny|3051|1
+A|I think those are awful.|sv|3051|1
+A|I'm sorry,|fa|3051|1
+A|I just don't see the designer's,|sd|3051|1
+A|I just see him as trying to squish as much space, you know, as much house into the space as possible.|sd|3051|1
+B|They are huge when you are inside them.|sd|3051|0
+A|Yeah.|b|3051|1
+B|They are very spacious.|sd|3051|0
+B|They are, you know,|%|3051|0
+B|I was, I was in one today.|sd|3051|0
+B|It was forty two hundred square feet.|sd|3051|0
+A|Uh.|b|3051|1
+B|Yeah.|b|3051|0
+B|Uh-huh.|b|3051|0
+A|Well see that's,|%|3051|1
+A|the house that we got is small enough so my husband and I,|sd|3051|1
+A|because there's just the two of us|sd|3051|1
+A|and the two cats, um, can yell at each other from one end to the other and be heard.|sd|3051|1
+A|And we thought that was important instead of getting swallowed up in something that you know.|sd|3051|1
+B|See, when you have kids, you like to be able to, send them some place where they can yell and you won't hear them.|sv|3051|0
+A|Yeah,|aa|3051|1
+A|that's true.|aa|3051|1
+B|But, I have been watching these houses go up|sd|3051|0
+B|and I, I don't, well,|%|3051|0
+B|somebody was telling me,|sd|3051|0
+B|I know somebody who lives back there,|sd|3051|0
+B|I have always questioned the quality of construction|sd|3051|0
+B|and I, I don't think they exceed more than twelve nails per house.|sv|3051|0
+A|Oh.|b|3051|1
+B|When you watch them go up, you are just amazed that they do not fall over.|sv|3051|0
+A|Yeah.|b|3051|1
+B|And it takes them something like, thirty days to complete a house.|sd|3051|0
+A|Oh, that's amazing.|ba|3051|1
+A|Right now, in fact, even as we speak, we are having a deck put on in back,|sd|3051|1
+A|and these guys are phenomenal.|sd|3051|1
+A|They just, they, they are doing such a terrific job back there,|sd|3051|1
+A|I mean, you know, you pay for it too,|sd|3051|1
+A|but it's, it's like, really worth it.|sd|3051|1
+A|They are putting in a deck, a redwood deck,|sd|3051|1
+B|Uh-huh.|b|3051|0
+A|and it's just, they are doing such a fine, fine job.|sd|3051|1
+B|We have got three different levels of decking, because, this lot slopes way back down|sd|3051|0
+A|I'm really excited about it,|sd|3051|1
+A|Uh-huh.|b|3051|1
+B|and, uh, the house is built around the trees.|sd|3051|0
+A|Great.|ba|3051|1
+B|And with these decking that a corporation and a large area for the trees to come up|sd|3051|0
+B|so, it's real, real shady.|sd|3051|0
+B|But, that's one of the few things that really, uh, immediately pays back on return.|sd|3051|0
+B|But, what I was going to tell you, these Perry Homes back there,|sd|3051|0
+A|Yeah.|b|3051|1
+B|when the people from M C I come down|sd|3051|0
+B|and they are, you know, they are used to the Virginia area, metropolitan D C.|sd|3051|0
+A|Uh.|b|3051|1
+B|My God, they come down here and those houses, that, that look the colonial look what the,|sd|3051|0
+A|Looks like the George Town brownstone|bf|3051|1
+B|Right,|aa|3051|0
+A|Yeah.|b|3051|1
+B|And, uh, the idea of ever owning anything that has four thousand square feet in it, for less than two hundred twenty thousand dollars,  which is probably about what their equity is, that they got out of selling their house.|sv|3051|0
+A|Must be a dream.|^2|3051|1
+A|Yeah.|b|3051|1
+B|Because those things are selling like hot cakes.|sd|3051|0
+B|But, one of the people that was living back there was telling me that there is his air conditioning bill, per month, last summer was in excess of five hundred dollars  a month.|sd|3051|0
+A|Oh.|b|3051|1
+B|And I thought,|%|3051|0
+A|I can't ,|ba|3051|1
+B|and he was talking about how you keep up with the utilities here.|sd|3051|0
+B|And I was thinking, well, you know, I know why your God damn bill is so high,|sd|3051|0
+A|He has no insulation, probably.|sv|3051|1
+B|it's because there's not a there's no insulation, insulation in those things.|sd|3051|0
+A|Oh, my.|ba|3051|1
+B|Yeah.|b|3051|0
+A|Gosh.|ba|3051|1
+A|What a trap. Huh.|bh|3051|1
+B|Any yet, you know,|%|3051|0
+B|they, they show very well they show very well unless you have, you know, lived in a lot of houses around the area, or looked at a lot of houses around here.|sd|3051|0
+A|And you ask the right questions and can research,|sd|3051|1
+A|yeah.|b|3051|1
+A|Yeah.|b|3051|1
+B|And I think that makes a big difference.|sv|3051|0
+B|But, I like, I like this area|sd|3051|0
+B|and everything that I have been saying,  says that it's,|sd|3051|0
+A|Oh, I do too.|sd|3051|1
+B|I think if we had to sell now, we could come close to breaking even|sv|3051|0
+A|But, still, um, it's worth it for the area and for the school and things like that|sv|3051|1
+B|You're in, you're in the,|%|3051|0

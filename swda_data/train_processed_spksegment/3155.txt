@@ -1,0 +1,164 @@
+A|I really haven't seen any movies lately,|sd|3155|0
+A|so when the computer picked this one, I was a little bit surprised,|sd|3155|0
+A|but, I think I haven't been to the movie theater here in about, oh, six months,|sd|3155|0
+A|but, uh, you know, the last movies that I've seen were probably on video.|sd|3155|0
+B|Oh, well that's,|%|3155|1
+B|we rent a lot of videos too.|sd|3155|1
+A|Yeah|b|3155|0
+B|Uh, we saw,|sd|3155|1
+B|I have two little babies|sd|3155|1
+B|and we saw one movie recently|sd|3155|1
+B|and that was THE TERMINATOR movie, uh, which I didn't like after all .|sd|3155|1
+A|Uh-huh.|b|3155|0
+A|Yeah,|b|3155|0
+A|now I I haven't seen THE TERMINATOR movie,|sd|3155|0
+A|but, and that's kind of blood and guts, isn't it.|qy|3155|0
+A|I don't particularly care for that sort of stuff.|sd|3155|0
+B|Well, I don't either.|aa|3155|1
+B|It,|%|3155|1
+B|on all the, the advertisements Arnold Schwarzenegger says he doesn't kill anybody in the movie.|sd|3155|1
+B|He doesn't.|sd|3155|1
+B|He maims them|sd|3155|1
+A|Yeah,|aa|3155|0
+A|right.|aa|3155|0
+B|So,|%|3155|1
+A|Yeah,|b|3155|0
+A|he maims them pretty good, doesn't he?|qy|3155|0
+B|Uh-huh.|ny|3155|1
+B|He, he, uh, I think he shoots off their knee caps for the most part. In the movie.|sd|3155|1
+A|Yeah.|aa|3155|0
+A|Uh-huh.|b|3155|0
+B|So.|%|3155|1
+A|I, I saw, uh, SLEEPING WITH THE ENEMY.|sd|3155|0
+A|Uh, Uh, I saw it, uh,|sd|3155|0
+B|Oh, I haven't seen that one yet.|sd|3155|1
+A|oh, couple weeks ago I rented it and, uh, watched it|sd|3155|0
+A|and I was, I was pretty disappointed in it|sd|3155|0
+A|because I, I was told by several people that it's pretty scary and intense|sd|3155|0
+B|Uh-huh.|b|3155|1
+A|and I was pretty disappointed in it.|sd|3155|0
+B|Oh.|b|3155|1
+A|Now it's a good movie,|sd|3155|0
+A|but, I guess that they built me up too much. For my expectations in it there.|sd|3155|0
+B|Yeah,|b|3155|1
+B|well, With all the commercials and everything.|%|3155|1
+A|Uh-huh.|b|3155|0
+B|I haven't,|sd|3155|1
+B|that's one we want to see.|sd|3155|1
+B|I, I want to see, uh, DANCES WITH WOLVES.|sd|3155|1
+A|Uh-huh.|b|3155|0
+B|But, we haven't seen that one yet, either.|sd|3155|1
+A|Yeah.|b|3155|0
+A|Now I haven't seen it either,|sd|3155|0
+A|but, uh, I've heard that it's real long. That it's a good movie, but it's long, like three hours.|sd|3155|0
+B|Yeah,|aa|3155|1
+B|that's what I heard, too.|sd|3155|1
+B|Yeah,|%|3155|1
+B|we've got to get it at a time when we can put our kids to bed and stay up late to watch it We saw, uh, the, the, uh, movie with, uh, Sylvester Stallone, OSCAR.|sd|3155|1
+A|That's right.|aa|3155|0
+A|That's right.|aa|3155|0
+A|OSCAR.|b^m|3155|0
+B|Supposed to be his, uh, his debut in comedy.|sd|3155|1
+A|Uh-huh.|b|3155|0
+B|Which was an interesting movie, but not very funny.|sd|3155|1
+A|Yeah.|b|3155|0
+A|I know my daughter saw that|sd|3155|0
+A|and she liked it|sd|3155|0
+A|so,|%|3155|0
+B|Did she?|qy|3155|1
+A|Yeah|ny|3155|0
+B|Well, it was, it was an amusing movie.|sv|3155|1
+A|Uh-huh.|b|3155|0
+B|It|%|3155|1
+B|I guess maybe it would have been better if we'd have been at the theater as opposed to, uh, just at the house watching it with, with no one else around.|sv|3155|1
+A|Uh-huh.|b|3155|0
+A|Uh-huh.|b|3155|0
+B|So,|%|3155|1
+A|And, of course, I get to watch all these movies like LOOK WHO'S TALKING and WHO'S, LOOK WHO'S TALKING, TOO|sd|3155|0
+A|and, because I have a ten year old|sd|3155|0
+A|so, We, we watch a lot of movies around that category, you know that she, that she can watch|sd|3155|0
+B|Oh.|b|3155|1
+B|Uh-huh.|b|3155|1
+B|My son just turned two|sd|3155|1
+B|and so THE LITTLE MERMAID is now our favorite movie.|sd|3155|1
+A|Yeah.|aa|3155|0
+A|We seen THE LITTLE MERMAID, too.|sd|3155|0
+B|LITTLE MERMAID and PETER PAN I think are, are his two favorites that we've got|sd|3155|1
+A|Uh-huh.|b|3155|0
+A|Uh-huh.|b|3155|0
+A|And there's some, I think there's some good Disney movies fixing to come out on video, uh, SHIPWRECKED.|sd|3155|0
+B|Oh, I haven't, I didn't hear that was coming out.|qy|3155|1
+A|Uh-huh.|ny|3155|0
+A|Yeah,|ny|3155|0
+A|it's fixing to come out on video|sd|3155|0
+A|and, boy, I can't think of the other one that's fixing to come out.|sd|3155|0
+B|Well, they just had uh, THE RESCUERS movie|sd|3155|1
+A|But,|%|3155|0
+A|Uh-huh.|b|3155|0
+B|that was a Disney movie, wasn't it.|qy|3155|1
+B|I think I heard that was just one, was just out.|sd|3155|1
+B|He's, uh, he doesn't sit still for the whole movie, yet,|sd|3155|1
+B|but he likes to, uh, to listen to the music and stuff if there's a lot of that in the in the movie.|sd|3155|1
+A|Right.|b|3155|0
+A|Uh-huh.|b|3155|0
+A|Well, I'm glad to know that there's somebody else out there that doesn't get to go to the movie theater|sd|3155|0
+B|Well, I tell you, ever|%|3155|1
+B|my, my kids are just small babies|sd|3155|1
+B|and, I tell you, we really want to go a lot|sd|3155|1
+A|Yeah.|b|3155|0
+B|and, uh, there's so much out on video now, that it's almost, you know,|sd|3155|1
+B|the movie comes out quicker than you can go see it. Sometimes.|sv|3155|1
+A|Uh-huh. And then they go to the dollar movies.|b|3155|0
+B|So.|%|3155|1
+B|Uh-huh|b|3155|1
+B|That seems to happen.|aa|3155|1
+B|I noticed that DANCES WITH WOLVES was playing at the, uh, Granada Theater.|sd|3155|1
+A|Uh-huh.|b|3155|0
+B|And, uh, someone said that was a lot of fun to go do.|sd|3155|1
+B|You can have dinner and everything while you watch the movie.|sd|3155|1
+B|I thought that might be kind of fun to do.|sv|3155|1
+A|Yeah,|aa|3155|0
+A|that does sound fun.|sv|3155|0
+B|And, of course, you need a baby-sitter for that|sv|3155|1
+B|Definitely.|sv|3155|1
+B|But, uh, no,|%|3155|1
+B|I'd really like to get out to the movies more often.|sd|3155|1
+B|Course, it's so expensive, now, too that you can't hardly afford it.|sv|3155|1
+A|Right.|b|3155|0
+B|I, I know we get discount tickets where my husband works,|sd|3155|1
+A|Uh-huh.|b|3155|0
+B|but, other than that it just seems like it's so expensive.|sv|3155|1
+B|And then the popcorn and everything else,|sv|3155|1
+B|you almost can't afford to do it. No matter what.|sv|3155|1
+A|That's right.|aa|3155|0
+B|Although we did actually get,|%|3155|1
+B|we went on vacation couple months ago,|sd|3155|1
+B|and we got to go see WHAT ABOUT BOB?|sd|3155|1
+A|Uh-huh.|b|3155|0
+B|That was kind of a funny movie with, uh, Richard Dreyfuss and Bill Murray.|sd|3155|1
+A|Uh-huh.|b|3155|0
+B|That was fun.|sd|3155|1
+A|Golly,|ba|3155|0
+A|I don't think that I've ever heard of that movie.|sd|3155|0
+B|Oh, he's a, Richard Dreyfuss is a, uh, psychiatrist|sd|3155|1
+B|and Bob is his patient|sd|3155|1
+B|and Bob follows him on vacation.|sd|3155|1
+B|It's, uh,|%|3155|1
+A|Oh, that's the, that's the one where they burn down the house or something|qy^d|3155|0
+B|Uh-huh,|ny|3155|1
+B|uh-huh|ny|3155|1
+A|the house explodes?|qy|3155|0
+B|Uh-huh.|ny|3155|1
+A|Oh, okay.|bk|3155|0
+B|Yeah,|ny|3155|1
+B|that's the one.|sd|3155|1
+A|Okay,|bk|3155|0
+A|yeah.|%|3155|0
+A|Another movie that I want to see if it ever comes out on video so I can see it without my daughter around is, uh, oh,|sd|3155|0
+A|I just forgot the title of it.|^h|3155|0
+A|Uh Oh, it's supposed to be a real scary one|sd|3155|0
+A|Uh, darn,|^h|3155|0
+A|well, here, here's another one that I've seen.|sd|3155|0
+A|I saw, uh,|%|3155|0
+A|I can't remember the title of it, either|sd|3155|0
+B|Must have left an impression.|sv|3155|1

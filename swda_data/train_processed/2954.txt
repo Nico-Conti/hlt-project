@@ -1,0 +1,331 @@
+A|Okay|fo_o_fw_"_by_bc|2954
+B|Have you ever, uh, organized a family reunion?|qy|2954
+A|Uh, no|nn|2954
+A|I have never organized one.|sd|2954
+A|But we are, we have one, uh, we are going to have one on Memorial Day, I guess.|sd|2954
+B|Uh-huh.|b|2954
+A|They have had one the last two years. We go out to the, my dad's farm and, uh, and, you know, it is just a picnic and spend the night. Go fishing and stuff like that.|sd|2954
+B|Uh-huh.|b|2954
+B|How many people usually show up?|qw|2954
+A|Oh, about ten.|sd|2954
+B|Oh, it is not that big.|sd|2954
+A|Huh-uh.|b|2954
+B|Because, uh, we have had sort of weekends like that too.|sd|2954
+A|It,|%|2954
+B|But I never thought of it really as a reunion.|sd|2954
+A|Uh-huh.|b|2954
+B|I sort of think of a reunion with my, uh, all the extended family|sd|2954
+A|Everybody,|^2|2954
+A|yeah.|b|2954
+B|Yeah.|b|2954
+B|That would be hard for us because most of the family is out in California.|sd|2954
+B|And some is in New York and North Carolina,|sd|2954
+A|Uh-huh.|b|2954
+B|and it gets,|%|2954
+B|it is kind of hard to get get everybody organized.|sd|2954
+B|Uh, is there someone,|qy|2954
+B|do you all just sort of chip in and help out with stuff when you are there?|qy|2954
+B|Or,|%|2954
+A|Uh, yes.|ny|2954
+A|Yeah.|ny|2954
+A|My, my, uh, dad has a house out there anyway.|sd|2954
+B|And there is, there is, uh,|%|2954
+B|he keeps a uh, food out there, year round.|sd|2954
+A|Uh-huh.|b|2954
+B|So, so he does not live there though?|qy|2954
+A|Uh, no.|nn|2954
+A|It is, it is, it is like a country, country home.|sd|2954
+B|Vacation home.|bf|2954
+A|Uh-huh.|aa|2954
+B|Yeah.|b|2954
+B|It sounds nice. Uh,|ba|2954
+B|are there kids that are there too, or mostly adults?|qy|2954
+A|Yeah.|ny|2954
+A|The grandchildren.|sd|2954
+B|Uh-huh.|b|2954
+A|Just a few.|sd|2954
+A|It just depends,|sd|2954
+A|uh, uh, all my grandparents are dead so, uh, there is, there are not, you know, none of them are there.|sd|2954
+A|And, and, uh, then an uncle is dead.|sd|2954
+A|So the, the big family is a lot smaller that it used to be.|sd|2954
+B|Uh-huh.|b|2954
+B|Uh-huh.|b|2954
+B|Are you all located in Texas?|qy|2954
+A|Uh, yeah.|ny|2954
+A|We are in, we are all, uh,|%|2954
+A|like they live up in Sherman.|sd|2954
+A|It is near Lake Texoma.|sd|2954
+B|Uh-huh.|b|2954
+A|And,|%|2954
+B|Uh-huh.|b|2954
+B|Yeah.|b|2954
+A|uh, all of his children live in the Dallas area too.|sd|2954
+A|So,|%|2954
+B|Yeah.|b|2954
+B|That to me is,|%|2954
+B|yeah,|%|2954
+B|Dallas I know of,|sd|2954
+B|Houston I know of,|sd|2954
+B|and that is about it In Texas.|sd|2954
+A|Uh-huh.|b|2954
+B|The rest of it is sort of a big void to me.|sd|2954
+A|Yeah.|b|2954
+B|But, uh, you know, we have, uh, well,|%|2954
+B|we all got together,|sd|2954
+B|it was about two years ago for,|sd|2954
+B|I was,|%|2954
+B|I had graduated from college.|sd|2954
+B|And, uh, I was going to live in France for a year.|sd|2954
+B|And so my parents invited,|sd|2954
+B|it was not just family,|sd|2954
+B|it was friends too.|sd|2954
+B|But, uh, we all got together for just a party.|sd|2954
+B|And that was kind of fun.|sd|2954
+A|Uh-huh.|b|2954
+B|Nice to have everybody together at once and things like that.|sd|2954
+A|French reunion?|qy^d|2954
+B|Well, not quite French,|arp_nd|2954
+A|Yeah.|b|2954
+B|but, uh, it was sort of a reunion before leaving.|sd|2954
+B|It was fun.|sd|2954
+B|It was on, uh, New Year's Day.|sd|2954
+B|So it was almost a celebration of the new year too at the same time.|sd|2954
+A|Uh-huh.|b|2954
+B|Yeah.|b|2954
+B|It was kind of fun.|sd|2954
+B|But, uh, but who was it?|^h|2954
+B|A friend of mine had a big family reunion a couple of years ago|sd|2954
+B|and, you know, everybody flew in from all over the place for the weekend.|sd|2954
+B|And it really sounded like it was fun.|sd|2954
+B|But, I am not quite sure what I would do.|sd|2954
+B|I think it would be fun to like rent a big mansion or house someplace, and have everybody meet someplace where they do not really know. And have different areas to explore and things like that.|sd|2954
+A|Uh-huh.|b|2954
+A|Yeah.|b|2954
+B|So that would be kind of fun.|sd|2954
+B|Yep.|b|2954
+B|Where nobody lives|sd|2954
+A|Right.|b|2954
+B|But at least that way it is at nobody's house, so nobody one, no one person is responsible for everything.|sd|2954
+A|Yeah.|b|2954
+A|And they do not have to clean up afterwards.|sd|2954
+B|Yep.|b|2954
+A|Yeah.|b|2954
+B|That is for sure.|ba|2954
+B|The cleaning up can be a mess.|sv|2954
+A|Uh-huh.|b|2954
+B|But uh, do you have horses or anything at your dad's farm?|qy|2954
+A|I am, I am sorry?|br|2954
+B|Does, does your dad have horses there?|qy|2954
+A|Uh, no,|nn|2954
+A|he does not really have any, any, uh, uh, domestic livestock anyway.|sd|2954
+B|Uh-huh.|b|2954
+A|But, he leased, uh, to his neighbor for the cattle to feed on.|sd|2954
+B|I see,|bk|2954
+B|so it's,|%|2954
+B|so he really does use it as a vacation home.|qy^d|2954
+B|It is not like a farm that he has somebody else run for him or something like that.|sv|2954
+A|Yeah.|ny|2954
+A|Pretty much.|sd|2954
+A|He has a garden and, uh, a lot of fruit trees and blueberry bushes and things.|sd|2954
+B|Uh-huh.|b|2954
+B|Well, that sounds nice.|ba|2954
+B|Do people actually pick the fruit and things?|qy|2954
+A|Uh-huh.|ny|2954
+A|And then there is wild blackberries there too.|sd|2954
+B|Uh-huh.|b|2954
+A|So,|%|2954
+B|Yeah.|b|2954
+B|I, used to, we used to go pick wild blackberries at my friend's property,|sd|2954
+A|he gets,|%|2954
+B|but we never got enough.|sd|2954
+B|I used to make jam,|sd|2954
+B|but I never had enough to really make, you know, more than a jar or something.|sd|2954
+A|Huh.|b|2954
+B|So it was not so worth it.|sd|2954
+A|Yeah.|b|2954
+A|It is kind of, they're kind of off and on it seems like.|sd|2954
+B|Uh-huh.|b|2954
+A|Depends on the rain.|sd|2954
+B|That sounds,|ba|2954
+B|is,|%|2954
+B|does he have a lot of land to go walking around and things there?|qy|2954
+A|Uh,|%|2954
+A|it is, uh, it is, uh, eighty acres.|na|2954
+B|Well, that is pretty big|ba|2954
+A|Uh-huh.|b|2954
+B|I do not know how they do scale down there.|sd|2954
+B|You know, here it would be a huge amount of land.|sd|2954
+A|Yeah,|b|2954
+A|yeah.|b|2954
+B|Yeah.|b|2954
+B|Because they,|%|2954
+B|is|%|2954
+B|this house here that has a lot of space is three or four acres. As opposed to tens of acres.|sd|2954
+A|Yeah.|b|2954
+A|And, uh,|%|2954
+A|and most of it, you know,|%|2954
+A|you just spend time on maybe ten acres of it.|sd|2954
+B|Uh-huh.|b|2954
+A|And, uh, because that is where the ponds are and where everybody fishes.|sd|2954
+B|Uh-huh.|b|2954
+A|We kind of have a, an informal contest.|sd|2954
+A|My uncle, uh, put some bass in, uh, his pond a few years ago.|sd|2954
+A|Well, he put some crappie too.|sd|2954
+A|But the bass,|sd|2954
+A|we have not been able to catch any of the adult bass yet.|sd|2954
+A|So,|%|2954
+B|Uh-huh.|b|2954
+A|they are in there, but they are real spooky.|sd|2954
+B|Yeah.|b|2954
+B|I think my dad put some.|sd|2954
+B|We have a little pond at our, at his vacation home too.|sd|2954
+B|And,|%|2954
+B|I mean really little.|sd|2954
+A|Uh-huh.|b|2954
+B|And they were having problems with too many goldfish because we had put some goldfish in,|sd|2954
+B|and there were too many little goldfish,|sd|2954
+B|and so the big ones never got bigger.|sd|2954
+A|Oh, yeah.|b|2954
+B|And, uh, somebody suggested to get a bass.|sd|2954
+A|Uh-huh.|b|2954
+B|And so they went fishing and caught a bass near some place and put it in there and never saw it again|sd|2954
+A|Never saw the bass?|qy^d|2954
+B|No.|nn|2954
+A|Oh.|bk|2954
+B|So we do not know whether it is living|sd|2954
+B|or,|%|2954
+A|Oh, it is probably in there just burping goldfish.|sv|2954
+B|Yep.|aa|2954
+A|Yeah.|b|2954
+B|We still have lots of little goldfish.|sd|2954
+B|They propagate pretty well, those little fish.|sd|2954
+A|Yeah,|b|2954
+B|Yeah,|b|2954
+A|they really do.|sd|2954
+B|because we started,|%|2954
+B|we have got hundreds in there now,|sd|2954
+B|and we started with, I think, ten or twenty little feeder fish that I picked up for a dollar, you know, no matter how many it was for a dollar.|sd|2954
+A|Uh-huh.|b|2954
+B|And, and some of them are probably eight inches long.|sd|2954
+A|Uh-huh.|b|2954
+B|But he wants your really big ones, you know, the ones that get to be like a foot and a half long.|sd|2954
+A|Oh,|b|2954
+B|And,|%|2954
+A|yeah.|b|2954
+B|It,|%|2954
+A|They|%|2954
+A|there is a, uh,|%|2954
+A|you might put some, like some yellow catfish in there.|ad|2954
+A|I do not know if they would live very well up in New York,|sd|2954
+A|but they get huge.|sd|2954
+A|And, uh, they routinely use them for bait for, uh, goldfish for bait for yellow catfish.|sd|2954
+B|Oh, okay.|bk|2954
+B|Well, we would want to put some small ones in so they do not eat the big guys, the goldfish too|sd|2954
+A|Uh-huh.|b|2954
+B|But, yeah.|b|2954
+B|We could see.|sd|2954
+B|I do not know if yellow catfish live up this way.|sd|2954
+B|But catfish do, I think.|sd|2954
+A|Yeah.|b|2954
+A|They live in the Mississippi River all the way through Minnesota and up into Canada.|sd|2954
+B|Uh-huh.|b|2954
+B|So, that,|%|2954
+B|you mean,|%|2954
+B|well, we could try it.|sd|2954
+B|That is a good idea.|sv|2954
+A|Uh-huh.|b|2954
+B|Because he was trying to catch them, you know, using little, uh,|sd|2954
+B|I forget,|^h|2954
+B|there's little, uh, nets you can use to catch fish to use as feeder fish and things like that. Minnow nets or something.|sd|2954
+A|Uh-huh.|b|2954
+B|My father was taking those and trying to catch the goldfish.|sd|2954
+B|And it was really funny,|sd|2954
+B|because, uh, one time he left the net in the pond,|sd|2954
+B|and he like would put some tuna fish or things in the middle of it to attract the fish.|sd|2954
+B|And, uh, he left it in the middle of the pond|sd|2954
+B|And that night he came out, and the trap was gone.|sd|2954
+B|And it was a raccoon that had taken it.|sd|2954
+B|So it was really funny.|sd|2954
+B|And you could see that, you know,|sd|2954
+B|you could see where the trap, the trap was dragged and things like that.|sd|2954
+A|Uh-huh.|b|2954
+B|And so,|%|2954
+A|Yeah.|b|2954
+A|That is what happens|sd|2954
+B|But do you guys have fishing competitions while you are there?|qy|2954
+A|Yeah|ny|2954
+A|And, uh, we feed the catfish.|sd|2954
+A|They feed the catfish like, uh, every couple of weeks.|sd|2954
+A|And, uh, and sometimes that is the best time to catch them.|sd|2954
+A|Yeah.|ny|2954
+A|Because they will just, they will just come after anything then.|sd|2954
+B|Uh-huh.|b|2954
+A|And you could catch a couple anyway during that time.|sd|2954
+B|What do you feed them?|qw|2954
+A|Uh, mixed Purina, uh,|sd|2954
+A|it is, uh, cat food, uh, catfish food.|sd|2954
+B|Really?|bh|2954
+A|Yeah.|ny|2954
+B|And it is especially made for catfish.|qy^d|2954
+A|But,|%|2954
+A|Yeah.|ny|2954
+A|Well, I do not know how much different it is from dog food but, you know, it is, uh, it looks like Purina High Pro.|sd|2954
+B|Uh-huh.|b|2954
+A|Yeah.|b|2954
+B|That is funny.|ba|2954
+A|But they come up to the top.|sd|2954
+A|And it is the best time to take pictures,|sd|2954
+A|because they come up to the top, and you can see their whiskers come through the water.|sd|2954
+A|And they're,|%|2954
+B|Uh-huh.|b|2954
+A|the the big catfish just kind of vacuum the top of the water.|sd|2954
+B|Uh-huh.|b|2954
+B|I have never seen catfish, you know, except in filleted on a plate, I think maybe.|sd|2954
+B|I think I have seen once or twice in like the museum.|sd|2954
+A|Uh-huh.|b|2954
+B|But I have never seen them, just alive someplace.|sd|2954
+B|That would be fun to see.|sd|2954
+A|Well, they are really funny fish.|ba|2954
+B|Uh-huh.|b|2954
+A|When you catch them, they make a kind of a, a burping, growling sound at you.|sd|2954
+B|Uh-huh.|b|2954
+A|And they try to hit you with their tails.|sd|2954
+B|How big do they get?|qw|2954
+A|Oh, well, the channel catfish get up to, uh,|sd|2954
+A|I think the world record is fifty some pounds.|sd|2954
+A|Uh,|%|2954
+B|Do you know?|qy|2954
+A|that, that is only about three and a half feet long.|sd|2954
+B|That is pretty big though.|ba|2954
+A|Yeah,|b|2954
+B|Yeah.|b|2954
+A|they get real fat.|sd|2954
+B|Uh-huh.|b|2954
+A|Uh, from the time,|%|2954
+A|they, they stay slender until they get to be, uh, eighteen inches long, and then they start to widen out.|sd|2954
+B|Uh-huh.|b|2954
+A|Uh, my daughter, we were up there one time and my daughter was fishing|sd|2954
+A|And I think that was when she was three.|sd|2954
+A|And she caught a catfish by accident.|sd|2954
+A|She was fishing for sunfish.|sd|2954
+B|Uh-huh.|b|2954
+A|And she said, "Here," and she handed me her rod and reel|sd|2954
+A|And, and, uh, you know, it was just pulling drag out.|sd|2954
+B|Uh-huh.|b|2954
+A|And it swimmed wherever it wanted to.|sd|2954
+B|Yeah.|b|2954
+B|That sounds amazing.|ba|2954
+B|I will have to see them sometime.|oo_co_cc|2954
+B|But, all righty.|fo_o_fw_"_by_bc|2954
+A|Okay.|b|2954
+A|It was nice talking to you.|fc|2954
+B|Nice talking to you too.|fc|2954
+A|Okay.|fc|2954
+A|Bye-bye.|fc|2954
+B|Enjoy your, uh, weekend.|fc|2954
+A|Yeah.|fc|2954
+A|Have a nice Memorial weekend.|fc|2954
+B|Okay.|fc|2954
+B|You too.|fc|2954
+B|Bye-bye.|fc|2954
+A|Bye.|fc|2954

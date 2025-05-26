@@ -1,0 +1,100 @@
+A|Are, are we paying too much in taxes,|qy|3309|0
+A|and are we getting what we pay for?|qy|3309|0
+A|What's your opinion?|qo|3309|0
+B|Well, it's kind of a broad subject, uh,|sv|3309|1
+B|I, I think there are some areas where we, where we, uh, pretty well, you know, get our money's worth,|sv|3309|1
+B|but I, I also think there are a lot of areas especially in, uh, big government, federal government, uh, where we're short changed. Uh, lot of money spent for, uh, things that are not used|sv|3309|1
+B|and, uh, I was, I was in the Air Force|sd|3309|1
+B|and I was at, there were, there was equipment at every base I was ever on that was just going to waste.|sd|3309|1
+B|It was just sitting and rusting|sd|3309|1
+B|and, you know, and|%|3309|1
+A|Okay.|b|3309|0
+A|I, I tend to agree with you.|sd|3309|0
+A|When it comes to government spending, there are so many studies done that don't mean anything|sv|3309|0
+B|Yeah.|b|3309|1
+A|but we'll spend hundreds of thousands, if not millions, of dollars on.|sv|3309|0
+B|Yeah.|b|3309|1
+A|And it's nice to know something doesn't work or something doesn't exist,|sv|3309|0
+A|but, it could be put to more practical use.|sv|3309|0
+B|Yeah,|aa|3309|1
+B|and I, I think that, uh, it's a, a tone of our times that politicians, uh, are into themselves more than they are into, you know, doing something worthwhile for the people they represent, which is really unfortunate.|sv|3309|1
+A|That is true.|aa|3309|0
+A|I agree with you in that area.|aa|3309|0
+A|Uh, I have a tendency to,|%|3309|0
+A|I'm in, from Texas|sd|3309|0
+A|and I read, you know, how our politicians voted each week in the paper.|sd|3309|0
+B|Yeah.|b|3309|1
+A|And it's, you know, it's interesting how the votes vary|sv|3309|0
+A|and what they ran on in platform don't necessarily come true in their voting in the senate or Congress, whatever.|sv|3309|0
+B|Uh-huh.|b|3309|1
+B|And don't really respond to, uh, people who write them and call them|sv|3309|1
+B|and, uh, you know, unless they're in the limelight and under pressure|sv|3309|1
+B|So,|%|3309|1
+B|yeah,|%|3309|1
+B|I think we get short changed on that.|sv|3309|1
+A|Right,|aa|3309|0
+A|that's very true.|aa|3309|0
+A|What, what state do you live in?|qw|3309|0
+B|Texas.|sd|3309|1
+A|Okay.|bk|3309|0
+B|That's,|%|3309|1
+A|What do you think about Robin Hood?|qo|3309|0
+B|Well I work for school district|sd|3309|1
+B|and, uh, it's, it has hurt us a lot.|sd|3309|1
+B|Uh, there has to be some way, I think, to equalize education opportunities.|sv|3309|1
+B|But, uh, you know, our, we, we tend to think, I think, especially big government, tends to think that the solution to everything is to throw money at it.|sv|3309|1
+B|And I don't, you know,|sd|3309|1
+B|that's just not true.|sv|3309|1
+B|I don't think the, you know, I don't think money is going to take the place of intelligence or, uh, problem solving skills.|sv|3309|1
+B|Uh, I think there are, there are too many things that money can't uh, that, that money can't buy that, that are important as far as education is concerned.|sv|3309|1
+A|That's true.|aa|3309|0
+A|What school district do you work for?|qw|3309|0
+B|Richardson.|sd|3309|1
+A|Okay.|bk|3309|0
+A|I work for Plano.|sd|3309|0
+B|Oh.|b|3309|1
+B|Great,|ba|3309|1
+A|So, we're comparable.|sv|3309|0
+B|Yeah.|aa|3309|1
+A|As a matter of fact, I just paid my Richardson taxes because I live in Richardson and supplemented the Robin Hoods very thoroughly, I think.|sd|3309|0
+B|Yeah,|b|3309|1
+B|I think we've, uh, Yeah, we have got it on the line don't we.|sv|3309|1
+A|Our taxes went up tremendously.|sv|3309|0
+A|Yes.|aa|3309|0
+B|And it's not going to get any better.|sv|3309|1
+B|you know, I mean, it's going up and up and up.|sv|3309|1
+B|Uh, I used to live in the Plano school district,|sd|3309|1
+B|and, uh, there was a, an organization, a taxpayers organization that, uh, finally communicated the message to the, I think to the people in Plano that, you know, we didn't want our taxes raised.|sd|3309|1
+A|Yes,|b|3309|0
+A|I remember there was about four, five years ago.|sd|3309|0
+B|Yeah.|b|3309|1
+A|Yes.|b|3309|0
+B|But, this, you know, this, uh,|%|3309|1
+B|I think living in Richardson, we're kind of spoiled because I think we get, we come closer to getting our money's worth as far as the city is concerned, I think than probably any, any city in the country.|sv|3309|1
+A|Yes,|aa|3309|0
+A|well, did you read in the Dallas paper where they increased the the administrators' pay by thirty three percent after they laid off all those teachers.|qy|3309|0
+B|Is that incredible?|bh|3309|1
+B|That's, that's the biggest mess I've ever heard of.|sd|3309|1
+B|You know, how can you, how can you justify raising anybody's salary if you, you know, if you have to lay people off?|qh|3309|1
+A|Right.|aa|3309|0
+A|But, you know, I'm not going to complain because Plano got, we all got a pay raise this year.|sd|3309|0
+B|Yeah.|b|3309|1
+A|You all got a pay raise this year.|qy^d|3309|0
+B|Yeah.|ny|3309|1
+A|Is that correct?|qy|3309|0
+B|Well, yeah, I think the teachers uh, did,|na|3309|1
+B|and I don't know about administrators.|sd|3309|1
+B|I, I'm semiretired|sd|3309|1
+B|and I was, I was an administrator,|sd|3309|1
+B|so I, you know, I don't get a raise anymore.|sd|3309|1
+B|I just, I, I work part-time and just get, uh, you know,|sd|3309|1
+A|Okay|bk|3309|0
+B|my pay doesn't change.|sd|3309|1
+A|Are you on the early retirement?|qy|3309|0
+B|Yes.|ny|3309|1
+A|Oh, are you enjoying it?|qy|3309|0
+B|Yes,|ny|3309|1
+B|very much.|sd|3309|1
+B|Uh, course, I, I still work two part-time jobs|sd|3309|1
+B|So, it's not really total retirement.|sd|3309|1
+A|Well, it's interesting, you know, because when you look at what Richardson has done with the early retirement you,|sv|3309|0

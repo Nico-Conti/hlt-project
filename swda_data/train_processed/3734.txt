@@ -1,0 +1,179 @@
+A|Okay,|fo_o_fw_"_by_bc|3734
+A|uh, clothing at work.|sd|3734
+A|Um, I work as a news reporter,|sd|3734
+A|and  a lot of,|%|3734
+B|Oh.|b|3734
+A|I work in a, since I work in a small station,|sd|3734
+A|this is my first job|sd|3734
+B|Uh-huh.|b|3734
+A|and so, I dress very variedly if that's a word.|sd|3734
+A|Um, sometimes I'm shooting and doing photography,|sd|3734
+A|and so I'll be in jeans one day,|sd|3734
+A|and another day I'll be on camera,|sd|3734
+B|Uh-huh.|b|3734
+A|and so I'll be in a suit|sd|3734
+A|and another day I'll come in|sd|3734
+A|and I won't know what I'm doing,|sd|3734
+A|so I'll wear a pant suit in case I have to shoot.|sd|3734
+B|Yeah,|b|3734
+B|uh.|b|3734
+B|Oh.|b|3734
+A|So, it really varies.|sd|3734
+A|I try to dress very comfortably.|sd|3734
+A|I don't really like dressing up at all.|sd|3734
+B|Oh, me neither|sd|3734
+A|I don't, I don't wear a lot of makeup or anything like that.|sd|3734
+B|Yeah.|b|3734
+A|I just,|%|3734
+A|I don't know,|h|3734
+A|it just, it takes too much time out of my day,|sd|3734
+A|and I don't, I don't know|h|3734
+B|Yeah,|b|3734
+B|same here.|sd|3734
+B|I don't mind not wearing any makeup|sd|3734
+A|Yeah,|b|3734
+A|I don't mind it at all. Um.|sd|3734
+B|Um, I work at a bakery because I'm a, still a, a college student. Um.|sd|3734
+A|Uh-huh.|b|3734
+A|Okay.|b|3734
+B|But, we, we have to wear white pants and, um, any color T shirt, as long as it's not like a bright color, like a pastel.|sd|3734
+A|White pants in a bakery.|qy^d|3734
+B|Yeah.|ny|3734
+A|Wow.|ba|3734
+B|Yeah,|ny|3734
+B|the bakers wear all white|sd|3734
+A|Okay.|bk|3734
+B|And we wear aprons and have to pull our hair back|sd|3734
+B|and so.|%|3734
+A|What's the name of the bakery?|qw|3734
+A|Oh, Italian I guess.|qy^d|3734
+B|Yeah|ny|3734
+B|it's Italian bakery.|sd|3734
+B|And, uh, so, I don't mind having, having to wear a uniform, because I don't have to buy, you know right, as you know, many clothes.|sd|3734
+A|New clothes and stuff.|^2|3734
+A|Yeah,|b|3734
+A|that's one thing I would like, is just to sort of have, I really don't like uniforms but, just to have something I don't have to get up and decide what to wear.|sd|3734
+B|Oh, yeah.|b|3734
+B|Yeah.|b|3734
+A|That just bugs me to death.|sd|3734
+B|I know|aa|3734
+B|I do that every day for school|sd|3734
+A|Oh, yeah.|b|3734
+B|Yeah,|b^m|3734
+B|but I, I like to wear comfortable things like cotton and baggy things and.|sd|3734
+A|Sweats and.|qy^d|3734
+B|Yeah.|ny|3734
+A|Yeah,|b^m|3734
+A|when I was in school, I was a sweat monster.|sd|3734
+B|Yeah|b|3734
+A|All I had was sweats,|sd|3734
+A|and when it was time to go out, I didn't have anything to wear.|sd|3734
+B|Yeah,|aa|3734
+B|I know,|aa|3734
+B|I don't have very many dress clothes|sd|3734
+B|but I don't mind,|sd|3734
+A|Yeah.|b|3734
+B|I don't need them yet|sd|3734
+A|Yeah.|b|3734
+B|Um.|b|3734
+A|Um, let me see.|^h|3734
+A|I hate shoes.|sd|3734
+A|If I didn't have to have shoes, I wouldn't have them.|sd|3734
+B|Oh, really.|b|3734
+A|I just, oh, my feet bother me,|sd|3734
+A|and they're just tedious|sd|3734
+B|Oh.|b|3734
+A|to go find shoes for me, it's just,|sd|3734
+A|I don't know.|h|3734
+A|I wear size nine|sd|3734
+B|Oh.|b|3734
+A|and it, I don't know if just the shoes I get, I either don't like them or they don't fit right,|sd|3734
+A|and I just wish that I could just go without them.|sd|3734
+B|Um.|b|3734
+B|Oh, wow, I love shoes.|sd|3734
+A|Oh, really.|b|3734
+B|I always buy shoes|sd|3734
+A|Oh.|b|3734
+B|Yeah.|b|3734
+A|Just the opposite.|sd|3734
+A|But, um, let's see,|^h|3734
+A|what else do I wear?|t1|3734
+A|Um, if I were in a bigger market, when I do get into a bigger market, I'll probably go out and buy a bunch of suits and things, and, uh, where I wouldn't have to shoot and do a lot of other things|sd|3734
+A|and I could  then I would be able to dress more business-like and things like that,|sd|3734
+B|Uh-huh.|b|3734
+A|but we're all kind of just out of school at this station,|sd|3734
+B|Yeah.|b|3734
+A|and so we're all, you know, still in sweats, really.|sd|3734
+B|Oh.|b|3734
+A|So, it's pretty fun though.|sd|3734
+B|I like the look, the, the like suit look, professional like, you know, look,|sd|3734
+B|but I, I really don't have much of an opportunity to wear it|sd|3734
+A|Yeah.|b|3734
+B|Um  I'm going to be a teacher,|sd|3734
+A|I.|%|3734
+B|so I'll probably just wear casual clothes, maybe skirts and some.|sd|3734
+A|Oh.|b|3734
+A|Yeah.|b|3734
+A|I like this, the, uh, suits with the,|sd|3734
+A|they come like with a mini type skirt you know, and the jacket.|sd|3734
+B|Oh, yeah.|b|3734
+A|I like that,|sd|3734
+A|but but I'm pretty short,|sd|3734
+B|Yeah,|b|3734
+B|that is cute.|sv|3734
+A|I'm five four,|sd|3734
+A|and so that really doesn't flatter me,|sd|3734
+A|but I think it looks good on taller people.|sd|3734
+B|Yeah.|b|3734
+B|I'm five three|sd|3734
+B|and|%|3734
+A|Are you?|bh|3734
+B|Yeah.|ny|3734
+A|Yeah,|b^m|3734
+A|any time I go to the store,|sd|3734
+A|I mean, I, I have like two pairs of pants, because I can never find any that are short enough for me|sd|3734
+B|Oh, really?|bh|3734
+A|and it's just, oh, ridiculous.|sd|3734
+A|Pants, too, I could do without those.|sd|3734
+B|Oh.|b|3734
+A|Pants, shoes.|sd|3734
+B|I like the like stretch pants, the cotton ones.|sd|3734
+A|Yeah,|b|3734
+A|those are nice.|sv|3734
+B|They're really comfortable.|sv|3734
+A|Those are nice.|sv|3734
+B|With a baggy sweatshirt.|sv|3734
+A|Yeah,|b|3734
+A|those are nice.|sv|3734
+A|And, tennis shoes.|sv|3734
+A|My boyfriend's got me these L A Gear.|sd|3734
+A|They're kind of big and hefty tennis shoes.|sd|3734
+B|Oh, yeah.|b|3734
+A|And it, it's just like a chore to pick up my feet. Because I'm used to wearing the little white girl tennis shoes.|sd|3734
+B|Oh|b|3734
+B|Oh, yeah|b|3734
+A|The little ones.|sd|3734
+B|I have a pair of those.|sd|3734
+A|Yeah.|b|3734
+B|Yeah.|b^m|3734
+A|And I'm used to those.|sd|3734
+A|They're just sort of, you know,|%|3734
+A|like your feet|%|3734
+B|Yeah.|b|3734
+A|I mean, you don't feel them.|sd|3734
+A|You put these things on,|sd|3734
+A|it's, it's, you know, like exercise or something for your feet.|sd|3734
+A|And I have to wear them because he gets upset if I don't.|sd|3734
+A|So so, so how do people in Wisconsin dress?|qo|3734
+B|Oh, yeah|b|3734
+B|Warm this time  this time, of the year pretty warm.|sd|3734
+A|Warm.|b^m|3734
+B|Sweaters and.|sd|3734
+A|I grew up in New York,|sd|3734
+A|and so I know what warm is.|sd|3734
+A|Like five pairs of socks and,|sv|3734
+B|Yeah.|b|3734
+A|Yeah.|b^m|3734
+B|Yeah,|b^m|3734
+B|sleeping in sweats or long underwear.|sv|3734
+B|My parents keep the house cold|sd|3734

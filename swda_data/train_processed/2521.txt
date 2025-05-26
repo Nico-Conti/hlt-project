@@ -1,0 +1,302 @@
+A|Okay.|fo_o_fw_"_by_bc|2521
+B|So, who is your favorite football team?|qw|2521
+A|Guess.|ad|2521
+A|I bet you can't guess|sv|2521
+B|Well, I would say the Saints after , since ,|sv|2521
+A|You got it.|aa|2521
+A|And I want to tell you something.|oo_co_cc|2521
+B|What's that?|qw|2521
+A|They're going to go somewhere pretty shortly.|sv|2521
+B|Yeah?|bh|2521
+A|Yeah.|ny|2521
+A|I think they are because they're getting better every year.|sv|2521
+B|Yeah.|b|2521
+A|And, uh, they, got a lot,|sv|2521
+B|Can't, call them the New Orleans Ain'ts any more.|sv|2521
+A|I don't think so.|aa|2521
+B|No.|aa|2521
+A|We went to the playoffs.|sd|2521
+B|Yeah.|b|2521
+A|Yeah|b|2521
+B|Well, I'm a, I'm a Buffalo Bills fan. from a, from a long time ago.|sd|2521
+A|Yeah,|b|2521
+A|now I like them, too.|sd|2521
+B|So, it's good to, it's good to see the Bills doing so well now|sd|2521
+B|and,|%|2521
+A|They are.|sd|2521
+A|They are doing a whole bunch better.|sd|2521
+A|Who's, their quarterback?|qw|2521
+B|Yeah.|b|2521
+B|What's that?|br|2521
+A|Who's their quarterback?|qw|2521
+B|Uh, Jim Kelly.|sd|2521
+A|Yeah.|b|2521
+A|Yeah.|b|2521
+A|I like to watch them, too.|sd|2521
+A|They're the,|%|2521
+A|I like to watch almost all the football|sd|2521
+A|but, um, of course, I watch every Saints game that I can watch.|sd|2521
+B|Uh-huh.|b|2521
+A|But I think they're going to, I think they're really going to do good because it seems like they're finally all coming together.|sv|2521
+B|Yeah.|b|2521
+A|If they would just quit blowing it.|sd|2521
+B|Well, the,|%|2521
+B|it,|%|2521
+B|the, the N F L draft really seems to be doing its job|sv|2521
+B|because, got teams like, like Buffalo who weren't, certainly weren't a powerhouse, uh, ten years ago.|sd|2521
+B|Now, they've been able to get some good players and come around|sv|2521
+B|and|%|2521
+B|New Orleans the same story|%|2521
+B|and, uh, a few years ago Denver was a powerhouse|sd|2521
+B|and then they, uh, they weren't getting the draft picks|sv|2521
+B|and now the, uh, other team,|%|2521
+B|so it seems to be, uh, moving around and, uh, to, to New Orleans' benefit,|sv|2521
+A|Yeah.|b|2521
+B|and, uh, you see how,|%|2521
+B|look at the Cowboys now And, uh,|ad|2521
+A|Uh-huh.|b|2521
+A|Really bad.|ba|2521
+B|Yeah.|b|2521
+A|But they got so much bad publicity, too.|sd|2521
+A|And I think that hurt a lot of, you know, people even wanting to play on their team.|sv|2521
+B|Yeah.|b|2521
+B|well, yeah.|b|2521
+B|Uh, firing Tom Landry and hiring Jimmy Johnson|sd|2521
+B|what, what kind of, uh, uh,|%|2521
+B|doesn't give you much respect for their team at all.|sv|2521
+B|Any any team that, where the owner would fire Tom Landry, you know, is like one of the greatest coaches of all time.|sv|2521
+A|Right.|aa|2521
+A|Right.|aa|2521
+B|And just because they had, had a couple of bad seasons.|sv|2521
+B|And you can't even attribute those bad seasons to bad coaching.|sv|2521
+A|Yeah.|aa|2521
+A|Yeah.|aa|2521
+A|Because all the problems,|%|2521
+A|I mean, if you think about those years that we had the losing season, of how bad,|sd|2521
+A|I mean his players were constantly getting kicked off the team because of drugs, because of, uh, you know, messing with young children|sd|2521
+B|Right.|aa|2521
+A|and, I mean, it was just one thing it seemed like right after the other, with them.|sd|2521
+B|Right.|aa|2521
+B|And he|%|2521
+B|and, uh, had a lot of trouble with injuries, too.|sd|2521
+A|Yeah.|b|2521
+B|You know, he'd, uh, never seem to be able to keep his guys healthy.|sv|2521
+B|And then even like, uh, what is it, Eric Dickerson left, the team, you know,|sd|2521
+A|Uh-huh.|b|2521
+B|you're right.|aa|2521
+B|You know, like people were jumping ship right and left.|sv|2521
+A|Right.|aa|2521
+B|And, I don't know,|h|2521
+B|that sounds to me more like the front office problem than coaching problem,|sv|2521
+B|but then the team was sold.|sd|2521
+A|Yeah.|b|2521
+B|So,|%|2521
+A|But, uh, that Jimmy Johnson came in, too, though,|sd|2521
+A|and he just, you know,|%|2521
+A|when he bought the team and all and it just seemed like he just decided, you know, this is the way it's going to be|sv|2521
+A|and it was bad.|sv|2521
+B|Yeah.|b|2521
+A|I mean, it really was.|sv|2521
+A|To me it was like it's going to take them quite a while to rebuild|sv|2521
+A|because everything, I mean anything that Tom Landry wanted or had, he was going to change it.|sv|2521
+B|Right.|b|2521
+A|I mean it's,|%|2521
+A|I mean, you know, that's the way I felt about it.|sd|2521
+A|But, I tell you what,|fo_o_fw_"_by_bc|2521
+B|Well, Yeah.|b|2521
+A|if New Orleans ever gets a quarterback isn't nobody going to beat us|sv|2521
+A|There ain't nobody going to beat us then.|sv|2521
+A|Because look how good we did without a quarterback this year|sv|2521
+B|I know.|aa|2521
+B|Who was the quarterback?|qw|2521
+A|Well,  They,  had quite a few quarterbacks if you think about it. Uh,|sd|2521
+B|See, I can't even think of who the New Orleans quarterback,  is.|sd|2521
+A|Fourcade was for a while.|sd|2521
+A|And then, um, I can't remember that guy's name, the one that held out for the money|sd|2521
+A|and he was across the river|sd|2521
+A|Uh, I can't think of the, I can't think of his name now,|sd|2521
+A|but really we didn't have a quarterback.|sd|2521
+A|That,  was the whole problem.|sv|2521
+B|Yeah.|b|2521
+A|We had one guy that couldn't throw|sd|2521
+A|and we had one guy that couldn't run.|sd|2521
+B|Huh.|b|2521
+A|And, it was, it was just bedlam.|sv|2521
+A|We really didn't have a quarterback.|sd|2521
+A|It was, uh, defense won all the games.|sv|2521
+B|Did they, were they able to draft anybody this year?|qy|2521
+A|I don't know|no|2521
+A|because, you know, they gave away a lot of their drafts. For different people for, you know, other places.|sd|2521
+B|Uh-huh.|b|2521
+B|Right.|b|2521
+A|So, I don't know.|no|2521
+A|I hadn't heard, you know, whether they have a new one or not.|sd|2521
+B|Well, when is the, N F L draft|qw|2521
+A|But, uh,|%|2521
+B|hasn't, has the N F L draft even gone yet?|qy|2521
+A|Uh-huh.|nn|2521
+A|Not yet.|sd|2521
+A|But, I mean, I don't know whether they have one of the first, you know, choices of somebody,|sd|2521
+B|Right.|b|2521
+B|Right.|b|2521
+A|that would be real good.|sv|2521
+B|Well, they've,|%|2521
+B|yeah,|b|2521
+B|they've,|%|2521
+A|I mean,|%|2521
+A|everybody gets in draft.|sd|2521
+B|Sure.|b|2521
+A|But, I don't know whether they'll be far enough up where they can do any good.|sd|2521
+B|Right.|b|2521
+A|But, uh,|%|2521
+B|Or even making the playoffs|sd|2521
+B|so that doesn't, doesn't help you in the draft.|sv|2521
+A|Right.|b|2521
+A|But we, really, I mean, really and truly we just don't have a quarterback,|sv|2521
+B|Yeah.|b|2521
+B|Yeah.|b|2521
+A|that's all there is to it.|sv|2521
+A|But, the players and stuff, they finally quit giving away the really good players and started keeping them too.|sd|2521
+B|Uh-huh.|b|2521
+A|Because we had some,|%|2521
+A|you remember when Archie Manning was a quarterback?|qy|2521
+B|That was a few years ago.|na|2521
+A|Yeah.|b|2521
+A|Well, he was good.|sv|2521
+A|But we, every time we'd get a real good player they'd treat him bad.|sv|2521
+B|Uh-huh.|b|2521
+A|And, of course, we had a different coach then, too.|sd|2521
+A|But they'd treat him bad Or either they'd trade him off to somebody else for two of these nobodies. *sd|sv|2521
+B|Uh-huh.|b|2521
+B|Right.|b|2521
+A|And it was weird.|sv|2521
+A|It was like they were trying, if you were good, boy , let's don't have you on our team, you know.|sv|2521
+A|But, um, this year they had all good players except for the quarterback.|sv|2521
+B|Yeah.|b|2521
+A|The quarterback, all of them, every one that they played,|%|2521
+A|I think they played, uh,|%|2521
+A|I can't remember whether we played three or four quarterbacks,|sd|2521
+A|but all of them were bad.|sv|2521
+B|Huh.|b|2521
+A|I mean, they were terrible.|sv|2521
+A|They could not pitch.|sv|2521
+A|You know, they couldn't even take handoffs.|sv|2521
+A|It was, terrible|sv|2521
+B|Right.|b|2521
+A|But, uh, all the other places, I mean, our defense was unbelievable.|sv|2521
+B|Oh, that's one, it's one thing,|%|2521
+B|Yeah.|b|2521
+B|Buffalo's,  lucky though to have, uh, Jim Kelly than,|sv|2521
+A|Did you get to watch any of their games?|qy|2521
+B|now he's the number one rated quarterback in the N F L. I think,|sd|2521
+A|Yeah.|b|2521
+B|I'm pretty sure he was this past season.|sd|2521
+B|And, uh, then with, uh, uh, the defense, with Bruce Bruce Smith there at linebacker there, they've got a very well rounded team|sv|2521
+B|and it seems that they've gotten over their bickering and their fighting as they, problems they had in the past|sv|2521
+B|and now they're, uh, really playing as a, good together as a team.|sv|2521
+A|Yeah.|b|2521
+B|So,|%|2521
+A|Um. Do you watch it every Sunday?|qy|2521
+B|Uh, when I can.|no|2521
+B|I'm a, I'm a musician|sd|2521
+B|and, uh, the band I play in, uh, I,|%|2521
+B|this is just something on the side|sd|2521
+B|and, uh, the band I play in, we tend to rehearse quite a bit on Sundays.|sd|2521
+B|So I missed a lot of Sundays during this,|sd|2521
+A|Um.|b|2521
+A|Did you ever get to watch any of the, uh, New Orleans games? Um. *b|qy|2521
+B|I, I'd have to confess I don't really scope out the New Orleans games, per se.|sd|2521
+B|New Orleans just isn't, isn't one of the areas,|sd|2521
+B|I've lived in so many places.|sd|2521
+B|I've lived in, uh, Denver|sd|2521
+B|but I don't like the Broncos.|sd|2521
+B|There's, no love for the Broncos.|sd|2521
+B|But, I've lived in, uh, uh,|sd|2521
+A|No.|b|2521
+B|I was born in Buffalo|sd|2521
+B|and I lived in, uh, outside of Boston for five years|sd|2521
+B|and then my family lives in Philadelphia now|sd|2521
+B|and, uh, so I tend to look for, uh, uh,|sd|2521
+A|Teams in your area.|^2|2521
+B|and I lived in Detroit, too.|sd|2521
+B|So I like, uh,|%|2521
+B|first of all, first and foremost the Bills games I want to see.|sd|2521
+B|And then I'll, uh, normally check out the Eagles or the Patriots|sd|2521
+B|and, Patriots were so depressing this last year that yeah, that, uh, I kind of gave up on them.|sd|2521
+A|I know it|aa|2521
+A|Yeah.|b|2521
+A|Yeah.|b|2521
+B|But, uh, first and foremost the Bills.|sd|2521
+B|I even|%|2521
+B|I went to, got to go to a Bills game this year, which was fun.|sd|2521
+B|It was the, the Bills, Eagles game, which appropriately enough fortunately, the Bills won.|sd|2521
+A|Oh,|b|2521
+A|that's neat.|ba|2521
+A|Yeah.|b|2521
+B|And it was good weather.|sd|2521
+A|Yes.|b|2521
+B|We beat Buffalo in, in, uh, was it third of December?|qy|2521
+B|And, it was sunny and forty-five degrees.|sd|2521
+A|Oh, my goodness.|ba|2521
+B|So, we couldn't a done much better than that in Buffalo|sd|2521
+A|No.|aa|2521
+A|Because usually it's snowing|sd|2521
+B|Yeah.|b|2521
+A|Ice and rain and everything.|sd|2521
+B|Sure.|b|2521
+A|But, I tell you what,|fo_o_fw_"_by_bc|2521
+A|if you get to watch some of these,|%|2521
+A|now I don't know how it will be this year, you know,|h|2521
+A|but, I mean, these games go right down to the wire.|sd|2521
+B|Uh-huh.|b|2521
+A|It was like I was sitting on the edge of my chair, you know, going oh, no, no.|sd|2521
+A|And one, uh,|%|2521
+A|I can't remember.|sd|2521
+A|It was about, uh,|%|2521
+A|it was right close to when we was going to find out if we was going to get to be in the playoffs, or not|sd|2521
+B|Uh-huh.|b|2521
+A|So, we're watching the game.|sd|2521
+A|All right.|^h|2521
+A|The other team got the ball|sd|2521
+A|and we had like, no, we got the ball back.|sd|2521
+A|That's the way it was.|sd|2521
+A|And they had to kick. And, uh, to know whether we were going to win the game or lose a game because they got one point ahead of us.|sd|2521
+B|Uh-huh.|b|2521
+A|So we had to sit there, you know,|sd|2521
+A|and they cut the show off and started showing us another football game.|sd|2521
+A|We did not get to see the end of the game.|sd|2521
+A|You talk about people calling in.|sd|2521
+B|Oh, my gosh.|ba|2521
+A|It was wild.|sd|2521
+A|I mean, here everybody is sitting on the edge of their chair, you know,|sd|2521
+B|Sure,|ba|2521
+B|and then they changed the game.|^2|2521
+A|and they changed it and gave us another game in the middle of another, you know, one that was going on.|sd|2521
+B|Right.|ba|2521
+A|Cut us off right there the last few seconds.|sd|2521
+A|The station finally, you know how they'll put the little message down at the bottom. Started telling everybody that they were not the ones that had cut that off, that it was the national, you know,|sd|2521
+B|Right.|b|2521
+B|Right.|b|2521
+B|It was the network.|fo_o_fw_"_by_bc|2521
+A|Uh-huh.|b|2521
+A|because it was funny.|sv|2521
+A|I mean everybody was furious.|sd|2521
+A|I was so mad I got up and went and called, you know,|sd|2521
+A|I couldn't believe that.|sd|2521
+A|But, almost every game that I watched it would come right down to the end,|sd|2521
+A|we would be ahead, you know,|sd|2521
+A|but then at the in the fourth quarter they'd let them get up there either with them or, you know, right ahead of them.|sd|2521
+B|Right.|b|2521
+A|And it'd come right down to the end|sd|2521
+A|and either we made it or we didn't.|sd|2521
+A|Oh, and it was, it was something else.|sd|2521
+A|I said this is the most,|sd|2521
+A|if we had a quarterback this year we would have went to the Super Bowl.|sv|2521
+B|Yeah.|b|2521
+A|There's no question about it, because everybody was playing good together except the quarterbacks.|sv|2521
+A|And the quarterbacks just didn't do anything.|sv|2521
+B|Yeah.|b|2521
+B|Well, that's the, that's the guy that counts|sd|2521
+A|Yes.|aa|2521
+A|But, maybe we, maybe we'll get your guy.|sv|2521
+B|Oh, I, I don't think Jim Kelly is about to be swayed away from the Bills any time.|sv|2521

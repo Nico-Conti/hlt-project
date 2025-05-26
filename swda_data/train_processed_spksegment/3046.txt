@@ -1,0 +1,305 @@
+A|Good morning.|fp|3046|0
+B|Hi.|fp|3046|1
+A|My name is Jean.|fp|3046|0
+B|I'm Tina.|fp|3046|1
+A|Oh, where you from Tina?|qw|3046|0
+B|I live in Garland, Texas.|sd|3046|1
+A|Oh, Garland, Texas,|bk|3046|0
+A|I'm in Pennsylvania.|sd|3046|0
+B|Oh, my lands, you're the farthest person I've ever talked to.|sd|3046|1
+A|Really?|bh|3046|0
+B|Yeah.|ny|3046|1
+A|Do you work for Texas Instruments?|qy|3046|0
+B|My husband does.|ng|3046|1
+A|Uh-huh.|b|3046|0
+B|Yeah.|b|3046|1
+B|Probably most people you talk to do, huh?|qy|3046|1
+A|Most of them do.|na|3046|0
+A|Now, I don't have anybody that works for T I,|sd|3046|0
+A|but, uh my son works for a computer company, the National Institute of something,|sd|3046|0
+B|Huh.|b|3046|1
+A|I don't know what|sd|3046|0
+B|I see,|b|3046|1
+B|well that's neat.|ba|3046|1
+A|So, I guess we're supposed to talk about foods today.|sd|3046|0
+B|Yeah,|aa|3046|1
+B|I guess you have to push one, though.|ad|3046|1
+A|Yes,|aa|3046|0
+A|uh-huh.|aa|3046|0
+B|Okay.|b|3046|1
+A|You ready?|qy|3046|0
+B|Yeah.|ny|3046|1
+A|Okay.|bk|3046|0
+A|Uh, foods like you would for a dinner party or something like that.|sd|3046|0
+B|Yeah,|b|3046|1
+B|I guess so,|^h|3046|1
+B|it may be interesting, because probably here in Texas, we may eat a little differently than you do up there|qy^d|3046|1
+A|Well, I don't know,|arp_nd|3046|0
+A|my brother lives down East of us down there,|sd|3046|0
+A|and I don't think they ate all that much different|sd|3046|0
+B|Oh, really.|b|3046|1
+A|Uh, I think as long as you plan your basic foods,|sv|3046|0
+A|course, for a dinner party, you fancy things up a little bit more.|sv|3046|0
+B|Yeah,|aa|3046|1
+B|that's true.|aa|3046|1
+A|Uh.|b|3046|0
+B|Well, uh, the thing that I found interesting,|sd|3046|1
+B|my husband and I lived up in Washington State for awhile|sd|3046|1
+A|Uh-huh,|b|3046|0
+A|uh-huh.|b|3046|0
+B|and up there, of course they ate a lot of sea food, and that kind of thing,|sd|3046|1
+A|Oh, uh-huh.|b|3046|0
+B|and down here, sea food is pretty expensive, because, you have to ship it a long way to get it|sv|3046|1
+A|Right.|b|3046|0
+A|Yeah,|aa|3046|0
+A|and it's not as good as if it's fresh.|sv|3046|0
+B|Right,|aa|3046|1
+B|and, and, uh, and, but here, we eat a lot of like Mexican foods,|sd|3046|1
+A|Uh-huh.|b|3046|0
+B|and, um, up there there was no, no place that we went tasted like real Mexican food to me.|sd|3046|1
+A|Is that right?|bh|3046|0
+B|Yeah,|ny|3046|1
+B|it tasted like they were trying to do the best they could,|sd|3046|1
+B|but it just, didn't taste right.|sd|3046|1
+A|Yeah,|b|3046|0
+A|well, they probably were trying to do the best they could.|aa|3046|0
+B|Yeah.|b|3046|1
+A|Yeah.|b^m|3046|0
+B|and, uh, down here, we eat a lot more fried foods, I think.|sd|3046|1
+A|Uh-huh.|b|3046|0
+B|Like chicken fried steak, is a real big thing.|sd|3046|1
+A|Uh-huh.|b|3046|0
+A|Uh-huh.|b|3046|0
+B|Up there, uh, it was hardly ever heard of|sd|3046|1
+B|and, we drink ice tea with every meal,|sd|3046|1
+A|Uh-huh.|b|3046|0
+A|Uh-huh.|b|3046|0
+B|and up there hardly anyone drank ice tea|sd|3046|1
+A|Yeah,|b|3046|0
+A|well they do in the summertime,|sv|3046|0
+A|I think that tea is big in the summertime mostly.|sv|3046|0
+B|Really?|bh|3046|1
+B|Yeah.|b|3046|1
+A|Of course, you have warmer weather most of the time.|sv|3046|0
+B|Right.|b|3046|1
+A|So, uh,|%|3046|0
+B|Yeah,|aa|3046|1
+B|it never gets real cold.|sv|3046|1
+A|Yeah.|b|3046|0
+A|So, I,|%|3046|0
+B|Yeah,|b|3046|1
+B|but when, when we have a dinner party around here, I think a lot of the time a Mexican menu is something real popular.|sd|3046|1
+A|Is that right?|bh|3046|0
+B|Yeah.|ny|3046|1
+B|I know that, um, I do a lot of planning with our church,|sd|3046|1
+A|Uh-huh.|b|3046|0
+B|and a lot of the times when we get together, well everybody will bring a Mexican dish|sd|3046|1
+B|or. And Italian food is real big too.|sd|3046|1
+A|Uh-huh,|b|3046|0
+A|uh-huh|b|3046|0
+A|Uh-huh.|b|3046|0
+A|More like covered dishes for those type of dinners.|bf|3046|0
+B|Uh-huh.|aa|3046|1
+B|Yeah.|aa|3046|1
+B|Yeah.|aa|3046|1
+B|How about you,|qo|3046|1
+B|what is real popular up there?|qw|3046|1
+A|Well, I don't know,|no|3046|0
+A|just about anything|arp_nd|3046|0
+B|Oh, really.|bh|3046|1
+A|Yeah,|ny|3046|0
+A|we, we really, uh, use most anything.|sd|3046|0
+A|I, uh, I think like parties and that though are,|%|3046|0
+A|well, like we had a dinner party here, here not too long ago with a mystery dinner party|sd|3046|0
+B|Oh.|bk|3046|1
+A|But, basically, we tried, you know, included all the basic, uh, foods that you are supposed to have in a meal .|sd|3046|0
+B|Uh-huh.|b|3046|1
+A|Your, uh, bread family and your,|sd|3046|0
+A|or least what it used to be the regular menu was followed and , ham and bake potatoes, uh,|sd|3046|0
+B|Uh-huh.|b|3046|1
+B|Uh-huh.|b|3046|1
+A|uh, something from each, each area that you're supposed to choose from.|sd|3046|0
+B|Uh-huh.|b|3046|1
+A|And, uh, we, we, we ourselves are into the wok cooking,|sd|3046|0
+A|you know they been advertising that|sd|3046|0
+A|and, we've really been enjoying those, uh, meals.|sd|3046|0
+B|Uh-huh.|b|3046|1
+B|Well, that's good.|ba|3046|1
+A|They have a lot of vegetable to them,|sv|3046|0
+A|and, uh, they really are very good.|sv|3046|0
+B|Uh-huh,|b|3046|1
+B|right.|b|3046|1
+B|Oh, yes.|aa|3046|1
+B|I, I love that kind of cooking.|sd|3046|1
+B|My, uh, unfortunately, I am married to a man and have two children that eat about four things|sd|3046|1
+A|Is he a meat and potato person?|qy|3046|0
+B|Right.|na|3046|1
+B|They.|sd|3046|1
+A|Well, all our family is, is gone.|sd|3046|0
+A|They are out on their own.|sd|3046|0
+B|Uh-huh.|b|3046|1
+A|And, uh. It, it's much different|sd|3046|0
+B|That probably makes it easier,|sv|3046|1
+B|but.|%|3046|1
+A|and, uh.|%|3046|0
+B|Yeah.|b|3046|1
+B|We find ourselves eating a lot of macaroni and cheese|sd|3046|1
+B|and, uh, and of course ,|%|3046|1
+A|Uh-huh,|b|3046|0
+A|uh-huh.|b|3046|0
+A|Well, my husband didn't like that,|sd|3046|0
+A|so we, us kids,|%|3046|0
+A|we had five children|sd|3046|0
+A|and we ate that when he, he wasn't going to be home for supper,|sd|3046|0
+B|Right.|b|3046|1
+A|that's what we had|sd|3046|0
+B|Yeah,|b|3046|1
+B|well, that's pretty much what we do,|sd|3046|1
+B|if dad's not coming home, we have macaroni and cheese, or something.|sd|3046|1
+A|Uh-huh.|b|3046|0
+B|But, they like, uh, spaghetti.|sd|3046|1
+A|Uh-huh.|b|3046|0
+B|You know, that's one meal, I can fix|sd|3046|1
+A|Uh, yeah.|b|3046|0
+B|and the whole family eats.|sd|3046|1
+B|But, uh, there are several things that,|%|3046|1
+B|well as a matter of fact, I keep chicken nuggets handy all the time, because.|sd|3046|1
+A|Oh, those always go good.|sv|3046|0
+B|Yeah,|aa|3046|1
+B|the children love them,|sd|3046|1
+A|Yeah.|b|3046|0
+B|and, uh, they are real easy to cook|sv|3046|1
+B|and, that way, whatever meat we have, if they don't like it, well,|sd|3046|1
+A|Yeah.|b|3046|0
+B|and my girls don't like beef,|sd|3046|1
+B|I, don't know,|h|3046|1
+A|Oh really.|b|3046|0
+A|Well maybe. that's good the way, way the things are going.|sv|3046|0
+B|I guess,|h|3046|1
+B|Well, yeah,|aa|3046|1
+B|it could be, they don't,|%|3046|1
+B|I think it's the texture of it,|sv|3046|1
+A|Uh-huh.|b|3046|0
+B|but it takes more chewing|sv|3046|1
+A|Right.|aa|3046|0
+A|Children usually they like the ham and the hamburgers, and that,|sv|3046|0
+B|Uh-huh.|b|3046|1
+A|and it is easier to chew.|sv|3046|0
+B|Right.|aa|3046|1
+B|Right.|aa|3046|1
+B|So they're not too much into beef.|sd|3046|1
+A|Uh-huh.|b|3046|0
+B|My husband and I eat more beef than we should,|sd|3046|1
+B|but at least we keep our chicken nuggets handy for them|sd|3046|1
+A|Right.|b|3046|0
+A|We don't really have, uh, you know, entertain too much.|sd|3046|0
+B|Uh-huh.|b|3046|1
+A|I don't know if you do or not,|qy^d|3046|0
+A|but we, we don't a whole lot,|sd|3046|0
+A|we're more, once in a while, but mostly family, activities.|sd|3046|0
+B|Yeah.|b|3046|1
+B|Well, most of the entertaining we do is church associated.|na|3046|1
+A|Uh-huh.|b|3046|0
+B|We have a real tiny little house,|sd|3046|1
+B|we don't have room really, to have people here.|sd|3046|1
+A|Uh-huh.|b|3046|0
+A|Uh-huh,|b|3046|0
+A|uh-huh.|b|3046|0
+B|But, we do get together for fellowships at our church,|sd|3046|1
+A|Uh-huh.|b|3046|0
+B|and, my husband and I do a lot of the planning in that.|sd|3046|1
+A|Yeah.|b|3046|0
+B|And,|%|3046|1
+A|Well that's good.|ba|3046|0
+B|Yeah,|aa|3046|1
+B|it is|aa|3046|1
+B|and it's fun to, uh,|sd|3046|1
+B|I like just having a pot luck meal where everyone brings their favorite dish.|sd|3046|1
+A|Yeah,|b|3046|0
+A|we do a lot of that take , things to church|sd|3046|0
+B|Yeah.|b|3046|1
+A|and our homemakers meet at the church also,|sd|3046|0
+A|and, uh, that's what we do mostly, most of the time for that.|sd|3046|0
+B|Uh-huh.|b|3046|1
+B|Yeah.|b|3046|1
+B|Yeah.|b|3046|1
+A|So, you don't really include any certain food groups,|sd|3046|0
+A|you just bring, what you like|sd|3046|0
+B|Right.|b|3046|1
+B|That's right|aa|3046|1
+A|Sometimes you have all desserts,|sd|3046|0
+A|sometimes, you have all vegetables|sd|3046|0
+B|Yeah|b|3046|1
+B|Yeah,|b|3046|1
+B|that's true,|aa|3046|1
+B|that's the only problem with just letting you bring whatever, you, uh, like best.|sv|3046|1
+A|Yeah.|b|3046|0
+A|But, it doesn't happen very often,|sd|3046|0
+A|usually you get a pretty wide variety|sd|3046|0
+A|and you can, you can , have pretty good meals, from one of those.|sd|3046|0
+B|Uh-huh.|b|3046|1
+B|Yeah.|b|3046|1
+B|Yeah.|aa|3046|1
+B|I remember one time we had a progressive dinner.|sd|3046|1
+A|Oh, those are fun.|ba|3046|0
+B|It's the only time that ever.|%|3046|1
+B|Yeah|aa|3046|1
+B|they are.|aa|3046|1
+A|Uh-huh.|b|3046|0
+B|But it's the only time I can remember that,|sd|3046|1
+B|I can't remember what food it was|sd|3046|1
+B|I, it might have been the main dish that hardly anyone showed up with.|sd|3046|1
+B|Several people were supposed to bring, you know, each, like, uh, a, an appetizer, and a main dish and a dessert.|sd|3046|1
+A|Uh, uh-huh.|b|3046|0
+A|Uh-huh.|b|3046|0
+B|And we had tons of desserts and tons of appetizers|sd|3046|1
+B|and, but when we came to the main, main dish plate, there was only like two or three|sd|3046|1
+A|Oh, uh-huh|b|3046|0
+A|, Oh.|b|3046|0
+A|Was there enough to go around?|qy|3046|0
+B|Well, not really,|ng|3046|1
+B|you know we all took real tiny little portions, and, uh, were kind of angry with whoever it was,|sd|3046|1
+A|Uh-huh.|b|3046|0
+B|we were not sure who didn't show up with the food|sd|3046|1
+A|Yeah,|b|3046|0
+A|that's kind of irresponsible and does upset you, because they are grown adults usually|sv|3046|0
+B|Yes.|aa|3046|1
+A|and you know they know better.|sv|3046|0
+B|Right.|b|3046|1
+A|Even if they can't do it, they can always maybe get somebody else to cook .|sv|3046|0
+B|Right.|aa|3046|1
+B|Either, either go ahead and fix your dish|sv|3046|1
+B|or call someone that can.|sv|3046|1
+A|Right.|aa|3046|0
+A|Right.|aa|3046|0
+B|I know it.|b|3046|1
+B|Well, that sounds neat,|ba|3046|1
+B|I can't, uh, believe you're so far away,|sd|3046|1
+B|but you sound so close.|sd|3046|1
+A|They said that we could share, we share, a recipe|sd|3046|0
+B|It sounds like you're here in Dallas.|sd|3046|1
+A|but, I'm up at my daughter's,|sd|3046|0
+A|I don't even have any of my recipes with me.|sd|3046|0
+B|Oh.|b|3046|1
+A|Uh, you know ,|%|3046|0
+B|I don't know if I have anything handy,|sd|3046|1
+B|we were just about, we were getting ready to go swimming,|sd|3046|1
+A|Oh.|b|3046|0
+B|and we're waiting on my sister.|sd|3046|1
+A|Oh, great.|ba|3046|0
+B|Cara, hold on just a second another person in the|t3|3046|1
+B|As a matter of fact, my, little one is hollering|sd|3046|1
+A|They are ready to go.|^2|3046|0
+A|Well, we probably, have we talked long enough|fc|3046|0
+A|I,|%|3046|0
+B|I think it probably has been.|fc|3046|1
+A|Okay,|fc|3046|0
+A|so I'll let,|%|3046|0
+B|So, I've enjoyed talking to you.|fc|3046|1
+A|Oh, same here.|fc|3046|0
+A|You have a good day.|fc|3046|0
+B|Thank you.|fc|3046|1
+B|Thanks for calling.|fc|3046|1
+A|Uh-huh.|fc|3046|0
+B|Bye-bye.|fc|3046|1
+A|Bye-bye.|fc|3046|0

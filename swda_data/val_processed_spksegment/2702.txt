@@ -1,0 +1,246 @@
+B|Clanking ishes oman and children|%|2702|0
+A|Well, as much as I'd, uh, I'd like to say that I'll be looking for a flashy convertible or, uh, or a four by four or something,|sd|2702|1
+A|I guess the next car I'll be looking for is a kind of a plain old four door|sd|2702|1
+B|What kind of a car do you have now?|qw|2702|0
+A|Oh, we've got a, uh, an older Delta Eighty-Eight,|sd|2702|1
+A|and then, uh, our, our newer car is a, uh, a Corsica.|sd|2702|1
+B|Yeah.|b|2702|0
+A|And we'll probably be looking for something about that, uh, that same style.|sd|2702|1
+B|Yeah.|b|2702|0
+A|That same kind of four door, hard top style.|sd|2702|1
+B|You got kids?|qy|2702|0
+A|Uh, no|nn|2702|1
+A|but we're planning for it.|sd|2702|1
+B|Okay.|bk|2702|0
+A|So, uh, in fact, uh, our Oldsmobile is a, is a like an old Delta Eighty-Eight|sd|2702|1
+A|but it's in pretty good in really good shape.|sd|2702|1
+B|Yeah.|b|2702|0
+A|And we've been really pleased with Oldsmobiles.|sd|2702|1
+B|Yeah.|b|2702|0
+A|So that's probably where the first place we'd look.|sd|2702|1
+B|Huh.|b|2702|0
+A|But, uh,|%|2702|1
+B|Well, we've always had, uh, Fords.|sd|2702|0
+A|Uh-huh.|b|2702|1
+B|Uh, mostly because my wife's stepfather works at a Ford dealership|sd|2702|0
+A|That'll do it.|ba|2702|1
+B|Yeah.|b|2702|0
+B|That'll do it.|sd|2702|0
+B|Um, but, yeah, we're, we're in the same shape.|sd|2702|0
+B|I think our next car will be a, you know, some big old four door, uh, something that can haul the kids to baseball practice and piano lessons,|sv|2702|0
+A|Yeah.|b|2702|1
+B|and we've got a minivan,|sd|2702|0
+A|Uh-huh.|b|2702|1
+B|and that's great.|sv|2702|0
+B|And I drive, uh,|%|2702|0
+B|well I used to drive an Escort,|sd|2702|0
+B|but it died on me.|sd|2702|0
+B|So I, I mean I, I, I used to run it, I, uh, where we used to live, I used to commute a hundred and forty miles a day.|sd|2702|0
+A|Oh, geez.|ba|2702|1
+B|And, uh, and this Escort took it all.|sd|2702|0
+B|And it, it, it got up to, uh, uh, I was at ninety-four thousand miles on it,|sd|2702|0
+B|and the engine just went.|sd|2702|0
+A|Uh-huh.|b|2702|1
+B|So I, I, I bought a used, uh, Dodge Aries, which has been okay.|sd|2702|0
+A|Yeah.|b|2702|1
+A|Really?|bh|2702|1
+B|I, I mean I've haven't had it that long.|sd|2702|0
+A|Uh-huh.|b|2702|1
+B|But it, it it's an eighty-five Aries,|sd|2702|0
+B|but it only had thirty-four thousand miles on it when I bought it.|sd|2702|0
+A|Oh, geez.|ba|2702|1
+B|And I just, you know, I just drive it to work.|sd|2702|0
+B|So it's just a ten minute commute every day.|sd|2702|0
+A|Uh-huh.|b|2702|1
+B|So, uh, it doesn't get much of, uh,|sd|2702|0
+B|I mean, it's not like I'm putting it through its paces.|sv|2702|0
+A|Yeah,|b|2702|1
+A|yeah.|b|2702|1
+B|But I think, uh,|%|2702|0
+B|and it's a four door which is nice,|sv|2702|0
+A|Uh-huh.|b|2702|1
+B|but it's still a little cramped.|sv|2702|0
+B|I've got three kids,|sd|2702|0
+A|Yeah.|b|2702|1
+B|so I, I,|%|2702|0
+A|Sounds like you, you need at least like a Taurus size, or something like that.|bf|2702|1
+B|Yeah,|aa|2702|0
+B|that's what, I was thinking of,|aa|2702|0
+B|was a Taurus.|sd|2702|0
+B|Uh,|%|2702|0
+A|Yeah.|b|2702|1
+A|I, I know a lot of guys at work,|sd|2702|1
+A|they, uh, the ones that have, uh, families, uh,|sd|2702|1
+A|and they still want kind of a sports car.|sd|2702|1
+A|They've been, uh, a lot of them have been getting these Taurus S H O's.|sd|2702|1
+A|That I guess it's the sports version of the Taurus?|sd|2702|1
+B|Oh, really?|bh|2702|0
+B|Yeah|ny|2702|0
+A|In fact, it comes with a standard stick|sd|2702|1
+A|and, uh, and a lot of those.|sd|2702|1
+B|Ooh.|ba|2702|0
+A|And it comes with a bigger engine and the things like that.|sd|2702|1
+A|But, uh,|%|2702|1
+B|Yeah.|b|2702|0
+A|and usually they're in like black, and gun metal grey and those kind of colors.|sd|2702|1
+A|You're not going to see too many, uh, you know, green ones or blue ones or anything like that.|sv|2702|1
+B|Yeah.|b|2702|0
+A|They, they put them in sporty colors I guess.|sv|2702|1
+A|But, uh,|%|2702|1
+B|Yeah.|b|2702|0
+B|Well, my wife wants a Miyata.|sd|2702|0
+A|Oh, well sure|ba|2702|1
+A|That's what, you know,|%|2702|1
+A|until, until you look at the price tag|sv|2702|1
+A|and then you go, What?|sv|2702|1
+B|Right.|b|2702|0
+A|What would I, besides tooling around and looking really cool and having a lot of fun, what would I really do with this car?|qh|2702|1
+B|Right,|b|2702|0
+B|yeah.|b|2702|0
+B|I know,|aa|2702|0
+B|I know.|aa|2702|0
+B|It's like I, I guess I could fit in it maybe|sv|2702|0
+A|Yeah.|b|2702|1
+A|I, I went, I went through that when I first got out of, uh, college.|sd|2702|1
+A|I had an old car that I bought just to get to, to my my first job.|sd|2702|1
+B|Yeah.|b|2702|0
+A|And when I got there, the first thing I did was trade it in on a Spitfire.|sd|2702|1
+B|Oh.|b|2702|0
+A|And I, I knew that was going to be the only time I could afford a two seater, uh, sports car.|sd|2702|1
+B|Yeah.|b|2702|0
+A|But that, that just does not make it as an only car.|sv|2702|1
+A|It's, uh, it's like I, I would,|sd|2702|1
+A|I bought a set of stereo speakers|sd|2702|1
+B|Yeah.|b|2702|0
+A|and it was one of those cash and carry deals.|sd|2702|1
+A|I had to take them one at a time, with the top down.|sd|2702|1
+A|And it was winter, so I was in like this coat with the top down,|sd|2702|1
+B|Oh, no!|ba|2702|0
+A|and the speaker in the passenger seat.|sd|2702|1
+B|Yeah|b|2702|0
+A|And I drove that one home,|sd|2702|1
+A|and then I went back and got the other one and put that in the, passenger seat and drove that one home.|sd|2702|1
+A|And, uh, funny, funniest sight.|sv|2702|1
+A|And you kind of outgrow that real quick when it's your only car.|sv|2702|1
+B|Yeah.|b|2702|0
+B|Yeah.|b|2702|0
+B|Well, I,|%|2702|0
+B|you know, it's funny.|sv|2702|0
+B|Most people that I've talked to did stuff like that when they were in college, or, you know, or when they were single anyway.|sd|2702|0
+A|Uh-huh.|b|2702|1
+A|Yeah.|b|2702|1
+B|They'd, they'd buy themselves a sporty car because it was their last.|sd|2702|0
+B|I never did that.|sd|2702|0
+B|Uh, you know, my first car was a Toyota Corolla.|sd|2702|0
+A|Oh, really?|bh|2702|1
+B|And, uh, because I got a good deal on it|sd|2702|0
+A|Yeah.|b|2702|1
+B|and, uh, that was a great little car.|sd|2702|0
+B|Actually I met,|sd|2702|0
+B|that's how I met girls was, I'd find out if a girl could drive a manual transmission, which I, I had never,|sd|2702|0
+B|I, I'd learned on an automatic transmission. And so, so I'd go out on dates where they would teach me how to drive this car.|sd|2702|0
+A|Uh-huh.|b|2702|1
+A|Boy, that's a good deal.|sv|2702|1
+B|And, uh, in fact I married one of those people|sd|2702|0
+A|Ah, okay.|b|2702|1
+A|Well, I'll have to remember that if I ever get in that situation again|sd|2702|1
+B|And it worked.|sd|2702|0
+B|Yeah,|b|2702|0
+B|it worked all right, real good.|sd|2702|0
+A|Huh.|b|2702|1
+A|Because I, I know we've, uh,|%|2702|1
+A|that's, that's something that, that we definitely have to go with is an automatic transmission.|sd|2702|1
+A|My, uh, my wife just can't, can't, uh,|sd|2702|1
+A|she really doesn't want to learn I guess, the, uh, the standard shift.|sv|2702|1
+B|Yeah,|b|2702|0
+B|yeah.|b|2702|0
+A|I fact, I, I remember once we, uh, we, uh, went, uh, went on a, uh, test drive.|sd|2702|1
+A|We got one of these things from Lee Iacocca that said, you know, I'll give you a fifty dollar savings bond if you'll test drive a car.|sd|2702|1
+B|Yeah.|b|2702|0
+B|Yeah.|b|2702|0
+A|And we went, uh, we went, uh, we went to a dealership|sd|2702|1
+A|and, uh, it, it was she, she did pretty well.|sd|2702|1
+A|But it was one of those things where we just went to a big parking lot|sd|2702|1
+B|Yeah|b|2702|0
+A|and the, uh, dealer kind of gave her standard shift parking,|sd|2702|1
+A|because that was all it was.|sd|2702|1
+A|It was, it was the funniest thing,|sd|2702|1
+A|it was like, uh, a big Le Baron,|sd|2702|1
+A|it was a Le Baron with everything on it,|sd|2702|1
+B|Wow!|ba|2702|0
+A|but it had a standard shift.|sd|2702|1
+A|It was the craziest thing I ever saw.|sv|2702|1
+B|That's weird!|ba|2702|0
+B|Yeah.|b|2702|0
+A|And, and, and that's probably why they were trying to sell them, I guess.|sv|2702|1
+B|Huh.|b|2702|0
+A|And, uh, we just kind of went back and forth and back and forth.|sd|2702|1
+A|She did pretty well after a while.|sd|2702|1
+B|Yeah.|b|2702|0
+A|But, uh, it's just kind of hard to learn, I guess.|sv|2702|1
+B|Well, my wife,|%|2702|0
+B|I mean, she'd always driven standard transmission.|sd|2702|0
+A|Uh-huh.|b|2702|1
+B|And, uh, and,|%|2702|0
+B|in fact all our earlier cars were a standard transmission.|sd|2702|0
+B|In fact, the minivan's a, has a stick shift.|sd|2702|0
+A|Um, okay.|b|2702|1
+B|And in,|%|2702|0
+B|this Dodge Aries is the first car we've ever gotten that had anything.|sd|2702|0
+B|You know, it's got automatic transmission, cruise control, you know, electric locks.|sd|2702|0
+A|Oh, geez.|ba|2702|1
+B|You know, it's like, it's like a luxury car except that it's the Dodge Aries you know.|sv|2702|0
+A|Yeah,|b|2702|1
+A|yeah.|b|2702|1
+B|So, uh,|%|2702|0
+A|Oh, well.|b|2702|1
+A|Well, I guess that's, I guess that's about all I've got to say, about cars|sd|2702|1
+B|Well, you, um,|%|2702|0
+B|the, the thing about this, uh,|sv|2702|0
+B|I will say this about the minivan.|sd|2702|0
+A|Uh-huh.|b|2702|1
+B|We thought that was a luxury car when we bought it.|sv|2702|0
+A|Uh-huh,|aa|2702|1
+A|I would think so,|sv|2702|1
+A|yeah,|aa|2702|1
+B|It, it,|%|2702|0
+A|because it's so big.|bf|2702|1
+B|Yeah.|aa|2702|0
+B|And, and it was quiet,|sd|2702|0
+B|it had a stereo system.|sd|2702|0
+A|Oh, yeah.|b|2702|1
+B|We never had it, you know,|sd|2702|0
+B|we always had the A M radio.|sd|2702|0
+A|Sure,|b|2702|1
+A|sure.|b|2702|1
+B|And, uh, of course this has, this that had speakers that you can control from the back seat.|sd|2702|0
+A|Uh-huh.|b|2702|1
+B|And you can change the channels on the, on the radio from the back seat too|sd|2702|0
+A|Uh-huh.|b|2702|1
+B|And put speaker phones in it.|sd|2702|0
+B|So.|%|2702|0
+A|Now, now, now that used to be a luxury,|sv|2702|1
+A|but I bet on the next time you buy a car, that's going to be mandatory.|sv|2702|1
+B|Right.|aa|2702|0
+A|You've got to have that now.|sv|2702|1
+B|That's right.|aa|2702|0
+B|That's right.|aa|2702|0
+A|You're used to it|sv|2702|1
+A|and you got to have it.|sv|2702|1
+B|And you've got to pay for it too.|sd|2702|0
+A|Yeah.|aa|2702|1
+A|That's true too.|aa|2702|1
+B|And I bet, and I bet it costs twice as much as, as when I bought mine|sv|2702|0
+A|It, It probably does,|aa|2702|1
+A|it probably does.|aa|2702|1
+A|But, uh,|%|2702|1
+B|We,|%|2702|0
+A|Oh, well.|b|2702|1
+A|Well, Bill it's been nice talking to you.|fc|2702|1
+B|Nice talking to you.|fc|2702|0
+A|Okay,|fc|2702|1
+A|you have a good evening.|fc|2702|1
+B|Thanks a lot.|ft|2702|0
+A|Um.|fc|2702|1
+A|Bye-bye.|fc|2702|1
+B|Bye-bye|fc|2702|0

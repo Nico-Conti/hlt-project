@@ -1,0 +1,129 @@
+A|Okay.|fo_o_fw_"_by_bc|3250|0
+B|Why don't you go ahead and start.|ad|3250|1
+A|Okay,|aa|3250|0
+A|well, we subscribe to PEOPLE magazine and to TIME,|sd|3250|0
+A|and, of course I like the PEOPLE magazine because it's gossipy and it's fast reading,|sd|3250|0
+B|Uh-huh.|b|3250|1
+A|and, uh, the TIME of course, is, uh, you know, more newsworthy|sv|3250|0
+A|and, uh, it has more world affair type things, of course.|sv|3250|0
+A|And then I will purchase a GOOD HOUSEKEEPING occasionally, especially around the holiday time because of recipes and ideas and and things like that|sd|3250|0
+B|Uh-huh.|b|3250|1
+B|Uh-huh.|b|3250|1
+A|and, uh, do you subscribe to any magazines?|qy|3250|0
+B|Yeah,|b|3250|1
+B|I, well, I have, in a for a while I haven't gotten any because I just find that I'm not reading what I'm getting because, uh, I have so much going on in my life|sd|3250|1
+B|that seems to be the last thing I pick up,|sd|3250|1
+B|so I found that I was wasting my money. As much as I enjoy them, uh, when I do subscribe|sd|3250|1
+B|I, I've gotten in the past the PARENTS magazine and, uh, the HOUSEKEEPING magazine|sd|3250|1
+A|Uh-huh|b|3250|0
+B|uh.|%|3250|1
+A|you probably have smaller children younger children.|qy^d|3250|0
+B|Yes,|ny|3250|1
+B|yeah,|ny|3250|1
+A|My children, our children are grown|sd|3250|0
+B|Yeah,|ny|3250|1
+B|yeah,|ny|3250|1
+A|and, uh, I'm letting their mother read on the grandchildren|sd|3250|0
+B|Right,|b|3250|1
+B|well, I found that after a couple of years of having a PARENTS magazine it was getting repetitious,|sd|3250|1
+B|so I kind of canceled it anyway for that reason.|sd|3250|1
+B|Uh, the HOUSEKEEPING magazines I do like because they, like you say, they have nice, uh, recipes in them and ideas, but, uh, lately they've just been piling up on me,|sd|3250|1
+B|so I figured it wasn't, uh, something I needed at this point in time.|sd|3250|1
+A|Well, do you think that people subscribe to magazines as much as they used to?|qy|3250|0
+B|I don't know,|no|3250|1
+B|I, I, well,|%|3250|1
+B|my husband would love to have more.|sd|3250|1
+B|Now he's the type who will get the, uh, INC. magazine and MONEY magazine and all the financial type magazines,|sd|3250|1
+A|Yes,|b|3250|0
+A|now my husband does that,|sd|3250|0
+A|and|%|3250|0
+B|Yeah,|b|3250|1
+A|you know, and of course, uh, naturally WALL STREET JOURNAL, you know and, or SPORTS ILLUSTRATED,|sd|3250|0
+B|Uh-huh,|b|3250|1
+A|but I don't know,|h|3250|0
+A|I know a few people leafing through them at the store|sd|3250|0
+A|but you just don't hear people talk about them,|sv|3250|0
+A|and I know years ago, when, uh, my children were young and stuff, I just loved LADIES HOME JOURNAL, McCALL'S, GOOD HOUSEKEEPING,|sd|3250|0
+A|and I took them all|sd|3250|0
+B|Uh-huh.|b|3250|1
+A|and, uh, then, oh, I don't know what|sd|3250|0
+A|in the seventies, maybe, late seventies they changed their format|sd|3250|0
+B|Uh-huh.|b|3250|1
+A|and I haven't,|%|3250|0
+A|I don't think there's been a magazine as they used to be|sv|3250|0
+B|Well|b|3250|1
+A|even GOOD HOUSEKEEPING I don't,|sv|3250|0
+B|yeah,|b|3250|1
+B|and some of those have had what, what I consider or what|sv|3250|1
+B|I get the idea that they are maybe the, the more pricier type magazines, as far as women's magazines.|sv|3250|1
+B|They seem just to be so chocked full of, of ads.|sv|3250|1
+A|Oh, they are.|aa|3250|0
+A|My sister, uh, takes, uh, TOWN AND COUNTRY and VOGUE|sd|3250|0
+B|Uh-huh.|b|3250|1
+A|and she sends them to me,|sd|3250|0
+A|and there's really nothing in them but advertisements for very expensive clothes, very expensive jewelry things that the average middle class citizen is not going to be purchasing|sv|3250|0
+B|Yeah,|b|3250|1
+B|yeah,|b|3250|1
+B|Yes.|b|3250|1
+B|Right|b|3250|1
+A|you know, and if I want to drool or if I want to see how the other half is living you know, then I can, I look through them|sd|3250|0
+B|Yes.|b|3250|1
+B|Yeah.|b|3250|1
+A|and I do,|sd|3250|0
+A|I just,|%|3250|0
+A|what I do is I flip through them and, and pitch them then, you know,|sd|3250|0
+A|they're not something I, you know, take any length of time over.|sd|3250|0
+B|Uh-huh,|b|3250|1
+B|uh-huh.|b|3250|1
+A|I have discovered that, you know, with my available time, I would rather actually read a book than a magazine.|sd|3250|0
+B|Yes|b|3250|1
+B|I enjoy books a lot more|sd|3250|1
+A|Yes|b|3250|0
+B|that's true.|sv|3250|1
+A|and, uh.|%|3250|0
+B|Well|%|3250|1
+A|So, but.|%|3250|0
+B|now I have certainly stopped subscribing as much as I used to,|sd|3250|1
+B|other than my children have gotten.|sd|3250|1
+B|You know, they get tons of magazines it seems|sd|3250|1
+A|Yes|b|3250|0
+B|they're always getting something in the mail|sd|3250|1
+B|and, and, uh, so between reading to them and, uh, reading the newspaper,|sd|3250|1
+B|and then I have a book that I'm occasionally reading when I get a chance,|sd|3250|1
+B|but I just don't get a chance for those, uh, newsy magazines, the ones that are full of ads,|sd|3250|1
+B|unless you just want to skim through while you're,|sv|3250|1
+B|I, I read them when I'm at a doctor's office or, you know, waiting on something like that.|sd|3250|1
+A|Yes,|b|3250|0
+A|yes,|b|3250|0
+A|I will read them in a doctor's office, too.|sd|3250|0
+B|Yeah,|b|3250|1
+A|As I said, I, I subscribe to, uh, to PEOPLE and to TIME,|sd|3250|0
+A|and, uh, and I will go through the TIME, but, usually not cover to cover, you know,|sd|3250|0
+A|I'll glance through it.|sd|3250|0
+A|I like reading, uh, you know, the PASSAGE OF PEOPLE or something you know,|sd|3250|0
+B|Uh-huh,|b|3250|1
+B|uh-huh.|b|3250|1
+A|and, uh, but I do like the PEOPLE magazine.|sd|3250|0
+A|It, it reminds me of the old time movie magazines when I was young|sd|3250|0
+B|Oh, uh-huh.|b|3250|1
+A|and, uh, that's one, and you know, I really like that,|sd|3250|0
+A|I enjoy that.|sd|3250|0
+A|It's quick reading you know,|sd|3250|0
+B|Uh-huh.|b|3250|1
+A|it doesn't require a lot of thinking,|sd|3250|0
+A|and sometimes after I've worked all day and have things to do at night, I just, I want fluff|sd|3250|0
+B|Yeah.|b|3250|1
+B|Uh-huh,|b|3250|1
+B|uh-huh.|b|3250|1
+A|I don't want a lot of thinking|sd|3250|0
+B|That's true,|ba|3250|1
+B|that kind of is a good way to do it.|sv|3250|1
+A|It, uh, you know, it's, it's much more relaxing.|sd|3250|0
+A|Sometimes when I read TIME magazine, after I've read an article I'm real depressed over the situation of the world|sd|3250|0
+A|so. Well, it seems like we both kind of agree on the subject of magazines|sv|3250|0
+B|Yeah,|b|3250|1
+B|yeah.|b|3250|1
+A|and, uh|%|3250|0
+B|Okay.|fc|3250|1
+A|so, uh, I think that probably I will end the call.|fc|3250|0
+A|I've enjoyed,|fc|3250|0

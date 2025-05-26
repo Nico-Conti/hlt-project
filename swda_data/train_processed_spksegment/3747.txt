@@ -1,0 +1,130 @@
+A|Well, what kind of music do you like?|qo|3747|0
+B|Well, seeing as how I'm a musician I like all kinds of music.|sd|3747|1
+A|Yeah.|b|3747|0
+B|All very very kinds.|sd|3747|1
+A|Me too.|sd|3747|0
+A|I mostly like classical and jazz.|sd|3747|0
+B|Uh-huh.|b|3747|1
+B|Well, I like everything from hard core country to you know Wagner, and Mahler|sd|3747|1
+B|and I like new age stuff.|sd|3747|1
+B|I, I basically have a wide range of musical likes.|sd|3747|1
+B|Do you, uh, are you musical, uh,|qy|3747|1
+B|are you a musician at all?|qy|3747|1
+A|Yeah|ny|3747|0
+A|I play the trumpet.|sd|3747|0
+B|Do you|bh|3747|1
+A|Uh-huh.|ny|3747|0
+A|Mostly the trumpet music uh, uh, uh, baroque and, uh, uh, uh  Romantic.|sd|3747|0
+B|Jazz.|^2|3747|1
+A|Baroque and romantic.|sd|3747|0
+B|Uh-huh.|b|3747|1
+A|Yeah,|b|3747|0
+A|that is not, there is, uh, things written for Doc Severenson and, uh, a few other people.|sd|3747|0
+A|But, uh, they are just, uh,|%|3747|0
+A|as far as solos and concertos are concerned,|%|3747|0
+A|but the rest of them are just parts|sd|3747|0
+B|Right.|b|3747|1
+A|And, uh,|%|3747|0
+B|Well, I love baroque music,|sd|3747|1
+B|so, it is one of my favorite periods.|sd|3747|1
+A|Yeah.|b|3747|0
+B|In fact I I sing with a Texas baroque ensemble.|sd|3747|1
+A|Uh-huh|b|3747|0
+A|Who are the trumpet players?|qw|3747|0
+B|Well, we used to have, uh, Ralph Dutchen.|sd|3747|1
+A|Uh-huh.|b|3747|0
+B|But now he is in Massachusetts.|sd|3747|1
+B|He has come back a couple of times.|sd|3747|1
+B|Then there is a trumpet player at North Texas, the, the teacher, the main teacher. Yeah|sd|3747|1
+A|Leonard .|^2|3747|0
+B|And he has played.|sd|3747|1
+B|And the two of them have played natural trumpets|sd|3747|1
+B|And occasionally, when she can't get those people, we use you know, just uh, E flat trumpets, with valves|sd|3747|1
+B|and like Glen Bell plays.|sd|3747|1
+A|Yeah.|b|3747|0
+B|Uh, Rick, uh, Bogarts played too|sd|3747|1
+A|Uh-huh.|b|3747|0
+B|so but actually, I like trumpet and organ together.|sd|3747|1
+B|It is a nice combination.|sv|3747|1
+A|Yeah.|b|3747|0
+A|Richard Jung Julio recorded an album at the same time as ,|qy|3747|0
+A|didn't he?|^g|3747|0
+B|Yeah,|ny|3747|1
+B|I think he did.|sd|3747|1
+A|Yeah.|b|3747|0
+B|With Paul.|sd|3747|1
+B|Yeah|%|3747|1
+B|He is wonderful.|sv|3747|1
+B|Both of them are.|sv|3747|1
+A|Uh-huh|b|3747|0
+B|So do you like romantic music?|qy|3747|1
+A|Well, that is what, that is mostly the rest of good trumpet marks are romantic music, Mahler and Ruckner and Strauss|no|3747|0
+B|Uh-huh|b|3747|1
+B|Do you like opera?|qy|3747|1
+A|Uh, I like, I am liking it more and more now.|na|3747|0
+B|Uh-huh.|b|3747|1
+A|Getting use to it|sd|3747|0
+A|They are mostly, uh, mostly Mozart.|sd|3747|0
+B|Uh-huh.|b|3747|1
+A|I mean there is not any kind of trumpet parts,|sd|3747|0
+A|but, uh, you know, the, I just like the melodies more and, uh, libretto.|sd|3747|0
+B|Uh-huh.|b|3747|1
+B|You don't like Puccini?|qy^d|3747|1
+A|Uh, yeah.|qy|3747|0
+A|I like Rossini better than Puccini.|sd|3747|0
+B|Uh-huh.|b|3747|1
+A|I like more comic licks.|sd|3747|0
+B|Uh-huh.|b|3747|1
+B|Are you going to go see the Elixir of Love?|qy|3747|1
+A|No.|nn|3747|0
+B|Do you ever go to the Dallas Opera?|qy|3747|1
+A|Uh, no|nn|3747|0
+A|I have never been to a Dallas Opera|sd|3747|0
+A|only the Fort Worth Opera|sd|3747|0
+B|Uh-huh.|b|3747|1
+A|And my trumpet teacher used to play in the Fort Worth Opera.|sd|3747|0
+B|Who was your trumpet teacher?|qw|3747|1
+A|John Nelson.|sd|3747|0
+B|Uh-huh.|b|3747|1
+B|I know him,|sd|3747|1
+B|I kind of know him.|sd|3747|1
+A|Uh-huh.|b|3747|0
+B|Is he still around here?|qy|3747|1
+A|Yeah,|ny|3747|0
+A|he plays in the Fort Worth Symphony and Fort Worth mostly.|sd|3747|0
+B|Because I don't, I have not seen him playing anywhere lately,|sd|3747|1
+B|but maybe it is cause he is playing in Fort Worth|sv|3747|1
+A|Yeah.|aa|3747|0
+A|Yeah.|aa|3747|0
+B|Well, I am basically a Church musician.|sd|3747|1
+B|I do a Church in Plano.|sd|3747|1
+A|Uh-huh.|b|3747|0
+B|And we do all kinds of music at my Church|sd|3747|1
+B|and we hire lots of instrumentalists off and on for, uh, different things.|sd|3747|1
+B|So, I am always making music of one kind or another.|sd|3747|1
+A|Uh-huh.|b|3747|0
+A|Which Church is it?|qw|3747|0
+B|The Christ United Methodist Church in Plano|sd|3747|1
+A|It seems like a lot of Churches are hiring more musicians now than they use to.|sv|3747|0
+B|Yeah.|aa|3747|1
+B|Most Churches have the,|sv|3747|1
+B|well there are some of the few organizations that have the funds to, uh, you know, do like big big works Uh,|sv|3747|1
+B|but we hire, you know, we hire an orchestra at least twice a year and then different instrumentalists off and on through out the year.|sd|3747|1
+B|In fact, we have,|sd|3747|1
+B|do you know John Qumenato?|qy|3747|1
+A|Yeah.|ny|3747|0
+B|He plays at our Church a lot.|sd|3747|1
+B|In fact he is playing this Sunday at our Church.|sd|3747|1
+B|But he plays pretty regularly.|sd|3747|1
+A|He is still teaching at Brookhaven,|qy|3747|0
+A|isn't he?|^g|3747|0
+B|Uh, I think so.|na|3747|1
+B|He teaches a lot in Plano at high schools|sd|3747|1
+A|Uh, yeah.|b|3747|0
+B|and, I think he teaches at Brookhaven.|sd|3747|1
+A|Yeah,|b|3747|0
+A|because I heard Glen Bell taught at Plano as well.|sd|3747|0
+B|Yeah,|b|3747|1
+B|Glen teaches here too.|sd|3747|1
+A|Uh-huh.|b|3747|0
+B|They are, the two of them are mainly pretty much the, they have cornered the market on trumpet.|sv|3747|1

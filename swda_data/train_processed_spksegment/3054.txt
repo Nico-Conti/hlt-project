@@ -1,0 +1,152 @@
+A|Okay|fo_o_fw_"_by_bc|3054|0
+A|wow, I don't know what that was.|sd|3054|0
+B|What was that?|qw|3054|1
+A|I don't know|sd|3054|0
+B|And, uh, to, uh, the Brazos River near Dinosaur Valley State Park.|sd|3054|1
+A|Uh-huh.|b|3054|0
+A|Oh, yes.|b|3054|0
+B|Uh-huh.|b|3054|1
+A|Uh-huh,|b|3054|0
+A|uh, we have not camped in any of those places,|sd|3054|0
+A|in fact it has been a number of years since we have camped,|sd|3054|0
+A|but we used to go to Tyler State Park and, uh, Daingerfield|sd|3054|0
+A|and in Texas that is where we camp basically. Uh,|sd|3054|0
+B|What are they like?|qo|3054|1
+A|They are very nice.|sd|3054|0
+A|Tyler is really, really a neat place to camp.|sd|3054|0
+A|It has a nice little lake|sd|3054|0
+A|and it has some really wonderful, uh, sights that are in the wooded areas.|sd|3054|0
+A|Uh, the facilities are quite nice|sd|3054|0
+A|and our children liked, liked it quite well.|sd|3054|0
+A|and you know they,|%|3054|0
+A|we felt real safe with their being able to do what they would like to do there in the area.|sd|3054|0
+A|And, uh, it was just, it was just a really nice place to camp.|sd|3054|0
+B|Uh-huh.|b|3054|1
+A|Uh, now Daingerfield is,|%|3054|0
+A|let's see,|^h|3054|0
+A|I think that's a little bit more east, further east, and and maybe south, if I am remembering where that is.|sv|3054|0
+A|No,|ar|3054|0
+A|I think it's a little bit further north, when I think about it.|sv|3054|0
+A|At any rate it was, it was very nice as well.|sd|3054|0
+A|But Tyler, we sort of got spoiled with, I think.|sd|3054|0
+B|Uh-huh.|b|3054|1
+A|But, uh, we had lived in Michigan before we came here and, uh, had done a lot of camping in Michigan,|sd|3054|0
+A|I think the upper peninsula of Michigan, especially,|sd|3054|0
+A|and then also, we had done some camping in Colorado, in the mountains,|sd|3054|0
+A|so, uh, my parents were real avid campers|sd|3054|0
+A|and my husband's parents were really avid campers as well.|sd|3054|0
+A|So I guess we just kind of came by it naturally|sd|3054|0
+B|Yeah.|b|3054|1
+A|Do you have a large tent|qy|3054|0
+A|or,|%|3054|0
+B|Yeah,|ny|3054|1
+B|it was a nine by twelve.|sd|3054|1
+A|Uh-huh.|b|3054|0
+B|Uh-huh.|b|3054|1
+A|And how many does it sleep, uh, comfortably?|qw|3054|0
+B|Well, there, well supposedly,|sv|3054|1
+B|they always say it sleeps more than it does.|sv|3054|1
+A|Right|b|3054|0
+B|But they,|%|3054|1
+B|it would have slept three adults anyway.|sd|3054|1
+A|Yeah,|b|3054|0
+B|Yeah.|b|3054|1
+A|Well, sort of early on especially as our children got a little bit bigger, uh, we invested in some stacking, uh, cots, you know, that were like bunk, bunk beds,|sd|3054|0
+A|but they were cots, fold up cots.|sd|3054|0
+A|That really gave us a lot more space, um, floor space and, so, you did not have to be constantly getting things off the floor in order to walk around|sd|3054|0
+A|and,|%|3054|0
+B|Right.|b|3054|1
+A|uh, gave us a place to stack things during the day|sd|3054|0
+A|so that was real nice.|sd|3054|0
+A|But, uh, we, uh,|%|3054|0
+A|like, my in-laws also had a camper, or, uh, a pop up tent, you know, one of those trailer tops|sd|3054|0
+A|and those are really nice too.|sd|3054|0
+A|A little more, uh, luxurious, so to speak, but not much|sd|3054|0
+B|do they have a kitchen in them?|qy|3054|1
+A|Yes,|ny|3054|0
+A|uh-huh.|ny|3054|0
+A|It's really nice,|sd|3054|0
+A|in fact, it even had, had a little refrigerator, uh, and the whole business.|sd|3054|0
+A|It was quite nice in that respect.|sd|3054|0
+A|Uh, and everything was very convenient|sd|3054|0
+A|and you did not have to, to be hauling things out of your, the trunk of you car,|sd|3054|0
+B|Trunk of your car all time, right.|^2|3054|1
+A|and that was nice.|sd|3054|0
+A|So, uh, do you have plans for, for any other camping trips in the near future?|qy|3054|0
+B|Uh, maybe, uh, maybe back to Caddo, or, Uh, Purdis Creek.|na|3054|1
+A|Uh-huh.|b|3054|0
+A|Right.|b|3054|0
+B|Or, I like Bob Sandlin too,|sd|3054|1
+B|it's a new park.|sd|3054|1
+A|Uh-huh.|b|3054|0
+B|And there is, uh, not really camping,|sd|3054|1
+B|but, uh,|%|3054|1
+B|what is it called, Cedar Hill.|sd|3054|1
+A|Right.|b|3054|0
+B|Lake Joe Pool.|sd|3054|1
+A|Oh, yes.|b|3054|0
+B|And sometime, I like to go to Eisenhower up on Lake Texoma.|sd|3054|1
+A|Yes,|aa|3054|0
+A|yes,|aa|3054|0
+A|I have been in that area.|sd|3054|0
+A|That is a really pretty state park.|sv|3054|0
+A|Uh, just,|%|3054|0
+A|we did not camp there,|sd|3054|0
+A|but we drove through it just one time when we were in that area|sd|3054|0
+A|and it's real lovely.|sv|3054|0
+A|It's close to the lake and close to,|sd|3054|0
+A|I think it's close to the dam up there|sd|3054|0
+A|so it's, it's really quite pretty.|sv|3054|0
+A|Uh, are you, um,|qy|3054|0
+A|let's see what was,|^h|3054|0
+A|I was going to ask you something else.|^h|3054|0
+A|Oh, do you have a favorite among all those that you have been to?|qy|3054|0
+B|Oh, from those three,|^h|3054|1
+B|just, just, uh, from when I have been an adult, I like Caddo the best.|na|3054|1
+A|Yeah,|b|3054|0
+A|uh-huh.|b|3054|0
+A|Uh, is it true that Caddo Lake is the only natural lake in the State of Texas?|qy|3054|0
+B|Yeah,|ny|3054|1
+B|that's right.|sd|3054|1
+A|I, I would,|%|3054|0
+A|I have never been there|sd|3054|0
+A|and I would love to see what it looks like|sd|3054|0
+B|It's not, it's not very deep.|sd|3054|1
+A|Uh-huh.|b|3054|0
+B|And they did build a dam on it,|sd|3054|1
+B|but it was there before they built the dam.|sd|3054|1
+B|It has been there for a hundred years.|sd|3054|1
+A|Oh, I see.|b|3054|0
+B|Apparently, an earth quake caused it.|sv|3054|1
+A|How interesting.|ba|3054|0
+B|Yeah.|b|3054|1
+A|I guess I never heard the history of that.|sd|3054|0
+A|Huh, well, that might be some place where my husband and I can go.|sd|3054|0
+A|We are talking about starting camping again in the fall.|sd|3054|0
+A|Um, our children are both grown|sd|3054|0
+A|and, and so, it's just pretty much the two of us who do things.|sd|3054|0
+A|And so, uh, we thought we might take some weekend trips and maybe that would be a good place to, to go to and see what it looks like.|sd|3054|0
+B|Yeah,|b|3054|1
+B|it's really nice.|sd|3054|1
+A|Yeah,|b|3054|0
+A|yeah.|b|3054|0
+B|And I, I don't know,|h|3054|1
+B|probably spring is probably the busiest time anywhere in Texas.|sv|3054|1
+A|Is it?|bh|3054|0
+A|Uh, yeah,|aa|3054|0
+A|I think so.|sv|3054|0
+A|Especially with, uh, uh,|%|3054|0
+A|when the trees start blossoming out and everything it is really very pretty,|sv|3054|0
+B|Right.|b|3054|1
+A|especially in East Texas, it's really nice.|sv|3054|0
+A|So, uh, well, I, um, I have enjoyed talking with you.|fc|3054|0
+B|It was nice talking to you.|fc|3054|1
+A|And, um, have, uh, some happy camping trips|fc|3054|0
+A|Hope you get to those places you have talked about.|fc|3054|0
+B|Yeah,|fc|3054|1
+B|you too.|fc|3054|1
+A|Well, okay,|fc|3054|0
+A|thanks.|fc|3054|0
+B|Bye,|fc|3054|1
+A|Uh-huh,|fc|3054|0
+A|bye-bye.|fc|3054|0

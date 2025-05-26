@@ -1,0 +1,153 @@
+A|Let's see,|^h|4137|0
+A|mine's pretty easy actually.|sd|4137|0
+A|Uh, I just got done reading a, a magazine or a couple magazine articles about the, uh, new Saturns.|sd|4137|0
+B|Uh-huh.|b|4137|1
+A|Uh, and, although I can't afford it right now, I would just like love to have one.|sd|4137|0
+B|Oh, really,|bh|4137|1
+B|you like, uh,|%|4137|1
+B|so you're an American|bf|4137|1
+A|Well,|%|4137|0
+B|you want to buy American.|bf|4137|1
+A|No,|ar|4137|0
+A|regardless of that fact.|sd|4137|0
+A|It's the best car in the class for the cheapest amount of money.|sd|4137|0
+A|I'm interested in having it for, uh, doing a little autocross racing, uh, closed circuit racing|sd|4137|0
+B|Um.|%|4137|1
+A|and, uh, it seems to just blow the competition away.|sv|4137|0
+B|It terms of handling, uh, acceleration,|qy^d|4137|1
+A|Handling, power, everything.|sd|4137|0
+A|Yeah,|%|4137|0
+A|it just got like the top rating.|sd|4137|0
+A|It was compared up against, uh,|sd|4137|0
+A|let's see,|^h|4137|0
+A|there was like the Mazda M X three, uh, Nissan's, whatever, their two, N X two thousand, the Civic S I|sd|4137|0
+A|and it just, you know, it, it dominated over all of them.|sd|4137|0
+A|Everybody, all the, uh, raters loved it.|sd|4137|0
+A|I like the, I like the styling|sd|4137|0
+A|and, I seen a few of them actually race|sd|4137|0
+A|and they seem to be really good cars for it.|sd|4137|0
+B|What about Mustang G T|qo|4137|1
+A|Mustang G T|b^m|4137|0
+A|Uh, can't afford it.|sd|4137|0
+B|Those,|%|4137|1
+B|so you're talking about ones in a lower, lower end, price range.|bf|4137|1
+A|Right,|aa|4137|0
+A|yeah,|aa|4137|0
+A|I'm a graduate student|sd|4137|0
+A|and, let's face it,|h|4137|0
+A|I don't make any money|sd|4137|0
+A|so,|%|4137|0
+B|Right.|b|4137|1
+B|Well, you can wait till you graduate|ad|4137|1
+B|and you'll have plenty of money,|sv|4137|1
+B|you can buy whatever you want.|ad|4137|1
+A|Yeah.|b|4137|0
+A|Yeah,|b|4137|0
+A|we'll see then.|sd|4137|0
+A|Yeah,|%|4137|0
+A|right now I'm stuck,|sd|4137|0
+A|I, I've got a, a Pontiac Sunbird Turbo that,|sd|4137|0
+A|it's fast, but unreliable|sd|4137|0
+A|and trying to get it prepared for racing.|sd|4137|0
+A|But it's, it would be nice, just like scrap it and go for the Saturn.|sd|4137|0
+B|Right,|b|4137|1
+B|would you use that for city driving and racing?|qy|4137|1
+A|Oh, yeah,|ny|4137|0
+A|I'd do it, I'd use it for both.|sd|4137|0
+A|The nice thing about autocrossing is you can, you can do both.|sd|4137|0
+B|Autocrossing is,|bf|4137|1
+B|what kind of track is that?|qw|4137|1
+A|Uh, just like a, uh, set up a lot of times|sd|4137|0
+A|and it's like really large, uh, parking lots. And pylons and things.|sd|4137|0
+B|Okay.|bk|4137|1
+B|And you put up, set up the track, pylons.|qy^d|4137|1
+B|Okay.|bk|4137|1
+A|Tight turns, hard acceleration.|sd|4137|0
+A|I've seen a lot of Mustangs, uh, compete|sd|4137|0
+A|and it's interesting.|sd|4137|0
+A|They get dominated by the Corvettes that are also in their class.|sd|4137|0
+B|Oh, really?|bh|4137|1
+A|Yeah.|aa|4137|0
+B|Yeah,|aa|4137|1
+B|I would guess so.|sd|4137|1
+A|Uh, what are you thinking about buying?|qw|4137|0
+B|Uh, I think I'd like to get, uh, B M W or if I go the German route, which I'm kind of leaning towards right now, but, uh, or maybe a, I mean, a, a Acura Legend. Uh|sd|4137|1
+A|The Legend.|b^m|4137|0
+A|Uh.|%|4137|0
+B|a Lexus, uh, S C three hundred maybe. Something on that order.|sd|4137|1
+A|Uh-huh.|b|4137|0
+A|Yeah.|b|4137|0
+B|You know, because your B M W your German cars have good reputations, I think.|sv|4137|1
+A|Yeah,|aa|4137|0
+A|well, I was, I was actually in, uh,|sd|4137|0
+A|a lot of the B M W are produced in, uh, uh, Stutgardt and, uh, and Munich|sd|4137|0
+B|Yes.|b|4137|1
+A|and I was, I was there this, uh, summer|sd|4137|0
+A|and, uh, I was really impressed by the, uh, the, uh, factory, uh, tours and such for B M W.|sd|4137|0
+B|The,|%|4137|1
+B|Yeah,|b|4137|1
+B|they, their, they have the whole philosophy,|sv|4137|1
+B|I mean, they, they kind of even brainwash themselves into thinking they're better, which is kind of hard to take|sv|4137|1
+A|Yeah.|b|4137|0
+B|I mean as you're walking through that little tour in, uh, Munich, it's kind of they're trying to brainwash you, too|sd|4137|1
+A|Uh,|b|4137|0
+A|Oh, of course,|aa|4137|0
+A|of course they are.|aa|4137|0
+A|They want you to buy their car.|sv|4137|0
+A|Yeah,|%|4137|0
+A|there,|%|4137|0
+A|it was, it was interesting.|sd|4137|0
+A|I was at, I, I also went to, uh, the Porsche|sd|4137|0
+A|and, uh, it was, it was amazing how they were completely opposed.|sd|4137|0
+B|Oh, really?|bh|4137|1
+A|Yeah,|aa|4137|0
+A|the, uh, the B M W is really, oh, like, oh, we have all these like high tech things|sd|4137|0
+A|and everything is put together with exacting tolerances|^q|4137|0
+A|and, and then you go to Porsche|sd|4137|0
+A|and it's like, well, uh, these cars are completely handmade|sd|4137|0
+B|Um.|%|4137|1
+A|and no two of them are alike|sd|4137|0
+A|And|%|4137|0
+B|Yeah|b|4137|1
+B|that's,|%|4137|1
+A|so it's like completely opposed.|sd|4137|0
+A|I don't know,|h|4137|0
+A|which do I like better,|qh|4137|0
+A|I think I like the Porsche's philosophy a little bit better, although it's not really practical.|sd|4137|0
+B|No,|aa|4137|1
+B|it's not realistic.|sv|4137|1
+A|Unless, it's, it's a toy.|sv|4137|0
+B|Yeah,|b|4137|1
+B|if you can afford that kind of a toy, then, I guess, uh|sv|4137|1
+A|Let's face it.|h|4137|0
+A|Yeah,|aa|4137|0
+A|yeah,|aa|4137|0
+A|but it, it, B M W good for that.|sv|4137|0
+A|What kind of driving just like commuting you'd want to do it, use it for?|qh|4137|0
+B|Yeah,|aa|4137|1
+B|just work,|sd|4137|1
+B|short trips.|sd|4137|1
+B|No no heavy mileage.|sd|4137|1
+B|I'm putting on less than fifteen thousand miles a year.|sd|4137|1
+A|Wow, yeah.|ba|4137|0
+B|So it's pretty minimal.|sd|4137|1
+A|That's cool.|ba|4137|0
+B|Lasts a long time.|sd|4137|1
+B|That's mainly what I'm looking for.|sd|4137|1
+A|Yeah,|b|4137|0
+A|that's good.|ba|4137|0
+A|I also, I was impressed by, uh, by the Mercedes, too.|sd|4137|0
+B|Oh, yeah.|b|4137|1
+A|I really, I really like the Mercedes.|sd|4137|0
+B|But, But if, if you have a problem with a Mercedes, you take it into a shop, they're going to, they're going to hit you up for just all kinds of things|sv|4137|1
+A|The factory was nice|sd|4137|0
+A|and,|%|4137|0
+A|And is it different for the, for the B M W?|qy|4137|0
+B|Uh, I think, well, something on the order of a three series, it's probably different.|sv|4137|1
+B|Once you get up in the five series and higher, then, all your repair costs go up significantly|sv|4137|1
+A|Probably.|aa|4137|0
+A|Right,|b|4137|0
+A|I can imagine that.|ba|4137|0
+B|So I'm kind,|%|4137|1
+B|yeah,|%|4137|1
+B|I'm not sure if I really want,|sd|4137|1

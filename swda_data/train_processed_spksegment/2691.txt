@@ -1,0 +1,161 @@
+A|Okay,|fo_o_fw_"_by_bc|2691|0
+A|Jay, where do you live in Texas?|qw|2691|0
+B|I live in Dallas,|sd|2691|1
+A|In Dallas.|b^m|2691|0
+B|uh, right at the intersection of the busiest highway in the state. And a, uh, it goes east and west, and a north south tollway.|sd|2691|1
+A|What's that, the I Thirty and Central express?|qy|2691|0
+B|It's,|%|2691|1
+B|no,|nn|2691|1
+B|it's called Six Thirty-Five's the highway.|sd|2691|1
+A|Okay,|bk|2691|0
+A|yeah.|%|2691|0
+B|It's the looper that goes around the city|sd|2691|1
+A|Right.|b|2691|0
+B|and then, uh, the tollway is called the Dallas North Tollway.|sd|2691|1
+A|Yeah.|b|2691|0
+B|Just moved here about, uh, oh, uh, one, about a month ago after twenty-one years, two miles to the east.|sd|2691|1
+A|Oh, is that right?|bh|2691|0
+A|Oh, how about that?|bh|2691|0
+B|So, it's a very different house from the typical Dallas, uh,  house.|sd|2691|1
+A|It's a  new home?|qy|2691|0
+B|It's about eight years old,|no|2691|1
+A|About eight years.|b^m|2691|0
+B|it's, uh, it's a duplex type thing. Uh, very modern and, uh, very open and airy light.|sd|2691|1
+A|Oh.|bk|2691|0
+A|Uh-huh.|b|2691|0
+B|So it's different than the, than the long Texas ramblers.|sd|2691|1
+A|Right,|b|2691|0
+A|uh-huh.|b|2691|0
+B|Uh-huh.|b^m|2691|1
+A|Well we we live in a brick story and a half, uh,|sd|2691|0
+B|What's your house like?|qw|2691|1
+A|Cape Cod style, I guess you'd call it.|sd|2691|0
+B|Oh, great,|ba|2691|1
+B|yeah.|%|2691|1
+A|And, uh, have a big sun room on the back of it.|sd|2691|0
+B|So it's got a lot of openness and light, also?|qy|2691|1
+A|No,|nn|2691|0
+B|Oh, it doesn't?|qy|2691|1
+A|it doesn't have|ng|2691|0
+B|Well, that's what my wife really wanted|sd|2691|1
+B|and so, uh,|%|2691|1
+A|With openness and light?|qy|2691|0
+B|Yeah|ny|2691|1
+B|that's,|%|2691|1
+A|I understand that,|ba|2691|0
+A|I would love that too|sd|2691|0
+B|Uh, our, our last house wasn't too bad,|sd|2691|1
+B|but it was just too traditional,|sd|2691|1
+A|Uh-huh.|b|2691|0
+B|and so, if, uh,|%|2691|1
+A|Yeah,|b|2691|0
+A|this is very traditional.|sd|2691|0
+B|the the next time, uh, probably a year and a half from now, we're going to try to build.|sd|2691|1
+A|Oh, uh-huh.|b|2691|0
+B|So make one really, uh, contemporary and, and very modern and very open and very light.|sd|2691|1
+A|Uh-huh.|b|2691|0
+A|Do you have children at home?|qy|2691|0
+B|No,|nn|2691|1
+B|I have three in college.|sd|2691|1
+A|Three?|bh|2691|0
+A|Oh, boy.|ba|2691|0
+B|They, they usually, get back for the, at least two of them for the summer,|sd|2691|1
+B|so, But,|%|2691|1
+A|You still need space, plenty of space|qy^d|2691|0
+B|Still need a little bit of space.|na|2691|1
+B|We, we have a lot less than we had,  uh, recently.|sd|2691|1
+A|Uh-huh.|b|2691|0
+A|Huh|b|2691|0
+B|Already cut back.|sd|2691|1
+A|Uh-huh.|b|2691|0
+A|Well,|%|2691|0
+B|How big is your place?|qw|2691|1
+A|It's, uh, oh, about twenty-five thousand, twenty-five hundred square feet,  I guess.|sd|2691|0
+B|Oh  that's good size.|ba|2691|1
+A|It's four bedrooms and two baths and that,|sd|2691|0
+B|Yeah.|b|2691|1
+B|We,  we had,|%|2691|1
+A|It  has one wing built on that's a kitchen family room, and then the big room on the back. Uh,|sd|2691|0
+B|Yeah,|b|2691|1
+B|we had four bedrooms, two and a half baths, uh, in the place we just left.|sd|2691|1
+A|Uh-huh.|b|2691|0
+B|So down, now we're down to, two and two.|sd|2691|1
+A|Two and two,|b^m|2691|0
+A|uh-huh.|b|2691|0
+B|Uh-huh.|b^m|2691|1
+B|So it won't be terribly wonderful when the kids are home,|sd|2691|1
+B|but it won't be that long, because we, not for sure, you know, how long they're going to stay or whatever.|sd|2691|1
+A|Right,|b|2691|0
+A|uh-huh.|b|2691|0
+B|So,|%|2691|1
+A|I was just reading an article, uh, that there were nineteen thousand properties available in Texas, uh, for sale by the Resolution Trust Corporation?|qy|2691|0
+B|Oh, yes.|ny|2691|1
+A|Repossessed|sd|2691|0
+B|Yes,|ny|2691|1
+B|and if you get in the, if, if you can find one in the right area you can really  pick up a steal.|sv|2691|1
+A|I,  I guess so.|sd|2691|0
+B|Uh, we, we really didn't go that route and didn't look.|sd|2691|1
+B|Uh, but, uh, the planning of them|%|2691|1
+B|and the, the housing market probably still going to even go lower.|sv|2691|1
+B|There are many, many houses for sale just by the regular route.|sv|2691|1
+A|Uh-huh.|b|2691|0
+B|So, uh,|%|2691|1
+A|That's discouraging if you own property|sv|2691|0
+B|Yeah.|aa|2691|1
+B|And we just decided, uh, uh, sell.|sd|2691|1
+B|And we got, we got a pretty good price, uh, for, for what we had.|sd|2691|1
+B|Uh, not as good as it would have been say three or four years ago.|sv|2691|1
+A|Few years.|^2|2691|0
+A|Uh-huh.|b|2691|0
+B|But that, uh, that was just the timing.|sv|2691|1
+A|Right.|aa|2691|0
+A|Well our daughter and son-in-law moved up, back up here. He's from Texas, but course she's from here, uh, about a year and a half ago,  and had their house on the market down there,|sd|2691|0
+B|Uh-huh.|b|2691|1
+A|and they never did sell it.|sd|2691|0
+A|So they stayed six months,|sd|2691|0
+A|and she got her job back, and he got a job down there.|sd|2691|0
+B|Oh.|b|2691|1
+A|Because,|%|2691|0
+B|Yeah,|b|2691|1
+B|they're not moving very well.|qy^d|2691|1
+A|Huh-uh.|nn|2691|0
+B|For sure.|ba|2691|1
+A|Nope.|nn|2691|0
+B|And that's a good, uh, example of it.|sv|2691|1
+A|They live in Rowlett.|sd|2691|0
+B|Oh, yeah.|b|2691|1
+B|I know where that is.|sd|2691|1
+B|I've been, we've been here for twenty-five years.|sd|2691|1
+A|Have you?|bh|2691|0
+B|I'm from Missouri,|sd|2691|1
+B|and my wife's from Kansas,|sd|2691|1
+B|so I I teach at a college here.|sd|2691|1
+A|Uh-huh.|b|2691|0
+B|So it's, uh, it's sort of home now.|sd|2691|1
+A|Uh-huh.|b|2691|0
+B|So,|%|2691|1
+A|What college are you teaching at?|qw|2691|0
+B|I'm at, uh, one of the uh, it's called Brookhaven College.|sd|2691|1
+B|It's one of the community colleges.|sd|2691|1
+A|Oh.|bk|2691|0
+B|And it's just about two miles to the west of where I'm living.|sd|2691|1
+A|Uh-huh.|b|2691|0
+B|So it's very nice,  very convenient.|sd|2691|1
+A|The only one I know  is Richardson|sd|2691|0
+B|Yeah.|b|2691|1
+B|Now Richland College is out, it serves Richardson and, uh, Garland.|sd|2691|1
+A|Garland,|b^m|2691|0
+A|uh-huh.|b|2691|0
+B|And that's about nine miles to the east of here.|sd|2691|1
+A|Yeah.|b|2691|0
+B|So, uh, anyway, well, it's good to hear from you.|fc|2691|1
+A|Well I enjoyed  talking to you.|fc|2691|0
+B|And I hope we,  hope we did them some good, uh, on their little computer dealy.|fc|2691|1
+A|I hope so|fc|2691|0
+A|Right.|b|2691|0
+B|And, uh, have a good life, the rest of it.|fc|2691|1
+A|Okay,|fc|2691|0
+A|thank you,|fc|2691|0
+A|same to you.|fc|2691|0
+B|Bye-bye.|fc|2691|1
+A|Bye-bye.|fc|2691|0

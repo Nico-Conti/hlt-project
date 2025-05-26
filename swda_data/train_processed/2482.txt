@@ -1,0 +1,292 @@
+A|Uh, so, you have children I take it?|qy^d|2482
+B|like she is cooking, i. e. banging pots, water, No,|nn|2482
+B|I don't.|sd|2482
+A|You don't?|qy|2482
+B|No,|nn|2482
+B|huh-uh.|nn|2482
+A|So, it's not a very valid topic.|bf|2482
+B|No,|aa|2482
+B|it's not.|aa|2482
+B|Do you have children?|qy|2482
+A|Uh, yes.|ny|2482
+B|Uh-huh.|b|2482
+A|One.|sd|2482
+B|One.|b^m|2482
+A|Stepdaughter.|sd|2482
+B|Uh-huh.|b|2482
+A|Ten.|sd|2482
+B|Ten.|b^m|2482
+A|And, uh, you know how they are at that age, I guess. you having been ten once, yourself.|qy^d|2482
+B|Yeah.|aa|2482
+B|Once upon a time I was.|sd|2482
+B|Well, I have two dogs,|sd|2482
+B|those are my kids.|sd|2482
+A|Oh, we have one.|sd|2482
+B|What kind is it?|qw|2482
+A|A Keeshonden.|sd|2482
+B|Oh, really.|bh|2482
+A|Yeah,|ny|2482
+B|Uh-huh .|b|2482
+A|fuzzy little thing.|sd|2482
+B|A what?|br|2482
+A|A fuzzy little dog.|sd|2482
+B|Yeah,|aa|2482
+B|yeah,|aa|2482
+B|they're cute.|sv|2482
+A|Rather, rather odd personality,|sd|2482
+A|he, he's fun.|sd|2482
+B|Uh-huh.|b|2482
+A|Anyway, uh, time we spend with our children.|sd|2482
+B|Uh-huh.|b|2482
+A|It seems almost as though children hate it.|sv|2482
+B|Do they?|qy|2482
+A|Yes.|ny|2482
+A|Time spent with Mom and Dad is, uh, next, is probably one of the worst punishments spent on earth to them.|sv|2482
+B|Yeah,|aa|2482
+B|especially when they get like into the teenage stage.|sv|2482
+A|Yeah.|b|2482
+B|I guess.|h|2482
+B|Yeah,|b|2482
+B|I remember when I was that age.|sd|2482
+A|They, you know,|%|2482
+A|parents are a curse that they just have to live with.|sv|2482
+B|Uh-huh.|b|2482
+A|So, it, it's interesting.|sv|2482
+B|Yeah.|b|2482
+A|But we do spend time driving in the mountains,|sd|2482
+A|and ...|%|2482
+B|Uh-huh.|b|2482
+B|Oh, how nice,|ba|2482
+B|I would love to live up there.|sd|2482
+A|Well.|%|2482
+A|Do you work for T I?|qy|2482
+B|Uh-huh,|ny|2482
+B|uh-huh.|ny|2482
+A|You're working then?|qy^d|2482
+B|Yeah.|ny|2482
+A|With every passing day we wonder if we will be.|sd|2482
+B|That's what I heard.|sd|2482
+B|like running I've always thought about maybe transferring up there,|sd|2482
+B|and I thought if I do that, I might not have a job|sd|2482
+B|so|%|2482
+A|It's, it's better to be employed.|sv|2482
+B|Uh-huh.|aa|2482
+B|Uh-huh.|aa|2482
+A|Especially these days where there is not a job right around the corner.|sv|2482
+B|Uh-huh.|aa|2482
+B|I know it.|sd|2482
+A|And that creates family tensions.|sv|2482
+B|Yeah.|aa|2482
+B|Yeah,|aa|2482
+B|I'm sure it does.|sv|2482
+B|So, you only have the, you only have the stepdaughter at home?|qy^d|2482
+A|Yes.|ny|2482
+B|You all don't have any other children around there?|qy^d|2482
+A|No,|nn|2482
+A|no.|nn|2482
+A|I don't have any, children.|sd|2482
+B|Uh-huh.|b|2482
+B|So, how does she feel about going out and doing stuff with you all.|qw|2482
+A|Uh, well it varies what it is, of course,|sd|2482
+A|but usually, Mom and Dad are a curse.|sd|2482
+B|Uh-huh,|b|2482
+B|uh-huh.|b|2482
+A|You know, they, they'd much rather be with friends,|sv|2482
+B|Oh, yeah .|ba|2482
+A|friends are cool, parents aren't.|sv|2482
+B|No,|aa|2482
+B|huh-uh.|aa|2482
+A|Well, I remember,|sd|2482
+A|well I'm sure part of it is a male, female thing, you know,|sv|2482
+B|Uh-huh.|b|2482
+A|I, I remember whenever I was growing up, often times spent with my Dad was, oh, just wonderful, you know, go, go hunting, or go to the races, or, or, oh, any number of things.|sd|2482
+B|Uh-huh.|b|2482
+B|Uh-huh.|b|2482
+B|Uh-huh.|b|2482
+A|And we'd have, um, great times,|sd|2482
+B|Oh, yeah.|ba|2482
+A|and it seems that well now the bank's not available.|sd|2482
+B|Yeah.|b|2482
+B|Um. Uh-huh.|b|2482
+A|And, entirely too much time is spent,|sd|2482
+A|my wife and I were wondering what if,|sd|2482
+A|and, and what if's always rough.|sv|2482
+B|Oh, yeah.|aa|2482
+B|Yeah.|aa|2482
+A|But, you know, we do have our trips|sd|2482
+A|and we do have our fun|sd|2482
+A|and, I don't know, little girls aren't interested in lot of the same things little boys are or were.|sv|2482
+B|Uh-huh.|b|2482
+B|Like fishing and ...|bf|2482
+A|Hunting and, and, Looking for arrowheads, and ...|^2|2482
+B|Yeah.|b|2482
+B|My husband will say that he'd like to have a little boy to take hunting and fishing|sd|2482
+B|and I said, well, you can take a little girl hunting and fishing just as easily.|sd|2482
+A|Uh, but they don't like it.|sv|2482
+B|That's probably right.|aap_am|2482
+A|There, there, there is a difference there.|sv|2482
+B|Uh-huh.|b|2482
+B|Uh-huh.|b|2482
+A|And, and ...|%|2482
+B|No,|aa|2482
+B|if my Dad had done that when I was a kid I probably wouldn't have liked it.|sd|2482
+B|I go now, with my husband.|sd|2482
+B|And, I enjoy it,|sd|2482
+B|but ...|%|2482
+A|Well, girls at that age, Video games, boys and malls.|sv|2482
+B|Uh-huh.|b|2482
+B|Yeah,|b|2482
+B|yeah.|b|2482
+A|Not necessarily in that order, and friends of course.|sv|2482
+B|Uh-huh.|b|2482
+A|And, that's a little tough for fathers.|sv|2482
+B|Uh-huh.|aa|2482
+B|I imagine.|sd|2482
+A|Fathers don't even like malls,|sv|2482
+A|they despise shopping.|sv|2482
+B|Uh.|%|2482
+A|So, is that quality time?|qh|2482
+B|Huh,|b|2482
+B|no,|aa|2482
+B|I think not.|sd|2482
+A|Yeah,|b|2482
+A|if,|%|2482
+A|but there is camping|sd|2482
+A|and we both enjoy that.|sd|2482
+B|Uh-huh,|b|2482
+B|she likes to do that?|qy^d|2482
+A|Somewhat, yeah,|ny|2482
+A|yeah .|ny|2482
+B|Yeah|b|2482
+B|, yeah.|b|2482
+B|Well, that's good.|ba|2482
+A|Getting up in the mountains and getting away from it all|sd|2482
+A|and, that's somewhat fun.|sd|2482
+B|Uh-huh.|b|2482
+B|Uh-huh.|b|2482
+B|She ...|%|2482
+A|It's ,|%|2482
+B|Huh?|br|2482
+A|so what do you think about child rearing?|qo|2482
+A|Is,|%|2482
+A|how, how would you spend time with kids?|qw|2482
+B|Probably doing outdoorsie stuff, and keeping, trying to keep them away from the T V, I guess And, McDonald's|sd|2482
+A|Oh, yeah.|ba|2482
+B|I, I always said that if I had a kid they wouldn't know what McDonald's is.|sd|2482
+A|Yeah,|b|2482
+A|but|%|2482
+B|But , they learn from their friends,|sv|2482
+B|don't they?|^g|2482
+A|Well, yeah,|ny|2482
+A|and amazingly a lot of times it's real easy.|sd|2482
+B|Uh-huh.|b|2482
+A|You know, a lot of times, whenever we head out of town on a trip or something, it's real easy to swing in there for breakfast.|sd|2482
+B|Uh-huh.|b|2482
+B|Yeah.|b|2482
+A|Breakfast and run.|sd|2482
+B|Yeah.|b|2482
+A|And breakfast is a kind of a funny meal anyway,|sv|2482
+B|Yeah.|aa|2482
+B|It is.|aa|2482
+A|and, uh, kids eat funny.|sv|2482
+B|This lady in our bass club, we had a tournament yesterday|sd|2482
+B|and she was talking about her daughter, said, one week her daughter will, uh, be on a no meat kick,|sd|2482
+B|and one week she'll eat nothing but Twix candy bars, you know,|sd|2482
+B|she just eats weird.|sd|2482
+A|And little girls are worse about it than little boys.|sv|2482
+B|Yeah,|b|2482
+B|yeah.|b|2482
+A|They ...|%|2482
+B|They're always wanting to go on a diet or something.|sv|2482
+A|Or, or something, yeah.|aap_am|2482
+B|Uh-huh.|b|2482
+A|Go on a diet or they, they have a, well,|sd|2482
+A|to some extent the public schools, or the schools in general, influence them, the eating meat kick.|sv|2482
+B|Uh-huh.|b|2482
+B|Uh-huh.|b|2482
+B|Yeah.|b|2482
+A|You know, like it's really morally wrong to eat meat or something, I, I'm not sure.|sd|2482
+B|Uh-huh.|b|2482
+A|Of course, that's not the way I was raised, being raised in West Texas.|sd|2482
+B|Yeah.|b|2482
+B|Oh, is that where you're from?|qy|2482
+A|Oh, yeah.|ny|2482
+B|Uh-huh.|b|2482
+A|Born in Denton, raised in Lubbock.|sd|2482
+B|Oh. Um.|b|2482
+A|So, I understand about bass.|sd|2482
+B|Yeah|b|2482
+B|Huh.|b|2482
+A|But it, but it is interesting,|sv|2482
+B|Uh-huh.|b|2482
+A|I, I will tell you,|^h|2482
+A|yeah.|%|2482
+A|Every person out there should have kids, at least once or, or have some they can borrow for a time, because everyone needs some torture in their lives.|sv|2482
+B|That's the kind I like.|sd|2482
+B|My Mother used to put that curse on my sister.|sd|2482
+B|I hope you have kids just like yourself.|^q|2482
+B|And, my Grandmother must have put that on my Dad because he got my sister,|sd|2482
+B|she's just like him.|sd|2482
+A|Uh. But, Jenny is a sweet kid.|sd|2482
+B|Yeah,|b|2482
+B|I'm sure she is.|sv|2482
+A|And, yeah,|b|2482
+A|we do do things,|sd|2482
+B|Yeah.|b|2482
+A|and, it, it's funny,|sd|2482
+A|it's almost like a lot of things that were available to us as children, to go do,|sd|2482
+B|Uh-huh.|b|2482
+B|Uh-huh.|b|2482
+A|The money's not available.|sd|2482
+B|Uh-huh,|aa|2482
+B|I know,|aa|2482
+B|I don't know how people can afford kids.|sd|2482
+B|I mean ...|%|2482
+A|You know , we were talking about how much it cost to go to Disney Land.|sd|2482
+B|Uh-huh.|b|2482
+A|Golly!|ba|2482
+A|A couple,|sd|2482
+A|three hundred dollars.|sd|2482
+B|Oh, yeah.|ba|2482
+A|You know, for just, for just a day, not you know, a day or two, not including lodging and food and all that.|sd|2482
+B|Uh-huh,|b|2482
+B|uh-huh.|b|2482
+A|It's,|%|2482
+A|I don't see how anyone can afford it.|sd|2482
+B|Uh.|%|2482
+A|And, I understand Six Flags is real expensive now.|sd|2482
+B|It's, uh,|%|2482
+B|I heard it's twenty bucks a whack.|sd|2482
+B|For adults.|sd|2482
+A|Oh, yeah.|ba|2482
+B|Yeah.|b|2482
+B|That is awful high.|sv|2482
+B|Oh, well ...|%|2482
+A|Twenty bucks a whack now.|b^m|2482
+B|Yeah,|aa|2482
+B|or twenty-one.|sd|2482
+A|But, at least once you pay your way in there,  at Six Flags ...|sd|2482
+B|Yeah,|b|2482
+B|yeah .|b|2482
+B|yeah,|b|2482
+B|everything's free except for the food.|sd|2482
+A|Yeah,|b|2482
+A|yeah,|b|2482
+A|food and junk to carry out.|bf|2482
+A|So that's, that's not as bad.|sv|2482
+B|Yeah.|b|2482
+B|Yeah.|b|2482
+A|But, golly!|ba|2482
+A|You know, Disney World or Disney Land.|sd|2482
+B|Uh-huh.|b|2482
+A|Well, our problem is that, you know, a trip to Six Flags or Disney World or, uh, Disney Land, or God forbid, Disney World, would take forever.|sd|2482
+B|Really.|b|2482
+A|Or you'd have to pay air fare,|sd|2482
+B|Uh-huh.|b|2482
+A|and, ooh, for a family, you know, for a family it gets pretty expensive pretty quick.|sv|2482
+B|OH, yeah.|ba|2482
+A|Rent a car when you get there and all that.|sd|2482
+A|Yeah.|%|2482
+B|That's why I lucked out,|sd|2482
+B|my Dad worked for Braniff when I was a kid so we got, you know, our air fare free|sd|2482
+B|and we got ...|sd|2482

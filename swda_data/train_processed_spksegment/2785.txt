@@ -1,0 +1,249 @@
+A|Okay.|fo_o_fw_"_by_bc|2785|0
+A|uh, we're going to talk about our lawn and garden chores,|sd|2785|0
+A|do you have either one?|qy|2785|0
+B|Well, I don't do anything with the lawn really,|ng|2785|1
+B|but I do gardening,  both flowers and vegetable gardening.|sd|2785|1
+A|Do you .|b|2785|0
+A|Oh, really?|bh|2785|0
+B|Um, I,|%|2785|1
+B|we have enough property that we can have a little bit of a garden|sd|2785|1
+B|and that's fun,|sd|2785|1
+B|well, actually Wally's had one even when we haven't had big yard because, um, we enjoy that.|sd|2785|1
+B|We love fresh vegetables in the summer,|sd|2785|1
+B|and it's just one of the things I enjoy doing.|sd|2785|1
+A|So do I.|sd|2785|0
+A|I would,|%|2785|0
+A|I had rather be outside than, than inside any day.|sd|2785|0
+B|So would I|sd|2785|1
+A|Do you work during the week, uh, outside the home?|qy|2785|0
+B|Yes,|ny|2785|1
+B|I do.|sd|2785|1
+A|Uh-huh.|b|2785|0
+B|Uh, so I manage to fit in my gardening chores afterward,|sd|2785|1
+B|I work for a school system|sd|2785|1
+B|so I'm able to do that, um, because I get home a little earlier,|sd|2785|1
+A|Yes.|b|2785|0
+B|and I can still do some, some sorts of things|sd|2785|1
+B|but,|%|2785|1
+A|Or you sneak out in the morning after daylight savings time starts and with your cup of coffee and see if it has grown overnight.|sv|2785|0
+B|Oh, absolutely|aa|2785|1
+A|Well, I unfortunately am not gardening this year.|sd|2785|0
+A|I love gardening,|sd|2785|0
+A|in fact, I was prevented at like no, about thirty years ago with a life membership, uh, from the Richmond, Virginia counsel of garden clubs.|sd|2785|0
+B|Wow.|ba|2785|1
+A|And it wasn't because I was so good,|sd|2785|0
+A|but I organized a very large garden club,|sd|2785|0
+A|but I still have, uh,|sd|2785|0
+B|Oh, that's wonderful.|ba|2785|1
+A|It, well, it's always something that seems so odd to me|sd|2785|0
+A|but, uh,|%|2785|0
+B|But that, that's,|%|2785|1
+B|and you really feel you can accomplish something|sv|2785|1
+B|and to help other people too, that's neat.|sv|2785|1
+A|Yes,|aa|2785|0
+A|it has really nothing to do with, uh, actual gardening or flower arranging or anything like that,|sv|2785|0
+B|Uh-huh.|b|2785|1
+A|it was just that I happened to organize this group,  that was about seventy people.|sd|2785|0
+B|Right.|b|2785|1
+B|That's wonderful.|ba|2785|1
+A|That,|%|2785|0
+A|isn't,|%|2785|0
+A|yeah,|b|2785|0
+A|that, that,|%|2785|0
+B|Yeah.|b|2785|1
+A|those numbers were, were great|sv|2785|0
+A|but it,|%|2785|0
+B|Yeah,|b|2785|1
+B|well, I think it sounds good.|ba|2785|1
+B|I've never belonged to a garden club because I've always been more interested in just doing what I can do on my own,|sd|2785|1
+B|I've never had,  the time really to get involved in the organized sort of format,|sd|2785|1
+A|Yes.|b|2785|0
+B|but I know people who do it and, and enjoy it very much.|sd|2785|1
+A|Well, and actually, I think that most women's garden clubs that I've been aware of in the past, uh, are only flowers,|sd|2785|0
+A|what I would like,|sd|2785|0
+A|we've spent the last twenty years in Oklahoma.|sd|2785|0
+A|Just moved to, to North Carolina,|sd|2785|0
+B|Oh.|b|2785|1
+A|and, uh, we were originally, of course, from this area, from Virginia,|sd|2785|0
+A|but, uh, in North, uh,|%|2785|0
+A|in Oklahoma, it's the men's garden clubs that I would have wanted to join.|sd|2785|0
+B|My word.|ba|2785|1
+A|And you would have because they do all kinds of, uh, gardening and not just flowers like women do.|sd|2785|0
+B|For heaven's sake.|ba|2785|1
+A|Uh-huh|b|2785|0
+A|Uh-huh.|b|2785|0
+B|Well, um, there aren't men's gardening clubs in this area that I know of,|sd|2785|1
+B|they're, they're women.|sd|2785|1
+B|But, um, and usually they're the tea type things, you know, where they have a little luncheon|sd|2785|1
+B|and they do their thing.|sd|2785|1
+A|Uh-huh.|b|2785|0
+B|But, um, flowers are primarily the emphasis,  um, whereas I enjoy vegetable gardening almost more, I do flowers sort of look pretty|sd|2785|1
+A|Yes,|aa|2785|0
+A|I think so too.|sd|2785|0
+B|but I, I really like to do the vegetables.|sd|2785|1
+A|Yes,|b|2785|0
+A|and, and I have spent the last ten, ten years being a florist.|sd|2785|0
+B|Being what?|br|2785|1
+A|Being a florist.|sd|2785|0
+B|Oh, my.|ba|2785|1
+B|Well, what a wonderful thing.|ba|2785|1
+A|It was nice,|sd|2785|0
+A|it was exhilarating, uh, for many years.|sd|2785|0
+B|Yes.|b|2785|1
+A|Uh, many of those tanned until the last couple when, uh, we had such an economic slowdown.|sd|2785|0
+B|Oh, terrible|ba|2785|1
+B|yeah.|b|2785|1
+A|Yeah,|b|2785|0
+A|well, tell me what's in your garden this year, since I don't have one.|ad|2785|0
+B|Okay.|aa|2785|1
+B|Well, uh, the flowers I'm just,|sd|2785|1
+B|in fact, I was going to go out today to buy some plants so I could put them in,|sd|2785|1
+B|I, I always have geraniums|sd|2785|1
+B|and,  um, and then I have a shady area that I need to, uh, be concerned about not getting something that has to have sun,|sd|2785|1
+A|Uh-huh.|b|2785|0
+B|so I've discovered that, uh, impatiens that tried and true is, turns out to be about the best thing to use there along with coleus. Because they, uh, look pretty and, in my front garden, uh,|sd|2785|1
+A|Uh-huh.|b|2785|0
+B|but I like the vinca which is something I hadn't,|sd|2785|1
+B|they look sort of like impatiens,|sd|2785|1
+B|you know, but they're not quite|sd|2785|1
+B|and they're better for the sun areas.|sd|2785|1
+B|Um, and, of course, you know, the, mine are old theory ordinary flowers, marigolds and, and that sort of thing.|sd|2785|1
+A|Yes.|b|2785|0
+B|In my,|%|2785|1
+A|Do you have trouble with red spider on marigolds?|qy|2785|0
+B|No.|nn|2785|1
+B|I don't.|sd|2785|1
+A|Maybe it's,|%|2785|0
+B|I don't know,|h|2785|1
+B|maybe this climate is a little better.|sd|2785|1
+A|Yes,|b|2785|0
+A|uh-huh,|b|2785|0
+A|uh-huh.|b|2785|0
+B|Um, but in the vegetable garden we grow, um, usually, what|sd|2785|1
+B|our favorite is something called white half runner green beans ,|sd|2785|1
+B|now that's,|%|2785|1
+A|Do you,|qy|2785|0
+A|isn't that funny,|ba|2785|0
+A|so is my favorite.|sd|2785|0
+B|Well, you know why, because I grew up in North Carolina,|sd|2785|1
+A|Okay.|b|2785|0
+B|and that was my mother's, um, favorite bean|sd|2785|1
+B|she she always grows, you know, five different varieties,|sd|2785|1
+A|Yeah.|b|2785|0
+B|but that's the kind that produces the best.|sd|2785|1
+A|Yeah,|aa|2785|0
+A|well, I think it has the best flavor.|sd|2785|0
+B|And, and they're wonderful,|sd|2785|1
+B|and I pick them when they're very young and have very little string and then just steam them a little bit,|sd|2785|1
+B|my mother picks them when they're fat|sd|2785|1
+B|and she cooks them for an hour with some fat backs ,|sd|2785|1
+A|Yes,|b|2785|0
+A|uh-huh,|b|2785|0
+A|well, I like them in between.|sd|2785|0
+B|and they're good both ways.|sd|2785|1
+A|I like them in between.|sd|2785|0
+B|Yeah,|b|2785|1
+B|yeah.|b|2785|1
+A|The flavor is better I think in between.|sd|2785|0
+B|Oh, in between the|%|2785|1
+B|size wise|%|2785|1
+B|yeah,|b|2785|1
+A|Yes,|b|2785|0
+A|yeah.|b|2785|0
+B|yeah.|b|2785|1
+A|Uh-huh.|b|2785|0
+A|My mother,|sd|2785|0
+B|Well, my mother doesn't think they have any flavor the way I cook them|sd|2785|1
+A|Well, and I know I love them,|sd|2785|0
+A|well, that's the yankee way.|sd|2785|0
+A|But I think,  that's like another vegetable.|sd|2785|0
+B|Oh, of course.|ba|2785|1
+A|I love them that way just, just the thrill of,|sd|2785|0
+B|Yeah,|aa|2785|1
+B|it is.|sd|2785|1
+B|They're two different vegetables that way,|sd|2785|1
+B|uh-huh.|b|2785|1
+A|Uh-huh,|b|2785|0
+A|uh-huh.|b|2785|0
+A|In fact, I, my mother, who is eighty-six years old, canned over a hundred quarts of half runners last year.|sd|2785|0
+B|Oh, my gosh.|ba|2785|1
+B|My does, mother will be ninety this year|sd|2785|1
+B|and she lives in western North Carolina|sd|2785|1
+B|and, uh, she would do that if, if we didn't tell her that she'd better not|sd|2785|1
+A|Yes,|b|2785|0
+A|uh-huh,|b|2785|0
+A|yes.|b|2785|0
+B|But she doesn't have that big a garden,|sd|2785|1
+B|but she has a bigger one than I do.|sd|2785|1
+A|yes.|b|2785|0
+B|And I have four children, you know,|sd|2785|1
+B|so,|%|2785|1
+A|And she tends to it herself?|qy|2785|0
+B|Oh, yes,|ny|2785|1
+B|oh, yes.|ny|2785|1
+A|Uh-huh,|b|2785|0
+A|isn't that wonderful.|ba|2785|0
+B|Oh, it is,|aa|2785|1
+B|it's great.|sd|2785|1
+B|It's, it's really her joy|sd|2785|1
+B|and I suppose that's why I enjoy gardening,  because, you know, growing up with it.|sd|2785|1
+A|I think so too.|sd|2785|0
+A|Yeah.|b|2785|0
+B|We also grow, um, yellow and green squash,  um, much to my children's chagrin,|sd|2785|1
+A|Uh-huh.|b|2785|0
+A|Right.|b|2785|0
+B|and, uh, we grow a lot of tomatoes, uh,|sd|2785|1
+A|Uh-huh.|b|2785|0
+B|there's just no replacement for fresh grown tomatoes.|sd|2785|1
+A|No.|aa|2785|0
+B|So, we enjoy that,|sd|2785|1
+B|um, we grow|sd|2785|1
+B|I, I have been trying to grow watermelon and cantaloupe and get teased by my family|sd|2785|1
+B|but I actually was successful for the last two years,|sd|2785|1
+B|so.|%|2785|1
+A|Wonderful.|ba|2785|0
+B|I'm going to do it again.|sd|2785|1
+A|Bet you showed them.|sv|2785|0
+B|That's right.|ba|2785|1
+B|And we grow broccoli.|sd|2785|1
+A|Oh.|b|2785|0
+B|And I have been very, uh, happy about the new way of controlling the, the, uh, worm that gets in broccoli, um, by using the Bacillus Thuringiansis which is the, uh, little,|sd|2785|1
+B|well, in fact, that's what they use for gypsy moth,|sd|2785|1
+B|I don't know if you have had that problem there or not.|qy^d|2785|1
+A|No.|ny|2785|0
+B|But it's, you know, it's a problem that's, that's moving south from, from the New England area.|sd|2785|1
+A|Yes.|b|2785|0
+B|And they devastate the trees|sd|2785|1
+B|so they, they spray, the government, uh, sprays, um, two, three times in the spring when the, uh, caterpillars are, are coming along because what they do, this, this, uh, bacillus, um, the worms ingest it|sd|2785|1
+B|and it expands in their, in their, um, digestive tract|sd|2785|1
+B|and they die.|sd|2785|1
+A|Uh-huh.|b|2785|0
+B|So, that's the same technique that is, you know, for any of the other, uh, little varmints that get in vegetables|sd|2785|1
+B|so it,|%|2785|1
+B|that's really very nice because it's a non toxic way of, of handling the problem.|sd|2785|1
+A|Great.|ba|2785|0
+A|Well, we could we could really talk gardening a long time.|sd|2785|0
+A|I'm enjoying hearing you so much|sd|2785|0
+B|Well, it's nice hearing you talk|sd|2785|1
+B|and I'm, I wish you, uh, good luck,|sd|2785|1
+B|have you just recently moved to Charlotte?|qy|2785|1
+A|Um,|%|2785|0
+A|no,|nn|2785|0
+A|October.|sd|2785|0
+B|Oh, so, well, that's not very long.|sv|2785|1
+A|Uh, so, yes,|ny|2785|0
+A|recently seven months|sd|2785|0
+A|and it,|%|2785|0
+B|Yes.|b|2785|1
+A|the weather is wonderful,|sd|2785|0
+A|I love it.|sd|2785|0
+B|Oh, that's great,|ba|2785|1
+B|that's great.|ba|2785|1
+A|It is just terrific,|sd|2785|0
+A|you know, rains a little too often.|sd|2785|0
+B|Well, I hope you have a, an opportunity to garden again.|sd|2785|1
+A|Oh, I think so,|sd|2785|0
+A|I have a little spinach|sd|2785|0
+B|Oh, well, good|ba|2785|1
+A|Bye-bye.|fc|2785|0
+B|Bye-bye.|fc|2785|1

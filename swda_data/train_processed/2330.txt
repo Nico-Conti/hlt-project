@@ -1,0 +1,100 @@
+A|There we go.|fo_o_fw_"_by_bc|2330
+B|Yeah.|b|2330
+B|Well, uh, I think the weather lately has been a bit warmer than I would expect this time of year.|sv|2330
+A|I think that's true.|aa|2330
+A|The, uh, the Bermuda grass is greening up in March,|sd|2330
+A|and sometimes doesn't really start doing that until the first part of April.|sd|2330
+A|So. So I think we're a little ahead of schedule on that.|sv|2330
+B|Yeah.|b|2330
+B|Yeah,|b|2330
+B|I was out in my yard yesterday afternoon,|sd|2330
+B|and I noticed all that grass coming up,|sd|2330
+B|and I thought, ooh,|sd|2330
+B|we've got to start this mowing bit soon|^q|2330
+A|That's true.|aa|2330
+A|It's been a, a fun break,|sd|2330
+A|but the break is over.|sd|2330
+B|Yeah.|b|2330
+B|Well, um, oh, I guess another thing I've noticed, too, here lately is that even though we've had some pretty warm days, it's been awfully gray, you know, just,|sv|2330
+A|Yeah,|b|2330
+A|now, the last couple of weekends have been nice and sunny.|sd|2330
+B|Yeah.|b|2330
+B|But it seems like every time at work I look out my window it's gray|sd|2330
+A|Well, yeah,|b|2330
+A|but I'd rather have a sunny weekend than a gray weekend.|sv|2330
+B|Oh, I go for that,|aa|2330
+B|yeah.|aa|2330
+A|Yeah.|b|2330
+B|In fact, I'm a little worried about this one coming up here.|sd|2330
+B|We have a long weekend|sd|2330
+B|and, it sounds like it's going to be a little bit on the cool side.|sd|2330
+A|Yeah.|b|2330
+A|I haven't heard whether it's going to rain or not.|sd|2330
+B|I think there's an eighty percent chance this evening,|sd|2330
+B|but it's supposed to be cleared out at least by noon tomorrow|sd|2330
+B|and then the rest will be without rain.|sd|2330
+A|Well, that's good.|ba|2330
+B|But I think the highs are going to be in the sixties, and the lows in the forties.|sd|2330
+B|That's getting back to a little bit chillier.|sd|2330
+A|Yeah,|b|2330
+A|that probably is a little bit under what it is for this time of year.|sv|2330
+A|I think,|%|2330
+A|I haven't seen the the weather on the news in the evening lately,|sd|2330
+A|but I think the average high would be, should be about seventy.|sd|2330
+B|Yeah.|b|2330
+B|I'm not certain either,|sd|2330
+B|but you're probably right.|sv|2330
+A|Yeah.|b|2330
+B|Well, I like it when it's sort of a medium temperature, uh, maybe seventy-five to eighty, somewhere in there.|sd|2330
+B|I don't like it when it's too cool or too warm.|sd|2330
+B|I'm much more apt to get things done when it's at that sort of in between temperature.|sd|2330
+A|Yeah,|aa|2330
+A|that's true.|aa|2330
+A|Um, one of the remarkable things about the weather in the summertime here is that quite often the average daytime high of say ninety-nine degrees is within five or six degrees of the all time record high.|sd|2330
+B|Um.|b|2330
+A|And what that tells me, is that the summer weather is very predictable, that it doesn't vary very much.|sv|2330
+B|Yeah.|aa|2330
+B|You're probably right.|aap_am|2330
+A|I mean, any other time of year, that's not the case, because it could be very warm or very cold.|sd|2330
+B|Yes,|b|2330
+B|as a matter of fact, I heard the weather the other day on T V|sd|2330
+B|and I think it was one day this week a year ago|%|2330
+A|Uh-huh.|b|2330
+B|they said that we had a freeze and some kind of bad weather. You know|sd|2330
+A|Right.|b|2330
+B|it wasn't just a super bad storm,|sd|2330
+B|but it was it was that sort of thing that we never like to see in the, the late spring time.|sd|2330
+A|Right.|b|2330
+A|Yeah.|b|2330
+A|One of the weirdest things I saw, I think it was around this time last year was a twenty-six degree lightening storm.|sd|2330
+B|Oh, wow.|ba|2330
+A|I, you know, I was going into the grocery store,|sd|2330
+A|and a, a lightening bolt was almost directly overhead,|sd|2330
+A|and it was six degrees out.|sd|2330
+B|Um.|b|2330
+A|And I thought, Well gee, I've, I've never known it to lightening at that temperature.|sd|2330
+B|Yeah,|aa|2330
+B|that, that is pretty unusual.|sd|2330
+B|And you really take notice of it, too.|sd|2330
+A|That's right.|aa|2330
+A|It, uh, it probably was a lot warmer up high.|sv|2330
+A|Sometimes they get those inversions, like when we had that twelve and a half days a few years ago that it never got up as high as freezing.|sd|2330
+A|The air temperature at five thousand feet was fifty degrees.|sd|2330
+B|Um.|b|2330
+A|The cold weather was just simply trapped along the ground and couldn't get away.|sd|2330
+B|Wow.|ba|2330
+B|I don't, don't like that super cold stuff.|sd|2330
+A|Nope.|aa|2330
+B|I just don't move very well when it's that cold.|sd|2330
+A|Yep,|aa|2330
+A|I, I'm really enjoying this now.|sd|2330
+A|Well, this has been interesting.|sv|2330
+B|Yeah, well.|aa|2330
+A|Not too challenging to the brain.|sv|2330
+B|Not, not a real in depth topic, but enjoyed talking to you.|sv|2330
+A|Nope.|aa|2330
+A|All right, Ellen,|fo_o_fw_"_by_bc|2330
+A|well you have a good day.|fc|2330
+B|Okay.|fc|2330
+A|Bye.|fc|2330
+B|Bye-bye.|fc|2330

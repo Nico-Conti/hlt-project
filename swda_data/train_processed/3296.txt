@@ -1,0 +1,195 @@
+A|Now we're ready.|fo_o_fw_"_by_bc|3296
+A|Do you have a personal computer?|qy|3296
+B|We have one.|na|3296
+A|You do, in your home?|qy|3296
+B|Yes,|ny|3296
+B|yes, ma'am.|ny|3296
+A|I do not have one in my home.|sd|3296
+A|I use one all day at work,|sd|3296
+A|but I don't have one at home.|sd|3296
+B|Do you wish you,|%|3296
+A|Do you find you use it a lot?|qy|3296
+B|I don't use it as much as my children and my husband do.|ng|3296
+B|My, actually my husband and I are taking a class at our local junior college called micro, micro computers one o one|sd|3296
+B|and we're just touching on data base, spreadsheets and word processing and just kind of, you know, different kinds of storage|sd|3296
+B|and we're just kind of touching on a basic computer.|sd|3296
+A|Uh-huh,|b|3296
+A|uh-huh.|b|3296
+A|What kind do you have?|qw|3296
+B|We have an I B M compatible.|sd|3296
+B|It's a Gateway brand that we bought mainly for our children to have educational programs.|sd|3296
+A|Uh-huh.|b|3296
+A|Uh-huh.|b|3296
+A|Well, that sounds interesting.|ba|3296
+B|Yeah.|b|3296
+B|What kind of a computer do you use at work?|qw|3296
+A|I have a, a P S one I B M type.|sd|3296
+B|Uh-huh.|b|3296
+A|Uh, and I use it all day at work|sd|3296
+A|and I put all my personal stuff on it at work|sd|3296
+B|Uh-huh.|b|3296
+A|So I really don't, haven't had a need for one at home|sd|3296
+A|but probably if I didn't have access to one all the time at work, I'd want one at home.|sd|3296
+B|Right.|b|3296
+B|I worked on my airline Apollo Focal Point computer for about four years. Which was different|sd|3296
+A|Uh-huh.|b|3296
+A|Yeah.|b|3296
+B|But I didn't,|%|3296
+A|What is that tracing, tracking the flights and things?|qy|3296
+B|Right,|na|3296
+B|right.|na|3296
+A|Uh.|b|3296
+B|How long are we supposed to talk on this?|qw|3296
+A|They tell us when we're through.|sd|3296
+B|Oh, okay,|bk|3296
+B|okay.|bk|3296
+B|This is, This is my very first time.|sd|3296
+A|They come in and tell us.|sd|3296
+A|Have you just started doing this?|qy|3296
+A|Oh really?|bh|3296
+B|Yes.|ny|3296
+A|They'll come in and tell us that the switchboard is full now|sd|3296
+A|and it's time for you to wind up in the next thirty seconds or something like that.|sd|3296
+B|Oh, okay.|bk|3296
+A|It's not more than five|sd|3296
+B|Uh-oh.|ba|3296
+A|But, I'm going to ignore that.|sd|3296
+A|That's a call on my other line,|sd|3296
+A|so I'm just going to ignore it.|sd|3296
+B|Oh, okay.|b|3296
+A|But,|%|3296
+B|Oh, okay.|b|3296
+B|That, I have that, too.|sd|3296
+A|It's kind of a hassle when you have this,|sv|3296
+A|but other times it.|%|3296
+B|where do you work?|qw|3296
+A|I work at Texas Instruments.|sd|3296
+B|Oh, you do?|bh|3296
+A|Yes.|ny|3296
+B|Oh, well, of course.|ba|3296
+A|I sure do.|sd|3296
+B|Of course.|ba|3296
+B|That's why you why you're making these calls, right?|qy|3296
+A|Well, no,|nn|3296
+A|I'm doing this at home.|sd|3296
+A|I'm already home for the day.|sd|3296
+B|Oh, I see.|bk|3296
+B|Well, this is a pretty good deal.|sv|3296
+A|I do it, you know, I can't do it at work.|sd|3296
+A|I, I'm, I work in the legal department|sd|3296
+A|so I'm pretty busy.|sd|3296
+B|Uh-huh.|b|3296
+A|But I use my P C there mostly for creating legal documents.|sd|3296
+A|We use Word Perfect, Lotus.|sd|3296
+B|Uh-huh.|b|3296
+A|Uh,|b|3296
+B|Oh, you do know Lotus, huh?|qh|3296
+B|Oh, that's great.|ba|3296
+B|That's something we want to learn.|sd|3296
+A|Yeah,|b|3296
+A|it's really,|%|3296
+A|I love Lotus.|sd|3296
+B|Oh.|b|3296
+A|I think that's about my favorite.|sd|3296
+B|I've heard that people that finally learn how to use it really like it.|sd|3296
+A|Uh-huh.|b|3296
+B|That's great.|ba|3296
+A|It really is,|aa|3296
+A|and I know there's still a hundred things I don't know how to do on it.|sd|3296
+B|Uh-huh.|b|3296
+A|But, uh, you know, you learn something every time you use it.|sd|3296
+B|I have a question.|sd|3296
+B|On this, this thing that I'm, this survey or whatever, you know, this I volunteered for.|sd|3296
+A|Uh-huh.|b|3296
+B|Do I start calling in myself|qy|3296
+B|or do I wait for people to call me?|qrr|3296
+A|You can,|na|3296
+A|did they give you a number to call?|qy|3296
+B|Right,|na|3296
+B|and eight hundred number.|sd|3296
+A|You can start calling in whenever it's convenient for you|sd|3296
+A|but you can only make one call a day.|sd|3296
+B|Oh, only one a day.|bk|3296
+A|Yeah,|b|3296
+A|if you've talked to someone, like you're talking to me now and I place the call, this counts as your call.|sd|3296
+B|Right.|b|3296
+B|Oh,|bk|3296
+A|So you cannot make a call now until tomorrow.|sd|3296
+B|Oh, I see.|bk|3296
+B|Okay,|bk|3296
+B|so then, do you get the five bucks|qy|3296
+B|or do I?|qrr|3296
+A|No,|nn|3296
+A|we both do.|sd|3296
+B|Oh, we both do.|bk|3296
+B|Well that's a,|%|3296
+A|Didn't they ask you for your I D number when you answered?|qy|3296
+B|Right,|na|3296
+B|I had to put that in.|sd|3296
+A|Okay|bk|3296
+A|so you both do.|sd|3296
+B|Well, that's a pretty good deal.|ba|3296
+A|From what I understand.|aa|3296
+B|So why, why are we doing this?|qy|3296
+A|It's for research.|sd|3296
+B|Actually, I'm doing this for somebody else but, you know, for a friend of mine.|sd|3296
+A|It's a research type project on uh, voice activated electronics, you know.|sd|3296
+B|Uh-huh.|b|3296
+B|Oh.|bk|3296
+A|To, uh,|%|3296
+A|it's, uh|%|3296
+B|It's almost like that, Like a voice command computer type thing, oh.|sd|3296
+A|well they call it the speech lab that is setting this thing up.|sd|3296
+A|Uh-huh.|b|3296
+A|Uh-huh.|b|3296
+A|They're doing research for a lot of big companies from what I understand on this.|sd|3296
+A|Now I don't know, I don't know everything about it|sd|3296
+B|Well, that's wonderful.|ba|3296
+A|but they, uh, try to get as many people as they possibly can to contribute to this|sd|3296
+A|and that way they can check voice patterns.|sd|3296
+B|I see,|bk|3296
+B|different kinds of voices and things.|bf|3296
+A|Uh-huh,|aa|3296
+A|and get the computer where it recognizes voices.|sd|3296
+B|Wonderful.|ba|3296
+B|See that's why I, it's interesting because you have I, I'm going to say you have an accent|sv|3296
+A|Well, I probably do because I've,|aa|3296
+B|And I, and I think that I don't.|sv|3296
+B|I mean to you|%|3296
+B|but,|%|3296
+B|you know.|%|3296
+A|Well, I've been I was born and raised in Texas.|sd|3296
+A|Have lived here forever|sd|3296
+A|so I probably do.|aa|3296
+B|And you're in what city?|qw|3296
+A|I'm in Richardson.|sd|3296
+A|It's right outside of Dallas.|sd|3296
+B|Okay,|bk|3296
+B|my sister, one of my sisters lives in Plano.|sd|3296
+A|Uh-huh.|b|3296
+B|And that's right outside of,|sd|3296
+A|Well, Richardson's right between Dallas and Plano.|sd|3296
+B|How about that.|ba|3296
+B|I probably went through Richardson, then.|sv|3296
+A|You probably did.|aa|3296
+B|And then I have a sister that lives in Austin.|sd|3296
+A|Uh-huh.|b|3296
+B|But,|%|3296
+A|Well, what are you doing way in Washington?|qw|3296
+B|Well, we're actually all from Nebraska.|sd|3296
+B|They just are recently moved there.|sd|3296
+B|My brother-in-law is director of Admissions at the University of Texas in Dallas.|sd|3296
+A|Uh-huh.|b|3296
+A|Well, that's interesting.|ba|3296
+B|Yeah,|b|3296
+B|and then my sister works at the Air Force Base.|sd|3296
+A|Uh-huh.|b|3296
+A|So I imagine they use personal computers.|qy^d|3296
+B|Actually, yes,|ny|3296
+B|they both have personal computers.|sd|3296
+A|Do they do their correspondence on it?|qy|3296
+B|Uh, I think they just send Christmas letters on it.|ng|3296
+A|Uh-huh.|b|3296
+B|As far as I,|%|3296
+B|mostly my one sister uses hers for her children. You know, children's games.|sd|3296
+A|Uh-huh.|b|3296

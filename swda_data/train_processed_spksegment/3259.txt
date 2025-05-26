@@ -1,0 +1,203 @@
+A|Okay,|fo_o_fw_"_by_bc|3259|0
+A|I'll just go with you first.|sd|3259|0
+A|What kind of eating out do you enjoy?|qo|3259|0
+B|Okay.|b|3259|1
+B|Well, I like dining out.|sd|3259|1
+B|Of course, it means that I don't have to cook.|sd|3259|1
+A|Right|b|3259|0
+B|But, um, I'm a divorced woman.|sd|3259|1
+B|I have one child|sd|3259|1
+A|Uh-huh.|b|3259|0
+B|and, you know, when, when we dine out we go to like medium priced restaurants.|sd|3259|1
+A|Uh-huh.|b|3259|0
+B|I don't, I don't particularly,|%|3259|1
+B|I think it's sort of a waste of money to go real, to a real high priced restaurant.|sv|3259|1
+A|Do you go like home cooking, like Black-Eyed Pea and that kind of thing or cafeteria?|qy|3259|0
+B|Um, Not really.|ng|3259|1
+B|We go more for the, uh, Chinese and Italian and stuff like that. Mexican, stuff that I can't cook|sd|3259|1
+A|Me too|sd|3259|0
+A|Uh-huh.|b|3259|0
+A|Mexican,|b^m|3259|0
+A|uh-huh.|b|3259|0
+A|Uh, we do too.|sd|3259|0
+A|We do the same.|sd|3259|0
+B|Yeah.|b|3259|1
+A|What are your favorite places?|qw|3259|0
+B|Um, well, I like Chinese food.|sd|3259|1
+A|Uh-huh.|b|3259|0
+B|Um, there's a little place down on, what is that? Coit Road, um, Chinese Pavilion or something. That is really good|sd|3259|1
+A|Uh-huh.|b|3259|0
+B|and I like it.|sd|3259|1
+B|And, um, I do, I do like Chinese buffets.|sd|3259|1
+A|Oh, yeah.|b|3259|0
+A|Well, we go, we've gone to August Moon|sd|3259|0
+A|and we think that was real good|sd|3259|0
+B|Uh-huh.|b|3259|1
+A|but our favorite when you have a little more to spend, is to go to Taiwan or May Dragon.|sd|3259|0
+B|Uh-huh.|b|3259|1
+A|And those are excellent.|sd|3259|0
+A|They're really a nice place you could take someone to eat.|sd|3259|0
+B|Right.|b|3259|1
+A|It's not the, the rinky Chinese decorations|sd|3259|0
+B|Uh-huh.|b|3259|1
+A|but it's a very elegant nice place to eat.|sd|3259|0
+B|Uh-huh.|b|3259|1
+A|We go, very, very often we go out for fajitas.|sd|3259|0
+A|That's|%|3259|0
+A|my husband has just gotten stuck.|sd|3259|0
+B|Oh|b|3259|1
+A|And we go to On the Border. And lots of places that have, uh, I think|sd|3259|0
+B|Uh-huh.|b|3259|1
+A|and some of those and get fajitas,|sd|3259|0
+A|and he'll just eat chips until we've got three or four baskets coming back.|sd|3259|0
+B|Uh-huh.|b|3259|1
+A|And then, uh, last weekend we went out for Italian also,|sd|3259|0
+A|and for some reason the cooler weather makes me tend to want to go eat lasagna and garlic bread|sd|3259|0
+B|Right,|b|3259|1
+B|uh-huh.|b|3259|1
+B|Uh-huh.|b|3259|1
+A|So, we went to El Sorrento.|sd|3259|0
+B|yeah,|%|3259|1
+B|have you ever, um tried Pappasito's?|qy|3259|1
+A|It was fun.|sd|3259|0
+A|You know, what?|qh|3259|0
+A|This is, that's real funny you said that because we were coming back Sunday on Central from church|sd|3259|0
+A|and Bob pointed to it|sd|3259|0
+A|and he said, "I keep hearing good things about that place,|sd|3259|0
+A|we're going to have to go."|^q|3259|0
+B|Oh, it is delicious.|sd|3259|1
+A|That's what he,|%|3259|0
+A|in fact, you're about the third or fourth person in the last month that said that.|sd|3259|0
+B|Uh-huh.|b|3259|1
+A|So I guess we'll have to do it.|sd|3259|0
+B|It's,|%|3259|1
+B|you always stand in line when you go|sd|3259|1
+A|That's what it, that's what|%|3259|0
+B|but it's worth the wait.|sd|3259|1
+A|D MAGAZINE said that.|sd|3259|0
+A|It said there was always a line.|sd|3259|0
+B|Uh-huh.|b|3259|1
+A|But that's probably, I mean that's a good, that's a good sign.|sv|3259|0
+B|Uh-huh.|aa|3259|1
+B|And have you ever tried, um, the Macaroni Grill up on,|qy|3259|1
+A|Yes,|ny|3259|0
+A|we did.|sd|3259|0
+A|Now, my kids didn't like it because they just wanted to get plain old spaghetti or lasagna,|sd|3259|0
+B|Uh-huh.|b|3259|1
+A|and most of those things were a little more northern Italy.|sd|3259|0
+B|Right.|b|3259|1
+A|And they like just the traditional.|sd|3259|0
+A|They're not very,|sd|3259|0
+B|they're the Spaghetti Warehouse type.|qy^d|3259|1
+A|Yes,|ny|3259|0
+A|they are.|sd|3259|0
+A|Exactly|aa|3259|0
+A|Exactly.|aa|3259|0
+B|Right.|b|3259|1
+A|The place of the seventies|sv|3259|0
+B|Yeah,|aa|3259|1
+B|yeah,|aa|3259|1
+B|but my little girl likes, uh, Spaghetti Warehouse real well|sd|3259|1
+A|Uh-huh.|b|3259|0
+A|Yeah,|b|3259|0
+A|most kids do.|sv|3259|0
+B|It's real entertaining for her.|sd|3259|1
+A|do you ever go for steak? Just a steak and potato and salad bar, that kind of thing.|qy|3259|0
+B|Um, not really.|ng|3259|1
+B|That's, a steak is something that I cook at home. You know, that you grill out|sd|3259|1
+A|Uh-huh.|b|3259|0
+A|Yeah.|b|3259|0
+B|and I really don't particularly, um,|%|3259|1
+A|Well, I'm, I'm real curious to try this one that has such commercials. The uh, that Del Lincoln|sd|3259|0
+A|and, oh, what is that guy's name?|t1|3259|0
+A|They do those real corny commercials.|sv|3259|0
+B|Huh.|b|3259|1
+A|It's, uh, over, there's one over there in Addison.|sd|3259|0
+A|I can't remember his name.|sd|3259|0
+A|Anyhow it's some,|%|3259|0
+B|Steak.|qy|3259|1
+A|Yeah,|ny|3259|0
+A|it's some famous steak place over in Addison.|sd|3259|0
+A|There's a, there's a second one downtown,|sd|3259|0
+A|and they have these really corny radio commercials|sv|3259|0
+B|Uh-huh.|b|3259|1
+A|but but their steak is supposed to be wonderful.|sd|3259|0
+A|So, I I had not tried that.|sd|3259|0
+A|My husband was saying that up north they have such nice restaurants where you can go after a theater or after the movie.|sd|3259|0
+B|Uh-huh.|b|3259|1
+A|And it seems like I've been,|%|3259|0
+A|we found those one time|sd|3259|0
+A|and then they discontinued.|sd|3259|0
+A|It was over in Addison.|sd|3259|0
+B|Huh.|b|3259|1
+A|And then they, uh, closed up|sd|3259|0
+B|Yes.|b|3259|1
+A|So most of these places are pretty much just, uh, theme restaurants around here.|sv|3259|0
+B|Right.|aa|3259|1
+B|I think that's what goes, you know, really goes right now in the, in the Dallas area.|sv|3259|1
+A|Uh-huh.|b|3259|0
+B|Of course, you know, down, next to downtown up around McKinney and everything you know, there's just a, there's a different class of restaurants up there that I can't even touch.|sv|3259|1
+A|Uh-huh.|b|3259|0
+A|Well, that's exactly true|aa|3259|0
+A|That's right.|aa|3259|0
+A|That's right.|aa|3259|0
+A|Yeah.|aa|3259|0
+A|That's right.|aa|3259|0
+B|You know, it would probably take my whole paycheck just to go in and have one meal up there|sv|3259|1
+A|That's|%|3259|0
+A|yeah,|aa|3259|0
+A|that's right.|aa|3259|0
+A|Uh-huh.|b|3259|0
+B|but, um,|%|3259|1
+A|I had a friend who was taken to Lawry's downtown for prime rib|sd|3259|0
+B|Uh-huh.|b|3259|1
+A|and I haven't been.|sd|3259|0
+A|We usually don't go for beef really anymore.|sd|3259|0
+B|Uh-huh.|b|3259|1
+A|Where,|%|3259|0
+A|we've gotten so used to doing chicken and things at home that that's, that's usually the way we'll go if we're not going lasagna.|sd|3259|0
+B|Right.|b|3259|1
+B|Uh-huh.|b|3259|1
+B|Yeah,|b|3259|1
+B|when, when I go out, it's, it's normally to get, um, some specialty type of food|sd|3259|1
+A|Uh-huh.|b|3259|0
+B|besides, you know, because chicken and steaks and everything I grill at home.|sd|3259|1
+A|Uh-huh.|b|3259|0
+A|I know.|ba|3259|0
+A|Well, I understand.|ba|3259|0
+B|And, and really it's, they're a lot better than what I get in the restaurant|sd|3259|1
+A|That's right,|aa|3259|0
+A|and save you some money too|sv|3259|0
+B|That's right.|aa|3259|1
+A|Well|%|3259|0
+B|Saves you a little bit money.|aa|3259|1
+A|now what is your, what's your child's favorite place to eat?|qw|3259|0
+B|Um, favorite place,|^h|3259|1
+B|uh, she has a lot,|sd|3259|1
+B|Taco Bell|sd|3259|1
+A|Oh, yeah|b|3259|0
+A|They're easy|sv|3259|0
+B|Yeah,|aa|3259|1
+B|that's right.|aa|3259|1
+A|Yeah|b|3259|0
+B|That's right.|aa|3259|1
+A|Well, mine enjoy that too.|sd|3259|0
+A|They like to go pretty much where we like to go|sd|3259|0
+A|and they'll|%|3259|0
+B|Uh-huh.|b|3259|1
+A|and then our favorite thing on Fridays, we generally order pizza in|sd|3259|0
+A|so not Pizza Inn, but pizza to our house.|sd|3259|0
+B|Right.|b|3259|1
+B|Right,|b|3259|1
+B|uh-huh.|b|3259|1
+A|So we've done.|%|3259|0
+A|Well, um, is there anything else you'd like to discuss about it?|qy|3259|0
+B|No,|nn|3259|1
+B|not that I know of.|sd|3259|1
+A|I think we've, I think it's come to an eye conclusion|fc|3259|0
+A|so I'll talk with you later.|fc|3259|0
+A|Thank you.|fc|3259|0
+B|Uh-huh,|fc|3259|1
+B|thank you.|fc|3259|1
+A|Bye-bye.|fc|3259|0
+B|Bye-bye.|fc|3259|1

@@ -1,0 +1,155 @@
+A|What kind of car would you like to buy next?|qw|3411|0
+B|Well, I guess Cadillac.|sd|3411|1
+B|I guess that's kind of everybody's dream|sv|3411|1
+A|Well, why would that be?|qw|3411|0
+B|Oh, I guess it's a General Motors product,|sd|3411|1
+B|and I like General Motors because they're made in the United States,|sd|3411|1
+B|and, uh, we've had General Motors for years and have always had real good luck with them.|sd|3411|1
+A|Okay,|b|3411|0
+A|well that's good.|ba|3411|0
+B|Uh-huh.|b|3411|1
+A|If you had, uh, no financial requirements, if you could buy any car in the entire world, no matter what it cost, what would you buy?|qw|3411|0
+B|Oh, um, I think I'd still go with the Cadillac.|sd|3411|1
+A|Do you?|bh|3411|0
+B|I don't, I don't care about a big fancy, fancy|sd|3411|1
+A|Which type of Cadillac, uh, is your favorite?|qw|3411|0
+B|Oh, I don't know.|sd|3411|1
+B|I guess the Seville, probably or.|sd|3411|1
+A|The Seville.|b^m|3411|0
+B|Yeah.|b|3411|1
+A|That's a sharp looking car.|sv|3411|0
+B|Yeah.|b|3411|1
+A|That really is.|sv|3411|0
+A|It, it always has been though. You know,|sv|3411|0
+B|Yeah,|aa|3411|1
+B|they have been.|sv|3411|1
+A|it doesn't have the Coup de Ville or the Sedan de Ville squareness.|sv|3411|0
+A|It never really has.|sv|3411|0
+A|It's always had it's own unique look.|sv|3411|0
+B|Uh-huh.|b|3411|1
+A|Well, I've always liked that.|sd|3411|0
+A|I liked the, the|sd|3411|0
+A|one year they had, a couple years they had where the trunk head would look like belt buckles across the back of it.|sd|3411|0
+B|Oh, yeah.|aa|3411|1
+B|Right.|aa|3411|1
+A|I thought, now that looks sharp|sd|3411|0
+B|Yeah.|b|3411|1
+A|that looks real sharp.|^q|3411|0
+B|Well, I think the ones now with all of the, uh, fancy gold lettering and all, you know, I think they're very pretty.|sv|3411|1
+A|Uh-huh.|b|3411|0
+B|And course the top, now the what is it, a vinyl top, I think those are pretty.|sv|3411|1
+A|Yeah,|aa|3411|0
+A|and, uh, the,|%|3411|0
+A|I, I've never really, uh, I've never ridden in one recently, um,|sd|3411|0
+A|but they're supposed to be just real smooth.|sv|3411|0
+B|Uh-huh.|b|3411|1
+A|Just a nice comfortable ride.|sv|3411|0
+B|Yeah,|aa|3411|1
+B|they are,|sd|3411|1
+B|and, uh, they, they're just always,|%|3411|1
+B|they, they look like they're sturdy you know,|sv|3411|1
+A|Uh-huh.|b|3411|0
+B|they look like they're very sturdy,|sv|3411|1
+B|and you don't have to worry that much about, um, getting, you know, hurt like you would in a small one.|sv|3411|1
+A|Right.|aa|3411|0
+A|Now they've got a unique uh, feature in them now.|sd|3411|0
+A|If, uh, if you have a front end accident at such a rate of speed, the the engine will actually drop out of the car so that it doesn't come through the, so it doesn't go, it doesn't go through the, you know, into the inside.|sd|3411|0
+A|It'll go underneath the car instead.|sd|3411|0
+B|Oh, I didn't know that.|sd|3411|1
+A|So that's, that's a big safety factor they've got in them now.|sd|3411|0
+B|Yeah,|b|3411|1
+B|and I suppose they all have the balloons.|sd|3411|1
+A|The air bags,|fo_o_fw_"_by_bc|3411|0
+A|yeah.|b|3411|0
+B|The air bags,|b^m|3411|1
+B|yeah.|b|3411|1
+B|Well.|%|3411|1
+A|So,|%|3411|0
+A|well that's great,|ba|3411|0
+A|that's great,|ba|3411|0
+B|Yeah,|b|3411|1
+B|yeah.|b|3411|1
+A|So you say you've always have preferred General Motors products .|qy^d|3411|0
+B|Yeah,|ny|3411|1
+B|I do.|sd|3411|1
+B|Um, I, I go for things, you know, built in the United States rather than foreign countries.|sd|3411|1
+A|Right.|b|3411|0
+B|Help our economy|sd|3411|1
+B|and,|%|3411|1
+A|What kind of, uh, General Motors cars have you had in the past?|qw|3411|0
+B|Mostly Oldsmobiles.|sd|3411|1
+A|Oldsmobiles.|b^m|3411|0
+A|Those are real nice riding cars too.|sv|3411|0
+B|Oh, yeah.|aa|3411|1
+B|That's what we have now,|sd|3411|1
+B|but of course if I have a choice I'd still have the Cadillac|sd|3411|1
+B|but, uh, I've been very satisfied with the, with the Oldsmobiles.|sd|3411|1
+B|We've driven them for about probably twenty years.|sd|3411|1
+A|Has that been the Cutlass or the Sierra?|qy|3411|0
+B|Uh, no,|nn|3411|1
+B|the Ninety-Eight.|sd|3411|1
+A|The Ninety-Eight,|b^m|3411|0
+A|okay.|bk|3411|0
+B|Uh-huh,|b|3411|1
+B|yeah.|b|3411|1
+B|So.|%|3411|1
+A|Well, I don't think,|sv|3411|0
+A|uh, let's see,|^h|3411|0
+A|the Ninety-Eight,|sd|3411|0
+A|now that's got that big V eight engine in it, doesn't it, doesn't it?|qy|3411|0
+B|Well I don't know.|sd|3411|1
+B|The one we have has a six.|sd|3411|1
+A|Has a little V Six?|br|3411|0
+B|Uh-huh.|aa|3411|1
+A|Okay.|bk|3411|0
+B|But it's a very good car.|sd|3411|1
+B|It's a had, not had one minute's problem with it,|sd|3411|1
+A|It,|%|3411|0
+B|and I've had, now I have twenty-three thousand miles on it.|sd|3411|1
+A|Oh, that's great|ba|3411|0
+B|Yeah.|b|3411|1
+A|that's great.|ba|3411|0
+A|That's always nice to get, uh, reliability in a product. Especially when you're spending, you know, anywhere from fifteen to twenty-five thousand dollars for, for a single item. You know,|sv|3411|0
+B|Right.|b|3411|1
+A|you just don't want any hassles with it.|sv|3411|0
+B|No.|aa|3411|1
+A|You just, you expect it to do its, its job,|sv|3411|0
+A|and I think a lot of, a lot of car manufacturers don't really keep that into don't take that into consideration you know.|sv|3411|0
+B|Yeah.|b|3411|1
+B|Yeah,|aa|3411|1
+B|that's true.|aa|3411|1
+A|They just expect you to buy their product,|sv|3411|0
+A|but that's always been something that's been a key factor in me, is how reliable is this car going to be you know.|sd|3411|0
+B|Uh-huh.|b|3411|1
+A|Price is, is an issue,|sv|3411|0
+A|but it's not the most important issue.|sv|3411|0
+B|No,|aa|3411|1
+B|it really isn't, because now you can get like five year financing on them|sv|3411|1
+B|and so, um,|%|3411|1
+A|Right.|b|3411|0
+B|but I, I, I would go with the General Motors any time.|sd|3411|1
+A|Well, I've always been a Ford man, myself.|sd|3411|0
+B|Oh, really.|bh|3411|1
+A|Yes.|ny|3411|0
+B|Oh.|%|3411|1
+A|But that's all right.|sd|3411|0
+B|Yeah,|aa|3411|1
+B|well sure.|aa|3411|1
+A|You know, it's American made too which is good.|sd|3411|0
+B|Right.|b|3411|1
+B|Uh-huh.|b|3411|1
+A|Um, but I, I've,|%|3411|0
+A|ever since I guess I, I was growing up, my dad's always had Fords,|sd|3411|0
+A|and, uh, well, I grew up in South Dakota.|sd|3411|0
+A|So everybody has a truck|sd|3411|0
+B|Uh-huh.|b|3411|1
+A|and my Ford trucks have just,|sd|3411|0
+A|I've, I've just never had problems with them.|sd|3411|0
+B|Uh-huh.|b|3411|1
+A|I honestly think I would die before my truck would, keel over on me.|sd|3411|0
+B|Yeah.|b|3411|1
+A|So.|%|3411|0
+B|Well, I,|%|3411|1
+B|yeah,|b|3411|1
+B|those are good products also.|sv|3411|1
+B|Um, let's see,|^h|3411|1

@@ -1,0 +1,112 @@
+A|Okay. Well, what do you think about the government providing health insurance for everybody?|qw|3956|0
+A|I think they should.|sv|3956|0
+A|I know I had a job until, let's see, a year ago this past December.|sd|3956|0
+A|I was working for P I E|sd|3956|0
+A|and they closed,|sd|3956|0
+A|and naturally while I was working for them I had health insurance,|sd|3956|0
+A|but, um, for me to try to get it now, it would cost me like over three hundred dollars a month with the same company that was providing health insurance at, at P I E.|sd|3956|0
+B|Good grief.|ba|3956|1
+B|That's just almost unaffordable, isn't it?|qy|3956|1
+A|Right,|na|3956|0
+A|it really is,|sd|3956|0
+A|and I think, you know, I think, uh,|%|3956|0
+A|God, the government should come up with some kind of a health plan, or stop these doctors and hospitals from having their prices so high.|sv|3956|0
+B|Well, I wonder if they couldn't just provide, uh, interim health insurance for people who are between jobs like that.|sd|3956|1
+B|That might be a step in the right direction.|sv|3956|1
+B|I don't know.|h|3956|1
+A|Well, the thing is, you know, jobs are so hard to find you know,|sv|3956|0
+B|Uh-huh.|b|3956|1
+A|anyhow in the valley where I live at now, they don't want to pay anything for health insurance at all.|sd|3956|0
+A|No benefits, you know. Um.|sd|3956|0
+B|You mean the, uh, the employers?|br|3956|1
+A|Yes.|aa|3956|0
+B|Uh-huh.|b|3956|1
+A|I mean, you get a job now, and the wages are really low|sd|3956|0
+A|and, uh.|%|3956|0
+B|Because everybody's competing for jobs.|^2|3956|1
+A|Yeah,|aa|3956|0
+A|and they don't want, uh,  to pay any benefits,|sv|3956|0
+A|so you just, you know, pray to God that you don't get sick.|sv|3956|0
+B|Well, I used to think that universal health insurance was probably the right thing to do.|sv|3956|1
+B|I, I have to think about it some more now, because my doctor is, uh, actually he's Canadian|sd|3956|1
+A|Uh-huh.|b|3956|0
+B|and, uh, he told me that there're a lot of, uh, lot of counts against the Canadian system, which is basically the one people are talking about for here.|sd|3956|1
+A|Uh-huh.|b|3956|0
+B|I don't understand the arguments, exactly.|sd|3956|1
+B|He says it restricts your choice of doctors, and, and so forth.|sd|3956|1
+B|I'm not quite sure I understand why government health insurance would restrict your choice any more than private insurance does.|sd|3956|1
+A|No,|aa|3956|0
+A|I don't understand  that either.|sd|3956|0
+B|I mean  we're on a private insurance plan right now, uh|sd|3956|1
+A|Uh-huh.|b|3956|0
+B|actually I have my own business,|sd|3956|1
+B|and and we,|%|3956|1
+A|Uh-huh.|b|3956|0
+B|our health insurance is through my wife's employer,|sd|3956|1
+B|and, uh, and every year we get another list of what doctor's we can go to, and where we can buy our medicine,|sd|3956|1
+B|and, uh, it changes every year|sd|3956|1
+A|Yeah.|b|3956|0
+B|It's always so confusing.|sd|3956|1
+B|So.|%|3956|1
+A|Well, I know the plan that I had with P I E, I could go to any doctor|sd|3956|0
+A|and I could go to any drug store and get my prescriptions filled, you know,|sd|3956|0
+A|then I just sent cards in|sd|3956|0
+B|Uh-huh.|b|3956|1
+A|and then they would have like a ten dollar deductible per year for my medicine,|sd|3956|0
+A|and then they would just send me a check for what was ever over that, you know.|sd|3956|0
+B|Well, yeah.|b|3956|1
+B|Of course, the restricted choice in this case is because only certain doctors agree to accept the, uh, the limits of, uh, compensation,|sv|3956|1
+A|Uh-huh.|b|3956|0
+B|but of course that is restricted choice,|sv|3956|1
+B|so I don't think that the restricted choice really, uh, has to do with the difference between, uh, public and private health insurance.|sv|3956|1
+A|Uh-huh,|b|3956|0
+A|uh-huh.|b|3956|0
+B|I think it has to do with the, the, the, uh, attempt to limit cost, doesn't it|sv|3956|1
+A|Um.|b|3956|0
+B|and everybody agrees that we need to limit cost some way,|sv|3956|1
+A|Yeah,|aa|3956|0
+A|that's true,|aa|3956|0
+A|that's true there.|aa|3956|0
+A|Well.|%|3956|0
+B|You, you have to recognize that if you're going to have the very best health care possible and, uh, available on demand whenever and wherever you want it, then it's going to be expensive.|sv|3956|1
+A|Yeah,|aa|3956|0
+A|right.|aa|3956|0
+B|And if you want to pay less, then you're going to have to settle for a health system that is not quite that, uh, lavish.|sv|3956|1
+A|Uh-huh.|b|3956|0
+B|And, uh.|%|3956|1
+A|But there's just so many people that can't afford to pay anything, you know,|sv|3956|0
+A|that,|%|3956|0
+A|people that's on unemployment.|sv|3956|0
+B|Yeah,|b|3956|1
+B|what happened to Reagan's safety net, anyway?|qh|3956|1
+A|I don't|%|3956|0
+B|Did he take that back to California with him?|qh|3956|1
+B|Using it for a trampoline now?|qy|3956|1
+A|Yeah,|ny|3956|0
+A|probably so.|sd|3956|0
+A|I don't know,|h|3956|0
+A|but it is, it does seem to be a big problem, you know.|sv|3956|0
+A|I don't know what they're going to come up with,|sd|3956|0
+A|but, um, I sure wish they would come up with, with something,|sv|3956|0
+A|and, uh, like I say,|%|3956|0
+A|and, and I'm at the age, too, where the,|sd|3956|0
+A|I'll be fifty-seven in June,|sd|3956|0
+A|and the people don't want to hire people this age any more.|sd|3956|0
+A|And I worked for my previous company for twenty-six years, you know,|sd|3956|0
+A|so, it's kind of hard, you know,|sd|3956|0
+A|so.|%|3956|0
+B|Yeah,|b|3956|1
+B|they'll be needing you in a couple of years, because they're running out of kids down that, the other end.|sv|3956|1
+B|And.|%|3956|1
+A|Yeah,|b|3956|0
+A|they'll be calling at my door, huh.|sv|3956|0
+A|But anyhow.|%|3956|0
+B|Well, if they're smart.|sv|3956|1
+A|Yeah,|b|3956|0
+A|now I, I do think the government, though, is going to have to do something, uh, with this problem, because, it, you know, even to go to a little doctor out here, just to ask him anything, costs you forty bucks you know, just for the visit.|sv|3956|0
+B|Uh-huh.|b|3956|1
+A|And then he,|%|3956|0
+A|then that's not counting what medicine you're going to buy and everything else, you know.|sv|3956|0
+A|And he might tell you, well, you know, now you're going to have to come back in a week,|sv|3956|0
+A|and then that's another forty bucks, plus whatever else he decides to do to you,|sv|3956|0
+B|Right.|b|3956|1

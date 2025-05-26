@@ -1,0 +1,128 @@
+B|pretty good,|fo_o_fw_"_by_bc|4048|0
+B|pretty good.|fo_o_fw_"_by_bc|4048|0
+B|So we're talking about drug testing in the work place, huh. *listen|qy|4048|0
+A|Drug testing in the work place.|b^m|4048|1
+A|Um. I've been tested a few times, just before drug employment.|sd|4048|1
+A|But that's about it.|sd|4048|1
+A|I've never had random drug testing.|sd|4048|1
+B|Yeah,|b|4048|0
+B|we have random drug testing at, in my business,|sd|4048|0
+B|but I've never been, uh, never had to do it.|sd|4048|0
+A|Oh, really?|bh|4048|1
+B|Yeah,|ny|4048|0
+B|yeah,|ny|4048|0
+B|they started that about a year ago,|sd|4048|0
+B|and I think it's mostly for the, the field people that, you know, drive trucks and heavy machinery, that kind of stuff.|sv|4048|0
+A|Uh-huh.|b|4048|1
+B|But, uh, they, they have done some testing around our office, mostly after lunch, looking for people drinking, uh, drinking beer and stuff at lunch time,|sd|4048|0
+B|at least that's.|%|4048|0
+A|Oh, they do with alcohol.|qy^d|4048|1
+B|Pardon?|br|4048|0
+A|They do it with alcohol?|qy|4048|1
+B|Yeah,|ny|4048|0
+B|yeah,|ny|4048|0
+B|they, they, they'll check for alcohol.|sd|4048|0
+A|Oh, I thought it was just like marijuana or cocaine.|sv|4048|1
+B|No,|ar|4048|0
+B|once, once you start doing that stuff, you sort of, you're sort of stuck into, uh, checking for the whole, the whole thing.|sd|4048|0
+A|Huh. That's interesting.|ba|4048|1
+B|Yeah,|b|4048|0
+B|it's a,|%|4048|0
+A|What type of field of work are you in?|qw|4048|1
+B|I'm in the oil business.|sd|4048|0
+A|Oh, in the oil business.|b^m|4048|1
+B|Yeah.|aa|4048|0
+A|Okay,|bk|4048|1
+A|and you work in the office around.|qy^d|4048|1
+B|Yeah,|ny|4048|0
+B|I work in the office,|sd|4048|0
+B|so, uh, it's pretty, pretty safe environment.|sv|4048|0
+A|Uh-huh.|b|4048|1
+A|Yeah|b|4048|1
+A|see, I work in the automotive air bag industry, where we make the safety bags for the cars,|sd|4048|1
+B|Uh-huh,|b|4048|0
+B|uh-huh.|b|4048|0
+A|and we work around a lot of explosives.|sd|4048|1
+B|Well, that sounds like kind of an important job to be, uh, straight on.|sv|4048|0
+A|Yeah,|b|4048|1
+A|so that's, you know,|%|4048|1
+A|I'm all for it, because the, well, the type of environment I work in, you know, they're working with explosives,|sd|4048|1
+A|and so they could blow up the whole,|sv|4048|1
+A|well, they have safety features with each of the explosives they use,|sd|4048|1
+A|but still, it can be dangerous.|sv|4048|1
+B|Yeah,|aa|4048|0
+B|yeah,|aa|4048|0
+B|well, I, I, I agree.|aa|4048|0
+B|I think that, uh, you know, under certain circumstances, especially when you're working in, in high risk, uh, uh, industries, where you can really hurt other people, that, that you need to have that kind of stuff.|sv|4048|0
+A|Yeah.|b|4048|1
+B|You know,|%|4048|0
+B|if it's,|%|4048|0
+B|as long as it's not abused, uh, you know, random, you know,|sd|4048|0
+B|as long as it's random, and, and the individual's rights are, uh, are protected, I don't have that big a problem with it.|sd|4048|0
+A|Now do they fire them, or do they?|qy|4048|1
+B|Well, see, this is it,|^h|4048|0
+B|this is where I start having my problems with my company.|sd|4048|0
+B|I work for a private company,|sd|4048|0
+B|and and the policy is something like, see if I can state this correctly now. If you turn yourself in as having a drug related problem, then you're eligible for company counseling.|sd|4048|0
+A|Uh-huh.|b|4048|1
+A|Uh-huh.|b|4048|1
+B|But if they catch you, if you test positive for a, a controlled substance, then you get fired.|sd|4048|0
+A|Oh, wow.|ba|4048|1
+B|So, it, you know, it's sort of one of these little catch twenty-twos.|sv|4048|0
+A|Huh, that's.|%|4048|1
+A|I think our policy is that,|sv|4048|1
+A|all right, it's probably the same thing.|sv|4048|1
+A|I'm not really sure what the|h|4048|1
+B|Yeah,|b|4048|0
+B|really,|b|4048|0
+B|it's one of those things that you read once,|sv|4048|0
+B|and then, if you, if you're not worried about it, you just forget about it|sv|4048|0
+A|That's right.|aa|4048|1
+A|But I know, they do have counseling, and that they do give you a second chance,|sd|4048|1
+A|but I'm not sure if if it's if you get caught or if you turn yourself in.|sd|4048|1
+B|Yeah.|b|4048|0
+B|Yeah,|b|4048|0
+B|yeah,|b|4048|0
+B|our company's a little tougher on the second chance.|sd|4048|0
+B|I mean, if, if they're going to give you the opportunity to turn yourself in, then they ought to, you know, go out of the way, I think, a little bit more to, uh, to help you get, help get you rehabilitated to, you know, to get get back at your job.|sv|4048|0
+A|Uh-huh.|b|4048|1
+B|But, uh, when you're not, when you're a private company, the rules don't always apply.|sd|4048|0
+A|Uh, do you think it works very good with that random, do you think it limits,|qy|4048|1
+B|Well, it's, it's hard for me to, to evaluate it because everybody I work around is in an office environment|no|4048|0
+B|and, you know, it's not,|%|4048|0
+B|I guess I haven't run into anybody that's, that's had a problem that's, that's been a problem.|sd|4048|0
+A|Uh-huh.|b|4048|1
+B|Uh, so I you know, I guess it works, uh, much like, uh, well, shoot, like any lottery,|sv|4048|0
+B|I mean, everybody's got an equal chance to get picked.|sd|4048|0
+A|Uh-huh.|b|4048|1
+B|So, uh, I'd rather have that than, you know, say well, this week the A and B are going to be in|sv|4048|0
+B|and next week, C and D are going to come in|sd|4048|0
+A|You could time it just right.|sv|4048|1
+B|Yeah,|aa|4048|0
+B|right,|aa|4048|0
+B|right.|aa|4048|0
+A|I know one employee,|sd|4048|1
+A|I know, when I was working with, he had alcohol on his breath,|sd|4048|1
+A|and I'm not sure if our policy covers that or not.|sd|4048|1
+A|That'd be just as dangerous.|sv|4048|1
+B|Yeah.|aa|4048|0
+B|Well, especially around, uh, you know, equipment, machinery and stuff.|sv|4048|0
+A|Huh. That's true.|aa|4048|1
+B|You know, I've, I've gone out and had a, had a beer at lunch time, but not to excess in any case|sd|4048|0
+A|Uh-huh.|b|4048|1
+A|Do they give any limits on alcohol,|qy|4048|1
+A|or is it?|qrr|4048|1
+B|Uh, I don't remember, to tell you the truth.|no|4048|0
+B|I don't think they do.|sv|4048|0
+B|Um, well, they must,|sv|4048|0
+B|I mean, gee whiz.|ba|4048|0
+B|That just shows you how much I've been paying attention,|sd|4048|0
+B|because I, I really don't know.|sd|4048|0
+B|I'll have to go into work tomorrow and ask|sd|4048|0
+A|Oh.|b|4048|1
+B|Well, you know, you can take some of that, that testing a little bit too far.|sv|4048|0
+B|Uh, there was a company in Houston that,|sd|4048|0
+B|they did, uh, an unannounced drug sweep of the, of their company|sd|4048|0
+A|Uh-huh.|b|4048|1
+B|oh, it was, it was, it was an unannounced sweep of, of,|sd|4048|0
+B|it was not only drugs,|sd|4048|0

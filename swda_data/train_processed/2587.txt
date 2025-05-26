@@ -1,0 +1,178 @@
+A|Go ahead.|ad|2587
+B|Oh, um, uh, I usually don't get to hear any of the current events probably until about the ten o'clock news.|sd|2587
+A|Uh-huh.|b|2587
+B|Uh, you know, being, uh,|%|2587
+B|I mean, by the time you get off work, go by and pick up the, uh, baby from the baby sitter, it's, you know, after six|sd|2587
+B|and by the time everything is settled in,|sd|2587
+B|it's ten o'clock before I can catch up on anything.|sd|2587
+A|Yeah,|b|2587
+A|I guess that's the way I am too.|sd|2587
+A|I, sometimes I hear some things on, on the radio.|sd|2587
+B|Uh-huh,|b|2587
+B|oh yeah.|b|2587
+A|I only get the newspaper on the weekends|sd|2587
+A|so|%|2587
+B|Oh, uh-huh.|b|2587
+B|Oh, I don't even have, time to read the newspaper except in passing,|sd|2587
+A|Uh-huh.|b|2587
+B|you know, I'll look over my husband's shoulder and see what's going on.|sd|2587
+A|I,  I guess occasionally I'll hear someone at work say something though.|sd|2587
+B|But, uh,|%|2587
+B|Yeah.|b|2587
+B|We have, uh, a news thing on the computer that, uh, that I'll, I'll try to look at every day.|sd|2587
+A|Uh-huh.|b|2587
+B|And, uh, it, it's pretty much headline news.|sd|2587
+A|Yeah.|b|2587
+B|Which isn't, you know, pretty much what we look for anyway.|sv|2587
+A|Uh-huh.|b|2587
+B|But, uh. I, do you think that the quality of the, uh, the, you know, the news events that you get are,|sv|2587
+B|what do you think about it?|qo|2587
+A|Well I, I guess it's pretty good.|sv|2587
+A|And, and like the Dallas area,|%|2587
+B|Uh-huh.|b|2587
+A|and I, I guess when you're in a big metropolitan area like this,|sv|2587
+A|there's, I guess, a lot of pressure in that business to,  borderline at that.|sv|2587
+B|Yeah.|b|2587
+B|Well, you know, there's a lot of competition in the media.|sv|2587
+A|Uh-huh.|b|2587
+B|And sometimes I think it too much trying to figure out who's going to get the best headlines. And that they'll run a topic into the ground.|sv|2587
+A|Yeah.|b|2587
+B|And, uh. You know, they try to play public's opinion. Which I think is awful, because it usually works.|sv|2587
+A|Uh-huh,|aa|2587
+A|true.|aa|2587
+A|I'll bet that was the case of the, the war in the Middle East.|sv|2587
+B|Yes,|aa|2587
+B|uh-huh.|aa|2587
+B|That,|%|2587
+B|uh, lots of new, uh, newsmen were created during that|sv|2587
+B|so, it will be interesting to see what happens.|sv|2587
+A|Uh-huh,|aa|2587
+A|true.|aa|2587
+A|Trying to think what else is,  is current.|^h|2587
+B|Right.|b|2587
+B|Uh, uh,|b|2587
+A|Well, um, I don't know what to say|sd|2587
+A|Uh, that's a bad one,|ba|2587
+A|they, uh,|%|2587
+A|looks like we're going to have an income tax in Texas,|sv|2587
+B|Yeah,|aa|2587
+B|I hate to see that,|sd|2587
+B|but it's, uh, that, you know, if what it's going to take,|%|2587
+B|well, you know, we can deduct that from our income tax, our federal income tax.|sv|2587
+A|Uh-huh.|b|2587
+B|But, uh, you know, but we need good schools.|sv|2587
+B|Uh, we're more involved in that now.|sv|2587
+B|And, I, I, I, I think it's better for everybody if we had better schools.|sv|2587
+A|Yeah,|aa|2587
+A|that's true.|aa|2587
+B|So,|%|2587
+A|I would think they could find a better way to fund it though,|sv|2587
+A|but they haven't for,|%|2587
+B|No.|aa|2587
+B|You know, I wish they could have gotten a lottery.|sd|2587
+A|Well, they're struggling with it.|sv|2587
+B|Yeah.|aa|2587
+B|I think, you know, the lottery could have helped, with that.|sv|2587
+B|I mean, it wouldn't have been as painful as what we would've paid in state income tax.|sv|2587
+B|I mean, probably would have paid the same amount|sv|2587
+B|but, you know, it's not the idea of your paying, uh, income tax.|sv|2587
+A|Uh-huh.|aa|2587
+A|True.|ba|2587
+B|So,|%|2587
+A|I, I'm not sure there's a positive solution for that.|sv|2587
+B|No.|aa|2587
+B|It'll be interesting to see what happens.|sv|2587
+A|Trying to think what else is current.|^h|2587
+B|I, you know, I haven't seen the news in a couple of days.|sd|2587
+B|So it, uh,|%|2587
+B|I'm a little behind on things.|sd|2587
+A|Well, the other thing I can think of is, uh, what is still going on in Iraq and the Kurd refugees.|sd|2587
+B|Yes,|b|2587
+B|that's, that's sad.|ba|2587
+B|Yeah.|b|2587
+B|They, uh, yeah, they had to choose between the better of the two, two bad situations,|sd|2587
+B|and,  uh, I don't know what I've would have done in the situation.|sd|2587
+A|Uh-huh.|b|2587
+A|Yeah,|b|2587
+A|it begins to make you wonder why we didn't go ahead and go on in and,  finish the job while we were in there.|sv|2587
+B|Yeah.|b|2587
+B|Right.|aa|2587
+B|But I understand why Bush, you know, doesn't want to go in and, and uh, take sides.|sd|2587
+B|I mean, because that would definitely look like another Korea,|sv|2587
+A|Uh-huh.|b|2587
+B|and he'd have all these people jumping down his back, even though I'd agree with it.|sv|2587
+B|I think he ought to, should've gone in there and blew them away.|sv|2587
+A|Seems to have helped him though,  popularity wise.|sv|2587
+B|Yeah, it, it,  it did a lot.|aa|2587
+B|He did a real good job I believe.|sv|2587
+B|I have, uh, in-laws that live in Saudi Arabia that stayed there during all of it too.|sd|2587
+A|Hm.|b|2587
+B|It, uh, it, uh, you know,|%|2587
+B|we, so we kept very much abreast of what was going on.|sd|2587
+A|Yeah.|b|2587
+A|Were, were they in any of the areas where they,  some of the Scuds?|qy|2587
+B|Yeah,|ny|2587
+B|they were on  the, the, near, uh, Dahran. On the,  on the east coast.|sd|2587
+A|Um.|b|2587
+A|Um-hum.|b|2587
+A|Yeah.|b|2587
+B|They were just north of it. Probably about a hundred fifty miles, hundred miles from uh, the Kuwaiti border.|sd|2587
+A|Um.|b|2587
+B|Uh, and they stayed active was the, uh, the military there. Taking supplies out to them in the desert.|sd|2587
+A|Uh-huh.|b|2587
+B|It was, it was a new situation.|sd|2587
+A|Yeah.|aa|2587
+A|I'll bet.|ba|2587
+B|I don't really have much more to say|sd|2587
+A|I don't know anything else that's current other than the weather|sd|2587
+A|and,|%|2587
+B|You're right,|aa|2587
+B|and that's, that's awful in Texas|sv|2587
+A|Have, have you all been getting rain storms down there?|qy|2587
+B|We got some awful rain, uh, the other morning.|na|2587
+B|And today's just been real drizzly.|sd|2587
+A|We did, we did last night. Uh, some real massive thunderstorms.|sd|2587
+B|Yeah.|b|2587
+A|Apparently, I, I don't know if it was just the strong winds or some small tornadoes up this way too.|sd|2587
+B|Uh-huh.|b|2587
+A|Caused some damage.|sd|2587
+B|It did?|bh|2587
+A|We may get some more tonight.|sd|2587
+B|Oh, well. We, we've just got slight chances of rain.|sd|2587
+B|But, uh, we had the, we had the hard thunderstorms the other morning.|sd|2587
+B|Course while everybody was getting ready to go to work. Making nice traffic jams.|sd|2587
+B|So|%|2587
+A|Uh-huh.|b|2587
+A|Well the, the ground here is so flat,|sd|2587
+A|and it's all saturated now,|sd|2587
+B|Oh|b|2587
+A|we're getting some flooding.|sd|2587
+B|Right,|b|2587
+B|uh, when was it, last week, we had all the rain?|t1|2587
+B|But, uh,|%|2587
+B|we, I think we had about eight inches.|sd|2587
+A|Hm.|b|2587
+B|It was between six and eight inches here where we are.|sd|2587
+A|Goodness.|ba|2587
+B|And, uh, it, you walk out on the ground,|sd|2587
+B|I mean you,|%|2587
+B|I mean, it's awful.|sd|2587
+B|It's just so soggy.|sd|2587
+A|Yeah.|b|2587
+A|It's a lot more humid down that way.|sv|2587
+B|Yeah|b|2587
+A|In fact, miserable.|sv|2587
+B|Well, today it was, I mean, the air was just so sticky, so damp.|sd|2587
+A|Yeah,|b|2587
+A|I think there were places around downtown Fort Worth last night they got three inches in a real short period of time, like an hour or so just,  a bunch.|sd|2587
+B|Goodness.|ba|2587
+A|Well, I guess that's it|fc|2587
+B|Right.|fc|2587
+B|Well it's,|fc|2587
+A|That's about as much as we can do with current events.|fc|2587
+B|Right.|fc|2587
+B|Well, it was nice talking to you.|fc|2587
+A|Good talking to you, Michelle.|fc|2587
+B|All right.|fc|2587
+B|Bye-bye.|fc|2587
+A|Bye-bye.|fc|2587

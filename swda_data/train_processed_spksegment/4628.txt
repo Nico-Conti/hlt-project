@@ -1,0 +1,93 @@
+A|what sort of company do you work for?|qw|4628|0
+A|Do you work for a big or a little place?|qy|4628|0
+B|Uh, I work for Georgia Tech.|sd|4628|1
+B|Yes sir.|fo_o_fw_"_by_bc|4628|1
+B|I work for the research facility.|sd|4628|1
+B|Uh, and it's, it's kind of small in a sense|sd|4628|1
+B|but it, it does have, about, uh, I guess, two thousand civil employees.|sd|4628|1
+A|Uh-huh.|b|4628|0
+B|And, on a, a scale, I guess it's still considered small.|sv|4628|1
+B|It just have a lot of different laboratories.|sd|4628|1
+A|Uh-huh.|b|4628|0
+B|The area I work in, it, it primarily have maybe a hundred people or so.|sd|4628|1
+A|Uh-huh.|b|4628|0
+B|So that's make up most of the laboratory|sd|4628|1
+B|so from, from that standpoint, it's pretty small it's pretty small.|sv|4628|1
+A|Uh-huh.|b|4628|0
+B|What about yourself?|qo|4628|1
+A|Huh.|b|4628|0
+A|Well, I, I work for, uh, actually probably similar kind of place.|sd|4628|0
+A|I work for, uh, Lincoln Laboratory.|sd|4628|0
+B|Oh, okay.|bk|4628|1
+A|Uh, yeah.|b|4628|0
+A|We actually do some work with some people down at Georgia Tech.|sd|4628|0
+B|Oh, okay.|bk|4628|1
+B|I see.|b|4628|1
+A|Uh, and, uh,|%|4628|0
+A|so we're, we're part, we're actually part of M I T.|sd|4628|0
+A|So it's very much the same kind of place and, uh  the technical institution.|sv|4628|0
+B|Oh, okay.|b|4628|1
+B|Right. Uh,|b|4628|1
+A|Uh, while I was sitting here waiting while they tried to find somebody for me to talk to, trying to think of what, uh, uh, what things were important, uh, besides salary and a, and a job. I guess, uh, list I had scribbled down was the people you worked with and maybe the, uh, the challenge of the work and, uh the working conditions, things like that.|sv|4628|0
+B|Uh-huh.|b|4628|1
+B|Right.|b|4628|1
+A|I don't know.|h|4628|0
+A|What are your, uh, what sorts of things would you consider important?|qw|4628|0
+B|Well those and probably the security aspect of it.|sd|4628|1
+A|Uh-huh.|b|4628|0
+B|Because a lot of time nowadays, even though you're working, uh, you're treated,|sd|4628|1
+B|and it may not be true in every place.|h|4628|1
+B|In a lot of cases I think you're treated more like a number instead of a, a person.|sv|4628|1
+A|Uh-huh.|b|4628|0
+B|Because when it come down to layoff, they don't really consider people and, and, you know, their well being as far as, you know, how they going, their next dollar going to come in.|sv|4628|1
+B|How they going to pay their bills.|qh|4628|1
+B|They just lay them off.|sd|4628|1
+A|Yeah.|b|4628|0
+B|And I was reading this book one time about this guy that had, uh,|sd|4628|1
+B|I think the company still exists.|sd|4628|1
+B|What they use to do is, they used to cut the number of hours for everybody as opposed to just laying people off you know.|sd|4628|1
+A|Uh-huh.|b|4628|0
+B|That way that, you know, one person wouldn't get one big blunt blow at one time.|sd|4628|1
+A|Uh-huh.|b|4628|0
+B|And, uh, you know, I think if they had programs that set up to subsidize people that do get laid off a little bit better, you know, other than you know, something like,|sv|4628|1
+B|unemployment is good|sv|4628|1
+B|but I mean the company as a whole|sd|4628|1
+B|because you as an employee, even the company is making money,|sd|4628|1
+B|they paying you a salary|sd|4628|1
+B|but you are responsible for that company growth.|sv|4628|1
+B|You're responsible also for helping that company get to the point that it's at at making profits.|sv|4628|1
+B|So there should be something in there or some kind of clause that will subsidize people if they did lose their job other than, you know, uh, neglect or something like that.|sv|4628|1
+A|Uh-huh.|b|4628|0
+B|You know. Because it's not a person's fault that, you know, people not buying or businesses are, are not on the up and up all the time, you know.|sv|4628|1
+B|I don't see how one or two people, maybe more one or two, but, you know, a number of people can, can be the downfall of a company situation.|sv|4628|1
+A|Now how do you mean that?|qo|4628|0
+A|I know it,|%|4628|0
+B|Well in a sense that say, how do you make a, a conclusion that you're going to lay off these ten people. Uh, for the bad times of the company.|qw^d|4628|1
+A|Uh-huh.|b|4628|0
+B|What about the, the work effort those ten people did when the company was doing well.|qw^d|4628|1
+A|Uh-huh.|b|4628|0
+B|You know. In that standpoint.|%|4628|1
+A|Well, you, you think it's better than to, to try to spread the, the effort equally among all the employees of the company|qy|4628|0
+A|or,|%|4628|0
+B|yes,|ny|4628|1
+B|I do.|sd|4628|1
+A|Uh-huh.|b|4628|0
+B|I really do.|sd|4628|1
+B|I think it'd be better that way|sv|4628|1
+B|and even at that, it would at least give the person time to look for another job because  they know that that there are problems|sv|4628|1
+A|Uh-huh.|b|4628|0
+B|and, you know, there are reason to look for another job instead of just dumping it on them all at one time.|sv|4628|1
+A|Yeah.|b|4628|0
+A|Uh-huh.|b|4628|0
+B|You know. That's just, that's my views, you know.|h|4628|1
+A|Yeah.|b|4628|0
+A|I've heard of a couple of companies that have done that.|sd|4628|0
+A|I think, uh, back about, a few years ago when things were tough, Hewlett-Packard did that for awhile.|sd|4628|0
+A|They went to a, uh, a, a four and a half day work week rather  than cut, yeah, just cut everybody back ten percent. And, uh, have to, give everybody a half day a week off.|sd|4628|0
+B|Right.|b|4628|1
+B|Right.|b|4628|1
+B|Right.|b|4628|1
+A|And I think you can do that for a little while|sv|4628|0
+A|but I'm,|%|4628|0
+B|Well at least that would give a person a chance to look you know. Because the way it is, a person really don't have a chance|sv|4628|1
+A|Yeah.|b|4628|0

@@ -1,0 +1,93 @@
+A|Okay, well, um,|fo_o_fw_"_by_bc|3227|0
+B|What kind of music do you like?|qw|3227|1
+A|I, um, I was thinking about it for a long time,|^h|3227|0
+A|and I like basically almost every form of music and type of music.|sd|3227|0
+A|Um, I don't have a whole lot of dislikes.|sd|3227|0
+A|I, um, like jazz, um, especially the blues,|sd|3227|0
+A|and, uh, I like, uh, a lot of the, uh, of course the classics, um, everything back from Bach and, and Beethoven and Chopin and, um, just in general everything.|sd|3227|0
+B|Uh-huh.|b|3227|1
+A|Um, I enjoy, uh, a lot of the, the modern forms, um, uh,|sd|3227|0
+B|Do you like, like rock and those kind of things punk even.|qy|3227|1
+A|Right,|b|3227|0
+A|right.|b|3227|0
+A|Uh, well, that gets,|^h|3227|0
+A|some of the punk, um, when I was in high school, that was, uh, one of the big things, was punk music,|sd|3227|0
+A|and, uh, a lot of it is, has a lot to say, or some of it has a lot to say, the music does, the lyrics do,|sv|3227|0
+A|but the, the actual,|%|3227|0
+B|I don't think they have a whole lot to say, even|ar|3227|1
+A|Uh, well, it, it's, it's, it really expresses some of the opinions of, of the people who enjoy the music|sv|3227|0
+B|Yeah,|aap_am|3227|1
+B|I guess.|aap_am|3227|1
+A|um, but as far as a musical art form, I just don't see a whole lot of art to it|sv|3227|0
+B|Uh-huh.|b|3227|1
+A|Um.|%|3227|0
+B|Do you like rap?|qy|3227|1
+A|Um, some of it, um,|no|3227|0
+A|it depends.|h|3227|0
+A|I like, uh, the rap, the two types of rap I like, or I enjoy to listen to, and one is the, the rap that is just funny, um,|sd|3227|0
+A|and they usually do a lot of satire|sd|3227|0
+B|Yeah|b|3227|1
+A|um.|%|3227|0
+B|that kind I kind of like.|sd|3227|1
+A|Right.|b|3227|0
+B|Some of it is kind of pointless,|sv|3227|1
+A|Right,|b|3227|0
+A|the monotonous the monotonous,|^2|3227|0
+B|yeah.|aa|3227|1
+A|no|aa|3227|0
+A|that's not,|sv|3227|0
+A|I don't enjoy that at all when they're just talking about, well, I'm better than you, and blah, blah, blah.|sd|3227|0
+B|Uh-huh.|b|3227|1
+A|I don't like that.|sd|3227|0
+B|Yeah,|b|3227|1
+B|yeah.|b|3227|1
+A|I like the funny, satire,|sd|3227|0
+A|and then some of it is, some of it actually gets into some serious discussions of problems in our, in urban society.|sv|3227|0
+B|Yeah.|b|3227|1
+A|It really does.|sv|3227|0
+A|It talks about, um, race relations and police relations|sd|3227|0
+A|and, um, that, that|%|3227|0
+B|I guess I don't really care to listen to rap that much except for once in a while some of the funny more satire kind some times.|sd|3227|1
+A|Uh-huh.|b|3227|0
+B|Um, I'm, with you though,|sd|3227|1
+B|I like classical|sd|3227|1
+A|Uh-huh.|b|3227|0
+B|um, I don't like to listen to it all the time, but, um, some of the time, anyway.|sd|3227|1
+B|I like easy listening, just kind of, you know,|sd|3227|1
+B|I guess I don't care much for rock and roll any more.|sd|3227|1
+B|I used to like it all right,|sd|3227|1
+B|but I don't really care to listen to it any more for some reason.|sd|3227|1
+B|Um, let's see.|^h|3227|1
+B|Country western, uh, I'm not quite as big on that.|sd|3227|1
+B|Some of it's okay, uh|sv|3227|1
+A|Yeah,|aa|3227|0
+A|that's, that's about my opinion of that|sd|3227|0
+B|yeah|b|3227|1
+A|It's, it's okay, um,|sv|3227|0
+B|Some of it kind of falls in the rap category I guess,|sd|3227|1
+B|so|%|3227|1
+A|Um. The thing about country western that I don't enjoy is is, doesn't seem to be any imagination behind it|sv|3227|0
+B|Yeah.|b|3227|1
+A|the, one country and western song sounds like every other, country and western|sv|3227|0
+B|a lot of them, sound, uh, really similar,|sv|3227|1
+B|yeah.|aa|3227|1
+A|and so the, the musicians don't get to really get into their music.|sv|3227|0
+A|They just play a certain number of chords|sv|3227|0
+B|Yeah.|b|3227|1
+A|the drummer plays a certain beat,|sv|3227|0
+A|and you have a country and western song|sv|3227|0
+B|Um.|%|3227|1
+A|and,|%|3227|0
+B|Well, that's kind of the way I feel about rock and roll sometimes, too, I guess.|sv|3227|1
+B|They don't really,|sv|3227|1
+B|has kind of the same sound over and over,|sv|3227|1
+B|and the other thing I don't like about it is they have a tendency to play the instrumental so loud that you can't understand what the lyrics are|sv|3227|1
+A|Um. Right.|b|3227|0
+B|you can't understand what they're saying on some of those songs which probably is just as well on some of them, too.|sv|3227|1
+A|Yeah.|b|3227|0
+A|And I can't say that I like a lot of the modern, the very, very modern, uh, rock and roll,|sd|3227|0
+B|Yeah.|b|3227|1
+A|but I, I definitely, I really enjoy the fifties, the sixties and a lot, some of the seventies rock and roll|sd|3227|0
+B|Yeah|b|3227|1
+B|earlier things.|bf|3227|1
+A|and, uh, I really enjoy, especially the sixties ...|sd|3227|0

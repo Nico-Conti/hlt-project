@@ -1,0 +1,256 @@
+B|Colorado Springs.|fo_o_fw_"_by_bc|2478|0
+A|Oh, right,|b|2478|1
+A|up in, uh, T I out there?|qy|2478|1
+B|Yeah.|ny|2478|0
+A|Oh, right|b|2478|1
+B|Did you hit one.|qy|2478|0
+A|Yeah.|ny|2478|1
+A|I just hit one then.|sd|2478|1
+B|All right.|bk|2478|0
+A|Uh,|%|2478|1
+B|The savings and loan scandal.|sd|2478|0
+A|It,|%|2478|1
+A|I, got to, uh,|%|2478|1
+A|this is going to be fun.|sv|2478|1
+A|Are you Republican or Democrat?|qy|2478|1
+B|Uh, kind of neither.|sd|2478|0
+A|Okay,|bk|2478|1
+A|well, I'm a, I'm a Democrat|sd|2478|1
+A|so I was going to say if you're a Republican, boy we would really have a good time.|sd|2478|1
+B|I do have some Republican leanings, because, I am division one, you know|sd|2478|0
+A|Well, I, uh,|%|2478|1
+A|to answer that one before we get to our subject, you know, I always get a kick out of Republicans who take credit for all the military hardware that was bought for the war and how successful it was, though when it comes to the budget they say well the Democrats control all the money|sd|2478|1
+A|and they're the ones wasting all the money.|sv|2478|1
+A|And, I always wondered how they can play the money either way they want, you know.|sd|2478|1
+A|I get a kick out of that.|sd|2478|1
+A|But, anyway, the subject, go ahead.|ad|2478|1
+A|You first.|ad|2478|1
+B|Uh, I think it's a stinking shame that there isn't capital punishment for those assholes that stold our money.|sv|2478|0
+A|Yeah.|b|2478|1
+A|I, uh, I don't think it's over.|sv|2478|1
+A|I think that, uh, so many other things have taken over, uh, in the media.|sv|2478|1
+A|But, I think it was just plain greed,|sv|2478|1
+A|and I think it was deregulation really when they said do anything you want banks.|sv|2478|1
+A|Go ahead loan your money out, you know.|sv|2478|1
+B|I agree with you.|aa|2478|0
+B|I think it had something to do with deregulation,|sv|2478|0
+B|but I believe, uh, more of it was just greed.|sv|2478|0
+A|Yeah.|b|2478|1
+A|I was talking to someone,|sd|2478|1
+A|I can't remember who it was,|sd|2478|1
+A|but he was a small businessman,|sd|2478|1
+A|and he said that the banks were calling,|sd|2478|1
+A|he borrowed some money|sd|2478|1
+A|and the banks were calling and just looking for people to give their money away.|sd|2478|1
+A|They just got totally carried away with buying property and reselling the same property|sd|2478|1
+A|and, uh, yeah,|%|2478|1
+A|there, there should be thousands of people in jail as far as I'm concerned.|sv|2478|1
+B|Well,|%|2478|0
+A|Not just a couple.|sv|2478|1
+B|You know, we've watched and watched T V and seen that a lot of these people were doing things, not just playing in the gray and not just reselling property at a profit, but financing the same property three and four times, you know,|sd|2478|0
+A|Right.|b|2478|1
+B|and the list goes on and on.  You know, of, of just the crimes committed. Much less for criminals that should be indicted.|sd|2478|0
+A|Well I, I agree a hundred percent.|aa|2478|1
+A|Oh, yeah.|b|2478|1
+A|It may have started with HUD too.|sv|2478|1
+A|I noticed that HUD was in terrible shape|sv|2478|1
+A|and that was property|%|2478|1
+A|and, uh, they lost a lot of money there,|sv|2478|1
+A|and then some of these big, these rich people started to,|sv|2478|1
+A|even Murchison here, who owned the Cowboys, had a lot of property down in Florida.|sd|2478|1
+A|This was several years ago|sd|2478|1
+A|and he lost, you know, all, all of his money before he died.|sd|2478|1
+B|Yeah.|b|2478|0
+A|Not all of it,|sd|2478|1
+A|I don't know how much he lost,|h|2478|1
+A|but, uh, they were just buying property and buying all kinds of real estate and thinking that there was a bottomless pit|sv|2478|1
+A|and it always would, it always would increase, you know,|sd|2478|1
+A|it always would, uh, uh, be more than what you paid for it|sd|2478|1
+A|and they just never even got conservative with our money at all.|sv|2478|1
+B|Yeah.|b|2478|0
+B|It,|%|2478|0
+B|everyone forgets whose money it was.|sv|2478|0
+A|Right.|b|2478|1
+B|And, everyone forgets that there are several of these people that are wanted by the federal government currently and are overseas where extradition is merely a funny American word.|sv|2478|0
+A|Yeah.|b|2478|1
+B|I,|%|2478|0
+B|as far as being a Republican or a Democrat, I think no American could stand for criminal action.|sv|2478|0
+A|Well now the reason that I said that is because I was going to blame all, uh, Reaganomics for, you know,|sd|2478|1
+A|you spend your way to prosperity|sv|2478|1
+A|and when you opened up the bank deregulation without any controls, I thought, well, that was the philosophy, you know.|sv|2478|1
+A|Just keep spending until taxes are lower,|sv|2478|1
+A|and, I thought, that's not going to work, you know,|sv|2478|1
+A|and I knew that it wasn't going to work originally.|sv|2478|1
+B|Well,|%|2478|0
+A|And, it hasn't worked now.|sv|2478|1
+B|In theory, in theory, a healthy economy has a lot of spending going on.|sd|2478|0
+A|Right,|b|2478|1
+A|no doubt,|ba|2478|1
+A|no doubt.|ba|2478|1
+B|And, if people are making money, people can spend money,|sd|2478|0
+B|and it'll generate taxes.|sd|2478|0
+A|Oh, yeah.|aa|2478|1
+A|I, I, I agree with that,|sv|2478|1
+A|but there's got to be some control|sv|2478|1
+A|and apparently there was, you know,|sv|2478|1
+B|Well, the problem is,|sv|2478|0
+B|and the problem with Reaganomics is that the people at the top are the ones getting rich.|sv|2478|0
+A|Yeah.|b|2478|1
+B|And, for what they would cost|sv|2478|0
+B|and we weren't producing anything.|sv|2478|0
+A|Yeah.|b|2478|1
+B|We, as Americans weren't producing anything.|sv|2478|0
+B|It was all inflation.|sv|2478|0
+A|Yeah.|b|2478|1
+B|And, I'm sorry we don't get into a real argument over it,|sd|2478|0
+B|we agree too closely,|sv|2478|0
+B|but,  But, you, you can't say that that was right.|sv|2478|0
+A|Yeah.|aa|2478|1
+A|I know, uh,|sv|2478|1
+A|Oh, no,|ba|2478|1
+A|I,|%|2478|1
+B|No intelligent person can say that we could spend our way rich.|sv|2478|0
+A|Right.|b|2478|1
+B|Remember all we're doing is delivering pizzas to each other.|sv|2478|0
+A|And, and not high quality ones at that, you know.|sv|2478|1
+B|Yeah.|b|2478|0
+B|Well,|%|2478|0
+A|Well, I do have a lot of confidence in the, the American people and the economy and everything else.|sd|2478|1
+A|I, I feel bad when I see the inefficiency, even here at T I, you know,|sd|2478|1
+A|and I think that the,|sv|2478|1
+A|it, it still,|%|2478|1
+A|a lot of the workers don't understand that, uh, they need to put out the best that they can because it comes right back to them, you know.|sv|2478|1
+B|It is a life and death struggle, with with the Japanese.|sv|2478|0
+A|Right.|b|2478|1
+A|I know,|ba|2478|1
+A|and I, when I,|%|2478|1
+A|of course I'm in facilities,|sd|2478|1
+A|and I work with a lot of mechanics|sd|2478|1
+A|and I just cannot understand why they're just happy to spend their time here rather than produce, you know,|sd|2478|1
+A|and they think that, well, I'm paid anyway|sd|2478|1
+A|so it doesn't matter, you know.|^q|2478|1
+B|I, I'm very tired of it all pays by the hour.|sv|2478|0
+A|Right.|b|2478|1
+A|Right.|b|2478|1
+B|Uh, and I'm nonexempt.|sd|2478|0
+A|Yeah,|b|2478|1
+A|oh, really?|bh|2478|1
+A|You don't sound like a nonexempt, Jim.|sv|2478|1
+B|What?|br|2478|0
+A|You don't sound like a nonexempt.|sv|2478|1
+B|What, what does a nonexempt sound like?|qw|2478|0
+A|Uh, you're too informed.|sv|2478|1
+A|They're, they're very, they're very, uh, not interested.|sv|2478|1
+A|They wouldn't even talk probably about some of the things we're talking about now.|sv|2478|1
+B|Uh,|%|2478|0
+A|I guess I'm dealing with too many Texas mechanics here.|sd|2478|1
+A|I don't know really.|h|2478|1
+B|Uh, that's,|%|2478|0
+A|I'm being a Yankee, I guess I'm, I'm letting my Yankee come out, you know.|sd|2478|1
+B|Well, I,|%|2478|0
+B|now maybe I'm not the, uh, typical nonexempt that you deal with.|sd|2478|0
+B|The badge is silver.|sd|2478|0
+A|Yeah.|b|2478|1
+B|And, uh, I am degreed, though nonexempt.|sd|2478|0
+A|Uh, well that's good.|ba|2478|1
+B|No|ar|2478|0
+B|That's not good|sv|2478|0
+B|but,|%|2478|0
+A|No,|ar|2478|1
+A|right,|ba|2478|1
+A|I mean, that's good that you're degreed,|sv|2478|1
+A|uh, uh, your time will come.|sv|2478|1
+A|We, uh,|%|2478|1
+A|I know a few people,|sd|2478|1
+B|No,|ar|2478|0
+B|I, I do not wish my time to come.|sd|2478|0
+A|Oh, really,|b|2478|1
+A|what,|%|2478|1
+A|are you in a tech,|qy|2478|1
+A|like do you do technician work or something?|qy|2478|1
+B|Oh, no,|nn|2478|0
+B|no,|nn|2478|0
+B|no.|nn|2478|0
+B|I,|%|2478|0
+B|government tool control is my specialty now.|sd|2478|0
+B|I did P C protection control work for, uh, About ten or twelve years, uh,|sd|2478|0
+A|Oh quality, okay.|bk|2478|1
+B|right now I'm just trying to tool crib and chips.|sd|2478|0
+A|Yeah.|b|2478|1
+B|Times are bad.|sv|2478|0
+A|Oh, yeah.|b|2478|1
+A|Well, now, is, is, uh, really terrible.|sv|2478|1
+A|I'm, uh, management level uh, facilities,|sd|2478|1
+A|and when the cuts came, three of us got, uh, bounced back,|sd|2478|1
+A|and so we're just, uh,|%|2478|1
+A|I'm calling you from work.|sd|2478|1
+A|I'm, I'm covering, uh, weekends and nights now.|sd|2478|1
+A|I'm, I'm one of the manager reps,|sd|2478|1
+A|there's three of us to cover in Dallas facilities|sd|2478|1
+A|and just we're essentially standby and problems, uh, all, all nights and weekends.|sd|2478|1
+A|That's my,|%|2478|1
+A|I only get one weekend off a month right now.|sd|2478|1
+A|I call it my recession job.|sd|2478|1
+B|It's,|%|2478|0
+A|Uh, being basically an engineer and liking, uh, doing installation work, well there's not any.|sd|2478|1
+A|I mean there is literally is no installation work going on.|sd|2478|1
+B|They turned all installation up here off.|sd|2478|0
+A|Yeah.|b|2478|1
+B|They told facilities they could not work.|sd|2478|0
+A|Yeah.|b|2478|1
+B|I don't care what the jobs are, you will not work.|^q|2478|0
+A|Yeah,|b|2478|1
+A|it, it,|%|2478|1
+B|And, and, as far as our, you know, our conversation goes, I would really be interested to know how much of T I's problems now are related to, the banking structure.|sd|2478|0
+A|Banking?|qy|2478|1
+A|I think that, not, not only T I, but a lot of it, when they talk about, uh,|sv|2478|1
+A|there was one point I was going to make.|sd|2478|1
+A|I think the last I heard,|sd|2478|1
+A|and I, I have to admit I'm not as informed as them,|sd|2478|1
+A|but there's something like about eighty six billion that they admit.|sv|2478|1
+A|Well, I always double that.|sd|2478|1
+A|I figure well, if they claim that it's going to cost us eighty-six billion, it's got to be twice as much because no one admits their mistakes|sv|2478|1
+A|and so if that's true, it may mean that two hundred billion dollar category that was, that went down the tube somewhere.|sv|2478|1
+B|Uh, it really hurts me, to realize that a lot of people out there are trying to retire on their home values.|sd|2478|0
+A|Yeah.|b|2478|1
+A|It's amazing really.|sv|2478|1
+A|It's amazing that,|sv|2478|1
+A|Oh, yeah.|b|2478|1
+A|I know what you mean.|bh|2478|1
+B|Uh, one of our senior,|sd|2478|0
+A|Course your value of homes up there are pretty good.|sv|2478|1
+A|I mean, here they're not really that high,|sd|2478|1
+A|but are they pretty good up there?|qy|2478|1
+B|No.|nn|2478|0
+A|Oh, really.|b|2478|1
+B|Our economy in Colorado Springs fell completely apart.|sd|2478|0
+A|Well we're in the metroplex here, you know,|sd|2478|1
+A|and, uh, it, it,|%|2478|1
+B|Right.|b|2478|0
+A|I die every time companies like General Dynamics,|sd|2478|1
+A|they, they lost several contracts|sd|2478|1
+A|and, and, I don't know if you noticed yesterday, you probably don't pay attention to the Bell Helicopter, you know,|sd|2478|1
+A|they were going to have big, uh, award,|sd|2478|1
+A|and Secorski got it. Which was Boeing Secorski, this which is up in the north somewhere, you know.|sd|2478|1
+B|Yeah,|b|2478|0
+B|it's northwest.|sd|2478|0
+A|And, I don't know how,   Bell didn't get it.|sd|2478|1
+B|Seattle.|sd|2478|0
+B|Seattle,|sd|2478|0
+B|and also, uh, they do some of that in Wichita, Kansas.|sd|2478|0
+A|Well, I, I don't,|%|2478|1
+A|they were advertising here that it was Bell, T I.|sd|2478|1
+A|T I was getting the, uh, electronics with Bell,|sd|2478|1
+A|and so, it was a double.|sd|2478|1
+A|One that Bell is in the Metroplex|sd|2478|1
+A|and two, that T I was doing the electronics for them.|sd|2478|1
+B|Huh.|b|2478|0
+A|And, they, they advertised that, that it was T I Bell, T I Bell and then all of a sudden, Secorski got it, yeah.|sd|2478|1
+B|Secorski Boeing.|^2|2478|0
+A|Secorski, Boeing,|aa|2478|1
+A|Boeing doesn't need the money.|sd|2478|1
+A|Something,|%|2478|1
+A|I almost think there's some politics around here, because the metroplex here, in the Dallas, Fort Worth area, the, uh, with T I,|sv|2478|1
+A|I don't know if T I has lost as much as everybody else,|h|2478|1
+A|but General Dynamics and L T V and Bell have lost project after project, you know.|sd|2478|1
+B|Well, you realize ...|%|2478|0

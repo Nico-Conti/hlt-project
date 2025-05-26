@@ -1,0 +1,148 @@
+A|Okay.|fo_o_fw_"_by_bc|2293
+B|Well, discussing air pollution today, I guess.|sd|2293
+A|Uh-huh.|b|2293
+B|Um, uh, well, give me your first impressions.|ad|2293
+A|Uh, I don't know,|h|2293
+A|there's a lot of air pollution.|sv|2293
+B|Yeah.|b|2293
+A|Um, I think industries and companies provide a lot of it|sv|2293
+B|Uh-huh.|b|2293
+A|and, with, uh, I guess with the oil burning over in Kuwait and stuff, that would have a lot of air pollution in it.|sv|2293
+B|Uh, puts a whole,|%|2293
+B|yeah,|%|2293
+B|gets a whole new picture to what real air pollution can be,|sv|2293
+B|but, uh, that stuff going on over there.|sv|2293
+B|What, what, uh, what part of Pennsylvania are you in?|qw|2293
+A|Um, I'm north of Pittsburgh,|sd|2293
+A|so.|%|2293
+B|Okay,|bk|2293
+B|okay,|b|2293
+B|so, it's, it's amazing too, you know, with that, with the oil wells burning over there, that's the exact same stuff that's coming out of cars every day, just in, uh, just in a little different grade, I guess.|sv|2293
+A|Yeah.|b|2293
+B|But, uh, in Dallas, we've got, we've just, uh, brought in a whole new set of requirements on inspections and things like that for cars, because, uh, people just don't use mass transit and stuff in Dallas.|sd|2293
+B|Everybody loves their car,|sv|2293
+B|and you see an awful lot of, uh, one person vehicles on the road on, during rush hours.|sd|2293
+B|That seems to be our biggest problem down here.|sv|2293
+B|Um, you know, there's, uh, there's a lot of industry around,|sd|2293
+B|but, uh, it's not, it's|%|2293
+B|any pollution that industry's dumping around here is not going into the air.|sv|2293
+B|It's typically water type situation.|sv|2293
+A|Yeah.|b|2293
+A|Um. We have a couple, we have like a steel mill and a couple refineries and stuff,|sd|2293
+A|and I know there's a lot of air pollution going in there,|sv|2293
+A|and like they, they get fined whenever they do the air pollution|sd|2293
+B|Uh-huh.|b|2293
+A|but the fine is nothing, you know,|sv|2293
+B|Yeah,|b|2293
+B|it's, it's,  like, like two hours of output or something like that.|sv|2293
+A|it's like nothing to them.|^2|2293
+A|Yeah,|b|2293
+A|yeah,|b|2293
+B|That's true,|ba|2293
+B|that's true.|ba|2293
+A|Uh-huh.|b|2293
+B|Yeah,|b|2293
+B|I, a, uh, I grew up in South Dakota,|sd|2293
+B|so I was never, I was never exposed to anything of, of the, of the sort.|sd|2293
+A|Uh-huh.|b|2293
+B|Um, there were always E P A people and what not were always telling us that, uh, farm chemicals and what not were destroying our water system and all that|sd|2293
+A|Uh-huh.|b|2293
+B|but we just, we just never saw the results.|sd|2293
+B|There was, there was dust in the air during planting seasons and what not,|sd|2293
+B|but that, that was all we ever saw,|sd|2293
+B|and then five years ago I moved to Dallas,|sd|2293
+B|and I suddenly started to understand what burning eyes, and all that stuff is about that I'd always heard about.|sd|2293
+B|It, uh, it's, it gets, it's real depressing.|sd|2293
+B|In the morning sometime you can tell if it's a good day or a bad day by, uh, how far out from downtown, uh, you can be on the road and still not see it.|sd|2293
+A|Oh, my God|ba|2293
+B|And, uh, yeah,|%|2293
+B|I mean, it's not,|%|2293
+B|I don't think Dallas is considered, uh, a real bad place for air pollution,|sv|2293
+B|but, you, you can tell, you can tell the differences in the days, when it's, when the haze is kind of yellowish gray instead of just being a, a foggy, misty color|sd|2293
+A|Uh-huh.|b|2293
+B|and, uh, it, it's a little, it's a little disappointing sometimes you start to realize what you're breathing.|sd|2293
+A|Uh, yeah,|b|2293
+A|but, I don't know what they can do to really prevent it, you know.|sd|2293
+A|Like, how,|%|2293
+A|what can they do about the oil burning over in Kuwait?|qh|2293
+A|What, you know,|%|2293
+A|I mean they fine the industries,|sd|2293
+A|but you know, that doesn't seem to stop them there|sv|2293
+B|Right.|b|2293
+A|I don't know what else they can do.|sd|2293
+B|Right.|b|2293
+B|It, it's that there really isn't a whole lot.|sv|2293
+B|It's one of those, uh, it's one of those things that if they do a little bit and, uh, and, you know, every little bit does help,|sv|2293
+B|I do believe that.|h|2293
+B|Um, but I also believe that the earth is a kind of a self-regulating system,|sd|2293
+B|and, uh, it will clean itself up, eventually.|sv|2293
+B|It,|%|2293
+B|the whole idea is not to, not to push the limit too hard, I guess|sv|2293
+A|Uh-huh.|b|2293
+B|let the, you know, let the natural, natural systems take care of the problem as much as possible.|sv|2293
+A|Yeah,|b|2293
+A|I, I,|%|2293
+A|yeah,|b|2293
+A|I just don't understand, you know, what else anyone can do about it.|sd|2293
+A|I don't think it's something that people really think about, either.|sv|2293
+B|Uh-huh.|b|2293
+A|You know, it's, I mean, it, it should probably be a big issue, you know, because it's, it's doing a lot of damage,|sv|2293
+A|but I,|%|2293
+A|it's something, you know,|sv|2293
+A|I don't think many people really think about it, because it's nothing they,|sv|2293
+A|I don't think we really have too much control over it.|sv|2293
+B|Right.|b|2293
+B|And it's one of those things,|sv|2293
+B|it, it's so hard to measure what, what the damage is|sv|2293
+A|Uh-huh.|b|2293
+B|it's kind of like, oh,|sv|2293
+B|I guess it's kind of like, kind of like cigarette smoking, you know.|sv|2293
+B|It, it could go on for years and years until they start to see some results and people can actually, actually say, Yeah, it's, it's, it's doing, doing some damage and something's got to be done.|sv|2293
+A|Uh-huh.|b|2293
+B|Um, there's, you know, there's a lot of things like that.|sv|2293
+B|It,|%|2293
+B|you can, uh, you can pound on something for a long time before it finally breaks,|sv|2293
+B|but until it breaks, you don't really know that there, you were doing anything to it.|sv|2293
+A|Yeah,|b|2293
+A|exactly.|ba|2293
+B|But, uh,|%|2293
+A|Well, I really don't know too much else about it.|sd|2293
+B|Yeah,|b|2293
+B|well, that's, that's,|%|2293
+B|I think we both agree it's, it's one of those deals that, uh,|sv|2293
+B|I just think there's a lot of other problems right now|sv|2293
+A|Uh-huh.|b|2293
+B|and, uh, we've done a lot to take care of it.|sv|2293
+A|Yeah.|b|2293
+B|And, uh,|%|2293
+A|Yeah,|b|2293
+A|we have tried,|sv|2293
+A|I mean, you know, and, um, I, I know where, you know, where a couple of the mills that have,|sd|2293
+A|I know they put things on their stacks, you know, to filter the smoke, and do all kinds of things,|sd|2293
+A|but, I mean, every now and then it breaks, you know,|sd|2293
+A|and and you just have smoke going out into the air for a day or two, until you can get it fixed.|sd|2293
+B|Oh, sure.|b|2293
+B|Sure.|b|2293
+A|and so, so, you know, it's something we, we have tried to help.|sd|2293
+B|Oh, there's no doubt about it.|ba|2293
+A|Yeah.|b|2293
+B|I don't know if you ever happened to see some of the like, Twenty Twenty and what not about Rumania and East Germany when they first got pictures out of there about how some of their systems had been running for twenty and thirty years|sd|2293
+A|Uh-huh.|b|2293
+A|Uh-huh.|b|2293
+B|and, uh, you know, they had absolutely no regulations, no controls whatsoever,|sd|2293
+B|and they had destroyed entire forests and what not, just because the air was so polluted.|sd|2293
+B|That's, that's the kind of things that, uh, you don't see in this country,|sv|2293
+B|and that's, that's why I think that, you know, it's,|sv|2293
+B|I don't know if you can ever do enough,|sv|2293
+B|but, uh, I think it's all relative to the, to the time and place,|sv|2293
+B|and I think right now it's, it's pretty much under control.|sv|2293
+A|Yeah,|b|2293
+A|okay,|%|2293
+A|well.|%|2293
+B|All righty.|fc|2293
+A|Uh-huh.|fc|2293
+A|It's been nice talking to you.|fc|2293
+B|Well, you bet.|fc|2293
+A|Okay,|fc|2293
+A|bye-bye.|fc|2293
+B|Bye.|fc|2293

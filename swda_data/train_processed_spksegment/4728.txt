@@ -1,0 +1,173 @@
+B|I don't know what you drive now.|sd|4728|0
+B|I mean, what do you drive now?|qw|4728|0
+A|Uh, I have a Ford pickup|sd|4728|1
+A|and, uh, the family car is a, uh, a Dodge Caravan. And, uh, because we have three kids and they're under thirteen|sd|4728|1
+B|Oh, okay.|bk|4728|0
+A|so, uh|%|4728|1
+B|Throw them in the back.|^2|4728|0
+A|they sort of fit our requirement.|sd|4728|1
+A|Yeah,|b|4728|1
+A|I have a, one of those, uh, pickups with the, uh, seat  with a seat in the back.|sd|4728|1
+B|Cab.|^2|4728|0
+B|Oh, yeah?|bh|4728|0
+A|And so they just fit in there.|sd|4728|1
+A|When they get to be teenagers with long legs, it may not work.|sd|4728|1
+B|Yeah|b|4728|0
+A|Right now, I can, right now, I can throw them all in the back when we have room|sd|4728|1
+A|and, uh and since I do a lot of projects, I throw things in the back|sd|4728|1
+B|There you go.|ba|4728|0
+A|and I kind of like having a pickup truck.|sd|4728|1
+B|Yeah,|b|4728|0
+A|Actually, I think of it as a as a car that'll last|sd|4728|1
+B|Right,|b|4728|0
+B|yeah,|b|4728|0
+B|I know.|ba|4728|0
+A|I like the way trucks are built|sd|4728|1
+A|and I don't care about comfort.|sd|4728|1
+A|So, I'm pretty happy.|sd|4728|1
+B|Yeah,|b|4728|0
+B|you're looking at,|%|4728|0
+B|I got a Toyota Four Runner.|sd|4728|0
+B|I wanted a truck that I, I wanted something that I could throw people in the back too,|sd|4728|0
+B|so I got a Four Runner.|sd|4728|0
+A|So I wouldn't hesitate to get another one.|sd|4728|1
+A|I, I never buy new|sd|4728|1
+A|so I wouldn't hesitate to get another used truck.|sd|4728|1
+B|You're just like me.|sv|4728|0
+B|I've never bought a new vehicle in my life.|sd|4728|0
+A|And, uh, yeah,|b|4728|1
+A|I don't, I don't need to pay for the glitz.|sd|4728|1
+A|I'll let somebody else, uh, have the showroom shine|sd|4728|1
+B|No.|aa|4728|0
+A|and I'll pay for the rest of it.|sd|4728|1
+B|Let somebody else break it in,|sv|4728|0
+B|right|b|4728|0
+A|Right.|b|4728|1
+A|And, uh, the van we're|sd|4728|1
+A|we might go again on a, on a van.|sd|4728|1
+A|We, we could probably do with a, a, something just a little bit larger than a compact in a sedan next time.|sd|4728|1
+A|I'm not sure.|sd|4728|1
+B|Yeah.|b|4728|0
+A|We have to, we, we'll have to face it in a couple of years|sd|4728|1
+A|but, uh,  I, I guess, we had a small Toyota wagon|sd|4728|1
+B|Right.|b|4728|0
+A|and we were real happy with that because, uh, my, my second requirement after price is, uh, low maintenance.|sd|4728|1
+B|Right.|b|4728|0
+A|And, uh, it certainly had that.|sd|4728|1
+A|We didn't do much to it at all.|sd|4728|1
+B|Yeah.|b|4728|0
+A|So.|%|4728|1
+B|Yeah,|b|4728|0
+B|my, my,|%|4728|0
+B|pretty much the same.|sd|4728|0
+B|I, I got a, like I say I got one of those Toyota Four Runners|sd|4728|0
+A|Uh-huh.|b|4728|1
+B|and, uh, it pretty much does everything I need it to.|sd|4728|0
+B|I mean, it, it'll tow three thousand pounds|sd|4728|0
+B|so I can tow everything|sd|4728|0
+B|and it,|%|4728|0
+B|I can throw,|sd|4728|0
+B|I've had eleven people in it before Believe it or not.|sd|4728|0
+A|Uh-huh.|b|4728|1
+B|And, uh, it's real reliable,|sd|4728|0
+B|I, I mean I've had it for almost four years now|sd|4728|0
+B|and up until, oh, say two weeks ago, it had never had anything wrong with it.|sd|4728|0
+A|Uh-huh.|b|4728|1
+B|And then, of course, two weeks ago, it decided,|sd|4728|0
+B|I don't know,|h|4728|0
+B|it's the strangest, weirdest thing in the world,|sd|4728|0
+B|but it blew a head gasket.|sd|4728|0
+A|Uh-oh.|ba|4728|1
+B|Didn't do any damage to it.|sd|4728|0
+B|Uh, I caught  it real early.|sd|4728|0
+A|How,|%|4728|1
+A|at how  at how many miles?|qw|4728|1
+B|Uh, oh ninety-seven thousand.|sd|4728|0
+A|Huh.|b|4728|1
+B|So it's not real early|sd|4728|0
+A|You didn't overheat it?|qy^d|4728|1
+B|No.|nn|4728|0
+B|Never overheated it.|sd|4728|0
+B|I smell, I smelled the, uh, I smelled the coolant|sd|4728|0
+A|Uh-huh.|b|4728|1
+B|Went out and looked.|sd|4728|0
+B|Saw it was, saw where it was coming from.|sd|4728|0
+B|Drove it right to the shop and left it off.|sd|4728|0
+A|Huh.|b|4728|1
+A|Well that was, ,|%|4728|1
+B|And that was it|sd|4728|0
+B|because I, I have that|sd|4728|0
+B|and then I have a, a Kawasaki motorcycle. Which is, actually, the, usually my preferred mode of transportation if I can take it and it's not raining.|sd|4728|0
+A|Uh-huh.|b|4728|1
+A|Yeah.|b|4728|1
+B|I mean that's, that's sort of my, hobby though more than a vehicle.|sd|4728|0
+B|It, it's a|%|4728|0
+B|I don't know,|h|4728|0
+B|people who buy motorcycles for transportation I think are kidding themselves|sd|4728|0
+A|I have one colleague that, uh, commutes to work on one when it's not raining|sd|4728|1
+A|and, uh, uh, he's a,|%|4728|1
+A|it's,|%|4728|1
+A|he's pretty conservative guy.|sd|4728|1
+A|I don't think it's much of a sport for him. I guess, uh,|sd|4728|1
+B|I know|ba|4728|0
+B|but I bet you he really enjoys riding it.|sv|4728|0
+A|I'm sure he does,|sd|4728|1
+A|yeah.|b|4728|1
+B|Yeah.|b|4728|0
+B|So, you know,|%|4728|0
+B|when was the last time you took out, took your truck out just to, just to go driving?|qh|4728|0
+B|Yeah.|b|4728|0
+A|No|aa|4728|1
+B|And I go out twice a week on the bike, so. At least. Just for  the enjoyment.|sd|4728|0
+A|Yeah.|b|4728|1
+A|Uh .|%|4728|1
+A|Yeah|b|4728|1
+B|But, yeah,|b|4728|0
+B|I, I mean, the only thing I think I might get, a new car or, not necessarily a new car but, a, another car,|sd|4728|0
+B|uh, I would consider going to a, a non, to a normal pickup rather than a, a covered pickup like the one I've got. Just because there's a lot of times I wished I had, just an open bed to throw stuff in.|sd|4728|0
+A|Right.|b|4728|1
+B|I'm sure, I'm sure that that's very,|sv|4728|0
+B|I mean you got one.|sv|4728|0
+B|It's, that's really convenient to be able to throw that sort of stuff in the back|sd|4728|0
+B|and,|%|4728|0
+A|If I only had some place that I could store the, uh, camper top, I would have it off most of the time.|sd|4728|1
+B|Right.|b|4728|0
+A|I really leave it on there just for, just to have it out of the way because you put it on the ground it gets dirty.|sd|4728|1
+B|To have it out of the way.|^2|4728|0
+B|Right.|b|4728|0
+A|But, uh, they're solid.|sd|4728|1
+A|Uh, trucks are built, uh, I mean,|sv|4728|1
+B|I think they last a lot longer than anything else.|sv|4728|0
+A|They're the only things Americans still know how to build|sv|4728|1
+A|and, uh|%|4728|1
+B|Yeah,|b|4728|0
+B|yeah,|b|4728|0
+B|the trucks do.|sd|4728|0
+B|Uh, even though, you know, the Jap, the little Jap trucks are, are good there too.|sv|4728|0
+B|But so are the,|%|4728|0
+B|though I think the Chevies,|sv|4728|0
+B|I don't think the|sv|4728|0
+B|I don't like the Chevies as much as I like the Fords.|sv|4728|0
+A|Yeah.|b|4728|1
+B|I think they, I think the Fords tend to last a little longer.  At least until recently|sv|4728|0
+A|Right.|b|4728|1
+A|I  I kind of like mine,|sd|4728|1
+A|yeah,|b|4728|1
+A|so, mine's a Ford|sd|4728|1
+B|A friend of mine just bought , bought like a year ago. It, it's a really nice truck.|sd|4728|0
+B|I mean, I don't like Dodges at all|sd|4728|0
+B|but one of the Dodges they have out now has a, uh, the Cummins turbo diesel on it.|sd|4728|0
+A|Oh, I heard about that,|ba|4728|1
+A|yes.|b|4728|1
+B|Oh, it's beautiful.|sv|4728|0
+A|Yeah.|b|4728|1
+B|That thing, that thing will last forever I mean ,|sv|4728|0
+A|That, that's a serious truck.|sv|4728|1
+B|Oh, yeah,|b|4728|0
+B|that thing's, uh,|%|4728|0
+B|it's got a boat engine in it|sv|4728|0
+A|Right,|b|4728|1
+A|this, uh,|%|4728|1
+A|I, I know a contractor who just got one of those.|sd|4728|1
+B|Uh-huh.|b|4728|0
+A|He's pleased with it.|sd|4728|1

@@ -1,0 +1,74 @@
+A|Okay.|fo_o_fw_"_by_bc|4358|0
+A|What is your, uh, community, uh, currently doing with regard to recycling?|qw|4358|0
+B|Uh, basically, they're just, uh, having various recycling, uh, bins, uh, located for, uh, trash pickup.|sd|4358|1
+A|Uh-huh|b|4358|0
+A|Well that's more than we have up here in Massachusetts.|sd|4358|0
+A|Some, some local communities are very active in that, uh, in that respect|sd|4358|0
+A|and they do have bins set up.|sd|4358|0
+A|But I live in a, a metropolitan area|sd|4358|0
+A|and, uh, they're not, uh, too inclined to do something as aggressive as that|sv|4358|0
+B|Well, here they and,|%|4358|1
+B|uh, live in an apartment complex.|sd|4358|1
+A|Uh-huh.|b|4358|0
+B|And they only have one set of recycling bins, one or two sets as opposed to a set at each of the dumpsters.|sd|4358|1
+B|So a lot of the people who live up front don't bother to recycle because, you know, it's too far to carry the stuff to the other bins.|sv|4358|1
+A|I, I know a lot, I think a lot of, uh, the, the issues with regard to recycling are that, uh, people have to be motivated to do, to do something like that because it does take extra effort.|sv|4358|0
+A|Whether|%|4358|0
+A|and, and I think that, and I know Massachusetts has,|sd|4358|0
+A|a bottle bill was passed|sd|4358|0
+A|and we have had a bottle bill for quite a few years now,|sd|4358|0
+A|and the majority of the incentive in recycling bottles probably, believe it or not, is just to get the extra nickel at the, uh, the store and not, uh,|sv|4358|0
+A|that's the majority of people that I know of anyways.|sv|4358|0
+A|Where people aren't really, you know, eco conscious. It's just the fact that it's something they have to do.|sv|4358|0
+A|And I'm not going to throw a bottle away,|^q|4358|0
+A|it's like throwing a nickel away.|^q|4358|0
+A|That type of thing.|sv|4358|0
+B|Right.|b|4358|1
+B|They,  here they're trying to push through a bill|sd|4358|1
+A|But, uh, people need to be more conscious of it.|sv|4358|0
+B|and a lot of people are against it.|sd|4358|1
+B|And it's going to create a lot more work for the, uh, the stores that sell, you know, sodas and stuff.|sv|4358|1
+B|Because they want to implement a refund on cans and on plastic bottles and everything.|sd|4358|1
+A|Yeah|b|4358|0
+A|It didn't, it, it took awhile for that bill to be passed up here as far as recycling bottles and cans.|sd|4358|0
+A|Uh, and, and matter of fact, I think it took like three tries for it to go through.|sd|4358|0
+A|But, and it's been pretty successful|sv|4358|0
+A|and people notice it as far as, uh, highways being, uh, you know,|sv|4358|0
+A|people would have a drink of soda,|sv|4358|0
+A|instead of throwing out the window, they, they keep the bottle|sd|4358|0
+A|so it's, it's been a ecologically sound policy and, you know, as, as far as recycling your bottles in terms of trash and so forth.|sv|4358|0
+A|But more importantly, it's recycling reusable materials back into, uh, manufacturing.|sv|4358|0
+A|And that's the big thing, I think, that they try to promote.|sv|4358|0
+B|Right.|b|4358|1
+B|I think here if they, uh, instead of just, you know, requiring that you put, put out the trash and stuff, if they could get some kind of rebate, those people who do put the stuff out, uh, you know, and separate it, have lower collection fee or something may  encourage people to separate.|sv|4358|1
+A|Yeah,|b|4358|0
+A|that's a good idea.|ba|4358|0
+A|Yeah.|b|4358|0
+A|there definitely has to be a motivation factor|aa|4358|0
+A|and I know that, at where I work,|sd|4358|0
+A|I work for a defense contractor.|sd|4358|0
+A|And there's a big push on for recycling, uh, paper materials, you know, computer output paper and also to decrease the amount of, uh, Styrofoam usage because of the, uh, the process involved in Styrofoam and, and the whole eco issue and that.|sd|4358|0
+A|And, and they're very proactive|sd|4358|0
+A|and, uh, matter of fact, they give you discounts if you use, uh, china wear rather than, uh, Styrofoam stuff,|sd|4358|0
+A|so. So, it's incentives like that that get people people more conscious of it.|sv|4358|0
+A|I think that's, that's what they need to do. Be more like that.|sv|4358|0
+B|Uh, I know, uh, I believe it was last year that they actually collected the old phone books.|sd|4358|1
+B|Uh, usually have them come from you know, projects to collect old ones.|sd|4358|1
+B|Usually just get dumped out with the trash.|sd|4358|1
+B|And phone books are a large volume of annual trash.|sv|4358|1
+A|Yeah.|b|4358|0
+A|They, they just,|%|4358|0
+A|matter of fact, that, that reminded me of an article I saw in the|sd|4358|0
+A|the local schools, you could send your phone book to your, uh, to, with your kid to school|sd|4358|0
+A|and what they'll do is they'll recycle it.|sd|4358|0
+A|Because there was an article or a story done awhile ago that, uh, trash, uh, the telephone books are the type of thing that don't break down over a long period of time.|sd|4358|0
+A|A guy went to a a landfill, dug down five feet and, and pulled up a phone book from like nineteen sixty|sd|4358|0
+A|because they don't, they don't degrade over such a period of time.|sd|4358|0
+B|Well, part of the problem with recycling them in the past has been the covers are made with a clay based paper.|sv|4358|1
+A|Yeah.|b|4358|0
+B|They contain the glue and stuff|sd|4358|1
+B|and they used to have to take out all the, uh, pages and then cut the spine off to be able to recycle them.|sd|4358|1
+A|Yeah.|b|4358|0
+B|Now I think they've come up with some way of, uh, pulling the glue out.|sd|4358|1
+A|Yeah.|b|4358|0
+A|Okay|b|4358|0

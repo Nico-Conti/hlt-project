@@ -1,0 +1,219 @@
+A|Okay,|fo_o_fw_"_by_bc|2819|0
+A|so, um, how do think, how do you think we've changed in the last ten to twenty years?|qw|2819|0
+B|Uh, I'm at a little bit of a loss,|sd|2819|1
+B|you know, I don't know,|h|2819|1
+B|ten years ago,|%|2819|1
+B|see I'm what, I'm about, uh, twenty-eight now|sd|2819|1
+B|so when I was eighteen,|sv|2819|1
+A|Uh-huh.|b|2819|0
+B|things haven't changed a whole lot.|sd|2819|1
+A|Really.|b|2819|0
+B|People are being a little more, oh, I don't know, a little a little less bigoted in some ways,|sv|2819|1
+B|I don't know|h|2819|1
+A|Uh-huh.|b|2819|0
+B|seems to me.|sv|2819|1
+A|Well,|%|2819|0
+B|I guess I'm like my parents.|sd|2819|1
+B|The younger generation gets away with hell,|sv|2819|1
+B|but, uh,|%|2819|1
+A|Yeah.|b|2819|0
+B|Well, it seems to me that civic freedoms are more restricted|sv|2819|1
+B|but that may just be because I've changed.|sd|2819|1
+B|You know, I used to live up north.|sd|2819|1
+B|Down here, Dallas, seems to me, the police are militant|sv|2819|1
+A|Really.|b|2819|0
+B|but, uh,|%|2819|1
+A|Where'd you live up,|qw|2819|0
+A|where'd you live at,|qw^d|2819|0
+B|I lived in Akron, Ohio.|sd|2819|1
+A|Oh, did you?|bh|2819|0
+A|I'm from , Illinois,|sd|2819|0
+A|so.|%|2819|0
+B|Oh.|b|2819|1
+A|How long, how long you been in Dallas?|qw|2819|0
+B|Oh, about eight years.|sd|2819|1
+A|Oh, really?|bh|2819|0
+B|In fact in the eight years I've been here it seems to me it gets more and more, gets to be more and more restrictive place to live. I think,|sv|2819|1
+A|Yeah, uh|b|2819|0
+A|you know, uh, as you're talking like police and stuff like that it's definitely a tough job to do.|sv|2819|0
+B|Yeah,|b|2819|1
+B|I think it's,|%|2819|1
+B|crime has gone, got a lot worse in the last last ten, fifteen years,|sv|2819|1
+A|Oh, yeah,|aa|2819|0
+A|I agree.|sd|2819|0
+B|and maybe that has a lot to do with it.|sd|2819|1
+A|Yeah,|b|2819|0
+A|I, I definitely think that has gotten a lot worse,|sv|2819|0
+A|and you know, I, I think there's,|%|2819|0
+A|to me there seems to be a little bit of a decline in the family values.|sv|2819|0
+B|Yeah,|aa|2819|1
+B|that's true.|ba|2819|1
+A|So,|%|2819|0
+B|That's true,|ba|2819|1
+A|But, uh,|%|2819|0
+B|I'd say my own personal lifestyle has improved|sd|2819|1
+A|Yeah.|b|2819|0
+B|but that's more a matter of,|%|2819|1
+B|you know I'm no longer a teenager in high school.|sd|2819|1
+A|Yeah.|b|2819|0
+A|Yeah,|b|2819|0
+A|I think there's more pressure like on both parents to work, and things like that than there used to be|sd|2819|0
+A|and,|%|2819|0
+B|Hello.|t3|2819|1
+B|Somebody's at the door.|sd|2819|1
+A|So.|%|2819|0
+B|Hang on just a second.|ad|2819|1
+A|Okay.|aa|2819|0
+B|off Okay.|t3|2819|1
+A|But, uh, I don't know,|h|2819|0
+A|that's just, that's one thing I see, I see a lot more, you know, double income families and a lot more like baby sitters raising the kids and things like that, I guess.|sv|2819|0
+B|Yeah,|aa|2819|1
+B|that's true,|ba|2819|1
+B|it's getting more and more expensive to live.|sv|2819|1
+A|Yeah,|aa|2819|0
+A|that's for sure.|ba|2819|0
+B|You can't, you can't make it,|sv|2819|1
+A|Yeah,|b|2819|0
+A|without it hardly,|%|2819|0
+A|that's right.|ba|2819|0
+B|I guess, when I was growing up, it was, it was still the ideal to get a, get a home and buy house,|sd|2819|1
+B|and these days you see a lot of people living in apartments forever|sd|2819|1
+A|Yeah.|b|2819|0
+A|Yeah|b|2819|0
+B|you know, you just don't buy a house,|sv|2819|1
+A|just because they can't get into one,|^2|2819|0
+A|yeah,|aa|2819|0
+A|that's right.|ba|2819|0
+A|Yeah,|b|2819|0
+A|the ways our tax laws and stuff are structured, you can't ever catch a break until you can get into a house in a lot of ways,|sv|2819|0
+B|Yeah.|b|2819|1
+A|so. Yeah,|b|2819|0
+A|that's, that's a good point|ba|2819|0
+A|so, I'm trying to think of anything else that's changed over the last ten or twenty years.|^h|2819|0
+B|Yeah,|b|2819|1
+B|for me it's kind of hard,|sd|2819|1
+B|I don't know.|h|2819|1
+B|I think,|%|2819|1
+B|I don't know, I think the middle class is shrinking and the, uh, lower class is expanding|sv|2819|1
+A|Oh, yeah,|aa|2819|0
+A|I agree.|aa|2819|0
+B|and sooner or later there's going to, there's going to be a turn around.|sv|2819|1
+A|Well, I hope so, you know, at some point|sd|2819|0
+A|but I don't know at what point,|sd|2819|0
+B|But I think it's going to be at the expense of the middle class, uh|sv|2819|1
+A|Yeah,|b|2819|0
+B|so, usually is I think.|sv|2819|1
+A|Yeah.|b|2819|0
+A|It's, uh,|%|2819|0
+B|It's hard for me to say.|sd|2819|1
+B|I hope it happens, because I'd be one of those that gets caught.|sd|2819|1
+B|But on the other hand, there's a lot of injustice that needs to be, be changed.|sv|2819|1
+A|Yeah,|b|2819|0
+A|that's right.|ba|2819|0
+A|Do you work at T I?|qy|2819|0
+B|Yeah.|ny|2819|1
+A|Do you?|bh|2819|0
+B|Yeah.|ny|2819|1
+A|What, uh, department do you work in?|qw|2819|0
+B|I'm in semiconductor.|sd|2819|1
+A|Are you?|bh|2819|0
+A|I'm in semiconductor division too.|sd|2819|0
+B|Yeah.|b|2819|1
+A|So. How long you been with them, since you moved down here?|qw|2819|0
+B|About eight years,|sd|2819|1
+B|yeah.|%|2819|1
+A|Um, I'm over at the Center One building.|sd|2819|0
+B|Yeah,|b|2819|1
+B|so am I.|sd|2819|1
+A|Are you really.|ba|2819|0
+A|What floor?|qw|2819|0
+B|Two.|sd|2819|1
+A|I'm on the seventh floor.|sd|2819|0
+B|Well,|%|2819|1
+A|How about that.|ba|2819|0
+A|Well, it's a small world.|sd|2819|0
+A|So, so let's see,|^h|2819|0
+A|second floor, you work with, uh, linear.|qy^d|2819|0
+B|Yeah.|ny|2819|1
+A|Do you. Do you, uh, do you know Alec Morton?|qy|2819|0
+B|Yeah,|ny|2819|1
+B|I've probably seen him around.|sd|2819|1
+A|Oh, you do, huh.|ba|2819|0
+A|Well, he comes up and pushes us around|sd|2819|0
+A|so, uh, so I'm pretty familiar with,|sd|2819|0
+B|Are you D A D or something up there?|qy|2819|1
+A|Huh?|br|2819|0
+B|Are you D A D or something?|qy|2819|1
+A|Yeah|ny|2819|0
+A|Yep,|ny|2819|0
+A|you must know him.|sv|2819|0
+A|His reputation precedes him.|sd|2819|0
+B|Yeah,|b|2819|1
+B|well, seventh floor.|sd|2819|1
+A|Yeah,|b|2819|0
+B|T A D,|sd|2819|1
+A|Well, uh, he, uh, boy, he comes up there and gives us all kinds of grief.|sd|2819|0
+A|They, they say it's what makes him happy is to give us D A D grief,|sd|2819|0
+A|so I can believe it|sd|2819|0
+A|but,|%|2819|0
+B|Well.|%|2819|1
+A|Yeah,|b|2819|0
+A|let's see, if you've been in Dallas eight years, I guess that's about how long,|sv|2819|0
+A|I've been in here about eight years, too, I guess.|sd|2819|0
+A|Um, been with T I like twelve,|sd|2819|0
+A|but I started out in Lubbock.|sd|2819|0
+A|Lubbock is,|sd|2819|0
+A|I don't know,|h|2819|0
+A|I guess if this is the only place you've lived, Lubbock is a lot different than Dallas.|sv|2819|0
+B|Yeah,|b|2819|1
+B|flat, dry and dirty,|sd|2819|1
+A|Yeah.|b|2819|0
+A|Yeah,|b|2819|0
+A|but the people all seem to be a lot more laid back, too,|sd|2819|0
+A|I mean, here in Dallas everything is just real rush, rush.|sd|2819|0
+B|Yeah,|b|2819|1
+B|I lived in the country for several years,|sd|2819|1
+B|and living in the city is a whole different uh, social structure|sd|2819|1
+A|Oh yeah.|b|2819|0
+B|but, uh,|%|2819|1
+A|Well, I got some friends that, uh,|sd|2819|0
+A|seems like he went to school at like DeVry.|sd|2819|0
+A|Is there a DeVry in Akron?|qy|2819|0
+B|I don't even know|no|2819|1
+A|Oh,|bk|2819|0
+B|I haven't been up there in years.|sd|2819|1
+A|Oh, I see,|bk|2819|0
+A|well, he went to school somewhere in Ohio,|sd|2819|0
+A|and he's from that area,|sd|2819|0
+A|and, uh, he works over in the Park, Park Central building I think|sd|2819|0
+A|but, uh, I haven't talked to him in a while,|sd|2819|0
+A|but, um, yeah,|%|2819|0
+A|he, he misses it.|sd|2819|0
+A|He used to go back twice or three times a year, you know, because he missed it.|sd|2819|0
+A|Sounds like you haven't been back there in a while.|sv|2819|0
+B|No,|aa|2819|1
+B|I haven't been back in ten, fifteen years.|sd|2819|1
+A|You still have relatives back there|qy^d|2819|0
+A|or,|%|2819|0
+B|Yeah,|ny|2819|1
+B|I do,|sd|2819|1
+B|I just haven't had a chance to get back|sd|2819|1
+A|Oh.|b|2819|0
+B|Catch them next year probably.|sv|2819|1
+A|Really.|b|2819|0
+A|Well, let's see,|^h|2819|0
+A|how, how long are we supposed to talk here?|qw|2819|0
+B|I don't know,|no|2819|1
+B|I think we ran out of social, social changes to talk about,|sv|2819|1
+B|so.|%|2819|1
+A|Yeah,|b|2819|0
+A|well my kids are probably needing me to go|sd|2819|0
+A|so|%|2819|0
+B|Okay,|b|2819|1
+A|all right,|fc|2819|0
+A|well, it's nice talking to you.|fc|2819|0
+B|Yeah,|fc|2819|1
+A|Talk to you later.|fc|2819|0
+B|All righty,|fc|2819|1
+B|bye.|fc|2819|1
+A|Bye.|fc|2819|0

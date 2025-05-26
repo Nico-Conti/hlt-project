@@ -1,0 +1,148 @@
+A|Okay,|fo_o_fw_"_by_bc|3473|0
+A|go ahead.|ad|3473|0
+B|Well, I, I, uh, we're going to compare notes. Uh,|sd|3473|1
+A|Yeah.|b|3473|0
+B|I, uh, I  often desire to exercise, often believe I should and rarely do.|sd|3473|1
+A|Don't do it|^2|3473|0
+A|Well, I tell you, I, I firmly believe in exercising.|sd|3473|0
+A|I think it's a,|sv|3473|0
+A|I do it every day on a regular basis.|sd|3473|0
+A|I,|%|3473|0
+B|What, what, what sort of, of regiment do you have?|qw|3473|1
+A|Well, I just got back from biking twelve and a half miles,|sd|3473|0
+A|but this time of year, you can't get much biking in. Uh,|sd|3473|0
+A|but every morning I use this President's, uh, council of physical fitness|sd|3473|0
+A|and it really is, uh, uh, it's worth doing,|sv|3473|0
+A|and you can do it anywhere.|sv|3473|0
+A|I, I travel quite a bit in my in my business,|sd|3473|0
+B|Yes.|b|3473|1
+A|and you can do it, you know, wherever you're at|sv|3473|0
+A|and if you do it,|sd|3473|0
+A|I, I do it every morning after, uh, usually after breakfast before I take a shower and get, you know, dressed going you know, to go to work.|sd|3473|0
+B|Yes.|b|3473|1
+B|Uh-huh.|b|3473|1
+A|And, uh, now what I do,|sd|3473|0
+A|I mean, I've done this for, you know, like fifteen years,|sd|3473|0
+A|so you don't start at this kind of regiment, you know.|sd|3473|0
+B|Yes.|b|3473|1
+A|I,|%|3473|0
+A|so, what I'm telling you isn't something you go out and do|sd|3473|0
+A|and, and you'll hurt yourself Uh,|sd|3473|0
+A|every, every, uh,|%|3473|0
+A|it takes me about fifteen minutes to do this now because I do it all the time,|sd|3473|0
+A|but I, uh, I do twenty-five, uh, uh, where you have your arms above your head and and your body twisters touch right, you know, left and right toe|sd|3473|0
+B|Uh-huh.|b|3473|1
+A|and I do, uh, ten, uh, right and left, uh, trunk twisters.|sd|3473|0
+B|Uh-huh.|b|3473|1
+A|And I do, uh, about sixty, uh, bicycle, type, uh, leg thrust type things.|sd|3473|0
+B|Uh-huh.|b|3473|1
+A|And I do, uh, twenty, uh, leg lifters on each side. You know when you're laying on the floor.|sd|3473|0
+B|Yes.|b|3473|1
+B|Yes.|b|3473|1
+B|Right.|b|3473|1
+A|And then I do fifty push-ups and do a hundred sit ups|sd|3473|0
+A|and, uh, then I do about, uh,|sd|3473|0
+B|My goodness,|ba|3473|1
+B|you do all of this in fifteen minutes?|qy|3473|1
+A|Oh, yeah,|ny|3473|0
+A|oh, yeah.|ny|3473|0
+A|And then, uh, thirty, uh,|sd|3473|0
+A|now if you did football, like the old grass drills where you're on your stomach and you|sd|3473|0
+B|Uh-huh.|b|3473|1
+A|you know, prone type things, where you're kind of rocking on your stomach type thing,|sd|3473|0
+A|and that takes about, really about, maybe about thirteen minutes, uh in the morning.|sd|3473|0
+B|Yeah.|b|3473|1
+B|Now what, what keeps you doing that.|qw|3473|1
+B|I mean, I, I sometimes start little, much less, much more modest efforts,|sd|3473|1
+B|but I give up,|sd|3473|1
+B|I just find them boring.|sd|3473|1
+B|Hard to find the time for it on a given day|sd|3473|1
+A|Well, uh,|%|3473|0
+B|and,|%|3473|1
+A|Years ago I used to, uh, referee football|sd|3473|0
+B|Yes.|b|3473|1
+A|and, uh, to stay in condition, I did that, uh, just as a normal  basis,|sd|3473|0
+B|Yes.|b|3473|1
+A|and, uh, uh, I tell you just by doing it, uh,|sd|3473|0
+A|well, example, this summer I, I was about fifteen pounds heavier than I wanted to be|sd|3473|0
+A|so I, I increased,|sd|3473|0
+A|I do three hundred sit ups a day now, but not at that, in the morning,|sd|3473|0
+A|I do a hundred then|sd|3473|0
+A|and then I do about a hundred before supper and about a hundred before I go to bed.|sd|3473|0
+B|Uh-huh.|b|3473|1
+A|I lost fifteen pounds just by doing that because you tighten your stomach muscles|sd|3473|0
+B|Yes.|b|3473|1
+A|and, you know, you can eat anything you want, drink anything you want,|sv|3473|0
+A|but you don't, you know,|%|3473|0
+A|within reason, you know, you can lose weight or maintain your weight and your physical being|sv|3473|0
+B|Uh-huh.|b|3473|1
+B|Yep.|b|3473|1
+A|and, uh, I just, you know,|%|3473|0
+A|you're ready to go at a,|sv|3473|0
+A|I, I, I think it's really important.|sv|3473|0
+B|Well, I, I, whenever I do it, I feel good. I mean good that I have done, good because it's, it seems right and good because it has good effects.|sd|3473|1
+A|Good.|ba|3473|0
+B|But, but it's this maintaining a, a regular habit that I just can't seem to do.|sd|3473|1
+A|Well, that's why Chuck, I think, uh, if you did it on a daily basis and you didn't need elaborate things, you know, where you can make excuses like,|sv|3473|0
+B|Yeah.|b|3473|1
+A|well, I, I like biking|sd|3473|0
+A|and during the summer, I'll do, you know, at least seventy-five miles a week and when I really was doing it maybe a hundred and fifty,|sd|3473|0
+B|Uh-huh.|b|3473|1
+A|but you can't, you know,|%|3473|0
+B|Uh-huh.|b|3473|1
+A|there's excuses, weather|sd|3473|0
+B|Yep.|b|3473|1
+A|or you don't have time or something like that.|sv|3473|0
+A|But if you do some basic exercises and you say every morning, just like brushing your teeth you're going to spend fifteen minutes or a half hour. And you get up a half hour earlier|sv|3473|0
+B|Uh-huh.|b|3473|1
+B|Uh-huh.|b|3473|1
+A|and once you start getting into that, one, you just feel good|sv|3473|0
+B|Yes.|b|3473|1
+A|and you look a whole lot better.|sv|3473|0
+B|Yes.|b|3473|1
+B|Do you, do you does your wife participate in any of this|qy|3473|1
+B|or,|%|3473|1
+A|Unfortunately not,|ng|3473|0
+A|and there's no way I can get her to.|sd|3473|0
+B|Uh-huh.|b|3473|1
+A|It's a, like it's something you either just really want to do it|sv|3473|0
+A|or you can't talk anyone into it.|sv|3473|0
+A|If you don't like to exercise, you know, it isn't going to happen.|sv|3473|0
+B|Yes,|aa|3473|1
+B|yes.|aa|3473|1
+A|I, I sure wish she would.|sd|3473|0
+A|She's, you know, unfortunately overweight,|sd|3473|0
+A|and, but she's a wonderful woman|sd|3473|0
+A|and you know, no sense getting in arguments with anybody, about it.|sv|3473|0
+B|Uh-huh.|b|3473|1
+B|Yeah,|b|3473|1
+B|yeah.|b|3473|1
+B|Well I, I, uh, I keep saying if somebody else would do it with me, I, that would be, little bit of peer pressure would help considerably.|sd|3473|1
+A|Well,|%|3473|0
+B|But you seemed to have solved that problem without any, any external help.|sv|3473|1
+A|No problem at all.|aa|3473|0
+A|And, uh, if you get one of these mats. You know, go to a store, they normally have these exercise, things, these A B C of physical fitness on them.|sd|3473|0
+B|Yeah.|b|3473|1
+A|One of my kids got me one of those for Christmas one year|sd|3473|0
+A|and, uh,|%|3473|0
+B|What, what, what, what's on, what's this mat, I mean,|qw|3473|1
+A|It, it, it's just an exercise mat that rolls up|sd|3473|0
+A|so you can put it up, you know, just in the corner.|sd|3473|0
+B|Is it like the sort of thing you take on a camping trip  and sleep on it.|qy|3473|1
+A|Well, yeah,|ny|3473|0
+A|you can do that.|sd|3473|0
+B|I mean, it's that, it's that kind of like  half inch of foam or something.|qy^d|3473|1
+A|But, but it doesn't,|sd|3473|0
+A|Yeah,|ny|3473|0
+A|it's a foam thing,|sd|3473|0
+A|yeah.|ny|3473|0
+B|Yeah.|b^m|3473|1
+A|Yeah,|b^m|3473|0
+A|and it's, it's just about six feet long, rolls up|sd|3473|0
+B|Yeah.|b|3473|1
+A|and I don't take it on trips with me.|sd|3473|0
+A|I, you could,|sv|3473|0
+A|but, uh, I don't mind, uh, you know,|%|3473|0
+A|if I do like sit ups, I'll throw a, a towel down or something. You know,|sd|3473|0
+B|Yeah.|b|3473|1
+A|so you don't have the abrasive,|sd|3473|0

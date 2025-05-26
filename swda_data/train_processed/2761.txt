@@ -1,0 +1,165 @@
+A|Okay,|fo_o_fw_"_by_bc|2761
+A|what are your suggestions in making a family reunion successful|qw|2761
+B|Have a big family, I guess,|sv|2761
+B|that's a start.|sv|2761
+A|Well I guess so.|aa|2761
+A|Have you had any in the|qy|2761
+A|well how old are you?|qw|2761
+B|Twenty-five,|sd|2761
+B|so,|%|2761
+A|Okay|bk|2761
+A|so you  you have been to some family reunions, perhaps.|qy^d|2761
+B|I just got married.|sd|2761
+B|Right,|na|2761
+B|every four years on one side of my family they plan on having, uh, like my grandparents and all their brothers and sisters and then all their kids and grandkids.|sd|2761
+A|Now how long in advance do they, uh, let them know?|qw|2761
+B|Well, we plan on it,|arp_nd|2761
+B|it's like the third weekend in August,|sd|2761
+A|Uh-huh.|bk|2761
+B|so it's every four years|sd|2761
+B|and so,|%|2761
+A|So they all know it.|bf|2761
+B|Yeah|aa|2761
+B|and then, you know, arrangements are made like during the Summer for you know, um, food and who's, who's staying where, because a lot of people are from down here, in Texas.|sd|2761
+A|Uh-huh,|b|2761
+A|uh-huh.|b|2761
+B|And, uh, a lot of my family is in Indiana.|sd|2761
+B|That's where I'm originally from.|sd|2761
+A|Yes.|b|2761
+B|So, um, we usually meet like at my uncle's cottage in the, um, at the lake and, uh, make a couple days of it.|sd|2761
+A|Well that sounds like fun,|ba|2761
+A|do they all have the small children too, that come?|qy|2761
+B|Yeah,|ny|2761
+B|pretty much.|sd|2761
+A|So all ages.|qy^d|2761
+B|Yeah|ny|2761
+B|and, uh, you know, there's some my age|sd|2761
+B|and then there are some a lot younger, an, about four generations, I guess.|sd|2761
+A|Well my husband has, uh, on one side has an extended family,|sd|2761
+B|Uh-huh.|b|2761
+A|and they don't ever plan it as, like you do.|sd|2761
+B|Uh-huh|b|2761
+A|I think if you can count on it every four years then people have it in mind|sv|2761
+A|so they have to start talking about it, or getting their act together about six months ahead to get in touch with everybody,  because they're rather socially active too.|sd|2761
+B|Uh-huh.|b|2761
+B|Yeah.|b|2761
+A|And so it has, it seems by doing it about six months ahead, they can pretty much get everybody there.|sd|2761
+A|If they don't, you know, they'll say, oh we're planning to go so and so that, go to, to a certain place that weekend with somebody else|sd|2761
+A|and we're already locked in|^q|2761
+A|but six months ahead has seemed to be okay for them.|sd|2761
+B|Uh-huh.|b|2761
+A|My family, uh, my parents are the youngest of very large families.|sd|2761
+B|Oh.|b|2761
+A|Therefore, they don't have many people left.|sd|2761
+B|Yeah.|b|2761
+A|And, uh, the few previous ones I've had, uh,|sd|2761
+A|I haven't known many of those people,|sd|2761
+A|but, uh, in the last few years it really has just been our immediate family|sd|2761
+A|and that's been very nice,|sd|2761
+A|with, uh,|%|2761
+A|I have one sister,  and three brothers|sd|2761
+B|Uh-huh.|b|2761
+A|and they're only three out of five of us who have children.|sd|2761
+B|Oh.|b|2761
+A|So, uh, we get to spend a lot of quality time with each other.|sd|2761
+B|Yeah.|b|2761
+A|And that's kind of nice because my husband's family reunions are so large,|sd|2761
+B|Uh-huh.|b|2761
+A|and they don't see each other very often,|sd|2761
+A|we don't really know many of them.|sd|2761
+B|Yeah,|b|2761
+B|that's kind of bad.|ba|2761
+A|It really is,|aa|2761
+A|they're fun,|sd|2761
+A|they're a lot of fun,|sd|2761
+B|Yeah.|b|2761
+A|but, uh, still, uh, they're not done on a regular basis|sd|2761
+A|and, uh, you kind of forget what happened, and who they were from the time before.|sv|2761
+B|Yeah,|aa|2761
+B|it's, it's fun getting together with immediate family.|sv|2761
+B|A lot of my cousins are real close|sd|2761
+B|and we always get together during holidays and weddings and stuff like that,|sd|2761
+B|so.|%|2761
+A|Uh, those are the ones that are in Texas?|qy|2761
+B|Uh, no,|nn|2761
+A|Or you go to Indiana on that?|qrr|2761
+B|the ones in Indiana,|na|2761
+B|uh-huh.|ny|2761
+A|Uh-huh,|b^m|2761
+A|where in Indiana?|qw|2761
+B|Lafayette.|sd|2761
+A|Lafayette, I don't know where,|qw^d|2761
+A|I used to live in Indianapolis.|sd|2761
+B|Yeah,|b|2761
+B|it's a little north of Indianapolis, about an hour.|sd|2761
+A|Yeah,|b|2761
+A|yeah,|b|2761
+A|it's very pretty country in there I think,|sv|2761
+A|it's gorgeous.|sv|2761
+B|Uh-huh,|aa|2761
+B|so.|%|2761
+A|Well I,|%|2761
+A|uh, when is your next one, uh, scheduled now.|qw|2761
+B|Well it's like, the last one was my high school graduation|sd|2761
+B|the next one was when I graduated from college,|sd|2761
+B|so I guess about two more years.|sd|2761
+A|Yes, well,|b|2761
+A|and do you think you'll have a baby to take back with you|qy|2761
+B|Uh, maybe,|no|2761
+B|I don't know,|no|2761
+A|Maybe|b^m|2761
+B|two more years,|sd|2761
+B|I don't know,|no|2761
+B|probably.|na|2761
+A|I mean you need another milestone, you know.|sv|2761
+B|Yeah,|aa|2761
+B|I guess that's, that's what,|%|2761
+B|I mean I've been married now for about nine months|sd|2761
+B|so that was another milestone, I guess|sv|2761
+A|Yes,|aa|2761
+A|well I'm sure,|aa|2761
+A|and then all of your family probably has not met your husband.|qy^d|2761
+B|Um, yeah,|b|2761
+B|he's from Indiana,|^h|2761
+A|Oh, is he?|bh|2761
+B|so they all met,|sd|2761
+B|yeah.|%|2761
+A|And, and he's living, your both living in Sherman.|qy^d|2761
+B|Yeah.|ny|2761
+A|Do you work to T I?|qy|2761
+B|Uh-huh.|ny|2761
+A|Uh-huh,|b^m|2761
+A|and does he?|qy|2761
+B|No,|nn|2761
+B|he's trying to get in med school,|sd|2761
+B|so.|%|2761
+A|Uh-huh,|b|2761
+A|well, we don't either,|sd|2761
+A|but, uh, I have a friend who, uh, is working on this project.|sd|2761
+B|Oh, really.|bh|2761
+A|Yes,|ny|2761
+A|and,|%|2761
+B|Are they getting all the data they need?|qy|2761
+A|Well, I don't know, uh,|no|2761
+A|I, I have a hard time getting, uh, people on the telephone.|sd|2761
+B|Oh really.|bh|2761
+A|Uh-huh, getting through to anybody.|sd|2761
+A|Sometimes I call off and on all day,|sd|2761
+B|Huh.|b|2761
+A|but anyway, uh, I guess we're supposed to be talking about family reunions aren't we|qy|2761
+A|But I got off that.|sd|2761
+B|Well we've kind of exhausted everything I guess.|fc|2761
+A|Yes,|fc|2761
+A|well, um, I think we have been talking probably about four and a half minutes.|fc|2761
+B|Oh, okay.|fc|2761
+A|And, uh, uh, we both look forward to going to our next reunions, I'm sure.|fc|2761
+B|Oh yeah.|fc|2761
+A|But it has been fun talking to you.|fc|2761
+B|Well you too.|fc|2761
+A|Thank you.|fc|2761
+B|And maybe I'll talk to you again.|fc|2761
+A|Okay,|fc|2761
+A|good.|fc|2761
+B|Okay,|fc|2761
+B|bye-bye.|fc|2761
+A|Bye-bye.|fc|2761

@@ -1,0 +1,88 @@
+A|Okay,|fo_o_fw_"_by_bc|3303|0
+A|you want to go ahead and tell me your favorite team, or who you think will be doing well this year.|ad|3303|0
+B|Uh, well, where I'm from the Atlantic coast conference is a very big conference|sd|3303|1
+B|and, course, we have Duke University that was the national champions last year,|sd|3303|1
+B|so I'm kind of hoping that they'll repeat again this year.|sd|3303|1
+B|They have a lot of the same players back.|sd|3303|1
+A|Are we talking about, is this the N B A?|qy|3303|0
+B|No,|nn|3303|1
+B|this is college basketball.|sd|3303|1
+A|This is college, College, okay|b^m|3303|0
+B|Right.|b|3303|1
+B|We have like Carolina, and Duke, and Georgia Tech, and N C State, teams that are normally ranked in the top twenty.|sv|3303|1
+A|Uh-huh.|b|3303|0
+B|So, hopefully we'll have a good year.|sd|3303|1
+B|I don't really follow the N B A very closely.|sd|3303|1
+A|And see that's probably all, all I saw.|sd|3303|0
+A|I, we have moved in the last couple years from Utah to Texas|sd|3303|0
+A|and there's so many colleges and universities in Texas, we haven't really followed them too much|sd|3303|0
+A|and none of them are our, our alma mater|sd|3303|0
+A|so, that seems to help.|sd|3303|0
+B|Do you like professional basketball?|qy|3303|1
+A|Uh, I, I follow it especially around the playoffs,|na|3303|0
+A|so, course, I was real familiar with the Utah Jazz,|sd|3303|0
+A|and the Mailman or Karl Malone was, you know, pretty big thing|sv|3303|0
+A|and, the Lakers have always been amazing to watch.|sv|3303|0
+B|Yeah.|b|3303|1
+A|I, I did keep track a little bit of the Mavericks.|sd|3303|0
+A|They've not had any good seasons for a long time, and have a lot of problems with, with Tarpley|sv|3303|0
+A|and, maybe now that that's over they'll, they'll come out of it|sv|3303|0
+A|but,|%|3303|0
+B|Well, that's an up and coming team, though.|sv|3303|1
+A|Yeah,|aa|3303|0
+A|I hope they do something.|sd|3303|0
+A|They need to|sv|3303|0
+A|or they're not going to have any of the team left at all.|sv|3303|0
+B|That's somebody you can get behind and, be patient.|sv|3303|1
+A|Yeah.|aa|3303|0
+A|Kind of like the Cowboys I guess.|sv|3303|0
+B|Yeah,|aa|3303|1
+B|they seem to be kind of not having a very good few seasons.|sv|3303|1
+A|Yeah,|aa|3303|0
+A|they, coming out of it this year.|sv|3303|0
+A|We'll see if it's held on.|sv|3303|0
+B|But, I think Chicago will probably with the N B A again.|sv|3303|1
+A|The Bulls?|qy|3303|0
+B|Yeah,|ny|3303|1
+B|uh-huh.|ny|3303|1
+A|Yeah.|aa|3303|0
+A|They'll probably be pretty good.|aa|3303|0
+A|Course, the Celtics are always really, really good, too, with their players.|sv|3303|0
+B|That's true.|aa|3303|1
+A|Be interesting to see how the Olympics does this year with all the, the N B A players playing on the Olympic team.|sv|3303|0
+B|That's true,|aa|3303|1
+B|it will be interesting.|aa|3303|1
+A|So,|%|3303|0
+B|It will certainly be different|sv|3303|1
+A|Yeah.|aa|3303|0
+A|I don't know, how close I'll follow them, though.|sd|3303|0
+A|And the season hasn't started yet.|sd|3303|0
+A|I'm usually more the end of the season person,|sd|3303|0
+A|and we need to talk about baseball|sv|3303|0
+A|and so,|%|3303|0
+B|Yeah,|b|3303|1
+B|oh, my Atlanta Braves.|sd|3303|1
+A|Well,|%|3303|0
+B|Well, I really do, uh, you know,|sd|3303|1
+B|the basketball season's supposed to start in the next couple of weeks.|sd|3303|1
+A|It's,|%|3303|0
+A|yeah,|b|3303|0
+A|yeah.|b|3303|0
+B|It's a long season.|sv|3303|1
+A|It is, it is,|aa|3303|0
+A|and that's why I've,|%|3303|0
+A|I guess my mind went blank.|sd|3303|0
+A|It's like last season was so long ago|sv|3303|0
+A|and I haven't really even started thinking about basketball yet|sd|3303|0
+A|so,|%|3303|0
+B|Yeah.|b|3303|1
+A|But, this wasn't a good subject,|sv|3303|0
+A|but, We'll see how our predictions come true.|sv|3303|0
+B|It's a little early.|sv|3303|1
+B|We definitely will.|aa|3303|1
+A|Okay,|fc|3303|0
+A|it's good talking to you.|fc|3303|0
+B|Good to talk to you.|fc|3303|1
+A|All righty,|fc|3303|0
+A|bye.|fc|3303|0
+B|Bye-bye.|fc|3303|1

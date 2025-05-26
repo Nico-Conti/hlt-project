@@ -1,0 +1,147 @@
+B|Okay,|fo_o_fw_"_by_bc|4347|0
+B|so what kind of luck you been having with buying and returning products?|qw|4347|0
+A|Uh, not too bad really.|sd|4347|1
+A|Uh, I had a razor that I got from Christmas that I just, I really didn't want it,|sd|4347|1
+A|but I got it anyway|sd|4347|1
+A|and, uh, it was a Braun|sd|4347|1
+A|and they were real good about taking it back.|sd|4347|1
+A|It wasn't a problem at all,|sd|4347|1
+A|so, uh, I was able to get that back pretty easily.|sd|4347|1
+B|Uh-huh.|b|4347|0
+A|But, uh, I don't know,|h|4347|1
+A|I really haven't returned a whole lot lately.|sd|4347|1
+A|Have you?|qy|4347|1
+B|I haven't had to.|ng|4347|0
+B|It's, uh, the,|%|4347|0
+B|every so often,|%|4347|0
+B|I mean, I, I, I'm almost pushing it myself.|sd|4347|0
+B|Maybe I'll buy a shirt from G I Joe's|sd|4347|0
+B|and it shrinks too much|sd|4347|0
+B|and say, well, I should have known better,|sd|4347|0
+B|I mean, I bought it from G I Joe's|sd|4347|0
+A|Um.|b|4347|1
+B|and it was probably made in China by slaves.|sv|4347|0
+A|Right|b|4347|1
+B|But, uh, they, uh,|%|4347|0
+B|most of the time pretty careful shopping anyway, I get pretty good stuff.|sd|4347|0
+A|Yeah.|b|4347|1
+B|I think that, uh, aside from the fact all markets being internationalized|sv|4347|0
+A|Right|aa|4347|1
+A|like,|%|4347|1
+B|and if you want to buy American it takes real extra work to find.|sv|4347|0
+A|Exactly.|aa|4347|1
+B|It's probably a Japanese or a Burmese company owning and hiring people in the U S|sv|4347|0
+A|I was reading,|%|4347|1
+A|Right,|aa|4347|1
+A|I was reading something in, uh, CONSUMER REPORTS tonight about that as a matter of fact.|sd|4347|1
+A|They were talking about cars, uh, the car issue just came out. And about how, yeah, you'd like to buy an American car maybe|sd|4347|1
+B|Uh-huh.|b|4347|0
+A|but, uh, you know, the transmission may be made in Japan or whatever.|sd|4347|1
+B|Yeah.|b|4347|0
+A|Uh, like I've got an eighty-six Ford Ranger|sd|4347|1
+A|and, and I know for a fact that the transmission is made by Mitsubishi.|sd|4347|1
+B|Huh.|b|4347|0
+A|You know, so it's like, what are you going to do, you know?|qh|4347|1
+B|Yeah,|aa|4347|0
+B|really.|aa|4347|0
+A|But, uh, that's the way it is.|sv|4347|1
+A|I don't know,|h|4347|1
+A|I, I personally feel that, uh, uh, if the Japanese cars are better and Americans buy them, you know, that's the way it goes|sv|4347|1
+A|and, you know, people, more than manufacturers should get a clue|sv|4347|1
+A|and, you know, they should start making quality products.|sv|4347|1
+B|Yeah,|aa|4347|0
+B|I think they're beginning to.|sv|4347|0
+B|The, the days of don't buy a car made on a Monday or a Friday are pretty much going away|sv|4347|0
+B|and,|%|4347|0
+A|That's what I thought, too, until I saw the CONSUMER REPORTS issue.|sd|4347|1
+B|Uh-huh.|b|4347|0
+A|Uh, they've got all the American, well, all the, all the cars rated, you know,|sd|4347|1
+A|and, uh, essentially, I I don't see much of a trend.|sv|4347|1
+A|I mean, just like every other time that you look at it, the Honda Accords and the Civics are right up there.|sv|4347|1
+A|There's nothing wrong with them. Uh, and the same thing with most of the other Japanese cars.|sv|4347|1
+A|But then again you look at a Ford or especially a Chevy|sv|4347|1
+A|and they're pieces of junk.|sv|4347|1
+B|I know.|aa|4347|0
+B|Still at it, hey.|aa|4347|0
+A|Yeah,|b|4347|1
+A|that's ninety, that's eighty-six through ninety-one.|sd|4347|1
+B|Wow.|ba|4347|0
+A|But, uh, I don't know,|h|4347|1
+A|maybe they're getting better,|sv|4347|1
+A|maybe they're starting to get a clue. Uh,|sv|4347|1
+B|Well, they got a three year lead time.|sd|4347|0
+B|It probably won't start really showing up until ninety-four or so|sv|4347|0
+A|Yeah,|aa|4347|1
+A|that's just it.|aa|4347|1
+A|Technology that comes in right now is, is probably not going to be implemented until, you know, quite a few years down the road.|sv|4347|1
+A|But, uh,|%|4347|1
+B|The computer industry's where it's really dynamic especially for the consumer.|sv|4347|0
+A|Oh, yeah.|aa|4347|1
+A|Yeah,|aa|4347|1
+A|because technology is so, uh, you know, volatile and changing all the time.|sv|4347|1
+B|And can you think of any other industry where in software they,|qh|4347|0
+A|Uh,|b|4347|1
+B|if the product is upgraded and a better version is put out, you'll get a free version in the mail .|sv|4347|0
+A|Yeah.|b|4347|1
+B|Or, uh, maybe I say, well, you know, you paid five hundred bucks for this program, so send us twenty and we'll give you a really great upgrade.|sv|4347|0
+A|Yeah.|b|4347|1
+A|It,|%|4347|1
+A|uh, they keep up with it pretty quickly|sv|4347|1
+A|and that's, that's a real good thing, I guess.|sv|4347|1
+B|Yeah.|b|4347|0
+A|Uh, I don't know.|h|4347|1
+B|And the hardware, well, I mean, all the chips that make up the hardware are a commodity|sv|4347|0
+B|and the MacIntosh is about the only one that's going right forcing I B M and the rest of the D O S world to follow along.|sv|4347|0
+A|Yeah.|b|4347|1
+A|Right,|aa|4347|1
+A|they're kind of the leaders right now, you know.|sv|4347|1
+A|I used to see all those commercials for Windows, you know,|sd|4347|1
+A|and you're like, oh, gee, they're reselling a MacIntosh under a different name.|sv|4347|1
+B|Really,|aa|4347|0
+B|why don't they just say, almost a Mac for half the price.|qh|4347|0
+A|Yeah, you know.|b|4347|1
+B|They'd sell more if they were honest.|sv|4347|0
+A|Exactly,|aa|4347|1
+A|almost is the key word, there, too, you know, because I, I really, I've used both|sv|4347|1
+A|and I really don't see an advantage of Windows at all.|sv|4347|1
+B|Yeah, it it's only an advantage for people who had to use pure D O S. base.|sv|4347|0
+A|Uh,|b|4347|1
+A|Yeah, yeah that's true, too.|aa|4347|1
+A|But, uh, I don't know,|h|4347|1
+A|I'm really, I've gotten a little bit out of the, the personal computer business just because I don't have one at home.|sd|4347|1
+A|I, I do use a Mac at work|sd|4347|1
+A|but, uh uh, I really don't, don't do much with it at home|sd|4347|1
+B|Uh-huh.|b|4347|0
+A|but, uh,|%|4347|1
+B|Apple's sort of making a|sv|4347|0
+B|and they're ones were|sv|4347|0
+B|growling consumer, uh, need to worry about the Mac they're getting,|sv|4347|0
+B|like if you bought a power book straight off, a lot of them had to go back.|sd|4347|0
+B|They issued a recall because of improper shielding or possibly other problems with floppy drive.|sd|4347|0
+A|Right.|b|4347|1
+A|Uh-huh.|aa|4347|1
+A|Yeah,|aa|4347|1
+A|you sound like you must, uh, work in the computer business.|qy^d|4347|1
+B|Yeah,|ny|4347|0
+B|I have one,|sd|4347|0
+B|I do desktop publishing at work|sd|4347|0
+B|and I have a machine at home|sd|4347|0
+B|and I belong to the user's group|sd|4347|0
+B|and I, I've been a Mac fanatic since they came out.|sd|4347|0
+A|Yeah?|bh|4347|1
+A|All right.|%|4347|1
+B|But, uh, technically, I'm not actually in the industry.|sd|4347|0
+B|I don't work a computer company.|sd|4347|0
+A|No?|bh|4347|1
+B|I'm an abuser.|sd|4347|0
+A|Well, that's, that's all right.|ba|4347|1
+B|But it's sort of like surfing on the wave of future shock to you know, keep up with the changes as they happen.|sv|4347|0
+A|Yeah,|aa|4347|1
+A|that's true.|aa|4347|1
+A|Something that I find uncomfortable is, you know, you, you want to buy something, say you want to buy a personal computer|sv|4347|1
+A|and you got to think about what kind of memory you want to get and what kind of technology that you want to go for, you know,|sv|4347|1
+A|let, let's take the example, the modem for, you know,|sd|4347|1
+B|Yeah.|b|4347|0
+A|Okay,|b|4347|1
+A|what baud rate do you get?|qh|4347|1
+A|Well, you know, it used to be that you get a twelve hundred|sd|4347|1

@@ -1,0 +1,169 @@
+A|Are you in the market for a car recently?|qy|2993|0
+B|Yeah,|ny|2993|1
+B|I just bought a car.|sd|2993|1
+A|Oh, what did you get?|qw|2993|0
+B|I got a nineteen ninety-three Cavalier station wagon.|sd|2993|1
+A|Uh-huh,|b|2993|0
+A|what, what convinced you to get that one?|qw|2993|0
+B|Well, a friend of my father's, and he'd driven it all over the country and it runs great.|sd|2993|1
+A|Uh-huh.|b|2993|0
+A|Oh, incredible,|ba|2993|0
+A|how many miles on it?|qw|2993|0
+B|It's like, it has a hundred and fifty-three thousand.|sd|2993|1
+A|And it's still running real well.|sd|2993|0
+B|Yeah.|b|2993|1
+A|Oh, great,|ba|2993|0
+A|yeah.|%|2993|0
+A|We have, uh, right now we have two cars, uh,|sd|2993|0
+A|I have, my husband and myself and we have two sons who are drivers and one of which is a, um, an eighty-eight Plymouth Voyager Van,|sd|2993|0
+B|Uh-huh.|b|2993|1
+A|and then we have, um,|sd|2993|0
+A|about a year ago, we picked up a second hand, uh, uh, Audi|sd|2993|0
+B|Uh-huh.|b|2993|1
+A|and, uh, that was a you know, a sedan,|sd|2993|0
+A|and, uh, we got that.|sd|2993|0
+A|The major things,|%|2993|0
+A|the reason why we got that is we had had a Nova,|sd|2993|0
+A|and a,|%|2993|0
+A|well,|%|2993|0
+A|my son was driving,|sd|2993|0
+A|and someone came into his lane and hit him,|sd|2993|0
+A|and fortunately he was able to,|sd|2993|0
+A|his,|%|2993|0
+A|I mean he was checked out of the hospital, was out of the hospital by that night, but the car was completely totalled|sd|2993|0
+B|Uh-huh.|b|2993|1
+A|and Mike, and, they had been, my two sons had been a passenger in a car about a year and a half before that, which was hit by another car.|sd|2993|0
+B|Um.|b|2993|1
+A|So I mean, I got, I was getting really nervous,|sd|2993|0
+A|so I finally said, we, I want a really solid car.|sd|2993|0
+A|So we found the Audi second hand.|sd|2993|0
+A|I guess right now my criteria for cars is, uh, of being solid, able to take an impact|sd|2993|0
+B|Right.|b|2993|1
+A|and, uh, so, uh, I, we're not going to be in the market for, in the near future for any new car.|sd|2993|0
+B|Uh-huh|b|2993|1
+A|But the things that I would want would be a solid car.|sd|2993|0
+A|Another thing I'd definitely want would be anti-lock brakes.|sd|2993|0
+B|Right.|b|2993|1
+A|Uh, our, our van, which is a, a delight to drive, does not have,|sd|2993|0
+A|I think the brakes on the Plymouth van is just, are terrible.|sv|2993|0
+B|Um.|b|2993|1
+A|If the road is at all wet, and I'm,|sd|2993|0
+A|and I don't go all that fast, but the, uh, it, it just doesn't hold.|sd|2993|0
+A|It doesn't hold well at all.|sd|2993|0
+A|So, I, I definitely want to get anti lock brakes.|sd|2993|0
+A|So, I don't know,|sd|2993|0
+A|do you have any particular things that, that are priorities on your list.|qy|2993|0
+B|Well, it's,|%|2993|1
+B|I didn't really need power windows, but it has power, you know, windows and steering and air conditioning,|sd|2993|1
+A|Yeah.|b|2993|0
+B|and, and uh.|%|2993|1
+A|I guess down here air conditioning's a must, isn't it.|qy|2993|0
+B|Uh-huh,|ny|2993|1
+B|oh, yeah.|ny|2993|1
+B|It has a stereo and a cassette player|sd|2993|1
+A|Uh-huh.|b|2993|0
+B|and, um, he's told me it gets forty-two miles to the gallon.|sd|2993|1
+A|That's incredible.|ba|2993|0
+B|Uh-huh.|b|2993|1
+A|That is incredible.|ba|2993|0
+B|So.|%|2993|1
+A|Uh, we, we get about, our, the van gets, on highways, can get about twenty-eight.|sd|2993|0
+A|The Audi does not have good mileage.|sd|2993|0
+A|That's the one drawback.|sd|2993|0
+A|It's a powerful car. Um, but it does not, uh,|sd|2993|0
+B|Uh-huh.|b|2993|1
+A|I mean, I, if I'm on a highway and I can get twenty, twenty-one miles per gallon, I consider that I'm lucky.|sd|2993|0
+A|Maybe, maybe sometimes I've gotten twenty-two.|sd|2993|0
+A|It comes out around the eighteen or nineteen local driving|sd|2993|0
+B|Uh-huh.|b|2993|1
+A|and that's a, to me is a real drawback.|sv|2993|0
+A|I wish I would, you know, I could settle for twenty-eight,|sd|2993|0
+A|but, uh, the, uh, the frills on that car are nice, but they're not necessary, for me except air conditioning.|sd|2993|0
+B|Uh-huh.|b|2993|1
+A|In this area, uh, in Washington D C area, it gets hot and humid.|sd|2993|0
+B|Uh-huh,|b|2993|1
+B|it's really humid.|sd|2993|1
+A|Yeah,|aa|2993|0
+A|uh, so air conditioning is uh, definitely a necessity for us through two or three months in the summer.|sd|2993|0
+A|Um, but I, uh, I, I don't need, uh, you know,|sd|2993|0
+A|power windows are nice, but I don't need them Although I must say when you're driving in the east and there are all these toll roads, come into a toll road, you just push that button down,|sd|2993|0
+B|Right.|b|2993|1
+A|it's real nice for that window to zip down and zip up, instead of having to crank it.|sd|2993|0
+B|Crank,|%|2993|1
+B|yeah.|b|2993|1
+A|Yeah,|b|2993|0
+A|but, or, you know, if you want to have open windows, to be able to|sd|2993|0
+A|if you're alone in the car just to press buttons, and.|sd|2993|0
+B|Right.|b|2993|1
+B|You don't have to stretch.|^2|2993|1
+A|But you know, I've lived all these years without them,|sd|2993|0
+A|I probably could have lived a little longer|sd|2993|0
+B|That's true.|ba|2993|1
+A|Uh, one of the things that we have, uh, we've liked when we gotten a new car, and this, this used car has it, is a sun roof|sd|2993|0
+B|Uh-huh.|b|2993|1
+A|and those are really nice in good weather.|sv|2993|0
+B|That's right.|ba|2993|1
+A|So, so I guess if we get a new car, it definitely would have to have anti lock brakes,|sd|2993|0
+A|I'd love to get an air bag and a sun roof, and, uh, just so it'd be a good solid car.|sd|2993|0
+B|Uh-huh.|b|2993|1
+A|I guess that those are my major criteria.|sd|2993|0
+A|Everything else is, you know, a luxury,|sv|2993|0
+A|and they, make the car more expensive, but they often add more things to repair when things go wrong.|sv|2993|0
+B|Right.|b|2993|1
+A|So, uh, if you were to buy a new car now, a brand new car, what would you look for?|qw|2993|0
+B|Um, like you said, anti-lock brakes and air bag,|sd|2993|1
+B|and, uh, I'd, I'd really like to have a car that's dependable that, that you drive, you know, like a American made car that's as dependable as Mercedes or somebody, you know that's,|sd|2993|1
+A|Yeah,|b|2993|0
+A|yeah.|b|2993|0
+A|Isn't that true.|bh|2993|0
+A|It's, it's funny, um, uh, that you use,|sv|2993|0
+A|the Audi's German, and I have to say, it has been pretty dependable.|sd|2993|0
+B|Uh-huh.|b|2993|1
+A|Yeah,|b|2993|0
+A|sometimes, one advantage of an American made car, is if you get stuck anywhere, most local garages can fix you up.|sv|2993|0
+B|Yeah,|b|2993|1
+B|they have parts,|sd|2993|1
+B|uh-huh.|b|2993|1
+A|But once you get, if you, once you get something fancy, you get stuck somewhere off of the main area you can be really,|sv|2993|0
+B|Right,|b|2993|1
+A|and the parts, I know the Audi parts are terribly expensive.|sd|2993|0
+B|Uh-huh.|b|2993|1
+A|I mean, it|%|2993|0
+A|I shudder.|sd|2993|0
+A|I would not get the Audi again, just for that reason.|sd|2993|0
+A|But I would love, I wish an American, an American, that, you know, engineering would make something as solid as a German car.|sd|2993|0
+A|You know, we certainly have the technology,|sv|2993|0
+B|Right.|b|2993|1
+A|but, it's amazing,|sv|2993|0
+A|when we bought this Audi,|sd|2993|0
+A|I mean, everything is more solid in it.|sd|2993|0
+B|Right.|b|2993|1
+A|Uh, if,|%|2993|0
+A|you don't feel you've got any of the flabby plastic|sv|2993|0
+B|Uh-huh.|b|2993|1
+A|and I know,|%|2993|0
+A|and I, I, and I'm willing to give up a little bit in the mileage for a solid car.|sd|2993|0
+A|I don't think I have to give up as much as I'm giving up.|sv|2993|0
+B|Right.|b|2993|1
+A|But, do you need air conditioning down there?|qy|2993|0
+B|Yes,|ny|2993|1
+B|we really do|sd|2993|1
+A|Yeah.|b|2993|0
+B|because even today it's supposed to get up into the nineties.|sd|2993|1
+B|So|%|2993|1
+A|Oh, we've had eleven days in a row over ninety.|sd|2993|0
+B|Uh-huh.|b|2993|1
+A|They've in fact had to excuse school down here because of that.|sd|2993|0
+A|Well, listen,|ad|2993|0
+A|I enjoyed talking with you.|fc|2993|0
+A|Okay,|fc|2993|0
+A|and enjoy, enjoy your car.|fc|2993|0
+B|Yeah,|fc|2993|1
+B|have a nice summer.|fc|2993|1
+A|Thank you,|fc|2993|0
+A|you too,|fc|2993|0
+A|it's going to be a hot one.|fc|2993|0
+B|Yeah.|fc|2993|1
+A|Okay,|fc|2993|0
+A|bye-bye|fc|2993|0
+B|Bye-bye.|fc|2993|1

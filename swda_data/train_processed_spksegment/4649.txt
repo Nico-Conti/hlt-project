@@ -1,0 +1,97 @@
+A|Uh, I've had, uh, three boys through, I guess, uh, some child care, each one of them|sd|4649|0
+A|and now they're in school|sd|4649|0
+A|so it's all over|sd|4649|0
+A|but, uh, I guess I would say it's not easy to find what most parents would want.|sv|4649|0
+B|Well I can profit by this because I'm due with my first in about three months.|sd|4649|1
+A|Is that right|b|4649|0
+A|I guess, uh, the only rule, uh, I can think of is that I like to look for places with, uh, good respectable, nonprofit behind them like a university or a hospital or something like that.|sd|4649|0
+A|If they're associated with a college or a university, they're usually a pretty good bet.|sv|4649|0
+B|Huh.|b|4649|1
+A|Uh, I think it's sort of the opposite of what you would want when you buy a car or refrigerator something.|sv|4649|0
+A|You'd like to get it from some good cutthroat capitalist company but not with child care.|sv|4649|0
+B|I guess not,|aa|4649|1
+B|I suppose you're absolutely right there.|aa|4649|1
+A|Yeah.|b|4649|0
+A|For profit  places, I would really look at them awfully carefully|sv|4649|0
+B|Uh-huh.|b|4649|1
+A|but, uh, when I was when my kids were young, I was teaching at a university|sd|4649|0
+A|and, uh, the child care center associated with our university was quite good|sd|4649|0
+A|so I felt confident that they'd do right.|sd|4649|0
+B|Uh-huh.|b|4649|1
+B|Of,|%|4649|1
+B|aren't don't they kind of use them for, everybody kind of use them for guinea pigs? For their for their pet theories or some such thing?|qy|4649|1
+B|Yes.|ny|4649|1
+A|But, yeah,|ny|4649|0
+A|I suppose, uh, if you're, if there is a psychology department or an education department around, you might find you might find that they're pushing one form of education or another,|sv|4649|0
+A|I guess that's true.|aa|4649|0
+A|But, uh, I never had bad experience in that respect|sd|4649|0
+A|Of course, you also tend to get people that are associated with the university and the hospital as the parents,|sd|4649|0
+A|and they, you know,|%|4649|0
+A|pretty good people|sv|4649|0
+B|Um. Well, the thing I really worry about is, uh, the sexual abuse cases you read about.|sd|4649|1
+A|Uh-huh.|b|4649|0
+B|And I mean you'd just feel awful if something like that happened.|sv|4649|1
+A|Yeah.|aa|4649|0
+A|I never really worry very much about it.|sd|4649|0
+A|I tend to think those are very rare but quickly exploited and made public|sd|4649|0
+A|so, I  never really worried too much about that being, uh, uh, the case with my boys.|sd|4649|0
+B|Uh-huh.|b|4649|1
+B|Oh.|b|4649|1
+A|Uh, I, you know, I think those things get into the headlines immediately when somebody finds out about them|sv|4649|0
+A|but|%|4649|0
+B|Uh-huh.|b|4649|1
+A|I don't think it's as common as, uh, the newspapers would make you believe|sv|4649|0
+B|Uh-huh.|b|4649|1
+B|And another thing is cost.|sv|4649|1
+A|Oh, yeah|aa|4649|0
+A|I mean that,|aa|4649|0
+B|I know so many of my friends I went to school with who are having babies right now|sd|4649|1
+B|and they finding, in some cases they're finding it's just not worth it to work because it's all going out in daycare.|sd|4649|1
+A|Right.|b|4649|0
+B|Um.|b|4649|1
+A|Well, in our case, we made the decision that my wife would stay home until the boys were, uh, in school.|sd|4649|0
+A|And I'm really happy we did it, although it was very, very difficult.|sd|4649|0
+A|And  I think it was the right thing to do|sv|4649|0
+B|Um.|b|4649|1
+A|and we were, uh, we just decided that we would do it|sd|4649|0
+A|and we went ahead|sd|4649|0
+A|but, uh, not everybody can make that choice|sv|4649|0
+A|and even, even though my wife wasn't working, we did have, uh, one or another of the boys in, uh, child care for just for part of the day. Uh, or a couple of days a week just so that, uh, other things could get done around the house and so on,|sd|4649|0
+A|so, So, we did look around.|sd|4649|0
+B|Huh.|b|4649|1
+A|I think my wife is much better than I am at that walking into a place and getting a feeling for whether it is a loving and caring place or not|sd|4649|0
+A|and, uh  so I would always trust her judgment on that.|sd|4649|0
+B|Huh .|b|4649|1
+B|Huh. Well I'm just thanking heaven.|sd|4649|1
+B|My husband just got a new job.|sd|4649|1
+B|His last company, he was only working four days a week.|sd|4649|1
+A|Uh-huh.|b|4649|0
+B|So it's,|%|4649|1
+B|and he just got a new job.|sd|4649|1
+B|He's getting lots of overtime,|sd|4649|1
+B|he got a pay raise|sd|4649|1
+B|and so I'm just grateful that we don't have to worry so much about my working or not.|sd|4649|1
+A|There's absolutely no question that you're going to be the best child care provider for that kid|sv|4649|0
+A|so, yeah, do it as long you can|ad|4649|0
+B|I suppose.|aa|4649|1
+A|But I think, you know, you have to look through a place|sv|4649|0
+A|and you have to get a feel for, uh, how they treat the kids and, uh, uh, what kind of staff members they have and how much turnover they have and things like that before you commit your child to them.|sv|4649|0
+B|Uh-huh.|b|4649|1
+B|Uh-huh.|b|4649|1
+A|And I think you have, the main thing is that you have to determine that they're perfectly open. That you're welcome anytime without notice, in the middle of the day and so forth|sv|4649|0
+A|and if they're at all queasy about that then  I'd look elsewhere, yeah.|sv|4649|0
+B|You have to start wondering if they don't want you.|^2|4649|1
+B|Yes.|aa|4649|1
+A|Right|b|4649|0
+B|Huh.|b|4649|1
+A|You have other friends that have kids, uh, being taken care of in, uh, child care?|qy|4649|0
+B|Uh, I have one|na|4649|1
+B|but I haven't really had a chance to talk to her about that for a while.|sd|4649|1
+A|Uh-huh.|b|4649|0
+A|So. But, I really think the news reports are, uh, tend to sensationalize the problems.|sv|4649|0
+B|Uh-huh.|b|4649|1
+A|I think the problems are more ones of cost and resources and, uh, pay and exhaustion and  you know, things like that, rather than these, uh, uh, really wild abuse cases that you read about because it make good copy.|sv|4649|0
+B|This is true.|aa|4649|1
+A|Yeah.|b|4649|0
+B|CURRENT AFFAIR can  get several shows child cases.|sv|4649|1
+A|Uh-huh. Well,|b|4649|0

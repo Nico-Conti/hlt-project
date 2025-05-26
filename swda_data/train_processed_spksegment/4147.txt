@@ -1,0 +1,128 @@
+A|Do you have any?|qy|4147|0
+B|Yes,|ny|4147|1
+B|we do have a pet.|sd|4147|1
+B|We have a, a dog that we got from the, uh,|sd|4147|1
+B|well, we call it the S P C A.|sd|4147|1
+B|It's the, uh, from an animal shelter.|sd|4147|1
+A|Uh-huh.|b|4147|0
+B|Uh, he'd come in there as a stray.|sd|4147|1
+A|All right.|b|4147|0
+B|Uh, he's a Pomeranian and Sheltie cross.|sd|4147|1
+A|Yeah.|b|4147|0
+B|Uh, well, he was very well trained when we got him.|sd|4147|1
+B|Uh, he's,|%|4147|1
+A|Oh, that's good.|ba|4147|0
+A|You don't often find that,|sv|4147|0
+A|I don't think.|h|4147|0
+B|No, uh,|aa|4147|1
+B|we suspect that he was hurt in an accident, you know, got away from somebody traveling through, and hurt in an accident because a dog that looks as good as he does and is trained as well is someone that has lost him and not have been able to locate him.|sv|4147|1
+A|Right.|b|4147|0
+A|Uh-huh.|b|4147|0
+B|And, uh, if they were local people, they would have been able to find him.|sv|4147|1
+A|Sure.|aa|4147|0
+A|There's a,|%|4147|0
+A|okay, uh,|%|4147|0
+A|that's interesting.|sv|4147|0
+A|Yeah,|%|4147|0
+A|the only pet that I've had, uh,|sd|4147|0
+A|I'm a, I'm a doctoral student right now|sd|4147|0
+B|Uh-huh.|b|4147|1
+A|and in my, in my earlier days as a student I kind of time shared on a dog with a, a good friend of mine|sd|4147|0
+A|and, uh, it was an amazing dog,|sd|4147|0
+A|it really was.|sd|4147|0
+A|They had, he had gotten it from the pound|sd|4147|0
+A|and, uh, it, it's a Spanish Pointer named Domino. Kind of looks like a a Dalmatian|sd|4147|0
+B|Oh, yeah.|b|4147|1
+B|Uh-huh.|b|4147|1
+A|and we trained it from a pup,|sd|4147|0
+A|and basically it, right now it, it's fully trained|sd|4147|0
+A|and it can do a lot of things.|sd|4147|0
+A|It will get beer for you out of the fridge,|sd|4147|0
+A|and it will get the newspaper and do all kinds of stuff.|sd|4147|0
+A|So, it's really, it's, it's kind of a show piece|sd|4147|0
+A|and whenever anybody comes over, we all have to show him Domino you know .|sd|4147|0
+B|Oh, I think so.|ba|4147|1
+A|Yeah,|b|4147|0
+A|it's, uh,|%|4147|0
+A|she's been a real good, a real good dog|sd|4147|0
+A|and, uh, just, it's kind of a shame that I'm, I'm I'm away from it now.|sd|4147|0
+A|I, I I actually live in Florida|sd|4147|0
+B|Uh-huh|b|4147|1
+A|but I'm on an internship up here for a year|sd|4147|0
+A|and then I go back down,|sd|4147|0
+A|but, uh,|%|4147|0
+A|yeah,|%|4147|0
+A|Domino's a real good dog.|sd|4147|0
+B|Yeah.|b|4147|1
+A|Uh, what, uh, possessed you to get the dog?|qw|4147|0
+B|Well, I guess, in one sense we felt that, it, it's nice to have a dog even though there are, you know, complications come with it.|sv|4147|1
+A|Yeah.|b|4147|0
+B|And then with our children, uh,|sd|4147|1
+B|at the time they were, oh, grade five and, and grade eight,|sd|4147|1
+B|so it was an age where it was, uh, we thought it was be good for them to have the discipline that goes with, with having a pet.|sd|4147|1
+A|Uh-huh.|b|4147|0
+A|Sure.|b|4147|0
+B|Uh,|%|4147|1
+A|Sure learn a bit, learn a little bit of discipline and how to care for it and things like that.|bf|4147|0
+B|Yeah,|aa|4147|1
+B|right.|aa|4147|1
+A|That's good.|sv|4147|0
+A|That kind of builds some character a little bit.|sv|4147|0
+B|So ,|%|4147|1
+B|Well, that's the idea.|aa|4147|1
+B|I think the reality of it is, that they perhaps,|sv|4147|1
+B|uh, it depends on the, on everyone's discipline.|sv|4147|1
+A|Uh-huh.|b|4147|0
+B|And, uh, from that aspect, I'm short on the discipline, because I don't, uh, enforce that the kids look after the dog|sd|4147|1
+B|and, uh, we've had him about four years now.|sd|4147|1
+A|Uh-huh.|b|4147|0
+B|Uh, but I think it does, it, it, you know,|sv|4147|1
+B|it's necessary that individuals have the discipline to look after the animal properly, uh,|sv|4147|1
+A|Yeah,|aa|4147|0
+A|that's something that's important for sure.|sv|4147|0
+B|Yeah.|b|4147|1
+A|I think, uh, do you live in a, in a, in a fairly rural part of the, uh|qy|4147|0
+B|Uh,|%|4147|1
+A|or,|%|4147|0
+B|Actually no,|ng|4147|1
+B|we live in a, in an area that's, oh, probably about two and a half miles from the university.|sd|4147|1
+A|Oh, I see.|bk|4147|0
+B|Uh, we live right, might say we live right in, uh, in the middle of a residential area.|sd|4147|1
+A|Um.|%|4147|0
+B|And, uh, so that is not as good, uh, you know,|sv|4147|1
+B|this dog, being a small dog it's, uh, more you, more acceptable|sv|4147|1
+A|Yeah|b|4147|0
+B|but again,|h|4147|1
+A|it's not that big of a problem.|sv|4147|0
+A|With Domino, she was full grown,|sd|4147|0
+A|I would estimate seventy pounds.|sd|4147|0
+B|Yeah.|b|4147|1
+A|And, you know, we lived in Oviedo, which is a small town,|sd|4147|0
+A|it's a suburb of Orlando|sd|4147|0
+B|Uh-huh.|b|4147|1
+A|but there's not, there wasn't a lot of room for her to run around,|sd|4147|0
+A|and she was a dog that loved to run,|sd|4147|0
+A|so that was the biggest problem I saw,|sv|4147|0
+A|and I think that's one of the, uh, the issues people need to think about before they get a dog is, you know, do you have the room for this dog to run around,|sv|4147|0
+A|or, you know, I guess you can't really say for cats.|sv|4147|0
+A|Me and cats don't get along too well, uh|sd|4147|0
+A|but, you know, that whole space issue, I think, is real important.|sv|4147|0
+B|Yeah,|b|4147|1
+B|it's, uh, that's one of the biggest concerns.|sv|4147|1
+B|It's like, uh,|%|4147|1
+B|there's a lot to be gained from a relationship with an animal,|sv|4147|1
+B|but the same time, one has to recognize the reality of physical requirements of of the animal|sv|4147|1
+A|Right.|b|4147|0
+A|Yeah,|b|4147|0
+A|that, that,|%|4147|0
+B|and the larger they are, the more room they need to exercise.|sd|4147|1
+A|Sure,|aa|4147|0
+A|and that's all part of of keeping your part of the relationship. You know, showing the maturity and responsibility to recognize those, uh, those issues.|sv|4147|0
+B|Right.|b|4147|1
+B|Well ,|%|4147|1
+A|You know, and also, the whole, whole thing with noise.|sd|4147|0
+A|My mother, oh, she freaks out because she's got neighbors that have dogs, that don't train them|sd|4147|0
+B|Uh-huh.|b|4147|1
+A|and, you know, we we had a neighbor in Nebraska when we lived there that had, uh, Brittany Spaniels|sd|4147|0
+A|and they're very high strung animals to begin with,|sd|4147|0
+A|but, uh,|%|4147|0

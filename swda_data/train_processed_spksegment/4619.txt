@@ -1,0 +1,98 @@
+B|Bye to someone speaking to|t3|4619|0
+B|So we're, uh, our discussion's about, uh, the care of the elderly?|qy^d|4619|0
+A|That's right,|na|4619|1
+A|that's right.|na|4619|1
+A|You know, what, what, uh, what do you think is important?|qo|4619|1
+A|If you were,|%|4619|1
+A|uh, I don't know how, how old you are,|sd|4619|1
+A|but if you had, if you had, uh, parents say or, or, or grandparents, whatever it is, uh, who were ready, who, who you thought might benefit from a nursing home, what do you think you would look for?|qw|4619|1
+B|Uh, well I, actually my dad's, my dad's almost ninety|sd|4619|0
+B|and  he lives by himself|sd|4619|0
+A|Huh.|%|4619|1
+B|and he's in good shape.|sd|4619|0
+A|Yeah.|b|4619|1
+B|Uh, but, uh, some friends of mine have, uh, gone through this.|sd|4619|0
+B|I think I'd look for a home where they got a lot of attention and, uh, where they did some things to try to keep them, um, mentally alive. And where there was, uh, caring and compassionate, where there were caring and compassionate people, uh, operating it.|sv|4619|0
+A|Yeah.|b|4619|1
+B|Do  you have any experience with this yourself?|qy|4619|0
+A|Huh.|%|4619|1
+A|Well my, uh, uh, my wife's grandmother is in a nursing home in, uh, Minnesota|sd|4619|1
+B|Uh-huh.|b|4619|0
+A|and we go there, uh, once a year.|sd|4619|1
+A|We see, we tend to see her there cause we're in Boston|sd|4619|1
+A|so we're pretty far away.|sd|4619|1
+A|When we visit Minnesota though we go to see her.|sd|4619|1
+B|Uh-huh.|b|4619|0
+A|And it seems, uh,|sv|4619|1
+A|I mean the, the environment there, I don't know too much about it|h|4619|1
+A|but it, it seems nice enough.|sv|4619|1
+A|Uh, it, it's hard,|sv|4619|1
+A|at least half of the residents I would say are not, not mentally sound.|sd|4619|1
+A|So it's hard to tell how much of that rubs off on those who are struggling to to retain, uh, clarity, say, uh, know|sd|4619|1
+B|From the lack of stimulation, you mean.|bf|4619|0
+A|Yeah.|aa|4619|1
+A|Well I, I I don't know.|h|4619|1
+A|We, we also, my wife and I, uh, uh, volunteer to go to a, uh, nursing home that's just a mile from our house.|sd|4619|1
+A|We, uh, she goes more often than I.|sd|4619|1
+A|We used to go once a month, once every two months to visit some of the patients there.|sd|4619|1
+A|And we'd take, we have a two year old son|sd|4619|1
+A|and so we, sometimes we'd take him with us.|sd|4619|1
+A|And, uh, there I would say it's the same thing.|sd|4619|1
+A|It's, it's a nice, uh, relatively nice environment|sv|4619|1
+A|but again, um, it must be depressing for the people who, who are, who are just essentially not able to take care of themselves in their own house but, but, certainly, uh, certainly have are, have retained all of their, uh, mental skills and so on.|sv|4619|1
+A|It's, must be depressing to, to walk, walk the halls and see, and see all these other people who really don't know where they are.|sv|4619|1
+B|Do you think that in the case of the one that you've actually had some experience with, that the people who operate it seem to have, what you'd perceive of as genuine concern?|qy|4619|0
+A|I think, yeah,|na|4619|1
+A|I think they're relatively respectful. Yeah and, and concerned that, in as much as they can be.|sv|4619|1
+A|I, I think sometimes, you know, I've noticed, uh, people asking for, uh, some of the patients asking for things, uh, just repetitively and, but things that are not reasonable,|sd|4619|1
+B|Uh-huh.|b|4619|0
+A|and so  at some level the, the, the, uh,|%|4619|1
+B|Yeah.|b|4619|0
+A|I'm sure that the, that the, uh, the staff learn what's normal for this person|sv|4619|1
+A|and so it looks to me like maybe their not catering to this person's needs is really because this person is just, you know, is just in a state where they don't really need what they think they need, you know.|sv|4619|1
+B|Yeah.|aa|4619|0
+B|It, it's possible,|sv|4619|0
+B|I was thinking also that there'd be, there could be a fair burn out factor um, in just having to respond to people's needs where the needs are sometimes, depending on the person, not going to be what we would perceive of as rational need.|sv|4619|0
+A|Oh, yeah.|b|4619|1
+A|Yeah.|b|4619|1
+A|I'll tell you one thing though that'll, that, that I, I saw that was really nice.|sd|4619|1
+A|We saw a husband and wife,|sd|4619|1
+A|we used to see a husband and wife in there, uh, together|sd|4619|1
+A|and they were in the same room which not all husband and wives were|sd|4619|1
+A|but these two were.|sd|4619|1
+B|Uh-huh.|b|4619|0
+A|And when you walked into their room, they had brought all their furniture from their house|sd|4619|1
+B|Uh-huh.|b|4619|0
+B|So it  gives them a sense of identity.|sv|4619|0
+A|And so,|%|4619|1
+A|Yeah,|aa|4619|1
+A|you walked in there|sd|4619|1
+A|and it didn't look like, uh, you know, how, you, you walk into some rooms|sd|4619|1
+A|and there's, it's completely generic.|sd|4619|1
+A|There's nothing, maybe a picture or two that belongs to that person|sd|4619|1
+A|and that's it.|sd|4619|1
+A|But this room, on the other hand, you know, they got rid of all of the sort of standard issue beds and dressers and this and that|sd|4619|1
+A|and they had all their stuff from their house|sd|4619|1
+A|and it looked like, uh, it must have been,|sd|4619|1
+A|it was nicer to walk in there and to talk to them|sv|4619|1
+A|and it must also give them a sense of, uh, uh, security and, and, uh, and, and, you know, uh,|sv|4619|1
+B|Yeah,|b|4619|0
+B|I, I think part of what you're saying matches what I have read.|sv|4619|0
+B|I used to initially think that the only people who went into such residences were people who, uh, were adequately deficient in their abilities, uh  physical or mental, that they couldn't take care of themselves.|sd|4619|0
+A|Yeah.|b|4619|1
+B|But I also know a couple of people whose parents have gone into such things because I think they provide, um, a lot of social activities.|sv|4619|0
+A|Huh.|%|4619|1
+A|Yeah.|b|4619|1
+B|Uh, the, one of my friend's parents who went in because she had largely lost her abilities|sd|4619|0
+B|and she was in there for awhile when they were away on vacation.|sd|4619|0
+B|Uh, and,|%|4619|0
+A|Huh.|%|4619|1
+A|temporary.|bf|4619|1
+A|I,|%|4619|1
+A|that, that's, that's new to me.|sd|4619|1
+A|I,|%|4619|1
+B|Well I think it, I think it was sort of on the grounds that they were considering whether she would live there|sv|4619|0
+B|and I feel like, the whole vocabulary of this is very loaded if you think of words like, like put her in there.|sv|4619|0
+A|Right,|aa|4619|1
+A|right.|aa|4619|1
+B|And there, there's so much,|%|4619|0

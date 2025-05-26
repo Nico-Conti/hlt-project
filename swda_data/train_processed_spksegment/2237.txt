@@ -1,0 +1,388 @@
+A|Okay|fo_o_fw_"_by_bc|2237|0
+B|So, do you have, do you have the long,|qy|2237|1
+B|I guess not, not if there's,|%|2237|1
+B|see I was raised in New York,|sd|2237|1
+B|but I guess up there you all don't have too long of a growing season, do you?|qy|2237|1
+A|Uh, well, we probably have about three months, approximately.|ng|2237|0
+B|Do do you do your own gardening?|qy|2237|1
+A|Uh-huh.|ny|2237|0
+A|Uh-huh.|ny|2237|0
+B|Do you.|b|2237|1
+A|We live on a,|sd|2237|0
+A|used to be a farm,|sd|2237|0
+A|but we don't farm much,|sd|2237|0
+A|we, uh, but we do have a garden.|sd|2237|0
+B|Huh. See I got mine in,|sd|2237|1
+B|well, let's see,|^h|2237|1
+B|I put in pepper plants this weekend.|sd|2237|1
+A|Oh.|b|2237|0
+A|I wish I could be doing that|sd|2237|0
+B|Yeah.|b|2237|1
+B|I got all my little seedlings coming up in the kitchen|sd|2237|1
+B|and, I enjoy tinkering with it, you know,|sd|2237|1
+A|Uh-huh.|b|2237|0
+B|it's pretty hot down here during the Summer,|sd|2237|1
+B|we hit, you know, a hundred, hundred and two sometimes,|sd|2237|1
+A|Right.|b|2237|0
+B|but, you know, we don't do too much during the Summer, as far as tomatoes and stuff, like that.|sd|2237|1
+A|You almost have, to get started pretty early probably. I guess,|qy^d|2237|0
+B|Yeah.|ny|2237|1
+B|I can, usually I can put in, oh probably mid-March, I can put anything in the ground, you know, beets, and onions, and stuff like that.|sd|2237|1
+A|Uh-huh.|b|2237|0
+A|Uh-huh.|b|2237|0
+A|Uh-huh.|b|2237|0
+B|But then I have to wait for my,|sd|2237|1
+B|tomatoes have to go in here in the next couple of weeks|sd|2237|1
+A|Uh-huh.|b|2237|0
+B|as soon as we're, sure we're not going to have another freeze, go ahead finish it.|sd|2237|1
+A|Yeah.|b|2237|0
+A|You've had more freezing this Winter, or this, yeah, Winter, I think.|sv|2237|0
+B|Yeah.|aa|2237|1
+B|We've, had just a few, you know, that freezes a little here and there,|sd|2237|1
+A|More bad weather.|sv|2237|0
+B|but every once in a while, we get a freeze around the middle of April,|sd|2237|1
+A|Uh-huh.|b|2237|0
+A|Uh-huh.|b|2237|0
+B|and it's pretty tough.|sd|2237|1
+A|Uh-huh.|b|2237|0
+A|Are you, do you work,|qy|2237|0
+A|or are you retired|qrr|2237|0
+A|or you,|%|2237|0
+B|No.|nn|2237|1
+B|I work, uh|sd|2237|1
+A|Uh-huh.|b|2237|0
+B|I'm only forty years old.|sd|2237|1
+B|I have to work,|sd|2237|1
+A|Uh-huh|b|2237|0
+A|Uh, my husbands retired.|sd|2237|0
+A|But he's not a gardener.|sd|2237|0
+A|He, he, he's been helping me more,|sd|2237|0
+A|but he really isn't, uh, real crazy about gardening.|sd|2237|0
+B|Uh, I, I really enjoy it,|sd|2237|1
+B|it gives me time outdoors,|sd|2237|1
+A|Uh.|b|2237|0
+B|and, you know, I'm a golfer,|sd|2237|1
+B|but, it gives me time outdoors, and time around my house,|sd|2237|1
+A|Uh-huh.|b|2237|0
+A|Uh-huh.|b|2237|0
+B|and I, burned my grass off here in the last couple of days getting ready to start to the Spring season, and see if I can grow me another nice lawn,|sd|2237|1
+A|Oh.|b|2237|0
+A|Uh-huh.|b|2237|0
+B|I usually have a pretty nice lawn,|sd|2237|1
+B|it's a lot of work you know,|sv|2237|1
+A|Oh yeah.|b|2237|0
+B|but it's,|%|2237|1
+A|But it's a pleasure to, like you said, it's good to get outside,|aa|2237|0
+A|and and I like, I like my garden too|sd|2237|0
+B|Yeah,|aa|2237|1
+B|it is.|aa|2237|1
+A|We didn't have to, we have just a small garden,|sd|2237|0
+A|but we planted corn last year too, which takes quite a bit of space|sd|2237|0
+B|Uh-huh.|b|2237|1
+A|we, we didn't have too good luck with it,|sd|2237|0
+A|because the, uh, we had a couple of good, real good wind storms,|sd|2237|0
+A|and it really damaged the corn|sd|2237|0
+B|Oh yeah.|b|2237|1
+A|so we didn't get too much corn, last year.|sd|2237|0
+B|We're going through that,|sd|2237|1
+B|we going through the dust storms down here now,|sd|2237|1
+A|uh, uh-huh.|b|2237|0
+B|so, but I, uh, what I did with my garden, is I have a, a two by six frame that's five by ten.|sd|2237|1
+B|I have two of them sitting side by side|sd|2237|1
+A|Uh-huh.|b|2237|0
+B|and then I put, uh, like, a black plastic,|sd|2237|1
+B|it's really not a black plastic.|ar|2237|1
+B|They call it Wedet|sd|2237|1
+A|Oh.|b|2237|0
+A|Uh-huh.|b|2237|0
+B|and I put that down,|sd|2237|1
+B|and then I put up a couple of inches of pine moss on top of that|sd|2237|1
+A|Huh.|b|2237|0
+B|and I use a, one of those black poker hoses that actually oozes water every where|sd|2237|1
+A|Uh-huh.|b|2237|0
+A|Uh-huh.|b|2237|0
+B|so I waste it up and down there a couple of times,|sd|2237|1
+B|and I only have to water about two hours a week|sd|2237|1
+A|Oh that's great.|ba|2237|0
+B|and it's pretty nice.|sd|2237|1
+A|Uh-huh.|b|2237|0
+A|Uh-huh.|b|2237|0
+B|Especially during the Summer, it keeps everything wet, instead of wilting.|sd|2237|1
+A|Yeah.|b|2237|0
+A|We don't, we don't usually cover ours.|sd|2237|0
+A|We did a few different times|sd|2237|0
+A|sometimes we've covered with the plastic,|sd|2237|0
+A|and other years we've tried newspapers|sd|2237|0
+B|Oh.|b|2237|1
+A|and, uh, but we generally don't, we do our watering from our spring.|sd|2237|0
+B|Oh you have a spring,|qy^d|2237|1
+A|Yeah.|ny|2237|0
+B|how nice.|ba|2237|1
+A|We have an old fashioned pipe sitting, that, you know, water runs into|sd|2237|0
+A|and, my husband set up a pump that runs,|sd|2237|0
+B|Uh-huh.|b|2237|1
+A|it runs first down|sd|2237|0
+A|and then it stops,|sd|2237|0
+B|Oh that's, that's pretty nice.|ba|2237|1
+A|and when the water comes up, it comes on again,|sd|2237|0
+A|and we use that to water our garden with|sd|2237|0
+A|so,|%|2237|0
+B|But you actually enjoy it, huh?|qy|2237|1
+A|Oh I do.|na|2237|0
+A|I do.|na|2237|0
+B|Do you?|bh|2237|1
+A|I love it,|na|2237|0
+B|Get out there on your hands and knees, and crawl around.|sv|2237|1
+A|I'd rather be doing that, than housework|sd|2237|0
+B|I, I can imagine.|ba|2237|1
+B|You all have much trouble up there, with insects|qy^d|2237|1
+B|or,|%|2237|1
+A|Uh, not a well, not a whole lot.|ng|2237|0
+A|I think our cabbages, and broccolis and that in we have more trouble with, that type of thing, with the, the,|sd|2237|0
+B|With the worms?|qy|2237|1
+A|Yeah.|ny|2237|0
+B|Yeah.|b^m|2237|1
+B|I have quite a bit of problem down here with the squash bugs, and haven't figured out how to get rid of those yet.|sd|2237|1
+A|Uh.|b|2237|0
+A|Uh-huh.|b|2237|0
+A|Do you go more for natural, keeping them off naturally,|qy|2237|0
+A|or do you, use insecticides?|qrr|2237|0
+B|Yeah,|ny|2237|1
+B|I try to,|sd|2237|1
+B|no|nn|2237|1
+B|I, uh, uh, try not to use any insecticides at all.|sd|2237|1
+B|I try not to even use insecticides on my lawn,|sd|2237|1
+A|Uh-huh.|b|2237|0
+A|Uh-huh.|b|2237|0
+B|but, I, sometimes I can't manage.|sd|2237|1
+A|Uh-huh.|b|2237|0
+A|Yeah.|b|2237|0
+A|Well, our lawn, is, is a big lawn because, because we live out in the country,|sd|2237|0
+A|and so we were not, our lawn is not perfect, you know,|sd|2237|0
+A|it's just the it's just a lawn|sd|2237|0
+B|Yeah.|b|2237|1
+B|Well, mine's full of dandelions, now,|sd|2237|1
+A|Uh-huh.|b|2237|0
+B|so,|%|2237|1
+A|Do you eat any of them?|qy|2237|0
+B|No,|nn|2237|1
+B|I never have.|sd|2237|1
+B|I don't know how to prepare them.|sd|2237|1
+A|Oh, did, well, did, does your wife ever make, uh, bake in a hot bacon dressing, like for, salad?|qy|2237|0
+B|No.|nn|2237|1
+B|Huh-uh.|nn|2237|1
+A|Oh it's delicious|sd|2237|0
+A|and it goes real good on dandelions.|sd|2237|0
+B|Really.|bh|2237|1
+A|Uh-huh.|ny|2237|0
+B|Huh.|b|2237|1
+B|I've never eaten dandelions|sd|2237|1
+B|now I've tried dandelion wine|sd|2237|1
+A|Uh-huh.|b|2237|0
+B|but I've never tried any dandelions just to eat.|sd|2237|1
+A|use the greens, if you get them when they're young and tender, you know, before they have grown too, too tall,|ad|2237|0
+B|Yeah.|b|2237|1
+A|because they do get a little stringy.|sd|2237|0
+B|All right.|aa|2237|1
+A|But, uh, they're kind of fun to, to try,|sd|2237|0
+B|Yeah.|b|2237|1
+A|get a, get a few|ad|2237|0
+A|and then throw them in with the rest of your salad sometimes.|ad|2237|0
+B|I'll try that.|aa|2237|1
+A|Yeah.|b|2237|0
+A|Yeah.|b|2237|0
+B|I sure will|aa|2237|1
+A|Uh, but I've been cutting our grass too lately because my husband's back,|sd|2237|0
+A|and he's been having trouble with|sd|2237|0
+A|so, wasn't allowed to run a lawn mower,|sd|2237|0
+B|Oh, Oh.|b|2237|1
+A|so, it takes about four hours to cut our grass.|sd|2237|0
+B|Yow.|ba|2237|1
+A|And, we have, we have hills.|sd|2237|0
+A|I'm afraid of the hills|sd|2237|0
+A|but, I'm getting on to it,|sd|2237|0
+B|So you all are into, so you all are into the lawn, big time, huh.|bf|2237|1
+A|I just pretend they're not there,|sd|2237|0
+A|and I just go ahead and do it|sd|2237|0
+A|Yeah.|aa|2237|0
+B|Yeah,|b^m|2237|1
+B|I only get, well, I guess I got|%|2237|1
+B|my, my whole section of my house is probably a tenth of an acre|sd|2237|1
+A|Uh-huh.|b|2237|0
+B|then I have a pretty nice backyard,|sd|2237|1
+A|Uh-huh.|b|2237|0
+B|and you know, I've got enough room to throw horseshoes. You know, couple of other ,|sd|2237|1
+A|Oh, that's great.|ba|2237|0
+A|great.|ba|2237|0
+A|That's, a lot of people don't have that much space even.|sv|2237|0
+B|No,|aa|2237|1
+B|and it's nice.|sd|2237|1
+B|I'm just inside the city limits,|sd|2237|1
+B|I'm probably a mile, mile and a half inside the city limits,|sd|2237|1
+B|and I'm only a mile, and a half from work.|sd|2237|1
+A|Uh-huh.|b|2237|0
+A|So you have all the conveniences of, a city,|bf|2237|0
+B|Yeah.|aa|2237|1
+B|It's pretty nice.|sd|2237|1
+A|yeah,|%|2237|0
+A|and, and the country also.|bf|2237|0
+B|I have the room outside I need,|sd|2237|1
+B|and I don't really have all the room in the house I need|sd|2237|1
+B|but,|%|2237|1
+A|Well, you never have enough room do you think. Especially if your into any hobbies or anything.|sv|2237|0
+B|No.|aa|2237|1
+B|I have a question to ask you about gardening though.|sd|2237|1
+B|You know, those,|%|2237|1
+B|what are they called,|t1|2237|1
+B|the, they called, uh, rolly polly bugs,|sd|2237|1
+B|that's what my son calls them anyway.|sd|2237|1
+A|Rolly Polly what?|br|2237|0
+B|Rolly Polly bugs.|sd|2237|1
+B|The ones that roll up in a ball.|sd|2237|1
+B|I don't know what they're called.|sd|2237|1
+A|Is it a bug, You mean?|qy|2237|0
+B|They look like they've got,|sd|2237|1
+B|Yeah.|ny|2237|1
+A|A worm?|qy|2237|0
+B|Yeah.|ny|2237|1
+A|A cutworm?|qy|2237|0
+B|No.|nn|2237|1
+A|Not a grub worm?|qy|2237|0
+B|It's not like a,|%|2237|1
+B|no.|nn|2237|1
+B|You find them under bricks and all that stuff, where it's moist,|sd|2237|1
+B|and if, if you touch them, they roll up in a ball.|sd|2237|1
+A|Oh.|bk|2237|0
+B|I don't know what they call them.|sd|2237|1
+B|But I'm plagued with those things,|sd|2237|1
+A|Uh.|b|2237|0
+B|and I haven't figured out,|sd|2237|1
+B|I even called the nursery,|sd|2237|1
+A|Uh-huh.|b|2237|0
+A|I'm trying to think of what they are, what kind, they could be.|sd|2237|0
+B|I, I don't know.|sd|2237|1
+A|You find them under bricks usually, and that.|sd|2237|0
+B|Yeah,|b|2237|1
+B|under bricks, or under wood,|b|2237|1
+B|or you know, if you leave a piece of newspaper in the yard too long, they get in there.|sv|2237|1
+B|They usually come out at night,|sv|2237|1
+B|but, you can find them during the daytime if you pick something up that's been laying around,|sv|2237|1
+A|They're not a slug.|sd|2237|0
+B|No.|aa|2237|1
+A|Not a,|%|2237|0
+B|A slug is actually kind of slimy|sv|2237|1
+A|Yeah.|aa|2237|0
+A|Yeah.|aa|2237|0
+A|Yeah.|aa|2237|0
+B|and these are just,|sd|2237|1
+B|he plays with them all time,|sd|2237|1
+B|he picks them up and rolls them across the patio.|sd|2237|1
+A|Oh really.|b|2237|0
+A|They were not hard are they?|qy|2237|0
+B|No.|nn|2237|1
+A|Are they a hard worm?|qy|2237|0
+B|No.|nn|2237|1
+B|They're not real hard,|sd|2237|1
+A|They're not a hard .|b|2237|0
+B|They're like a, water bug, of sorts,|sd|2237|1
+A|Huh.|b|2237|0
+B|I don't know what, they're called.|sd|2237|1
+A|Oh, are they black then?|qy|2237|0
+B|Yeah.|ny|2237|1
+B|Yeah.|ny|2237|1
+A|But they roll up.|qy^d|2237|0
+B|Yeah.|ny|2237|1
+A|I can't think of what kind they would be.|sd|2237|0
+B|When you touch them, they roll up.|sd|2237|1
+A|Uh-huh.|b|2237|0
+A|I'm no help on that, then. Because, I can't think of what they are. What they would be.|sd|2237|0
+B|But, I'm plagued with those.|sd|2237|1
+A|I think you have a lot more insects down there even than, than what we have.|sv|2237|0
+B|You know, I think it's a big problem because we're in more of a tempered zone.|sv|2237|1
+B|You know, we don't really, we only freeze down here in January, and February, at the most.|sd|2237|1
+A|I know, my brother had trouble with fire ants, and that even.|sd|2237|0
+B|You know.|b|2237|1
+B|Yeah.|b|2237|1
+B|I got fire, ants too.|sd|2237|1
+A|Uh, yeah.|b|2237|0
+A|And they be can be a real dickens.|sv|2237|0
+B|And, you, spray in one part of your lawn,|sv|2237|1
+B|and they just move to, another part.|sv|2237|1
+A|Uh-huh.|aa|2237|0
+A|Uh-huh.|aa|2237|0
+B|So you got to, spray your whole yard,|sv|2237|1
+A|Yeah.|aa|2237|0
+A|Yeah.|aa|2237|0
+B|and your, your, your neighbor gets them,|sv|2237|1
+B|and then he sprays his yard,|sv|2237|1
+B|and you get them back again|sv|2237|1
+A|Yeah|aa|2237|0
+A|you keep trading them|sv|2237|0
+B|Yeah.|aa|2237|1
+B|But we're not doing too bad down here really, you know,|sd|2237|1
+B|the daffodils are out|sd|2237|1
+B|and,|%|2237|1
+A|Uh-huh.|b|2237|0
+A|Ours are going to be coming out.|sd|2237|0
+A|Now our cancer society sales daffodils.|sd|2237|0
+A|Right now, they're, they're big now.|sd|2237|0
+A|So, we, we have daffodils, here in the house because of the cut flowers,|sd|2237|0
+B|Yeah.|b|2237|1
+B|Yeah.|b|2237|1
+A|but they're just beginning to come out and bud.|sd|2237|0
+B|Yeah.|b|2237|1
+B|See mine are up and bloomed already|sd|2237|1
+B|so,|%|2237|1
+A|Uh,|b|2237|0
+B|already.|b|2237|1
+A|Uh-huh.|b|2237|0
+B|They sure are, pretty,|sv|2237|1
+A|uh,|b|2237|0
+A|uh-huh.|b|2237|0
+B|I like them ,|sd|2237|1
+A|uh, they're such a nice bright early Spring, color.|sv|2237|0
+B|yeah.|b|2237|1
+B|And then in, in my back flower bed I have, uh, tiger lilies|sd|2237|1
+A|Uh-huh.|b|2237|0
+A|Uh-huh.|b|2237|0
+A|Uh-huh.|b|2237|0
+B|and they bloom in, you know, late June, mid, July.|sd|2237|1
+A|Uh-huh.|b|2237|0
+A|And they're, beautiful too.|sv|2237|0
+B|Yeah,|aa|2237|1
+B|they are.|aa|2237|1
+B|They real, beautiful.|aa|2237|1
+A|They're beautiful.|sv|2237|0
+B|They're, they're nice and green, you know,|sd|2237|1
+B|they're, uh, they're up above a foot, maybe eighteen inches.|sd|2237|1
+A|Oh my.|ba|2237|0
+B|They come up real pretty, every year, no problem.|sd|2237|1
+A|Yeah.|b|2237|0
+A|Yeah.|b|2237|0
+A|We won't have too much here for another couple of months yet.|sd|2237|0
+B|Is it still pretty cool up there?|qy|2237|1
+A|Yeah.|ny|2237|0
+A|Yeah.|ny|2237|0
+A|We're it's raining today.|sd|2237|0
+B|Well, do you all have a,|qy|2237|1
+B|what kind o grass do you grow up there?|qw|2237|1
+B|Do you grow, uh, Bermuda or ,|qy|2237|1
+A|Well, our grass, like I said is just grass.|arp_nd|2237|0
+A|We really didn't plant anything.|sd|2237|0
+A|It's just,|%|2237|0
+B|Yeah.|b|2237|1
+A|I suppose maybe you call it crabgrass even.|sd|2237|0
+B|Yeah.|b|2237|1
+A|And, uh,|%|2237|0
+B|See we, I have Bermuda, in my yard,|sd|2237|1
+A|Uh-huh.|b|2237|0
+B|and I still have the old standby crabgrass here and there,|sd|2237|1
+A|Uh-huh.|b|2237|0
+B|but, Bermuda seems to be,|%|2237|1
+A|It's probably, very pretty.|qy^d|2237|0
+B|Yeah.|ny|2237|1
+B|Bermuda seems to be pretty, good down here.|sd|2237|1
+A|Uh-huh.|b|2237|0
+A|Uh-huh.|b|2237|0
+A|We have some people that have done their lawns,|sd|2237|0
+A|and, uh,|%|2237|0

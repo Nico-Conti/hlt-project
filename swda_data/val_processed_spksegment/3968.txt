@@ -1,0 +1,173 @@
+A|Okay.|fo_o_fw_"_by_bc|3968|0
+B|All right.|b|3968|1
+B|That's a real different topic.|sv|3968|1
+B|I'm not sure I'm familiar with, with what they mean of invasion of privacy.|sv|3968|1
+A|I know.|aa|3968|0
+A|I guess that, I guess you consider just things that every day that would, you would think of about.|sv|3968|0
+A|See, I'm a college student,|sd|3968|0
+A|so I can think of lots of things that my roommate does that bother me you know, that I think's like is an invasion of my privacy, stuff like that.|sd|3968|0
+B|Yeah.|b|3968|1
+A|But I think it'd be, it is kind of a tough topic.|sv|3968|0
+B|Yeah.|b|3968|1
+B|I think, personally, you know,|sv|3968|1
+B|I'm, I used to be a college student ten years ago|sd|3968|1
+A|Uh-huh.|b|3968|0
+A|Uh-huh.|b|3968|0
+B|but uh, now I think an invasion of my privacy is when someone calls me on the telephone and says, Mrs Miller, have we got a deal for you.|sv|3968|1
+A|Uh-huh.|b|3968|0
+A|Oh, golly.|ba|3968|0
+A|You're like, No, you don't, no.|sd|3968|0
+B|It's like, how do you know my name,|sd|3968|1
+B|where did you get my phone number,|^q|3968|1
+B|and why do you think it's a deal for me?|^q|3968|1
+A|Uh-huh.|b|3968|0
+B|I mean, those people, they'll call you any time of the day or night with, try to solicit|sv|3968|1
+A|Yeah.|b|3968|0
+B|and that's an invasion of my privacy, I think.|sv|3968|1
+A|They call late,|sv|3968|0
+A|now, I mean, now there's, I heard that they were going to start calling on Saturdays or|sd|3968|0
+B|Oh, they do already.|sd|3968|1
+A|See, that's|%|3968|0
+A|I would be so mad|sd|3968|0
+B|Well,|b|3968|1
+B|and I've even had the computer generated calls on Sundays, too.|sd|3968|1
+A|Really.|bh|3968|0
+B|Uh-huh.|ny|3968|1
+A|Huh.|b|3968|0
+B|But I do know of a way to get around the computer generated calls.|sd|3968|1
+A|How?|qw|3968|0
+B|Don't answer your phone, Hello.|ad|3968|1
+B|The computer's geared to, to start talking to you on the, on the word Hello.|sd|3968|1
+A|Really?|bh|3968|0
+B|Uh-huh.|ny|3968|1
+A|Huh.|b|3968|0
+A|I don't know,|h|3968|0
+A|I think like things that, that|%|3968|0
+A|I think's like privacy is like, just like, not going through my stuff, like going through, just like my clothes or my drawer, just going through my stuff, basically.|sv|3968|0
+B|Oh, yeah.|b|3968|1
+A|That drives me up a wall.|sd|3968|0
+B|Are you and your roommate a similar size.|qy|3968|1
+A|No,|nn|3968|0
+A|see, we're not,|sd|3968|0
+A|and, uh.|%|3968|0
+B|And she still goes through your clothes?|qy^d|3968|1
+A|Yeah,|ny|3968|0
+A|she'll take all my shirts and stuff,|sd|3968|0
+A|because she can't wear like my pants|sd|3968|0
+B|Uh-huh.|b|3968|1
+A|but she'll take all my shirts and my blouses and stuff.|sd|3968|0
+B|Ooh.|ba|3968|1
+A|Man, I'm just glad she can't wear my pants or my skirts or my dresses, you know.|sd|3968|0
+B|Oh, yeah.|b|3968|1
+A|But still, she'll just take them,|sd|3968|0
+A|and she won't even think about it,|sd|3968|0
+A|and then, I'll like see her that day,|sd|3968|0
+A|and she'll be wearing my clothes,|sd|3968|0
+A|and I'll be like, you know, I don't like to borrow my clothes out, you know,|sd|3968|0
+A|I really don't.|sd|3968|0
+A|So I prefer that you just not go in and get them|^q|3968|0
+B|Uh-huh.|b|3968|1
+B|Uh-huh.|b|3968|1
+A|because she doesn't even ask me.|sd|3968|0
+A|Stuff like that really|sd|3968|0
+A|like that's an invasion of my privacy, I feel like.|sv|3968|0
+B|Oh, yeah,|aa|3968|1
+B|I agree.|aa|3968|1
+A|Stuff like that,|sd|3968|0
+A|when you have your door closed, people just walking in and stuff like that.|sd|3968|0
+B|Uh-huh.|b|3968|1
+A|I was thinking like my mom.|sd|3968|0
+A|I know this,|sd|3968|0
+A|she would think this is like an invasion of her privacy, is like going through her purse, like if you ever needed money and stuff|sd|3968|0
+B|Oh, yeah.|b|3968|1
+A|we always just give her her purse, you know,|sd|3968|0
+A|and she'll get it out or whatever.|sd|3968|0
+B|Yeah.|b|3968|1
+B|Uh-huh.|b|3968|1
+A|I was trying to think,|^h|3968|0
+A|I was thinking that's the only thing I could really think of that would really be.|sd|3968|0
+B|My mom doesn't even like for us to go through her cabinets.|sd|3968|1
+A|Really.|b|3968|0
+B|I mean, we're all grown,|sd|3968|1
+B|all her kids are grown,|sd|3968|1
+B|and we have our own families|sd|3968|1
+A|Uh-huh.|b|3968|0
+B|and now if we go through her cabinets she's like, Well, what are you digging for?|sd|3968|1
+A|Yeah,|b|3968|0
+A|get out of my cabinets.|bf|3968|0
+B|Like, what are you doing?|sd|3968|1
+B|Don't you have your own house to dig through?|^q|3968|1
+A|That's great.|ba|3968|0
+B|Yeah,|b|3968|1
+B|so, I guess, privacy is really,|%|3968|1
+B|and at the work place, I suppose,|sv|3968|1
+B|oh, well, actually yes.|aa|3968|1
+B|I can say definitely, privacy at the work place.|sd|3968|1
+A|Uh-huh.|b|3968|0
+B|I hate it for people to open up my drawer to my desk|sd|3968|1
+A|See.|b|3968|0
+A|Yeah.|b|3968|0
+B|because that was, that was where I kept all my stuff,|sd|3968|1
+B|and I could tell I mean, even if a pen was turned the wrong way.|sd|3968|1
+A|You could tell,|bf|3968|0
+A|you know you put your stuff where it's,|bf|3968|0
+A|Yeah.|aa|3968|0
+A|That would drive, that would, that|sd|3968|0
+B|It would drive, it drove me batty for a while.|sd|3968|1
+A|Really.|bh|3968|0
+B|Yeah,|ny|3968|1
+B|well, I worked a second shift|sd|3968|1
+A|Uh-huh.|b|3968|0
+B|and everybody else in my area worked first shift|sd|3968|1
+A|Uh-huh.|b|3968|0
+B|and our shifts overlapped|sd|3968|1
+A|Uh-huh.|b|3968|0
+B|so I would come in,|sd|3968|1
+B|and there would be people sitting at my desk, working,|sd|3968|1
+B|and I'm wondering, you know, um, what is this,|sd|3968|1
+B|it's my vitamins,|sd|3968|1
+B|I wonder, what is, you know, yeah, what is,|sd|3968|1
+B|why are they working at my desk,|^q|3968|1
+B|and can I have it back.|^q|3968|1
+A|Yeah.|b|3968|0
+B|Can I have it back soon, maybe.|^q|3968|1
+A|Then you start missing stuff,|qy^d|3968|0
+A|and.|%|3968|0
+B|Oh, yeah,|ny|3968|1
+B|no mommy is going to take the vitamins,|sd|3968|1
+B|I'm sorry,|h|3968|1
+B|I have|%|3968|1
+A|That's okay.|bd|3968|0
+A|See that would, that would make me really mad,|sd|3968|0
+A|because you can always tell when someone's touched your stuff,|sv|3968|0
+A|just because,|%|3968|0
+A|I mean, I know I have everything like a certain way|sd|3968|0
+A|and you know how it looks and everything.|sv|3968|0
+B|Oh, yeah.|b|3968|1
+B|Well, you know how you left it the day before.|sv|3968|1
+A|Uh-huh. child_talking|b|3968|0
+A|That would bother me, definitely.|sd|3968|0
+B|Oh, yeah,|aa|3968|1
+B|so, that's, child_talking|%|3968|1
+B|yeah,|aa|3968|1
+B|I agree,|aa|3968|1
+B|it's, it's pretty tough that way,|sv|3968|1
+B|and, I know, even like with your school books and papers.|sd|3968|1
+A|Uh-huh.|b|3968|0
+B|Do you miss your papers sometimes?|qy|3968|1
+A|See,|%|3968|0
+A|yeah.|ny|3968|0
+B|Uh-huh.|b|3968|1
+A|You know.|%|3968|0
+A|That's the only thing I can really think about being an invasion of privacy, like something every day, though.|sd|3968|0
+B|Yeah,|b|3968|1
+B|well, actually I do know,|sd|3968|1
+B|and I have used it once|sd|3968|1
+A|Uh-huh.|b|3968|0
+B|and it, it really is an invasion of privacy,|sv|3968|1
+B|but in the library there's a book that you can find out what people's phone numbers are by where they live, their street address.|sd|3968|1
+A|Oh, really?|bh|3968|0
+B|Yeah.|ny|3968|1
+A|Uh-huh.|b|3968|0
+B|And that,|%|3968|1
+B|I mean, I've, I've used it once,|sd|3968|1

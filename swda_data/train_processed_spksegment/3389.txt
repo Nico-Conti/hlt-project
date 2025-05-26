@@ -1,0 +1,157 @@
+A|So, who's your favorite team?|qw|3389|0
+B|My favorite team is the Pittsburgh Steelers.|sd|3389|1
+A|Pittsburgh?|br|3389|0
+B|You bet.|na|3389|1
+A|I used to be a big Pittsburgh fan when I was little.|sd|3389|0
+B|Well, I, uh,|%|3389|1
+B|when played he was from my hometown in Alabama,|sd|3389|1
+A|Oh, really?|bh|3389|0
+B|so I kind of grabbed on to that team,  way back when.|sd|3389|1
+A|Huh.|%|3389|0
+A|pretty|ba|3389|0
+A|that's good.|ba|3389|0
+A|I, I used to watch them a lot when they were playing the big iron curtain,  or steel curtain.|sd|3389|0
+B|That's right.|aa|3389|1
+B|How about your favorite team?|qw|3389|1
+A|Huh.|%|3389|0
+A|Well, last year it was Buffalo|sd|3389|0
+A|and I, I still try to keep up with Buffalo because they just, they just impressed me as being so efficient|sd|3389|0
+A|and they never score.|sd|3389|0
+A|They never blow out their opponents.|sd|3389|0
+A|They just score just enough points,|sd|3389|0
+B|Uh-huh.|b|3389|1
+A|and that really impressed me.|sd|3389|0
+A|But then down here I|%|3389|0
+A|is pretty close to New Orleans|sd|3389|0
+A|and I've been keeping up with the Saints a lot.|sd|3389|0
+B|Well, they are exciting, aren't they?|qy|3389|1
+A|Yeah,|ny|3389|0
+A|the Saints are starting to impress me this year, you know, a lot.|sd|3389|0
+B|Boy,|ba|3389|1
+B|they are, they are just a fun team to watch.|sv|3389|1
+A|This, it, they are really.|aa|3389|0
+A|Did you see the game Sunday night or,  Sunday afternoon?|qy|3389|0
+B|Uh,  no,|nn|3389|1
+B|I didn't.|sd|3389|1
+A|It was funny.|sv|3389|0
+A|There were, they uh, a fireworks display at halftime.|sd|3389|0
+B|Oh, yeah?|bh|3389|1
+A|Yeah,|ny|3389|0
+A|and some paper or something in the Super Dome up in the roof caught on fire.|sd|3389|0
+B|Oh, you're kidding|ba|3389|1
+A|So, they had to stop the game lieu the third quarter and put out this fire.|sd|3389|0
+B|Oh, my|ba|3389|1
+A|Those big piece of something came flaming, falling out of the roof and landed on the field|sd|3389|0
+A|so there's this big fire on the field|sd|3389|0
+A|and they were dumping the bucket and everything.|sd|3389|0
+B|Oh, I can't believe that.|ba|3389|1
+A|It was|sv|3389|0
+A|I mean, you just really can't tell what's going to happen.|sv|3389|0
+B|That's hilarious.|ba|3389|1
+A|I know.|b|3389|0
+A|It's like about two weeks ago I was watching the Saints.|sd|3389|0
+B|Uh-huh.|b|3389|1
+A|And Anderson kicked a sixty yard field goal.|sd|3389|0
+B|Oh.|b|3389|1
+A|And it, it was beautiful, right down the middle.|sd|3389|0
+B|Oh, boy.|ba|3389|1
+B|He is tough,|sv|3389|1
+B|he has an incredible leg.|sv|3389|1
+A|He is.|aa|3389|0
+A|Yes.|aa|3389|0
+B|Well, do you think they're, they're going to be able to make it this year,  past the first playoff game?|qy|3389|1
+A|Uh I  I sure hope so.|sd|3389|0
+A|I'm not sure, I'm not sure who they play.|sd|3389|0
+A|Right now I've got it narrowed down to the top four teams.|sd|3389|0
+B|Who's that?|qw|3389|1
+A|It's pretty much going between Washington. They are undefeated. And, uh, Buffalo, New Orleans, and Chicago because Chicago has only lost twice|sd|3389|0
+B|Right.|b|3389|1
+A|and one of those was to Buffalo.|sd|3389|0
+A|And they beat the Saints.|sd|3389|0
+A|Their only time they lost.|sd|3389|0
+B|What do you think about, uh, Houston?|qo|3389|1
+A|Houston.|b^m|3389|0
+A|I saw Houston play this summer in Memphis.|^h|3389|0
+B|Oh, yeah?|bh|3389|1
+A|Yeah.|ny|3389|0
+A|Uh, from what I saw they were playing,|sv|3389|0
+A|when I was at the game we sat right on the front row,  right behind the Houston Oilers,|sd|3389|0
+B|Huh.|%|3389|1
+A|and from what I saw the game Houston, Houston impressed me a lot.|sd|3389|0
+B|Huh.|b|3389|1
+A|But my brother watched it on T V and said that Warren Moon was just having an off night,|sd|3389|0
+A|and if that was an off night I'd hate to see when he's on a good night.|sv|3389|0
+B|Oh, yeah,|b|3389|1
+B|he's he definitely, uh, is one of the best I think.|sv|3389|1
+A|He's,|%|3389|0
+A|Yeah,|b|3389|0
+A|the, their, their backfield is really impressive.|sv|3389|0
+A|Haywood and Drew Hill and|sd|3389|0
+B|Right.|b|3389|1
+A|they really impress me.|sd|3389|0
+B|Well, they squeaked out a game on Sunday.|sd|3389|1
+A|That's right.|aa|3389|0
+A|Who, who did they play?|qw|3389|0
+B|They played Dallas.|sd|3389|1
+A|Dallas,|b^m|3389|0
+A|that's right,|aa|3389|0
+B|They won,  in overtime.|sd|3389|1
+A|all because,|%|3389|0
+A|That's right.|aa|3389|0
+A|I remember that now.|sd|3389|0
+B|So that was,|%|3389|1
+B|I, I watched that game|sd|3389|1
+B|and, uh, that was, uh,|%|3389|1
+A|Do you have a favorite between those two?|qy|3389|0
+B|Well, because I'm right here in Dallas I, I kind of pull for Dallas.|na|3389|1
+A|Really?|bh|3389|0
+B|Yeah.|ny|3389|1
+B|Well, also Houston is, uh, in Pittsburgh's division|sd|3389|1
+B|so,  I'll almost always root against them.|sd|3389|1
+A|Well, that's true.|aa|3389|0
+A|I hate to say it|h|3389|0
+A|but I hate Dallas|sd|3389|0
+B|That's okay|sv|3389|1
+B|Well I, you know, I, I was never really a big Dallas fan until we moved here|sd|3389|1
+A|Yeah.|b|3389|0
+B|and they just kind of grew on me.|sd|3389|1
+A|Yeah,|b|3389|0
+A|I imagine.|sv|3389|0
+A|That's the way,|%|3389|0
+A|I've never been a big Saints fan until the last year or two|sd|3389|0
+A|and they, they've actually started doing something.|sd|3389|0
+B|Yeah.|b|3389|1
+B|Yeah.|b|3389|1
+A|So, I've actually paid attention to them.|sd|3389|0
+B|Well|%|3389|1
+A|Well, do you know anything about the expansion teams they're thinking about bringing in?|qy|3389|0
+B|To tell you the truth I haven't paid too much attention to that.|^h|3389|1
+A|Really?|bh|3389|0
+B|Um, what cities are they looking at?|qw|3389|1
+A|Uh, right now I think this Memphis, they're, they're trying to get the teams.|sd|3389|0
+B|Uh-huh.|b|3389|1
+A|And that's, that's where I was when I saw, uh,  Houston play.|sd|3389|0
+B|Uh-huh.|b|3389|1
+A|Saint Louis is trying to get a team.|sd|3389|0
+A|Uh, Baltimore is trying to get a team,|sd|3389|0
+A|and there's some other city.|sd|3389|0
+A|I'm wanting to say Raleigh|sv|3389|0
+A|but I'm not sure.|h|3389|0
+B|You know, I think you are right.|aa|3389|1
+B|I think it is Raleigh.|sv|3389|1
+A|Think so?|bh|3389|0
+B|I think I remember hearing that.|sv|3389|1
+A|Uh-huh.|b|3389|0
+A|Because I know they've got a football team|sd|3389|0
+A|but I think it might be them.|sv|3389|0
+B|That would be fun.|sv|3389|1
+B|I'd like to see some more teams get in.|sd|3389|1
+A|I would, definitely.|aa|3389|0
+A|I think they are supposed to put two in by either next year or the year after.|sd|3389|0
+A|And right now I think Memphis and, it's Memphis and I think Baltimore have a really good shot at it.|sv|3389|0
+B|Uh-huh.|b|3389|1
+A|Because I know Saint Louis is much bigger than Memphis|sd|3389|0
+A|and when I went up there they were saying that Memphis sold more tickets than Saint Louis did.|sd|3389|0
+B|Oh, really?|bh|3389|1
+A|Yeah.|ny|3389|0
+A|It's like the Liberty Bowl or Liberty Stadium in Memphis holds about sixty-two,|sd|3389|0

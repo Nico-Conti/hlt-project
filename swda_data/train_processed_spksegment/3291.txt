@@ -1,0 +1,78 @@
+A|Okay, we're being recorded.|sd|3291|0
+B|All right, Ron.|aa|3291|1
+A|Uh, number one, I am one hundred percent for total gun control.|sd|3291|0
+A|I,|%|3291|0
+B|Total gun control.|b^m|3291|1
+A|Yes,|aa|3291|0
+A|I am not a member of the National Rifle Association|sd|3291|0
+A|and, I don't believe in hunting,|sd|3291|0
+A|and, uh, I just have had my fill of what is going on with the crime rate|sd|3291|0
+A|and I really feel that we have to do something in order to, uh, to ,|sv|3291|0
+B|Yes,|aa|3291|1
+B|I, I agree something should be done,|sd|3291|1
+B|but I, there, I don't believe there is any way of total control over weapons, because crooks and people who are going to perform things that are not correct will have access to weapons from somewhere|sv|3291|1
+B|and that means they'll always have an advantage over us|sv|3291|1
+B|and, uh, they may even get worse because they know we have nothing to support myself.|sv|3291|1
+B|Now, you know, I, I agree with a lot of the things you just said in your few moments because personally I used to be a great hunter|sd|3291|1
+B|and in the last few years I've said, no way.|sd|3291|1
+B|Matter of fact, if I find a, uh, a, a fly running around in the house, I pick him up and carry him outdoors|sd|3291|1
+B|I, I don't even hit him with a flyswatter,|sd|3291|1
+B|so I've, uh, gotten over this business of wanting to go out and shooting and, and killing and that sort of thing.|sd|3291|1
+A|Uh-huh.|b|3291|0
+B|But I, I think that, uh, personally, that we do need some weapons available to most of the people.|sv|3291|1
+B|Most of the people really are, uh, honest and, uh, worthy of carrying on their lives properly.|sv|3291|1
+B|Uh, I'm sort of in line thinking in terms,|sd|3291|1
+B|I don't see anything wrong with this five day waiting period if the waiting period is utilized to really look at the background of the person purchasing the weapon.|sv|3291|1
+B|I mean there's nothing wrong with that.|sv|3291|1
+B|Do you see anything wrong with that?|qy|3291|1
+A|No,|nn|3291|0
+A|there's only one problem I have with the whole thing though, is, you know, when they do it, I think our biggest problem is, yes, the, the crooks and what have you are going to get weapons if the weapons are available.|sd|3291|0
+B|Right.|b|3291|1
+A|I think the biggest problem we have in this country is there are just entirely too many weapons available. And the types of the weapons.|sv|3291|0
+A|I mean there is no,|sd|3291|0
+B|Yeah.|b|3291|1
+B|I'm I'm against this, uh, automatic and semiautomatic stuff.|sd|3291|1
+A|Right,|aa|3291|0
+A|there is,  There is no reason for it. I mean,|sv|3291|0
+B|I don't think we should have access to those.|sv|3291|1
+B|No.|aa|3291|1
+B|Huh|b|3291|1
+A|And, uh, maybe I'm a little bit strong when I said total gun control.|sd|3291|0
+A|That's, that's really not what I meant.|sd|3291|0
+A|But, I mean we need control.|sv|3291|0
+A|We've got to be able to get a handle on what is happening|sv|3291|0
+A|and we've got to reduce the number of weapons that are out in the, in the in the public.|sv|3291|0
+B|Yes.|b|3291|1
+B|And the, the people should be, uh, selected so that we know that they are all right and that they're, they're not, uh, acquiring weapons for illicit use.|sv|3291|1
+B|Uh, that is not good.|sv|3291|1
+B|There's nothing wrong with a person that enjoys the mechanisms.|sv|3291|1
+B|As a matter of fact, uh, there's a fellow out there working on my house right now who, uh, brought to me a target from a rifle that he, uh, pretty well, halfway designed|sd|3291|1
+B|and he, he put together the, uh, the bullets in it|sd|3291|1
+A|Uh-huh.|b|3291|0
+B|and he was showing me that at a hundred yards, he kept five shots within a quarter of an inch of each other at one hundred yards.|sd|3291|1
+B|Now, see from a technical point of view, that is something that, that our military people need to know about.|sv|3291|1
+A|Um.|%|3291|0
+B|So there are other interesting, uh, facets in, in guns and weapons.|sv|3291|1
+B|This is a, uh, bolt action rifle, I think he has.|sd|3291|1
+B|And he has done other things to the way the, uh, barrel sits in the, uh, the wood part of it.|sd|3291|1
+B|And, uh, he designed the, the, the bullets themselves|sd|3291|1
+B|and he has fantastic accuracy.|sd|3291|1
+A|Uh-huh.|b|3291|0
+B|Just, just from a technical point of view, that interests me. Not to kill anybody with it or anything with it, but just the fact that a piece of mechanism like that could be made to be so accurate.|sd|3291|1
+A|Yes.|aa|3291|0
+A|All right,|aa|3291|0
+A|you, you sound like you're into the technology of it, which is,|sv|3291|0
+A|yeah, I agree.|aa|3291|0
+A|And, you know, and, again, I'm, my entire family are, they are all hunters|sd|3291|0
+B|Uh-huh.|b|3291|1
+A|and, you know, they, they don't appreciate my stand,|sd|3291|0
+A|and I I have no, I really have no problem with sports hunters.|sd|3291|0
+B|Yeah.|b|3291|1
+A|I really don't.|sd|3291|0
+A|It's just when they come out and they say they need an Uzi in order to do some accurate or decent deer hunting, I think I think that's totally outrageous.|sv|3291|0
+A|What's happening is people are losing,|sv|3291|0
+A|they seem to be losing their common sense over the issue.|sv|3291|0
+B|Yeah.|b|3291|1
+A|And the issue, is, the issue is becoming the focus and not what is actually happening with guns.|sv|3291|0
+A|Uh, I, I think something will happen.|sv|3291|0
+B|Uh-huh.|b|3291|1

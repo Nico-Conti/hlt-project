@@ -1,0 +1,124 @@
+A|Hi, Cynthia.|fc|2008|0
+A|What did you wear to work today?|qw|2008|0
+B|Um, let's see.|^h|2008|1
+B|What did I wear to work today?|t1|2008|1
+B|Um, actually I wore corduroy shorts with a white blouse, um, and flat shoes.|sd|2008|1
+A|So, can you dress pretty casually?|qy|2008|0
+B|Um, on occasion. On occasion.|na|2008|1
+A|Yeah.|b|2008|0
+B|Um, I do vary.|sd|2008|1
+B|Um, you know, I wear suits,|sd|2008|1
+B|I wear skirts and sweaters.|sd|2008|1
+B|On occasion I can wear jeans.|sd|2008|1
+B|Um, how about you?|qo|2008|1
+A|Well, I, um, run a business out of my home.|sd|2008|0
+B|Uh-huh.|b|2008|1
+A|So I tend to get up in the morning, put on, sweats, um, do whatever I want to do with the kids, then whenever I have a meeting with a client, I'll put a suit on. And then come home and get back into regular clothes again|sd|2008|0
+B|Yes.|b|2008|1
+B|Uh-huh.|b|2008|1
+B|Uh-huh.|b|2008|1
+B|Uh-huh.|b|2008|1
+B|Um, you know, there's real no, no real dress code where I work.|sd|2008|1
+B|Um, you see people wearing, you know, all different attire.|sd|2008|1
+B|I, um, don't like to wear heels, that really tires me out.|sd|2008|1
+B|I work in a big building.|sd|2008|1
+A|Yeah.|b|2008|0
+B|So, I predominantly wear flat shoes.|sd|2008|1
+B|Um, you know, in the winter I wear sweaters,|sd|2008|1
+B|in summer I, you know, I like one piece dresses, short sleeves, things like that.|sd|2008|1
+A|I've recently, um, tried to update my wardrobe, trying to put suits together that I can interchange, the, jackets and the blouses and all that a lot.|sd|2008|0
+B|Right.|b|2008|1
+B|Right.|b|2008|1
+A|That's helped me a lot with having,|sd|2008|0
+A|I can only have a, a limited wardrobe, since I'm only, working part-time right now.|sd|2008|0
+B|Uh-huh.|b|2008|1
+B|Uh-huh.|b|2008|1
+A|Um, but still, it gives it some variety. Add different blouses and scarves and belts and things like that.|sd|2008|0
+B|Uh-huh.|b|2008|1
+B|Right,|b|2008|1
+B|right,|b|2008|1
+B|accessories,|b|2008|1
+B|uh-huh.|b|2008|1
+A|What about your casual wear?|qo|2008|0
+A|Do you like to wear jeans most of the time?|qy|2008|0
+B|Um, yeah|ny|2008|1
+B|mostly.|na|2008|1
+B|I mean, at home I predominantly wear laughs while saying remainder of sweatpants and things like that, also.|sd|2008|1
+A|Yeah.|b|2008|0
+A|It's nice you can wear shorts, especially on a day like today when it's so hot.|sd|2008|0
+B|Yeah,|b|2008|1
+B|well, they're, um, you know, they're like|sd|2008|1
+A|Dress shorts.|^2|2008|0
+B|yeah,|aa|2008|1
+B|they're like black corduroy Bermuda shorts.|sd|2008|1
+A|Yeah.|b|2008|0
+B|And sometimes I wear a blazer with them,|sd|2008|1
+B|and I get really a lot of compliments on them.|sd|2008|1
+B|Um, where I work is predominantly male.|sd|2008|1
+A|Yeah.|b|2008|0
+B|So, you know, they,|%|2008|1
+B|their attire is always the same, you know. Suits or slacks, you know, jeans, whatever.|sd|2008|1
+A|Yeah,|b|2008|0
+A|but ,|%|2008|0
+B|And, um, but I'm really the only woman, I guess, at work that does that,|sd|2008|1
+B|but seems to work for me|sd|2008|1
+A|Yeah,|b|2008|0
+A|but .|%|2008|0
+B|In fact, I just bought, I, I just got a new outfit as a gift that, um,|sd|2008|1
+B|it's one of those skorts,|sd|2008|1
+B|you know,|%|2008|1
+B|it's shorts but it looks like a skirt.|sd|2008|1
+A|Uh-huh.|b|2008|0
+B|So, I think that'll be good for work, too.|sd|2008|1
+A|Oh, yeah.|b|2008|0
+A|It'll be comfortable.|sv|2008|0
+B|Yeah.|b|2008|1
+B|Yeah.|b|2008|1
+B|So,|%|2008|1
+A|I guess down here, uh,|%|2008|0
+A|we just recently moved to Texas,|sd|2008|0
+A|so my wardrobe has changed quite a bit.|sd|2008|0
+B|Uh-huh.|b|2008|1
+A|Um, we moved from Colorado where,|sd|2008|0
+A|and I have a closet full of sweaters.|sd|2008|0
+B|Uh-huh.|b|2008|1
+A|That,|%|2008|0
+B|Well, see, I live in Virginia.|sd|2008|1
+A|You live in Virginia, now?|qy^d|2008|0
+B|Uh-huh.|ny|2008|1
+A|Oh, that's interesting.|ba|2008|0
+B|Yeah.|b|2008|1
+B|Yeah.|b|2008|1
+B|So, I'm,|%|2008|1
+B|you know, like right now, today was in about, you know, the fifties.|sd|2008|1
+A|Uh-huh.|b|2008|0
+B|But, um, you know, I, I do wear a lot of sweaters and things like sweater dresses.|sd|2008|1
+A|Yeah.|b|2008|0
+A|I'd like to be able to wear those here.|sd|2008|0
+A|Today it's eighty-eight degrees.|sd|2008|0
+B|Oh, my|ba|2008|1
+A|So|%|2008|0
+B|Uh-huh.|b|2008|1
+A|Needless to say, my sweaters have been hung in the closet for quite a while now|sd|2008|0
+B|Uh-huh.|b|2008|1
+A|Today was, uh, definitely a shorts day around here.|sd|2008|0
+B|Uh-huh.|b|2008|1
+B|Yeah,|b|2008|1
+B|we're still pretty much, you know, in winter, as far as that goes here.|sd|2008|1
+A|This is pretty unseasonal,|sd|2008|0
+A|but, uh, at least, we,|%|2008|0
+A|you know, it, it, it feels good,|sd|2008|0
+A|it gets, uh,|%|2008|0
+A|everybody doesn't have cabin fever today.|sd|2008|0
+A|It's nice to get, out and about.|sd|2008|0
+B|Uh-huh.|b|2008|1
+B|Uh-huh.|b|2008|1
+B|I guess we've discussed everything there is about clothing|sv|2008|1
+A|Okay.|b|2008|0
+A|Sounds good.|sv|2008|0
+B|Okay?|bh|2008|1
+A|It was nice talking to you.|fc|2008|0
+B|Okay,|fc|2008|1
+B|it was nice talking to you, also.|fc|2008|1
+A|Bye-bye.|fc|2008|0
+B|Bye-bye.|fc|2008|1

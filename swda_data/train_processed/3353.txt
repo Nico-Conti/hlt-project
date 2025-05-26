@@ -1,0 +1,109 @@
+A|Um, tell me some about your camping experiences, Carolyn.|ad|3353
+B|Well, um, I have gone to girl's camp a few times, as a, you know, a chaperon or a leader, whatever|sd|3353
+A|Okay. where do you go camping at around here?|bk|3353
+B|and, uh, I enjoy camping.|sd|3353
+B|I,|%|3353
+B|we we have a tent,|sd|3353
+B|and we've gone, even with our family a few times out camping and have a camp stove, um,|sd|3353
+B|I guess our, our, my biggest memory is when we froze to death|sd|3353
+B|We just didn't take enough blankets and whatever.|sd|3353
+B|Uh, we went camping at, uh, Lake Bonham, which is, is pretty close here. Um,|sd|3353
+B|we went fairly early in the season for this area, which is probably April is when we went,|sd|3353
+A|Okay.|bk|3353
+B|and, and it got really cold at night,|sd|3353
+B|and of course we were close enough that we could go back and get some more blankets and things in the morning,|sd|3353
+A|Sure.|b|3353
+B|but,|%|3353
+A|Uh, what, uh, what activities do you do when you're camping?|qw|3353
+B|Oh, we take little nature hikes|sd|3353
+B|and, and, uh, we take along games that we can play with the, with the kids, and just that kind of stuff.|sd|3353
+B|Usually try to have a, uh, occasionally a camp fire at night, you know, and roast the marshmallows and what all.|sd|3353
+A|Uh-huh.|b|3353
+A|Well, that sounds like fun.|sv|3353
+A|I, uh, I grew up in South Dakota, up in the Black Hills|sd|3353
+B|Oh.|b|3353
+A|and so we used to go camping,|sd|3353
+A|my dad would take us,|sd|3353
+A|there was, there was four of us kids,|sd|3353
+A|we'd, he'd take us,|sd|3353
+A|and we'd all go camping, my dad and my mom and, and the kids,|sd|3353
+A|and it was always fun, uh,|sd|3353
+A|because what I always remember is, my dad would let us pick our camp spot|sd|3353
+A|and, uh, he'd always tell us, you know, okay, look for, you know, a nice flat little area where we can pitch our tents,|sd|3353
+A|and it always had to be somewhere near a, a river so we could go fishing,|sd|3353
+A|and hopefully we'd catch our supper,|sd|3353
+A|but we never did|sd|3353
+B|Um.|%|3353
+A|but it was, it was always fun.|sd|3353
+A|We'd always,|sd|3353
+A|Mom was always prepared|sd|3353
+A|and she'd bring along, you know, something, because tradition had it we would never catch anything,|sd|3353
+A|so we always had, something along to eat,|sd|3353
+A|but then we'd roast, roast marshmallows,|sd|3353
+A|and it, it was always an enjoyable experience.|sd|3353
+A|Uh, about nineteen eighty-two I moved from Rapid City in the Black Hills,|sd|3353
+A|I crossed the state to, to Aberdeen,|sd|3353
+A|and, uh, there's no hills,|sd|3353
+A|it's flat,|sd|3353
+A|and then I was in high school,|sd|3353
+A|and, uh, couple of friends, couple of my high school friends and I, we'd go camping out by a river, of course, and, and go fishing,|sd|3353
+A|but by then, of course, I was able to catch, uh, catch some things,|sd|3353
+A|but, it, it was always fun.|sd|3353
+A|It was a different experience camping in the hills versus camping just by a river|sd|3353
+B|Uh-huh.|b|3353
+A|you know, in the hills we, we would do like you you folks did, you folks did, would take the nature hikes and, you know, and look for animals,|sd|3353
+A|and we always, you know,|sd|3353
+A|in the hills, you can see quite a few different animals,|sd|3353
+A|but,|%|3353
+B|Uh,|%|3353
+A|Go ahead.|ad|3353
+B|We used to live in Utah|sd|3353
+A|Okay.|b|3353
+B|and, uh, of course, there's lots of mountains around there to camp in, and, and streams and stuff.|sd|3353
+B|That's, that's a great place to go camping,|sv|3353
+B|and the hiking is just really great.|sv|3353
+B|You know, hike up those mountains is just really fantastic. Um.|sv|3353
+A|Sure.|b|3353
+A|Now is there anything, uh, are there any mountains or big rocks a person could hike around this area.|qy|3353
+B|I'm not acquainted with any, you know,|ng|3353
+B|I,|%|3353
+B|there's woods and things out in East Texas Tyler area, you know,|sd|3353
+A|Okay.|bk|3353
+B|there's a Tyler State Park that's, uh, really a nice camping area,|sv|3353
+B|but it, it's just a lot of trees,|sd|3353
+B|it's not,|%|3353
+B|I don't know of any place in Texas that has, uh, really big, you know, what I call mountains|sd|3353
+A|Uh-huh.|b|3353
+A|I,|%|3353
+B|The Rocky Mountains are so much, uh, bigger than anything that they've they've got down here that,|sv|3353
+A|Right.|b|3353
+A|Is the one in Tyler, has it been pretty commercialized, I suppose?|qy|3353
+B|No,|nn|3353
+B|it's not, well, it's not too bad.|sd|3353
+B|They have, um, screened in areas, you know,|sd|3353
+B|they're not really cabins, I wouldn't say,|sd|3353
+B|I guess they could call them that, but they're, they're more just a screened in, uh, camping area whatever,|sd|3353
+A|Okay.|bk|3353
+B|they're, they're not bad.|sv|3353
+A|Helps, helps keep the, the pests out, I suppose.|qy^d|3353
+B|Yeah,|ny|3353
+B|yeah|ny|3353
+A|Well, that sounds,|%|3353
+A|I don't know if I can rate camping,|h|3353
+A|but, you know, it sure beats driving a thousand miles, to to find a mountain, I guess.|sv|3353
+B|Yeah,|aa|3353
+B|that's right.|sv|3353
+B|I, I take it you haven't done a whole lot of camping in this area.|qy^d|3353
+A|No,|nn|3353
+A|we just moved down in, in June.|sd|3353
+B|Oh, I see.|b|3353
+B|Well, you're still, uh, you're just trying to get over the culture shock still|qy^d|3353
+A|Yeah,|ny|3353
+A|I'm still trying to find my way around.|sd|3353
+A|I, if I can get on Central from anywhere, I'm happy.|sd|3353
+B|Yeah.|b|3353
+B|Yeah,|b|3353
+B|well, really the ideal times to camp in this area are early spring, and, in, in the fall.|sv|3353
+A|Okay.|b|3353
+B|It just gets so hot in the summer you can hardly,|sd|3353
+B|I mean, there's, there's a lot,|%|3353

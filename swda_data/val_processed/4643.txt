@@ -1,0 +1,164 @@
+A|You interested in woodworking?|qy|4643
+B|Yeah.|ny|4643
+B|Actually, I, uh, I guess I am|sd|4643
+B|Um, it just seems kind of funny that this is a topic of discussion.|sv|4643
+B|Uh, I do, uh, some, uh, woodworking myself|sd|4643
+B|Uh, in fact, I'm in the middle of a project right now making a bed for my son.|sd|4643
+A|Um. What kind of|qw|4643
+B|It's, uh,  It's, uh, it's, uh, plywood, uh, face, I guess.|sd|4643
+A|pine?|qy|4643
+B|But I cut it out in the shape of a crayon box|sd|4643
+B|and then I painted, uh, about eight different, uh, colors, uh, you know,|sd|4643
+B|the crayons that are sticking up, it will be the headboard|sd|4643
+A|Uh-huh.|b|4643
+A|I guess he's young.|qy^d|4643
+B|and then,|%|4643
+B|yes|ny|4643
+B|He's about five and a half years old.|sd|4643
+A|Oh, he'll be delighted.|sv|4643
+B|Oh, yeah.|aa|4643
+B|Uh-huh.|aa|4643
+B|Now I just have to finish it though.|sd|4643
+B|I got, uh, it got delayed for a little bit and, uh, because of work|sd|4643
+B|and now, uh, I've got to jump back in and finish the,|sd|4643
+B|because I've got it all cut out,|sd|4643
+B|it's all, uh,|%|4643
+B|I've done most of the coloring|sd|4643
+B|but I've got to go a second layer with the yellow.|sd|4643
+A|Did you do it with a jigsaw|qy|4643
+A|or do you have powered, you know, a,|qy|4643
+B|Uh, yeah.|ny|4643
+B|Uh, I did, uh, jigsaw, uh, and the, uh, regular straight saw for some of it.|sd|4643
+A|Um.|b|4643
+B|So yeah.|b|4643
+B|to do the, uh, the turn cut.|sd|4643
+B|Uh, how about yourself?|qo|4643
+A|Well I'm, I am interested in woodworking.|sd|4643
+A|I don't have lots of tools.|sd|4643
+A|Our local schools have adult education in the evening|sd|4643
+B|Oh.|b|4643
+A|uh, and I use their tools and, some of their guidance.|sd|4643
+A|I'm an artist.|sd|4643
+B|Oh, okay.|b|4643
+A|And I'm very handy|sd|4643
+A|and, you know, if I touch it, it turns into something <laughter> us-, usually.|sd|4643
+B|That's great.|ba|4643
+B|What, what type of art do you focus on?|qw|4643
+A|I have a Master's degree|sd|4643
+A|and, and my projects had to do with acrylic painting,|sd|4643
+A|but I'm really interested in the crafts.|sd|4643
+B|Huh.|b|4643
+A|I make stain glass.|sd|4643
+A|I've done some silver jewelry making|sd|4643
+A|and I kind of,|sd|4643
+A|once I get you know, really pretty good at something, I want to try something else|sd|4643
+B|Yeah.|b|4643
+B|Kind of jack of all trades, master of none.|bf|4643
+A|Yeah,|aa|4643
+A|well no,|ar|4643
+A|actually, I get good enough to sell it or have people say oh wow,|sd|4643
+A|you didn't buy it,|sd|4643
+A|you made it.|sd|4643
+B|That's great!|ba|4643
+A|And then I, it's like well the thrill is gone|%|4643
+A|so let's do something else.|sd|4643
+B|Right.|aa|4643
+B|You want to, uh, explore a new field|bf|4643
+B|or, or,|%|4643
+A|Well, yeah,|aa|4643
+A|I, I'm signed up for a class in pottery making because I've never tried that yet|sd|4643
+B|Huh. So you have a M F A in, in what division of art?|qw|4643
+A|but,|%|4643
+A|Well, I, I actually have a Masters of art|sd|4643
+A|and it's in art education.|sd|4643
+B|Oh, okay.|bk|4643
+A|So, I'm a licensed teacher|sd|4643
+A|but jobs being what they are, I substitute teach|sd|4643
+B|Yeah.|b|4643
+A|and that way I have time for my kids too.|sd|4643
+A|And I've been fortunate that I can afford to work part-time.|sv|4643
+A|I don't know how long that's going to last|sd|4643
+B|Oh, yeah.|b|4643
+A|And, uh, they're cutting back,|sd|4643
+A|so I don't go in all that often|sd|4643
+A|but I've been real interested in some of those cute country, country kind of things.|sd|4643
+A|Uh, I see stuff in craft galleries for five hundred dollars|sd|4643
+A|and I say, oh no|sd|4643
+A|and , and I go|sd|4643
+A|and I make it.|sd|4643
+B|Yeah.|b|4643
+A|That's how I started jewelry making.|sd|4643
+A|I, I love to cook.|sd|4643
+B|Oh, that's great.|ba|4643
+A|And I saw a silver necklace that had these little teeny weeny silver spatulas and, and, and knife and, and a fork and all kinds of stuff|sd|4643
+A|and I went|sd|4643
+A|and I signed up for class because then again, you get, you know, get someone to guide you|sd|4643
+A|and you get the tools you don't feel like buying.|sd|4643
+B|Exactly.|aa|4643
+A|And I made a necklace that I saw in a gallery for three hundred twenty dollars|sd|4643
+A|It took me a lot of time|sd|4643
+A|but  it didn't,|sd|4643
+B|Oh, yeah.|b|4643
+A|but if it cost me twenty dollars, you know,|sd|4643
+A|and then I,|%|4643
+B|And your time,|^2|4643
+B|then you're that much farther ahead|sv|4643
+A|Yeah.|b|4643
+A|Then I saw a, one of these country looking wood watermelons.|sd|4643
+A|It was a solid watermelon with a wedge cut out of it.|sd|4643
+B|Right.|b|4643
+B|I've seen them|sd|4643
+B|and then the watermelon, the red with the, with the seeds painted in|sd|4643
+B|and,|sd|4643
+A|Oh, yeah.|b|4643
+A|Uh-huh.|b|4643
+B|That's neat.|sv|4643
+A|I went there,|sd|4643
+A|we have Home Depot out here.|sd|4643
+A|I don't know if you've heard of it.|qy^d|4643
+A|I went|sd|4643
+A|and I got two six foot inch thick boards turned into a watermelon.|sd|4643
+B|Yes.|ny|4643
+B|We have one.|sd|4643
+A|I had to cut into slabs and build up this big square and turn it on the lath|sd|4643
+A|and cutting that wedge out was no joke|sd|4643
+B|Huh.|b|4643
+B|Oh, I'm, I'm sure.|ba|4643
+A|We did it on a, I had a, uh, I did it through Adult Ed again.|sd|4643
+B|A band saw?|qy^d|4643
+B|What?|br|4643
+A|I did it through Adult Ed again.|sd|4643
+B|Uh-huh.|b|4643
+A|And the teacher was one of these negative people,|sd|4643
+A|oh that's dangerous,|^q|4643
+A|we can't do that,|^q|4643
+A|we just can't do that.|^q|4643
+A|And I'm going well how about this way?|sd|4643
+A|I, I want to do that,|^q|4643
+A|that was the plan here|^q|4643
+B|Right.|b|4643
+A|So we did get the wedge cut out by building some kind of a cradle for it.|sd|4643
+B|A cradle for it.|^2|4643
+B|Yeah,|b|4643
+B|so you can steady it|bf|4643
+B|and then, you used a handsaw or a backsaw?|qy|4643
+A|Well, it, the instructions in the book I had said use a coping saw|sd|4643
+A|but there's no coping saw big enough to, for a fourteen inch wide watermelon <laughter> that|sd|4643
+B|Right,|b|4643
+B|right.|b|4643
+A|and he wanted me to do it by hand with a regular saw.|sd|4643
+A|I said I'm not that steady,|sd|4643
+A|it's not going to happen.|^q|4643
+B|Yeah.|b|4643
+A|So we built a cradle for it|sd|4643
+A|and we got once it was turned, we got one one cut out on the table saw, on the radial saw,|sd|4643
+A|by getting the other one out without the slice now flying in your face was something you had to think about|sd|4643
+B|Right.|b|4643
+A|So,|%|4643
+B|Now did you cut a quarter wedge in this?|qy|4643
+A|Uh, I'd say it's about an eighth.|ng|4643
+A|You know|%|4643
+B|Well, I, I'm envisioning, uh, uh, a a watermelon like a log|sd|4643
+B|and then, uh, what I've seen of this kind before is you have the, uh, the, uh,|%|4643
+B|it's, uh,|sd|4643
+B|if you're looking at adding on you have,|sd|4643

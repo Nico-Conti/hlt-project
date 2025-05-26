@@ -1,0 +1,117 @@
+A|Well, uh, what is your favorite kind of music?|qw|3962|0
+B|Well, I have to say my favorite type of music would probably be, uh, classical music.|sd|3962|1
+A|Oh, same here.|aa|3962|0
+B|Oh, really.|bh|3962|1
+A|Yeah.|ny|3962|0
+B|What type of music do you like in the classical area,|qw|3962|1
+B|or what era do you, era do you like the most?|qw|3962|1
+A|Oh, well, I guess I like a wide range. Uh, everything from, uh, from Baroque through at least some modern music.|sd|3962|0
+B|Uh-huh.|b|3962|1
+A|And my wife and I these days are especially into opera.|sd|3962|0
+A|We've been sort of opera fans for a few years now.|sd|3962|0
+B|Um, do you go to the operas that they sing English or go to the ones that they sing other languages?|qy|3962|1
+A|Well, we, uh, generally,|%|3962|0
+A|the places we've gone they sing in the original languages.|sd|3962|0
+B|Uh-huh.|b|3962|1
+A|Like the Dallas opera here normally does, I guess.|sd|3962|0
+B|Uh-huh.|b|3962|1
+B|I, I haven't gotten into that too much because, I, uh, if I don't know the story line and, um, I don't speak the language, then I have difficult time, comprehending what's going on.|sd|3962|1
+A|Well, one thing that's helped us a lot is that, uh, you, you know, you can buy a lot of these operas now on video uh, video tape|sd|3962|0
+B|Uh-huh.|b|3962|1
+A|and so we have quite a collection of those,|sd|3962|0
+A|and you watch them at home,|sd|3962|0
+A|and they have subtitles,|sd|3962|0
+A|so you, you figure out what's going on after a while,|sd|3962|0
+A|and then you can enjoy it in the, uh, theater.|sd|3962|0
+B|Oh.|b|3962|1
+A|But, you know, the, uh, Dallas opera now has, uh, super titles on, on all their performances I think.|sd|3962|0
+B|What is that?|qw|3962|1
+A|Well, they, they give an, uh, an English translation on a, on a screen up above the stage.|sd|3962|0
+B|Oh, I didn't know that.|sd|3962|1
+A|Yeah.|b|3962|0
+B|That can help people like me.|sd|3962|1
+A|In fact, they even do that for operas sung, sung in English, because it is hard to understand the words sometimes.|sd|3962|0
+B|Well, I can understand that.|ba|3962|1
+B|So, I'd say, Vivaldi is probably my favorite, uh, composer.|sd|3962|1
+A|Yeah,|b|3962|0
+A|well, I really like Vivaldi.|sd|3962|0
+A|Uh, he's, uh, definitely one of the, one of the top of that era.|sv|3962|0
+B|Yeah.|aa|3962|1
+B|I like Baroque music,|sd|3962|1
+B|I like full body music, uh, with the, um, um, with brass and winds, woodwinds, instruments, you know.|sd|3962|1
+A|Uh-huh.|b|3962|0
+B|Course I like, uh, also string instruments,|sd|3962|1
+B|and I have two string instruments in my house. Uh, instrument players,|sd|3962|1
+B|both my sons play string instruments.|sd|3962|1
+B|One plays the cello|sd|3962|1
+B|and the other one plays the viola.|sd|3962|1
+A|Oh|b|3962|0
+B|So, I get to go to at least four or five concerts a year|sd|3962|1
+A|Uh-huh.|b|3962|0
+A|How, how old are they?|qw|3962|0
+B|One is thirteen and one is eleven.|sd|3962|1
+A|So they're doing this in school, or what?|qy|3962|0
+B|Yes.|ny|3962|1
+A|Uh-huh.|b|3962|0
+B|Yes .|b|3962|1
+A|Well, you've got half a string quartet there.|sv|3962|0
+B|Yeah.|aa|3962|1
+B|We're on our way.|sd|3962|1
+A|Yeah.|b|3962|0
+B|So, uh, um, I try to enjoy all of it.|sd|3962|1
+A|Well, since you seem to like, uh, Italian music, have you ever, uh, gotten into Gabrielli or anybody there in that era, the, uh, period right before, actually before Vivaldi, I guess?|qy|3962|0
+B|Um, a little bit,|na|3962|1
+B|but, um, a lot of the, um, music I don't know about, uh, as far as the titles,|sd|3962|1
+B|and I have to listen to it, and and figure out, what I'm listening to.|sd|3962|1
+A|Uh-huh.|b|3962|0
+B|Um, I do belong to a Musical Heritage Society.|sd|3962|1
+A|Oh, yes,|ba|3962|0
+A|uh-huh.|b|3962|0
+B|Do you belong to that?|qy|3962|1
+A|No,|nn|3962|0
+A|I don't,|sd|3962|0
+A|but I think I know what it is.|sd|3962|0
+A|Isn't that a, uh, uh, see,|qy|3962|0
+A|can't you get records through that or something, recordings?|qy|3962|0
+B|You can get recordings.|na|3962|1
+B|Uh, they know have them on compact disc or or, uh, or cassettes or L P|sd|3962|1
+A|Uh-huh.|b|3962|0
+B|and, uh, they do their, they do a lot of original recordings themselves.|sd|3962|1
+A|Yes,|b|3962|0
+A|yeah,|b|3962|0
+A|I think, uh.|%|3962|0
+B|But they also, uh, they also, uh, go to the different composers, or the different, I guess,|sd|3962|1
+B|what do you call them the guys that orchestrate the the conductors.|t1|3962|1
+A|Uh.|%|3962|0
+A|Uh, yes,|aa|3962|0
+A|right|aa|3962|0
+B|Yeah.|b|3962|1
+B|They go to conductors, uh,|sd|3962|1
+B|and, and they actually have them perform the music,|sd|3962|1
+B|and they record it.|sd|3962|1
+A|So, they're actually commissioned performances.|bf|3962|0
+B|Sure.|aa|3962|1
+B|A lot of them are.|sd|3962|1
+A|Uh-huh.|b|3962|0
+B|Or they will find out when they're performing,|sd|3962|1
+B|and they will, uh, record the music at that time.|sd|3962|1
+B|And so, uh, it is, uh, uh, high quality grade music,|sd|3962|1
+B|and, of course, now they're getting, they also have a jazz section,|sd|3962|1
+B|and they also have a, uh, more contemporary and American uh, composer section.|sd|3962|1
+A|Uh-huh.|b|3962|0
+A|Well, I had heard good things about the, uh, Music Heritage Society,|sd|3962|0
+A|but if I get involved in one of those things, I end up spending all my money on on music.|sd|3962|0
+B|Yeah.|b|3962|1
+B|Well, you can control it.|sv|3962|1
+A|I almost, uh, almost, uh, bankrupted myself out of college as a freshman when I got into the Columbia Record Club many years ago.|sd|3962|0
+B|Oh, really.|bh|3962|1
+A|Yeah,|ny|3962|0
+A|my roommate signed me up.|sd|3962|0
+A|He got a bonus record,|sd|3962|0
+A|and I got a lot of bills|sd|3962|0
+B|I see.|bk|3962|1
+A|So we have to watch that.|sd|3962|0
+B|Well, that's good.|ba|3962|1
+A|Uh, do you play any instrument yourself?|qy|3962|0
+B|Yes,|ny|3962|1
+B|I, I play guitar and, and early years played saxophone.|sd|3962|1

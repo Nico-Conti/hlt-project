@@ -1,0 +1,143 @@
+A|Okay.|fo_o_fw_"_by_bc|3902
+A|Well why don't you start cause it said I was suppose to ask you what do you,|ad|3902
+B|Do you have any elderly relatives currently in an, uh, nursing home now?|qy|3902
+A|Yes,|ny|3902
+A|I do.|sd|3902
+B|Do you?|bh|3902
+B|I have a grandmother.|sd|3902
+B|She's a hundred and two.|sd|3902
+A|Oh my gosh.|ba|3902
+B|She'll be a hundred and three in August.|sd|3902
+A|Uh-huh.|b|3902
+B|And we decide not to put her in a nursing home.|sd|3902
+B|She lives with my mother and my father who also live here in town|sd|3902
+B|and then my sister takes care of her.|sd|3902
+A|Uh-huh.|b|3902
+B|She, even though she is a hundred and two, she still has all of her faculties.|sd|3902
+A|Right.|b|3902
+B|She still has her snap.|sd|3902
+B|She takes care of her own business.|sd|3902
+B|This is the first year that she has gotten weak and actually has to have a little walker,|sd|3902
+B|but with somebody that needs around the clock care,|sd|3902
+B|I have seen my family age.|sd|3902
+A|Right.|b|3902
+B|I have seen them in the,|sd|3902
+B|she's been there ten years now.|sd|3902
+B|And I have seen them age twenty in the time and, and with the expense and everything,|sd|3902
+A|Yeah.|b|3902
+B|I I still think it is worth it if you, if you had a good nursing home|sv|3902
+B|and they needed some quality care,|sd|3902
+B|I would put someone in a nursing home.|sd|3902
+A|Right.|b|3902
+A|My mother-in-law finally.|sd|3902
+A|They had to make a family decision.|sd|3902
+A|There's seven children in my husband's family|sd|3902
+A|and fortunately four of them live in the same home town|sd|3902
+A|and she has Alzheimer's.|sd|3902
+A|It was getting where she was getting dangerous. I mean letting strangers in and things like this,|sd|3902
+B|Uh-huh.|b|3902
+A|but they were very fortunate.|sv|3902
+A|It's a small town|sd|3902
+A|and she happens to room with one of the doctor's mothers|sd|3902
+A|and then she's got a lot of family there and that go and see her all of the time|sd|3902
+B|Oh, well that's good.|ba|3902
+A|but she really doesn't.|sd|3902
+A|Nobody thought she would adjust,|sd|3902
+A|but she has adjusted beautifully.|sd|3902
+B|Oh, that is great.|ba|3902
+A|But then I am also facing my father who is very sick|sd|3902
+A|and my mother and father reside in Colorado.|sd|3902
+A|She's been taking care of him.|sd|3902
+A|I don't know how much longer this can last|sd|3902
+A|and at that point because he requires round the clock.|sd|3902
+A|He can't do anything without her.|sd|3902
+A|He doesn't know when to take his medicine|sd|3902
+A|and it's really sad|sv|3902
+A|and I have thought if something would happen to my mother for, uh,|sd|3902
+A|my brothers are not interested in helping me|sd|3902
+A|so I would have to move him down here.|sd|3902
+A|That way,|%|3902
+A|I want to see the nursing home. If I have to put him into one.|sd|3902
+A|You know, where I can go see it.|sd|3902
+A|I, I'd be very uncomfortable with him being in Colorado.|sd|3902
+A|And,|%|3902
+B|Oh, why yeah.|b|3902
+B|I am sure you have got some really good nursing homes around Dallas.|sv|3902
+A|Yes.|aa|3902
+A|And some of them are limited care too where people can do, uh,|sd|3902
+A|like they have apartment styles,|sd|3902
+A|but that wouldn't work for him.|sd|3902
+A|I think he is beyond that.|sv|3902
+A|Where if you need help you can get it,|sd|3902
+A|but basically people kind of have a small apartment|sd|3902
+A|and doctors are available if they need them.|sd|3902
+B|Uh-huh.|b|3902
+B|I, I  know a lady that lives in a place similar to that in Austin.|sd|3902
+A|And allows,|%|3902
+A|Yeah.|b|3902
+A|Yeah.|b|3902
+A|Well, the only problem with these are that they are very expensive.|sv|3902
+A|Of course, I guess all nursing homes there is|sv|3902
+A|but,|%|3902
+B|And the bad thing about it, before you can get any kind of government help, you just practically have, well you have to be a pauper.|sv|3902
+A|Right.|b|3902
+B|It, it takes every penny.|sv|3902
+B|They want you to spend every dime you have before the government will pay for your your care.|sv|3902
+A|Yeah.|b|3902
+A|Right.|b|3902
+B|And that's the sad part about it.|sv|3902
+A|Yeah.|b|3902
+A|I, uh,|%|3902
+A|yeah,|%|3902
+A|and I think a lot of people who do it now.|sv|3902
+A|In Colorado it's interesting.|sv|3902
+A|I talked to my mother.|sd|3902
+A|They allow you sixty five thousand dollars and your car and your home.|sd|3902
+A|And my mother could make it on that.|sd|3902
+A|What she probably would do is disburse the money to me|sd|3902
+A|and then I would send it back to her|sd|3902
+A|so that's what would happen.|sd|3902
+B|Uh-huh.|b|3902
+B|I think that's what most people do.|sv|3902
+B|You just have to give it, everything away.|sv|3902
+A|Yeah.|aa|3902
+A|It's unfortunate.|sv|3902
+B|I, I work at a brokerage firm|sd|3902
+B|and I have seen so many people that just have to gift, you know, their belongings as much as they can each year in anticipation of having to move to a nursing home.|sd|3902
+A|Right.|b|3902
+A|Yeah.|b|3902
+A|It's frightening.|sv|3902
+A|And I guess, uh, I don't know how old you are.|sd|3902
+A|I'm forty-six.|sd|3902
+A|You know, we're the generation moving into this|sd|3902
+A|and I don't know how our kids are going to take care of us. You know.|sd|3902
+B|I can't imagine.|ba|3902
+B|I'm twenty-nine.|sd|3902
+A|Yeah.|b|3902
+B|And everybody in my family has always had,|sd|3902
+B|we don't have any children.|sd|3902
+B|Everybody that has, has them later in life.|sd|3902
+A|Yeah.|b|3902
+B|So, my, my mother and my father are in their late sixties.|sd|3902
+B|So, I mean, they're not that far away.|sv|3902
+A|Right.|b|3902
+A|I also see on my generation a squeeze between looking to having to help my parents and still having to help my son because things are so rough out there job wise|sv|3902
+A|and he's still living at home|sd|3902
+A|and I don't know how he is ever going to get on his own the way things are.|sd|3902
+B|Oh, I know.|b|3902
+A|And so, it's kind of,|%|3902
+A|you feel squeezed in the middle of having both generations,|sv|3902
+A|but it, something will have to change as more and more of us get older.|sv|3902
+A|Uh, luckily, if we could be like your grandmother, I, uh you know, I would love to live to a hundred and two if I were okay.|sd|3902
+A|But  you see these people in their seventies|sd|3902
+B|It,|%|3902
+B|but yeah.|b|3902
+B|Most people aren't.|sv|3902
+A|yeah,|aa|3902
+A|most aren't.|sv|3902
+A|That's the problem.|sv|3902
+B|And that's the bad thing.|sv|3902
+B|I would hate to have lived so long.|sd|3902
+B|She lived by herself.|sd|3902
+B|My grandfather passed away before I was born so she lived by herself up until she was ninety, ninety-one. And just did everything,|sd|3902
+A|That's incredible.|ba|3902

@@ -1,0 +1,119 @@
+A|You want to go first?|qy|4830|0
+B|No,|nn|4830|1
+B|you can start|sd|4830|1
+A|Okay.|b|4830|0
+A|Uh, one of the things they talked about was, uh, did we, what do we think about a judge making the decision?|sd|4830|0
+B|Uh-huh.|b|4830|1
+A|And I really don't agree with that|sv|4830|0
+A|I think that the trial by jury is better, uh, you know, than having a unanimous decision rather than to have one person be responsible.|sv|4830|0
+A|I don't think that they could be objective in every case, every time.|sv|4830|0
+B|Right.|b|4830|1
+A|you know what I mean?|qy|4830|0
+B|Right.|na|4830|1
+B|There's, there, this topic is kind of mute. Uh|sv|4830|1
+A|Yeah.|b|4830|0
+B|there, there's no way.|sv|4830|1
+B|We, we couldn't survive in a in a juror in a trial system without a jury.|sv|4830|1
+A|Right.|b|4830|0
+B|Uh, one man can never be, one man, one woman can never be objectionable in every case.|sv|4830|1
+A|That's it.|aa|4830|0
+B|Uh, every person has their opinions|sd|4830|1
+B|and that's why jury selection is often very difficult. Uh.|sv|4830|1
+A|Well, I, I feel the other thing too, uh,|sd|4830|0
+A|they were saying, uh, you know, what new ways could could it, you, you know, change the system.|sd|4830|0
+A|I, I really think that, uh, we spend a lot of time, uh, going through appeal after appeal after appeal after appeal,|sv|4830|0
+A|I mean, if you go to a trial by jury and especially if a person has confessed. If they have been caught, you know, point blank in the crime. There's, uh, no question|sd|4830|0
+B|Right.|b|4830|1
+A|it's beyond a reasonable doubt.|sd|4830|0
+A|You know, all these things.|sd|4830|0
+A|I mean, you know, we've gone through this over and over again.|sv|4830|0
+B|Right.|aa|4830|1
+B|They shouldn't allow an appeal.|bf|4830|1
+A|And it can go on for ten, twenty, years.|sd|4830|0
+B|Yep.|b|4830|1
+A|I, I think this is a little ridiculous.|sv|4830|0
+B|Uh-huh|b|4830|1
+A|I think the only people who benefit from that are the lawyers.|sv|4830|0
+B|Oh, that's right.|aa|4830|1
+B|I work for a law firm|sd|4830|1
+A|I, I'm serious.|sd|4830|0
+A|And I think that the lawyers have caused a lot of the problems that exist in the in the criminal system today. With plea bargaining.|sv|4830|0
+B|Right.|b|4830|1
+A|You know, if someone is|%|4830|0
+B|Well plea plea bargaining is a different story.|sd|4830|1
+A|Well.|b|4830|0
+B|Plea bargaining is something completely different.|sv|4830|1
+B|That, that actually prevents trials. Or at least speeds them up.|sv|4830|1
+A|Well, I know.|aa|4830|0
+A|That's what I'm saying.|sd|4830|0
+A|But I think a lot of, all of the whole criminal system is messed up in, in that regard.|sv|4830|0
+A|I mean, you know, people who commit, uh, crimes that they,|sd|4830|0
+A|I don't know how it works exactly|h|4830|0
+A|but  you know, they get lesser sentences|sv|4830|0
+B|Right.|b|4830|1
+A|and I understand that the jails are full of people, you know, uh  and that they have to do something.|sd|4830|0
+B|Right.|b|4830|1
+A|But, I think that the reason they are full is because they know that they can get away with it.|sv|4830|0
+B|Huh.|%|4830|1
+A|you know what I'm saying?|qy|4830|0
+A|That we don't have, uh, well a lot of states don't have capital punishment.|sd|4830|0
+B|Right.|b|4830|1
+A|And, uh I, I think they should.|sv|4830|0
+B|We do|sd|4830|1
+A|I, and I think if a person is guilty of taking someone's life and like you say, it's, it's, there's no doubt whatsoever. Like drunk drivers that kill people|sv|4830|0
+A|and, uh, you know, all|%|4830|0
+B|Right.|b|4830|1
+A|they, they're caught dead to rights.|sd|4830|0
+A|I, I just think that that's, they've, they've taken a life|sv|4830|0
+A|and if, they should pay for it with their life.|sv|4830|0
+B|Right.|b|4830|1
+B|When you're saying as far as the appeal, uh, procedure was concerned.|sd|4830|1
+A|Yeah.|b|4830|0
+B|We just have the case,|sd|4830|1
+B|I'm, I'm sure you've probably heard of Marion Berry.|qy^d|4830|1
+A|Uh-huh.|ny|4830|0
+B|Uh, his last appeal was, was denied two days before his sentence was up|sd|4830|1
+A|Oh, really.|b|4830|0
+B|So, I mean, his appeal was denied|sd|4830|1
+B|and two days later he got out of jail For cocaine possession.|sd|4830|1
+A|It, uh,|%|4830|0
+A|Yeah.|b|4830|0
+B|But, uh, that was absurd|sv|4830|1
+B|There is never, there was no reason  the appeal process should have dragged on that long for a six month sentence.|sv|4830|1
+A|I know that, that|%|4830|0
+A|Uh-huh.|b|4830|0
+A|And, I don't know.|h|4830|0
+A|Uh, what would you do to change it? To make it better?|qw|4830|0
+B|Well, uh, the, the only I can, I you know,|%|4830|1
+B|the, appeal procedure is the only thing I can possibly think of.|sd|4830|1
+B|Uh, like I said, as far as removing of the jury and having the judge sentence, that's absurd.|sv|4830|1
+B|There's no way that could work.|sv|4830|1
+A|Oh, yeah.|aa|4830|0
+A|I, I, I don't agree with that at all.|sd|4830|0
+B|Uh, but,|%|4830|1
+A|Imagine the guilt that person would have.|ad|4830|0
+A|I mean  burned out.|sv|4830|0
+B|Oh, exactly.|aa|4830|1
+A|There's  there's no possible way that you could, uh, you know, feel good about yourself.|sv|4830|0
+B|Exactly.|aa|4830|1
+B|Right.|aa|4830|1
+A|If you had to do something like that, day after day.|sv|4830|0
+B|No one would want the job|sv|4830|1
+A|No.|aa|4830|0
+A|Not really.|aa|4830|0
+B|Uh, and, you know, like I said, the, you know, everyone has their opinions about every case.|sd|4830|1
+A|Well, do you think people should have a trial is they're caught dead to rights like,|qy|4830|0
+B|Oh yeah.|ny|4830|1
+B|I, I feel that everyone is, everyone is, uh, entitled to a trial by jury.|sv|4830|1
+B|That, that, that right|%|4830|1
+A|I mean, supposing I come up to you and I just point blank kill you.|sd|4830|0
+B|Well, I mean, were there witnesses?|qy|4830|1
+A|In other words you're saying that, you have to find out whether it's premeditated or what the circumstances were.|bf|4830|0
+B|Right.|aa|4830|1
+B|Right.|aa|4830|1
+B|That you can't, you can't remove the jury regardless of the case.|bf|4830|1
+A|Yeah.|aa|4830|0
+B|I mean you could have fifty people in audience watching a murder take place|sd|4830|1
+A|Yeah.|b|4830|0
+B|and you, you'd still, there's still mitigating circumstances|sv|4830|1
+A|Well, I, I,|%|4830|0

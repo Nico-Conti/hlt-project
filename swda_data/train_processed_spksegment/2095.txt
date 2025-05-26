@@ -1,0 +1,126 @@
+A|All right, have you lived in this area long?|qy|2095|0
+B|No,|nn|2095|1
+B|I've only been here a couple of years.|sd|2095|1
+A|Okay.|bk|2095|0
+B|Uh, but, uh, I've, I've noticed that, uh, this year it seems to have been a lot warmer than it has in the past.|sv|2095|1
+A|Yeah,|aa|2095|0
+A|it, it, it's, it's a lot warmer, a lot drier too, because usually about this time of year, this, you know, you see a little bit more rain.|sv|2095|0
+A|I mean by, by mid February, I mean, we start getting a lot of rain.|sv|2095|0
+B|Yeah,|aa|2095|1
+B|yeah,|aa|2095|1
+B|well I remember last year, or the year before, uh, we had ice and snow, uh, uh,|sd|2095|1
+A|But it,|%|2095|0
+B|terrible ice storm, uh, around this time of the year.|sd|2095|1
+A|Uh-huh.|b|2095|0
+B|And, uh, this year it's been so hot and, uh, sunny|sd|2095|1
+B|it, it's really quite, uh, quite amazing.|sv|2095|1
+A|Yeah,|b|2095|0
+A|unseasonable.|sv|2095|0
+A|I used to, my wife and I we used to live in San Antonio, couple years ago,|sd|2095|0
+B|Uh-huh.|b|2095|1
+A|and it was, it was I remember the first day of Spring,|sd|2095|0
+A|it was so much ice that came down, later on that that afternoon and evening,|sd|2095|0
+B|Um. Yes,|b|2095|1
+A|it was just, it was horrible.|sv|2095|0
+B|I was just talking to my son today,|sd|2095|1
+B|he's up in Boston,|sd|2095|1
+B|and it was twenty-nine there|sd|2095|1
+B|and it was, you know, in the seventies out here|sd|2095|1
+B|and, it was really, uh,|%|2095|1
+A|Yeah.|b|2095|0
+B|he really wished he could be here, rather than there.|sd|2095|1
+A|Yeah,|b|2095|0
+A|well, um, I don't know|h|2095|0
+A|I, I guess I'm just sort of acclimated to colder weather.|sd|2095|0
+B|Oh really.|bh|2095|1
+A|Um, I, I like it warmer,|sd|2095|0
+A|I mean I like it, you know, I like it warm|sd|2095|0
+A|but it doesn't really matter.|sd|2095|0
+A|I mean, I'd, I would much rather see it cool at this time of year anyway because it would mean a little bit more rain possibly|sd|2095|0
+A|but, uh,|%|2095|0
+B|Uh-huh,|b|2095|1
+B|uh-huh.|b|2095|1
+B|I have, you know,|%|2095|1
+B|I, I,|%|2095|1
+B|I think it's really been delightful.|sv|2095|1
+B|I come, uh, I've spent most of my time in, in warm weather areas|sd|2095|1
+B|and, uh, uh, the ice and snow just doesn't, uh, hold any allure for me at all.|sd|2095|1
+A|Well I spent three years in Germany,|sd|2095|0
+A|so I'm not too thrilled with the whole thing anyway|sd|2095|0
+A|But I got used to it,|sd|2095|0
+A|it was really strange,|sv|2095|0
+A|I mean, when I, when, when, when we came to San Antonio it was just like, uh, you know, it just, just swelter|sd|2095|0
+A|and then we got used to it|sd|2095|0
+A|and then we went up to Dallas|sd|2095|0
+A|and it was just,|%|2095|0
+A|it's, it's not, not that it's just hot or dry,|sv|2095|0
+A|it's just not very comfortable,|sv|2095|0
+A|it just,|%|2095|0
+B|do you, you think San Antonio is more comfortable than Dallas.|qy|2095|1
+A|Yeah,|ny|2095|0
+A|a little bit.|sd|2095|0
+B|Uh-huh.|b|2095|1
+A|Yeah.|b|2095|0
+B|You must, well, uh,|%|2095|1
+B|it must be quite a bit hotter down there, isn't it?|qy|2095|1
+A|Yeah,|ny|2095|0
+A|my wife and I, the last day we were in Florida, we, my visiting my, uh, my parents, and my brother and sister,|sd|2095|0
+A|we were, we were down there|sd|2095|0
+A|and, the last day, right before we left, we had to, I had to ride with my sister|sd|2095|0
+A|and the air conditioning went out on the car|sd|2095|0
+B|Oh, wow.|ba|2095|1
+A|and, we, you, you just get used to air conditioning all the time,|sv|2095|0
+B|Oh yes.|aa|2095|1
+A|and this,|%|2095|0
+A|it was just,|%|2095|0
+A|the humidity was like eighty plus, eighty percent plus|sd|2095|0
+A|and it was just killing us.|sd|2095|0
+B|Oh yeah,|b|2095|1
+B|it's terrible.|sv|2095|1
+B|Orlando is the only place I've ever been where I've seen the car sweat.|sd|2095|1
+A|Yeah.|b|2095|0
+B|I mean, that's really bad.|sv|2095|1
+A|Yeah,|b|2095|0
+A|well, I mean, I, I, I guess I've been in some places, you know, where the weather was just so mild, you know, places like Monterey, California or, you know,|sd|2095|0
+B|Uh-huh,|b|2095|1
+B|uh-huh.|b|2095|1
+A|just, you know, so mild,|sv|2095|0
+A|and then you've been to such extremes like San Angelo, Texas where you just, where you walk outside and you sweat,|sd|2095|0
+A|you know you're sweating,|sv|2095|0
+B|Yeah.|b|2095|1
+A|you look down at your arm,|sd|2095|0
+A|but you see the water leaving your arm,|sd|2095|0
+A|it's so hot, you just feel it pulling away, bizarre.|sd|2095|0
+B|Oh wow, uh.|ba|2095|1
+B|I know I, I tend to, I tend to be able to get along with monotony in the weather when it's very temperate.|sd|2095|1
+A|Yeah.|b|2095|0
+B|Uh it doesn't,|%|2095|1
+B|some people say, uh, they, they like to watch the changing of the seasons|sd|2095|1
+B|but, uh, I'd rather, you know, like southern California, you know, have it kind of sunny and temperate all the time.|sd|2095|1
+A|Yeah.|b|2095|0
+B|So, it's kind of a luxury.|sv|2095|1
+A|I tend to agree|aa|2095|0
+A|but, I don't know,|h|2095|0
+A|I, I think, in, in some, in some respects it probably more tolerable.|sv|2095|0
+B|Yeah,|b|2095|1
+B|well I guess this, the weather isn't as lively a topic as, uh, as some of the others we might have gotten.|sv|2095|1
+A|No,|aa|2095|0
+A|the other topics.|sd|2095|0
+A|I got one topic,|sd|2095|0
+A|they said talk about the Middle East well,|sd|2095|0
+B|I guess we're supposed to say good-bye or something, and think about what|sv|2095|1
+B|my daughter is here prodding me to say good-bye.|sd|2095|1
+B|We messed up the conversation, anyway.|sd|2095|1
+A|Well I mean I've had some pretty bad, I guess some pretty controversial topics|sv|2095|0
+A|so it's just like well that was my fault.|sd|2095|0
+A|But then the weather's like,|sd|2095|0
+A|man, I mean, it gets pretty mundane,|sv|2095|0
+A|I mean you can only talk about, about the situation just so long.|sv|2095|0
+B|Yeah,|aa|2095|1
+B|I know,|aa|2095|1
+B|weather's just not all that inspiring.|sv|2095|1
+B|Okay,|%|2095|1
+B|well it's nice talking to you.|fc|2095|1
+A|Okay.|fc|2095|0
+B|Bye-bye.|fc|2095|1
+A|Bye.|fc|2095|0

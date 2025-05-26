@@ -1,0 +1,265 @@
+B|So, tell me about your home.|ad|2506
+A|My home.|b^m|2506
+A|All right,|aa|2506
+A|my home is about fifteen years old.|sd|2506
+B|All right.|b|2506
+A|It's a two story house,|sd|2506
+A|it, it's our first home,|sd|2506
+A|and it looks like it's going to be the last,|sd|2506
+A|I think we're going to demolish it|sd|2506
+A|We've got two children|sd|2506
+A|and it's,|%|2506
+A|they have scraped the, uh, plaster off the walls, you know, with riding their little toys through it and stuff. You know,|sd|2506
+B|Yes.|b|2506
+A|put dents in the tiles, just multitude of them,|sd|2506
+A|I mean even places,|%|2506
+A|it's, it's past the dent stage,|sd|2506
+A|we're talking some of it's been peeled away, you know,|sd|2506
+A|I don't know what they,|sd|2506
+B|We talking from, from dents in the holes.|bf|2506
+A|Yeah,|b|2506
+A|dents in the hole ,|sd|2506
+A|right.|b|2506
+B|I understand,|ba|2506
+B|we've got, I've got a daughter.|sd|2506
+A|We've got two,|sd|2506
+A|one of them's eleven|sd|2506
+A|and one of them's seven|sd|2506
+A|and then the carpet, you know,|sd|2506
+A|we need to replace the carpet.|sd|2506
+A|I mean, it sounds like it's just the pits|sd|2506
+A|but it's not all that bad, I guess|sd|2506
+A|but, you know, they're just real hard on it.|sd|2506
+B|Kids are hard on houses.|sv|2506
+A|Definitely,|aa|2506
+A|I can see why people wait until they get like in high school or maybe junior high|sv|2506
+A|and then they get another one.|sv|2506
+B|Yeah,|b|2506
+B|yeah.|b|2506
+B|Uh, we live in a mobile home|sd|2506
+B|and that's probably not typical America|sd|2506
+B|but,|%|2506
+A|I know there's a lot of them.|sd|2506
+B|it's,|%|2506
+B|what we have,|sd|2506
+B|it's all we can afford.|sd|2506
+A|Yeah.|b|2506
+B|And, uh, seems like we're always working on it, as I'm sure, it is with your house.|sd|2506
+A|Because they're always, because they're always ruining something?|sv|2506
+B|Yeah.|b|2506
+A|How old is your child?|qw|2506
+B|Ten,|sd|2506
+B|girl.|sd|2506
+A|Well,|%|2506
+B|So, you know, just like yours, ours is always, you know,|sd|2506
+B|we're,|%|2506
+B|something else goes wrong always, you know,|sd|2506
+B|it's,|%|2506
+A|Some appliances breaking or something?|qy|2506
+B|No,|nn|2506
+B|appliances,|sd|2506
+B|we had a couple plumbing problems,|sd|2506
+B|we've, oh,|%|2506
+B|who knows, you know, it's always something with homes.|sd|2506
+A|And you said you were in Colorado Springs?|qy^d|2506
+B|Yes.|ny|2506
+A|Are there a lot of trailers around there?|qy|2506
+B|Yeah,|ny|2506
+B|there are there's a big military constituency.|sd|2506
+A|And is that what you're in?|qy|2506
+B|Oh, no,|nn|2506
+B|no|nn|2506
+B|I'm, I work for T I.|sd|2506
+A|Well, then that's why you're doing this then, isn't it?|qy|2506
+B|Oh, yes.|ny|2506
+A|Oh, okay,|bk|2506
+A|well,|%|2506
+B|What division are you in?|qw|2506
+A|I'm not in T I.|sd|2506
+B|Oh.|b|2506
+A|I had a friend that had a roommate that worked for T I|sd|2506
+A|and she saw this come up on the computer screen, and ran it off. And passed it to the people that were interested.|sd|2506
+B|It's not a hobby, you know,|sv|2506
+B|it's something to do.|sd|2506
+B|I get to here about Texas again a bit and get to talk to people all over the country,|sd|2506
+B|you know, that I've talked to someone in Maryland, I believe it was.|sd|2506
+A|I know, I've been talking to people in Ohio, and, uh, Virginia, and I think, California.|sd|2506
+B|It's interesting, isn't it?|qy|2506
+A|Yeah,|ny|2506
+A|it is.|sd|2506
+B|You know, the gal I talked to in Maryland, didn't own a car,|sd|2506
+B|she's never traveled anywhere,|sd|2506
+B|she's never been anywhere,|sd|2506
+B|she, you know,|%|2506
+B|I talked about one of the biggest problems in the United States being our roads,|sd|2506
+B|and she didn't understand.|sd|2506
+B|She doesn't drive.|sd|2506
+A|How does she get to work?|qw|2506
+B|Uh, she, uh, lives on campus,|sd|2506
+B|she's a college student.|sd|2506
+B|Buses and, and, uh, public transportation.|sd|2506
+A|Uh-huh.|b|2506
+A|I had a|%|2506
+B|Her, her parents live by the public transportation.|sd|2506
+A|and I wish we could down here.|sv|2506
+B|Well, it would be nice|aa|2506
+B|but I kind of like the freedom, too, don't you?|qy|2506
+A|Well, sometimes|no|2506
+A|but I tell you I'd sure like to be able to get on a bus or something and get to work,|sv|2506
+A|but if I did it, it would take me an hour and fifteen minutes.|sd|2506
+A|I would have to get on one and drive, or walk to a you know,|sd|2506
+A|there's one terminal close to us|sd|2506
+A|and then they'd drive me to the main terminal here,|sd|2506
+B|Right.|b|2506
+A|then, I'd have to go to downtown Dallas and then walk over couple blocks and get on another bus to go to my school.|sd|2506
+B|If it's anything like, uh,|sv|2506
+A|So that's too much.|bf|2506
+B|Dallas always has been,|sv|2506
+B|no one wants to be at downtown Dallas much.|sv|2506
+A|Yeah,|b|2506
+A|but there sure are a lot of people that work down there.|sd|2506
+B|Is the crime rate still bad?|qy|2506
+A|Definitely.|na|2506
+A|And I went down there a couple, maybe three weeks ago for a trial,|sd|2506
+A|and, I mean, all these people were standing up, that was, you know, during the workday all along the streets, you know, just all around these vacant buildings, just a lot of vacant buildings,|sd|2506
+B|Huh.|b|2506
+A|and they're just being demolished,|sd|2506
+B|Huh.|b|2506
+A|and, and they stink|sd|2506
+B|Yeah.|b|2506
+B|Huh, that's terrible.|ba|2506
+A|Uh-huh.|b|2506
+B|So, Garland, how nice is it now,|sd|2506
+B|it's been a while since I've been there.|sd|2506
+A|You know, I think it might be up to two hundred and fifty thousand.|sv|2506
+A|It's gotten big.|sd|2506
+B|Yes,|aa|2506
+B|it has.|sd|2506
+A|I think when we moved here it was like a hundred and twenty, something like that.|sv|2506
+A|And I didn't realize, when I moved here, that it was a separate town from Dallas|sd|2506
+B|Well, yeah,|b|2506
+B|it is.|sd|2506
+A|I know, now|sd|2506
+A|but I didn't.|sd|2506
+B|Where you from?|qw|2506
+A|I'm from Kilgore, Texas|sd|2506
+A|it's in east,|sd|2506
+B|Kilgore,|b^m|2506
+B|I know where Kilgore is.|sd|2506
+A|Oh, where you from?|qw|2506
+B|I'm, I'm originally from Lubbock.|sd|2506
+A|Are you?|qy|2506
+B|Yeah.|ny|2506
+A|So, why did you move up to Colorado?|qw|2506
+B|Seemed like the thing to do at the time.|sd|2506
+A|Well, it's real pretty up there.|sd|2506
+A|I have a friend, in Denver.|sd|2506
+B|Oh, I love it, the mountains.|sd|2506
+B|I love the mountains,|sd|2506
+A|What do you,|qw|2506
+B|uh, back to the topic,|ad|2506
+A|What?|br|2506
+B|it seems that, uh, more and more people are not owning traditional homes these days.|sv|2506
+A|They're not owning homes, period.|sv|2506
+B|Yeah,|b|2506
+B|yeah,|b|2506
+B|uh, everyone says, you know,|sv|2506
+B|when I bought this several years ago when our local economy was good everyone said, no, no, you're crazy to buy a mobile home.|sd|2506
+A|Uh-huh.|b|2506
+B|But now it seems that, uh, with the local economy bad and T I|sv|2506
+B|and strange it seems that, uh,|sv|2506
+A|It wasn't such a bad idea?|^2|2506
+B|Oh, they're doing some back pedaling.|sv|2506
+A|So, have you got, uh, land?|qy|2506
+B|No,|nn|2506
+B|I'm renting at the time,|sd|2506
+B|so.|%|2506
+A|I did that one year,|sd|2506
+A|I lived with two other girls|sd|2506
+A|and we all taught.|sd|2506
+A|And it was a two bedroom,|sd|2506
+A|so, we took turns, you know, having, sharing the bedroom.|sd|2506
+B|Gosh.|ba|2506
+B|Yeah.|b|2506
+A|I got to where I decided I wanted to pay more rent and get a private bedroom.|sd|2506
+A|And then we had two baths|sd|2506
+A|it was just, one, the little bathroom, were the thing that really bothered me because I felt real closed in.|sd|2506
+B|Well, mobile homes have changed a lot probably since you had one.|sv|2506
+A|That was in the seventies.|sd|2506
+B|Ours is wood ours is wood sided,|sd|2506
+A|Uh-huh.|b|2506
+B|and it has a traditional V top , roof,|sd|2506
+A|I'm sorry.|fa|2506
+B|and, uh, it's nine hundred and eighty square foot.|sd|2506
+B|What, two bedroom, one bath, rooms are nice sized.|qy^d|2506
+A|Uh-huh.|ny|2506
+B|Well, you can imagine nine hundred eighty square foot broke up into two bedrooms, one bath,|sd|2506
+A|So have, Have you got it under ?|qy|2506
+B|it's, it's comfy.|sd|2506
+B|Yes.|ny|2506
+A|Are you required to by law?|qy|2506
+A|We were down here.|sd|2506
+B|It was already setup when we bought it.|sd|2506
+A|Yeah,|b|2506
+A|well, I bet it's not bad.|sv|2506
+B|Oh, yeah,|b|2506
+B|it's wood sided it has sheetrock everywhere,|sd|2506
+B|and, uh, you know, so, it's quieter than you remember mobile homes to be.|sd|2506
+A|Okay,|b|2506
+A|but how much is yours?|qw|2506
+A|When we bought ours we were paying uh, three hundred twenty-nine dollars.|sd|2506
+B|Oh, our payments are like two twenty.|sd|2506
+A|For how many years?|qw|2506
+B|Fifteen.|sd|2506
+A|Oh, so, it was still a lot cheaper,|sv|2506
+B|And, uh, what?|br|2506
+A|so, it was still a lot cheaper than what we gave because ours is thirty years,|sv|2506
+A|and we bought one of the cheapest houses, you know, a tract house.|sd|2506
+B|Yeah,|b|2506
+B|oh, yes.|b|2506
+B|A mobile home's a heck of a lot cheaper,|sd|2506
+A|Which probably didn't make much difference.|qy^d|2506
+B|it did.|sd|2506
+A|have a in it.|qy|2506
+B|No,|nn|2506
+B|no,|nn|2506
+B|no|nn|2506
+B|what I meant, not in quality,|sd|2506
+B|what I meant was, four years equity costs five hundred dollars.|sd|2506
+A|In the price.|^2|2506
+A|Gee, nice, huh.|ba|2506
+A|That sounds good.|ba|2506
+B|So, you know, there's not that much time left on the loan|sd|2506
+B|and,|%|2506
+A|So, if the economy gets better, are you going to get another one, another house?|qy|2506
+B|I, don't know.|h|2506
+A|No?|^g|2506
+B|Uh, to tell you the truth right now it feels kind of comfy to have our mobile home and have it so close to paid for.|ng|2506
+B|You know, it's like me to pickup and move somewhere else, somewhere else is easy.|sv|2506
+A|But you wouldn't take that mobile home,|sd|2506
+A|right?|^g|2506
+B|Sure.|na|2506
+A|You would?|qy^d|2506
+B|Sure,|na|2506
+B|absolutely.|na|2506
+A|It would be cheaper to move that than buy another one.|qy^d|2506
+B|Oh, absolutely.|na|2506
+B|When I, you know, when you talk about the deal like I got, yeah, yeah, it would be cheaper.|sd|2506
+B|Uh, especially if it were a paid move or something.|sd|2506
+B|You know, there's some paid moves occasionally.|sd|2506
+A|T I would pay to move you?|qy|2506
+B|I don't know|h|2506
+B|but they did,|sd|2506
+B|when I, when I moved up here,|sd|2506
+B|so, they might want to move away.|sd|2506
+A|So, how many years you been up there?|qw|2506
+B|Uh, six or seven.|sd|2506
+A|Do you snow ski?|qy|2506
+B|Uh, a little bit, little bit,|na|2506
+B|mostly I just love walking in the mountains, driving in the mountains.|sd|2506
+A|It's real pretty.|sd|2506
+A|I went rock climbing one time.|sd|2506
+B|Oh, that's exciting.|ba|2506
+A|my friend talked me in that|sd|2506
+A|I'm a real, um, scaredy when it comes to heights|sd|2506
+A|but once we got on top of the rocks it was quite,|sd|2506

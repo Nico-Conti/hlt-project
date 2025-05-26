@@ -1,0 +1,293 @@
+A|Oh, go ahead|ad|2190
+A|I, I am glad to talk to an expert.|sd|2190
+A|I always wanted to know who an expert was.|sd|2190
+B|Oh, well, I'm not an expert,|sd|2190
+B|I just had a little, I've, I've seen a little pollution in my time.|sd|2190
+B|It's, uh,|%|2190
+B|the, the chemicals we were dealing with were, uh, a Raid repellent|sd|2190
+B|and, uh, that was really quite dangerous,|sd|2190
+B|I'm not certain that that was,|sd|2190
+B|that, that's really a pollution issue.|sd|2190
+B|I think pollution issue is, is, uh, is, is the argument over, over people catching, uh, things like, uh, respiratory disease.|sd|2190
+A|Uh, well, there, there's two things, uh,|sd|2190
+A|the one I'm interested the most, I guess, myself, uh, would be the, the Freons I mean , for air|sd|2190
+A|the one, I guess, that's the one I'm most curious about is how they're going to replace the Freons in air-conditioning.|sd|2190
+A|That seemed to be the biggest surprise to me|sd|2190
+A|and whether,|%|2190
+A|when they replace it, you know, they're going to really come up with something that is not just as bad.|sd|2190
+B|Well, the, you know,|%|2190
+B|that, that's another arguable issue|sv|2190
+B|and I, I've seen the, uh, uh, uh,|sd|2190
+B|assuming you can buy into global warming I|sv|2190
+A|Yeah,|b|2190
+A|I, uh, was, uh, you know,|%|2190
+A|where they were all concerned about that,|sd|2190
+A|but that, that it seems to be,|sd|2190
+B|Well, did you see Carl Sagan on SIXTY MINUTES on, uh, when he was talking about when if, if the, if the war started in, in Kuwait and they'd set those, uh, all|qy|2190
+A|No,|nn|2190
+A|I heard about it though.|sd|2190
+B|uh, it was, it was, it was interesting|sd|2190
+B|but, uh, I'm just curious what he has to say now that they've got them all lit.|sd|2190
+A|Was that before,|qy|2190
+A|I didn't see it,|sd|2190
+A|was that before they actually did that|qy|2190
+A|or it was|qrr|2190
+B|Yes.|ny|2190
+B|And his argument was, uh, was that, that you would see a, uh, a year with no summer.  Which actually happened.|sd|2190
+A|Because of that,  you know.|^2|2190
+B|And it, it|%|2190
+B|yes,|b|2190
+B|it actually happened,|sd|2190
+B|uh, it was a volcano erupted|sd|2190
+B|and it was high enough up|sd|2190
+B|but, uh, they had some people from the national meteorological center I think it was which is the national, anyway, research people|sd|2190
+B|and they said that the, uh, that the pollution would not go high enough.|sd|2190
+B|And it's going to be interesting to see if Carl Sagan and his billions and billions of stars,  may have once made a mistake,|sd|2190
+A|Right.|b|2190
+B|but the, the the general, the opinion among, among the, uh, meteorologists at, uh,|sd|2190
+B|I'm, uh, member of the American Meteorological Society,|sd|2190
+B|and|%|2190
+A|Are you|qy|2190
+A|you didn't work at T I?|qy^d|2190
+B|Yeah,|ny|2190
+B|I do.|sd|2190
+A|Oh, okay.|bk|2190
+B|But I'm, uh, I, I did that in my .|sd|2190
+A|Where do you work in research,|qy|2190
+A|or|%|2190
+B|No, I'm a planner, a production planner.|ng|2190
+A|Oh, okay.|bk|2190
+B|But I, I, I'm in the active reserves as a weatherman,|sd|2190
+B|so.|%|2190
+A|Oh, okay,|bk|2190
+A|yeah.|b|2190
+B|Uh, I, I keep up from time to time,|sd|2190
+B|but what the, the argument is that, uh, that, uh, maybe there isn't global warming and maybe there is.|sd|2190
+B|But, um, if there is, uh, we probably could do something about it now,|sd|2190
+A|Yeah.|b|2190
+B|and if there isn't, if there isn't and we do some the right things, I think,|sd|2190
+B|how do you feel about, about all this smog and stuff on cars.|qo|2190
+A|Uh, well, I'm kind of a car buff myself,|sd|2190
+A|I was going to ask you another question,|sd|2190
+A|but, uh, I'll do that in a minute.|sd|2190
+A|I, I think that the changing, you know, from leaded fuel was a tremendous advantage, you know, not using ...|sv|2190
+B|Well, do you have an older car?|qy|2190
+A|No,|nn|2190
+A|no,|nn|2190
+A|no.|nn|2190
+B|I, I have been working on an older car|sd|2190
+B|but it|%|2190
+B|yeah.|%|2190
+A|Really?|bh|2190
+A|Oh, I'm a car buff too,|sd|2190
+A|we ought to talk about that one day, uh, uh,|ad|2190
+B|Well, I'm restoring one.|sd|2190
+A|I think you can use the, you can use high, you know, the ninety-two percent, uh, ninety-two octane I don't think you'll have any trouble.|sd|2190
+B|I'm not having any problem it's a seventy.|sd|2190
+A|Oh, yeah.|b|2190
+A|Yeah.|b|2190
+B|And the.|%|2190
+A|No,|fo_o_fw_"_by_bc|2190
+A|I, I think, uh,|%|2190
+A|I, uh, work on my own cars|sd|2190
+A|and, uh, I don't think that's a problem.|sd|2190
+A|I thought,|%|2190
+A|I'm saying, I was glad to get rid of leaded gasoline,|sd|2190
+A|'n.|%|2190
+B|But did you have another|qy|2190
+B|you said you had another|sd|2190
+A|Uh, oh,|%|2190
+A|the same thing about the war, uh, or related to the war on,|na|2190
+A|I was watching C N N|sd|2190
+A|and I cannot remember what station it was,|sd|2190
+A|what,|%|2190
+A|did you see the advertisements, uh, where they talked about nuclear war, what that would have been like in changing the atmosphere,|qy|2190
+A|it is so scary that I hope that every one of the government officials saw that because it was just total disaster, you know.|sv|2190
+B|Uh,|%|2190
+A|Did you see any of those, uh, I,|qy|2190
+A|it was,|%|2190
+B|No,|nn|2190
+B|I didn't see that , that,|sd|2190
+B|I know that the, uh,|%|2190
+B|that's ...|%|2190
+A|It must have been channel thirteen,|sd|2190
+A|I don't recall,|sd|2190
+A|although, I thought it was on C N N, oh,|sd|2190
+A|I,|%|2190
+B|Well, that,|%|2190
+B|they called nuclear winner|sd|2190
+B|and, and I suppose that's, that's the ultimate, uh, pollution problem.|sv|2190
+A|It was a somewhat of a commercial because it I saw it regularly|sd|2190
+A|and it showed that|sd|2190
+A|and it was really devastating|sd|2190
+A|and, it would, uh ,|%|2190
+B|Well it,|%|2190
+A|how much ash would fall|sd|2190
+A|and, and how it would essentially literally destroy the world, you know.|sd|2190
+B|Well, the Chernobyl accident, uh,|sd|2190
+B|actually, um, because the circulation budget as high as it went, uh, covered, uh, a fairly remarkable amount|sd|2190
+B|they did some tracers|sd|2190
+B|and they|%|2190
+B|I, I think it's drawn in, uh,|sv|2190
+B|I think, gets in there|sv|2190
+B|I can't think of the other trace,|^h|2190
+B|but I saw a, a presentation on, on that|sd|2190
+B|and they,|%|2190
+B|it went quite a long ways but I, I, I guess I can be a little sympathetic|sv|2190
+B|but, you know, there's some argument that in, in, in the blue grass of Kentucky that the Smoky Mountains that that's the, uh, the pine trees giving off pollution|sd|2190
+B|and,|%|2190
+A|Oh, really,|b|2190
+A|yeah,|b|2190
+A|there, there's probably a lot of natural things, uh,|sv|2190
+B|But the,|%|2190
+B|but when you when you get up in the morning in, in Dallas and, and see all that haze from west Texas, is that, is that pollution?|sv|2190
+A|Yeah.|b|2190
+A|Uh, it,|%|2190
+A|I guess it's got to be really,|sv|2190
+A|I don't know,|h|2190
+A|I don't know if it's air pollution it's, uh, it's dust pollution whether it's natural or not I don't know.|sd|2190
+B|Well, it,|%|2190
+B|that's the thing is that I think, I think Dallas really does have a problem in this,|sv|2190
+B|the idea if we could get some cleaner fuel, burning fuel,|sv|2190
+B|the problem is, is it's like Los Angeles.|sv|2190
+B|People don't, people don't want to use mass transit,|sv|2190
+B|so.|%|2190
+A|Yeah.|b|2190
+A|Oh, yeah,|b|2190
+A|well, I live in Arlington|sd|2190
+A|and there, there, there are no buses.|sd|2190
+A|I mean, there, there is,|sd|2190
+A|the only school bus, the only buses you see are school buses,|sd|2190
+A|so.|%|2190
+B|But who wants to, who wants to, um, ride a bus?|qh|2190
+A|Well, I know it, it's, uh, you know,|%|2190
+A|the car is,|%|2190
+A|we have this big romance with the car,|sd|2190
+A|but, uh, I think people are, would be interested if you had one, I mean.|sd|2190
+B|Well, my boss drives forty miles one way each day.|sd|2190
+A|Yeah.|b|2190
+B|And one of the guys that works with me drives forty-five miles.|sd|2190
+A|Yeah.|b|2190
+B|And, and they don't think it,|sd|2190
+B|well, I guess they do think something of it|sv|2190
+B|but, um, not even to, you know,|%|2190
+B|you consider how much, um,|sv|2190
+B|but then you get into all these issues of, of whether it, it's the types of pollution and what it's doing to your lungs|sd|2190
+B|and, are we going to die of, of respiratory,|sd|2190
+A|Yeah.|b|2190
+B|so, we all move out of the, out of downtown|sd|2190
+B|so we get away from the, the smog.|sd|2190
+B|My, my wife grew up in southern California|sd|2190
+B|and they moved out to the valley before Los Angeles, uh, when the valley was clean.|sd|2190
+A|Yeah.|b|2190
+B|And now the valley is not|sd|2190
+B|and so people move out one more valley and, General Motors apparently has one that they're, they're testing,|sd|2190
+A|Well, you said you were car buff, uh,|sd|2190
+A|I think that, uh, all of us could use one electric car right now, I mean, today, because I think, uh, you said people drive forty miles and fifty whatever,|sv|2190
+A|yeah,|b|2190
+A|when you go to trips and all you can have one gasoline car|sd|2190
+A|but I think we all could, in a family, say, have an electric car where my, one of my daughters or my wife, my wife, she could use one now if they had one, you know, because they, she don't even, she doesn't put fifty miles a day on the car.|sd|2190
+B|I think it's, no, it's alcohol vehicles that they're testing .|sd|2190
+A|No,|aa|2190
+A|no,|aa|2190
+A|you're right.|sv|2190
+A|I, I have seen them|sd|2190
+A|but, uh, they have a battery car.|sd|2190
+B|But they suppose,|sd|2190
+A|Uh, I went to the auto show this past week|sd|2190
+A|and they did not endorse,|sd|2190
+A|now that I think of it,|sd|2190
+A|and I was so interested in the auto show I didn't think to ask anybody,|sd|2190
+A|there were no electric cars.|sd|2190
+A|I was surprised|sd|2190
+A|but now that you just mentioned that.|sd|2190
+B|Huh.|%|2190
+B|Well, the ROAD and TRACK was talking about that this, apparently General Motors has some, uh,|sd|2190
+B|they apparently think they're close.|sd|2190
+A|Yeah.|b|2190
+A|I, I think, uh, there could be a lot of|sv|2190
+A|I|%|2190
+A|people close this is really,|sv|2190
+A|we're, we're nine years away or less, I guess, from the next century and I think,|sd|2190
+B|Well, there's still a lot of research,|sd|2190
+B|I was over in, in the research lab a couple, I guess, it's been about a month ago|sd|2190
+B|and saw this, research it was a little light that says solar, solar powered research.|sd|2190
+A|Yeah,|b|2190
+A|they've got a, they've got a area over in, the S M building too which is, uh,|sd|2190
+A|but it's a solar, uh,|sd|2190
+A|it's for, uh,|sd|2190
+A|gots some money from a power company|sd|2190
+A|and it's probably more generating power for, you know, uh, electricity, a hundred and twenty volt or whatever.|sd|2190
+B|Yeah.|b|2190
+B|Well, do you work in that C building?|qy|2190
+A|No,|nn|2190
+A|I'm actually in the south building|sd|2190
+A|but, uh,|%|2190
+B|Oh, I'm at ,|sd|2190
+A|I was, uh, I'm the facility|sd|2190
+A|so I've been in all, most of the buildings anyway.|sd|2190
+B|Oh, well, I'm in, I'm in the C building,|sd|2190
+B|been there for, all my life.|sd|2190
+A|Oh, yeah,|b|2190
+A|well, the, the solar area is right, right around from the auditorium now.|sd|2190
+A|And it,|%|2190
+A|they've got several different, uh, areas where they're called solar lab.|sd|2190
+A|It's, right there on the first floor you look, walk by there.|sd|2190
+B|Huh.|b|2190
+B|Well, that's been a|%|2190
+B|I know the focal plain array is they were taking space to, a long time.|sd|2190
+A|Yeah,|b|2190
+A|but the solar project, you know, T I's been into it for years,|sd|2190
+A|and I guess it's just not, uh, economical yet because of the other fuels.|sd|2190
+B|Well, the problem is that gas at a dollar a gallon, you know, who wants to,|sv|2190
+B|yeah,|b|2190
+B|I mean, we want to not pollute,|sv|2190
+B|but, uh, at a dollar a gallon, uh, it's hard to beat, the amount of energy you get from, uh,|sv|2190
+A|Yeah.|b|2190
+A|I've seen some.|sd|2190
+A|I think|%|2190
+A|then again I'm surprised now I didn't think they'd asked anybody when I was in the auto show.|sd|2190
+A|There was nothing, uh,|sd|2190
+A|and there was no, place for air pollution or companies or anyone there.|sd|2190
+A|It was just pure automobiles.|sd|2190
+B|Well, I thought I saw an ad for Volkswagen that had an alcohol,|sd|2190
+A|There?|qy|2190
+B|they had one with spots on it and something.|sd|2190
+A|Huh.|%|2190
+B|I didn't go|ng|2190
+B|but|%|2190
+B|it was showing they,|%|2190
+B|I mean, uh,|%|2190
+A|I didn't see,|sd|2190
+B|an article.|sd|2190
+A|did you go?|qy|2190
+B|No,|nn|2190
+B|I didn't,|sd|2190
+A|Oh.|bk|2190
+B|I didn't go,|sd|2190
+B|so. I|%|2190
+A|Uh, I was, uh, quite impressed with all the cars, you know,|sd|2190
+A|the engines are so much smaller now and everything|sd|2190
+A|and they're, they all have brand new engines, even General Motors, uh,|sd|2190
+A|very few|sd|2190
+A|only the Caprice and them and the Cadillac had eight, uh, the old V-eights,|sd|2190
+A|they're all brand new engines,|sd|2190
+A|uh, of course, they're burning gasoline, of course.|sd|2190
+B|They've done a lot.|sd|2190
+A|Yeah,|b|2190
+A|and, uh, whether, you know,|%|2190
+A|that's one way, you know, uh, uh,|%|2190
+A|on air pollution I, I, I don't know if the automobiles are the biggest contributor or not really.|sv|2190
+A|They've got catalytic converters,|sd|2190
+A|everyone seem to have gone to that, whether they last, uh, and do a good job|sd|2190
+A|and now that they, the inspection systems are analyzing that, uh,|sd|2190
+A|well, what do you think if you're in that, you know, if you're concerned about that,|qo|2190
+B|Well,|%|2190
+A|I mean, if you're, you're, you're knowledgeable on that.|qw^d|2190
+B|Well, they, uh,|%|2190
+B|it's interesting though because my cars are older|sd|2190
+B|and so I didn't have to,|sd|2190
+B|if you live in Dallas County you have to have your, have to have it checked|sd|2190
+B|and it's ,|%|2190
+B|I had a friend with a Fiero that, uh, they tried and tried and tried and had all kinds of terrible getting that pinned|sd|2190
+B|and, so, apparently ...|%|2190

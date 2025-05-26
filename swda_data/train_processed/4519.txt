@@ -1,0 +1,86 @@
+A|Your turn.|fo_o_fw_"_by_bc|4519
+B|Oh, I, I start.|sd|4519
+B|Okay.|aa|4519
+B|Well, uh, we keep a budget to an extent.|sd|4519
+B|Uh, and really, we were really forced into keeping a budget because I'm, I'm paid once a month which sort of, sort of forces some, uh, uh, restrictions|sd|4519
+B|and you need to make sure all your bills are paid.|sd|4519
+B|Uh, about yourself?|qo|4519
+A|Well, I have to say I really don't have a budget.|sd|4519
+A|Both my wife and I, uh, grew up in, uh, families of rather modest means|sd|4519
+A|and, uh, our family income, at this point, is comfortable. Upper middle class I guess you might say.|sd|4519
+A|And, uh, we're both so, uh, frugal that, uh, we really don't need a budget, you know.|sd|4519
+A|We just sort of invest the money and go on vacations and always never seem to have any money problems which I guess is a comfortable thing.|sd|4519
+B|Yeah.|b|4519
+B|Well I guess that really is sort of, uh, keeping a budget,|sv|4519
+B|you know. You stay within your, uh  within your means.|bf|4519
+A|Well we stay within our means|b^m|4519
+A|but we  don't do it, uh, by conscious effort.|sd|4519
+A|It just sort of happens automatically.|sd|4519
+B|Yeah.|b|4519
+A|Although we just moved to California|sd|4519
+A|and, uh, the cost of living here in California is, uh, I would say rather pathological|sd|4519
+B|Yes|aa|4519
+A|Uh, housing prices are, you know, like from four to ten times more expensive than, uh, uh, they were where I came from in, uh, Dallas.|sd|4519
+B|Oh, you moved from Dallas to San Francisco.|bf|4519
+A|Yeah.|aa|4519
+A|So, uh uh, that presents a, a real shock|sd|4519
+B|That is a hugh difference.|sv|4519
+B|Yeah.|b|4519
+A|actually our standard of living has gone down somewhat since we've moved to California|sd|4519
+A|but,|%|4519
+B|But you have good sour dough|sv|4519
+B|and it's a beautiful place to live|sv|4519
+A|Yeah.|aa|4519
+A|It's God's country.|sv|4519
+B|Yeah.|b|4519
+A|Uh, and one way you know that is that only God can afford it|sv|4519
+A|Uh, so budget is not a problem for us.|sd|4519
+A|Uh, at least it hasn't been.|sd|4519
+A|It may, may be at this point.|sd|4519
+A|But, uh, up until this point it really hasn't been|sd|4519
+A|When I, uh, was in, uh, undergraduate school a long, long time ago, I, uh, noted that the monthly salary, starting average monthly salary salary for engineers that, you know, in my discipline, was like oh, six hundred ten dollars a month or something like that.|sd|4519
+A|And, uh, I noted at that point that I was, you know, if that's what my salary was that I drew then I would be making almost twice as much as my father made during his best year ever.|sd|4519
+A|So I stopped worrying about money.|sd|4519
+B|Yeah.|b|4519
+A|And it,|%|4519
+A|never have worried about money since then.|sd|4519
+B|Well, that, that's a system too.|sv|4519
+A|Sometimes, uh, it's a bit of a, a problem, you know, because I guess I don't really manage my money the way I should.|sd|4519
+A|But, uh, I suppose I've lost money on not taking good advantage of, of, uh, investments|sd|4519
+A|but,|%|4519
+B|Well then again, you know, you said you, you are able to take trips.|sd|4519
+B|And you do, obviously, have enough to live on|sd|4519
+B|so I guess you're indirectly budgeting. Uh, just bye-bye the fact that you said you're both very frugal, uh, in spending the money.|sv|4519
+A|Uh-huh.|b|4519
+B|So, I mean that's, that's a form of budgeting I would think|sv|4519
+B|It's, it's kind of a strange topic to, to try to, for two people who don't really have a budget to talk about budgeting and how they manage their money.|sv|4519
+A|Well, I guess we're both lucky in that regard then.|sv|4519
+B|Yeah.|b|4519
+A|How big is your family?|qw|4519
+B|Uh, well we're, we have one on the way.|sd|4519
+A|I see.|bk|4519
+B|Uh, my wife,|sd|4519
+B|and then, we're, we're having one on the way in, uh, in, uh, September.|sd|4519
+A|So how,|%|4519
+A|you, once you get ten children though, you may have,|sv|4519
+B|No|ar|4519
+B|I think it's just going to be one.|sd|4519
+A|Oh, all right|bk|4519
+B|How about yourself?|qo|4519
+A|I have two kids.|sd|4519
+A|Uh, one  nine and one thirteen|sd|4519
+B|Oh.|%|4519
+A|and they are beginning to be a budget problem but, uh, have not been really up until this, up to this point.|sd|4519
+B|Do they budget at all?|qy|4519
+B|I mean do you have them on an allowance?|qy|4519
+A|I give them a, I give them an allowance|sd|4519
+A|and they, uh,|%|4519
+A|I basically give my son ten dollars a week|sd|4519
+A|and I put half of it in the bank|sd|4519
+A|and I give, give him the other half in cold cash.|sd|4519
+B|Yeah.|b|4519
+A|And, uh, he has a teller card so he can, uh, do what he do what he wishes with the money that I put in the bank.|sd|4519
+A|But, at least, it isn't, you know, burning a hole in his pocket.|sd|4519
+B|Yeah.|b|4519
+A|If he wants to use it, he has to go get it|sd|4519
+A|and that usually|%|4519

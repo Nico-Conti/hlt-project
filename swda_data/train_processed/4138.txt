@@ -1,0 +1,88 @@
+A|Think about, uh, taxes.|ad|4138
+B|Well, I think they're a necessary evil.|sv|4138
+B|Uh, I wish the government would operate on the same premise that, uh, businesses operate on|sv|4138
+B|and that is, uh you, you don't spend more than you, than you bring in.|sv|4138
+A|You spend what you have|^2|4138
+A|and,|%|4138
+A|Yeah,|b|4138
+A|I think that, the general idea is to you know, spend, uh, during a time of recession that, you know, for the deficit spending to help pick up the economy,|sv|4138
+A|but they're running under the|sv|4138
+A|you know, the way they're running it now, they're you know, running it under a deficit spending, you know, while we're not under a recession,|sv|4138
+A|so there's never any surplus coming in to counter the deficit that we're running,|sv|4138
+A|so that's kind of a basic thing of economics, I guess, keep spending, keep going into debt,|sv|4138
+A|you're not going to payoff what you owe,|sv|4138
+A|but, so, I guess the, the question was more like, uh, do you get what you pay you know, get what you pay for.|sd|4138
+B|Well, I,|%|4138
+B|it just depends.|sd|4138
+B|Uh, uh, roads are very expensive, uh, commodity and so is, uh, utilities they supply and police and fire department, uh,|sd|4138
+B|you know, they need to make a living.|sv|4138
+A|Yeah.|b|4138
+A|There's,|%|4138
+B|So I think for, for, for many years, uh, we've paid teachers and police officers and firemen who are, uh, to a great extent, public servants uh, we have not paid them really what they're worth in what they contribute to society.|sv|4138
+A|Uh-huh.|b|4138
+A|I agree with that.|ba|4138
+B|But, uh, then again, uh, it's the, hard to justify with all the wastefulness of money that the government spends on all levels of, of, uh, government, including municipalities as well as state and federal governments.|sv|4138
+A|I guess,|%|4138
+A|I'm, I'm a student right now|sd|4138
+A|and I don't make a whole lot of money|sd|4138
+A|and, so, I, I kind of don't pay a proportionate amount of taxes to, I guess, uh, compared to what I get, because I, you know, all my, my education is state sponsored.|sd|4138
+A|I go to a state sponsored school|sd|4138
+A|and, uh, my education all up through high school and stuff,|sd|4138
+A|so I guess I'm kind of in debt, I, I suppose, because I don't, you know, been paying taxes all that, all that long.|sd|4138
+A|My parents, I guess, however, have contributed to that, you know, for the education side of it and everything,|sd|4138
+A|but, uh, I usually end up getting money back.|sd|4138
+A|I will this year anyway from a,|sd|4138
+B|Uh, you're very fortunate.|ba|4138
+A|Yeah,|aa|4138
+A|I am|sd|4138
+A|I need it, too,|sd|4138
+A|otherwise,|%|4138
+B|We just try not to pay any more in than we have to,|sd|4138
+B|uh, we pay in a substantial amount. Uh,|sd|4138
+A|Uh-huh.|b|4138
+B|We don't regret paying taxes.|sd|4138
+B|We do think that, uh, sometimes, uh, we have a reverse of a regressive tax, a progressive tax.|sv|4138
+A|Uh-huh.|b|4138
+B|And progressive tax, I think, uh, does not give people incentive to make more money,|sv|4138
+B|and what I mean by that, the more income you make, the more tax you pay.|sv|4138
+A|More taxes you pay.|^2|4138
+B|It should be, I think, a flat percentage|sv|4138
+B|and, uh, that percentage ought to be an equitable amount.|sv|4138
+A|Uh-huh.|b|4138
+A|Isn't,|%|4138
+B|Uh, last year when they passed the tax laws for the, uh, nineteen ninety, ninety-one, whatever, nineteen ninety-one uh, I added up all the taxes that we were going to pay on all these different specific luxury items and travel expenses and everything else,|sd|4138
+A|Uh-huh.|b|4138
+A|Uh-huh.|b|4138
+B|and I totaled them all up|sd|4138
+B|and basically, uh, we were going to be paying seventy or eighty percent tax.|sd|4138
+A|Wow.|ba|4138
+B|Now, that was the assumption that you spent that same dollar for every, for every item on there even though there's, uh, taxes on different things.|sv|4138
+A|Uh-huh.|b|4138
+A|Well isn't,|%|4138
+B|But, you know, there's there's a lot of taxes you pay that you're not even aware of that you're paying, uh,|sv|4138
+B|like when you buy a tire, you pay a federal excise tax.|sd|4138
+A|Uh-huh,|b|4138
+A|there's a lot, yeah, lot of hidden taxes.|sv|4138
+B|You pay gasoline taxes every time you pump something into your, your tank.|sd|4138
+A|Uh-huh.|b|4138
+A|The taxes that people don't think about that,|sv|4138
+A|yeah,|%|4138
+A|the, the, the income tax is a lot more visible portion of the taxes you pay, I guess.|sv|4138
+B|But you probably pay more percentage wise in other taxes.|sv|4138
+A|Uh-huh.|b|4138
+A|There was that,|%|4138
+A|which|%|4138
+A|was it Jerry Brown,|sd|4138
+A|one of the democratic candidates had a proposal for doing away with all the, the tax codes they have now and implementing a I think a flat percentage, something like that.|sd|4138
+B|Yeah|b|4138
+B|if you implemented a flat percentage, it would encourage people, uh, to make more money|sv|4138
+B|and the, what people need to understand in my opinion, now this is just my opinion, okay, uh, is that businesses create jobs and jobs create income and income pays taxes.|sv|4138
+A|Uh-huh.|b|4138
+B|And, so, if they penalize businesses, business people are smart enough to say, here's my break point, I'm not going to work any harder and make any more or create any more jobs.|sv|4138
+A|Right.|b|4138
+A|Exactly.|ba|4138
+A|That's, because until, like eight,|%|4138
+B|And so,|%|4138
+B|Based on that, who do you think you're talking to,|sd|4138
+B|you're talking to an employer.|sd|4138
+A|Up until, like, eighty-five or something was the,|sd|4138

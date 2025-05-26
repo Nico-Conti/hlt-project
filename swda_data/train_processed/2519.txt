@@ -1,0 +1,205 @@
+A|Well, how about you, are you an exercise fanatic?|qy|2519
+B|No.|nn|2519
+A|Me either|sd|2519
+B|I'm definitely|sd|2519
+B|I do like to walk.|sd|2519
+A|Do you?|qy|2519
+B|Yes.|ny|2519
+B|Since T I has, uh, uh, instituted that, um, walkabout, I have gone out and started walking even more, bought me the, you know, the proper shoes and everything to get started, and, uh, park out there, you know, way out there in the boondocks.|sd|2519
+A|Yeah.|b|2519
+A|Wonderful. Uh-huh.|ba|2519
+B|It was so funny the other day,|sv|2519
+B|I took some guys to, to lunch|sd|2519
+B|and when we came back they said "Oh, there's a parking space real close," and I parked way out in the boonies,|sd|2519
+A|Way. *what is this?|fo_o_fw_"_by_bc|2519
+B|and I said "you can walk off your lunch."|sd|2519
+A|That's the way to do it.|sv|2519
+B|Yeah.|aa|2519
+A|I'm kind of like you,|sv|2519
+A|I've never really gotten into it,|sd|2519
+A|it's just a, it's just a chore, you know,|sd|2519
+B|Um, um. Oh.|b|2519
+A|and I finally decided one semester, I'm in college and I'm taking night classes and I still don't have any of my P E classes,|sd|2519
+A|and so one semester I thought, okay, that's what I'm going to do|sd|2519
+A|and that will get me where I'll have to do it, you know,|sv|2519
+B|Uh-huh.|b|2519
+A|and they were offering a, a walking class, where you, you know, you have to walk, you know, that like for every mile you walk and every so many minutes, you get, you get points, you know,|sd|2519
+B|Um, um. Um, um.|b|2519
+A|and then you have to go in once a week and log your points|sd|2519
+A|so it's not like you can do the class like anytime you want, you know,|sd|2519
+A|and, at the end of the semester you go back in and your, like your final exam is a three mile walk.|sd|2519
+B|Oh.|b|2519
+A|And if you walk it in this many minutes, you get an A,|sd|2519
+A|this many minutes you get a B,|sd|2519
+B|Uh-huh.|b|2519
+A|and, I thought, oh, this will be an easy class.|sv|2519
+A|and, you know, and I did it, and I did it for a long time|sd|2519
+A|like about the middle of the semester I ended up having to have surgery on my foot,|sd|2519
+B|Oh, no.|b|2519
+A|and this has been a couple of years ago,|sd|2519
+B|Uh-huh.|b|2519
+A|and, you know, I had, I did that,|sd|2519
+A|and I just ended up having to drop the class.|sd|2519
+B|Oh.|b|2519
+A|you know, by the time the final came around, I wasn't even where I could wear a shoe yet, let alone walk three miles, you know.|sd|2519
+B|Oh, no.|b|2519
+B|Yeah.|b|2519
+A|But, that was the only time I have ever been able to like start an exercise program and really stick to it, because then I had to, I had to go every week and log in what I had walked,|sd|2519
+B|Um, um. Right.|b|2519
+A|and, my teacher looked at it every week, you know.|sd|2519
+B|Uh-huh.|b|2519
+A|But, other than that I just, you know, I kind of get in the mood every once in awhile, say, okay, I'm going to start going to aerobics now, you know,|sv|2519
+B|Uh-huh.|b|2519
+B|There you go.|fo_o_fw_"_by_bc|2519
+A|and, I'll go for like two weeks and go, this is for the birds, this is too much work.|sv|2519
+B|Well, you know, I have noticed too that, uh, when I started the exercise, uh, not the exercise but the walking program, uh, that I did tone up, you know, like all over,|sd|2519
+A|Uh-huh.|b|2519
+B|but it didn't get the upper part of my body,|sd|2519
+A|Uh-huh.|b|2519
+B|and, uh, so, what I do, is I bowl.|sd|2519
+B|I am a fanatic when it comes to bowling,|sd|2519
+B|and I used to bowl five times a week,|sd|2519
+A|Wow.|ba|2519
+B|so, I really loved it,|sv|2519
+A|Yeah.|b|2519
+B|and I still bowl at least once a week now, on a league, on, on a,|sd|2519
+B|and I'm bowling on the T I league.|sd|2519
+A|Uh-huh.|b|2519
+B|Um, but I've noticed that what I do is that I have my towel that sits on the floor, so that every time I get up to bowl, I have to bend over to pick up my towel|sd|2519
+B|and that way I get the little extra exercise.|sd|2519
+A|Uh-huh.|b|2519
+B|I'm always explaining to people, I do little things like that, like, you know, take the stairs instead of the, um, the elevator,|sd|2519
+A|Yeah.|b|2519
+B|and, I do silly things like that versus a, a regular program that you would have.|sv|2519
+A|But that's,|%|2519
+A|you're amazed at how much that adds up.|sv|2519
+B|It sure does.|aa|2519
+A|I was on, uh, Nutri Systems for a while,|sd|2519
+B|Uh-huh.|b|2519
+A|and, that is one of the things that they really stressed doing, you know,|sd|2519
+A|when you come to your Nutri System meeting, don't park in the parking place outside the front door, park at the other end, you know,|sd|2519
+B|Yeah|b|2519
+B|Right.|b|2519
+A|I mean, and they stretched, stressed things like that too.|sd|2519
+A|You know, during, when you're sitting watching T V at night, during every commercial get up off the couch, go to the living room and get a glass of water, go to the bedroom and make the bed, go do something, but get up during every commercial. And, things like that.|sv|2519
+B|Uh-huh.|b|2519
+B|There you go.|sv|2519
+A|And, you'd be surprised at how much just that little bit adds up, you know, just gives you a little more activity|sv|2519
+A|so,|%|2519
+B|That's true.|aa|2519
+A|especially when you're like us and don't really want to do it anyway.|sv|2519
+B|No,|aa|2519
+B|I used to,|sd|2519
+B|I really did, uh, years ago|sd|2519
+B|and, uh, I was thinking about that not too long ago that I used to walk|sd|2519
+B|and not only did I walk|sd|2519
+B|but, I used to watch all those exercise programs on T V,|sd|2519
+B|and I would tape them,|sd|2519
+A|Yeah.|b|2519
+B|and then I would do them like two times a day,|sd|2519
+B|but I don't do any of that kind of stuff anymore.|sd|2519
+B|I think having children everything just kind of, everything goes by the wayside.|sv|2519
+A|Well, I can't use that as an excuse because I didn't do it before|sv|2519
+A|I had mine either.|sv|2519
+A|I've never been,|sv|2519
+A|I just, I'm more into, you know, sitting, than I am|sv|2519
+B|Yeah,|aa|2519
+B|yeah.|aa|2519
+B|Me too.|aa|2519
+A|so, but, you know, I have found that with,|sv|2519
+A|I have a two year old,|sd|2519
+B|Uh-huh.|b|2519
+A|and I have found really though, I'm kind of the opposite, I'm more active now with him, than I was before, because now, you know, he'll "I want to go outside" and I'll go outside with him|sv|2519
+B|Yeah.|b|2519
+A|and we'll walk up and down the street,|sd|2519
+A|and we'll go to the park|sd|2519
+A|and I'll run around with him and stuff like that,|sd|2519
+A|that,|%|2519
+A|so I'm getting more, you know, more exercise that way than I ever did before I had him, you know.|sd|2519
+B|Um, um. Um, um.|b|2519
+A|so, I think, I think that has helped a little bit,|sv|2519
+A|I don't know.|h|2519
+B|Yeah,|b|2519
+B|yeah,|b|2519
+A|Just chasing him around the house, you know, will be plenty for you.|sv|2519
+B|that's enough.|^2|2519
+B|Well, mine are older now, doing, uh, their own things|sd|2519
+B|so,|%|2519
+A|Right,|b|2519
+A|right.|b|2519
+A|You've kind of gotten out of that little stage there.|sv|2519
+B|Oh, yes.|b|2519
+B|Yes,|b|2519
+B|I have a thirteen year old and an eleven year old,|sd|2519
+B|so.|%|2519
+A|Oh, lucky you,|ba|2519
+B|Yes.|b|2519
+A|you're getting into even more interesting stages.|sv|2519
+B|Yeah,|b|2519
+B|yeah.|b|2519
+B|We're actually going through the same stages the two year old and the teenager|sv|2519
+A|Uh-huh,|b|2519
+A|yeah,|b|2519
+A|yeah|b|2519
+B|Yeah,|b|2519
+B|you watch it'll be exactly the same|sv|2519
+A|Same thing, huh, it repeats, the terrible twos repeat at about thirteen|sv|2519
+B|It does,|aa|2519
+B|it, it absolutely does,|aa|2519
+B|so.|%|2519
+A|How interesting, I can hardly wait|sv|2519
+B|Yeah,|b|2519
+B|I, I, I know, I just know you can't.|sv|2519
+B|But, no,|sv|2519
+B|I don't get as much exercise as I used to|sv|2519
+B|but, I at least, since T I has implemented that program, I do,|sd|2519
+B|I'm more aware of it,|sv|2519
+A|Yeah.|b|2519
+B|and, you know, that I'm need to do this, that and the other|sd|2519
+B|and, uh, so, I try to do combinations of things but not, like go down to the President's Health Club, like I see all these people do.|sd|2519
+A|Right.|b|2519
+A|That, that walkabout's a good program.|sv|2519
+B|It is,|aa|2519
+B|it is.|aa|2519
+A|It really is, you know,|aa|2519
+A|when they first started it, I, I got all the information, of course,|sd|2519
+A|but just like everything else, I was real gung ho with a friend of mine,|sd|2519
+A|"Oh, we're going to do this, we're going to do this,"|^q|2519
+A|and we did do it for a long time,|sd|2519
+B|Yeah.|b|2519
+A|and then I started school, you know,|sd|2519
+B|Um, um.|b|2519
+A|and like two nights a week I was going to school|sd|2519
+A|and then the other two nights a week my husband worked,|sd|2519
+A|so I had to pick Ryan up, you know,|sd|2519
+B|Oh, yeah.|b|2519
+A|there's always an excuse, you know, to not do it|sv|2519
+B|Oh, yeah.|b|2519
+A|so,|%|2519
+B|And, it gets worse,|sv|2519
+B|it doesn't get any better.|sv|2519
+A|Yeah,|aa|2519
+A|oh, I'm sure,|aa|2519
+A|I'm sure.|aa|2519
+B|Yeah,|b|2519
+B|because I'm constantly running my children around someplace|sd|2519
+B|and that's where I actually get my exercise, is running them from here to there, in the car.|sd|2519
+A|Yeah.|b|2519
+A|here to here,|^2|2519
+A|here,|%|2519
+A|Yeah,|b|2519
+A|yeah,|b|2519
+A|to the mall, to the movies, to the friends, to the,|^2|2519
+B|There you go,|aa|2519
+B|that's it,|aa|2519
+B|that's it.|aa|2519
+A|Sounds like fun.|sv|2519
+B|Well, it was nice talking to you.|fc|2519
+A|Well, it was really good to talk to you.|fc|2519
+B|Yeah,|fc|2519
+B|well okay,|fc|2519
+B|we'll talk to you later.|fc|2519
+A|Take care,|fc|2519
+A|talk to you later.|fc|2519
+B|Um, um.|fc|2519
+B|Bye-bye.|fc|2519

@@ -1,0 +1,195 @@
+A|Okay,|fo_o_fw_"_by_bc|2287
+A|did you vote in the last, uh, national election?|qy|2287
+B|Yes,|ny|2287
+B|we, uh, uh, I haven't missed a one since I've been eligible to vote.|sd|2287
+A|Oh, that's good.|ba|2287
+B|Did you get to vote at the last one?|qy|2287
+A|I voted in the last national one.|na|2287
+A|Yeah,|ny|2287
+A|I'm not sure *slash error; one utt with next|sd|2287
+A|if I got the last local one.|sd|2287
+B|Oh, uh-huh,|b|2287
+B|yeah,|b|2287
+B|and sometimes the, the local ones aren't as publicized it seems that, uh, they should be.|sv|2287
+A|Yeah,|b|2287
+A|you're not sure where to go and vote and all that.|sv|2287
+B|Right,|b|2287
+B|and, uh, there's usually nobody running against, you know, the incumbents.|sv|2287
+A|Right,|b|2287
+A|or you don't know what they you know, where they stand or anything like that.|sv|2287
+B|Right.|b|2287
+B|So, uh, but I, I feel that, uh, a lot of people have gotten lazy about voting.|sv|2287
+A|Yeah,|aa|2287
+A|I think you're right.|sv|2287
+B|And, it's, it's, they're,|%|2287
+B|and also they're fed up with the system,|sv|2287
+B|and they say, well, why should I even vote.|sv|2287
+A|Yeah,|b|2287
+A|or sometimes they don't like either of the choices for the candidates,|sv|2287
+B|Right.|b|2287
+A|so they think, well, you know, why vote.|sv|2287
+B|Right.|aa|2287
+B|The lesser of the two evils is how we usually look at it.|sv|2287
+A|Yeah,|aa|2287
+A|really,|aa|2287
+A|especially in Texas|sv|2287
+B|Oh, I know it|b|2287
+B|The last gubernatorial race was, oh it was awful.|sv|2287
+A|It really was,|sv|2287
+A|yeah.|aa|2287
+B|So I don't know,|h|2287
+B|I, I,|%|2287
+B|it'll be interesting to see how the next, uh, few years go.|sv|2287
+A|Yeah|b|2287
+A|Did they get the serious problem that half the people don't vote.|qy|2287
+B|Yeah,|ny|2287
+B|I think, well, it's, it's definitely a problem,|sv|2287
+B|and I think it could get worse.|sv|2287
+A|Yeah.|b|2287
+B|You know, we get this lackadaisical attitude,|sv|2287
+B|and say, huh, you know, why should we vote,|sd|2287
+B|then, you know, it could, uh, it could lead to some serious things.|sv|2287
+A|Yeah.|b|2287
+A|It also seems like maybe another candidate that nobody wants could slip in if, you know, not enough people are voting.|sv|2287
+B|Uh-huh.|b|2287
+B|Right, uh,|aa|2287
+B|yeah,|aa|2287
+B|we can get, uh, yeah, if we get someone in there like that, then, you know, they could make all sorts of changes that they were, you know, had enough pull.|sv|2287
+A|Yeah,|b|2287
+A|it's kind of like in Louisiana where that, uh, guy that's like a Ku Klux Klan member something got elected.|sd|2287
+B|Yes.|aa|2287
+B|Uh-huh.|b|2287
+A|Kind of scary when you think about that.|sv|2287
+B|Yeah,|b|2287
+B|and, uh, who's the other guy, LaRouche that, uh, is sort of the, uh, socialist, not socialist but|sd|2287
+B|he's so off the wall that, uh, he's gone in and tried to get into city elections|sd|2287
+B|and, uh, but he's got, he's been put away for, uh, credit card fraud, I believe.|sd|2287
+A|Oh, gosh.|ba|2287
+B|Yeah,|b|2287
+B|Lyndon LaRouche, that's it.|sd|2287
+A|Yeah.|b|2287
+B|And, uh,|%|2287
+B|yeah.|%|2287
+A|Yeah,|b^m|2287
+A|people will sit home and assume, oh, that guy would never get elected.|sv|2287
+B|Uh-huh.|b|2287
+A|Next thing you know, you've got him.|sv|2287
+B|Right.|aa|2287
+B|If you don't go and vote, then, you know, very good chance that they, they will because a lot of the people like that, they'll strike a chord in something, you know, in some of the people, that so will say, look, you know, this guy's got everything together.|sv|2287
+A|Yeah.|b|2287
+B|You know, I like what he says,|^q|2287
+B|and he'll be so far off the wall that they'll elect him.|sv|2287
+A|Right, yeah.|b|2287
+B|And, uh, I think that's sort of what happened with Louisiana because, because, um, the guy did get elected, correct?|qy|2287
+A|Yeah.|b|2287
+A|Right.|na|2287
+B|That's what I thought.|sd|2287
+A|Yeah,|aa|2287
+A|he sure did.|sd|2287
+B|And, uh, , but you know, they can always fool us, you know.|sv|2287
+B|He might do a good job.|sd|2287
+A|Yeah.|b|2287
+A|I think one thing that maybe would help people vote is if the polls were either open more days, or you could mail it in, or something like, if you have, if you have real strict work hours, and you can only go like at seven in the morning or after work and you have to stand in line for so long|sv|2287
+B|Oh, yeah.|b|2287
+A|I think that discourages a lot of people.|sv|2287
+B|What we do, usually, is, uh, vote, uh, absenteeism|sd|2287
+A|Uh-huh.|b|2287
+B|and, uh, I know, here, you know, you don't have to have any reason,|sd|2287
+B|you can just go and vote|sd|2287
+A|Right.|b|2287
+B|and the polls are open, what was it, a couple of weeks,|sd|2287
+B|the hours are good|sv|2287
+B|and they're even open on Saturdays and a couple of Sundays.|sd|2287
+A|Uh-huh.|b|2287
+B|And so we've got plenty of time to go, because down here in Houston, it's, uh, the lines are long.|sd|2287
+A|Yeah,|b|2287
+A|I'm in Dallas,|sd|2287
+A|and they're long here too.|sd|2287
+B|So, uh, but, uh,|%|2287
+A|Yeah,|b|2287
+A|I voted absentee one year.|sd|2287
+A|I really was going to be gone.|sd|2287
+A|So, I did it,|sd|2287
+A|but, uh, it was nice.|sv|2287
+A|I would be tempted to do it again.|sd|2287
+B|Well, uh, I recommend it, because you just walk right on in, and there's usually not anybody in line|sd|2287
+A|Right.|b|2287
+B|and, uh, you know, that vote's just as good as, you know, the one on election day.|sd|2287
+A|Yeah.|b|2287
+A|I think they should change the whole system so that it's easier|sv|2287
+B|Uh-huh,|b|2287
+B|yeah.|b|2287
+A|I think more people would do it if it wasn't such a hassle.|sv|2287
+B|Um, yeah,|b|2287
+B|I've been involved with, uh, some of the campaigns and the state conventions of the, of the Republican party.|sd|2287
+B|And it's really interesting to see the process as far as what goes through as far as the voting and the, uh, how the, uh, the not the ballots,|sv|2287
+B|but, uh, my mind has gone blank.|sd|2287
+B|I've been all evening How they develop, uh, what the candidate stands for|sd|2287
+A|Uh-huh,|b|2287
+B|you know, the views, and, uh, you know, everybody gets to vote on, you know, well, should he be for this and on and on and on,|sd|2287
+B|and, uh, it's, it's interesting.|sv|2287
+A|Yeah,|aa|2287
+A|that would be.|sv|2287
+A|I usually vote.|sd|2287
+A|A lot of times I'll vote a straight party ticket just because I don't take the time to find out what every, you know, other than the major candidates, what they stand for on what issues,|sd|2287
+B|Uh-huh.|b|2287
+A|so I'll just trust well, the party kind of goes along these lines so I'll go ahead and vote.|sd|2287
+B|Right.|b|2287
+B|There for a while, that would, that worked.|sv|2287
+B|We've, uh, I know I have, um,|%|2287
+B|I'll stick to uh, to the, you know, sometimes I'll stick to a certain party, depends on the guy.|sd|2287
+A|Uh-huh.|b|2287
+B|But, uh, if it, uh, gets down between two, then I'll, I'll vote for the party because I know, you know, something about the other guy|sd|2287
+A|Yeah.|b|2287
+B|or, you know, they're both just as bad,|sv|2287
+B|and I'll say, Well, I know what this guy stands for as far as for his party,|sd|2287
+B|and, um, but|%|2287
+B|yeah.|%|2287
+B|You know, that's not the best way|sv|2287
+B|but,|%|2287
+A|No,|aa|2287
+A|I guess it'd be best if you knew each person and what they stood for and why and everything.|sv|2287
+B|But it gets to the point where,|sv|2287
+B|I mean, you've got to have the find the time also to read about the guy and, and be able to find the information about what he stands for.|sd|2287
+A|Right,|b|2287
+A|and try to determine if what you read was objective or not.|sv|2287
+B|Right,|b|2287
+B|or what you've heard on T V, which I think is just outrageous.|sv|2287
+A|Yeah.|b|2287
+B|I, I don't agree with how the media handles elections.|sd|2287
+A|Yeah.|b|2287
+B|I, you know, I'm tired of hearing about the polls, you know, you know,|sd|2287
+B|this is how he stands such and such a day the way they break it out,|sd|2287
+A|Yeah.|b|2287
+B|it's just, it's just ridiculous.|sv|2287
+A|Yeah,|b|2287
+A|I think it could affect the outcome, you know, could make it unfair.|sv|2287
+B|Uh-huh,|aa|2287
+B|it really could,|sv|2287
+B|and, uh, then, how, sometimes, how the media will blow things out of proportion and will run an issue into the ground which is good and dead,|sd|2287
+B|and they keep dragging it on,|sd|2287
+B|and it could hamper the outcome of an election for the guy that should have won.|sv|2287
+A|Oh, yeah.|b|2287
+B|Yeah,|b^m|2287
+B|so, uh,|%|2287
+A|Yeah,|b|2287
+A|the press has a lot of power.|sv|2287
+B|They really do.|aa|2287
+B|I, I sometimes think that that should be limited more.|sv|2287
+A|Yeah,|b|2287
+A|oh, but, boy you try get into that,|sd|2287
+A|you'd really open a can of worms.|sv|2287
+B|Oh, yes,|aa|2287
+B|or they, I agree with the freedom of the press, you know, and all the amendments,|sd|2287
+B|but sometimes it's for the public's own good that we don't hear things.|sv|2287
+A|Yeah,|b|2287
+A|seems that they should regulate themselves a little bit,|sv|2287
+A|and I don't think they ever care to.|sv|2287
+B|No,|aa|2287
+B|they don't.|sv|2287
+A|Well, I can't think of anything else really about the polls or voting, to talk about.|fc|2287
+B|Well, I enjoyed talking to you.|fc|2287
+A|Well, it was good talking to you.|fc|2287
+B|All right.|fc|2287
+A|Bye.|fc|2287
+B|Bye-bye.|fc|2287

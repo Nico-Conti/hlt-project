@@ -1,0 +1,242 @@
+B|So, uh, let's see what was the topic,|^h|3102
+B|I forgot|sd|3102
+B|we are supposed to talk,|sd|3102
+A|Advice for people taking for parents, uh, help their kids through college.|sd|3102
+B|Yeah,|b|3102
+B|do you have any children?|qy|3102
+A|No,|nn|3102
+A|I just graduated from college.|sd|3102
+B|Oh, did you?|bh|3102
+A|Yes.|ny|3102
+B|Where did you go?|qw|3102
+A|I went to Clarion.|sd|3102
+B|Clarion.|bf|3102
+A|Uh-huh.|aa|3102
+B|Huh, uh, would you, I mean, if you had children, would you want them to go to a certain place|qy|3102
+B|or,|%|3102
+A|Um, I would want them to make that decision|sd|3102
+A|and I would, you know,|%|3102
+B|Yeah.|b|3102
+A|uh, I pretty much made my decision on my own and my older brother, likewise.|sd|3102
+B|Uh-huh.|b|3102
+A|And, uh, you know, we, we were both pretty much happy with what we did.|sd|3102
+B|Yeah.|b|3102
+A|So, I think, I would not push them towards any one place.|sd|3102
+B|Uh-huh.|b|3102
+B|Yeah,|aa|3102
+B|I know,|ba|3102
+B|I kind of feel the same way|sv|3102
+B|I, I just finished college a couple years ago|sd|3102
+B|and I, uh, you know,|%|3102
+B|it was while I had my family and everything and it was a lot harder,|sd|3102
+B|but, uh, you know, I went to a college that was fairly local|sd|3102
+B|and I feel like my education, you know,|sd|3102
+B|you get out of it what you put into it, I think.|sv|3102
+A|Uh-huh.|b|3102
+B|But, you know, I know,|%|3102
+B|it's,|%|3102
+B|some people are real adamant about, you know, going to a certain school or whatever.|sd|3102
+A|Uh-huh.|b|3102
+B|I do not know,|h|3102
+B|I guess it, a lot of it would depend on maybe what your major was or something,|sd|3102
+B|I do not know.|h|3102
+B|But,|%|3102
+A|Yeah,|aa|3102
+A|exactly.|aa|3102
+B|But,|%|3102
+A|I think one of the first things kids ought to look for is, first of all, they have to decide what they want to major in. And then, you know, find a school that's good for that.|sd|3102
+B|Uh-huh.|b|3102
+B|Yeah.|b|3102
+B|Is that why you picked the school you did|qy|3102
+B|or,|%|3102
+A|Well I picked it for a couple of reasons, it was only about an hour and ten minutes away from home, so it was far enough away that I was away, but yet close enough if I ever wanted to go home, I could.|ng|3102
+B|Uh-huh.|b|3102
+B|Yeah.|b|3102
+B|Yeah.|b|3102
+B|So you lived there at school then?|qy|3102
+B|You lived there at school.|qy^d|3102
+A|Yeah,|ny|3102
+A|I lived up at school.|sd|3102
+B|Uh-huh.|b|3102
+A|Yeah.|b|3102
+A|Uh, another reason was, uh, I paid for my entire education. So I had to look for something that I could afford economically.|sd|3102
+B|Uh-huh.|b|3102
+B|Right.|b|3102
+A|You know, and, uh, Clarion was, oh, it was roughly around six thousand a year.|sd|3102
+B|Uh-huh.|b|3102
+B|And that was for tuition|sd|3102
+B|and,|%|3102
+A|Yeah,|b|3102
+A|that was for everything.|sd|3102
+A|And now, I did not go out a lot|sd|3102
+A|and I did not order out a lot,|sd|3102
+B|Uh-huh.|b|3102
+A|and I, you know, I did not spend money on myself.|sd|3102
+B|Uh-huh.|b|3102
+A|But, uh, then again, I was there for school|sd|3102
+A|so,|%|3102
+B|Yeah.|b|3102
+A|Uh, and then another reason was I was not sure, you know,|sd|3102
+A|I always wanted to go to school for nursing, and then at the last minute, I changed my mind.|sd|3102
+B|Uh-huh.|b|3102
+A|And I knew that Clarion was known, you know, for two things,|sd|3102
+A|actually, for their,|%|3102
+A|they are known as a teacher's school and also for their business.|sd|3102
+B|Uh-huh.|b|3102
+A|So, that's what I ended up going for is for business.|sd|3102
+B|For business.|bf|3102
+A|Uh-huh.|aa|3102
+B|So, uh, are you working somewhere then|qy|3102
+B|or,|%|3102
+A|No,|nn|3102
+A|no|nn|3102
+A|not yet,|sd|3102
+A|I am moving shortly,|sd|3102
+A|so I am not looking around here.|sd|3102
+B|Oh, I see,|bk|3102
+B|where are you going to move to?|qw|3102
+A|Uh, Maryland.|sd|3102
+B|Oh, are you?|bh|3102
+A|Uh-huh.|ny|3102
+B|Do you have friends there|qy|3102
+B|or,|%|3102
+A|My fiancee is down there|sd|3102
+B|Oh, I see.|bk|3102
+B|So, does he work for a company down there?|qy|3102
+A|Yeah,|ny|3102
+A|he works for the government.|sd|3102
+B|Oh, I see.|bk|3102
+B|Oh, the big company.|bf|3102
+A|Yeah|aa|3102
+B|So, yeah,|b|3102
+B|I, I have been working for T I for about twelve years, I guess.|sd|3102
+B|So,|%|3102
+A|Uh-huh.|b|3102
+B|But I am not originally, I am originally from Illinois, but, you know, I have gone to college, I guess a few different places,|sd|3102
+B|but I think, you know, for the most part, you know, the teachers have been pretty good and I have got out of it what I have, what I have put into it.|sd|3102
+A|Uh-huh.|b|3102
+B|So, but, you know, I think, I think that's most of it personally,|sd|3102
+B|but that's why I, you know, with my kids, I think that, you know, I am just going to encourage them to go.|sd|3102
+B|And I am going to try to help them financially|sd|3102
+B|but, uh, I think, you know, financially, I am,|sd|3102
+B|there's only so much I can do for them,|sd|3102
+A|Exactly.|aa|3102
+B|and I will say, here's what you have got,|sd|3102
+B|you can either, you know, go a couple of years locally and, you know, then if you want to move off to a more expensive school then, we might be able to handle it. But, otherwise, you can just go for four years, you know, somewhere and I will try to, try to help you. But, uh, I do not know, you know, the financial end of it, like you said.|^q|3102
+A|Uh-huh.|b|3102
+B|I put my wife through school too.|sd|3102
+B|Of course T I paid for a lot of the tuition and books and stuff, but, uh, it still was a challenge to do.|sd|3102
+B|And, uh, so, I think, you know, financially that's, that's one of the big aspects.|sd|3102
+A|Exactly,|aa|3102
+A|yeah.|b|3102
+B|You know, you,|%|3102
+A|It does have a lot of bearing on it, whether you are paying for yourself, or whether your parents are, you know.|sv|3102
+B|Right.|b|3102
+B|Yeah.|b|3102
+B|Well, did you, uh, since you were paid for school yourself, do you think you had a different outlook on it, like your grades and things like that?|qy|3102
+A|Uh, yeah,|ny|3102
+A|because I was paying for it myself, I kind of slacked off,|sd|3102
+A|because I felt it was mine and I could do with it what I wanted.|sd|3102
+B|Uh-huh.|b|3102
+A|I think if my parents would have paid for it they would have been on me, you know,|sd|3102
+B|Uh-huh.|b|3102
+A|uh, they pretty much got to the point,|sd|3102
+A|well, well, you know, you are at that age|^q|3102
+A|and you are going to have to decide what you want to do.|^q|3102
+A|If you goof, up, it's your fault,|^q|3102
+B|Right.|b|3102
+A|it's not ours, you know.|^q|3102
+B|Right.|b|3102
+A|And then, lets me go|%|3102
+A|and, I mean, I did not do poorly.|sd|3102
+A|I finished with a two five,|sd|3102
+A|that's not that wonderful either.|sv|3102
+B|Uh-huh,|b|3102
+B|yeah.|b|3102
+A|But, uh, you know, I, I mean I worked,|sd|3102
+A|I did not, you know, goof around,|sd|3102
+B|Yeah.|b|3102
+A|I worked.|sd|3102
+B|Right.|b|3102
+A|It was just harder, you know,|sd|3102
+A|I do not know,|h|3102
+A|I was used to being, you know, on top|sd|3102
+A|and when I started there, it was like, you are mediocre,|sd|3102
+A|so.|%|3102
+B|Yeah.|b|3102
+B|Well see, I think, you know,|%|3102
+B|I have known a lot of people that would go to school and their parents paid for it|sd|3102
+B|and, and I guess it depends on the way you are raised too,|sd|3102
+B|but if you, if you grow to expect that, you know, you kind of go there as sort of a vacation, you know,|sv|3102
+A|Uh-huh.|b|3102
+A|Yeah.|b|3102
+B|I,|%|3102
+B|that's the way a lot of my friends did it|sd|3102
+B|and, you know, they were not, they did not take it very serious.|sd|3102
+B|I know I took it real serious,|sd|3102
+B|'cause I did not start to college until, you know, I was about eight or ten years and, uh, you know, out of what I should have been in school.|sd|3102
+A|Uh-huh.|b|3102
+B|But, uh, you know, so I think that helped me be real serious about it.|sd|3102
+B|And I, I ended up graduating with like a three point six.|sd|3102
+A|Oh, wow,|ba|3102
+A|that's really good.|sv|3102
+B|Yeah,|b|3102
+B|so I, you know,|%|3102
+B|and that was hard cause I had two kids, and, you know, a family and everything else,|sd|3102
+A|Uh-huh.|b|3102
+B|so I had a lot of different hats to wear all at the same time.|sd|3102
+B|But,|%|3102
+A|Yeah.|b|3102
+A|See, well I screwed myself up also,|sd|3102
+A|there was a point in time that I decided that I did not want to in school,|sd|3102
+A|and my parents never pushed me until my dad just said, what are you going to do|sd|3102
+A|and I said, well I am going to go because I have not whipping butter the rest of my life, you know.|sd|3102
+B|Yeah,|aa|3102
+B|you are right,|ba|3102
+B|exactly.|aa|3102
+A|So, I went and I just took business,|sd|3102
+B|Uh-huh.|b|3102
+A|well, being as I was paying for it myself, you know, I just kept,|sd|3102
+A|you do not get into your major until like your second or third year.|sd|3102
+B|Right.|b|3102
+A|And I am going into my third year|sd|3102
+A|and I decided, well I do not want to do accounting anymore,|sd|3102
+A|right|%|3102
+B|Uh-huh.|b|3102
+A|and I thought, oh, my God, I am paying for this myself,|sd|3102
+A|I am not switching completely because, I will put myself a year behind.|sd|3102
+B|Right.|b|3102
+B|Yeah.|b|3102
+A|So I switched to finance,|sd|3102
+A|and I liked it better|sd|3102
+A|and I pulled myself from a two oh to a two five, you know, in my last year, my senior year.|sd|3102
+B|Uh-huh.|b|3102
+B|Yeah.|b|3102
+A|But I would have really liked to go on, uh, secondary ed with math education,|sd|3102
+B|Uh-huh.|b|3102
+A|but it was just the fact I was paying for it myself,|sd|3102
+A|I was not going, to put myself behind another year.|sd|3102
+B|Right.|b|3102
+B|Right.|b|3102
+B|Well my wife, was sort of in the same situation,|sd|3102
+B|she was, she went to school to be a teacher just because she did not really know what else to go, for,|sd|3102
+A|Uh-huh.|b|3102
+B|and she did not realize until she got to be a senior and was doing her student teaching that she did not like it.|sd|3102
+A|Uh-huh.|b|3102
+B|But, you know, by then she had practically got her degree,|sd|3102
+B|so,|%|3102
+A|Exactly.|aa|3102
+B|so, you know,|%|3102
+A|I think if, uh, I would have went with the math, I think I would have done a lot better, because I was more interested.|sd|3102
+B|Uh-huh.|b|3102
+A|And that's what I, I knew that's what I wanted.|sd|3102
+A|But, uh, I think a lot of kids that hold off a year or two,|sd|3102
+B|Uh-huh.|b|3102
+A|oh, my gosh,|ba|3102
+A|I would like to see the results on a study done.|sd|3102
+A|I think they would do a lot better. Because they are more focused.|sv|3102
+B|Yeah.|b|3102
+A|They know exactly what they want to do.|sv|3102
+B|Yeah,|b|3102
+B|I think, I think you are right,|sd|3102
+B|when you pull yourself away and then you get out and you say, man I really need this.|sd|3102

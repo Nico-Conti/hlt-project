@@ -1,0 +1,119 @@
+A|So how do you feel about it?|qo|4812
+B|Uh, I, I don't see any problem with, with testing for random drugs.|sv|4812
+A|Yeah.|b|4812
+A|I, I, myself, almost, uh, am in favor of it.|sd|4812
+A|Uh, I work at Honeywell|sd|4812
+A|and I went through a, a pretty, I don't know, I went through a, standard drug testing thing before I, I was brought on.|sd|4812
+B|Uh-huh.|b|4812
+A|I think that's pretty standard.|sd|4812
+A|At least at Honeywell it is.|sd|4812
+A|Uh, I think it's important to insure the quality and, and, uh, I don't know, almost the goodness of character. You know  that kind of thing.|sv|4812
+B|Yeah.|b|4812
+A|Where do you work?|qw|4812
+B|Uh, well I'm a graduate student right now at Carnegie Mellon.|arp_nd|4812
+A|Oh, okay.|bk|4812
+A|Oh, okay.|bk|4812
+B|And I, I just came from Saint Paul. Uh, interviewing with Three M.|sd|4812
+A|Huh.|b|4812
+A|Oh, great.|ba|4812
+B|And, uh, they have a policy for, uh, testing.|sd|4812
+B|If you, if they make you an offer, then they'll test you right before you start.|sd|4812
+A|Right.|b|4812
+B|And I guess the only drawback I can see to, to drug testing is in, in case you are on some sort of medication that might give some, uh, sort of false positive result then there could  be some sort of problem.|sv|4812
+A|Uh-huh.|b|4812
+A|Yeah.|b|4812
+B|But|%|4812
+A|Yeah.|aa|4812
+A|And that, that definitely happens, you know.|aa|4812
+A|I mean those, the drug tests, sure they're accurate|sv|4812
+A|but there's always that margin of error.|sv|4812
+B|Yeah.|b|4812
+A|And that's, that's something to be aware of.|sv|4812
+A|Another thing is, a lot of times, you know, they aren't that accurate.|sv|4812
+A|They aren't that sensitive.|sv|4812
+A|Like if you're on a prescription drug of some kind, you know, what are they going to do about that|qh|4812
+B|Yeah|b|4812
+A|You know, I was on a couple of different prescription drugs when I was tested for Honeywell|sd|4812
+A|and, uh, uh, you know, I know they didn't catch that or else they would have said something.|sv|4812
+A|Uh, I'm sure they screen for just a particular few types.|sv|4812
+A|Although the literature they give with you says yeah we do this|sd|4812
+A|and then they list about five thousand drugs they try to test for.|sd|4812
+B|Right.|b|4812
+A|Uh, I don't know.|h|4812
+A|What, what program are you in over at Carnegie Mellon?|qw|4812
+B|Uh, electrical engineering.|sd|4812
+A|Oh, okay.|bk|4812
+A|Great.|ba|4812
+A|Uh, yeah,|%|4812
+A|I'm a graduate student at U C F in Florida. University of Central Florida.|sd|4812
+B|Oh, wow .|ba|4812
+A|And this is actually a an internship up here.|sd|4812
+A|But, uh, they, uh, even for interns they, they do the whole random drug or the whole drug testing thing,|sd|4812
+A|so.|%|4812
+B|They test you, uh, before they, before you start or before you even  interview|qy|4812
+A|Right.|b|4812
+B|or,|%|4812
+A|Uh, they essentially,|%|4812
+A|no|nn|4812
+A|I sure don't to someone talking to uh,|t3|4812
+A|they essentially, uh, they essentially, uh, made me the offer and then, and then, uh, did the drug testing thing after that.|sd|4812
+A|So, uh, it was one of those things where you go through the, the general battery of all their tests|sd|4812
+A|and, and then, they essentially give you the offer|sd|4812
+B|Uh-huh.|b|4812
+A|and then at that point they'll, they'll ask you to go to a drug testing and things like that.|sd|4812
+B|Oh.|bk|4812
+A|So, uh, there's some noise on this end.|sd|4812
+A|I'm actually in a mall calling|sd|4812
+A|so|%|4812
+B|Oh|b|4812
+A|You probably wondered, huh.|qy|4812
+A|But,|%|4812
+B|Yeah.|ny|4812
+B|what happens if you were to fail?|qw|4812
+B|Then do they give you like one one more chance or two more chances?|qy|4812
+A|Yes.|ny|4812
+A|That's a good question.|ba|4812
+A|I believe from what I remember of the literature they gave, uh, if you fail I believe they give you one more chance.|sd|4812
+A|They probably give you a chance to explain yourself and then maybe give you another chance to go through it.|sd|4812
+B|Uh-huh.|b|4812
+A|But, uh, you know, once again, those things are not that accurate|sv|4812
+A|so there's undoubtedly a proportion of people who do fail, you know.|sv|4812
+A|But, uh,|%|4812
+A|are you working right now anywhere|qy|4812
+A|or,|%|4812
+B|Uh, no.|nn|4812
+A|Okay.|bk|4812
+B|I'm just about to finish my Master's in May and, uh  just interviewing with companies right now.|sd|4812
+A|Oh, okay.|bk|4812
+A|Great.|ba|4812
+A|Yeah.|b|4812
+A|That was the first time I'd ever gotten any kind of drug screening, you know. Was, was going to Honeywell.|sd|4812
+A|A friend of mine is also a doctoral student down there.|sd|4812
+B|Uh-huh.|b|4812
+A|And he's doing an internship with I B M.|sd|4812
+B|Oh.|b|4812
+A|And, uh, they, basically, uh, did the same exact thing.|sd|4812
+A|Uh, we both got our internships at the same time|sd|4812
+A|and we both had to go through drug testing at the same time.|sd|4812
+A|So, one of those things where we went through a kind of an identical process.|sd|4812
+A|But, uh,|%|4812
+B|Did, do they test you at, right now, at work too?|qy|4812
+A|No,|nn|4812
+A|no.|nn|4812
+A|That's  one thing they don't do is, is drug testing while you're on the job.|sd|4812
+B|Okay.|bk|4812
+A|Uh, I think, I think the unwritten rule is, yeah, expect it|sd|4812
+A|but they don't do it.|sd|4812
+B|Oh|bk|4812
+A|You know, so. That's good I guess.|sv|4812
+A|I don't know.|h|4812
+A|I mean, I, uh, I have gone to a couple of parties since, since that time|sd|4812
+A|and while I don't do any drugs myself, I've seen some people who work there, uh, you know, smoking a joint or whatever.|sd|4812
+B|Uh-huh.|b|4812
+A|And, uh, you know, that's the kind of thing that would definitely come up, you know.|sd|4812
+A|But no,|nn|4812
+A|they don't, they don't really do that.|sd|4812
+A|So.|%|4812
+B|Wow.|ba|4812
+B|Is it formal policy that they said they might test?|qy|4812
+A|Yeah|ny|4812

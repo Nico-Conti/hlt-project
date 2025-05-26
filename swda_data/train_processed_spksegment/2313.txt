@@ -1,0 +1,218 @@
+A|Well, how many credit cards do you have?|qw|2313|0
+B|Um, I've only, I've got about four maybe.|sd|2313|1
+B|I try to limit them because I, well one, I don't use them too much.|sd|2313|1
+B|And I use my Visa just for for about everything,|sd|2313|1
+B|and I pay it all off.|sd|2313|1
+B|So I try not to,|sd|2313|1
+B|I just use it for free money for thirty days basically.|sd|2313|1
+A|Sounds like we have no conflict.|sv|2313|0
+A|We had,|%|2313|0
+A|for a while I was carrying one card|sd|2313|0
+A|and my wife was carrying a different one.|sd|2313|0
+A|And since the slips all look alike, uh, you commingle them|sd|2313|0
+A|and then you get the statement|sd|2313|0
+A|and you try to sort them out, uh,|sd|2313|0
+A|and it, uh, it caused more confusion about it.|sv|2313|0
+A|I finally said, Gee, this is kind of a waste of time.|sd|2313|0
+A|And then when A T and T came along and offered a free one, uh, I accepted that,|sd|2313|0
+A|and we've been using that one.|sd|2313|0
+A|Uh, the interesting thing is, is that, uh, the amount of money you can can run up on them.|sv|2313|0
+A|I don't know,|h|2313|0
+A|do you know any people that run up big, big bills?|qy|2313|0
+B|I'm, I'm you know, I'm in the age group you get out of college,|^h|2313|1
+B|and I think a lot of these people have them maxed out.|sv|2313|1
+A|Well, did, um, were you able to get one while you're in college?|qy|2313|0
+B|Um, I don't think I ever tried.|ng|2313|1
+A|Just curious, because I have a son that's a senior this year,|sd|2313|0
+A|and he's heading off, with any kind of luck,|sd|2313|0
+A|but there has been,|%|2313|0
+A|I've had a couple of ads for, for, for to provide a card for a college student.|sd|2313|0
+A|Uh, what do you think about the idea of providing one for somebody like that?|qo|2313|0
+B|Um, well,|arp_nd|2313|1
+B|yeah,|%|2313|1
+B|I, I, you know,|%|2313|1
+B|it's, you know, feasible,|sv|2313|1
+B|I mean, I know a lot of college kids who have them, you know, who had them, but just depends.|sd|2313|1
+A|Well, that, that, that, I guess from the, from the card issuer, uh, that|%|2313|0
+A|since, since it's, it's in, the parent gets it for them, that really the parent becomes the one that's responsible,|sd|2313|0
+A|but it's,|%|2313|0
+B|Yeah,|b|2313|1
+B|so basically if you want to take the risk|qy^d|2313|1
+A|Yes,|ny|2313|0
+A|it's whether the parent wants to take the risk.|bf|2313|0
+B|It's your risk,|sd|2313|1
+B|do you trust, your, your son,|qh|2313|1
+A|Yeah,|b|2313|0
+A|to, to go run up a big bill|^2|2313|0
+A|and, the thing is, there some advantages, if he got off some place and stranded.|sv|2313|0
+B|Uh-huh.|b|2313|1
+A|I, I'm, I'm leaning towards doing it for, for a convenience,|sd|2313|0
+B|Uh-huh.|b|2313|1
+B|I'd say, you know, have one with, you know at least a thousand dollar credit limit or something.|sv|2313|1
+A|Yeah,|b|2313|0
+A|and the idea that, you know, if he got in trouble, there's some, some ways of getting out, and that he doesn't have to carry cash.|bf|2313|0
+A|The, uh,|%|2313|0
+A|I, I like the idea of credit cards that, uh, I don't, I don't, I don't carry cash around, and, and, uh, I don't even carry checks around.|sd|2313|0
+A|I let my wife take the checkbook,|sd|2313|0
+A|and she writes the checks,|sd|2313|0
+A|and I record them.|sd|2313|0
+A|So it's, uh, it's, uh, it's, but it's interesting that, uh, the people that can, that can, uh, the amounts of money you can run up on, on credit cards,|sv|2313|0
+A|and, uh, I, I had recently had some dealings with a fellow that|sd|2313|0
+A|they had run up, he was making, oh, considered a modest salary for an engineer,|sd|2313|0
+A|and he had run up, uh, more than a years salary in, in various debts to,|sd|2313|0
+A|and he wound up declaring bankruptcy|sd|2313|0
+A|but there,|%|2313|0
+A|it, it's hard to believe that you'd run up twenty, thirty thousand dollars of, uh,|sv|2313|0
+A|well, it was a combination of things he had,|sd|2313|0
+B|Uh-huh.|b|2313|1
+A|there were, there were several credit cards,|sd|2313|0
+A|and then there were several other businesses,|sd|2313|0
+B|The, the extended loan payment for your car.|^2|2313|1
+A|Yes,|aa|2313|0
+A|yeah.|aa|2313|0
+B|Yeah.|ny|2313|1
+B|I saw that.|sd|2313|1
+A|The interesting thing about that is, is that, uh, that, that they're encouraging you to incur more, incur more debt,|sv|2313|0
+A|and,|%|2313|0
+B|Well, it's, it's, it's business,|sd|2313|1
+B|and they're making money off that.|sd|2313|1
+A|And they make more money if you extend your loan.|sd|2313|0
+B|Yeah,|b|2313|1
+B|and, and it's, so it's business,|sd|2313|1
+B|so, and you notice that they're, they're only going to do it to like cars that are one or two years old.|qy^d|2313|1
+A|Yes.|ny|2313|0
+B|And so they've already shifted the risk.|sd|2313|1
+B|If they assume that car, then they just have to sell it themselves,|sd|2313|1
+B|and they'll recover the loan,|sd|2313|1
+A|And they know that people own a car that new unless absolutely die of service *listen; can't be right transcription|sd|2313|0
+A|they're not going to keep on if the car were older.|sv|2313|0
+B|Uh-huh.|b|2313|1
+A|The interesting thing about it is is that from a, uh, uh, an economy standpoint or in economics,|sv|2313|0
+A|I, I thinks it's, I think it's poor, poor, uh, economics to, to carry all that consumer debt at least from a tax standpoint,|sv|2313|0
+B|Yeah.|b|2313|1
+A|so. It's interesting that, that the American public is encouraged to incur all that debt and then next year none of it will be deductible,|sv|2313|0
+A|and this year it's ten percent or so.|sd|2313|0
+B|Yeah,|b|2313|1
+B|uh.|%|2313|1
+A|It's, uh, it's interesting that, that, uh, they encourage us to do things,|sv|2313|0
+B|What, now what's ten percent, we can deduct,|br|2313|1
+A|I think ten percent,|sd|2313|0
+A|yes.|fo_o_fw_"_by_bc|2313|0
+B|I didn't know that.|sd|2313|1
+A|Of your, of your consumer credit.|sd|2313|0
+A|Oh, if you had a thousand dollars, that means there's another hundred dollar deduction I've given you.|sd|2313|0
+B|I didn't think you could,|qy^d|2313|1
+B|any thing on a loan or, I mean a mortgage I know you can,|sd|2313|1
+A|Yeah,|ny|2313|0
+A|it's on, uh, yeah.|sd|2313|0
+A|Yeah,|b|2313|0
+A|on the, the,|%|2313|0
+A|there's, there's, there's a place for consumer debt|sd|2313|0
+A|and then you take ten percent of it,|ad|2313|0
+A|on the,|%|2313|0
+B|Oh, I've never itemized yet.|sd|2313|1
+A|Oh, okay,|b|2313|0
+B|So maybe that's. Schedule A or,|h|2313|1
+A|It's on schedule, um, Schedule A under, uh,|sd|2313|0
+A|well, it's the same place, it's the same place you put, uh, interest.|sd|2313|0
+A|But, but see that's what, that's what makes Texas squirrelly laws that you can't, you can't take out a, a second mortgage, like some states where you can take out the mortgage and declare that,|sv|2313|0
+A|and so, uh, it's fully deductible.|sd|2313|0
+A|The laws are a little squirrelly,|sv|2313|0
+A|but it basically comes down to|sd|2313|0
+A|it's not in your best interest to borrow money from a tax standpoint.|sv|2313|0
+B|Yeah.|b|2313|1
+A|But, uh, anyway,|%|2313|0
+B|Yeah,|b|2313|1
+B|I try, I, I really do, I just try to stay out of debt,|sd|2313|1
+B|and I, and I use my Visa for, for as much as I can,|sd|2313|1
+B|and I pay it all off,|sd|2313|1
+B|and,|%|2313|1
+A|Sounds like you're, you're very very financially responsible.|qy^d|2313|0
+A|It's, uh, That's, uh,|%|2313|0
+B|Uh-huh.|ny|2313|1
+A|there're a lot of people who really run,|sv|2313|0
+A|my boss drives quite a ways to work,|sd|2313|0
+A|and he's got just enormous debts,|sd|2313|0
+A|and he's,|%|2313|0
+A|but, I mean, what do you say, it's like, Shucks, Boss, I'm sure sorry you've got all that debt.|qh|2313|0
+A|Well, he's had, had two kids in college and, and this kind of thing,|sd|2313|0
+A|and that|%|2313|0
+B|Uh-huh.|b|2313|1
+A|I think that the whole credit card issue, I think they certainly encourage people to run up the debts|sv|2313|0
+A|and, but I agree with you|sd|2313|0
+B|Yeah.|b|2313|1
+A|I don't, I my debts.|%|2313|0
+A|Well, I did buy a new house last summer.|sd|2313|0
+B|Hell, I took a five year note out on my car when I, right when I got out of college,|sd|2313|1
+B|and, uh, I'll never do that again.|sd|2313|1
+B|I still got a couple of years on it to go,|sd|2313|1
+B|and I'm,|%|2313|1
+A|It's, it's remarkable how many people as soon as they get out of college buy a new car,|sv|2313|0
+A|and that, uh, apparently that's been going on for a really long time.|sv|2313|0
+A|I didn't do it.|sd|2313|0
+A|I, I bought a second hand car when I was, the middle of my senior year.|sd|2313|0
+B|Well, you, you think you're starting out well, until you start paying all those bills. Uh, apartment rent,|sv|2313|1
+A|Yep.|b|2313|0
+B|and,|%|2313|1
+A|Miscellaneous things like food and other things,|^2|2313|0
+B|Yeah.|b|2313|1
+A|these habits you get into, eating|sd|2313|0
+A|and, and, uh, it's, it's, it's amazing how it, what you learn.|sv|2313|0
+B|Yeah,|b|2313|1
+B|so.|%|2313|1
+A|Well, anything else good to say about credit cards?|qy|2313|0
+B|Um|%|2313|1
+A|I might just,|%|2313|0
+B|you know, they're convenient, you know,|sv|2313|1
+B|that's probably one big thing about them,|sv|2313|1
+B|and, uh,|%|2313|1
+A|You don't have to carry the cash,|bf|2313|0
+A|and, and, uh, and it's, it's, it's certainly accepted more places than, the places, you know,|sd|2313|0
+A|it's hard to cash a check if you're out of state,|sd|2313|0
+A|and,|%|2313|0
+B|Yeah,|b|2313|1
+B|well, I was used to using my credit card, like at Skaggs Alpha Beta in Dallas, and stuff|sd|2313|1
+A|Yeah.|b|2313|0
+B|and now I'm out here in Phoenix.|sd|2313|1
+A|They don't allow, they don't do|sd|2313|0
+B|They, they,|%|2313|1
+B|none of these grocery stores take any credit cards,|sd|2313|1
+B|so now I have to carry cash when I go to the grocery store, which is new to me, you know,|sd|2313|1
+B|I got to have sixty bucks on me or something.|sd|2313|1
+A|Yeah.|b|2313|0
+B|So, uh that was interesting, cause I always, you know,|sv|2313|1
+A|Carry all that cash with you.|bf|2313|0
+B|you didn't have to worry about carrying that much unless I knew I,|sd|2313|1
+A|Well, you know they, they they've started towards a little bit of the debit card,|sd|2313|0
+A|have you seen the debit cards where they actually debit your account when you,|qy|2313|0
+B|Yeah,|ny|2313|1
+B|I've heard about them.|sd|2313|1
+A|Yeah,|b|2313|0
+A|and I think that's where,|sv|2313|0
+B|That's mostly locally,|sd|2313|1
+B|the banks will line up with, uh.|sd|2313|1
+A|Yeah,|b|2313|0
+A|I've seen a couple,|sd|2313|0
+A|although the,|%|2313|0
+A|so many of the grocery stores don't do that because of the, the time frame which they get paid, in general,|sv|2313|0
+A|that, uh,|%|2313|0
+A|they,|%|2313|0
+A|I've seen checks deposited the very next day, I mean, cleared my account the next day.|sd|2313|0
+A|My wife will write a check for groceries|sd|2313|0
+A|and, you know, almost,|%|2313|0
+A|well I guess it's the day after, uh,|sd|2313|0
+A|technically it's two days,|sd|2313|0
+A|but they took that check and scurried it to the bank|sd|2313|0
+A|and the bank scurried it back to my account,|sd|2313|0
+A|and you thought there'd be just a little bit of float,|sd|2313|0
+A|but apparently that's why the, uh, the, uh, the, uh, grocery stores are reluctant to do that, because their volume, that is quite high,|sv|2313|0
+A|and they have, uh,|%|2313|0
+A|the costability of the cash flow is a big issue for them.|sv|2313|0
+B|Yeah.|b|2313|1
+A|Anyway.|fc|2313|0
+A|Well, it's good talking to you.|fc|2313|0
+B|All righty.|fc|2313|1
+A|Maybe we'll get across, we'll cross paths again.|fc|2313|0
+A|Good night.|fc|2313|0
+B|All righty.|fc|2313|1
+B|Take it easy.|fc|2313|1

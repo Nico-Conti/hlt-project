@@ -1,0 +1,297 @@
+A|Okay,|fo_o_fw_"_by_bc|2789
+A|are you on any kind of, uh, regular exercise plan?|qy|2789
+B|I, I, yeah, I'm, yeah, I, I do aerobics, uh, step classes and, uh,  toning classes,|na|2789
+A|Step classes?|br|2789
+B|yes.|ny|2789
+A|What's that?|qw|2789
+B|It's, uh, it's a new, uh, form I think,|sv|2789
+B|uh, it's like low impact aerobics|sv|2789
+B|but at, it ...|%|2789
+A|Oh, instead of hopping and jumping you just step|bf|2789
+B|Uh-huh.|aa|2789
+B|Yeah,|aa|2789
+B|you, you have a step|sd|2789
+B|and you literally step up on the step and move your arms,|sd|2789
+B|it's, it's, it's, it's new,|sd|2789
+A|Huh.|%|2789
+B|it's fun.|sv|2789
+A|I probably couldn't do that because of my knee|sv|2789
+B|Uh-huh,|b|2789
+B|bad knee|bf|2789
+A|Yeah.|aa|2789
+B|Um, and, uh, I do toning a lot and, uh, some,|sd|2789
+B|every once in a while I play tennis,|sd|2789
+A|Yeah.|b|2789
+B|I'm not too great at it|sd|2789
+B|but I, I try to play,|sd|2789
+A|Yeah,|b|2789
+A|I've, I've kind of gotten out of the habit myself,|sd|2789
+A|I mean, it's|%|2789
+A|I guess what I do now is I play softball, right now,|sd|2789
+B|Uh-huh.|b|2789
+A|that's about,|%|2789
+A|well, right now I'm on two teams|sd|2789
+A|so it's four nights a week.|sd|2789
+B|Gosh|ba|2789
+A|But, uh, uh, so I enjoy it|sd|2789
+A|but, as far as, you know, uh,|%|2789
+B|Uh-huh.|b|2789
+A|instead of having to join a health club and make myself go out there, I went and bought a weight bench, and don't ever hardly use it.|sd|2789
+B|Uh-huh.|b|2789
+B|Ha,|b|2789
+B|right,|b|2789
+A|I need to make myself do that.|sv|2789
+B|yeah,|b|2789
+B|I slacked off a little because of, um,|sd|2789
+B|I'm about to graduate from college|sd|2789
+B|and so this past couple months have been really hectic|sd|2789
+B|so I haven't really gone,|sd|2789
+B|and I've really faithful these past two months of going to the health club and working out|sd|2789
+B|but ...|%|2789
+A|What school you going to?|qw|2789
+B|I'm at East Carolina.|sd|2789
+A|Oh|bk|2789
+B|But, um, no,|b|2789
+B|I, uh,|%|2789
+B|my step classes and toning is about the only thing|sd|2789
+B|well, I mean ...|%|2789
+A|Now what's, what's toning?|qw|2789
+A|Is that lifting weights?|qy|2789
+B|It's, um, like isolated movements for each muscle certain muscles groups,|sd|2789
+A|Oh, okay.|bk|2789
+B|you can do with,|sd|2789
+A|Isometrics, stuff like that.|bf|2789
+B|Yeah,|aa|2789
+B|you can do it with certain, you know, you can do it with weights if you wanted to|sd|2789
+B|but, you know, you leave out of there|sd|2789
+B|usually the next morning, if you haven't done it in a while, you wake up the next morning|sd|2789
+B|you're like, oh, no,|sd|2789
+B|what did I do to myself|^q|2789
+B|and your whole body aches, you know.|sd|2789
+A|Yeah.|b|2789
+B|Um, I know I'm looking forward to getting back into getting into shape,|sd|2789
+B|uh, I feel like I'm out of shape|sv|2789
+B|but I feel guilty for not going, because I really I'm, I'm so used to going for, you know, three or four years now.|sd|2789
+A|Uh-huh.|b|2789
+A|Yeah,|b|2789
+A|I, stayed in pretty good shape during school.|sd|2789
+B|But, um,|%|2789
+A|I played baseball, all the way through|sd|2789
+B|Uh-huh.|b|2789
+A|and, you know, working out six hours a day, usually six or seven days a week that kind of, kept us all in pretty good shape,|sd|2789
+B|Oh, yeah.|aa|2789
+B|Oh, yeah.|aa|2789
+A|But, uh, ever, ever since I got out of school, you know, just jumped right into the job|sd|2789
+A|and, I guess the job that I'm in it's stuff to stay on any kind of a regular schedule. *listen; possible typo stuff = tough?|sv|2789
+B|Uh-huh.|b|2789
+B|Uh-huh.|b|2789
+A|Because I work some weird hours and do some traveling.|sd|2789
+B|Uh-huh.|b|2789
+B|No,|b|2789
+B|some, um,|%|2789
+B|I walk a lot because, uh, you know, being in, in school we,|sd|2789
+A|Yeah.|b|2789
+B|I don't know if your campus was anything like ours,|sd|2789
+B|but our parking lot's in one end of the, of the campus|sd|2789
+B|and the school, the buildings are all at the other end,|sd|2789
+B|so.|%|2789
+A|No,|ar|2789
+A|I didn't have, well, much of a problem|sd|2789
+A|we, I guess I went to a small Baptist school|sd|2789
+A|and we had about, when I was there, maybe thirteen hundred people.|sd|2789
+B|Uh-huh.|b|2789
+B|Oh, okay,|b|2789
+B|that's if ...|%|2789
+A|So, it's pretty small.|sv|2789
+A|Yeah.|%|2789
+B|Yeah.|b^m|2789
+B|Yeah.|b|2789
+A|But I usually get in at least a couple of miles at work just walking around the plant.|sd|2789
+B|Uh-huh.|b|2789
+A|So,|%|2789
+B|Yeah,|b|2789
+B|it's, uh,|%|2789
+B|I live, I live on the second story apartments|sd|2789
+B|so I walk up and down stairs all day long,|sd|2789
+B|so.|%|2789
+B|Uh,|%|2789
+A|Uh, we've got a one story house now|sd|2789
+A|that's, that's enough.|sv|2789
+A|I guess I push the lawn mower around|sd|2789
+A|that's, fairly regular|sd|2789
+B|Yeah|b|2789
+B|one of the exercise,|bf|2789
+A|Yeah.|aa|2789
+B|I, I, um, would like to start running.|sd|2789
+B|I've never been much of a runner|sd|2789
+B|but I want to start,|sd|2789
+B|I want to run|sd|2789
+B|but I don't, I don't know if I'll be able to, to do it.|sd|2789
+A|What|%|2789
+A|just, because you don't like to or because, because you won't be able to.|qy|2789
+B|I'm, I'm afraid I won't be able to.|sd|2789
+A|Oh, if you do, if you do aerobics you shouldn't have any problem running.|sv|2789
+B|I|%|2789
+B|Yeah.|b|2789
+B|I hope not. Um,|sd|2789
+A|We've, we ride our bike occasionally but again not nearly often enough|sd|2789
+B|Uh-huh.|b|2789
+B|I don't even own a bike,|sd|2789
+B|I think the last time I was on a bike when I was about twelve,|sv|2789
+B|so.|%|2789
+B|Uh, I don't know,|h|2789
+B|I'd be afraid, afraid I probably forgot how to ride a bike, you know.|sv|2789
+A|No,|ar|2789
+A|you can't forget how to ride a bike.|sv|2789
+B|Yeah,|b|2789
+B|but, um, no,|b|2789
+B|I guess that's about the only form,|sv|2789
+B|I'm trying to think of, of other things that I do that will be considered exercise,|sd|2789
+A|Yeah.|b|2789
+B|there are things I should do.|sv|2789
+B|I know|%|2789
+A|Now, when I was going to,|sd|2789
+A|I, I went to a junior college for a couple of years and played baseball and then transferred,|sd|2789
+A|well, when we were at this junior college, uh, our coach, you know,|sd|2789
+A|we,|%|2789
+A|one semester the whole team was required to take aerobics|sd|2789
+A|and the next semester they were required to do weight lifting.|sd|2789
+B|Uh-huh.|b|2789
+A|So, they, uh,|%|2789
+A|I mean, it was a regular,|sd|2789
+A|I mean, we had it for course credit,|sd|2789
+B|Uh-huh.|b|2789
+A|but still, I mean, it was pretty high impact stuff,|sd|2789
+B|Those aerobic classes are, are tough the, the high impact.|sv|2789
+A|Uh-huh.|b|2789
+B|Definitely are, are tough classes.|sv|2789
+A|Yeah,|b|2789
+A|and she'd, uh, you know,|%|2789
+A|most of the guys were all in one class|sd|2789
+A|so she'd kind of lay it on occasionally, you know,|sd|2789
+B|Uh-huh.|b|2789
+A|First at eight, I think we had|sd|2789
+A|eight o'clock in the morning, was our class.|sd|2789
+B|Uh-huh.|b|2789
+A|Wake up.|ad|2789
+B|Well, now they have those, uh, those exercise bands now that are better that you can use for like toning instead of using a weight,|sd|2789
+A|Uh-huh.|b|2789
+B|you have like bands,|sd|2789
+B|I don't know, if you've seen them,|qy^d|2789
+A|Yeah.|ny|2789
+B|they're ... Yeah, they're, they're weird.|sv|2789
+A|I think my wife has some.|sd|2789
+B|They're, uh, you they're just made of, I guess it's different kinds of rubber,|sv|2789
+A|Uh-huh.|b|2789
+B|uh, and they get,|%|2789
+A|Or sand even some of them,|^2|2789
+A|well, no,|ar|2789
+A|they're elastic|sd|2789
+A|so I guess it wouldn't be sand.|sv|2789
+B|Uh-huh.|b|2789
+B|And there's some that, like the different colors denotes how much they, how much the tension I guess they are and how easy they are to move.|sd|2789
+A|Huh.|%|2789
+B|Uh, there's like, I know there's purple, gray, and, uh, green.|sd|2789
+B|And some of them are real short|sd|2789
+B|and they're the ones that are the tough ones to use, you know.|sd|2789
+A|Yeah.|b|2789
+B|But, uh, those classes I, I enjoy.|sd|2789
+B|Uh, I think, uh, with the aerobic classes you have to get an instructor that's fun.|sv|2789
+B|If you don't have one that's fun, and not enjoy it, look, not acting like she's enjoying what she's doing, the class is not going to get out, uh, what they should get out of the class.|sv|2789
+A|Yeah.|b|2789
+B|Uh, if the,|%|2789
+A|So, are you going to get into instructing?|qy|2789
+A|Well, what are you studying?|qw|2789
+B|Oh, I'm an interior design major,|sd|2789
+A|Oh, okay,|bk|2789
+A|not in the, not in the, aerobic instructor type field.|qy^d|2789
+B|Oh.|b|2789
+B|No,|nn|2789
+B|no,|nn|2789
+B|no,|nn|2789
+B|no,|nn|2789
+B|oh, I could never do that I don't think,|sv|2789
+B|I'd rather just be the student,|sd|2789
+B|And, uh, Occasionally I do the weights at the health club but low weights just ...|sd|2789
+A|Yeah.|b|2789
+A|Yeah,|b|2789
+A|the, uh, the, some of the Nautilus equipment that I started seeing at the one that we used to go to was really interesting,|sv|2789
+A|I mean, they, they, they really know how to isolate each of the different muscle groups, with those things|sv|2789
+B|Uh-huh.|b|2789
+A|but, man, they are, it,|%|2789
+A|I don't know|h|2789
+A|to me that was just too much of a hassle to get all geared up and take the time to drive over there, and workout and then drive back|sv|2789
+B|Uh-huh.|b|2789
+B|Right.|b|2789
+B|Well, they, um, I just noticed at our health club they put these computerized one, these computerized machines,|sd|2789
+B|and you set a speed on it and the weight|sd|2789
+B|and it, and it makes you do it.|sd|2789
+B|And it tells you|sd|2789
+B|like if you're going too slow it will say, my grandmother could do this faster than you. And stuff like, a turtle goes faster|sd|2789
+B|and, um, it tells it|sd|2789
+B|and the whole place can hear what this machine is telling you.|sd|2789
+A|A little negative reinforcement there while you're going.|bf|2789
+B|Yeah|aa|2789
+B|So, uh, do that, stuff like that|sd|2789
+B|but just I've never used those machines|sd|2789
+B|I just use the regular machines and the free weights, you know, like little five pound hand weights and eight pound hand weights.|sd|2789
+A|Yeah.|b|2789
+B|to do, you know, some bicep, tricep exercises.|sd|2789
+B|Sit-ups, of course.|sd|2789
+A|yeah,|b|2789
+A|that's, that's where I'm really starting to get noticeable,|sd|2789
+B|Uh-huh.|b|2789
+A|I'm just getting real soft in the middle.|sd|2789
+B|Oh, yeah,|aa|2789
+B|I think that's, uh, number one problem with everyone|sv|2789
+A|Uh-huh.|b|2789
+A|I haven't really started to put on a lot of weight|sd|2789
+A|I'm, I guess I probably put on about ten, nine or ten pounds, since I stopped playing, which was about four years ago.|sd|2789
+B|Uh-huh.|b|2789
+A|But I've, just myself I just notice myself just really, real soft|sd|2789
+A|and I'm sure I don't have near the endurance that I did,|sv|2789
+B|Yeah.|b|2789
+A|But I, I intend, I keep saying I intend to get back into it.|sd|2789
+B|Uh-huh.|b|2789
+B|Yeah.|b|2789
+A|I just need to, put the old nose to the grindstone,|sv|2789
+A|I, I, I guess at that point it would turn into a task,|sv|2789
+B|Uh-huh.|b|2789
+A|I don't consider it fun doing that,|sd|2789
+A|but.|%|2789
+B|Right.|b|2789
+B|Yeah,|%|2789
+B|I plan on getting back, once I graduate next weekend.|sd|2789
+A|Next weekend?|b^m|2789
+B|Next weekend.|aa|2789
+A|All right.|bk|2789
+B|Yeah,|b|2789
+B|one week,|sd|2789
+B|Then I plan to get right back into it.|sd|2789
+B|You know, it's, it does a lot for you I think.|sv|2789
+A|Yeah,|b|2789
+B|Makes you feel a lot better.|sv|2789
+A|oh, no,|aa|2789
+A|yeah,|aa|2789
+A|there, there's no, no question the, the end result is great|sv|2789
+A|and I, I mean, I enjoyed, you know,|sd|2789
+A|we,|%|2789
+A|when I was playing ball we could like run all day and not be tired, you know|sd|2789
+B|Uh-huh,|b|2789
+B|and I mean you feel so much better, about yourself.|sv|2789
+A|Yeah.|b|2789
+A|Uh-huh.|b|2789
+B|Just you know, you don't feel guilty when you eat that cake after dinner,|sv|2789
+A|Oh, I still don't,|sd|2789
+A|but That's a problem.|sv|2789
+B|Oh, yeah,|b|2789
+B|yeah.|b|2789
+A|Well, good luck on your graduation and your ...|sd|2789
+B|All righty,|b|2789
+B|well, thank you.|ft|2789
+B|It was nice talking to you.|fc|2789
+A|Yeah,|fc|2789
+A|you too.|fc|2789
+B|Okay,|fc|2789
+B|bye-bye.|fc|2789
+A|Bye.|fc|2789

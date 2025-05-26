@@ -1,0 +1,219 @@
+B|Well, how do you feel about spot spot testing for drugs?|qo|3151|0
+A|Well, basically I think it would be a good idea myself.|arp_nd|3151|1
+A|I, uh, I think if somebody's not on drugs, they have no reason, you know, to be afraid of it.|sv|3151|1
+B|Uh-huh.|b|3151|0
+A|Uh, I do think that there has to be some controls, uh,|sv|3151|1
+A|like, I don't think one test positive should, uh, be, uh, the end of it, you know.|sd|3151|1
+B|Right.|b|3151|0
+A|I, I think they should test more than once.|sv|3151|1
+B|Yeah,|aa|3151|0
+B|it's, it's  it's refreshing to hear somebody, that has a similar opinion as mine.|sv|3151|0
+A|It,|%|3151|1
+B|I mean, all these people that are against it that may, you know, they may not even be on drugs.|sv|3151|0
+B|They, they call it an invasion of privacy.|sv|3151|0
+A|Uh-huh|b|3151|1
+B|And I don't see that.|sv|3151|0
+B|To me that just doesn't sound like a valid argument because this company is paying you good money that you're working for|sv|3151|0
+A|That's right.|aa|3151|1
+B|and they, I believe that, they have the right to know if you're using a, a dangerous substance|sv|3151|0
+A|Uh-huh.|aa|3151|1
+A|Uh-huh.|aa|3151|1
+B|But,|%|3151|0
+A|There's so many jobs that, uh, really have other people's lives in their hands or even their own life|sv|3151|1
+A|and, you know, and it's, uh|%|3151|1
+B|Uh-huh.|b|3151|0
+A|uh, how can you do anything about a problem besides if you don't know about it?|qh|3151|1
+B|Right.|b|3151|0
+A|You know, and I just, um, I, I think  there definitely needs to be some control to it.|sv|3151|1
+B|Right .|b|3151|0
+A|I guess it is possible to have a false positive report.|sv|3151|1
+B|Yes.|aa|3151|0
+B|No,|ar|3151|0
+B|I, I, I agree that, you know, you, there needs to be a, a well thought out, sane approach to, how to administer that program.|sv|3151|0
+A|Uh-huh.|b|3151|1
+B|Just because you, you, something can get mixed in the mail,|sv|3151|0
+B|or uh, the chemicals could react incorrectly than, than what you would expect them to.|sv|3151|0
+A|Uh-huh.|b|3151|1
+B|And, yeah,|%|3151|0
+B|you, you know|%|3151|0
+A|Or somebody's test gets mixed up with somebody else's.|sv|3151|1
+B|Right.|b|3151|0
+A|I mean, those things do happen.|sv|3151|1
+B|Yeah.|b|3151|0
+A|Uh, I certainly wouldn't want people's lives ruined  uh, wrongly.|sd|3151|1
+B|Right,|aa|3151|0
+B|and, you know, I've|%|3151|0
+B|the, the, the company that I work for, uh, has just recently, well, you know, within the last couple of years, instituted for all new hired employees,|sd|3151|0
+B|they submit to a urine test.|sd|3151|0
+A|Uh-huh|b|3151|1
+B|And, they, they say that there's been, you know, they, they, they've also implemented random testing.|sd|3151|0
+A|Uh-huh.|b|3151|1
+B|And , it hasn't happened to me in the couple of years that, you know, it's been in progress|sd|3151|0
+A|Uh-huh.|b|3151|1
+B|but, uh, I, I fully agree with it|sd|3151|0
+B|and there's, you know, there's all these memos going around about folks that are disgruntled and feel it's an invasion of privacy,|sd|3151|0
+B|and I, I agree with you.|aa|3151|0
+A|Uh-huh.|b|3151|1
+B|If, if, if you feel it's an invasion of privacy, you've, you've probably got something you're trying to hide|sv|3151|0
+A|Yeah|aa|3151|1
+A|and you maybe need to look for some other type of job to do  that, uh, doesn't require the testing.|sv|3151|1
+B|Yeah.|b|3151|0
+B|Right.|b|3151|0
+A|Uh, to me, it's, to me it's not an invasion or privacy.|sv|3151|1
+A|I think it's people have a right to know if, if, uh, their, their life maybe's in jeopardy or, uh, Yeah.|sv|3151|1
+B|Or, the quality of their product.|^2|3151|0
+A|Their work, the work they're doing for their company.|sv|3151|1
+A|Uh, those things are all affected.|sv|3151|1
+A|If not immediately, it certainly does eventually.|sv|3151|1
+B|Yeah.|b|3151|0
+A|I think that's where a lot of the problem is at first.|sv|3151|1
+A|It doesn't seem to, uh, bother the quality of work|sv|3151|1
+B|Uh-huh.|b|3151|0
+A|but eventually it does.|sv|3151|1
+B|Right,|aa|3151|0
+B|because it usually requires more and more of that substance that you're misusing to get the same effect.|sv|3151|0
+A|Uh-huh,|aa|3151|1
+A|uh-huh.|aa|3151|1
+A|Uh-huh.|b|3151|1
+B|Um.|b|3151|0
+A|Course, I feel the same way on the AIDS problem.|sd|3151|1
+A|I, I don't think that's an invasion of privacy,|sv|3151|1
+A|that's the only communicable disease that they're not allowed to test for you know,|sd|3151|1
+A|and it's destroying a lot of   people's lives|sv|3151|1
+B|and then   and one of the few that they don't have a cure for|sd|3151|0
+A|Yeah,|aa|3151|1
+A|and it's, you know, it's, it's destroying people's lives|sv|3151|1
+A|and I, I think that person, plus anybody in danger should, should know about it and be aware of it.|sv|3151|1
+B|Yeah.|aa|3151|0
+A|I don't know.|h|3151|1
+A|It's, it's kind of hard to|sv|3151|1
+A|I guess the gay movement has had a lot to do with considering that, that, uh, an invasion of privacy.|sv|3151|1
+A|Of course, that's not supposed to be what we're talking about today, I guess.|sd|3151|1
+A|So, I kind of get off on a tangent here.|sd|3151|1
+B|Yeah|b|3151|0
+A|Uh, do you work for, uh, Texas Instruments?|qy|3151|1
+B|Yes,|ny|3151|0
+B|I do.|sd|3151|0
+A|Uh-huh.|b|3151|1
+B|And I'm, I'm down in the, the central,|sd|3151|0
+B|but I don't know how familiar you are with Texas,|qw^d|3151|0
+B|but I'm in a, we live in a town, uh, near a town called Temple. Which is right in between Waco and Austin on the freeway.|sd|3151|0
+A|Um.|b|3151|1
+A|Oh, that's probably why,|sd|3151|1
+A|my brother did live in Grapevine, Texas.|sd|3151|1
+A|That's near Dallas.|sd|3151|1
+B|Right.|b|3151|0
+A|Uh-huh.|b|3151|1
+B|We're probably about two, two and a half hours south of him.|sd|3151|0
+A|Uh-huh,|b|3151|1
+A|uh-huh.|b|3151|1
+B|So.|%|3151|0
+A|It's pretty hot down there probably.|qy^d|3151|1
+B|Oh my!|na|3151|0
+A|Yeah|b|3151|1
+B|It's, actually, we got about two inches of rain in about three hours, yesterday.|sd|3151|0
+A|Oh, did you really?|bh|3151|1
+B|And it's   cooled things down somewhat.|sd|3151|0
+A|Oh, that's great.|ba|3151|1
+B|It's getting more humid now,|sd|3151|0
+B|but,|%|3151|0
+A|Uh-huh.|b|3151|1
+A|We, we need rain real bad up here.|sd|3151|1
+B|Uh-huh|b|3151|0
+A|It's, uh, everything's really getting dry.|sd|3151|1
+A|It's, uh,|%|3151|1
+B|Yeah|b|3151|0
+B|It's been about three weeks since we've had any.|sd|3151|0
+A|Yeah.|b|3151|1
+A|It's kind of at a dangerous level here.|sd|3151|1
+A|People hauling water,|sd|3151|1
+A|and, uh it's getting real bad.|sd|3151|1
+B|Um.|b|3151|0
+B|Wow.|ba|3151|0
+A|So.|%|3151|1
+B|How about that?|bh|3151|0
+A|So.|%|3151|1
+B|Well, I hope you do get some rain up there.|sd|3151|0
+A|Um So do I|aa|3151|1
+B|I|%|3151|0
+A|Uh, I can't think of anything else, uh.|sd|3151|1
+B|Yeah,|b|3151|0
+B|I, I guess being in agreement  kind of tends to limit the conversation  you know|sv|3151|0
+A|Uh-huh.|b|3151|1
+A|Uh-huh.|b|3151|1
+A|Uh, I can understand|ba|3151|1
+A|I know if somebody is using drugs and doesn't think there's anything wrong with them, I can see them objecting. You know?|sv|3151|1
+A|there's a lot of people that think that there's nothing wrong with .|sv|3151|1
+B|One of the things I found interesting,|sd|3151|0
+B|it, it's funny that you mentioned that,|sd|3151|0
+B|T I is pretty much a worldwide company|sd|3151|0
+A|Uh-huh.|b|3151|1
+B|and we have manufacturing plants all around the world including some places where the use of certain drugs that are illegal here are not illegal.|sd|3151|0
+A|Uh-huh.|b|3151|1
+A|Um. Uh-huh,|b|3151|1
+A|uh-huh.|b|3151|1
+B|Yeah,|b|3151|0
+B|they don't have to submit to drug testing like, like they do here in the States and some places abroad.|sd|3151|0
+A|Oh, I'll be darn.|ba|3151|1
+B|Yeah,|b|3151|0
+B|I thought that was kind of interesting too.|sd|3151|0
+A|Yeah,|b|3151|1
+A|yeah,|b|3151|1
+A|the different cultures and that  too, uh|sd|3151|1
+B|Yeah.|b|3151|0
+B|I mean, uh, uh, from a quality standpoint, that's not, I mean, just because it's not illegal doesn't mean it doesn't affect you the same way.|sv|3151|0
+A|No,|aa|3151|1
+A|no.|aa|3151|1
+A|I'm sure it would have to affect you the same way.|sv|3151|1
+A|I, I can't think that would make any difference  whether it was legal or not,|sv|3151|1
+B|Yeah.|b|3151|0
+B|Right.|b|3151|0
+A|it, it would still have to affect you the same way.|sv|3151|1
+B|Yeah,|aa|3151|0
+B|but, like if you're going to do business in another country, you've got to respect their rules.|sv|3151|0
+A|Uh-huh.|b|3151|1
+B|I mean if, if, you know, that, that's the trade off.|sv|3151|0
+A|Oh yeah.|aa|3151|1
+A|You can't you go by their laws.|aa|3151|1
+B|Yeah.|b|3151|0
+A|The same way our people have to go by their laws when they're over there.|sv|3151|1
+A|That's why a lot get in trouble because they have to follow their rules|sv|3151|1
+B|Huh|b|3151|0
+A|and, uh some of the countries are very much against drugs|sv|3151|1
+B|Right.|b|3151|0
+A|and you use them, you pay for it|sv|3151|1
+B|Usually with you life in some places.|sv|3151|0
+A|Yeah,|aa|3151|1
+A|a lot of them.|sv|3151|1
+A|Yeah.|aa|3151|1
+A|Where, where  is it they lose the, if they steal they lose a thumb or a finger?|qw|3151|1
+B|That's right.|aa|3151|0
+B|Yeah,|b|3151|0
+B|from the Middle East.|sd|3151|0
+A|Is that where it is?|qy|3151|1
+B|Yeah.|ny|3151|0
+B|Iraq, Iran, in that area.|sd|3151|0
+A|I thought, wow|ba|3151|1
+B|Yeah|b|3151|0
+A|You know, that's quite a deterrent|sv|3151|1
+B|Well, in Saudi Arabia, you know, using, uh, alcohol and drugs and something like that, you get the death penalty.|sd|3151|0
+A|Yeah.|b|3151|1
+A|Yeah.|b|3151|1
+B|So, it's pretty strict over there|sv|3151|0
+A|Yeah.|aa|3151|1
+A|So I guess, you know, we, we have so many freedoms over here we sometimes forget about how   great out country really is.|sv|3151|1
+B|Well, people tend to  take the first amendment out of context. Which, which means you know, I could do anything I want to|sv|3151|0
+A|Uh-huh.|b|3151|1
+A|Uh-huh.|b|3151|1
+B|and you can't stop me,|^q|3151|0
+B|and you know|%|3151|0
+A|They, they abuse it is what they do.|sv|3151|1
+B|Yeah.|b|3151|0
+B|Yeah.|b|3151|0
+A|Yeah.|b^m|3151|1
+B|Yeah.|b^m|3151|0
+A|Yeah.|b^m|3151|1
+B|So, that's,|%|3151|0
+A|So,|%|3151|1
+B|I don't know.|h|3151|0
+B|I'm, I'm glad to see more and more companies implementing the policy,|sd|3151|0

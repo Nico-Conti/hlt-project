@@ -1,0 +1,122 @@
+A|like in a room filled with What do you think about the benefits in jobs?|qo|2897
+B|Um, I'm, I'm relatively satisfied with the benefits I have.|sd|2897
+B|I think that, um, our health insurance is terribly expensive.|sd|2897
+A|Uh-huh.|b|2897
+B|I'd rather that we got a bit more coverage for a lot less money.|sd|2897
+B|But, um, you know, that's, that's my major complaints, I guess.|sd|2897
+B|What about you?|qo|2897
+A|Yeah,|ny|2897
+A|and a lot of times they turn down your claims|sd|2897
+A|so that leaves you paying for all of it.|sd|2897
+B|Uh-huh.|b|2897
+B|Or, or maybe that it's not understood what should be covered and what isn't.|sv|2897
+A|Uh-huh.|b|2897
+A|Yeah.|aa|2897
+A|Right|aa|2897
+A|the  health insurance I have is Met Life,|sd|2897
+B|Yeah,|b|2897
+A|and, if,|%|2897
+A|it's the type that if you go to a certain doctor then, uh, you just pay ten dollars|sd|2897
+A|and then, uh, the insurance pays the rest of the bill.|sd|2897
+A|Or if you go outside you get, uh, seventy thirty.|sd|2897
+B|Now we,|%|2897
+B|I have just the regular insurance so that any doctor is covered|sd|2897
+B|but what I found recently is what they've been doing is they, they poll somehow the area,|sd|2897
+B|and then they have what they consider a justifiable price for the area where your doctor is located based on zip code.|sd|2897
+A|Uh-huh.|b|2897
+B|And so recently, when, when we had a claim, um, they didn't pay the eighty-five percent they paid much lower|sd|2897
+B|and when I called they said, Oh well, that's because your doctor is charging much more than the norm for the area.|sd|2897
+B|And I was really surprised because either there aren't that many of that type of doctor within that zip code, so that, you know, two doctors could balance each other out, or their, you know, their statistics aren't very accurate. *listen|sd|2897
+A|Right.|b|2897
+A|And, and they're probably doing it to their benefit, anyway.|sv|2897
+A|So,|%|2897
+B|Yeah,|b|2897
+B|I would assume that you know, whatever doctors are willing to do the paperwork and send it in.|sv|2897
+A|Uh-huh.|b|2897
+B|But it's, it's difficult.|sv|2897
+B|What about other, other benefits?|qo|2897
+B|Are there others that you're dissatisfied with?|qo|2897
+A|Well, I work for Sears,|sd|2897
+A|and, and, um, that's about the, the only real benefit you have, is health insurance.|sd|2897
+B|Well, you have vacation, I|qy^d|2897
+A|Yeah,|ny|2897
+A|yeah,|ny|2897
+A|but everybody gets vacation.|ar|2897
+A|I mean, like, uh, T I and some other places, you know, they have recreational facilities,|sd|2897
+A|and they have a driving range and weight room|sd|2897
+A|and, you know, I think they even have a swimming pool|sv|2897
+B|Huh.|b|2897
+A|and I don't know if they have any tennis courts or anything like that.|sd|2897
+B|Yeah,|b|2897
+B|I'm not familiar with that sort of thing,|sd|2897
+B|but you know, to me vacation is, is an issue,|sd|2897
+B|and I mean, different places have different amounts of vacation, I would assume.|sv|2897
+A|Right.|b|2897
+B|And, um, you know, the leniency with which they let you take leave without pay, perhaps or, um, I don't know, I suppose, um, sick days.|sd|2897
+B|Some places count the number of hours|sv|2897
+B|and some places just sort of believe you.|sv|2897
+A|Uh-huh.|b|2897
+B|Um, ours is based on number of days,|sd|2897
+B|and, you know, people try to build them up in case they really do get seriously ill.|sd|2897
+A|Right.|b|2897
+B|Right.|b|2897
+B|But, um, otherwise, I'm not aware of any problems with the benefits around here|sd|2897
+B|So maybe that covers the topic then.|sv|2897
+A|Yeah.|b|2897
+A|Well, I don't know, the the working conditions, you know, if you could include that in benefits.|sv|2897
+A|Some places aren't very safe to work.|sv|2897
+B|Uh-huh.|b|2897
+A|And, and some places don't compensate you for the hazards that you, that you have to work under.|sv|2897
+B|Uh-huh.|b|2897
+B|Or maybe a uh, not really a benefit, either, but would be the allowing you to use the telephone for personal calls.|sv|2897
+A|Right,|b|2897
+A|uh-huh.|b|2897
+B|Um, but, you know I suppose some places are, are more stringent about that than others.|sv|2897
+A|Yeah,|aa|2897
+A|I think so.|sv|2897
+B|And, and, maybe arriving late or something like that, you know,|sv|2897
+B|how, how they enforce the rules.|sv|2897
+A|Uh-huh|b|2897
+B|But other than that I don't have much feeling for, for the benefits,|sd|2897
+B|since, like I said, um, I don't have a big problem with, with them.|sd|2897
+A|Um, workmen's comp is a big thing now in, in Texas because, um, um, how much it costs the employers|sd|2897
+B|Uh-huh.|b|2897
+A|and a, a lot of them are going to their own insurance now.|sd|2897
+A|And it reduces some of the length of the benefits, and, uh, and I don't know besides that.|sd|2897
+A|But I, I noticed right off that was a year less than what the state was allowing.|sd|2897
+B|Oh I, I didn't know that somebody could avoid workmen's compensation.|sd|2897
+A|Well, well, they still have to pay it|sd|2897
+A|but they buy their own instead of going through the state.|sd|2897
+B|Oh, I see.|bk|2897
+A|So apparently it costs less that way.|sd|2897
+B|Uh-huh,|b|2897
+B|uh-huh.|b|2897
+B|I suppose that whenever companies can avoid, um, benefits, it's to the, to, to the benefit of the company|sv|2897
+A|Uh-huh.|b|2897
+B|and at least, you know, financially in the short run,|sv|2897
+B|but I would think they would get a much greater turnover|sv|2897
+B|and that people would be dissatisfied|sv|2897
+A|Yeah.|aa|2897
+A|That's what I, what I think|sd|2897
+A|they should be able, they should be able to judge their benefits on how happy their employees are|sv|2897
+A|and how much profit they're making|sv|2897
+A|instead of trying to cut everything down *listen|sv|2897
+A|and then have everybody be unhappy and, and have a constant turnover of people.|sv|2897
+B|I mean, sure, the payroll is lower that way,|sv|2897
+B|but I would assume that the productivity is way down, also.|sv|2897
+A|Yeah,|aa|2897
+A|the productivity and the training costs,|sv|2897
+A|if they have to train the same employee, a new employee every six months, then I don't see how they can save money.|sv|2897
+B|Uh-huh,|b|2897
+B|uh-huh.|b|2897
+A|You know, and once they once they get somebody good, they ought to hang onto them.|sv|2897
+B|That's right.|aa|2897
+B|No,|aa|2897
+B|I agree.|aa|2897
+A|Okay,|fo_o_fw_"_by_bc|2897
+A|it was nice talking to you.|fc|2897
+B|Well thank you for calling.|fc|2897
+B|Bye-bye.|fc|2897
+A|Yeah.|fc|2897
+A|Bye-bye|fc|2897
+B|Bye-bye.|fc|2897

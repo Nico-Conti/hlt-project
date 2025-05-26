@@ -1,0 +1,144 @@
+A|I pushed it.|sd|3847|0
+B|Okay.|b|3847|1
+A|So what do you you in your lawn?|qo|3847|0
+A|Do you do it yourself|qy|3847|0
+A|or do you hire someone to do it?|qrr|3847|0
+B|Uh, no|nn|3847|1
+B|we've been doing it ourselves for most of the time, uh, find that it's really a little more economical,|sd|3847|1
+B|and we have, oh, I find that I have the time,|sd|3847|1
+B|and I kind of enjoyed it over here in Texas.|sd|3847|1
+B|I used to live in Arizona,|sd|3847|1
+B|and it was very very frustrating, because I didn't have the watering system|sd|3847|1
+B|and it was, it was just too much work and not enough enjoyment.|sd|3847|1
+A|Uh-huh.|b|3847|0
+A|Uh-huh.|b|3847|0
+B|But over here we get enough water you know, naturally as well have the automatic sprinklers,|sd|3847|1
+B|and so it's a lot more rewarding|sd|3847|1
+A|Yeah,|b|3847|0
+A|right.|b|3847|0
+A|Uh-huh,|b|3847|0
+A|uh-huh.|b|3847|0
+B|so.|%|3847|1
+A|Well, we do our own out here, uh, you know, mow it ourselves and everything,|sd|3847|0
+A|but, uh, our water supply right now is bad.|sd|3847|0
+A|We need rain badly|sd|3847|0
+B|Oh, that's right.|aa|3847|1
+A|Uh, we can water, here in Patterson, I can water on Tuesdays, Thursdays, Saturday and Sunday, four days a week.|sd|3847|0
+B|Uh-huh.|b|3847|1
+A|So.|%|3847|0
+B|Is that enough during the hotter times of the year?|qy|3847|1
+A|It was this last summer,|arp_nd|3847|0
+A|yeah.|%|3847|0
+B|Uh-huh.|b|3847|1
+A|Uh, now if it, we don't get some rain, they might limit it to not even four times, you know|sd|3847|0
+B|Yeah,|b|3847|1
+B|yeah.|b|3847|1
+A|but, uh, yeah,|b^m|3847|0
+A|we do our our, you know, mowing ourselves and everything,|sd|3847|0
+A|and I do our planting of bulbs and things where I can have some spring flowers|sd|3847|0
+B|Uh-huh.|b|3847|1
+A|and, uh,|%|3847|0
+B|Yeah,|b|3847|1
+B|I find that I've been doing a lot of perennial planting, which I never did before|sd|3847|1
+A|Uh-huh.|b|3847|0
+B|and it's been real enjoyable, although I didn't do any this last fall, because our past winters have been so cold, um  they'd freeze down,|sd|3847|1
+A|Uh-huh.|b|3847|0
+B|and by the time they, the flowers would come back to life it was supposedly the time to pull things out for the spring and summer planting|sd|3847|1
+A|Oh.|b|3847|0
+B|So I was getting kind of disillusioned and tired and, and spending too much money on something that was kind of more of a problem than it was rewarding,|sd|3847|1
+B|so um, I'm going to try to wait now and just do the spring and summer type plantings and see how that, you know, feels.|sd|3847|1
+A|Uh-huh,|b|3847|0
+A|uh-huh.|b|3847|0
+A|Yeah.|b|3847|0
+A|Yeah.|b|3847|0
+A|We have quite a few roses.|sd|3847|0
+A|I just, uh, we, in fact we just pruned them way down,|sd|3847|0
+A|and I just had to replace one of them,|sd|3847|0
+A|so I just bought that yesterday,|sd|3847|0
+A|and I'll probably go outside today and plant that.|sd|3847|0
+B|Uh-huh.|b|3847|1
+A|But, um, I like to have the roses where I can have cut flowers all year long.|sd|3847|0
+B|Yeah,|b|3847|1
+B|those are enjoyable.|sv|3847|1
+A|I even had, uh, roses on my table for Christmas dinner which was really pretty, you know|sd|3847|0
+B|Oh, did you?|bh|3847|1
+B|Uh-huh|b|3847|1
+A|But, um, other than the roses I don't have too many flowers.|sd|3847|0
+A|I plant gladiolas|sd|3847|0
+B|Um, those are nice.|sv|3847|1
+A|and those are always pretty,|sv|3847|0
+A|but they get so tall,|sv|3847|0
+A|and they, they bend over so fast you know.|sv|3847|0
+B|Uh-huh.|b|3847|1
+B|Yeah,|aa|3847|1
+B|yeah.|aa|3847|1
+B|I haven't done much in, in bulbs.|sd|3847|1
+B|In fact I received as a Christmas present a, a planter that had bulbs in it, that we were supposed to go ahead and water it any time and after it started to sprout put in a sunny window,|sd|3847|1
+B|and it it just grew like crazy,|sd|3847|1
+A|Uh-huh.|b|3847|0
+B|but I don't have any flowers on it.|sd|3847|1
+B|I don't know how long that takes, or if there's anything I need to do differently.|sd|3847|1
+A|Um.|b|3847|0
+B|It's just nice and green right now|sd|3847|1
+A|Uh-huh,|b|3847|0
+A|well, is it that, one of those Amaryllis?|qy|3847|0
+B|Uh, no|nn|3847|1
+A|No,|b^m|3847|0
+A|huh.|b|3847|0
+B|I'm thinking White Narcissus or something like a like a white paper flower or so.|sd|3847|1
+A|Oh, okay.|bk|3847|0
+A|Uh-huh,|b|3847|0
+A|uh-huh,|b|3847|0
+A|uh-huh.|b|3847|0
+B|And, uh.|%|3847|1
+A|Do you have a big yard?|qy|3847|0
+B|No,|nn|3847|1
+B|not really,|sd|3847|1
+B|and in Plano and most of the newer areas of Texas, uh, they have just the, the minimum square footage for lots, to where you get a little bit of a backyard,|sd|3847|1
+B|we have a pool in our backyard,|sd|3847|1
+B|and we did plan it to where we have some, some play yard left over,|sd|3847|1
+A|Uh-huh.|b|3847|0
+B|but it's, it's, um, you know, very small.|sd|3847|1
+A|Uh-huh.|b|3847|0
+B|But most of the houses here, if you have a pool, you don't have anything else in the backyard|sd|3847|1
+A|Yeah,|b|3847|0
+A|right,|b|3847|0
+A|right.|b|3847|0
+B|that's about the size of most of them.|sd|3847|1
+A|Uh-huh,|b|3847|0
+A|uh-huh.|b|3847|0
+B|So, uh I guess we're kind of fortunate.|sv|3847|1
+A|Um.|b|3847|0
+B|Everyone looks at that, with our at our yard with kind of sense of awe, like wow, you really got, you know, some grass back there.|sd|3847|1
+A|Uh-huh,|b|3847|0
+A|uh-huh,|b|3847|0
+A|uh-huh.|b|3847|0
+B|Well.|%|3847|1
+A|Well, that makes it nice.|sv|3847|0
+B|Yeah.|b|3847|1
+A|Well, it's hot enough here in the summer time that we could have a pool,|sd|3847|0
+A|but we don't have one you know,|sd|3847|0
+B|Uh-huh.|b|3847|1
+A|but they are a lot of people that do have pools around here you know|sd|3847|0
+B|Yeah.|b|3847|1
+B|Yeah.|b|3847|1
+A|but we just, we just have dogs and, um, and grass you know, the cement work and a little play set we made for a garden.|sd|3847|0
+B|Uh-huh.|b|3847|1
+B|Uh, yeah.|b|3847|1
+B|Yeah.|b|3847|1
+A|So we do have a garden, you know.|sd|3847|0
+A|It's just a small one, you know,|sd|3847|0
+A|but we, had lots of tomatoes, and, uh, zucchini|sd|3847|0
+B|Oh.|b|3847|1
+A|it's amazing what you can get out of a little|%|3847|0
+B|Uh-huh.|b|3847|1
+A|you know, it's probably about twenty by, I don't know, twenty by six, something like that,|sd|3847|0
+A|and it's amazing what you can, you know, how many plants you can plant in there|sd|3847|0
+B|Yeah,|b|3847|1
+B|yeah.|b|3847|1
+A|but it was nice.|sd|3847|0
+A|Few cucumbers.|sd|3847|0
+B|That's one part of gardening I haven't tried yet,|sd|3847|1
+B|and I don't think this yard is a very,|sd|3847|1
+A|Uh-huh,|b|3847|0
+A|uh-huh.|b|3847|0

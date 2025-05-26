@@ -1,0 +1,255 @@
+B|Hello|fp|2344|0
+A|Hi|fp|2344|1
+B|Hi,|fp|2344|0
+A|My name's Ken,|fp|2344|1
+B|Hi Ken,|fp|2344|0
+B|my name's Diane.|fp|2344|0
+A|And, um, you're in Texas,|qy|2344|1
+A|right?|^g|2344|1
+B|Yes,|ny|2344|0
+B|I'm in San Antonio.|sd|2344|0
+A|Everybody's in Texas.|sv|2344|1
+A|God,|ba|2344|1
+A|I'm in Rochester, New York.|sd|2344|1
+A|Everybody else but one has been in Texas.|sd|2344|1
+B|Oh.|b|2344|0
+A|Okay,|b|2344|1
+A|well I guess we should get on with this.|ad|2344|1
+B|Okay.|aa|2344|0
+A|Um, did you get the message about what it was,|qy|2344|1
+A|right.|^g|2344|1
+B|Yes.|ny|2344|0
+A|Okay,|bk|2344|1
+A|go ahead,|ad|2344|1
+A|I'm going to hit the button|sd|2344|1
+A|Okay, um,|%|2344|1
+A|do you think that the Soviet Union represents a threat to us?|qy|2344|1
+B|I think they'll always represent a threat whether or not there's an active cold war or not. Uh,|sv|2344|0
+B|it's, it's a totally different economy based on different beliefs, and, and, uh, different priorities,|sv|2344|0
+B|and, uh, given the, the, uh, military powers on both sides, I think it's always a threat.|sv|2344|0
+A|That's interesting.|ba|2344|1
+A|I don't,|ar|2344|1
+A|I, I suspect they're not our biggest threat anymore.|sv|2344|1
+B|Probably not,|aa|2344|0
+B|no.|aa|2344|0
+A|I suspect it's probably some crazy man like Saddam Hussein who's our biggest threat,|sv|2344|1
+B|Right.|b|2344|0
+A|but, um, I wonder if they're, I wonder how much of a threat they are.|qw^d|2344|1
+A|I agree with you that, that they'll always be somewhat of a threat given that they have, that there's just, it's just so big,|aa|2344|1
+A|and there's just so much military machine there.|sv|2344|1
+B|Uh-huh,|aa|2344|0
+B|and, and it's recognized that the two great powers are us and them,|sd|2344|0
+A|Right.|b|2344|1
+B|and, and the great powers are always pitted against each other.|sv|2344|0
+A|But I wonder how much longer they're going to be a them.|qw^d|2344|1
+B|I don't know|no|2344|0
+B|They, they're going downhill pretty steady.|sv|2344|0
+A|Yeah.|b|2344|1
+B|But I, I agree right now they're not,|aa|2344|0
+B|I don't believe they're a large threat right now.|sv|2344|0
+B|I think there's always some threat.|sv|2344|0
+A|Yeah,|aa|2344|1
+A|oh, I agree.|aa|2344|1
+A|I mean, if we were to, if, if something were to happen, I'm sure they would all of a sudden band together just for the sake of, for the sake of, uh, of, of unity against us or something if, if, if need be.|sv|2344|1
+B|Yeah,|b|2344|0
+A|But,|%|2344|1
+B|Actually I feel kind of sorry for them right now, because the people are, are, are, uh, wanting things that we have that they're not|sd|2344|0
+B|I mean, just some basic freedoms,|sd|2344|0
+B|and, and their government is not allowing it,|sd|2344|0
+B|and Gorbachev seems to be going back on some of the things that he's been trying to push.|sv|2344|0
+A|Yeah,|aa|2344|1
+A|actually I noticed this I mean, this, this, this most recent scare of his, where he said, or he just decided that instead of having, uh, instead of having, I can't think of the word now, if there are any demonstrations for, in favor of Boris Yeltsin, he decided, well, I'll just cancel all demonstrations altogether.|sd|2344|1
+B|Uh-huh.|b|2344|0
+A|So, I, I, I think that, he, he, he's actually,|sv|2344|1
+A|he, I think, is becoming very dangerous because he's making those people angry at him,|sv|2344|1
+B|Yeah.|b|2344|0
+A|and he's also, I think he's also making, um, the military angry at him.|sv|2344|1
+B|Yeah.|b|2344|0
+A|I mean, I've heard stories now where the, where the, um, the military is running around,|sd|2344|1
+A|and they're sort of getting restless,|sd|2344|1
+A|and a restless military is the kind of thing that happens, you know|sd|2344|1
+A|like with the Baltic states when they just go in there|sd|2344|1
+B|Yeah.|b|2344|0
+A|divvy the people up.|sd|2344|1
+B|See, I'm concerned that, that since he's banned demonstrations altogether, that he's going to do the type of thing that happened in Tiananmen Square,|sv|2344|0
+B|and he's going to wipe out, no telling how many of his own countrymen, uh, right in the middle of Red Square,|sv|2344|0
+A|Uh-huh.|b|2344|1
+B|and, uh, it's going to cause a, more civil war than is already occurring.|sv|2344|0
+A|That's interesting.|ba|2344|1
+A|I, I wonder,|%|2344|1
+A|I don't know if he's,|%|2344|1
+A|he, he seems,|%|2344|1
+A|the thing about Gorbachev strikes that he wouldn't be that dumb|sv|2344|1
+A|I don't know though.|h|2344|1
+B|I don't know.|h|2344|0
+B|I mean, and it, it might be something that he wouldn't be able to control.|sv|2344|0
+A|That's, that, that's something that really true|aa|2344|1
+A|sort of a military thing I was speaking of before.|sd|2344|1
+B|Uh-huh.|b|2344|0
+A|That's, that's certainly true.|aa|2344|1
+A|I mean, his military may just go out and say, Well, we just,|sv|2344|1
+A|Gorbachev said you can't do it,|^q|2344|1
+A|and we're to not let you do it, you know.|^q|2344|1
+A|So.|%|2344|1
+B|Yeah.|b|2344|0
+A|Yeah,|b^m|2344|1
+A|that, that's real scary, actually.|ba|2344|1
+B|Yeah.|b|2344|0
+A|I mean, I, I, I would expect their own problems would keep them away from us for a while,|sv|2344|1
+A|but it could be real dangerous.|sv|2344|1
+B|Yeah,|aa|2344|0
+B|we've got our own worries at the moment.|sv|2344|0
+A|Yeah,|aa|2344|1
+A|right,|aa|2344|1
+A|we don't need to worry about them.|sv|2344|1
+B|I guess as long as, uh, they're fighting each other, we don't have to worry about them wasting their time with us.|sv|2344|0
+A|Yeah,|aa|2344|1
+A|but wouldn't it be nice if no one had to fight anybody else.|qy|2344|1
+B|Well, sure,|na|2344|0
+B|that, but that's a, that's an impossibility, I think given the differences in the world,|sv|2344|0
+A|Yeah.|b|2344|1
+B|and people are just too different.|sv|2344|0
+A|Well, I don't, I don't know.|ar|2344|1
+A|I think that underlying we're all pretty, probably not as, as different as everybody thinks.|sv|2344|1
+B|But unfortunately, people, people aren't that insightful.|sv|2344|0
+A|Right.|aa|2344|1
+A|Well, that's, that's certainly true of it.|aa|2344|1
+B|They just see that this guy prays differently and to someone else than I do.|sv|2344|0
+B|So, therefore, he's wrong|sv|2344|0
+B|and he's bad,|sv|2344|0
+B|and we have to wipe, wipe him out.|sv|2344|0
+A|That's true.|aa|2344|1
+A|I was, I was discussing with someone before, um,|sd|2344|1
+A|this, someone before, actually one of these calls|sd|2344|1
+B|Uh-huh.|b|2344|0
+A|matter of fact about another topic,|sd|2344|1
+A|but it came up,|sd|2344|1
+A|one of these calls|sd|2344|1
+B|Uh-huh.|b|2344|0
+A|matter of fact, about, um, another topic,|sd|2344|1
+A|but it came up,|sd|2344|1
+A|one of these, this, this poem, Everything I Wanted to Know I Learned in Kindergarten, or something.|sd|2344|1
+B|Uh-huh.|b|2344|0
+A|You've read that one before.|qy^d|2344|1
+B|No,|nn|2344|0
+B|I haven't read it.|sd|2344|0
+B|I've heard all about it, though.|sd|2344|0
+A|That, this, this is the idea that I think is actually very, is, is, what I think we should all revert to.|sv|2344|1
+A|The idea that, um,|%|2344|1
+A|basically they said, everything happened in kindergarten,|sd|2344|1
+A|and in kindergarten we learned to share,|^q|2344|1
+A|and we learned to, um, play with each other,|^q|2344|1
+A|we learned to take nap, and to take naps,|^q|2344|1
+A|and whenever we'd start a fight we'd all apologize and hug each other you know,|^q|2344|1
+B|Yeah.|b|2344|0
+A|and that would be all.|^q|2344|1
+A|If we could just do the same thing sort of, with, with, with everybody else, I suspect we'd, we'd be fine.|sv|2344|1
+B|Yes,|aa|2344|0
+B|but people grow up,|sd|2344|0
+B|and they forget.|sv|2344|0
+A|Yeah,|aa|2344|1
+A|unfortunately.|ba|2344|1
+B|Well.|%|2344|0
+A|Because I often, I often sort of wonder how, having never been to the Soviet Union, um, how different the people there really are, you know.|qw^d|2344|1
+A|How much ,|%|2344|1
+B|That's one of the places I would most like to go.|sd|2344|0
+B|Not right now, of course|sd|2344|0
+A|Yeah.|b|2344|1
+B|but at some point I would like to go to Moscow and, and, to, just to see all these things that you can see on television now and can read about|sd|2344|0
+B|that ten years ago we didn't have this kind of information|sd|2344|0
+A|Right.|b|2344|1
+B|and we didn't know what things were like.|sd|2344|0
+B|So.|%|2344|0
+A|I would, I would love to go there. I mean, like, again, not now, but at some point, to go see what, what this is like,|sd|2344|1
+A|I mean, this, this is amazing, because, this is, this is an, this is an example of an entirely different culture that wants to be like us.|sv|2344|1
+A|Like you said before,|sd|2344|1
+A|so it would be interesting to watch.|sv|2344|1
+B|Yeah,|aa|2344|0
+B|I and, I, the, the people.|%|2344|0
+B|I just feel so sorry for the people in the country, that they can't, I mean, they, they can't do|sv|2344|0
+B|they can't change it.|sv|2344|0
+B|They try|sv|2344|0
+B|they, and they, there's nothing that they can do.|sv|2344|0
+A|Yeah,|aa|2344|1
+A|that's, that's|%|2344|1
+A|and the ones I even feel somewhat worse for, even, um,|sd|2344|1
+A|the ones in like the Baltic states where they don't have a strong leader, then, you know,|sd|2344|1
+B|Uh-huh.|b|2344|0
+A|at least, at least Russia has some sort of strong leader.|sv|2344|1
+A|I mean they have Yeltsin who may, who may yet sort of help Russia.|sv|2344|1
+B|Yeah.|b|2344|0
+A|But, um, I mean, the Baltic states, I think, are just sort of trapped.|sv|2344|1
+A|I mean, they were taken over couple, you know, not too long ago and then just sort of told, well, you're here now,|sv|2344|1
+B|Yeah.|b|2344|0
+A|you're part of our country.|^q|2344|1
+A|You be this way.|^q|2344|1
+A|It's a, I think it's a sad state of affairs,|sv|2344|1
+A|but.|%|2344|1
+B|It's, it's probably not dissimilar from the, uh, what are they, the, the, the, I'm trying to think of the name of the, the , something like that in Northern Iraq who are actually countrymen of,|sv|2344|0
+A|Oh, yeah,|aa|2344|1
+A|yeah.|aa|2344|1
+B|I mean, some of them were split off into Israel, I believe,|sd|2344|0
+B|and some of them are in Turkey when actually they, they don't, they're their own people and their beliefs and their own culture system.|sd|2344|0
+A|Uh-huh.|b|2344|1
+A|Right.|b|2344|1
+B|And they were split up into three different countries.|sd|2344|0
+A|Uh-huh.|aa|2344|1
+A|Yeah,|aa|2344|1
+A|well, yeah,|aa|2344|1
+A|and that.|%|2344|1
+B|And, and they're very dissatisfied,|sv|2344|0
+B|and they're, they're causing wars right now,|sv|2344|0
+B|and I don't think it's that different from what the Baltic states are, are going through.|sv|2344|0
+A|Um, um, um, uh, actually it sounds very, I mean, very similar.|sv|2344|1
+A|They're sort of being, they were sort of forced,|sv|2344|1
+A|and now they just want to sort of speak up and say Hey,|sv|2344|1
+A|we want our piece.|^q|2344|1
+B|Yeah.|b|2344|0
+A|And they have like a problem,|sv|2344|1
+A|they have Muslims to deal with as well as Saddam Hussein.|sv|2344|1
+B|Uh-huh.|b|2344|0
+A|I, I mean I think their big problem up there is, you know, unfortunately,|sv|2344|1
+A|not only are they|sv|2344|1
+A|there's more than one group fighting for the same place.|sv|2344|1
+A|They all want the, you know,|sv|2344|1
+A|whereas the Baltics are saying, Oh, we want our own.|sv|2344|1
+A|We just want this little tiny piece of land.|^q|2344|1
+B|Yeah.|aa|2344|0
+B|The, the one that I think,|%|2344|0
+B|one of the women that I work for is married to an Iranian,|sd|2344|0
+B|and so she has a lot of insight, because she knows a lot of the history of the countries over there,|sd|2344|0
+A|Uh-huh.|b|2344|1
+B|and within five or six countries there are probably ten cultures of people,|sd|2344|0
+A|Yes,|aa|2344|1
+A|yes.|aa|2344|1
+B|And that's, they don't all have their own country,|sd|2344|0
+B|and, and some of them are mad about it|sd|2344|0
+A|Uh-huh.|aa|2344|1
+A|Um, actually, my wife is Syrian,|sd|2344|1
+A|so I, I, also I know some of the history .|sd|2344|1
+B|Oh.|b|2344|0
+A|And actually the other funny thing is that I'm, I'm Jewish.|sd|2344|1
+A|We're sort of like the Middle East peace talks ourselves.|sd|2344|1
+B|Oh, uh-huh.|b|2344|0
+A|So we, I, I know,|sd|2344|1
+A|I've been to Israel,|sd|2344|1
+A|and I know,|sd|2344|1
+A|and I sort of toured the area,|sd|2344|1
+A|and I know that it really is very, lots of different cultures in one place, I mean|sd|2344|1
+B|Uh-huh.|b|2344|0
+A|and it's the same thing I it's, it's almost the same thing out, out in the Soviet Union right now.|sv|2344|1
+A|There, you know, there are,|%|2344|1
+A|you can't take a whole bunch of people who just aren't the same people and don't want to be together and put them together forcibly.|sv|2344|1
+B|Yeah.|b|2344|0
+A|I mean, we did it couple of hundred years ago here,|sd|2344|1
+A|but they wanted to do it.|sv|2344|1
+A|So.|%|2344|1
+B|Yeah,|aa|2344|0
+B|and I don't think the people here two hundred years ago were that different,|sv|2344|0
+B|I really don't.|sv|2344|0
+A|That's, that's certainly true.|aa|2344|1
+B|I mean, they had the same ideals and the same basic beliefs.|sv|2344|0
+A|Right, uh,|aa|2344|1
+A|I wonder, I wonder if now the people in the Soviet Union don't have ideas very different from that.|qy^d|2344|1
+B|they might.|aap_am|2344|0
+B|The Baltic states might be feeling the same way that our forefathers felt when they were leaving to come here ...|sv|2344|0

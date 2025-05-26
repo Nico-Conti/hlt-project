@@ -1,0 +1,117 @@
+A|I , uh, try to stay away from cars as much as possible in terms of  repair.|sd|4642
+A|Actually, uh, that is really a sore spot with me.|sd|4642
+A|I, I think perhaps the automotive industry is improving|sv|4642
+A|but, uh, like ten years ago, uh, reliability of automobiles, at least U S automobiles was pretty dismal|sv|4642
+A|and not only that, but the, uh, repair capability of, uh, service departments and dealerships was equally dismal|sv|4642
+B|Uh-huh.|b|4642
+A|and, uh, it seemed that the only way I could reliably take care of my car was to repair it myself which is not my cup of tea.|sd|4642
+B|Yeah.|b|4642
+A|But, uh, I,|%|4642
+B|So do you have a car?|qy|4642
+A|Pardon?|br|4642
+B|Do you have a car?|qy|4642
+A|Well, at that time, actually, I had a Volkswagen Rabbit|sd|4642
+B|Uh-huh.|b|4642
+A|and, uh, it was, it was a real lemon.|sd|4642
+A|Uh, subsequently I got a, uh, Buick Century|sd|4642
+A|and it wasn't as bad.|sd|4642
+B|Uh-huh.|b|4642
+A|But, uh, last year I bought a Honda Accord|sd|4642
+A|and I take it in once every seventy-five hundred miles for its periodic maintenance|sd|4642
+A|and that is it.|sd|4642
+A|And it's wonderful.|sd|4642
+B|Yeah.|b|4642
+B|We used to have a Honda Accord|sd|4642
+B|and they're good.|sv|4642
+B|They're really good cars.|sv|4642
+B|Every time I get taken to an auto repair place, you know, every time I go, I get taken.|sd|4642
+B|Bad you know.|%|4642
+A|Huh.|b|4642
+B|Woman goes in|sv|4642
+B|and they go all right, we got a sucker.|sv|4642
+B|Let's see how much money we can get out of her, you know|^q|4642
+A|Huh.|b|4642
+B|That's what happens every time.|sv|4642
+A|Huh.|b|4642
+B|Uh, so,|%|4642
+A|So, what do you have?|qo|4642
+B|I have a Pontiac Six Thousand.|sd|4642
+A|All the more reason to, uh, have a, a Honda.|sv|4642
+B|Yeah.|aa|4642
+B|But our Honda just got old and just wore out.|sd|4642
+B|It was, let's see, eleven years old|sd|4642
+B|and it just, just out of it|%|4642
+A|so you bought a Pontiac?|qy|4642
+B|huh-uh.|nn|4642
+B|My uh, ex-husband's,|%|4642
+B|this is, just happened a couple of weeks ago.|sd|4642
+B|He's my ex-husband|sd|4642
+B|but just a few months ago when he was my husband, uh, his father gave us this car|sd|4642
+B|and everything is wrong with it.|sd|4642
+B|I mean, the power steering fluid leaks, the oil leaks, the brake fluid leaks, you know,|sd|4642
+A|Now|%|4642
+A|how old is the car?|qw|4642
+B|Uh, eighty-seven.|sd|4642
+A|Huh.|b|4642
+B|And he just doesn't take care of things|sd|4642
+B|and but I was awarded the car|sd|4642
+B|so. There is a man in my church that is a mechanic|sd|4642
+B|and I can trust him.|sd|4642
+B|So he is trying to get, you know, things fixed on it.|sd|4642
+A|Huh.|b|4642
+B|But it's just, you know, leak, leak, leak everywhere.|sd|4642
+B|But, uh, you know, I hate to go into a, a repair place because they'll tell me something is wrong with it and it's not, you know, and charge me twice as much.|sv|4642
+B|The last time I took it into a repair shop,|sd|4642
+B|the man told me I needed a master cylinder.|sd|4642
+B|So I said okay.|sd|4642
+B|And he charged me a hundred and thirty something dollars|sd|4642
+B|and then, uh, about a month later, a man was looking at my car|sd|4642
+B|and he asked me,|sd|4642
+B|you know, not a man, not a repair man, but just a friend|sd|4642
+B|and I was telling him that I just a new master cylinder put on|sd|4642
+B|and he looked at|sd|4642
+B|and he said that's not a new master cylinder|sd|4642
+A|Huh.|b|4642
+B|and I didn't even know what one was.|sd|4642
+B|And, uh, he showed it to me|sd|4642
+B|and it was old, rusty, just awful.|sd|4642
+B|It was no more new than nothing.|sd|4642
+A|So apparently it was the same one that was on there.|bf|4642
+B|Uh, more than likely.|aa|4642
+A|Apparently just, uh, uh, probably filled the, the brake fluid up|bf|4642
+A|and that was it.|bf|4642
+B|That was it, probably.|aa|4642
+B|It was|%|4642
+B|I was so irritated.|sd|4642
+B|And that's happened to me more than once or twice. just, just about every time I've went in somewhere.|sd|4642
+A|So what's the solution to that? I guess find a reputable service,|sv|4642
+B|And, and you can hardly find one, you know.|sv|4642
+A|Huh.|b|4642
+B|The guy that's doing most of my, my car now, uh, goes to my church|sd|4642
+B|and that's the only reason, you know, I go to him because I know him|sd|4642
+A|Uh-huh.|b|4642
+B|and I know he will tell me the truth.|sd|4642
+B|Because he doesn't even charge me for, for doing it|sd|4642
+B|so he's not going to, you know, take me.|sd|4642
+A|Right.|b|4642
+B|I just pay for the parts|sd|4642
+B|and he does it so.|sd|4642
+A|Well that's wonderful.|ba|4642
+B|Yeah.|aa|4642
+A|You're lucky.|sv|4642
+B|Yeah,|aa|4642
+B|I am,|aa|4642
+B|so, I don't know.|h|4642
+B|I don't know what the solution to that is because the place where you buy your car, they're usually the worst one of all.|sv|4642
+B|We took our Honda to the Honda dealership|sd|4642
+B|and they ended up telling us we needed a brand new engine for our car.|sd|4642
+A|Oh, really?|bh|4642
+B|Yeah.|ny|4642
+B|And so, idiots as we were, neither one of us knew much about cars,|sd|4642
+B|we, you know, they told us we just had to have one|sd|4642
+B|and we bought one.|sd|4642
+B|We didn't no more need no new engine,|sd|4642
+B|give me break, you know.|sd|4642
+A|Huh.|b|4642
+B|So it was, it was not good|sd|4642
+B|and, uh|%|4642

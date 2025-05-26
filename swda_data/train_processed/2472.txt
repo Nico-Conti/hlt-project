@@ -1,0 +1,309 @@
+A|Perhaps this connection,|fo_o_fw_"_by_bc|2472
+A|no,|^h|2472
+A|it still echoes.|sd|2472
+A|Okay, um,|%|2472
+B|Do you like to cook?|qy|2472
+A|I love it.|sd|2472
+B|I do too.|sd|2472
+A|Uh,|%|2472
+B|It, it's kind of hard to find time sometimes|sd|2472
+B|but,|%|2472
+A|Do you work?|qy|2472
+B|Yes.|ny|2472
+A|And have a family?|qy^d|2472
+B|Uh, I don't have a family,|ng|2472
+B|but I, I usually work about fifty hours a week|sd|2472
+B|and, by the time I get home I'm so tired it's hard to cook a full meal.|sd|2472
+A|Oh!|ba|2472
+A|I expect so.|ba|2472
+A|Uh, well for a dinner party, I think one of my favorite things is baked chicken and white wine.|sd|2472
+B|That's, that's really weird that you said that because for a dinner party, mine is, is a, is a chicken in a marsala wine sauce,|sd|2472
+A|Oh|b|2472
+B|so Where did you get your recipe for it?|qw|2472
+A|Um, I guess mostly out of an international cookbook that I have.|sd|2472
+B|Oh, okay.|bk|2472
+B|Well mine actually came from the, um, Texas Instruments Cafeteria.|sd|2472
+A|Oh.|b|2472
+B|They, they,|%|2472
+A|They have a T I plant in Texas, in Kingsport?|qy^d|2472
+B|Yeah,|ny|2472
+B|we have,|%|2472
+B|it's in Johnson City.|sd|2472
+A|Oh, uh-huh.|b|2472
+B|And, um, the cafeteria is real good about putting out recipes, you know, like once a month,|sd|2472
+B|they'll put out a recipe of the month.|sd|2472
+A|Uh-huh,|b|2472
+A|great.|ba|2472
+B|And they, they put this one out|sd|2472
+B|and I tried it|sd|2472
+B|and it was really good.|sd|2472
+A|What is, uh, is a marsala wine a sweeter wine?|qy|2472
+B|Yeah,|ny|2472
+B|a little bit sweeter.|sd|2472
+A|Uh-huh.|b|2472
+B|And it, uh, it's a, it's a red wine.|sd|2472
+A|Okay.|b|2472
+B|And, uh, I'm trying to think what else.|sd|2472
+B|I, I roll it in bread crumbs and, uh, Parmesan cheese,|sd|2472
+A|Uh-huh.|b|2472
+B|and, then I rub it with a little bit, I rub the chicken with a little bit of oil, and pour the wine sauce over it as, like the last twenty minutes, so that it gets just enough flavor.|sd|2472
+A|Huh.|b|2472
+A|Oh.|b|2472
+A|Oh, so it kind of browns|sd|2472
+A|and then you put wine over it.|sd|2472
+B|Right.|b|2472
+A|Uh-huh.|b|2472
+A|That sounds real good.|ba|2472
+B|And, it's really easy too|sd|2472
+B|so,|%|2472
+A|Yeah.|b|2472
+B|What do you use ?|qw|2472
+A|What do you serve with it?|qw|2472
+B|Huh?|br|2472
+A|What do you serve with it?|qw|2472
+B|I like to serve, um, a wild rice with it.|sd|2472
+A|Uh-huh.|b|2472
+A|That's what I do too|sd|2472
+B|This is really neat.|ba|2472
+B|And, I,|%|2472
+B|we're big broccoli fans.|sd|2472
+A|Uh-huh|b|2472
+A|that's what I've got.|sd|2472
+A|I've got steamed broccoli down on mine|sd|2472
+B|Well, I just, I just don't think you can go wrong with something like that.|sv|2472
+A|No,|aa|2472
+A|it's great.|sv|2472
+A|I've got a good dessert recipe.|sd|2472
+B|Oh, what?|qw|2472
+A|Uh, do you like angel food cake?|qy|2472
+B|Yes.|ny|2472
+A|I just break it up in a glass bowl,|sd|2472
+B|Uh-huh.|b|2472
+A|and then I mix up, uh, some cream cheese and a little bit of Amaretta and some cool whip,|sd|2472
+B|Wow.|ba|2472
+A|and I make a thickened blueberry sauce|sd|2472
+A|and I layer it with, uh, angel food cake and the blueberries and then that topping.|sd|2472
+B|What time should we be there?|bh|2472
+B|That sounds wonderful|ba|2472
+A|It is, it's great.|sv|2472
+B|I love desserts,|sd|2472
+B|but since there's only two of us, it's really,|sd|2472
+A|Uh-huh.|b|2472
+B|I, I try to avoid making anything that, too fancy, that, we'd like too much and eat too much|sd|2472
+A|Right.|b|2472
+A|I know, I know what you mean.|sd|2472
+A|We don't eat desserts much any more.|sd|2472
+B|But I, I guess one that, that I really like, that I haven't made in awhile,|sd|2472
+B|and it's, it's called a fruit pizza.|sd|2472
+A|Uh-huh.|b|2472
+B|And you take a, uh, sugar cookie, uh, recipe, and, and spread it out on a pizza pan.|sd|2472
+A|Uh-huh.|b|2472
+B|So you make it like a pizza crust,|sd|2472
+B|and then you, you bake that|sd|2472
+B|and then you, um, take things like kiwi, and strawberries and bananas and whatever fresh fruit you want|sd|2472
+A|Uh-huh.|b|2472
+B|and you mix that with, um, excuse me, you use cream cheese and a little bit of orange juice|sd|2472
+B|and I can't remember what else is in it|sd|2472
+B|and you make kind of a glaze,|sd|2472
+A|Uh-huh.|b|2472
+B|and then you layer your fresh fruit on that.|sd|2472
+A|Oh, and pour that over it?|qy^d|2472
+B|Yeah.|ny|2472
+A|That sounds great.|ba|2472
+B|It is really good,|sv|2472
+B|and it, it's real light|sd|2472
+A|It would be pretty.|ba|2472
+B|and it,|%|2472
+B|depending on the fruit you use it's, you know, it's real colorful.|sd|2472
+A|Right.|b|2472
+A|Yeah.|b|2472
+B|Especially with like the kiwi and the strawberries.|sd|2472
+A|Right.|b|2472
+A|That would be pretty.|sv|2472
+B|So, but usually I just opt for brownies and vanilla ice cream|sd|2472
+A|We've been fixing something lately that, well|sd|2472
+A|we've been cooking a lot of, turkey breasts. Because it's low fat.|sd|2472
+B|Uh-huh.|b|2472
+B|Yeah,|b|2472
+B|it's just so much better for you.|sv|2472
+A|And I've been making a hot sandwich.|sd|2472
+A|I toast a piece of whole wheat bread, and then put the turkey on it and then slices of the low fat Swiss cheese|sd|2472
+B|Uh-huh.|b|2472
+A|and then I make a little honey mustard dressing and put over it, and pop it in the microwave.|sd|2472
+B|Oh!|b|2472
+B|That sounds great.|ba|2472
+A|It is delicious.|sv|2472
+A|I wouldn't mind serving that to anybody.|sd|2472
+B|No,|aa|2472
+B|and that's that's something that just, you know, it doesn't take a long time to fix,|sd|2472
+A|No.|aa|2472
+B|it's really good,|sv|2472
+B|and it's really good for you.|sv|2472
+A|Yeah,|b|2472
+A|it's real quick.|sd|2472
+B|And we eat out a lot|sd|2472
+B|and there are sometimes you just don't feel like eating out,|sv|2472
+A|Right.|b|2472
+B|and I wish I had something a little bit different, to just like she snaps her zap together.|sd|2472
+A|Uh-huh.|b|2472
+A|Yeah.|b|2472
+A|Well|%|2472
+A|mix up a little, uh, mayonnaise with some dijon mustard, and honey until it just,|ad|2472
+B|Uh-huh.|b|2472
+A|I mix it until it just tastes good to me.|sd|2472
+B|I was going to say, do you just mix it to taste?|qy|2472
+A|Uh-huh.|ny|2472
+B|Okay.|bk|2472
+A|Yeah,|b|2472
+A|and it's real good.|sd|2472
+A|And it keeps in the refrigerator.|sd|2472
+B|How long, does it keep,|qw|2472
+B|do you, well|%|2472
+B|you wouldn't have to make,|qy^d|2472
+A|Oh, it keeps a long time.|sd|2472
+B|Yeah,|b|2472
+B|and you wouldn't have to mix that much together even.|sd|2472
+A|No,|aa|2472
+A|uh-huh,|aa|2472
+A|it keeps a long time.|sd|2472
+B|I'm sorry I keep coughing.|fa|2472
+B|I've had a bad cold.|sd|2472
+A|Oh.|b|2472
+A|And I put a little, um, oh, yogurt in it too.|sd|2472
+B|Plain?|qy^d|2472
+B|Plain yogurt?|qy^d|2472
+A|If I,|%|2472
+A|just plain yogurt.|na|2472
+A|It gives it a little tang.|sd|2472
+B|I'll bet that is really good.|ba|2472
+A|It makes a great sandwich.|sv|2472
+B|Man,|ba|2472
+B|I'm going to have to think of that.|sd|2472
+B|We're getting company tonight,|sd|2472
+A|Oh, are you|b|2472
+B|and I have been debating what to cook because one of my guests is a vegetarian.|sd|2472
+A|Oh, yeah,|b|2472
+A|that's kind of hard.|sv|2472
+B|So, we're going to,|%|2472
+B|I think we'll try to do something a little bit,|sd|2472
+B|we might try to, to, um, to grill some flounder or salmon steaks.|sd|2472
+A|They'll eat fish?|qy^d|2472
+B|Yeah.|b|2472
+A|She'll eat fish.|sd|2472
+B|And, I usually,|%|2472
+B|when they come down I'll grill those and brush on a little lemon butter sauce|sd|2472
+A|Uh-huh.|b|2472
+B|and, um, definitely go with, it will have to be a rice dish lots of vegetables, to make up for the lack of meat.|sd|2472
+A|Right,|b|2472
+A|uh-huh,|b|2472
+A|that sounds good.|ba|2472
+A|Right.|aa|2472
+A|I had a recipe from that, um, INTERNATIONAL COOKBOOK TWO, that's a great salad in summertime.|sd|2472
+A|Do you, do you garden or not?|qy|2472
+B|No|nn|2472
+B|we don't,|sd|2472
+B|our next door neighbors do|sd|2472
+B|and some, a lot of times they'll give us something.|sd|2472
+A|Okay.|bk|2472
+A|it's just sliced tomatoes|sd|2472
+A|and I put it on a glass plate because it looks real pretty. Sliced tomatoes and then green pepper strips, just over it, and some red onion slices, and just a little bit of, um, basil, and then a little Italian dressing over it.|sd|2472
+B|Yeah.|b|2472
+B|Oh!|ba|2472
+B|Uh-huh.|b|2472
+B|Uh-huh.|b|2472
+B|Okay.|b|2472
+A|And everybody loves it|sd|2472
+A|and it's so easy,|sd|2472
+A|and it's delicious.|sd|2472
+B|That's what I was just thinking,|sd|2472
+B|it doesn't sound like it, it would be hard at all.|sd|2472
+A|Huh-uh,|b|2472
+A|it isn't.|sd|2472
+B|where did you get,|qw|2472
+A|And you can put some cucumber slices on too.|sd|2472
+B|where did you get this cook book?|qw|2472
+A|I got it at the Checkbook Store.|sd|2472
+B|Really!|ba|2472
+A|And, it's got all these beautiful pictures, in there that are inspiring.|sd|2472
+A|It's going to say, uh, edited by Charlotte Turgeon, editor of,|sd|2472
+A|I'm not french, LaRoute, Gastro LaMink|sd|2472
+A|the creative cooking course.|sd|2472
+B|I'll might have to visit the State Book Store.|sd|2472
+A|I'm trying to see who it's published by, Ottenheimer,|sd|2472
+A|I've never heard of it.|sd|2472
+B|I haven't either.|sd|2472
+A|This edition is published by Bonanza Books.|sd|2472
+B|Okay.|b|2472
+A|It's a big book|ba|2472
+A|but it was not expensive.|sd|2472
+B|Well, the ones that I've been, I've been wanting to get, um,|sd|2472
+B|I guess you've seen the THREE HUNDRED SIXTY-FIVE WAYS TO COOK CHICKEN, and the THREE HUNDRED SIXTY-FIVE WAYS TO COOK PASTA,|qy^d|2472
+A|Uh-huh.|b|2472
+A|Uh-huh.|b|2472
+B|I've been, I've been wanting to get those because we eat a lot of chicken,|sd|2472
+B|and we do eat a lot of pasta.|sd|2472
+A|Yeah|aa|2472
+B|So, we, we just said the other night it wouldn't be too difficult to be, to do without red meat.|sd|2472
+A|That's right.|ba|2472
+A|I don't think it would.|sv|2472
+B|You know, we don't have that much of it now.|sd|2472
+B|As long as we have plenty of vegetables, and lots of chicken.|sd|2472
+A|Uh-huh.|b|2472
+A|I stir fried some the other night though.|sd|2472
+A|Some, uh, beef and broccoli strips,|sd|2472
+A|it was good,|sd|2472
+A|but it didn't have much beef in it|sd|2472
+B|Yeah,|b|2472
+B|I've got a, I've got a Wok that we don't use near as often as we used to.|sd|2472
+A|Uh-huh.|b|2472
+B|We used to stir fry a lot, especially, um, a lot of chicken and, and a lot of rice dishes.|sd|2472
+A|Uh-huh,|b|2472
+A|it just takes the time to cut everything up.|sd|2472
+B|Yeah.|b|2472
+B|But usually if I'm, if I'm, if I take a day off or on the weekend especially, I try to cook,  real, real food.|sd|2472
+A|Cook.|^2|2472
+A|Uh-huh|b|2472
+B|And at least cook a couple of dishes ahead.|sd|2472
+A|Right.|b|2472
+B|So that we can have those to enjoy.|sd|2472
+A|Uh-huh.|b|2472
+B|So,|%|2472
+A|One of my daughters sent me a COLORADO COOK BOOK, put out by the Junior League of Denver.|sd|2472
+B|Uh-huh.|b|2472
+A|Have you ever seen any put out by Junior Leagues?|qy|2472
+B|Yes.|ny|2472
+B|Cause, we have some,  some local ones.|sd|2472
+A|they are great.|sv|2472
+A|Uh-huh.|b|2472
+B|And we have a share alike column in the paper, where people, you know, write in and share recipes or write in and say I'm looking for this recipe,|sd|2472
+A|Uh-huh.|b|2472
+A|Uh-huh.|b|2472
+A|Right.|b|2472
+B|and that's where I get a lot of my recipes.|sd|2472
+A|Yeah.|b|2472
+A|They are good, usually good aren't they?|qy|2472
+B|Yes.|ny|2472
+B|And I got, I got a real good one from a doctor's office one time.|sd|2472
+A|Oh, is that right,|b|2472
+A|what was that?|qw|2472
+B|It's, uh, it's a baked bean recipe.|sd|2472
+A|Uh-huh|b|2472
+B|And, you mix baked beans and Lima beans|sd|2472
+B|and, uh, let's see, I guess,|sd|2472
+A|You buy the canned baked, canned baked beans?|qy|2472
+B|Yeah.|ny|2472
+B|Just mix the canned beans together, and brown sugar and molasses and bake them in catsup, you know,|sd|2472
+A|Uh-huh.|b|2472
+A|Uh-huh.|b|2472
+B|and, and you just bake it.|sd|2472
+B|And it's just, it's like a, a spicier baked bean dish.|sd|2472
+A|Oh, that sounds|ba|2472
+B|And, you can add hamburger if you want, to give it a little more body.|sd|2472
+A|Uh-huh.|b|2472
+A|That sounds good.|ba|2472
+B|So, I, I try to always keep my eyes open and because a lot of time you can find, find really good recipes where you wouldn't even think about it.|sv|2472
+A|Right|b|2472
+B|So, I try to always keep a little notebook in my purse.|sd|2472
+A|Uh-huh.|b|2472
+A|Jot them down, huh?|sd|2472
+B|But, it's been,|%|2472

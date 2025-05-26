@@ -1,0 +1,130 @@
+A|So, are you a news person?|qy|3521|0
+B|Uh, I really am,|na|3521|1
+B|I enjoy, I enjoy listening to the news and getting as much as I can. Although, you know, I'm a full time student|sd|3521|1
+B|and I work full time, too,|sd|3521|1
+B|so, or not full time,|sd|3521|1
+B|but I work quite a bit|sd|3521|1
+B|and so so I mostly depend on the radio, you know, on the way to work.|sd|3521|1
+A|Yes.|b|3521|0
+B|I like, I like to listen to national public radio, uh, all things considered.|sd|3521|1
+A|Yes,|b|3521|0
+A|great show.|sv|3521|0
+B|Yeah,|aa|3521|1
+B|and I like to listen to that and catch, you know,|sd|3521|1
+B|I don't get, I don't get a lot of, uh, sometimes I don't get the current events, you know. Because that show kind of has feature stories that might not directly deal with, uh, you know, some important issue on the day.|sd|3521|1
+B|But,|%|3521|1
+A|Yeah,|b|3521|0
+A|so, so the real, the real current news and, the hard news is, is not, there is not really enough of it there.|bf|3521|0
+B|Yeah.|aa|3521|1
+B|Right,|aa|3521|1
+B|that's right,|aa|3521|1
+B|yeah.|aa|3521|1
+A|Yeah,|b^m|3521|0
+A|I've had, I've had that frustration, too.|sd|3521|0
+A|I end up switching stations from time to time.|sd|3521|0
+B|Yeah|b|3521|1
+B|Yeah,|b|3521|1
+B|you, you you like N P R uh, programming?|qy|3521|1
+A|Uh, in general.|na|3521|0
+B|Yeah.|b|3521|1
+A|Uh, I watch a lot of C N N uh, and C SPAN.|sd|3521|0
+B|Uh-huh.|b|3521|1
+B|Uh-huh.|b|3521|1
+B|Uh-huh.|b|3521|1
+A|Uh, I, I subscribe to three newspapers.|sd|3521|0
+B|Uh-huh.|b|3521|1
+A|Uh, you know, I sort of can't get enough of this.|sd|3521|0
+B|Yeah.|b|3521|1
+A|And, and I, when I travel elsewhere, I'm often amazed at the local papers how little they have. Of world, world events and national events.|sd|3521|0
+B|Oh, yeah.|b|3521|1
+B|Oh, yeah.|b|3521|1
+A|Well, in, in Dallas, what are the, what is the newspaper situation?|qw|3521|0
+B|Well we we, we have a, a big newspaper situation.|sd|3521|1
+B|Uh, because, we used to have two newspapers up until, uh, last Sunday|sd|3521|1
+B|and a, uh, major, uh, a, one of our major papers just closed down.|sd|3521|1
+B|They closed shop, and said, well, we can't put any more papers out,|sd|3521|1
+B|we're done.|^q|3521|1
+A|Was, was that the, the better paper|qy|3521|0
+A|or ,|%|3521|0
+B|Yeah,|ny|3521|1
+B|I thought so.|sd|3521|1
+B|It was a, it was a more effective paper as far as I was concerned.|sd|3521|1
+B|It, it had, uh, uh, it got to the news, you know, and gave you the dirty facts pretty quick and easy. Uh, which I like.|sd|3521|1
+A|Uh-huh.|b|3521|0
+B|I don't, I don't like to, you know, I like to save the editorial information or the the politically, uh, weighted information, you know, for the, for a different section.|sd|3521|1
+B|I like just to get to the, you know, find out what's happening pretty quick.|sd|3521|1
+A|Yes.|b|3521|0
+B|And I feel that the other newspaper, uh,|%|3521|1
+B|the the DALLAS MORNING NEWS is the one that's still here.|sd|3521|1
+B|The TIMES HERALD is the one that closed up|sd|3521|1
+A|Uh-huh.|b|3521|0
+B|And, uh, the, the MORNING NEWS was, was, is okay,|sv|3521|1
+B|but, you know, you have to wade through a lot of editorial garbage as far as I'm concerned.|sv|3521|1
+A|Uh-huh.|b|3521|0
+B|You know, many times it doesn't doesn't reflect my own opinion|sd|3521|1
+B|and,|%|3521|1
+A|But if you, if you were to look at the front page of today's MORNING NEWS MORNING TIMES rather, would you, would you see things about what is going on in Europe?|qy|3521|0
+B|Uh-huh.|b|3521|1
+B|No,|nn|3521|1
+B|no,|nn|3521|1
+B|that's the problem.|sv|3521|1
+A|Oh.|bk|3521|0
+B|But, you know, you see, you see Troy Aikman's knee surgery on the front page, you know.|sv|3521|1
+A|Whoever Troy Aikman is.|qw^d|3521|0
+B|Yeah,|b|3521|1
+B|a, a quarterback for the Broncos or for the, for the Cowboys.|sd|3521|1
+A|Okay.|bk|3521|0
+B|Uh, you know, you know, you know what I mean|qw|3521|1
+A|Yeah.|ny|3521|0
+B|that, there is, uh, local news that, uh, that really a lot of times doesn't, doesn't change, change my life one way or the other.|sv|3521|1
+A|Yeah.|b|3521|0
+B|So, uh,|%|3521|1
+A|I guess it's current events, but not the kind of current events that changes the world.|sv|3521|0
+B|Right,|aa|3521|1
+B|right,|aa|3521|1
+B|yeah|aa|3521|1
+B|Not something you'll, you'll, uh, be interested in ten years from now by any means. You know.|sv|3521|1
+A|Yeah.|b|3521|0
+B|How, how about you?|qo|3521|1
+B|Uh, I guess in Washington, D C you guys have several papers that are pretty pretty effective don't you?|qy|3521|1
+A|Yes.|ny|3521|0
+A|A lot of them.|sd|3521|0
+A|I, I rather like the WASHINGTON POST.|sd|3521|0
+B|Yeah.|b|3521|1
+A|But, I also get the NEW YORK TIMES and the WALL STREET JOURNAL.|sd|3521|0
+B|Uh-huh.|b|3521|1
+A|Uh, and, uh, each of them covers different things in, in in different ways|sv|3521|0
+B|Right.|b|3521|1
+A|and so it's, you know, if I only looked at one of them I would have a different clearly would have a different perspective on the world.|sv|3521|0
+B|Right,|aa|3521|1
+B|yeah.|aa|3521|1
+B|Uh, I, I have a question.|sd|3521|1
+B|Uh, does, does the WALL STREET JOURNAL, uh,|qy|3521|1
+B|I, I've kind of gathered lately that, uh, maybe their information is not just only related to business.|sv|3521|1
+B|Is that, is that a correct assumption?|qy|3521|1
+A|That, that is certainly true.|na|3521|0
+B|Uh-huh.|b|3521|1
+A|Uh, they will, they will have articles,|sd|3521|0
+A|like a few days ago they had a, a nice article on Einstein, you know theory of relativity. You know, that started on the front page ran in, into the full, almost full page inside.|sd|3521|0
+B|Oh.|bk|3521|1
+B|Oh.|bk|3521|1
+B|Uh-huh.|b|3521|1
+A|Now, these are feature kind of articles.|sd|3521|0
+B|Wow.|ba|3521|1
+A|All the, all the, uh, you know, the bulk of the paper certainly is about business kinds of activities.|sd|3521|0
+B|Right.|b|3521|1
+A|But, but there is some very good other articles uh, you'll find in the, in the JOURNAL.|sd|3521|0
+B|Uh-huh.|b|3521|1
+B|Uh-huh.|b|3521|1
+B|Do you find that you're, uh, uh, disappointed or pleased with, uh, uh, the performance of like network coverage of news?|qy|3521|1
+A|Uh, I wish it were in more depth.|sd|3521|0
+B|Uh-huh.|b|3521|1
+A|Uh, that doesn't mean to say longer,|sd|3521|0
+A|just more facts would be nice.|sv|3521|0
+B|Uh-huh.|b|3521|1
+A|Uh, C N N has, has, you know, was, was pretty good during the war.|sv|3521|0
+B|Oh, yeah,|aa|3521|1
+B|definitely.|aa|3521|1
+A|Uh, and they were, you know, sort of had a unique vantage point for, for doing that reporting.|sv|3521|0
+B|Uh-huh.|b|3521|1
+A|So, but, you know, it's not, it's never quite,|%|3521|0

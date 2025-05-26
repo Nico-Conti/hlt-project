@@ -1,0 +1,119 @@
+B|Lucille Hughes.|fo_o_fw_"_by_bc|3563|0
+A|Okay,|b|3563|1
+A|Lucille, I'm on, on .|sd|3563|1
+B|All right,|b|3563|0
+B|and what,|%|3563|0
+A|And our okay, our topic was,|sd|3563|1
+A|did you hear our topic?|qy|3563|1
+B|Yes.|ny|3563|0
+A|All right,|aa|3563|1
+A|basketball.|sd|3563|1
+B|Uh-huh.|b|3563|0
+A|I guess I'm probably a lot like you.|sv|3563|1
+A|I'm a Dallas Maverick fan.|sd|3563|1
+B|Well, I certainly am too.|sd|3563|0
+B|Now tell me what you expect from the Mavericks this year.|ad|3563|0
+A|Well, unfortunately, I don't expect a great deal out of them.|sd|3563|1
+A|They just have too many problems, too many ailments, too many hurt bones, and maybe too much age at this point.|sv|3563|1
+A|You know, when Roy Tarpley just now he messed up on them, it just hurt them so bad.|sv|3563|1
+A|I feel like everyone else,|sd|3563|1
+B|Um.|%|3563|0
+A|I feel sorry for Donald Carter and the members of the team and the management team and everyone else.|sd|3563|1
+A|It just seems like they were just getting themselves in a position where they could possibly be a final, a final team playing for all of it.|sv|3563|1
+B|Yes, sir.|aa|3563|0
+A|National championship or the world championship, and something like this happens.|sd|3563|1
+B|Oh.|b|3563|0
+B|Well, do you think it's time that we go for new, uh, coaches?|qy|3563|0
+B|Is that part of our problem?|qy|3563|0
+A|Yeah,|ny|3563|1
+A|I think at this time, we're just in a, a rebuilding type of phase, you know.|sv|3563|1
+A|I think that probably be evident with the more and more, the more and more young guys they draft.|sv|3563|1
+A|But,|%|3563|1
+B|Well, it just, it's so discouraging that they can't really,|sv|3563|0
+B|I mean, they're entitled to more than they've been able to do so far.|sv|3563|0
+B|I, I'm awfully sorry that the Mavericks can't come on and, and do.|sd|3563|0
+B|Roy, who's your next best team,|qw|3563|0
+B|or who do you like after the Mavericks?|qw|3563|0
+A|Oh, gosh,|ba|3563|1
+A|I'm so much a Maverick, Maverick fan I don't know.|sd|3563|1
+A|Probably the Boston Celtics.|sd|3563|1
+A|I've just always like the Boston Celtics.|sd|3563|1
+A|They have a, they have a similar situation in that a lot of old guys on the team,|sv|3563|1
+A|and, but they're still playing good ball.|sv|3563|1
+B|Well.|%|3563|0
+A|But I'm, I've always been a Boston Celtic fan, too,|sd|3563|1
+A|but, you know, I've lived in Texas since seventy-four,|sd|3563|1
+A|so being a transplanted Texan in, in the Dallas area, I have to stick with those Dallas Mavericks.|sd|3563|1
+B|We certainly need to support them,|sv|3563|0
+B|do we not.|^g|3563|0
+A|Yes,|ny|3563|1
+A|we do. You know.|sd|3563|1
+B|Do you go to the game?|qy|3563|0
+A|Yes,|ny|3563|1
+A|I go to a few games.|sd|3563|1
+A|I haven't been to many.|sd|3563|1
+A|I'm not a season ticket holder or anything.|sd|3563|1
+A|I was a season ticket holder of the Cowboys for years,|sd|3563|1
+A|and when my kids got to a certain age and went off to school and college and doing their own thing, sort of gets boring going by yourself|sd|3563|1
+B|Yes,|aa|3563|0
+B|it does|sv|3563|0
+B|I'm sure it would in such a monstrous place down there.|sv|3563|0
+A|Oh, you bet.|aa|3563|1
+B|But, um, maybe next, maybe they can do some.|sv|3563|0
+B|I don't know,|h|3563|0
+B|who do they need to trade?|qw|3563|0
+A|Well, I don't know.|no|3563|1
+A|It seems like Rolando Blackman and, and Harper sort of carry the team,|sv|3563|1
+A|they just,|%|3563|1
+A|I don't know,|h|3563|1
+A|I'm afraid to say, that's probably who they need to trade to get someone in there good,|sv|3563|1
+A|but, and that can really help the team,|sv|3563|1
+A|but they do that,|sv|3563|1
+A|they trade the nucleus of their power right now.|sv|3563|1
+B|Yes, sir,|aa|3563|0
+B|it seems that way to me.|sd|3563|0
+B|I, course I don't know any of the newer ones that they have|sd|3563|0
+B|and I'm not well versed on their capabilities,|sd|3563|0
+B|but we really need to do something.|sv|3563|0
+A|Well, you know, I feel like, uh, the best they can hope for this year is probably an opportunity to make the playoffs.|sd|3563|1
+A|I like their coach.|sd|3563|1
+A|I really like a lot,|sd|3563|1
+A|and I just, I think he deserves a good break.|sv|3563|1
+A|I think he deserves a healthy team so they can really see what he can do for the club.|sv|3563|1
+A|I think Donald Carter, the owner, I think with all he's invested, he deserves a a healthy team for one year and a good break also.|sv|3563|1
+B|I really.|%|3563|0
+B|Yes, sir.|ba|3563|0
+A|This thing with Roy Tarpley just upset everyone, I think. Fans, owners, management, everyone.|sv|3563|1
+B|And they have just done as much as they can for that man,|sv|3563|0
+B|and he apparently can't straighten his act out,|sd|3563|0
+B|so we need to, to build on something more positive than that.|sv|3563|0
+A|You bet.|aa|3563|1
+A|I think they're fools if they ever bring him back|sv|3563|1
+B|Oh, I do, too.|aa|3563|0
+B|I certainly would agree to that.|sd|3563|0
+A|Hate to put it that way.|sd|3563|1
+A|I just would not believe him any more.|sd|3563|1
+B|Well, it, um,|%|3563|0
+B|I mean, you can't give, anyone too many chances|sv|3563|0
+A|No.|aa|3563|1
+B|and I think he has gone over the limit.|sv|3563|0
+A|There's an old saying you can, you can lead a horse to water|sd|3563|1
+A|but you can't make him drink.|^q|3563|1
+A|So,|%|3563|1
+B|That's right.|aa|3563|0
+A|And I think Tarpley's just a sad case.|sv|3563|1
+B|Well.|%|3563|0
+A|But to be making a, a million dollars a year, that's pretty sad.|sv|3563|1
+B|It is tragic.|aa|3563|0
+B|I don't, um,|%|3563|0
+B|I mean, we're going to have to do something about all of these fabulous salaries they're paying to all of our athletes, I think.|sv|3563|0
+A|Oh, I think you're right.|aa|3563|1
+A|Everything has been put out of perspective now.|sv|3563|1
+A|You know, you take a, a young kid Roy Tarpley's age, I'd say he was twenty-one when he came into the league,|sd|3563|1
+A|and now he's probably an old age of, uh, twenty-five or six and making all that money,|sd|3563|1
+B|Yes, sir.|ba|3563|0
+A|well, that's, uh, that's quite a, that's a little more of a challenge for a young man than they, they need at that point in their life, I think.|sv|3563|1
+B|I think you're right.|aa|3563|0
+B|I believe that one,|sd|3563|0
+B|so.|%|3563|0
+A|I think, you know, it's created by,|sv|3563|1

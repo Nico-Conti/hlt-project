@@ -1,0 +1,176 @@
+A|Are you in the middle of anything?|qy|4886|0
+B|No.|nn|4886|1
+B|I'm not in the middle of anything.|sd|4886|1
+B|I've just,|%|4886|1
+B|about the last thing I did|%|4886|1
+B|about maybe, oh, close to a year ago now I guess, I, I helped my dad add on another bedroom on to his house.|sd|4886|1
+B|So, I guess that,|%|4886|1
+A|The whole thing?|qy|4886|0
+B|Yeah.|ny|4886|1
+B|That, that was fairly large undertaking.|sd|4886|1
+B|A, a, it's a bedroom and a walk-in closet and a bathroom all on one side of the house.|sd|4886|1
+A|Did the framing and all?|qy|4886|0
+B|Oh, we did it all except for the sheetrocking.|na|4886|1
+A|Huh.|b|4886|0
+B|That was the only thing we didn't, you know, putting the ceiling up and things like that|sd|4886|1
+B|we don't, we, we weren't sure how to do that|sd|4886|1
+B|and.|%|4886|1
+A|and I did all the sheetrocking and the interior work|sd|4886|0
+B|Yeah,|aa|4886|1
+B|that's the exact opposite.|sd|4886|1
+B|We did all, put the roof up and did all the roofing and the, put all the interior walls up.|sd|4886|1
+B|We just didn't do any of the sheetrock wall work|sd|4886|1
+B|and that's it because you have, you know, get those joints to go together|sd|4886|1
+B|and whatever you have to put in there to get the, to take the gaps out between the sheets and on the ceiling and all that.|sd|4886|1
+A|Yeah.|b|4886|0
+B|I we didn't know a thing about any of that|sd|4886|1
+B|and so,  It's, it looked very hard to do|%|4886|1
+A|My wife wishes I hadn't done that.|sd|4886|0
+B|so,|%|4886|1
+B|we figured well just,|%|4886|1
+B|I didn't think we could do it and make it look professional.|sd|4886|1
+B|So, we left it, left it to somebody who does it for a living.|sd|4886|1
+B|But,|%|4886|1
+A|I think it takes about three or four times before it gets easy. Yeah *should be 'b'|sv|4886|0
+B|Probably so|aa|4886|1
+B|and I, we'd never done it|sd|4886|1
+B|so we just left it alone.|sd|4886|1
+B|But that's,|%|4886|1
+B|I guess, I'm only twenty-one|sd|4886|1
+B|so I, my, my vast experience of home, home owner's knowledge is not very much.|sd|4886|1
+B|So it's just what I have to do, more or less, around the house, you know, for my parents|sd|4886|1
+B|so.|%|4886|1
+A|Did you, you framed it in uh, on, on, you framed in new square footage|qy^d|4886|0
+A|or was it stuff that was already, uh, enclosed?|qy|4886|0
+B|It was brand new.|sd|4886|1
+A|Brand new .|b^m|4886|0
+B|We started with the backyard and turned it into part of the house|sd|4886|1
+B|so it was,|%|4886|1
+A|and you knew how, you knew how to do the framing?|qy|4886|0
+B|Uh, well my dad knew how to do most of it, you know.|no|4886|1
+A|Uh-huh.|b|4886|0
+B|He, he'd, we'd gotten a couple of books|sd|4886|1
+B|and then he just started doing it.|sd|4886|1
+B|I don't know.|h|4886|1
+B|He, well he did all the flooring himself.|sd|4886|1
+B|He put the whole, the whole floor in|sd|4886|1
+B|and then I just started with the walls and the roof and started there.|sd|4886|1
+B|And then we were, put a, like a, not, not necessarily a garage, but just like a, off the side of that|sd|4886|1
+B|after we had the house part made, we just decided we'd carry the roof out a little bit farther and put a carport more or less.|sd|4886|1
+B|It's not, you know, it's not enclosed.|sd|4886|1
+B|It's just somewhere to drive another car to, to park|sd|4886|1
+B|and it's,|%|4886|1
+A|Do, do you build on slabs down there or did you build it up off the ground?|qy|4886|0
+B|Uh, it's off the ground.|sd|4886|1
+A|On the piers?|qy|4886|0
+B|Uh-huh.|ny|4886|1
+B|It's on about uh, twenty-two inch piers, something like that.|sd|4886|1
+A|Did,|%|4886|0
+A|You had those poured|qy^d|4886|0
+B|So.|%|4886|1
+A|or you did them yourself?|qy|4886|0
+B|Uh, no,|nn|4886|1
+B|those, those are,|%|4886|1
+B|we did those ourselves|sd|4886|1
+B|so.|%|4886|1
+A|You just put forms in the ground and fill them with concrete?|qy|4886|0
+B|Yeah.|ny|4886|1
+A|Huh.|b|4886|0
+B|Exactly,|na|4886|1
+B|so. It's,|%|4886|1
+A|Well, the last thing I did completely myself was an outside deck which I was pretty proud of|sd|4886|0
+B|Yeah,|b|4886|1
+B|those those are,|%|4886|1
+B|we'd, I've done one,|sd|4886|1
+B|I helped somebody do one of those before.|sd|4886|1
+B|Those are, those are, you know,|%|4886|1
+B|you can buy them in kits|sd|4886|1
+B|but we didn't do that way.|sd|4886|1
+B|But it's,|%|4886|1
+A|No|ar|4886|0
+A|I designed it from scratch and did it  did a pretty good job.|sd|4886|0
+B|Yeah.|b|4886|1
+A|Those are nice.|sv|4886|0
+A|They're pretty forgiving, you know.|sv|4886|0
+A|You can always tear stuff out and redo it.|sd|4886|0
+A|It's a,|%|4886|0
+B|Yeah,|b|4886|1
+B|yeah.|b|4886|1
+B|That's not near, like building a house or anything|sv|4886|1
+B|but,|%|4886|1
+B|Yeah,|aa|4886|1
+B|those are nice.|sv|4886|1
+B|Especially when you get done, you've got something, you know.|sv|4886|1
+B|I don't know,|h|4886|1
+B|I like them.|sd|4886|1
+B|You just sit down on on the deck and do whatever. Have  a barbecue|sd|4886|1
+A|Yeah.|b|4886|0
+A|I  I built it two levels and with a big toy box and some benches and, uh, a backrest and all that stuff.|sd|4886|0
+B|or,|%|4886|1
+A|I,|%|4886|0
+B|Yeah,|b|4886|1
+B|that sounds nice.|ba|4886|1
+B|All done by yourself, huh?|qy|4886|1
+A|I had  a friend with a tractor who dug the pier holes|sd|4886|0
+B|Designed,|%|4886|1
+A|so we could pour concrete and support it with a, a nice firm four by four posts.|sd|4886|0
+A|And, uh and then the rest of it I just did.|sd|4886|0
+B|Yeah.|b|4886|1
+A|A, a contractor friend helped me, uh, with some of the, uh, foundation work|sd|4886|0
+A|but, uh, it was pretty,|%|4886|0
+A|it was about four or five hundred square feet.|sd|4886|0
+A|The same size as the addition that I just put on|sd|4886|0
+A|so.|%|4886|0
+B|Yeah.|b|4886|1
+B|That's pretty, that's a good size deck.|ba|4886|1
+A|Yeah.|aa|4886|0
+B|So, yeah.|b|4886|1
+B|That's,|%|4886|1
+A|It's, uh, not that expensive.|sd|4886|0
+A|I think it cost me three dollars a square foot and, uh, you know, no less than that.|sd|4886|0
+B|Yeah.|b|4886|1
+B|That's not,|ba|4886|1
+A|cost me about five hundred dollars, six hundred dollars all together.|sd|4886|0
+B|Yeah,|b|4886|1
+B|that's good.|ba|4886|1
+B|That's not bad at all.|ba|4886|1
+B|Didn't  have to,|%|4886|1
+A|Yeah.|b|4886|0
+B|the wood may|%|4886|1
+B|it got surprising as to the fact that how much wood is, you know.|sv|4886|1
+B|To get, to get good lumber it costs,|%|4886|1
+B|I don't know about Dallas, but even in this little town, it's, it's not cheap at all.|sv|4886|1
+B|I was surprised.|sd|4886|1
+A|I'd be surprised if it wasn't, uh, cheaper where you are.|sv|4886|0
+B|It's probably more there.|sv|4886|1
+A|Well, yeah.|aa|4886|0
+A|It probably comes from where you are.|sv|4886|0
+B|Yeah,|aa|4886|1
+B|yeah,|aa|4886|1
+B|that it probably does.|aa|4886|1
+A|Most|%|4886|0
+B|I, I'm not sure|h|4886|1
+B|but,|%|4886|1
+A|When I drive through that area, that's all I see is  pressure treated, pressure treated lumber yards.|sd|4886|0
+B|Yeah.|b|4886|1
+B|It's nothing but woods up here, down here.|sd|4886|1
+B|Yeah.|b|4886|1
+B|I don't, I haven't, I mean, I haven't,|%|4886|1
+B|I used to live in Dallas. In Arlington, actually.|sd|4886|1
+B|And, but that was just when I was a kid|sd|4886|1
+B|so I don't really know what the cost of living is even like in Dallas anymore.|sd|4886|1
+B|But it's, I don't know, we're a college town|h|4886|1
+B|so that doesn't help us out any.|sd|4886|1
+A|Right.|aa|4886|0
+A|East Texas.|sd|4886|0
+B|We have,|%|4886|1
+B|gas is a dollar dollar twelve a gallon,|sd|4886|1
+B|so that's probably about what you're paying|sv|4886|1
+A|Huh.|b|4886|0
+B|so.|%|4886|1
+A|Yeah,|b|4886|0
+A|my current project is a walkway which I'm building around the house and out to the backyard to, uh, you know, digging it out and laying sand and putting, uh, pavers on top of that|sd|4886|0
+A|so.|%|4886|0
+B|Yeah.|b|4886|1
+A|That's a lot easier.|sv|4886|0
+B|You've got something going all the time.|ba|4886|1

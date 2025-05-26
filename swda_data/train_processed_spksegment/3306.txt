@@ -1,0 +1,191 @@
+A|Supposed to talk about boats.|ad|3306|0
+A|Have you got a boat|qy|3306|0
+B|No,|nn|3306|1
+B|I don't,|sd|3306|1
+B|do you?|qy|3306|1
+A|No,|nn|3306|0
+A|I don't.|sd|3306|0
+A|I, I've had one for quite a few years,|sd|3306|0
+A|but I, I've not had one the last couple of years.|sd|3306|0
+B|Oh, really?|bh|3306|1
+A|But, it's something I've always enjoyed.|sd|3306|0
+A|Do you, do you like boating?|qy|3306|0
+B|Yeah,|ny|3306|1
+B|I love them|sd|3306|1
+A|Yeah,|%|3306|0
+A|but, uh, my children all have been grown for a few years|sd|3306|0
+A|and we were using it less and less and less,|sd|3306|0
+A|so we decided to sell it.|sd|3306|0
+A|And,|%|3306|0
+B|Well, I heard, that's the second happiest day of your life|sd|3306|1
+A|What's that?|br|3306|0
+B|The day you sell your boat.|sd|3306|1
+A|Oh, no,|ar|3306|0
+A|now I loved having a boat.|sd|3306|0
+A|I loved having it.|sd|3306|0
+A|No,|%|3306|0
+B|No,|b^m|3306|1
+B|I just heard that.|sd|3306|1
+B|That's just a joke, I guess.|sd|3306|1
+A|Oh, okay|bk|3306|0
+B|First best day is the day you get and the day you get rid of it|sd|3306|1
+B|but, I'd like to have one.|sd|3306|1
+A|Oh, yeah|b|3306|0
+B|I just don't know if I'd have the time to use it.|sd|3306|1
+A|Yeah,|aa|3306|0
+A|guy just you know,|%|3306|0
+A|he needs his weekends free, or to be able to use it or a day during the week or something,|sv|3306|0
+B|Yeah.|b|3306|1
+A|but, but, no|%|3306|0
+A|I guess for the cost of them you don't really,|sv|3306|0
+A|it's hard to get,|sv|3306|0
+A|I don't know,|h|3306|0
+A|I felt like I got my money's worth out of mine|sd|3306|0
+A|I had bought it used and kept it, uh, I don't know, ten years and got within, uh, three hundred dollars of what, when I sold it, of what I'd paid for it and had it all those years, you know.|sd|3306|0
+B|Uh-huh.|b|3306|1
+A|So they hold their, you take care of them they hold their value real well.|sd|3306|0
+B|Really?|bh|3306|1
+A|So, you know, you couldn't complain about that.|sv|3306|0
+B|Did you go fishing?|qy|3306|1
+A|No,|nn|3306|0
+A|no,|nn|3306|0
+A|it was a uh, big boat, big ski boat type thing.|sd|3306|0
+B|Oh, okay.|bk|3306|1
+A|I had a hundred, hundred sixty horse, uh, Murcruiser in it.|sd|3306|0
+B|Oh, wow.|ba|3306|1
+A|Inboard outboard.|sd|3306|0
+A|Oh, I did fish out of it occasionally,|sd|3306|0
+A|but I'm not too much of a fisherman.|sd|3306|0
+B|Really?|bh|3306|1
+A|And, uh, but I but I did enjoy owning a boat,|sd|3306|0
+B|Yeah,|b|3306|1
+B|I like to fish.|sd|3306|1
+A|would recommend it to anybody.|sd|3306|0
+A|And, uh, uh, but, uh, and now sailing, I've never been sailing.|sd|3306|0
+A|Have you been sailing?|qy|3306|0
+B|Uh, yeah,|ny|3306|1
+B|I've sailed some.|sd|3306|1
+B|I just like, uh, fourteen foot Sunfish.|sd|3306|1
+A|Uh-huh.|b|3306|0
+B|Nothing big.|sd|3306|1
+A|I've never tried.|sd|3306|0
+A|I've always thought, I bet that would be more fun.|sd|3306|0
+A|But I'd want to be with a skilled sailor|sd|3306|0
+B|Yeah,|aa|3306|1
+B|really.|aa|3306|1
+A|But it,|%|3306|0
+B|Well, they offer classes out at, uh, Ray Hubbard.|sd|3306|1
+A|Yeah,|b|3306|0
+A|well, I, I've always thought I'd like to.|sd|3306|0
+A|I've never wanted to bad enough to make any effort to do it, you know.|sd|3306|0
+B|Yeah.|b|3306|1
+A|And, at this stage of the game, I'm not that interested in it anymore.|sd|3306|0
+B|Oh, okay.|bk|3306|1
+A|We go out with friends on the,|sd|3306|0
+A|we go to the lake just about every weekend down at Mount Vernon|sd|3306|0
+A|and parents' next door neighbors have a big barge|sd|3306|0
+B|Okay.|b|3306|1
+A|and we go out and take them out on their barge.|sd|3306|0
+A|They're getting kind of old|sd|3306|0
+A|and they like us to take them out on their barge quite often,|sd|3306|0
+A|so we we get out on the water occasionally, you know.|sd|3306|0
+B|Oh, that's nice.|ba|3306|1
+B|Yeah.|b|3306|1
+A|But, uh, uh, anyway, it's it's, it's fun.|sd|3306|0
+A|I, I do enjoy the lake,|sd|3306|0
+A|but, uh, once the children were grown,|sd|3306|0
+A|and we'd go down there|sd|3306|0
+A|and I'd get the boat out on the, you know, Saturday,|sd|3306|0
+A|and we'd go for a ride and enjoy it so much.|sd|3306|0
+A|It's such a pretty lake down there.|sd|3306|0
+A|We'd enjoy it so much|sd|3306|0
+A|and, I'd say, well, I'm going to leave the boat out, because, uh, we'll probably do this again tomorrow|sd|3306|0
+A|It got to where the, tomorrow the boat was still sitting there|sd|3306|0
+A|and we never did go out again|sd|3306|0
+A|and I'd have to go load it up the next day.|sd|3306|0
+A|And,|%|3306|0
+B|Where is that?|qw|3306|1
+A|Uh, Mount Vernon.|sd|3306|0
+B|Yeah.|b|3306|1
+A|Cypress Springs,|sd|3306|0
+A|Cypress Creek Springs.|sd|3306|0
+B|Okay,|bk|3306|1
+B|that's south of here?|qy^d|3306|1
+A|Yeah,|ny|3306|0
+A|it's down at Mount Vernon.|sd|3306|0
+B|Okay.|bk|3306|1
+A|It's probably the prettiest lake in the state of Texas.|sv|3306|0
+B|Really?|bh|3306|1
+A|Yeah,|ny|3306|0
+A|it's just a hundred miles from here.|sd|3306|0
+B|Huh. What do you take, I Thirty-five?|qy|3306|1
+A|No,|nn|3306|0
+A|you go down I, uh, uh, you, uh, you go down, uh, yeah, thirty, thirty.|sd|3306|0
+B|Thirty.|b^m|3306|1
+A|It's east of here.|sd|3306|0
+B|Oh, okay.|bk|3306|1
+A|East of here.|sd|3306|0
+A|Hundred miles due east of here.|sd|3306|0
+B|All right.|bk|3306|1
+A|And, uh,|%|3306|0
+B|Yeah,|b|3306|1
+B|it just we just moved down here a couple years ago,|sd|3306|1
+B|so,|%|3306|1
+A|Did you?|bh|3306|0
+A|Where did you all move from?|qw|3306|0
+B|Colorado Springs.|sd|3306|1
+A|Oh, did you?|bh|3306|0
+B|Yeah.|ny|3306|1
+A|How are you liking it?|qw|3306|0
+B|Oh, we love it up there|sd|3306|1
+A|Well, good.|ba|3306|0
+B|That's where I grew up|sd|3306|1
+A|Yeah.|b|3306|0
+B|So,|%|3306|1
+A|Uh-huh.|b|3306|0
+B|But, uh, we're, we like it down here pretty good.|sd|3306|1
+A|Oh, I think you'll like it better,|sv|3306|0
+A|but, of course it's hard when you don't have any family around.|sv|3306|0
+B|Yeah,|aa|3306|1
+B|we got two kids that are under two|sd|3306|1
+A|Yeah.|b|3306|0
+B|and it's kind of tough when my folks call and they want to see them|sd|3306|1
+A|Uh-huh.|b|3306|0
+A|Yes,|aa|3306|0
+A|it's hard on the your folks, too,|sv|3306|0
+A|I know.|sd|3306|0
+A|They're all, yours|sv|3306|0
+A|and your wife's folks still live in Colorado?|qy^d|3306|0
+B|Yeah.|ny|3306|1
+A|Uh-huh.|b|3306|0
+B|So,|%|3306|1
+A|Uh, there are supposed to be, uh, some people moving down here from Colorado Springs for T I.|sd|3306|0
+B|Oh, really?|bh|3306|1
+A|Yeah,|ny|3306|0
+A|supposed to be.|sd|3306|0
+B|Yeah,|aa|3306|1
+B|that's right. Uh,|aa|3306|1
+A|Do you work at T I?|qy|3306|0
+B|I don't,|ng|3306|1
+B|no.|nn|3306|1
+A|Uh-huh.|b|3306|0
+B|Uh, a friend of mine's dad is, was a program manager up there|sd|3306|1
+A|Uh-huh.|b|3306|0
+B|and he just moved down here to|sd|3306|1
+B|what do you,|qw|3306|1
+B|I guess it's,|sd|3306|1
+B|he's working in McKinney.|sd|3306|1
+A|Uh-huh.|b|3306|0
+A|Yeah,|b|3306|0
+A|I don't either.|sd|3306|0
+A|My wife does|sd|3306|0
+B|Okay.|b|3306|1
+A|But, it's a good company.|sv|3306|0
+A|But, anyway, we're supposed to be talking about boats,|sd|3306|0
+A|so back to boats.|ad|3306|0
+A|So, tell me the last time you went for a boat ride.|ad|3306|0
+B|Well, actually, I went, uh, canoeing down the Brazos this weekend.|sd|3306|1
+A|Oh, my gosh, now that had to be, that's boating.|sv|3306|0
+A|That had to have been fun.|sv|3306|0
+B|It was fun,|sd|3306|1
+B|it was fun.|sd|3306|1

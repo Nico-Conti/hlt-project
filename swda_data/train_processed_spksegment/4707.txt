@@ -1,0 +1,109 @@
+B|Not very good|fo_o_fw_"_by_bc|4707|0
+B|it's not been a good day|sd|4707|0
+A|I went, I turned mine in about twelve hours early at noon.|sd|4707|1
+B|I don't know.|h|4707|0
+B|I finished mine up about eleven and left it here with Carolyn|sd|4707|0
+B|so I hope she's turned it in.|sd|4707|0
+A|Are you eating?|qy|4707|1
+B|Uh, I|%|4707|0
+B|go ahead,|ad|4707|0
+B|I'll stop eating.|sd|4707|0
+B|I just barely got  home from the university.|sd|4707|0
+A|No it's,|%|4707|1
+A|Say what?|br|4707|1
+B|I just barely got home from the university.|sd|4707|0
+A|Tell you what we can do is, uh, I can punch the, uh, one,|oo_co_cc|4707|1
+A|and then after five minutes when the, uh, uh, voice comes on, we can talk all night if we want|oo_co_cc|4707|1
+B|Okay,|aa|4707|0
+B|go ahead,|ad|4707|0
+B|fire away.|ad|4707|0
+A|Uh, I love the irony of, uh, talking about this subject on April the, fifteenth|sd|4707|1
+A|But, uh, I'm afraid I'm, I'm probably in the minority.|sv|4707|1
+A|I, I actually don't think that we, uh, pay too much in this country. Uh uh, particularly, uh, in this part of the country|sv|4707|1
+B|I agree with you|aa|4707|0
+A|uh, I guess I do have a, a bone to pick with, uh, uh, the way taxes are distributed|sv|4707|1
+A|Uh, I just finished fuming at the fact that we pay an eight and a half percent sales tax and no income tax when the income tax could have been deducted from the federal form|sd|4707|1
+B|Huh.|%|4707|0
+A|and the sales tax can't.|sd|4707|1
+A|I think that's regressive|sv|4707|1
+A|and, uh, uh, it's kind of dumb.|sv|4707|1
+B|I hate the eight and a half percent sales tax.|sd|4707|0
+B|But, on the other hand, I don't mind that it's only on, you know, things that aren't like groceries and that,|sd|4707|0
+B|it's not on that.|sd|4707|0
+A|Well, I mean, nobody taxes groceries.|sv|4707|1
+B|Oh, yeah,|ar|4707|0
+B|they do.|sd|4707|0
+A|Where?|qw|4707|1
+B|In Arizona.|sd|4707|0
+A|Is that right?|qy|4707|1
+B|Uh-huh.|ny|4707|0
+B|But we have a pretty low income I mean pretty low tax rate here.|sv|4707|0
+B|Oh, I think the, the sales tax, they just got to do something about it.|sv|4707|0
+A|Right.|b|4707|1
+B|But that's the politicalness of trying to not create any new taxes.|sv|4707|0
+A|Right|b|4707|1
+A|But I guess when I hear, when I see the comparison between the United States and, uh, any other western country, uh, their, their rates are like, uh, forty-one, forty-two and ours are like thirty-six, thirty-seven, you know,|sd|4707|1
+A|if you compute as a percentage of total income, all taxes lumped together, we actually do pretty well.|sv|4707|1
+A|there's no other country that's, that is taxed as low as we are.|sd|4707|1
+B|Well and I still think that, having lived in Europe for awhile, you know, difference in living conditions are certainly well worth, uh, what we pay for it.|sv|4707|0
+A|Yeah.|b|4707|1
+A|Uh-huh.|b|4707|1
+A|I'm, I'm not sure I understand what you mean.|sd|4707|1
+B|Well, I mean, I think,|sv|4707|0
+B|I was in Germany, you know, for several years|sd|4707|0
+A|Right.|b|4707|1
+B|and I'd a lot rather pay taxes here and have what we have, then have to live there.|sv|4707|0
+A|Oh, you mean, lowest end of living in spite of lower, higher taxes.|bf|4707|1
+A|Yeah.|%|4707|1
+B|Higher taxes.|sd|4707|0
+B|Yeah.|aa|4707|0
+A|I suppose that's true,|sv|4707|1
+A|yeah.|aa|4707|1
+A|Uh, probably less so now than it was ten years ago or whatever|sv|4707|1
+A|but,|%|4707|1
+B|Still's that way to some extent.|sv|4707|0
+A|Yeah.|b|4707|1
+B|I think the other problem is, you know, it, it's easy to complain about taxes because there's something you, theoretically, can do something about.|sv|4707|0
+A|Right.|b|4707|1
+B|But I look, for example,|%|4707|0
+B|and you're not quite in the same situation|sd|4707|0
+B|but like school taxes for me biggest bargain in the world.|sv|4707|0
+A|Right.|b|4707|1
+B|I wish I didn't have to pay any more to my physicians in a year than I had to pay for all of my school taxes.|sd|4707|0
+A|Right.|b|4707|1
+A|Yeah.|b|4707|1
+A|Yeah,|b|4707|1
+A|since, uh, I send my kids to parochial school, that .|sd|4707|1
+B|Yeah,|b|4707|0
+B|that, that's probably a little tougher on you|sv|4707|0
+A|It's not, it's not quite the bargain that .|aa|4707|1
+A|But, I mean, I pay them gladly.|sd|4707|1
+A|That's a decision,|sd|4707|1
+A|I think it's a dumb decision on our part because countries like Canada and England and Germany do perfectly well with a, uh, two tract system in which religious schools coexist with secular schools with the same tax money.|sv|4707|1
+A|But, uh, I mean, that's, that's the way Americans want to interpret it,|sv|4707|1
+A|I guess that's all right|sv|4707|1
+A|But,|%|4707|1
+A|yeah.|%|4707|1
+A|I,|%|4707|1
+A|and if I were, uh,|%|4707|1
+A|when I was single and again when I'm retired, I will not mind paying, uh, what it takes to keep the schools good.|sd|4707|1
+A|That's always been a high priority|sd|4707|1
+B|No,|ar|4707|0
+B|I think that's just you though.|sv|4707|0
+A|I do,|%|4707|1
+A|yeah,|aa|4707|1
+A|that's true.|aa|4707|1
+A|I think in places,  I think in places like California, people are beginning to find that in, in areas that are fairly well off, if you add the, uh, uh, people of various sexual persuasions and those who never intend to marry and those who are retired and those are, uh, just looking for fun, people with families turn out to be such a small minority that they can't get a tax bill passed no matter what happens.|sv|4707|1
+B|Yeah.|b|4707|0
+A|And, uh,  there are big sections of the country where people with children of school age are such a small minority that they can't get anything done.|sv|4707|1
+A|That seems a, a, like a cultural lapse.|sv|4707|1
+A|I mean, people always used to be willing to ante up for the schools.|sv|4707|1
+A|They,|%|4707|1
+B|Of course, I think with the graying of America, we're going to see that problem in lots of places.|sv|4707|0
+A|Right.|aa|4707|1
+A|Yeah.|aa|4707|1
+A|People would rather, uh, increase the fire department and cut down the schools because it means more to them.|sv|4707|1
+A|But I think it's sad selfish and shortsighted.|sv|4707|1
+B|Or build roads.|^2|4707|0
+A|Yeah.|aa|4707|1
+A|Well,|%|4707|1

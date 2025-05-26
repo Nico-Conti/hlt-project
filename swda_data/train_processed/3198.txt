@@ -1,0 +1,104 @@
+A|Okay.|fo_o_fw_"_by_bc|3198
+A|Did you want me to go ahead?|qy|3198
+B|I'll let you go ahead and start, yeah. of that kind of stuff|aa|3198
+A|Okay.|bk|3198
+A|Well, one thing,|%|3198
+A|I, I guess both of us are very much aware of the equality.|sv|3198
+A|Uh, it seems like women are, uh, just starting to really get some kind of equality not only in, uh, jobs but in the home where husbands are starting to help out a lot more than they ever did.|sv|3198
+A|Uh, it's not uncommon to see men doing dishes, making supper, or taking care of the kids|sv|3198
+A|or uh,|%|3198
+A|the generation of my parents and my great grandmother which, uh, they did everything.|sd|3198
+A|They went to work|sd|3198
+A|and they took care of the family,|sd|3198
+A|so.|%|3198
+A|Exactly.|aa|3198
+A|Exactly.|aa|3198
+A|Yeah.|b|3198
+B|but my husband is wonderful.|sd|3198
+A|Yeah,|b|3198
+A|that's the way my husband is too.|sd|3198
+A|I mean it, it doesn't, uh, doesn't bother him at all to do the dishes.|sd|3198
+B|Yeah.|b|3198
+A|It doesn't bother him at all to do the laundry verses, uh, men from way back.|sd|3198
+A|There is that,|%|3198
+A|well, if you did that you were henpecked or whatever.|sv|3198
+A|But, men are starting,|sv|3198
+B|Yeah,|b|3198
+B|yeah.|b|3198
+B|There are still some that aren't cooperating|sv|3198
+B|but|%|3198
+A|Yeah,|b|3198
+A|those are very few.|sv|3198
+A|I think those men don't last very long in relationships because I think women know what they want.|sv|3198
+B|They're not accepting that anymore.|sv|3198
+A|Right,|b|3198
+A|exactly.|aa|3198
+B|Yeah.|b|3198
+A|And it's, it's hard enough to be a woman out there trying to do everything, uh, you know, and then kind of real light pay.|sv|3198
+A|There's just no way that we can be happy trying to do it all.|sv|3198
+A|So it's, it's kind of a, uh, neat thing to see as far as equality in the households,|sv|3198
+A|and I think that's even going to get better. Even, you know, even more so.|sv|3198
+B|Yeah.|b|3198
+A|I think it's just going to be where men will do as much cleaning as women do and that it won't be your job description instead of your role definition is this.|sv|3198
+A|It will be, uh,|%|3198
+A|hopefully for my daughter who I instill into, it doesn't matter if you want to drive a truck, honey,|sd|3198
+A|or it doesn't matter if you want to be a nurse,|sd|3198
+A|it doesn't matter if you want to be, uh, the President,|sd|3198
+A|or it doesn't matter if you want to be a lawyer or a doctor,|sd|3198
+A|it doesn't matter.|sd|3198
+A|It's what you want to be.|sd|3198
+A|So I have always instilled into her,|sd|3198
+A|and I think mothers, um, are doing a really good job in raising their daughters to say, hey, you don't have to stay with nursing,|sd|3198
+A|you don't have to be a secretary,|sd|3198
+A|you don't have to be,|sd|3198
+B|Yeah.|b|3198
+A|so.|%|3198
+B|Yeah.|b|3198
+B|Well, I feel like, um, to an extent that is really important, you know, that, that, um, it is important for women who need to work uh, or are in a position that they want to that they can do that.|sv|3198
+A|Uh-huh.|b|3198
+A|Uh-huh.|b|3198
+A|If they want to, right.|^2|3198
+A|Uh-huh.|b|3198
+B|Um, but I also think it is important for them to be with the children.|sv|3198
+A|I do too.|aa|3198
+B|I, I think there, there are some things that women just are designed to do better than men.|sv|3198
+A|You know, there's a certain part of me,|sd|3198
+A|Uh-huh.|b|3198
+B|And there are some things that men are designed to do better than women.|sv|3198
+A|Yeah.|b|3198
+B|I don't think it should ever be totally equal.|sv|3198
+A|Yeah.|b|3198
+B|You know that's not, uh,|%|3198
+B|we're not made like that.|sv|3198
+A|Well, emotionally I think, uh, women do a little bit, uh,|sv|3198
+B|That's right.|ba|3198
+A|I, I think that's, the gap is coming closer as, um, what I've learned in, uh, just, just being out there.|sv|3198
+A|It seems that men are now starting to get into groups called men's gatherings,|sv|3198
+A|and they get together|sv|3198
+A|and they talk about issues of marriage, talk about manhood, talk about what they didn't have with their fathers.|sv|3198
+B|Huh.|b|3198
+A|Are expressing more emotions, learning what emotions are.|sv|3198
+A|It may be in the future that men, you know, some men may be better parent or mothers than mothers themselves.|sv|3198
+A|Um I, I know of some mothers that I, I guess I'd rather be with the father because the father is maybe more understanding, more, um, low key, more apt to be a better father than some mothers that I have seen that have been raised, you know, to develop whatever skills that they have,|sv|3198
+B|Yeah.|b|3198
+A|and some of the men are developing, uh, very good too.|sv|3198
+A|So, it may come down to where it's, it's individual basis. Where everybody is treated an as individual, and not by sex.|sv|3198
+B|Yeah.|b|3198
+B|Yeah.|b|3198
+A|If you want to stay home and take care of the kids, honey, that's fine.|sd|3198
+A|I will go out and make the, uh, take care of the, uh, money making.|sd|3198
+A|And it, it wouldn't matter if it's a woman or a man saying that.|sv|3198
+B|One of the frustrations that I have with the way things have developed is that, and for some it's not a problem, but there's more and more, it's difficult for a family to make a living on one income.|sv|3198
+A|On one income,|^2|3198
+A|uh-huh.|b|3198
+B|It can be done,|sv|3198
+A|Yeah.|b|3198
+B|but you make sacrifices.|sv|3198
+A|Yeah,|b|3198
+A|that,|%|3198
+B|You know, and, and it's, um,|%|3198
+A|Kind of like what, uh, my husband and myself are doing right now.|sd|3198
+A|My daughter's three, even though at this current time she's ready to get involved with,|sd|3198
+A|she's an only child.|sd|3198
+A|I don't know,  if you've only got one,|sd|3198
+B|Yeah.|b|3198

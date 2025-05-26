@@ -1,0 +1,199 @@
+A|Hi.|fp|2085
+A|How are you doing?|fp|2085
+B|What,|br|2085
+B|I couldn't hear you?|sd|2085
+A|I said, how are you doing?|fp|2085
+B|I'm doing fine.|fp|2085
+B|I'm, uh, just editing a spreadsheet right now.|sd|2085
+B|I'm trying to figure out how I can retire without having to work until I'm ninety-five.|sd|2085
+A|Yeah.|b|2085
+A|We've been doing that too|sd|2085
+A|We're trying to retire in our fifties.|sd|2085
+B|Yeah.|b|2085
+B|This is a very appropriate topic for our, uh, conversation today because what I'm figuring out is that I'm going to have to put in a lot more money than what I'm making|sd|2085
+A|Good luck on that one, then.|fo_o_fw_"_by_bc|2085
+B|What is that?|br|2085
+A|I said good luck on that one, then.|sd|2085
+B|Well, we've got a pretty good situation, my wife and I, since our property is already paid for.|sv|2085
+B|You know, the main things that I like about the uh, in the job benefits would be the, uh, the availability of the health insurance and the availability of, uh, you know, being able to transfer around, inside the organization without having, you know, when they cut off a system and they don't just can everybody that is working on it, like some companies I know of.|sd|2085
+A|Huh-uh.|b|2085
+B|You know, they give you an opportunity to either transfer into an on going, on going project.|sd|2085
+A|So you work for it T I then|qy^d|2085
+A|You can't say?|qy^d|2085
+B|Yeah.|ny|2085
+A|Yeah.|b^m|2085
+B|What?|br|2085
+A|Yes,|ny|2085
+A|you do.|sd|2085
+A|Well, I work for D I S D|sd|2085
+A|and I don't know what your talking about when you say health insurance,|sd|2085
+A|but Dallas doesn't pay.|sd|2085
+A|It pays most of mine, you know,|sd|2085
+A|now, after you work I think five years, they begin to pay most of it.|sd|2085
+A|But then, for the, the family, you know, I put my kids on my policy.|sd|2085
+A|It's like two hundred dollars|sd|2085
+B|Huh-uh.|b|2085
+A|and it's gone up quite a bit|sd|2085
+A|and they predict, you know, of course, it's going to keep going up.|sd|2085
+A|I wish they could go on and pay for all of our coverage, at some point.|sd|2085
+A|And benefits, you know,|sd|2085
+A|I'd like to see child care paid for or on-site child care sometime.|sd|2085
+A|I think that would be a ,|sd|2085
+B|Huh-uh.|b|2085
+A|and it would make women go to work sometime if they knew their kids were being taken care of.|sv|2085
+A|They could go visit them during the day.|sd|2085
+A|What?|^g|2085
+B|Yeah|b|2085
+B|that's uh, something I hadn't really thought about because we don't have children.|sd|2085
+B|But, I can see how it would be a a real benefit.|sd|2085
+B|Yes|ny|2085
+B|I do.|sd|2085
+A|Well, we keep a shelter, also monies that we're going to pay in for child care too.|sd|2085
+A|You know, go on and pay a lump sum|sd|2085
+A|and as long as you pay that amount you're okay.|sd|2085
+A|But if you paid in more than you actually used, and the same thing for insurance, what you predict your going to be paying for insurance, as long as you pay, actually pay out that amount of money, you're okay.|sd|2085
+A|But if you pay out less, then you lose that money.|sd|2085
+B|Um.|%|2085
+A|I don't like that part,|sd|2085
+A|but you don't have to do that option if you don't want to.|sd|2085
+B|Well, that could be, I could see where that would be important.|sd|2085
+A|And then we got that cafeteria plan,|sd|2085
+A|do you have that?|qy|2085
+B|No.|nn|2085
+A|No.|b^m|2085
+B|I don't know what it's about .|sd|2085
+A|You can, uh,|%|2085
+A|well you,|%|2085
+A|let's see, it, it shelters you're money that you pay for, for insurance.|sd|2085
+A|It takes it out of your salary before taxes.|sd|2085
+B|Oh, okay.|b|2085
+B|Yeah,|ny|2085
+B|yeah|ny|2085
+B|we got that.|sd|2085
+A|Okay.|b|2085
+B|Pretax insurance?|bf|2085
+A|Yeah.|aa|2085
+B|Yeah.|b^m|2085
+A|But we call it the cafeteria plan,|sd|2085
+A|I wonder why.|sd|2085
+B|Um?|br|2085
+A|I said, I wonder why.|sd|2085
+B|Oh, it's probably what the first guy who did it, called it.|sv|2085
+A|Cafeteria?|fo_o_fw_"_by_bc|2085
+B|Yeah.|b|2085
+B|He was probably in the cafeteria when he thought of it|sv|2085
+A|Maybe|aap_am|2085
+A|so. Let's see what else can we do?|qo|2085
+A|Changes,|%|2085
+B|I'll tell you what we could do.|sd|2085
+A|What?|qw|2085
+B|We could prohibit people from being hired that are historically going to cost the company money. You know, do a little bit better research on who gets hired|sd|2085
+A|Uh-huh.|b|2085
+B|Because you know,|%|2085
+A|You mean, like for health insurance?|bf|2085
+B|Well, not only just health insurance, I mean for the whole benefit of the company.|aap_am|2085
+B|See, I look at it this way. If the company folds, I got to go find a job.|sd|2085
+A|Yeah.|b|2085
+B|Okay.|b|2085
+B|Now, if we got somebody in a position to affect the way the company performs, just about anybody in the company, and they're not doing their job or they're not capable of doing their job, then we should find a place to put them or you know, boot them out.|sv|2085
+A|Well, that's easier done in a company than it is in, uh, school teaching.|sv|2085
+B|Well, frankly, I think school teachers ought to get about ten times what they're getting paid.|sv|2085
+A|Thank you|ba|2085
+B|What?|br|2085
+A|I said, thank you.|sd|2085
+B|Oh.|b|2085
+A|We're both school teachers.|sd|2085
+B|Oh, I'm, I'm,|%|2085
+A|But it's hard to get rid of a teacher if they're not good.|sd|2085
+B|I know.|sd|2085
+A|It's almost impossible.|sd|2085
+B|Well, there's two schools of thought on that.|sd|2085
+B|You know, I, I'm looking at trying to get into a university job position as a a professor|sd|2085
+A|Huh-uh.|b|2085
+B|I got about eight years of education ahead of me before I can do that|sd|2085
+A|Um.|%|2085
+B|but, once you get that job with the university, you've got ten years of probation.|sd|2085
+A|Huh-uh.|b|2085
+B|Then you have tenure.|sd|2085
+B|And they can't fire you.|sd|2085
+A|Huh-uh.|b|2085
+B|Well, you know, in a situation like that, I don't know if that's good or bad.|sd|2085
+B|I do know that I've had tenured professors that were just sorry.|sd|2085
+A|Right.|b|2085
+B|And I've also had tenured professors that were the best things on two legs.|sd|2085
+A|Well, they did away with tenure in teaching along time ago, you know, in the public schools.|sd|2085
+B|But in addition.|%|2085
+A|It makes you more at ease.|sd|2085
+A|You know, you knew you weren't going to lose your job unless you really did something horrendous.|sd|2085
+B|Well, they, they really can't fire you without cause,|sd|2085
+B|you know the governments taken care of that,|sd|2085
+B|but, um, what I'm looking at is, you know, there are a lot of teachers that aren't getting paid what they need to be getting paid,|sv|2085
+B|and there are some teachers out there that aren't worth having around as janitors.|sv|2085
+A|Right.|b|2085
+B|You know, and I could see a point protecting someone's position,|sd|2085
+B|but, on the other hand, I don't think it, you know, that someone that teaches, uh, say shop, for instance, should have to have degree at all.|sv|2085
+A|Well they don't.|sd|2085
+B|Well.|%|2085
+A|In some places they don't.|sd|2085
+B|In some places that don't.|sd|2085
+A|Do they?|qy|2085
+B|But, you know, you, you get specialized education now, for instance, take computer science.|sd|2085
+B|We've got kids twenty years old, right now, that could beat any computer professor at micro computer applications.|sv|2085
+B|I know we could.|sv|2085
+B|And these people can't even get jobs doing anything besides digging ditches, because there's no comprehensive test that they can take, that would allow them to, to step into that position without having to go through the rigamarole of college.|sd|2085
+A|Yeah.|b|2085
+B|You know, I went to college late on in life|sd|2085
+B|and I realize that hey, it's nothing but four years of endurance|sd|2085
+B|and you might be teachable,|sd|2085
+B|you know what I mean?|^g|2085
+A|Yeah.|ny|2085
+B|I mean, my agree is absolutely worthless. *listen; agree is probably degree|sv|2085
+B|It's my experience and, and my knowledge that, that is beneficial,|sv|2085
+B|but then, you know, like I said, I came in backwards.|sd|2085
+A|What did you get your degree at?|qw|2085
+B|Industrial Marketing.|sd|2085
+A|And what's your job now?|qw|2085
+B|Well, actually I'm selling computer software.|sd|2085
+B|But, the two are mutually exclusive. Because, the, the experience that got me the job that I got now, was my experience in the construction field, prior to going to college not my degree, which is I think kind of bizarre.|sd|2085
+A|Huh-uh.|b|2085
+A|Maybe.|aap_am|2085
+A|All right,|%|2085
+A|what else could we change?|qo|2085
+A|Oh, I'd like to see flexible hours. And teaching, shared, job sharing, more of that.|sd|2085
+B|Well uh, We've, we've, we've already got that.|sd|2085
+A|Well, see, we've got a little bit of it, but not much.|sd|2085
+A|It would be nice if you had full insurance coverage if you were doing job sharing.|sv|2085
+A|What else.|t1|2085
+A|I'd like to be able to, to evaluate your boss|sd|2085
+A|and it really carry some weight,|sd|2085
+A|and you get to choose your boss.|sd|2085
+B|Well,|%|2085
+B|yeah.|b|2085
+B|Supervisor evaluations have always been a tough one. Especially in my line, because, you know, my supervisor has nothing to with my job, except to make sure I get my check.|sv|2085
+A|Huh-uh.|b|2085
+A|Well, so you get to evaluate him though?|qy|2085
+B|Well, not really.|ng|2085
+B|You know, I mean, there's, what's to evaluate about him, you know,|qh|2085
+B|I mean, my, my, supervisor level is like practically zero.|sd|2085
+B|I run the whole show.|sd|2085
+B|And when I need something, I tell my boss|sd|2085
+B|and he gets it for me, because he knows, that I know, what I'm doing.|sd|2085
+A|Yeah.|b|2085
+B|You know, and uh, that, that is something that I think needs to be expanded on, specially in the large market place. You know, the major corporation, because so often, you know, you get a guy who's got eight or nine or ten people working for him in separate areas so to speak.|sv|2085
+A|Yeah.|b|2085
+B|You know, it's, it's hard for me to, you know, especially since I'm in marketing sales, you know,|sd|2085
+B|I make more than my boss. Because he's salary and I'm not.|sd|2085
+B|I make as much as I earn.|sd|2085
+B|You know, if I don't make a sale, I don't make anything|sd|2085
+A|Huh-uh.|b|2085
+B|Yeah.|b|2085
+B|Well it's tough,|sv|2085
+B|but, uh, you know, there are requirements, and quotas, what not, for me to make,|sd|2085
+B|but, um, the bottom line on, on that kind of thing is, you know, we have a lot of people, especially in major corporations, who aren't doing a damn thing.|sv|2085
+B|They're just there.|sv|2085
+B|You know, the work they do could be totally eliminated,|sv|2085
+B|and not that they aren't worth or not that they aren't trying or anything. But, it's just that their jobs are useless.|sv|2085
+B|Take, for instance, um, a large construction company I used to work for. Ed Swampers.|ad|2085
+B|Swampers is a guy, who's in the union.|sd|2085
+B|He's a laborer.|sd|2085
+B|And he's assigned to,|sd|2085

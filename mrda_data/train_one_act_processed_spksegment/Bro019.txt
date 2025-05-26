@@ -1,0 +1,1594 @@
+me013|okay.|F|Bro019|0
+me013|do we have anything like an agenda?|Q|Bro019|0
+me013|what's going on?|Q|Bro019|0
+me013|um|F|Bro019|0
+me013|i guess|D|Bro019|0
+me013|um|F|Bro019|0
+me013|so|F|Bro019|0
+me018|sunil's here for the summer?|Q|Bro019|1
+me013|one thing|D|Bro019|0
+me013|sunil's here for the summer.|S|Bro019|0
+me013|right.|S|Bro019|0
+me013|um|F|Bro019|0
+me013|so one thing is to talk about a kick off meeting.|S|Bro019|0
+me013|maybe.|S|Bro019|0
+me013|uh|F|Bro019|0
+me013|and then just uh i guess uh progress reports individually and then uh plans for where we go between now and then pretty much.|S|Bro019|0
+me013|um|F|Bro019|0
+me018|i could say a few words about um some of the uh compute stuff that's happening around here.|S|Bro019|1
+me018|so that people in the group know.|S|Bro019|1
+me013|uhhuh.|S|Bro019|0
+me013|okay.|S|Bro019|0
+me013|why don't you start with that?|Q|Bro019|0
+me013|that's sort of|D|Bro019|0
+me018|okay.|S|Bro019|1
+me018|we um|F|Bro019|1
+me013|yeah.|B|Bro019|0
+me018|so we just put in an order for about twelve new machines uh to use as sort of a compute farm.|S|Bro019|1
+me018|and um|F|Bro019|1
+me018|uh we ordered uh sun blade one hundreds.|S|Bro019|1
+me018|and um|F|Bro019|1
+me018|i'm not sure exactly how long it'll take for those to come in.|S|Bro019|1
+me018|but uh in addition we're running|D|Bro019|1
+me018|so the plan for using these is uh we're running p. make and customs here.|S|Bro019|1
+me018|and andreas has sort of gotten that all uh fixed up and up to speed.|S|Bro019|1
+me018|and he's got a number of little utilities that make it very easy to um run things using p. make and customs.|S|Bro019|1
+me018|you don't actually have to write p. make scripts and things like that.|S|Bro019|1
+me018|the simplest thing|D|Bro019|1
+me018|and i can send an email around.|S|Bro019|1
+me018|or maybe i should do an f.a.q. on the web site about it or something.|S|Bro019|1
+me018|um|F|Bro019|1
+me018|there's a|D|Bro019|1
+me013|how about an email that points to the f.a. q?|Q|Bro019|0
+me018|yeah yeah.|S|Bro019|1
+me013|you know what i'm saying?|Q|Bro019|0
+me013|so that you can|D|Bro019|0
+me013|yeah.|F|Bro019|0
+me018|uh there's a command uh that you can use called run command.|S|Bro019|1
+me018|run dash command.|S|Bro019|1
+me018|run hyphen command.|S|Bro019|1
+me018|and if you say that and then some job that you want to execute uh it will find the fastest currently available machine and export your job to that machine.|S|Bro019|1
+me018|and uh and run it there.|S|Bro019|1
+me018|and it'll duplicate your environment.|S|Bro019|1
+me018|so|F|Bro019|1
+me018|you can try this as a simple test with uh the l.s. command.|S|Bro019|1
+me018|so you can say run dash command l.s.|S|Bro019|1
+me018|and um it'll actually export that l.s. command to some machine in the institute and um do an l.s. on your current directory.|S|Bro019|1
+me018|so substitute l.s. for whatever command you want to run.|S|Bro019|1
+me018|and um and that's a simple way to get started using using this.|S|Bro019|1
+me018|and so soon when we get all the new machines up um then we'll have lots more compute to use.|S|Bro019|1
+me018|now one of the nice things is that uh each machine that's part of the p. make and customs network has attributes associated with it.|S|Bro019|1
+me018|uh attributes like how much memory the machine has.|S|Bro019|1
+me018|what its speed is.|S|Bro019|1
+me018|what its operating system.|S|Bro019|1
+me018|and when you use something like run command you can specify those attributes for your program.|S|Bro019|1
+me018|for example if you only want your thing to run under linux you can give it the linux attribute.|S|Bro019|1
+me018|and then it will find the fastest available linux machine and run it on that.|S|Bro019|1
+me018|so|F|Bro019|1
+me018|you can control where your jobs go to a certain extent.|S|Bro019|1
+me018|all the way down to an individual machine.|S|Bro019|1
+me018|each machine has an attribute which is the name of itself.|S|Bro019|1
+me018|so you can give that as an attribute and it'll only run on that.|S|Bro019|1
+me018|if there's already a job running on some machine that you're trying to select your job will get queued up.|S|Bro019|1
+me018|and then when that resource that machine becomes available your job will get exported there.|S|Bro019|1
+me018|so|F|Bro019|1
+me018|there's a lot of nice features to it.|S|Bro019|1
+me018|and it kind of helps to balance the load of the machines.|S|Bro019|1
+me018|and uh|F|Bro019|1
+me018|right now andreas and i have been the main ones using it.|S|Bro019|1
+me018|and we're uh|D|Bro019|1
+me018|the s.r.i. recognizer has all this p. make customs stuff built into it.|S|Bro019|1
+me018|so|F|Bro019|1
+me013|so as i understand you know he's using all the machines and you're using all the machines.|S|Bro019|0
+me018|yeah.|S|Bro019|1
+me013|is the rough division of|D|Bro019|0
+me018|exactly.|S|Bro019|1
+me018|yeah you know i i sort of got started using the recognizer just recently.|S|Bro019|1
+me018|and uh|F|Bro019|1
+me018|uh i fired off a training job.|S|Bro019|1
+me018|and then i fired off a recognition job.|S|Bro019|1
+me018|and i get this email about midnight from andreas saying uh are you running two trainings simultaneously.|S|Bro019|1
+me018|my my jobs are not getting run.|S|Bro019|1
+me018|so i had to back off a little bit.|S|Bro019|1
+me018|but|F|Bro019|1
+me018|soon as we get some more machines then uh then we'll have more compute available.|S|Bro019|1
+me018|so|F|Bro019|1
+me018|um|F|Bro019|1
+me018|that's just a quick update about what we've got.|S|Bro019|1
+me006|um i have i have a question about the uh parallelization.|S|Bro019|0
+me018|so|F|Bro019|1
+me018|uhhuh.|S|Bro019|1
+me006|so um let's say i have like a thousand little little jobs to do.|S|Bro019|0
+me018|uhhuh.|S|Bro019|1
+me006|um how do i do it with run command?|Q|Bro019|0
+me006|i mean do|D|Bro019|0
+me018|you could write a script uh which called run command on each sub job.|S|Bro019|1
+me006|uhhuh.|S|Bro019|0
+me006|a thousand times?|Q|Bro019|0
+me018|right?|Q|Bro019|1
+me006|okay.|B|Bro019|0
+me018|but you probably want to be careful with that.|S|Bro019|1
+me018|because um you don't want to saturate the network.|S|Bro019|1
+me018|uh|F|Bro019|1
+me018|so um|F|Bro019|1
+me018|you know you should you should probably not run more than say ten jobs yourself at any one time.|S|Bro019|1
+me018|uh just because then it would keep other people|D|Bro019|1
+me006|oh.|S|Bro019|0
+me006|too much file transfer and stuff.|S|Bro019|0
+me018|well it's not that so much as that you know with if everybody ran fifty jobs at once then it would just bring everything to a halt.|S|Bro019|1
+me018|and you know people's jobs would get delayed.|S|Bro019|1
+me018|so it's sort of a sharing thing.|S|Bro019|1
+me006|okay.|S|Bro019|0
+me018|um|F|Bro019|1
+me018|so you should try to limit it to some number around ten jobs at a time.|S|Bro019|1
+me018|um|F|Bro019|1
+me018|so if you had a script for example that had a thousand things it needed to run um you'd somehow need to put some logic in there if you were going to use run command uh to only have ten of those going at a time.|S|Bro019|1
+me018|and uh then when one of those finished you'd fire off another one.|S|Bro019|1
+me018|um|F|Bro019|1
+me013|i remember i i forget whether it was when the rutgers or or hopkins workshop.|S|Bro019|0
+me013|i remember one of the workshops i was at there were everybody was real excited because they got twenty five machines.|S|Bro019|0
+me013|and there was some kind of p. make like thing that sent things out.|S|Bro019|0
+me018|uhhuh.|B|Bro019|1
+me018|uhhuh.|B|Bro019|1
+me018|uhhuh.|B|Bro019|1
+me013|so all twenty five people were sending things to all twenty five machines.|S|Bro019|0
+me018|yeah.|B|Bro019|1
+me018|yeah.|B|Bro019|1
+me013|and and things were a lot less efficient than if you'd just use your own machine.|S|Bro019|0
+me018|yep.|B|Bro019|1
+me018|yeah exactly.|S|Bro019|1
+me018|yeah you have to be a little bit careful.|S|Bro019|1
+me013|as i recall.|S|Bro019|0
+me013|but|F|Bro019|0
+mn007|huh.|B|Bro019|1
+me013|yeah.|F|Bro019|0
+me018|um|F|Bro019|1
+me018|but uh you can also|D|Bro019|1
+me018|if you have that level of parallelization um and you don't want to have to worry about writing the logic in in a perl script to take care of that you can use um p. make.|S|Bro019|1
+me006|just do p. make.|S|Bro019|0
+me018|and and you basically write a make file that uh you know your final job depends on these one thousand things.|S|Bro019|1
+me006|uhhuh.|B|Bro019|0
+me018|and when you run p. make uh on your make file you can give it the dash capital j. and and then a number.|S|Bro019|1
+me006|uhhuh.|B|Bro019|0
+me018|and that number represents how many uh machines to use at once.|S|Bro019|1
+me006|right.|S|Bro019|0
+me018|and then it'll make sure that it never goes above that.|S|Bro019|1
+me006|right.|S|Bro019|0
+me006|okay.|S|Bro019|0
+me018|so|F|Bro019|1
+me018|i can get some documentation.|S|Bro019|1
+mn007|so it it's it's not systematically queued.|S|Bro019|0
+mn007|i mean all the jobs are running.|S|Bro019|0
+mn007|if you launch twenty jobs they are all running.|S|Bro019|0
+me018|it depends.|S|Bro019|1
+mn007|all right.|F|Bro019|0
+me018|if you run command that i mentioned before is doesn't know about other things that you might be running.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+me018|so it would be possible to run a hundred run jobs at once.|S|Bro019|1
+mn007|right.|B|Bro019|0
+me018|and they wouldn't know about each other.|S|Bro019|1
+me018|but if you use p. make then it knows about all the jobs that it has to run.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+me018|and it can control uh how many it runs simultaneously.|S|Bro019|1
+me013|so run command doesn't use p. make or|D|Bro019|0
+me018|it uses export underlyingly.|S|Bro019|1
+me018|but if you|D|Bro019|1
+me018|it's meant to be run one job at a time.|S|Bro019|1
+me018|so you could fire off a thousand of those.|S|Bro019|1
+me018|and it doesn't know any one of those doesn't know about the other ones that are running.|S|Bro019|1
+me013|so why would one use that rather than p. make?|Q|Bro019|0
+me018|well if you have|D|Bro019|1
+me018|um|F|Bro019|1
+me018|like for example uh if you didn't want to write a p. make script.|S|Bro019|1
+me018|and you just had a uh an h.t.k. training job that you know is going to take uh six hours to run.|S|Bro019|1
+me018|and somebody's using uh the machine you typically use.|S|Bro019|1
+me018|you can say run command and your h.t.k. thing.|S|Bro019|1
+me018|and it'll find another machine.|S|Bro019|1
+me018|the fastest currently available machine.|S|Bro019|1
+me018|and and run your job there.|S|Bro019|1
+me013|now does it have the same sort of behavior as p. make?|Q|Bro019|0
+me013|which is that you know if you run something on somebody's machine and they come in and hit a key then it|D|Bro019|0
+me018|yes.|S|Bro019|1
+me018|yeah.|S|Bro019|1
+me018|there are um|D|Bro019|1
+me018|right.|S|Bro019|1
+me018|so some of the machines at the institute um have this attribute called no evict.|S|Bro019|1
+me018|and if you specify that in in one of your attribute lines then it'll go to a machine which your job won't be evicted from.|S|Bro019|1
+me013|uhhuh.|B|Bro019|0
+me018|but the machines that don't have that attribute if a job gets fired up on that which could be somebody's desktop machine and and they were at lunch.|S|Bro019|1
+me013|uhhuh.|B|Bro019|0
+me018|they come back from lunch and they start typing on the console then your machine will get evicted your job will get evicted from their machine and be restarted on another machine automatically.|S|Bro019|1
+me018|so which can cause you to lose time.|S|Bro019|1
+me018|right?|Q|Bro019|1
+me018|if you had a two hour job and it got halfway through.|S|Bro019|1
+me018|and then somebody came back to their machine and it got evicted.|S|Bro019|1
+me018|so if you don't want your job to run on a machine where it could be evicted then you give it the minus the attribute you know no evict.|S|Bro019|1
+me018|and it'll pick a machine that it can't be evicted from.|S|Bro019|1
+me018|so|F|Bro019|1
+me013|um what what about|D|Bro019|0
+me013|i remember always used to be an issue maybe it's not anymore that if you if something required if your machine required somebody hitting a key in order to evict things that are on it so you could work.|S|Bro019|0
+me018|uhhuh.|B|Bro019|1
+me013|but if you were logged into it from home?|Q|Bro019|0
+me013|and you weren't hitting any keys because you were home.|S|Bro019|0
+me018|yeah.|S|Bro019|1
+me018|i i'm not sure how that works.|S|Bro019|1
+me018|uh it seems like andreas did something for that.|S|Bro019|1
+me013|yeah.|B|Bro019|0
+me013|huh.|B|Bro019|0
+me018|um|F|Bro019|1
+me013|okay.|S|Bro019|0
+me013|we can ask him sometime.|S|Bro019|0
+me018|but|D|Bro019|1
+me018|yeah.|S|Bro019|1
+me018|i don't know whether it monitors the keyboard or actually looks at the console t.t.y.|S|Bro019|1
+me018|so maybe if you echoed something to the you know dev dev console or something.|S|Bro019|1
+me013|you probably wouldn't ordinarily though.|S|Bro019|0
+me013|yeah right?|Q|Bro019|0
+me018|huh?|Q|Bro019|1
+me013|you probably wouldn't ordinarily.|S|Bro019|0
+me013|i mean you sort of|D|Bro019|0
+me013|you're at home and you're trying to log in.|S|Bro019|0
+me013|and it takes forever to even log you in.|S|Bro019|0
+me018|yeah yeah.|S|Bro019|1
+me013|and you probably go screw this.|S|Bro019|0
+me013|and you know.|F|Bro019|0
+me018|yeah.|S|Bro019|1
+me018|yeah.|F|Bro019|1
+me018|so um|F|Bro019|1
+me013|yeah.|F|Bro019|0
+me018|yeah.|F|Bro019|1
+me018|i i can i'm not sure about that one.|S|Bro019|1
+me013|yeah.|S|Bro019|0
+me018|but uh|F|Bro019|1
+me013|okay.|S|Bro019|0
+mn052|uh i need a little orientation about this environment and uh how to run some jobs here.|S|Bro019|1
+mn052|because i never did anything so far with this x. emissions.|S|Bro019|1
+me018|okay.|S|Bro019|0
+mn052|so|F|Bro019|1
+mn052|i think maybe i'll ask you after the meeting.|S|Bro019|1
+me018|um|F|Bro019|0
+me018|yeah.|S|Bro019|0
+me018|yeah and and also uh stephane's a a really good resource for that if you can't find me.|S|Bro019|0
+mn052|yeah yeah yeah.|B|Bro019|1
+mn052|yep.|B|Bro019|1
+mn052|okay.|S|Bro019|1
+mn052|sure.|S|Bro019|1
+mn007|huh.|B|Bro019|0
+me018|especially with regard to the aurora stuff.|S|Bro019|1
+mn052|okay.|S|Bro019|0
+me018|he he knows that stuff better than i do.|S|Bro019|1
+me013|okay.|F|Bro019|0
+me013|well why don't we uh|D|Bro019|0
+me013|uh|F|Bro019|0
+me013|sunil since you're haven't haven't been at one of these yet why don't you tell us what's what's up with you?|Q|Bro019|0
+me013|what you've been up to hopefully.|S|Bro019|0
+mn052|um.|F|Bro019|1
+mn052|yeah.|F|Bro019|1
+mn052|so|F|Bro019|1
+mn052|uh shall i start from|D|Bro019|1
+mn052|well i don't know how may i how|D|Bro019|1
+mn052|okay.|S|Bro019|1
+mn052|uh i think i'll start from the post uh aurora submission maybe.|S|Bro019|1
+me013|yeah.|S|Bro019|0
+mn052|uh yeah.|F|Bro019|1
+mn052|after the submission the what i've been working on mainly was to take take other submissions.|S|Bro019|1
+mn052|and then|D|Bro019|1
+mn052|over their system what they submitted.|S|Bro019|1
+mn052|because we didn't have any speech enhancement system in in ours.|S|Bro019|1
+mn052|so|F|Bro019|1
+mn052|so i tried|D|Bro019|1
+mn052|uh|F|Bro019|1
+mn052|and first i tried just l.d.a.|S|Bro019|1
+mn052|and then i found that|D|Bro019|1
+mn052|uh|F|Bro019|1
+mn052|i mean if if i combine it with l.d.a. it gives improvement over theirs.|S|Bro019|1
+mn052|uh|F|Bro019|1
+me018|are are you saying l.d. a?|Q|Bro019|0
+mn052|yeah.|S|Bro019|1
+me018|l.d.a.|S|Bro019|0
+me018|okay.|S|Bro019|0
+mn052|yeah.|S|Bro019|1
+mn052|so|F|Bro019|1
+mn052|just just the l.d.a. filters.|S|Bro019|1
+mn052|i just plug in i just take the cepstral coefficients coming from their system and then plug in l.d.a. on top of that.|S|Bro019|1
+me018|uhhuh.|B|Bro019|0
+mn052|but the l.d.a. filter that i used was different from what we submitted in the proposal.|S|Bro019|1
+mn052|what i did was i took the l.d.a. filter's design using clean speech.|S|Bro019|1
+mn052|uh mainly because the speech is already cleaned up after the enhancement.|S|Bro019|1
+mn052|so instead of using this uh narrow narrow band l.d.a. filter that we submitted uh i got new filters.|S|Bro019|1
+mn052|so|F|Bro019|1
+mn052|that seems to be giving uh improving over their uh system.|S|Bro019|1
+mn052|slightly.|S|Bro019|1
+mn052|but not very significantly.|S|Bro019|1
+mn052|and uh that was|D|Bro019|1
+mn052|uh showing any improvement over final by plugging in an l.d.a.|S|Bro019|1
+mn052|and uh|F|Bro019|1
+mn052|so then after after that i i added uh online normalization also on top of that.|S|Bro019|1
+mn052|and that there there also i i found that i have to make some changes to their time constant that i used.|S|Bro019|1
+mn052|because it has a a mean and variance update time constant.|S|Bro019|1
+mn052|and which is not suitable for the enhanced speech and whatever we try it on with proposal one.|S|Bro019|1
+mn052|but um|F|Bro019|1
+mn052|i didn't i didn't play with that time constant a lot.|S|Bro019|1
+mn052|i just|D|Bro019|1
+mn052|i just found that i have to reduce the value.|S|Bro019|1
+mn052|i mean i have to increase the time constant or reduce the value of the update value.|S|Bro019|1
+mn052|that's all i found.|S|Bro019|1
+mn052|so i have to|D|Bro019|1
+mn052|uh|F|Bro019|1
+mn052|yeah.|F|Bro019|1
+mn052|and uh|F|Bro019|1
+mn052|uh the other other thing what i tried was i just um uh took the baseline and then ran it with the endpoint uh information.|S|Bro019|1
+mn052|just the aurora baseline.|S|Bro019|1
+mn052|to see that how much the baseline itself improves.|S|Bro019|1
+mn052|by just supplying the information of the i mean the speech and nonspeech.|S|Bro019|1
+mn052|and uh|F|Bro019|1
+mn052|i found that the baseline itself improves by twenty two percent by just giving the|D|Bro019|1
+me013|uh can you back up a second?|Q|Bro019|0
+me013|i i i missed something.|S|Bro019|0
+me013|uh|F|Bro019|0
+me013|i guess my mind wandered.|S|Bro019|0
+me013|when you added the online normalization and so forth uh uh things got better again?|Q|Bro019|0
+mn052|yeah.|S|Bro019|1
+me013|or is it|D|Bro019|0
+mn052|no.|S|Bro019|1
+mn052|no.|S|Bro019|1
+me013|did it not?|Q|Bro019|0
+mn052|no things didn't get better with the same time constant that we used.|S|Bro019|1
+me013|no no.|S|Bro019|0
+me013|with a different time constant.|S|Bro019|0
+mn052|with the different time constant i found that|D|Bro019|1
+mn052|i mean i didn't get an improvement over not using online normalization.|S|Bro019|1
+me013|oh.|S|Bro019|0
+me013|no you didn't.|S|Bro019|0
+mn052|because i i found that i would have change the value of the update factor.|S|Bro019|1
+me013|okay.|S|Bro019|0
+mn052|but i didn't play it with play play quite a bit to make it better than|D|Bro019|1
+me013|yeah.|B|Bro019|0
+me013|okay.|S|Bro019|0
+mn052|so it's still not.|S|Bro019|1
+mn052|i mean the online normalization didn't give me any improvement.|S|Bro019|1
+me013|okay.|S|Bro019|0
+mn052|and uh|F|Bro019|1
+me013|okay.|B|Bro019|0
+mn052|so|F|Bro019|1
+mn052|oh yeah.|S|Bro019|1
+mn052|so i just stopped there with the uh speech enhancement.|S|Bro019|1
+mn052|the the other thing what i tried was the adding the uh endpoint information to the baseline.|S|Bro019|1
+mn052|and that itself gives like twenty two percent.|S|Bro019|1
+mn052|because the the second the new phase is going to be with the endpointed speech.|S|Bro019|1
+mn052|and just to get a feel of how much the baseline itself is going to change by adding this endpoint information i just uh use|D|Bro019|1
+me013|huh.|B|Bro019|0
+me018|so people won't even have to worry about uh doing speech-nonspeech then.|S|Bro019|1
+mn052|yeah.|S|Bro019|0
+mn052|that's that's what the feeling is like.|S|Bro019|0
+me018|huh.|S|Bro019|1
+mn052|they're going to give the endpoint information.|S|Bro019|0
+me018|i see.|S|Bro019|1
+me013|i guess the issue is that people do that anyway.|S|Bro019|0
+me013|everybody does that.|S|Bro019|0
+me013|and they wanted to see given that you're doing that what what are the best features that you should use.|S|Bro019|0
+mn052|yeah.|B|Bro019|1
+me018|yeah.|S|Bro019|0
+me018|i see.|S|Bro019|0
+mn052|so|F|Bro019|1
+me013|i mean clearly they're interact.|S|Bro019|0
+me013|so i don't know that i entirely agree with it.|S|Bro019|0
+me018|yeah.|B|Bro019|1
+me013|but but it might be uh in some ways it might be better to rather than giving the endpoints to have a standard that everybody uses and then interacts with.|S|Bro019|0
+me018|uhhuh.|B|Bro019|1
+me013|but you know it's it's still reasonable.|S|Bro019|0
+me018|so are people supposed to assume that there is uh|D|Bro019|1
+me018|are are people not supposed to use any speech outside of those endpoints?|Q|Bro019|1
+mn052|uh|F|Bro019|0
+me018|or can you then use speech outside of it for estimating background noise and things?|Q|Bro019|1
+mn052|no.|S|Bro019|0
+mn052|no.|S|Bro019|0
+mn052|that i|D|Bro019|0
+mn052|yeah.|S|Bro019|0
+mn052|yeah yeah.|S|Bro019|0
+mn052|exactly.|S|Bro019|0
+mn052|i guess that is that is where the consensus is.|S|Bro019|0
+mn052|like you will you will you'll be given the information about the beginning and the end of speech.|S|Bro019|0
+mn052|but the whole speech is available to you.|S|Bro019|0
+me018|okay.|S|Bro019|1
+mn052|so|F|Bro019|0
+me013|so it should make the spectral subtraction style things work even better.|S|Bro019|1
+me013|because you don't have the mistakes in it.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+me013|yeah?|Q|Bro019|1
+me013|okay.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+mn052|so|B|Bro019|0
+mn052|so that that the baseline itself|D|Bro019|0
+mn052|i mean it improves by twenty two percent.|S|Bro019|0
+mn052|i found that in one of the speechdat-car cases that like the spanish one improves by just fifty percent by just putting the endpoint.|S|Bro019|0
+me018|wow.|S|Bro019|1
+mn052|i mean you don't need any further speech enhancement with fifty.|S|Bro019|0
+mn052|so uh|F|Bro019|0
+me018|so the baseline itself improves by fifty percent.|S|Bro019|1
+mn052|yeah by fifty percent.|S|Bro019|0
+me013|yeah.|S|Bro019|1
+me013|so it's it's going to be harder to beat that actually.|S|Bro019|1
+me018|wow.|S|Bro019|0
+me018|yeah.|S|Bro019|0
+mn052|yeah.|S|Bro019|1
+me013|but but|F|Bro019|0
+mn052|so|F|Bro019|1
+mn052|so that is when uh the the qualification criteria was reduced from fifty percent to something like twenty five percent for well matched.|S|Bro019|1
+mn052|and i think they have they have actually changed their qualification criteria now.|S|Bro019|1
+mn052|and uh|F|Bro019|1
+mn052|yeah.|S|Bro019|1
+mn052|i guess after that i just went home i just had a vacation for four weeks.|S|Bro019|1
+me013|okay.|S|Bro019|0
+mn052|uh|F|Bro019|1
+me013|no that's that's that's a good good update.|S|Bro019|0
+mn052|yeah.|S|Bro019|1
+mn052|and i i came back and i started working on uh some other speech enhancement algorithm.|S|Bro019|1
+mn052|i mean so i from the submission what i found that people have tried spectral subtraction and wiener filtering these are the main uh approaches where people have tried.|S|Bro019|1
+me013|yeah.|B|Bro019|0
+mn052|so just to just to fill the space with some few more speech enhancement algorithms to see whether it improves a lot i i've been working on this uh signal subspace approach for speech enhancement.|S|Bro019|1
+mn052|where you take the noisy signal and then decomposing the signal and the noise subspace.|S|Bro019|1
+mn052|and then try to estimate the clean speech from the signal plus noise subspace.|S|Bro019|1
+me013|uhhuh.|B|Bro019|0
+mn052|and|F|Bro019|1
+mn052|so i've been actually running some|D|Bro019|1
+mn052|so far i've been trying it only on matlab.|S|Bro019|1
+mn052|i have to to to test whether it works first or not.|S|Bro019|1
+me013|yeah.|B|Bro019|0
+mn052|and then i'll port it to c. .|S|Bro019|1
+mn052|and i'll update it with the repository once i find it giving any some positive result.|S|Bro019|1
+mn052|so yeah.|F|Bro019|1
+me013|so you you so you said one thing i want to jump on for a second.|S|Bro019|0
+me013|so so now you're you're getting tuned into the repository thing that he has here.|S|Bro019|0
+mn052|yeah.|S|Bro019|1
+me013|and so we'll have a single place where the stuff is.|S|Bro019|0
+mn052|yep.|B|Bro019|1
+mn052|yeah.|B|Bro019|1
+me013|cool.|S|Bro019|0
+me013|um|F|Bro019|0
+me013|so maybe uh just briefly you could remind us about the related experiments.|S|Bro019|0
+me013|because you did some stuff that you talked about last week.|S|Bro019|0
+me013|i guess?|Q|Bro019|0
+mn007|uhhuh.|S|Bro019|1
+me013|um where you were also combining something|D|Bro019|0
+me013|both of you i guess were both combining something from the uh french telecom system with the uh|D|Bro019|0
+mn007|right.|S|Bro019|1
+me013|i i don't know whether it was system one or system two.|S|Bro019|0
+me013|or|F|Bro019|0
+mn007|uhhuh.|F|Bro019|1
+mn007|it was system one.|S|Bro019|1
+mn007|so|F|Bro019|1
+me013|okay.|S|Bro019|0
+mn007|we|D|Bro019|1
+mn007|the main thing that we did is just to take the spectral subtraction from the france telecom.|S|Bro019|1
+mn007|which provide us some speech samples that are uh with noise removed.|S|Bro019|1
+me013|so i let me let me just stop you there.|S|Bro019|0
+me013|so then one distinction is that uh you were taking the actual france telecom features and then applying something to|D|Bro019|0
+mn052|uh no.|S|Bro019|1
+mn052|there is a slight different.|S|Bro019|1
+mn052|uh|F|Bro019|1
+mn052|i mean which are extracted at the handset.|S|Bro019|1
+me013|yeah.|S|Bro019|0
+mn052|because they had another back end blind equalization.|S|Bro019|1
+me013|yeah.|S|Bro019|0
+me013|but that's what i mean.|S|Bro019|0
+mn052|yeah.|B|Bro019|1
+mn052|yeah.|B|Bro019|1
+me013|but|F|Bro019|0
+me013|sorry.|S|Bro019|0
+me013|yeah i'm not being i'm not being clear.|S|Bro019|0
+mn052|yeah.|B|Bro019|1
+mn052|yeah.|B|Bro019|1
+me013|what i meant was you had something like cepstra or something right?|S|Bro019|0
+mn052|yeah yeah yeah yeah.|S|Bro019|1
+me013|and so one difference is that i guess you were taking spectra.|S|Bro019|0
+mn052|the speech.|S|Bro019|1
+fn002|yeah.|S|Bro019|0
+mn007|yeah.|S|Bro019|1
+mn007|but i guess it's the exactly the same thing.|S|Bro019|1
+mn007|because on the uh handset they just applied this wiener filter and then compute cepstral features.|S|Bro019|1
+mn007|right?|Q|Bro019|1
+mn052|yeah.|S|Bro019|0
+mn007|or|D|Bro019|1
+mn052|the cepstral the difference is like there may be a slight difference in the way.|S|Bro019|0
+mn052|because they use exactly the baseline system for converting the cepstrum once you have the speech.|S|Bro019|0
+mn007|right.|B|Bro019|1
+mn052|i mean if we are using our own code for i mean that that could be the only difference.|S|Bro019|0
+mn052|i mean there is no other difference.|S|Bro019|0
+mn007|uhhuh.|B|Bro019|1
+mn052|yeah.|F|Bro019|0
+me013|but you got some sort of different result.|S|Bro019|1
+me013|so i'm trying to understand it.|S|Bro019|1
+me013|but uh|F|Bro019|1
+mn007|yeah well i think we should uh have a table with all the result.|S|Bro019|0
+me013|i|D|Bro019|1
+mn007|because i don't know i uh i don't exactly know what are your results.|S|Bro019|0
+mn007|but|F|Bro019|0
+mn052|okay.|S|Bro019|1
+mn052|okay.|S|Bro019|1
+mn007|huh.|B|Bro019|0
+mn007|yeah but so we did this.|S|Bro019|0
+mn007|and another difference i guess is that we just applied uh proposal one system after this.|S|Bro019|0
+mn007|without well with our modification to reduce the delay of the the l.d.a. filters.|S|Bro019|0
+mn007|and|F|Bro019|0
+mn052|uhhuh.|B|Bro019|1
+mn007|well there are slight modifications.|S|Bro019|0
+fn002|and the filter|D|Bro019|1
+mn007|but it was the full proposal one.|S|Bro019|0
+mn007|in your case if you tried just putting l.d.a. then maybe online normalization.|S|Bro019|0
+mn052|only l.d.a.|S|Bro019|1
+mn052|yeah.|B|Bro019|1
+mn052|i after that i added online normalization.|S|Bro019|1
+mn052|yeah.|F|Bro019|1
+mn007|uhhuh.|S|Bro019|0
+mn007|so we just tried directly to to just keep the system as it was.|S|Bro019|0
+mn007|and|F|Bro019|0
+mn007|um|F|Bro019|0
+mn007|when we plug the spectral subtraction it improves uh significantly.|S|Bro019|0
+mn007|um|F|Bro019|0
+mn007|but what seems clear also is that we have to retune the time constants of the online normalization.|S|Bro019|0
+mn052|yeah yeah.|B|Bro019|1
+mn052|yeah.|B|Bro019|1
+mn007|because if we keep the value that was submitted uh it doesn't help at all.|S|Bro019|0
+mn007|you can remove online normalization or put it it doesn't change anything.|S|Bro019|0
+mn007|uh uh as long as you have the spectral subtraction.|S|Bro019|0
+mn007|but you can still find some kind of optimum somewhere.|S|Bro019|0
+mn007|and we don't know where exactly.|S|Bro019|0
+mn007|but|F|Bro019|0
+mn052|yeah.|B|Bro019|1
+mn007|uh|F|Bro019|0
+mn052|yeah i assume.|S|Bro019|1
+me013|so it sounds like you should look at some tables of results or something.|S|Bro019|0
+mn007|right.|S|Bro019|1
+me013|and see where where the where they were different and what we can learn from it.|S|Bro019|0
+mn007|yeah.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+mn007|uhhuh.|B|Bro019|1
+mn007|uhhuh.|B|Bro019|1
+mn052|without any change.|S|Bro019|0
+mn007|yeah.|B|Bro019|1
+fn002|but it's|D|Bro019|0
+mn052|okay.|B|Bro019|1
+mn007|well.|S|Bro019|0
+fn002|it's the new.|S|Bro019|1
+mn007|with with with changes.|S|Bro019|0
+mn052|with|D|Bro019|1
+fn002|the new.|S|Bro019|0
+mn007|because we change it the system to have|D|Bro019|1
+mn052|oh yeah.|S|Bro019|0
+mn052|i mean the the new l.d.a. filters.|S|Bro019|0
+fn002|the new.|S|Bro019|1
+mn052|i mean|D|Bro019|0
+mn007|yeah.|S|Bro019|1
+mn052|okay.|S|Bro019|0
+mn007|l.d.a. filters.|S|Bro019|1
+mn007|there are other things that we finally were shown to improve also.|S|Bro019|1
+mn007|like the sixty four hertz cutoff.|S|Bro019|1
+fn002|uhhuh.|B|Bro019|0
+mn052|uhhuh.|B|Bro019|1
+mn007|uh it doesn't seem to hurt on t.i. digits finally.|S|Bro019|0
+mn052|okay.|S|Bro019|1
+mn007|maybe because of other changes.|S|Bro019|0
+mn052|okay.|S|Bro019|1
+mn007|um|F|Bro019|0
+mn007|well there are some minor changes.|S|Bro019|0
+mn007|yeah.|S|Bro019|0
+mn052|uhhuh.|B|Bro019|1
+mn007|and right now if we look at the results it's um always better than it seems always better than france telecom for mismatch and high mismatch.|S|Bro019|0
+mn007|and it's still slightly worse for well matched.|S|Bro019|0
+mn007|um|F|Bro019|0
+fn002|but|D|Bro019|1
+mn007|but this is not significant.|S|Bro019|0
+mn007|but the problem is that it's not significant.|S|Bro019|0
+mn007|but if you put this in the huh uh spreadsheet it's still worse.|S|Bro019|0
+mn007|even with very minor|D|Bro019|0
+mn007|uh|F|Bro019|0
+mn007|even if it's only slightly worse for well matched.|S|Bro019|0
+me013|uhhuh.|B|Bro019|1
+mn007|and significantly better for h.m.|S|Bro019|0
+mn007|uh|F|Bro019|0
+mn007|but well.|F|Bro019|0
+mn007|i don't think it's important.|S|Bro019|0
+mn007|because when they will change their metric|D|Bro019|0
+mn007|uh|F|Bro019|0
+mn007|uh mainly because of uh when you you plug the um frame dropping in the baseline system it will improve a lot h.m. and m.m.|S|Bro019|0
+mn052|yeah.|S|Bro019|1
+mn007|so|F|Bro019|0
+mn007|um i guess what will happen|D|Bro019|0
+mn007|i don't know what will happen.|S|Bro019|0
+mn007|but the different contribution i think for the different test set will be more even.|S|Bro019|0
+mn052|because the your improvement on h.m. and m.m. will also go down significantly in the spreadsheet.|S|Bro019|1
+mn052|so|F|Bro019|1
+mn052|but the the well matched may still|D|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+mn052|i mean the well matched may be the one which is least affected by adding the endpoint information.|S|Bro019|1
+me013|right.|S|Bro019|0
+mn052|yeah.|F|Bro019|1
+mn052|so the|D|Bro019|1
+mn052|the m.m.|D|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+mn052|m.m. and h.m. are going to be hugely affected by it.|S|Bro019|1
+mn007|yeah.|S|Bro019|0
+mn007|so um|F|Bro019|0
+mn052|yeah.|F|Bro019|1
+mn007|yeah.|F|Bro019|0
+mn052|yeah.|B|Bro019|1
+mn052|but they the everything i mean is like|D|Bro019|1
+mn052|but there|D|Bro019|1
+mn052|that's how they reduce why they reduce the qualification to twenty five percent or some something on.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+me013|but are they changing the weighting?|Q|Bro019|1
+mn052|uh no.|S|Bro019|0
+mn052|i guess they are going ahead with the same weighting.|S|Bro019|0
+mn007|yeah.|S|Bro019|1
+mn052|yeah.|D|Bro019|0
+mn052|so there's nothing on|D|Bro019|0
+me013|i don't understand that.|S|Bro019|1
+me013|i guess i i haven't been part of the discussion.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+me013|so um|F|Bro019|1
+me013|it seems to me that the well matched condition is going to be unusual.|S|Bro019|1
+me013|in this case.|S|Bro019|1
+mn052|usual.|S|Bro019|0
+me013|unusual.|S|Bro019|1
+mn052|uhhuh.|S|Bro019|0
+me013|because um you don't actually have good matches ordinarily for what any particular person's car is like.|S|Bro019|1
+me013|or|F|Bro019|1
+mn052|huh.|B|Bro019|0
+me013|uh|F|Bro019|1
+mn052|huh.|B|Bro019|0
+me013|it seems like something like the middle one is is more natural.|S|Bro019|1
+mn052|huh.|B|Bro019|0
+me013|so i don't know why the well matched is|D|Bro019|1
+mn052|right.|B|Bro019|0
+me013|uh|D|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+mn052|yeah but actually the well well the well matched|D|Bro019|1
+mn052|um|F|Bro019|1
+mn052|uh|F|Bro019|1
+mn052|i mean the the well matched condition is not like uh the one in t.i. digits.|S|Bro019|1
+mn052|where uh you have all the training uh conditions exactly like replicated in the testing condition also.|S|Bro019|1
+mn052|it's like this is not calibrated by s.n.r. or something.|S|Bro019|1
+mn052|the well matched has also some some mismatch in that which is other than the|D|Bro019|1
+me013|the well matched has mismatch?|Q|Bro019|0
+mn052|has has also some slight mismatches.|S|Bro019|1
+mn052|unlike the t.i. digits where it's like perfectly matched.|S|Bro019|1
+me018|perfect to match.|S|Bro019|0
+me013|yeah.|S|Bro019|1
+mn052|because it's artificially added noise.|S|Bro019|0
+me013|yeah.|S|Bro019|1
+mn052|but this is natural recording.|S|Bro019|0
+me013|so remind me of what well matched meant.|S|Bro019|1
+me013|you've told me many times.|S|Bro019|1
+mn052|the the well matched is like|D|Bro019|0
+mn052|the the well matched is defined like it's seventy percent of the whole database is used for training and thirty percent for testing.|S|Bro019|0
+mn007|yeah.|S|Bro019|1
+mn007|well so it means that if the database is large enough it's matched.|S|Bro019|1
+mn052|it's it's|D|Bro019|0
+mn007|because it|D|Bro019|1
+mn052|okay.|B|Bro019|0
+mn052|it's|D|Bro019|0
+me013|yeah.|B|Bro019|1
+mn007|in each set you have a range of conditions.|S|Bro019|0
+mn007|well|F|Bro019|0
+me013|right.|S|Bro019|1
+me013|so i mean|F|Bro019|1
+me013|yeah unless they deliberately chose it to be different which they didn't because they want it to be well matched.|S|Bro019|1
+me013|it is pretty much.|S|Bro019|1
+me013|you know so it's so it's sort of saying if you|D|Bro019|1
+me018|it's it's not guaranteed though.|S|Bro019|0
+mn052|yeah.|B|Bro019|1
+me013|uh it's not guaranteed.|S|Bro019|0
+mn052|yeah.|S|Bro019|1
+me013|right.|S|Bro019|0
+mn007|uhhuh.|S|Bro019|1
+me013|right.|S|Bro019|0
+mn052|yeah because the the main major reason for the|D|Bro019|1
+mn052|the main mismatch is coming from the amount of noise and the silence frames and all those present in the database actually.|S|Bro019|1
+me013|again if you have enough if you have enough|D|Bro019|0
+mn052|yeah yeah.|S|Bro019|1
+mn052|yeah.|S|Bro019|1
+me013|so it's sort of it's sort of saying okay.|S|Bro019|0
+me013|so you much as you train your dictation machine for talking into your computer um you you have a car.|S|Bro019|0
+me013|and so you drive it around a bunch and and record noise conditions or something.|S|Bro019|0
+me013|and then i don't think that's very realistic.|S|Bro019|0
+me013|i mean i|D|Bro019|0
+mn052|uhhuh.|B|Bro019|1
+me013|i i you know.|F|Bro019|0
+me013|so i|D|Bro019|0
+me013|i i you know.|F|Bro019|0
+me013|i guess they're saying that if you were a company that was selling the stuff commercially that you would have a bunch of people driving around in a bunch of cars.|S|Bro019|0
+me013|and and you would have something that was roughly similar.|S|Bro019|0
+me013|and maybe that's the argument.|S|Bro019|0
+me013|but i'm not sure i buy it.|S|Bro019|0
+me013|so|F|Bro019|0
+mn052|yeah yeah yeah.|B|Bro019|1
+me013|uh|F|Bro019|0
+me013|so|F|Bro019|0
+me013|what else is going on?|Q|Bro019|0
+mn007|huh.|B|Bro019|1
+mn007|yeah.|S|Bro019|1
+mn007|we are playing we are also playing trying to put other spectral subtraction huh in the code.|S|Bro019|1
+mn007|um|F|Bro019|1
+mn007|it would be a very simple spectral subtraction on the um mel energies.|S|Bro019|1
+mn007|which i already tested but without the um frame dropping actually.|S|Bro019|1
+mn007|and i think it's important to have frame dropping if you use spectral subtraction.|S|Bro019|1
+me018|is it is spectral subtraction typically done on the after the mel uh scaling?|Q|Bro019|0
+me018|or is it done on the f.f.t. bins?|Q|Bro019|0
+mn007|um|F|Bro019|1
+me018|does it matter?|Q|Bro019|0
+me018|or|D|Bro019|0
+mn007|i|D|Bro019|1
+mn007|i don't know.|S|Bro019|1
+mn007|well it's both both uh cases can|D|Bro019|1
+me018|oh.|S|Bro019|0
+mn007|yeah.|S|Bro019|1
+mn007|some of the proposal uh we're doing this on the bin on the f.f.t. bins.|S|Bro019|1
+me018|huh.|B|Bro019|0
+mn007|others on the um mel energies.|S|Bro019|1
+mn007|you can do both.|S|Bro019|1
+mn007|but i cannot tell you what's which one might be better.|S|Bro019|1
+mn007|or|F|Bro019|1
+me018|huh.|S|Bro019|0
+mn007|i|D|Bro019|1
+mn052|i guess if you want to reconstruct the speech it may be a good idea to do it on f.f.t. bins.|S|Bro019|0
+mn007|i don't know.|F|Bro019|1
+me018|huh.|B|Bro019|0
+mn007|yeah.|S|Bro019|1
+mn007|but|F|Bro019|1
+mn052|but for speech recognition it may not.|S|Bro019|0
+mn052|i mean it may not be very different if you do it on mel warped or whether you do it on f.f.t.|S|Bro019|0
+me018|i see.|S|Bro019|1
+mn052|so you're going to do a linear weighting anyway after that.|S|Bro019|0
+mn052|well.|F|Bro019|0
+mn052|yeah.|F|Bro019|0
+me018|huh.|B|Bro019|1
+mn052|so it may not be really a big different.|S|Bro019|0
+mn007|well it gives something different.|S|Bro019|1
+mn007|but i don't know what are the pros and cons of both.|S|Bro019|1
+mn052|uhhuh.|B|Bro019|0
+me013|huh.|B|Bro019|1
+me013|okay.|S|Bro019|1
+mn052|the other thing is like when you're putting in a speech enhancement technique.|S|Bro019|0
+mn052|uh|F|Bro019|0
+mn052|is it like one stage speech enhancement?|Q|Bro019|0
+mn052|because everybody seems to have a two stages of speech enhancement in all the proposals.|S|Bro019|0
+mn052|which is really giving them some improvement.|S|Bro019|0
+mn007|yeah.|B|Bro019|1
+fn002|uhhuh.|B|Bro019|0
+mn007|uhhuh.|B|Bro019|1
+mn052|i mean they just do the same thing again once more.|S|Bro019|0
+me013|uhhuh.|B|Bro019|1
+mn052|and so there's something that is good about doing it.|S|Bro019|0
+mn052|i mean to cleaning it up once more.|S|Bro019|0
+mn007|yeah it might be.|S|Bro019|1
+mn007|yeah.|S|Bro019|1
+mn052|yeah.|S|Bro019|0
+mn052|so we can|D|Bro019|0
+mn007|so maybe in my implementation i should also try to inspire me from this kind of thing.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+mn052|that's what|D|Bro019|0
+mn007|and yeah.|F|Bro019|1
+me013|well the other thing would be to combine what you're doing.|S|Bro019|0
+me013|i mean maybe one or one or the other of the things that you're doing would benefit from the other happening first.|S|Bro019|0
+mn052|that's|D|Bro019|1
+mn052|yeah.|S|Bro019|1
+mn052|so|F|Bro019|1
+me013|right?|Q|Bro019|0
+me013|so he's doing a signal subspace thing.|S|Bro019|0
+me013|maybe it would work better if you'd already done some simple spectral subtraction.|S|Bro019|0
+me013|or maybe maybe the other way around.|S|Bro019|0
+mn007|yeah.|B|Bro019|1
+mn007|uhhuh.|B|Bro019|1
+mn052|yeah.|S|Bro019|0
+me013|you know?|Q|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+mn052|so i've been thinking about combining the wiener filtering with signal subspace.|S|Bro019|1
+mn052|i mean just to see all some some such permutation combination to see whether it really helps or not.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+mn007|uhhuh.|B|Bro019|0
+mn007|uhhuh.|B|Bro019|0
+mn007|yeah.|B|Bro019|0
+mn007|yeah.|B|Bro019|0
+me013|how is it|D|Bro019|1
+me013|i i guess i'm ignorant about this.|S|Bro019|1
+me013|how does|D|Bro019|1
+me013|i mean since wiener filter also assumes that you're that you're adding together the two signals how is how is that differ from signal subspace?|Q|Bro019|1
+mn052|the signal subspace?|Q|Bro019|0
+me013|yeah.|S|Bro019|1
+mn052|the|D|Bro019|0
+mn052|the signal subspace approach has actually an in built wiener filtering in it.|S|Bro019|0
+me013|oh okay.|S|Bro019|1
+mn052|yeah.|F|Bro019|0
+mn052|it is like a k.l. transform followed by a wiener filter.|S|Bro019|0
+mn052|is the signal is is a signal substrate.|S|Bro019|0
+me013|oh oh okay.|S|Bro019|1
+me013|so the difference is the k.l.|S|Bro019|1
+mn052|so the the different|D|Bro019|0
+mn052|the the the advantage of combining two things is mainly coming from the signal subspace approach doesn't work very well if the s.n.r. is very bad.|S|Bro019|0
+mn052|it's|D|Bro019|0
+me013|i see.|S|Bro019|1
+mn052|it works very poorly with the poor s.n.r. conditions and in colored noise.|S|Bro019|0
+me013|so essentially you could do simple spectral subtraction followed by a k.l. transform followed by a|D|Bro019|1
+mn052|wiener filtering.|S|Bro019|0
+me013|wiener filter.|S|Bro019|1
+mn052|it's a it's a cascade of two|D|Bro019|0
+me013|yeah in general you don't|D|Bro019|1
+me013|that's right.|S|Bro019|1
+me013|you don't want to orthogonalize if the things are noisy.|S|Bro019|1
+me013|actually.|S|Bro019|1
+me013|um that was something that uh herve and i were talking about with um the multi band stuff.|S|Bro019|1
+me013|that if you're converting things to from uh bands groups of bands into cepstral you know local sort of local cepstral coefficients that it's not that great to do it if it's noisy.|S|Bro019|1
+mn052|uhhuh.|S|Bro019|0
+mn052|okay.|S|Bro019|0
+mn052|yeah.|S|Bro019|0
+me013|uh|F|Bro019|1
+me013|so|F|Bro019|1
+mn052|so|F|Bro019|0
+mn052|so that that's one reason maybe we could combine.|S|Bro019|0
+mn052|some something to improve s.n.r.a. little bit first stage.|S|Bro019|0
+me013|yeah.|S|Bro019|1
+mn052|and then do a something in the second stage.|S|Bro019|0
+mn052|which could take it further.|S|Bro019|0
+mn007|what was your point about about colored noise there?|Q|Bro019|1
+mn052|oh the colored noise|D|Bro019|0
+mn007|yeah.|B|Bro019|1
+mn052|uh|F|Bro019|0
+mn052|the colored noise the the the signal subspace approach has i mean it it actually depends on inverting the matrices.|S|Bro019|0
+mn052|so it it|D|Bro019|0
+mn052|the covariance matrix of the noise.|S|Bro019|0
+mn007|uhhuh.|B|Bro019|1
+mn052|so if if it is not positive definite|D|Bro019|0
+mn052|i mean it has a it's|D|Bro019|0
+mn052|it doesn't behave very well if it is not positive definite.|S|Bro019|0
+mn052|it works very well with white noise because we know for sure that it has a positive definite.|S|Bro019|0
+me013|so you should do spectral subtraction and then add noise.|S|Bro019|1
+mn052|so the way they get around is like they do an inverse filtering.|S|Bro019|0
+mn052|first of the colored noise.|S|Bro019|0
+me013|yeah.|S|Bro019|1
+mn052|and then make the noise white.|S|Bro019|0
+me013|yeah.|B|Bro019|1
+mn052|and then finally when you reconstruct the speech back you do this filtering again.|S|Bro019|0
+mn007|yeah right.|S|Bro019|1
+me013|i was only half kidding.|S|Bro019|0
+me013|i mean if you sort of you do the spectral subtraction that also gets rid|D|Bro019|0
+mn007|yeah.|B|Bro019|1
+mn052|yeah.|B|Bro019|0
+mn052|yeah.|B|Bro019|0
+me013|and then you then then add a little bit noise noise addition.|S|Bro019|1
+me013|i mean that sort of what j. j. rasta does in a way.|S|Bro019|1
+me013|if you look at what j. rasta doing essentially it's equivalent to sort of adding a little adding a little noise.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+mn052|huh.|B|Bro019|0
+mn052|uhhuh.|B|Bro019|0
+mn007|uhhuh.|B|Bro019|1
+me013|in order to get rid of the effects of noise.|S|Bro019|0
+mn052|so|B|Bro019|1
+mn007|yeah.|B|Bro019|0
+me013|okay.|F|Bro019|1
+mn007|uh yeah.|F|Bro019|0
+mn007|so there is this.|S|Bro019|0
+mn007|and|F|Bro019|0
+mn007|maybe we|D|Bro019|0
+mn007|well we find some people so that uh agree to maybe work with us.|S|Bro019|0
+mn007|and they have implementation of v.t.s. techniques.|S|Bro019|0
+mn007|so it's um vector taylor series that are used to huh uh to model the transformation between clean cepstra and noisy cepstra.|S|Bro019|0
+mn007|so well.|F|Bro019|0
+mn007|if you take the standard model of channel plus noise uh it's it's a nonlinear uh transformation in the cepstral domain.|S|Bro019|0
+me013|uhhuh.|B|Bro019|1
+me013|yes.|S|Bro019|1
+mn007|and|F|Bro019|0
+mn007|uh there is a way to approximate this using uh first order or second order taylor series.|S|Bro019|0
+mn007|and|F|Bro019|0
+mn007|it can be used for uh getting rid of the noise and the channel effect.|S|Bro019|0
+me013|who is doing this?|Q|Bro019|1
+mn007|uh working in the cepstral domain?|Q|Bro019|0
+mn007|so there is one guy in grenada.|S|Bro019|0
+fn002|yeah in grenada.|S|Bro019|1
+mn007|and another in uh lucent that i met at i. cassp.|S|Bro019|0
+fn002|one of my friend.|S|Bro019|1
+mn007|uh|F|Bro019|0
+me013|who's the guy in grenada?|Q|Bro019|1
+fn002|uh jose carlos segura.|S|Bro019|0
+me013|i don't know him.|S|Bro019|1
+mn052|this v.t.s. has been proposed by c.m. u?|Q|Bro019|0
+mn007|uhhuh.|S|Bro019|1
+mn052|is it is it the c.m. u?|Q|Bro019|0
+fn002|yeah yeah yeah.|S|Bro019|1
+mn052|yeah yeah okay.|S|Bro019|0
+fn002|originally the idea was from c.m.u.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+mn052|from c.|D|Bro019|1
+mn007|yeah.|B|Bro019|0
+me013|uhhuh.|B|Bro019|1
+mn007|well it's again a different thing that could be tried.|S|Bro019|0
+mn007|um|F|Bro019|0
+me013|uhhuh.|S|Bro019|1
+mn007|huh yeah.|F|Bro019|0
+me013|yeah so at any rate you're looking general uh standing back from it looking at ways to combine one form or another of uh noise removal uh with with these other things we have.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+me013|uh looks like a worthy thing to to do here.|S|Bro019|1
+mn007|uh yeah.|B|Bro019|0
+mn007|but yeah.|F|Bro019|0
+mn007|but for sure there's required to that requires to re check everything else and re-optimize the other things.|S|Bro019|0
+me013|oh yeah.|S|Bro019|1
+mn007|and|F|Bro019|0
+mn007|for sure the online normalization may be the l.d.a. filter.|S|Bro019|0
+mn007|um|F|Bro019|0
+me013|well one of the seems like one of the things to go through next week when hari's here.|S|Bro019|1
+mn007|i|D|Bro019|0
+me013|because hari will have his own ideas too.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+me013|or i guess not next week.|S|Bro019|1
+me013|week and a half.|S|Bro019|1
+me013|uh will be sort of go through these alternatives.|S|Bro019|1
+me013|what we've seen so far.|S|Bro019|1
+me013|and come up with some game plans.|S|Bro019|1
+me013|um|F|Bro019|1
+me013|you know.|F|Bro019|1
+me013|so i mean one way would|D|Bro019|1
+me013|here are some alternate visions.|S|Bro019|1
+me013|i mean one would be you look at a few things very quickly.|S|Bro019|1
+me013|you pick on something that looks like it's promising.|S|Bro019|1
+me013|and then everybody works really hard on the same different aspects of the same thing.|S|Bro019|1
+me013|another thing would be to have to to pick two two plausible things.|S|Bro019|1
+me013|and and you know have sort of two working things for a while until we figure out what's better.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+me013|and then|D|Bro019|1
+me013|you know.|F|Bro019|1
+me013|uh|F|Bro019|1
+me013|but um|F|Bro019|1
+me013|uh he'll have some ideas on that too.|S|Bro019|1
+mn052|the other thing is to uh most of the speech enhancement techniques have reported results on small vocabulary tasks.|S|Bro019|0
+mn052|but we we going to address this wall street journal in our next stage.|S|Bro019|0
+mn052|which is also going to be a noisy task.|S|Bro019|0
+mn052|so very few people have reported something on using some continuous speech at all.|S|Bro019|0
+mn052|so there are some|D|Bro019|0
+mn052|i mean i was looking at some literature on speech enhancement applied to large vocabulary tasks.|S|Bro019|0
+mn052|and|F|Bro019|0
+mn052|spectral subtraction doesn't seems to be the thing to do for large vocabulary tasks.|S|Bro019|0
+mn052|and it's|D|Bro019|0
+mn052|always people have shown improvement with wiener filtering and maybe subspace approach over spectral subtraction everywhere.|S|Bro019|0
+mn052|but if we if we have to use simple spectral subtraction we may have to do some optimization to make it work.|S|Bro019|0
+me013|so they're making|D|Bro019|1
+me013|there somebody's generating wall street journal with additive artificially added noise or something?|Q|Bro019|1
+mn052|yeah yeah.|S|Bro019|0
+me013|sort of a sort of like what they did with t.i. digits and|D|Bro019|1
+mn052|yeah.|S|Bro019|0
+me013|yeah okay.|S|Bro019|1
+mn052|yeah.|F|Bro019|0
+mn052|i i guess guenter hirsch is in charge of that.|S|Bro019|0
+mn052|guenter hirsch and t.i.|S|Bro019|0
+me013|okay.|F|Bro019|1
+mn052|maybe roger.|S|Bro019|0
+mn052|roger maybe in charge of.|S|Bro019|0
+me013|and then they're they're uh uh generating h.t.k. scripts to|D|Bro019|1
+mn052|yeah.|S|Bro019|0
+mn052|yeah i don't know.|S|Bro019|0
+mn052|there are they have there is no|D|Bro019|0
+mn052|i don't know if they are converging on h.t.k. or are using some mississippi state.|S|Bro019|0
+me013|mississippi state maybe.|S|Bro019|1
+mn052|yeah.|S|Bro019|0
+me013|yeah.|F|Bro019|1
+mn052|i'm not sure about that.|S|Bro019|0
+me013|yeah so that'll be a little little task in itself.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+me013|um|F|Bro019|1
+me013|well we've|D|Bro019|1
+me013|yeah it's true for the additive noise artificially added noise we've always used small vocabulary too.|S|Bro019|1
+me013|but for there's been noisy speech this large vocabulary that we've worked with in broadcast news.|S|Bro019|1
+me013|so we did the broadcast news evaluation.|S|Bro019|1
+me013|and some of the focus conditions were noisy.|S|Bro019|1
+mn052|uhhuh.|B|Bro019|0
+me013|and and|F|Bro019|1
+mn052|it had additive|D|Bro019|0
+me013|but we but we didn't do spectral subtraction.|S|Bro019|1
+me013|we were doing our funny stuff right?|S|Bro019|1
+me013|we were doing uh multi stream and and so forth.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+me013|but it you know we stuff we did helped.|S|Bro019|1
+me013|i mean it did something.|S|Bro019|1
+me013|so|F|Bro019|1
+mn052|okay.|B|Bro019|0
+me013|um|F|Bro019|1
+me013|now we have this um meeting data.|S|Bro019|1
+me013|you know like the stuff we're recording right now.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+mn052|yeah.|B|Bro019|0
+me013|and|D|Bro019|1
+me013|and uh|F|Bro019|1
+me013|that we have uh for the uh the quote unquote noisy data there is just noisy and reverberant actually.|S|Bro019|1
+me013|it's the far field mike.|S|Bro019|1
+me013|and uh we have uh the digits that we do at the end of these things.|S|Bro019|1
+me013|and that's what most|D|Bro019|1
+me013|again most of our work has been done with that.|S|Bro019|1
+me013|with with uh connected digits.|S|Bro019|1
+mn052|uhhuh.|B|Bro019|0
+me013|um|F|Bro019|1
+me013|but uh we have recognition now with some of the continuous speech.|S|Bro019|1
+me013|large vocabulary continuous speech using switchboard uh switchboard recognizer.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+mn052|okay.|B|Bro019|0
+me013|uh|F|Bro019|1
+me013|no training from this.|S|Bro019|1
+me013|just just plain using the switchboard.|S|Bro019|1
+mn052|oh you just take the switchboard trained|D|Bro019|0
+me013|that's that's what we're doing.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+me013|yeah.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+me013|now there are some adaptation though.|S|Bro019|1
+mn052|okay.|S|Bro019|0
+me013|that that uh andreas has been playing with.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+mn052|that's cool.|S|Bro019|0
+mn052|okay.|B|Bro019|0
+me013|but we're|D|Bro019|1
+me013|uh actually uh dave and i were just talking earlier today about maybe at some point not that distant future trying some of the techniques that we've talked about on uh some of the large vocabulary data.|S|Bro019|1
+me013|um|F|Bro019|1
+me013|i mean i guess no one had done yet done test one on the distant mike using uh the s.r.i. recognizer.|S|Bro019|1
+me013|and uh|F|Bro019|1
+me018|i don't|D|Bro019|0
+me018|not that i know of.|S|Bro019|0
+me013|yeah.|S|Bro019|1
+me013|because everybody's scared.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+me013|you'll see a little smoke coming up from the the c.p.u. or something trying to trying to do it.|S|Bro019|1
+me018|that's right.|D|Bro019|0
+me013|but|F|Bro019|1
+me013|uh yeah.|F|Bro019|1
+me013|but you're right.|S|Bro019|1
+me013|that that that's a real good point that uh we we don't know yeah uh i mean what if any of these|D|Bro019|1
+me013|i guess that's why they're pushing that in the uh in the evaluation.|S|Bro019|1
+mn052|yeah.|S|Bro019|0
+me013|uh|F|Bro019|1
+me013|but um|F|Bro019|1
+me013|good.|S|Bro019|1
+me013|okay.|F|Bro019|1
+me013|anything else going on?|Q|Bro019|1
+me013|at you guys' end.|S|Bro019|1
+me013|or|D|Bro019|1
+fn002|i don't have good result with the including the new parameters.|S|Bro019|0
+fn002|i don't have good result.|S|Bro019|0
+fn002|are similar or a little bit worse.|S|Bro019|0
+mn052|with what what other new new parameter?|Q|Bro019|1
+me006|you're talking about your voicing?|Q|Bro019|0
+me013|yeah.|S|Bro019|1
+me013|so maybe you probably need to back up a bit.|S|Bro019|1
+fn002|yeah.|B|Bro019|0
+fn002|uhhuh.|B|Bro019|0
+mn052|yeah.|B|Bro019|1
+me013|seeing as how sunil|D|Bro019|0
+fn002|i tried to include another new parameter to the traditional parameter.|S|Bro019|1
+me013|yeah.|F|Bro019|0
+fn002|the the cepstrum coefficient.|S|Bro019|1
+mn052|uhhuh.|B|Bro019|0
+fn002|that like the auto correlation the r. zero and r. one over r. zero.|S|Bro019|1
+mn052|uhhuh.|B|Bro019|0
+mn052|uhhuh.|B|Bro019|0
+fn002|and another estimation of the the variance of the difference for of the uh spectrum of the signal.|S|Bro019|1
+fn002|and and the spectrum of time after mel filter bank.|S|Bro019|1
+mn052|i'm so sorry.|S|Bro019|0
+mn052|i didn't get it.|S|Bro019|0
+fn002|nuh well.|S|Bro019|1
+fn002|anyway.|F|Bro019|1
+fn002|the first you have the the spectrum of the signal.|S|Bro019|1
+mn052|uhhuh.|B|Bro019|0
+fn002|and you have the on the other side you have the output of the mel filter bank.|S|Bro019|1
+mn052|uhhuh.|B|Bro019|0
+fn002|you can extend the coefficient of the mel filter bank and obtain an approximation of the spectrum of the signal.|S|Bro019|1
+mn052|huh.|B|Bro019|0
+mn052|okay.|B|Bro019|0
+fn002|i do the difference.|S|Bro019|1
+mn052|okay.|B|Bro019|0
+fn002|i found a difference at the variance of this different.|S|Bro019|1
+mn052|uhhuh.|B|Bro019|0
+fn002|because suppose we we think that if the variance is high maybe you have uh noise.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+fn002|and if the variance is small maybe you have uh speech.|S|Bro019|1
+mn052|uhhuh.|B|Bro019|0
+fn002|to to|D|Bro019|1
+fn002|to|D|Bro019|1
+fn002|the idea is to found another feature for discriminate between voice sound and unvoice sound.|S|Bro019|1
+mn052|okay.|B|Bro019|0
+fn002|and we try to use this new feature feature.|S|Bro019|1
+fn002|and i did experiment.|S|Bro019|1
+fn002|i need to change to obtain this new feature i need to change the size the window size size.|S|Bro019|1
+fn002|of the of the analysis window size.|S|Bro019|1
+fn002|to have more information.|S|Bro019|1
+mn052|yeah.|S|Bro019|0
+mn052|make it longer.|S|Bro019|0
+fn002|uh sixty two point five milliseconds i think.|S|Bro019|1
+mn052|okay.|B|Bro019|0
+fn002|and|F|Bro019|1
+fn002|i do i did two type of experiment to include this feature directly with the with the other feature.|S|Bro019|1
+fn002|and to train a neural network to select it voice-unvoice-silence silence.|S|Bro019|1
+mn052|unvoiced.|S|Bro019|0
+mn052|well.|B|Bro019|0
+fn002|and to to concat this new feature.|S|Bro019|1
+fn002|but the result are|D|Bro019|1
+fn002|with the neural network i have more or less the same result.|S|Bro019|1
+mn052|as using just the cepstrum?|Q|Bro019|0
+fn002|result.|S|Bro019|1
+mn052|or|D|Bro019|0
+fn002|yeah.|S|Bro019|1
+fn002|yeah.|S|Bro019|1
+mn052|okay.|S|Bro019|0
+fn002|it's|D|Bro019|1
+fn002|sometime it's worse.|S|Bro019|1
+fn002|sometime it's a little bit better.|S|Bro019|1
+fn002|but not significantly.|S|Bro019|1
+fn002|and|F|Bro019|1
+mn052|uh is it with t.i. digits or with|D|Bro019|0
+fn002|no i work with uh italian and spanish basically.|S|Bro019|1
+mn052|okay.|S|Bro019|0
+mn052|okay.|S|Bro019|0
+fn002|and if i don't use the neural network and use directly the feature the results are worse.|S|Bro019|1
+mn052|uhhuh.|B|Bro019|0
+fn002|but doesn't help.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+me013|i i i really wonder though.|S|Bro019|1
+me013|i mean we've had these discussions before.|S|Bro019|1
+me013|and and one of the things that struck me was that uh about this line of thought that was particularly interesting to me was that we um whenever you condense things uh in an irreversible way um you throw away some information.|S|Bro019|1
+me013|and that's mostly viewed on as a good thing in the way we use it.|S|Bro019|1
+me013|because we want to suppress things that will cause variability for uh particular uh phonetic units.|S|Bro019|1
+me013|um|F|Bro019|1
+me013|but you'll do throw something away.|S|Bro019|1
+me013|and so the question is uh can we figure out if there's something we've thrown away that we shouldn't have.|S|Bro019|1
+me013|and um|F|Bro019|1
+me013|so|F|Bro019|1
+me013|when they were looking at the difference between the filter bank and the f.f.t. that was going into the filter bank i was thinking oh okay.|S|Bro019|1
+me013|so they're picking on something.|S|Bro019|1
+me013|they're looking on it to figure out noise or voice voiced property whatever.|S|Bro019|1
+me013|so that that's interesting.|S|Bro019|1
+me013|maybe that helps to drive the the thought process of coming up with the features.|S|Bro019|1
+me013|but for me sort of the interesting thing was well but is there just something in that difference which is useful.|S|Bro019|1
+me013|so another way of doing it maybe would be just to take the f.f.t. uh power spectrum and feed it into a neural network.|S|Bro019|1
+me013|and then use it you know in combination or alone or or whatever.|S|Bro019|1
+fn002|to know|D|Bro019|0
+me018|with what targets?|Q|Bro019|1
+mn052|voiced unvoiced is like|D|Bro019|0
+me013|uh no.|S|Bro019|1
+mn052|oh.|S|Bro019|0
+mn052|or anything.|S|Bro019|0
+me013|no.|S|Bro019|1
+me013|the just the same same way we're using i mean the same way that we're using the filter bank.|S|Bro019|1
+me018|phones.|S|Bro019|0
+mn052|oh okay.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+me013|exact way the same way we're using the filter bank.|S|Bro019|1
+me013|i mean the filter bank is good for all the reasons that we say it's good.|S|Bro019|1
+me013|but it's different.|S|Bro019|1
+me013|and you know maybe if it's used in combination it will get at something that we're missing.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+me013|and maybe you know using you know k.l.t. or uh um adding probabilities i mean all all the different ways that we've been playing with that we would let the essentially let the neural network determine what is it that's useful that we're missing here.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+mn007|yeah but there is so much variability in the power spectrum.|S|Bro019|0
+mn052|uhhuh.|B|Bro019|1
+me013|well that's probably why it would be unlikely to work as well by itself.|S|Bro019|0
+mn007|uhhuh.|B|Bro019|1
+me013|but it might help in combination.|S|Bro019|0
+mn007|huh.|B|Bro019|1
+me013|but i i i have to tell you|D|Bro019|0
+me013|i can't remember the conference.|S|Bro019|0
+me013|but uh i think it's about ten years ago i remember going to one of the speech conferences.|S|Bro019|0
+me013|and and uh|F|Bro019|0
+me013|i saw within very short distance of one another a couple different posters that showed about the wonders of some auditory inspired front end or something.|S|Bro019|0
+me013|and a couple posters away it was somebody who compared one to uh just putting in the f.f.t.|S|Bro019|0
+me013|and the f.f.t. did slightly better.|S|Bro019|0
+mn007|uhhuh.|B|Bro019|1
+me013|so i mean the it's true there's lots of variability.|S|Bro019|0
+me013|but again we have these wonderful statistical mechanisms for quantifying that that variability and you know doing something reasonable with it.|S|Bro019|0
+mn007|uhhuh.|B|Bro019|1
+me013|so|F|Bro019|0
+me013|um|F|Bro019|0
+me013|uh|F|Bro019|0
+me013|it's same you know argument that's gone both ways about uh you know we have these data driven filters in l.d.a.|S|Bro019|0
+me013|and on the other hand if it's data driven it means it's driven by things that have lots of variability and that are necessarily not necessarily going to be the same in training and test.|S|Bro019|0
+me013|so in some ways it's good to have data driven things.|S|Bro019|0
+me013|and in some ways it's bad to have data driven things.|S|Bro019|0
+me013|so|F|Bro019|0
+mn052|yeah|F|Bro019|1
+me013|part of what we're discovering is ways to combine things that are data driven than are not.|S|Bro019|0
+mn052|yeah.|B|Bro019|1
+me013|uh so anyway it's just a thought that that if we if we had that maybe it's just a baseline.|S|Bro019|0
+me013|uh which would show us well what are we really getting out of the filters.|S|Bro019|0
+me013|or maybe|D|Bro019|0
+me013|probably not by itself.|S|Bro019|0
+me013|but in combination.|S|Bro019|0
+mn007|uhhuh.|B|Bro019|1
+me013|uh|F|Bro019|0
+me013|you know maybe there's something to be gained from it.|S|Bro019|0
+me013|and let the|D|Bro019|0
+me013|but you know you've only worked with us for a short time.|S|Bro019|0
+me013|maybe in a year or two you you will actually come up with the right set of things to extract from this information.|S|Bro019|0
+me013|but maybe the neural net and the h.m.m.'s could figure it out quicker than you.|S|Bro019|0
+fn002|maybe.|S|Bro019|1
+me013|so|F|Bro019|0
+me013|it's just a thought.|S|Bro019|0
+fn002|yeah.|S|Bro019|1
+fn002|i can i will try to do that.|S|Bro019|1
+me013|yeah.|S|Bro019|0
+mn052|what one one um one thing is like what before we started using this v.a.d. in this aurora the what we did was like i i guess most of you know about this adding this additional speech silence bit to the cepstrum and training the h.m.m. on that.|S|Bro019|1
+me013|uhhuh.|B|Bro019|0
+mn052|that is just a binary feature.|S|Bro019|1
+mn052|and that seems to be improving a lot on the speechdat-car where there is a lot of noise.|S|Bro019|1
+mn052|but not much on the t.i. digits.|S|Bro019|1
+mn052|so adding an additional feature to to discriminate between speech and nonspeech was helping.|S|Bro019|1
+mn052|that's it.|S|Bro019|1
+mn007|wait i i'm sorry?|Q|Bro019|0
+mn052|yeah we actually added an additional binary feature to the cepstrum.|S|Bro019|1
+mn052|just the baseline.|S|Bro019|1
+mn007|yeah?|Q|Bro019|0
+fn002|you did some experiment.|S|Bro019|1
+mn052|yeah.|S|Bro019|0
+mn052|yeah.|S|Bro019|0
+mn052|well in in the case of t.i. digits it didn't actually give us anything.|S|Bro019|0
+mn052|because there wasn't any anything to discriminate between speech.|S|Bro019|0
+mn007|yeah.|B|Bro019|1
+mn052|and it was very short.|S|Bro019|0
+mn007|huh.|B|Bro019|1
+mn052|but italian was like very it was a huge improvement on italian.|S|Bro019|0
+mn007|well|F|Bro019|1
+mn007|uhhuh.|B|Bro019|1
+mn007|but anyway the question is even more is within speech can we get some features.|S|Bro019|1
+mn007|are we dropping information that can might be useful within speech?|Q|Bro019|1
+mn007|i mean to maybe to distinguish between voice sound and unvoiced sounds.|S|Bro019|1
+mn052|okay.|S|Bro019|0
+mn052|uhhuh.|B|Bro019|0
+mn052|yeah yeah.|B|Bro019|0
+mn052|yeah.|B|Bro019|0
+me013|and it's particularly more relevant now since we're going to be given the endpoints.|S|Bro019|1
+mn007|yeah.|B|Bro019|0
+mn007|uhhuh.|B|Bro019|0
+me013|so|F|Bro019|1
+mn052|yeah yeah.|S|Bro019|0
+me013|uh|F|Bro019|1
+mn007|huh.|B|Bro019|0
+me013|so|F|Bro019|1
+me013|um|F|Bro019|1
+mn052|huh.|B|Bro019|0
+mn052|there was a paper in i. cassp this i. cassp over the uh extracting some higher order uh information from the cepstral coefficients.|S|Bro019|0
+mn052|and i forgot the name.|S|Bro019|0
+mn052|some some harmonics|D|Bro019|0
+mn052|i don't know.|S|Bro019|0
+mn052|i can i can pull that paper out from i. cassp.|S|Bro019|0
+mn007|yeah.|B|Bro019|1
+me013|talking cumulants or something?|Q|Bro019|0
+mn052|it|D|Bro019|1
+mn052|huh?|Q|Bro019|1
+me013|cumulants or something.|S|Bro019|0
+mn052|uh i don't know.|S|Bro019|1
+me013|but no.|S|Bro019|0
+mn052|i don't remember.|S|Bro019|1
+mn052|it it was taking the um|D|Bro019|1
+mn052|it was about finding the higher order moments of|D|Bro019|1
+me013|yeah.|S|Bro019|0
+mn052|yeah.|F|Bro019|1
+me013|cumulants.|S|Bro019|0
+mn052|and i'm not sure about whether it is the higher order moments or|D|Bro019|1
+me013|yeah.|S|Bro019|0
+mn052|maybe higher order cumulants.|S|Bro019|1
+me013|oh.|S|Bro019|0
+mn052|and|D|Bro019|1
+mn052|yeah.|F|Bro019|1
+me013|or|D|Bro019|0
+mn052|it was it was|D|Bro019|1
+mn052|yeah.|F|Bro019|1
+mn052|i mean he was showing up uh some something on noisy speech.|S|Bro019|1
+me013|yeah.|B|Bro019|0
+mn052|some improvement on the noisy speech.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+mn052|some small vocabulary tasks.|S|Bro019|1
+me013|uh|B|Bro019|0
+mn052|so it was on p.l.p. derived cepstral coefficients.|S|Bro019|1
+me013|yeah but again you could argue that that's exactly what the neural network does.|S|Bro019|0
+mn052|huh.|B|Bro019|1
+me013|so neural network uh is in some sense equivalent to computing you know higher order moments of what you|D|Bro019|0
+mn052|trying to|D|Bro019|1
+mn052|to|D|Bro019|1
+mn052|moments.|S|Bro019|1
+mn052|yeah.|B|Bro019|1
+me013|yeah.|S|Bro019|0
+mn052|yeah.|B|Bro019|1
+me013|so|F|Bro019|0
+me013|i mean it doesn't do it very specifically.|S|Bro019|0
+mn007|uhhuh.|B|Bro019|1
+me013|and|D|Bro019|0
+me013|pretty you know.|S|Bro019|0
+me013|but|F|Bro019|0
+mn052|yep.|B|Bro019|1
+me013|uh|F|Bro019|0
+me013|anything on your end you want to talk about?|Q|Bro019|0
+me013|uh|F|Bro019|0
+me006|um nothing i want to really talk about.|S|Bro019|1
+me006|i can i can just uh um share a little bit.|S|Bro019|1
+me006|sunil hasn't hasn't heard about uh what i've been doing.|S|Bro019|1
+me013|yeah.|B|Bro019|0
+me006|um|F|Bro019|1
+me006|so|F|Bro019|1
+me006|um i told you i was i was i was getting prepared to take this qualifier exam.|S|Bro019|1
+me006|so basically that's just um trying to propose um uh your next your your following years of of your p.h.d. work.|S|Bro019|1
+me006|trying trying to find a project to to define and and to work on.|S|Bro019|1
+me006|so i've been uh looking into um doing something about uh speech recognition using acoustic events.|S|Bro019|1
+me006|so|F|Bro019|1
+me006|um the idea is you have all these these different events.|S|Bro019|1
+me006|for example voicing.|S|Bro019|1
+me006|nasality.|S|Bro019|1
+me006|r. coloring.|S|Bro019|1
+me006|you know burst.|S|Bro019|1
+me006|or noise uh frication.|S|Bro019|1
+me006|that kind of stuff.|S|Bro019|1
+me006|um building robust um primary detectors for these acoustic events.|S|Bro019|1
+me006|and using the outputs of these robust detectors to do speech recognition.|S|Bro019|1
+me006|um|F|Bro019|1
+me006|and um these these primary detectors um will be uh inspired by you know multi band techniques um doing things um similar to larry saul's work on uh graphical models to to detect these these uh acoustic events.|S|Bro019|1
+me006|and um so i i been i been thinking about that.|S|Bro019|1
+me006|and some of the issues that i've been running into are um exactly what what kind of acoustic events i need.|S|Bro019|1
+me006|what um what acoustic events will provide a a good enough coverage to in order to do the later recognition steps.|S|Bro019|1
+me006|and also um once i decide a set of acoustic events um how do i how do i get labels.|S|Bro019|1
+me006|training data for for these acoustic events.|S|Bro019|1
+me006|and then later on down the line i can start playing with the the models themselves.|S|Bro019|1
+me006|the the primary detectors.|S|Bro019|1
+me006|um|F|Bro019|1
+me006|so|F|Bro019|1
+me006|um i kind of see like after after building the primary detectors i see um myself taking the outputs and feeding them in sort of tandem style into into a um gaussian mixtures h.m.m. back end um and doing recognition.|S|Bro019|1
+me006|um|F|Bro019|1
+me006|so that's that's just generally what i've been looking at.|S|Bro019|1
+mn052|yeah.|B|Bro019|0
+me006|um|F|Bro019|1
+me013|by by the way uh the voiced-unvoiced version of that for instance could tie right in to what carmen was looking at.|S|Bro019|0
+me006|yeah.|S|Bro019|1
+me013|so|F|Bro019|0
+mn007|uhhuh.|B|Bro019|1
+me013|you know um if you if a multi band approach was helpful as as i think it is.|S|Bro019|0
+me013|it seems to be helpful for determining voiced-unvoiced.|S|Bro019|0
+me006|uhhuh.|B|Bro019|1
+me013|that one might be another thing.|S|Bro019|0
+me006|yeah.|S|Bro019|1
+fn002|uhhuh.|B|Bro019|0
+me006|yeah.|B|Bro019|1
+me006|um|F|Bro019|1
+me006|were were you going to say something?|Q|Bro019|1
+me018|huh.|B|Bro019|0
+me006|oh.|S|Bro019|1
+me006|it looked|D|Bro019|1
+me006|okay.|S|Bro019|1
+me006|never mind.|S|Bro019|1
+me006|um yeah.|F|Bro019|1
+me006|and so this this past week um i've been uh looking a little bit into uh traps um and doing doing traps on on these events too.|S|Bro019|1
+me006|just um seeing seeing if that's possible.|S|Bro019|1
+me006|uh|F|Bro019|1
+me006|and|F|Bro019|1
+me006|um other than that uh i was kicked out of i. house for living there for four years.|S|Bro019|1
+me013|oh no.|S|Bro019|0
+me013|so you live in a cardboard box in the street now?|Q|Bro019|0
+me006|yeah.|S|Bro019|1
+me013|or no?|Q|Bro019|0
+me006|uh well something like that.|S|Bro019|1
+me013|yeah.|B|Bro019|0
+me006|in albany.|S|Bro019|1
+me006|yeah.|F|Bro019|1
+me006|yeah.|F|Bro019|1
+me006|and uh|F|Bro019|1
+me006|yep.|S|Bro019|1
+me006|that's it.|S|Bro019|1
+me013|did you did uh did you find a place?|Q|Bro019|0
+me013|is that out of the way?|Q|Bro019|0
+mn052|uh no.|S|Bro019|1
+mn052|not yet.|S|Bro019|1
+mn052|uh yesterday i called up a lady who who will have a vacant room from may thirtieth.|S|Bro019|1
+mn052|and she said she's interviewing two more people.|S|Bro019|1
+mn052|so|F|Bro019|1
+mn052|and she would get back to me on monday.|S|Bro019|1
+mn052|so that's that's only thing i have.|S|Bro019|1
+mn052|and diane has a few more houses.|S|Bro019|1
+mn052|she's going to take some pictures and send me after i go back.|S|Bro019|1
+me013|okay.|S|Bro019|0
+mn052|so it's that's|D|Bro019|1
+me018|oh.|S|Bro019|0
+me018|so you're not down here permanently yet?|Q|Bro019|0
+mn052|no.|S|Bro019|1
+mn052|i'm going back to o.g.i. today.|S|Bro019|1
+me018|uh.|S|Bro019|0
+me018|oh okay.|S|Bro019|0
+me006|oh.|S|Bro019|1
+me013|okay.|S|Bro019|0
+me013|and then you're coming back uh|D|Bro019|0
+mn052|uh i mean i i i plan to be here on thirty first.|S|Bro019|1
+me013|thirty first.|S|Bro019|0
+me013|okay.|S|Bro019|0
+me006|thirty first.|D|Bro019|1
+mn052|yeah.|F|Bro019|0
+mn052|well if there's a house available or place to.|S|Bro019|0
+me013|well i mean if if|D|Bro019|1
+mn052|yeah i hope.|S|Bro019|0
+me013|they're available.|S|Bro019|1
+me013|and they'll be able to get you something.|S|Bro019|1
+me013|so worst comes to worst we'll put you up in a hotel for for for a while.|S|Bro019|1
+mn052|yeah.|S|Bro019|0
+mn052|so in that case i'm going to be here on thirty first definitely.|S|Bro019|0
+me013|until you|D|Bro019|1
+me013|okay.|F|Bro019|1
+me026|you know if you're in a desperate situation and you need a place to stay you could stay with me for a while.|S|Bro019|0
+me026|i've got a spare bedroom right now.|S|Bro019|0
+mn052|oh okay.|S|Bro019|1
+mn052|thanks.|S|Bro019|1
+mn052|that sure is nice of you.|S|Bro019|1
+mn052|so it may be he needs more than me.|S|Bro019|1
+me006|oh|D|Bro019|0
+me006|oh.|S|Bro019|0
+me006|oh no no.|S|Bro019|0
+me006|my my cardboard box is actually a nice spacious two bedroom apartment.|S|Bro019|0
+me013|so a two bedroom cardboard box.|S|Bro019|1
+me013|that's great.|S|Bro019|1
+me006|yeah.|B|Bro019|0
+mn052|yeah yeah yeah.|D|Bro019|1
+me013|thanks dave.|S|Bro019|0
+mn052|yeah.|D|Bro019|1
+me013|um|F|Bro019|0
+mn052|yeah.|D|Bro019|1
+me013|do want to say anything about|D|Bro019|0
+me013|you you actually been|D|Bro019|0
+me013|uh last week you were doing this stuff with pierre you were you were mentioning.|S|Bro019|0
+me013|is that that something worth talking about?|Q|Bro019|0
+me013|or|D|Bro019|0
+me026|um|F|Bro019|1
+me026|it's|D|Bro019|1
+me026|well um it i don't think it directly relates.|S|Bro019|1
+me026|um well so i was helping a speech researcher named pierre divenyi.|S|Bro019|1
+me026|and he's he wanted to um look at um how people respond to formant changes i think.|S|Bro019|1
+me026|um|F|Bro019|1
+me026|so he he created a lot of synthetic audio files of vowel to vowel transitions.|S|Bro019|1
+me026|and then he wanted a psycho acoustic um spectrum.|S|Bro019|1
+me026|and he wanted to look at um how the energy is moving over time in that spectrum.|S|Bro019|1
+me026|and compare that to the to the listener tests.|S|Bro019|1
+me026|and um|F|Bro019|1
+me026|so i gave him a p.l.p. spectrum.|S|Bro019|1
+me026|and to um he he wanted to track the peaks so he could look at how they're moving.|S|Bro019|1
+me026|so i took the um p.l.p.l.p.c. coefficients and um i found the roots.|S|Bro019|1
+me026|this was something that stephane suggested.|S|Bro019|1
+me026|i found the roots of the um l.p.c. polynomial to um track the peaks in the um p.l.p.l.p.c. spectra.|S|Bro019|1
+mn052|well there is aligned spectral pairs is like the the|D|Bro019|0
+mn052|is that the aligned|D|Bro019|0
+me013|it's a root l.p.c. uh of some sort.|S|Bro019|1
+mn052|oh no.|S|Bro019|0
+mn007|uhhuh.|B|Bro019|1
+mn052|so you just|D|Bro019|0
+me013|yeah.|B|Bro019|1
+mn052|instead of the log you took the root square i mean cubic root or something.|S|Bro019|0
+mn052|what i didn't get that.|S|Bro019|0
+me013|no no.|S|Bro019|1
+me013|it's it's it's taking the finding the roots of the l.p.c. polynomial.|S|Bro019|1
+mn052|polynomial.|S|Bro019|0
+mn052|yeah.|S|Bro019|0
+mn052|is that the line spectral|D|Bro019|0
+me013|so it's like line spectral pairs.|S|Bro019|1
+mn052|oh it's like line|D|Bro019|0
+me013|except i think what they call line spectral pairs they push it towards the unit circle.|S|Bro019|1
+me013|don't they?|Q|Bro019|1
+me013|to sort of|D|Bro019|1
+mn052|yeah yeah yeah yeah.|S|Bro019|0
+me013|but it|D|Bro019|1
+me013|but uh you know.|F|Bro019|1
+me013|but what we'd used to do when i did synthesis at national semiconductor twenty years ago the technique we were playing with initially was was taking the l.p.c. polynomial and and uh finding the roots.|S|Bro019|1
+me013|it wasn't p.l.p. because hynek hadn't invented it yet.|S|Bro019|1
+me013|but it was just l.p.c.|S|Bro019|1
+me013|and uh we found the roots of the polynomial.|S|Bro019|1
+me013|and when you do that sometimes they're they're what most people call formants.|S|Bro019|1
+me013|sometimes they're not.|S|Bro019|1
+mn052|huh.|B|Bro019|0
+me013|so it's it's it's a little|D|Bro019|1
+mn007|huh.|B|Bro019|0
+me013|uh formant tracking with it can be a little tricky.|S|Bro019|1
+me013|because you get these funny values in in real speech.|S|Bro019|1
+me018|so you just you typically just get a few roots?|Q|Bro019|0
+me013|but|D|Bro019|1
+me018|you know?|Q|Bro019|0
+me018|two or three.|S|Bro019|0
+me018|something like that.|S|Bro019|0
+me013|well you get these complex pairs.|S|Bro019|1
+me013|and it depends on the order that you're doing.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+me026|right.|S|Bro019|1
+me013|but|F|Bro019|0
+me026|so um|F|Bro019|1
+me026|if every root that's|D|Bro019|1
+me026|since it's a real signal the l.p.c. polynomial's going to have real coefficients.|S|Bro019|1
+me026|so i think that means that every root that is not a real root is going to be a complex pair.|S|Bro019|1
+me018|uhhuh.|S|Bro019|0
+me026|um of a complex value and its conjugate.|S|Bro019|1
+me026|um|F|Bro019|1
+me026|so for each|D|Bro019|1
+me026|and if you look at that on the unit circle um one of these one of the members of the pair will be a positive frequency one will be a negative frequency i think.|S|Bro019|1
+me026|so i just|D|Bro019|1
+me026|so um|F|Bro019|1
+me026|for the i'm using an eighth order polynomial.|S|Bro019|1
+me026|and i'll get three or four of these pairs.|S|Bro019|1
+me013|yeah.|S|Bro019|0
+me026|which give me which gives me three or four peak positions.|S|Bro019|1
+mn052|huh.|B|Bro019|0
+me013|this is from synthetic speech?|Q|Bro019|1
+me013|or|D|Bro019|1
+me026|it's right.|S|Bro019|0
+me026|yeah.|S|Bro019|0
+me013|yeah.|S|Bro019|1
+me013|so if it's from synthetic speech then maybe it'll be cleaner.|S|Bro019|1
+me013|i mean for real speech in real then what you end up having is like i say funny little things that are don't exactly fit your notion of formants all that well.|S|Bro019|1
+me018|how did|D|Bro019|0
+me013|but but mostly they are.|S|Bro019|1
+mn007|yeah.|B|Bro019|0
+me013|mostly they do.|S|Bro019|1
+me026|huh.|B|Bro019|0
+me013|and and what i mean in in what we were doing which was not so much looking at things it was okay.|S|Bro019|1
+mn007|i|D|Bro019|0
+me013|because it was just a question of quantization.|S|Bro019|1
+me013|uh we were just you know storing|D|Bro019|1
+me013|it was we were doing uh stored speech uh quantization.|S|Bro019|1
+mn007|uhhuh.|B|Bro019|0
+me013|but but uh in your case|D|Bro019|1
+me013|um you know|F|Bro019|1
+mn007|actually you have peaks that are not at the formant's positions.|S|Bro019|0
+mn007|but they are lower in energy.|S|Bro019|0
+me026|but there's some of that.|S|Bro019|1
+me026|yes.|S|Bro019|1
+mn007|and well they are much lower.|S|Bro019|0
+me018|if this is synthetic speech can't you just get the formants directly?|Q|Bro019|1
+me018|i mean how is the speech created?|Q|Bro019|1
+me026|it was created from a synthesizer.|S|Bro019|0
+me026|and um|F|Bro019|0
+me018|wasn't a formant synthesizer was it?|S|Bro019|1
+me013|i bet it it might have may have been.|S|Bro019|0
+me026|i this|D|Bro019|1
+me013|but maybe he didn't have control over it or something?|Q|Bro019|0
+me026|in in fact we we could get um formant frequencies out of the synthesizer as well.|S|Bro019|1
+me026|and um|F|Bro019|1
+me026|one thing that the um l.p.c. approach will hopefully give me in addition um is that i i might be able to find the the bandwidths of these humps as well.|S|Bro019|1
+me026|um stephane suggested looking at each complex pair as a like a second order i.i.r. filter.|S|Bro019|1
+me013|yeah.|B|Bro019|0
+me026|um|F|Bro019|1
+me026|but i don't think there's a a really good reason not to um get the formant frequencies from the synthesizer instead.|S|Bro019|1
+me026|except that you don't have the psycho acoustic modeling in that.|S|Bro019|1
+me013|yeah.|S|Bro019|0
+me013|so the actual|D|Bro019|0
+me013|so you're not getting the actual formants per se.|S|Bro019|0
+me013|you're getting the again you're getting sort of the|D|Bro019|0
+me013|uh|F|Bro019|0
+mn007|uhhuh.|D|Bro019|1
+me013|you're getting something that is is uh strongly affected by the p.l.p. model.|S|Bro019|0
+me013|and so it's more psycho acoustic.|S|Bro019|0
+me013|so it's a little it's it's it's sort of sort of a different thing.|S|Bro019|0
+me018|oh.|S|Bro019|1
+me018|i see.|S|Bro019|1
+me018|that's sort of the point.|S|Bro019|1
+me013|but yeah.|S|Bro019|0
+me013|ordinarily in a formant synthesizer the bandwidths as well as the uh formant centers are|D|Bro019|0
+me018|yeah.|B|Bro019|1
+me013|i mean that's somewhere in the synthesizer that was put in.|S|Bro019|0
+me013|as as what you|D|Bro019|0
+me026|uhhuh.|B|Bro019|1
+me013|but but yeah.|S|Bro019|0
+me013|you view each complex pair as essentially a second order section.|S|Bro019|0
+me013|which has uh band center and band width.|S|Bro019|0
+me013|and um|F|Bro019|0
+me013|um|F|Bro019|0
+me013|but|F|Bro019|0
+me013|yeah.|F|Bro019|0
+me013|okay.|F|Bro019|0
+me013|so uh|F|Bro019|0
+me013|yeah you're going back today.|S|Bro019|0
+me013|and then back in a week i guess.|S|Bro019|0
+me013|and|D|Bro019|0
+mn052|yeah.|S|Bro019|1
+me013|yeah.|S|Bro019|0
+me013|great.|S|Bro019|0
+me013|well welcome.|S|Bro019|0
+mn052|thanks.|S|Bro019|1
+me018|i guess we should do digits quickly?|Q|Bro019|0
+mn007|huh.|B|Bro019|1
+me013|oh yeah digits.|S|Bro019|0
+me013|i almost forgot that.|S|Bro019|0
+fn002|digits.|S|Bro019|1
+me013|i almost forgot our daily digits.|S|Bro019|0
+me018|you want to go ahead?|D|Bro019|1
+me013|sure.|S|Bro019|0

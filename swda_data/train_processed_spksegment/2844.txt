@@ -1,0 +1,254 @@
+A|Okay.|fo_o_fw_"_by_bc|2844|0
+A|Well, I heard Dallas is pretty bad with the crime.|sd|2844|0
+B|Well, you know, you know last night I was listening to the, uh, ten o'clock news.|sd|2844|1
+A|Uh-huh.|b|2844|0
+B|And for the first five to seven minutes of a news broadcast all they were talking about was the number of shootings, the number of drug deals that were going on, and crime|sd|2844|1
+B|and, and it's so depressing just to even listen to the news anymore.|sv|2844|1
+A|Uh-huh|aa|2844|0
+A|The same way here in Dennison.|sd|2844|0
+B|Uh-huh.|b|2844|1
+A|I mean, uh, back a couple weeks ago they found, uh, some people I don't remember at some fast food restaurant.|sd|2844|0
+A|They had been, I can't remember if they had been shot or if they had just been thrown in the freezer|sd|2844|0
+A|but I'm pretty sure they'd been shot and put the freezer at the fast, food restaurant.|sd|2844|0
+B|Uh-huh.|b|2844|1
+B|Uh-huh.|b|2844|1
+A|And I've worked, worked in fast food restaurants.|sd|2844|0
+A|They don't have that much money on hand,|sv|2844|0
+B|Yeah.|b|2844|1
+A|they really don't.|sv|2844|0
+B|Yeah.|aa|2844|1
+B|I did too.|sd|2844|1
+B|I remember I used to work at, uh, Kentucky Fried Chicken.|sd|2844|1
+A|Uh-huh.|b|2844|0
+B|And, and I just couldn't believe, um, you know, that|sd|2844|1
+B|now I would hate to work at a fast food restaurant or even have my children work in one.|sd|2844|1
+A|Uh-huh.|b|2844|0
+B|And, uh, because of, uh, the crime|sv|2844|1
+B|that they would, um, kill people just for the few couple hundred dollars that they would have in there, uh, in their cash drawer.|sv|2844|1
+A|Yeah.|b|2844|0
+A|Right.|aa|2844|0
+A|My husband worked at a gas station when he was a teenager.|sd|2844|0
+B|Uh-huh.|b|2844|1
+A|And he, well I don't know, he decided not to work one night or something|sd|2844|0
+A|and one of the guys that was working was shot,|sd|2844|0
+B|Uh-huh.|b|2844|1
+A|and, Kenny quit the next day.|sd|2844|0
+B|Uh-huh.|b|2844|1
+A|He just, he couldn't deal with it.|sd|2844|0
+B|Yeah.|b|2844|1
+B|yeah.|b|2844|1
+B|Oh, I understand what your talking about.|ba|2844|1
+B|So, yeah,|%|2844|1
+B|I have, uh, uh, you know, a real problem, uh,|sd|2844|1
+B|even though I live further out in the suburbs, the crime follows you anywhere,|sv|2844|1
+A|Uh-huh.|b|2844|0
+A|Everywhere.|aa|2844|0
+B|it, it doesn't matter if you live in a small town or if you live in a small town or if you live in a large city like this.|sv|2844|1
+A|Uh-huh.|b|2844|0
+B|Um, so, but, I just think about the all the different ways that we have to protect ourselves from,|sd|2844|1
+A|It just seems like a lot of people are attracted to the bigger cities though,|sv|2844|0
+B|Uh-huh.|b|2844|1
+A|the worst part of it.|sv|2844|0
+B|Uh-huh.|b|2844|1
+A|Um, I lived in Louisville, Kentucky for a while,|sd|2844|0
+B|Uh-huh.|b|2844|1
+A|but, I lived on the outskirts too,|sd|2844|0
+A|but Louisville was pretty bad especially during like the, uh, Kentucky Derby.|sd|2844|0
+B|Yeah.|b|2844|1
+A|At this time of the year it's horrible to live in Louisville.|sd|2844|0
+B|Uh-huh.|b|2844|1
+B|Uh-huh.|b|2844|1
+A|But, uh.|%|2844|0
+B|Yeah.|b|2844|1
+B|So, I don't know, um, you know,|h|2844|1
+B|it's asking about what kind of steps we can take, um, uh, you know, just as citizens to try and, um, uh, protect ourselves.|sd|2844|1
+B|I know I have, uh, um, home security system.|sd|2844|1
+A|Uh-huh.|b|2844|0
+B|Plus, I have the, uh, the special lights on, on the outside.|sd|2844|1
+B|And I have,|sd|2844|1
+A|The ones that blink off and on.|qy^d|2844|0
+B|Yeah,|ny|2844|1
+B|that, uh,|%|2844|1
+A|By themselves I mean.|qy^d|2844|0
+B|yeah,|ny|2844|1
+B|yeah.|ny|2844|1
+B|By themselves|sd|2844|1
+B|if you if there's some kind of movement, then they'll automatically come on. Um,|sd|2844|1
+A|Right.|b|2844|0
+B|but, I mean it's just I'm constantly think about keeping us safe and protected, verses, um,|sd|2844|1
+A|Uh-huh.|b|2844|0
+A|How many kids do you have?|qw|2844|0
+B|Two.|sd|2844|1
+B|Two.|sd|2844|1
+A|Oh|bk|2844|0
+A|a boy or?|qy|2844|0
+B|One of each.|sd|2844|1
+A|Oh, that's what I've got,|sd|2844|0
+B|Yeah.|b|2844|1
+B|Yeah.|b|2844|1
+A|It is scary,|sv|2844|0
+A|are your are they babies or,|qy|2844|0
+B|No,|nn|2844|1
+B|no,|nn|2844|1
+B|there teenagers now.|sd|2844|1
+A|Oh, well good. That they're a comfort to you.|sv|2844|0
+A|I've still got babies.|sd|2844|0
+A|Okay|%|2844|0
+B|Yeah|b|2844|1
+A|I've got a, a four year old. He'll be four. And a three month old.|sd|2844|0
+B|Oh, wow.|ba|2844|1
+A|And it's scary sometimes.|sv|2844|0
+B|Yeah.|b|2844|1
+B|That's a problem.|ba|2844|1
+B|Yeah.|%|2844|1
+A|I'm used to living in, uh,|sd|2844|0
+A|which|%|2844|0
+A|we don't live in the city,|sd|2844|0
+B|Uh-huh.|b|2844|1
+A|but we just.|%|2844|0
+A|It's still more crowded than what I'm used to,|sd|2844|0
+B|Uh-huh.|b|2844|1
+A|I'm used to having, you know, eight or ten houses on one street|sd|2844|0
+A|and this one's got houses on either side and, you know, real close together,|sd|2844|0
+B|Yeah.|b|2844|1
+B|Yeah.|b|2844|1
+A|and just,|%|2844|0
+B|Yeah.|aa|2844|1
+B|It's different,|aa|2844|1
+B|yeah,|aa|2844|1
+B|living down here.|%|2844|1
+B|Now, now the nice thing, uh,|%|2844|1
+B|I feel a little bit more comfort since we're so close together like this. Um,|sd|2844|1
+B|I, I feel like that there's going to be, uh, less crime|sv|2844|1
+B|or your neighbors going to be watching out for you, um, because it's, it's practically, it's in their backyard, too,|sv|2844|1
+A|Right.|b|2844|0
+A|Oh, oh well,|b|2844|0
+A|we think our neighbors are stealing from us, actually my husband.|sd|2844|0
+A|They, uh, well, the one of them's a teenager that lives next door|sd|2844|0
+A|and her friends are pretty wild.|sd|2844|0
+A|They've stolen gas out of our vehicles.|sd|2844|0
+B|Oh goodness.|ba|2844|1
+A|And so he went and got a locking gas cap for his.|sd|2844|0
+B|Uh-huh.|b|2844|1
+A|They weren't stealing it out of mine so much, because my car, the gas thing is kind of weird where it's hard to, syphon gas out.|sd|2844|0
+B|Uh-huh.|b|2844|1
+B|Uh-huh.|b|2844|1
+A|So he, he went and got a locking cap|sd|2844|0
+A|and they tried to break that off.|sd|2844|0
+B|Oh my goodness.|ba|2844|1
+A|And you excuse me. He went down to Uba , and noticed that it was hanging off where, where they had tried to break it off.|sd|2844|0
+B|Uh-huh.|b|2844|1
+B|Uh-huh.|b|2844|1
+A|And they stole our tailgate off his truck|sd|2844|0
+B|Oh goodness.|ba|2844|1
+A|Well, we can't say they did|sd|2844|0
+A|but,|%|2844|0
+B|Someone did,|^2|2844|1
+A|We're pretty,|%|2844|0
+A|yeah,|%|2844|0
+B|Yeah.|b^m|2844|1
+A|it had to be somebody that, you know, could do it in the middle of the night|sd|2844|0
+A|and, you know, they'd seen it earlier.|sd|2844|0
+B|Uh-huh.|b|2844|1
+B|Uh-huh.|b|2844|1
+B|Yeah|b|2844|1
+B|I know that it's a real problem.|fo_o_fw_"_by_bc|2844|1
+B|It doesn't matter where you are anymore.|sv|2844|1
+A|Uh-huh.|b|2844|0
+B|It's, uh, more of a matter of what you, the steps that you do to keep yourself safe,|sv|2844|1
+B|and um, so that's, that's why I try and, uh, do,|%|2844|1
+A|Well, the only thing that we can do as citizens is, you know, like, uh, watch groups that they'll have.|sv|2844|0
+B|Uh-huh,|b|2844|1
+B|uh-huh.|b|2844|1
+A|But they can be dangerous too.|sv|2844|0
+B|Really.|b|2844|1
+A|I've thought about it.|sd|2844|0
+B|Uh-huh.|b|2844|1
+A|You know, that this isn't like walking around and looking for somebody|sv|2844|0
+A|you can get yourself into trouble.|sv|2844|0
+B|Yeah.|aa|2844|1
+B|Yeah.|aa|2844|1
+B|You know, I was going home the other day|sd|2844|1
+B|and I saw, um, a guy who, who looked like he was breaking into a window,|sd|2844|1
+A|Uh-huh.|b|2844|0
+B|and I thought, gee whiz, you know, I don't know if he's really doing that or not or if he's, he's the person who lives there. Uh,|sd|2844|1
+B|you know, and, and I was thinking well, I need to call the police when I get back home|sd|2844|1
+B|and because it was about oh about four or five blocks from where we live|sd|2844|1
+B|and, uh, and I thought no, you know, because I wouldn't know if that was really a robber or not because it was in broad daylight.|sd|2844|1
+B|But anymore, you know, the crime happens in daylight, as it does in, in night,|sv|2844|1
+A|Yeah.|b|2844|0
+A|Well, I watched it on T V, oh, I guess last year sometime.|sd|2844|0
+A|They'll break in at the day, in the daytime,|sd|2844|0
+B|Uh-huh.|b|2844|1
+A|and, I hear that, you know, it's if you lock yourself out of your house|sd|2844|0
+A|and you try to get in your house|sd|2844|0
+B|Uh-huh.|b|2844|1
+A|it will|%|2844|0
+A|you give|%|2844|0
+A|that half the time it takes you to break in.|sd|2844|0
+B|Uh-huh.|b|2844|1
+A|Uh, a professional could break in, in, half that time.|sd|2844|0
+B|Half that time,|^2|2844|1
+B|wow.|ba|2844|1
+B|I mean that's so scary.|sv|2844|1
+A|Yeah.|aa|2844|0
+A|It is.|aa|2844|0
+B|So scary you, you think you've got yourself all locked in and safe,|sv|2844|1
+B|and, and, uh, somebody could break in, uh,|sv|2844|1
+B|oh I have a dog,|sd|2844|1
+A|Uh-huh.|b|2844|0
+B|that's the one thing that I like.|sd|2844|1
+A|I'm getting me, uh, I want a German Shepherd.|sd|2844|0
+B|Uh-huh.|b|2844|1
+B|Uh-huh.|b|2844|1
+A|Um, I don't want any of those ones that will up the kids,|sd|2844|0
+B|Right.|b|2844|1
+A|but I do want a German Shepherd.|sd|2844|0
+B|Uh-huh.|b|2844|1
+B|Uh-huh.|b|2844|1
+A|Because my husband will leave every once in a while, for,|sd|2844|0
+B|Uh-huh.|b|2844|1
+A|he works on the railroad.|sd|2844|0
+B|Uh-huh.|b|2844|1
+A|And I'm scared here by myself.|sd|2844|0
+B|Oh yeah.|b|2844|1
+B|Oh yeah.|b|2844|1
+B|So that's uh,|%|2844|1
+B|we have a little dog now|sd|2844|1
+B|but he is just as vicious as is, you know, if you,|sd|2844|1
+A|And loud.|qy^d|2844|0
+B|And loud,|na|2844|1
+B|yeah,|ny|2844|1
+B|and I thought that, uh, you know, we'd have to have a big dog|sd|2844|1
+B|but we doesn't need a big dog.|sd|2844|1
+B|We got this little bitty dog that, uh,|sd|2844|1
+B|part Dachshunds and part Cocker Spaniel.|sd|2844|1
+A|Uh-huh.|b|2844|0
+B|And he, um, ease very protective,|sd|2844|1
+A|The Cocker Spaniels are loud|sv|2844|0
+A|Well that's, now that's one of the best deterrents for a robber is a noisy neighbor even if the neighbor's got a noisy dog.|sv|2844|0
+B|yeah.|aa|2844|1
+B|Very protective,|sv|2844|1
+B|Uh-huh.|b|2844|1
+A|That's a deterrent.|sv|2844|0
+B|Uh-huh.|b|2844|1
+A|Because they know that that dog's going to bark.|sv|2844|0
+B|That's right.|aa|2844|1
+A|But it's easy to fool a dog too.|sv|2844|0
+B|Yeah.|b|2844|1
+A|you know, throw them meat or|sv|2844|0
+B|Uh-huh.|b|2844|1
+A|um, a a real intense burglar can just get another dog that's in heat.|sv|2844|0
+B|Right.|b|2844|1
+A|From what I've|%|2844|0
+A|you know, saw it on T V.|sd|2844|0
+B|Oh, wow, gosh.|ba|2844|1
+B|Well, it was nice talking to you.|fc|2844|1
+A|Yeah,|fc|2844|0
+A|it was.|fc|2844|0
+B|Okay.|fc|2844|1
+A|And I, maybe we'll meet up again.|fc|2844|0
+B|Okay.|fc|2844|1
+A|All righty.|fc|2844|0
+B|Bye-bye.|fc|2844|1
+A|Bye-bye.|fc|2844|0

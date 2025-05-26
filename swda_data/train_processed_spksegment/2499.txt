@@ -1,0 +1,379 @@
+B|Okay.|fo_o_fw_"_by_bc|2499|0
+A|like a All right.|fo_o_fw_"_by_bc|2499|1
+A|What have you seen?|qo|2499|1
+B|The latest movie I've seen that I thought was fantastic was DANCES WITH WOLVES.|sd|2499|0
+A|That's,|%|2499|1
+A|I knew you were going to say that.|sd|2499|1
+A|I wanted, I want  to go see that.|sd|2499|1
+B|Oh, man.|ba|2499|0
+B|like water I, I just finally ended up going to see it, uh,|sd|2499|0
+B|and one day my husband had the kids|sd|2499|0
+B|and I just went because we couldn't, we could never get to go see it together because it's so long.|sd|2499|0
+B|By the time we had a babysitter for that long.|sd|2499|0
+A|Gosh.|ba|2499|1
+B|So I finally just went to see it.|sd|2499|0
+B|And I just thought it was fantastic.|sd|2499|0
+A|Yeah.|b|2499|1
+A|I, I, I watched, uh, Costner on the Academy Awards.|sd|2499|1
+A|I was really happy that he got,|sd|2499|1
+A|I was hoping he was going to get Best Actor.|sd|2499|1
+B|Yeah.|b|2499|0
+B|Yeah.|b|2499|0
+A|Uh, but he, he, he did pretty good on that one.|sv|2499|1
+B|That was quite a, like ping|%|2499|0
+B|the buffalo scene in that thing  was so real.|sv|2499|0
+A|Yeah.|b|2499|1
+B|It's like,|%|2499|0
+B|I mean it just  blew me away.|sd|2499|0
+A|Yeah,|b|2499|1
+A|I'd, I bet.|ba|2499|1
+A|Yeah.|b|2499|1
+A|There're several of them that are out right now that I want to see.|sd|2499|1
+A|Uh,  DANCES. Uh, SILENCE OF THE LAMBS.|sd|2499|1
+B|Yeah.|b|2499|0
+B|Uh, I'm, I'm afraid to go see that one.|sd|2499|0
+B|That one looks so scary just,  from the previews.|sv|2499|0
+B|I thought gosh  I'd probably have nightmares for the next six months|sd|2499|0
+A|Nay.|ar|2499|1
+B|It's supposed to  be good though.|sd|2499|0
+A|Nay.|ar|2499|1
+A|That's what people said,|sd|2499|1
+B|I know some friends who went to see it.|sd|2499|0
+A|Yeah.|b|2499|1
+B|They said it was really riveting.|sd|2499|0
+A|Yeah.|b|2499|1
+A|Well, you know, they, they, that's what they said about THE EXORCIST, you know.|sd|2499|1
+A|No, no,|ar|2499|1
+A|it's terrible.|sv|2499|1
+A|You'll have nightmares, you know.|sv|2499|1
+A|I watched last weekend.|sd|2499|1
+A|Me and my roommate.|sd|2499|1
+A|We, we laughed about it|sd|2499|1
+B|Well, you're not a thirteen year old.|sv|2499|0
+B|I don't know.|h|2499|0
+B|I saw it when I was a kid|sd|2499|0
+B|and I thought, oh, man|sd|2499|0
+A|Well, I'll tell,|%|2499|1
+A|well I guess, I, I guess it was because I'd read the book before I saw the movie.|sd|2499|1
+B|Oh, uh-huh.|b|2499|0
+A|And the book, to me, was far more frightening than the movie was.|sd|2499|1
+B|Oh, really.|b|2499|0
+B|Huh. Gosh.|ba|2499|0
+A|Yeah.|b|2499|1
+A|He's a very good writer|sv|2499|1
+A|and he had a way of putting you in that scene, you know.|sv|2499|1
+A|It was,|%|2499|1
+B|Oh, boy.|ba|2499|0
+A|Yeah.|b|2499|1
+A|And, of course, I was, I was living alone at the time|sd|2499|1
+A|and it was late at night and scary and, you know|sd|2499|1
+A|You start hearing noises  you know.|sd|2499|1
+B|Gosh.|ba|2499|0
+B|Call the crisis line.|ba|2499|0
+B|Yeah,|aa|2499|0
+B|I bet.|ba|2499|0
+A|And there's rats in the attic, you know.|sd|2499|1
+B|Oh, gosh.|ba|2499|0
+A|Uh, let's see.|^h|2499|1
+A|There was a couple of others that are out,|sd|2499|1
+A|and I can't remember,|sd|2499|1
+B|I saw one I thought was crummy.|sd|2499|0
+B|With that new, uh, Michael J Fox movie, THE HARD WAY.|sd|2499|0
+B|Where he plays a, a actor that's, uh, like huh.|sd|2499|0
+A|Yeah.|b|2499|1
+A|I, I didn't, I didn't even like the previews on that.|sd|2499|1
+B|Oh, I know.|aa|2499|0
+B|It was,|%|2499|0
+B|well I ended up at the theater|sd|2499|0
+B|and there was, didn't seem to be anything else on I wanted to see,|sd|2499|0
+B|so I'll try that.|sd|2499|0
+B|But it wasn't worth anything.|sv|2499|0
+B|I didn't care  for that at all.|sd|2499|0
+A|No.|aa|2499|1
+A|I, I don't much care for Michael J Fox anyway.|sd|2499|1
+B|Yeah.|b|2499|0
+B|Well, the last two I saw him in, one of those BACK TO THE FUTURE, PART THREE deals|sd|2499|0
+B|and that was crummy also.|sv|2499|0
+B|I  didn't think that was any good|sd|2499|0
+A|Yeah.|b|2499|1
+B|so|%|2499|0
+A|I saw the original BACK TO THE FUTURE|sd|2499|1
+A|and then I, I know,|%|2499|1
+A|I hardly ever go see a sequel.|sd|2499|1
+B|Yeah.|b|2499|0
+A|I mean, I think, I think the only I've ever seen a sequel was TWO THOUSAND AND ONE.|sd|2499|1
+B|Oh, boy.|ba|2499|0
+A|Uh, TWO THOUSAND AND TEN was far better.|sv|2499|1
+B|Yeah.|b|2499|0
+B|Yeah.|b|2499|0
+A|TWO THOUSAND AND ONE was a good movie if you had read the book.|sv|2499|1
+B|Well, I hadn't read it|sd|2499|0
+B|and I couldn't figure what was going on half the time,|sd|2499|0
+B|so|%|2499|0
+A|Yeah.|aa|2499|1
+A|No,|aa|2499|1
+A|nobody could figure it out.|sv|2499|1
+A|I mean  the, the book was so much, uh,|sv|2499|1
+B|Yeah.|b|2499|0
+A|there's just things,|%|2499|1
+A|all you can do is put it in words.|sv|2499|1
+A|You can't put it in pictures.|sv|2499|1
+B|Yeah.|b|2499|0
+B|Yeah.|b|2499|0
+A|You know, a lot of that stuff that was going on in the film, you say what is this?|sv|2499|1
+A|You know, what's the significance of the apes, you know|qh|2499|1
+B|Yeah,|b|2499|0
+B|yeah.|b|2499|0
+B|I should probably go back and read the book now that I just saw the movie again not too long ago.|sd|2499|0
+A|Oh, the book is really good.|sv|2499|1
+A|I mean, I, I keep a little library of books that I just like to read over and over again|sd|2499|1
+A|and that's one of them.|sd|2499|1
+B|Wow. Huh.|ba|2499|0
+A|It's, it's so well written.|sv|2499|1
+B|Huh. Well, I have one I bet you haven't seen if you don't have kids. OTIS AND MILO.|sd|2499|0
+A|Oh, you're right.|aa|2499|1
+A|I haven't|sd|2499|1
+B|Oh, that is, that is the most precious movie.|sd|2499|0
+B|It has, to see it on the big screen because it's just the most gorgeous nature scenes you've ever seen in your life.|sd|2499|0
+B|And it's all this,|%|2499|0
+B|it's the story of this little cat and dog|sd|2499|0
+B|and it's not like cutesy.|sd|2499|0
+B|It's just, uh, it's just so realistic. Everything they do.|sd|2499|0
+B|You wonder how in the world they ever got them to do some of these things.|sd|2499|0
+A|Huh. Oh, those|%|2499|1
+B|And it was,  A real dog and  cat|sd|2499|0
+A|a real dog and cat?|qy|2499|1
+A|Huh.|b|2499|1
+B|and all the other animals.|sd|2499|0
+B|They initially start out in the barnyard kind of setting where they're raised.|sd|2499|0
+B|And then the cat gets, um, on this treacherous journey.|sd|2499|0
+B|He climbs into a box and ends up floating down this river|sd|2499|0
+B|and he winds up all over creation.|sd|2499|0
+B|I don't know where in the world it is.|sd|2499|0
+B|Somewhere in China somewhere I think that it was filmed.|sd|2499|0
+A|Huh.|b|2499|1
+B|But, uh, it's just really an incredible thing.|sd|2499|0
+A|sounds sort of like the incredible journey.|sd|2499|1
+B|Yeah.|b|2499|0
+B|It was pretty wild|sd|2499|0
+B|and . Of course, the only sound is Dudley Moore narrates it.|sd|2499|0
+A|Uh-huh.|b|2499|1
+B|But there's no, you know, nothing else to keep it going.|sd|2499|0
+B|But it really keeps keeps me going.|sd|2499|0
+A|Huh.|b|2499|1
+B|I, I've seen it twice now|sd|2499|0
+A|Yeah.|b|2499|1
+A|that sounds a lot like a Walt Disney film.|sv|2499|1
+B|Huh?|br|2499|0
+A|Sounds a lot a like a Walt Disney film.|sv|2499|1
+B|Yeah.|aa|2499|0
+B|It was like the best of the Walt Disney ones.|sd|2499|0
+B|Walt Disney's kind of gotten worse in my opinion over the past few years.|sv|2499|0
+A|Oh, yeah.|aa|2499|1
+A|Not anymore.|sv|2499|1
+A|I mean, I, I, I was raised on Walt Disney films. You know.|sd|2499|1
+B|Yeah.|b|2499|0
+A|OLD YELLER. Uh, BIG RED.|sd|2499|1
+B|Yeah.|b|2499|0
+B|All those old good ones that you, you know, wish they had on  more now,|sv|2499|0
+A|Yeah.|b|2499|1
+B|but.|%|2499|0
+A|When I was a little kid, I saw the INCREDIBLE JOURNEY on Christmas Eve|sd|2499|1
+A|and  it was so good that I had forgotten  that it was Christmas Eve.|sd|2499|1
+B|Oh, boy.|ba|2499|0
+B|Huh.|b|2499|0
+A|I mean  that's something for a kid.|sv|2499|1
+B|That's pretty good.|ba|2499|0
+B|Really.|ba|2499|0
+A|And that was something for greedy old me at Christmas time, I'll tell you.|sd|2499|1
+B|Let's see.|^h|2499|0
+B|What are some other ones I've seen lately.|t1|2499|0
+B|I'm trying to remember.|^h|2499|0
+B|I can't.|sd|2499|0
+B|Oh, I just saw one on the video.|sd|2499|0
+B|Oh, um, have you seen THE GODS MUST BE CRAZY, PART TWO?|qy|2499|0
+A|No|nn|2499|1
+B|That is a riot.|sd|2499|0
+A|Is it?|bh|2499|1
+B|Yeah.|ny|2499|0
+B|The first one was really good.|sd|2499|0
+B|But the second one  is really good too.|sd|2499|0
+B|I was really surprised.|sd|2499|0
+A|Yeah.|b|2499|1
+A|I didn't much care for the first one.|sd|2499|1
+A|Maybe that's,|%|2499|1
+B|No,|arp_nd|2499|0
+B|I thought it was funny.|sv|2499|0
+B|But, that's my sense of humor|h|2499|0
+A|Well, I, I'll have to go get that one I guess.|oo_co_cc|2499|1
+B|It's hard to find movies that aren't terrible violent or terribly bunch of sex going on anymore.|sv|2499|0
+B|And I'm just, I guess I'm just middle America or something.|sv|2499|0
+B|I just go to be entertained|sd|2499|0
+B|and  and not really interested in some of the, like the TERMINATOR or some of the Schwarzenegger stuff.|sd|2499|0
+A|Yeah.  Yeah. *b|aa|2499|1
+B|I just.|%|2499|0
+A|I get so tired of, you know, these, you know, sequels.|sd|2499|1
+A|Number nine, number ten, number  fourteen.|sd|2499|1
+B|Yeah.|b|2499|0
+B|FREDDY'S REVENGE PART TWENTY-FIVE or whatever.|sd|2499|0
+A|Yeah, you know.|aa|2499|1
+A|Yeah, you know.|aa|2499|1
+B|Yeah.|b|2499|0
+B|I've never,|%|2499|0
+A|FREDDY EATS A NUCLEAR WARHEAD, you know.|sd|2499|1
+A|I, I'm just,|%|2499|1
+A|I'm so sick and tired of that.|sd|2499|1
+A|I just can't believe it.|^h|2499|1
+A|It's like ROCKY films.|sv|2499|1
+A|I  I haven't seen a one.|sd|2499|1
+B|Yeah.|aa|2499|0
+B|Yeah.|aa|2499|0
+B|I've never seen any of those.|sd|2499|0
+A|I can't stand Stallone.|sd|2499|1
+B|Yeah.|aa|2499|0
+B|I can't either.|sd|2499|0
+B|He seems so macho I just|sv|2499|0
+A|Yeah.|aa|2499|1
+A|And I, I was afraid that RAMBO was going to do the same thing that ROCKY was going to do, you know.  Go into fourteen hundred episodes.|sd|2499|1
+B|Yeah.|b|2499|0
+B|Yeah.|b|2499|0
+A|Now I don't, I hardly ever watch T V.|sd|2499|1
+A|If I ever get the hankering to see something, I've got, I don't know, maybe about thirty or forty movies|sd|2499|1
+A|and I just,|%|2499|1
+B|Yeah.|aa|2499|0
+B|When they're so cheap too at the video stores that you can.|sv|2499|0
+A|Yeah.|aa|2499|1
+A|I don't even rent them. You know.|sd|2499|1
+B|You don't?|bh|2499|0
+A|I, I figure if I find a movie I like, I'll buy it.|sd|2499|1
+A|Cause I just watch them over and over again.|sd|2499|1
+B|That's like,|%|2499|0
+B|my husband does that.|sd|2499|0
+B|He can watch  them over and over.|sd|2499|0
+A|Yeah.|b|2499|1
+A|I,|%|2499|1
+B|And I'm,|%|2499|0
+B|there's very few I would want to see that many times.|sd|2499|0
+B|So he, he, once he has one he likes, he likes to watch it over and over.|sd|2499|0
+A|Yeah.|b|2499|1
+A|My, my very favorite one that the top of the tick for me is, uh, EXCALIBUR.|sd|2499|1
+B|Oh, yeah.|aa|2499|0
+B|That was a good one.|sv|2499|0
+B|I haven't seen that one in a long time.|sd|2499|0
+A|I, I loved that film. Um,|sd|2499|1
+A|it's just so well done.|sv|2499|1
+B|Yeah.|b|2499|0
+A|And I lived over in England for four years,|sd|2499|1
+B|Oh, boy.|ba|2499|0
+A|That was the first place I ever saw it.|sd|2499|1
+B|Uh-huh.|b|2499|0
+A|And it was just, gosh,|%|2499|1
+A|it was so good.|sv|2499|1
+B|Oh, gosh.|ba|2499|0
+A|It was, it was filmed in Ireland.|sd|2499|1
+B|Huh.|b|2499|0
+A|And they got pretty scenery in Ireland.|sd|2499|1
+B|Yeah,|b|2499|0
+B|I bet|ba|2499|0
+A|Yeah,|aa|2499|1
+A|it's nice.|sd|2499|1
+B|Gosh.|ba|2499|0
+A|And I, I've been down to the south of England where supposedly King Arthur's castle was.|sd|2499|1
+B|Oh, boy.|ba|2499|0
+B|So, that really has a lot of meaning for you to see that.|bf|2499|0
+A|Yeah,|aa|2499|1
+A|it was, yeah it was unimpressive to look at.|sd|2499|1
+A|I mean, the whole thing was about the size of a, a medium house|sd|2499|1
+A|Yeah.|%|2499|1
+A|It wasn't,|%|2499|1
+B|Oh, really|ba|2499|0
+B|Well, when I was in England years ago.|sd|2499|0
+B|And I went to, to like Shakespeare's and, you know, Stratford-On-Avon  and all that|sd|2499|0
+A|Oh, yeah.|b|2499|1
+B|and it was like you couldn't stand up inside of it|sd|2499|0
+B|because it was so  short.|sd|2499|0
+A|Yeah.|b|2499|1
+B|The ceilings  were so short.|sd|2499|0
+A|Yeah.|b|2499|1
+B|But Yeah.|%|2499|0
+A|Yeah.|b|2499|1
+A|There's some nice stuff over there to see.|sv|2499|1
+B|Yeah.|b|2499|0
+A|I, I spent four years traveling around and didn't see, you know, hardly anything.|sd|2499|1
+A|I just,|%|2499|1
+B|Oh, boy.|ba|2499|0
+A|I need, to go over there and stay about twenty years so I can just travel.  Go around all the places.|sd|2499|1
+B|Yeah.|b|2499|0
+A|Stonehenge, of course, you know.|sd|2499|1
+A|Every, everybody makes the obligatory trip to Stonehenge.|sv|2499|1
+B|Yeah,|b|2499|0
+B|yeah.|b|2499|0
+A|Okay,|sv|2499|1
+A|big deal.|sv|2499|1
+A|Here's some rocks sitting out in the middle of a field.|sd|2499|1
+A|Okay|sv|2499|1
+A|It's boring.|sv|2499|1
+B|Did you see any movies over there|qy|2499|0
+B|I remember I went to see DON QUIXOTE over there when it came out.|sd|2499|0
+B|It came out right around the time, with Sophia Loren|sd|2499|0
+B|and that was a riot to see that.|sd|2499|0
+A|You know something,|fo_o_fw_"_by_bc|2499|1
+A|I, come to think of it, I don't think I went to the movies one time.|sd|2499|1
+B|Yeah.|b|2499|0
+B|Cause when you're touristing, you probably don't want to take the time to go see a movie.|sv|2499|0
+A|I, uh,|%|2499|1
+A|where I lived. Uh, it was a little town called Newmarket. About seventy miles north of London.|sd|2499|1
+B|Huh.|b|2499|0
+B|Oh, boy|ba|2499|0
+A|And there was another town called Barry Saint Edmunds about twenty miles away from us.|sd|2499|1
+B|Uh-huh.|b|2499|0
+A|And they had a little, uh, theater company there|sd|2499|1
+A|and we use to go, go out to that about once a week.|sd|2499|1
+B|Oh, boy.|ba|2499|0
+A|Yeah.|aa|2499|1
+A|A really nice place.|sd|2499|1
+A|You know, amateurs but really quite good.|sd|2499|1
+B|Yeah.|b|2499|0
+A|Uh, but that was interesting.|sd|2499|1
+A|Course  go to London quite a lot and see shows down there.|sd|2499|1
+B|That sounds great.|ba|2499|0
+B|Yeah.|b|2499|0
+A|Uh, but other than that I just didn't have time to go to the movies, you know.|sd|2499|1
+B|Yeah.|b|2499|0
+A|Never any, anyway, anything that I ever wanted,|sd|2499|1
+A|I rented a lot of videos|sd|2499|1
+B|Uh-huh|b|2499|0
+A|Cause the closest movie theater was Barry Saint Edmunds|sd|2499|1
+A|and who wants  who wants to drive twenty miles to go to the movies|sv|2499|1
+B|Oh, boy.|ba|2499|0
+B|Probably some of them did|sv|2499|0
+A|A lot of, a lot of people did.|sd|2499|1
+B|Yeah.|b|2499|0
+A|But it would have to be a good show.|sd|2499|1
+B|Yeah.|b|2499|0
+B|It's hard to know what the good movies are anymore.|sv|2499|0
+A|Yeah.|b|2499|1
+B|Because sometimes the reviews you just can't go by.|sv|2499|0
+A|Yeah.|b|2499|1
+A|I, I|%|2499|1
+A|they, they, they have all these neat phrases. You know, you know, you know. Like critically acclaimed.|sv|2499|1
+B|Yeah.|b|2499|0
+A|That's what they when the thing hasn't won any award. *listen|sv|2499|1
+B|Oh, I see|ba|2499|0
+A|You know. They can't,|%|2499|1
+B|It's kind of like waterfront property or something  if you're, you know, if you're two miles away from water|sv|2499|0
+A|Yeah,|b|2499|1
+A|yeah.|b|2499|1
+A|Yeah,|b|2499|1
+A|from Love Canal|sv|2499|1
+B|Water view|sv|2499|0
+A|Waterfront property here at Love Canal, you know.|sv|2499|1
+B|Yeah.|b|2499|0
+A|But, you know, critically acclaimed.|sv|2499|1
+A|Oh, good grief.|ba|2499|1
+A|Give me a break.|ba|2499|1
+A|That's|%|2499|1
+A|I mean, there's a lot of reasons why I don't go to movies.|sd|2499|1
+B|Uh-huh.|b|2499|0
+A|And primarily, I mean, I, now I'm probably going to, going to upset you.|fa|2499|1
+A|But people who bring kids irritates the heck out of me|sd|2499|1

@@ -1,0 +1,95 @@
+A|Well this is a subject that you never think you'll be assigned to One that kind of comes up when you've lost it, the others, other subjects.|sv|3215|0
+B|No|aa|3215|1
+A|Um, as I was sitting there, I thought, the weather's been perfect.|sd|3215|0
+A|I don't know much to say about it.|sd|3215|0
+A|It's, uh, it's, you know,|%|3215|0
+A|for the balloon festival here in Plano it was just gorgeous.|sv|3215|0
+B|I'm from Plano also.|sd|3215|1
+A|Are you?|bh|3215|0
+A|It couldn't have been better.|sv|3215|0
+B|That's right.|aa|3215|1
+A|I mean, it didn't foul one launch,|sd|3215|0
+A|and that's kind of unusual,|sv|3215|0
+A|and it's kind of cold in the mornings|sv|3215|0
+A|so you dress up warm,|sv|3215|0
+A|but by,|%|3215|0
+B|Right.|b|3215|1
+A|That's the only thing wrong I can find with it.|sd|3215|0
+B|I just got back from Dayton.|sd|3215|1
+B|I spent the weekend in Ohio with my family|sd|3215|1
+A|Oh, how fun.|ba|3215|0
+B|and the trees are changing color there.|sd|3215|1
+A|I miss that,|sd|3215|0
+A|yeah.|%|3215|0
+B|So, that,|%|3215|1
+B|as soon as we got out of the cloud cover.|sd|3215|1
+B|Of course it wasn't sunny like it is here.|sd|3215|1
+B|It was real gray|sd|3215|1
+A|Yeah.|b|3215|0
+B|but as soon as the plane got through the clouds|sd|3215|1
+B|and I saw all those trees,|sd|3215|1
+B|it just really made me realize how much I miss the fall.|sd|3215|1
+A|Yeah.|b|3215|0
+B|I don't complain weather wise though, because it was also thirty-five degrees there yesterday morning,|sd|3215|1
+B|and the high was only fifty,|sd|3215|1
+B|and it was supposed to drop and get sleet in the afternoon|sd|3215|1
+A|Ooh.|b|3215|0
+B|so it was nice to get off the plane where it was in the seventies.|sd|3215|1
+A|I guess you have to take some things and leave some things.|sv|3215|0
+B|That's right.|aa|3215|1
+A|Yeah,|b|3215|0
+A|I'm from Utah area,|sd|3215|0
+A|and they, you know, they have tons of canyons where the leaves change|sd|3215|0
+A|and they're gorgeous|sd|3215|0
+B|Yeah.|b|3215|1
+A|you could spend every weekend of the fall going to a different area.|sd|3215|0
+B|We did that when we lived up in Michigan.|sd|3215|1
+B|We went up to the upper peninsula,|sd|3215|1
+B|and they actually printed out maps of routes you could take so you would get maximum leaf exposure.|sd|3215|1
+B|And then on leaf weekends it was, which is this time of the year, it's bumper to bumper traffic,|sd|3215|1
+B|people as|%|3215|1
+B|whoever was driving could never have a prayer of looking at the leaves, because they had to keep watching the road.|sd|3215|1
+A|Yeah,|aa|3215|0
+A|it's kind of hazardous for driving|sv|3215|0
+B|Yes.|aa|3215|1
+A|that's for sure.|ba|3215|0
+A|But I can't complain.|sd|3215|0
+A|I don't know if I've been spoiled.|sd|3215|0
+A|I've been thinking it's getting cold sooner than normal.|sv|3215|0
+A|We've only lived here a couple of years.|sd|3215|0
+B|I think it is,|aa|3215|1
+B|and my family said that in Ohio there was just an article on, at the T V news that they are three weeks ahead of schedule as far as the coldness of the temperatures and, uh, the first frost,|sd|3215|1
+A|Huh.|b|3215|0
+B|everything just happened three weeks early this year.|sd|3215|1
+A|We'll have to see how it goes,|sv|3215|0
+A|a couple of weeks ago we were cooler than normal,|sv|3215|0
+A|but then we're back to being warmer than normal this week, or last week,|sv|3215|0
+A|so.|%|3215|0
+B|Just so we don't have one of those famous ice storms in the spring.|sv|3215|1
+A|I don't have to live through many, any of those really,|sd|3215|0
+A|a bad,|%|3215|0
+A|I mean, nothing comparable, I guess, to what you've had before.|qy^d|3215|0
+B|Well, I've only been here just a short time, too,|arp_nd|3215|1
+B|so I haven't been through any of those either,|sd|3215|1
+B|so. I have in Michigan,|sd|3215|1
+B|but in Michigan you can get twelve inches of snow|sd|3215|1
+B|and life goes on.|sd|3215|1
+A|You're right.|aa|3215|0
+B|So, as I understand it here, if there's anything, they'll call off schools and, and close businesses.|sd|3215|1
+A|Well, they get ice,|sd|3215|0
+A|and no one can drive on ice.|sd|3215|0
+B|Right.|b|3215|1
+A|I mean, we used to think they were pansies,|sd|3215|0
+A|but then when you decided what ice was|sv|3215|0
+B|Right,|aa|3215|1
+B|the real definition of ice|aa|3215|1
+A|So, well, I think we've discussed it good enough today.|fc|3215|0
+B|I think so.|fc|3215|1
+A|It was, It was good talking to you.|fc|3215|0
+B|It was nice talking with you.|fc|3215|1
+A|Maybe we'll get the next time.|fc|3215|0
+B|Okay.|fc|3215|1
+A|Take care.|fc|3215|0
+B|Okay.|fc|3215|1
+A|Bye-bye.|fc|3215|0
+B|Bye.|fc|3215|1

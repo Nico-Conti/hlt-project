@@ -1,0 +1,131 @@
+A|What do you like to watch on television ?|qw|3257
+B|Well, I guess a lot of the, uh,|sd|3257
+B|something that's kind of more of a comedy.|sd|3257
+B|We do have, uh, cable,|sd|3257
+B|and we have premium stations like H B O and Showtime and such,|sd|3257
+B|and I guess a lot of times when I first turn the T V on, I, I normally go to those, because I pay for them|sd|3257
+A|Yes|b|3257
+B|I guess I, I want to see if there's anything I really want to see there, so I don't end up watching the, um, prime time on some of the standard channels as much, I tend to go to my premium channels first,|sd|3257
+A|Uh-huh,|b|3257
+A|uh-huh.|b|3257
+A|Well we have cable,|sd|3257
+A|but we only have Cinemax,|sd|3257
+A|and uh, I think our favorite night is, uh, Monday night,|sd|3257
+B|Uh-huh.|b|3257
+A|and we start out with EVENING SHADE and MAJOR DAD,|sd|3257
+B|Uh-huh.|b|3257
+A|and I think that's the one night that we really try to watch television.|sd|3257
+B|Uh-huh.|b|3257
+A|You know my husband's always got it on.|sd|3257
+B|Yeah.|b|3257
+A|I'm not always sitting down,|sd|3257
+A|and,|%|3257
+B|Monday night's pretty good with MURPHY BROWN and DESIGNING WOMEN.|sv|3257
+A|Yes.|aa|3257
+A|Yes,|aa|3257
+A|yes.|aa|3257
+A|I just, I love that, all those, that two hours|sv|3257
+B|Uh-huh.|b|3257
+A|and, uh, now tonight I just finished up with that A WOMAN CALLED JACKIE,|sd|3257
+A|did you watch did you watch it?|qy|3257
+B|Uh-huh.|b|3257
+B|We had watched it, uh, I guess Sunday night and Monday night,|na|3257
+B|but we didn't get to watch it tonight.|sd|3257
+A|Yeah,|b|3257
+A|it, it was pretty good,|sv|3257
+A|it, uh, sometimes I like a dramatization,|sd|3257
+A|and I like, uh, U S A, when they had their, uh, uh, mystery movies and things, their made for T V movies|sd|3257
+B|Uh-huh.|b|3257
+B|Uh-huh.|b|3257
+A|and, uh, I like those.|sd|3257
+A|We very seldom watch any, uh, Public Television, Channel Thirteen.|sd|3257
+A|Do you watch it much?|qy|3257
+B|The only night we tend to watch some of that is on Sunday nights, starting fairly late, like I'm talking ten o'clock and maybe toward midnight.|sd|3257
+B|They have some British comedy that we've, we've really liked,|sv|3257
+A|Yes.|b|3257
+B|and there's a variety.|sd|3257
+B|Some of them is, uh, BLACK ADDER or GOOD NEIGHBORS or YES, PRIME MINISTER and ARE YOU BEING SERVED?|qy^d|3257
+B|They, they rotate those around,|sd|3257
+B|and, um, we like that British comedy.|sd|3257
+B|British comedy is very fast,|sv|3257
+B|you really have to listen|sv|3257
+A|Yes|aa|3257
+B|but.|%|3257
+A|Now we haven't watched any of those.|sd|3257
+B|They're real good,|sv|3257
+B|but they do come on kind of late,|sv|3257
+B|but we really do enjoy those.|sd|3257
+B|Sometimes we get to watching some stuff on the Discovery Channel.|sd|3257
+A|Yes,|b|3257
+A|now we have watched some things on that.|sd|3257
+B|And I'm amazed sometimes what I see on there.|sd|3257
+B|But I'm very intrigued.|sd|3257
+B|I, one time I was watching an operation,|sd|3257
+B|and I thought, Gee, I don't believe I'm watching.|sd|3257
+A|Yeah,|b|3257
+A|we had, uh,|%|3257
+A|I don't know,|h|3257
+A|my husband loves to, uh, that male syndrome of flicking that channel,|sd|3257
+A|so, you know, and he's sit in front of it|sd|3257
+A|and, and he went by|sd|3257
+A|and he said, Whoops,|sd|3257
+A|and he backed up,|sd|3257
+A|and, you know, there's this surgery going on as we're eating our dinner you know,|sd|3257
+B|Yeah.|b|3257
+A|and I'm saying let's move right on|sd|3257
+B|Yeah,|b|3257
+B|right,|b|3257
+B|right,|b|3257
+A|But our grandchildren like that Discovery Channel if they're over here, because lots of times it will have things on, uh, animals|sd|3257
+B|Uh-huh.|b|3257
+B|Uh-huh.|b|3257
+A|and they just thoroughly, you know, enjoy that|sd|3257
+B|Uh-huh.|b|3257
+A|in fact, I think they were watching something on, uh, whales, or killer sharks, one or the other couple of weeks ago over here|sd|3257
+B|Uh-huh.|b|3257
+B|Uh-huh.|b|3257
+A|and, uh, so we have watched that|sd|3257
+B|Uh-huh.|b|3257
+A|and, uh, otherwise, of course my husband's into the football|sd|3257
+B|Oh.|b|3257
+A|and, you know, I will watch that some if I'm reading or doing something else, you know with him.|sd|3257
+B|Right.|b|3257
+B|Yeah,|b|3257
+B|I'm not into watching sports.|sv|3257
+B|Now my husband likes to watch football,|sd|3257
+B|he's not really into, uh, baseball or basketball too much,|sd|3257
+B|but, uh, football, soon as it's fall, then he likes to watch college on Saturday, and then of course Cowboys on Sunday.|sd|3257
+A|Yes.|b|3257
+A|Yes,|b|3257
+A|and sometimes now we're getting that, uh, the other football where they play it inside,|sd|3257
+A|and you know, this is a, you know, this is too much|sv|3257
+A|Saturdays and Sunday, this is fine,|sv|3257
+A|but do we have to carry this on into the summer and the spring you know, all of that,|qh|3257
+B|Yeah.|b|3257
+A|and, uh, but he will, uh, he'll flip around,|sd|3257
+A|I think the other night we had on, uh, uh, it was a, it was car races, some kind of car races where they were bumping over hills and flying into the air and coming down.|sd|3257
+A|I don't know what channel he found that on|sd|3257
+B|Um.|%|3257
+A|and, uh, but he will turn that on, especially for, if, again, if our, uh, oldest grandson is over here.|sd|3257
+A|He's ten|sd|3257
+B|Uh-huh.|b|3257
+A|and, uh, they'll find something like that and just absolutely sit glued to it, I, you know,|sd|3257
+A|I keep telling them it's the same mentality you know,|sd|3257
+A|and something's wrong,|sd|3257
+A|and, uh, but, uh, and we very seldom watch television on a Friday night or Saturday night, because we're not home|sd|3257
+B|Oh.|b|3257
+A|and, uh, so, and Sundays, uh, we usually have, all of our kids are over on Sunday,|sd|3257
+A|so, you know, we don't get into that, except that sometimes we'll get into their home videos|sd|3257
+B|Um.|%|3257
+A|do you ever watch that?|qy|3257
+B|Yeah,|ny|3257
+B|the,|%|3257
+B|you mean talking about the funny home videos and stuff|qy^d|3257
+A|Yeah,|ny|3257
+A|uh-huh|ny|3257
+B|yeah,|ny|3257
+B|those are pretty good but true to life,|sv|3257
+A|that are sometimes so dumb|^2|3257
+B|I mean, some of the,|sv|3257
+A|But very true to life,|sv|3257
+A|I mean, I've seen our family in several of those situations|sd|3257

@@ -1,0 +1,303 @@
+A|Okay,|fo_o_fw_"_by_bc|2870|0
+A|do you vote regular?|qy|2870|0
+B|Yeah,|ny|2870|1
+A|Every one.|b^m|2870|0
+B|But, uh, that's just since, in the past say about six years.|sd|2870|1
+B|Before that I really didn't pay any attention at all.|sd|2870|1
+A|Well see, that's me.|sd|2870|0
+A|I've never paid any attention to voting.|sd|2870|0
+B|Oh, you haven't?|bh|2870|1
+A|Huh-uh.|nn|2870|0
+B|Yeah.|b|2870|1
+B|I didn't use to,|sd|2870|1
+B|but now I really,|%|2870|1
+B|because I get so angry about what goes on|sd|2870|1
+B|and then I feel like I can't really complain too much, unless|sv|2870|1
+A|Unless you have something to do with it.|^2|2870|0
+B|Yeah.|aa|2870|1
+A|Right.|aa|2870|0
+B|But the problem is, that I am very liberal politically|sd|2870|1
+B|and so I hardly ever have anybody that wins that I vote for|sd|2870|1
+A|Oh, liberal,|b^m|2870|0
+A|by, what do you mean by liberal, um.|qw|2870|0
+B|Liberal politically,|sd|2870|1
+B|I'm, you know, like pretty left wing Democrat,|sd|2870|1
+B|so.|%|2870|1
+A|Well see, I don't know anything about politics.|sd|2870|0
+B|Oh, you don't?|bh|2870|1
+A|Uh, what's the main, what's the main difference between Republicans and Democrats?|qw|2870|0
+B|Okay,|bk|2870|1
+B|well, there's a lot of them, um,|sd|2870|1
+B|it depends on what issue you're talking about.|sd|2870|1
+B|But Democrats are, on a lot of issues are more liberal than Republicans,|sd|2870|1
+B|and well it used to be, it's kind of hard to say now, especially after Desert Storm,|sd|2870|1
+B|but, um, I think back in the times when, uh, my political opinions were being formed like in during the Vietnam war and stuff, the Republicans were more, you know, what they called Hawks, which is more like aggressive in war and more pro war, and pro aggression|sd|2870|1
+A|Uh-huh.|b|2870|0
+A|Uh-huh.|b|2870|0
+B|and, um, the Democrats were the Doves,|sd|2870|1
+B|they were more for peace.|sd|2870|1
+B|And I'm not sure how much that holds true anymore,|h|2870|1
+B|I think, you know, the issues are,|%|2870|1
+A|Okay,|bk|2870|0
+A|and you vote for the Democrats|qy^d|2870|0
+A|or,|%|2870|0
+B|Yeah,|ny|2870|1
+A|Usually.|qy^d|2870|0
+B|yeah|ny|2870|1
+B|and Democrats usually are more supportive of public assistance programs,|sd|2870|1
+A|Uh-huh.|b|2870|0
+B|and, and programs to, um,|%|2870|1
+B|the big Republican thing is that they don't, they vote for less government,|sd|2870|1
+B|they want less government involvement, in society|sd|2870|1
+A|Uh-huh.|b|2870|0
+B|and so they're more, less apt to vote in, you know, more aid to people,|sd|2870|1
+B|or more, uh, they're less apt to vote in programs that involve the government running things.|sd|2870|1
+A|Huh, okay.|bk|2870|0
+B|So,|%|2870|1
+B|so have you ever voted at all?|qy|2870|1
+A|No,|nn|2870|0
+A|I never have.|sd|2870|0
+B|You haven't?|qy|2870|1
+A|Huh-uh.|nn|2870|0
+B|How old are you?|qw|2870|1
+A|I'm twenty-six.|sd|2870|0
+B|Oh, gosh.|ba|2870|1
+A|I know, I I,|sd|2870|0
+B|Well.|%|2870|1
+A|well, I don't know that much about it.|sd|2870|0
+B|Uh-huh,|b|2870|1
+B|uh-huh.|b|2870|1
+A|I don't keep up on it|sd|2870|0
+A|and I don't feel like I have enough knowledge on it to even, you know, to pick the right person.|sd|2870|0
+B|Yeah.|b|2870|1
+B|Yeah, Uh-huh.|b|2870|1
+A|So that's what they need, well, it, uh, they said something to improve voting.|sv|2870|0
+B|Uh-huh.|b|2870|1
+A|If they could make it more, oh, easier to find out, you know, what's going on.|sv|2870|0
+A|Do you know what I mean?|qy|2870|0
+B|Yeah,|ny|2870|1
+B|yeah.|ny|2870|1
+A|Like, uh, like to me, I don't, I didn't know what would have been wrong with,|sd|2870|0
+A|I can't even remember who ran for president against Bush.|sd|2870|0
+A|I think it was, uh, that woman,|sd|2870|0
+A|wasn't it a woman.|qy|2870|0
+B|No,|nn|2870|1
+B|it was Dukakis, from Massachusetts.|sd|2870|1
+A|Dukakis.|b^m|2870|0
+A|Okay,|bk|2870|0
+A|didn't he have a woman,|qy|2870|0
+A|or wasn't, or was that Reagan.|qrr|2870|0
+A|There was a woman that was running for vice president for a while.|sd|2870|0
+B|Oh yeah,|aa|2870|1
+B|that was,|%|2870|1
+A|Ferraro.|sd|2870|0
+B|yeah|aa|2870|1
+B|Ferraro.|b^m|2870|1
+B|That was a while ago,|sd|2870|1
+B|that was a couple elections ago,|sd|2870|1
+B|yeah.|%|2870|1
+A|Okay|bk|2870|0
+B|Yeah,|b|2870|1
+B|that's okay.|ba|2870|1
+A|Well, that's what I mean,|sd|2870|0
+A|like I didn't know what the difference between Dukakis and Bush was.|sd|2870|0
+B|Uh-huh.|b|2870|1
+A|You know, I didn't know anything about Bush or Dukakis.|sd|2870|0
+B|So what do you think about, uh, what do you think about what you see on T V about them, like in the news or on the ads,|qw|2870|1
+B|do you kind of just,|%|2870|1
+A|Okay,|b|2870|0
+A|I don't remember anything about Dukakis,|sd|2870|0
+B|You don't?|qy|2870|1
+A|but, well they're all saying that they're going to do, you know, whatever is best for their campaign anyway.|sd|2870|0
+B|Uh-huh,|b|2870|1
+B|uh-huh.|b|2870|1
+A|That's what I mean,|sd|2870|0
+A|if they had some kind of public programs where you can just go out and,|sv|2870|0
+B|Uh-huh.|b|2870|1
+A|I don't know,|h|2870|0
+A|like you know, in school they didn't teach you about uh, the government, not really.|sd|2870|0
+B|Right.|b|2870|1
+B|You didn't get any government classes?|qy|2870|1
+A|Huh-uh.|nn|2870|0
+B|Yeah,|b|2870|1
+B|it's really hard too,|sv|2870|1
+B|because before they used to have, um, a lot of,|%|2870|1
+B|it seems like the stuff that they put out now, it, I mean, I, doesn't just seem like it,|sv|2870|1
+B|I know for a fact that the, any kind of stuff that if you, wrote and asked for material,|sd|2870|1
+B|well what do you believe in,|qh|2870|1
+B|what do you believe in,|qh|2870|1
+B|they don't take any stands on anything.|sv|2870|1
+B|They kind of say, well what do you want me to believe.|sv|2870|1
+A|Yeah.|b|2870|0
+B|Or they word it so that it's really hard to tell where they're standing on certain issues.|sv|2870|1
+A|Well I'm not sure they're,|%|2870|0
+A|yeah.|b|2870|0
+A|I know how they do it.|sd|2870|0
+B|Uh-huh.|b|2870|1
+A|It,|%|2870|0
+A|like with the abortion issues and stuff.|sd|2870|0
+B|Uh-huh.|b|2870|1
+B|Yeah|b|2870|1
+B|they have to kind of take a stand on some things, like abortion and things like that,|sv|2870|1
+B|so that's kind of, how I judge.|sd|2870|1
+B|There's a few things where they have to say yes or no, like abortion or gun control,|sd|2870|1
+B|or let me see,|^h|2870|1
+B|I try to look at what, if some of the newspaper articles, or the,|sd|2870|1
+B|I don't trust T V as much,|sd|2870|1
+B|but newspaper articles can show how they voted in the past|sd|2870|1
+B|and, but you get, you know,|%|2870|1
+A|Right.|b|2870|0
+B|it all depends again on who's writing it and who they're for, because they can slant that too.|sv|2870|1
+A|Right,|b|2870|0
+A|and like I said most of the the politicians, I'm ,|%|2870|0
+A|also the politicians put out what makes them look good anyway.|sv|2870|0
+B|Uh-huh,|b|2870|1
+B|yeah,|b|2870|1
+B|yeah.|b|2870|1
+A|And everybody's got, you know, stuff they don't want known.|sv|2870|0
+B|Right,|aa|2870|1
+B|everybody's got a secret|sv|2870|1
+B|So,|%|2870|1
+A|Well anyway, I'm sorry|fa|2870|0
+A|I didn't, I didn't have much knowledge.|sd|2870|0
+B|Well that's okay.|bd|2870|1
+B|Do you think, do you think, um,|%|2870|1
+A|I don't even remember this being on there.|sd|2870|0
+B|I mean, what would it take,|%|2870|1
+B|like, God, this is really good actually, for to talk to somebody who hasn't voted,|sv|2870|1
+B|I mean, what kind of,|%|2870|1
+A|Incentive?|^2|2870|0
+B|how would it, how, what kind of stuff would they, would you like them to do so that, that you would know more about it.|qw|2870|1
+B|Like send stuff in the mail or have it at the library|qy|2870|1
+B|or,|%|2870|1
+A|I guess that would be good,|aap_am|2870|0
+A|now I'm sure they've got it at the library, you know.|sd|2870|0
+B|Uh-huh.|b|2870|1
+B|Uh-huh.|b|2870|1
+A|I mean if I get to the library.|sd|2870|0
+A|I've got two babies, so, I don't,|sd|2870|0
+A|yeah,|%|2870|0
+B|Oh do you?|qy|2870|1
+B|Yeah,|b|2870|1
+B|that will tie you down a little bit.|sv|2870|1
+A|But I, I don't know.|h|2870|0
+B|Or do you just not, do you feel like it's not really going to make that much difference if you don't vote|qy|2870|1
+B|or,|%|2870|1
+A|Oh, I know if enough people think like that it, you know, would make a difference, if people stopped thinking like that.|sd|2870|0
+B|Yeah.|b|2870|1
+B|Yeah.|b|2870|1
+A|Um, well a lot of people, they'll vote the way their family votes, you know, Then like your kids or whatever will follow you and just vote Democrat,|sd|2870|0
+B|Uh-huh.|b|2870|1
+B|Uh-huh,|ny|2870|1
+B|yeah.|ny|2870|1
+A|right.|aa|2870|0
+B|Uh-huh,|b|2870|1
+A|I mean,|%|2870|0
+B|Well, not in my family|sd|2870|1
+A|No.|aa|2870|0
+B|We're kind of, we're really independent.|sd|2870|1
+A|All split.|bf|2870|0
+B|But a lot of families do that.|sd|2870|1
+B|I know a lot of wives feel like they have to vote the way that their husbands vote.|sd|2870|1
+A|Right.|b|2870|0
+B|And that kind of keeps from getting a lot of issues resolved|sv|2870|1
+B|Golly.|ba|2870|1
+A|I lie. Huh.|sd|2870|0
+B|But well,|%|2870|1
+A|I don't know,|h|2870|0
+A|if I did understand politics I probably would vote more,|sd|2870|0
+B|Uh-huh.|b|2870|1
+A|But like I said if I voted for Bush,|%|2870|0
+A|or like when, uh, Gary Hart was running, a lot of women would have voted for him just because he was nicer looking,|sd|2870|0
+B|Hart?|^2|2870|1
+B|Uh-huh.|b|2870|1
+A|not that I think he was good looking,|sd|2870|0
+A|but, he was young.|sd|2870|0
+B|Yeah.|b|2870|1
+B|Yeah.|b|2870|1
+A|And then, I didn't think that was right, because he may have been a good president, or whatever.|sv|2870|0
+B|Uh-huh.|b|2870|1
+A|But because it,|%|2870|0
+A|what,|%|2870|0
+A|he had an affair,|sd|2870|0
+B|Yeah,|b|2870|1
+B|yeah.|b|2870|1
+A|and it just threw him out of the whole running.|sd|2870|0
+B|Yeah.|b|2870|1
+A|And a lot of people go by their, uh, personal life when they vote|sd|2870|0
+A|and,|%|2870|0
+B|Uh-huh,|b|2870|1
+B|yeah.|b|2870|1
+A|Which I guess if you got turmoil in your personal life, you're going to let it come into work|sv|2870|0
+A|but, I'm sure there's a lot of people that have had,|%|2870|0
+B|Uh-huh.|b|2870|1
+B|I think everybody does,|sv|2870|1
+B|it just depends on how well you can hide it.|sv|2870|1
+A|Yeah.|b|2870|0
+B|You know, and I,|%|2870|1
+B|that's very true,|aa|2870|1
+B|I, I think that doesn't really have that much to do with, um, unless they've done something really horrible, you know, or something real abnormal.|sv|2870|1
+A|Well,|arp_nd|2870|0
+A|Well, criminal or something like that's different,|sv|2870|0
+B|Yeah,|aa|2870|1
+B|right,|aa|2870|1
+A|but, if him and his wife weren't getting along,|sv|2870|0
+B|but otherwise.|%|2870|1
+B|Uh-huh.|b|2870|1
+A|I mean, what is, what effect does that have on him running for president.|qh|2870|0
+A|Do you know what I mean?|qy|2870|0
+B|Yeah,|ny|2870|1
+B|yeah.|ny|2870|1
+A|It's all so secretive,|sv|2870|0
+A|see we really don't see the, the true person anyway.|sv|2870|0
+B|That's right.|aa|2870|1
+B|I think that's, that's having a big effect on how poorly that the country is being run, is that, um, the, the election, the people that want to get elected are turning it into a popularity contest by advertising the things that, you know, that really don't have anything to do with how well they do the job.|sv|2870|1
+A|Right.|b|2870|0
+B|But see they're trying to find an excuse not to deal with what, you know, the issues that people really want to know about, because on those issues you have to say yes or no.|sv|2870|1
+B|And if they don't say yes or no, then maybe somebody will vote for them that wouldn't have if they had come down on the wrong side.|sv|2870|1
+B|Do you know what I'm saying?|qy|2870|1
+A|Right.|b|2870|0
+B|So they just try and make it a personal thing,|sv|2870|1
+B|I mean, if you remember any of the T V commercials from the last presidential campaign, in they all had, uh, pictures of Bush with his grandchildren, walking around with his grandchildren|sd|2870|1
+B|and even from Reagan, it was all just like, looks like a McDonald's commercial, you know.|sd|2870|1
+A|Uh-huh|b|2870|0
+B|That's about what it looked like.|sd|2870|1
+A|Well what did you think of Reagan as a president?|qw|2870|0
+B|I just thought he was really inept.|sv|2870|1
+B|I don't think he did anything at all.|sv|2870|1
+B|He, they just kind of sat him up there like a puppet|sv|2870|1
+B|and the people that were,|%|2870|1
+A|Do you think he won from Carter because of the, um, the hostages that were held at that time?|qy|2870|0
+B|Well I think that was part of it,|no|2870|1
+B|I think there's a lot of the economic problems that the country was having at the time and the, the recession and stuff,|sv|2870|1
+A|Uh-huh.|b|2870|0
+B|people just had a picture of Carter as not being real capable,|sv|2870|1
+B|but he, actually,|%|2870|1
+B|all right,|%|2870|1
+B|this|%|2870|1
+B|I thought he was great.|sd|2870|1
+A|I thought Carter was good too,|sd|2870|0
+A|and that was,|%|2870|0
+A|yeah,|%|2870|0
+B|Did you?|qy|2870|1
+B|I always liked him,|sd|2870|1
+B|I thought he was great at the time|sd|2870|1
+B|and I, I just couldn't get over the fact that Reagan beat him.|sd|2870|1
+B|I, you know, that I just couldn't believe that he got voted out.|sd|2870|1
+A|But, I think I wasn't,|%|2870|0
+A|well let's see,|^h|2870|0
+A|that's been about ten years ago, right?|qy|2870|0
+B|Uh-huh,|ny|2870|1
+B|yeah.|ny|2870|1
+A|Okay,|^h|2870|0
+A|so I was only fifteen or sixteen,|sd|2870|0
+A|but I remember Carter|sd|2870|0
+A|and I liked him.|sd|2870|0
+B|You did?|qy|2870|1
+B|Have you heard stuff about him lately,|qy|2870|1
+B|do you know what he's doing?|qy|2870|1
+A|No,|nn|2870|0
+A|I sure don't.|sd|2870|0
+B|Well he is just, he is really active still politically.|sd|2870|1
+B|He's been overseas.|sd|2870|1
+B|You remember when he was in office he did a lot of stuff for the Middle East, for|qy^d|2870|1

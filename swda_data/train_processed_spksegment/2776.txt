@@ -1,0 +1,176 @@
+B|Okay.|fo_o_fw_"_by_bc|2776|0
+A|Great.|ba|2776|1
+A|Um, currently, I'm not doing a whole lot of exercise in any type of program.|sd|2776|1
+B|Huh-uh.|b|2776|0
+A|I'm mainly do a lot of walking.|sd|2776|1
+A|I have a son that's a little bit overweight|sd|2776|1
+A|and, um, the best thing we found to do with him is to walk around.|sd|2776|1
+A|So my wife and I kind of take turns.|sd|2776|1
+A|At one time I had a fairly regular exercise program.|sd|2776|1
+A|But, in the last couple of months I've changed to a new residence and everything has gotten kind of turned a little upside down.|sd|2776|1
+A|All this space that normally would be dedicated towards the, exercise area, is covered in boxes.|sd|2776|1
+B|Yeah.|b|2776|0
+B|Um, what did you do when you did exercise regularly?|qw|2776|0
+A|Well, I had, uh, a little routine that I did for warm ups.|sd|2776|1
+B|Huh-uh.|b|2776|0
+A|And then I did some very mild, say, light weight lifting.|sd|2776|1
+A|Nothing,|sd|2776|1
+A|I'm not trying to make big bulging muscles, just trying to try and stay as firm as I can stay in my old age|sd|2776|1
+B|Huh-uh.|b|2776|0
+B|Yeah|b|2776|0
+B|Um, right now, um, I try when it's nice out,|sd|2776|0
+B|it's been raining a lot this spring,|sd|2776|0
+B|but I try to, uh,|sd|2776|0
+B|I have a bicycle|sd|2776|0
+B|and I like to cycle a lot.|sd|2776|0
+B|And, uh, my husband and I, we have entered a few rallies, that's pretty popular in Texas,|sd|2776|0
+B|I don't know, if it's up north,|sd|2776|0
+A|Huh-uh.|b|2776|1
+B|but every weekend a small town will sponsor a rally|sd|2776|0
+B|and thousands of people come with their bikes and ride over hilly terrain for thirty or forty miles, which that's a lot of fun.|sd|2776|0
+A|Huh-uh.|b|2776|1
+B|Um, so we try to ride during the week to try and stay in shape for that.|sd|2776|0
+B|And, um, T I, where I work has, uh, a fitness center|sd|2776|0
+B|so a lot of time after work or maybe on the weekends, we'd go over there and lift weights and do the tread mill,|sd|2776|0
+B|and, um, they have stair masters and all kinds of new machine, that are fun to ride and workout on.|sd|2776|0
+B|So I try to,|sd|2776|0
+B|I'm trying to stay in shape on a regular basis.|sd|2776|0
+B|I used to, uh, get into it and get out of it based on my schedule,|sd|2776|0
+B|so I'm trying to stay in shape on a regular basis now,|sd|2776|0
+B|but it's a big commitment.|sv|2776|0
+B|We don't have any kids yet|sd|2776|0
+B|so, that's a lot of, part of it.|sd|2776|0
+A|Yeah.|b|2776|1
+A|That's a plus.|sv|2776|1
+A|Oh, I have a total of five children.|sd|2776|1
+A|I have three left living at home.|sd|2776|1
+B|Huh-uh.|b|2776|0
+A|And they do take up a big part of my, uh, my evening and weekend.|sd|2776|1
+B|Yeah.|b|2776|0
+A|And it's tough being a parent and doing all the things that you should do for yourself, too.|sv|2776|1
+B|Yeah.|b|2776|0
+A|It's something they don't tell you about when you're growing up.|sv|2776|1
+A|Yes,|aa|2776|1
+A|when you become a parent most of your life is going to be dedicated to your children.|sv|2776|1
+B|Huh-uh|b|2776|0
+B|That's why, they, uh, really stress, at T I, they really stress, staying in shape, like stay in fit, overall fitness, you know, no smoking and all that.|sd|2776|0
+B|But it's hard to find, uh, an actual exercise regimen that work, for you, you know, because like I know a lot of people that cycle, they take their kids behind them on the bikes|sd|2776|0
+B|and I don't know if that would work for me because I don't know I wouldn't want to pull a kid over hilly terrain.|sd|2776|0
+B|But it's really hard to find something that works, and, you know, to find time to do it and stay committed to it like three days a week or whatever.|sv|2776|0
+B|I think maybe walking or running would probably work because it doesn't take much time and much money or whatever.|sv|2776|0
+A|Yeah.|b|2776|1
+B|Yeah.|b|2776|0
+A|You have to,|sv|2776|1
+A|what I found from my experience is you have to budget time for yourself.|sv|2776|1
+B|Huh-uh.|b|2776|0
+A|And you can use what ever rationale you want,|sv|2776|1
+A|but basically, the healthier you stay, the longer you'll live.|sv|2776|1
+B|Right.|aa|2776|0
+A|And, uh, you know, if I spend a little bit of time each day or a little bit of time every other day doing something for me to make me live longer, well, then I'll around a lot longer,|sv|2776|1
+A|And those people that I'm taking the ten minutes or twenty minutes away from now, well, you know, get the enjoyment of me, years past where I would have been if I wouldn't have taken it.|sv|2776|1
+B|Huh-uh.|b|2776|0
+A|If you kind of think of it as a rationale like that, it works out fine.|sv|2776|1
+B|Yeah.|b|2776|0
+B|Um, I've been learning a lot lately about, um,|sd|2776|0
+B|I've been reading a book by Kenneth Cooper,|sd|2776|0
+B|I don't know if you're familiar with him|qy^d|2776|0
+A|Huh-uh.|b|2776|1
+B|he was the pioneer of aerobics and all of health really.|sd|2776|0
+B|He's, he's, kind of, he's pretty much the innovator of the whole exercise thing.|sd|2776|0
+B|Um, he was talking about the three things you could, that cause aging smoking are inactivity, * mistranscribed? listen|sd|2776|0
+B|and what was the other one, I think was, yeah, obesity.|sd|2776|0
+B|If you can control those three areas, then are you going to live longer, you know, cause those are risk factors,|sd|2776|0
+B|so anyway, it's kind of a tip.|sd|2776|0
+A|Yeah.|b|2776|1
+A|Oh, I've done a lot of study over the years|sd|2776|1
+A|and I found that probably one of the worst things that anybody can ingest is chlorinated water.|sd|2776|1
+B|Really|b|2776|0
+A|Yeah.|b|2776|1
+A|Um, the research that I've done|sd|2776|1
+A|and I've actually been in the drinking watering business since eighty-three.|sd|2776|1
+B|Huh-uh.|b|2776|0
+A|And, it's amazing, that, uh, you know, prior to like nineteen-twenty there were very few heart attacks.|sd|2776|1
+B|Huh-uh.|b|2776|0
+A|There were none prior to nineteen-hundred.|sd|2776|1
+A|Well, in nineteen-three they started experimenting with chlorinating the water. In nineteen-thirteen most of the major cities,|sd|2776|1
+A|and after that we, we started having the hearts attacks|sd|2776|1
+A|and, uh, Dr. Price wrote a book CORONARY, CHOLESTEROL, AND CHLORINE.|sd|2776|1
+A|You can usually find it in a health food store.|sd|2776|1
+B|Huh-uh.|b|2776|0
+A|I know they had it in health food stores in Plano,|sd|2776|1
+A|I used live in Plano.|sd|2776|1
+B|Dr. Price?|br|2776|0
+A|Uh, Dr. Price,|sd|2776|1
+A|yeah.|%|2776|1
+A|And it's amazing,|sd|2776|1
+A|he makes the,|sd|2776|1
+A|you know, it's a very small book|sd|2776|1
+A|and the guys very opinionated,|sd|2776|1
+A|um, but he makes a very good case against chlorine.|sd|2776|1
+A|There were no heart attacks before we started using it|sd|2776|1
+A|and he points out that people in, uh, England|sd|2776|1
+A|and, uh, or even diets that quadrupled the amount of cholesterol that we're ingesting now,|sd|2776|1
+A|and they weren't dropping dead of heart attacks.|sd|2776|1
+A|Yeah.|b|2776|1
+A|He did some experiments on chickens whose arteries are very similar to ours. And, uh, proved that ingestion of chlorine causes arteriosclerosis, which is the, clogging of the arteries.|sd|2776|1
+B|Huh-uh.|b|2776|0
+B|Yeah.|b|2776|0
+A|And, uh, you know, he's,|%|2776|1
+A|there's been a lot of reports since then.|sd|2776|1
+A|This whole thing about,|sd|2776|1
+A|first it was stress, then it went to cholesterol,|sd|2776|1
+A|and now they're saying what's cholesterol,|sd|2776|1
+A|well there's good cholesterol and there's bad cholesterol.|sd|2776|1
+B|Huh-uh.|b|2776|0
+A|You know, it's amazing what he points out in that book|sd|2776|1
+A|and, in fact, he, everyone there was a toxicologist for the Environmental Protection Agency, who did work back in nineteen eighty-six, who wrote a letter to Dr. Price in nineteen eighty-seven. And in this letter he praised Dr. Price for the work he did back in the sixties on this and said that E P A had been doing experiments on nonhuman primates and proving that ingestion of chlorine causes arteriosclerosis.|sd|2776|1
+A|And, E P A never published that report.|sd|2776|1
+B|And what's the name of this book again?|qw|2776|0
+A|CORONARY, CHOLESTEROL AND CHLORINE.|sd|2776|1
+B|I'll have to remember that.|sd|2776|0
+A|Yeah.|b|2776|1
+B|That will be very interesting.|sd|2776|0
+B|My husband wants to go into medical school and be a neurosurgeon|sd|2776|0
+B|so, he's really interested in the heart.|sd|2776|0
+A|Yeah.|b|2776|1
+B|And he's, in fact, he's a, well, heart, too,|sd|2776|0
+B|he's, uh, he's done a lot of research on like how your heart reacts to exercise|sd|2776|0
+B|Sorry,|fa|2776|0
+B|he made me laugh.|sd|2776|0
+B|Um, so anyway,|%|2776|0
+A|Yeah.|b|2776|1
+A|There is, there is a lot of good information out there, uh, about health.|sd|2776|1
+A|And a lot of the, a lot of the myths they've been passing around, people are starting to realize aren't true.|sv|2776|1
+B|Yeah.|b|2776|0
+A|I mean, I'm all for having a diet high in fiber and all that, because that's, that's good for you,|sd|2776|1
+B|Huh-uh.|b|2776|0
+A|uh, but to believe some of the things,|sd|2776|1
+A|you know, and I don't think anybody should be going out there and eating a high fat diet,|sd|2776|1
+A|but to think that solely, alone is going to cause something like arteriosclerosis is, is just hard to believe.|sv|2776|1
+B|If you get a chance read Dr. Cooper's book on controlling cholesterol.|sd|2776|0
+A|Huh-uh.|b|2776|1
+B|That's a real good,|sv|2776|0
+B|um, he talks about that.|sd|2776|0
+B|Talks about high risk factors and heart disease and all that.|sd|2776|0
+A|Yeah.|b|2776|1
+A|I actually eat pretty much anything that I want.|sd|2776|1
+B|Huh-uh.|b|2776|0
+A|And I've had my cholesterol checked and, uh, a few times|sd|2776|1
+A|and I've never been above, like, you know, one-hundred and fifty, never.|sd|2776|1
+B|Huh-uh.|b|2776|0
+A|And, uh, uh, I mean, I,|%|2776|1
+B|You have a good ratio of good to bad. Cholesterol.|sv|2776|0
+A|but, I mean, you know, everything is like within five to ten percent and all that kind of thing|sv|2776|1
+A|You know, they leave themselves wide open so they can't be sued.|sv|2776|1
+B|Yeah.|b|2776|0
+A|But, uh, we've,|%|2776|1
+A|I work at the T I site in Hunt Valley, Maryland.|sd|2776|1
+B|Oh, really.|b|2776|0
+A|Yeah|b|2776|1
+A|and we've had a few of the health fairs up here|sd|2776|1
+A|and, um, you know, I've always come out aces.|sd|2776|1
+B|That's good.|ba|2776|0
+A|You know, I'm not really that big on watching what I eat,|sd|2776|1
+A|but I do eat, you know, some health cookies that are high in fiber, low in fat and all that kind of stuff.|sd|2776|1
+B|Yeah.|b|2776|0
+A|But, I mean as far as really being concerned about ingesting too much chlorine, I'm not, cholesterol, I'm not worried about it.|sd|2776|1

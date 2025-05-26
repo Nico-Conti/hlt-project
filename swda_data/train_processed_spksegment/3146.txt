@@ -1,0 +1,231 @@
+A|Okay.|fo_o_fw_"_by_bc|3146|0
+B|Hi, Nancy.|fp|3146|1
+B|Well, do you do a lot of dining out?|qy|3146|1
+A|No, um,|nn|3146|0
+A|we don't although we enjoy it.|sd|3146|0
+A|Um, we do it more when we have company come.|sd|3146|0
+B|Uh-huh.|b|3146|1
+A|Um, what about you?|qo|3146|0
+B|Well, we do some dining out.|sd|3146|1
+B|Um, I, I do a lot of cooking|sd|3146|1
+B|so, um, mostly like when we go out, you know, it's my husband and I,|sd|3146|1
+B|I, we don't go out too often as a family, um, unless it's like a fast-food kind of thing.|sd|3146|1
+B|But, um, but we do enjoy dining out.|sd|3146|1
+B|One of our favorite places here in, in the Dallas area is Atlantic Cafe.|sd|3146|1
+B|I don't know if you, have you ever been there?|qy|3146|1
+A|I've heard of that|sd|3146|0
+A|but I haven't been there.|ng|3146|0
+A|Um, where, about is that?|qw|3146|0
+B|Um, well actually there's the Atlantic Cafe and Cafe Pacific, and, uh,|sd|3146|1
+A|Oh, okay.|bk|3146|0
+A|I, I've been to Cafe Pacific.|sd|3146|0
+B|Have you?|bh|3146|1
+B|now that's down in, uh, Highland Park.|sd|3146|1
+A|Right.|aa|3146|0
+B|It's Highland Park Village.|sd|3146|1
+B|Did you like it?|qy|3146|1
+A|Yes.|ny|3146|0
+A|Uh|%|3146|0
+B|Oh, I love it|sd|3146|1
+A|Before we moved to, the area, my brother, uh, lived in Dallas for a number of years|sd|3146|0
+A|and we came up one time when my father was visiting|sd|3146|0
+A|and we all ate there|sd|3146|0
+B|Uh-huh.|b|3146|1
+A|and, oh, their seafood was wonderful.|sd|3146|0
+B|Oh, it is, it's fabulous.|sv|3146|1
+B|It really is a great place.|sv|3146|1
+A|Now where is the Atlantic Cafe?|qw|3146|0
+B|Atlantic Cafe is down on, I believe it's on McKinney.|sd|3146|1
+A|Oh, okay.|bk|3146|0
+B|Um, and originally the two, the, the guy who owns the Cafe Pacific and the guy who owns the Atlantic Cafe, were partners in the Atlantic Cafe.|sd|3146|1
+B|And then they, they separated|sd|3146|1
+B|and the guy started Cafe Pacific.|sd|3146|1
+B|And, I loved them both.|sd|3146|1
+B|I really do.|sd|3146|1
+B|I think they're wonderful.|sd|3146|1
+B|That's our favorite.|sd|3146|1
+B|You know what we'd really like, if, if we just have a, a casual evening is Houston's.|sd|3146|1
+B|Have you been there?|qy|3146|1
+A|No, um,|nn|3146|0
+A|but I've heard that's really good, too,|sd|3146|0
+A|and,|%|3146|0
+B|It's wonderful.|sd|3146|1
+B|The only thing is you have to wait.|sd|3146|1
+B|You have, you have to expect to wait at least an hour.|sd|3146|1
+A|Oh.|b|3146|0
+B|So you have to go knowing you're going to be sitting there there for an hour waiting to get in.|sd|3146|1
+B|And, as long as you know that it's okay.|sd|3146|1
+B|But they have, I think, one, just about the best prime rib um, anywhere in the area.|sd|3146|1
+A|Oh.|b|3146|0
+A|Oh, okay.|bk|3146|0
+B|I love it.|sd|3146|1
+A|Uh-huh.|b|3146|0
+B|And, my husband really likes their ribs.|sd|3146|1
+B|So it's hysterical.|sd|3146|1
+B|We go in|sd|3146|1
+B|and we sit there for an hour waiting to get in|sd|3146|1
+B|and then we get there|sd|3146|1
+B|and we don't even look at the menu .|sd|3146|1
+A|You know right away what you want|bf|3146|0
+B|I know right away what we, what we want.|sd|3146|1
+B|Yeah.|aa|3146|1
+B|Yeah.|aa|3146|1
+A|Well, we really enjoy prime rib, too,|sd|3146|0
+A|and, uh, actually the, the Steak And Ale out here, uh, we've gone to, uh,|sd|3146|0
+A|my in-laws also enjoy prime rib, when they've  had some of their specials on Sunday, Monday, or Tuesday night|sd|3146|0
+B|Uh-huh.|b|3146|1
+B|Uh-huh.|b|3146|1
+A|and, uh, the time we went the prime rib was really good.|sd|3146|0
+B|Was it?|bh|3146|1
+B|Really?|bh|3146|1
+B|I've I've, I've been there for like, you know, lunch|sd|3146|1
+A|Uh-huh.|b|3146|0
+B|but, I've never been there for dinner.|sd|3146|1
+B|And, it was good,|sd|3146|1
+B|yeah.|%|3146|1
+A|Yeah,|b|3146|0
+A|yeah|b|3146|0
+B|Oh, that's great.|ba|3146|1
+B|That's, great.|ba|3146|1
+B|Another nice place for, for prime rib is Baby Doe's|sd|3146|1
+A|Oh, I've heard about that, too|sd|3146|0
+B|Maxwell's nice,|sd|3146|1
+B|have you been there?|qy|3146|1
+A|but no.|nn|3146|0
+A|We've, uh, I guess we eat out even less than I realize|sd|3146|0
+B|And I didn't think we ate out very often|sd|3146|1
+B|See!|fo_o_fw_"_by_bc|3146|1
+B|Baby Doe's is nice.|sd|3146|1
+A|Oh|b|3146|0
+B|And, one place I'd never been that I would really like to go to, uh, is Lawry's.|sd|3146|1
+B|I've heard that's real good,  Lawry's Prime Rib?|sd|3146|1
+A|Yeah.|b|3146|0
+A|Yes,|aa|3146|0
+A|I'd, I had heard that, too. Um,|sd|3146|0
+B|I've, I've never been there|sd|3146|1
+B|but I've heard it's real good.|sd|3146|1
+A|Have you been to the little, uh, not for prime rib but the Cafe De France, um, right here  on Central Expressway? *slash error Oh, okay. *slash error should be bk|qy|3146|0
+B|Yes.|ny|3146|1
+B|Yes,|ny|3146|1
+B|actually they have one in Richardson that I've been to.|sd|3146|1
+B|Uh, they have real nice lunches.|sd|3146|1
+B|Have you, have you been there for lunch?|qy|3146|1
+B|Or,|%|3146|1
+A|Yes, uh|ny|3146|0
+B|Yeah.|b|3146|1
+A|primarily lunch, well, and breakfast sometimes|sd|3146|0
+A|but, uh, during the week they often have, a, a limited menu choice but, uh, very reasonable complete dinners for six ninety-nine that included  the soup or salad entrees and accompaniments and dessert|sd|3146|0
+B|Really?|bh|3146|1
+B|Really?|bh|3146|1
+A|and, uh, the,|%|3146|0
+A|my husband and I like veal, uh  a lot|sd|3146|0
+B|Uh-huh.|b|3146|1
+A|and their veal dishes have been good.|sd|3146|0
+A|We've tried different ones when they've had them as one of the|sd|3146|0
+B|The specials.|^2|3146|1
+A|Uh-huh.|aa|3146|0
+B|Have you ever been to Biffin's?|qy|3146|1
+B|I keep hearing about it.|sd|3146|1
+B|I keep hearing the advertisements of it|sd|3146|1
+A|I,|%|3146|0
+A|yes,|aa|3146|0
+A|no,|ar|3146|0
+B|and, and they keep saying, you know, oh, it's wonderful, it's wonderful.|sd|3146|1
+B|I have not been over there|sd|3146|1
+B|and I was thinking, you know, it's supposed to be a family place over near Plano Super Bowl.|sd|3146|1
+A|Right.|b|3146|0
+A|And,|%|3146|0
+B|And, uh, I've, I've not been there.|sd|3146|1
+A|I haven't either, uh,|sd|3146|0
+A|one place,|sd|3146|0
+A|and I've only been there for lunch,|sd|3146|0
+A|but, uh, I went with a friend,|sd|3146|0
+A|and we met her husband, um, down on Greenville,|sd|3146|0
+A|down near the Highway Twelve area, is Gershwin's,|sd|3146|0
+B|I've been there.|sd|3146|1
+A|Oh, I, we just|%|3146|0
+B|That was nice|sd|3146|1
+A|It was|aa|3146|0
+A|and we had the, uh, we both enjoy mushroom soup|sd|3146|0
+A|and Linda had told me they had the best mushroom soup|sd|3146|0
+A|and they did.|sd|3146|0
+A|It was wonderful|sd|3146|0
+A|but, uh, and we just had soup and salad so we could make room for the dessert  which was a chocolate sack.|sd|3146|0
+A|I don't know if you tried|qy^d|3146|0
+A|but  or|%|3146|0
+B|Oh|%|3146|1
+B|I've heard of it.|sd|3146|1
+B|Where, where it's made,|sd|3146|1
+B|it's like, it's like a,|%|3146|1
+B|it's all chocolate, like made like a paper bag|sd|3146|1
+A|Yes!  and whip cream|aa|3146|0
+B|and it's filled with what, whip cream  and, and strawberries and something?|qy^d|3146|1
+B|Yeah.|b|3146|1
+A|and it had strawberries, kiwis, and raspberries in a raspberry, uh, puree|sd|3146|0
+B|Oh.|b|3146|1
+A|and, and we shared one, the three of us|sd|3146|0
+B|Oh.|b|3146|1
+A|and it was plenty because it was very rich|sd|3146|0
+A|but, uh I wished I'd had a camera.|sd|3146|0
+B|Oh.|b|3146|1
+A|It was beautiful|sd|3146|0
+B|Oh, I bet it was.|ba|3146|1
+B|I bet it was.|ba|3146|1
+A|Uh|%|3146|0
+B|The last time we went to Cafe Pacific, it was Father's Day,|sd|3146|1
+B|and we took another friend with us|sd|3146|1
+A|Oh.|b|3146|0
+B|and, uh, for dessert we thought we had just stuffed ourselves|sd|3146|1
+B|And so we had, they had, uh, like a berry assortment.|sd|3146|1
+B|It was, it was raspberries and blueberries and, and strawberries on a plate with like a custard on the bottom.|sd|3146|1
+A|Oh.|b|3146|0
+B|And, you know, they did, like the raspberry puree, just kind of like in a, in a decoration on the,|sd|3146|1
+B|you know, how they do the plates real fancy with the decorations and then piled the berries and shaved chocolate on top of it|sd|3146|1
+A|Yes.|b|3146|0
+A|Yeah|b|3146|0
+A|Oh.|b|3146|0
+B|and it was outstanding.|sd|3146|1
+A|It sounds wonderful.|ba|3146|0
+B|It was really, really relatively simple|sd|3146|1
+B|but, oh, it was good.|sd|3146|1
+B|It was really good.|sd|3146|1
+A|Well, that's, uh, one of the things that I do enjoy when you get a good restaurant.|sd|3146|0
+A|Uh, I love fresh berries.|sd|3146|0
+A|And, their, their fruits are always exceptional.|sd|3146|0
+A|I don't, I'm, know|sd|3146|0
+A|they must have a special source for getting them because even at the Farmer's Market, uh,  you can't find them like that|sd|3146|0
+B|You can't find them.|^2|3146|1
+B|Yeah.|b|3146|1
+A|and,|%|3146|0
+B|Yeah,|b|3146|1
+B|yeah,|b|3146|1
+B|yeah.|b|3146|1
+B|You know, I'm originally from Connecticut|sd|3146|1
+B|and, uh, I was home a few years ago|sd|3146|1
+B|and my sister and brother-in-law were going to take us out for dinner|sd|3146|1
+B|and, uh, I was really amazed, you know,|sd|3146|1
+B|the, the restaurants up there were kind of quaint.|sd|3146|1
+B|You know, they were real, real pretty|sd|3146|1
+B|but they lacked, the service|sd|3146|1
+B|and they lacked the the, just the, I don't know.|sd|3146|1
+B|The restaurants down here seem like they have, uh,|sd|3146|1
+B|I guess there's so much competition that they, really have to be good.|sd|3146|1
+A|Uh-huh.|b|3146|0
+B|And, I thought I would really miss that.|sd|3146|1
+A|I would, too,|aa|3146|0
+A|because, well, because we don't go out very often.|sd|3146|0
+A|When we do go out, um, in a way it's like a little mini vacation I guess,|sd|3146|0
+A|and, uh, it is, it's a whole experience.|sd|3146|0
+A|Of course you want the food to be good|sv|3146|0
+A|but the atmosphere and service I think, are important, uh too.|sv|3146|0
+B|Uh-huh.|b|3146|1
+B|And, you know, in order to survive in this area I think they have to be good.|sv|3146|1
+A|Yeah.|b|3146|0
+B|Because the ones that aren't so good don't, just don't make it.|sd|3146|1
+A|Um, that reminded me of a place for lunch that's a little off the beaten track|sd|3146|0
+A|but it is wonderful.|sd|3146|0
+A|It's called Cafe Max|sd|3146|0
+A|and it's at Plano Road and Campbell.|sd|3146|0
+A|They have the most wonderful salads.|sd|3146|0
+A|They do what they call a salad sampler which easily could feed two or three.|sd|3146|0
+B|Oh, really?|bh|3146|1

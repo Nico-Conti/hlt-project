@@ -1,0 +1,117 @@
+A|Okay.|fo_o_fw_"_by_bc|4346|0
+B|Okay,|b^m|4346|1
+B|you go first.|ad|4346|1
+A|Well, I have, uh, two kids,|sd|4346|0
+A|I have one seven and one five|sd|4346|0
+B|Uh-huh.|b|4346|1
+A|and, uh, they're in a public school here in Tyler|sd|4346|0
+A|and, uh, I'm happy with it.|sd|4346|0
+B|Uh-huh.|b|4346|1
+A|I'm happy with the school,|sd|4346|0
+A|it's great,|sv|4346|0
+A|good teachers|sv|4346|0
+A|good curriculum, uh,|sv|4346|0
+A|they learn a lot,|sd|4346|0
+A|they have no problems, uh,|sd|4346|0
+A|but I do live in the better, well, in the best part of the city,|sd|4346|0
+A|though, I live in, you know, the real richy part, I guess.|sv|4346|0
+A|I'm not,|sd|4346|0
+A|but, everybody around me is|sd|4346|0
+A|and, uh, but they're,|%|4346|0
+A|I have friends that live in the other, the less fortunate or whatever you want to call it part of town|sd|4346|0
+A|and their schools are kind of rundown and, uh, older|sd|4346|0
+A|and they don't really offer as much, I don't know, as, uh, the school that my girls are in.|sd|4346|0
+A|I don't really think that's fair. You know.|sv|4346|0
+B|Uh-huh.|b|4346|1
+A|Uh, but, you know, I'm happy with what they're in,|sd|4346|0
+A|so, go ahead|ad|4346|0
+B|Well, yeah,|b|4346|1
+B|it, it's, it's pretty much what I was going to say|sd|4346|1
+B|is there's a lot of disparity between different neighborhoods and what sort of schools go in.|sd|4346|1
+A|Uh-huh.|b|4346|0
+B|Uh, I grew up in New York|sd|4346|1
+B|and uh, the place,|%|4346|1
+A|Wow.|ba|4346|0
+B|or not New York City, upstate New York|sd|4346|1
+A|Uh-huh.|b|4346|0
+B|and I went to, uh, the City of Rochester School District|sd|4346|1
+A|Uh-huh.|b|4346|0
+B|and a lot of my friends were in one of the neighboring suburbs|sd|4346|1
+B|and it wasn't, we weren't too far removed geographically from each other,|sd|4346|1
+B|but the difference in schools I think was pretty substantial|sv|4346|1
+A|Uh-huh.|b|4346|0
+B|and, uh, one of the things that probably would have been better if, is if the entire county had had, had just one school system.|sv|4346|1
+A|Right.|b|4346|0
+B|And that would result in some, uh, could result in more equitable distribution of money|sv|4346|1
+B|because what was happening was, you know, all the very rich people went out to the, move out to the suburbs|sv|4346|1
+B|and the city had a very low tax base so they didn't have a lot of money to work with.|sd|4346|1
+A|Uh-huh.|b|4346|0
+B|As a result, the schools were rundown,|sv|4346|1
+B|there wasn't as many, you know, of the nice supplies in science class that we would have liked.|sd|4346|1
+B|There wasn't as many advanced placement courses, uh, when I was a senior that some other schools had.|sd|4346|1
+A|Uh-huh.|b|4346|0
+B|And, uh, it, it,|%|4346|1
+B|so I, you know, I think that one of the things, one of the ways to, to, to help schools in general, uh, and get them all to a minimum level of, of, of competency almost, would be to expand the size of school districts so you get a wider variety of people,|sv|4346|1
+B|and the, the problem with that is then, then, then people will either, the rich people will either pull their kids out of the public school and put them in private schools or they'll move farther away to get better schools.|sv|4346|1
+A|Yeah.|b|4346|0
+A|Right|b|4346|0
+B|So, you know it, it's kind of, you end up chasing, like a dog chasing its own tail sort of.|sv|4346|1
+A|Also, uh, the, the family environment,|sd|4346|0
+A|you know, you can come to south Tyler where I live|sd|4346|0
+A|and you have got room mothers in every room,|sd|4346|0
+A|you've got art mothers,|sd|4346|0
+A|you've got every, every holiday,|sd|4346|0
+A|there's parties.|sd|4346|0
+A|All these kids have these really supportive, really supportive parents, always up there for something.|sd|4346|0
+B|Yeah.|b|4346|1
+A|You can go to north Tyler to the schools|sd|4346|0
+A|and the parents might not could even tell you what their kid's teacher's name is. You know,|sd|4346|0
+B|Uh-huh.|b|4346|1
+A|uh, that has a, a whole lot to do with it, you know,|sv|4346|0
+A|as far as their learning, I mean, if the parents aren't, uh, you know, willing to go with the kids and find out what they're learning and if they're learning you know, they really don't have much of a chance at all.|sv|4346|0
+B|Uh-huh.|b|4346|1
+B|Yeah.|b|4346|1
+B|Why is that?|qw|4346|1
+A|Huh?|br|4346|0
+B|Why is that?|qw|4346|1
+A|Why|%|4346|0
+A|You they just don't,|sd|4346|0
+A|I mean, I mean, I'm, I'm up there at my kids' school,|sd|4346|0
+A|I know what they're learning|sd|4346|0
+A|and if they're up, I call and find out, you know,|sd|4346|0
+A|is she having problems,|^q|4346|0
+A|does she need help with anything,|^q|4346|0
+A|no,|^q|4346|0
+A|she's doing fine,|^q|4346|0
+A|okay, you know, uh,|^q|4346|0
+A|and I, I know kids that their parents could really give a rip|sd|4346|0
+A|and the kids are not motivated.|sd|4346|0
+B|Right.|b|4346|1
+B|Right.|b|4346|1
+A|They have no motivation from home,|sv|4346|0
+A|so they just go to school|sd|4346|0
+A|and, you know, you know, I'll get through the day, and, uh, bring homework home|^q|4346|0
+A|and, there's nobody to, to sit them down and say, you're going to do this.|sv|4346|0
+B|Right.|b|4346|1
+A|Uh, just, you know, they, they take a notion to do it,|sd|4346|0
+A|they do,|sd|4346|0
+A|and, uh, that doesn't work either, you know,|sv|4346|0
+A|they have to have guidance|sv|4346|0
+A|and uh, they can't just have it at school and then come home|sv|4346|0
+B|Uh-huh.|b|4346|1
+A|and there's nothing, you know.|sv|4346|0
+B|Yeah,|aa|4346|1
+B|yeah.|aa|4346|1
+B|Yeah,|aa|4346|1
+B|I know that that, that was a big factor for me.|sd|4346|1
+B|I ended up coming out of, of the public school system very well and was very good education, uh,|sd|4346|1
+A|Uh-huh.|b|4346|0
+B|ended up getting some scholarships to go to college and which has been, you know, which is really nice,|sd|4346|1
+A|Uh-huh.|b|4346|0
+B|and I think the difference for me was that my parents were, you know, they were definitely, they were always there,|sv|4346|1
+A|Yeah.|b|4346|0
+B|was, like, well,|%|4346|1
+B|yeah,|^q|4346|1
+B|of course you're going to study and do well|^q|4346|1
+B|and that's the way,|sv|4346|1
+B|of course, are you,|%|4346|1

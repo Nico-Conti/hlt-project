@@ -1,0 +1,153 @@
+A|Okay,|fo_o_fw_"_by_bc|3158|0
+A|well, some of the things I like to do are,|sd|3158|0
+A|I like to knit.|sd|3158|0
+A|I knit sometimes,|sd|3158|0
+A|and I sew|sd|3158|0
+B|Uh-huh.|b|3158|1
+A|and, uh, I like to sew sometimes for my kids.|sd|3158|0
+A|I, I sew clothes for them every once in a while.|sd|3158|0
+B|Uh-huh.|b|3158|1
+A|And I make quilts.|sd|3158|0
+B|Oh, wow,|ba|3158|1
+B|that's the next project that I'd like to learn to do.|sd|3158|1
+B|I do mostly hand needlework like cross stitch and crewel embroidery|sd|3158|1
+B|and I'm, I'm beginning to get a little bored with cross stitch.|sd|3158|1
+B|I was thinking maybe need to learn to quilt.|sd|3158|1
+A|After a while, cross stitch, I|sd|3158|0
+A|I don't know.|h|3158|0
+A|I have to put it away|sd|3158|0
+B|It gets boring.|sv|3158|1
+A|and then I have to bring it back.|sd|3158|0
+B|Uh-huh.|b|3158|1
+A|You know. And, and, uh, I don't know why that is.|sd|3158|0
+A|I don't know if it's looking at the little things every time.|sd|3158|0
+B|Well, it reaches a point where it doesn't seem to be very challenging, I think.|sv|3158|1
+A|Yeah,|aa|3158|0
+A|that might be it.|aa|3158|0
+B|But I do a lot of it in the car.|sd|3158|1
+A|That might|aa|3158|0
+A|and yet, there's,|%|3158|0
+B|We,|%|3158|1
+A|Oh, do you?|bh|3158|0
+B|Yeah,|ny|3158|1
+B|we commute from Plano to Dallas|sd|3158|1
+A|Oh.|b|3158|0
+B|so I have nearly an hour both ways that I can really get a lot of work done|sd|3158|1
+B|and I found that cross stitch is the easiest to do in the car.|sd|3158|1
+A|Oh, I bet.|ba|3158|0
+A|Yeah.|b|3158|0
+B|I don't know that I could even think about quilting.|sd|3158|1
+B|You have to have a pretty good frame, don't you, to do any kind of quilting work?|qy|3158|1
+A|Yeah.|ny|3158|0
+A|Yeah.|ny|3158|0
+A|Uh, I've not really done any, too much challenging, uh, stuff.|sd|3158|0
+A|I, I can do it with a, a needle and thread you know, but, uh, and get about five small stitches in, which is pretty good,|sd|3158|0
+B|Uh-huh.|b|3158|1
+A|but it's very long.|sd|3158|0
+B|Uh-huh.|b|3158|1
+A|It's very tedious if you don't have a whole group, you're not finishing a quilt in a long time|sd|3158|0
+B|Oh, I bet.|ba|3158|1
+A|So, uh,|%|3158|0
+B|But, it's such a lost art.|sv|3158|1
+A|So, uh, I like to just mostly do the tie quilts.|sd|3158|0
+B|Uh-huh.|b|3158|1
+A|That's so much easier.|sd|3158|0
+B|Yes.|aa|3158|1
+A|But, uh, the other ones are very pretty.|sd|3158|0
+A|They're, uh,|%|3158|0
+A|we have a quilt on our bed that's,|sd|3158|0
+A|instead of, like, yarn they tied, uh, ribbon into it.|sd|3158|0
+B|Uh-huh.|b|3158|1
+B|Oh.|b|3158|1
+A|And it's real pretty.|sd|3158|0
+B|I bet.|ba|3158|1
+A|It's real pretty.|sd|3158|0
+B|There's so many things I wish I had learned to do with my mother.|sd|3158|1
+B|She had crocheted a full bedspread.|sd|3158|1
+B|It's kind of a hobnail looking thing.|sd|3158|1
+A|Oh, wow.|ba|3158|0
+B|And when I look at it now, she's been dead for a long time I think oh, why didn't I learn these crafts and skills from her because she could crochet and do so many of the old things that aren't in vogue right now that people just don't know how to do.|qh|3158|1
+A|Uh-huh.|b|3158|0
+A|Uh-huh.|b|3158|0
+A|Now did you say you could knit?|qy|3158|0
+B|No.|nn|3158|1
+A|Oh.|b|3158|0
+B|Uh-huh.|b|3158|1
+B|Haven't tried that either.|sd|3158|1
+A|Well, I was going to say because, Because if you could knit, you could crochet.|sv|3158|0
+B|I want to learn to crochet.|sd|3158|1
+B|I,|%|3158|1
+B|Really?|bh|3158|1
+A|It's just like doing one handed as long as you learn how to, to weave the, the yarn in between your fingers on your left hand.|sv|3158|0
+B|Uh-huh.|b|3158|1
+A|And then you just use your right hand with the hook.|sv|3158|0
+B|Uh-huh.|b|3158|1
+A|And that's not,|%|3158|0
+A|it's really not too difficult.|sd|3158|0
+A|You could learn that, I'm sure and pick that up.|sv|3158|0
+B|Yeah.|b|3158|1
+B|Yeah.|b|3158|1
+A|If you, I think if you can do any handicraft, you can learn to crochet.|sv|3158|0
+B|Uh-huh.|b|3158|1
+A|It's not too difficult.|sd|3158|0
+B|It's funny, when you were talking about sewing, I love to do anything by hand with a needle.|sd|3158|1
+A|Yeah|b|3158|0
+B|But I'm totally intimidated if I sit down at a sewing machine.|sd|3158|1
+B|I never learned,|sd|3158|1
+B|and I get real nervous whereas usually the other needlework stuff is relaxing to me.|sd|3158|1
+A|Isn't that interesting.|qh|3158|0
+B|But I just have a phobia about not being able to actually sew.|sd|3158|1
+A|I think that's really interesting.|sv|3158|0
+B|Uh-huh.|b|3158|1
+A|Huh.|b|3158|0
+A|And yet, you know, I think about, you know,|sd|3158|0
+A|you said you do a lot of needlework|sd|3158|0
+A|and, and there are some beautiful, just gorgeous patterns that people do.|sd|3158|0
+B|Uh-huh.|b|3158|1
+A|And I, I just think that, uh, that's one of, one of the arts that I think are really pretty.|sd|3158|0
+A|And a lot of people don't do that either.|sv|3158|0
+B|Uh-huh.|b|3158|1
+A|You know, and so,|%|3158|0
+B|Well, it's hard to find the time.|sd|3158|1
+B|I, I wouldn't if I didn't have this car time ability probably because at night if I sit down, I'm doing something with the kids or just not sitting down at all|sv|3158|1
+A|Yeah.|b|3158|0
+A|Yeah.|b|3158|0
+A|That's true.|aa|3158|0
+A|You know, and, and I always think, well, I can do this and watch T V or something you know.|sd|3158|0
+B|Uh-huh.|b|3158|1
+A|And, uh, it seems like I always get my mind carried away to something else|sd|3158|0
+A|and then it doesn't quite work|sd|3158|0
+B|Well, it,|%|3158|1
+A|or,|%|3158|0
+B|I'm at the age where bifocals or trifocals would be necessary.|sd|3158|1
+B|It's so I find myself putting glasses on to, to watch T V and then taking them off to do needlework|sd|3158|1
+B|and I get frustrated doing that|sd|3158|1
+B|so Just give it up.|sd|3158|1
+A|And, you know, I like to sketch.|sd|3158|0
+A|I can, I can sketch something, like if I see a picture, like, out of a book, I can sketch that|sd|3158|0
+B|Ooh.|b|3158|1
+A|and that's nice and everything,|sd|3158|0
+A|but, you know, it's funny,|sd|3158|0
+A|I can't I can't draw it out of my own head kind of thing.|sd|3158|0
+B|Uh-huh.|b|3158|1
+A|I wish I could.|sd|3158|0
+A|And, and yet I can't do, you know, like, like, uh, craft, uh, on wood.|sd|3158|0
+B|Uh-huh.|b|3158|1
+A|I can't do that painting thing.|sd|3158|0
+B|Yeah.|b|3158|1
+A|And yet,|%|3158|0
+B|I'm the same way.|aa|3158|1
+B|If I see something, I can copy it,|sd|3158|1
+B|but I certainly can't create.|sd|3158|1
+B|I admire people that have that in their minds already.|sd|3158|1
+A|Yeah,|aa|3158|0
+A|me, too.|aa|3158|0
+A|Me, too.|aa|3158|0
+A|I know a woman who's just wonderful at that.|sd|3158|0
+B|Uh-huh.|b|3158|1
+A|And I look at it|sd|3158|0
+A|and, you know, you look at those things|sd|3158|0
+A|and you wish so badly that you could do them.|sv|3158|0
+A|I guess, if you wanted to, you could take classes and learn.|sv|3158|0
+A|I guess that's the only way I could do it.|sd|3158|0
+B|Well, sometimes, even with that. I, I think you have to have some,|sd|3158|1

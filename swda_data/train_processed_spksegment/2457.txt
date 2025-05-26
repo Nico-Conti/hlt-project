@@ -1,0 +1,225 @@
+A|Well Amy it's been, uh, kind of overcast today and cloudy.|sd|2457|0
+B|Yeah.|b|2457|1
+A|We have,|%|2457|0
+A|our,|%|2457|0
+A|I have a son in kindergarten,|sd|2457|0
+A|he was having a kite day,|sd|2457|0
+B|Oh, boy.|b|2457|1
+A|and I was really worried about it raining because it has, there's been some dark clouds|sd|2457|0
+A|and it's been, um, and it's been pretty rainy looking.|sd|2457|0
+B|Yeah|b|2457|1
+B|I've been trying to put weed spray on the lawn for the whole week|sd|2457|1
+B|and you can't put it on if it's suppose to rain within forty-eight hours,|sd|2457|1
+A|Uh-huh.|b|2457|0
+B|and so I keep hearing the forecast it's going to rain, it's going to rain, it's going to rain,|sd|2457|1
+B|but it really hasn't rained|^2|2457|1
+A|I know it just has that,|sd|2457|0
+B|I know.|sd|2457|1
+A|I,|%|2457|0
+A|it looks,|sd|2457|0
+A|several times in the last couple of weeks it has looked rainy that day and not, not done anything.|sd|2457|0
+B|Yeah.|b|2457|1
+B|Yeah.|b|2457|1
+A|And we have a lot of trees in our yard|sd|2457|0
+A|and I probably,|sd|2457|0
+A|they're pretty old, big tall trees,|sd|2457|0
+B|Uh-huh.|b|2457|1
+B|Yeah,|b|2457|1
+B|yeah.|b|2457|1
+B|Well, I get tired with the|sd|2457|1
+B|I have two preschoolers, a three year old and a two year old,|sd|2457|1
+A|Uh-huh.|b|2457|0
+B|and if it's not nice and they can't go out, it's really the pits|sd|2457|1
+A|Oh, I bet.|ba|2457|0
+B|But I appreciate it when they can at least go play in the backyard for an hour or something, you know.|sd|2457|1
+A|Yeah.|b|2457|0
+B|Yeah.|b|2457|1
+A|That makes a big difference|sv|2457|0
+B|Yeah.|b|2457|1
+A|but I, uh,|%|2457|0
+A|we're kind of new to Plano|sd|2457|0
+A|and I'm working on a carnival that's going to be in a couple of weeks for our school|sd|2457|0
+A|and I'm thinking that this has been pretty, you know, rainy season,|sd|2457|0
+A|and it's been kind of scary,|sd|2457|0
+A|it's kind of been cloudy every day,|sd|2457|0
+A|and I thought, well, I'm just not anxious to have worry about the weather.|sd|2457|0
+B|Yeah.|b|2457|1
+B|Yeah.|b|2457|1
+B|Well, my three and half year old, he really wants to have the pool out in the backyard you know any day,|sd|2457|1
+A|Well, yeah.|b|2457|0
+B|I mean all Winter long he's been wanting a pool in the backyard.|sd|2457|1
+B|So, I'm hoping, you know, that,|sd|2457|1
+B|it just seems like the weather around here goes so quickly from being Winter to, you know, muggy, and hot,|sd|2457|1
+B|and it's just you never really have like nice cool sixty-five or seventy degree weather with sunshine you know?|sd|2457|1
+A|Uh-huh.|b|2457|0
+B|I really miss that,|sd|2457|1
+B|I'm from Chicago originally,|sd|2457|1
+B|and I miss the seasons that, you know, that we used to get up there that you just don't have down here.|sd|2457|1
+A|Well, I know in, um,|%|2457|0
+A|I'm from Missouri|sd|2457|0
+A|and we always had pretty nice four seasons|sd|2457|0
+A|and, and you know,|%|2457|0
+A|we have some extreme weather in each season,|sd|2457|0
+B|Yeah.|b|2457|1
+A|but, uh, I like that|%|2457|0
+A|and we moved here from Houston in, in, uh, July|sd|2457|0
+A|and everyone kept saying, oh, you're going up north it's not going to be so hot,|sd|2457|0
+A|it's not going to be so humid,|^q|2457|0
+B|Oh|b|2457|1
+A|Yeah,|b|2457|0
+A|that has just not been the case.|sd|2457|0
+B|Oh, really|b|2457|1
+A|It has been,|sd|2457|0
+B|yeah.|b|2457|1
+B|It's pretty hot here during the Summer gosh.|sd|2457|1
+A|Oh it was extremely hot,|aa|2457|0
+A|I thought I was going to die,|sd|2457|0
+A|my car, I thought it was going die last Summer|sd|2457|0
+A|but,|%|2457|0
+B|Do have air conditioning in your car|qy|2457|1
+B|or,|%|2457|1
+A|Well, the air conditioning was broke,|sd|2457|0
+A|but broken,|%|2457|0
+A|I guess it just couldn't handle, the stress, and the heat, the record heat,|sv|2457|0
+B|Yeah.|b|2457|1
+A|and, you know, I was worried about every time we came to an intersection the car started idling rough, you know, because of the extreme heat.|sd|2457|0
+B|Yeah.|b|2457|1
+B|Yeah.|b|2457|1
+B|Yeah.|b|2457|1
+B|I know, my husband doesn't have air conditioning in his car and he, when he comes home from work, you know, during the Summer he's just he feels like he's burning like he's been baking for an hour|sd|2457|1
+A|Uh-huh.|b|2457|0
+A|Oh, I know.|ba|2457|0
+B|Gosh.|ba|2457|1
+A|That's really awful,|ba|2457|0
+A|but, but I, uh, understand that this is kind of typical for this time of year that rainy season.|sd|2457|0
+B|Yeah.|b|2457|1
+B|What I hate is,|%|2457|1
+B|I hate having to water so much around here you know,|sd|2457|1
+A|Uh-huh.|b|2457|0
+B|we never used to have to water our lawns|sd|2457|1
+A|No.|b|2457|0
+B|you know in Chicago it was always enough rain here and there|sd|2457|1
+A|Sure.|b|2457|0
+B|so here if you don't water it just looks awful.|sd|2457|1
+A|Brown.|sd|2457|0
+B|I just hate to spend the money just going down the drain and watering grass, you know.|sd|2457|1
+A|Yeah.|b|2457|0
+A|That is, that is awful and it, it takes time|sv|2457|0
+A|and the, the kids, they,|sd|2457|0
+A|you have to water your lawn|sv|2457|0
+A|and they want to go out and run in it and get all muddy, You know,|sv|2457|0
+B|Yeah|b|2457|1
+A|so you're going do I want a a green lawn or a muddy feet in the house.|qh|2457|0
+B|Yeah,|b|2457|1
+B|we have a dog too|sd|2457|1
+B|so that adds to it you know, traipse in and out with whatever the weather is like out there|sd|2457|1
+A|Oh, no|ba|2457|0
+B|so,|%|2457|1
+A|Well, I don't know,|^h|2457|0
+A|do,|%|2457|0
+A|the nice thing I'm looking forward to is, uh, not having a hurricane season.|sd|2457|0
+B|Oh, yeah,|b|2457|1
+B|because Houston was really hurricane alley, wasn't it,|qy|2457|1
+B|weren't there a lot of hurricanes there?|qy|2457|1
+A|Yes,|ny|2457|0
+A|we always had, uh, big concern about hurricanes,|sd|2457|0
+A|and they're close enough to the coast|sd|2457|0
+A|and, you know, you had to have a supply like, uh, emergency supply on hand all the time during the hurricane season, you always have to think, you know, what's the weather doing,|sd|2457|0
+B|Oh, boy.|ba|2457|1
+B|Yeah,|aa|2457|1
+B|that would be,|sd|2457|1
+B|Gosh.|b|2457|1
+B|Keep the weather radio close by and stuff like that?|qy^d|2457|1
+A|Right.|na|2457|0
+A|And do we have enough, you know, um, food storage, and enough, uh, batteries and all the kinds of things.|sd|2457|0
+B|Yeah.|b|2457|1
+B|Yeah,|b|2457|1
+B|really, every time I store batteries, I wind up going to use them and they're dead|sd|2457|1
+B|they've been stored so long.|sd|2457|1
+A|That's right.|ba|2457|0
+B|Oh, boy.|ba|2457|1
+A|So,|%|2457|0
+B|Well, now this is a little bit of relief, although they still have warnings all the time around here for, you know, tornado season hurricanes and stuff,|sd|2457|1
+A|Uh-huh.|b|2457|0
+B|so, I,|%|2457|1
+A|Well I, yeah, I don't really like tornadoes either,|sd|2457|0
+B|Yeah.|b|2457|1
+A|but, uh, at least there isn't,|sd|2457|0
+A|we I feel like I got rid of something,|sd|2457|0
+A|hurricanes,|sd|2457|0
+A|so, not too much of that.|sd|2457|0
+B|Yeah.|b|2457|1
+B|Well, I've been worried about mostly with having little kids now with taking them out in the Summer and getting them burnt up,|sd|2457|1
+B|I mean I have to keep the sun screen on them just constantly when they go outside because they say it's just so dangerous for little ones to get a bad sunburn|sd|2457|1
+A|Yeah.|b|2457|0
+A|and it is,|%|2457|0
+B|so,|%|2457|1
+A|and, I just, I can't believe the, the record temperatures that have, were here last Summer that,|sd|2457|0
+B|Yeah.|b|2457|1
+B|a hundred and ten degrees|sd|2457|1
+B|and,|%|2457|1
+A|oh, it was just unbelievably hot.|sd|2457|0
+B|And I can't stand to be outside at all when it's like that,|sd|2457|1
+B|I just don't even want to go out, you know, of the house to get the mail even|sd|2457|1
+B|leave me in the air conditioning.|ad|2457|1
+A|That is pretty bad.|aa|2457|0
+B|We had our air conditioning broke, break last last Summer.|sd|2457|1
+B|The switch got something wrong with the switch|sd|2457|1
+B|and we had to call somebody out to fix it, because I couldn't take it more than a few hours without it on.|sd|2457|1
+A|Oh, I know.|ba|2457|0
+A|I can't imagine.|ba|2457|0
+B|Yeah.|b|2457|1
+A|Even,|%|2457|0
+A|well, that would,|%|2457|0
+A|it is just pretty bad,|sv|2457|0
+A|but I guess, um, I guess the weather hasn't changed too much from here to Houston|sv|2457|0
+A|and, But it is,|%|2457|0
+B|Yeah.|b|2457|1
+A|like you say coming a little bit further up north. where you have some pleasant weather everyday where you can feel like you just want to open your windows|sd|2457|0
+B|Yeah,|b|2457|1
+B|yeah.|b|2457|1
+B|Yeah.|b|2457|1
+A|and,|%|2457|0
+B|Yeah,|aa|2457|1
+B|that's really nice|ba|2457|1
+B|I hate having to leave the house you know, closed up all the time.|sd|2457|1
+A|Uh-huh.|b|2457|0
+B|Yeah.|b|2457|1
+A|And get some fresh air in the house|sd|2457|0
+A|and, it feels good|sv|2457|0
+A|but, but, I guess,|%|2457|0
+B|Yeah.|b|2457|1
+B|Well, have you been here during the real heavy, heavy rains?|qy|2457|1
+B|I mean I can't remember what time of year,|sd|2457|1
+B|I think it's usually this time of year when we get some, just torrential down pours.|sv|2457|1
+A|No|nn|2457|0
+B|Gosh|ba|2457|1
+A|but I remember,|%|2457|0
+B|flooding.|sd|2457|1
+B|Our neighbors had flooding, so badly it was like a foot deep in their house last year.|sd|2457|1
+A|Oh, no.|ba|2457|0
+B|They had to replace all their carpeting and everything,|sd|2457|1
+B|it was miserable.|sd|2457|1
+A|Now, that sounds awful.|ba|2457|0
+B|Yeah.|aa|2457|1
+B|That would not be fun.|sv|2457|1
+A|Now, I have seen those.|sd|2457|0
+A|I have driven around in the neighborhoods and seen those little flood gauges that will be at little yellow signs,|sd|2457|0
+B|Uh-huh.|b|2457|1
+A|it's, you know, has it like from one foot to four foot|sd|2457|0
+A|and I thought I would never buy a house with a flood gauge down the street.|sd|2457|0
+B|Oh, really.|b|2457|1
+B|Oh, gosh,|b|2457|1
+B|no kidding.|ba|2457|1
+B|Talk about asking for trouble, huh?|qh|2457|1
+A|Yeah,|aa|2457|0
+A|that would be awful.|sd|2457|0
+B|Yeah,|b|2457|1
+B|yeah.|b|2457|1
+A|Well, I've got some kids out on the trampoline I need to go look and see what they're doing.|fc|2457|0
+B|Okay,|fc|2457|1
+B|well, have a good day.|fc|2457|1
+A|Well, you too.|fc|2457|0
+B|Thanks.|fc|2457|1
+B|Bye-bye.|fc|2457|1
+A|Bye-bye.|fc|2457|0

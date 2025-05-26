@@ -1,0 +1,101 @@
+B|Well, do you exercise regularly, Judy?|qy|2296|0
+A|Um, I try to ride the stationary bicycle every day about five miles|na|2296|1
+B|Uh-huh|b|2296|0
+A|and I love to walk,|sd|2296|1
+A|so if I have a lunch hour with nice weather I get out and, and walk.|sd|2296|1
+A|What about you?|qo|2296|1
+B|Well, um, I, uh, exercise regularly.|sd|2296|0
+B|I work at a university,|sd|2296|0
+B|and I swim almost every day upwards of a mile,|sd|2296|0
+A|Uh, very good.|ba|2296|1
+B|but Washington is one of my favorite places to visit.|sd|2296|0
+B|Uh, my daughter lives in Arlington,|sd|2296|0
+B|and when I go to visit her, I love to get out on that bike trail, and either ride the bike, oh,|sd|2296|0
+B|gosh, you can ride a bike practically all the way to Southern Virginia or just get out and walk, uh, or even jog a little, although I don't do that regularly.|sd|2296|0
+A|Uh-huh.|b|2296|1
+A|Uh-huh.|b|2296|1
+B|But Washington's a great place to do that.|sd|2296|0
+A|Yeah,|b|2296|1
+A|there are, there are lots of bike paths.|sd|2296|1
+A|I know, my son is a biker|sd|2296|1
+A|and he, he's done the whole canal, I think it's a hundred and eighty miles, with the scouts.|sd|2296|1
+B|Uh-huh.|b|2296|0
+A|And so, but that somehow takes, organization.|sd|2296|1
+A|For me, it's much easier just the stationary bike,|sd|2296|1
+A|you know, it's at home, I can, I can do some of my reading,|sd|2296|1
+B|Right.|b|2296|0
+A|Um, but,|%|2296|1
+B|Do you live in the District?|qy|2296|0
+A|No,|nn|2296|1
+A|I live in Maryland.|sd|2296|1
+B|Because I think there're so many parts of the District where it's not very safe to get out and walk.|sv|2296|0
+A|Right,|b|2296|1
+A|right,|b|2296|1
+A|and that's it, um,|%|2296|1
+A|at work we have a, a nice campus,|sd|2296|1
+B|Uh-huh.|b|2296|0
+A|I mean, we're within walking distance of, of stores and shops|sd|2296|1
+A|so I do.|sd|2296|1
+A|Now, I think, um,|%|2296|1
+A|basically, is your motive simply, um, health or because you enjoy it?|qy|2296|1
+B|Well, it's, uh, it's really both.|no|2296|0
+B|I'm certainly driven by the desire to maintain my weight and be healthy and be in shape,|sd|2296|0
+B|and, uh, and most of the time I enjoy it.|sd|2296|0
+B|Sometimes I don't,|sd|2296|0
+B|but I feel that, uh, that the discipline it affords me when I do it when I don't want to is also worth something.|sd|2296|0
+A|Uh-huh,|aa|2296|1
+A|right.|aa|2296|1
+A|I think pretty much you summed up my, my, my motivations also.|sd|2296|1
+B|And I often find that even when I don't feel that much like exercising,|sd|2296|0
+B|like I'll be really tired,|sd|2296|0
+B|and I'll start swimming,|sd|2296|0
+B|and I'll, and I'll actually get energy.|sd|2296|0
+B|And I'll be, have much more energy when I'm done than when I started,|sd|2296|0
+B|I mean, I just feel great.|sd|2296|0
+B|That happens to me probably one in four or five times that I swim.|sd|2296|0
+A|Oh, well, that's great,|ba|2296|1
+A|that's great.|ba|2296|1
+B|And that's really a terrific feeling, because you just go there at the end of the day, and you figure, God, I'm ready for bed and you exercise and then, it's sort of painful for a while,|sd|2296|0
+A|Uh-huh.|b|2296|1
+B|but by the time you get done you feeling really terrific.|sd|2296|0
+A|Right.|b|2296|1
+A|And actually in, in summer I like to swim.|sd|2296|1
+A|We don't have facilities for swimming in winter,|sd|2296|1
+A|but, um, and, and that's true, when I go home from work at the end of the day, if I go up for an hour in the pool, I'm much, much more awake,|sd|2296|1
+A|I'm ready to work in the garden or whatever in the evening.|sd|2296|1
+B|Yeah,|b|2296|0
+B|yeah.|b|2296|0
+A|So.|%|2296|1
+B|So, can I just ask you, are you Canadian?|qy|2296|0
+A|No,|nn|2296|1
+A|I'm not.|sd|2296|1
+B|Philadelphia?|qy|2296|0
+A|No.|nn|2296|1
+B|I'm trying to because you have a, you have one funny vowel that's probably going to drive the T I people crazy.|sd|2296|0
+A|Oh, really.|b|2296|1
+B|Say out, instead of out you say out.|sd|2296|0
+B|Did you know that?|qy|2296|0
+A|No,|nn|2296|1
+A|I don't know that.|sd|2296|1
+A|But, I, I must say, that, um, when, when I did do a linguistics course in, in school, ages ago, um, the professor had a lot of trouble with my accent.|sd|2296|1
+B|Huh.|b|2296|0
+A|And it's probably because I, I, I was born in the Chicago area and grew up in California,|sd|2296|1
+A|and at that point that was sort of the limit but since then I've been abroad a lot,|sd|2296|1
+B|Huh.|b|2296|0
+B|I see.|ba|2296|0
+B|I know this isn't on our topic,|sd|2296|0
+B|but where did you grow up in California?|qw|2296|0
+A|In Santa Barbara.|sd|2296|1
+B|Oh, okay,|bk|2296|0
+B|because I grew up in North Hollywood, California went to U C L A and all that.|sd|2296|0
+A|Oh, I see.|ba|2296|1
+A|Uh-huh.|b|2296|1
+A|Well, very good,|ba|2296|1
+A|I think we've probably know, know each other's exercise habits|sv|2296|1
+B|Yes.|aa|2296|0
+A|and, uh, it was nice talking to you.|fc|2296|1
+B|Well, same here.|fc|2296|0
+B|Thanks for calling.|fc|2296|0
+A|Oh, okay.|fc|2296|1
+B|Bye.|fc|2296|0
+A|Bye-bye.|fc|2296|1

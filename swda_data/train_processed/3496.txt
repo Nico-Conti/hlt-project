@@ -1,0 +1,211 @@
+A|Okay,|fo_o_fw_"_by_bc|3496
+A|do we just go ahead?|qy|3496
+B|Uh-huh.|ny|3496
+A|Okay.|bk|3496
+B|Do you want to start?|qy|3496
+A|Uh, well, we're supposed to talk about vacations|na|3496
+B|Right.|b|3496
+A|and, uh, I'm trying to think of the ones that I've been on that I liked the most|sd|3496
+A|and probably the one I liked most was Hawaii|sd|3496
+B|Oh, did you get to go to Hawaii?|qy|3496
+A|Yes.|ny|3496
+B|Yeah,|b|3496
+B|we went there for our twenty-fifth wedding anniversary.|sd|3496
+B|It's lovely, isn't it?|qy|3496
+A|Yes.|ny|3496
+A|We went, uh, six months after we were married.|sd|3496
+B|Uh-huh.|b|3496
+A|And we just went to, uh, two islands.|sd|3496
+B|What islands did you go to?|qw|3496
+A|We went to Oahu and Kauai.|sd|3496
+B|Kauai,|sd|3496
+B|uh-huh.|b|3496
+B|We went to Kauai,|sd|3496
+B|and then we also hit Maui,|sd|3496
+B|and then, of course, uh|sd|3496
+A|The big one.|^2|3496
+B|uh, the big one,|b^m|3496
+B|uh-huh.|aa|3496
+A|Oh.|b|3496
+B|With, uh, the big one I thought was very commercialized.|sv|3496
+A|Oh, yeah.|aa|3496
+A|It was.|sv|3496
+B|But the other two were just lovely.|sv|3496
+A|Yes,|b|3496
+A|I enjoyed Kauai better, too.|sd|3496
+B|Uh-huh,|b|3496
+B|it was quiet and restful, and, and so beautiful.|sv|3496
+B|It wasn't commercialized.|sv|3496
+A|Oh, it was rainy|sd|3496
+B|Yeah|b|3496
+B|was it?|qy|3496
+A|Rainy,|na|3496
+A|but, you know, we don't like to spend the money to go over there and sit on the beach anyway|sd|3496
+A|so,|%|3496
+B|That's right.|b|3496
+B|Well, it wasn't real rainy.|sd|3496
+B|We had a few showers, but, uh, nothing that really got in the way with anything and just very brief ones|sd|3496
+B|and, and, when, uh,|%|3496
+B|now we went to Nassau|sd|3496
+B|and my husband liked it better than he did Hawaii.|sd|3496
+A|Oh, really?|bh|3496
+B|Uh-huh.|aa|3496
+A|Oh.|bk|3496
+B|Yeah,|b|3496
+B|he really did.|sd|3496
+B|I don't know why.|sd|3496
+B|You know, he didn't like Oahu at all|sd|3496
+B|He thought|sd|3496
+A|Uh-huh.|b|3496
+A|Oh.|b|3496
+B|Did you go there?|qy|3496
+A|Uh-huh.|ny|3496
+B|That was wonderful|sv|3496
+A|Yeah.|b|3496
+B|and we both enjoyed it very much.|sd|3496
+A|That was That was nice,|sv|3496
+A|uh-huh.|b|3496
+A|You know, I've been to Nassau, too.|sd|3496
+B|Have you?|bh|3496
+A|I went on a cruise.|sd|3496
+B|Oh, neat.|ba|3496
+A|Uh-huh,|b|3496
+A|and, uh, to tell you the truth, I, I think I'd rather just go to the island.|sd|3496
+B|Yeah,|b|3496
+B|uh, our son and daughter-in-law just, uh, they got married last January and they won a cruise.|sd|3496
+B|And I know they didn't like it.|sd|3496
+B|Now, we have several friends that, uh, have been on, and just love them.|sd|3496
+B|But James and I like,|sd|3496
+B|I don't know,|h|3496
+B|I think we would get bored on the boat all the time.|sd|3496
+A|Well, I, got sick.|sd|3496
+B|Oh, did you?|bh|3496
+A|Yeah,|ny|3496
+A|I did the first night.|sd|3496
+A|I went with my sister just, uh, a couple years ago|sd|3496
+B|Ooh.|b|3496
+B|Uh-huh.|b|3496
+A|and, and we both, the first night, just had to leave dinner.|sd|3496
+B|Um.|%|3496
+A|It was bad,|sd|3496
+A|but, and then after that it was, it got better,|sd|3496
+A|but we just,|%|3496
+A|it was a four day|sd|3496
+B|Uh-huh.|b|3496
+A|and we were both ready to get off the boat.|sd|3496
+B|Were you?|bh|3496
+A|Yeah.|ny|3496
+B|Well, I think if we ever go, it will only be for a three day.|sd|3496
+B|Now we've been real lucky.|sd|3496
+B|We've been to Europe twice.|sd|3496
+A|Oh, have you?|bh|3496
+B|Yeah.|ny|3496
+B|We went, the first time we went to London, Europe and touched a little bit of Scotland|sd|3496
+B|And second time we went to Munich, Germany and were there a week, and loved Germany.|sd|3496
+A|Oh.|b|3496
+B|It is just absolutely gorgeous with the mountains|sv|3496
+A|Wow.|ba|3496
+A|I'll bet it is.|b|3496
+B|and we were there in the fall before the snows, you know, started|sd|3496
+B|and it was wonderful.|sd|3496
+B|It, uh it was just, it was marvelous.|sd|3496
+A|Oh.|b|3496
+B|And we would love to go back there|sd|3496
+B|and we'd love to go back to London.|sd|3496
+A|You haven't been to Spain?|qy|3496
+B|No|nn|3496
+A|Oh.|b|3496
+B|have not been to Spain.|sd|3496
+A|I was born there.|sd|3496
+B|Were you?|bh|3496
+A|Yes|ny|3496
+B|How old were you when you left?|qw|3496
+A|Uh, just ten months.|sd|3496
+B|Oh, ten months,|b^m|3496
+B|uh-huh.|b|3496
+A|Yeah,|b|3496
+A|so,|%|3496
+B|Have you ever got to go back?|qy|3496
+A|No,|nn|3496
+A|no,|nn|3496
+A|and I would like to.|sd|3496
+B|Would you?|bh|3496
+B|My, uh, my sister,|%|3496
+B|we went with them to Germany|sd|3496
+B|and, uh, she would like to go to Spain.|sd|3496
+B|I'm not sure whether I would like to or not.|sd|3496
+A|Huh.|b|3496
+B|And, uh, I would like to go to Ireland.|sd|3496
+A|Would you?|bh|3496
+B|Uh-huh.|ny|3496
+A|Now, now I don't know if I'd like to go there just from the the problems.|sd|3496
+B|Well, the|%|3496
+B|there is|%|3496
+B|uh-huh,|b|3496
+B|is, is a little scary,|sv|3496
+B|but I would still like to see it.|sd|3496
+B|I'd like to see, uh, Italy.|sd|3496
+A|Oh, yeah,|b|3496
+A|yeah.|b|3496
+B|I would love to go there.|sd|3496
+A|That would be nice.|ba|3496
+B|And, course, there is a lot of places in the United States I still want to come, you know, go to.|sd|3496
+A|Now, have you been to Yellowstone?|qy|3496
+B|Uh,|%|3496
+A|Yellowstone,|sd|3496
+B|Yes,|ny|3496
+B|yes.|ny|3496
+A|Have you?|qy|3496
+B|We have been there.|na|3496
+B|We, I was there as a child and then we, we went to California and came back through Yellowstone with our kids.|sd|3496
+A|Uh-huh.|b|3496
+B|And they loved it.|sd|3496
+A|Well,|%|3496
+B|I was in Utah, in Salt Lake City when I was a, uh, youngster.|sd|3496
+A|Oh, uh-huh.|b|3496
+B|So, uh, you know, I've touched on that.|sd|3496
+A|Yeah,|b|3496
+A|now I'm just about, oh, a half hour, uh, north of Salt Lake.|sd|3496
+B|Oh.|b|3496
+A|So, uh, it's at|%|3496
+B|Yeah.|b|3496
+A|my husband works in Salt Lake,|sd|3496
+A|so|%|3496
+B|Uh-huh.|b|3496
+A|we're real close|sd|3496
+A|and, yeah,|%|3496
+A|we,|%|3496
+B|Now that's a pretty city.|sv|3496
+A|Yes,|aa|3496
+A|we, we like it.|sd|3496
+B|Very clean. You know.|sd|3496
+A|Yeah.|b|3496
+A|It is.|sd|3496
+B|Utah is a pretty state from what I remember of it.|sd|3496
+A|Well, we kind of like it|sd|3496
+B|Uh-huh|b|3496
+A|Well, do you like to camp, those kind of trips?|qy|3496
+B|We,|%|3496
+B|no,|nn|3496
+B|we used to|sd|3496
+B|We used to camp a lot with our|sd|3496
+A|Uh-huh.|b|3496
+A|Oh, you like the motels?|qy|3496
+B|We like the motels,|na|3496
+B|yes|ny|3496
+A|Oh, oh, well.|%|3496
+B|We have, we've gone past the camping stage.|sd|3496
+B|We lived in Chattanooga, Tennessee for two years.|sd|3496
+A|Oh, did you?|bh|3496
+B|And we did a lot of camping out there in the Smokeys|sd|3496
+B|and it was beautiful|sd|3496
+B|and our kids loved it and everything|sd|3496
+B|and then we moved to, uh, uh, the Dallas area|sd|3496
+A|Uh-huh.|b|3496
+B|and, uh, it's hot down here|sd|3496
+B|and camping is not near as much fun.|sd|3496
+A|Oh.|b|3496
+B|And, uh, so, and then the kids were getting older and, and were involved in activities so the camping sort of went by the wayside. And, uh, although our son loves to fish|sd|3496
+A|Huh.|b|3496
+B|and, uh, and our daughter and her husband are talking now about starting camping with their boys now that they have gotten older.|sd|3496
+A|Uh-huh.|b|3496

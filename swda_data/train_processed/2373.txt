@@ -1,0 +1,214 @@
+A|Okay|fo_o_fw_"_by_bc|2373
+B|Was I supposed to do something?|qy|2373
+A|No.|nn|2373
+A|I had to press one.|sd|2373
+B|Good|ba|2373
+B|Uh, let's see,|^h|2373
+B|so, uh, were we right in the Middle East?|qy|2373
+A|Sure.|na|2373
+B|Should we have been there?|qy|2373
+A|Uh-huh.|ny|2373
+B|Did we do what was correct there?|qy|2373
+A|I think we should have stayed longer.|sv|2373
+B|Should we have fought them harder?|qy|2373
+B|Used more weapons equal to their chemical weapons that weren't used?|qy^d|2373
+A|Uh, I think what we did was good,|na|2373
+A|but I think we just should have stayed there longer and continued doing what we did do.|sv|2373
+B|Oh, you agree with Schwartzkopf who says, uh, Drive on into Baghdad.|qy^d|2373
+A|Yeah.|ny|2373
+A|I think we should have stayed and kind of helped the people in Iraq out now because it's kind of like a civil war going on now.|sv|2373
+A|And it's almost like they're killing each other off|sv|2373
+A|and there is not going to be anything left of Iraq at all like|sv|2373
+B|Would that be so bad?|qy|2373
+B|Was there anything there to begin with?|qy|2373
+A|Well, I think, I don't think it would be good if we were to completely lose it, um.|sv|2373
+B|It wasn't ours.|sv|2373
+A|Well, no,|aa|2373
+A|I just mean that, that, the world in general|sv|2373
+B|We've got to talk so it's just, just as well we argue.|sv|2373
+A|Yeah.|aa|2373
+A|Um, I don't know,|h|2373
+A|I think we should have helped the, the innocent people in Iraq out a little bit more, than, rather than just quitting where we did.|sv|2373
+B|I agree.|aa|2373
+B|Wouldn't it have been wonderful if we could have freed the country.|qy|2373
+A|Yes|ny|2373
+A|But I think that's almost impossible, next to impossible.|sv|2373
+B|Yeah.|b|2373
+B|So other political things that's going on.|fo_o_fw_"_by_bc|2373
+B|I heard Mister Bush say, excuse me, President Bush say that he, uh, wanted to improve the highways.|sd|2373
+A|Oh, see, I haven't really been keeping up with them|sd|2373
+A|so I really don't know what he said.|sd|2373
+A|What did he say about it?|qw|2373
+B|Oh, he wanted to take the current secondary highway system and turn it into interstates like the rest of the country.|sv|2373
+A|Uh-huh.|b|2373
+A|We don't have the money for that.|sv|2373
+B|But wouldn't it be wonderful.|qy^d|2373
+A|It would be really nice because I'm kind of tired of driving in pot holes|na|2373
+B|And back east, you all drive at fifty-five, don't you?|qy|2373
+B|What's that?|qw|2373
+A|I'm sorry, I dropped the phone|fa|2373
+B|Oh, okay, um,|bk|2373
+B|I say back east you all drive at fifty-five don't you?|qy|2373
+A|Yeah.|ny|2373
+B|See, out here in the west a lot of our secondary roads are fifty-five|sd|2373
+A|Uh-huh.|b|2373
+B|we drive sixty-five.|sd|2373
+A|Oh, really.|b|2373
+B|Oh, yes.|ny|2373
+B|Well, I, uh, last weekend, went home to visit my parents.|sd|2373
+B|My dad's in the hospital.|sd|2373
+A|Uh-huh.|b|2373
+B|And, uh, between here and west Texas, there was probably three and four hours at sixty-five miles an hour.|sd|2373
+A|Oh, I didn't realize that.|sd|2373
+B|Nonstop.|sd|2373
+B|Have you ever been out here?|qy|2373
+A|No,|nn|2373
+A|huh-uh.|nn|2373
+B|How far west have you been?|qw|2373
+A|Only in Ohio.|sd|2373
+B|Oh, you've never, You've never seen the great American desert.|qy^d|2373
+A|I've never been past Ohio.|sd|2373
+A|No,|nn|2373
+A|huh-uh.|nn|2373
+A|I've never seen anything out, I never seen the great,|sd|2373
+A|I've seen,|sd|2373
+B|The Rocky Mountains?|qy^d|2373
+A|I've never seen,|ng|2373
+A|I've seen pictures of it|sd|2373
+A|but,|%|2373
+B|Yellowstone?|qy^d|2373
+A|I've never been there.|ng|2373
+A|I've seen pictures,|sd|2373
+A|I just, I'm a college student|sd|2373
+A|and, um, I'm paying for my own education|sd|2373
+A|and I'm, I come from a large family|sd|2373
+A|and we, we we're never able to take vacations because there's, there's twelve kids in the family.|sd|2373
+B|Uh,|%|2373
+A|So,|%|2373
+B|Well, my college uh, thirty-six,|sd|2373
+B|worked for Texas Instruments for seventeen or eighteen now.|sd|2373
+A|Oh, my.|ba|2373
+B|Uh, know, virtually nothing else.|sd|2373
+A|Uh-huh.|b|2373
+B|Uh, yeah.|b|2373
+B|I got my four year, got my B S in General Science.|sd|2373
+A|Uh-huh.|b|2373
+A|Really.|b|2373
+B|Yeah,|ny|2373
+B|I know,|sd|2373
+B|it's a funny degree|sd|2373
+B|Anyway, uh, I know nothing other than the west.|sd|2373
+A|Yeah.|b|2373
+B|In fact, uh, down in east Texas where the company's located there's streams and water and things I don't understand. Trees and the gulf|sd|2373
+A|Uh-huh.|b|2373
+A|Uh-huh.|b|2373
+B|and it's really interesting.|sv|2373
+A|Uh-huh.|b|2373
+B|So tell me about where you live.|ad|2373
+A|Well, um, I'm, I'm originally from Butler|sd|2373
+A|and that's about an hour away from where I am now.|sd|2373
+A|I'm at Clairon.|sd|2373
+A|And, um, it's, it's pretty, like, windy and hilly.|sd|2373
+B|Uh, how high is the highest elevation?|qw|2373
+A|Oh, I couldn't even tell you.|sd|2373
+B|Like, uh, probably|%|2373
+A|It's not like a mountain.|sd|2373
+A|It wouldn't be like a mountain.|sd|2373
+A|It's, uh,|%|2373
+B|three thousand feet?|qy^d|2373
+A|Oh, I don't even know.|no|2373
+A|I have no clue.|sd|2373
+B|Close to sea level?|qy^d|2373
+A|I would say it's closer to sea level.|na|2373
+B|Okay,|b|2373
+B|uh, right here in Colorado Springs where I live it's over six thousand foot.|sd|2373
+A|Uh-huh.|b|2373
+B|Um, yes|b|2373
+B|when I lived in Texas, every year I had to drive, you know.|sd|2373
+B|I drove every year to the gulf|sd|2373
+B|and, you know, so I could have a feast of fresh seafood six, eight, twelve hours away. You know, just, just for fresh.|sd|2373
+A|Um.|%|2373
+B|I, I'm really interested in the basic concept differences between west and east coast and the central parts of America.|sd|2373
+A|Uh-huh.|b|2373
+B|How many hours have you been from home?|qw|2373
+A|Uh, the farthest away from home?|qy^d|2373
+B|Yes.|ny|2373
+A|I'd say five or six.|sd|2373
+B|Oh, yeah.|b|2373
+A|Uh-huh.|ny|2373
+B|Uh, now when I was growing up in the Panhandle of Texas,|sd|2373
+B|look at your map later and see the, the town of Amarillo fifty miles north of that up in the Panhandle.|sd|2373
+A|Uh-huh.|b|2373
+B|To just go buy a pair of jeans, we'd drive an hour.|sd|2373
+A|Oh, my|ba|2373
+A|Oh, my Gosh.|ba|2373
+B|When I was growing up, Now things are different|sd|2373
+A|Uh-huh.|b|2373
+B|and people buy jeans in town,|sd|2373
+B|but uh, we thought nothing at all of wake up, waking up in the morning hopping into your car, grabbing the fishing poles and driving four hours.|sd|2373
+A|Oh, yes.|ba|2373
+A|Now see for me, that's a long ways.|sd|2373
+B|Yeah.|aa|2373
+B|It is I imagine.|ba|2373
+A|Uh-huh.|b|2373
+A|Even, well, like, I, I'm in like a little town right now.|sd|2373
+A|It's smaller than Butler|sd|2373
+A|and, um, Butler, Butler is about an hour north east of Pittsburgh.|sd|2373
+A|So that will give you some idea of where I'm at.|sv|2373
+B|Okay.|b|2373
+A|And I'm about, I'm about two hours north east of Pittsburgh.|sd|2373
+B|Okay,|b|2373
+B|I'll look at my map later.|oo_co_cc|2373
+B|Wow.|ba|2373
+B|How neat.|ba|2373
+A|And, uh, I mean just this, this little town here is basically a college town.|sd|2373
+A|The college, without the college here, this town would be nothing.|sd|2373
+A|It would be absolutely dead.|sd|2373
+A|Because it's completely made up of fast food restaurants|sd|2373
+A|and, and in the summer when we uh,|sd|2373
+A|we come up here in the summer,|sd|2373
+A|and it's,|%|2373
+A|I mean, there's just no one around.|sd|2373
+B|So are you working your way through college?|qy|2373
+A|Um, well, I go home in the summer|sd|2373
+A|and I work in the summer|sd|2373
+A|and between what I make in the summer and student loans, that's how I go to college.|sd|2373
+B|Well, how neat.|ba|2373
+B|What's your major?|qw|2373
+A|Finance.|sd|2373
+B|Finance.|b^m|2373
+A|Uh-huh.|b|2373
+B|Well, that's interesting.|ba|2373
+A|Uh-huh.|b|2373
+B|So, uh, what do you plan to do with it?|qw|2373
+A|Um, well, like I said my fianc3ee, *typo|sd|2373
+B|Savings and loans, uh,|qy^d|2373
+A|No|nn|2373
+A|No,|nn|2373
+A|no,|nn|2373
+A|no,|nn|2373
+A|and I'd actually like to work for a company rather than a bank or a, something.|sd|2373
+A|I'd rather work for a company and, um, like be their financial advisor or something.|sd|2373
+B|Oh, that would be great.|ba|2373
+B|That would be neat|ba|2373
+B|Let's see, uh, so we're all excited in Colorado Springs.|sd|2373
+A|Uh-huh.|b|2373
+B|Apple Computer is coming to town.|sd|2373
+A|Oh, really.|b|2373
+B|Yes.|ny|2373
+B|The, uh, new employer is in the city.|sd|2373
+A|Uh-huh.|b|2373
+B|So we're expecting our local economy to Well, maybe not a boom, but, uh, at least, recover to where we can all hold regular forty hour jobs still.|sd|2373
+A|Take a boom a little bit.|^2|2373
+A|Well, well what would be the unemployment rate out there?|qw|2373
+B|Uh, unemployment runs approximately six percent.|sd|2373
+A|See that's what it is here too.|sd|2373
+B|But, now under employment I would suspect to run closer to eighteen or twenty percent.|sd|2373
+A|Uh-huh.|b|2373
+B|And the problem is that there are no good permanent full time jobs for people without a technical four year degree.|sd|2373
+A|Yeah.|b|2373
+A|It's even getting hard for the four year people to find jobs.|sv|2373
+B|Yes.|aa|2373
+B|It is.|sv|2373
+A|I know people they are out of school for two or three years|sd|2373
+A|and they have a job that has nothing to do ...|sd|2373

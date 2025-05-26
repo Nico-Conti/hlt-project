@@ -1,0 +1,175 @@
+A|Okay,|fo_o_fw_"_by_bc|3769
+A|it's pressed.|sd|3769
+A|Are you still there?|qy|3769
+B|I'm ready|na|3769
+A|Okay|bk|3769
+A|So what's, uh, things that you look for when you go out to dinner?|qw|3769
+B|Oh, I just like a nice, quiet, nice atmosphere and of course good food|sd|3769
+A|Uh-huh.|b|3769
+B|That's always, that's always a concern, but just a nice quiet easy place maybe candlelight something just to relax, you know because I don't really go out to dinner that much,|sd|3769
+A|Huh.|b|3769
+B|so.|%|3769
+A|Uh-huh.|b|3769
+A|Well, we don't go out to dinner that much either.|sd|3769
+A|We try to get out maybe like once every month and a half or something like that,|sd|3769
+B|Uh-huh.|b|3769
+A|but I definitely want to go to a place that's nice and clean, you know.|sd|3769
+B|Right.|b|3769
+A|Um, I've been to some that's been terrible.|sd|3769
+A|You know, you see cockroaches crawling around and everything, you know.|sv|3769
+B|Oh|b|3769
+A|But I try to get one that's nice and clean|sd|3769
+A|and then I like to, you know, good food and good service.|sd|3769
+B|Yeah.|b|3769
+A|So.|%|3769
+B|Yeah,|b|3769
+B|where you don't feel rushed, you know|sv|3769
+A|Yeah,|b|3769
+A|right.|b|3769
+B|and you can just relax, and stay as long as you want.|sv|3769
+A|Right,|b|3769
+A|right.|b|3769
+A|So is there some nice places to go to eat in Plano?|qy|3769
+B|Well, nearby.|na|3769
+B|We're almost in Dallas.|sd|3769
+B|We're just north of Dallas.|sd|3769
+A|Uh-huh.|b|3769
+B|So we have quite a bit between us and there.|sd|3769
+B|It's about ten miles|sd|3769
+A|Uh-huh,|b|3769
+A|uh-huh.|b|3769
+B|and there is all kinds of restaurants|sd|3769
+B|and, I had one that was a favorite for a long time,|sd|3769
+B|and then it changed hands and doubled the prices|sd|3769
+B|and then it finally went out of business.|sd|3769
+A|Um.|b|3769
+B|So, but it was really nice.|sd|3769
+B|It had a fireplace.|sd|3769
+A|Um, that sounds beautiful.|ba|3769
+B|Yeah,|aa|3769
+B|it was really nice.|sv|3769
+B|They had entertainment sometimes|sd|3769
+B|and you could just really relax there and enjoy it.|sd|3769
+A|Uh-huh,|b|3769
+A|uh-huh.|b|3769
+A|Uh-huh,|b|3769
+A|uh-huh.|b|3769
+A|Well. This is only a little small city.|sd|3769
+B|But it's gone|sd|3769
+A|Uh, we have, uh,|%|3769
+A|excuse me, I didn't think my coughing would come back.|sd|3769
+A|Anyhow, we have only like one, uh, restaurant that's kind of nice.|sd|3769
+A|You know, they have prime rib on, uh, weekends|sd|3769
+B|Uh-huh.|b|3769
+A|and then they have about six miles from here is called, a little city called Wesley,|sd|3769
+A|and they have a Wesley Hotel there that they serve food,|sd|3769
+A|and the atmosphere there is really, really nice.|sd|3769
+B|Oh, that's nice.|ba|3769
+A|So, and then if we really want to, you know, something different we go to Modesto which is like twenty minutes away.|sd|3769
+B|Uh-huh.|b|3769
+B|Right.|b|3769
+A|But, uh, we don't have any fast foods here in this small city|sd|3769
+B|That is probably very fortunate for you.|sv|3769
+B|Do you have kids?|qy|3769
+A|Do I have kids?|br|3769
+B|Yeah.|ny|3769
+A|Well, I have a son,|na|3769
+A|but he's grown up.|sd|3769
+B|Oh, because I have a twelve year old that would eat a happy meal every night, you know,|sd|3769
+B|and now's she's graduated to two cheeseburgers,|sd|3769
+A|Uh-huh.|b|3769
+B|so something's happened here,|sd|3769
+B|but, but, um, you know, McDonald's is definitely at the top of her list,|sd|3769
+B|and I hate these places.|sd|3769
+A|Yeah.|b|3769
+A|All the kids seem to love McDonald's don't they, you know.|qy|3769
+B|Uh-huh,|ny|3769
+B|they do,|na|3769
+B|and I don't think there's an ounce of nutritional value in anything they have.|sv|3769
+A|No,|aa|3769
+A|no,|aa|3769
+A|I'm sure there isn't.|sd|3769
+B|Well, we have all kinds of fast foods everywhere around|sd|3769
+A|Uh-huh.|b|3769
+B|and it's really, it's tempting when you come home from work|sv|3769
+B|and you're tired|sv|3769
+B|and, you know, you just are tempted to give in to that,|sv|3769
+B|and it costs a lot of money to do it too.|sv|3769
+A|I know.|ba|3769
+B|You know, it adds up|sv|3769
+B|and it's not healthy,|sv|3769
+B|and I really got into that habit for a while,|sd|3769
+B|but I got out of it again because I just felt like it was just too unhealthy.|sd|3769
+A|Yeah.|b|3769
+A|Yeah.|b|3769
+A|Uh-huh.|b|3769
+B|So.|%|3769
+A|Well, let's see, what else can we talk about?|qw|3769
+B|Well, how's California today?|qo|3769
+A|Oh, it's foggy and cold here.|sd|3769
+B|Is it?|bh|3769
+B|That's what I've heard, yeah.|sd|3769
+A|Uh-huh,|b|3769
+A|uh-huh.|b|3769
+A|Yeah|b|3769
+A|and it's.|%|3769
+B|Have you always lived there?|qy|3769
+A|I came from Iowa when I was sixteen|na|3769
+B|Oh.|bk|3769
+A|so I've lived out in California for a long, long time.|sd|3769
+B|And you like it?|qy^d|3769
+A|Yeah,|ny|3769
+A|I like it real well.|sd|3769
+B|Yeah,|b|3769
+B|we've been.|%|3769
+A|We used to live in Oakland,|sd|3769
+A|so we used to have a lot more restaurants to go to there you know,|sd|3769
+B|Oh, yeah.|b|3769
+A|but, uh, then I quit work and everything|sd|3769
+A|and I bought a house.|sd|3769
+A|I had a condo in Oakland,|sd|3769
+A|so, right in Chinatown, so we went to lots of restaurants Chinese restaurants,|sd|3769
+B|Oh, that would be fun.|ba|3769
+A|and they were really good,|sd|3769
+A|I really miss them. You know.|sd|3769
+B|Yeah.|b|3769
+B|Do you miss living there?|qy|3769
+A|Uh, no,|nn|3769
+A|I really don't miss  living there.|sd|3769
+B|No.|b^m|3769
+A|I just like to go in there and have a nice Chinese dinner once in a while, you know.|sd|3769
+B|Yeah.|b|3769
+B|Yeah.|b|3769
+A|But, uh, as far as missing living there, no.|sd|3769
+B|Um.|%|3769
+A|It's close enough if I wanted to go there, to San Francisco for dinner or something, why, you know, an hour and fifteen minutes we could be there and you know, have dinner and then come on back.|sd|3769
+B|Yeah.|b|3769
+A|But, uh, have you ever been to California?|qy|3769
+B|Oh, yeah,|ny|3769
+B|I go all the time.|sd|3769
+A|Oh really?|bh|3769
+B|Yeah,|ny|3769
+B|well I have a twenty-one year old daughter in college there|sd|3769
+A|Um.|%|3769
+B|and she, um, is a world champion twirler|sd|3769
+A|Uh-huh.|b|3769
+B|and her coach is in California.|sd|3769
+B|So she went there for six years.|sd|3769
+A|Um.|%|3769
+B|So I went out a lot with her.|sd|3769
+A|Uh-huh,|b|3769
+A|uh-huh.|b|3769
+B|And, uh, yeah,|ny|3769
+B|I know California pretty well.|sd|3769
+A|Uh-huh.|b|3769
+B|And I love it,|sd|3769
+B|and  we tug back and forth who's going to move,|sd|3769
+B|but I think he's going to move because I'm the person with more to lose here.|sd|3769
+A|Uh-huh.|b|3769
+B|I have my twelve year old in school|sd|3769
+A|Uh-huh.|b|3769
+B|and she's happy.|sd|3769
+B|She always lived here in the south,|sd|3769
+B|and I have my house,|sd|3769
+B|so I have too much to lose,|sd|3769
+A|Uh-huh.|b|3769

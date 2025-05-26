@@ -1,0 +1,347 @@
+A|Okay,|fo_o_fw_"_by_bc|2650|0
+A|this is really ironic that this would, I would get this subject today because just yesterday our dog ran away|sd|2650|0
+B|Oh, no.|ba|2650|1
+A|And it's just been tearing me up all day|sd|2650|0
+B|Oh, I bet.|ba|2650|1
+A|Because we have just been looking all over for him.|sd|2650|0
+A|We've been to the pound,|sd|2650|0
+A|we've been to the humane society,|sd|2650|0
+A|we've been to the adoption center,|sd|2650|0
+A|we've just been all over the neighborhood,|sd|2650|0
+A|we've been calling neighbors|sd|2650|0
+A|So this is just really strange|sd|2650|0
+B|Oh, I guess so.|aa|2650|1
+B|Have you lost him before?|qy|2650|1
+A|No,|nn|2650|0
+A|this is the first time.|sd|2650|0
+A|Um, he's gotten out before,|sd|2650|0
+A|but he's always stayed right here you know,|sd|2650|0
+B|Uh-huh.|b|2650|1
+A|he's never gone away.|sd|2650|0
+A|And so this is just really strange, you know because,|sd|2650|0
+B|What kind of a dog is he?|qw|2650|1
+A|Um, he's part golden Lab and part, uh, let's see, Alaskan, no, not Alaskan.|sd|2650|0
+A|I always forget|sd|2650|0
+B|Yeah.|b|2650|1
+A|Uh, Australian shepherd.|sd|2650|0
+B|Oh,|bk|2650|1
+B|boy, he's a big one.|qy^d|2650|1
+A|he's pretty big.|sd|2650|0
+A|That's why it really surprises me, you know, that he hasn't come back, because, like I said, he's never gone away like this before,|sd|2650|0
+A|and, I would think, you know, he might, I mean, he might could get hurt by a car or something.|sd|2650|0
+A|I don't know that he could really get killed that easily because he is so big.|sv|2650|0
+B|Yeah.|b|2650|1
+A|You know, but, I don't know|h|2650|0
+B|Oh, well, I hope he comes back,|sd|2650|1
+B|that's too bad.|fo_o_fw_"_by_bc|2650|1
+A|Thanks,|ft|2650|0
+A|I do, too|sd|2650|0
+B|How long have you had him?|qw|2650|1
+A|Oh, about two years.|sd|2650|0
+A|So, he's|%|2650|0
+B|Oh, that's tough.|ba|2650|1
+A|Yeah,|aa|2650|0
+A|it's really,|%|2650|0
+A|gosh, anyway,|ba|2650|0
+B|Yeah,|b|2650|1
+B|you get very attached to animals, don't you?|qy|2650|1
+A|That, isn't that funny how we do?|qh|2650|0
+B|Yeah.|ny|2650|1
+A|I mean, we just really,|%|2650|0
+B|Well, you know, they're always there for you|sv|2650|1
+B|and they don't talk back to you|sv|2650|1
+A|Yeah|b|2650|0
+B|And, uh, it's kind of pleasant.|sv|2650|1
+A|Well, they're companions,|sv|2650|0
+B|Yeah,|aa|2650|1
+B|sure,|aa|2650|1
+B|sure.|aa|2650|1
+A|Well, do you have any?|qy|2650|0
+B|Yes,|ny|2650|1
+B|we have a dog, a little white Lhasa.|sd|2650|1
+B|And her name is Angel.|sd|2650|1
+B|And we have a cat, who, a white cat. He's, he's just a Tabby, just a,|sd|2650|1
+B|and his name is Dominique.|sd|2650|1
+B|We call him Neek.|sd|2650|1
+A|Um,|b|2650|0
+B|But,|%|2650|1
+A|How do they get along together?|qw|2650|0
+B|Pretty good.|sd|2650|1
+B|Uh, we've, we had the, the dog first,|sd|2650|1
+B|and, uh, she's kind of a wimp|sd|2650|1
+B|and, and the cat kind of rules,|sd|2650|1
+B|but, uh, she likes him all right.|sd|2650|1
+B|He, we had another cat about two years ago.|sd|2650|1
+B|It got leukemia, feline leukemia so we had to have it put to sleep,|sd|2650|1
+A|Um.|b|2650|0
+B|and, uh, then we got this new cat,|sd|2650|1
+B|so, uh. I have two children|sd|2650|1
+B|and they really enjoy the animals.|sd|2650|1
+B|And then my mother who's very elderly lives with us,|sd|2650|1
+B|and she's really good friends with the dog.|sd|2650|1
+B|They're very, good buddies.|sd|2650|1
+A|Oh, yeah.|b|2650|0
+A|That's what are so neat about animals,|sv|2650|0
+A|I mean, they are, you know, like I said, they're, they're really companions, you know,|sv|2650|0
+A|and they're friends, you know.|sv|2650|0
+B|That's right.|aa|2650|1
+A|I mean, they, you can love them all you want|sv|2650|0
+A|and they love you right back|sv|2650|0
+A|and they don't|%|2650|0
+B|That's right.|ba|2650|1
+B|They don't care what you look like, or what you act like,|sv|2650|1
+A|No.|aa|2650|0
+B|They just love you, unconditionally.|sv|2650|1
+A|I know.|aa|2650|0
+B|It's wonderful.|sv|2650|1
+A|It's just so neat. You know,|sv|2650|0
+A|it's,|%|2650|0
+A|that's,|%|2650|0
+A|I don't know|h|2650|0
+A|this is just so hard.|sd|2650|0
+B|Oh, I know it has to be.|aa|2650|1
+A|It's just, it's like I said, we've had him for two years|sd|2650|0
+A|and he's never,|%|2650|0
+A|I mean, he's, he's gotten out,|sd|2650|0
+A|but he's always been right there.|sd|2650|0
+A|He's never been gone for, at all|sd|2650|0
+B|Uh-huh,|b|2650|1
+B|uh-huh.|b|2650|1
+A|you know, he's just always been right there when he gets out.|sd|2650|0
+B|Oh.|b|2650|1
+A|You know, it's the first time he's ever been gone like this|sd|2650|0
+B|Oh, that's really too bad,|ba|2650|1
+B|that's awful, well,|ba|2650|1
+A|Uh, I, I just knew today, uh, you know, that we looked at the pound, and that we just went all over the place,|sd|2650|0
+A|and I knew we were going to find him, you know,|sd|2650|0
+A|and when we didn't it was, like, oh, no,|sd|2650|0
+A|So I don't know.|h|2650|0
+B|Well, I, I'll, I hope you'll find him.|sd|2650|1
+B|You most likely will.|sv|2650|1
+A|Yeah,|aa|2650|0
+A|we keep, you know,|%|2650|0
+A|they told us like at the Humane Society and the adoption center, you know, don't give up hope, you know,|sd|2650|0
+B|Well, have you put any posters up or anything like that?|qy|2650|1
+A|We were talking about that tonight since, you know, he, we just, he just got out yesterday|sd|2650|0
+A|we were just talking about that whether|sd|2650|0
+A|we, we were trying to find some pictures of him recently.|sd|2650|0
+A|We've got so many when he was a puppy|sd|2650|0
+B|Uh-huh,|b|2650|1
+B|yeah.|b|2650|1
+A|you know, but we just don't have a whole lot.|sd|2650|0
+A|We have him on film, you know, on the video camera|sd|2650|0
+B|Uh-huh,|b|2650|1
+B|uh-huh,|b|2650|1
+B|yeah.|b|2650|1
+A|You know, but you can't put that on the|sd|2650|0
+B|No,|aa|2650|1
+B|you sure can't.|aa|2650|1
+A|you know, so So, I don't know,|h|2650|0
+B|Oh, dear.|ba|2650|1
+A|I, we will probably will put some things up. Some posters and stuff up|sd|2650|0
+B|Well, that's good.|ba|2650|1
+A|And hopefully that will help, you know, maybe around the neighborhood.|sd|2650|0
+A|But, we know a lot of people that live in this neighborhood,|sd|2650|0
+A|so that helps, too, you know, if they can keep,|sd|2650|0
+B|They can keep their eyes open,|^2|2650|1
+B|yeah.|%|2650|1
+A|yeah,|b^m|2650|0
+A|so,|%|2650|0
+B|That will help.|sv|2650|1
+B|Well,|%|2650|1
+A|I think that if somebody else picks him up,|sv|2650|0
+A|I think that, uh, if he gets out he'll come back.|sd|2650|0
+B|Yeah.|b|2650|1
+A|You know. I really do, because he knows exactly where he lives,|sd|2650|0
+A|so|%|2650|0
+B|Yeah,|b|2650|1
+B|yeah|b|2650|1
+B|he will.|aa|2650|1
+B|I bet he does.|aa|2650|1
+B|I know, that it's hard on you.|sd|2650|1
+B|I know that I'd be worried, too.|sd|2650|1
+A|I know.|aa|2650|0
+A|It's just like, it's, it's just so ironic that this would happen|sd|2650|0
+A|and I would get this, this kind of a call|sd|2650|0
+B|Yeah,|aa|2650|1
+B|isn't it, though?|bh|2650|1
+A|I know,|na|2650|0
+B|That's,|%|2650|1
+A|it's very strange|sd|2650|0
+A|but,|%|2650|0
+B|You know, I know sometimes our cat will, will stay out all night,|sd|2650|1
+B|and when he's not right at the door in the morning I really worry that something's happened to him, that somebody, he's got in a fight or, you know, somebody's hit him|sd|2650|1
+B|and, and uh, if he doesn't come by mid morning, then I really get scared.|sd|2650|1
+B|But he's always come back eventually|sd|2650|1
+B|so,|%|2650|1
+A|Well, that's good.|ba|2650|0
+A|That's one thing about cats though,|sv|2650|0
+A|they're so small|sv|2650|0
+B|Yeah.|b|2650|1
+A|and, you know, they can get hurt a lot easier.|sv|2650|0
+B|Yeah.|b|2650|1
+A|You know, they can get hurt a lot easier, you know,|sv|2650|0
+B|Yeah,|b|2650|1
+B|they can.|aa|2650|1
+A|so that would make you really, tend to worry about them you know, if they're not right there|sv|2650|0
+B|Yeah.|b|2650|1
+B|Yeah.|aa|2650|1
+B|Well, but he's a real feisty guy.|sd|2650|1
+B|He fights with other cats in the neighborhood because he doesn't want them on our property.|sd|2650|1
+A|Is that right?|bh|2650|0
+B|He's,|%|2650|1
+B|cats are really almost more territorial than, than dogs are.|sd|2650|1
+B|They just really do not want other animals on their property.|sd|2650|1
+B|They're very, very|%|2650|1
+B|he, he just|%|2650|1
+B|any cat that comes near, and even a dog he won't, he won't jump at them or anything,|sd|2650|1
+B|but he'll sit|sd|2650|1
+B|and he'll watch,|sd|2650|1
+B|and, I think maybe he would if it came real close,|sd|2650|1
+B|but he's very protective of our property.|sd|2650|1
+A|Huh.|b|2650|0
+A|That's really,|%|2650|0
+A|I, I guess I really don't know cats that well because my mother never liked them,|sd|2650|0
+B|Uh-huh.|b|2650|1
+A|so I never had them growing up,|sd|2650|0
+B|Yeah.|b|2650|1
+A|so, you know, I never really had them around me, you know,|sd|2650|0
+A|so I've never owned one you know, since I,|sd|2650|0
+B|Well, they're really a lot different than dogs because they're not, they're very independent,|sd|2650|1
+B|and they're very, he's very affectionate when he wants to be,|sd|2650|1
+B|but if you want him to be and he doesn't want to be, he'll just, he'll, you know either scratch you or run away.|sd|2650|1
+A|Huh.|b|2650|0
+B|But when he wants to be, uh, he's really affectionate.|sd|2650|1
+B|He likes to lay next to you and have you scratch his head and, and, and snuggle up to you,|sd|2650|1
+B|and, but if he's not in the mood, you'd better stay away from him.|sd|2650|1
+A|Huh|b|2650|0
+B|But, dogs seem to be always in the mood.|sv|2650|1
+B|They're always, you know, right there, and like, like you to pet them and loving.|sv|2650|1
+A|Yeah,|aa|2650|0
+A|that's true|aa|2650|0
+A|I, I like the way they come up|sd|2650|0
+A|and they'll, they'll put their head underneath your hand, you know.|sv|2650|0
+B|Yeah,|b|2650|1
+B|yeah, oh.|b|2650|1
+A|that,|%|2650|0
+A|and, uh, most dogs do that.|sv|2650|0
+A|I mean,|%|2650|0
+B|Yeah,|aa|2650|1
+B|they do.|aa|2650|1
+A|I don't know any that really don't.|sd|2650|0
+A|I mean, you know, they know exactly how to get that attention, you know,|sv|2650|0
+B|They sure do.|aa|2650|1
+A|they just, you know, come up,|sv|2650|0
+A|and they put your, you know|sv|2650|0
+B|Yeah.|b|2650|1
+A|or they'll rub their, their head against you, you know|sv|2650|0
+B|Now, do you keep him indoors most of the time other than to go|qy|2650|1
+A|Well, no.|nn|2650|0
+A|Well, well, he's outside during the day|sd|2650|0
+A|and then we get home at night we do bring him in.|sd|2650|0
+B|You have a fenced yard or,|qy|2650|1
+A|Uh-huh,|ny|2650|0
+B|Uh-huh.|b^m|2650|1
+A|yeah.|ny|2650|0
+A|The backyard, it's really big, too, for him to run in and stuff.|sd|2650|0
+A|That's why we couldn't understand why he would want to get out you know, because he's had all this room to run in,|sd|2650|0
+B|Yeah.|b|2650|1
+A|and, but,|%|2650|0
+B|Well, how did he get out?|qw|2650|1
+A|He dug a hole under the fence.|sd|2650|0
+B|Oh, boy.|ba|2650|1
+A|Well, see, he did, he did it a couple weeks ago, dug a hole,|sd|2650|0
+A|and, you know, we, we filled it back up put him back in there.|sd|2650|0
+B|Uh-huh.|b|2650|1
+A|He did it again|sd|2650|0
+B|Uh-huh.|b|2650|1
+A|so we chained him up|sd|2650|0
+B|Uh-huh.|b|2650|1
+A|you know, but we really didn't want to keep him chained up because, you know, we feel like that's just too restricting for him.|sd|2650|0
+B|Right,|b|2650|1
+B|right.|b|2650|1
+A|So, uh, we got, we, we put dirt in the hole and then put some chicken wire around it, you know, so that he couldn't get out.|sd|2650|0
+B|Uh-huh.|b|2650|1
+A|Well, he kind of ripped through the chicken wire|sd|2650|0
+B|Oh.|bk|2650|1
+A|So I can't,|%|2650|0
+A|I, I, I just have not,|%|2650|0
+A|I don't understand, you know, because it's, like, he's got a good home, you know,|sd|2650|0
+A|he's got,|%|2650|0
+A|I mean, we have two kids, you know, that just love him a lot,|sd|2650|0
+B|Yeah,|b|2650|1
+B|yeah.|b|2650|1
+A|You know, it's like we can't understand why he kept wanting to get out, you know,|sd|2650|0
+A|we just couldn't,|sd|2650|0
+B|Well, you know, that, animals are like that.|sv|2650|1
+B|They like to roam and investigate. And see what's going on.|sv|2650|1
+A|Yeah|aa|2650|0
+A|I guess that's,|%|2650|0
+A|Yeah,|aa|2650|0
+A|I guess that's probably true.|aa|2650|0
+A|I don't think it's anything we did|sv|2650|0
+B|No.|aa|2650|1
+A|Least I hope not|sd|2650|0
+B|No.|aa|2650|1
+B|I'm sure that, yeah,|sv|2650|1
+A|No,|aa|2650|0
+A|I, I know,|aa|2650|0
+A|I mean he's always, you know, he really does have a good home.|sd|2650|0
+A|I think that's what really bothers me the most about it|sd|2650|0
+B|Yeah.|b|2650|1
+A|You know, it's like,|%|2650|0
+B|How are your kids handling it?|qo|2650|1
+A|Well, I don't know if it's quite hit him, hit them.|sd|2650|0
+B|Uh-huh.|b|2650|1
+A|I have two girls,|sd|2650|0
+B|Uh-huh.|b|2650|1
+A|and they, they just been real, uh,|sd|2650|0
+A|I don't know,|h|2650|0
+A|at first, you know, they seemed to be upset,|sd|2650|0
+A|but now it's like, uh, well if he doesn't come home, can we get another dog|sd|2650|0
+B|yeah,|b|2650|1
+B|that sounds like kids.|sv|2650|1
+A|It's like, wait a minute you know,|sd|2650|0
+B|Oh.|b|2650|1
+A|poor Buddy, you know.|^q|2650|0
+A|I said, he's only been gone a day|sd|2650|0
+A|and you already want to replace him|^q|2650|0
+B|What's his name,|qw|2650|1
+B|did you call?|qy|2650|1
+A|Buddy.|sd|2650|0
+B|Buddy?|qy|2650|1
+A|Uh-huh.|ny|2650|0
+B|We, that's was our cat's name that, that, that died.|sd|2650|1
+A|Is that right|bh|2650|0
+B|Oh, yeah.|ny|2650|1
+B|We named him, uh, we named him Buddy after, uh, Buddy Bell, uh, the Ranger baseball player that used to be here.|sd|2650|1
+A|Oh|bk|2650|0
+B|And we used to,|%|2650|1
+B|we were really into that when we got him going to the Ranger games,|sd|2650|1
+B|and we named him Buddy Beaner for some reason.|sd|2650|1
+B|But, Buddy after Buddy Bell,|sd|2650|1
+B|so,|%|2650|1
+A|That's funny.|ba|2650|0
+B|But, he was, he was a good cat, too.|sd|2650|1
+B|We miss him a lot,|sd|2650|1
+A|Yeah.|b|2650|0
+B|and I, I feel real guilty because we had him, like, for six years|sd|2650|1
+B|and one year I forgot to get him his leukemia booster|sd|2650|1
+B|and he got it.|sd|2650|1
+A|Oh.|b|2650|0
+B|And I just felt so bad,|sd|2650|1
+B|I, it's real contagious|sd|2650|1
+B|and it's,|%|2650|1
+B|and the vet said it runs rampant in this area|sd|2650|1
+A|I didn't know that.|sd|2650|0
+B|and if they don't have their booster, any kind of saliva or anything from another cat, if they get in a fight it automatically, like,|sd|2650|1
+B|they get it if the other cat has it|sd|2650|1
+B|so,|%|2650|1
+A|I had, I had no idea.|sd|2650|0
+B|Oh.|b|2650|1
+A|I did not know that.|sd|2650|0
+B|Oh.|b|2650|1
+B|It was,|%|2650|1
+B|I just felt terrible.|sd|2650|1
+B|I knew something was wrong with him because his appetite was,|sd|2650|1
+B|he was just getting real skinny. fade|sd|2650|1

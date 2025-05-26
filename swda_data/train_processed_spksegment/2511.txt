@@ -1,0 +1,166 @@
+A|Well, Wayne, I've never done any, uh, auto repairs myself at all.|sd|2511|0
+B|Uh-huh.|b|2511|1
+A|I mean, I may have screwed in a little screw that looked like it was falling out on the door or something|sd|2511|0
+A|but, uh, I personally haven't done anything.|sd|2511|0
+A|Maybe I've, uh, changed wiper blades or something|sd|2511|0
+A|but I have noticed since, uh, I got married that my husband, he hates to do auto repairs,|sd|2511|0
+A|but he would rather do them himself than, than to pay someone else.|sd|2511|0
+A|I guess, he can't make himself pay someone to do the repairs when he knows, he knows how to do it,|sd|2511|0
+A|and he'll do it.|sd|2511|0
+A|So, he, he hates the time that he takes,|sd|2511|0
+A|but he has changed, um, the brakes|sd|2511|0
+A|and he has done all of the tune-ups|sd|2511|0
+A|and the like that|sd|2511|0
+A|and recently he changed the steering mechanism in the car.|sd|2511|0
+A|I was really impressed with that|sd|2511|0
+A|We had to have it to get the car inspected,|sd|2511|0
+A|it wouldn't pass inspection|sd|2511|0
+A|and, and so, he priced around|sd|2511|0
+A|and everyone wanted several hundred dollars for it|sd|2511|0
+A|so, he thought, well, I can get one in a junkyard for like fifty dollars, which he did|sd|2511|0
+A|and then, he did it|sd|2511|0
+A|and, so, I guess, uh, he's been pretty good about keeping our cars up,|sd|2511|0
+A|what, uh, what's your experience been like?|qo|2511|0
+B|Well, I, uh, I have a long experience with cars.|sd|2511|1
+B|I, uh, when I was younger, uh, my brother had a Corvette|sd|2511|1
+B|and I bought a Corvette|sd|2511|1
+B|and when you have a Corvette you more or less do all the work|sd|2511|1
+B|and I've done everything from build the motor from the, uh, you know, the bare block on up.|sd|2511|1
+B|And, I, I'm the same way as your husband is when it comes to my car, I hate to go pay somebody good money, you know,|sd|2511|1
+B|I hate to pay somebody twenty-five dollars on hour for something I can do myself.|sd|2511|1
+A|Uh-huh.|b|2511|0
+B|It just, to me it makes absolutely no economic sense to do that.|sv|2511|1
+A|Right.|b|2511|0
+B|In fact, I, um, just this past weekend put new plugs in both, uh, my car an my wife's car.|sd|2511|1
+A|Uh-huh.|b|2511|0
+B|And so, I, uh, I pretty much try to troubleshoot and do everything I can do myself|sd|2511|1
+B|but I've, I've gotten to the point in my life, um, you know, I just crept over forty years old, where I don't want to crawl underneath the car anymore|sd|2511|1
+A|That makes sense.|ba|2511|0
+B|I mean it's, um, I don't know whether I've, I've just reached a point, you know,|sd|2511|1
+B|it's, it's real rough in the winter time.|sd|2511|1
+A|Huh, yes.|b|2511|0
+B|And, uh, so, I try to make sure that, uh, by the time fall runs around, because we actually have winters here on the east coast, um, that, uh, I have, you know, the car's in pretty good shape enough to last through the winter|sd|2511|1
+A|Right|b|2511|0
+B|and, uh, then springtime I usually end up giving them, the, uh, a tune-up and make sure that they're running well,|sd|2511|1
+B|and, uh, you know, it's like I had the muffler go out on my, on my car, shortly before it was required to go,|sd|2511|1
+B|in Maryland they have, uh, emission tests.|sd|2511|1
+A|Uh-huh.|b|2511|0
+B|And you're required to get your car and go through the emission test,|sd|2511|1
+B|well, my muffler, of course, starting going bad right before I was supposed to go to the emission test,|sd|2511|1
+B|so. You know, I had to do that job,|sd|2511|1
+B|and of course, that was back in December when it's nice and cold outside|sd|2511|1
+A|Yes,|b|2511|0
+A|I'm sure it was.|ba|2511|0
+B|But the thing was that I could do the job myself,|sd|2511|1
+B|I mean, the parts cost me, oh, roughly a hundred dollars.|sd|2511|1
+A|Uh-huh.|b|2511|0
+B|Um, if I'd taken it someplace and have it done it was going to be three hundred twenty-five.|sd|2511|1
+A|Right.|b|2511|0
+B|Now like who's got that extra two and a quarter|qh|2511|1
+B|I know I don't.|sd|2511|1
+A|Yeah.|b|2511|0
+A|Well, that's exactly the way he feels is that, he really hates to spend the time,|sd|2511|0
+A|it takes a lot of time|sd|2511|0
+A|if he, if he thinks it's going to be two hours, it's four if, you know, whatever, it always takes him twice as long.|sd|2511|0
+A|But then when he's finished he's, he always says, well, now you owe me three hundred dollars|sd|2511|0
+A|And then he thinks that he has the money that, that he can spend on something|sd|2511|0
+A|and he hasn't given it to someone else.|sd|2511|0
+B|Yeah.|b|2511|1
+A|So, he gets some satisfaction out of that although, generally I think he, he does not look forward to or anticipate,|sd|2511|0
+A|there's some people that enjoy tinkering around on cars.|sd|2511|0
+A|There's a lot of people|sd|2511|0
+A|and he just isn't one of them.|sd|2511|0
+B|Yeah.|b|2511|1
+B|I, uh, I don't mind it,|sd|2511|1
+B|um, there was a time when I had my Corvette,|sd|2511|1
+B|I mean, of course, I loved it, um,|sd|2511|1
+B|but if, you know,|%|2511|1
+B|I've got other interests now|sd|2511|1
+B|and there's a lot, other more important things I think I should be doing with my time.|sd|2511|1
+B|And I have the same problem,|sd|2511|1
+B|I mean, you can tell him from me|ad|2511|1
+B|but it doesn't matter,|sd|2511|1
+B|I mean, I've, I've had greasy fingernails for years|sd|2511|1
+B|And it still takes me twice as long as I think it's going to take to do the job,|sd|2511|1
+A|Yeah.|b|2511|0
+B|so, but, I think the difference is that, uh, when you own the car you take more care in what you're doing,|sd|2511|1
+A|Uh-huh.|b|2511|0
+B|and you want to make sure that it's done right and put back together right,|sd|2511|1
+B|and, you know, I've, I've in the past I've had brake jobs done by someone that when I went back and looked at it some months later I'd find something drastically wrong with it, you know, like a spring that was put in incorrectly which could have resulted in brakes failing and me having an accident. You know, those kind of things,|sd|2511|1
+A|Right.|b|2511|0
+A|Right.|b|2511|0
+B|and when you have a vehicle that's being used by, you know, other members of your family, you know, you don't want that kind of a situation to come up.|sd|2511|1
+A|No.|b|2511|0
+B|And it's very, very difficult to find a mechanic these days that you can trust.|sv|2511|1
+B|I only have one guy that I know that I trust to work on my car.|sd|2511|1
+A|Uh-huh.|b|2511|0
+B|And, uh, he's about sixty miles from here.|sd|2511|1
+B|And so, it,|%|2511|1
+B|and if I have something that's really major that I can't handle or feel I don't have the time to handle, I'll take it to him to do it.|sd|2511|1
+A|Right,|b|2511|0
+A|you know, that it's, uh , really has a bad reputation is to feel that, that people in general feel and have, have rightly so, I think been cheated many times,|sd|2511|0
+A|and, um, and well, I know once when we had a,|sd|2511|0
+A|we usually inspection time we find out there's something wrong with our car|sd|2511|0
+A|but, um, once the muffler needed to be changed|sd|2511|0
+A|and, uh, he had looked at him himself|sd|2511|0
+A|and, but we saw a commercial for like fourteen or twenty dollars or something for a change|sd|2511|0
+A|he said, that's really, really good|sd|2511|0
+A|so, he went in|sd|2511|0
+A|and, uh, but when they quoted him a price they really wanted fifty or something.|sd|2511|0
+A|Anyway, but the car that the muffler people had, um, my, at least my husband felt that they had damaged the muffler further, you know,|sd|2511|0
+A|they had punctured a big hole in it when it really could have just been patched or whatever,|sd|2511|0
+B|Uh-huh.|b|2511|1
+A|and so, since then, I don't think he's ever even seriously considered a, you know, any kind of job he thought he could do himself.|sd|2511|0
+A|But, I know from his childhood, he says that his father always buys and restores cars just as entertainment, I guess.|sd|2511|0
+A|And, um, so, Kelly growing up, he, he felt like that, that was a good way on Saturday's that he developed a good relationship with his father.|sd|2511|0
+B|Uh-huh.|b|2511|1
+A|And so, he used, they used car repairs kind of as a way to have a, you know, something that they did together,|sd|2511|0
+B|Uh-huh.|b|2511|1
+B|Yeah.|b|2511|1
+A|and he thought that turned out pretty good because it, you know, it helped him to understand and be functional now,|sd|2511|0
+A|and it helped him to have a close relationship,|sd|2511|0
+A|so, that's one, one way he looked at it.|sd|2511|0
+B|Yeah.|b|2511|1
+B|that's probably, uh, uh, something that, uh, is, is you know, is good for both of them.|sd|2511|1
+B|I know that, uh, my older son I could never get him interested in cars|sd|2511|1
+B|and I couldn't, you know,|sd|2511|1
+B|I just like, you know,|sd|2511|1
+B|you sure you're a boy,|^q|2511|1
+B|I mean, your not interested in cars,|^q|2511|1
+A|Uh-huh.|b|2511|0
+B|I mean he, he just would not have anything to do with them.|sd|2511|1
+B|And, uh, later on and like when he, you know, grew up, got out of the house, got his own car, um, he didn't know how to do anything to it. I mean, absolutely nothing.|sd|2511|1
+B|I mean, he couldn't even check the oil.|sd|2511|1
+B|I mean, that's, that's how uninformed he was and disinterested.|sd|2511|1
+A|Uh-huh.|b|2511|0
+B|And, I guess there are some people out there like that, um, you know,|sd|2511|1
+B|I always thought maybe, you know, if he took more of an interest and, you know, what I was doing|sd|2511|1
+B|and maybe we could have communicated better.|sd|2511|1
+A|Uh-huh.|b|2511|0
+B|But, uh, yeah,|b|2511|1
+B|I, I think that's great.|ba|2511|1
+A|Yeah,|b|2511|0
+A|it didn't always work.|sd|2511|0
+A|Well, I felt, um, I feel like I could myself, do some things but, that I have enough responsibility that if I have someone like my father when I was living at home, and my husband, that's willing to do it, I go ahead and let them do it.|sd|2511|0
+A|I don't feel the need to, um, you know, be a feminist on that issue and say I can take care of my own things.|sd|2511|0
+A|I'm, I'm happy to let them run the cars because I have so, many other responsibilities that, um,|sd|2511|0
+A|so, I haven't tried to do a lot myself.|sd|2511|0
+B|Uh, I trained my, uh, my wife in the in, in doing things,|sd|2511|1
+B|in fact, uh, when I, uh, first transferred down to, uh, Texas Instruments back in nineteen eighty-seven, um, uh, when I left here, uh, she had to change a set of plugs on the car because she was up here for a month or so, after I was|sd|2511|1
+A|Uh-huh.|b|2511|0
+A|Uh-huh.|b|2511|0
+B|and, uh, it was an interesting experience for her.|sd|2511|1
+B|I mean, she'd always assisted me and done some other things|sd|2511|1
+B|but for her to actually get in there and do it herself it was, uh, it was something, a little different.|sd|2511|1
+A|It's a good experience,|ba|2511|0
+A|it helps you feel, I think comfortable with your car and feel like, it's not so, scary if, um, your driving it and you might get stranded somewhere that you might, you think, well, I've, I've been under that hood|sv|2511|0
+A|and I know what's going on|^q|2511|0
+A|but,|%|2511|0
+B|Yeah,|b|2511|1
+B|yeah,|b|2511|1
+B|I think it's important that everyone know, you know, basically how, how the darn engine works,|sv|2511|1
+A|Uh-huh.|b|2511|0
+B|it helps you figure out what's wrong with it, you know,|sd|2511|1
+A|Uh-huh.|b|2511|0
+B|I've, I've been out with my sister before when, you know, her car died on the highway|sd|2511|1
+B|and I happened to be with her and managed to get her to the other side of the road because it was dark and all,|sd|2511|1

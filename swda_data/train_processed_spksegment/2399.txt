@@ -1,0 +1,159 @@
+A|Okay, um,|fo_o_fw_"_by_bc|2399|0
+A|let's see.|^h|2399|0
+A|How do you feel about credit cards?|qo|2399|0
+B|Personally, I do not care for them. Uh, although I find them a necessity in business and so forth,|sd|2399|1
+B|I, I try to refrain from their use as much as possible. Um, for a number of reasons, one of which is the, you know, extreme interest rate on most of them.|sd|2399|1
+A|Uh-huh.|b|2399|0
+B|The one I use, uh, of course, for mostly, only for business purposes is, uh, you know, American Express.|sd|2399|1
+A|Right.|b|2399|0
+B|And, uh, I'm not I'm not terribly in favor of them.|sd|2399|1
+B|Not for my own personal, uh, point of view.|sd|2399|1
+A|Right.|b|2399|0
+B|Plus it, uh, has, you know, from an economic point of view it has increased our debt tremendously to the tune of somewhere on the order of five to ten billion, I believe|sd|2399|1
+A|Yeah.|b|2399|0
+A|Right.|b|2399|0
+A|Wow.|ba|2399|0
+B|uh, at least that's one number for this range of numbers I have, I have heard.|sd|2399|1
+A|Right.|b|2399|0
+B|Do you use them frequently|qy|2399|1
+B|or,|%|2399|1
+A|Well, we, uh, me and my wife, when, when we have like extra money that we know we're going to have, and we can put it in our budget, yeah, we'll, we'll use it.|sd|2399|0
+A|But like last year, I think we paid,|sd|2399|0
+A|I think it was like twenty something cents interest, on our Visa.|sd|2399|0
+B|Uh-huh.|b|2399|1
+A|And I think this, this year we, uh, I think we used it for Christmas,|sd|2399|0
+A|and we got caught just a few days on our grace period.|sd|2399|0
+A|And, uh, so we'll pay a little interest this year, but maybe two dollars.|sd|2399|0
+A|But we don't like to do that at all.|sd|2399|0
+B|Yes.|b|2399|1
+A|And, you know, we, I think we feel about the same way you do real strongly.|sd|2399|0
+A|We, uh, we have several credit cards, though.|sd|2399|0
+A|We have a gas card, our Visa, and then, of course, the American Express,|sd|2399|0
+A|and I think we have a couple of department stores.|sd|2399|0
+B|Uh-huh.|b|2399|1
+A|But, we use it the same way,|sd|2399|0
+A|and, uh,|%|2399|0
+B|I find the one I use mostly, uh,|sd|2399|1
+B|aside from the American Express, I do use my Sears card.|sd|2399|1
+A|Uh-huh.|b|2399|0
+B|But, uh, I try, as with the American Express, I try to pay it, you know, as it comes in.|sd|2399|1
+A|Right.|b|2399|0
+A|Right.|b|2399|0
+B|So, uh,|%|2399|1
+A|It's, it's not uncommon for us to have paid it before we even get the bill.|sd|2399|0
+A|That's usually how we do it.|sd|2399|0
+B|I know when I travel, or when I used to travel overseas quite a bit, what I would do on my American Express card is before I would, before I left I would mail a check to, to American Express and, you know, have some idea of how much was there, you know, I'd sent them, you know, several hundred dollars, or whatever I felt I would spend. And then use it then.|sd|2399|1
+A|Uh-huh.|b|2399|0
+A|Uh-huh.|b|2399|0
+A|Yeah.|b|2399|0
+A|Yeah.|b|2399|0
+B|But, uh, for hotels and, and so forth.|sd|2399|1
+B|But, uh, but I knew that it was paid|sd|2399|1
+B|I knew I knew that I had that much credit, going in.|sd|2399|1
+A|Right.|b|2399|0
+A|Yeah.|b|2399|0
+B|Sometimes, you know, sometimes I would go over,|sd|2399|1
+B|but it wouldn't, you know, it wouldn't hit me in a big, in a big way because I knew that, uh, I would have it covered in that respect.|sd|2399|1
+A|Right.|b|2399|0
+A|Right.|b|2399|0
+A|That's good.|ba|2399|0
+A|I've, I don't think we've gone that far to pay it in you know, in advance before we spend it,|sd|2399|0
+A|but, I guess if you foresaw that you were going to have to use it, that, like that, that may be good.|sv|2399|0
+B|Well, I found I found in, um, in traveling overseas that, uh, often it would, uh, it would expedite things to have an American Express credit card for hotel bills and so forth.|sd|2399|1
+A|Uh-huh.|b|2399|0
+A|Oh really.|b|2399|0
+A|Yeah.|b|2399|0
+B|Plus I would, uh, when they, uh, would send the bill, they would automatically convert to the exchange rate.|sd|2399|1
+A|Right,|b|2399|0
+A|right.|b|2399|0
+B|So, now, the only time that got to be a problem was, if the exchange rate changed drastically.|sd|2399|1
+A|Uh-huh.|b|2399|0
+B|Uh, for example, I remember on one trip to France when I started planning the trip, I think, uh, a dollar was worth nine or ten|sd|2399|1
+A|Uh-huh.|b|2399|0
+B|And when I finally got over there, it had fallen, uh, two or three francs to the dollar.|sd|2399|1
+B|So the|%|2399|1
+A|Wow|ba|2399|0
+B|So, I got caught a little short in that regard,|sd|2399|1
+A|Wow.|ba|2399|0
+B|but, uh uh, I, I was anticipating, you know, my room would cost, uh, let's say|sd|2399|1
+A|Yeah.|b|2399|0
+B|if it were, say sixty or seventy francs a night that would mean it would be about ten dollars or so, or maybe twenty|sd|2399|1
+A|Right.|b|2399|0
+B|maybe it would be more than that.|sd|2399|1
+B|It was more than.|sd|2399|1
+B|It would average out to thirty-five or forty dollars a night which is a reasonable rate.|sd|2399|1
+A|Right.|b|2399|0
+A|Right.|b|2399|0
+B|But then when I got back and I was working for the government at the time|sd|2399|1
+A|Uh-huh.|b|2399|0
+B|of course the government was several months behind in, their, on its per diem for exchange rate.|sd|2399|1
+A|Right,|b|2399|0
+A|yeah.|b|2399|0
+A|Right.|b|2399|0
+B|So there's a little consternation, you know, in trying to get them to compensate, for the difference in the exchange rate.|sd|2399|1
+A|Yeah.|b|2399|0
+A|Right.|aa|2399|0
+A|Yeah|aa|2399|0
+A|especially,|%|2399|0
+B|That was the only time I really got caught short.|sd|2399|1
+B|And I, But as I said, most, most of all I try not to use them, uh, to any, you know, lavishly, in that regard.|sd|2399|1
+A|Yeah.|b|2399|0
+A|Yeah,|b|2399|0
+A|well that's good.|ba|2399|0
+B|Well, from where are you calling?|qw|2399|1
+A|Oh, from the Dallas area.|sd|2399|0
+B|So you're from|bf|2399|1
+B|okay,|bk|2399|1
+B|I'm from Maryland.|sd|2399|1
+A|Oh really.|bh|2399|0
+B|Yeah|ny|2399|1
+A|Wow.|ba|2399|0
+A|Do you work for T I?|qy|2399|0
+B|No.|nn|2399|1
+B|I work for G T E.|sd|2399|1
+A|Well, really.|bh|2399|0
+B|Yes.|ny|2399|1
+A|Um. I wonder how T I got G T E involved.|qy^d|2399|0
+B|Well, I know Jack Godfrey.|sd|2399|1
+A|Oh, okay.|bk|2399|0
+B|I know him very well.|sd|2399|1
+B|I've known Jack for a long time,|sd|2399|1
+B|and I'm also in the speech business.|sd|2399|1
+A|Oh, okay.|bk|2399|0
+B|So, when I heard that Jack was going to do this, I called him and asked for an application where I could participate in this.|sd|2399|1
+A|Yeah,|b|2399|0
+A|yeah.|b|2399|0
+B|And, so that's how I got involved.|sd|2399|1
+A|Yeah.|b|2399|0
+A|You have a very, um, very,|sv|2399|0
+A|what's the word.|t1|2399|0
+A|Your, your speech is very exact.|sv|2399|0
+B|Oh. Thank you very much|ft|2399|1
+B|But, as Jack said, I'm one of the, the old hands in the speech business.|sd|2399|1
+A|Oh really.|bh|2399|0
+B|Yeah,|ny|2399|1
+B|uh. Yes,|ny|2399|1
+B|I, I've been doing it for twenty some odd years.|sd|2399|1
+A|Wow.|ba|2399|0
+B|And so, uh, I was very much interested, uh, in getting involved in, uh, switchboard.|sd|2399|1
+A|Yeah.|b|2399|0
+B|So, uh, you work for T I?|qy^d|2399|1
+A|Right.|na|2399|0
+A|I work in .|sd|2399|0
+B|Oh, really?|bh|2399|1
+A|Yeah.|ny|2399|0
+B|I guess we're supposed to do this part of it before we started the recording|sd|2399|1
+A|Yeah|aa|2399|0
+A|I think we talked for a good eight minutes about the subject,|sd|2399|0
+A|so, I think you get ten,|sd|2399|0
+A|so I think we're okay.|sv|2399|0
+B|Alright.|aa|2399|1
+B|Okay,|aa|2399|1
+B|fine.|aa|2399|1
+B|Well, you have a good evening.|fc|2399|1
+A|Well, you too.|fc|2399|0
+B|It's been pleasant talking to you.|fc|2399|1
+A|Same here.|fc|2399|0
+B|Take care.|fc|2399|1
+B|Good night.|fc|2399|1
+A|Bye.|fc|2399|0

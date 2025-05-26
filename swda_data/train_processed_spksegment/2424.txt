@@ -1,0 +1,192 @@
+B|There we go.|fo_o_fw_"_by_bc|2424|0
+A|Okay.|fo_o_fw_"_by_bc|2424|1
+A|Well, uh, what do you think about taxes,|qo|2424|1
+A|do you think we're paying too much?|qy|2424|1
+B|Yes and no.|no|2424|0
+B|Income tax, no.|sd|2424|0
+B|I, uh, I look at it this way, uh, you've got to pay for the privilege of living here.|sv|2424|0
+A|Uh-huh.|b|2424|1
+B|But, uh, being a, uh, a rec vehicle owner,|sd|2424|0
+B|well, in fact, I live in a motor home.|sd|2424|0
+B|I'm a what they call a full timer|sd|2424|0
+B|and, uh, it burns gas like crazy.|sd|2424|0
+B|I only get seven miles to the gallon.|sd|2424|0
+B|I really resent this fact that they keep adding on gasoline taxes|sv|2424|0
+B|and they call it, uh, uh,|sd|2424|0
+B|what's the word they use,|qw|2424|0
+B|anyway, a, a luxury tax.|sd|2424|0
+A|Yeah.|b|2424|1
+B|They add it on on to tires and gasoline, cigarettes, liquor.|sd|2424|0
+B|It doesn't bother me any because I've quit drinking|sv|2424|0
+B|and I quit smoking.|sd|2424|0
+B|So, that doesn't bother me|sv|2424|0
+B|but I don't think it's fair.|sv|2424|0
+A|Yeah.|b|2424|1
+B|It's too, um, um, it's attacking just certain people.|sv|2424|0
+A|How true.|aa|2424|1
+B|Even with the gasoline tax.|sv|2424|0
+A|Yeah.|b|2424|1
+A|Well, gasoline, especially, in this part of the country we all use it all the time, you know,|sv|2424|1
+A|it's, that's not what I would consider a luxury.|sv|2424|1
+B|No.|b|2424|0
+B|Uh, fifty years ago the automobile was a luxury|sv|2424|0
+B|but it's a necessity today|sv|2424|0
+B|and, uh, as hard as they try to get these public transit things going I have never seen nor heard of one that really got of the ground. Or that accomplish what they set out to to accomplish.|sv|2424|0
+A|Yeah.|b|2424|1
+B|What are your feelings on it?|qo|2424|0
+A|Well, um, I, I think that we probably are paying a little too much tax considering what we're getting for it and how it's being managed and so forth.|sv|2424|1
+A|I mean, I, I think there could be a better system|sv|2424|1
+A|and we would get more for our money.|sv|2424|1
+A|It's totally out of our hands|sv|2424|1
+A|so we don't, we can't really do a whole lot about how that money is spent and where it goes|sv|2424|1
+A|and, uh,|%|2424|1
+B|Yeah.|aa|2424|0
+B|That, that's, that's so true.|aa|2424|0
+B|I mean, they say well, you voice your opinion, uh, uh, uh, on election day.|sv|2424|0
+A|But not really.|sv|2424|1
+B|No,|aa|2424|0
+B|you don't.|aa|2424|0
+B|Look what happened on the last presidential election,|sv|2424|0
+B|read my lips.|^q|2424|0
+B|And what happened they turned around and double crossed us.|sv|2424|0
+A|Yeah.|b|2424|1
+B|So, uh, I mean, you can't believe what you hear.|sv|2424|0
+A|Well, I think too,|sv|2424|1
+A|one of the things that rubs me the wrong way the most is those programs that are funded by Congress and, uh, that don't seem to have any validity at all.|sv|2424|1
+A|I mean, they're always far out|sv|2424|1
+A|and, uh, you know, they're studying some obscure bug, you know, in some other part of the world or some such thing,|sv|2424|1
+B|Oh.|b|2424|0
+B|Uh, yes.|b|2424|0
+A|and our tax money pays for those things|sv|2424|1
+A|and I think that's wrong.|sv|2424|1
+A|I,|%|2424|1
+B|I agree|aa|2424|0
+B|and, and, uh, I, I also think we extend too much help to other, uh, countries|sv|2424|0
+B|we need enough help here in this country.|sv|2424|0
+A|That's right.|aa|2424|1
+B|They're still people starving people here *They're There're|sv|2424|0
+B|why should we help starving people somewhere else.|qh|2424|0
+A|Yeah.|aa|2424|1
+A|And I think here lately they've been saying quite often and maybe somebody's coming to realize we're the nation in trouble.|sv|2424|1
+B|Absolutely.|aa|2424|0
+B|Now I can't wait for, uh,|sv|2424|0
+B|I, I could just picture what's going to happen here in the not to distant future.|sv|2424|0
+B|We keep hearing well, we're going to receive, uh, eight billion dollars from Japan for the, uh, uh-huh, the, the, the big, war over there in the Mideast.|sv|2424|0
+A|The war.|^2|2424|1
+A|Uh-huh.|b|2424|1
+B|And, uh, so many billions of dollars here and there and everything|sv|2424|0
+B|and, uh, the next thing you know we'll be turning around just like we did to Poland|sv|2424|0
+B|and say, well, just forget it.|sv|2424|0
+A|Yeah.|b|2424|1
+A|And I think that's a mistake.|sv|2424|1
+B|Oh, definitely.|aa|2424|0
+A|Somewhere, you know, we have to realize that we can't just keep giving it away.|sv|2424|1
+B|Well, another thing now they keep decontrolling different things.|sv|2424|0
+B|First, it was the airlines then it was banks and, and, uh, um, savings association, and whatnot.|sv|2424|0
+A|We know what trouble they got into|sv|2424|1
+B|Exactly.|aa|2424|0
+B|And the same with the airlines back in the days when they were, uh, controlled and, and, uh, Transcontinental or, um, um, Interstate, uh, Trucking.|sv|2424|0
+B|I mean, as soon as the federal government gave up control on all that, they just went to hell in a hand basket.|sv|2424|0
+A|Yeah.|b|2424|1
+B|Prices went sky high.|sv|2424|0
+B|Then, in, in the case of airlines, of course, they became highly competitive|sv|2424|0
+B|and they cut each others throats until they're, they reach the point where they're cutting their own throat.|sv|2424|0
+B|And, uh, well, of course, that's getting away from taxes isn't it,|qy|2424|0
+B|that's government controlled.|sd|2424|0
+B|But, uh,|%|2424|0
+A|Well, I, I think another thing too that, um, I've had a little contacted with, uh,|sv|2424|1
+A|in regard to taxes let's say that, uh, you have something that the I R S disagrees with or, you know, says, hey, we're not going to allow that.|sv|2424|1
+A|Well, I think they're very unfair in the amount of penalties and interest that they can attach to that because you, you will not only payback that that you wrote off|sv|2424|1
+A|but you will at least double that amount|sv|2424|1
+A|and,|%|2424|1
+B|Oh, by the time you get through with the, uh the penalties.|bf|2424|0
+A|Yes.|ny|2424|1
+A|And that's, to me there's something wrong there, you know.|sv|2424|1
+A|Yeah.|b|2424|1
+A|I mean, I can see paying the interest and some small penalty|sv|2424|1
+A|but they really stick it to you big time.|sv|2424|1
+B|Uh, I agree.|aa|2424|0
+B|I think the I R S is, uh, just too powerful.|sv|2424|0
+B|There should be some sort of a control on it.|sv|2424|0
+B|And they should be a little more humane.|sv|2424|0
+A|Uh-huh.|aa|2424|1
+A|Absolutely.|aa|2424|1
+B|Uh, the, uh, typical bureaucratic, I guess. That's, that's one of my pet peeves.|sv|2424|0
+B|I came up with a brilliant idea how we could reduce the, the budget.|sv|2424|0
+A|Uh-huh.|b|2424|1
+B|Very simple.|sv|2424|0
+B|Give, uh, uh, uh, government employees the average number of, uh, holidays as the, uh, private industry.|sv|2424|0
+A|Yeah.|b|2424|1
+B|I mean, you think about it now,|sv|2424|0
+B|they, they get about sixteen holidays a year.|sv|2424|0
+A|That's a lot.|sv|2424|1
+B|It sure is.|aa|2424|0
+B|And I think here at TI we get, what is it nine or ten?|sv|2424|0
+A|Well, I haven't counted.|sd|2424|1
+A|I, I would have guessed eight even|sd|2424|1
+A|but you might be right.|sv|2424|1
+A|I don't have any idea.|sv|2424|1
+B|Well, I remember, uh, uh,|sd|2424|0
+B|thinking, I think it was the last time I did hear that we get about the average.|sv|2424|0
+B|Maybe even a little more, a day or so more than the average.|sv|2424|0
+A|Yeah.|b|2424|1
+B|But, uh, government is ridiculous.|sv|2424|0
+A|Wow.|ba|2424|1
+B|Just think of the money they could save.|ad|2424|0
+B|I mean, they're, they're paying out this money anyway.|sd|2424|0
+A|Yeah.|b|2424|1
+B|Why not get the work out of the people.|qh|2424|0
+A|Yeah.|b|2424|1
+B|And, well, anyway that would, of course, eventually come back to taxes.|sv|2424|0
+B|But, uh, as far as income tax is concerned, I can't complain too much about it.|sv|2424|0
+B|Uh, I'm single,|sd|2424|0
+B|I have no, uh, dependents or anything,|sd|2424|0
+B|my children are all grown|sd|2424|0
+B|and they're out worrying about their own income taxes.|sd|2424|0
+A|Yeah.|b|2424|1
+A|Well, I, I have another thing that I thought about too, for instance, when you try to save money and you earn interest on whatever your investment is|sv|2424|1
+A|and, you know, we're not typically talking about big dollars|sv|2424|1
+A|but here you feel like you've, you've done something good|sv|2424|1
+A|you've, you've earned your interest|sv|2424|1
+A|and then you have to go back and pay taxes on it.|sv|2424|1
+A|So, the real amount of your savings on that is, is, not much.|sv|2424|1
+B|Uh, very true.|aa|2424|0
+B|That's,|%|2424|0
+A|You know, it's kind of a vicious circle there.|sv|2424|1
+B|And then they tell you to, uh, well, invest it in, uh, is it I R A or something|sv|2424|0
+B|and, and, when you turn, When you turn sixty-five why then you pay the tax on it|sv|2424|0
+A|And then, at a took that away as far as being,|sv|2424|1
+B|and the tax is a lot less.|sv|2424|0
+A|Yeah.|b|2424|1
+B|But in the mean time you've got your money tide up in a low, relatively low interest bearing investment.|sv|2424|0
+B|I mean, it's not making ten, fifteen percent like a business is today.|sv|2424|0
+A|Huh-uh.|b|2424|1
+B|Uh, me I'm a firm believer in that if you got it spend it.|sv|2424|0
+A|Well, you can come over to my house and spend it|ad|2424|1
+B|Well, you, well, do you, do you need some help spending yours?|qy|2424|0
+A|I wish I had some to spend.|sd|2424|1
+A|No.|nn|2424|1
+A|No.|nn|2424|1
+A|I just don't have any.|sd|2424|1
+B|Oh, uh-huh.|bk|2424|0
+B|Well, that's my problem too.|sv|2424|0
+B|I'm, I'm trying to figure out from one payday to the next whose going to be the lucky one this month that's going to get paid.|sv|2424|0
+A|Yeah.|b|2424|1
+A|That's the way it goes|ba|2424|1
+A|Well, I guess we probably talked just about long enough.|sv|2424|1
+B|Uh-huh.|b|2424|0
+A|Yeah.|b|2424|1
+B|Uh, let me ask you something.|oo_co_cc|2424|0
+B|Did you get a catalog or something from these people?|qy|2424|0
+A|Yes.|ny|2424|1
+B|You did?|qy^d|2424|0
+A|Uh-huh.|ny|2424|1
+B|I've, everybody I've talked to has received one|sd|2424|0
+B|but I haven't gotten mine.|sd|2424|0
+A|Uh, I don't know.|h|2424|1
+B|Um, well, anyway Ellen, it was nice talking to you.|fc|2424|0
+A|You too.|fc|2424|1
+B|And, uh, until next time.|fc|2424|0
+A|Okay.|fc|2424|1
+B|Bye-bye.|fc|2424|0
+A|Good-bye.|fc|2424|1

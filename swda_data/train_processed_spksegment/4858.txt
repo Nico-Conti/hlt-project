@@ -1,0 +1,85 @@
+A|Uh, I'm of the age that could have gone, although I didn't|sd|4858|0
+A|and, uh, I guess, uh, looking back on it, I tend to think it was pretty, uh, mostly a mistake.|sd|4858|0
+B|Uh-huh.|b|4858|1
+A|On the other hand, uh, the more I learn about the history, the more I see it was incremental, uh, decisions. Any one of which was sort of understandable at the time.|sd|4858|0
+B|Uh-huh.|b|4858|1
+A|And, uh, but on the whole I think it, uh, probably was the wrong thing to do.|sd|4858|0
+A|How about you?|qo|4858|0
+B|Well, I'm, uh, I, I was just, uh, in high school I guess when it, when it ended.|sd|4858|1
+A|Uh-huh.|b|4858|0
+B|Ended up being,|%|4858|1
+B|I was in the last, last lottery.|sd|4858|1
+A|Yeah.|b|4858|0
+B|And I was glad it was over by then.|sd|4858|1
+A|Right.|b|4858|0
+B|I've never really totally understood what our purpose was over there.|sd|4858|1
+B|Just because, you know, we didn't really do anything when we went over it seems like.|sd|4858|1
+A|Yeah.|b|4858|0
+B|You know, we, uh,|%|4858|1
+B|those people that I know,|%|4858|1
+B|I work with several that were over there,|sd|4858|1
+B|and for some of them it was just kind of, I don't know, not so much a holiday,|sd|4858|1
+B|I guess that's how they tend to talk about it. But that they just kind of lived out in the woods|sd|4858|1
+B|and ever now and then, they'd go and shoot their rifles|sd|4858|1
+B|and then they'd, come back|sd|4858|1
+B|and you know.|%|4858|1
+B|But that they weren't really allowed to do anything.|sd|4858|1
+B|I, uh,|%|4858|1
+B|to me it seems like we only went halfway. If even halfway.|sv|4858|1
+A|Yeah,|b|4858|0
+A|it's funny.|sv|4858|0
+A|Tonight I was, uh, helping my kid with an essay on, uh, Stalin.|sd|4858|0
+A|And I was thinking in the course of talking to him about it, how, uh, in World War Two, the personalties of Stalin, Hitler and Churchill more or less defined the war|sd|4858|0
+A|and actually when you think back on the big events of the war, it was, uh, it was almost a personal struggle among these three, uh,|sv|4858|0
+A|I guess you'd have to call them great men in some sense.|sv|4858|0
+B|Uh-huh.|b|4858|1
+A|Uh, they're certainly all leaders|sv|4858|0
+A|and, uh, and, uh, with their nations pretty, pretty solidly behind each one of them.|sv|4858|0
+B|Yeah.|b|4858|1
+A|And I got a feeling that some of that was involved in the, uh, early decisions of the Vietnam war. That the, uh, people saw the cold war as, uh, you had to draw a line and, and defend it.|sv|4858|0
+A|Otherwise there'd be, they'd get you someplace else.|sv|4858|0
+B|Uh-huh.|b|4858|1
+A|Looking back, it seems like that was only partly true. That, uh, there might have been a better place to draw the line|sv|4858|0
+A|Uh, I guess you can, I guess you can say that a, a certain amount of resolve and willingness to fight, uh, brought the cold war to an end.|sd|4858|0
+A|But I don't think you can just fight anywhere just, just in order to, uh, call the bully out and beat him.|sv|4858|0
+A|And I have a feeling that that's part of what was involved in the Vietnamese war.|sd|4858|0
+A|They felt like this was a place where we could draw a line, beat them and they wouldn't come forward.|sd|4858|0
+A|And, uh  we were wrong|sd|4858|0
+A|But I, uh, you know,|%|4858|0
+A|the, like I said, the more I hear about it, the more I can see each decision that was made as being understandable.|sd|4858|0
+A|But the accumulative effect was to really get into a, a hopeless situation where,|sd|4858|0
+A|and as you say, uh, going halfway was probably worse than, uh, committing, uh, committing to a completely and, uh, winning it, whatever that would mean.|sd|4858|0
+B|Yeah.|b|4858|1
+B|Well, I, I, I think we did, I think we did learn some lessons that we weren't, uh, we weren't prepared for,|sv|4858|1
+B|I guess the best word would be the atrocities of war.|sv|4858|1
+A|Yeah|b|4858|0
+B|Uh, I mean the other wars seemed like a valiant war. I mean  they seemed like a valiant thing.|sv|4858|1
+A|Yeah.|b|4858|0
+B|You knew, you knew who was good.|sd|4858|1
+B|You knew who was bad.|sd|4858|1
+A|Yeah.|b|4858|0
+B|And it was a, it was a traditional the traditional battle of, kind of good versus evil, if you, you know  whichever way it is.|sd|4858|1
+A|Well you're not,|%|4858|0
+B|But in, in the Vietnam war it seems like it was,|%|4858|1
+B|a, a, the sides and the lines that were drawn are all confused as to who's good and who's bad|sv|4858|1
+B|and and, uh, you know, the,|%|4858|1
+A|It's ambivalent,|sv|4858|0
+A|yeah.|aa|4858|0
+B|even,|%|4858|1
+B|it seems like even the people, you know,|%|4858|1
+B|had the South Vietnamese, the North Vietnamese and, of course, the Laotians|%|4858|1
+B|and the Cambodians weren't even supposed to be involved.|sd|4858|1
+B|But,|%|4858|1
+A|What, what about the domestic effects|qh|4858|0
+A|like I was thinking that maybe the most important effect it had was to make it, uh, possible and even popular to, uh, criticize the government.|sv|4858|0
+A|And they,|%|4858|0
+A|that pendulum started to swing, uh, maybe even too far. To the point where, uh, uh, supporting a government decision in foreign policy was sort of optional from the Vietnam war on.|sd|4858|0
+B|Yeah.|b|4858|1
+B|Yeah.|b|4858|1
+A|And that tradition is still,|%|4858|0
+A|I mean it's dying now,|sd|4858|0
+A|but it's still alive as opposed to,|sd|4858|0
+A|this Desert Storm stuff may have, uh  killed it.|sd|4858|0
+B|Yeah.|b|4858|1
+A|But I think that was one of the biggest,|%|4858|0
+A|that, you know, the, uh, the domestic unrest,|%|4858|0

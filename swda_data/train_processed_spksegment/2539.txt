@@ -1,0 +1,228 @@
+A|Okay.|fo_o_fw_"_by_bc|2539|0
+B|Okay,|b|2539|1
+B|now when you baby-sit, what age group children do you sit with?|qw|2539|1
+A|Well, gosh|ba|2539|0
+A|all kinds, um,|sd|2539|0
+A|mostly between the ages of two and ten.|sd|2539|0
+B|Uh-huh.|b|2539|1
+A|Um, last, like a few summers ago I kept two children every day for the entire summer|sd|2539|0
+A|and, I mean, they became like my children|sd|2539|0
+B|I'd think so.|ba|2539|1
+A|And, um, and they live in an apartment complex|sd|2539|0
+A|so we swam a lot|sd|2539|0
+A|and we played on the playground a lot|sd|2539|0
+A|and then we would go to a movie on Thursdays|sd|2539|0
+A|and, um, there was always an activity,|sd|2539|0
+A|you know, they had their favorite T V shows and things like that that we watched|sd|2539|0
+A|and then we took naps|sd|2539|0
+A|and, um, I don't know|h|2539|0
+A|it, it just seems like there was always something to do.|sd|2539|0
+A|Children are so full of energy.|sv|2539|0
+B|Uh-huh.|b|2539|1
+A|And, oh, they were, they just, they just keep you going|sv|2539|0
+B|Now was this a one parent or two parent family?|qy|2539|1
+A|Uh, one parent.|sd|2539|0
+B|One parent.|b^m|2539|1
+A|Yeah.|aa|2539|0
+A|She's just,|%|2539|0
+B|How much time did she spend with them?|qw|2539|1
+A|Not much at all|sd|2539|0
+A|I mean, I would get there at eight o'clock in the morning,|sd|2539|0
+A|the children usually weren't awake by then.|sd|2539|0
+A|And she would get home at like five thirty in the afternoon.|sd|2539|0
+B|Uh-huh.|b|2539|1
+A|And they would have dinner|sd|2539|0
+A|and then it was time for them to go to bed.|sd|2539|0
+B|Uh-huh.|b|2539|1
+A|Um, now at this particular time the children were two and six.|sd|2539|0
+A|But then I also,|%|2539|0
+A|I've been baby-sitting this child, uh, for about eight years,|sd|2539|0
+A|he's nine now|sd|2539|0
+A|and, um, you know, I've watched him grow up|sd|2539|0
+A|and he's like a little brother to me.|sd|2539|0
+B|Uh-huh.|b|2539|1
+A|And it's changed over the, over the years, um,|sd|2539|0
+A|we get along a lot better now that he's older.|sd|2539|0
+B|Uh-huh.|b|2539|1
+A|And, uh, we do different things now,|sd|2539|0
+A|we used to play ball a lot|sd|2539|0
+A|but now it's, he likes to watch T V|sd|2539|0
+A|and he's into wrestling.|sd|2539|0
+A|And, um, I kept him on Friday night,|sd|2539|0
+A|we went we went to go see a movie and, um, things like that|sd|2539|0
+A|but I feel like, I don't know, when I have children I want to be able to spend a lot of time with them.|sd|2539|0
+B|Yeah,|b|2539|1
+B|you say your, you go to school?|qy^d|2539|1
+A|Uh-huh,|ny|2539|0
+A|I go to L S U.|sd|2539|0
+B|And what are you studying?|qw|2539|1
+A|Uh, communications.|sd|2539|0
+B|Well, sounds like your getting a lot of experience in communicating with children|bf|2539|1
+A|Oh, yeah,|aa|2539|0
+A|I mean, I love children.|sd|2539|0
+B|Uh-huh.|b|2539|1
+A|Um, I don't know,|h|2539|0
+A|seem, this looks like a typo for 'see,' when I was growing up my Mom stayed at home with me and my brother until we were in junior high.|sd|2539|0
+A|And I don't,|%|2539|0
+A|it would, I think it was very beneficial to us.|sd|2539|0
+B|Uh-huh.|b|2539|1
+A|I mean, like in the summer we were always in the library programs reading books|sd|2539|0
+A|and we went skating a lot|sd|2539|0
+A|and, you know, she was just always there for us,|sd|2539|0
+A|but nowadays if there are two parents to a family, the mother works just as hard as the father does,|sv|2539|0
+A|and the children either stay at home and get into trouble|sv|2539|0
+A|or they're stuck in a day care.|sv|2539|0
+A|And I just, I just don't want my children to have to be raised like that.|sd|2539|0
+A|All my friends, they, their parents worked all the time,|sd|2539|0
+A|they got to stay at home by themselves|sd|2539|0
+A|and when I was younger I thought they were lucky because they got to get away with things, like I couldn't ride my bike across the street, but they could because their Mom would never know it.|sd|2539|0
+B|Uh-huh.|b|2539|1
+B|Yeah.|b|2539|1
+A|But now I realize that it was better because, um, they have got into a lot of trouble, because of lack of supervision.|sd|2539|0
+B|Uh-huh.|b|2539|1
+B|Well, that, that certainly can happen now if|sv|2539|1
+B|you, you say you're in communications,|qy^d|2539|1
+A|Uh-huh.|ny|2539|0
+B|uh, what base of communications would you be most interested in getting in to?|qw|2539|1
+A|Well, I'm majoring in, uh, public relations.|sd|2539|0
+B|Public relations,|b^m|2539|1
+B|so, so, you would have a job with a company? Rather than, uh, radio or television or newspapers or,  what have you.|qy^d|2539|1
+A|Yeah.|b|2539|0
+A|Yes, ma'am.|ny|2539|0
+A|Right.|na|2539|0
+A|Uh-huh.|ny|2539|0
+B|Yeah,|b|2539|1
+B|and, uh, then you'd be willing to give up your job to stay home and with, or stay with the children?|qy^d|2539|1
+A|Well, I would like to, uh, stay at home with my children for at least the first five years.|sd|2539|0
+B|Uh-huh.|b|2539|1
+A|But what, what I plan to do in the future is, um, go ahead and get my upper education as far as my masters, and work on my doctorate and teach, um, college,|sd|2539|0
+B|Uh-huh.|b|2539|1
+B|Uh-huh.|b|2539|1
+A|and in that case then I'll be, I'll be at home when my children are at home,|sd|2539|0
+A|but I'd like to stay at home with them until they get in, at least into kindergarten, where they're at school from what, eight to three or something|sd|2539|0
+B|Uh-huh.|b|2539|1
+A|and then I would be at my school, teaching.|sd|2539|0
+B|Uh-huh.|b|2539|1
+B|Uh-huh,|b|2539|1
+B|uh-huh.|b|2539|1
+A|And, um,|%|2539|0
+B|Well, that, that's, uh, is an advantage of being in the education field.|sv|2539|1
+B|I spent thirty-four years in education.|sd|2539|1
+A|Oh, really?|bh|2539|0
+B|Yes,|ny|2539|1
+B|and, so,|%|2539|1
+A|What grade?|qw|2539|0
+B|oh, I started out with college and then went to high school|sd|2539|1
+B|and then I preferred the high school age level much better than I did the college,  because you have a closer relationship with the, uh, students, that,|sd|2539|1
+A|Oh, did you?|bh|2539|0
+A|What did you teach?|qw|2539|0
+B|I taught physical education.|sd|2539|1
+A|Oh, oh, I started out as a P E major, in education.|sd|2539|0
+B|Uh-huh.|b|2539|1
+A|I wanted to be a P E teacher.|sd|2539|0
+B|Well,|%|2539|1
+A|I sure did.|sd|2539|0
+B|I, uh, I found that, uh, it was a perfect combination from the standpoint of having vacations off at the same time.|sd|2539|1
+A|Oh, yeah.|b|2539|0
+B|And, uh, and it worked out fine from that standpoint, uh, plus the fact that, uh, when I left, uh,|sd|2539|1
+B|usually, uh, my husband was seldom home for maybe forty-five minutes or so|sd|2539|1
+B|and then our son, he had to get on the bus,|sd|2539|1
+A|Uh-huh.|b|2539|0
+B|and he did get on the bus,|sd|2539|1
+B|it was his responsibility|sd|2539|1
+B|and he never ever thought of, uh, not going to school he said, in view of the fact that he was certain I had a hot line to his school.  Because, uh, I, uh,|sd|2539|1
+A|Absolutely.|aa|2539|0
+B|well, I, I was in physical education then|sd|2539|1
+B|and I just kept getting pushed into administration,|sd|2539|1
+B|wound up in administration,|sd|2539|1
+B|and so,  he thought surely that I, or I would have bought a hot line, to know if he ever skipped school, which, of course, was not the case|sd|2539|1
+A|Oh.|b|2539|0
+B|and I wouldn't have checked on him.|sd|2539|1
+B|However, uh, there are, there are, points both directions in that, uh, from the standpoint of parents working and not working.|sv|2539|1
+A|Yeah.|b|2539|0
+B|Uh, I listened to more than one parent say I don't know what this child wants.|sd|2539|1
+B|I'm working two jobs,|^q|2539|1
+B|they each have their own television,|^q|2539|1
+B|they each have their own telephone,|^q|2539|1
+B|they each have their own rooms,|^q|2539|1
+B|they each have this,|^q|2539|1
+B|they each have that.|^q|2539|1
+B|I'd say , but what they don't have is you.|sd|2539|1
+A|That's right.|aa|2539|0
+A|They need some attention.|bf|2539|0
+B|Absolutely.|aa|2539|1
+B|And, uh, I think out|%|2539|1
+B|because that is the way of getting attention.|sv|2539|1
+A|Well, see whenever my Mom stayed home with us, we did without a lot,|sd|2539|0
+A|I mean, we were,|%|2539|0
+A|it's hard to make it on one income,|sv|2539|0
+B|That's right.|aa|2539|1
+A|but we did|sd|2539|0
+A|and, and we lived in a trailer for eighteen years.|sd|2539|0
+B|Huh.|%|2539|1
+A|And, um, you know, we, we only had one car,|sd|2539|0
+A|we only had one telephone, you know,|sd|2539|0
+B|Uh-huh.|b|2539|1
+A|we didn't get to eat out all the time|sd|2539|0
+A|but I, I feel like that it helped me now because I appreciate the value of the dollar,|sd|2539|0
+B|Right.|b|2539|1
+A|and, um, I also had the supervision that I needed while I was growing up,|sd|2539|0
+A|and I hope that I can provide that for my child too.|sd|2539|0
+B|And we certainly, uh, we need more of that,|sv|2539|1
+B|we need more parents willing to supervise,|sv|2539|1
+B|though we've had such a breakdown in the family structure,  from the standpoint of, of, uh, church and school and everything along the way.|sv|2539|1
+A|Oh, we have.|aa|2539|0
+B|And that I think has contributed much to, uh, the delinquency that works grant and the poor school results that we're having. Uh, that the students', uh, parents have just not really taken enough interest in them from the very very beginning|sv|2539|1
+B|and I think my feeling was that the very best teachers should be in grades one, two, and three. To get the students off to a good start let them have positive, um, uh, experiences,  from the lower levels so they want to continue learning and, uh, keep going and not wait until they're, they're in the ninth and tenth grades,|sd|2539|1
+A|Uh-huh.|b|2539|0
+B|it's too late then,|sv|2539|1
+B|you cannot, reverse that trend at that point.|sv|2539|1
+A|It is.|aa|2539|0
+A|It's way too late,|bf|2539|0
+B|Right.|aa|2539|1
+A|I agree.|aa|2539|0
+B|And, uh, while parents very often will be involved with the school activities when the child's in the elementary school|sd|2539|1
+B|and they get into the high schools so often they seem to drop away at that point.|sd|2539|1
+B|And, that is just as valuable, at that time, as to the rush in the elementary .|sv|2539|1
+A|It is.  Because all the peer pressure,  it starts in high school|sv|2539|0
+B|Yes,|aa|2539|1
+B|right.|aa|2539|1
+A|and the parent really needs to be there for the child.|bf|2539|0
+B|Right.|aa|2539|1
+B|And, uh, the child needs to take pride in the fact that their parent is doing something.|sv|2539|1
+B|Uh, we were fortunate in view of the fact that my son did play football|sd|2539|1
+B|and I did keep statistics for his team,|sd|2539|1
+B|and,  his Dad did take movies of the football team and movies of the basketball team,|sd|2539|1
+A|Oh, great.|ba|2539|0
+B|and we tried to be a part of it but not overshadowing him or making him feel that we had to be there all the time.|sd|2539|1
+A|Yeah.|b|2539|0
+B|So, I feel that I learned a great deal from my students, uh, with regard to what their biggest complaints were with parents.|sd|2539|1
+B|And a thing such as, uh,|sd|2539|1
+B|one of the biggest complaints I well remember because I spent a lot of time with seniors, uh, was, um, carrying their|sd|2539|1
+B|when I was your age I didn't have this or that,|^q|2539|1
+A|Uh-huh.|b|2539|0
+B|and I know I never ever said that because I knew that that was one thing that was really irritating to young people.|sd|2539|1
+A|Well, I guess that was good that you were, you were hearing it from other students.|sv|2539|0
+B|Yes,|aa|2539|1
+B|and I had to deal with their problems|sd|2539|1
+B|and I could talk about the kinds of problems which they were bringing that they had just in general aspect|sd|2539|1
+B|and our son would share this|sd|2539|1
+B|and then he would have to make decisions for himself along those same types of, of, uh, lines. So that, I think he benefited from my experiences.|sd|2539|1
+A|Well, um,|%|2539|0
+A|Does your son work for T I?|qy|2539|0
+B|No.|nn|2539|1
+A|Oh.|b|2539|0
+B|No,|nn|2539|1
+B|he, uh, works, uh, for a different company.|sd|2539|1
+B|Yeah,|%|2539|1
+B|in the Dallas area|sd|2539|1
+B|but when he went away to|sd|2539|1
+B|and he was on the lawns from the time he was in the seventh grade and, uh, a small and all the way through college|sd|2539|1
+B|and he held three jobs. Wally was in college * Could this Wally be "while he . . ."?|sd|2539|1
+B|and we didn't even know it.|sd|2539|1
+A|Oh, goodness.|ba|2539|0
+B|He didn't even tell us. Uh, that he had three jobs|sd|2539|1
+B|but when he graduated he had a five thousand dollar bank account|sd|2539|1
+B|and, uh, we had told him that if he ever wanted to go to college he could go,|sd|2539|1
+B|if he got married he was on his own,|sd|2539|1
+B|if he flunked out he was on his own ...|sd|2539|1

@@ -1,0 +1,195 @@
+A|Okay, you say you're going to buy a new car.|bf|3003
+B|Well no,|ar|3003
+B|it's probably going to be a very old used one.|sd|3003
+B|My husband had an accident in my car a little over a week ago,|sd|3003
+A|Uh-huh.|b|3003
+B|and I drove a nineteen seventy-seven, um, B M W|sd|3003
+B|and so I believe|%|3003
+B|and I'll know the answer today, that they're going to total it.|sd|3003
+B|I think that it will cost more to fix it than it's probably worth.|sd|3003
+A|Yeah.|b|3003
+B|But I'm not interested in having any car payments,|sd|3003
+B|so I actually went last weekend with,|sd|3003
+B|my father was in town|sd|3003
+B|and we went and looked at used cars around town.|sd|3003
+B|Uh, and I, you know, I found like a nineteen eighty-four Regency Ninety-eight with only forty-six thousand miles on it|sd|3003
+B|and that was pretty good condition, uh.|sd|3003
+A|Yeah|b|3003
+B|But I also found a nineteen eighty Volvo, uh, station wagon that was in just super condition.|sd|3003
+A|Right.|b|3003
+B|I mean there's not a dent on the outside body,|sd|3003
+B|the inside is clean|sd|3003
+B|it's had the same owner for years.|sd|3003
+A|Right.|b|3003
+B|It, it has about eighty thousand miles on it|sd|3003
+B|but that's all right, you know,|sd|3003
+B|the engine's in excellent shape,|sd|3003
+A|Uh-huh.|b|3003
+B|and I think it would last me probably another fifty or sixty thousand miles.|sd|3003
+A|Yeah.|b|3003
+B|So, I guess I'm kind of in limbo waiting to see what the insurance is, you know, company is going to do, to see whether or not I can get one of these cars.|sd|3003
+B|I don't want a new car though,|sd|3003
+B|a new car payment.|sd|3003
+A|Yeah,|aa|3003
+A|I, I understand that.|sd|3003
+A|We, uh, just paid off one, my wife's car, uh, I guess, early last year|sd|3003
+A|and so we're, you know, enjoying not having that, that payment every, every month|sd|3003
+A|and, but it's getting up in age, uh,|sd|3003
+A|we're trying to hold out a little while longer, uh,|sd|3003
+A|we've got a, a a daughter who's almost two now,|sd|3003
+A|so, we're getting to the point where we really kind of need something a little bigger than what we've got,|sd|3003
+B|Um.|%|3003
+A|but, uh, so I guess if we, when we do buy another car it'll, it'll be something that we can, uh, kind of grow into a little bit.|sd|3003
+B|Uh-huh.|b|3003
+A|It's, it's tough on trips because, uh, anytime we, we're getting ready to go anywhere it's, uh, you know, it's, uh, try, like trying to put a puzzle together to make sure you get everything in the car, you know, cause it's,|sd|3003
+B|Well not only that, needing the room, you know, we finally ended up buying a Dodge Caravan here about two and a half years ago, because I too, have very small kids.|sd|3003
+B|I, I have one that's now,|sd|3003
+B|well she'll be four in September and then a little boy that's just turned two.|sd|3003
+A|Uh-huh.|b|3003
+B|And you know it's like you go on a trip|sd|3003
+B|and, you know, you pull over to the side of the road, throw them on the hood, change a diaper and keep going|sd|3003
+B|And I wanted something that I could maybe walk through and get to them|sd|3003
+B|and,|%|3003
+A|Right,|aa|3003
+A|that's what,|%|3003
+A|I, I ideally, I would like that, in fact, uh, you know, I, I've, I've thought of that possibly, uh,|sd|3003
+A|I don't know that my wife would go for it,|sd|3003
+A|but You know, I would, I'd like to do that.|sd|3003
+B|Well.|%|3003
+B|Yeah.|b|3003
+A|I, I have a truck myself|sd|3003
+A|and I'll, I'll take, you know,|%|3003
+A|a truck's a thing that you, you need when you need it,|sv|3003
+A|but, you know, the rest of the time you wonder, you know, could I use something else.|sv|3003
+B|Yeah.|b|3003
+B|Yeah.|b|3003
+A|So, I, I've still got a couple years payments on it.|sd|3003
+A|I may,|%|3003
+A|uh, if we can hold out til then, you know, I may get, get to where I need a something else, maybe, maybe buy a van, because they are, really, really nice for, for long trips especially.|sd|3003
+B|We have definitely put a lot of use in on ours|sd|3003
+B|and I understand, it is too expensive to have two car payments.|sd|3003
+B|See that was the problem, my B M W was paid for,|sd|3003
+A|Uh-huh.|b|3003
+B|and my husband's been in business for himself for several years|sd|3003
+B|and so he can depreciate cars,|sd|3003
+A|Right.|b|3003
+B|but you|%|3003
+B|used to be you kept them three years.|sd|3003
+A|Right.|b|3003
+B|Well when they did all the tax law changes you had to keep them five.|sd|3003
+A|Right.|b|3003
+B|So I was trying to keep my B M W in tact, uh, for three more years. So that then I could take the van,|sd|3003
+A|Um.|%|3003
+B|and we'd trade my car in on a new car for his business.|sd|3003
+A|Right.|b|3003
+B|And so basically that's what I'm looking for in a used car. Something that's going to last me at least three years.|sd|3003
+B|Well if I can pull a deal on this Volvo, you know, it will last me longer than that.|sd|3003
+B|It will actually last me quite a while,|sd|3003
+B|but I don't know how families afford two new car payments.|sd|3003
+B|It's just, it's outrageous.|sv|3003
+A|I don't either.|sd|3003
+A|Well, my wife's car is probably around five years old now,|sd|3003
+B|Uh-huh.|b|3003
+A|and it's, it's got, oh, uh,|%|3003
+A|I guess it must have seventy or eighty thousand miles on it, you know,|sd|3003
+A|and so it, it's getting,|sd|3003
+A|it's not, not in bad shape|sd|3003
+A|it's, it's, you know, she's kept it up real well,|sd|3003
+A|but, uh, you know, it's, it's getting to the point where we really need to do something with it, you know, if we're going to get anything out of selling it.|sd|3003
+B|Uh-huh.|b|3003
+B|That's right.|aa|3003
+A|So, I'm, I'm, uh, I'm, I'm hoping we that we can work something out here.|sd|3003
+A|We've got other bills that kind of precede, or preclude us buying, something, buying something else.|sd|3003
+B|Know how that goes in singing whisper type|ba|3003
+B|It's the pits,|sv|3003
+B|isn't it?|^g|3003
+A|It really is|na|3003
+A|and, you know, and you can't, uh, you can't afford, you know, a, a car payment now.|sd|3003
+A|It just, will wipe you out every month,|sd|3003
+B|That's right|aa|3003
+A|it's almost getting to be like the house payment, you know.|sd|3003
+B|I know,|aa|3003
+B|you can't find what you used to,|sv|3003
+B|could find something for, you know, seventy-five, a hundred dollars a month.|sv|3003
+B|It might not be brand new|sv|3003
+B|but it was a decent car,|sv|3003
+A|Right.|b|3003
+B|and you just almost can't find that payment anymore.|sv|3003
+A|Right.|b|3003
+B|So, I understand that, it's, it's kind of hard to go do.|sd|3003
+B|Well if you do look at them, I really recommend the Dodge Caravan.|sd|3003
+B|We've had wonderful,|sd|3003
+B|it's the only, uh, minivan they make that's on a car chassis instead of a truck chassis so it doesn't, you know, shake you around like a a truck does.|sd|3003
+A|Uh-huh.|b|3003
+A|Oh, I didn't know that.|sd|3003
+B|And we have had just wonderful luck with ours.|sd|3003
+B|I mean it's, we take it everywhere,|sd|3003
+B|it it's been, it, it's so easy to get the kids in and out,|sd|3003
+B|see my car was also a two door.|sd|3003
+A|Uh-huh.|b|3003
+B|And which drove me nuts trying to get car seats and kids, into a back seat, you know.|sd|3003
+A|Oh man,|ba|3003
+A|yeah.|b|3003
+B|And so it's wonderful to have the room and the space|sd|3003
+B|and you can haul things|sd|3003
+B|and they climb in easily|sd|3003
+B|and, it's just been everything that we were hoping it would do for us.|sd|3003
+A|Right.|b|3003
+B|And it is nice on long trips.|sd|3003
+B|In fact, Christmas we drove to California, which is my home,|sd|3003
+B|and you can take out the middle seat,|sd|3003
+A|Right.|b|3003
+B|and they come out fairly easily, so we took out the middle seat, put the car seats in the back and just had a whole area in the middle, like if we were out on open road|sd|3003
+B|and it was their nap time,|sd|3003
+B|we just went ahead and laid them down.|sd|3003
+A|Uh-huh,|b|3003
+B|You know, I wouldn't do that if we were in a city, or, if there were a lot of cars around or anything.|sd|3003
+A|Right.|b|3003
+B|But it made it so much easier to travel.|sd|3003
+A|Right,|b|3003
+A|uh,|%|3003
+A|that's, that's our our, our daughter's problem, you know, 'cause when you, when you get out on the road like that and it's just long stretches, you know, where they just have to sit, you know.|sd|3003
+A|In town she does okay, you know,|sd|3003
+A|and even on the road she does all right for a little while because she'll sleep some,|sd|3003
+B|Uh-huh, uh.|b|3003
+A|but, you know,|%|3003
+A|she, she wakes up,|sd|3003
+A|she wants to, to get up.|sd|3003
+A|I know, uh, coming, uh, right around Christmas we were, we were, uh, right before Christmas we had driven over to Shreveport|sd|3003
+A|and we were driving back|sd|3003
+A|and it was when all that bad weather was, was hitting,|sd|3003
+B|Oh, yeah.|ba|3003
+A|and the roads were all closed,|sd|3003
+A|and, uh, we were trying to get back|sd|3003
+A|and it took us a lot longer|sd|3003
+A|and she was, you know, she was pretty good most of the way,|sd|3003
+A|but then, get to a point where she just had to get out of her seat and we had to stop,|sd|3003
+A|and, and we got out and played in the snow and put here back in *typo her|sd|3003
+B|Sure,|aa|3003
+B|it's a long time.|sv|3003
+A|and she was fine,|sd|3003
+B|Uh-huh.|b|3003
+A|but, you know, if we had, if there was something to where she could kind of get up and move around, like you say on, on the highway, or where, where it wasn't, wasn't as bad, you know, just for a little brief period of time, it would be, would be okay,|sd|3003
+B|Right.|b|3003
+A|so, I'm, I'm thinking maybe we can, voice in can do something like that later on.|sd|3003
+B|Well that would be good.|ba|3003
+A|we'll see what we can do.|sd|3003
+B|That would be good.|ba|3003
+A|Yeah.|b|3003
+A|Well I|%|3003
+B|Well, I appreciate talking to you.|fc|3003
+B|Good luck in your car buying.|fc|3003
+A|you too,|fc|3003
+A|I hope everything works out.|fc|3003
+B|Well, really I'm supposed to hear today|sd|3003
+B|and I, I hope it,|sd|3003
+B|I really would prefer the Volvo, I think,|sd|3003
+B|I know it's older than the Regency|sd|3003
+B|but, you know, they're built of that unibody steel construction|sd|3003
+B|and it would take a hit fairly well,|sd|3003
+A|Right|b|3003
+B|and you know, my B M W that my husband was going forty to forty-five miles an hour|sd|3003
+B|and you know, it didn't even bend the frame.|sd|3003
+B|It bent in the bumper and the quarter panel,|sd|3003
+B|but unfortunately they think if it says B M W on it that you have money.|sv|3003
+B|They don't know,|sv|3003

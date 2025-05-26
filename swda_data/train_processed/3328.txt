@@ -1,0 +1,107 @@
+A|Yeah,|fo_o_fw_"_by_bc|3328
+A|they just raised our taxes up here about a year ago.|sd|3328
+B|Well, they've, uh, statewide raises,|sd|3328
+B|they raise ours it seems like constantly.|sd|3328
+B|We just, uh, passed a new one, uh,|sd|3328
+B|fortunately or unfortunately it doesn't go into effect because we did not get the United Airlines.|sd|3328
+A|Oh, right|b|3328
+A|Indianapolis got that, didn't they?|qy|3328
+B|Right.|na|3328
+B|And, uh, we had passed a, a provisional one that if, if it did, if they did locate here we would raise our taxes.|sd|3328
+B|But, uh, at least we thought we'd get something back from that.|sd|3328
+A|Yeah.|b|3328
+B|Uh, how do you feel about taxes?|qo|3328
+A|Well, it seems like a big politics game|sv|3328
+A|like up here, last year, the governor was up for re-election|sd|3328
+A|so he said the budget was fine,|sd|3328
+A|the state didn't have any money|sd|3328
+A|and then right after he won the election he said we owed a lot of money|sd|3328
+A|so they raised all our taxes.|sd|3328
+A|And now it's election time again|sd|3328
+A|so they're trying to lower them.|sd|3328
+B|Oh.|b|3328
+A|So they're just talk about lowering them|sd|3328
+A|but they never do,|sd|3328
+A|they just keep raising them.|sd|3328
+B|I've never seen taxes really go down.|sd|3328
+A|Yeah,|b|3328
+A|me neither.|sd|3328
+A|Well, actually they're going to here because they didn't have a budget for so long|sd|3328
+A|so they raised the tax rate real high for the last three months of this year|sd|3328
+A|and they're going to lower it for next year.|sd|3328
+B|Oh.|b|3328
+A|I guess they figure they're going to make up for all they didn't get when they should have had a budget.|sv|3328
+B|I hope they put that in writing|sd|3328
+A|Yeah,|aa|3328
+A|yeah,|aa|3328
+A|they say they're going to lower,|sd|3328
+A|but I'll see.|sd|3328
+B|I feel like the middle class people are supporting the nation and, uh, that the rich are not paying their share|sv|3328
+B|and of course the poor can't afford it either,|sv|3328
+B|but, uh, I really feel like|%|3328
+B|and, and I feel like, you know,|%|3328
+B|I'm a middle class person income wise anyway|sd|3328
+B|and, uh, I get tired of supporting the whole country.|sd|3328
+A|Yeah,|b|3328
+A|so do I.|sd|3328
+A|I mean, I'm a, a middle class barely,|sd|3328
+A|but, uh, I don't think the rich are paying less, not enough,|sv|3328
+A|I think they're paying too much.|sv|3328
+B|You think the rich are paying too much?|qy|3328
+A|Yeah,|ny|3328
+A|I mean if you're in the, the three, three percent bracket and they take a third of your check every month, well, that's ridiculous.|sv|3328
+A|Why bother working?|qh|3328
+B|Well, I don't know many rich that don't have enough tax breaks to,|sd|3328
+B|I mean, I'm talking about the really rich.|sd|3328
+A|Well, they should just tax everybody the same amount no matter what you make.|sv|3328
+B|Right.|b|3328
+A|That would be fair.|sv|3328
+B|Now I'll go along with that. You know,|aa|3328
+A|Yeah|b|3328
+A|no loopholes or anything.|sv|3328
+A|Everybody pays ten percent or fifteen or whatever.|sv|3328
+B|Right.|aa|3328
+B|Now, I think that would be fair.|aa|3328
+A|Right.|b|3328
+B|And I, you know,|%|3328
+B|no, no ifs, ands and buts, you know,|sv|3328
+B|no big elaborate laws that say, uh, you know, call for a lot of enforcement or a lot of review.|sv|3328
+B|It's just, you know, you make this, you pay ten percent.|sv|3328
+B|If you make a hundred dollars, you pay ten percent,|sv|3328
+B|if you make a million dollars, you pay ten percent.|sv|3328
+A|Yeah,|aa|3328
+A|that's the way our state tax is here.|sd|3328
+A|I think it's pretty fair.|sv|3328
+B|Our state taxes are somewhat based on the federal.|sd|3328
+A|Uh-huh.|b|3328
+B|And, uh, they have not gotten it where the withholding is accurate.|sd|3328
+A|Oh|b|3328
+B|So, and, and you withhold no matter what you do,|sd|3328
+B|they withhold what they're supposed to and at the end of the year it's not enough.|sd|3328
+A|Oh, great,|ba|3328
+A|so you ought to be saving up some every month to make up for all what they should be taking out.|sv|3328
+B|Right,|aa|3328
+B|so now, you know, when you sign your W-Four form or whatever, W-Two whatever that is, then they always say, do you want a extra amount for state. Which is ridiculous,|sd|3328
+A|Uh-huh.|b|3328
+B|but it's been that way for the last probably ten years.|sd|3328
+A|Yeah,|b|3328
+A|I guess you have to check yes|sv|3328
+A|or you come down to the end of the year|sv|3328
+A|and you don't have it to give it to them.|sv|3328
+B|Right,|aa|3328
+B|unless you have a lot of deductions.|sv|3328
+A|Yeah.|b|3328
+B|But, you know, if you have a lot of federal deduction, it ends up hurting you state wise.|sv|3328
+A|Really?|bh|3328
+B|And you end up owing, you know,|sv|3328
+B|you may get nine hundred dollars back from federal|sv|3328
+B|and you're going to owe fifteen hundred in state.|sv|3328
+A|Ouch|ba|3328
+B|And, uh, it's, it's just ridiculous.|sv|3328
+B|But, I, I don't know.|h|3328
+B|I've,|%|3328
+B|they just came up with a twenty-five percent increase on personal property in, in Oklahoma county and that is a chunk.|sd|3328
+A|Yeah,|aa|3328
+A|I'll say|ba|3328
+B|I mean twenty-five percent increase.|sd|3328
+A|is,|%|3328

@@ -1,0 +1,174 @@
+A|Uh, we are to discuss air pollution and, uh, what we think the causes are.|sd|3063|0
+B|Uh-huh.|b|3063|1
+A|And I probably would, uh, target, uh, industry as being number one polluter.|sd|3063|0
+B|Yeah,|aa|3063|1
+B|that's probably a major one.|sv|3063|1
+B|I think, uh, individually, uh, just by the vast number of people there are, there's I think cars are also a major contributor to it.|sv|3063|1
+A|Well, vehicles|arp_nd|3063|0
+A|and, and,|%|3063|0
+A|yes.|aa|3063|0
+B|Yeah,|b|3063|1
+B|vehicles|b^m|3063|1
+A|Right,|aa|3063|0
+A|because, uh, there's a lot of commercial vehicles out there, especially those, the big rigs like the busses and, um, the big, uh, eighteen wheelers and so forth.|sd|3063|0
+B|Huh .|b|3063|1
+B|Uh-huh,|b|3063|1
+B|uh-huh.|b|3063|1
+A|I think they would generate probably, uh, one of them would probably generate enough for three cars.|sv|3063|0
+A|But that's not,|%|3063|0
+A|and I think it can be resolved if, uh, if they really let go with, the technology that they have at, uh, at their hand,|sv|3063|0
+B|and muffled, talking to Just a minute, I'm on the phone|t3|3063|1
+A|and they haven't released it yet.|sv|3063|0
+B|Uh-huh.|b|3063|1
+A|I think there's a lot of hold back, uh, because, of, uh, oh, priorities that they have, you know,|sv|3063|0
+B|Yeah.|b|3063|1
+A|and, uh, it's,|%|3063|0
+B|Well, it ,|%|3063|1
+A|You have some children.|sd|3063|0
+B|Yes|aa|3063|1
+B|I have, I have five in the kitchen at the moment.|sd|3063|1
+B|to You need to shut the door, please.|t3|3063|1
+B|Shut the door right now.|t3|3063|1
+B|We have the air conditioner running.|t3|3063|1
+B|What do you need?|t3|3063|1
+B|Hurry.|t3|3063|1
+B|I'm on the phone|t3|3063|1
+B|Yes,|t3|3063|1
+B|you may.|t3|3063|1
+B|And they keep turning the tape recorder up besides|sd|3063|1
+A|Oh, okay|bk|3063|0
+A|Do you have, do you watch children|qy|3063|0
+A|or do you,|qrr|3063|0
+B|Um, I have three of my own|sd|3063|1
+B|and I have, uh, two that I'm tending for the summer. Off and on,|sd|3063|1
+A|Uh-huh.|b|3063|0
+B|so,|%|3063|1
+A|Well, that's interesting.|ba|3063|0
+A|Um, is there anything,|qy|3063|0
+B|They cause more noise pollution than air pollution|sd|3063|1
+A|Well, temporarily they do.|sv|3063|0
+B|That's right,|aa|3063|1
+B|that's right.|aa|3063|1
+A|Then we get out of that phase, soon enough.|sv|3063|0
+B|Yeah.|b|3063|1
+B|But, um, I think another,|sv|3063|1
+B|you can tell when you go around cities, you can smell specific things from, from, specific industries.|sd|3063|1
+A|Oh, yes.|sd|3063|0
+B|I remember being,|sd|3063|1
+B|I, I grew up in New Jersey|sd|3063|1
+A|Uh-huh.|b|3063|0
+B|and, uh, I can remember the smell of Newark vividly|sd|3063|1
+A|Uh-huh,|b|3063|0
+A|sure.|b|3063|0
+B|And it's the type of industry, you know, which obviously if you can smell it, it's in the air.|sv|3063|1
+A|Uh-huh.|b|3063|0
+A|Well, I know, uh, uh, in Michigan, uh, the way they used to take care of the trash is they would incinerate it,|sd|3063|0
+A|and the fumes from the incineration was a terrible pollutant to the air.|sd|3063|0
+B|Yeah.|b|3063|1
+A|And, um, of course, now,|%|3063|0
+B|Well, people think you burn it, it's gone,|sv|3063|1
+B|but it's not gone.|sd|3063|1
+A|No,|aa|3063|0
+A|and when they,|%|3063|0
+A|and you bury it|sd|3063|0
+A|and it's not gone either, because it has untold ramifications.|sv|3063|0
+B|Uh-huh.|b|3063|1
+A|And, uh, And it gets into, into people, you know, which is, uh, the, the most important, um, resource that we have is people,|sv|3063|0
+B|Then it just gets into the soil and into the water|sd|3063|1
+B|Yeah.|b|3063|1
+A|and they're, and they're destroying us,|sv|3063|0
+A|they, really are.|sv|3063|0
+B|Yeah.|b|3063|1
+B|We really have to do more,|sv|3063|1
+A|So I think the cockroach will evolve, uh, safely|sv|3063|0
+A|So they say|h|3063|0
+B|I think we've got to do more with the recycling.|sv|3063|1
+B|That's,|%|3063|1
+B|I'm, I'm really glad to see that there's more of that happening.|sd|3063|1
+A|Yes,|aa|3063|0
+A|but there's not enough.|sv|3063|0
+B|Yeah.|b|3063|1
+A|And we need expert cooperation.|sv|3063|0
+B|Well, it's a,|%|3063|1
+B|we're getting,|%|3063|1
+B|at least they're starting, you know.|sv|3063|1
+A|Yeah.|aa|3063|0
+A|Education of the, Education of the people is primary, I would think.|sv|3063|0
+B|So at least they're moving that direction.|sv|3063|1
+B|Yeah.|b|3063|1
+A|And, uh, and we're hard to teach.|sv|3063|0
+B|Uh-huh.|b|3063|1
+B|Well,|%|3063|1
+A|We are hard to teach.|sv|3063|0
+B|it's going to, it's probably going to be a generation or two before, before it's really going, very well, because now the adults are more aware of it,|sv|3063|1
+A|Absolutely,|aa|3063|0
+A|yeah.|aa|3063|0
+A|Uh-huh.|b|3063|0
+B|and the children are being taught in the schools more, it'll be, you know, on down the road this is going to be passed on, which is good.|sv|3063|1
+A|Absolutely,|aa|3063|0
+A|yes.|aa|3063|0
+A|Uh, of course, uh, we would like to see it accelerated because, uh, of the critical nature of it.|sv|3063|0
+B|Uh-huh.|b|3063|1
+A|The, the learning of it and the,|sv|3063|0
+A|just to, um, think that way, we have to be in that thought pattern and able to, um, motivate ourselves to, um, uh, do what is right for the atmosphere.|sv|3063|0
+B|Uh-huh.|b|3063|1
+A|Um, I think we're all contributors.|sv|3063|0
+A|I mean, every human being that lives is a contributor, to pollution,|sv|3063|0
+B|Yeah.|b|3063|1
+A|so, we just um.|%|3063|0
+B|Yeah.|b|3063|1
+B|I think you're right,|aa|3063|1
+B|education is a big thing you know,|sv|3063|1
+A|Uh-huh.|b|3063|0
+B|and as we educate them individually what they can do, people become more aware of the things in industry too that, that are causing problems|sv|3063|1
+B|and, and I think that they'll they'll work towards solving those problems more too. Um,|sv|3063|1
+A|Well, hopefully it can be resolved within a shorter time frame than we have seen it done in the past. That the time frame for cleaning up our air and our, and our, um, land, you know, which, uh, we get our nutrients from.|sv|3063|0
+B|Uh-huh.|b|3063|1
+B|Yeah.|b|3063|1
+A|You know, I mean, everything goes back to the land.|sv|3063|0
+B|Just a minute and I'll turn it up.|t3|3063|1
+B|I'll turn it up in a minute, honey, when I'm done.|t3|3063|1
+A|So um, it's just, um, very critical, I think at this point to, uh, get that through to the people and get us educated.|sv|3063|0
+B|Uh-huh|b|3063|1
+B|Yeah.|b|3063|1
+B|Well, I think science has come a long way to making it so that it's possible to find ways to solve the problem|sv|3063|1
+A|Uh-huh.|b|3063|0
+B|Um,|%|3063|1
+A|I, I don't know if they offer classes in, uh, the, uh, in the grade school, uh, uh, subjecting.|sd|3063|0
+B|I think they teach it a lot in science|sd|3063|1
+A|In science,|b^m|3063|0
+A|okay.|bk|3063|0
+B|Yeah.|b|3063|1
+B|I would think that that's where it would come through.|sd|3063|1
+A|What grade level would that be?|qw|3063|0
+A|Would that be, um, perhaps, the first grade level, which would be,|qy|3063|0
+B|I, I think they're kind of getting it in all different grades.|sd|3063|1
+A|Well, I mean, are they starting, though, at, at, with the children that are so,|qy|3063|0
+A|their little minds are like sponges|sv|3063|0
+A|and they can really uh, relate to that.|sv|3063|0
+B|Yeah.|b|3063|1
+B|I think they are starting probably in the first grade.|sd|3063|1
+B|They're, you know, they're hearing somewhat about it.|sd|3063|1
+B|Um, I know, uh, Target has their program to make kids more aware of it|sd|3063|1
+B|and,|%|3063|1
+A|Target stores?|br|3063|0
+B|Yeah.|aa|3063|1
+A|Oh, okay.|bk|3063|0
+B|They've got, if you go in the entrance, they've got, uh, stands usually where they have, um, little, uh, kind of a little newspaper thing that the kids can read|sd|3063|1
+A|Okay.|b|3063|0
+B|and and they can form a, a group to, um,|sd|3063|1
+A|Oh, I see.|bk|3063|0
+A|Uh-huh,|b|3063|0
+A|help fight the pollution.|^2|3063|0
+B|Yeah,|aa|3063|1
+B|yeah.|aa|3063|1
+A|Oh, that's wonderful.|ba|3063|0
+B|So,|%|3063|1
+A|Well, I'm sure that, uh, perhaps they're the leaders, you know,|sv|3063|0
+A|and other will, others will pick up on their example and carry it, uh, further.|sv|3063|0
+B|Yeah.|b|3063|1
+A|You know, because, uh, thoughts are,|sv|3063|0
+B|Well, I, I know it's it's a hard problem to solve because you, you know, like McDonald's has changed back and forth between paper and foam and that kind of thing,|sv|3063|1
+A|Uh-huh.|b|3063|0
+B|and they do all these studies on which ones pollute more,|sd|3063|1
+B|and then there's the paper and plastic bag question.|sd|3063|1

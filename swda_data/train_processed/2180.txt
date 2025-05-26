@@ -1,0 +1,146 @@
+A|Here we go.|sd|2180
+B|Okay,|aa|2180
+B|um, have you ever been involved in any trials?|qy|2180
+A|I sure was.|na|2180
+A|Two years ago I spent some Fourth of July to Labor Day on a jury that was, uh, a change of venue from Columbus, Ohio for aggravated, uh, murder and kidnapping.|sd|2180
+B|Wow.|ba|2180
+A|Yeah,|b|2180
+A|it was quite a session that disrupted my whole summer, of course, five days a week,|sd|2180
+B|Sounds like it.|ba|2180
+A|but it was an absolutely fascinating experience.|sd|2180
+B|Oh, it sounds like it.|ba|2180
+B|I haven't had any actual real life experience|sd|2180
+B|but, uh, my father-in-law's been involved in, uh, several trials including, uh, a couple murders. And, uh, you know, talking to other people who have been there|sd|2180
+B|and so I don't have any real experience with trials|sd|2180
+B|but I do, you know,|sd|2180
+B|I, I've, I took a little business law in, in college|sd|2180
+B|and, and I've, you know,|%|2180
+B|try to keep abreast of things.|sd|2180
+A|Uh-huh.|b|2180
+B|But, uh,|%|2180
+B|I think that the, uh, trial by jury is, is a great idea at it's inception back two hundred years ago.|sv|2180
+B|Um, right now though it's, it's so difficult because there's so few courts to, to get anything really done as you know you spent, you know, a whole summer on one trial,|sv|2180
+A|Uh-huh.|b|2180
+B|and it's just that I think they're just tieing up the, um, whole judicial process. *typo tying|sv|2180
+B|Um, there's a lot of things they could do to, uh, make things easier and, uh, you know, like, uh, the suggestion that, uh, maybe be, uh, a judge should be the one who decides on what the sentence should be rather than the jury.|sv|2180
+A|Uh-huh.|b|2180
+A|Well, I think that there are many cases where, uh, the judges probably do make the decision rather than the jury.|sd|2180
+A|Our situation was somewhat different, uh, in view of the fact that, uh, we haven't, we were a landmark case,|sd|2180
+A|it was the first time in the state of Ohio that, um, D N A testing was entered as evidence.|sd|2180
+B|Uh-huh.|b|2180
+A|And they were being,|sd|2180
+A|the judge was being especially careful that everything was done correctly so there couldn't be a, a mistrial of any kind.|sd|2180
+B|Uh-huh.|b|2180
+A|Uh, the, um, uh, the interesting thing was the tremendous selection of jury process, uh, that we experienced.|sd|2180
+A|That took one full week, uh, to get forty-three people qualified to sit on the jury.|sd|2180
+A|And then it was a matter of the selection of, uh, twelve people after that.|sd|2180
+A|Actually it was fourteen because we had two alternates.|sd|2180
+B|Jeez.|ba|2180
+A|And the judge was extremely concerned for our welfare, if we were well, if we were comfortable, and, uh, things of that nature which made us feel good.|sd|2180
+B|Uh-huh.|b|2180
+A|Uh, and we were sequestered|sd|2180
+A|but the makeup of the jury, uh, was truly a cross section of, uh, you might say a cross section of a country.|sd|2180
+B|Uh-huh.|b|2180
+A|There was one other person besides myself, we were the only ones that had ever been to college.|sd|2180
+A|Um, one was a former student of mine a few years before who was out of work. Uh,|sd|2180
+B|Gee.|ba|2180
+A|two others were ones who had never finished high school and were out looking for jobs,|sd|2180
+A|yet.|%|2180
+A|Um, a couple of them were housewives who had never worked,|sd|2180
+A|and then some are people who did work.|sd|2180
+A|So, we had quite a cross section of black, white and women and men.|sd|2180
+B|Uh-huh.|b|2180
+A|And, uh, it, uh, it was interesting just to listen to the rationale, uh, being proposed and the logic of some of the people, uh,|sd|2180
+A|it was also extremely difficult to stay awake sometimes because there was so many witnesses,|sd|2180
+A|and we were not allowed to take any notes of any kind.|sd|2180
+A|Uh, and I thought that that was a failing because, uh, from the standpoint that it was difficult to try to remember everything,|sd|2180
+B|Yeah.|b|2180
+A|and, and yet the judge said, well, um, if you're taking notes you're missing something,|sd|2180
+A|and he was right, there also.|sd|2180
+B|Yeah.|b|2180
+A|But, uh, I certainly, um, have that rather than trial by jury.|%|2180
+B|Uh-huh.|b|2180
+B|Yes,|aa|2180
+B|yes|aa|2180
+B|I agree.|aa|2180
+B|Uh, would surprise me that, uh,|%|2180
+B|when I was in Texas I had the, uh, displeasure of getting a, uh, traffic ticket.|sd|2180
+A|Uh-huh.|b|2180
+B|And, um, I went to court|sd|2180
+B|and you can even get a trial by jury for a traffic ticket.|sd|2180
+A|You're kidding.|qy^d|2180
+B|No.|nn|2180
+B|And I thought, my God talk about tieing up things for, for, *typo tying|sd|2180
+A|Yes,|aa|2180
+A|and money.|sv|2180
+B|Yes,|aa|2180
+B|I mean that's extremely expensive.|sv|2180
+B|I mean, the first thing you had to do when you came before the judge was waive your right to a jury trial.|sd|2180
+B|I'm like God , this is ridiculous|sd|2180
+A|Yeah.|b|2180
+A|Yeah,|aa|2180
+A|I do think that, that, uh,|sv|2180
+A|I do think the jury system works|sv|2180
+A|but I'd, I also feel, as you said, that the original concept of the jury as it was originally setup, uh, back, uh, in a hundred years ago was fine but that it needs to be more refined for today's standard of living and the, the, uh, level of education of them, of so many people now, uh,|sv|2180
+B|Uh-huh.|b|2180
+A|by the same token we had, um, uh, some people who wanted had vacations planned|sd|2180
+A|and one man in particular had reservations made, plane tickets made, everything,|sd|2180
+A|and the judge called and had it all canceled so he could get his money back|sd|2180
+A|and then he wasn't selected on the jury.|sd|2180
+B|Oh, my God.|ba|2180
+A|And then another young fellow had to meet with the judge and the prosecutor and the defense attorneys on three different occasions before he was finally excused from the jury because his wife was about to have twins.|sd|2180
+A|And they had, he had to go through all of that if in three days to get excused from that jury, to be with his wife on the birth of the twins.|sd|2180
+A|And, uh, you know, some of it just seemed rather extreme.|sd|2180
+B|Yes.|aa|2180
+B|I, I think they can probably come up with some ways to insure that, uh, you know, people would get a fair trial, and not have to go through this process.|sv|2180
+A|Yes.|aa|2180
+A|Right.|b|2180
+B|I mean, some things are just so cut and dry.|sv|2180
+B|Um, in the, in, you know, the, the level of evidence that they come up with now, I mean, you know, when you start thinking about well, they've got video tape and, and audio tapes|sv|2180
+B|and they've, they've got, you know, they've got ways to nail people to the point where they, they really shouldn't even be going to trial.|sv|2180
+A|Uh-huh.|b|2180
+A|Right,|aa|2180
+A|well, I guess he'd have to be careful whether, with entrapment or some of those things,|sv|2180
+B|Yes.|aa|2180
+A|but, uh, I don't,|%|2180
+A|I assume you have seen on television recently, as probably the whole country has, the beating of the man in Los Angeles.|sd|2180
+B|Oh, that was horrible.|sv|2180
+A|Isn't that terrible?|qy|2180
+A|And, uh, you know, and that certainly, uh, cannot be said to be, uh, something that happens everywhere,|sv|2180
+B|That it ,|%|2180
+A|but the fact that it can happen, that it probably does happen in many places, it's, it's horrendous|sv|2180
+A|and it's just a stroke of luck, that someone was able to get it on tape and then, uh, to listen to the tape recording, uh, at the police station of the whole conversation afterwards.|sv|2180
+B|Yeah.|b|2180
+B|Yes,|aa|2180
+B|I know.|aa|2180
+B|I mean, I only heard portions of that|sd|2180
+B|but it's absolutely, terrible.|sv|2180
+A|Yeah.|b|2180
+B|And, you know, if you beat a dog like that, they'll put you, in jail, you know.|sd|2180
+A|Absolutely.|aa|2180
+A|Well, we get a few other case, uh, like up at the end of last year where one police officer, it was on a drug raid, uh, was trying to extra, extricate, um, a confession or information from a drug dealer and did so by placing a hot, a hot iron on his chest, his bare chest, burned him.|sd|2180
+B|Jeez.|ba|2180
+A|They wound up paying him, uh,|sd|2180
+A|the officer, of course, was fired,|sd|2180
+A|but they paid the defendant, uh, three hundred thousand dollars or something to drop the lawsuit,|sd|2180
+A|and then last week someone shot and killed the former policeman.|sd|2180
+B|Huh.|b|2180
+A|So, uh, as|%|2180
+A|some of those things, uh, are absolutely horrendous|sv|2180
+A|and we do need an an overhaul|sv|2180
+A|and we just need more discipline country wide.|sv|2180
+B|Yes,|aa|2180
+B|I, I believe that too.|sd|2180
+A|It would ,|%|2180
+A|then we'd need it on that,|sv|2180
+A|yeah.|%|2180
+A|Well, it's been very nice talking with you.|fc|2180
+B|Well, it's been nice talking with you.|fc|2180
+A|Yes,|fc|2180
+A|and, uh, good luck on, on calls.|fc|2180
+B|Okay,|fc|2180
+B|thank you,|ft|2180
+B|you do the same.|fc|2180
+A|Uh-huh.|fc|2180
+A|Bye-bye.|fc|2180
+B|Bye-bye.|fc|2180

@@ -1,0 +1,350 @@
+A|Okay.|fo_o_fw_"_by_bc|2871
+B|Well let's start with you|ad|2871
+A|Okay, um,|aa|2871
+A|the last movie I saw was the FIVE HEARTBEATS|sd|2871
+A|and I liked it a lot because it had a lot of music in it.|sd|2871
+B|FIVE HEARTBEATS?|b^m|2871
+A|Yeah|ny|2871
+A|it's, It's, it's, uh, Robert Townsend movie.|sd|2871
+B|Who, who was in that.|qw|2871
+B|Okay.|bk|2871
+A|Um, I, I don't know all the actors or anything,|sd|2871
+A|but it was just, it was a lot of music a lot of old songs, things like that.|sd|2871
+B|When was it out?|qw|2871
+A|Um, it's still out now, uh,|sd|2871
+A|it came out I guess about a month or, about a month and half ago, something like that.|sd|2871
+A|It's about a Black singing group.|sd|2871
+A|It,|%|2871
+A|and, uh, it was called the DELLS,|sd|2871
+B|Uh-huh.|b|2871
+A|And, uh, it was kind of like just about their, their life, and their, uh, history and things like that and the way they went from, from, how they went from stardom to nonstardom.|sd|2871
+B|Yeah.|b|2871
+A|And, uh, that was pretty good.|sd|2871
+A|I enjoyed,|sd|2871
+A|I saw DANCES WITH WOLVES.|sd|2871
+A|Have you seen that?|qy|2871
+B|Yeah,|ny|2871
+B|I saw that one,|sd|2871
+B|that was pretty good.|sd|2871
+A|Yeah,|b|2871
+A|yeah.|b|2871
+B|Uh, that won best picture, I think.|sd|2871
+A|Uh-huh.|b|2871
+B|And Costner got best director.|sd|2871
+A|Yeah,|b|2871
+A|right now Kevin Costner, I mean, he's starring in everything.|sd|2871
+A|He's doing the Kennedy movie that's coming out, um,|sd|2871
+A|and there's one,|%|2871
+B|Another Kennedy movie, huh|qh|2871
+A|Yeah,|ny|2871
+A|yeah,|ny|2871
+A|starring Kevin Costner,|sd|2871
+A|and let me see,|^h|2871
+A|what else.|t1|2871
+A|Um, he's doing some other movie,|sd|2871
+A|I can't,|%|2871
+A|I think ROBIN HOOD, that's it,|sd|2871
+A|the ROBIN HOOD coming out|sd|2871
+A|and he's going to be in also.|sd|2871
+A|And, let me see,|^h|2871
+A|what else have I seen.|t1|2871
+A|What have you seen?|qw|2871
+B|One comes to mind here|^h|2871
+B|and I not sure about the name, has Meryl Streep|sd|2871
+B|and, um, what was the name of that?|t1|2871
+B|Anyway the|%|2871
+B|the premise of the story is that, uh, uh, uh, you go to a after you die you go to a place called Judgment City.|sd|2871
+A|Oh, I know what you're talking about.|sd|2871
+B|And, um, anyway,|%|2871
+A|My.|%|2871
+B|uh, I can't|sd|2871
+B|the other, the other actor, uh,|%|2871
+A|It's called REVIEWING MY LIFE, or something like that.|sd|2871
+B|Yeah|b|2871
+B|and, uh,|%|2871
+A|Yeah,|b|2871
+A|I didn't get to see that.|sd|2871
+B|DEFENDING YOUR LIFE.|fo_o_fw_"_by_bc|2871
+A|Yeah,|b|2871
+A|that's it,|sd|2871
+A|okay.|b|2871
+B|DEFENDING YOUR LIFE,|fo_o_fw_"_by_bc|2871
+B|and it's, it's an excellent movie, uh,|sd|2871
+A|Uh-huh.|b|2871
+B|it's pretty entertaining, uh.|sd|2871
+B|Let's see,|^h|2871
+B|what else have I seen lately, um.|t1|2871
+A|One of my favorite movies, it's not one that I haven't seen,|sd|2871
+A|I,|%|2871
+A|it's not a late movie. FATAL ATTRACTION|sd|2871
+B|HOME ALONE.|^2|2871
+B|Okay,|b|2871
+B|yeah.|%|2871
+A|It's probably my all time,|sd|2871
+A|well not all time favorite,|sd|2871
+A|but one of my favorites, that I can watch over and over.|sd|2871
+B|well, did you ever see HOME ALONE?|qy|2871
+A|No,|nn|2871
+A|I never did,|sd|2871
+A|I, I heard it was really good,|sd|2871
+A|I've never, just haven't gone out to see it.|sd|2871
+B|That was a, that was a good one, too.|sd|2871
+A|Was that pretty funny?|qy|2871
+B|Yeah,|ny|2871
+B|it's pretty good,|sd|2871
+B|and, um.|%|2871
+A|Yeah,|b|2871
+A|yeah,|b|2871
+A|somehow just never made it to see that,|sd|2871
+A|but I need to see it.|sd|2871
+B|I can't believe I'm just drawing a blank, because, I've|sd|2871
+A|Yeah,|b|2871
+A|FATAL ATTRACTION, that, I don't know why I like that movie so much,|sd|2871
+A|I guess it was so much suspense.|sd|2871
+B|Uh-huh.|b|2871
+A|And I like suspense.|sd|2871
+B|That kind of reminds me|sd|2871
+B|like, uh, did you ever see, this is going way back, uh, JAGGED EDGE.|qy^d|2871
+A|Yes,|ny|2871
+A|uh-huh,|ny|2871
+A|yeah,|ny|2871
+A|on that order.|sd|2871
+B|that was a good one too,|sd|2871
+B|yeah.|%|2871
+A|Certainly is.|aa|2871
+B|But, uh.|%|2871
+A|And I liked the woman that played in that,|sd|2871
+A|I forgot what her name is now.|sd|2871
+B|Yeah|b|2871
+B|that's,|%|2871
+A|Anne Archer she's the one, she was the wife in FATAL ATTRACTION,|sd|2871
+A|yeah,|%|2871
+B|Oh, okay.|b|2871
+A|and she played in, uh, narrow margin which was a little more recent,|sd|2871
+B|Uh-huh.|b|2871
+A|and that was kind of another suspense type, Alfred Hitchcock type thriller.|sd|2871
+B|Yeah.|b|2871
+A|That was good.|sd|2871
+A|Uh, God, I guess I haven't seen too many movies lately.|sd|2871
+A|I need to,|%|2871
+B|I haven't seen a whole lot either,|sd|2871
+A|Yeah.|b|2871
+A|Uh-huh.|b|2871
+A|Somehow,|%|2871
+A|I mean it's hard for me to get to movies now because it's getting so expensive, you know,|sd|2871
+A|I'd, I'd rather rent.|sd|2871
+B|I know|ba|2871
+B|it's it's obnoxious, because you go in there and you spend six bucks a ticket,|sd|2871
+A|Yeah.|b|2871
+B|but then you end up spending another six dollars on food.|sd|2871
+A|Yeah|b|2871
+A|and that's just for a a bucket of popcorn, you know.|sd|2871
+B|And a pop, you know,|^2|2871
+B|so it's, it gets pretty,|%|2871
+A|Yeah,|aa|2871
+A|yeah,|aa|2871
+A|God forbid you should want something to drink with it,|sd|2871
+A|but, uh.|%|2871
+B|Yeah|b|2871
+B|like if I,|%|2871
+B|so if I take a date, it, it cost me, you know, twenty bucks, easy.|sd|2871
+A|Uh-huh.|b|2871
+A|Oh, yeah|aa|2871
+A|easily.|aa|2871
+B|And, uh, I don't know.|h|2871
+A|And you're usually going to do, you're usually going to go to a dinner, go to dinner or something with that.|sv|2871
+B|I was going to say, you, you know, you can find certain restaurants that are nice, and have good food for eat for thirty dollars.|sd|2871
+A|Yeah.|b|2871
+A|It's almost more fun really,|sv|2871
+A|yeah,|%|2871
+A|it's almost more fun really to rent movies. You know, just kind of stay at home, maybe.|sv|2871
+B|Yeah,|b|2871
+B|the problem is you always have to wait until they're out.|sv|2871
+A|Yeah,|aa|2871
+A|that's true too.|aa|2871
+B|So that's what you're, you're, uh, dealing with.|sv|2871
+A|Yeah,|b|2871
+A|but then you can make your popcorn and you know, be comfortable.|sd|2871
+B|That's true,|aa|2871
+B|that is true.|aa|2871
+A|Uh-huh.|b|2871
+B|Well.|%|2871
+A|Well that's about all the movies I've seen recently|sd|2871
+B|I ought to open the paper here because I know I've seen a few that have, have played.|sd|2871
+B|But, um, I just can't come up with any names here,|sd|2871
+A|Uh-huh.|b|2871
+B|haven't, haven't been to one for a little while,|sd|2871
+B|but, um. Did you ever see KINDERGARTEN COP?|sd|2871
+A|No,|nn|2871
+A|I never did.|sd|2871
+B|That was pretty good.|sd|2871
+A|Was that Arnold Schwarzenegger?|qy|2871
+B|Yeah,|ny|2871
+B|uh-huh.|ny|2871
+A|Yeah,|b|2871
+A|yeah.|b|2871
+B|But, um.|%|2871
+A|There's a movie I do want to see, uh,|sd|2871
+A|I haven't seen it,|sd|2871
+A|what is it, oh,|t1|2871
+A|KISS BEFORE DYING.|sd|2871
+B|Yeah,|b|2871
+B|whose in that?|qw|2871
+A|It looks, it looks pretty suspenseful.|sd|2871
+B|Uh-huh.|b|2871
+B|Another one I saw is called the OBJECT OF BEAUTY.|sd|2871
+B|I don't recommend that, as much as, uh, DEFENDING YOUR LIFE,|sd|2871
+B|but, it was, it was all right, kind of funny.|sd|2871
+B|Um, but, um, what else has been on and about.|qh|2871
+A|Are you looking in the paper?|qy|2871
+B|Yeah.|ny|2871
+A|Oh.|b|2871
+B|I'm trying to,|sd|2871
+B|I wanted to get to the SILENCE OF THE LAMBS,|sd|2871
+B|I hear that,|sd|2871
+A|Oh, yeah,|b|2871
+A|that was great.|sd|2871
+B|Oh, did you see that?|qy|2871
+A|Yes,|ny|2871
+A|that was, that, that might be one of my all time favorites too,|sd|2871
+A|that was an excellent movie.|sd|2871
+A|It was pretty scary because I was visiting a V A Hospital, uh, near to where I live|sd|2871
+A|and they were saying that some of the patients there, you can't leave by themselves, because they'll make a weapon out of anything, you know,|sd|2871
+A|out of a piece of paper, they can kill somebody, you know.|sd|2871
+B|Uh-huh.|b|2871
+A|And this guy in SILENCE OF THE LAMBS Hannibal Lector, he was, he was that kind of person,|sd|2871
+A|and you,|%|2871
+A|they couldn't leave him alone|sd|2871
+B|Uh-huh.|b|2871
+A|it was, it was really|sd|2871
+A|he was very dangerous,|sd|2871
+A|but you were kind of on his side because he was so fascinating.|sd|2871
+B|Huh.|b|2871
+A|But, but they couldn't leave him alone at all.|sd|2871
+A|And they found out what happened when they did leave him alone one time,|sd|2871
+A|but I won't tell you that, just in case you see the movie.|sd|2871
+B|Yeah,|b|2871
+B|I'll probably try to go to see it in a little while here.|sd|2871
+A|Uh-huh,|b|2871
+A|oh very good.|ba|2871
+B|But it's been out for a while.|sd|2871
+A|Oh yeah,|b|2871
+A|oh yeah.|b|2871
+A|I'm not sure when it will be hitting video stores,|sd|2871
+A|it should be a while yet, though.|sd|2871
+B|Have you heard anything on, like, OUT FOR JUSTICE.|qy|2871
+A|Oh, I haven't heard anything about it.|ng|2871
+A|I,|%|2871
+A|but I don't like Steven Seagal things, uh,|sd|2871
+A|so.|%|2871
+B|Has he had, has he had very many other movies out?|qy|2871
+A|He's had OUT FOR JUSTICE|na|2871
+A|and there was one right before that with a similar title|sd|2871
+A|like, uh, I don't know some, I don't know, some macho title.|sd|2871
+A|That's why, I, I just don't like the,|sd|2871
+B|Because it's a macho movie.|bf|2871
+A|yeah,|%|2871
+A|it is,|%|2871
+A|I, I don't like that a lot.|sd|2871
+A|I don't watch a lot of Arnold Schwarzenegger or anything like that either.|sd|2871
+B|Speaking of that I think TERMINATOR TWO is supposed to be out.|sd|2871
+A|Yeah,|b|2871
+A|yeah,|b|2871
+A|that might be good, though,|sd|2871
+A|that might be good.|sd|2871
+B|I don't know,|h|2871
+B|I've enjoyed a lot of his movies,|sd|2871
+A|Uh-huh.|b|2871
+B|uh, they just, they're action filled, and a little bit of humor,|sd|2871
+A|Uh-huh,|b|2871
+A|uh-huh.|b|2871
+B|and, uh.|%|2871
+A|I guess, I'm not fond of the action packed movie, where they're always chasing or fighting,|sd|2871
+A|or, you know,|sd|2871
+B|Yeah.|b|2871
+A|I like the more, movies that make you think.|sd|2871
+B|Yeah,|b|2871
+B|did you ever see, um, um, SLEEPING WITH THE ENEMY?|qy|2871
+A|No,|nn|2871
+A|I haven't seen that yet,|sd|2871
+A|and that's something I really should have seen.|sd|2871
+A|Was that good,|qy|2871
+A|did you see it?|qy|2871
+B|I haven't, I haven't heard much lately.|ng|2871
+A|Uh-huh.|b|2871
+B|I just remember when it first came out that it had kind of mixed reviews.|sd|2871
+A|Yeah,|b|2871
+A|a friend of mine saw it|sd|2871
+A|and she said it was okay, you know,|sd|2871
+B|Yeah.|b|2871
+A|it wasn't anything spectacular.|sd|2871
+B|You expect more out of, uh, Julia Roberts, though.|sv|2871
+A|Yeah,|b|2871
+A|the previews looked so good that I wanted to see it|sd|2871
+A|but I never did, uh.|sd|2871
+B|Did you ever see the original F X movie.|qy|2871
+A|well I saw half of it,|sd|2871
+A|and I remember I was in school, I saw half of it|sd|2871
+A|and I fell asleep|sd|2871
+A|and everyone else watched it|sd|2871
+B|Oh, okay,|bk|2871
+B|because I was going to say I always enjoyed that,|sd|2871
+B|I, I, uh, I remember that movie,|sd|2871
+A|Uh-huh,|b|2871
+A|uh-huh.|b|2871
+B|and, uh, it was,|%|2871
+B|I mean I got in to it,|sd|2871
+A|Yeah.|b|2871
+B|I don't know if,|%|2871
+A|Yeah,|b|2871
+A|yeah,|b|2871
+A|I really need to go see the original one,|sd|2871
+A|I'm sure it was a good movie,|sd|2871
+A|I just, I probably had a test that day, or something,|sd|2871
+A|I don't know.|h|2871
+B|Yeah,|b|2871
+B|it was one of those that has a lot of twists in it,|sd|2871
+A|Yeah.|b|2871
+B|yeah,|b|2871
+B|it's, it's, it's, it's, uh,|%|2871
+B|I can't put it exactly on the lines of the JAGGED EDGE,|sd|2871
+A|Uh-huh,|b|2871
+A|yeah.|%|2871
+B|you get these twists|sd|2871
+B|and, it's usually pretty good,|sd|2871
+B|but, uh.|%|2871
+A|I think, I think though, that movies are losing their luster.|sv|2871
+B|What's that?|br|2871
+A|I think movies are losing their attractiveness, just to a lot of people.|sv|2871
+A|Just,|%|2871
+A|I think,|%|2871
+A|I don't know,|h|2871
+A|because of the cost|sd|2871
+A|and, I think it, it's just losing its originality or something.|sv|2871
+A|I don't,|%|2871
+A|I can't pin, pinpoint it.|sd|2871
+B|Yeah,|b|2871
+B|yeah|b|2871
+A|But it doesn't seem like it's as big, uh, rage to get the movie theater as it used to be.|sv|2871
+B|That's probably true.|aa|2871
+B|I, I, I|%|2871
+B|just you see the same story lines, different characters|sv|2871
+A|Uh-huh,|aa|2871
+A|yeah,|aa|2871
+A|exactly.|aa|2871
+B|it's, it's, it's hard to say.|sd|2871
+B|An,|%|2871
+B|and I know I don't,|%|2871
+B|you, know, I don't keep up with it, you know.|sd|2871
+A|Right.|b|2871
+B|But, uh, I don't try to|sd|2871
+B|just for that reason, it is a, it does cost a lot,|sd|2871
+A|Uh-huh.|b|2871
+B|so why go out and see something right away, you know,|qh|2871
+B|you kind of wait|sv|2871
+B|and if something gets really good reviews, maybe you'd finally go spend the twelve bucks, you know to go to it.|sv|2871
+A|Right,|b|2871
+A|right,|b|2871
+A|uh-huh.|b|2871
+B|But, um, you know, I haven't been to a to an opening for, oh, you know ages, Just because.|sd|2871
+A|Uh-huh.|b|2871

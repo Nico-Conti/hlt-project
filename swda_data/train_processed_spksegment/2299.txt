@@ -1,0 +1,224 @@
+A|So what do you think about it?|qo|2299|0
+A|How are we doing in recycling?|qo|2299|0
+A|Are we,|%|2299|0
+B|Well, I think we need to do more.|sv|2299|1
+B|I mean, I know I need to do more.|sd|2299|1
+B|They have programs around where you can reach the, uh,|sd|2299|1
+B|they come and pick up your newspapers if you have them bundled up.|sd|2299|1
+A|Uh-huh.|b|2299|0
+B|But I have a hard time of being able, of separating, you know, having a place, separating my trash,|sd|2299|1
+B|and get all the cans from the paper,|sd|2299|1
+A|Yeah.|b|2299|0
+B|and, you know, I just haven't gotten that dedicated yet|sd|2299|1
+B|So.|%|2299|1
+A|I do a lot of work with the boy scouts,|sd|2299|0
+A|and we try to do a lot|sd|2299|0
+B|Uh-huh.|b|2299|1
+A|but there's still a lot more we can do.|sd|2299|0
+B|Yeah.|b|2299|1
+A|You know, I don't recycle my newspapers myself,|sd|2299|0
+A|but I noticed in one of the sales catalogs this weekend they have a, like a, a clothes hamper kind of thing that, you know, you lay your string in, then you put your papers in there tie them all up and bundle them up,|sd|2299|0
+B|Uh-huh.|b|2299|1
+A|so I figured I might get me one of those because we don't always read the newspaper.|sd|2299|0
+B|Uh-huh.|b|2299|1
+A|Sometimes it just sits around for a while,|sd|2299|0
+A|and then we just chuck it.|sd|2299|0
+B|Yeah,|b|2299|1
+B|well, I don't, I don't get the paper every day,|sd|2299|1
+B|but, you know, I get it on,|sd|2299|1
+B|I try to buy, you know, the early edition for the coupons, you know, the Sunday edition.|sd|2299|1
+B|So.|%|2299|1
+A|Yeah.|b|2299|0
+B|But, then I just, you know, bundle it up and put it on the front, you know, the front walk you know, every Monday or every other Monday, and have them pick that up,|sd|2299|1
+A|Yeah.|b|2299|0
+B|but that's the extent of what I've done.|sd|2299|1
+B|I'd like to be able to do more.|sd|2299|1
+B|The problem is, with a lot of it is, you have to go, you know, it takes a while to drive to these places where you recycle it, you know|sd|2299|1
+A|Yeah|b|2299|0
+A|see, and,|%|2299|0
+B|it's not always convenient to do it.|sd|2299|1
+A|Yeah,|b|2299|0
+A|see, and here in Lubbock everything's so close.|sd|2299|0
+A|I can imagine what it's like up there.|sd|2299|0
+B|Yeah,|b|2299|1
+B|I'm not exactly sure where the, you know, the can thing is,|sd|2299|1
+B|but, you know, sometimes it's just so,|sd|2299|1
+B|seems so much easier just to take it and throw it in the trash, and have them pick it up than it is to smash the cans and drive it some place to have them.|sd|2299|1
+A|Yeah.|b|2299|0
+A|See, I went out to Payless Cashways here a couple of days ago, as a matter of fact, and got me one of those little can crushers that I could put on the wall|sd|2299|0
+B|Uh-huh.|b|2299|1
+A|and then I put me a little five gallon bucket,|sd|2299|0
+A|and it's just outside the garage door|sd|2299|0
+B|Uh-huh.|b|2299|1
+A|so every time we drink a Coke or whatever we crush the can and just drop it into the bucket.|sd|2299|0
+B|Do those can crushers work good?|qy|2299|1
+A|Yeah,|ny|2299|0
+A|I got one from Payless Cashways,|sd|2299|0
+A|and it's actually metal|sd|2299|0
+B|Uh-huh.|b|2299|1
+A|it's not plastic.|sd|2299|0
+A|I didn't want to buy a plastic one.|sd|2299|0
+B|Yeah|aa|2299|1
+B|because those things I think would just snap you know.|sv|2299|1
+A|Yeah.|b|2299|0
+A|But Payless Cashways has them|sd|2299|0
+A|and they're metal,|sd|2299|0
+A|and I don't know what affiliate of Payless Cashways you have up there,|sd|2299|0
+A|but it was only like seven dollars, not too bad.|sd|2299|0
+B|Oh.|b|2299|1
+B|I'd have to check into something like that, because, I mean, we don't drink a whole lot of soda around here, you know,|sd|2299|1
+B|but, um you know, occasionally we have some around,|sd|2299|1
+A|Yeah.|b|2299|0
+B|but, you know, for other kind of cans, just to, it'd probably only take aluminum cans like that, don't they.|qy|2299|1
+A|Yeah,|ny|2299|0
+A|I don't,|%|2299|0
+A|yeah,|ny|2299|0
+A|I don't think it would crush steel cans,|sd|2299|0
+A|it's pretty tough.|sd|2299|0
+B|Yeah,|b|2299|1
+B|so. I don't know,|h|2299|1
+B|I don't think you have to crush the other ones for them to get to take that,|sd|2299|1
+B|but, I need to look into it more,|sd|2299|1
+A|No,|b|2299|0
+A|you could probably just, you know,|sv|2299|0
+B|you know, it's, you know, it,|%|2299|1
+B|sometimes, even with the newspaper they say they'll only take certain types of paper, you know,|sd|2299|1
+B|they won't take paper that's shiny,|sd|2299|1
+A|Yeah|b|2299|0
+A|they won't, yeah, they won't take any lint free paper|sd|2299|0
+A|or, see, I work at T I.|sd|2299|0
+B|Yeah,|b|2299|1
+B|so does my husband,|sd|2299|1
+B|yeah.|%|2299|1
+A|We do a lot of recycling out there.|sd|2299|0
+B|Uh-huh.|b|2299|1
+A|Now we recycle all our computer paper and our cardboard,|sd|2299|0
+A|but that's just now come on board.|sd|2299|0
+B|Uh-huh.|b|2299|1
+A|You know, we've been throwing paper out there away for years,|sd|2299|0
+A|and we're just now getting on board to recycling ever since this big Earth Day thing came out, you know.|sd|2299|0
+B|Uh-huh.|b|2299|1
+B|Yeah,|b|2299|1
+B|I don't know what,|%|2299|1
+B|you know, I haven't,|%|2299|1
+B|I'm sure they're probably doing that here some.|sv|2299|1
+A|Yeah,|aa|2299|0
+A|I'm sure they are.|sv|2299|0
+A|T I is doing it pretty well nation-wide, I'm sure.|sd|2299|0
+B|Uh-huh.|b|2299|1
+B|I think it's necessary,|sv|2299|1
+B|I, I like it,|sd|2299|1
+B|you know, it makes,|%|2299|1
+B|I think it's good that you see these, you know, like boxes, cereal,|sd|2299|1
+B|they're now starting to make them, you know, the packages out of recycled paper,|sd|2299|1
+B|and, And I've bought, you know, I've bought greeting cards that are made out of recycled paper,|sd|2299|1
+A|Oh, yeah.|b|2299|0
+B|and I think they're just fine.|sd|2299|1
+A|Yeah,|b|2299|0
+A|I bought a,|sd|2299|0
+A|I got one at work that I bought for one of the guys there at work,|sd|2299|0
+A|it's his birthday,|sd|2299|0
+A|we're pretty good friends,|sd|2299|0
+A|and what it is is a recycled paper bag|sd|2299|0
+B|Uh-huh.|b|2299|1
+A|and it's just got Happy Birthday printing on it, and a cute little phrase inside,|sd|2299|0
+A|and it's just a paper bag|sd|2299|0
+B|Uh-huh.|b|2299|1
+A|you know, and it's really cute.|sd|2299|0
+B|Yeah.|b|2299|1
+A|But, I think we're doing better and better all the time,|sv|2299|0
+B|Yeah|b|2299|1
+A|still don't,|%|2299|0
+B|I think we're getting, becoming more conscious because we just can't stick everything in landfills any more.|sv|2299|1
+B|So.|%|2299|1
+A|No,|aa|2299|0
+A|there's not going to be any room, shortly.|sv|2299|0
+B|No,|aa|2299|1
+B|no,|aa|2299|1
+B|the office,|%|2299|1
+A|I don't know what New York does about theirs.|sd|2299|0
+A|I guess they still ship it out on barges somewhere.|sv|2299|0
+B|Yeah,|aa|2299|1
+B|it's probably sitting out on the barge somewhere|sv|2299|1
+A|Yeah,|b|2299|0
+A|so. But I think we're getting better at it|sv|2299|0
+B|Yeah.|b|2299|1
+A|I think there's quite a bit more we could do.|sv|2299|0
+B|to someone in the Girls, put that away.|t3|2299|1
+B|Now.|t3|2299|1
+A|But, you're right sometimes it does seem like it's more trouble than what it would be worth.|sd|2299|0
+B|Yeah,|b|2299|1
+B|I just wish it was a little more convenient to do,|sd|2299|1
+A|Yeah.|b|2299|0
+B|you know, seems like you're so busy anyway,|sd|2299|1
+B|and then that's just one more thing to have to worry about.|sd|2299|1
+B|So.|%|2299|1
+A|Yeah,|aa|2299|0
+A|it sure is.|ba|2299|0
+B|I think if, you know, the cities, locally, you know, they'd get more programs going so that you could do that, it'd make it a lot easier.|sv|2299|1
+B|So.|%|2299|1
+A|Yeah,|b|2299|0
+A|yeah.|b|2299|0
+A|Well, they'll get at it sooner.|sv|2299|0
+A|I guess the schools will get into it, too, sooner or later.|sv|2299|0
+B|Yeah,|b|2299|1
+B|yeah,|b|2299|1
+B|get the kids interested in it too.|sv|2299|1
+A|You know they have,|%|2299|0
+A|We tried to have an aluminum can drive with the cub scouts that I have,|sd|2299|0
+A|and we just don't have any place to store those kind of cans.|sd|2299|0
+B|Yeah.|b|2299|1
+A|You know, if we go out and pick up a bunch of cans from people, sure they'll save them for us, there's no problem there.|sd|2299|0
+B|Uh-huh.|b|2299|1
+A|But what do you do with them in the meantime?|qh|2299|0
+B|That's right.|ba|2299|1
+A|Now I don't want a can, a garage full of cans|sd|2299|0
+B|That's right,|ba|2299|1
+B|who does.|qh|2299|1
+B|You know people don't have room for that kind of stuff.|sv|2299|1
+A|You know.|%|2299|0
+A|No,|aa|2299|0
+A|they're just not, they're not prepared for it.|sv|2299|0
+B|No,|aa|2299|1
+B|and in Texas, they're just get, things like that,|sd|2299|1
+B|they just get bugs in them.|sd|2299|1
+B|So.|%|2299|1
+A|Yeah,|aa|2299|0
+A|yeah,|aa|2299|0
+A|they do.|sd|2299|0
+B|So, you don't,|%|2299|1
+A|You know, the more trash you have laying around the more bugs you get,|sd|2299|0
+A|that's for sure.|sd|2299|0
+B|That's right,|ba|2299|1
+B|so.|%|2299|1
+A|So.|%|2299|0
+B|I'm pretty lazy about it right now.|sd|2299|1
+B|Everything goes into one thing and goes out to the|sd|2299|1
+A|Yeah.|b|2299|0
+B|You know, pick it up.|sd|2299|1
+B|So.|%|2299|1
+A|Yeah,|b|2299|0
+A|myself.|%|2299|0
+A|About the only thing I really recycle around here is aluminum cans.|sd|2299|0
+B|Uh-huh.|b|2299|1
+A|So.|%|2299|0
+B|Well, I need to get, get better at it.|sd|2299|1
+B|So.|%|2299|1
+A|Well, if we all try a little bit, a little bit goes a long way.|sv|2299|0
+B|Yeah,|aa|2299|1
+B|that's right,|ba|2299|1
+B|that's right.|ba|2299|1
+A|If everybody tries to do just a little bit, and a little bit more then we'll get there.|sv|2299|0
+B|That's true.|ba|2299|1
+B|That's right.|ba|2299|1
+A|Well thank you for talking to me.|fc|2299|0
+B|Huh.|%|2299|1
+B|Well, thank you for calling.|fc|2299|1
+B|I,|%|2299|1
+A|Sure,|fc|2299|0
+A|no problem,|fc|2299|0
+B|Okay,|fc|2299|1
+B|take care.|fc|2299|1
+A|All right,|fc|2299|0
+B|Bye-bye.|fc|2299|1
+A|Bye-bye.|fc|2299|0

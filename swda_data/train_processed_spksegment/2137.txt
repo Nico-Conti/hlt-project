@@ -1,0 +1,77 @@
+A|Okay,|fo_o_fw_"_by_bc|2137|0
+A|uh, what do you think about, uh, the idea of having volunteer service for everyone?|qo|2137|0
+B|Uh, I think that, uh, really it wouldn't hurt most of the young people of the country to have to go and do voluntary service.|sv|2137|1
+B|Uh, and, you know, I mean, there have been so many people that have done it|sd|2137|1
+B|and I've talked with several|sd|2137|1
+B|and I think they've gotten a lot out of it.|sd|2137|1
+A|Well, are you doing any kind of volunteer work now?|qy|2137|0
+B|Not right now,|ng|2137|1
+B|but I have done, uh, Red Cross work|sd|2137|1
+B|and, uh, I've taught C P R training|sd|2137|1
+A|What about, when, when would people do it, when they finished high school?|qy|2137|0
+B|I think probably as soon as they finished high school it would be ideal, because a lot of times, if they go straight into college I think they're going in too quick|sv|2137|1
+B|but,|%|2137|1
+A|I think particular boys that the maturity,|sv|2137|0
+A|in fact I wasn't very mature when I left high school|sd|2137|0
+A|and I think there's a, there's a real challenge there.|sd|2137|0
+A|There's also this, this issue of, of, uh, you know, whether you're really ready,|sv|2137|0
+A|and I think it gives a different perspective.|sv|2137|0
+B|Right,|b|2137|1
+B|uh,|%|2137|1
+B|I, I think if you've been out of school a year, year and a half, before you start to college, you appreciate college more, than someone that just goes right straight into college.|sv|2137|1
+A|The only complication is, is, is how do you fund something like this?|qw|2137|0
+B|Well, a lot of parents fund their children.|sd|2137|1
+B|There are, uh, some groups that have their children, you know, go away for a year.|sd|2137|1
+B|Even the religious organizations.|sd|2137|1
+A|Yeah,|b|2137|0
+A|I think the Mormon church has, sends out missionaries that,|sd|2137|0
+B|Right.|b|2137|1
+B|And the parents fund them for the whole year, year and a half that they're gone.|sd|2137|1
+A|That's, uh, it's interesting.|ba|2137|0
+A|It gets them away from home and, and gets them to do something useful,|sd|2137|0
+A|although the kids today, though, it, it seems that almost that their concern for money,|sd|2137|0
+A|I, we were doing some investigating colleges and said the kids are much more interested today in, in trying to find a job, study something that will give them a job as opposed to, be curious, be curious|sd|2137|0
+A|as to if,|%|2137|0
+A|if there was, if there was mandatory, you could choose the option of either a mandatory military service or voluntary,|sd|2137|0
+A|do you think that would be reasonable?|qy|2137|0
+B|I think it would.|na|2137|1
+B|In, in Israel, the, even the women are, are required to, to be in the military for a certain period of time.|sd|2137|1
+B|Uh, I was in the military,|sd|2137|1
+B|and I personally feel if, if they have the draft, that they should draft women as quickly as they do the men.|sd|2137|1
+A|Well, but, the, the issue of, of, of, which,|%|2137|0
+A|what, what would, what would you find, what would you have them do?|qw|2137|0
+A|You know there are a lot of people around with,|sd|2137|0
+A|there's a lot of unemployment right now.|sd|2137|0
+A|What would you have these people do if they were brought in?|qw|2137|0
+B|What, into the service?|qy|2137|1
+A|Well, yeah.|ny|2137|0
+B|Or,|%|2137|1
+A|Or say, say the volunteer,|sd|2137|0
+A|say that, say that it was mandatory.|sd|2137|0
+B|Well I, I, I think that they ought to have something for the, the unemployed in a voluntary field like the, uh,|sv|2137|1
+B|I don't know if you know, remember about the W P A,|qy^d|2137|1
+A|Yes,|b|2137|0
+A|my father was in the C C C .|sd|2137|0
+B|He was in that?|bh|2137|1
+B|I mean, you know, uh, it's not the best thing in the world,|sv|2137|1
+B|but, uh, it gave them something to do.|sv|2137|1
+A|Well, it seems that there's some things like the, uh, the programs at least just go around and, and, and clean up streets and, and, and pick up trash and even aluminum cans and some of these kinds of things.|sd|2137|0
+B|or go into the, the more depressed areas and help repair the houses.|sd|2137|1
+A|Yeah,|b|2137|0
+A|in fact, we, we helped with, uh, oh, Help To Help Humanities,|sd|2137|0
+A|and that was a, that was a good experience,|sd|2137|0
+A|but you take the kids out|sd|2137|0
+A|and and a lot of the buildings in downtown areas that, that either need demolishing, or need fixing up,|sd|2137|0
+A|so|%|2137|0
+B|Uh-huh.|b|2137|1
+A|it would be a good idea.|sv|2137|0
+A|Uh, we've been doing this three or four minutes.|sd|2137|0
+A|I think that, uh,|%|2137|0
+A|do you have any other further comments?|qy|2137|0
+B|No,|nn|2137|1
+B|not really.|sd|2137|1
+A|Well, it was good talking to you, Betty.|fc|2137|0
+B|okay,|fc|2137|1
+B|I'll talk to you later.|fc|2137|1
+A|Have a good night.|fc|2137|0
+B|Bye.|fc|2137|1

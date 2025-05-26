@@ -1,0 +1,162 @@
+A|Hello.|fp|3012
+B|Hello|fp|3012
+A|Hi, um,|fp|3012
+A|this is Betty|fp|3012
+A|and I'm in Richardson, Texas.|sd|3012
+B|I'm Nola|fp|3012
+B|and I'm in Plano.|sd|3012
+A|Oh, okay,|b|3012
+A|well here we go|sd|3012
+A|I guess we're going to have a lot of parades this weekend in honor of these guys that are, that did some stuff over in the Gulf. Um.|qy^d|3012
+B|Yeah,|ny|3012
+B|now, did you push one?|qy|3012
+A|Yeah, uh,|ny|3012
+B|Oh, okay.|bk|3012
+A|no|nn|3012
+A|I haven't pushed one yet.|sd|3012
+A|I just,|%|3012
+B|Okay,|b|3012
+B|but, I think it's,|sd|3012
+B|I just started doing this|sd|3012
+B|so I don't know too much about it.|sd|3012
+A|Okay,|b|3012
+A|we're just sort of getting acquainted here.|sd|3012
+B|Oh, okay.|b|3012
+A|Um, you know, I, I just wanted to see if, you know, you had an opinion about this,|sd|3012
+A|or, you know.|%|3012
+B|Uh-huh.|b|3012
+A|Um, so, if that's okay with you, then I'll just press one.|oo_co_cc|3012
+B|That will be fine.|aa|3012
+A|Okay|b|3012
+A|Well, hi,|fp|3012
+B|Hi.|fp|3012
+A|Good morning. Um,|fp|3012
+A|I think I mean, if, if I start this I just wanted to say that, um, one of the things that I don't think we really understood about the, the middle eastern situation is that they're a totally different type of people than we are,|sv|3012
+A|and I mean they think differently|sv|3012
+A|and their idea of what is justice is totally different from ours.|sv|3012
+A|And, and right now, I, I think that that's been proven in the fact that, um, they have just,|sv|3012
+A|well, anyway, I just think that, you know, the United States policy over there,|sv|3012
+A|I think we should just leave them alone.|sv|3012
+A|I really do. In, in a major way because they just, um, that whole region over there, I think needs to settle its own differences within itself.|sv|3012
+B|Yeah.|b|3012
+A|And that's the way, the course that they should go,|sv|3012
+A|I mean, you know, we can maybe help them a little bit, prompt them,|sv|3012
+A|but I don't think this intervention at such high levels should be going on.|sv|3012
+A|The, the thing with Israel and Palestine, I believe that should be settled between them.|sv|3012
+A|And also, um, you know, the other thing is their idea, or our idea of democracy has nothing to do with them.|sv|3012
+A|I mean, I mean, I'm talking about the whole middle|sd|3012
+A|and, and maybe this is too general,|h|3012
+A|but I just believe that, um, they do not look at democracy the same way we do.|sv|3012
+A|They don't understand it as we don't understand the way they live.|sv|3012
+B|Yeah.|b|3012
+A|And, so, you know, trying to put like a square peg in a round hole is just, you know,|sv|3012
+A|I don't think that that's the way to go in this|sv|3012
+A|and, um, you know, it, it. Oh, well, that's, that's a couple thoughts on it.|h|3012
+B|Yeah.|b|3012
+A|I, I guess, you know, I'd like you to maybe express something here.|ad|3012
+B|Well I, I, I think overall that's right.|aap_am|3012
+B|I think it's kind of sad though, that, for generations they've been taught to hate each other.|sv|3012
+A|Yeah.|b|3012
+B|And that's, you know,|%|3012
+B|if,|%|3012
+B|somewhere in there someone's going to have to learn a different way.|sv|3012
+A|That's,|%|3012
+A|yeah.|b|3012
+B|You know, an, an, I, I think that, um,|sv|3012
+B|true we do have completely different ways of looking at things, at a lot of things,|sv|3012
+B|but, uh, at the same time, I think there are a lot of, there is a lot of good that the United States and other countries can do, as far as example|sv|3012
+B|and, and, uh, I think some different things could come from what's happened, than what we expect.|sv|3012
+A|Well,|%|3012
+A|well, yeah,|b|3012
+A|um, I, I guess we could be a catalyst for their change.|sv|3012
+A|I, um,|%|3012
+A|the war has certainly sort of set things on end over there|sv|3012
+A|and I don't think we'd be talking about this, you know, the Israeli situation, Palestinian situation, um, sort of came to a head, um, unless there had been a war.|sv|3012
+A|I mean that was one thing, that came out of it, good or bad,|sd|3012
+B|Yeah.|b|3012
+A|I, I don't judge any war as good or bad,|sd|3012
+A|it's just a war.|sv|3012
+B|Yeah.|b|3012
+A|And I don't see any winners or losers,|sv|3012
+A|I just see dead bodies.|sv|3012
+A|I'm sorry. You know,|sv|3012
+A|but, um, I, I just think, you know, you're right|sv|3012
+A|and I think maybe it's at a whole different level of them trying to cooperate and get along.|sv|3012
+A|It's not going to be that we're going to, uh, you know, sort of, tell them to go to their room|sv|3012
+A|and that's going to solve the whole problem.|sv|3012
+B|Yeah.|b|3012
+A|It's going to be them,|sv|3012
+B|But, that's the type of thing they understand.|sv|3012
+A|Yeah.|b|3012
+B|They don't understand any other way.|sv|3012
+A|And, you know,|%|3012
+B|And so at that, at that, you have to work at their level, to an extent, too.|sv|3012
+A|It's,|%|3012
+A|Yeah,|aa|3012
+A|that, that's true too,|sv|3012
+A|I, um.|%|3012
+B|They wouldn't have understood anything else than what we did in the war.|sv|3012
+A|Oh, well yeah,|b|3012
+A|they, they understand violence.|sv|3012
+B|There was nothing else.|sv|3012
+B|Yeah.|%|3012
+A|They love violent leaders, to, you know,|sv|3012
+A|I mean look at, you know, the leader they had.|ad|3012
+A|They, they just adored him, because he was so strict and cruel,|sv|3012
+B|Yeah.|b|3012
+A|and, you know, for a while there he had them,|sd|3012
+B|I can't figure out why they adored him.|sd|3012
+A|Well it has a lot to do with their religion.|sv|3012
+A|I got to say, that over there, um,|sd|3012
+B|Yes,|b|3012
+B|yeah.|b|3012
+A|and I know this only because from personal experience that I'm speaking of this,|sd|3012
+A|because I, I've, you know, traveled around town with different cab drivers in a situation where I've done that|sd|3012
+A|and one, one of the kindest people I've ever met in my whole life, um, is from that area of the country|sd|3012
+A|and I mean he is just overly, he, he is abounding in kindness, let's say.|sd|3012
+B|Yeah.|b|3012
+A|And his wife is so godly, I mean, every thought,|sd|3012
+A|they have a totally different life than we have.|sv|3012
+B|Huh.|%|3012
+A|You know, and when you add the, um, commercialization of the western world it sort of screws everything up for them.|sv|3012
+B|Yeah.|b|3012
+A|And they have very basic life, um,|sd|3012
+A|well it's just a very basic life|sd|3012
+A|and they just really believe in Allah, or God, or whatever.|sd|3012
+B|Uh-huh.|b|3012
+A|And it's, you know, everything is to the glory of Allah,|sv|3012
+A|and, and, you know, and, it, it's almost like,|sv|3012
+B|What's sad is that the leaders that have control are power,|sv|3012
+A|Yeah,|b|3012
+A|well that's, see using that,|%|3012
+A|yeah.|b|3012
+B|yes,|b|3012
+B|and they abuse that.|sv|3012
+A|And it's always been military|sd|3012
+A|and it's always been,|sd|3012
+A|and that's, that's always been the way of the world. Don't you think|qy|3012
+B|Which I think that that's not the, the way the majority of the people over there really are.|sv|3012
+A|Yeah.|b|3012
+A|So it's really hard, when you see the leaders, compared to the people.|sv|3012
+B|But I think in a, in a way the war, uh, I think in a way all, the involvement over there too, though, has shown a lot of people that there are a lot of people that don't follow what those few are doing.|sv|3012
+B|And there are a lot of people who are good people.|fo_o_fw_"_by_bc|3012
+A|Yeah,|b|3012
+A|yeah.|b|3012
+B|You know, there's,|%|3012
+B|and I, I think we may not have ever have seen that without some of these, uh, newspeople being in there in the broadcasts and the, the, uh, soldiers leaving, um, you know, surrendering and, trying to get out of that situation.|sv|3012
+A|Right|aa|3012
+A|and surrendering,|sd|3012
+A|that was,|%|3012
+A|Yeah.|b|3012
+B|And, and, the, you know,|%|3012
+A|it just really comes down to people are people, you know,|sv|3012
+A|you have to have some compassion some humanness.|sv|3012
+B|That's right.|aa|3012
+A|Doesn't matter where the boundaries are. Um, you know,|sv|3012
+A|there are political boundaries|sd|3012
+A|and those are man made boundaries,|sd|3012
+A|but, you know, for heaven sakes, that's something that's been going on for ages,|sd|3012
+B|and I, I think so much of it is what you're taught.|sv|3012
+A|Yeah,|aa|3012
+A|that's true.|aa|3012
+B|You know, they teach their children, uh, in such a way that,|sv|3012

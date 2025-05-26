@@ -1,0 +1,149 @@
+A|think about this?|fo_o_fw_"_by_bc|4733|0
+B|Uh, do you have children in school?|qy|4733|1
+A|I do.|na|4733|0
+B|Uh, I have two that are, uh, now just about ready to graduate from college|sd|4733|1
+A|Uh.|b|4733|0
+B|but I also have two that are just entering school.  Uh, well *sv I think they're just pushing them entirely to fast.|sd|4733|1
+A|So you see a big difference then in before and  now do you|qy|4733|0
+A|or,|%|4733|0
+A|A lot of testing?|qy|4733|0
+B|Uh, well it seems to me that kindergarten is now the equivalent of first grade.|no|4733|1
+A|Uh-huh.|b|4733|0
+B|My son leaves the house at seven thirty and doesn't get home until three o'clock.|sd|4733|1
+A|Uh-huh.|b|4733|0
+B|And I think that's such a long day for a kindergartner.|sv|4733|1
+A|I do too,|aa|4733|0
+A|I, oh, I think that's awful.|sv|4733|0
+B|And, uh, I have a preschooler.|sd|4733|1
+B|Uh, I was told by her preschool teacher that she thought maybe she was to immature for kindergarten|sd|4733|1
+B|and I thought well how mature do you have to be|sd|4733|1
+A|I know.|aa|4733|0
+A|What's the new criteria, huh.|qh|4733|0
+B|And, uh, there is a,|%|4733|1
+B|do you have the standardized testing now?|qy|4733|1
+A|We have all kinds of testing|na|4733|0
+A|and it's over and over.|sd|4733|0
+A|It's I T B S or, and, uh, just everything, everything.|sd|4733|0
+B|Yeah.|b|4733|1
+A|And they test, test, test.|sd|4733|0
+A|I live in Plano actually|sd|4733|0
+A|and I don't know if you've heard of Plano|qy^d|4733|0
+A|but  it's a very transient community.|sd|4733|0
+B|No.|nn|4733|1
+A|A lot of people from everywhere,|sd|4733|0
+A|it's just north of Dallas|sd|4733|0
+B|Uh-huh.|b|4733|1
+A|and it's grown in leaps and bounds.|sd|4733|0
+A|I, we must have maybe a hundred and fifty thousand people now.|sd|4733|0
+B|Oh.|b|4733|1
+A|And most of them from other places.|sd|4733|0
+B|Yeah.|b|4733|1
+A|Uh, J C Penney's come down from New York and, of course, T I and Xerox from Rochester|sd|4733|0
+A|and we just, have lots of people from everywhere. Lots of industry coming in,|sd|4733|0
+B|Yeah.|b|4733|1
+A|and it's a very wealthy community.|sd|4733|0
+A|Uh, not that I am|sd|4733|0
+A|but other people seem,  to be|sv|4733|0
+A|and I would love to know why|%|4733|0
+A|but I mean they do.|sd|4733|0
+A|They have,|%|4733|0
+B|you would like to know what they're doing right|bf|4733|1
+A|I, I would,|aa|4733|0
+A|I really would.|aa|4733|0
+A|I mean, they just have beautiful, beautiful homes|sd|4733|0
+A|and they have everything.|sd|4733|0
+A|The kids only wear name brand things to school|sd|4733|0
+A|and it's one of these things,|sv|4733|0
+B|Oh me.|ba|4733|1
+B|Well that makes it hard for you, doesn't it.|qy|4733|1
+A|Well it does, you know.|na|4733|0
+A|It really does because I'm a single mom and I have a thirteen year old now|sd|4733|0
+A|and uh, you know, it does.|sd|4733|0
+B|Oh, me.|ba|4733|1
+A|I mean, we do it to a point|sd|4733|0
+A|but  uh, not to where she feels different,|sd|4733|0
+B|Yeah.|b|4733|1
+A|but  some of them are very rich|sd|4733|0
+B|It's hard to explain to them why you can't.|bf|4733|1
+A|and so, uh, we just kind of have, everything here|sd|4733|0
+A|and we have a very goal oriented population because their parents are.|sd|4733|0
+B|Right.|b|4733|1
+A|And so I don't know how much of it, is us and how much of it is Texas|sv|4733|0
+A|but the kids are expected to excel in, everything.|sv|4733|0
+B|Oh, dear.|ba|4733|1
+A|And it's almost impossible because you have so many children and just so many activities that everybody can't be first|sv|4733|0
+A|and they're  expected to be.|sv|4733|0
+B|Right.|b|4733|1
+A|You know, their parents expect it,|sv|4733|0
+A|the teachers expect it,|sv|4733|0
+A|Texas wants very badly to be considered tops in the school system|sv|4733|0
+B|Right|b|4733|1
+A|and if you read national surveys, they're far from it.|sd|4733|0
+A|And so there's just a whole lot of testing and a whole lot of pushing to do well on these tests.|sv|4733|0
+B|How about the kids.|qo|4733|1
+B|How are they coping with it?|qw|4733|1
+A|Well, not very well.|sd|4733|0
+A|They bring home notes that say they have to get a good night's sleep and eat right in the morning before, tests.|sd|4733|0
+B|Huh.|b|4733|1
+A|I mean they make a big deal.|sv|4733|0
+A|To me, the paper should just be put on the desk that day|sv|4733|0
+A|and say just do this.|sv|4733|0
+B|Right.|b|4733|1
+A|You know, I just feel they do better that way.|sv|4733|0
+B|Yeah.|aa|4733|1
+B|Rather than  anticipating.|bf|4733|1
+A|And,|%|4733|0
+A|Yeah.|b|4733|0
+A|And, and I have older children too that now are out of high school|sd|4733|0
+A|and they've always done this here.|sd|4733|0
+A|I mean it's always been the same|sv|4733|0
+A|but it is, it's getting worse and worse,|sv|4733|0
+A|is more pressure for everything. *listen|sv|4733|0
+A|And I just think it's really awful|sv|4733|0
+A|and I, I'm with you on that.|aa|4733|0
+A|You don't hear too many people say this,|fo_o_fw_"_by_bc|4733|0
+A|but I think it's a very long day.|sv|4733|0
+B|Oh, it is.|ba|4733|1
+A|And my feeling is that, you know, you're only a kid once, and you don't want to  spend your whole life in school.|sv|4733|0
+B|That's right.|aa|4733|1
+B|My son said that, came home|sd|4733|1
+B|and he said, he said Mom, all we do is work.|sd|4733|1
+A|Uh-huh,|b|4733|0
+A|uh-huh.|b|4733|0
+B|We hardly ever play|^q|4733|1
+B|and,|%|4733|1
+A|And I don't think that's right.|sv|4733|0
+A|I think we should do what Europe does and include cultural activities in our school system.|sv|4733|0
+B|Oh, likewise.|aa|4733|1
+A|I don't think I should have to pay for dancing lessons, gymnastics, piano.|sv|4733|0
+B|Right.|aa|4733|1
+A|I would like to see those things included in our school system  because I think we should have well-rounded kids not just book smart kids.|sv|4733|0
+B|Wouldn't that be great.|ba|4733|1
+B|Uh-huh.|b|4733|1
+B|Right.|aa|4733|1
+A|And so I just find this a real problem.|sv|4733|0
+A|I think if they're going to be there all day, they should find time.|sv|4733|0
+A|One of my daughters, once, was out of school with Mono in her junior year I think it was.|sd|4733|0
+A|And she had a home teacher for like four hours a week|sd|4733|0
+A|and when she went back in six weeks, she was ahead.|sd|4733|0
+A|So what  does that tell you?|qh|4733|0
+B|Is that right?|bh|4733|1
+A|It tells you there's a whole  lot of wasted time.|sv|4733|0
+B|Oh, my gosh.|ba|4733|1
+B|Oh, my gosh.|ba|4733|1
+A|And they could be using this time better.|sv|4733|0
+B|Well, for example, in my son's kindergarten. They're really finished at lunch time.|sd|4733|1
+B|After lunch, they have some, uh,|sd|4733|1
+B|I'm trying to think if they have recess after lunch,|^h|4733|1
+B|and then they have naps or rest period.|sd|4733|1
+A|Uh-huh.|b|4733|0
+B|And, uh, I think either send them home or do something  a little more interesting.|sd|4733|1
+A|That's a very long day for kindergartners.|ba|4733|0
+B|I agree.|aa|4733|1
+A|But I think that working parents have kind of demanded this.|sv|4733|0
+B|I wouldn't be surprised.|ba|4733|1
+A|You know, because they don't, they don't want to send them to daycare.|sv|4733|0
+B|I doubt if they would say it was too long|sv|4733|1
+A|That's why they want them there because them somebody takes care of them all day|sv|4733|0
+B|Uh, do you have the before school care, at your school and the after school care?|qy|4733|1
+A|We have them at one school like,|na|4733|0

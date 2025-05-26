@@ -1,0 +1,129 @@
+A|Brian in Plano, Texas. How are you doing today?|fp|3647
+B|Hi,|fp|3647
+B|fine,|fp|3647
+B|I'm Nancy.|sd|3647
+B|How are you?|qw|3647
+A|Great, Nancy.|sd|3647
+B|I'm in Plano also|sd|3647
+A|You're in Plano also, huh?|sd|3647
+B|Yes,|b|3647
+B|we're not too long distance today.|sd|3647
+A|Well, good to hear.|b|3647
+A|I was just talking to someone the other day from Pennsylvania.|sd|3647
+B|Oh, that was good.|ba|3647
+B|Utah, I've had a couple of,|sd|3647
+B|but that was it.|sd|3647
+A|Really?|qy|3647
+B|Yeah.|ny|3647
+A|All right.|bk|3647
+A|Well, good to hear,|b|3647
+A|good to hear.|b|3647
+B|Learned about their basketball team|sd|3647
+A|Which one?|qw|3647
+B|Uh, Jazz.|sd|3647
+A|Oh, yeah.|b|3647
+B|Yeah.|b|3647
+A|The Utah Jazz.|sd|3647
+B|Yeah.|b|3647
+A|Yeah,|b|3647
+A|they're, they're pretty good.|sv|3647
+A|They've got some good good, some good, uh, good players out there.|sv|3647
+B|Yeah.|b|3647
+A|Well, you ready for New Year's Eve?|qy|3647
+B|I am.|na|3647
+A|Good.|ba|3647
+A|Should we, uh, start this so we can,|ad|3647
+B|Okay.|aa|3647
+A|What was your name again?|qw|3647
+B|Nancy.|sd|3647
+A|Nancy, that's right,|sd|3647
+B|Right.|b|3647
+A|and I'm Brian.|sd|3647
+B|Right.|b|3647
+A|Just a moment|ad|3647
+A|Okay Nancy, then I guess the, today's subject is benefits in the job other than salary.|sd|3647
+B|Right.|b|3647
+A|What, uh what do you feel are important to you or other people as, as crucial benefits?|qw|3647
+B|Uh-huh.|b|3647
+B|Well, I'm a little different than other people because I don't have benefits with my job.|sv|3647
+A|Uh-huh.|b|3647
+B|I'm a nurse|sd|3647
+B|and I work,|sd|3647
+A|Oh|b|3647
+B|I float so that I have no benefits except higher pay for doing that.|sd|3647
+A|Uh-huh.|b|3647
+A|Right.|b|3647
+A|Uh-huh.|b|3647
+B|So I find that it makes up for what I pay for insurance|sd|3647
+B|and I, I make enough money by the hour to make up for that.|sd|3647
+A|To, to compensate for some of the benefits.|qy^d|3647
+B|Right.|na|3647
+B|Uh-huh.|ny|3647
+A|Oh.|bk|3647
+B|Yeah,|b|3647
+B|it's cheaper for me to buy insurance by the month than to work staff someplace.|sd|3647
+A|Yes.|b|3647
+B|And then I have my freedom.|sd|3647
+B|I can work seven days in a row and take a week off or whatever I want to do.|sd|3647
+A|Well, that, that's an excellent,|ba|3647
+A|so actually that is a benefit, uh,|qy^d|3647
+B|Well, it is to me.|na|3647
+B|Most people prefer the security of nine to five, and weekends off and knowing that their insurance is paid and their retirement,|sv|3647
+A|Yeah.|b|3647
+B|and I'm just really not interested in all that.|sd|3647
+A|Right.|b|3647
+A|Right,|b|3647
+A|well I guess that's a good point, uh,|sv|3647
+B|Uh-huh.|b|3647
+A|I do belong to a, a large corporation|sd|3647
+A|or my, that where I'm currently employed|sd|3647
+A|and there's, uh, there's some different things, uh, one that you've already mentioned is, is health insurance.|sd|3647
+A|I think through our health insurance that I can get better rates as a, through a group plan as opposed to going out and getting health insurance on an individual basis because I had to do that at one time when I wasn't employed with a large corporation|sd|3647
+B|Right.|b|3647
+A|and that got to be somewhat expensive,|sd|3647
+A|so I I think one of the benefits I, I see is the, uh, is the group, uh, group discount.|sd|3647
+B|Yeah.|b|3647
+B|Right,|b|3647
+B|and especially if you have a family.|sv|3647
+A|Yes.|b|3647
+B|Then I think it makes a big difference.|sv|3647
+A|Yes,|b|3647
+A|and that's, that's one thing I do have.|sd|3647
+B|Yeah.|b|3647
+A|If I didn't have a family, I don't think I would have, as, as a male or as a, as an individual of, in this stage of my life,|sd|3647
+A|I don't think I would have insurance, uh, other,|sd|3647
+B|Right.|b|3647
+A|I don't think I would go through that expense.|sd|3647
+A|One other benefit that you mentioned is the flexible work hours|sd|3647
+A|and in my previous job, I really enjoyed because they had what was called flex schedule where I could go and I could work, uh, nine hour days and have like Friday only work four hours|sd|3647
+B|Oh, yeah.|b|3647
+A|or I could do, uh, work four days a week at ten hours a day and have a, you know, three day weekend. And make, uh, make my job flexible in that case.|sd|3647
+B|Right.|b|3647
+B|Could you change that as you felt like it|qy|3647
+B|or did you have to do it the same every week?|qrr|3647
+A|Well, basically, yeah|sd|3647
+A|I had to do, that, uh, the same, uh, for about every quarter of the year.|sd|3647
+A|I mean uh, because I was in a, in a position of management I had responsibilities over people that, uh, I needed to make my schedule, uh, so that if I was not there I would have coverage by some other management personnel,|sd|3647
+B|Uh-huh.|b|3647
+A|so, so I, I think that, uh, that was a, that was an excellent benefit that I really enjoyed|sd|3647
+B|Yeah.|b|3647
+A|and I don't have that in my current operation,|sd|3647
+A|but, uh, you mentioned, uh, flexible work schedule|sd|3647
+A|and that's, that's good.|sv|3647
+B|Yeah.|b|3647
+A|And, uh, what other benefits do you think are important?|qw|3647
+B|Oh, well, I guess, retirement, that kind of thing which I don't worry much about so|sv|3647
+A|Yeah,|b|3647
+A|yeah,|b|3647
+A|that's true.|ba|3647
+B|I just prefer to worry about today,|sd|3647
+B|probably not a practical attitude|sd|3647
+B|but that's who I am|sd|3647
+B|so,|%|3647
+A|Well, and that's an individual thing.|sv|3647
+B|Uh-huh.|b|3647
+A|Yeah,|b|3647
+A|with, uh, with our current, uh, organization, we do have a nice retirement package|sd|3647
+A|and also a, a nice thing that, that we have in our corporation is a, uh, is a profit sharing plan where we can, uh, participate in the, the profits of the company. If we're, you know, if we've been there a while and we're vested, uh, which means that, you know, we have a, an interest, uh, in the company that we can, uh, get some of the benefits of the, either the profit high times or, or in a sense, suffer during the low times|sd|3647
+B|Right.|b|3647
+A|and, uh, also, uh, in one of my wife's, uh, companies where she worked, they'd had a real nice profit sharing plan that, that,|sd|3647

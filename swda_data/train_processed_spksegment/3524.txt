@@ -1,0 +1,181 @@
+A|I say Arlington, Texas now because I talked one night to somebody in Arlington, Virginia.|sd|3524|0
+B|Oh, my,|ba|3524|1
+B|yeah.|%|3524|1
+B|Well, and Plano, Texas rather than Plano, Illinois.|sd|3524|1
+A|Oh, do they have one?|qy|3524|0
+B|Yes,|ny|3524|1
+B|they do.|sd|3524|1
+A|Oh, I didn't know that.|sd|3524|0
+A|Well, I learned something already|sd|3524|0
+B|Yeah.|b|3524|1
+B|Well, let's see,|^h|3524|1
+B|the three questions are what, uh,|%|3524|1
+A|How much time do you spend with your children?|qw|3524|0
+B|Very little. Because they're grown.|sd|3524|1
+A|Oh|bk|3524|0
+A|What?|br|3524|0
+B|They're grown and gone.|sd|3524|1
+A|Oh, yeah,|b|3524|0
+A|well, mine is, uh, down at U T Austin at college|sd|3524|0
+A|and the other one is in high school.|sd|3524|0
+B|Huh.|b|3524|1
+A|So you do spend less time then?|qy|3524|0
+B|Yeah|ny|3524|1
+B|because they don't want to know, they almost don't want to know us.|sd|3524|1
+A|They want to be with their friends.|qy^d|3524|0
+A|How old are your kids?|qw|3524|0
+A|Are they married or what?|qy|3524|0
+B|Uh, yes,|ny|3524|1
+B|I have, uh, two married, two and then two almost married|sd|3524|1
+B|and the other two, I'm not sure.|sd|3524|1
+B|Well, Two two, two, uh, uh, for sure are single.|sd|3524|1
+A|Oh, boy, you have a lot of kids.|sv|3524|0
+B|Yeah,|aa|3524|1
+B|we have, between the spouse and myself we have six.|sd|3524|1
+A|Oh, well, that's kind of nice, though.|ba|3524|0
+A|You you shouldn't be lonesome on a holiday, huh?|qy|3524|0
+B|Because I came with a split family|sd|3524|1
+B|and she had,|sd|3524|1
+B|Well, no,|nn|3524|1
+B|there is so much of them are gone|sd|3524|1
+B|and they're doing their own things|sd|3524|1
+B|and and a lot of times they, they've got, you know, uh when the holidays,|sd|3524|1
+A|Well, that's true.|aa|3524|0
+A|They have to see their other parent, I guess too.|qy^d|3524|0
+B|Yeah|ny|3524|1
+B|and sometimes they want to do their own thing,|sd|3524|1
+B|so sometimes it's just spouse and me.|sd|3524|1
+A|I know.|ba|3524|0
+B|And, and you know what?|qh|3524|1
+A|What?|qw|3524|0
+B|Sometimes that's okay.|sd|3524|1
+A|I know|ba|3524|0
+B|Because,|%|3524|1
+A|That's what my mother said one time.|sd|3524|0
+B|You know, right,|b|3524|1
+B|because who says that they just must got to come over to see us all the time for the holidays.|qh|3524|1
+A|Right.|b|3524|0
+A|No,|aa|3524|0
+A|that's true,|aa|3524|0
+A|and if they force them to, you know that's not good either.|sv|3524|0
+B|Yeah.|b|3524|1
+B|That becomes a drudgery|sv|3524|1
+A|Well, do they all live in the area?|qy|3524|0
+B|got, of the six, we've got four around here.|na|3524|1
+A|Uh-huh,|b|3524|0
+A|oh, wow.|ba|3524|0
+B|Uh, you know, well, we're talking like north Texas.|sd|3524|1
+A|Uh-huh.|b|3524|0
+B|And then, one is in Vermont, uh, Montpelier Montpelier, Vermont|sd|3524|1
+A|Golly.|ba|3524|0
+B|and the other one is in Everett, Washington.|sd|3524|1
+A|How did they end up so far away?|qw|3524|0
+B|Well, that is, that's, the, the, my little pair. And my second marriage.|sd|3524|1
+A|Uh-huh.|b|3524|0
+B|Uh, and, uh,|%|3524|1
+A|Those are the youngest ones?|qy|3524|0
+B|Yeah,|ny|3524|1
+B|well, the|%|3524|1
+B|the, the, the, the fourth and fifth child of the of the, of the, uh, six are the two that are scattered like that.|sd|3524|1
+A|Uh-huh.|b|3524|0
+A|Boy, that's, those are a long way.|sv|3524|0
+B|And, Well, they wanted to go, uh,|sd|3524|1
+A|How,|%|3524|0
+B|J R, my, my, my last son or my middle son, excuse me, fell in love with Washington state|sd|3524|1
+A|Uh-huh.|b|3524|0
+A|Uh-huh.|b|3524|0
+B|and the, the, the, third daughter fell in love with, uh, uh, Vermont.|sd|3524|1
+A|Vermont.|b^m|3524|0
+B|So,|%|3524|1
+A|So they wanted to make their homes there.|bf|3524|0
+B|Yeah,|aa|3524|1
+B|that's where they've gone to make their homes.|sd|3524|1
+A|My goodness.|ba|3524|0
+A|Are they, are those two married?|qy|3524|0
+B|No.|nn|3524|1
+A|They, uh, just working up there or going to school or what?|qy|3524|0
+B|Well, uh, let's see,|^h|3524|1
+B|yeah,|ny|3524|1
+B|I guess you'd say J R is working, going to trying to go to school.|sd|3524|1
+A|Uh-huh.|b|3524|0
+B|I wish to God he would go back.|sd|3524|1
+A|Oh, they do. Especially if they, if they're meant to, I think.|sv|3524|0
+B|Yeah.|b|3524|1
+B|Well, I certainly hope so.|sd|3524|1
+A|I mean, I've got a daughter that's a sophomore at U T|sd|3524|0
+A|and I'm, I'm going to U T A right now myself|sd|3524|0
+A|so it's never too late.|sv|3524|0
+B|Uh-huh.|b|3524|1
+B|Well, it's, oh, I agree it's never too late.|aa|3524|1
+A|Right.|b|3524|0
+B|And,|%|3524|1
+A|Especially in some of these schools around here, I think they have about twenty percent older students.|sv|3524|0
+B|Yeah,|aa|3524|1
+B|and when you're saying older, we're talking fifty up.|sv|3524|1
+A|Oh, yeah,|aa|3524|0
+A|I've seen some people that are really quite up there you know they look like in their very late sixties|sd|3524|0
+B|Uh-huh.|b|3524|1
+A|and I say that's great, why not, you know.|sd|3524|0
+B|Oh, my,|ba|3524|1
+B|uh-huh.|%|3524|1
+B|Yes,|aa|3524|1
+B|why not because that's a, a lot of times, well, it's,|sv|3524|1
+B|I believe that, uh, we in that category,|sv|3524|1
+B|and I'm not in that category quite yet|sd|3524|1
+A|No.|aa|3524|0
+B|but, we are seasoned minds.|sv|3524|1
+A|Oh, yeah,|aa|3524|0
+A|you're really ready to learn finally.|sv|3524|0
+B|Yes,|aa|3524|1
+B|uh-huh.|aa|3524|1
+A|I mean, I don't know why I even went to college when I was seventeen.|sd|3524|0
+B|Yeah,|b|3524|1
+B|it was,|%|3524|1
+A|It was a complete waste of money.|sv|3524|0
+B|Yeah,|aa|3524|1
+B|settle down,|%|3524|1
+B|we know what we're wanting to, to, uh, study|sv|3524|1
+B|and, uh we know our limitations.|sv|3524|1
+A|Right,|aa|3524|0
+A|right.|aa|3524|0
+A|We,|%|3524|0
+A|Right|aa|3524|0
+A|and, uh,|%|3524|0
+B|And we don't try to burn the candle at both ends and in the middle altogether.|sv|3524|1
+A|No.|aa|3524|0
+A|We don't go out drinking beer till three and try to go to class in the morning|sv|3524|0
+B|At seven,|aa|3524|1
+B|yeah.|aa|3524|1
+A|We're past, yeah, we're past that age|sv|3524|0
+B|Yes,|aa|3524|1
+B|we're, we're smarter now.|sv|3524|1
+A|We know what we can do|sv|3524|0
+B|Yeah,|aa|3524|1
+B|right,|aa|3524|1
+B|uh, so let's see.|^h|3524|1
+B|So mine I don't spend a whole lot of time because they're not here.|sd|3524|1
+A|Uh-huh.|b|3524|0
+B|And so the second question, forgot what the second question,|sd|3524|1
+A|What was it, uh,|t1|3524|0
+A|what do the trends in families|qo|3524|0
+A|and do we approve what other, families do.|qy|3524|0
+B|Well, uh, the trends in the families were to spread apart, do your own thing.|sv|3524|1
+A|That's right.|aa|3524|0
+B|But I have seen  lately, yes, I am seeing, I'm seeing a change that, whoops, government can't do it,|sd|3524|1
+A|A change?|qy|3524|0
+A|I was going to say the same thing.|sd|3524|0
+B|schools are not able to|sv|3524|1
+A|Uh-huh.|b|3524|0
+A|Uh-huh.|b|3524|0
+B|and between a person's religion, uh, their, their faith in their maker whether, you know, uh, whether you're Christian or Jewish  or whatever, uh,|sv|3524|1
+A|Right.|b|3524|0
+A|Right.|b|3524|0
+B|and the family|%|3524|1
+A|Are going to have to solve some of the problem, huh.|qy|3524|0
+B|those are the two that can, that, that have the wherewithal|sv|3524|1
+B|and, of course, Judeo-Christianity, uh, and of the Jewish folks, too, believe that the family unit is the one that was given the, uh, uh, mission by the Lord to do this very thing.|sv|3524|1
+A|Uh-huh.|b|3524|0
+B|So when another group of, of, uh, people step in, try to do it, they're, they're tromping on our territory, so to speak,|sv|3524|1
+B|so|%|3524|1
+A|Oh.|b|3524|0
+B|I firmly believe that, uh,|sd|3524|1

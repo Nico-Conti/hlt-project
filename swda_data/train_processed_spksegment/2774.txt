@@ -1,0 +1,107 @@
+A|All right,|fo_o_fw_"_by_bc|2774|0
+A|I guess our, we're in the process of a home repair right at this point|sd|2774|0
+A|because we're, we're painting the outside of our house.|sd|2774|0
+A|I don't know,|h|2774|0
+A|I guess you would consider that a home repair.|sv|2774|0
+B|Huh-uh.|b|2774|1
+A|Certainly, uh, uh,|sv|2774|0
+A|and interesting enough, this time we're changing the color which makes it an addition.|sd|2774|0
+A|What is your most recent,|qw|2774|0
+B|We just did that, too.|sd|2774|1
+A|You did that recently too, uh,?|qy|2774|0
+B|Yes.|ny|2774|1
+A|Does it make a big difference?|qy|2774|0
+B|Oh, yes|ny|2774|1
+B|we have brick on the outside|sd|2774|1
+B|and, uh, the colors that were there changed the, and the colors that we painted changed the entire look of the house.|sd|2774|1
+A|Huh-uh.|b|2774|0
+B|Completely.|sd|2774|1
+A|That's neat isn't it.|qy|2774|0
+B|Yeah.|ny|2774|1
+B|That was really exciting.|sd|2774|1
+B|It was fun.|sd|2774|1
+A|I was really, really tired of the color.|sd|2774|0
+A|That it's, it's helping.|sd|2774|0
+A|We're not quite through,|sd|2774|0
+A|but it's, it really is looking good.|sd|2774|0
+A|Uh, we went through a process of, of, uh, home repairs on a, on a rental house we had,|sd|2774|0
+A|probably the most extensive and, uh, the interesting part of it was how much we learned about what we could do.|sd|2774|0
+A|Um, we didn't have very much money|sd|2774|0
+A|and so we had to do it ourselves in kind of a slow process,|sd|2774|0
+A|but we learned how to do, uh, retile bathtubs and, uh, oh, just all kinds of things that are unusual.|sd|2774|0
+B|Huh-uh.|b|2774|1
+B|So the other thing that we did was the roof of our house.|sd|2774|1
+A|Huh-uh.|b|2774|0
+B|And, uh, we did that a different color also.|sd|2774|1
+A|Yeah.|b|2774|0
+B|Of course, uh, being a woman most of these things were done by the men.|sd|2774|1
+A|Huh-uh.|b|2774|0
+B|And, uh, so I wasn't directly involved|sd|2774|1
+B|but, uh, they really were helpful, I know, to our house.|sd|2774|1
+A|It's nice to not have a drip through from the roof, isn't it|qy|2774|0
+B|Yeah|ny|2774|1
+B|Yes|ny|2774|1
+A|That's awful.|ba|2774|0
+A|Um, Howard and I were talking about home repair the other night and, uh, in connection with scouting.|sd|2774|0
+A|We've got a scout coming up|sd|2774|0
+A|and, uh, uh, I think it's neat for young people to learn how to, uh, take care of their, of a household, you know, like, uh, fixing faucets, dripping faucets,  and putting in panes of glass and stuff like that.|sv|2774|0
+B|Huh-uh.|b|2774|1
+B|As a matter of fact, one thing, I have a young son|sd|2774|1
+B|and one thing we did, was we had paneling on the inside of our, uh, front of our house, or the hall way of our house, rather,|sd|2774|1
+B|and we were repainting the, the front room in the hall there,|sd|2774|1
+B|and we took down that paneling|sd|2774|1
+B|and he helped me|sd|2774|1
+B|and, and, uh, he was, it was fun to work with him. And, uh, and, uh, help putty up the holes together and, and do things,  like that.|sd|2774|1
+A|Huh-uh.|b|2774|0
+A|How does the paneling,|qw|2774|0
+A|it looks lots better than,|qy^d|2774|0
+A|do you like it better?|qy|2774|0
+B|Oh, I like it so much better.|na|2774|1
+B|It makes it so much lighter.|sd|2774|1
+A|Yeah.|b|2774|0
+B|You know, it really does.|sd|2774|1
+B|You know, and people that have been to my house before and then now really have liked,  much better, too.|sd|2774|1
+A|Huh-uh.|b|2774|0
+A|That's nice.|ba|2774|0
+B|It's been fun.|sd|2774|1
+A|Nice to have it come out positive and look,  look good.|sv|2774|0
+B|Yeah.|b|2774|1
+B|Yeah.|aa|2774|1
+B|Exactly.|aa|2774|1
+A|Well, we have a lot that needs be done.|sd|2774|0
+A|We have, uh, uh, carpeting,|sd|2774|0
+A|and, and we did have a new, uh, floor put in our kitchen.|sd|2774|0
+A|And, um, I have my mother living with us|sd|2774|0
+A|and so she was in a room with a carpet|sd|2774|0
+A|and, of course, she's quite aged,|sd|2774|0
+A|she's ninety-three now,|sd|2774|0
+A|so that meant she had problems now and then|sd|2774|0
+A|and it was really good to get the carpet out of there and put a linoleum down.|sd|2774|0
+A|So it was easier to clean and see where the dirt was|sd|2774|0
+A|and  so that was a really positive, uh, uh,|sd|2774|0
+B|Huh-uh.|b|2774|1
+A|it was fairly expensive though.|sd|2774|0
+A|I, I was impressed,|sd|2774|0
+A|I think, that, uh,|%|2774|0
+A|we had somebody do it|sd|2774|0
+A|and it was, it seems to me like it's probably more expensive to put down linoleum almost than it is to put down carpet.|sv|2774|0
+B|Huh-uh.|b|2774|1
+A|Kind of depends on the quality of carpet, I suppose,|sv|2774|0
+B|Yeah.|b|2774|1
+A|but, uh, in the case of the linoleum they have to rip up everything and, and fix the floor|sd|2774|0
+A|so it's, uh,|%|2774|0
+A|I don't know,|h|2774|0
+A|what ever,|h|2774|0
+A|but they have to put stuff on the floor|sd|2774|0
+A|and it's, uh, kind of a process.|sd|2774|0
+A|Well, it sounds like you have some pretty good experiences with, uh, with, uh, uh, home repair.|bf|2774|0
+B|Huh-uh.|aa|2774|1
+B|We have.|aa|2774|1
+B|It's been really fun.|sd|2774|1
+A|Yeah.|b|2774|0
+A|All right.|b|2774|0
+A|Happy home repairing.|fc|2774|0
+B|Okay.|fc|2774|1
+B|You too|fc|2774|1
+A|Bye-Bye.|fc|2774|0
+B|Bye-Bye.|fc|2774|1

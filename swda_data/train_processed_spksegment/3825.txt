@@ -1,0 +1,91 @@
+B|Well, this is an unusual topic.|sv|3825|0
+B|What do you think about it?|qo|3825|0
+A|Yeah,|b|3825|1
+A|I, at first I,|%|3825|1
+A|it took eight times to find you|sd|3825|1
+A|so I told my husband, uh, you know,|sd|3825|1
+A|what should I say|^q|3825|1
+A|and then he reminded me,|sd|3825|1
+A|but, uh, uh, in his family, uh, what they usually do, on his dad's side, his mom or, uh, the aunts will send out little postcards, like, two or three weeks before reminding everyone where the, the, where to meet and, you know, just, to bring anything,|sd|3825|1
+A|and so they just notify everyone by mail,|sd|3825|1
+A|and then they just meet at, like, a park or something to have like a, a short, uh, or a small, uh, dinner type thing.|sd|3825|1
+B|Well, that sounds great, Ellen.|ba|3825|0
+B|How far away do they come from?|qw|3825|0
+A|Uh, they come from, well, they all meet in Portland|sd|3825|1
+A|and they come as far as, oh, Seattle|sd|3825|1
+A|and, and sometimes we've gone|sd|3825|1
+A|and we were we were living in Utah at the time.|sd|3825|1
+B|Oh, okay.|bk|3825|0
+A|And, uh, the, his, his dad's family is all around the area|sd|3825|1
+A|and his mom's side of the family, they all, uh, have their family reunions in southern Utah|sd|3825|1
+A|and people would come from Seattle to there and, uh, let's see, Nevada and in that area, Washington and Nevada to southern Utah|sd|3825|1
+A|and they would, uh, assign a different person, each time they had a reunion they'd assign a different person to be in charge of notifying everybody.|sd|3825|1
+B|Oh, okay,|b|3825|0
+B|that makes sense.|ba|3825|0
+B|Nobody's out of a lot of trouble more than once.|bf|3825|0
+A|Yeah,|aa|3825|1
+A|yeah|aa|3825|1
+A|and the people who are down there, like, they'll assign one person in the Utah area, one person in the Washington area|sd|3825|1
+A|and that person can call, you know, beforehand and just make sure everyone knows, too.|sd|3825|1
+B|Uh-huh.|b|3825|0
+A|And then they just sort of do like a little program or, you know, something like that so that everyone's sort of involved.|sd|3825|1
+B|Yeah.|b|3825|0
+B|That's interesting.|ba|3825|0
+B|You sound like you've had a lot of experience with this, then.|qy^d|3825|0
+A|Oh, well, that's my husband's side and my mom, my mom's, or my family, uh,|sd|3825|1
+A|we all live in southern California|sd|3825|1
+A|so we just have to either or, give a formal invite|sd|3825|1
+A|and we're all there|sd|3825|1
+A|so,|%|3825|1
+B|Southern California's still pretty large.|sv|3825|0
+A|Yeah|aa|3825|1
+A|well, I mean L A, Orange County area.|sd|3825|1
+A|I mean everyone's, you know mostly not farther than an hour away.|sd|3825|1
+B|I see.|b|3825|0
+B|Yeah,|b|3825|0
+B|well, my experience, uh, has been limited pretty much lately to my mother's side of the family.|sd|3825|0
+A|Uh-huh.|b|3825|1
+B|Uh, years ago there was a big dispute on my dad's side|sd|3825|0
+B|and, uh, they haven't had a reunion since then.|sd|3825|0
+B|They just show up at funerals and weddings.|sd|3825|0
+A|Oh|b|3825|1
+B|It was pretty serious and lot of yelling  and all that,|sd|3825|0
+A|Wow.|ba|3825|1
+B|but, anyway, my mother's side we had our, our first real reunion that I've ever gone to last summer|sd|3825|0
+B|and they had people come in from out of town|sd|3825|0
+B|and they took some rooms down at a Holiday Inn|sd|3825|0
+B|and, uh, they had some activity,|sd|3825|0
+B|they had a nice dinner planned and all of that stuff|sd|3825|0
+B|and people got up and talked about various parts of the family tree|sd|3825|0
+B|and, you know, a lot of that sort of thing.|sd|3825|0
+B|Since it was the first one that we'd had that, you could do that once.|sd|3825|0
+B|Now next time we have one,|sd|3825|0
+B|we'll have to think of something more creative to do.|sd|3825|0
+A|Well, you know, that's interesting because one thing that always brings to my, uh, husband's mother's side together is, uh, they talk about the genealogy of the family tree every time|sd|3825|1
+A|and, uh, inevitably everyone is just very interested|sd|3825|1
+A|and, and they always have, you know, two or three new ones to add to the list, you know, someone's been born or someone passed away or, you know, something like that|sd|3825|1
+B|Oh.|b|3825|0
+A|and so everyone has to update their little books or whatever.|sd|3825|1
+B|Well, have have you, do you have an interest in genealogy?|qy|3825|0
+A|Uh, I do, but not to, very much compared to my mother-in-law.|na|3825|1
+B|Not a passion, huh.|qy^d|3825|0
+B|Uh, I suspect we'll do quite a bit more genealogy|sd|3825|0
+B|and I, I suspect we will do more of it.|sd|3825|0
+B|Uh, I found out some, about some of the relatives I didn't, you know, I, I didn't even know their names, some of the two or three generations back and some of the aunts and uncles|sd|3825|0
+A|Um.|b|3825|1
+B|and, uh, there's a lot of things there you have to stop,|sd|3825|0
+B|they're really kind of fascinating.|sd|3825|0
+B|I found out my grandmother was one of a twin.|sd|3825|0
+A|Oh.|b|3825|1
+B|And we don't even know where the twin,|sd|3825|0
+B|we have virtually no, no background on, on her on the twin.|sd|3825|0
+A|Really?|bh|3825|1
+A|Is it your, your grandma's own sibling|qy|3825|1
+A|and she,|%|3825|1
+B|My grandmother's, uh, sister who would be somewhere in, in West Virginia.|sd|3825|0
+B|I'm sure she's, you know, dead now, because my grandmother died in, about twenty years ago.|sd|3825|0
+A|Oh, I see.|bk|3825|1
+A|Oh so,|%|3825|1
+B|I'm, I'm quite a bit, I'm probably a lot older than you are. Uh,|sv|3825|0
+A|Well, maybe, uh, they just moved away and then sort of lost contact.|qy^d|3825|1
+B|I don't know.|no|3825|0

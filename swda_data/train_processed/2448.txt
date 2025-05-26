@@ -1,0 +1,187 @@
+A|Okay Charles, uh, gun control,|sd|2448
+A|what are you, uh, for, in favor or no comment?|qy|2448
+B|I'm very much in favor of gun control.|sd|2448
+A|Oh, you are?|qy^d|2448
+B|Yes|ny|2448
+B|I am.|na|2448
+A|Well, this should be very interesting, because I'm against it.|sv|2448
+B|I don't, I don't mind people owning guns,|sd|2448
+B|I just think it should be a little, you know, a little, a little more regulated.|sv|2448
+A|Well, you know, uh, now here's something that, uh, first occurred to me when they started having all these problems with these automatic, uh, weapons.|sd|2448
+B|Yes.|b|2448
+A|Uh, now there always has been a federal law against fully automatic weapons.|sd|2448
+B|I believe that's correct,|sd|2448
+B|uh-huh.|b|2448
+A|And, yet, their, uh, the gun control enthusiasts are, are, uh, preaching about the gun control and how they should be, we should have stronger laws and what not.|sv|2448
+B|Uh-huh.|b|2448
+A|I don't understand why we don't enforce the laws we have.|sd|2448
+B|That would certainly help,|sv|2448
+B|I'm sure.|sv|2448
+A|Now this is not just a state law,|sd|2448
+A|this is a federal law, controlled by the Treasury Department. Uh, for fully automatic weapons.|sd|2448
+B|Uh-huh.|b|2448
+B|Yep.|b|2448
+B|Uh-huh.|b|2448
+A|And, uh, all right, now for instance, in California where they passed the uh, uh, semiautomatic|sd|2448
+B|Uh-huh.|b|2448
+A|or, or, uh, now what was it they called them?|t1|2448
+A|The military version, attack weapons, or something?|qy^d|2448
+B|Yeah,|ny|2448
+B|right,|na|2448
+B|uh-huh.|ny|2448
+A|Uh, how is that going to affect the, uh, sports weapons? I mean, rifles, that are automatic or semiautomatic?|qw|2448
+B|Uh-huh.|b|2448
+B|Yep.|b|2448
+B|I really don't have any problem, Jack, with, you know, uh, people using firearms for sporting purposes.|sd|2448
+B|I don't have any problem,|sd|2448
+B|the only thing I,|sd|2448
+B|I am in favor of the seven-day waiting period.|sd|2448
+B|I would like to see that, see that happen.|sd|2448
+B|I,|%|2448
+A|Uh-huh,|aa|2448
+A|well, now, uh, I've got to admit I'm inclined to agree with you there uh, even though I am a member of the N R A,|sd|2448
+B|Uh-huh.|b|2448
+B|Uh-huh.|b|2448
+A|and they are they, their reason being that well, if you let one little law get through, pretty soon one's going to stack up on top of another, and so forth and so on.|sd|2448
+B|Right.|b|2448
+B|Yeah,|aa|2448
+B|I understand that.|sd|2448
+A|And you've got to admit that Congress does kind of look at things that way.|ad|2448
+B|Uh-huh,|aa|2448
+B|that's true.|aa|2448
+B|I, I, like I say, I don't have any problem with people using firearms, you know, for sporting purposes or hunting purposes,|sd|2448
+B|I just think it's just may be a little too easy you know, to acquire one.  On, on a whim of some sort.|sd|2448
+A|Uh,|%|2448
+A|That, that's true.|aa|2448
+A|Uh, now did you hear about the, the control that they have up in Virginia?|qy|2448
+B|I'm not sure I have.|no|2448
+A|Uh, it, it's, it's a little hard to believe,|sv|2448
+A|but they can, uh, of course,|sd|2448
+A|like just like just about every other state in the union they have a felony law.|sd|2448
+A|Anyone ever convicted of a, a felony is, cannot purchase a weapon.|sd|2448
+B|Uh-huh.|b|2448
+A|and they don't have a waiting period, because they have access to computer records concerning all these felons.|sd|2448
+B|Uh-huh.|b|2448
+A|And|%|2448
+A|uh, when you go in and buy a weapon or a handgun in, uh, uh, Virginia, the salesman just calls some number and, uh, punches in your name,|sd|2448
+A|and if it comes up negative, okay, fine,|sd|2448
+A|and you get your your gun right then and there.|sd|2448
+B|I see.|b|2448
+A|Uh, but they are the only state that does it.|sd|2448
+B|Hm, that's interesting.|ba|2448
+A|And, uh, according to Virginia, it didn't cost all that much.|sd|2448
+B|Uh-huh.|b|2448
+A|and frankly, I, I don't understand why a state doesn't have those records available anyway.|sd|2448
+B|Yeah,|b|2448
+A|Uh, uh, at least  uh, records of, of, uh, known felons which are available to local police departments.|sd|2448
+B|yeah,|aa|2448
+B|you would think they would.|sv|2448
+B|Uh-huh.|b|2448
+B|Yeah,|aa|2448
+B|right.|aa|2448
+B|Yeah,|aa|2448
+B|I'm surprised that more states doesn't do that.|sd|2448
+A|Uh, uh, uh, certainly those, those records are available,|sd|2448
+B|Uh-huh.|b|2448
+A|and all they would have to do is expand it. To, uh, uh, well, connect them into a modem somehow.|sv|2448
+B|Yeah,|aa|2448
+B|right.|aa|2448
+B|Uh-huh.|aa|2448
+B|I wouldn't think it'd be that difficult to do.|sv|2448
+A|Well, Virginia is not a particularly rich state,|sd|2448
+A|and they managed to squeak out a few bucks to do it.|sd|2448
+B|Yep,|aa|2448
+B|right.|aa|2448
+A|And, uh, it's, uh, uh, one-hundred percent successful.|sd|2448
+B|Hm, that's interesting.|ba|2448
+A|Yeah,|aa|2448
+A|I just heard about this last week.|sd|2448
+B|Uh-huh.|b|2448
+A|Uh, they were bragging about it,|sd|2448
+B|Yeah.|b|2448
+A|with,|%|2448
+A|uh, uh, they should have, have pride in this because it's, it's a good system,|sv|2448
+B|Absolutely.|aa|2448
+A|and it's working well.|sd|2448
+B|Yeah,|aa|2448
+B|I agree.|aa|2448
+A|And they don't need that seven-day waiting period.|sd|2448
+B|Uh-huh.|b|2448
+A|Because the whole idea of that waiting period was, so that, uh, it, uh, the police could check up on you.|sd|2448
+B|Yep.|b|2448
+A|Well, you know what's going to happen there,|sv|2448
+A|those files are going to back up on somebody's desk, just some of that typical bureaucratic work.|sv|2448
+B|Uh-huh.|b|2448
+A|that's another, uh, uh, thorn in my side, bureaucratics, politicians.|sd|2448
+B|Uh-huh.|b|2448
+B|Yeah,|aa|2448
+B|right.|aa|2448
+B|I agree.|aa|2448
+B|Yep,|aa|2448
+B|right.|aa|2448
+B|I was,  just thinking there's,|sd|2448
+A|So anyway  well, we seem to be one in favor and one against.|sv|2448
+B|yeah,|aa|2448
+B|I guess that's about right,|sv|2448
+A|Although neither one of us are, are, uh, really uh, uh, dyed in the wool.|sv|2448
+B|Uh,|b|2448
+A|Uh, we,|%|2448
+A|but we both,|%|2448
+B|Yeah,|b|2448
+B|I'm not totally rigid on the subject,|sd|2448
+B|I just think there should be, you know, shouldn't be quite so easy to do.|sd|2448
+A|well, there should be some way of checking,|sv|2448
+B|Uh-huh.|b|2448
+A|now here in, in Texas, uh, all you need is a driver's license.|sd|2448
+B|Right.|b|2448
+B|Uh-huh.|b|2448
+A|And, uh, even felons can still get a driver's license.|sd|2448
+B|Sure, uh,|b|2448
+A|So I, I don't think they are too,|sv|2448
+A|well, they're not rigid enough here, in Texas.|sv|2448
+B|Yeah,|aa|2448
+B|that's true.|aa|2448
+A|But don't tell the N R A I said that.|ad|2448
+B|I|%|2448
+B|I promise.|aa|2448
+B|I won't|aa|2448
+A|They're liable to tear up my membership.|sv|2448
+B|Okay,|b|2448
+B|I promise|sd|2448
+A|You say you retired a year ago?|qy|2448
+B|Yes,|ny|2448
+B|I did,|na|2448
+B|uh-huh.|ny|2448
+A|I'm looking forward to it in about a, just, just over a year, myself.|sd|2448
+B|Yeah,|b|2448
+B|I really enjoy it.|sd|2448
+A|Uh,|%|2448
+B|I stay pretty busy.|sd|2448
+A|Uh-huh.|b|2448
+B|I do quite a, not quite a lot,|sd|2448
+B|I do some, uh, volunteer work here in Plano.|sd|2448
+B|I, I have a few, uh, handicapped persons that I, you know, try to do things for, help them do.|sd|2448
+A|Oh, uh-huh.|b|2448
+A|Well, uh, I bought a motor home here four years ago|sd|2448
+B|Uh-huh.|b|2448
+A|and I have been living in it ever since,|sd|2448
+B|That's, uh,|%|2448
+A|and I'm looking forward to just traveling.|sd|2448
+B|Sure,|b|2448
+B|I can understand that.|ba|2448
+A|I have four sons scattered all over the country, and a few grandchildren.|sd|2448
+B|Uh-huh.|b|2448
+B|Yep.|b|2448
+A|And I'm looking forward to just traveling around visiting them.|sd|2448
+B|That'd be neat.|ba|2448
+B|Sure would.|aa|2448
+A|Well Charles, good luck to you on your,|fc|2448
+B|Okay.|fc|2448
+B|Nice talking to you.|fc|2448
+A|Yeah,|fc|2448
+A|nice talking to you, too.|fc|2448
+B|Okay.|fc|2448
+B|Take care.|fc|2448
+A|Take care now.|fc|2448
+B|Bye-bye.|fc|2448
+A|Bye.|fc|2448

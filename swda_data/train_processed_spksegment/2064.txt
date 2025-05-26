@@ -1,0 +1,234 @@
+A|Well, I am new to Texas,|sd|2064|0
+A|so I don't even know what the law is, in the state,|sd|2064|0
+B|Uh-huh?|bh|2064|1
+A|do you?|bh|2064|0
+B|Well, yes,|ny|2064|1
+B|of course, we do have capital punishment.|sd|2064|1
+B|And we've, you know, done away with our, quote, fair share number.|sd|2064|1
+A|Oh, that's right,|ba|2064|0
+A|I think now, that I recall, reading about it in the paper.|sd|2064|0
+B|Yes.|b|2064|1
+A|Um, you know, different things,|%|2064|0
+A|is it restricted to certain crimes?|qy|2064|0
+A|Or just,|%|2064|0
+B|Yes,|ny|2064|1
+B|it's certain crimes, uh, capital crimes, murder, of course, uh, rape, this sort of thing.|sd|2064|1
+A|Uh-huh.|b|2064|0
+A|Um. Well.|%|2064|0
+B|It seems to be a disproportionate number of blacks, you know, that get into the system.|sv|2064|1
+A|Yes,|b|2064|0
+A|I know,|sv|2064|0
+A|the one thing that I think is really sad about it, as I recall, from the articles that I've read, is that if, if people who have been there, are going to be killed. Um, there's people that come to the prisons and they're very violent|sv|2064|0
+A|and, they want,|%|2064|0
+A|I mean they're anxious for someone to be killed|sv|2064|0
+B|Uh-huh.|b|2064|1
+B|Yes.|b|2064|1
+A|I just,|%|2064|0
+A|I can't see that.|sd|2064|0
+B|That happens on occasion,|sv|2064|1
+B|it sure does,|sv|2064|1
+B|maybe it just depends on, you know, how closely the crime, you know, has affected you personally.|sv|2064|1
+A|Uh-huh.|b|2064|0
+B|You know, I don't know,|h|2064|1
+B|or a person personally.|sv|2064|1
+A|No.|ar|2064|0
+B|I think I would be, you know,|sv|2064|1
+B|I guess, really if I had to say yes or no, I guess I would say, you know, that I am in certain cases, in favor of the death penalty,|sd|2064|1
+B|I don't know that it's a big deterrent really.|sv|2064|1
+B|I don't know that it is.|sv|2064|1
+B|I don't know how we'd ever find out, you know, really whether it is or not.|sv|2064|1
+A|Well, there is so many chances for appeal, that it|sv|2064|0
+B|Oh, yeah,|aa|2064|1
+B|oh, absolutely,|aa|2064|1
+B|yeah,|aa|2064|1
+B|it goes on for years and years, and costs hundreds of thousands of dollars, taxpayer money.|sv|2064|1
+A|it's really sad.|sv|2064|0
+B|Yeah.|b|2064|1
+A|I don't know,|sd|2064|0
+A|I just think, um,|sv|2064|0
+A|somehow I hoped that as a people we could be better than, than, um, expecting, the feeling that it|sd|2064|0
+B|Yes.|b|2064|1
+A|with,|%|2064|0
+A|someone is calling for someone else to be killed, you know.|sv|2064|0
+A|Is really kind of bad|sv|2064|0
+B|Yes|aa|2064|1
+B|it is.|sv|2064|1
+B|It's a tough, tough question.|sv|2064|1
+B|It really is.|sv|2064|1
+B|I suspect I would be, uh, you know, a lot more favor of it if, you know, one of my children were, you know, brutally killed, or something like that.|sv|2064|1
+B|Like I say, I think it depends on how personally affected, you know, you might be by it.|sv|2064|1
+A|and there really are criminals that are hard-core and, repeat, and never have any chance for,|sv|2064|0
+B|Oh, absolutely.|aa|2064|1
+B|that's right.|ba|2064|1
+A|Oh, I don't know,|h|2064|0
+A|is it,|%|2064|0
+A|do you feel at all like, it's a religious issue?|qy|2064|0
+B|Not with me personally.|ng|2064|1
+B|It is with a lot of other people.|sv|2064|1
+A|Uh-huh.|b|2064|0
+B|It's not, not to me personally,|sd|2064|1
+B|no.|ny|2064|1
+A|Um.|%|2064|0
+B|No.|ny|2064|1
+A|I don't know,|h|2064|0
+A|sometimes I feel,|%|2064|0
+A|I mean I do go to church and things.|sd|2064|0
+A|I don't know how I would feel about it.|sd|2064|0
+A|But like you say, if it hit you personally, closer at home you would feel, feel differently.|sv|2064|0
+B|Uh-huh.|b|2064|1
+B|Yes.|b|2064|1
+B|That's a, it's a tough, tough question,|sv|2064|1
+B|it really is.|sv|2064|1
+A|Do you think most states have that|qy|2064|0
+A|or?|%|2064|0
+B|Yes,|ny|2064|1
+B|I think most states do have capital punishment.|sd|2064|1
+B|Yes.|ny|2064|1
+B|But, I think the U S is one of the few countries that still do.|sv|2064|1
+A|That still does it,|bf|2064|0
+A|that's right.|ba|2064|0
+B|Yes,|aa|2064|1
+B|they're only,|%|2064|1
+B|I was reading something about it the other day,|sd|2064|1
+B|I think there was only like six or eight countries in the world, that have capital punishment still.|sv|2064|1
+A|Uh-huh.|b|2064|0
+B|A lot of them had to have elected not to do so.|sv|2064|1
+B|Now I don't know, what they do in place of it.|sd|2064|1
+B|You know, maybe it's life in prisonment or, you know, something,|sv|2064|1
+B|I I don't know how they handle it|sd|2064|1
+B|I was surprised to learn that so few countries have capital punishment.|sd|2064|1
+A|Have that.|bf|2064|0
+A|Well, and it doesn't seem like very many people, uh, are really, I mean,|sv|2064|0
+A|there's a lot of people that are on death row. But there's not very many people that actually, um. do get killed.|sv|2064|0
+B|Oh, yes.|b|2064|1
+B|Yes,|aa|2064|1
+B|a lot of them do get their sentences commuted to something else.|sv|2064|1
+A|Uh-huh.|b|2064|0
+A|So, it seems like a of people live there,|sv|2064|0
+A|and then through appeals.|sv|2064|0
+B|Yes.|b|2064|1
+A|Because I know they do frequently,|sv|2064|0
+A|I mean they cover, cover it pretty heavily on television and the newspaper.|sd|2064|0
+B|Uh-huh.|b|2064|1
+B|Yes.|b|2064|1
+A|If it finally gets to that point.|sd|2064|0
+B|Right,|b|2064|1
+B|the first appeal is automatic,|sv|2064|1
+B|so that delays it for a few years just right off the bat.|sv|2064|1
+A|Yeah.|b|2064|0
+B|There's, there's a lot of, you know, last minute, uh, things that happen cause a person not to, have to go through the whole thing.|sv|2064|1
+A|Uh-huh.|b|2064|0
+A|Uh-huh.|b|2064|0
+A|So is it, uh,|%|2064|0
+A|are we doing lethal injection now?|qy|2064|0
+B|Yes,|ny|2064|1
+B|uh-huh.|ny|2064|1
+B|That's, that's fairly recent, I don't know, how recent, but fairly recent, in the state of Texas.|sd|2064|1
+B|Before that, it was, uh, death by electrocution.|sd|2064|1
+A|Uh-huh,|b|2064|0
+A|which seems so awful.|sv|2064|0
+B|Yes,|aa|2064|1
+B|it certainly does.|sd|2064|1
+A|So, it's a little bit more humane,|sv|2064|0
+A|I guess, it is,|sv|2064|0
+B|Yes,|aa|2064|1
+B|it would almost have to be, I suppose.|sv|2064|1
+B|If you, if you had to chose, I guess I would, I am sure I would take the lethal injection.|sv|2064|1
+A|Yes,|aa|2064|0
+A|the other one just seems so terrible.|sv|2064|0
+B|Yes,|aa|2064|1
+B|absolutely.|aa|2064|1
+A|Um.|%|2064|0
+B|It's a, it's a tough question.|sv|2064|1
+B|It really is.|sv|2064|1
+B|I guess, if I had to say yes or no, I would say, you know, yes.|sd|2064|1
+B|I, I would have to lean toward capital punishment, you know, for certain crimes.|sd|2064|1
+A|Well, do you think that we do it because we want it to deter crime|qy|2064|0
+A|or, it's not because we don't want to pay for inmates to stay in prison?|qrr|2064|0
+B|No,|nn|2064|1
+B|I don't think it's a monetary thing.|sv|2064|1
+A|Uh-huh.|b|2064|0
+B|I think,|%|2064|1
+B|we hope that it will be, you know, some sort of deterrent or, you know, an eye for an eye type thing, or something like that.|sv|2064|1
+A|Um.|%|2064|0
+B|Some of the crimes are just so brutal and so, you know, useless.|sv|2064|1
+B|This may seem to be the best way out.|sv|2064|1
+B|I don't know.|h|2064|1
+A|Yes.|b|2064|0
+B|Easiest way out maybe.|bf|2064|1
+B|No,|nn|2064|1
+B|I don't think it's a monetary thing.|sv|2064|1
+A|Um. Well, um, and I notice that the crime rate was up in the Dallas area|sd|2064|0
+A|It's, It's kind of been scary, to think about it|sv|2064|0
+B|Yes,|b|2064|1
+B|especially the murder rate, its just gone crazy.|sd|2064|1
+B|Yes.|b|2064|1
+A|and, And you're hoping there is something that will cut down on that.|sd|2064|0
+B|Absolutely.|aa|2064|1
+B|Yes,|aa|2064|1
+B|I wish I had the answer for that,|sd|2064|1
+B|everybody does.|sv|2064|1
+A|You hate to have the dubious honor of being, you know, so high in the, in statistics,|sv|2064|0
+B|Yes,|aa|2064|1
+B|it's nothing to be proud of,|sv|2064|1
+B|certainly not.|sv|2064|1
+A|But I, you know,|%|2064|0
+A|we have been really fortunate|sd|2064|0
+A|our family, hasn't had any crime.|sd|2064|0
+B|Yes.|b|2064|1
+B|Yes,|b|2064|1
+B|so have we been very, very fortunate.|sd|2064|1
+A|And, so we don't,|%|2064|0
+A|it's harder to think about the poor people that have suffered that way.|sv|2064|0
+B|That's right.|ba|2064|1
+B|Absolutely.|aa|2064|1
+A|And how they would expect, how they would hope,|sv|2064|0
+B|Uh-huh.|b|2064|1
+A|I mean you, you hear of people who have, um, committed crimes, and then they get out of jail and they go, and they do the same thing again.|sv|2064|0
+B|Absolutely.|b|2064|1
+A|And you wonder why they can't just stop it.|sv|2064|0
+B|Uh-huh.|b|2064|1
+B|That's right.|ba|2064|1
+A|So, maybe you would,|sv|2064|0
+B|Uh-huh.|b|2064|1
+A|but still I would hate to be on the jury that sentenced someone.|sd|2064|0
+B|So would I,|aa|2064|1
+B|I fortunately, I have never been in that circumstance,|sd|2064|1
+B|I hope I never am, like, like everybody else.|sd|2064|1
+A|No,|aa|2064|0
+A|I know when, um,|%|2064|0
+A|we just, we moved here, uh, I from the, I got a summons, jury summons,|sd|2064|0
+B|Uh-huh.|b|2064|1
+A|just like constantly, it seemed like,|sv|2064|0
+B|Uh-huh.|b|2064|1
+A|but fortunately I had small children|sd|2064|0
+A|and I didn't have to go.|sd|2064|0
+B|Right.|b|2064|1
+A|And it's not that,|sv|2064|0
+A|I mean, I think everyone should have to serve on the jury,|sv|2064|0
+B|Uh-huh.|b|2064|1
+A|it's just that, I didn't,|sd|2064|0
+A|I hate having to be in charge of someone else's life.|sd|2064|0
+B|Sure,|aa|2064|1
+B|it's, it's a big responsibility,|sv|2064|1
+B|it really is.|sv|2064|1
+A|And I would hate to have to hear any kind of case, involving a violent crime or anything.|sd|2064|0
+B|Yes.|b|2064|1
+B|So would I.|sd|2064|1
+A|That would be really awful.|ba|2064|0
+B|Yes.|aa|2064|1
+B|Absolutely.|aa|2064|1
+A|Well, anyway, I sure have enjoyed, uh, talking to you about this. Although it has been difficult|sd|2064|0
+A|but, uh.|%|2064|0
+B|It is, it's a tough subject,|sv|2064|1
+B|it really is.|sv|2064|1
+A|I'd hate to decide it, but I guess, uh, guess it's important, that we decide as a people what, what we're going to do.|sv|2064|0
+B|Right.|b|2064|1
+B|That's right.|ba|2064|1
+A|Anyway, well, you have a good day.|fc|2064|0
+B|Well, thank you,|fc|2064|1
+B|it's nice talking to you.|fc|2064|1
+A|Thank you,|fc|2064|0
+A|bye-bye.|fc|2064|0
+B|Uh-huh.|fc|2064|1
+B|Bye-bye.|fc|2064|1

@@ -1,0 +1,106 @@
+A|Well, I don't know what to do about the federal budget.|sd|3387|0
+A|Um, there certainly have been ideas surfaced, uh, recently, uh, matter of fact repeatedly by many people|sd|3387|0
+A|and I sort of wondered what your, what thoughts you had on that area.|qw^d|3387|0
+B|The, the first one is we need people in there that, that understand, uh, numbers. The numbers that are being thrown around when, when we're talking in trillions of dollars. Uh, which is an astronomical sum|sv|3387|1
+A|Uh-huh.|b|3387|0
+B|and, and the people that are talking this numbers have no concept of what that number means.|sv|3387|1
+A|Now are you, are you talking about the elected people|qy|3387|0
+A|or are you talking about others?|qrr|3387|0
+B|The elected people.|sd|3387|1
+B|Yes.|ny|3387|1
+B|Uh-huh.|ny|3387|1
+A|Uh-huh.|b|3387|0
+B|Our, our, our Senate and Congress and, and people that, that deal everyday and, and what's going to be done with those monies um, and don't really understand what that is or how a budget even works.|sv|3387|1
+A|Yes.|b|3387|0
+A|Uh-huh.|b|3387|0
+B|Uh, we need to elect people that are more, uh,|sv|3387|1
+B|or ...|%|3387|1
+A|I'm not sure how you would|sd|3387|0
+A|how would you achieve that?|qw|3387|0
+A|I mean if,|%|3387|0
+B|Well, let's, let's make them have a degree in economy, uh, or economics.|sv|3387|1
+A|So you would trust the decision making economists?|qy|3387|0
+B|Well|arp_nd|3387|1
+A|Sometimes called the dismal science.|sd|3387|0
+B|Yeah.|b|3387|1
+B|But, but people that, that know the value of a dollar that understand the value of a dollar,|sd|3387|1
+A|Uh-huh.|b|3387|0
+A|Yes.|b|3387|0
+B|um, and|%|3387|1
+B|in, in, in|%|3387|1
+B|the, the, uh, lobbyists,  needs them to be eliminated, uh,  from Congress. Um,|sv|3387|1
+A|Uh-huh.|b|3387|0
+A|Uh-huh.|b|3387|0
+A|Yes.|b|3387|0
+B|They don't make pragmatic decisions.|sv|3387|1
+B|They make a decision based on constituency instead of a decision based on what they really believe.|sv|3387|1
+A|Yes.|b|3387|0
+A|Uh-huh.|b|3387|0
+B|Um, you know, or they tack on this, uh, pork bellies and, and do things that, that are good for their area to pass something that is, that is not good for the country.|sv|3387|1
+A|Right.|b|3387|0
+A|So, so you would favor a law which said there could not be lobbyists.|bf|3387|0
+A|I mean right now lobbyists require to register you'd just say, make them all .|sv|3387|0
+B|Oh, I, I definitely would.|na|3387|1
+B|Yeah.|ny|3387|1
+B|Get rid of them.|^2|3387|1
+B|Totally. Uh,|aa|3387|1
+A|No causes that you think the lobbyists would be good for?|qy^d|3387|0
+B|I, I think that any company or anything that wants to contribute to a fund should be able to do that, and be registered with what they ever contribute.|sv|3387|1
+A|Uh-huh.|b|3387|0
+B|But they should not have a one-on-one relationship with the people making the decisions that affect them.|sv|3387|1
+A|Uh-huh.|b|3387|0
+B|That, that's a conflict of interest as far as I'm concerned.|sv|3387|1
+A|Yeah.|b|3387|0
+B|When you are talking again, uh, billions and trillions of dollars uh, you're, you're jeopardizing the future of the country, uh, for today.|sv|3387|1
+A|Uh-huh.|b|3387|0
+B|That,|%|3387|1
+A|So, uh, you talk about jeopardizing the future.|sv|3387|0
+A|Would you be against any deficit spending?|qy|3387|0
+B|I, I think to bring it in line you are going to have to have a generation that's going to really bite the bullet to bring it in line.|na|3387|1
+B|You can't ease into it.|sv|3387|1
+B|It took years and years to build up the momentum that's there now.|sv|3387|1
+A|Uh-huh.|b|3387|0
+B|Uh, I, I forget the figures on the interest rate|h|3387|1
+B|but it's something like, uh, hundreds of thousands of dollars a second in interest.|sv|3387|1
+A|Uh-huh.|b|3387|0
+A|Yeah.|b|3387|0
+B|Part of the problem is we don't loan from ourselves.|sv|3387|1
+B|We, we buy from intimate international banking.|sv|3387|1
+B|That's why we have interest.|sv|3387|1
+A|Uh-huh.|b|3387|0
+B|And, and I, I, I really feel that, that, that is part of the problem that we, we've let things get so out of control that, that we don't want to put the brakes on them.|sv|3387|1
+A|But what practical steps could could one take? Um,|qw|3387|0
+B|By, by having a, a, a budget that is, is feasible, that is reasonable.|sd|3387|1
+A|Well, but everybody will say that he is for that. Uh,|sv|3387|0
+A|and,   and how will you,  make that actually happen?|qw|3387|0
+B|Oh, of course.|ba|3387|1
+B|Sure .|b|3387|1
+B|And then add on to it.|sv|3387|1
+B|You take the gross national income and you say our budget is X number of percent of this gross national income.|sv|3387|1
+A|Uh-huh.|b|3387|0
+B|One thing we could do is give a ten percent income tax. Across-the-board,|sv|3387|1
+A|Uh-huh.|b|3387|0
+B|everyone no matter what,  pays a ten percent income tax.|sv|3387|1
+A|Yep.|aa|3387|0
+A|Sounds like a good idea.|ba|3387|0
+B|Uh,|%|3387|1
+A|Nothing escapes, right?|qy|3387|0
+A|No, no,  deductions, nothing.|qy^d|3387|0
+B|That's right.|na|3387|1
+B|Right.|na|3387|1
+B|No deductions.|sv|3387|1
+A|Just ten percent.|sv|3387|0
+B|You pay a ten percent income tax.|bf|3387|1
+A|Yep.|aa|3387|0
+B|That's what you pay|sv|3387|1
+B|if you make forty million dollars, uh, then you're going to pay four million.|sv|3387|1
+A|Right.|b|3387|0
+B|if you make forty dollars, you're going to pay four dollars.|sv|3387|1
+B|And, and that's it.|sv|3387|1
+A|Yep.|aa|3387|0
+A|So that, that's it.|sv|3387|0
+A|That's I mean|%|3387|0
+A|I, I agree with that|sv|3387|0
+A|that's a good idea|sv|3387|0
+A|and is it your expectation that that would raise the total revenues collected or, or lower them or what?|qy|3387|0
+B|I don't know that it would or wouldn't.|arp_nd|3387|1

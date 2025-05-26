@@ -1,0 +1,134 @@
+A|Well, how did you like that topic?|qo|3242
+B|Uh, I don't know,|sd|3242
+B|I've got mixed feelings about the topic.|sd|3242
+A|Do you?|qy|3242
+A|I don't.|sd|3242
+B|No.|bf|3242
+B|Okay.|b|3242
+A|No,|aa|3242
+A|I'm pretty opinionated about that and many other things as you well know.|sd|3242
+A|I agree with it.|sd|3242
+A|I think, uh, I think a company should be able to test at, any, any employee any time they see fit.|sv|3242
+B|Well,|%|3242
+A|I just, I just don't think there's a place in our environment, you know in the work force for drugs, or alcohol either.|sv|3242
+B|Well, I don't believe in drugs or alcohol,|sd|3242
+B|but if you'll remember when the teachers had to take the T CAT they were talking about drug testing us|sd|3242
+A|Right.|b|3242
+A|Uh-huh.|b|3242
+B|and we were laughing that we'd have to go to that examination to prove we could read and write with a specimen of urine|sd|3242
+A|Uh-huh.|b|3242
+B|and we found it belittling.|sd|3242
+A|You did?|qy|3242
+B|Yeah,|ny|3242
+A|Uh-huh. Well, I can sort of understand that, uh,|sd|3242
+A|but not being a teacher, as you are, you know, I, I was not quite as sympathetic as, you know, as I probably would have been if, if Kay were a teacher or something.|sd|3242
+B|That's true.|aa|3242
+A|But, uh,|%|3242
+B|But then, you know, at the same token, I'm not against|sd|3242
+B|because I look at airline pilots bus drivers you know, people that really have other peoples' lives in their hands truck drivers|sd|3242
+A|Uh-huh.|b|3242
+A|Uh-huh.|b|3242
+A|That's right.|aa|3242
+A|That's right.|aa|3242
+B|it's supposed to be a huge problem with truck drivers using drugs and alcohol,|sd|3242
+A|Uh, that's right|aa|3242
+A|and I think it is a big problem with them using drugs from what you read, you know,|sd|3242
+B|And,|%|3242
+A|but, uh,|%|3242
+B|You know, in those areas I really, you know, do believe that maybe we should clean up our, you know house.|sv|3242
+A|Yeah,|aa|3242
+A|I think so too,|sd|3242
+A|I, I agree with it.|sd|3242
+A|Uh, I know Kay's company, you know,|sd|3242
+A|they started it couple of years ago,|sd|3242
+A|and so many of the people, even the professional people were, boy, they were so against them doing that, you know,|sd|3242
+A|and I thought, Jeez, to me it's quite simple,|sd|3242
+A|uh, you either need a job or you don't.|^q|3242
+A|The, the job is what provides all of your needs,|sd|3242
+A|and, uh, if they say, Hey, you can't do this work, I'd say, Hey, I agree, I don't, I won't do that.|sd|3242
+A|And I think most of them have agreed to that now, although they didn't like it at first.|sd|3242
+B|Yeah,|b|3242
+B|I think it's just like anything else, a new concept, you know,|sv|3242
+B|as I said, if I have to go to a testing area with my urine specimen I was insulted,|sd|3242
+A|Yeah,|aa|3242
+A|it is,|aa|3242
+A|I can see where you would think,|sd|3242
+A|Yeah,|%|3242
+B|But at the same token, in education we can't do drug, random drug testing on kids|sd|3242
+A|Yeah,|aa|3242
+A|that's true,|aa|3242
+B|you know, I mean, their rights are protected.|sd|3242
+A|You bet.|aa|3242
+A|Oh, gosh, they, they would really raise a stink if that was to happen.|sv|3242
+B|What|%|3242
+B|well, but why, if you're going to do teachers or professionals, why not do the kids, when we see them and they're, you know, under the influence.|qh|3242
+A|Right,|aa|3242
+A|yes,|aa|3242
+A|I agree with that.|sd|3242
+A|I, I, I wouldn't be opposed to it at all,|sd|3242
+A|it's just our bleeding heart liberals that would fight it tooth and nail, you know|sv|3242
+B|That's true.|aa|3242
+A|but, uh, well, Lynn, I've enjoyed talking with you.|fc|3242
+A|I don't know how long we're supposed to carry on a conversation, do you?|qy|3242
+B|It's three minutes,|sd|3242
+B|and the clicker comes in when it's time to,|sd|3242
+A|Oh, well, we'd better keep talking because I've not heard it have we.|ad|3242
+B|Yeah.|aa|3242
+A|Have you heard it?|qy|3242
+B|No.|nn|3242
+A|Anyway, we both sort of agree on it, don't we about random testing.|qy|3242
+B|Well do we agree, or unless it's not me|qy|3242
+A|Well, listen,|h|3242
+B|You know, here we go again, I mean|fo_o_fw_"_by_bc|3242
+A|Yeah,|b|3242
+A|yeah.|b|3242
+B|yeah, you know|b|3242
+A|If you agree that, uh,|sd|3242
+B|I believe that truck drivers and people that have,|sv|3242
+B|even though teachers have other kids lives in their hands, and if they come in stoned or they come in drunk|sv|3242
+A|Yeah.|b|3242
+B|and there was an incident in my children's high school, where a teacher stayed drunk,|sd|3242
+A|Is that right?|bh|3242
+B|Uh-huh.|ny|3242
+A|You just don't think of that happening with teachers|sv|3242
+B|And he,|%|3242
+A|I really don't,|sd|3242
+A|when I think of drug testing, I'm thinking of the, you know, outside of education.|sd|3242
+B|Uh, well, no,|ar|3242
+B|you know, we are as susceptible a society as anybody else|sv|3242
+A|Sure sure,|aa|3242
+A|I know that,|sd|3242
+A|but, uh you don't think of that first hand, normally.|sv|3242
+B|and, uh|%|3242
+B|Yeah,|b|3242
+B|well, did you hear on the news where the teacher of the year was up for child molestation.|qy|3242
+A|Isn't that, isn't that mind boggling,|bh|3242
+B|It was on the news tonight.|sd|3242
+A|goodness,|ba|3242
+A|it, it is, it's mind you know, well, you know,|sv|3242
+A|I agree with you,|sd|3242
+A|I know teachers are just like everybody else, same problems the same, uh, good qualities as anybody else.|sd|3242
+B|Yeah.|b|3242
+B|Then, I think, you know, if if it came, push came to shove, I'd probably be drug tested you know,|sd|3242
+A|Yeah,|b|3242
+A|yeah.|b|3242
+B|because it does, you know,|sd|3242
+A|You, you think the benefit would be greater than the,|qy^d|3242
+B|Yeah,|ny|3242
+B|because, you know, as I say, I'm sitting there fussing and fussing,|sd|3242
+B|and yet, I know of, you know, one teacher who was an alcoholic in school as well as, you know, I presume out,|sd|3242
+A|Uh-huh.|b|3242
+A|And that was in your children's high school,|qy^d|3242
+B|Uh-huh.|ny|3242
+A|Isn't that amazing,|bh|3242
+B|And, you know, my children brought it to my attention.|sd|3242
+B|I never was there to see it.|sd|3242
+A|If it, if it's if it was true there, I'm sure it's true with just about probably to some degree every school there is|sv|3242
+B|Uh-huh.|b|3242
+A|you know, because they represent a pretty good,|sv|3242
+B|And that's not giving a good example to students.|sv|3242
+A|No,|aa|3242
+A|certainly not,|aa|3242
+A|certainly not,|aa|3242
+A|they don't need that example|sv|3242
+A|but,|%|3242

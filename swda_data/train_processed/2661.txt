@@ -1,0 +1,235 @@
+B|So eating out.|fo_o_fw_"_by_bc|2661
+B|What are you interested in in restaurants?|qw|2661
+A|Right, uh.|b|2661
+A|So.|%|2661
+B|Uh, once a week, twice a week?|qy|2661
+A|Oh, at least once a week.|sd|2661
+A|We're, we're retired now.|sd|2661
+A|When we working out we ate out more than that|sd|2661
+B|Yeah,|b|2661
+B|I understand.|ba|2661
+B|Uh, but we both work|sd|2661
+B|and we have a daughter,|sd|2661
+B|and we normally manage to eat out once a week anyway.|sd|2661
+A|Well, what type of restaurant do you like, Richard?|qw|2661
+B|Uh, really, I'm kind of open on food.|sd|2661
+B|I'm what you might call a culinary adventurer.|sd|2661
+B|I'll, uh, try anything once.|sd|2661
+A|Right.|b|2661
+B|Been on a real barbecue kick lately.|sd|2661
+A|Oh have you?|bh|2661
+B|Yeah.|ny|2661
+A|We like Chinese.|sd|2661
+A|We eat, a lot of Chinese food.|sd|2661
+B|Excuse me. Uh, yeah,|b|2661
+B|we usually have Chinese once a month.|sd|2661
+A|What do you look for in a restaurant?|qw|2661
+B|I hate franchised restaurants.|sd|2661
+A|You what?|br|2661
+A|You,|%|2661
+B|I despise franchised restaurants.|sd|2661
+A|Oh I,|%|2661
+B|I, I, I always prefer to go to something that seems more family run. Uh, some place where you seem to have the attitude like you're going into their home for dinner almost.|sd|2661
+A|Right.|b|2661
+A|I know what you mean.|sd|2661
+A|I like some ambiance,|sd|2661
+A|and I like good food.|sd|2661
+A|I don't like fast food hamburgers and all of that.|sd|2661
+B|I don't,|sd|2661
+B|but I don't like something fake or put on either.|sd|2661
+A|Uh-huh.|b|2661
+B|You know, if I could have a good small restaurant or a good large restaurant I'd go to the good small restaurant.|sd|2661
+A|Uh-huh.|b|2661
+B|And I don't know why that is.|sd|2661
+B|I think it's probably due to pricing, often.|sd|2661
+A|Right,|aa|2661
+A|uh-huh.|aa|2661
+A|I don't care to go to a place just for the price of it|sd|2661
+B|Well, yeah,|aa|2661
+B|yeah,|aa|2661
+A|I mean, it's like continental French restaurant or something really with high prices|sd|2661
+B|Yeah.|b|2661
+A|and seven courses isn't what I usually look for|sd|2661
+B|It is what you look for?|br|2661
+B|Oh, isn't, isn't.|b^m|2661
+B|Uh, I try to get my money's worth.|sd|2661
+A|Right|aa|2661
+B|And not just that, I try to, well, that's a big part of it. I try to get my money's worth. You know, and not just in quantity, you know, but quality, and, and flavor and texture and care.|sd|2661
+A|Uh-huh.|b|2661
+A|Presentation|bf|2661
+A|and,|%|2661
+B|Well, presentation's not always all of it either.|arp_nd|2661
+A|Well, like we, we've been eating some in a restaurant that that just changed hands recently,|sd|2661
+B|It's, it's important.|sv|2661
+A|and we're trying to give them a little patronage.|sd|2661
+A|But Sunday we went there,|sd|2661
+A|and I had a pretty good meal of grilled pork chops and a baked apple and potatoes.|sd|2661
+B|Uh-huh.|b|2661
+A|So I said if they would just add a little bit of cranberry sauce, something like that|sd|2661
+B|Yeah,|aa|2661
+B|yeah,|aa|2661
+B|something a little extra|bf|2661
+A|Yeah,|aa|2661
+A|that's what I mean by,|sd|2661
+B|and just for color if nothing else.|sd|2661
+A|Right,|aa|2661
+A|uh-huh.|aa|2661
+A|It would mean a lot to the looks of the plate.|sv|2661
+B|Yeah,|aa|2661
+B|yeah.|aa|2661
+B|What I miss up here is, I'm originally a Texan, and I miss home cooked Mexican.|sd|2661
+A|Tex-Mex, Tex-Mex.|bf|2661
+B|Yeah,|aa|2661
+B|home cooked Tex-Mex.|b^m|2661
+B|Uh, Mexican restaurants where it's not owned by an Anglo or a corporation.|sd|2661
+A|Right,|aa|2661
+A|I know.|sd|2661
+A|Uh, we have a daughter in Texas and one in New Mexico,|sd|2661
+A|and we've really gotten to like,|sd|2661
+A|we like the real Mexican food better than Tex-Mex.|sd|2661
+B|Yeah.|b|2661
+B|Well, there's real Mexican food|sd|2661
+B|and there's real Tex-Mex Mexican, you know, by third or fourth generation Americans of Hispanic heritage.|sd|2661
+A|Right.|b|2661
+A|It's all pretty good, isn't it?|qy|2661
+B|Oh, yes,|ny|2661
+B|and, and there's big differences, of course,|sv|2661
+B|and, of course, when you talk about Mexican cuisine you, that's kind of like talking about American food or Chinese food, in because its regional, too.|sv|2661
+A|Right,|aa|2661
+A|uh-huh,|aa|2661
+A|that's true.|aa|2661
+B|So.|%|2661
+A|I'm originally from Maine,|sd|2661
+A|so we like seafood, too.|sd|2661
+A|And that's something we don't get here,|sd|2661
+A|and we're in the mountains in Virginia.|sd|2661
+B|Oh.|b|2661
+A|And most of the seafood's frozen.|sd|2661
+B|Uh, yeah|aa|2661
+B|that's the way it is here in Colorado, also.|sd|2661
+B|No fresh, or almost no fresh seafood|sd|2661
+A|Right.|aa|2661
+B|and in Texas we got it from the Gulf.|sd|2661
+A|Uh-huh,|aa|2661
+A|that's true.|aa|2661
+A|Lots of shrimp.|sd|2661
+B|And, yeah,|aa|2661
+B|here a couple years ago my wife and I went to Seattle on vacation.|sd|2661
+B|And I think everything except breakfast was seafood for almost a week.|sd|2661
+A|I know it|ba|2661
+B|And it was,|%|2661
+B|I was like a man starving at every meal.|sd|2661
+A|I know the feeling.|ba|2661
+A|We do the same thing.|sd|2661
+A|My son-in-law is a Texan,|sd|2661
+A|and when he goes to Maine, he eats lobster, I guess, at least twice a day, all the time he's up there|sd|2661
+B|It's a lot cheaper there, isn't it?|qy|2661
+B|Lobster?|^g|2661
+A|Oh, yeah,|ny|2661
+A|yeah.|ny|2661
+A|It's like two ninety-eight a pound for a pound lobster.|sd|2661
+B|It's like shrimp on the Gulf.|sd|2661
+B|Two ninety-eight a pound.|b^m|2661
+A|Yeah.|b|2661
+B|That's as cheap as steaks some places I mean in a grocery store.|sd|2661
+A|Oh yeah,|aa|2661
+A|cheaper,|sd|2661
+A|right.|aa|2661
+A|Right,|aa|2661
+A|yeah.|aa|2661
+A|A lot of the restaurants you can get two two one pound lobsters for like ten ninety-nine.|sd|2661
+B|Oh, my gosh.|ba|2661
+B|I've got to go to Maine then rattling in|sd|2661
+B|You may have sold a trip for some time.|sd|2661
+A|Yeah,|aa|2661
+A|it's a good place to go.|sv|2661
+B|Uh, it sounds wonderful.|sv|2661
+B|Uh, so,|%|2661
+A|Lots of little restaurants, too, with home cooked food, that's up there.|sd|2661
+B|That sound good.|sv|2661
+B|Uh, down in the Gulf I've eaten a bunch of those little uh, seafood shacks, we've called them.|sd|2661
+A|Right,|b|2661
+A|uh-huh.|b|2661
+B|And, uh, it's just so much different than to eat something that's been frozen. You know|sd|2661
+A|Uh-huh.|b|2661
+A|We went to|sd|2661
+B|shrimp straight out of the bay.|sd|2661
+A|We were in Galveston last year right well, the first of this year, actually.|sd|2661
+B|Hm.|b|2661
+A|And, ate in a restaurant,|sd|2661
+A|and they claimed to have the best shrimp on the Gulf coast.|sd|2661
+B|Was it true?|qy|2661
+A|No.|nn|2661
+A|It wasn't.|ng|2661
+A|On the way across Louisiana, we pulled off, we saw a billboard and just pulled off taking a chance on a place.|sd|2661
+A|And they had,|sd|2661
+A|it was a small restaurant, just kind of out of the way,|sd|2661
+A|and they were set up with two buffets, one for their regular Sunday chicken and roast beef and vegetables and everything. And then one complete seafood buffet.|sd|2661
+B|Hm.|b|2661
+B|Huh.|b|2661
+A|That was the best shrimp I have ever had in my life.|sd|2661
+A|They had shrimp fixed probably six different ways.|sd|2661
+B|Uh, yes,|b|2661
+B|the cajuns.|bf|2661
+A|Uh-huh,|aa|2661
+A|right.|aa|2661
+A|It was wonderful.|sd|2661
+B|They can, they can do things to shrimp that, that no one else can.|sv|2661
+A|Uh-huh.|b|2661
+B|So, have you eaten crawfish yet?|qy|2661
+A|Uh, I tried it,|na|2661
+A|but I didn't care for it.|sd|2661
+A|Not there, but at my brothers I tried it.|sd|2661
+B|Oh, as with anything, it's preparation.|sv|2661
+A|That's probably true.|aap_am|2661
+A|It,|%|2661
+A|We just,|%|2661
+A|he went down and bought some at a local place that steams them, just so we'd try them.|sd|2661
+B|Uh.|b|2661
+B|Uh-huh.|b|2661
+B|It,|%|2661
+B|there's all kinds,|sd|2661
+A|Probably needed some cold beer with it|sv|2661
+A|and|%|2661
+B|So you do eat out a lot.|qy^d|2661
+A|Quite a bit.|na|2661
+B|One of our other real problems with going out to eat, Sunday morning brunches.|sd|2661
+A|Oh.|b|2661
+B|You know, Sunday brunch, all, all you can eat brunches.|sd|2661
+A|Right.|b|2661
+A|We used to do that, once in a while,|sd|2661
+A|but we don't anymore.|sd|2661
+B|Uh, we still find it fun.|sd|2661
+A|Uh-huh.|aa|2661
+A|It's fun,|aa|2661
+A|but it's just so much food|sd|2661
+A|Hate to come away feeling uncomfortable|sd|2661
+B|Well, I work in machine shop and do a lot of physical labor.|sd|2661
+A|Do you,|bh|2661
+A|well that makes a difference.|sv|2661
+B|And so,|%|2661
+A|Where do you go to brunches?|qw|2661
+A|Like at hotels, or restaurants there?|qy|2661
+B|Yeah,|ny|2661
+B|uh, actually one of our, one of our favorites is a chain. Shoney's.|sd|2661
+A|Oh, yeah,|ba|2661
+A|uh-huh.|b|2661
+A|We eat at Shoney's.|sd|2661
+B|Yeah,|b|2661
+B|in spite of the fact I've spoken so badly about chains, chain restaurants, uh, we, uh, do like Shoney's pretty well,|sd|2661
+B|but then there's a place up the pass, up in the mountains that we pretty reliably like to go to on some Sunday mornings, drive, drive up to, I think it's about eight thousand foot elevation. And, and drive through Woodland Park and go for a short drive in the mountains and have breakfast.|sd|2661
+A|Oh.|b|2661
+A|Uh-huh,|b|2661
+A|that sounds nice.|ba|2661
+B|It, it, it's the way to spend a nice Sunday morning.|sv|2661
+A|Right,|aa|2661
+A|I imagine it is.|ba|2661
+B|I think it's as much the, the trip to the mountains as it is the breakfast brunch.|sd|2661
+B|You know, and it's not that far.|sd|2661
+B|It's thirty miles.|sd|2661
+A|out of, which direction?|qw|2661
+B|Colorado Springs.|sd|2661
+A|Out of, which direction from there?|qw|2661
+B|West|sd|2661
+A|Uh-huh.|b|2661
+B|west out of Colorado Springs.|sd|2661

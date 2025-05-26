@@ -1,0 +1,231 @@
+B|All right.|fo_o_fw_"_by_bc|2304
+A|All right.|fo_o_fw_"_by_bc|2304
+A|What are some of your favorite foods?|qw|2304
+B|Mine, well,|%|2304
+A|I imagine in Argentina you've got some great foods.|sv|2304
+B|Yeah,|b|2304
+B|well, we got, um, a lot of, uh, European dishes.|sd|2304
+A|Uh-huh.|b|2304
+B|We got, we got what some people call the best beef in the world.|sd|2304
+A|Yes.|b|2304
+B|So it's, uh, Bishu|sd|2304
+B|like every Sunday you go out,|sd|2304
+B|and you buy all these parts of the cow,|sd|2304
+B|and then you just cook them over a grill.|sd|2304
+B|That's,|%|2304
+B|like, in our house, it's already built in.|sd|2304
+B|There's this whole special place in the back|sd|2304
+B|so you can make a barbecue.|sd|2304
+A|I've had, I've had that meal in New York, uh, where they bring you a plank, sort of, with all this wonderful beef parts of beef, cooked and barbecued|sd|2304
+B|Yeah.|b|2304
+B|Yeah.|b|2304
+A|and it's marvelous .|sd|2304
+B|And then.|%|2304
+A|I have to find a place around here that has that.|sd|2304
+B|Well, they have one in, uh, they have an Argentinean place down in Georgetown.|sd|2304
+B|So.|%|2304
+A|Okay,|bk|2304
+A|I'll keep that in mind, yeah.|sd|2304
+B|Um.|%|2304
+A|You serve that yourself, or the, for a family?|qy|2304
+B|Excuse me?|br|2304
+A|You ever serve that yourself when you have company?|qy|2304
+B|Oh, no,|nn|2304
+B|well, see, the problem is, I'm only twenty-two|sd|2304
+A|Uh-huh.|b|2304
+B|but like, like when I'm down at home|%|2304
+A|Yeah.|b|2304
+B|and like somebody says okay, when are, when are we having this, you know,|sd|2304
+B|and I'll cook it.|sd|2304
+A|Oh.|b|2304
+B|You know, like you have to prepare the fire, and then put the sausages on,|sd|2304
+B|and then, you know, you put all these different meats which take different times.|sd|2304
+A|Do you buy them, um, separately at, you know, an American grocery store now,|qy|2304
+A|or do you have to,|qrr|2304
+A|you don't, you don't go buy it from a wholesaler.|qy^d|2304
+B|No,|nn|2304
+B|but what happens is in Argentina they have like all these little places like the fruit stand, and, you know, the dairy, and products and whatever,|sd|2304
+A|Little butcher shops, yeah. *two utts|bf|2304
+B|and so.|%|2304
+A|Yeah,|b|2304
+A|I've lived in Mexico,|sd|2304
+A|so I know.|sd|2304
+B|And so they got, they got the meat place.|sd|2304
+A|Yeah.|b|2304
+B|And so you just go there|sd|2304
+B|and, you can't find chicken there,|sd|2304
+B|you got to go to another place to find the chicken.|sd|2304
+A|Yeah,|b|2304
+A|you have to, you have poultry place.|sd|2304
+A|What do you, what other, what dishes do you serve with it?|qw|2304
+B|Well, basically, it's, what we call it impenadas which is, which is, like,|sd|2304
+A|Yeah.|b|2304
+A|The turnover,|^2|2304
+A|the stuffed turnover.|^2|2304
+B|Right,|aa|2304
+B|meat turnovers.|sd|2304
+A|Oh, I love those,|sd|2304
+A|uh-huh.|%|2304
+B|And, then we also put sausages on a bun,|sd|2304
+B|and then that's, that's to start out with.|sd|2304
+A|Yeah.|b|2304
+B|And then what you have is also like, you know, like three different kinds of salad.|sd|2304
+A|Uh-huh.|b|2304
+B|And uh, that's about it.|sd|2304
+A|Do you remember when you were in Washington, Sam the Argentine baker?|qy|2304
+B|Uh, no.|nn|2304
+A|It used to be in Georgetown, years ago.|sd|2304
+A|He moved,|sd|2304
+A|I guess he, he retired and went back to Argentina,|sd|2304
+A|I guess, in the early seventies.|sd|2304
+B|Oh, okay.|bk|2304
+A|Yeah,|b|2304
+A|so that that's before your time.|sd|2304
+B|Yeah.|b|2304
+A|Your parents might remember if they were here then.|sv|2304
+B|No,|ar|2304
+B|we were only there for two years.|sd|2304
+A|Okay.|bk|2304
+A|I mean, he was wonderful.|sd|2304
+A|We used to get the most marvelous impenadas and other Argentine things.|sd|2304
+B|Yeah.|b|2304
+B|And, uh, what I, what I also eat now, since I graduate,|sd|2304
+B|I have an Italian roommate,|sd|2304
+B|and,|%|2304
+A|Yeah,|b|2304
+A|I'm Italian.|sd|2304
+B|Are you?|qy|2304
+A|Uh-huh.|ny|2304
+B|And since being Argentinean we also have a lot of pasta.|sd|2304
+A|Yeah, well,|b|2304
+B|And, you know,|%|2304
+A|Because there're many Italians in Argentina.|sd|2304
+B|Yeah,|b|2304
+B|and my mom, you know, like makes like what we call niokes and *sp:gnocchis all this stuff, that it's just, you know, everything like lasagna and everything.|sd|2304
+A|Uh-huh.|b|2304
+A|Uh-huh,|b|2304
+A|yeah.|b|2304
+A|My grandparents, my grandfather came to the United States through Argentina.|sd|2304
+B|Oh, okay.|b|2304
+A|This was around the turn of the century. Actually, actually a little bit later, like nineteen thirteen, nineteen twelve, nineteen thirteen.|sd|2304
+B|Yeah,|b|2304
+B|yeah.|b|2304
+B|At one point, one third of the population of Argentina was Italian. Like pure Italians.|sd|2304
+A|well, I'll tell you,|fo_o_fw_"_by_bc|2304
+A|it's interesting, because when we cook here,|%|2304
+A|I'm of Italian descent.|sd|2304
+A|My husband is Chinese.|sd|2304
+B|Okay.|b|2304
+A|So we, and we both love Continental cooking, French cooking.|sd|2304
+B|Okay.|b|2304
+A|So we cook, uh,|%|2304
+A|our meals are, well,|%|2304
+A|we don't, we don't usually mix.|sd|2304
+A|I mean, that sometimes|%|2304
+B|Right. Yeah. *slash error should be 'b'|b|2304
+A|well, if we're entertaining we'll do a Chinese recipe|sd|2304
+A|and, um, there are really easy recipe|sd|2304
+A|that is, you know, with Chinese you always have several dishes|sd|2304
+A|And nowadays with microwaves,|sd|2304
+A|you can steam many of the things in a microwave.|sd|2304
+B|Yeah.|b|2304
+A|I don't know if you have one.|qy^d|2304
+B|Yeah.|ny|2304
+A|And if you like Chinese food, you can take filet of fish and put a little bit of soy sauce and a little bit of sesame oil on top of it and chop some scallions and a little ginger and just cover it with some, uh, waxed paper and steam it just until the fish is done,|sd|2304
+B|Okay.|b|2304
+B|Okay.|b|2304
+B|Okay.|b|2304
+A|and it's a wonderful um, flavorful piece of fish.|sd|2304
+B|Is it?|qy|2304
+A|Yeah.|ny|2304
+B|Because I was at, you know,|%|2304
+B|it's like, when you, when you go buy fish, you know|sd|2304
+A|Uh-huh.|b|2304
+B|well like I buy like the fish|sd|2304
+B|so you can do it in the microwave the breaded fish,|sd|2304
+A|Uh-huh.|b|2304
+B|and yeah,|%|2304
+B|I've seen, you know, the filet.|sd|2304
+A|Yeah,|b|2304
+A|buy a fresh filet of fish, a nice one at the fish the fish counter.|ad|2304
+B|What kind of fish?|qw|2304
+A|Um, any white fish.|sd|2304
+A|Sole is good, uh, um, flounder|sd|2304
+B|Okay.|b|2304
+A|sole or flounder is real good. And even grouper.|sd|2304
+B|So we put soy sauce and sesame.|sd|2304
+A|Little bit of soy sauce and sesame seed oil.|sd|2304
+B|Okay.|b|2304
+A|And, not too much soy sauce.|sd|2304
+A|Uh, some chopped up um, you know, slivers of scallions. And slivers of ginger. And then just cover it and put it in the microwave for just, just two, say two minutes, check it after two minutes to see if the fish flakes.|sd|2304
+B|Okay.|b|2304
+A|And if the fish flakes, it's done.|sd|2304
+A|Don't overcook it though.|ad|2304
+B|Okay,|b|2304
+B|because I got, I got, um, one of those little, uh, microwaves,|sd|2304
+B|the ones that take forever to boil a cup of water.|sd|2304
+A|Well, you see, just check it, you know, during,|ad|2304
+B|Yeah.|b|2304
+A|And another quick dish if you like, um, do you know what hoi sin sauce is, *two utts?|sd|2304
+A|it's that sweet Chinese sauce?|qy|2304
+B|No,|nn|2304
+B|I don't.|sd|2304
+A|Well if you go in a Chinese store ask for hoi sin, H O I S I N.|sd|2304
+B|Wait, wait, wait, H, *three?|ad|2304
+A|H O I ,|sd|2304
+B|H O I,|b^m|2304
+A|S I N, or S E N|sd|2304
+B|S I N,|b^m|2304
+A|either way they'll spell it. Hoi Sin sauce.|sd|2304
+A|It's a very sweet dark, sort of a purplish plum sauce, purplish brown.|sd|2304
+A|And if you take, uh, little pieces of pork and you fry them, like little cubes of pork. And you fry them with garlic and a little bit of, couple dashes of hot pepper and then mix some hoi sin sauce with sherry, just a little sherry to thin it, and stir that in. You can even put a spoon of ketchup in,|sd|2304
+B|Okay.|b|2304
+B|Okay.|b|2304
+B|Okay.|b|2304
+A|and that makes a great pork dish with a sort of a spicy sweet sauce, that you can serve over rice.|sd|2304
+B|Uh, how much, uh, how much pork do you buy for two people.|qw|2304
+A|Um, well,|%|2304
+A|For two people, um, if it's American style, I buy a half a pound. If, you know, we, if you're just serving that,|sd|2304
+A|but if you're serving another dish with it, say the rice dish um, well, with guys pretty healthy appetites, I'd probably go a third of a pound|sd|2304
+B|Right.|b|2304
+A|and then, you know, you could,|%|2304
+B|Yeah,|b|2304
+B|I could probably go half a pound|bf|2304
+A|And you can always, you can always heat it up again, and save, you know.|sd|2304
+B|So, it's just, it's just, since I'm from Argentina, I just love meat.|sd|2304
+A|Yeah.|b|2304
+B|And we,|%|2304
+A|You can also do the same thing using, um, if you have ground beef.|sd|2304
+B|Okay.|b|2304
+A|Just stir fry the ground beef.|sd|2304
+A|Drain off the oil.|sd|2304
+A|Use the same hoi sin sauce and some of the frozen mixed vegetables.|sd|2304
+B|Okay.|b|2304
+A|Just stir that in|sd|2304
+A|and you've got a very colorful side, another dish.|sd|2304
+B|And how much does it cost?|qw|2304
+A|Um, the hoi sin sauce?|qy|2304
+B|Yeah.|ny|2304
+A|Oh, a dollar twenty-nine a can.|sd|2304
+B|Oh, okay.|b|2304
+A|A can would serve you for, for, you know, for quite a few, um, meals, you know.|sd|2304
+B|Yeah.|b|2304
+B|Okay,|b|2304
+B|I thought it was maybe like, you know, like five fifty or something.|sv|2304
+A|Oh, no,|ar|2304
+A|no,|ar|2304
+A|no,|ar|2304
+A|no,|ar|2304
+A|no|ar|2304
+A|it's not expensive at all.|sd|2304
+A|It's one of the Chinese cooking basics.|sd|2304
+B|Oh, okay.|b|2304
+A|Yeah,|b|2304
+A|well listen, it was good talking with you.|fc|2304
+B|Same here.|fc|2304
+A|Hope you enjoy your recipe.|fc|2304
+B|All right.|fc|2304
+B|Thank you.|fc|2304
+A|Okay.|fc|2304
+A|Bye-bye.|fc|2304
+B|Bye-bye.|fc|2304

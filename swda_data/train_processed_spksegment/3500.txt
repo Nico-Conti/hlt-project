@@ -1,0 +1,117 @@
+A|In, in the light of what has been happening lately with the doctors that I know and lawyers and whatnot, I think national health insurance is a way to throw a lot of money at a very small problem.|sv|3500|0
+B|Do you?|^g|3500|1
+B|Why?|qw|3500|1
+A|Why?|qw|3500|0
+A|Well, if you took half the money that they would spend in the state of Texas for health insurance and gave it to qualified students to, so they could become doctors, the problem would go away.|sv|3500|0
+B|You think the problem is not enough doctors?|qy|3500|1
+A|I think the problem is that the doctor doctors have conspired to limit the number of doctors, and that the lawyers have conspired to make sure that if you are a doctor, you are going to pay high premiums on your uh, I mean, on your liability.|na|3500|0
+B|Gosh, for one thing.|ba|3500|1
+A|Oh?|bh|3500|0
+A|Uh-huh.|b|3500|0
+A|And you think there are plenty of doctors?|qy|3500|0
+B|Oh, yeah,|ny|3500|1
+B|I don't think there is a shortage of doctors|sd|3500|1
+B|and I do know that O B, which is my field the doctors' health the doctors' malpractice insurance is over two hundred thousand dollars a year that deliver babies.|sd|3500|1
+A|Uh-huh.|b|3500|0
+A|It's astronomical.|ba|3500|0
+B|Now they can't doing anything about that.|sv|3500|1
+B|I don't think they're in a conspiracy.|sv|3500|1
+B|I think it's our fault, because we as people just sue them.|sv|3500|1
+A|No,|ar|3500|0
+A|people don't sue|sv|3500|0
+B|People are very sue, sue conscious.|sv|3500|1
+A|lawyers sue.|sv|3500|0
+A|If you put a ten thousand dollar cap on the amount of money that a lawyer could make from a law suit against a doctor|sv|3500|0
+B|Yeah.|b|3500|1
+B|Well, that's probably true, too.|aa|3500|1
+B|But people are very conscious of how much money they can get real fast these days.|sv|3500|1
+A|Well, sure.|ba|3500|0
+B|And, so,|%|3500|1
+A|But, you know, when you think about reasonableness, now, I believe that a law suit should have some foundation in the tort theory.|sv|3500|0
+A|You know what tort theory is?|qy|3500|0
+B|No.|nn|3500|1
+A|Well, a tort is when you do something wrong.|sd|3500|0
+B|Right.|b|3500|1
+A|Well, it, uh,|%|3500|0
+A|an O B G Y N doctor cannot control the fetus in the womb a hundred percent.|sv|3500|0
+B|That's right.|aa|3500|1
+A|If the baby is born dead, well, that happens.|sv|3500|0
+B|Well,|%|3500|1
+A|If, if they have complications and,|sv|3500|0
+B|It depends.|aap_am|3500|1
+A|Well, I know, I mean, there are guys that are real slobs,|sd|3500|0
+A|but you know, there are also people out there that are really doing their job.|sd|3500|0
+B|Well, that's true,|aa|3500|1
+B|they are because doctors are performing many more tests.|sv|3500|1
+B|Many of them are unnecessary,|sv|3500|1
+B|they are doing so many C sections just to prevent.|sd|3500|1
+A|Just to prevent a a law suit.|sv|3500|0
+B|Because they have all these monitors now|sd|3500|1
+B|and if anything looks even a little bit funny their only safety precaution is to go in and get that baby,|sv|3500|1
+A|Yeah.|b|3500|0
+B|and so it's costing more all around in health insurance for tests, for surgery, for longer hospital stay.|sv|3500|1
+A|Yeah.|b|3500|0
+A|Uh-huh.|b|3500|0
+A|See, I believe that there, there is a system already in place for health care.|sd|3500|0
+B|So, it's terrible.|sd|3500|1
+B|Uh-huh.|b|3500|1
+A|You know, they have indigent health care.|sv|3500|0
+A|You show up at Parkland bleeding|sd|3500|0
+B|You'll get it.|^2|3500|1
+B|That's true.|aa|3500|1
+B|In fact, you'll get it at Presbyterian if you show up there, too.|sd|3500|1
+A|Yeah.|b|3500|0
+B|And we have that happen.|sd|3500|1
+B|We have patients that go through Parkland through the clinic|sd|3500|1
+A|Uh-huh.|b|3500|0
+B|and at the last minute, they come to us.|sd|3500|1
+B|Well uh, we can't turn them away.|sd|3500|1
+A|Uh-huh|b|3500|0
+B|So,|%|3500|1
+A|Yeah,|b|3500|0
+A|I think that if you just wrote the lawyers out of the equation the problem would pretty much evaporate.|sv|3500|0
+B|Yeah.|b|3500|1
+B|I'm for that.|aa|3500|1
+B|I've been through a two year divorce where the only one that came out ahead was my lawyer,|sd|3500|1
+B|so I'd like to wipe them all out|sd|3500|1
+A|Yeah.|b|3500|0
+A|Well, I, I happen to know a few|sd|3500|0
+A|and I even claim one as a friend.|sd|3500|0
+A|He's a divorce attorney.|sd|3500|0
+A|But,|%|3500|0
+B|He better not be mine|sd|3500|1
+A|I think he'll go nameless for the, for the purposes of this conversation.|sv|3500|0
+A|But I also know an, uh, O B G Y N who has stopped practicing.|sd|3500|0
+B|Yeah,|b|3500|1
+B|some they do.|sv|3500|1
+A|Uh, he just said,|sd|3500|0
+B|They stop their O B at least.|sd|3500|1
+A|Yeah,|b|3500|0
+A|I mean, he's not going to deliver any more babies ever.|sd|3500|0
+B|Right,|b|3500|1
+B|Right.|b|3500|1
+A|His malpractice was five hundred thousand dollars a year.|sd|3500|0
+B|That's incredible.|ba|3500|1
+A|And, you know, he said, I had to, he had to gross two million to take home as much as his malpractice.|sd|3500|0
+B|Yeah.|b|3500|1
+B|And most of them are very sincere.|sv|3500|1
+B|Most of them do the best they can.|sv|3500|1
+A|Yeah|b|3500|0
+B|They are human.|sd|3500|1
+B|Occasionally something will go wrong.|sd|3500|1
+B|Well, you can be human and Catholic.|sv|3500|1
+A|I know you can be human and Catholic,|aa|3500|0
+A|but, you're not likely to find somebody who is going to, you know, have a less conscientious effort.|sv|3500|0
+B|Yeah,|b|3500|1
+B|no|nn|3500|1
+A|I mean,|%|3500|0
+B|most of them do.|sv|3500|1
+B|I really believe that.|sd|3500|1
+B|From dealing with doctors, dealing with lawyers, there is no doubt in my mind who is more conscientious.|sv|3500|1
+A|Well, you know, who is getting rich?|qw|3500|0
+A|Insurance companies.|sv|3500|0
+B|Yeah,|aa|3500|1
+B|they are.|aa|3500|1
+A|You know, if you were able to write a malpractice insurance that would negate any financial obligation on the part of the doctor over and above the insurance,|sv|3500|0
+A|say, say you have malpractice insurance and a kid dies or is malformed|sd|3500|0
+A|or,|%|3500|0

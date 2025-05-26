@@ -1,0 +1,136 @@
+A|All right.|fo_o_fw_"_by_bc|3445|0
+A|I think that gets us off to discussing the topic for tonight.|sv|3445|0
+B|Which is movies,|^2|3445|1
+B|correct?|^g|3445|1
+A|That is correct.|na|3445|0
+B|Okay.|bk|3445|1
+A|Are you a movie buff?|qy|3445|0
+B|Um, yeah.|ny|3445|1
+B|I don't like going to see them in the theaters|sd|3445|1
+B|but outside of that, rent a lot,|sd|3445|1
+B|watch them on T V mostly.|sd|3445|1
+A|Well, I have a V C R|sd|3445|0
+A|and I see most all of mine there.|sd|3445|0
+A|What have you seen recently that you enjoyed?|qw|3445|0
+B|Uh, I don't know, um,|^h|3445|1
+B|actually earlier tonight we were watching TO LIVE AND DIE IN L A.|sd|3445|1
+B|Have you seen that movie?|qy|3445|1
+A|No,|nn|3445|0
+A|I haven't.|sd|3445|0
+B|It's a kind of one of those psycho ones.|sv|3445|1
+A|Now, I, I live alone.|sd|3445|0
+A|Consequently, I don't like these psycho things.|sd|3445|0
+B|Oh, it's not too bad.|sv|3445|1
+B|One of those cop thrillers|sd|3445|1
+B|but,|%|3445|1
+A|Oh, okay.|b|3445|0
+A|Have you seen the|qy|3445|0
+A|if,|%|3445|0
+A|do you have a V C R?|qy|3445|0
+B|Yes,|ny|3445|1
+B|we do.|sd|3445|1
+A|Have you seen the movie CLASS ACTION with Gene Hackman?|qy|3445|0
+B|Uh, no,|nn|3445|1
+B|I haven't yet.|sd|3445|1
+A|I saw it this weekend|sd|3445|0
+A|and it is, uh, to me an outstanding movie.|sv|3445|0
+A|I thoroughly enjoyed it.|sd|3445|0
+A|He is, uh, an attorney and his daughter is an attorney|sd|3445|0
+A|and she has a suit against his company.|sd|3445|0
+A|You know, it's one of those things.|sd|3445|0
+B|Yeah,|b|3445|1
+B|that,|%|3445|1
+A|But there's a lot of|%|3445|0
+A|well, it's just it's something that anyone can watch and enjoy.|sv|3445|0
+B|He's a good actor though.|sv|3445|1
+A|Beg your pardon?|br|3445|0
+B|Um, Gene Hackman's a good actor.  I think.|sv|3445|1
+A|Yes,|aa|3445|0
+A|he is.|sv|3445|0
+B|Do you see HOOSIERS?|qy|3445|1
+A|Yes.|ny|3445|0
+A|I've seen HOOSIERS.|sd|3445|0
+A|Saw it just again the other night, for,|sd|3445|0
+B|Yeah,|b|3445|1
+B|actually I, we saw her just the other night too.|sd|3445|1
+A|Oh, did you?|bh|3445|0
+B|Yeah.|ny|3445|1
+B|It's one of our favorite movies.|sd|3445|1
+B|I, I live with, um, a roommate and my girlfriend the three of us.|sd|3445|1
+B|We've seen that movie probably six times in the last six months.|sd|3445|1
+A|Have you seen the movie, um, CROSSING DELANCY?|qy|3445|0
+B|Yeah.|ny|3445|1
+A|Now, that's one I have watched, oh, six or eight times.|sd|3445|0
+A|I always feel so good when I get through with that movie.|sd|3445|0
+B|Yeah,|b|3445|1
+B|I like those movies that you watch time and time again.|sd|3445|1
+A|I do too.|sd|3445|0
+A|DIRTY DANCING and CROSSING DELANCY are two of my favorite.|sd|3445|0
+A|So, well what business are you in?|qw|3445|0
+B|I'm, I'm an electrical engineer.|sd|3445|1
+A|Oh.|b|3445|0
+A|In New Hampshire.|qy^d|3445|0
+A|All right.|bk|3445|0
+B|I work in Massachusetts actually.|sd|3445|1
+A|Oh, all right.|bk|3445|0
+A|Okay.|b|3445|0
+A|So is everything going all right up there?|qy|3445|0
+B|Um, it's only about, um, half an hour.|sd|3445|1
+B|I live on the border.|sd|3445|1
+A|Oh, well that's that bad then.|sv|3445|0
+A|Half an hour, we do that just going to downtown Dallas.|sd|3445|0
+B|That's right.|aa|3445|1
+A|So,|%|3445|0
+B|See we live up in tax free New Hampshire and drive down to Massachusetts to work.|sd|3445|1
+A|That makes a lot of sense|sv|3445|0
+A|But, um, we,|%|3445|0
+A|are you a native of that part of the country?|qy|3445|0
+B|Yeah,|ny|3445|1
+B|I grew up in New Hampshire.|sd|3445|1
+B|It seems, southern town,|sd|3445|1
+B|it's called|sd|3445|1
+B|It's, I don't know, fifteen minutes from the border and five minutes from the main border. *main = Maine?|sd|3445|1
+B|We live right in the corner.|sd|3445|1
+A|Oh.|b|3445|0
+B|That one little spot in New Hampshire, we have ten miles of coastline,|sd|3445|1
+B|I live on one of that little ten mile spot.|sd|3445|1
+A|Uh, sounds wonderful.|ba|3445|0
+A|Did you have damage this year with hurricanes?|qy|3445|0
+B|Not up, um, where I live|ng|3445|1
+B|but further down the coast in Massachusetts they got hit pretty bad.|sd|3445|1
+A|I happened to be in Nassau|sd|3445|0
+A|and we got the backlash of that thing.|sd|3445|0
+A|And they had record high waves, thirty year high waves come in there,|sd|3445|0
+A|and it was quite an experience|sd|3445|0
+A|so.|%|3445|0
+A|Well, what movies are you looking forward to seeing now?|qw|3445|0
+B|Um, well, I'm, I'm only twenty-seven years old|^h|3445|1
+B|so THE DOORS movie, that's out on video. I want to watch that.|sd|3445|1
+A|Okay.|bk|3445|0
+A|Have you seen GREEN CARD?|qy|3445|0
+B|That would be pretty good.|sv|3445|1
+B|No,|nn|3445|1
+B|I haven't seen that one.|sd|3445|1
+A|That's a real warm movie.|sv|3445|0
+A|It, it really just turned out nicely.|sv|3445|0
+A|So I would recommend that if you have a chance.|sd|3445|0
+B|I'm in for it.|sd|3445|1
+B|We rent a lot of movies|sd|3445|1
+B|so we, we often sit around and say, what movies should we rent?|sd|3445|1
+B|And we don't know.|sd|3445|1
+A|Well if you, if you can get GREEN CARD, go for it.|ad|3445|0
+B|All right,|aa|3445|1
+B|we'll try that one.|sd|3445|1
+A|I have been working at, uh, as an accountant at the medical school here in Dallas|sd|3445|0
+A|and I have watched, uh, GROSS ANATOMY.|sd|3445|0
+A|Have you seen that one?|qy|3445|0
+B|Yeah,|ny|3445|1
+B|I did.|sd|3445|1
+A|Okay.|bk|3445|0
+A|And I don't know|h|3445|0
+A|I can associate with some of the people in that movie because of the young students I see over at the medical school.|sd|3445|0
+A|But I hope you have a very Merry Christmas.|sd|3445|0
+B|You too.|sd|3445|1
+A|I'm looking forward to it.|sd|3445|0
+B|I think we're going to have a white Christmas up here just like the song says.|sv|3445|1
+A|Well,|%|3445|0

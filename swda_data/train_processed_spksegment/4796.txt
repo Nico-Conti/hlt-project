@@ -1,0 +1,95 @@
+A|Okay Randall, uh, uh,|fo_o_fw_"_by_bc|4796|0
+A|do you have any special interest in, uh, space flight?|qy|4796|0
+B|Oh yeah.|ny|4796|1
+B|Ever since I was a young and, uh, used to watch the old, uh, Apollo missions going off in, uh, classroom T V|sd|4796|1
+A|Uh-huh|b|4796|0
+B|Uh, I suspect a lot of people, uh, uh, got, uh, turned on by watching, watching those go off.|sv|4796|1
+A|Uh-huh.|b|4796|0
+B|Uh, very exciting.|sv|4796|1
+A|Yeah.|b|4796|0
+B|The, uh, uh,|%|4796|1
+B|I've I've always, uh, wanted very much, uh, to, uh, be somehow involved in all that. And, uh, to, uh, meet and, and to see, see it actually happen.|sd|4796|1
+A|Uh-huh.|b|4796|0
+B|Of course, I've really wanted to actually manage to get into space someday.|sd|4796|1
+A|Uh-huh.|b|4796|0
+B|But, uh, that seems rather unlikely at this point, unfortunately.|sd|4796|1
+A|What do you do now?|qw|4796|0
+B|Uh, computer programmer|sd|4796|1
+A|Oh.|b|4796|0
+B|Unfortunately, that can be done from the ground|sd|4796|1
+A|Yeah.|b|4796|0
+A|To bad, huh. *spelling: too|ba|4796|0
+B|Yeah.|aa|4796|1
+B|Made the wrong, wrong career choice to get up into space|sd|4796|1
+B|The, uh, uh,|%|4796|1
+B|I used to think when I was, when I was younger that, uh, by this time we'd have lots more in stuff in space than we do now.|sd|4796|1
+A|Uh-huh,|b|4796|0
+A|uh-huh.|b|4796|0
+B|Uh, frustrating at times.|sd|4796|1
+A|Uh-huh.|b|4796|0
+B|I don't know what you think about all that.|qw^d|4796|1
+A|Well, uh, I, uh, I'm kind of young.|sd|4796|0
+A|I'm only twenty-two|sd|4796|0
+A|and so, uh, uh, I'm not, you know,|%|4796|0
+A|there's a lot that's happened in my lifetime as far as, uh, you know, with the space shuttle and all. Although plans to, uh, go to other planets have somewhat been thwarted in comparison to, uh, the sixties.|sd|4796|0
+B|Uh-huh.|b|4796|1
+A|Uh, although I have a and whatnot,|%|4796|0
+B|Yeah. Yeah.|b|4796|1
+A|it would be great  if we could find some way to, to, uh, use that to boost the economy.|sv|4796|0
+B|Well, the, uh, uh,|%|4796|1
+B|I've always, uh, felt that, uh, uh, one of the long-term solutions that, at least a few of our problems would be to have, uh, some sort of, uh, solar power satellites up.|sv|4796|1
+A|Uh-huh.|b|4796|0
+B|Uh, because that's a, uh, you know, in singularly renewable resource that doesn't do it, that doesn't require, uh, uh, any particularly nasty environment impact.|sd|4796|1
+A|Exactly.|aa|4796|0
+B|And you can just get as much power as you need up there.|sd|4796|1
+A|Uh-huh.|b|4796|0
+B|It's just a matter of how big you build it.|sd|4796|1
+A|Uh-huh.|b|4796|0
+B|Uh, and, of course, the side effects of this is that you have to have, uh, lunar mining bases and space stations and easy transport into space and no things that I think we should be doing.|sv|4796|1
+B|So the side effects of doing that which I think would be good, you know, very, very good for for everyone in the long run is, uh, is it, some of the other things I'd like to see happen would happen also,|sv|4796|1
+B|so I'm,|%|4796|1
+A|Right.|aa|4796|0
+A|Yeah.|aa|4796|0
+A|It seems like, uh, there's,|%|4796|0
+A|so you're talking about positive side effects then.|bf|4796|0
+B|Yeah,|aa|4796|1
+B|right.|aa|4796|1
+A|Okay,|bk|4796|0
+A|I understand.|sd|4796|0
+B|Right. Right.|b|4796|1
+A|Sure,|ba|4796|0
+A|that makes a lot of sense.|ba|4796|0
+B|The only problem is, of course, that, uh, that requires significant commitment from people to actually decide they want to put things like that up there.|sv|4796|1
+A|Uh-huh.|b|4796|0
+A|Yeah.|b|4796|0
+B|And they want to do the research|sv|4796|1
+B|and  uh, they're all you know,|%|4796|1
+A|Yeah.|b|4796|0
+B|the only commitments that they're interested in making or even talking about are ones for flash value like, uh, the trip to Mars. Which is, would, would produce some useful scientific research and so forth,|sv|4796|1
+A|Right,|aa|4796|0
+A|exactly.|aa|4796|0
+B|but the same money could probably be far better spent on, uh, uh, lunar bases and solar power satellite research and, you know, so forth.|sv|4796|1
+A|Uh-huh.|b|4796|0
+B|It, it would it would be being done for the, uh, glitz and show factor to get politician votes instead of, instead of for, you know,|sv|4796|1
+A|Uh-huh.|b|4796|0
+B|we should eventually send someone, people to Mars but not just because it's glitzy to do so.|sv|4796|1
+A|Right.|b|4796|0
+B|We should do it because, for, for the return we get for it.|sv|4796|1
+A|Uh-huh.|b|4796|0
+B|And, uh, unfortunately, that's not what I thinks happened *listen|sv|4796|1
+A|Exactly.|aa|4796|0
+A|Least not,|%|4796|0
+B|I, I would settle for the for the glitz if the side effects were useful, like the, uh,|sd|4796|1
+B|but, uh|%|4796|1
+A|Yeah.|b|4796|0
+B|the downside of that is you, after you do one of those, people say well we did it.|sv|4796|1
+A|Right.|b|4796|0
+B|Now let's now we're done|sv|4796|1
+A|Now we're done.|^2|4796|0
+B|No need to use this to play around with this space stuff anymore.|sv|4796|1
+B|That's what happened with Apollo. But, uh, I'd give almost anything to get into space *sd|sv|4796|1
+A|Yeah.|aa|4796|0
+A|I think you're right.|aa|4796|0
+A|I would too.|aa|4796|0
+A|I'd, I'd, uh,|%|4796|0
+A|was it John Denver that that tried to buy his way on to the space shuttle?|qy|4796|0

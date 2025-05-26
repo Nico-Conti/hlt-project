@@ -1,0 +1,123 @@
+A|Been on the line for awhile.|sd|4774|0
+A|I almost forgot what the topic was.|sd|4774|0
+B|Okay.|b|4774|1
+B|Uh, based,|%|4774|1
+A|Uh, but I know what it is.|sd|4774|0
+B|Oh, okay.|b|4774|1
+B|Good.|ba|4774|1
+A|Uh, let me see.|^h|4774|0
+A|I, I, I, I, I'm kind of,|%|4774|0
+A|I don't,|%|4774|0
+A|you know, I'm, I'm kind of in the middle.|sd|4774|0
+A|I, I think it's a great idea|sv|4774|0
+B|Uh-huh.|b|4774|1
+A|but when it comes to me, it's like, almost an insult, you know,|sv|4774|0
+A|so it's|%|4774|0
+A|I, I've come from the teaching field.|sd|4774|0
+B|Right.|aa|4774|1
+B|So do I|sd|4774|1
+A|So, so it's just like I don't know. I, I guess, I guess I'd have to go with, uh,|sd|4774|0
+B|Uh-huh.|b|4774|1
+A|But I, I, I would, I would probably go for, for going ahead and doing it, you know. If it's got to be done for everyone.|sv|4774|0
+B|Right.|aa|4774|1
+B|I think if it's got to be done for one person in the company, it should be random testing, it should be for everybody.|sv|4774|1
+A|Right.|b|4774|0
+B|You know, when they answer the company, I think it'll make it a lot easier|sv|4774|1
+A|Right.|b|4774|0
+A|Yeah.|b|4774|0
+B|I don't know, I come from the teaching field too|sd|4774|1
+B|and it sort of, uh,|%|4774|1
+B|it's a pro and a con|sv|4774|1
+B|I don't know where to stand on it.|h|4774|1
+A|Yeah.|b|4774|0
+B|I'm more or less, if they told me I had to well then fine,|sd|4774|1
+B|but  if, you know, if they made me then I'd probably,|sd|4774|1
+A|Yeah.|b|4774|0
+B|if I had my druthers I'd probably say well no|sd|4774|1
+B|you know just this,|sd|4774|1
+A|Yeah.|b|4774|0
+A|You kind of goes into your privacy|^2|4774|0
+A|and you know, but I guess if they,|sd|4774|0
+B|Right.|aa|4774|1
+A|you know, you know, there's, uh,|%|4774|0
+A|I guess there's some companies that aren't, that are doing it.|sd|4774|0
+B|Uh-huh.|b|4774|1
+A|And it, it seems to be working out|sv|4774|0
+A|so,|%|4774|0
+B|Yeah,|b|4774|1
+A|Yeah.|b|4774|0
+A|Right.|b|4774|0
+B|And, uh, anybody who, uh, gee, is, you know, doesn't accept the rehab program then they're, more or less, getting laid off.|sd|4774|1
+A|See, that's hard.|fo_o_fw_"_by_bc|4774|0
+B|that's a,|%|4774|1
+B|it's really weird issue.|sv|4774|1
+B|I'm sort of  on the fence about it.|sv|4774|1
+A|Yeah.|b|4774|0
+A|Yeah.|b|4774|0
+B|But I,|%|4774|1
+B|you know, that, that's what's they're coming across as is some of the companies anyhow.|sv|4774|1
+B|Oh, we can get you into a drug program.|^q|4774|1
+B|But then you wear that stigma you know|sv|4774|1
+A|Yeah.|b|4774|0
+A|Yeah.|b|4774|0
+A|Yeah.|b|4774|0
+B|yeah.|%|4774|1
+A|Then I kind of hear it goes into like, uh,|sd|4774|0
+B|Right.|aa|4774|1
+B|Anything with a,|^2|4774|1
+B|you know, if you drink a lot of caffeine or,|^2|4774|1
+A|Oh, I didn't know that.|sd|4774|0
+B|Yeah,|b|4774|1
+B|somebody was saying, telling me if you drink it in, you know, an awful lot of caffeine, that that can show up as a positive test.|sv|4774|1
+A|Um.|b|4774|0
+B|I know I'm an epileptic|sd|4774|1
+B|so I'd probably test positive and  and then I'd have a heck of a time explaining what drug is in my system, you know|sv|4774|1
+A|Yeah.|aa|4774|0
+A|See things like that|sv|4774|0
+A|so,|%|4774|0
+A|Yeah.|b|4774|0
+B|And a lot of times, those are the things I don't like to disclose to an employer because then they don't want to have anything to do with you|sv|4774|1
+A|Right,|aa|4774|0
+A|right.|aa|4774|0
+A|Uh-huh.|b|4774|0
+B|You know, it's very personal.|sd|4774|1
+B|I wouldn't want to have it disclosed because  then I'd always wonder if they fired me, you know, why did you fire me|sd|4774|1
+A|See that's,|%|4774|0
+A|Yeah.|b|4774|0
+A|That's where I kind of get into,|sv|4774|0
+A|cause it kind of gets into your personal life, you know.|sv|4774|0
+A|And what's kind of next.|qh|4774|0
+B|Uh-huh.|b|4774|1
+B|Yeah.|b|4774|1
+A|The what?|br|4774|0
+B|Orwell.|sd|4774|1
+A|Huh.|b|4774|0
+A|Oh.|b|4774|0
+A|Yeah.|b|4774|0
+B|and I|%|4774|1
+B|I'd hate to have to,|sv|4774|1
+B|if I had my choice between a company that did testing and a company who didn't|sv|4774|1
+A|Right.|aa|4774|0
+A|Yeah|b|4774|0
+A|Right.|aa|4774|0
+B|But I can understand why they need it with all the, you know, train accidents and everything else.|sd|4774|1
+A|So do you think they'll kind of push into the teaching field eventually?|qy|4774|0
+A|I kind of think they will.|na|4774|0
+B|I think they will too because, uh, you know, it's just going to follow.|na|4774|1
+A|Yeah.|b|4774|0
+B|I don't know. I, we haven't had any of it in our school system.|sd|4774|1
+B|So, uh, you know  hopefully, we won't|sd|4774|1
+A|Yeah.|b|4774|0
+A|We haven't either.|sd|4774|0
+A|Yeah.|b|4774|0
+A|But I, I, I just kind of think it's heading that way though, you know. It's just, because it's just hitting to close to home with the kids and stuff|sv|4774|0
+A|and I just I just kind of think it's going to eventually head that way.|sv|4774|0
+B|Right.|b|4774|1
+B|Well and eventually it's going to be not only the|aa|4774|1
+B|you know, the kids are  going to be under scrutiny, it's going to be the teachers.|sv|4774|1
+A|Yeah.|b|4774|0
+A|Right.|b|4774|0
+B|And if they can test the teachers, that gives them the full right to test the kids.|sv|4774|1
+A|Right.|b|4774|0
+B|And then they, you know, caught everybody.|sv|4774|1
+A|Yeah|b|4774|0

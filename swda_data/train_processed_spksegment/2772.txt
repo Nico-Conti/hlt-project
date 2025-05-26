@@ -1,0 +1,266 @@
+A|All right.|fo_o_fw_"_by_bc|2772|0
+B|Okay.|b|2772|1
+B|Well, I can go ahead and start and tell you mine|ad|2772|1
+B|and,|%|2772|1
+A|Okay.|aa|2772|0
+B|We're from San Antonio|sd|2772|1
+B|and that's where I grew up,|sd|2772|1
+A|Oh,|%|2772|0
+B|So I was used to the heat, out here right now,|sd|2772|1
+A|Yeah.|b|2772|0
+B|Gosh, it gets to about seventies, high seventies|sd|2772|1
+B|and it gets very cold at night.|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|And Monterey it's, um, right on the coast.|sd|2772|1
+B|And, I don't know if your familiar with California coastline, *your you're|sd|2772|1
+B|but we're we're about two hours, about a two hour drive south of San Francisco,|sd|2772|1
+A|Oh, okay.|bk|2772|0
+B|And it's, uh, really nice.|sd|2772|1
+B|It's a big area for people to come from the different, uh, countries, mostly like Japan, Germany and England.|sd|2772|1
+B|And they usually go to Carmel and vacation on the beaches,|sd|2772|1
+B|so it's, it's pretty nice, uh, year round.|sd|2772|1
+B|But, uh, cool, always cool in the evenings. And warm, warm in the Summer,|sd|2772|1
+B|but it's stays pretty cold even, uh, during the Winter, for as nice as it is.|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|And, um, we usually get a fog. Uh, right about, I guess, about four o'clock|sd|2772|1
+B|and it kind of rolls in over the coast.|sd|2772|1
+B|And, uh, then it usually breaks back off again the next morning.|sd|2772|1
+B|And if you go just a little bit ways in, I'd say about a fifteen minute drive in towards Salinas,  uh, the weather completely changes|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|and it gets very hot and dry|sd|2772|1
+B|and the fog never makes it that far.|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|But along here it's, uh, very very different from the Texas type weather.|sd|2772|1
+B|What's it like down there?|qw|2772|1
+A|Well, right now we're we're having the little bit of Spring that we have.|sd|2772|0
+B|Oh, really,|b|2772|1
+B|well at least you've got some|sv|2772|1
+A|We don't have many seasons here.|sd|2772|0
+A|It goes from Winter to Summer, usually.|sd|2772|0
+B|Uh-huh.|b|2772|1
+A|Spring usually consists of a lot of rain. Especially thunderstorms.|sd|2772|0
+A|We've got, we had one of those blow through tonight.|sd|2772|0
+B|Oh, well, that's good.|ba|2772|1
+A|And I think we got the same thing in the forecast for the next two or three days.|sd|2772|0
+B|Uh-huh.|b|2772|1
+A|So.|%|2772|0
+B|Have y'all been having any heat waves or like the ninety degree,|qy|2772|1
+A|It's gotten up to, uh, ninety a couple of times.|sd|2772|0
+B|Uh-huh.|b|2772|1
+A|But, basically, it's been in the low seventies and eighties.|sd|2772|0
+B|Uh-huh.|b|2772|1
+B|Women, that's good. For this time of year.|sv|2772|1
+A|Yeah.|aa|2772|0
+A|It's not really been too bad.|sd|2772|0
+B|Uh-huh.|b|2772|1
+A|Usually it sneaks on into the nineties a little earlier.|sd|2772|0
+B|Uh-huh.|b|2772|1
+B|So do y'all have many bluebonnets and stuff this year?|qy|2772|1
+A|Yeah,|ny|2772|0
+A|quite a bit.|sd|2772|0
+B|Oh, Uh-huh.|b|2772|1
+A|Well, the season is just about over for that,|sd|2772|0
+A|uh, in fact we drove down to Corpus last week|sd|2772|0
+B|Uh-huh.|b|2772|1
+A|and, uh, there were still some paint brushes and bluebonnets down along the way.|sd|2772|0
+B|Oh, I miss that|sd|2772|1
+A|drove through San Antonio|sd|2772|0
+A|and I spoke to somebody else this morning from San Antonio|sd|2772|0
+A|and were,|%|2772|0
+A|they had,|%|2772|0
+A|and we came back.|sd|2772|0
+A|What day was that, Sunday evening,|t1|2772|0
+A|and they had a big rainstorm come through there, part of the same thing we're getting now, I guess.|sd|2772|0
+B|Oh. Oh, well that's real nice because I can remember two years ago that in about February the hundred degree weather started in San Antonio and just continued.|sd|2772|1
+B|At least y'all are getting some rain up in Dallas.|sd|2772|1
+B|I'm glad to hear that|sd|2772|1
+A|Yeah.|b|2772|0
+A|That's the second or third year in a row that we've had a real rainy Spring.|sd|2772|0
+B|Uh-huh.|b|2772|1
+A|We had a pretty rainy Fall last year, as well.|sd|2772|0
+B|Y'all weren't getting any of the strings of the tornadoes and stuff were you?|qy|2772|1
+A|Um, we've had a few down here, but not anything like Kansas.|sd|2772|0
+B|Uh-huh.|b|2772|1
+A|But this is the season for that.|sd|2772|0
+B|Oh, gosh.|ba|2772|1
+A|They do, they do pop up occasionally,  around here.|sd|2772|0
+B|Uh-huh.|b|2772|1
+B|Oh Yeah.|b|2772|1
+B|I really don't miss all the heat there.|sd|2772|1
+A|Yeah.|b|2772|0
+B|I'm getting acclimated to have the cool evenings|sd|2772|1
+B|so we get a bit of a relief.|sd|2772|1
+A|Yeah.|b|2772|0
+A|I'm from here originally,|sd|2772|0
+A|so when it's July and August, I'm pretty well used to the,  hundred degree temperatures.|sd|2772|0
+B|Uh-huh.|b|2772|1
+B|Uh-huh.|b|2772|1
+B|Yeah|b|2772|1
+A|The biggest problem with, with the weather and the rain in this area is the soil.|sd|2772|0
+A|It's that black clay soil.|sd|2772|0
+B|Oh. Is that what Dallas is,|qy|2772|1
+B|okay.|fo_o_fw_"_by_bc|2772|1
+B|Yeah.|%|2772|1
+A|You know, it's not sandy like most of the state is,|sd|2772|0
+A|so it doesn't absorb the water real well.|sd|2772|0
+B|Uh-huh.|b|2772|1
+A|You know, once it rains a little bit, it's, it's filled up and everything else just runs off,|sd|2772|0
+B|Uh-huh.|b|2772|1
+A|you know.|fo_o_fw_"_by_bc|2772|0
+B|Yeah.|b|2772|1
+B|San Antonio has that same problem when the rains come.|sd|2772|1
+B|It's, it's a complete mess, everything floods, all the under passes.|sd|2772|1
+A|Yeah.|b|2772|0
+B|I didn't realize that Dallas had that same problem.|qy^d|2772|1
+A|Yeah.|ny|2772|0
+A|We have it,|sd|2772|0
+A|especially as rainy as it's been in the last couple of years.|sd|2772|0
+A|And there's a section in South Dallas that's had a whole lot of flooding problems because of the rain.|sd|2772|0
+B|Uh-huh.|b|2772|1
+B|Well, we could use some rain up here.|sd|2772|1
+B|We're like in the bottom of the fourth year of drought,  up here|sd|2772|1
+A|Really.|b|2772|0
+B|and they had a pretty good early Spring|sd|2772|1
+B|and we got quite a bit of rain,|sd|2772|1
+B|but it wasn't enough to offset what they lost over the last four years.|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|And, uh, so they're still talking water rationing this Summer,|sd|2772|1
+B|so it would seem strange because in San Antonio,|sd|2772|1
+B|we had lived out, um, west of San Antonio, in Castroville,|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|And the water in Medina Lake and that area was really going down, that they were considering that they might have to do water rationing|sd|2772|1
+B|and I thought oh, gee I'm so glad to get out of there and get up here to the California Pacific coast where it rains and everything has flowers|sd|2772|1
+B|and there's no problem with water.|^q|2772|1
+B|And then I came here and found out they were in the, you know, four year draught|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|So I said, well, gee, this is pretty much like Texas.|sd|2772|1
+B|And it pretty much is in the middle of Summer.|sd|2772|1
+B|They have rolling hills around here|sd|2772|1
+B|but,  um, they turn to golden dead grass,  for the majority of the Summer just because there is no water to keep them green.|sd|2772|1
+A|Uh-huh.|b|2772|0
+A|Uh-huh.|b|2772|0
+A|Yeah.|b|2772|0
+B|But, um, it's a really nice area.|sd|2772|1
+B|It's just, it's just such a change from, uh, Texas because I had grown up with, uh, the heat,|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|and used to essentially,|sd|2772|1
+B|like you said, you have the cold Winter|sd|2772|1
+B|and then you have the hot Summer Spring|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|And, uh, to come here, it's kind of the temperate weather all year round.|sd|2772|1
+B|It's kind of like, uh, Spring, I guess, if you, year round, except,|sd|2772|1
+B|and then in the Winter|sd|2772|1
+B|and then it seems sort of like a San Antonio early Winter or Fall,  year-round.|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|So it seems like we only have two Springs which is, or two seasons|sd|2772|1
+B|and that would be Spring and Fall.|sd|2772|1
+A|Yeah.|b|2772|0
+B|We never really get any of the other ones.|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|But it's a really nice, uh, change of pace.|sd|2772|1
+A|I guess I'd prefer that|sd|2772|0
+B|Yeah.|b|2772|1
+B|To the heat.|^2|2772|1
+B|I really don't miss the heat.|sd|2772|1
+A|Yeah.|b|2772|0
+B|Um, we do a lot of, you know,|sd|2772|1
+B|when you do a lot of outside, like running and stuff, it's just so much easier,  up here|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|and you don't have to worry about the high humidity.|sd|2772|1
+A|Yeah.|b|2772|0
+B|Does Dallas get high humidity?|qy|2772|1
+B|Or is it pretty dry.|qrr|2772|1
+A|It's pretty dry.|sd|2772|0
+A|We get some when it's this rainy,|sd|2772|0
+A|but it's nothing like, I guess, San Antonio Summers,|sd|2772|0
+A|it's nothing like Houston.|sd|2772|0
+B|Uh-huh.|b|2772|1
+A|or East Texas, is a little more humid.|sd|2772|0
+B|Yeah.|b|2772|1
+B|It seems like San Antonio is increasing in humidity over the years,|sd|2772|1
+B|because I had lived in San Antonio for about twenty years,|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|and it just seemed like every year it just got more and more humid, more and more humid And here it's, uh, well it's right by the ocean,|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|but, um, it's not the same as Corpus.|sd|2772|1
+B|Corpus, you get that humid salty feeling in the air.|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|But here, um, well the water is extremely cold, up here,|sd|2772|1
+B|you can lay on the beach all you want,|sd|2772|1
+B|but if you want to go wind suffering or diving or swimming, you have to wear a wet suit. And a thick wet suit at that, because it's just extremely cold|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|and I,|%|2772|1
+B|for some reason, because of the cold, uh, ocean, uh, water, the air is always cool.|sd|2772|1
+B|It's never humid or sticky or salty feeling,|sd|2772|1
+B|so I really like that about this area.|sd|2772|1
+B|And, uh, we just hadn't expected it,|sd|2772|1
+B|we were used to, what, uh, gulf coast weather was like,  when we came here to Pacific coast weather.|sd|2772|1
+A|Yeah.|b|2772|0
+B|It's just completely different|sd|2772|1
+B|and it's much nicer.|sd|2772|1
+A|Yeah.|b|2772|0
+A|Probably the Pacific breezes make a lot of difference,|bf|2772|0
+B|Uh-huh.|aa|2772|1
+B|It does|sd|2772|1
+B|and the air doesn't feel anything like it does along the gulf coast region.|sd|2772|1
+B|But you, um,|%|2772|1
+B|but we like it|sd|2772|1
+B|so it's a nice change.|sd|2772|1
+B|So we'll be here a couple of years|sd|2772|1
+B|and we thought well, we'll take advantage of it and see what all the Pacific coast is like.|sd|2772|1
+A|That's nice.|ba|2772|0
+B|So it's been good.|sd|2772|1
+A|Well, my wife's originally from Virginia|sd|2772|0
+A|and we lived there for about nine months|sd|2772|0
+A|and that was a real change for me.|sd|2772|0
+B|Oh, I imagine.|ba|2772|1
+B|Virginia, I imagine, gets real humid, doesn't it?|qy|2772|1
+A|Um, parts do.|sd|2772|0
+A|We, we're over in the western edge in the mountains.|sd|2772|0
+B|Oh.|b|2772|1
+A|And, they have, of course, some pretty severe storms, Winter storms, snow and that type of thing.|sd|2772|0
+B|Uh-huh.|b|2772|1
+A|But they're so good about clearing the roads, that, you know, it doesn't usually bother you very much.|sd|2772|0
+B|Uh-huh.|b|2772|1
+B|Yeah|b|2772|1
+B|Not like Texas where everything comes to a stand still.|bf|2772|1
+A|Yeah.|aa|2772|0
+A|Their Springs and Summers are pretty mild, too.|sd|2772|0
+A|It never gets real, real hot.|sd|2772|0
+B|Uh-huh.|b|2772|1
+B|I'll have to try that out because I had heard that North Carolina was sort of like that.|sd|2772|1
+A|Uh-huh.|b|2772|0
+B|And, uh, I've just never really been in that region of the country|sd|2772|1
+B|and I guess I'm going to have to try that area sometime and see what it's like.|sd|2772|1
+B|Because a lot of people that are from that North Carolina region really like it.|sd|2772|1
+B|And, uh, they get the snow,|sd|2772|1
+B|but they said it doesn't really get messy|sd|2772|1
+B|and it doesn't really hang around that long.|sd|2772|1
+A|Yeah.|b|2772|0
+B|So, they, the people I know that are from there, uh, they always miss it|sd|2772|1
+B|and they want to go back|sd|2772|1
+B|Nothing seems quite as good.|sd|2772|1
+B|But, anyway. Well,|%|2772|1
+A|Well, as we were talking the weather came on|sd|2772|0
+A|and there's a flash flood watch and,  more rain for the next three or four days.|sd|2772|0
+B|Oh, gee-whiz.|ba|2772|1
+B|Oh, gosh.|ba|2772|1
+B|Well, I hope it moves up this way,|sd|2772|1
+B|but I'm sure it won't|sv|2772|1
+A|Yeah.|b|2772|0
+A|Maybe we can send you some|sd|2772|0
+B|Yeah.|b|2772|1
+B|Because we could sure use it.|sd|2772|1
+B|Well, you think that takes care of the time and,|qy|2772|1
+A|I think that will do it.|na|2772|0
+B|Okay.|aa|2772|1
+B|Well, I sure appreciate hearing how things are going in Texas and, uh,|fc|2772|1
+A|Well, I enjoyed talking with you Lisa,|fc|2772|0
+B|Yeah.|fc|2772|1
+B|Good luck to you.|fc|2772|1
+A|Uh-huh.|fc|2772|0
+A|You, too.|fc|2772|0
+B|Okay.|fc|2772|1
+B|We'll see you.|fc|2772|1
+A|Bye.|fc|2772|0
+B|Bye.|fc|2772|1

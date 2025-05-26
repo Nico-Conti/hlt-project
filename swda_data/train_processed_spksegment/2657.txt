@@ -1,0 +1,202 @@
+A|Huh?|br|2657|0
+A|Okay.|b|2657|0
+B|I don't know how much I know about this subject|h|2657|1
+A|Well, I don't know if I know anything or not,|h|2657|0
+B|Yeah.|b|2657|1
+A|but I've, I've got some opinions on it.|sd|2657|0
+B|Okay.|b|2657|1
+B|Go ahead.|ad|2657|1
+A|See those type of people that, that have the most opinions, ones that don't know anything|sv|2657|0
+B|Yeah|b|2657|1
+A|Well, uh, I've had teenagers|sd|2657|0
+A|and I now have grandchildren that are teenagers,|sd|2657|0
+A|and I don't know that it might do them a little bit of good to see the world from a different perspective.|sd|2657|0
+A|Uh, I think this "me" generation has gone far too far.|sv|2657|0
+A|And the young people are overly impressed.|sv|2657|0
+A|And I think it wouldn't hurt them to step back from themselves just slightly and see things from a far more disadvantaged viewpoint.|sv|2657|0
+B|That's true.|ba|2657|1
+A|Uh, I personally know nothing about the Peace Corps though.|sd|2657|0
+B|Um, me either.|sd|2657|1
+B|I, I went to college and then started working and then got married|sd|2657|1
+B|and,|%|2657|1
+A|But they have,|%|2657|0
+A|I read somewhere,|sd|2657|0
+A|and I'm, I'm out on a limb here, some type of college, uh, volunteer work for teachers, that they are straight out of college|sd|2657|0
+A|and they do one year of volunteer work teaching in the, uh, lower income brackets of the United States.|sd|2657|0
+A|Have you ever heard about that one?|qy|2657|0
+B|No,|nn|2657|1
+B|I haven't,|sd|2657|1
+B|I know that, uh, my sister,|sd|2657|1
+B|I have a twin sister|sd|2657|1
+B|and when they graduated she went to, uh, teach in a small town down in south Texas|sd|2657|1
+B|and I know, that like if you have college notes, if you teach in a lower income bracket where they don't pay as much and they cancel part of your, you know, your college note or whatever.|sd|2657|1
+A|Oh, really?|bh|2657|0
+B|Uh-huh.|ny|2657|1
+B|If it's like, you know, really a, you know, a lower paying job, you know, where in a small town you don't obviously you don't need as much as far as to, you know, to live.|sd|2657|1
+A|And this is money that she's borrowed to form her college education?|qy^d|2657|0
+B|Yeah,|ny|2657|1
+B|she only taught there one year|sd|2657|1
+B|but I,|%|2657|1
+A|But she got credits for it?|qy^d|2657|0
+B|Uh-huh.|ny|2657|1
+A|That's very interesting.|ba|2657|0
+B|And, um, I think it would be,|%|2657|1
+B|I know that also one of my cousins who, uh, he is in like the therapy type thing|sd|2657|1
+B|and he was, um,|%|2657|1
+B|some group paid part of his college income|sd|2657|1
+B|but then he was required to go back and work for a certain number of years in this town at, uh, uh,|sd|2657|1
+B|I mean, it's a nursing home or something like that.|sd|2657|1
+A|Huh.|b|2657|0
+B|So, you know, if,|%|2657|1
+B|I think that's a good way for people to, you know, maybe get people to come back to these small towns to work by helping people that normally might not be able to go to college and get the type of degree they want.|sv|2657|1
+A|Yeah,|aa|2657|0
+A|I think that is an excellent program,|sv|2657|0
+A|I really do.|sv|2657|0
+A|I like that.|sd|2657|0
+A|And it's, it's beneficial to the small towns too because, they really, really have, have a disadvantage that we wouldn't understand because we're in the Metroplex.|sv|2657|0
+B|Yeah.|b|2657|1
+B|As far as yeah, getting doctors and all that stuff, yeah.|^2|2657|1
+A|Right,|aa|2657|0
+A|you know, if, if we had some really major health problem that required a specialist, we could find one it wouldn't be convenient,|sd|2657|0
+B|Yeah.|b|2657|1
+A|but we could find one.|sd|2657|0
+B|Uh-huh.|b|2657|1
+A|We wouldn't have to drive and spend the night someplace or something like that.|sd|2657|0
+B|Yeah.|b|2657|1
+A|So, I, I can see the advantage to that one.|sd|2657|0
+A|The Peace Corps itself is really a, uh, dying out, isn't it?|qy|2657|0
+B|I really don't know that much about it,|sd|2657|1
+B|you know, I, I, I think of the Peace Corps, you know, more like the sixties and that kind of stuff when,|sd|2657|1
+A|It's still in existence.|sd|2657|0
+B|Yeah.|b|2657|1
+B|And don't they go into other countries and stuff?|qy|2657|1
+A|I want to believe they go into other countries and teach them how to do things like farm, uh, dig their own wells, set up, their schools.|na|2657|0
+B|Uh-huh.|b|2657|1
+B|Things that make the,|%|2657|1
+B|yeah.|b|2657|1
+B|Make them more self-supporting?|qy^d|2657|1
+A|Yes.|ny|2657|0
+A|They,|%|2657|0
+B|Yeah.|b|2657|1
+A|It's not a program to teach them to use the American money, it's a program to teach them to be more self-reliant.|sv|2657|0
+B|Right.|b|2657|1
+B|Yeah.|b|2657|1
+A|And, yes,|fo_o_fw_"_by_bc|2657|0
+A|you're right,|sv|2657|0
+A|I think it's a sixties program.|sd|2657|0
+A|I think it was one of Kennedy's hot points that he,|sd|2657|0
+A|that was his big deal.|sd|2657|0
+B|But it definitely would give a lot of the kids now that have everything given to them that they want to see what it's like if you don't have all the money and can't have what you want when you want it.|sv|2657|1
+A|Right.|b|2657|0
+A|Right.|b|2657|0
+A|Um, I think I, I've singled out my grandchildren|sd|2657|0
+A|and but actually they're, they're pretty good, along those lines as compared to what I have seen from other people's children and grandchildren, mine aren't really that bad,|sd|2657|0
+B|Uh-huh.|b|2657|1
+A|but at the same time I think it would do them a world of good.|sd|2657|0
+B|Yeah.|b|2657|1
+A|But there's a,|%|2657|0
+B|I don't, I don't know that you could require everyone to, do that for, yeah, to do it for a whole year, or two years or something like that,|sd|2657|1
+A|Mandatory just like, like the draft.|^2|2657|0
+A|No.|aa|2657|0
+B|I don't know that that would work if, somebody's, was, didn't really want to be there and didn't have,|sd|2657|1
+A|Every time you,|^2|2657|0
+A|They could buy their way out.|sv|2657|0
+B|Yeah,|aa|2657|1
+B|I mean, there would be loopholes just like there is in anything else|sv|2657|1
+A|Right,|b|2657|0
+A|you know, they, they'd figure a way around that one in a heartbeat.|sv|2657|0
+A|But, I'm wondering if there's another issue here,|sd|2657|0
+A|and maybe this is why this has died out.|sv|2657|0
+A|Can you go into,|%|2657|0
+A|and this wasn't the question|sd|2657|0
+A|but it's, it may be the more of the issue versus should young adults,|sv|2657|0
+A|can they go in there and can anyone go into, well, out of|qy|2657|0
+A|the Kurdish community is a little bit extreme at this time,|sd|2657|0
+A|but say, I think Bangladesh would have been a good example or some, some really desperate situation|sv|2657|0
+A|and teach them to farm and teach them|qy|2657|0
+A|and it doesn't do any good.|sv|2657|0
+B|Yeah.|b|2657|1
+A|I don't know that it does.|sd|2657|0
+A|I, I, don't know that, um, if you step back from the current issue and look at it more intellectually, there are forever over, as long as we know there are races of people that are dropping out.|sd|2657|0
+B|Yeah.|b|2657|1
+A|You know, we're losing certain, races of people.|sv|2657|0
+B|Uh-huh.|b|2657|1
+A|There are people now that are obsolete point and fact just, just like endangered species of animals, so there are quote tribes of people, that are endangered or obsolete.|sv|2657|0
+B|Uh-huh.|b|2657|1
+A|And I'm just wondering if you're fighting a natural process there of being winnowed out.|sv|2657|0
+A|There's a German word for it that's elegant,|sd|2657|0
+A|but I never can remember what it was,|sd|2657|0
+A|uh, but, but that they're, they're being winnowed because they're, where they are they're not adapted to their environment essentially.|sd|2657|0
+B|Right,|b|2657|1
+B|yeah.|b|2657|1
+A|Um, and one of the quick examples is the Aborigines.|sd|2657|0
+B|Yeah,|b|2657|1
+B|uh-huh.|b|2657|1
+A|Uh, when we were in Australia, uh,|sd|2657|0
+A|sad little things. Uh, I felt sorry for them. Because their society isn't there anymore,|sd|2657|0
+A|and their belief system and all their structured of theirs, all the structures of their society are gone, essentially.|sd|2657|0
+B|Yeah.|b|2657|1
+A|And they're just kind of more like a side show than anything else|sd|2657|0
+A|and that's sad.|sv|2657|0
+B|Yeah.|b|2657|1
+A|But I don't think there's any way you could go, uh, the Peace Corps could go in and rescue those people,|sv|2657|0
+A|and I don't think you could have done it fifty or a hundred years ago either.|sv|2657|0
+B|Yeah.|b|2657|1
+A|So, I, I'm wondering if the Peace Corps is, really an effective tool.|sv|2657|0
+B|Well,|%|2657|1
+B|Down here with the Peace Corps we're talking about all these people that aren't even in our own country when there's enough people here that I think probably need help and, could be helped.|sd|2657|1
+A|Good point.|ba|2657|0
+A|We've got enough without without a passport|sv|2657|0
+A|there's plenty.|sv|2657|0
+B|Yeah.|b|2657|1
+A|Yes.|b|2657|0
+A|I think we ought to worry about our own species.|sv|2657|0
+B|And maybe rather than just, require somebody to join like the Peace Corps for a year maybe like, um, during college, you know, maybe have some kind of course where they'd be required to do some kind of community service type work, and help people in that area or people in the United States.|sv|2657|1
+A|I wonder now in,|%|2657|0
+A|and I've been out of school too long to answer this,|sd|2657|0
+A|but I wonder if there aren't some sociology courses.|sd|2657|0
+B|There probably are, you know,|sv|2657|1
+B|for|%|2657|1
+B|but I'm sure,|sv|2657|1
+B|that's probably like people that do that are, are the people that are going to go into social work and stuff|sv|2657|1
+B|but I think that it wouldn't really be half bad for everybody not to do something, you know, and realize it's everybody's responsibility to, um, help these people, you know,|sv|2657|1
+B|and|%|2657|1
+B|I'm not saying just give them money|sd|2657|1
+B|but, I mean, because they have to be taught to be,|sd|2657|1
+A|That's the last thing you want, to do.|sv|2657|0
+B|Yeah|b|2657|1
+B|I mean, I know that's what my father-in-law was talking about, you know, when you give these people money|sv|2657|1
+B|or, what was it|^h|2657|1
+B|they were bringing up points asking as far as whether they need to give, um, more money to these people,|sd|2657|1
+B|I mean, and that's not really the answer, I mean , because if they're alcoholics they'll just go out and spend, it on, you know, booze or something like that,|sv|2657|1
+A|Yeah,|aa|2657|0
+A|that's exactly it.|sv|2657|0
+B|but.|%|2657|1
+A|They're not going to take that money you give them and go try to figure out a way to dry out with it.|sv|2657|0
+A|Now come on, let's be realistic,|ad|2657|0
+B|Yeah.|b|2657|1
+A|that's just not realistic.|sv|2657|0
+B|Or, you know, to find a job where they can learn how to support themselves,|^2|2657|1
+A|Right.|aa|2657|0
+B|I mean, I guess we're getting kind of off the subject, here,|sv|2657|1
+B|but.|%|2657|1
+A|No,|ar|2657|0
+A|we're not I don't think.|sv|2657|0
+A|I think, that's more realistic than making them go in the Peace Corps.|sv|2657|0
+B|Yeah,|b|2657|1
+B|I mean it's,|%|2657|1
+B|True.|ba|2657|1
+B|Yeah.|b|2657|1
+A|I think that's a lot more realistic.|sv|2657|0
+A|Uh, I, I think that we should be spending more time|sv|2657|0
+A|and, and again I don't think the, the Peace Corps is, is as successful now simply because it's not. It doesn't fit the circumstance anymore.|sv|2657|0
+B|Yeah.|b|2657|1
+A|Uh, we've got plenty,|sv|2657|0
+A|in fact, we've got far too many.|sv|2657|0
+A|You're in, uh, what Flower Mound?|qy|2657|0
+B|Flower Mound,|na|2657|1
+B|yeah.|ny|2657|1
+B|So, we're a little you know, farther removed from like Dallas and some of the areas where they probably have more of the homeless and that type of thing.|sd|2657|1
+A|I was,|%|2657|0
+A|that's exactly what I was going to ask you.|sd|2657|0
+A|Have you ever, have, have you been downtown|qy|2657|0

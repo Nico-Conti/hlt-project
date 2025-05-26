@@ -1,0 +1,111 @@
+A|Okay,|fo_o_fw_"_by_bc|3226
+A|the topic of the conversation is national health insurance, and the pros and cons, and do I, do we think that the government should finance it.|sd|3226
+A|What is your opinion?|qw|3226
+B|I say yes.|sv|3226
+A|You say yes.|bf|3226
+B|Yes.|aa|3226
+B|Mother lives in Florida,|sd|3226
+B|and there are, in her subdivision there are fifty percent Canadians who won't give up their Canadian citizenship because of the health insurance.|sd|3226
+A|I have heard someone else, uh, say that, uh, the Canadian health insurance is absolutely excellent|sd|3226
+B|It's wonderful.|sv|3226
+A|and one of the ways that they're financing it is they have an exorbitant tax on their cigarettes.|sd|3226
+B|Oh,|b|3226
+A|This is evidently this is one of the ways that they're paying for the program plus discouraging the people to quit smoking so they don't have to pay out as many, uh, benefits on like lung cancer and things like this.|sv|3226
+B|Well,|b|3226
+B|Well, even if that's|%|3226
+B|so, you know, really when you look at it, they have full coverage,|sv|3226
+B|they have H M O, which, you know, after you get used to it, it's not too bad,|sv|3226
+B|and, uh, everything is covered|sv|3226
+A|Yeah,|b|3226
+A|we,|%|3226
+B|and we have so many people in the United States that we spend,|sv|3226
+B|well, in my family alone, we spent four thousand dollars in July on medical bills|sd|3226
+A|Oh, my word, Lynn.|ba|3226
+B|insurance didn't cover a penny.|sd|3226
+B|Yeah.|%|3226
+A|That's horrible.|ba|3226
+B|Yes,|aa|3226
+B|it is horrible.|sv|3226
+A|Well, we're fortunate in that we, so far, knock on wood, most of us have been real healthy|sd|3226
+B|Yeah,|b|3226
+B|but,|%|3226
+A|so we don't have a lot of medical bills.|sd|3226
+B|Uh, if you're healthy it's fine,|sv|3226
+B|but I had two kids in the hospital in July.|sd|3226
+A|Yeah,|b|3226
+A|but what worries me is the fact that I don't like the government telling me who I can see and who I can't see.|sd|3226
+B|Yeah,|b|3226
+B|but, you know, Richardson School District has the H M O|sd|3226
+A|Uh-huh.|b|3226
+B|and ninety percent of the doctors you would choose are on that list.|sd|3226
+A|Are they?|bh|3226
+B|Yeah.|ny|3226
+A|Well, I know that James had it.|sd|3226
+B|McCullum is.|sd|3226
+A|I beg your pardon.|br|3226
+B|McCullum is.|sd|3226
+A|Yeah,|b|3226
+A|yeah.|b|3226
+A|I know that when James was with Continental Steel, McCullum was part of that,|sd|3226
+A|and, and that's good.|sv|3226
+A|But I also heard, for instance, like, uh, my friend's daughter was on it through Texas Instruments,|sd|3226
+A|and she was on that Kaiser Permanente|sd|3226
+B|Uh-huh.|b|3226
+A|and they had screwed up her appointment,|sd|3226
+A|and when she went in, she had to take whichever doctor was available,|sd|3226
+A|and they,|%|3226
+A|she would have had to wait like two months to get the doctor she wanted.|sd|3226
+B|Well, but that's that's a screw up in an appointment, you know,|sd|3226
+A|But then again, I guess you can even do that in McCullum.|sv|3226
+B|I'm going back to the days when I was pregnant|sd|3226
+A|Uh-huh.|b|3226
+B|and I had two doctors,|sd|3226
+B|and one was my favorite, personality wise|sd|3226
+A|Uh-huh.|b|3226
+B|but when I delivered Ronnie, he was not on call|sd|3226
+A|Uh-huh.|b|3226
+B|the other guy delivered him|sd|3226
+A|Well, that's true,|ba|3226
+A|and that still goes on.|sv|3226
+B|you know, and that,|%|3226
+B|and, you know, if, um, I go to Townsend|sd|3226
+A|Uh-huh.|b|3226
+B|he's got a new partner.|sd|3226
+B|I go to both of them now.|sd|3226
+B|You know, I have no choice because when I want to go, if Dr. Howe or whatever his name is is on duty, I go to him.|sd|3226
+A|Right.|b|3226
+A|Well, you know, it, uh,|%|3226
+A|how do you think we're going to pay for it?|qh|3226
+A|More and more taxes?|qh|3226
+B|Well, no,|ar|3226
+B|we need to cut some of our spendings, cut some of the fat off the top and whittle it down to the rest of us.|sd|3226
+A|I know that it's getting to the point that the insurance doesn't pay that much on catastrophic illnesses.|sv|3226
+B|No.|b|3226
+A|They don't pay anything on, uh, implants or transplants,|sd|3226
+B|No.|b|3226
+A|and, you know, people are needing these,|sd|3226
+A|and the average person can't afford, you know, a heart or a kidney on just their own.|sd|3226
+B|Yeah.|b|3226
+B|But you known, Ronnie, in Austin, went to a program and went to a social worker|sd|3226
+A|Uh-huh.|b|3226
+B|and at the same token there is something,|sd|3226
+B|because he can get his pills for two dollars, when I'm paying fifteen on my medical insurance|sd|3226
+A|Good grief.|ba|3226
+B|and he can get free medical care, but he has to go to the city hospital instead of seeing David and so again, you know,|sd|3226
+A|Uh-huh.|b|3226
+B|we went through it, Ronnie's home tonight,|sd|3226
+B|and we talked about it and said, you know, is it worth it?|sd|3226
+B|Yeah,|b|3226
+B|you know, he pays forty-five dollars a month for his prescriptions, where he could pay six dollars.|sd|3226
+A|Uh-huh,|b|3226
+A|uh-huh.|b|3226
+B|So, there are programs, you know, if you get on Medicare or Medicaid or one of those,|sd|3226
+A|Very true.|ba|3226
+A|Well, I know they have the Medicaid, you know, for those that have trouble,|sd|3226
+A|and I know that like we have the, uh, prescription cards which,|sd|3226
+A|that's helped bunches|sd|3226
+B|Yeah.|b|3226
+A|and, wonder if the insurance companies are fighting the national health,|qy^d|3226
+A|or wonder if they're wanting it.|qy^d|3226
+B|That's what I read.|sd|3226
+A|That they are wanting,|bf|3226

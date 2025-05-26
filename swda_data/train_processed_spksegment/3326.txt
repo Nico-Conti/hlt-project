@@ -1,0 +1,193 @@
+A|Okay.|fo_o_fw_"_by_bc|3326|0
+A|My children are all grown up.|sd|3326|0
+B|Oh.|b|3326|1
+B|Okay,|b|3326|1
+B|well, now see, I've got two children|sd|3326|1
+B|and, uh, they're,|%|3326|1
+B|one is uh, just turned to be a teenager|sd|3326|1
+B|and the other one is on his way,|sd|3326|1
+B|so.|%|3326|1
+A|Uh-huh.|b|3326|0
+B|I, uh, I'm a single parent,|sd|3326|1
+B|so I think it makes it more difficult for me to, uh, you know, find time with my, my children since I work|sd|3326|1
+A|I'll bet.|ba|3326|0
+B|and then, of course, take care of the house and all this good kind of stuff.|sd|3326|1
+B|Uh, so it's a real, uh, it's a real problem for me.|sd|3326|1
+A|I'll bet it is.|ba|3326|0
+B|Yeah.|b|3326|1
+A|What is the favorite thing you do with your children?|qw|3326|0
+B|Uh, the, the thing that we like to do the most is to watch T V together.|sd|3326|1
+A|Uh-huh.|b|3326|0
+B|And, uh, the kids like to play Nintendo,|sd|3326|1
+B|but I'm no good at it,|sd|3326|1
+B|so I don't like to play.|sd|3326|1
+A|You just watch them play, huh?|qy|3326|0
+B|That's right,|na|3326|1
+B|that's right.|na|3326|1
+A|I, I tried it once or twice,|sd|3326|0
+A|but I didn't feel like I was very good at it either.|sd|3326|0
+B|Me either.|aa|3326|1
+A|My grandson got me to one day,|sd|3326|0
+A|but,|%|3326|0
+B|Yeah,|b|3326|1
+B|they talk about these different levels and stuff|sd|3326|1
+B|and I've never got off of level one|sd|3326|1
+A|Different worlds|sd|3326|0
+B|Yes.|ny|3326|1
+A|and how do you get to another world, you know?|qh|3326|0
+A|And I, I don't even know what they're talking about.|sd|3326|0
+B|I, I know,|aa|3326|1
+B|I agree with you,|aa|3326|1
+B|the other thing I think we like to go to the movies, too.|sd|3326|1
+A|Do you?|qy|3326|0
+B|That's,|%|3326|1
+B|yeah,|%|3326|1
+B|that's a, that's a neat thing.|sd|3326|1
+B|So I guess we're all in, uh, you know, movie, uh, fanatics or whatever around here.|sd|3326|1
+A|Yeah.|b|3326|0
+B|So we like to do those kind of things.|sd|3326|1
+A|I know when our kids were growing up, our, we were big into water sports.|sd|3326|0
+B|Uh-huh.|b|3326|1
+A|We had a boat|sd|3326|0
+A|and they all skied|sd|3326|0
+A|and in the summer we spent most weekends on the lake with them skiing|sd|3326|0
+A|and they always took other friends with them|sd|3326|0
+A|and we had a lot of fun doing that,|sd|3326|0
+A|but I had all girls|sd|3326|0
+B|Oh, how neat.|ba|3326|1
+B|Uh-huh.|b|3326|1
+A|so we didn't do too much sports wise.|sd|3326|0
+B|Oh.|b|3326|1
+A|I find my grandchildren are very involved in soccer and baseball|sd|3326|0
+B|Uh-huh.|b|3326|1
+A|and little boys do all of those things|sd|3326|0
+B|Uh-huh.|b|3326|1
+B|Oh, yeah.|b|3326|1
+A|but,|%|3326|0
+B|Oh, yeah.|b|3326|1
+B|Yeah,|b|3326|1
+B|see, I have a son|sd|3326|1
+B|and, uh, you know, it's football in the fall and, and baseball in the spring|sd|3326|1
+A|Uh-huh.|b|3326|0
+B|I, I'm constantly going back and forth.|sd|3326|1
+A|I'll bet you really are.|ba|3326|0
+B|Yeah.|b|3326|1
+B|And my daughter has, uh, tennis,|sd|3326|1
+B|so it's between tennis and, and bowling.|sd|3326|1
+B|My,|%|3326|1
+B|I bowl|sd|3326|1
+B|so, you know, we're pretty active as a sports, you know in, in the family,|sd|3326|1
+A|Uh-huh.|b|3326|0
+A|Uh-huh.|b|3326|0
+A|Well, when mine were real little, they all played soccer you know, that was just for a couple of years when they were pretty small for girls|sd|3326|0
+B|Uh-huh.|b|3326|1
+A|and then they got more interested in other things,|sd|3326|0
+B|Boys|^2|3326|1
+A|I'm not sure that they would admit it at that age, that it was boys,|sd|3326|0
+A|but I think that's probably what it was.|sv|3326|0
+B|Oh, yeah.|b|3326|1
+B|I, I know that, uh, my daughter, uh, even though she goes out with the, the sports and everything, uh, yeah she likes to watch the football for, uh, the kids|sd|3326|1
+B|I'm sorry.|fa|3326|1
+A|Uh-huh.|b|3326|0
+B|Uh, that was a cat that hit the telephone.|sd|3326|1
+B|Get away, cat,|t3|3326|1
+B|gosh to|t3|3326|1
+B|I guess it's why they wanted to do it on this type of telephone because there's all kind of activity that goes on.|sv|3326|1
+B|But, uh, yeah,|b|3326|1
+B|my, uh, my kids are, they're starting to grow up, you know.|sd|3326|1
+B|It's not going to be too many more years before I, uh, uh, you know, they'll be gone|sd|3326|1
+B|and, and, uh, there won't be as many activities.|sd|3326|1
+B|Do you, uh,|qy|3326|1
+A|But they,|%|3326|0
+A|but you enjoy them,|sd|3326|0
+A|I think, the older mine get, the more I enjoy them.|sv|3326|0
+B|Yeah,|aa|3326|1
+B|I, I agree with you.|aa|3326|1
+B|I, I do.|aa|3326|1
+B|I'm so glad they're out of the, that young, real young age|sd|3326|1
+A|Uh-huh.|b|3326|0
+B|and the babies,|sd|3326|1
+A|And, I mean, I didn't,|%|3326|0
+A|it wasn't that I didn't like them when they were little,|sd|3326|0
+B|Right.|b|3326|1
+A|but the older they got, I enjoyed them as teenagers.|sd|3326|0
+B|Yes,|b|3326|1
+B|yes.|b|3326|1
+A|And now that they're each,|sd|3326|0
+A|of course three girls, they're each becoming the, they've all become women in themselves that it's been neat to watch them.|sd|3326|0
+B|Uh-huh.|b|3326|1
+A|How,|%|3326|0
+A|what kind of mothers they are,|sd|3326|0
+A|what kind of wives, you know.|sd|3326|0
+B|Oh, yeah.|b|3326|1
+B|Yeah,|b|3326|1
+B|that's so true.|sd|3326|1
+A|How they do things|sd|3326|0
+A|and,|%|3326|0
+B|Well, do you, do the, do your daughters live close where you can go out?|qy|3326|1
+A|Two of them live real close to me.|na|3326|0
+B|Oh, good.|ba|3326|1
+A|So we, we spend a lot,|sd|3326|0
+B|Oh, yeah,|b|3326|1
+B|yeah.|b|3326|1
+A|and we play with the kids, you know.|sd|3326|0
+B|Yeah.|b|3326|1
+A|But, uh,|%|3326|0
+B|Yeah.|b|3326|1
+A|Where oh,|%|3326|0
+A|we go camp out,|sd|3326|0
+A|they camp out|sd|3326|0
+B|Uh-huh.|b|3326|1
+A|and we spend weekends at the, in the country with them quite a bit,|sd|3326|0
+B|Uh-huh.|b|3326|1
+A|but as far as doing any activity, now that the grand kids are here, we all just stay around the house mostly.|sd|3326|0
+B|That's true.|b|3326|1
+A|It's too much effort to go somewhere with all the kids.|sv|3326|0
+B|Oh, yes,|aa|3326|1
+B|oh, yes.|aa|3326|1
+B|Boy, I know, especially when they grow up like that,|sd|3326|1
+B|so I'm trying to, these last five or six years, I'm trying to make them really special and uh, very precious since that's, uh, about the only time we've got left.|sd|3326|1
+A|Uh-huh.|b|3326|0
+A|They'll always remember it, too.|sv|3326|0
+B|Yes,|aa|3326|1
+B|yes,|aa|3326|1
+B|absolutely.|aa|3326|1
+B|I, I think so, too.|sv|3326|1
+A|I hear mine saying, well, I remember mother and daddy used to take us to do so and so.|sd|3326|0
+A|I need to take my boys to do this or that, you know.|sd|3326|0
+B|Uh-huh,|b|3326|1
+B|uh-huh.|b|3326|1
+B|There we go.|sd|3326|1
+B|I know, I know they can't wait|sd|3326|1
+A|Yeah,|b|3326|0
+A|they just really can't wait to be able to take their kids where they had fun.|sv|3326|0
+B|That's right,|aa|3326|1
+B|that's right.|aa|3326|1
+A|But,|%|3326|0
+B|Yeah,|b|3326|1
+B|so well, I still got a few more years,|sd|3326|1
+B|so I'm, uh, I'm hanging onto those and doing as much activity as I can with them.|sd|3326|1
+A|Do you work?|qy|3326|0
+B|Yes,|ny|3326|1
+B|uh-huh,|ny|3326|1
+B|I sure do.|sd|3326|1
+A|Uh-huh.|b|3326|0
+B|And I work full time,|sd|3326|1
+B|so, uh, it, it,|%|3326|1
+B|that cuts into our free time right there.|sv|3326|1
+A|It really does.|aa|3326|0
+A|The time you have with them has to be quality time then.|sv|3326|0
+B|That's right,|aa|3326|1
+B|that's right|aa|3326|1
+B|and, uh, vacations are very special for us, and activities.|sd|3326|1
+A|I imagine that they have, uh, some, a lot of homework, too.|sd|3326|0
+B|Yeah,|b|3326|1
+B|yeah.|b|3326|1
+B|You know, this being a school night and stuff,|sd|3326|1
+B|so, uh, it's, it's in the same old you know, routine of, uh, you know, doing homework and, you know, trying to talk between all of that and, and, uh, the other activities that we all have.|sd|3326|1
+A|Uh-huh,|b|3326|0
+A|uh-huh.|b|3326|0
+A|Well, there's just so many things to do with them nowadays, though,|sv|3326|0
+A|and especially if they're active kids.|sv|3326|0
+B|Uh-huh.|b|3326|1
+A|Like you say you bowl.|qy^d|3326|0

@@ -1,0 +1,327 @@
+A|Well, ironically enough I'm sitting here with a cast on my leg because I resumed an aerobics class the night before last.|sd|2433|0
+B|Oh, no.|ba|2433|1
+A|I ripped the ligaments in my right ankle.|sd|2433|0
+B|Gosh.|ba|2433|1
+A|Yeah|b|2433|0
+A|so,|%|2433|0
+B|Exercise is not supposed to do that to you.|sv|2433|1
+A|That's what the nurses kept saying as they laughed all the way, you know, down the hallway.|sd|2433|0
+A|Do you do anything on a regular basis?|qo|2433|0
+B|Well, off and on,|sd|2433|1
+B|off and on.|sd|2433|1
+B|Right now I've been off|sd|2433|1
+B|but, I've been going over to the fitness center.|sd|2433|1
+A|Yeah,|b|2433|0
+A|that's a good,|ba|2433|0
+A|yeah,|b|2433|0
+A|I, My husband's a T I in the unit here.|sd|2433|0
+B|Yeah,|b|2433|1
+B|three times,|%|2433|1
+B|Well I try to go over there at least three times a week,|sd|2433|1
+B|and I try to walk, um, at least five times a week.|sd|2433|1
+A|Do you, when you go to the ,|%|2433|0
+A|I have to ask you,|h|2433|0
+A|and if this is getting to ,|h|2433|0
+A|we're not supposed to get too particular,|h|2433|0
+A|but I'm just curious,|h|2433|0
+A|when you go over there does it bother you in terms of how things are arranged, either at the Dallas location or the Spring Creek, in terms of, there's so much, it's so much of a weight orientation, weight lifting, et cetera.|qy|2433|0
+B|Yeah.|ny|2433|1
+B|Uh, well, I've been going to Spring Creek.|sd|2433|1
+B|I haven't been to the Dallas one now in, oh, a couple of years.|sd|2433|1
+A|Uh-huh.|b|2433|0
+B|At least since they've redone it, supposedly redone.|sd|2433|1
+B|So I don't really,|%|2433|1
+A|Yeah,|b|2433|0
+A|well, it's not that great,|sv|2433|0
+A|and I go to the Spring Creek one on and off.|sd|2433|0
+A|But my husband's working over there|sd|2433|0
+A|and he just goes to the Dallas one.|sd|2433|0
+A|But I just don't,|%|2433|0
+A|I mean, it's just so much weight lifting.|sv|2433|0
+A|Even the Spring Creek one has a lot of weights in it.|sd|2433|0
+B|Yeah,|aa|2433|1
+B|that's true.|aa|2433|1
+A|Or is that what your into|qy|2433|0
+A|or,|%|2433|0
+B|No,|nn|2433|1
+B|No,|nn|2433|1
+B|well, I've used the Nautilus equipment. And the bikes, and stair climbers, and stuff like that mostly.|sd|2433|1
+A|Uh-huh.|b|2433|0
+A|Yeah.|b|2433|0
+B|I don't use the free weights|sd|2433|1
+B|but,|%|2433|1
+A|I like the tread mill and the stair master myself over there.|sd|2433|0
+B|Yeah,|aa|2433|1
+B|I like those too.|sd|2433|1
+A|And the pool when it gets warmer.|sd|2433|0
+B|And the pool,|aa|2433|1
+B|yeah.|b|2433|1
+B|That's great.|aa|2433|1
+A|Yeah|aa|2433|0
+A|I know.|aa|2433|0
+A|Well, what I did was I went to a jazzercise class in a new location in Richardson near where we live in North Dallas,|sd|2433|0
+A|and long story short, I hadn't,|%|2433|0
+A|this is really a stupid thing that happened,|sd|2433|0
+A|but they have like the gymnasium flooring|sd|2433|0
+A|and then like they had about three feet of linoleum around the perimeter in the back where I usually stand in any class like that I go to.|sd|2433|0
+B|Uh-huh.|b|2433|1
+A|Instead of having that level, you know they had a chrome strip that wasn't level,|sd|2433|0
+B|Uh-huh.|b|2433|1
+A|and it was about four inches deep and then about, oh a seventy degree angle.|sd|2433|0
+B|Oh, my goodness.|ba|2433|1
+A|And as we were jumping around or doing something I just jumped up and came right down on it.|sd|2433|0
+B|Um.|b|2433|1
+A|The orthopedist called it a, uh, basketball injury where the ankle just rolls under you, and it snapped.|sd|2433|0
+B|Woo.|ba|2433|1
+A|I know.|aa|2433|0
+A|We went to , well whatever in Plano,|sd|2433|0
+A|and the emergency room was like a bad comedy show|sd|2433|0
+A|And the doctor said, you didn't do anything.|sd|2433|0
+A|There's only a one in five hundred chance that the radiologist will call you.|sd|2433|0
+A|That was Tuesday night,|sd|2433|0
+A|and Wednesday night the radiologist called me at work|sd|2433|0
+A|and, uh, I was on crutches,|sd|2433|0
+A|and he said, I think you better call an orthopedist.|sd|2433|0
+A|So we went to one|sd|2433|0
+A|and he just put a big old cast on it.|sd|2433|0
+B|Put a big cast on it.|b^m|2433|1
+A|Yeah,|b|2433|0
+A|for about four weeks.|sd|2433|0
+B|Four weeks,|b^m|2433|1
+B|yeah.|b|2433|1
+A|Well, I like aerobics,|sd|2433|0
+A|but I'm not so sure that,|%|2433|0
+B|Well not that much, though.|bf|2433|1
+A|No,|aa|2433|0
+A|I've never,|%|2433|0
+A|I was off for about six months too just for some other surgery I'd had,|sd|2433|0
+A|but I've never, I'd, you know, I was pretty much in shape walking|sd|2433|0
+A|and, and, you know, this is one of those things,|sd|2433|0
+A|like this orthopedist said, he said you'd be surprised how many how many people come in here with things like that because they are active.|sd|2433|0
+B|Yeah.|b|2433|1
+A|You know, I was real embarrassed,|sd|2433|0
+A|but I felt kind of stupid|sd|2433|0
+B|Well, those things happen, though.|ba|2433|1
+A|Yeah,|aa|2433|0
+A|they do.|aa|2433|0
+A|I mean, I guess I'm glad, you know, that, um, nobody really noticed,|sd|2433|0
+A|I guess you could say.|sd|2433|0
+B|Yeah.|b|2433|1
+A|Because I got up and started jumping on it again.|sd|2433|0
+B|Well that did a lot of good,|ba|2433|1
+B|I'm sure.|ba|2433|1
+A|Yeah|aa|2433|0
+A|really.|aa|2433|0
+A|I enjoy aerobics,|sd|2433|0
+A|and I do it because I like it,|sd|2433|0
+A|I mean, I like the music and that kind of stuff.|sd|2433|0
+B|Yeah.|b|2433|1
+B|I like the music,|sd|2433|1
+B|but I've been unable to do that, because I hurt my foot about five years ago.|sd|2433|1
+B|I broke my heel. No,|sd|2433|1
+A|Oh|b|2433|0
+A|that makes my foot,|%|2433|0
+A|how'd you do that?|qw|2433|0
+A|In aerobics?|qy|2433|0
+B|no,|nn|2433|1
+B|actually I was up on a ladder, and, uh, fell off. Leaned the wrong way.|sd|2433|1
+A|Oh goodness.|ba|2433|0
+A|Uh-huh.|b|2433|0
+B|And when I came down I hit with my full weight on my foot, but on concrete.|sd|2433|1
+A|What'd they do for that?|qw|2433|0
+A|Did they have to cast it?|qy|2433|0
+B|Yeah,|ny|2433|1
+B|they had, well they had to go in and do surgery.|sd|2433|1
+B|They put a pin in it.|sd|2433|1
+A|Oh, so the aerobics, the impact, would not be good.|bf|2433|0
+B|Yeah,|aa|2433|1
+B|as I permanently damaged the, the cushion under my heel the normal cushion that you have there.|sd|2433|1
+A|Oh, goodness.|ba|2433|0
+A|Uh-huh.|b|2433|0
+B|I can't do any jumping up and down because it makes it hurt.|sd|2433|1
+A|Oh, that makes sense.|ba|2433|0
+A|So, I mean, are you, in terms of other things, like, like, not running, but playing a little bit of tennis, or can you not do stuff like that at all?|qy|2433|0
+B|Uh, well I haven't tried that.|no|2433|1
+B|I don't know.|no|2433|1
+B|It's been I bet it's been thirty years since I played tennis.|sd|2433|1
+A|Yeah.|b|2433|0
+A|It's been,|%|2433|0
+B|Mostly into just walking and stuff like that.|sd|2433|1
+A|That's probably the safer way|ba|2433|0
+A|because I notice in aerobics a lot of the women that don't look like they shouldn't be doing certain things|sd|2433|0
+B|Uh-huh.|b|2433|1
+A|I'm always afraid they're going to fall over and have a coro, coronary.|sv|2433|0
+B|Yeah|b|2433|1
+A|And there was my ego when I went ahead|sd|2433|0
+A|and I went, oh, I can do that|sd|2433|0
+A|and half the time though I don't jump half as much as,|sd|2433|0
+B|Uh-huh.|b|2433|1
+A|I mean, like, I'm real tall,|sd|2433|0
+A|and, you know, I'm not heavy,|sd|2433|0
+A|but when you go easy a hundred seventy at my height, um, I'm five eleven you need just take it easy.|sd|2433|0
+B|Um.|b|2433|1
+B|Sure.|ba|2433|1
+A|Um, but when I see some|%|2433|0
+A|I mean, and I just don't think it's healthy|sv|2433|0
+A|all that pounding all the time.|sv|2433|0
+B|It isn't, really, it's not really good for your knees.|sd|2433|1
+A|So, yeah,|aa|2433|0
+A|that's the other reason,|sd|2433|0
+A|and, I don't know,|h|2433|0
+A|this was just, I guess, something freak that happened to me,|sd|2433|0
+A|because I wasn't familiar with the,|%|2433|0
+B|Well, the floor was uneven.|ba|2433|1
+A|Oh, it was completely,|aa|2433|0
+A|I mean, it literally,|%|2433|0
+A|the two dissimilar floor floor coverings were not level.|sd|2433|0
+A|And at first after it happened I thought, maybe that's a handicap access,|sd|2433|0
+A|and then I said no,|sd|2433|0
+A|that's just the way it's constructed.|^q|2433|0
+B|Yeah.|b|2433|1
+A|And my husband being a T I engineer,|sd|2433|0
+A|I said a few things to him when I got home,|sd|2433|0
+A|I said, who has engineered that?|sd|2433|0
+B|Really|ba|2433|1
+A|But I,|%|2433|0
+A|sounds you, like|%|2433|0
+A|one thing that I like, like swimming, you like that a lot?|qy|2433|0
+B|Uh-huh,|ny|2433|1
+B|I like swimming.|sd|2433|1
+B|Uh-huh.|ny|2433|1
+A|do you like to exercise because you want to or because you have to?|qy|2433|0
+B|No,|nn|2433|1
+B|I like, I liked it because I want to,|sd|2433|1
+B|it makes me feel better.|sd|2433|1
+A|That's how I am.|aa|2433|0
+A|Yeah.|aa|2433|0
+B|Yeah.|b|2433|1
+A|If I don't do it I just feel like I don't have as much energy.|sd|2433|0
+B|Uh-huh.|b|2433|1
+B|And it's real funny because if you, you know,|%|2433|1
+B|it seems like when you exercise and expend the energy that you'd be tired,|sv|2433|1
+B|but it's the other way around.|sd|2433|1
+A|Right.|aa|2433|0
+A|It curbs the appetite and helps with the calories and all that stuff.|sv|2433|0
+B|Yeah|aa|2433|1
+B|really.|aa|2433|1
+A|Yeah|b|2433|0
+A|but,|%|2433|0
+B|Yeah,|b|2433|1
+B|and I need all the help I can get.|sd|2433|1
+A|That gravity factor,|ba|2433|0
+A|I know|aa|2433|0
+B|Uh-huh.|b|2433|1
+B|It does get you.|sd|2433|1
+A|Like that orthopedist said to me, he said, don't worry Diane,|sd|2433|0
+A|he says, he said, uh, you're at thirty something,|sd|2433|0
+A|but you're on the upper side.|^q|2433|0
+A|He said that, don't worry,|sd|2433|0
+A|he says, even if you weren't doing anything your body would start, that would start to happen to you.|sd|2433|0
+B|Yeah,|aa|2433|1
+B|thanks a lot.|aa|2433|1
+A|Yeah,|b|2433|0
+A|because I was saying to him, I said, I'm not that heavy,|sd|2433|0
+A|I'm not heavy, you know,|sd|2433|0
+A|maybe ten to fifteen pounds like any other human being.|sv|2433|0
+B|Uh-huh.|b|2433|1
+A|I said, uh, why do I feel like I need to start pushing myself more.|sd|2433|0
+A|And he goes, human nature|sd|2433|0
+A|And then, you know, you see these little girls in these little bitty things,|sd|2433|0
+A|and they're all like twenty-one years of age|sv|2433|0
+B|Uh-huh.|b|2433|1
+A|But luckily at there's a little more diverse clientele.|sd|2433|0
+B|That's true,|aa|2433|1
+B|they do.|aa|2433|1
+A|Except for the guys that lift the weights.|sd|2433|0
+A|They do intimidate.|sv|2433|0
+B|Yeah.|aa|2433|1
+B|I try to go real late or real early before they get there|sd|2433|1
+A|Yeah.|b|2433|0
+A|There some things I'd like to try,|sd|2433|0
+A|but, you know, sometime when I ask, I just feel like, boy, am I stupid or what.|sd|2433|0
+B|Uh-huh.|b|2433|1
+B|Well that's one thing I like about the Spring Creek place.|sd|2433|1
+B|At least the fellow that's there, one of the fellows that's there at night and on weekends is real helpful.|sd|2433|1
+A|Uh-huh.|b|2433|0
+B|And his name is B J.|sd|2433|1
+A|I don't think I've ever, I think I've,|%|2433|0
+A|there was some girl there.|sd|2433|0
+A|I've been there like, maybe a dozen times.|sd|2433|0
+B|Uh-huh.|b|2433|1
+A|But I actually like that site better than the other one just because of the type people that go to.|sd|2433|0
+B|Uh-huh.|b|2433|1
+A|It's terrible.|sv|2433|0
+A|I don't know if the Dallas location,|%|2433|0
+A|it just seems that,|%|2433|0
+A|um, sometimes I feel like I'm in a singles bar|sv|2433|0
+B|Yeah,|aa|2433|1
+B|yeah,|aa|2433|1
+B|that's true.|aa|2433|1
+B|And I haven't noticed that up at Spring Creek.|sd|2433|1
+A|No,|aa|2433|0
+A|I haven't either,|aa|2433|0
+A|and I just, uh,|%|2433|0
+A|it's not that far of a drive|sd|2433|0
+A|and I'm glad they did that.|sd|2433|0
+A|Um, you're not missing anything at the Dallas renovated site.|sv|2433|0
+A|It's not at all anything worth talking about.|sv|2433|0
+B|Yeah.|b|2433|1
+B|Yeah.|b|2433|1
+B|I thought maybe one of these days I'll drive over there and check it out.|sd|2433|1
+A|Yeah,|b|2433|0
+A|but if you don't live near there that's not worth,|sv|2433|0
+B|Yeah.|b|2433|1
+B|I live in Richardson,|sd|2433|1
+B|but it's about half way between the Spring Creek and the, the Dallas site.|sd|2433|1
+A|Yeah.|b|2433|0
+A|That's actually where this happened to me, out in, I say Plano,|sd|2433|0
+A|but it's all the same to me.|sv|2433|0
+A|Richardson, over on Campbell and Park Hill there's a new recreation center.|sd|2433|0
+B|Uh-huh.|b|2433|1
+A|And as we were doing it, too, everybody noticed that there were all these big guys of assorted nationalities.|sd|2433|0
+A|walked out,|%|2433|0
+A|I was one thing,|%|2433|0
+A|oh great, I have purple tights on, you know.|sd|2433|0
+B|Uh-huh.|b|2433|1
+A|And they're going yes.|sd|2433|0
+A|But in general I like to I, I like dance a lot,|sd|2433|0
+A|so I mean aerobics is something I'd hate to give up.|sd|2433|0
+A|But he, he kind of said something to me about probably not as bad as your foot,|sd|2433|0
+A|but he just said to me, maybe you ought to try bicycling|sd|2433|0
+A|or,|%|2433|0
+B|Yeah,|b|2433|1
+B|you probably will for a while, because it's going to be real tender.|ba|2433|1
+A|He told me eight to twelve weeks.|sd|2433|0
+B|Uh-huh.|b|2433|1
+A|Not anything, you know.|sd|2433|0
+A|I said, but you're only going to put the cast on for a couple of weeks.|sd|2433|0
+A|He said, yeah,|sd|2433|0
+A|but that's just,|^q|2433|0
+A|they tried to put me in some kind of immobilized walker, because he doesn't like to put casts on when it's warm.|sd|2433|0
+A|But I just,|%|2433|0
+A|the more they tried to get my foot in the more I screamed,|sd|2433|0
+A|I couldn't, you know adjust that.|sd|2433|0
+B|I know what you mean.|ba|2433|1
+A|You know more about this stuff than I do, obviously then,|sv|2433|0
+B|Not fun|ba|2433|1
+A|No.|aa|2433|0
+A|Well, you're walking okay now obviously,|qy^d|2433|0
+A|and you can,|%|2433|0
+B|Oh, yeah,|ny|2433|1
+B|I have a slight limp from it,|sd|2433|1
+B|but it matches one if I have one on the other side.|sd|2433|1
+B|Yeah|b|2433|1
+A|Well, anything else about exercise we can talk about.|qo|2433|0
+B|Well, other than I need to go.|fo_o_fw_"_by_bc|2433|1
+A|Yeah,|aa|2433|0
+A|me too,|aa|2433|0
+A|me too.|aa|2433|0
+A|I need to go actually get something to eat here.|sd|2433|0
+B|It's great though,|sv|2433|1
+B|I really do enjoy it.|sd|2433|1
+A|Okay,|fo_o_fw_"_by_bc|2433|0
+A|thank you, Sandy.|fc|2433|0
+B|Sure,|fc|2433|1
+B|thanks.|fc|2433|1
+A|Uh-huh.|fc|2433|0
+A|Bye-bye.|fc|2433|0

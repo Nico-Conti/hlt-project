@@ -1,0 +1,322 @@
+A|Okay|fo_o_fw_"_by_bc|2630|0
+A|he did really decide to go?|qy^d|2630|0
+A|Uh-huh,|aa|2630|0
+A|sure|aa|2630|0
+A|I'm familiar with it,|sd|2630|0
+B|and it was a very difficult choice|sd|2630|1
+A|And he, well, he must know, is he interested in law or medicine,|qy|2630|0
+A|he must have a definite profession in mind.|qy^d|2630|0
+A|Oh, okay,|bk|2630|0
+A|Medium size,|sd|2630|0
+A|aren't they?|^g|2630|0
+A|Is he excited?|qy|2630|0
+B|Very excited,|sd|2630|1
+A|Wow,|ba|2630|0
+A|I can,|%|2630|0
+A|I,|%|2630|0
+A|Uh-huh|b|2630|0
+A|while they're east coast, I mean, I don't know anything about their football,|sd|2630|0
+A|but there you go.|h|2630|0
+B|Well, they're, they're, they're really very strong academic rather than, you know, big sports,|sd|2630|1
+A|Yeah,|b|2630|0
+A|that's,|%|2630|0
+A|where, where you at?|qw|2630|0
+B|We're outside of, uh, Washington in Maryland.|sd|2630|1
+B|How about you?|qo|2630|1
+A|Oh, okay,|bk|2630|0
+A|I'm in, uh, suburban Dallas.|sd|2630|0
+B|Uh-huh,|b|2630|1
+B|do you have children in,|qy|2630|1
+A|No,|nn|2630|0
+A|I don't,|sd|2630|0
+A|I have a husband|sd|2630|0
+A|We don't have any kids yet.|sd|2630|0
+B|Okay, um,|b|2630|1
+A|About all I can say is I guess about picking schools, um, I guess, uh, if you don't know what you're going to do, liberal arts program is a good idea.|sv|2630|0
+B|Well, I, I,|%|2630|1
+B|one of the, the advices we've given our children is that you can always learn a job|sd|2630|1
+A|This is true,|aa|2630|0
+B|uh, but what you can't learn, uh, on a job, is a good solid well-rounded education.|sd|2630|1
+A|Right,|aa|2630|0
+A|the humanities, the history, yeah,|bf|2630|0
+B|That's right, you know,|aa|2630|1
+B|the Renaissance man|sd|2630|1
+A|Right,|aa|2630|0
+A|right,|aa|2630|0
+A|no,|%|2630|0
+A|no,|%|2630|0
+A|no|%|2630|0
+B|and, uh, and if you get that you can,|sv|2630|1
+B|and if you do well, you can, you can learn a job,|sv|2630|1
+A|Yeah,|b|2630|0
+A|but they, you know, if they learn the job and they can go into graduate school usually a company, it will, if it's worth it's weight, will subsidize,|sv|2630|0
+B|That's exactly right.|aa|2630|1
+B|That's right.|aa|2630|1
+A|And,|%|2630|0
+B|So the advice we gave to them was, number one, visit the colleges that you're thinking about describe first of all, the size school that you might be interested in|sd|2630|1
+A|Uh-huh.|b|2630|0
+A|This, this is true,|aa|2630|0
+A|Yes.|b|2630|0
+A|And if you want to go away,|^2|2630|0
+A|right,|^g|2630|0
+B|do you want to go away,|^q|2630|1
+B|how far from home do you want to be.|^q|2630|1
+A|Right.|b|2630|0
+B|What do you want in a college.|^q|2630|1
+B|Now my son is a national level competitive swimmer|sd|2630|1
+A|Good.|ba|2630|0
+B|so he wanted to swim in school,|sd|2630|1
+B|but he did not want to be in a swim factory.|sd|2630|1
+A|Okay.|b|2630|0
+A|So he wouldn't have gone to something like where we're at, they'd, in Austin, Texas, University of Texas,|bf|2630|0
+B|That's right,|aa|2630|1
+B|that's the University of Texas at Austin, or Stanford or something like that so he didn't even consider those.|sd|2630|1
+A|Right.|b|2630|0
+A|Texas|b^m|2630|0
+A|yeah,|b|2630|0
+A|Okay,|b|2630|0
+A|well that's, I think the other thing is, too, um, I know I went to a, uh, city high school in Chicago|sd|2630|0
+B|Uh-huh.|b|2630|1
+A|and a lot of the kids weren't as fortunate as say, my brother and I were,|sd|2630|0
+A|and economics was the choice|sd|2630|0
+B|Uh-huh.|b|2630|1
+A|um, sounds like your son has academically the standing to get into that type of school.|sv|2630|0
+B|He is very, very strong academically,|sd|2630|1
+B|yeah,|%|2630|1
+B|so, we've just,|%|2630|1
+B|but, you know, he had to look to see what kind of environment he liked,|sd|2630|1
+A|Uh-huh.|b|2630|0
+B|and yet he, he did wind up having to make a choice.|sd|2630|1
+B|He did apply to a large, you know, large group,|sd|2630|1
+A|Yeah,|b|2630|0
+A|University of Penn,|sd|2630|0
+A|I'm originally from Pennsylvania.|sd|2630|0
+A|University of Pennsylvania,|sd|2630|0
+B|It's got about nine thousand undergraduate.|sd|2630|1
+A|Yeah,|aa|2630|0
+A|that's strong,|sv|2630|0
+A|I mean that's you know|%|2630|0
+B|Yeah,|b|2630|1
+B|Yeah.|b|2630|1
+A|and it's, it's, well, it's a little bit, I don't want to use the word wilder, that's not the word I want. Um, more diverse|sv|2630|0
+B|Yes,|aa|2630|1
+B|and it, but it does have the under, you know,|sd|2630|1
+B|that's total undergraduate with five hundred graduate school, so that the, uh, the college of arts and sciences is, you know, I guess about four thousand.|sd|2630|1
+A|At Williams or Pennsylvania?|qy|2630|0
+A|At Williams,|qy|2630|0
+B|At Pennsylvania.|sd|2630|1
+A|At Pennsylvania.|b^m|2630|0
+A|Well how large is Williams?|qw|2630|0
+B|Williams is an undergraduate school only|sd|2630|1
+A|Right.|b|2630|0
+B|um, and it's a total of two thousand.|sd|2630|1
+A|Well that's not bad.|ba|2630|0
+B|Yeah,|aa|2630|1
+B|so he knew the feeling because my other son is at Amherst which is fifteen hundred|sd|2630|1
+A|Which is a lot,|^2|2630|0
+A|Yeah.|b|2630|0
+B|and he had visited his brother at Amherst and knew that he liked the environment|sd|2630|1
+A|Uh-huh.|b|2630|0
+A|Uh-huh.|b|2630|0
+B|but he did go on college visits,|sd|2630|1
+B|and he liked,|sd|2630|1
+A|That's the thing to do,|sv|2630|0
+A|I mean, I, not having any children, my husband was an Ohio State person,|sd|2630|0
+A|and, uh, that has something like either the first or second largest student population, like fifty thousand.|sd|2630|0
+B|Yes,|aa|2630|1
+B|yes|aa|2630|1
+A|Combined .|sd|2630|0
+B|it's large,|sv|2630|1
+B|and they, both boys had decided no, that they did not want that.|sd|2630|1
+A|Yeah,|aa|2630|0
+A|that is too much,|sv|2630|0
+A|and I mean, I, um, I can only say it's strange your son picked those kinds of college because I spent a year at Bennington in Vermont,|sv|2630|0
+B|Oh, it's,|%|2630|1
+B|so you,|%|2630|1
+A|Um, and that was, this was twenty years ago|sd|2630|0
+B|Uh-huh.|b|2630|1
+A|Showing my age,|sd|2630|0
+B|And did you ever eat at the Blue Bin Diner?|qy|2630|1
+A|Yes.|ny|2630|0
+A|Oh my God,|ba|2630|0
+A|where are you from,|qw|2630|0
+A|well, let's not talk about that|ad|2630|0
+B|No|aa|2630|1
+B|but we've been there when whose gone up there.|sd|2630|1
+A|It's, um, in that area.|sd|2630|0
+A|I mean I just can't say enough about it.|sd|2630|0
+B|Oh, it's, it|sd|2630|1
+B|we went|sd|2630|1
+B|and he was, you know, impressed by the clean air|sd|2630|1
+B|and he, he met the students at both schools|sd|2630|1
+B|and he liked them.|sd|2630|1
+A|Well you know, um, my husband's an engineer and a strong , a strong liberal arts background with, uh, a graduate degree in a technical field will get him much further than say like a, a strong, um, business administration degree than with another M B A on top of it.|sd|2630|0
+B|Uh-huh.|b|2630|1
+B|That's it.|aa|2630|1
+B|The thing is if, if a person really knows very early on that they want to go in a technical field, than you're not, then it's probably good to go to, you know, to apply to a school   with a good technical program,|sv|2630|1
+A|Uh-huh.|b|2630|0
+A|and they usually,  Yeah,|^2|2630|0
+A|but they usually don't.|sv|2630|0
+B|but, uh, for, if you're going into,|sv|2630|1
+B|if you know engineering is the thing if, then you've got to at least take engineering.|sv|2630|1
+A|Right,|aa|2630|0
+A|but they,|sd|2630|0
+A|no|%|2630|0
+A|but who does.|qh|2630|0
+A|I mean, I think,  I think all, I think the majority of people just don't know.|sv|2630|0
+B|That's right.|aa|2630|1
+A|No|%|2630|0
+A|he looked at criteria such as location, size of school uh,|sd|2630|0
+B|Uh-huh.|b|2630|1
+B|No|%|2630|1
+B|he didn't apply to any school further,|sd|2630|1
+B|the furthest away was Bowdoin, in Maine which is about twelve hours.|sd|2630|1
+A|That's still pretty far though.|sv|2630|0
+A|I mean a lot of kids just don't even want to go,|sv|2630|0
+B|Yeah,|b|2630|1
+B|that was the furthest and then Kenyon in Ohio which was about six and a half hours|sd|2630|1
+B|and Williams is about seven.|sd|2630|1
+A|Oh, that's not too bad.|ba|2630|0
+B|Yeah|aa|2630|1
+B|so, well, I mean he, so it wasn't,|%|2630|1
+B|he, you know,|%|2630|1
+B|then the University of Pennsylvania is like two hours from here by train|sd|2630|1
+B|and then Bucknell in mid-state Pennsylvania.|sd|2630|1
+A|Yeah,|b|2630|0
+A|he will enjoy Williams I think and is a good academic,|sv|2630|0
+B|Yeah,|aa|2630|1
+B|and he will,|sd|2630|1
+B|and if, it came down I mean, as he, he came,|sd|2630|1
+B|he's been talking to them|sd|2630|1
+B|and, and he came down|sd|2630|1
+B|and one of the things that he said is, he went to Pennsylvania this weekend|sd|2630|1
+B|and he had an absolutely marvelous time|sd|2630|1
+A|Uh-huh.|b|2630|0
+B|he had a great time|sd|2630|1
+B|but then he said, you know, it was such a good time that I almost got the feeling that their emphasis is on having fun.|sd|2630|1
+A|That could very well be|sv|2630|0
+A|and, So he's developing his, his, uh, internal instincts right now.|sv|2630|0
+B|and he said it almost|sd|2630|1
+B|I think it backfired.|sd|2630|1
+A|That's good because I mean I'm sure what he said was true, that, uh, you,|sv|2630|0
+B|So.|%|2630|1
+A|well actually that's one of the reasons I went to ,|sd|2630|0
+A|Kenyon, he he made a good choice.|sv|2630|0
+A|I went,|sd|2630|0
+A|I, well I was supposed to,|sd|2630|0
+A|but I spent a year in Vermont, my freshman year,|sd|2630|0
+A|it was just too far away,|sd|2630|0
+A|it was too different uh, the level of income of lot of the students|sd|2630|0
+B|Uh-huh.|b|2630|1
+A|and their attitudes was just, um, beyond my,  um, in terms of drugs, et cetera, which I thought was shocking.|sd|2630|0
+B|Yeah,|b|2630|1
+B|yeah.|b|2630|1
+B|Of course, that period too was probably difficult.|sv|2630|1
+A|Right,|aa|2630|0
+A|yeah,|aa|2630|0
+A|you're right|sv|2630|0
+A|but then I went,|sd|2630|0
+B|But I did, uh,|sd|2630|1
+B|my advice to him, and my was that, uh, he had to really decide what he wanted out of college.|sd|2630|1
+A|Yeah.|b|2630|0
+B|He had to look at himself.|sd|2630|1
+B|Uh, in a larger school he had to realize that if he was going to screw around it, he could probably slip|sd|2630|1
+B|and it wouldn't be caught up until it was too late where in a smaller school where, especially in a Kenyon or a Williams, where you see the professors around town all the time, you skip class in the morning and they see you,|sd|2630|1
+A|Uh-huh.|b|2630|0
+A|And you're going to get a little bit more input than discipline|sd|2630|0
+B|That's,|%|2630|1
+B|yeah,|aa|2630|1
+B|yeah.|aa|2630|1
+A|yeah.|%|2630|0
+B|And a swim coach is going to be right on top of you, uh, so that,|sd|2630|1
+B|and he will know the professors in a small,|sd|2630|1
+A|Well I don't know how to put this either in this way|h|2630|0
+A|and then it doesn't sound like your sons would need this|sv|2630|0
+A|but I just think the other thing is with the way a lot of the youth is today, I think the refinement that they get I don't mean specifically or culture but just what you're saying, just a solid background because I just don't think at that age I just don't think that young people know what they want to do. You know|sv|2630|0
+B|Uh-huh.|b|2630|1
+B|Yeah,|b|2630|1
+B|yeah.|b|2630|1
+B|That's right,|aa|2630|1
+B|that's right.|aa|2630|1
+A|and, um,|%|2630|0
+B|And, um, and it's just the personal contact where if you need help|sd|2630|1
+A|That's right.|aa|2630|0
+B|he had,|%|2630|1
+B|I told him to look to yourself.|sd|2630|1
+B|Are you the kind of person that will go into a large college and if the professor says I've got office hours but you really don't feel that you know him because you're in a class of a hundred  that you're really going to look him up|^q|2630|1
+A|Right .|b|2630|0
+A|Yeah.|b|2630|0
+B|but if it's a class of fifteen and you need help, you know that it's much easier to do it and especially in the large schools they have lectures|^q|2630|1
+A|This is very, very,|sv|2630|0
+A|Oh.|b|2630|0
+B|and even though they may break it up into smaller groups Penn is known for having  graduate assistance teaching.|sd|2630|1
+A|They have video lectures.|^2|2630|0
+A|Yeah.|b|2630|0
+A|Video lectures.|b^m|2630|0
+B|They have graduate assistants to teach the smaller groups.|sd|2630|1
+A|This is true,|aa|2630|0
+A|and I mean that is very ironic too that your son just made the,|sv|2630|0
+A|did he just make the decision today?|qy|2630|0
+B|he made the decision, uh, I'd say, about, uh, an hour and a half ago|sd|2630|1
+A|How funny|ba|2630|0
+B|Yeah,|aa|2630|1
+B|I mean, that's so funny. I mean,|sv|2630|1
+B|and, and, in fact, he had just an hour before that two, uh, recent graduates from Kenyon spent close to two hours talking with him|sd|2630|1
+A|That's funny.|ba|2630|0
+B|and, uh, I mean, and he, they were really nice,|sd|2630|1
+B|and, but he said is, that they didn't tell him anything that he didn't know,|sd|2630|1
+B|but they helped confirm his decision that a smaller school was better.|sd|2630|1
+A|It was easy for him to rule out.|bf|2630|0
+A|He knew what he didn't want|bf|2630|0
+B|Yeah,|aa|2630|1
+B|yeah.|aa|2630|1
+A|that's exactly,|sv|2630|0
+A|yeah.|%|2630|0
+A|Now is your other,|qy|2630|0
+A|I mean we're talking about what you think,|sd|2630|0
+A|but obviously you're experiencing it. Uh,|sd|2630|0
+A|Did your other son, um,|qy|2630|0
+B|My other son is just as happy as a bed bug.|sd|2630|1
+A|A clam.|fo_o_fw_"_by_bc|2630|0
+B|He,|%|2630|1
+B|the moment he knew, he, he decided early on that Amherst was the school.|sd|2630|1
+B|He's a classical guitarist|sd|2630|1
+A|Oh, wonderful.|ba|2630|0
+B|and he decided, he also got into the graduate school of music as an undergraduate for classical guitar,|sd|2630|1
+A|Uh-huh.|b|2630|0
+B|but he decided he was going to go to the, um the smaller now, and then graduate school later.|sd|2630|1
+A|The smaller and the,|^2|2630|0
+A|And they'll do fine in their studies,|sv|2630|0
+A|and I'm sure they'll go on to graduate school,|sv|2630|0
+B|Well, he's really, my older boy's real happy,|sd|2630|1
+B|and he's minoring in English,|sd|2630|1
+B|and he had thought about economics,|sd|2630|1
+B|and he took a couple of courses in economics and decided that wasn't,|sd|2630|1
+A|or is this early admissions?|qrr|2630|0
+B|He's, um, he's going to be a junior.|sd|2630|1
+B|He'll be, he's finishing his sophomore year so he's double majoring.|sd|2630|1
+A|So he's, So he's, yeah,|bf|2630|0
+A|well sounds like you have two talented sons.|sv|2630|0
+B|Well, you know, see the advice we give is to not limit yourself, especially this, you know, go to a school where you're not forced to make too many irrevocable decisions your first year or two.|sd|2630|1
+A|I think, and a lot of people talk about,|sv|2630|0
+A|and it's not the economics I solely zeroed in on,|sd|2630|0
+A|but I think a lot of people think a lot of people think about the tuition level and what exactly are you getting in return|sv|2630|0
+B|Yeah.|b|2630|1
+A|and I think that a lot of people shy away from the smaller colleges because of that,|sv|2630|0
+A|and I think it's rather sad,|sv|2630|0
+B|Well, one of the things we said is that they should pick the college,|sd|2630|1
+B|this was our advice, too, irrespective of the cost. That somehow we would manage.|sd|2630|1
+A|You are wonderful parents|sv|2630|0
+B|Well, we place a real high priority on education in our family.|sd|2630|1
+A|No,|b|2630|0
+A|and I agree,|aa|2630|0
+A|I mean, my husband and I,|sd|2630|0
+A|in fact, I'm taking my L S A T um,|sd|2630|0
+A|I'm thirty something and taking my L S A T on June tenth.|sd|2630|0
+B|Oh, good,|ba|2630|1
+B|that's wonderful.|ba|2630|1
+B|Oh, that's great.|ba|2630|1
+A|The point being, and your sons will learn this from you, I'm sure, that, uh, no matter what age you are, you can learn|sv|2630|0
+B|That's right,|aa|2630|1
+B|that's exactly,|aa|2630|1
+A|and, it sounds like they're going to, you know, they're,|sv|2630|0

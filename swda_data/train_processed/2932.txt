@@ -1,0 +1,158 @@
+B|Well Carol since today's subject is our homes,|sd|2932
+B|why don't you tell me about yours.|ad|2932
+A|Okay,|aa|2932
+A|I live in Plano, in a four bedroom, two bath house, which is the area's dominantly three bedroom, two bath.|sd|2932
+A|So, I'm just a little bit different than typical, uh,|sv|2932
+A|and of course, the Plano area is basically with alleyways,|sd|2932
+A|so everything around here is set up that way. Which I think is a little bit different than most areas, in the houses, the way they're constructed.|sv|2932
+A|And it's a brick house, with, uh, some wood.|sd|2932
+A|It's real nice,|sd|2932
+A|I like it|sd|2932
+A|How about you?|qo|2932
+B|Well I, I certainly hope so.|sd|2932
+B|We have a, a classic ranch, up in Denton.|sd|2932
+B|Ranch style home, I I would hate to think that anybody thought, uh, the lot we live on as a ranch.|sd|2932
+B|Uh, it's in a subdivision and one story.|sd|2932
+B|It started out life as a three bedroom house, and now has no two car garage and has, uh, the two extra rooms enclosed.|sd|2932
+B|I suppose we still only have three effective bedrooms|sd|2932
+B|but we gained a playroom for the kids and an office out of enclosing the garage.|sd|2932
+A|Are most of the houses in your area three bedroom, two bath?|qy|2932
+B|Almost a hundred percent.|na|2932
+B|I, I can't think of any four bedroom houses in the subdivision.|sd|2932
+B|Ours is probably the closest to it.|sd|2932
+B|You know how realtors are,|sv|2932
+B|they'll say, oh this could be five bedrooms.|sv|2932
+B|Yeah,|%|2932
+B|if you had two people that don't have any clothes it could be a five bedroom house,|sv|2932
+A|Yeah,|aa|2932
+A|to .|%|2932
+B|don't need a closet|sv|2932
+A|The only thing about mine, um, I think there's probably about, oh, when I go down the street I can just pick out houses that are, that are identical to mine|sd|2932
+A|and usually they are the four bedroom, um,|sd|2932
+A|but they're spaced out, oh I'd say maybe three, on a two block period.|sd|2932
+A|Because it's all different builders up here.|sd|2932
+A|So it's kind of hard at that point to, you know, classify some of the builders.|sd|2932
+A|But most of the builders all built three, two.|sd|2932
+A|But the one thing, my house is a little bit different|sd|2932
+A|and I can pick it out again because it's not typical,|sd|2932
+A|is I've got the, oh, what do you call a, uh, double ceiling, double high in one half of the house.|sd|2932
+A|So like the den and the living room are all double cathedral ceilings.|sd|2932
+B|Uh, cathedral ceilings.|b^m|2932
+A|And, uh, the kitchen is norm|sd|2932
+A|and the bedrooms are norm.|sd|2932
+A|So it just goes down the dining room, the family room, and the living room that way.|sd|2932
+A|And I love the space.|sd|2932
+A|It just, it's, uh,|%|2932
+A|luckily I came from a house in Colorado which had the cathedral ceiling|sd|2932
+A|and I just lucked out and walked into this one|sd|2932
+A|and of course I felt the same airy feeling, which I liked it real well,|sd|2932
+A|so it's a nice thing to move into,|sv|2932
+A|but, again, it's not typical in this area.|sd|2932
+A|You can just spot them because the the roof is so much higher.|sd|2932
+A|But, uh,|%|2932
+B|Well I hadn't thought about it in that sense, of the high roofs.|sd|2932
+B|We have cathedral ceilings in, uh, two rooms. In the, uh, family room and in the master bedroom|sd|2932
+B|and those are, are pleasant.|sd|2932
+A|Yeah.|b|2932
+A|Well it's like when my son goes up into the, up into the furnace area over the garage.|sd|2932
+B|Yeah.|b|2932
+A|He can walk|sd|2932
+A|and he's six foot.|sd|2932
+A|And he says, oh, come on up mom. I'm not going up there|sd|2932
+A|I'm not going up there,|^q|2932
+A|but he says there's plenty of room up there for a room.|sd|2932
+A|So that means if I knock out the wall in my family room, I could make another room overlooking my family room from upstairs with no problem.|sd|2932
+A|But, um, I'm not that ambitious.|sd|2932
+A|I|%|2932
+A|maybe someday when I feel really ambitious and get angry I'll start poking holes up there, but until that time|sd|2932
+A|But, uh, I've noticed the houses around here are basically, it's one story and they're all basically two, uh, bath, two, uh, with three bedrooms.|sd|2932
+A|And we're|%|2932
+A|ninety, I would say about, oh, about ninety-five percent, no I guess probably a hundred percent of them all are mostly brick, uh, with some wood.|sd|2932
+B|Right.|b|2932
+A|But it's, it's basically all brick.|sd|2932
+A|The next subdivision over from me is total brick|sd|2932
+A|and the one on the other side of me is about the same as mine.|sd|2932
+A|But, uh, the one on opposite the street now, they're total brick|sd|2932
+A|and they're basically almost all three, two.|sd|2932
+A|They're all three, two.|sd|2932
+A|But of course they have a little river going down their area too, which is kind of nice|sd|2932
+B|If it's the kind of river I'm thinking of, better them, than, than us, you know|sv|2932
+B|Are you talking about a, a real river, creek?|qy|2932
+A|No|nn|2932
+A|it's a creek,|sd|2932
+A|they've put little fountains in and such.|sd|2932
+B|Well that's nice.|ba|2932
+B|Uh, I came from Mississippi recently|sd|2932
+B|and the rivers that we had there were the ones that came with the rains|sd|2932
+B|and they didn't pay any, any attention to banks and that kind of stuff.|sd|2932
+A|Oh.|b|2932
+B|So you're just as likely to wake up and discover you're in two inches of water.|sd|2932
+A|Do you have a lot of property, I mean a lot of yard around your house now, in Denton?|qy|2932
+B|Uh, it's a third of an acre.|no|2932
+B|I don't think that's a lot, uh,|sv|2932
+B|in fact, I have been real disappointed in the six years that I've lived out here about lot sizes|sd|2932
+B|I'm more accustomed to a one acre lot being a standard and the two acre being what most people have.|sd|2932
+A|Yeah,|aa|2932
+A|when you get down closer in to the newer tract homes you find almost like there's no lot line at all.|sv|2932
+A|They're built practically on top of each other.|sv|2932
+B|That's true.|aa|2932
+A|I know, I was,|sd|2932
+B|An, and while, while there are some advantages to that, there's less time spent outside making it look nice and taking care of things.|sv|2932
+B|Uh, I just feel hemmed in by that.|sd|2932
+B|It's not as comfortable a living for me.|sd|2932
+A|Uh-huh.|b|2932
+A|Well this subdivision here has got,|sd|2932
+A|oh, there's enough to put, oh, I'd say, uh, what, twelve feet between each house on each side.|sd|2932
+A|Well, I've got more on one side than I've got on the other,|sd|2932
+A|but I'm like you,|sd|2932
+A|I came down from Colorado|sd|2932
+A|and there was more land up there around a yard with a big full back yard, which here, I look out my back yard and I can see the gate.|sd|2932
+A|I mean the fence is right there,|sd|2932
+A|I mean just don't run too fast,|sd|2932
+A|or you'll hit it|sd|2932
+A|and I'm not used to that either.|sd|2932
+A|I mean I could see people putting swimming pools in the back yard all around me,|sd|2932
+A|but to me, you put the swimming pool in your back yard|sv|2932
+A|and you've lost your back yard.|sv|2932
+B|Entirely.|aa|2932
+A|I mean, uh, sure,|b|2932
+A|I mean you've got a little place on one side or the other,|sd|2932
+A|but, uh, to me they're not that big enough for a pool,|sv|2932
+A|but, you know, they're going up,|sd|2932
+A|so. But it's, uh, it's great for mowing|sv|2932
+B|from that aspect, you're right.|aa|2932
+B|And, and it doesn't take nearly as long to get out there and weed it by hand and that kind of stuff.|sv|2932
+A|But yes,|b|2932
+A|I'm used to, uh, walking out the back yard|sd|2932
+A|and you can play catch across the back yard|sd|2932
+A|and you've got plenty of room to even play a small game of baseball, but, don't do it around here.|sd|2932
+B|No,|aa|2932
+B|the one,|%|2932
+B|that's sort of what drove me to Denton when I first came out here in eighty-five.|sd|2932
+B|I started looking|sd|2932
+B|and it seemed like the further I got away from Dallas, center, uh, the more lot came with the house and, and the lower the price, at the same time.|sd|2932
+B|And it just seemed like there was a ten thousand dollar drop for each city.|sd|2932
+A|I hadn't thought about it that way.|sd|2932
+B|so moving up thirty-five, I stopped when I got to Denton. Uh.|sd|2932
+A|It|%|2932
+A|well see now, with our jobs mainly hitting downtown Dallas we couldn't go too much further,|sd|2932
+A|but, we we went that way.|sd|2932
+A|It was the schools and the cost of houses,|sd|2932
+A|so we kept going out until we figured we hit a point where we need the traffic, time to get into work,|sd|2932
+A|and that's where we stopped.|sd|2932
+A|It was the same problem.|sd|2932
+A|But I think Plano's,|%|2932
+B|You all both, you all both work downtown?|qy|2932
+A|I got layed off by T I|arp_nd|2932
+B|Oh, well, this is a wonderful thing that, that you're doing here still helping them out.|sv|2932
+A|Oh, I|%|2932
+B|Uh, but you were working downtown.|qy^d|2932
+A|No,|nn|2932
+A|I was working at the Dallas site.|sd|2932
+A|My ex-husband was working downtown.|sd|2932
+B|Oh.|bk|2932
+A|But I have, uh, no, T I as far as I concerned, they've been great as far as layoffs is concerned,|sv|2932
+A|so I have no problems.|sd|2932
+A|But as far as the housing, I would like, personally, I would like to move out of a four bedroom house and go with something smaller.|sd|2932
+A|But prices in Plano, there isn't, um, there isn't a section in Plano you can really move to without getting caught|sv|2932
+A|and, uh, it, my price right now, for what I pay,|%|2932

@@ -1,0 +1,268 @@
+B|There we are.|fo_o_fw_"_by_bc|2860|0
+A|very Yes .|b|2860|1
+A|Tell me, what are some of the things that you did with your children when they were growing up?|qw|2860|1
+B|Oh, well, uh, when they were little, we did lots of reading and playing and going to parks, and things of that sort,|sd|2860|0
+B|and, I had two boys.|sd|2860|0
+A|Uh-huh.|b|2860|1
+B|They were both interested in things like model rockets,|sd|2860|0
+B|so we would go to the football field and set off model rockets|sd|2860|0
+A|I have two boys also|sd|2860|1
+A|Uh, my children are, um, are swimmers,|sd|2860|1
+A|and so as they were growing up much of, uh, our, um, normal life outside of school and everything uh, revolved around their swimming.|sd|2860|1
+B|Uh-huh.|b|2860|0
+A|So, in order to have a reason for being there, especially as they got older, I became involved in it too|sd|2860|1
+A|so we were always together at their meets.|sd|2860|1
+B|Oh, well, that's good.|ba|2860|0
+B|Um, mine were not terribly sporting.|sd|2860|0
+A|Uh-huh.|b|2860|1
+B|Uh, they both did T-ball and soccer in grade school,|sd|2860|0
+A|Uh-huh.|b|2860|1
+B|but neither one of them carried on, uh, the sports after that.|sd|2860|0
+A|Yeah,|b|2860|1
+A|the, the boys tried those,|sd|2860|1
+A|but they they did go in,|sd|2860|1
+A|they started swimming when they were, oh, seven and eight,|sd|2860|1
+A|and they really loved it,|sd|2860|1
+A|and they're swimming both|sd|2860|1
+A|they'll be,|%|2860|1
+A|one is in college, also swims in college,|sd|2860|1
+A|and the other will continue to swim in college,|sd|2860|1
+A|and they're fortunate,|sd|2860|1
+A|they even made nationals.|sd|2860|1
+B|Oh, wonderful!|ba|2860|0
+B|Oh that's great!|ba|2860|0
+A|And so we would drive up to see that when whenever it was reasonably close,|sd|2860|1
+A|but, we did a lot of things, um,|sd|2860|1
+A|and we tried to do things both together and individually with the children, um.|sd|2860|1
+B|Yeah,|b|2860|0
+B|I,|%|2860|0
+A|we live near Washington,|sd|2860|1
+A|so we, we would always go in for the museums.|sd|2860|1
+B|Sure.|b|2860|0
+A|That's always a big, uh, thing.|sd|2860|1
+A|And one of my children is, uh, also a musician|sd|2860|1
+A|so, um, one of the things that we did with him a lot was to go, either my husband or I, or both of us would, concerts with him.|sd|2860|1
+B|Uh-huh.|b|2860|0
+A|And my other child, um, uh, is in, big into tropical fish,|sd|2860|1
+B|Uh.|b|2860|0
+A|so our whole family, we take family trips to different places to visit fish stores or go to fish shows,|sd|2860|1
+A|so|%|2860|1
+B|My goodness, uh.|ba|2860|0
+B|Well, we didn't have any, uh, avid, uh, activities like that,|sd|2860|0
+B|they, they were interested in a lot of things,|sd|2860|0
+B|but nothing to quite that depth, I guess.|sd|2860|0
+B|But, we would,|%|2860|0
+A|I don't think we've, we've missed a fish store on the entire east, northeast coast of the United States|sd|2860|1
+B|Oh my goodness.|ba|2860|0
+B|Well, we did go to things like aquariums and, uh, uh, natural history museums and zoos, and all of those things that one does with kids, uh,|sd|2860|0
+A|Uh-huh.|b|2860|1
+A|Yes.|b|2860|1
+A|In fact, it's funny,|sd|2860|1
+A|our vacations have always been, um, uh, uh, as, as they've gotten older.|sd|2860|1
+A|When they were younger we would go to the beach,|sd|2860|1
+A|but as they got older we tried to pattern our vacations where we would travel and do things, and that there would be a, a feature each day. Whether it would be going to,|sd|2860|1
+B|Uh-huh.|b|2860|0
+B|Uh, yes.|b|2860|0
+A|one summer we, uh, we went up to New England|sd|2860|1
+A|and we went to the marble quarries up there, and, uh, to see that, and another day fish hatchery,|sd|2860|1
+B|Oh, really .|b|2860|0
+A|and, so we did, you know, we did try,|sd|2860|1
+B|Yeah.|b|2860|0
+A|and of course we learned too.|sd|2860|1
+B|Yeah.|b|2860|0
+A|But, uh, and, uh, I don't know,|h|2860|1
+A|I, uh,|%|2860|1
+A|when they were very young I did not work.|sd|2860|1
+B|Yeah,|b|2860|0
+B|well, I started working half-time when, uh, they were at the nursery school.|sd|2860|0
+A|Uh-huh.|b|2860|1
+B|But I|%|2860|0
+B|yet.|%|2860|0
+A|And I, I started working part-time when they were in, um, junior high school and high school,|sd|2860|1
+A|and now, and I worked in the school system,|sd|2860|1
+A|and now I work a full school day,|sd|2860|1
+A|but that leaves me off on holidays and summers.|sd|2860|1
+B|Uh-huh.|b|2860|0
+A|So it was a, it was a, you know,|%|2860|1
+A|I think they need me more, when they were older, than they did when they were,|sd|2860|1
+B|Yeah.|b|2860|0
+B|Well, uh, I think, it, uh, they need you in different ways.|sv|2860|0
+A|That's true,|aa|2860|1
+A|yeah.|aa|2860|1
+B|You want to be around for the crisis and things like that,|sv|2860|0
+B|and, but it's not quite so much the hand-holding and peanut butter and jelly making|sv|2860|0
+A|That's right.|aa|2860|1
+A|Um, yeah,|aa|2860|1
+A|that's, that's for sure.|ba|2860|1
+A|That's for sure,|ba|2860|1
+A|what do you, do you have any feelings as to the trends that you see?|qy|2860|1
+B|Well, it|%|2860|0
+B|the one trend I would say is that with so many more women choosing professional careers, there are fewer of them home in the afternoons,|sv|2860|0
+A|Uh-huh.|b|2860|1
+B|and I don't think it needs to be the mothers,|sv|2860|0
+B|but I think it would be nice if some of the parents would be around for a few more hours.|sv|2860|0
+A|Yeah,|aa|2860|1
+A|when they , you know|%|2860|1
+A|it was funny,|sd|2860|1
+A|I can remember,|sd|2860|1
+A|and my mother and I have talked about it, to how important it was when I came home from school.|sd|2860|1
+B|Um.|b|2860|0
+A|It wasn't really conversation,|sd|2860|1
+A|but there were always things that just tumbled out.|sd|2860|1
+B|Yes.|b|2860|0
+A|And, uh, uh, granted the child doesn't always think that they're sharing it,|sd|2860|1
+A|but it,|%|2860|1
+A|when they, when it's not there they miss it.|sv|2860|1
+B|I think that's true,|aa|2860|0
+B|but I I also think that's, at least in my experience, truer of girls than boys.|sv|2860|0
+A|Uh-huh.|b|2860|1
+B|Even when I was there, my boys didn't share all that much with me, and certainly not to the extent I did with my mother.|sd|2860|0
+A|Yeah,|aa|2860|1
+A|yeah.|aa|2860|1
+A|No,|aa|2860|1
+A|I, I, I realize that,|sd|2860|1
+A|but it's funny,|sv|2860|1
+A|they don't always do it,|sv|2860|1
+A|but occasionally they do,|sv|2860|1
+A|and you want,|%|2860|1
+B|Yeah.|aa|2860|0
+B|Uh-huh.|aa|2860|0
+A|and when they do, there's a reason for it, that they're sharing it,|sv|2860|1
+B|Uh-huh.|b|2860|0
+A|and you want to be at least I've wanted to be available, when they, for some reason, they had, they were bouncing something off of me. Because it was something that was bothering them or they were concerned about,|sd|2860|1
+B|Right.|b|2860|0
+A|and it was, uh,|%|2860|1
+A|you just felt, gee, if I weren't here, how,|sv|2860|1
+B|Uh-huh|b|2860|0
+A|or, or if my husband,|%|2860|1
+B|Who would they ask?|qh|2860|0
+A|That's right.|aa|2860|1
+B|Or what would they do?|qh|2860|0
+A|Yes,|aa|2860|1
+A|that's exactly right.|aa|2860|1
+A|Uh, but it has been, um, it's been interesting and particularly I, I think because the society in which we live, families are separated.|sv|2860|1
+A|You don't have grandparents near by or aunts and uncles.|sv|2860|1
+B|Uh-huh.|b|2860|0
+A|Um, I mean, I grew up in a situation where on weekends we were always visiting relatives.|sd|2860|1
+B|Yeah,|b|2860|0
+B|well, I did too.|sd|2860|0
+B|We were close to my, uh, maternal grandparents, I mean, just a few miles, and, uh, close enough to visit my paternal grandparents, you know, quite often.|sd|2860|0
+A|Uh-huh.|b|2860|1
+A|Yeah,|b|2860|1
+A|yeah.|b|2860|1
+B|They were fifty miles away|sd|2860|0
+B|but,|%|2860|0
+A|See, and we're,|%|2860|1
+A|uh, that,|%|2860|1
+A|we, I, I grew up with, you know|sd|2860|1
+A|every weekend there was some visiting somewhere.|sd|2860|1
+B|Uh-huh.|b|2860|0
+A|Um, and it was sort of an Italian family,|sd|2860|1
+B|Um.|b|2860|0
+A|um, but my children,|%|2860|1
+A|we, although we have some relatives in the area that we, we see, we,|sd|2860|1
+A|they don't|%|2860|1
+A|it's not that constant thing where you are on intimate terms with cousins.|sd|2860|1
+B|Right.|b|2860|0
+B|Well, when my kids were quite small, uh, we lived close to both sets of grandparents|sd|2860|0
+A|Uh-huh.|b|2860|1
+B|and they saw them a lot,|sd|2860|0
+B|but they don't have any cousins, uh,|sd|2860|0
+B|or they didn't,|sd|2860|0
+A|Yeah.|b|2860|1
+B|their, uh, their cousins are about ten years younger.|sd|2860|0
+A|Uh-huh.|b|2860|1
+B|So, uh, they never played together or anything.|sd|2860|0
+A|Yeah.|b|2860|1
+B|And there are only two of them|sd|2860|0
+B|and they didn't live in the same town.|sd|2860|0
+A|that|%|2860|1
+A|the trend of, of families and time,|%|2860|1
+A|where, where parents are spending less time, you don't have the families, too, to take up the gap.|sv|2860|1
+B|That's right.|aa|2860|0
+A|And so the kids in some ways are, are, are suffering a little bit, in that, uh, the model, the role models that get the, the, the family issues that get discussed, and all these, I think are very important parts of them growing up,|sv|2860|1
+B|Yeah.|b|2860|0
+B|Uh-huh.|b|2860|0
+A|so we, we try to, to do it as well as we can.|sd|2860|1
+A|We keep in close contact with grandparents and talk over the phone,|sd|2860|1
+B|Uh-huh.|b|2860|0
+A|and cousins and aunts and uncles,|sd|2860|1
+A|and we do,|sd|2860|1
+A|but it's, although it's not the same, we are,|sd|2860|1
+A|and that's part of, I think, teaching too, is what a family is like,|sv|2860|1
+A|because then how do they pattern their own?|qh|2860|1
+B|Well everyone makes its own model,|sv|2860|0
+B|but, uh, it seems that there should be some continuity,|sv|2860|0
+A|Yeah, Um.|b|2860|1
+B|and it's helpful to have, uh, things that become family traditions, and that sort of thing.|sv|2860|0
+A|That's,|%|2860|1
+A|yeah.|%|2860|1
+A|Well, we've always, we have had this tradition, um, that we always go out before Christmas and cut our own tree.|sd|2860|1
+B|Uh-huh.|b|2860|0
+A|And that's always been a little bit of a tradition that we've had.|sd|2860|1
+A|Now, this year, it's, was hard with our son now being in college.|sd|2860|1
+B|Yeah|b|2860|0
+A|So this was one thing that we, um, weren't able to do this year,|sd|2860|1
+A|but we did that for from the time the children were young enough to realize what it was until, uh, our older son went away to college.|sd|2860|1
+B|Oh, well, that's the kind of thing that they will remember, though.|sv|2860|0
+A|And we have advent calendars still, from the time that they came, you know, to,|sd|2860|1
+B|Uh-huh.|b|2860|0
+B|Ours finally disintegrated.|sd|2860|0
+A|Oh.|b|2860|1
+B|We had a felt one that was|sd|2860|0
+B|it was a Christmas tree that had, uh, a little trinket for each day, that was pinned on the date,|sd|2860|0
+A|Oh, yes.|b|2860|1
+A|That's,|%|2860|1
+A|uh-huh.|%|2860|1
+B|and then you took it off and put it on the tree,|sd|2860|0
+B|so at the end you had a decorated tree.|sd|2860|0
+A|Well, ours is, uh,|%|2860|1
+A|a friend  uh, a friend of mine from Denmark hand appliqu3ed one for each child.|sd|2860|1
+B|And it finally got moth-eaten,|sd|2860|0
+B|we threw it way last year|sd|2860|0
+B|How nice.|ba|2860|0
+A|And, I mean, they look today as new as they did when they gave them to, she gave them to us,|sd|2860|1
+A|and there's a ring|sd|2860|1
+A|and you buy a present,|sd|2860|1
+B|Oh, I see.|b|2860|0
+A|and you wrap the present up,|sd|2860|1
+A|and I mean, the presents have gone from the days when they were very young to a little box of Band-Aids and an eraser and things,|sd|2860|1
+B|How cute.|ba|2860|0
+A|to today, where, um, sometimes I put a little gift if I see something that's, uh, occasionally a Christmas tree decoration which they will save for their, their future, to sometimes, just money, uh, pieces of candy.|sd|2860|1
+B|Uh-huh.|b|2860|0
+B|Yeah.|b|2860|0
+A|So, I think as they're getting in college, I just,|sd|2860|1
+A|for my older boy that was in college I put a dollar bill for each day. Which was the equivalent|sd|2860|1
+B|Oh, I'm sure he appreciated that!|qy^d|2860|0
+A|well, it was the equivalent of a Christmas present.|arp_nd|2860|1
+B|Uh-huh.|b|2860|0
+A|But it was, uh, and it was, and, you know, it was fun,|sd|2860|1
+A|but that's a tradition|sd|2860|1
+A|and they will, those will be passed on to them when they, when they get married and leave.|sd|2860|1
+B|Yeah.|b|2860|0
+B|Well, you were saying what other trends are there,|sd|2860|0
+B|and one just occurred to me because I was editing a book about it recently,|sd|2860|0
+A|Uh-huh.|b|2860|1
+B|and that is the trend in a lot of, uh, lower class areas, for the grandmothers to be raising the children.|sv|2860|0
+A|Yes,|aa|2860|1
+A|yes,|aa|2860|1
+B|And that's,|%|2860|0
+B|a lot of it is due to the fact that the mothers are on drugs.|sv|2860|0
+A|The|%|2860|1
+A|yes,|%|2860|1
+A|and the broken families.|sv|2860|1
+A|We, um, as I said, living in an area of Washington, D C. We definitely see this, uh,|sd|2860|1
+B|Uh-huh.|b|2860|0
+A|and, uh, it's that grandmother figure, not only raising her own children, but raising, um, children from the streets, too, frequently.|sd|2860|1
+B|Right.|aa|2860|0
+B|Well, we had a sociologist at the center where I work who was writing a book on, uh, multigeneration, um, matriarchies, in a way. uh, where the tradition in the family has been for a teenaged daughter to have a baby while she's still living at home with the mother|sd|2860|0
+A|Uh-huh.|b|2860|1
+A|Uh-huh.|b|2860|1
+B|and,|%|2860|0
+A|Yes,|aa|2860|1
+A|well, this is a, this is a|%|2860|1
+A|uh, this is in fact, uh,|%|2860|1
+A|we've been studying this in our school, that, um, this is one of the symptoms, or not the symptoms,|sd|2860|1
+A|it's one of the ways that young girls feel that they are maturing,|sv|2860|1
+A|it's a rite of passage|sv|2860|1
+B|Yeah.|b|2860|0

@@ -1,0 +1,124 @@
+B|Hi.|fp|3696
+A|like child's Hi,|fp|3696
+A|I'm Carol,|fp|3696
+A|and I'm calling from Garland, Texas.|fp|3696
+B|Yeah,|b|3696
+B|this is|fp|3696
+B|I'm in Dallas.|fp|3696
+A|Oh, okay.|bk|3696
+A|Because yesterday I talked to someone upstate, I'm not even sure where,|sd|3696
+A|and my husband talked to the people in Utah,|sd|3696
+A|so. Um, anyway, let me press one.|oo_co_cc|3696
+B|Okay|aa|3696
+A|Okay, um,|b|3696
+A|let me see, I think we've only planned one family reunion in our life,|sd|3696
+A|so we don't do this too often.|sd|3696
+B|I.|%|3696
+A|Um, most of my family's in California,|sd|3696
+A|but my husband's is in San Antonio,|sd|3696
+A|and so we did this in San Antonio,|sd|3696
+A|and, um, it was an experience that I, I won't do again|sd|3696
+B|How big a family do you have?|qw|3696
+A|Um, well, it wasn't that big of a family,|sd|3696
+A|but, um, it just got out of hand,|sd|3696
+A|and, um, so many people were coming that we were trying to figure out how much food we were going to need and, and, um, how much, um, beverages we were going to need and this and that,|sd|3696
+A|and oh, it just grew and grew and grew,|sd|3696
+A|and, um, when the time came, only about half that amount of people came.|sd|3696
+A|So, it wasn't, you know,|%|3696
+A|you have to really just get an accurate amount,|sd|3696
+A|and,|%|3696
+A|but overall we all had a good time.|sd|3696
+A|We saw people we hadn't see in a while|sd|3696
+A|so,|%|3696
+B|Did you have people coming from far away?|qy|3696
+A|No.|nn|3696
+A|It was all in the San Antonio area|sd|3696
+B|Well sometimes.|%|3696
+A|But it, it just kept growing and growing and growing and growing,|sd|3696
+A|and we're going, Oh, my gosh.|sd|3696
+A|So.|%|3696
+B|Well you have, you have|sv|3696
+B|the family lives too close together, they see each other too often  they don't take that kind of thing seriously.|sv|3696
+A|Uh-huh,|aa|3696
+A|basically.|aa|3696
+A|Yeah.|b|3696
+B|And if, uh uh, they come from far away, it's, uh, it, it, they take it more seriously|sv|3696
+A|Yeah.|b|3696
+B|and,|%|3696
+A|Uh-huh,|aa|3696
+A|I think you're right.|aa|3696
+B|Yeah.|b|3696
+A|Yeah.|b|3696
+B|My family's not very big|sd|3696
+B|but, uh, we're kind of.|sd|3696
+A|Your family's from where?|qw^d|3696
+B|Well, I have a, a, a brother lives in Indianapolis, a sister lives in Chicago, and my folks live back in Buffalo, New York.|sd|3696
+A|Oh, no.|ba|3696
+B|Uh, I guess we have reunions about once a year or so.|sd|3696
+A|Uh-huh.|b|3696
+B|We got together over Christmas.|sd|3696
+B|My wife's family, they're, they're all in,|sd|3696
+B|most of them are in upstate New York.|sd|3696
+B|They have regular, uh, regular family reunions every summer.|sd|3696
+A|Oh, those are nice.|ba|3696
+B|Yeah,|aa|3696
+B|it is.|sd|3696
+A|And I'm, I'm sure they're a lot more organized too, because they've done it before.|sv|3696
+B|Yeah,|aa|3696
+B|and it's, it's just something that they, they plan on doing every summer.|sd|3696
+B|They just have  a weekend picnic,|sd|3696
+A|That's great.|ba|3696
+B|and every year everyone asks when is it happening and where is it happening|sd|3696
+A|Oh.|b|3696
+A|Yeah.|b|3696
+B|and they just plan on being here.|sd|3696
+A|That makes a big difference, too.|sv|3696
+A|I know everybody's real eager to participate.|sd|3696
+A|Yeah,|%|3696
+A|well that's great.|ba|3696
+B|Yeah,|b|3696
+B|they, they had a family reunion for, uh, well, for my mother-in-law at her seventy-fifth birthday,|sd|3696
+B|and they managed to get just about everybody, everybody into town, uh, last November including a number of people from out in California.|sd|3696
+A|Uh-huh.|b|3696
+A|Oh.|b|3696
+B|So it was a, it was good, it, uh it worked out very well.|sd|3696
+A|Uh-huh.|b|3696
+B|One interesting thing that they did at the time is they, um, they videotaped the, the whole shebang which, it made a nice remembrance of, of the entire party.|sd|3696
+A|Uh-huh.|b|3696
+A|Yeah,|aa|3696
+A|more people want to come back again.|bf|3696
+B|Yeah,|aa|3696
+B|they want to come back.|sd|3696
+A|Yeah,|b|3696
+A|that's good.|ba|3696
+B|So, so that, that works pretty well that way.|sd|3696
+A|My, uh, my grandmother in California is, um,|sd|3696
+A|this is my dad's part, side of the family is planning a reunion, um, this spring,|sd|3696
+A|but we won't be going because, um, I don't know how they thought of this, it's going to be on a cruise,|sd|3696
+A|and, um, it seems like most of the family is, uh, going, you know, all the nieces and all the grandchildren and all that are, most of them are going,|sd|3696
+A|but it's too costly for us.|sd|3696
+A|But anyway, they're going to go on a cruise,|sd|3696
+A|and, um, it sounds really neat, it really does.|sd|3696
+B|Yeah,|aa|3696
+B|I, I can go for that.|sd|3696
+B|What,|%|3696
+B|what do,|%|3696
+B|I guess interesting if you had a, a, a very extended family that, that kind of involved a lot of people that cousins and things that you don't really know, that you've never met, it'd be interesting to meet a lot of those people.|sv|3696
+A|Uh-huh.|b|3696
+A|Yeah.|b|3696
+B|Uh, I don't know how you would go about, uh, getting them together,|sd|3696
+B|but that, that would be, uh.|sv|3696
+A|And a friend of mine, um, she plans her family reunion, um, every year,|sd|3696
+A|and they go camping,|sd|3696
+A|and she says they have the greatest time,|sd|3696
+A|and she says, usually everybody shows up in exception to maybe one person,|sd|3696
+A|but she said they all go camping,|sd|3696
+A|and they have a really good for the whole weekend.|sd|3696
+A|So, that's.|%|3696
+B|Yeah,|b|3696
+B|I kind of wonder what, what kind of tradition we're going to establish for our family.|sd|3696
+B|I had hoped that our, our kids get together at least regularly.|sd|3696
+A|Yeah,|b|3696
+A|yeah.|b|3696
+A|Right now we only have two children|sd|3696
+A|so I,|%|3696

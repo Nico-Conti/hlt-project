@@ -1,0 +1,170 @@
+A|music do you like?|qw|4092|0
+B|Uh, lots of different kinds I guess.|sd|4092|1
+B|Uh, I like country music, of course|sd|4092|1
+A|Uh-huh.|b|4092|0
+B|Texas|sd|4092|1
+B|and I listen to Christian music a lot because there's a Christian music station here in in our city.|sd|4092|1
+B|So I listen to it quite a bit.|sd|4092|1
+A|Uh-huh.|b|4092|0
+B|So,|%|4092|1
+A|I am more into rock and roll myself.|sd|4092|0
+B|Uh-huh.|b|4092|1
+B|And I listen cause on Friday nights they have the, uh, they have what they call Saturday Night Alive|sd|4092|1
+B|or they have on Saturday night, Friday night and Saturday night and they have Christian rock and roll.|sd|4092|1
+A|Uh-huh.|b|4092|0
+B|So|%|4092|1
+B|you know, they have that type of music,|sd|4092|1
+B|but they just have different words|sd|4092|1
+B|so, I listen to that too.|sd|4092|1
+A|Do you like any bluegrass?|qy|4092|0
+B|Uh, no.|nn|4092|1
+B|Not really,|sd|4092|1
+B|huh-uh.|nn|4092|1
+A|Oh.|bk|4092|0
+B|And I like  I like rap music.|sd|4092|1
+A|Well, at least your,|%|4092|0
+B|Do you like rap music?|qy|4092|1
+A|Not really|ng|4092|0
+B|Not really|b^m|4092|1
+B|Well, I can tell we're, we're together here|sv|4092|1
+A|Yeah.|b|4092|0
+B|Okay. Uh.|b|4092|1
+A|Um.|b|4092|0
+A|Uh, we'll have to, uh|%|4092|0
+B|What kind of|%|4092|1
+A|I have a lot of friends that like country music|sd|4092|0
+B|What kind of rock music do you listen to?|qw|4092|1
+B|Do you listen to like that really heavy metal stuff|qy|4092|1
+B|or,|%|4092|1
+A|No,|nn|4092|0
+A|I'm more into, uh, older rock, like the psychedelic era, like, uh|sd|4092|0
+B|Seventies and like that stuff.|qy^d|4092|1
+A|late sixties, seventies, uh|arp_nd|4092|0
+B|Uh-huh.|b|4092|1
+A|Greatful Dead, Crosby, Stills and Nash.|sd|4092|0
+B|Yeah,|b|4092|1
+B|I have friends that like that.|sd|4092|1
+A|What|bh|4092|0
+B|Yeah|b|4092|1
+B|So you have never heard of like the Christian music that I listen to probably.|qy^d|4092|1
+A|Oh, I've heard a little bit of it.|arp_nd|4092|0
+A|I've just,|%|4092|0
+B|Like have you heard of, uh, of Carmen?|qy|4092|1
+B|Have you ever heard of Kim?|qy|4092|1
+A|Uh, now I've heard of Striper.|sd|4092|0
+A|So the only one I can|%|4092|0
+B|Striper,|b|4092|1
+B|they're the really heavy, yeah  like the heavy metal stuff  I guess.|qy^d|4092|1
+A|Uh-huh.|b|4092|0
+A|Uh-huh.|b|4092|0
+A|Uh, the first of Amy Grant before|sv|4092|0
+B|Yeah.|b|4092|1
+A|was, you know, became more mainstream, top forty.|sv|4092|0
+B|Yeah.|aa|4092|1
+B|Cause she, she plays both secular and Christian|sd|4092|1
+B|so,|%|4092|1
+A|Uh-huh.|b|4092|0
+B|Yeah,|b|4092|1
+B|I like her too.|sd|4092|1
+A|Uh,|b|4092|0
+B|I have been to a concert a couple of times of hers.|sd|4092|1
+A|I've never actually seen her in concert.|sd|4092|0
+A|I imagine that she puts on a pretty good show.|qy^d|4092|0
+B|She does.|na|4092|1
+A|Uh-huh.|b|4092|0
+B|She's real good. She's real good.|sv|4092|1
+B|So, I like her.|sd|4092|1
+A|Uh-huh Uh,|b|4092|0
+A|I like some country music.|sd|4092|0
+A|It's just that I like finding a lot of it's,|%|4092|0
+B|I don't like the country music that's like my wife left me, my dog  left me, everybody's left me.|sd|4092|1
+A|Yeah|b|4092|0
+A|Mama got run over by the train.|^q|4092|0
+B|Yeah.|aa|4092|1
+B|I don't like that.|sd|4092|1
+A|Uh-huh.|b|4092|0
+B|You know, I like Randy Travis|sd|4092|1
+A|Uh-huh.|b|4092|0
+B|you know, I like more of the real new ones, you know.|sd|4092|1
+A|Like Garth Brooks.|qy^d|4092|0
+B|Garth Brooks, oh|^h|4092|1
+B|yes,|ny|4092|1
+B|you know he's fine.|sv|4092|1
+A|Reba MacIntyre.|qy^d|4092|0
+B|Yeah.|ny|4092|1
+B|I like them.|sd|4092|1
+B|I don't care for the older, you know, like the dog left me stuff.|sd|4092|1
+A|You don't like Patsy Cline?|qy|4092|0
+B|Huh?|br|4092|1
+A|You don't like Patsy Cline.|qy|4092|0
+B|No,|nn|4092|1
+B|huh-uh.|nn|4092|1
+B|I don't even really know who she is, you know|sd|4092|1
+B|You know, so. But, have you ever been to any of them concerts that you like?|qy|4092|1
+B|That music that you like to.|%|4092|1
+A|Uh, yeah|ny|4092|0
+A|actually I just went to see the Greatful Dead about, I guess about a week ago.|sd|4092|0
+B|But aren't they done with?|qy|4092|1
+B|I thought that they|sd|4092|1
+A|No,|nn|4092|0
+A|they're they are still on tour.|sd|4092|0
+A|They have been touring, since the late sixties|sd|4092|0
+B|And I just thought that they done broke up and  left.|sd|4092|1
+A|No.|ar|4092|0
+A|They're still together.|sd|4092|0
+A|They're still  making albums.|sd|4092|0
+B|Huh.|b|4092|1
+B|Wow,|ba|4092|1
+B|I didn't know that.|sd|4092|1
+A|Uh-huh.|b|4092|0
+B|Huh.|b|4092|1
+A|Uh,|b|4092|0
+B|That's interesting.|ba|4092|1
+A|In fact, I mean there are people you know that basically just follow them around, from city to city on tour selling tie dye and things like that.|sd|4092|0
+B|Uh-huh.|b|4092|1
+A|Uh,|b|4092|0
+B|Cause they are on up there in age, aren't they?|qy|4092|1
+A|Yeah,|ny|4092|0
+A|they're, they're like late forties, early fifties,|sd|4092|0
+A|but you know like whenever one of them dies off they get a replacement|sd|4092|0
+B|Okay.|bk|4092|1
+B|Alright.|b|4092|1
+A|You know, they seem to have a really bad time with keyboard players.|sd|4092|0
+A|They keep on dying|sd|4092|0
+A|and they keep on replacing them|sd|4092|0
+A|and the new one's in this thirties you know. Uh,|sd|4092|0
+B|Oh, alright.|b|4092|1
+A|But, uh,|%|4092|0
+B|Cause they look pretty rough.|sv|4092|1
+B|I mean, I've seen like picture of them|sd|4092|1
+B|and they just,|%|4092|1
+A|Yeah.|aa|4092|0
+A|Well, they don't actually look as rough as the Rolling Stones.|sv|4092|0
+A|They just,|%|4092|0
+A|I don't know if you saw the tour posters of the Rolling Stones when they last toured,|qy^d|4092|0
+A|but it looked like leather day at the geriatric,|sv|4092|0
+B|Yeah,|aa|4092|1
+B|I mean cause they just,|%|4092|1
+A|All their faces were just all shriveled,|sv|4092|0
+B|Uh-huh.|aa|4092|1
+B|Yuck looking, I mean|sv|4092|1
+A|Uh-huh.|b|4092|0
+B|uh.|b|4092|1
+A|I mean it just just looked like they, got a bunch of retirees and put them in leather jackets and blue jeans.|sv|4092|0
+B|Uh-huh.|aa|4092|1
+B|Well are you into that that rock music, you know, all that druggy stuff and all that I mean?|qy|4092|1
+A|Well, uh|%|4092|0
+B|You know what I am saying|qh|4092|1
+B|like, I mean like they come on the stage|sv|4092|1
+B|and like, you know, you,|%|4092|1
+B|they don't even know they are there. You know.|sv|4092|1
+B|They are just so out of it.|sv|4092|1
+A|Actually, I prefer my, my performers to be pretty sober, you know, just uh, just so that, you know, that if they're jamming, you know, that they don't just lose themselves and you know, go into lala land.|ng|4092|0
+B|Yeah.|b|4092|1
+A|Uh-huh.|b|4092|0
+B|So, I just don't, I just don't like you know.|sd|4092|1
+A|Uh-huh.|b|4092|0
+B|That.|%|4092|1
+B|So, I don't know|h|4092|1
+A|So, uh, have you seen any concerts lately?|qy|4092|0
+B|Um. Uh,|%|4092|1

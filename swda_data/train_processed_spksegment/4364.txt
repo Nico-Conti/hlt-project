@@ -1,0 +1,98 @@
+A|So, do you, your privacy being invaded at any time?|qy|4364|0
+B|Well, uh, one of the things that, uh, that I found to be, uh, an invasion is when I pay for something with a credit card and they ask me to put my telephone number on the, on the, uh, credit card bill.|sv|4364|1
+B|That  is something that is not required|sv|4364|1
+A|Well,|%|4364|0
+A|Right.|b|4364|0
+B|and, in fact, uh, it is actually prohibited|sd|4364|1
+B|but it doesn't stop many people many people from, uh, from doing it.|sd|4364|1
+B|And it's one of the things that it's used for, primarily, is for demographic, uh, research.|sd|4364|1
+B|And to get your, your phone number on, uh, uh, lists for phone solicitations.|sd|4364|1
+A|Yeah.|aa|4364|0
+A|Yeah.|aa|4364|0
+A|Now that you can still, yeah,|%|4364|0
+A|I've always done that.|sd|4364|0
+A|I started,|sd|4364|0
+A|once I found out that that's really not necessary or legal then I just refuse|sd|4364|0
+A|and I say what are you going to do.|sd|4364|0
+A|You going to say you don't want to sell me this product then  that's fine.|^q|4364|0
+B|Uh-huh.|b|4364|1
+A|I'll just buy it somewhere else or not buy it at all.|sd|4364|0
+A|And then, ultimately, they say, no|sd|4364|0
+A|you don't have to put it down|^q|4364|0
+A|But, uh, really it's part of this compliance thing.|sd|4364|0
+B|Uh-huh.|b|4364|1
+A|Uh, the thing I don't like,|sd|4364|0
+A|I know that certain states actually sell their, uh, their lists like, uh, motor vehicles.|sd|4364|0
+B|Uh-huh.|b|4364|1
+A|That really burns me because, hey, you're required.|sd|4364|0
+A|You have to do that.|sd|4364|0
+B|Right.|b|4364|1
+A|And nowhere does it say you asks you whether you have permission or not to sell your name or information regarding that to anyone.|sd|4364|0
+B|Uh-huh.|b|4364|1
+A|And I think that, it, it's one thing to, uh, voluntarily give it because someone asks.|sv|4364|0
+A|You can always refuse|sd|4364|0
+A|but it's another thing where it's required by law|sv|4364|0
+A|and then they go ahead and take that information and sell it to somebody.  You know,|sd|4364|0
+B|Right.|b|4364|1
+B|Uh, That,|%|4364|1
+A|I don't think, I don't think they have the right to do that.|sv|4364|0
+B|I agree with you there.|aa|4364|1
+B|That's something that, uh, people have seen.|sd|4364|1
+B|Oh, here's an easy way to make some money.|^q|4364|1
+B|But, uh, I don't know if that's been challenged in the courts or not.|sd|4364|1
+B|I, I've heard, fairly recently, uh, some talk about that in this, in, in my state.|sd|4364|1
+B|Uh, the budget problems up here are, are pretty tense.|sd|4364|1
+B|And people are looking for alternate ways of, uh,|sd|4364|1
+B|enhancing revenue is the, uh, phrase they use.|sd|4364|1
+B|And they were talking about selling the D M V lists|sd|4364|1
+B|and there was a lot of, uh, a lot of, uh, consternation about that|sd|4364|1
+B|and the last I heard they'd backed down from that idea.|sd|4364|1
+B|But it really makes you wonder what other lists you're own that have been made, uh, public that you, don't know about.|sv|4364|1
+A|Well, that's easy.|sv|4364|0
+A|Whenever you donate money to someone?|sv|4364|0
+B|Uh-huh.|b|4364|1
+A|They, you become, put on something like a sucker list|sv|4364|0
+A|and you start getting millions of calls or solicitations.|sv|4364|0
+B|Right.|b|4364|1
+A|And then you|%|4364|0
+A|it kind of makes you feel from doing it again.|sv|4364|0
+B|Uh-huh.|b|4364|1
+A|Like, uh, National Public Radio or any of these, the public, uh, stations, you know.|sd|4364|0
+B|Uh-huh.|b|4364|1
+A|I, I, I, I think I sent in, in money for, once to, uh, to public, uh, T V.|sd|4364|0
+B|Uh-huh.|b|4364|1
+A|And I started getting calls from all sorts of diseases and syndromes and everything you could imagine.|sd|4364|0
+B|Huh.|%|4364|1
+A|I,|%|4364|0
+A|it's like|%|4364|0
+A|and it just started soon after I had done that one.|sd|4364|0
+B|Right.|b|4364|1
+A|And I just said this is, this is terrible|sd|4364|0
+A|Uh, and that's also happened to me where I've given money to my old Alma Mater in college.|sd|4364|0
+B|Uh-huh.|b|4364|1
+A|And, uh, it's one thing,|sd|4364|0
+A|they don't sell the list.|sd|4364|0
+A|But the thing that makes me mad is, uh, then they start getting, uh, other people,|sd|4364|0
+A|the people do these phonathons|sd|4364|0
+B|Right.|b|4364|1
+A|and they call you up|sd|4364|0
+A|and they actually happen to be people who are, graduated in your class or something like that.|sd|4364|0
+A|And, and they say, oh, we, we know you.|sd|4364|0
+A|You, uh, had, uh, contributed x amount last year.|^q|4364|0
+A|Can you do better this year?|^q|4364|0
+A|And, you know, like hold on here.|ad|4364|0
+B|How do you know that?|bf|4364|1
+A|Who, how do you know that?|qy|4364|0
+A|Why, why you even telling me this?|qw|4364|0
+A|Is it any of your business?|qy|4364|0
+A|I mean, it's one thing that I, and the college knows that|sd|4364|0
+A|that's, just our business.|sv|4364|0
+A|There's no need for someone  who is soliciting should know at all.|sv|4364|0
+B|Uh-huh.|b|4364|1
+A|Just, uh,|%|4364|0
+A|and that was very offensive too.|sv|4364|0
+A|I,|%|4364|0
+A|and so very|%|4364|0
+B|Last year, the, uh, Lotus Development Company, the, uh company that puts out One, Two, Three was planning on marketing a, uh, C D Rom with people's names sorted by number of different criteria.|sd|4364|1
+A|Uh-huh.|b|4364|0
+A|Right|b|4364|0

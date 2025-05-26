@@ -1,0 +1,298 @@
+A|All right.|fo_o_fw_"_by_bc|2334|0
+B|Well, like I told you before, .|sd|2334|1
+B|And you're talking about credit cards.|sd|2334|1
+A|Uh-huh.|b|2334|0
+B|We put ours up.|sd|2334|1
+B|I mean I had a delightful evening one night cutting a bunch of those suckers up.|sd|2334|1
+A|Um, I wish I had.|sv|2334|0
+B|Well, you should try it.|sv|2334|1
+A|Well, I,|%|2334|0
+A|it was done for me after a while.|sd|2334|0
+A|I had a, uh, I had a business going.|sd|2334|0
+A|And this was back in the eighties.|sd|2334|0
+A|I don't know if you remember the gold and silver prices and all that.|sd|2334|0
+A|But, uh, I had a coin shop,|sd|2334|0
+A|and everything was going great while gold and silver was up,|sd|2334|0
+A|and it started falling.|sd|2334|0
+B|Yeah.|b|2334|1
+A|So I started paying expenses and stuff on my credit cards,|sd|2334|0
+A|and things got worse and worse,|sd|2334|0
+A|and finally, boom|sd|2334|0
+B|You lost your business?|qy|2334|1
+A|Yep.|ny|2334|0
+B|Oh, gol.|ba|2334|1
+B|What a nightmare|ba|2334|1
+A|Yeah,|aa|2334|0
+A|it was.|aa|2334|0
+A|I ended up going into you know,|sd|2334|0
+A|it was one of those things uh,|sd|2334|0
+A|Oh, it'll get better next week, you know.|sd|2334|0
+A|Things will pick up.|sd|2334|0
+A|And, so, there I was in old bankruptcy court.|sd|2334|0
+B|Well, you weren't charging gold and silver were you?|qy|2334|1
+B|You can't do that, can you?|qy|2334|1
+A|Oh, yeah.|ny|2334|0
+B|Oh, you can?|qy|2334|1
+A|Oh, yeah,|ny|2334|0
+A|yeah.|ny|2334|0
+A|I was buying from other dealers,|sd|2334|0
+A|and, uh, you know, they take payment any way they can get it.|sd|2334|0
+B|Oh, that's a nightmare|ba|2334|1
+A|Yeah.|aa|2334|0
+A|Course on, on stuff that I was, on merchandise that I was buying on cards, it was, I was getting the money back,|sd|2334|0
+A|because I was selling it.|sd|2334|0
+A|I wasn't buying, you know, just to hold onto it.|sd|2334|0
+A|Uh, but it was things like, you know, rent and phone bills and advertising and all that other good stuff that ate them all up.|sd|2334|0
+B|Uh-huh.|b|2334|1
+A|So.|%|2334|0
+B|Well, I remember before I got married,|sd|2334|1
+B|you know when you graduate from college they'll send you all those credit card applications you know,|sd|2334|1
+A|Uh-huh.|b|2334|0
+A|Uh-huh.|b|2334|0
+B|of course you fill them all out because you're honored.|sv|2334|1
+A|Sure.|b|2334|0
+B|And, uh, I had stuff for like Sanger Harris,|sd|2334|1
+B|and, you know, it got up like to couple of hundred dollars,|sd|2334|1
+B|and I thought, Well that's okay, cause all they wanted was ten dollars a month.|sd|2334|1
+A|Uh-huh.|b|2334|0
+B|Right.|sv|2334|1
+A|Yeah.|b|2334|0
+B|I wasn't thinking a thing about it.|sd|2334|1
+A|That's the way they suck you in.|sv|2334|0
+B|Yeah.|aa|2334|1
+B|I was just stupid,|sd|2334|1
+B|and every time they had a sale, there I was.|sd|2334|1
+A|Uh-huh.|b|2334|0
+B|Because, you know, got, get such good bargains.|sv|2334|1
+A|Uh-huh.|b|2334|0
+B|And I don't know.|h|2334|1
+A|Well, just today in the mail I got, uh, I got, got my guaranteed acceptance by, uh, American Express.|sd|2334|0
+B|Oh, yeah,|b|2334|1
+B|we've been getting those.|sd|2334|1
+A|Yeah.|b|2334|0
+B|I went back to school and got my Master's,|sd|2334|1
+B|and they started sending those things to me again.|sd|2334|1
+A|Yeah,|b|2334|0
+A|as soon as you're a graduate student they get your name.|sv|2334|0
+B|Yeah,|b|2334|1
+B|they did.|sd|2334|1
+A|And, uh, course, I guess, I guess I've been purged from their records.|sd|2334|0
+A|I used to have an American Express.|sd|2334|0
+A|Uh, back when I had my business I got one.|sd|2334|0
+B|Uh-huh.|b|2334|1
+A|And they, they goofed up bad on my on my very first bill,|sd|2334|0
+A|because I was using the American Express strictly for the travel expenses.|sd|2334|0
+B|Yeah.|b|2334|1
+A|And the bill would come in,|sd|2334|0
+A|and I'd pay it.|sd|2334|0
+A|And the very first bill, I paid it,|sd|2334|0
+A|and then I got this nasty letter from them saying, You're overdue, pay.|sd|2334|0
+A|So I said, Well, it just crossed in the mail.|sd|2334|0
+A|So I didn't do anything about it.|sd|2334|0
+A|Two weeks later I get another letter, even nastier,|sd|2334|0
+A|and said, We're going to turn this over to our attorneys if you don't pay.|sd|2334|0
+A|And I looked at that,|sd|2334|0
+A|and I said, Uh-huh.|sd|2334|0
+A|So by this time my checks had come back from the bank.|sd|2334|0
+A|So I made a copy of the check that they had cashed attached it to their letter, and sent them a nasty letter with the card cut in little bitty pieces, saying Thanks, but no thanks|sd|2334|0
+B|Um.|b|2334|1
+B|Turned out they weren't cheeky.|bf|2334|1
+A|Yeah,|aa|2334|0
+A|they were, I tell you.|sd|2334|0
+A|They don't talk about they're charging that enormous fee every year.|sd|2334|0
+B|So what is it now?|qw|2334|1
+A|It's up to fifty-five on the gold card.|sd|2334|0
+A|It's eighty-five for the Optima.|sd|2334|0
+A|Or, I'm sorry no,|ar|2334|0
+A|no|ar|2334|0
+B|What do you mean fifty-five?|qw|2334|1
+B|You mean fifty-five dollars?|qy|2334|1
+A|Yeah,|ny|2334|0
+A|for the green card.|sd|2334|0
+B|But then, what's the interest?|qw|2334|1
+A|Well, now, that's the card, see.|sd|2334|0
+B|And interest is like eighteen or something.|qy^d|2334|1
+A|Oh, yeah,|ny|2334|0
+A|yeah.|ny|2334|0
+A|It's, um,|%|2334|0
+A|well, of course on the green card you have to pay it when the bill comes in, so there isn't any.|sd|2334|0
+A|But on the Optima card it's,|sd|2334|0
+A|um, let's see, right now it's running at about.|^h|2334|0
+A|It's not too bad.|sd|2334|0
+A|It's actually, it's about sixteen and a half percent, which is pretty good, as far as credit cards go.|sd|2334|0
+B|Yeah.|aa|2334|1
+B|Well, credit cards.|sd|2334|1
+A|Well, they're dangerous.|sv|2334|0
+B|You know, my parents don't hardly use them.|sd|2334|1
+A|Huh-uh.|b|2334|0
+A|Mine don't either,|sd|2334|0
+A|mine don't either.|sd|2334|0
+A|They, uh,|%|2334|0
+A|my mom has a, uh, has a MasterCard and a Visa card,|sd|2334|0
+A|and that's it.|sd|2334|0
+B|I've got all my gas cards, because I don't want to carry money around.|sd|2334|1
+A|Yeah.|aa|2334|0
+B|I'll do that.|sd|2334|1
+A|Yeah,|aa|2334|0
+A|now I, I do use gas cards.|sd|2334|0
+B|Now Impact is kind of bad too, though.|sv|2334|1
+A|Yeah,|b|2334|0
+B|You know. Especially if you get, forget to record those little suckers.|sd|2334|1
+A|Yeah,|aa|2334|0
+A|exactly.|aa|2334|0
+A|Plastic is just too easy,|sv|2334|0
+A|I mean that's the, that's the whole problem with it.|sv|2334|0
+B|Uh-huh.|b|2334|1
+A|Um,|%|2334|0
+B|Well, and you're tempted if you've got cash, a little bit of cash, and you don't have enough for the purchase, right.|sv|2334|1
+A|Yeah.|b|2334|0
+B|Of course, you got to charge it and keep your cash.|sv|2334|1
+A|Sure,|ba|2334|0
+A|naturally.|ba|2334|0
+A|That's,|%|2334|0
+A|I got into all kinds of trouble doing that Having, having been out of the credit game for some years now, I've gotten used to either paying in cash or not getting it. *sd|sd|2334|0
+B|to someone in the What are you saying? to the|t3|2334|1
+B|Oh, my husband says I might buy it,|sd|2334|1
+B|but I, I don't really usually consider that an option.|sv|2334|1
+B|Maybe that's how we got in trouble.|sv|2334|1
+A|And, uh,|%|2334|0
+B|Yeah,|b|2334|1
+B|but it's hard, isn't it?|qy|2334|1
+A|Well, it is,|na|2334|0
+A|but, I, I, I'm kind of, uh, grateful for the experience because it's taught me a lot of restraint.|sd|2334|0
+B|Well, it makes you feel good when you whip out the cash instead of your plastic.|bf|2334|1
+A|Yeah,|aa|2334|0
+A|exactly.|aa|2334|0
+A|I, I, uh, I just went out and got a new V C R yesterday with cash.|sd|2334|0
+B|With cash?|bh|2334|1
+A|And, it, it's,|%|2334|0
+B|Do you work with T I?|qy|2334|1
+B|No.|nn|2334|1
+A|No,|nn|2334|0
+A|I wish I did.|sd|2334|0
+B|Yeah,|aa|2334|1
+B|you could have got a discount, couldn't you?|qy|2334|1
+A|Yeah,|ny|2334|0
+A|I could use a discount.|sd|2334|0
+A|I have to wait for things to go on sale|sd|2334|0
+B|But there's always a sale.|sv|2334|1
+A|Yeah,|aa|2334|0
+A|especially on electronic goods|sv|2334|0
+B|Yeah.|b|2334|1
+A|especially now.|sv|2334|0
+B|What is that thing I saw,|sd|2334|1
+B|Circuit, Circuit World or something.|sd|2334|1
+A|Circuit City.|fo_o_fw_"_by_bc|2334|0
+B|Circuit City.|sd|2334|1
+B|Have you been in there?|qy|2334|1
+A|Yeah,|ny|2334|0
+A|they, they're not, their prices aren't that terrific.|sd|2334|0
+A|They, they used to be,|sd|2334|0
+A|but they've gotten, they've got to pay for all that national advertising now.|sd|2334|0
+B|Oh, it's national?|qy|2334|1
+A|Uh-huh.|ny|2334|0
+B|I think I've seen two around Dallas.|sd|2334|1
+A|Yeah,|aa|2334|0
+A|they're, they're all over the country now.|sd|2334|0
+B|Well, what else ,|%|2334|1
+A|They, they used to be good.|sd|2334|0
+A|I remember when they first opened up.|sd|2334|0
+A|They did have good bargains.|sd|2334|0
+A|I don't know if you have a place there called, uh,|qy^d|2334|0
+A|or you probably have something similar.|qy^d|2334|0
+A|We call it Service Merchandise.|sd|2334|0
+B|Yeah,|ny|2334|1
+B|in Garland.|sd|2334|1
+A|You got Service Merchandise.|qy^d|2334|0
+B|Uh-huh.|ny|2334|1
+A|Yeah,|b|2334|0
+A|it used to be Service Merchandise was the place to go.|sd|2334|0
+A|And, uh, Circuit City came along|sd|2334|0
+A|and that was the place to go to get your T V and washer and dryers and refrigerators and all that.|sd|2334|0
+A|And then after the years went by, they just sort of kept creeping up on price,|sd|2334|0
+A|and actually Service Merchandise is cheaper than them now.|sd|2334|0
+A|So.|%|2334|0
+B|So.|%|2334|1
+A|So much for Circuit City.|sv|2334|0
+B|So. Okay,|%|2334|1
+B|what else can we talk about?|qo|2334|1
+B|Who do you work for?|qw|2334|1
+A|I don't,|sd|2334|0
+A|I'm a graduate student.|sd|2334|0
+A|I'm a professional student.|sd|2334|0
+B|Sounds wonderful.|ba|2334|1
+A|It is.|aa|2334|0
+B|We were talking about that just today.|sd|2334|1
+A|It's great.|sv|2334|0
+B|We could be just lifelong students.|sv|2334|1
+A|It is great.|sv|2334|0
+A|I love it.|sd|2334|0
+B|Where are you going to school?|qw|2334|1
+A|N C State.|sd|2334|0
+B|What's that?|qw|2334|1
+A|Uh, North Carolina State.|sd|2334|0
+B|So you're on Spring Break?|qy|2334|1
+A|Not yet.|ng|2334|0
+A|Ours don't, ours doesn't start until, uh, next week.|sd|2334|0
+B|So where are you?|qw|2334|1
+A|Where am I?|br|2334|0
+B|Yeah.|ny|2334|1
+A|What do you mean, where?|qw|2334|0
+A|Oh,|bk|2334|0
+A|in Raleigh.|sd|2334|0
+B|Oh, okay.|bk|2334|1
+A|Little,|%|2334|0
+A|the burgeoning metropolis of Raleigh.|sd|2334|0
+A|What a dead place|sd|2334|0
+B|Is it?|qy|2334|1
+A|Yeah.|ny|2334|0
+A|I've got a nice little business at home,|sd|2334|0
+A|and I sit around and tinker with that most of the time.|sd|2334|0
+B|So what are you getting your degree in?|qw|2334|1
+A|Um, uh, human factors.|sd|2334|0
+B|And what do you do with it?|qw|2334|1
+A|Not a thing|sd|2334|0
+B|Well, what is it?|qw|2334|1
+A|It's, it's really looking at systems and design systems and seeing how people interact with them.|sd|2334|0
+B|So it's sociology.|bf|2334|1
+A|It's, well, it's more psychology and engineering.|sd|2334|0
+A|Uh,|%|2334|0
+A|my, my master's is in industrial engineering.|sd|2334|0
+B|So you're working on your doctorate?|qy|2334|1
+A|Yeah.|ny|2334|0
+B|Oh lord.|ba|2334|1
+A|P H D in human factors.|sd|2334|0
+B|Oh, that will, that will sound wonderful, won't it?|qy|2334|1
+A|Well,|arp_nd|2334|0
+B|Get you a little plaque.|sv|2334|1
+A|Oh, yeah.|aa|2334|0
+A|I B M, uh,|%|2334|0
+A|I mean, uh, a lot of people use human factors,|sd|2334|0
+A|folks,|%|2334|0
+A|but I B M is what I'm looking at right now.|sd|2334|0
+B|Aren't, aren't they laying off several thousand people?|qy|2334|1
+A|They might be,|no|2334|0
+A|but not at, not at the human factors level|sd|2334|0
+A|They, they're,|%|2334|0
+B|Well, I heard it on the news today,|sd|2334|1
+B|I could swear it was I B M.|sv|2334|1
+A|No,|ar|2334|0
+A|as a matter of fact, the I B M right here, or in Carey, which is a little suburb of Raleigh, just, just hired one more human factors person.|sd|2334|0
+B|Um.|b|2334|1
+A|Doggone it,|ba|2334|0
+A|if they'd just waited a little bit longer it could have been I'm, I'm, I'm going into or going into the, uh, dissertation this summer. *sd|sd|2334|0
+B|How much longer do you have?|qw|2334|1
+B|And get that done this summer?|qy^d|2334|1
+A|Uh, I'm going to start this summer.|no|2334|0
+A|I probably won't finish it until the end of the year|sd|2334|0
+B|Ooh. *listen|ba|2334|1
+A|but, uh, I'm, I'm trying to get a, uh, intern position with I B M right now so that I can find an area to do my dissertation in.|sd|2334|0
+B|Because you,|bf|2334|1
+A|It's hard finding an area to do a dissertation in this field.|sd|2334|0
+B|Why?|qo|2334|1
+B|There has been so much work done already?|qy|2334|1
+A|Yeah,|ny|2334|0
+A|that's,|%|2334|0
+A|that and, and, it's, it's limited application in some respects.|sd|2334|0
+A|Um, in the area that we're in here, there's a lot of places that use human factors people.|sd|2334|0
+A|Most,|%|2334|0

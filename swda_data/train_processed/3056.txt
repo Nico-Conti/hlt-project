@@ -1,0 +1,175 @@
+A|Hi Ed.|fp|3056
+B|Hi.|fp|3056
+A|Hi.|fp|3056
+B|Uh, books,|sd|3056
+B|I've, actually I am reading a couple of different books, uh,|sd|3056
+B|one is, uh, a story,|sd|3056
+B|well it is not a story,|sd|3056
+B|it is a collection of, uh, of memos, supposedly written by Howard Hughes, uh,|sd|3056
+A|Oh.|%|3056
+B|that was, uh, that was,|%|3056
+B|it came out a couple of years ago|sd|3056
+B|and I have just now gotten around to reading it.|sd|3056
+B|I have had it a couple years,|sd|3056
+B|but, uh,|%|3056
+A|Who wrote that?|qw|3056
+B|Oh, I do not remember the man's name,|sd|3056
+B|he was, used to be a reporter for, uh, I think, the NEW YORK TIMES, or the WASHINGTON POST, one of the two,|sd|3056
+B|and he supposedly got this, this, story, uh, I mean this, uh, was contacted by this guy who had these, these memos he wanted to sell,|sd|3056
+B|and they were, they were ones that had supposedly been stolen from the, uh, corporate headquarters in, uh, in Los Angeles.|sd|3056
+A|Huh.|b|3056
+B|They, on|%|3056
+B|I think it was Romain Drive or Romain Street or something, there in Los Angeles,|sd|3056
+B|they used to have a,|sd|3056
+B|or, I guess they still do, uh,|sv|3056
+B|had a, uh, uh, big warehouse kind of thing, which had offices|sd|3056
+B|and it was sort of nondescript for a, uh, you know, for the size of the company which, inside was basically a store house of a bunch of stuff he collected,|sd|3056
+B|he, he was, uh, a great collector of everything,|sd|3056
+B|he, he, he did not, he did not throw anything away|sd|3056
+B|and, uh, supposedly this guy had, had been breaking there for|sd|3056
+B|he was a, like, you know, burglar, had been breaking there awhile and, uh, And had ended up,|sd|3056
+A|I see.|b|3056
+B|he had some accomplices that were kind of suspect,|sd|3056
+B|and they, uh, they broke in one, one night and found a bunch of memos that were, uh, supposedly from, from Hughes to, uh, to his main, uh, main assistant back, uh, in the fifties and well, I guess, in the sixties, up until his death.|sd|3056
+A|Well, that is interesting.|ba|3056
+A|Right.|b|3056
+B|So, it's pretty interesting work|sv|3056
+B|so,|%|3056
+A|That is an intriguing type of book to be reading and trying to keep up on things like that.|sv|3056
+B|Yeah,|b|3056
+B|it's a, it's a little, it's a little hard|sv|3056
+B|you have to plod through it|sv|3056
+B|and, you know, it does not have a real story, or any plot,|sd|3056
+A|Uh-huh.|b|3056
+B|you just kind of have to read and understand what is going on.|sd|3056
+A|And, they have not made a movie of the week of it yet.|sd|3056
+B|No,|aa|3056
+B|I have not seen it.|sd|3056
+B|But it's, but it is, it is real interesting,|sv|3056
+A|Yeah.|b|3056
+B|uh, I also reading, uh, the, uh,|sd|3056
+B|it's a, an old, another old book that I happen to have.|sd|3056
+B|I am sort of rereading it.|sd|3056
+B|It's, uh, a book about, uh, the Bermuda Triangle,|sd|3056
+B|but it's, uh, it's about, it's a real good book that a guy, uh, wrote who was, uh, a research librarian,|sd|3056
+B|he wrote, uh, sort of debunking many of the, uh, uh, the stories about the, uh, Bermuda Triangle. You know,|sd|3056
+B|he, he was thinking many, many of the the myths, many of the myths of the triangle were, uh, actually, could be explained,|sd|3056
+A|Uh.|%|3056
+A|Explained , *listen; could be br|sd|3056
+B|and, you know. Uh, and the reason I was, picked it back up was in light of all the, uh, Well when they found the, uh, the airplanes on the, in the Atlantic, thinking they were Flight Nineteen.|sd|3056
+B|And I don't know if you are familiar with that at all|sd|3056
+B|but it's, uh,|%|3056
+B|Flight Nineteen was one of the, uh, was a, a collection of a flight of five Navy adventures at the end of World War Two. Right after World War Two,|sd|3056
+B|and they were, they were lost|sd|3056
+B|and, uh,|%|3056
+A|Supposedly scooped up by the triangle.|qy^d|3056
+B|Yeah,|ny|3056
+B|they were.|sd|3056
+A|Yeah.|b|3056
+B|And so, and in the book, you know, even,|sd|3056
+B|he wrote this book back in the seventies,|sd|3056
+B|and even, and even then he, he had a very good case for the fact they probably just got lost and they ditched in the water.|sd|3056
+B|And, uh, because he, he mentions, he, he goes through and brings out points from the Navy's findings and so forth.|sd|3056
+B|And, uh, it's probably, you know, real close to what, you know, everyone is thinking, now that, they just got turned around and could not find their way back.|sv|3056
+A|Yeah.|b|3056
+A|On that same topic, have you ever read anything about, you know, the Amelia Earhart story, whatever happened with her?|qy|3056
+B|Uh, no,|nn|3056
+B|I have not.|sd|3056
+A|I, I think that would be,|sv|3056
+A|I am sure there is something out there, uh, ,|sv|3056
+B|Yeah,|b|3056
+B|I would I would like to, too,|sd|3056
+B|because it's a lot of things coming up here lately about her, you know, possibilities of of where she ,|sd|3056
+A|I thought she was a prisoner of war or something for like ten years.|sd|3056
+B|Uh|%|3056
+A|Well whatever, this is one aspect of it.|sd|3056
+B|Yeah.|b|3056
+A|Of course, you know, it is so weird,|sv|3056
+A|cause no one will ever really know,|sv|3056
+A|it's, it,|%|3056
+A|so but it's entertaining|sv|3056
+A|and it makes you think about things.|sv|3056
+B|Right.|b|3056
+A|That is for sure.|sv|3056
+B|Yeah.|b|3056
+B|So, that is pretty much for right now,|sd|3056
+B|that is, what I have been reading.|sd|3056
+A|Yeah.|b|3056
+B|I kind of like to read different stuff|sd|3056
+B|and, uh, I like to read a novel every now and then,|sd|3056
+B|but, uh, I am trying to get away from just reading novels all the time.|sd|3056
+A|Right.|b|3056
+A|Well, I, I guess I just have not read|sd|3056
+A|I mean, usually, I just, if I find a good book, I will sit, you know, for two days until it is finished. If it's that good,|sd|3056
+B|Yeah.|b|3056
+A|and I think the last one I read like that was Scott Thurow's|sd|3056
+A|and that was PRESUMED INNOCENT.|sd|3056
+B|Yes.|b|3056
+A|And I just really, really liked the way he writes.|sd|3056
+A|It's just, incredible.|sv|3056
+B|Yeah,|b|3056
+B|I read that, too.|sd|3056
+B|I got it, uh, right, after it came out.|sd|3056
+B|My, uh, you know,|%|3056
+A|Yeah.|b|3056
+B|he was an, an assistant district attorney in Chicago at, uh, and while he was writing the book,|sd|3056
+B|and, uh, my sister-in-law lives in Chicago,|sd|3056
+B|and she had, before it actually got big, she sent me this book saying, you might like this,|sd|3056
+B|this guy is, you know, from here.|^q|3056
+A|Uh.|b|3056
+B|And, uh, I read it and really liked it|sd|3056
+B|and then about,|%|3056
+B|that is when it really got big.|sd|3056
+B|And, uh, so I,|%|3056
+A|That was good, I think.|sv|3056
+A|And, and the other book I am trying to think, you know, like was in the last year|sd|3056
+A|and I think I did read Tom Wolfe and VANITY, uh,|sd|3056
+B|OF THE VANITY ,|^2|3056
+A|BON|%|3056
+A|yeah.|aa|3056
+B|I have not read that, although, I have heard it is pretty good.|sd|3056
+A|Uh.|%|3056
+A|Yeah|b|3056
+A|I,|%|3056
+A|that was really, really good,|sv|3056
+A|the movie was nothing compared to the book.|sv|3056
+B|Yeah,|aa|3056
+B|that is what I have heard.|sd|3056
+A|And.|%|3056
+A|Yeah.|b|3056
+B|I saw the movie,|sd|3056
+B|and, uh,|%|3056
+A|Oh, the movie was a joke compared to,|sv|3056
+A|I mean, because Tom Wolfe is so perceptive, when it comes to, you know, pinpointing, uh, society's ills and, things like that and just nailing people to the wall and exposing things|sv|3056
+B|Yeah.|b|3056
+B|Right.|b|3056
+A|and, and so, it was, it was a much more intense book than the sort of flimflam that they cast off in the movie|sv|3056
+B|Right.|b|3056
+B|I know.|b|3056
+A|And, anyway, we are not talking about that,|sd|3056
+A|but, uh, gee, I just I like to read gardening books and things like that. Just to tell me what to do with my garden|sd|3056
+A|and, uh, And, uh,|%|3056
+B|Yeah.|b|3056
+B|I have a lot of, uh, uh, computer books that|sd|3056
+B|I am, I do computer work|sd|3056
+B|and so I have a lot of those.|sd|3056
+B|So, I spend a lot of time looking through those, not necessarily reading them but, looking through them.|sd|3056
+A|Yeah.|b|3056
+B|But I, I'm interested in a lot of that,|sd|3056
+B|but, uh, I have got a lot of books that I, I intend to read,|sd|3056
+B|but I have not been able to yet, you know, for one reason or another.|sd|3056
+A|Like, what is a book on your list,|qw|3056
+A|you know I have a list too|sd|3056
+A|and I have never gotten to it|sd|3056
+B|Oh, gosh, I do not, I do not really have a list,|sd|3056
+B|cause I just kind of, uh, I just have all the books out, you know,|sd|3056
+B|I have book shelves|sd|3056
+B|and I have them all out|sd|3056
+B|and usually when I am through with one, I will go in and, uh, uh, uh, look, look through, uh,|sd|3056
+B|I have one now and I, I can not remember the name of it that I, that I got is|sd|3056
+B|the sister-in-law in Chicago usually sends me for my birthday or, or Christmas or something will send me another, another good book|sd|3056
+B|and, uh, uh,|%|3056
+A|Oh.|b|3056
+B|I have one|sd|3056
+B|and I can not remember the name of it, uh,|sd|3056
+B|it is supposed to be a mystery.|sd|3056

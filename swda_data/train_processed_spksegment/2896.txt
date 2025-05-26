@@ -1,0 +1,179 @@
+A|What kind of painting are you planning to do?|qw|2896|0
+B|Well I have wallpaper in both of my bathrooms right now which is really pretty disgusting.|arp_nd|2896|1
+A|Uh-huh.|b|2896|0
+B|And, um, it's a rent house|sd|2896|1
+B|and I decided it's too expensive to rewallpaper|sd|2896|1
+B|so I decided I'm going to paint.|sd|2896|1
+A|Uh-huh.|b|2896|0
+B|And I've been buying some magazines and stuff and looking at different ways to paint.|sd|2896|1
+B|And I'm thinking about maybe sponge painting them. Either that or maybe rag rolling. To give it kind of a country look.|sd|2896|1
+A|Oh, what would be interesting.|ba|2896|0
+A|Uh-huh.|b|2896|0
+A|Yeah,|b|2896|0
+A|I've never done any of those fancy kinds of paint treatments,|sd|2896|0
+A|but they look very interesting|sv|2896|0
+A|and you get some beautiful effects with them.|sv|2896|0
+B|Yeah.|aa|2896|1
+B|Uh, one of the books that I bought, where it's describing the sponge painting, said you can like layer different colors|sd|2896|1
+B|and,|%|2896|1
+A|Yes,|aa|2896|0
+A|yeah,|aa|2896|0
+A|I've seen that done, where there's uh, oh,|sd|2896|0
+A|I saw one that was kind on an ecru undercoat|sd|2896|0
+A|and then it had, a little bit darker sort of peachy color,|sd|2896|0
+B|Uh-huh.|b|2896|1
+A|and in between there was a sort of a rust, uh, put on very sparingly.|sd|2896|0
+B|Ugh.|b|2896|1
+A|And it gave the impression of very old weathered stucco.|sd|2896|0
+B|Yeah.|b|2896|1
+B|Um, what I, what I'm trying to do is I've got yellow tile in both the bathrooms|sd|2896|1
+A|Uh-huh.|b|2896|0
+B|so I want something that's going to tie that together|sd|2896|1
+B|and I'm changing the, like the towel racks and stuff, the, the fixtures out to make them wood,|sd|2896|1
+B|I'm going to put wood in there.|sd|2896|1
+A|Oh, yeah,|b|2896|0
+A|that should be nice.|ba|2896|0
+B|So it's going to have kind of a country look.|bf|2896|1
+A|Uh-huh.|aa|2896|0
+B|Um, and I haven't even decided as far as, um, what kind of paint to buy.|sd|2896|1
+B|I don't have an actual instruction book|sd|2896|1
+B|so I'm really in kind of the beginning stages right now.|sd|2896|1
+A|Well, uh.|%|2896|0
+B|Um, it's going to be a big experiment.|sd|2896|1
+A|Yeah,|b|2896|0
+A|I was about to say, you ought to experiment on at least a small part of it before you just tackle the whole thing|ad|2896|0
+B|Yeah.|aa|2896|1
+A|Because you might find that it's beyond, uh, what you're willing to put into it. Although I think it could turn out really nice.|sv|2896|0
+B|Yeah,|aa|2896|1
+B|yeah.|aa|2896|1
+B|Yeah,|aa|2896|1
+B|I've,|%|2896|1
+A|I haven't ever done fancy painting|sd|2896|0
+A|but I sure did my share of just regular painting.|sd|2896|0
+A|Uh, I've painted several houses, inside.|sd|2896|0
+A|I, never painted the outside.|sd|2896|0
+B|Uh-huh,|b|2896|1
+B|inside.|b^m|2896|1
+B|What, what kind of, what kind of paint do you normally use?|qw|2896|1
+A|Well, uh, we used a latex, uh, wall paint and then a semigloss enamel for the woodwork|sd|2896|0
+A|and my job was mostly the woodwork.|sd|2896|0
+B|Okay,|bk|2896|1
+B|uh-huh.|%|2896|1
+A|My husband would paint the walls and ceilings with the rollers|sd|2896|0
+A|and I got to do all of the masking tape and then all of the little fine, uh, trim work, where I'd use a small brush and, uh, try to keep the paint from dripping on the windows and things like that|sd|2896|0
+B|Uh-huh.|b|2896|1
+B|Uh-huh.|b|2896|1
+B|Well we only have only one of our bathroom has a window in it|sd|2896|1
+B|so I'm hoping that, um, it won't be too much of a, a problem.|sd|2896|1
+A|Uh-huh.|b|2896|0
+B|Um, I'm wondering if my bigger problem is getting the wallpaper taken down first. Because I, I think,|qy^d|2896|1
+A|Well I was going to ask if you planned to paint over it or try to strip it.|qy|2896|0
+B|No,|nn|2896|1
+B|I'm, I'm planning on taking it off.|sd|2896|1
+A|I have heard that they've got these steamers you can rent now, which make it much easier to get wallpaper off.|sd|2896|0
+B|Um.|b|2896|1
+A|Um, I tried to get wallpaper off once twenty years ago, oh, with a just a scraper and wet sponge|sd|2896|0
+A|and it took forever.|sd|2896|0
+A|I would not recommend that method.|ad|2896|0
+B|Okay.|aa|2896|1
+A|Uh, if if you can rent a steamer, if it's modern wallpaper it should come off without too much trouble.|sv|2896|0
+B|Well that's something that, that's worthwhile checking into then. 'Cause I,|sv|2896|1
+A|If it's really old, you don't know what it's put on with.|sv|2896|0
+B|It, it's hard to tell,|sd|2896|1
+B|it's,|%|2896|1
+B|the patterns look like they're nineteen sixties style.|sd|2896|1
+A|Yeah.|b|2896|0
+B|And I know the house, um, was built around the mid fifties.|sd|2896|1
+A|Uh-huh.|b|2896|0
+B|So it may be the original wallpaper|sd|2896|1
+A|Could be,|aa|2896|0
+A|yeah.|aa|2896|0
+A|Um, if it's vinyl it should be easier to strip too.|sv|2896|0
+A|If it's paper it will probably shred.|sv|2896|0
+B|Um, in one bathroom it's, um, it's probably paper, uh,|sd|2896|1
+B|it's silver, silver and yellow, and white.|sd|2896|1
+A|Um, uh-huh|b|2896|0
+A|Well the wallpaper that I was trying to remove was black,|sd|2896|0
+A|this was in a bathroom too.|sd|2896|0
+A|And the, the tiles were sort of a mottled grey and had a little trim strip of maroon and white|sd|2896|0
+A|and the, the wallpaper in that bathroom had a black background|sd|2896|0
+A|and then it had vivid, uh, almost neon colors of hot pink and turquoise, and lime green and silver, and, uh, a little bit of yellow that looked like coral sands and sea horses and things like that|sd|2896|0
+B|Um, that's kind of an odd color for a bathroom.|ba|2896|1
+A|Oh it was awful,|sd|2896|0
+A|it was absolutely hideous|sd|2896|0
+A|and, and we had a dinner party before we started renovating it|sd|2896|0
+A|and a, a guest went in there|sd|2896|0
+A|and he said it's a good thing I went to the bathroom before dinner because if I had had something to drink and went in there I would think I was having hallucinations|sd|2896|0
+B|Really.|b|2896|1
+B|Well I, I've also been thinking about, after looking at all these magazines, um, these design magazines and stuff, I'm thinking about maybe painting the bedroom walls too, in a color that will kind of, um, tie in our, um, our, um, our, uh, comforter, with a color that's kind of a, um, burgundy and green and yellow and blue and beige floral design.|sd|2896|1
+A|Uh-huh.|b|2896|0
+A|Uh-huh.|b|2896|0
+B|Um, and I'm not really quite sure,|sd|2896|1
+B|I don't know if maybe I'm biting off more than I can chew.|qy^d|2896|1
+A|Well I'd say tackle one project first and see how it goes|ad|2896|0
+A|and if you discover you like it then you can always upscale.|ad|2896|0
+B|Yeah,|aa|2896|1
+B|well the bedroom would probably be the easier of the two because it would be just plain painting.|sv|2896|1
+A|Sure.|aa|2896|0
+B|It wouldn't be any kind of special, um, special effects type thing.|sd|2896|1
+A|Yeah.|b|2896|0
+B|It would be just plain paint.|sd|2896|1
+A|Well it's not hard to do if you get everything prepared ahead of time.|sv|2896|0
+A|Because if you, uh, use drop cloths to cover everything and you use masking tape to trim out, uh, all the parts that you don't want to slop over onto, you don't have to be quite as precise about how you do it|ad|2896|0
+A|and it can be done a whole lot faster. And with rollers and, uh, modern latex paints,|sv|2896|0
+B|Um, okay.|aa|2896|1
+A|you can wash up easily because they're water soluble.|sv|2896|0
+B|Uh-huh.|b|2896|1
+A|And they dry fast|sv|2896|0
+A|so you really don't have to be disrupted for more than about a weekend. If you have some help.|sv|2896|0
+B|Um.|b|2896|1
+A|And then if that, if you discover the little tricks and tips about, you know, how you get through corners and how you do trim and, uh, how long to leave the masking tape down, because if you leave it too long and it dries it can flake when it, when you pull it up.|sv|2896|0
+B|It, it peels the paint off when you take it off,|sv|2896|1
+B|yeah.|%|2896|1
+A|Well, not,|%|2896|0
+A|if you leave it on for weeks, it will do that.|sv|2896|0
+A|If you take it up the next day it should be fine.|sv|2896|0
+A|You want it to get dry, but not, uh, just real hard.|ad|2896|0
+B|Yeah,|aa|2896|1
+B|okay.|aa|2896|1
+A|You don't want the gum on the back of the masking tape to get dried to hard.|ad|2896|0
+A|That's the problem.|ba|2896|0
+B|Yeah.|b|2896|1
+A|It will come up a lot easier if you don't wait too long.|sv|2896|0
+A|And I've, I was told,|%|2896|0
+A|I always used the nice wide masking tape,|sd|2896|0
+A|but I've heard from people who tried to get by and skimp on narrow masking tape that it was more trouble than it was worth. Because it, it rips as you pull it off for one thing|sd|2896|0
+B|Oh really,|b|2896|1
+B|okay.|b|2896|1
+A|and then you end up tediously scraping these tiny little shreds of masking tape|sd|2896|0
+B|Um.|b|2896|1
+A|And the whole point of using it is to save yourself work.|sv|2896|0
+A|You can do a little faster painting and much easier clean up if you use the masking tape.|sv|2896|0
+A|But use, use good, uh, stuff and buy it at a paint store where they have the right brands, that will go down and come up easily.|ad|2896|0
+B|Okay.|aa|2896|1
+B|Well I really appreciate all the helpful tips,|ft|2896|1
+B|I think you are, just made my project a lot easier|sv|2896|1
+A|Well I wish you very good luck with it|sv|2896|0
+A|and I will tell you that I have retired from the painting business.|sd|2896|0
+A|The last time I had something done was my kitchen cabinets|sd|2896|0
+A|and I decided that was too much to tackle,|sd|2896|0
+A|I'd hire a professional.|sd|2896|0
+B|If you were, if you were closer I'd, I'd, I'd tell you you could come over and supervise|ad|2896|1
+A|Well if I were closer I might.|aa|2896|0
+A|Oh, well I hope your project turns out great|sd|2896|0
+A|and I, really think that it's exciting that you're going to try the sponge painting.|sv|2896|0
+A|I think that could give it a really a,|sv|2896|0
+B|Well, we'll see how it goes,|sv|2896|1
+B|I may just be flat painting over it.|sv|2896|1
+A|Well, of course that's the other advantage of paint.|sv|2896|0
+A|If you don't like it all you do is put on another coat.|sv|2896|0
+B|Yeah.|b|2896|1
+A|I guess we'd better go because our time looks like it's about up.|fc|2896|0
+B|Yeah,|fc|2896|1
+B|I, I need to go to the dentist,|fc|2896|1
+B|so.|%|2896|1
+A|Okay,|fc|2896|0
+A|bye-bye.|fc|2896|0
+B|It's was nice talking to you Kathleen.|fc|2896|1
+A|Thank you.|fc|2896|0
+B|Bye-bye.|fc|2896|1

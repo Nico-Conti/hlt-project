@@ -1,0 +1,192 @@
+A|Okay.|fo_o_fw_"_by_bc|2231|0
+A|Capital punishment,|sd|2231|0
+A|oh, I honestly don't feel like it's strict enough in my opinion.|sv|2231|0
+B|In the way that it's applied or it's applied at all?|qy|2231|1
+A|Uh-huh.|b|2231|0
+A|Applied at all.|sd|2231|0
+B|So, I,|%|2231|1
+B|how do you feel that it should be applied?|qw|2231|1
+A|Well, I I just feel like there's a lot of murderers and rapists, and everything else, just walking the streets. You know?|sv|2231|0
+B|And that, that, the penalty ought to be out there, and be enforced?|qy|2231|1
+A|Yes.|ny|2231|0
+A|Yes.|ny|2231|0
+A|Not getting paroled, let's say in so many, years.|sv|2231|0
+B|Yeah.|b|2231|1
+A|I mean, if your going to sentence somebody, let's say twenty years, let them stay twenty years.|sv|2231|0
+B|That's,|%|2231|1
+B|I agree with that completely.|aa|2231|1
+B|I know we don't have enough prisons,|sd|2231|1
+B|but there has got to be some kind of punishment, For these people.|sv|2231|1
+A|There has,|aa|2231|0
+A|that's right.|aa|2231|0
+B|Because if they turn around, they can get away, they get away with it,|sv|2231|1
+B|and they get away with it,|sv|2231|1
+B|and they get away with it,|sv|2231|1
+B|and then they do something worse|sv|2231|1
+A|Uh-huh.|b|2231|0
+B|and they get a slap on the wrist.|sv|2231|1
+B|They get, thirty days in jail|sv|2231|1
+A|Yeah.|b|2231|0
+A|Yeah.|b|2231|0
+B|and they final get up to where they kill somebody else,|sv|2231|1
+B|and they go through fourteen appeals, and how many hundreds of thousands of taxpayer dollars.|sv|2231|1
+A|Uh-huh.|b|2231|0
+A|That's right.|aa|2231|0
+A|That's, honestly right.|aa|2231|0
+B|And it's,|%|2231|1
+B|Well, they certainly are living off our at our expense.|sv|2231|1
+A|Uh, they sure are just because, some innocent person, can really,|aa|2231|0
+B|I didn't ,|%|2231|1
+A|it seems like, really a rough time|sv|2231|0
+B|Yeah.|b|2231|1
+A|you know? I'm not saying innocent person,|sd|2231|0
+A|let's say someone wrote a hot check, for instance.|sd|2231|0
+A|You know, it seems like when they go to prison, it, they really seem like it's a rough time for them|sv|2231|0
+B|Uh-huh.|b|2231|1
+A|he's just there to serve his time, and get back out on the street.|sv|2231|0
+B|And, and be paroled, and and have served the sentence,|bf|2231|1
+A|Yeah.|b|2231|0
+B|that's what, that's what people face with that choice.|sd|2231|1
+B|One thing I really hate, is they don't explain to the jurors, in a, in a trial, in a capital murder trial, or in cases of rape, or in different things that are so horrible, what it means when they sentence them to, you know,|sv|2231|1
+B|they'll sentence them to ninety years and say that it's, you know, that it's going to, you know,|sd|2231|1
+A|Uh-huh.|b|2231|0
+B|that should be life,|sv|2231|1
+B|but, instead, in, in|%|2231|1
+B|given the choice of either sentencing to death, or sentencing to life, they'll give them ninety years in prison or something, and then turn around in thirty years, that, you know,|sd|2231|1
+B|and less they're out.|sv|2231|1
+A|Uh-huh.|b|2231|0
+B|Even if, if they're even in that long.|sd|2231|1
+B|Or they appeal,|sd|2231|1
+B|and then they get an appeal that says it was, you know, an unjust amount of time, an extraordinary long length, or something.|sd|2231|1
+A|Time, uh-huh.|b^m|2231|0
+A|Yes.|b|2231|0
+A|I was, I would just be,|%|2231|0
+A|I would love to see them just really get real strict on parole you know.|sv|2231|0
+B|Yeah.|b|2231|1
+B|I'd like to see the death penalty more as a deterrent,|sv|2231|1
+B|I think people know that nobody, that it doesn't, you know,|sv|2231|1
+B|it's not a deterrent right now, because it's not really effective.|sv|2231|1
+A|Uh-huh.|b|2231|0
+B|There's should be, you know, this, for this crime, this is the penalty.|sv|2231|1
+B|You killed, someone you know, in cold blood or whatever.|sv|2231|1
+A|Uh-huh.|b|2231|0
+A|Yeah.|aa|2231|0
+A|You get, it back,|^2|2231|0
+A|yeah.|aa|2231|0
+B|This is what's going to happen.|sd|2231|1
+A|Yeah.|b|2231|0
+B|And, I mean, it sounds horrible.|sv|2231|1
+B|It,|%|2231|1
+B|I hear myself saying this,|sd|2231|1
+B|and, but, I, don't know what else to do with some of these people, that are,|sv|2231|1
+A|Yeah.|b|2231|0
+A|But it's,|%|2231|0
+A|I, I know.|aa|2231|0
+B|because they let them back out again,|sd|2231|1
+B|and they do the same thing over,  and over,  again,|sv|2231|1
+A|Same thing,|b^m|2231|0
+A|Yes.|b|2231|0
+B|then they put them back in jail,|sd|2231|1
+B|and they get out,|sd|2231|1
+B|and and more and more innocent people are hurt or killed|sd|2231|1
+A|Yes.|b|2231|0
+A|Uh-huh.|b|2231|0
+B|and these guys just are on the endless merry-go-round in the legal system.|sv|2231|1
+A|Uh-huh.|b|2231|0
+B|And it's like I said at our expense.|sv|2231|1
+A|Uh, a lot of people really doesn't think that much about it, because it hasn't happened to them, which it hasn't to me either, you know?|sv|2231|0
+B|Yes.|b|2231|1
+A|Thank goodness.|ba|2231|0
+A|But still, it could.|sd|2231|0
+B|I know,|aa|2231|1
+B|I, you read about it in the paper, every day, somebody who's done this, or that, something really horrible|sd|2231|1
+A|Yes.|b|2231|0
+A|Uh-huh.|b|2231|0
+B|and they just get away with it,|sd|2231|1
+B|and nothing happens.|sv|2231|1
+A|And as far as the other states, I honestly don't know what their capital punishment is.|sd|2231|0
+A|You know, I, I, haven't kept up, you know, anything, like that.|sd|2231|0
+B|Yeah.|b|2231|1
+B|I think I think Texas is Texas, the southern states seem to be somewhat more conservative and still have the death penalty,|sd|2231|1
+B|and I think, I know California had it for a long time,|sd|2231|1
+B|and then they, uh, took it off the books,|sd|2231|1
+B|they repealed it|sd|2231|1
+A|Uh-huh.|b|2231|0
+B|and people like Charles Manson, and, and some of these other people, who were sentenced to death at the time they repealed the death penalty, were sentenced to life in prison, and are now, now that even though California has reinstated the death penalty, for whatever various crimes.|sd|2231|1
+B|The people who were there originally, when they, when they changed the laws to revoke the death penalty, are still in there for, are in prison, in quote, for life, and, and are now coming up for parole,|sd|2231|1
+B|some of them, like Manson who's come up you know|sd|2231|1
+A|Uh.|b|2231|0
+A|Uh-huh.|b|2231|0
+B|it's been denied fortunately|sd|2231|1
+B|but,|%|2231|1
+A|Yes.|b|2231|0
+A|But still, it came up though, didn't it,|qy|2231|0
+B|Yeah.|ny|2231|1
+A|I mean, you know|%|2231|0
+B|Well, the jury that sentenced him, sentenced him to death|sd|2231|1
+A|Uh-huh.|b|2231|0
+B|and then while he was on appeal on his thousandth and one appeal, the state of California revoked the law in the early seventies,|sd|2231|1
+B|and then they reinstated it later,|sd|2231|1
+B|but the penalty didn't go back. You know?|sd|2231|1
+A|Uh-huh.|b|2231|0
+B|It seems like a lot of times the law is, is totally on the criminal side, and, and isn't protecting the rest of the people.|sv|2231|1
+A|Yes.|b|2231|0
+A|The victim is really, seems like left out in the cold, more or less, doesn't it,|sv|2231|0
+B|Uh-huh.|b|2231|1
+A|in a lot of, well, especially in things, you pick up the paper,|sd|2231|0
+A|and you read, you know, you think, oh my goodness|sd|2231|0
+B|Yeah.|b|2231|1
+B|And the, the laws are all, the rules.|%|2231|1
+B|Some of the things that would make sense to, to tell the jury, that this, this guy has a, a prior criminal history, you know, where he's raped ten women|sv|2231|1
+A|Uh-huh.|b|2231|0
+B|and then he gets up for this one trial,|sd|2231|1
+B|and they don't finds anything out about the facts that he's done this over and over and over again|sd|2231|1
+A|Uh-huh.|b|2231|0
+B|and so they say, well, this is, you know,|%|2231|1
+B|I, I don't know if they say it's the first time offense or whatever,|sd|2231|1
+B|but they give him a lighter sentence, thinking he's not a habitual criminal.|sd|2231|1
+A|Or, you know, plead insanity.|bf|2231|0
+B|Yeah,|aa|2231|1
+B|yeah. Well,|b|2231|1
+B|To some extent if they would do something with some of those people.|%|2231|1
+B|But that seems to be a good way to get off for a lot of them too.|sv|2231|1
+A|Oh yes,|b|2231|0
+B|They plead insanity|sd|2231|1
+A|uh-huh.|b|2231|0
+A|Uh-huh.|b|2231|0
+B|and then three years later they're cured, and let loose on society again.|sd|2231|1
+A|Yes.|b|2231|0
+A|I,|%|2231|0
+A|it just, just doesn't make sense,|sv|2231|0
+B|I mean, it's a it's a scary world out there anymore, where your afraid to go out,|sv|2231|1
+A|I,|%|2231|0
+B|I know, in, in the Dallas metroplex area, I don't go out hardly if I don't have to at night by myself|sd|2231|1
+A|Uh-huh.|b|2231|0
+B|and I, I certainly, I, I grew up in a smaller town in Texas,|sd|2231|1
+B|and it wasn't that way when I was younger.|sd|2231|1
+A|Uh-huh.|b|2231|0
+A|Well, like I, said, I live in a small place. You know.|sd|2231|0
+B|We could go around,|sd|2231|1
+B|and, boy and,|%|2231|1
+A|But, uh, even the small towns now though, has really changed from when I was a kid,|sd|2231|0
+A|but now I'm raising children.|sd|2231|0
+A|It it really is.|%|2231|0
+B|Yes.|b|2231|1
+B|Ever,|%|2231|1
+B|you can't even,|%|2231|1
+B|when I was a kid, I would run between my neighbors, three and four blocks sometimes, and, as long as my mom had a general idea where I was and I was back on the time,|sd|2231|1
+A|Uh-huh.|b|2231|0
+B|and now I don't let my kids out of the front yard, that I can't see them.|sd|2231|1
+A|See them.|aa|2231|0
+A|Yeah.|aa|2231|0
+A|Yeah.|aa|2231|0
+A|It really is.|%|2231|0
+A|Well, we're probably fixing to run out of time pretty, soon,|sv|2231|0
+B|Uh-huh.|b|2231|1
+A|but I've enjoyed talking to you.|fc|2231|0
+B|Well, good talking to you too.|fc|2231|1
+B|Bye,|fc|2231|1
+A|Bye|fc|2231|0
+B|bye.|fc|2231|1
+A|okay.|fc|2231|0
+A|Bye-bye|fc|2231|0

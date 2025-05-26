@@ -1,0 +1,94 @@
+B|Do you know|%|3379|0
+B|I don't know what to think.|h|3379|0
+B|I, I, uh,|%|3379|0
+B|the person I am I want to believe that it's an honest effort.|sv|3379|0
+B|I want to believe that, that they really are trying to change. That, that maybe they are headed for a more democratic society|sv|3379|0
+B|and I, I want to believe it's all okay.|sv|3379|0
+A|Uh-huh.|b|3379|1
+B|But then there's that side of me that says, yeah,|sv|3379|0
+A|Right.|b|3379|1
+B|so, so it's like there is a struggle within me going do, do I be open-minded and give them the benefit of the doubt which is kind of my basic personality.|sd|3379|0
+B|You know I, I trust people.|sd|3379|0
+A|Uh-huh.|b|3379|1
+B|I'll do that.|oo_co_cc|3379|0
+B|Or do I keep on going, well, we'll wait and see|qh|3379|0
+A|Well, I think there's a, a struggle within the Soviet Union.|sv|3379|1
+A|Um, I think the people are, are just fed up,|sv|3379|1
+A|and I think it's showing|sv|3379|1
+A|and all the republic is trying to gain their independence,|sv|3379|1
+A|and I think, uh, that's making Gorbachev and others realize that, hey, maybe this Communist thing isn't working.|sv|3379|1
+B|Yeah,|b|3379|0
+B|that's it's not just a or, uh, western society telling you it's, it doesn't work.|sv|3379|0
+A|Right.|b|3379|1
+B|You know, they've always said, you know, the, the Soviet people were united,|sd|3379|0
+B|we believe this,|^q|3379|0
+B|and maybe they are seeing that, no, no, hey, we don't believe this, you know.|sv|3379|0
+A|That's right.|b|3379|1
+A|I think,|%|3379|1
+B|I guess I keep that one part of me that's like,|sv|3379|0
+B|well, I don't know I want to trust them|sv|3379|0
+B|and I,|%|3379|0
+B|it's like I can't,|sv|3379|0
+B|and maybe it's because, you know, we've had our own propaganda over the years,|sv|3379|0
+B|I don't know.|h|3379|0
+A|Well, that, that could be.|aa|3379|1
+A|You know what I,|%|3379|1
+A|we always, we think of the K G B and we think such bad things, you know.|sv|3379|1
+A|But I wouldn't doubt if the Soviet people think C I A and they think such bad things, you know.|sv|3379|1
+B|And they probably do the same things.|sv|3379|0
+A|exactly.|aa|3379|1
+A|They do.|sv|3379|1
+B|You think the C I A doesn't spy?|qh|3379|0
+B|I'm sure they do.|sv|3379|0
+A|Oh, yeah,|aa|3379|1
+A|they do, you know.|sv|3379|1
+B|Now the difference is we don't, I, I don't think we take people and kill them just because they don't believe what we believe.|sv|3379|0
+B|You know, I think to that extent we don't go as far|sv|3379|0
+B|but I'm sure they lie. You know?|sv|3379|0
+A|Oh, yeah.|aa|3379|1
+A|Oh, absolutely.|aa|3379|1
+B|So,|%|3379|0
+A|That's part of that propaganda thing,|sv|3379|1
+A|and I think if we can get away from that, or if we can keep that out of our minds, oh,|sv|3379|1
+A|excuse me, I've got a cold today.|fa|3379|1
+B|That's all right.|bd|3379|0
+B|I hope you get better|fo_o_fw_"_by_bc|3379|0
+A|Thank you.|ft|3379|1
+A|Um, I think if we can get that propaganda thing because I'm sure both countries are seeing, seeing it, you know, thinking K G B and C I A and all that|sv|3379|1
+A|but, uh just on an economic point of view, if the Soviet Union doesn't do something fast they are, they ain't going to be able to feed their people this, this winter, you know.|sv|3379|1
+B|Yeah.|b|3379|0
+B|Yeah.|b|3379|0
+B|Yeah.|b|3379|0
+B|That's true.|aa|3379|0
+B|And I'm not against them being concerned|ar|3379|0
+B|but I feel like we ought to be spending maybe the same time and effort and, and energy into trying to solve our own or resolve our own.|sv|3379|0
+A|Right.|b|3379|1
+B|You know, I mean, you know, any, any country that wants to be democratic I'm all for helping them, you know, because I, I understand that, you know, you are looking at the United States as the biggest and longest supporter of that type of government.|sv|3379|0
+A|Right.|b|3379|1
+B|But at the same time I, I agree.|sv|3379|0
+B|I don't think we can do it and, and just, you know, turn our backs or, or be ignorant per se to the things that are happening here.|sv|3379|0
+A|That's right.|aa|3379|1
+A|You know, we've got, uh, we've got quite a few domestic problems that, uh, that I feel we ought to be concentrating more on.|sv|3379|1
+A|I think the problem is, you know,|sv|3379|1
+A|on the international scope maybe the president feels that, uh, you know, for long-term relations with all these countries it's important|sv|3379|1
+A|and well, we'll, we'll always have the United States.|sv|3379|1
+A|And, you know, we need to solve these international problems|sv|3379|1
+A|but, um, I think I heard in the news about last week sometime that, uh, the president ended up canceling one of his international trips so he could spend more time on on a domestic issue because the American public is kind of getting fed up with it.|sv|3379|1
+B|Yeah,|b|3379|0
+B|we, we, we believe in what he's doing abroad|sv|3379|0
+B|but, but like you said there's issues here too.|sd|3379|0
+A|Right.|b|3379|1
+B|And but I, I am encouraged by what is happening in the Soviet Union.|sd|3379|0
+B|I'm encouraged by what's happened in, you know, the, the iron curtain countries, you know, in, in that block|sd|3379|0
+A|Right.|b|3379|1
+B|and, and I think it's moved in the right direction.|sv|3379|0
+B|I, I think sometimes people expect it to happen overnight.|sv|3379|0
+A|Yep.|b|3379|1
+B|You know, it's not going to.|sv|3379|0
+A|No.|aa|3379|1
+B|It didn't happen here overnight,|sv|3379|0
+A|That's right.|aa|3379|1
+A|That's right.|aa|3379|1
+B|And I, I think sometimes we forget that.|sv|3379|0
+B|But I, I, I, I have to say, yes, I'm, you know, I'm encouraged by the way it's going. Uh,|sd|3379|0
+B|uh,|b|3379|0

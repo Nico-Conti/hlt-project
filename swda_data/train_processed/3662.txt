@@ -1,0 +1,104 @@
+A|What do you think?|qo|3662
+B|Well, uh, this is, this is about drug testing right?|qy|3662
+A|Right.|na|3662
+B|Well, uh, I'm, I'm certainly under the, uh, uh, the influence of the idea that, that the government needs to have less control on what, uh, what the citizens do,|sv|3662
+B|although I do see this as a, uh, something that definitely needs to be taken care of.|sv|3662
+B|Whether that, whether that should be put in the hands of the corporation or the, the hands of the, hands of the government is a, you know, a, a different question I think, as far as I'm concerned.|sv|3662
+B|in, in other words, I am in favor of drug or, or, or drug testing.|sd|3662
+B|Uh, I was drug tested when I came to my job here at T I.|sd|3662
+B|Yet but, but at the same time, I don't think, uh, that should be governed by by the government, uh, per se.|sv|3662
+A|Uh-huh.|b|3662
+B|I think it should be more by the private institution.|sv|3662
+B|How about you?|qo|3662
+A|Yeah,|ny|3662
+A|I think that the corporations should, uh, do all that.|sv|3662
+A|They should, uh, have drug screening before they hire an employee|sv|3662
+B|Uh-huh.|b|3662
+A|and, uh, any time that an employee,|%|3662
+A|like if they're coming to late work all the time and, uh if they, if they're, especially if there's they're on the line or any kind of sensitive job where, you know, if they can, if they made a mistake, it would cost a lot of money or|sd|3662
+B|Uh-huh.|b|3662
+B|Yeah.|b|3662
+B|Sure.|b|3662
+B|Uh-huh.|b|3662
+B|Yeah,|aa|3662
+B|I, I agree with you.|aa|3662
+B|I, you know, I would even think that, uh, uh, I could, in theory take that a a, you know, a step further and say anybody in any job, you know, if the corporation felt like, uh,|sv|3662
+B|and this is why, I mean, uh, drugs are the biggest problem, I think to face America today.|sv|3662
+B|I mean it's what drives crime,|sv|3662
+B|it's what drives, uh, uh, any sort of, of, uh, uh, pain and discomfort in the world, or in America I think is is somewhat, uh, uh, driven by drugs|sv|3662
+B|and I think that, uh, were corporations and, uh, private industry to take, uh, take command in this situation, that maybe, maybe we might have some, some control over that.|sv|3662
+B|We, you know,|%|3662
+B|if you can't work, then you can't be a little bit harder to take, take drugs or whatever,|sv|3662
+B|I don't know.|h|3662
+B|Course, that might up crime, you know, when, uh, people go in and steal your television and and sell it just because they can't, they can't work anymore, you know.|sv|3662
+A|Yeah,|b|3662
+A|yeah,|b|3662
+A|but you got to have a, a safe work place.|sv|3662
+A|That's all there is to it.|sv|3662
+B|Definitely,|aa|3662
+B|you, you're definitely right.|aa|3662
+B|That, uh, you can't, you can't have it any other way.|sv|3662
+A|Uh-huh.|b|3662
+B|Uh, you know, whether whether in, in the case that you brought up, you know, whether, uh, you know,|%|3662
+B|if it's a policeman and he's working with, uh, the public and he has a, and has a gun in his holster or, or even, you know, if it's a guy at McDonald's cooking a burger, I think, they're dangerous in either situation.|sv|3662
+A|Uh-huh.|b|3662
+B|Uh, I,|%|3662
+B|what, what do you think, uh,|qo|3662
+B|what percentage of, of corporations and, uh, private industry do you think use, uh, drug testing?|qw|3662
+A|I think it's, it's more frequent now.|sv|3662
+A|It's probably like forty, fifty percent.|sv|3662
+B|Oh, really?|bh|3662
+A|Yeah.|ny|3662
+B|Uh-huh.|b|3662
+A|Because, uh, all the jobs that I've applied for have, uh, mentioned some type of drug screening. Uh, I work at Sears.|sd|3662
+B|Right.|b|3662
+B|What kind of work are you in?|qw|3662
+B|Uh-huh.|b|3662
+A|And I just do warehouse work.|sd|3662
+B|Uh-huh,|b|3662
+B|and did they give you drug testing?|qy|3662
+A|Uh, not,|ng|3662
+A|they hired me in nineteen eighty-four|sd|3662
+B|Oh.|b|3662
+B|Okay.|bk|3662
+A|But now they, they, uh, they issued a statement about that, about three months ago.|sd|3662
+B|Uh-huh.|b|3662
+B|Oh, so are they going to, uh, begin spontaneous, uh, drug testing?|qy|3662
+A|Uh, not that I know of.|ng|3662
+A|It was more about, uh, all the people's problems.|sd|3662
+A|Like they've been laying off a lot of people.|sd|3662
+B|Uh-huh.|b|3662
+B|Oh, yeah.|b|3662
+A|And, uh, and, uh, they sent out the employee assistance cards for anyone that had any sort of drug problem or work related problem.|sd|3662
+B|Sure.|b|3662
+A|Family problems, you know. They kind of covered everything.|sd|3662
+B|Uh-huh.|b|3662
+B|Uh-huh.|b|3662
+A|But I know they have a lot of drug problems|sd|3662
+A|so,|%|3662
+B|Yeah.|b|3662
+B|What do you think about, uh, you know,|qo|3662
+B|something that kind of concerns me is, uh, you know, you and I are tested for, for whatever work we happen to do.|sv|3662
+B|Do you think there should be drug testing for political officials?|qy|3662
+A|Yes,|ny|3662
+A|I do.|sd|3662
+B|Yeah,|aa|3662
+B|I do, too.|sd|3662
+A|Because, because a lot of them are, you know, they're hypocritical.|sv|3662
+A|They, they talk against drugs|sd|3662
+B|Yeah.|b|3662
+A|and then they get caught, you know.|sd|3662
+B|Uh-huh.|b|3662
+A|In stings in Washington. *one utt with a.61|sd|3662
+B|Yeah.|b|3662
+A|Whether it's drugs or any other kind of, uh,|sd|3662
+A|like the, the money laundering scams. All that was drug related.|sv|3662
+B|Oh, yeah.|b|3662
+A|So, and that cost us, the country, you know, billions of dollars.|sv|3662
+B|Sure,|aa|3662
+B|sure,|aa|3662
+B|yeah.|aa|3662
+A|So,|%|3662
+B|I would agree with you.|aa|3662
+B|I, I can't see, I can't see how we can expect the, you know, uh, uh, people working in the, in, in America to, uh, to put any trust into our political officials if they don't, you know, uh,|sv|3662
+B|just doesn't make sense to have them to, to worry about legislation unless they're doing that themselves.|sv|3662

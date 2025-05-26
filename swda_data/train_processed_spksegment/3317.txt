@@ -1,0 +1,149 @@
+A|Okay,|fo_o_fw_"_by_bc|3317|0
+A|what kind of house do you live in?|qw|3317|0
+B|Well, uh, we live in a, a brick home in far north Dallas|sd|3317|1
+B|and it's, uh, four bedrooms and three and a half baths and swimming pool in the back|sd|3317|1
+B|and, It's about thirty-five hundred square feet.|sd|3317|1
+A|Uh-huh.|b|3317|0
+A|Well, it sounds like ours are pretty similar.|sv|3317|0
+A|I live in one,|sd|3317|0
+A|I don't have a swimming pool.|sd|3317|0
+A|And mine's about twenty-seven hundred square foot.|sd|3317|0
+B|Yeah.|b|3317|1
+A|But the four bedrooms|sd|3317|0
+A|and all the rest of it sounds just about about alike.|sd|3317|0
+A|I think it's pretty much typical for this area.|sv|3317|0
+B|It is.|aa|3317|1
+B|Have you been living there very long?|qy|3317|1
+A|I've been in the house|no|3317|0
+A|I'm in here right now about twelve and a half years.|sd|3317|0
+B|So you've been there longer.|sd|3317|1
+B|We built this one about, uh,|sd|3317|1
+B|it's been let's see it's been six years six and a half years ago,|sd|3317|1
+A|Uh-huh.|b|3317|0
+B|and we subcontracted it out ourselves.|sd|3317|1
+B|We bought the lot and, uh, had an architect draw the plans based on our specifications|sd|3317|1
+A|Oh, really?|bh|3317|0
+A|Uh-huh.|b|3317|0
+B|and then we subbed it out,|sd|3317|1
+B|so, we've been here a little over six years now. And uh, have really enjoyed it because we built what we wanted to have to live in.|sd|3317|1
+A|Uh-huh.|b|3317|0
+A|Well, I bet you,|ba|3317|0
+A|Uh-huh.|b|3317|0
+B|My husband got his big garage.|sd|3317|1
+B|He we have a three car garage, that he has a big work area in|sd|3317|1
+A|Uh-huh.|b|3317|0
+B|and he likes to rebuild cars and redo engines|sd|3317|1
+B|and, so he has all the work space he needs.|sd|3317|1
+A|Well, that sounds interesting.|ba|3317|0
+A|I bet he's enjoyed having it that way|ba|3317|0
+B|He,|%|3317|1
+A|because|%|3317|0
+A|kind of hard to find one prebuilt that 's kind of fits those specifications.|sv|3317|0
+B|It is,|aa|3317|1
+B|and that's why we decided to build.|sd|3317|1
+B|We looked at things that were already, uh, built|sd|3317|1
+A|Uh-huh.|b|3317|0
+B|and the garages were always, if the house was large, it seemed like the garages were small even if they were three car garages which is what we have.|sd|3317|1
+A|Well, then, most of them don't have a three car garage.|sd|3317|0
+B|Uh-huh.|b|3317|1
+A|They're kind of rare.|sd|3317|0
+B|So we put a three car garage in.|sd|3317|1
+A|Uh-huh.|b|3317|0
+B|But, even if they had three car garages, they didn't have a work space.|sd|3317|1
+B|All of it was taken up with just car space.|sd|3317|1
+A|Uh-huh.|b|3317|0
+B|And so he has a big landing area that's between where the cars are in the garage and where the house starts that he can work on.|sd|3317|1
+A|Uh-huh.|b|3317|0
+A|Well that,|%|3317|0
+A|my, we've just got a two car garage,|sd|3317|0
+A|but my husband's got a big space in between the, where the cars are and the house, where he has a big work shop, you know, workbench and everything.|sd|3317|0
+B|Well, sounds like our husbands have similar interests.|sv|3317|1
+A|Now, mine does not work on cars,|ar|3317|0
+A|he just piddles on this and that.|sd|3317|0
+B|Oh, I see.|ba|3317|1
+A|But he likes to have a spot to keep all of his, his piddling things.|sd|3317|0
+B|Uh-huh.|b|3317|1
+B|Well, that's nice that it's not in your house.|ba|3317|1
+A|It really is.|aa|3317|0
+B|Uh-huh.|b|3317|1
+A|Because, you know, they have a lot of things of their own,|sv|3317|0
+A|and I, you know, I wouldn't mind having,|%|3317|0
+A|and I at one time was going to fix up when one of my daughters left, a bedroom to where I had a room to just put all of my craft stuff and sewing machine and all that kind of stuff,|sd|3317|0
+B|Uh-huh.|b|3317|1
+A|but I, someone,|%|3317|0
+A|I don't know,|h|3317|0
+A|it ended up I got some furniture back that one of them had moved out or something.|sd|3317|0
+B|Right.|b|3317|1
+A|So I didn't end up with my vacant room like I had thought I would.|sd|3317|0
+B|Well, we still have a, a son and daughter in college that come home.|sd|3317|1
+A|Uh-huh.|b|3317|0
+B|And the other room we use as a guest bedroom because my husband's family come.|sd|3317|1
+B|His parents come|sd|3317|1
+B|and also the kids have friends who come and stay|sd|3317|1
+A|Uh-huh.|b|3317|0
+B|and so it seems like it's always used as a bedroom.|sd|3317|1
+A|Uh-huh.|b|3317|0
+A|Well, I still,|%|3317|0
+A|all three of my daughters are married,|sd|3317|0
+A|but, I don't know,|h|3317|0
+A|I just still have need for the four bedrooms just having company from time to time. And some of them coming back home and things, you know.|sd|3317|0
+B|Right.|aa|3317|1
+B|Oh, I understand|aa|3317|1
+A|And we've got grandchildren now,|sd|3317|0
+A|so when they come, they have to have a place.|sd|3317|0
+B|Well, we,|%|3317|1
+B|That's true|aa|3317|1
+B|and you don't want them to not be able to come because there's no room.|sv|3317|1
+A|That's right,|aa|3317|0
+A|you sure don't.|aa|3317|0
+A|At times I keep thinking, though, that might be kind of nice.|sd|3317|0
+B|Well, I I haven't reached that point yet.|sd|3317|1
+B|I've heard people say that.|sd|3317|1
+B|But, uh, my middle son is engaged,|sd|3317|1
+B|my oldest son has been going with the same girl for a while.|sd|3317|1
+A|Uh-huh.|b|3317|0
+B|He's out of college and has a good job,|sd|3317|1
+A|Uh-huh.|b|3317|0
+B|so he could afford to get married but, is not engaged yet,|sd|3317|1
+A|Uh-huh.|b|3317|0
+B|and my daughter's been going with the same boy for a while,|sd|3317|1
+B|but she's still in college|sd|3317|1
+B|and we're just as happy for her to finish her education first.|sd|3317|1
+A|Uh-huh.|b|3317|0
+B|That's what she plans to do.|sd|3317|1
+A|Well, I don't blame you for that.|ba|3317|0
+B|So, I hope so.|sd|3317|1
+A|Well, I have the three girls|sd|3317|0
+A|and then we ended up with four grandsons.|sd|3317|0
+B|Oh, ho-ho.|ba|3317|1
+A|And little boys are around the house a whole lot more than girls.|sd|3317|0
+B|A whole new world.|ba|3317|1
+B|Uh-huh.|b|3317|1
+A|And, uh, I enjoy them coming, but for short doses|sd|3317|0
+B|I can understand.|aa|3317|1
+A|It feels,|%|3317|0
+A|after they've been here ten minutes, they have already explored the entire house,|sd|3317|0
+A|they know everything.|sd|3317|0
+B|Uh-huh.|b|3317|1
+A|But, they're fun.|sd|3317|0
+B|So you're all back to the safety catches and the whole nine yards or either watching them every minute.|bf|3317|1
+A|Well, I just watch them.|sd|3317|0
+B|Yeah.|b|3317|1
+A|I I never did put things up when my kids were little|sd|3317|0
+A|and I haven't with them.|sd|3317|0
+A|I try to teach them not to get into things.|sd|3317|0
+B|Well, that's the same thing that I did.|sd|3317|1
+B|I hope I'll be able to do the same with grandchildren.|sd|3317|1
+A|I think that once you do that, your children kind of develop the same attitudes.|sv|3317|0
+A|At least my daughters have.|sd|3317|0
+A|They try to teach theirs not to get into things instead of having to put everything up.|sd|3317|0
+A|So it's worked pretty well.|sd|3317|0
+A|There's,|%|3317|0
+A|I don't really think anything's been broken.|sd|3317|0
+A|Every now and then we have to kind of go and say, now don't bother this you know.|sd|3317|0
+B|Um, uh-huh|b|3317|1
+A|But, all in all, they mind pretty well.|sd|3317|0
+A|But, I guess most of the|%|3317|0
+A|what kind of roof does your house have?|qw|3317|0
+A|Here I'm getting off the subject.|sd|3317|0
+B|Well, we have,|%|3317|1

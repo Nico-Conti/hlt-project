@@ -1,0 +1,316 @@
+A|All right,|fo_o_fw_"_by_bc|2693
+A|do you want to start out?|ad|2693
+B|Well, it'll be real easy for us,|aa|2693
+B|because we're both, my husband and I are vegetarians.|sd|2693
+A|Oh, are you really?|qy|2693
+B|So, yeah.|ny|2693
+B|So that's the first thing we look for,  is if we can eat there or not.|sd|2693
+A|Oh.|bk|2693
+A|Are you strict vegetarians?|qy|2693
+B|We're not vegan vegetarians.|ng|2693
+B|We do, we're ovolacto.|sd|2693
+B|We do eat, uh, eggs and, and milk products.|sd|2693
+A|Uh-huh.|b|2693
+B|I used to be a complete vegan vegetarian,  where I didn't eat any animal products at all.|sd|2693
+A|Uh-huh.|b|2693
+A|Uh-huh.|b|2693
+B|But, um, it was, it's really difficult in the area if you don't have, you know, the products that you can get.|sd|2693
+B|And if you go out to dinner, there's virtually, you know, there's not a whole lot of things you can get.|sd|2693
+A|There's very few places that you, I'll bet that you could, uh,|sv|2693
+B|Yeah.|b|2693
+B|I think maybe if you were somewhere like California, where they have a lot more vegetarian restaurants and stuff.|sv|2693
+A|Uh-huh.|b|2693
+B|But here, basically, you go to an Italian restaurant or you go to a Mexican restaurant,  you know, where you can get foods that, you know, where you have a little bit more variety as far as the pastas or the the corn meal, you know,  or something.|sd|2693
+A|Uh-huh.|b|2693
+A|Uh-huh.|b|2693
+A|Yeah.|b|2693
+A|And you wouldn't have the meat products in that|sd|2693
+A|and some.|%|2693
+A|Yeah.|b|2693
+B|yeah,|b|2693
+B|you have to watch that too.|sv|2693
+B|All, you know, some of the restaurants here they will, you know,|sd|2693
+B|you can ask them and they'll tell you whether or not they use like lard or,  you know, animal fat to cook with.|sd|2693
+A|Uh-huh.|b|2693
+A|Uh-huh.|b|2693
+B|So, but, so that's, that|%|2693
+B|we don't really eat out too much.|sd|2693
+A|Yeah.|b|2693
+B|We, we tend to eat at home.|sd|2693
+B|And actually, you know, I think we, we, we get a we have a healthier diet than the average person.|sd|2693
+A|Uh-huh.|b|2693
+A|How long have you been doing this?|qw|2693
+B|Um, I've been a vegetarian for, uh, two years now.|sd|2693
+B|My husband has been one for, oh, just over a year now.|sd|2693
+A|Uh-huh.|b|2693
+B|And, uh, so,|%|2693
+A|Do you feel that it has improved the way you feel?|qy|2693
+B|Definitely.|na|2693
+A|Do you think?|bh|2693
+B|And it, it makes you more aware of what you're eating.|sv|2693
+A|Uh-huh.|b|2693
+B|Because you, you have to be.|sv|2693
+A|Uh-huh.|b|2693
+B|I mean, you, you|sv|2693
+B|I think you, you, you balance the foods, uh, you know,|sv|2693
+B|you're more aware of what nutrient, you know, value each thing has,  and minerals.|sv|2693
+A|Uh-huh.|b|2693
+B|And you're just more aware of food for energy,  for energy sake.|sv|2693
+A|Uh-huh.|b|2693
+A|I always thought it would be hard to figure what to eat if you were a vegetarian.|sd|2693
+A|How, how,|%|2693
+B|Well, that's just it,|sd|2693
+B|you, you do have to figure it out. And, and, you know, to get proteins and things.|sv|2693
+A|Yeah.|b|2693
+B|And when I was a vegan, it's, you know,|sd|2693
+B|you have to consider calcium and iron and things like that you, you're not even getting through your milk products,|sv|2693
+A|Uh-huh.|b|2693
+A|Uh-huh.|b|2693
+B|your egg products. If you don't eat any of those,|sv|2693
+A|Because you don't eat any of those things.|^2|2693
+B|but actually you can get everything you need through vegetables.|sv|2693
+B|I mean, there are there are, there are,|sv|2693
+B|you actually you can get more calcium through leafy green vegetables than you can get through milk products.|sv|2693
+A|Is that right?|bh|2693
+B|A lot of people don't know that.|sv|2693
+A|Uh-huh.|b|2693
+B|Well, the thing is that milk products,|sv|2693
+B|our bodies don't, uh, don't, uh,|sv|2693
+B|the lactose,|%|2693
+B|that kind of milk, it doesn't,|sv|2693
+A|Uh-huh.|b|2693
+B|our,|%|2693
+B|we, we tend to, uh,|sv|2693
+B|what's it called?|qw|2693
+B|We don't synthesize the, the calcium the same way.|sv|2693
+A|We, we throw more of it off our out, in other words.|sv|2693
+B|Yeah.|b|2693
+B|We, we slough some of it,|sv|2693
+B|we, we send, we send some of it out because it, our body doesn't accept some of it.|sv|2693
+A|Uh-huh.|b|2693
+B|So we're not utilizing, we're,|sv|2693
+B|when it, when it gets rid of some of that, um, that we can't use, it get rids, it gets rid of some of the calcium. Whereas when we eat, say broccoli, you utilize all of it.|sv|2693
+A|Uh-huh.|b|2693
+A|Uh-huh.|b|2693
+B|You|%|2693
+B|your, your body accepts all of the broccoli.|sv|2693
+A|All that's in it.|^2|2693
+A|Uh-huh.|b|2693
+B|So, it's like,  it's like, say, a person using vitamins, as opposed to, uh, vitamin supplements as opposed to eating regular food.|sv|2693
+A|Why?|qw|2693
+A|Uh-huh.|b|2693
+B|Your body just doesn't accept vitamins and the minerals in the, the vitamins in, uh, supplements that it does in regular food,|sv|2693
+A|Uh-huh.|b|2693
+A|Uh-huh.|b|2693
+B|you know. So,|%|2693
+A|That's interesting.|ba|2693
+B|But we both, we both feel much healthier,  much healthier.|sd|2693
+A|Uh-huh.|b|2693
+B|And I couldn't consider going back to eating,|sd|2693
+A|After you have been on this.|^2|2693
+B|Yeah.|aa|2693
+B|Well, now I changed for ethical reasons.|sd|2693
+A|Uh-huh.|b|2693
+B|And my husband has changed.|sd|2693
+B|He feels more ethically about it.|sd|2693
+B|But he, he in the beginning, began for health reasons.|sd|2693
+A|Uh-huh.|b|2693
+B|But, um, now he, he feels like I do.|sd|2693
+B|That he looks at the things that he eats|sd|2693
+B|and he realizes what they are before he eats them.|sd|2693
+A|Uh-huh.|b|2693
+B|And he,  you know,|sd|2693
+A|Uh-huh.|b|2693
+A|He thinks more about them, then.|bf|2693
+B|Yeah.|aa|2693
+B|Plus he eats,|sd|2693
+B|we both think more about, I thought more of about it as far as what it was I was eating, you know,  as a living creature.|sd|2693
+A|Uh-huh.|b|2693
+A|Uh-huh.|b|2693
+B|And now we both think a lot of well, what is it we're eating in relation to what it's going to give to our bodies.|sd|2693
+A|Uh-huh.|b|2693
+A|So you kind of have a combination.|sv|2693
+B|Uh-huh.|b|2693
+A|Uh-huh.|b|2693
+A|Well see, we, I live in a farming community. So, of course we have a lot of animals and that type of thing raised in our area.|sd|2693
+B|Uh-huh.|b|2693
+B|Well, we do too.|sd|2693
+B|I mean, I was raised in, um,|sd|2693
+B|we're in cattle country.|sd|2693
+A|Uh-huh.|b|2693
+B|And people here buy a half a cow and put it in their freezer,|sd|2693
+A|Uh-huh.|b|2693
+A|Oh, yeah,|b|2693
+A|yeah.|b|2693
+B|you know. And that's, that's the way I,|sd|2693
+B|and I,|%|2693
+B|believe you me it wasn't easy to give up  to give up a hamburger.|sd|2693
+B|That, that was one of my favorite foods, was, was a, a, was a good steak or a hamburger.|sd|2693
+A|Uh-huh.|b|2693
+B|But, you know, I suppose if you really believe in something it's, You, you adjust your life|sv|2693
+A|You get adjusted to the taste.|^2|2693
+A|Uh-huh.|b|2693
+B|because your mind.|sv|2693
+A|Uh-huh.|b|2693
+B|You, your, you,|%|2693
+B|inside yourself you just, it's not right.|sv|2693
+A|Uh-huh.|b|2693
+B|So, but, um,|%|2693
+A|So you would have a little more trouble when you were looking for a dining area than what most most people would.|qy^d|2693
+A|Now we wouldn't have that problem, because we're not vegetarians.|sd|2693
+B|So what do you look for when you,|qw|2693
+A|Uh, I think the main thing that I look for is, uh, cleanliness, uh, you know, the, in the appearance of the people that work there. And the, uh, quality of the food that they serve.|sd|2693
+B|Uh-huh.|b|2693
+B|Do you normally, when you're traveling, do you look for places that's established, that, that you've been to before or are you willing to try new places?|qy|2693
+A|Yes.|ny|2693
+A|Oh, we try new places|sd|2693
+A|but when we,|%|2693
+A|a lot of times we do eat where we know.|sd|2693
+B|Yeah.|aa|2693
+B|Like a chain restaurant or something.|sv|2693
+A|What,|%|2693
+A|Uh-huh.|ny|2693
+A|What the quality,|sd|2693
+A|because a lot of them are the same no matter where you stop.|sv|2693
+B|Uh-huh.|b|2693
+A|And, uh, we do, do that a lot.|sd|2693
+A|And I guess I'm getting old, older,|sd|2693
+A|also I like to be served.|sd|2693
+A|I like to sit down and have my, uh, order taken.|sd|2693
+B|As opposed to like a cafeteria kind of situation?|qy^d|2693
+A|Right,|na|2693
+A|yeah.|ny|2693
+B|Yeah.|%|2693
+A|So, I suppose you'd say I,|sv|2693
+A|well I, I don't know whether it's age or what it is.|sv|2693
+A|But I have,|%|2693
+B|Well no,|ar|2693
+B|I don't think so.|sd|2693
+B|I think it's just your,|sd|2693
+B|because I, I prefer to be waited on too.|sd|2693
+B|I just,|sd|2693
+B|if you're going to go out to eat, why not have the whole service,  you know?|qh|2693
+A|Yeah,|ba|2693
+A|Yeah.|b|2693
+B|Why not get the whole,|qh|2693
+B|I guess because we don't go out that much,|sd|2693
+A|Uh-huh.|b|2693
+B|I feel like it's a treat.|sd|2693
+A|You should have a treat.|sd|2693
+B|Yeah.|ba|2693
+A|And I like the light meals.|sd|2693
+A|Not all restaurants have light meals on their menu,  you know.|sd|2693
+B|Uh-huh.|b|2693
+A|And I,|%|2693
+B|Oh.|b|2693
+B|Light menu, you mean like cooked light or,|qy|2693
+A|Uh, L I T E, like, uh, uh, things that aren't as heavy a meal.|sd|2693
+B|Oh, I see.|bk|2693
+A|It,|%|2693
+B|Uh-huh.|b|2693
+A|that, you get more, uh, fruit and maybe cottage cheese or a chicken breast or things that aren't as, uh,|sd|2693
+A|they're not breaded|sd|2693
+A|and they're not fried|sd|2693
+A|and they're not,|sd|2693
+B|Not a lot of gravy and things like that.|^2|2693
+A|Yeah.|aa|2693
+A|Uh, but it's not  all rest,|sd|2693
+B|You know, I,  I like those too.|sd|2693
+A|Uh-huh.|b|2693
+B|I like those too, because, uh, some, seems like sometimes it's, you order a meal, you order their dinner meal, and it's like they're trying to find out how much you can eat.|sd|2693
+B|Or|%|2693
+A|I know|ba|2693
+B|or|%|2693
+A|it's too much,|sd|2693
+A|yes.|aa|2693
+B|Or, or like evidently people go in there and they're not satisfied that they'd been given enough and they complain|sv|2693
+B|and maybe they're afraid that people are going to, complain or something.|sv|2693
+A|Uh-huh.|b|2693
+A|I don't know what it is.|sd|2693
+A|But, now for instance, we, we had a Scout dinner last night we went to.|sd|2693
+A|And it's, it's|%|2693
+A|they, uh, well they'll serve you at your seat|sd|2693
+A|and usually the salad bar is included,|sd|2693
+A|so you have to get up for that.|sd|2693
+A|But they have so much food that you, not matter how hard you try to restrain yourself, you end up eating much more than you need.|sd|2693
+B|Uh-huh.|b|2693
+B|And I think that's a shame.|sv|2693
+A|Uh-huh.|b|2693
+B|I mean, I must admit, sometimes I do like a buffet.|sd|2693
+B|But, uh, but I think that they just tend to make you, you say, Oh, well, I've have got all I can eat|sd|2693
+A|Uh-huh.|b|2693
+B|or, or, you know, it's one of these situations where nobody's going to restrain what you eat,  the amount that you eat.|sd|2693
+A|Uh-huh.|b|2693
+A|Uh-huh.|b|2693
+B|And I think that that we just tend to eat, overeat.|sv|2693
+A|Yeah.|b|2693
+A|You can eat as much as you want and you like the food, you know.|sv|2693
+B|Yeah.|b|2693
+B|Yeah.|b|2693
+A|Uh, a lot of times the foods,|sv|2693
+A|like, uh, Haas's carry a bread bar that is just out of this world|sv|2693
+A|And, you know,|%|2693
+B|Yeah.|b|2693
+A|you|%|2693
+A|and soup|sd|2693
+A|and, uh, they just,|%|2693
+A|and fruit and vegetables|sd|2693
+A|and they, they just,|%|2693
+A|I don't know.|h|2693
+A|I know I always overeat no matter.|sd|2693
+A|I go with good intentions,|sd|2693
+A|but I,|%|2693
+A|somehow along the way, when I come back to my seat, I have too much.|sd|2693
+A|And I eat it because it's so good.|sd|2693
+B|Yeah.|b|2693
+B|Well at least it's fruit and stuff there|sd|2693
+A|Yeah|b|2693
+B|Maybe it's not too bad.|sv|2693
+A|And I like reasonable prices of course, too.|sd|2693
+A|I don't like to, you know, go to anything that's real expensive.|sd|2693
+B|Yeah.|b|2693
+A|I think that's a waste of my money.|sd|2693
+B|Just for food,  it does seem like it.|^2|2693
+A|Uh-huh.|b|2693
+A|Uh-huh.|b|2693
+B|Yeah.|b|2693
+B|But, uh,|%|2693
+A|So,|%|2693
+B|We like, uh, we do like international food,|sd|2693
+B|so we take,|%|2693
+A|Do you?|qy|2693
+B|I like|%|2693
+B|we like Indian food,|sd|2693
+A|Uh-huh.|b|2693
+B|and, uh, I love Italian food,|sd|2693
+A|Uh-huh.|b|2693
+B|and, uh,|%|2693
+A|Chinese?|qy^d|2693
+B|Chinese|na|2693
+B|but,|%|2693
+A|We've got a good Chinese restaurant in town.|sd|2693
+B|Yeah.|b|2693
+A|I, I really like eating there|sd|2693
+A|and, and you don't get stuffed on their food it seems.|sd|2693
+B|Yeah.|b|2693
+A|You know, you can eat a whole big plate of their food, and you really don't feel like you've eaten too much.|sd|2693
+A|You're full, you know,|sd|2693
+A|you're satisfied,|sd|2693
+B|Yeah.|b|2693
+A|but you don't feel stuffed and miserable.|sd|2693
+B|Yeah,|b|2693
+B|yeah.|b|2693
+B|That's one thing that I wish we had more of, uh.|sd|2693
+B|Because where we're from, it's, it's pretty limited,|sd|2693
+B|and it's,|sd|2693
+B|most of the restaurants are, oh, they tend to be, you know, American style food.|sd|2693
+A|Uh-huh.|b|2693
+B|And we don't have too many,|sd|2693
+B|you have to go all the way to Dallas.|sd|2693
+A|Um.|%|2693
+B|And so it really is a treat,|sd|2693
+A|Uh, yeah.|b|2693
+B|because, uh,|%|2693
+A|Yeah.|b|2693
+B|you know, we don't make a trip, sixty-five, eighty, you know, sixty-five to eighty miles. Depending how far in Dallas it is.|sd|2693
+A|Yeah.|b|2693

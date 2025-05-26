@@ -1,0 +1,81 @@
+A|I, uh, spent four years as a university professor.|sd|3776
+B|Oh really?|bh|3776
+A|And,|%|3776
+A|Yeah.|ny|3776
+B|I, I spent three years,|sd|3776
+B|I'm teaching in public schools and elementary school.|sd|3776
+A|Oh, do you really?|bh|3776
+B|Uh-huh.|ny|3776
+A|That's great.|ba|3776
+B|I taught in Utah,|sd|3776
+B|and, uh,  Did you teach in California?|qy|3776
+A|No kidding.|b|3776
+A|I did.|na|3776
+B|Uh-huh.|b|3776
+A|I did, uh,|na|3776
+B|You sound pretty young for a university professor|sv|3776
+A|Well, I was pretty young.|sd|3776
+A|I was, uh,|%|3776
+A|I had never intended to do it|sd|3776
+A|and I was, uh, uh, given the opportunity after I'd started a management consulting firm to teach in, in, uh, uh, one of the business schools in the California State University system.|sd|3776
+B|Uh-huh.|b|3776
+A|At any rate, uh, the topic is fascinating because one of the things I've done for the past few years is, uh, research the problem from the point of view of, uh, uh, what appears to be working best and how you can explain it theoretically.|sd|3776
+B|Uh-huh.|b|3776
+A|You may be familiar with cooperative learning.|qy^d|3776
+A|Have you ever,|qy|3776
+B|Well you can, you can tell me a little bit more about it because I don't think we did that in Utah.|ad|3776
+A|Well, the cooperative learning is a technique that was tried initially to integrate the public schools.|sd|3776
+A|And, uh, what, what it involves, basically, is the use of peer groups|sd|3776
+A|and the, uh, teacher becomes a, uh, a sort of a consultant, resource person to the cooperative learning, uh, to the learning cooperatives, I guess they're called.|sd|3776
+B|Uh-huh.|b|3776
+A|And there are, uh, some fairly sophisticated approaches that are used in the high schools with point systems and things like that so that people, uh, gain a competence with respect to the material.|sd|3776
+B|Uh-huh.|b|3776
+A|Uh, I think that the combination of, uh, technology and techniques like that together with marketplace forces will bring about a revolution in the way we learn.|sv|3776
+A|Uh, I think there is a direct threat to vested interest in the public school system, uh, that will stand in the way of that progress being a little faster.|sv|3776
+A|Uh, school systems are, in too many states, dominated by administrators|sv|3776
+B|Uh-huh,|aa|3776
+B|yeah.|aa|3776
+A|and, uh, both teachers and parents, uh, complain about the, uh, uh, the cost and ineffectiveness that results.|sv|3776
+A|So my feeling is that, uh, the, the problem is, is, uh, significant.|sv|3776
+A|There are plenty of good people, uh, available to, uh, offer people educational experience,|sv|3776
+A|but that we just have to reallocate and reorganize the resources to do it|sv|3776
+A|and, uh, I think certain techniques and technologies will influence all of that as well as research, uh, uh, of the sort that people like me do looking at theories of behavior and how they can be used to improve performance, particularly, uh, accelerate the, the pace of learning.|sv|3776
+B|Uh-huh.|b|3776
+A|And, my feeling is that, uh, those kinds of things will solve the problem eventually.|sv|3776
+A|I don't know what form it will ultimately take.|sd|3776
+A|Uh, uh, but, I think that the future is pretty bright because people recognize that we're paying an enormous price for, uh, inferior quality when the people involved really aren't inferior,|sv|3776
+A|so it must be the way we're managing the process that, uh,|sv|3776
+B|Yeah,|aa|3776
+B|I see what year saying,|ba|3776
+B|yeah,|aa|3776
+B|I totally agree.|aa|3776
+A|I, I don't, I don't think it's, it's a matter of, of, uh, talented people to do it, both as, quote, unquote students and as teachers,|sv|3776
+A|but clearly what's happened in this country is the school system's been asked to assume a great many responsibilities  in the past thirty years that weren't existent, uh,|sv|3776
+B|Oh, yeah.|b|3776
+B|Uh-huh.|b|3776
+A|you must see kids with real significant problems, uh, in some cases.|sv|3776
+A|Uh, course, I always see the,|%|3776
+A|I don't know how hard, how hard is it, uh, in the public school system in Iowa City?|qw|3776
+A|Is it, is it, uh, deteriorated a lot.|qy|3776
+A|Do the people say,|qy|3776
+A|are they pretty happy with it,|qy|3776
+A|or,|%|3776
+B|Well, I, I haven't taught in Iowa,|^h|3776
+B|but I've taught in Utah,|^h|3776
+B|and, uh, people there were saying that the way that the schools were going, a lot of people were going away and going to private schools, or else going to home, where they taught their kids at home. Or, you know, anything but the public schools and the ones that did have, you know, the kids,|sd|3776
+A|Right.|b|3776
+A|Even in Utah.|qy^d|3776
+B|Yeah|ny|3776
+B|well, Well, uh, maybe it was the area I was in,|sd|3776
+A|Well, Utah's a place where you wouldn't think that problem would be very severe.|sv|3776
+B|but a lot of schools had a lot of transient, uh, families and a lot of families who were on the poorer side|sd|3776
+B|and,|%|3776
+A|Yeah,|b|3776
+A|you, so, you saw a fair number of troubled kids.|bf|3776
+B|Yeah,|aa|3776
+B|I mean, like you said, how they were, the schools are doing more things for the kids, they thought, than they were thirty years ago.|aa|3776
+B|I mean, they were, the school I was teaching at, the, the year I left, they were considering providing hot lunch for or hot breakfast for the kids.|sd|3776
+A|Yeah.|b|3776
+A|Yeah.|b|3776
+B|As well as hot lunch|sd|3776
+B|and,|%|3776

@@ -1,0 +1,185 @@
+A|Okay.|fo_o_fw_"_by_bc|2942|0
+A|Um, do you have any advice for college?|qy|2942|0
+A|I'm, I'm, I'm full of advice.|sd|2942|0
+A|I'm still a graduate student.|sd|2942|0
+A|So.|%|2942|0
+B|Uh-huh.|ny|2942|1
+B|Well, having been there not too long ago, and my wife having only recently completed a doctorate, I'm fairly full of it, of it myself.|sd|2942|1
+A|Um.|b|2942|0
+B|Uh, the main point that I have about choosing where you want to go to school, is that, you have to early on define what it is you want to do or at least what area you want to be in.|sv|2942|1
+A|Yeah.|b|2942|0
+B|Uh, I had the unpleasant experience of going through several schools that were very specialized.|sd|2942|1
+B|I went through a number of them, uh, undergraduate schools, before I found a, a good school that was more general, uh, to give me time to make up my mind.|sd|2942|1
+A|Um.|b|2942|0
+A|Oh, that's interesting.|ba|2942|0
+A|I went to a, a liberal arts school, actually, at first,|sd|2942|0
+A|and you weren't really even, um, they didn't expect you to choose any sort of major or anything at all until you were in your second year,|sd|2942|0
+A|and then you, you know, you had, I think you had to pick it, by, by, by the end of the second you had to pick some sort of major,|sd|2942|0
+A|but until then they didn't sort of force you.|sd|2942|0
+A|They, they sort of forced you to run around taking classes in everything until then. Certain requirements,|sd|2942|0
+A|so that, so that you had to sort of get a general feel for everything,|sd|2942|0
+A|so it wasn't that specialized.|sd|2942|0
+A|So that,|%|2942|0
+B|That's wonderful.|ba|2942|1
+B|I'm a great proponent of liberal arts education, for anybody.|sd|2942|1
+A|Yeah.|b|2942|0
+A|Yeah.|b|2942|0
+B|Uh, being an engineer now, I believe in it even more strongly than I did before.|sd|2942|1
+A|Uh-huh.|b|2942|0
+A|I was just on a committee recently, actually sponsored by, uh, the American Association for the Advancement of Science, trying to sort of, you know, where, where they were just trying to figure out how to fit science and liberal arts together, you know, because there are people who are getting just wonderful science educations and not getting enough liberal arts,|sd|2942|0
+A|and then the other way around as well,|sd|2942|0
+A|people are getting pure technical science educations and not getting very good liberal arts sorts of issues.|sv|2942|0
+A|So,|%|2942|0
+B|Well, thus far it's working to my advantage.|sd|2942|1
+B|Uh, the great gap historically has, with engineers, has been while they may have all this technical information, they have no way of imparting it to, except to another engineer.|sd|2942|1
+A|Uh-huh.|b|2942|0
+B|And I have the ability to listen to them and then translate that into something that nonengineers can understand.|sd|2942|1
+A|Well, that must be helpful.|qy^d|2942|0
+B|Well, it's,  a lot of fun, at the moment.|arp_nd|2942|1
+A|That could be very helpful .|qy^d|2942|0
+A|Yeah,|b|2942|0
+A|well, I figure that, that, that's probably the thing I would most tell any parent, you know, to tell their kids, I think, probably|sd|2942|0
+A|make sure the kid goes to a school where they get sort of a general education|sv|2942|0
+A|and save specialization, I guess, for graduate school, unless they're sure they want, early on they want to do something like engineering or something.|sv|2942|0
+A|Or they can,|%|2942|0
+B|Even at that, I have a son, that, who's only nine at the moment.|sd|2942|1
+B|But I see him very rapidly becoming the engineering personality,|sd|2942|1
+B|and, uh, if he decides to pursue that, I'm going to insist that he spend two years at a liberal arts college, before I'll even let him go to an engineering college.|sd|2942|1
+A|Um.|b|2942|0
+B|And, yes,|aa|2942|1
+B|that'll add one year to his education experience.|sd|2942|1
+A|Yeah,|b|2942|0
+A|but, but that's a good idea.|ba|2942|0
+A|Well, where I am right now,|%|2942|0
+A|actually I'm at the University of Rochester,|sd|2942|0
+A|and that's a pretty good engineering school, I think.|sv|2942|0
+A|I think we do some  they have pretty good engineering here.|sv|2942|0
+B|Yes,|aa|2942|1
+B|it is.|aa|2942|1
+A|They also have a fairly large liberal arts college as well. A sort of, a separate, you know, arts and sciences college.|sd|2942|0
+A|Um, and I believe the engineers are sort of required to take classes in, in everything,|sd|2942|0
+A|and I know people, I do, uh, I do work in language processing,|sd|2942|0
+A|and, and, and at least one person who's in my field started off as an engineer, started off as an an electrical engineer student, and then switched over at some point into language processing, because he found that he enjoyed it more.|sd|2942|0
+A|So they do force them,|sd|2942|0
+A|people are forced to sort of take all different kinds of classes here, which I think is wonderful.|sv|2942|0
+B|Oh, I agree.|aa|2942|1
+B|Uh, I have the experience, uh,|sd|2942|1
+B|the last school that I went to was Mississippi State University which is historically an engineering and agricultural school.|sd|2942|1
+A|Uh-huh.|b|2942|0
+A|Right.|b|2942|0
+B|Uh, the typical land grant university,|sd|2942|1
+B|every state's got one.|sd|2942|1
+A|Uh-huh.|b|2942|0
+B|Anyway, while it has both engineering and liberal arts, the engineering students tend to cluster together.|sd|2942|1
+A|Yeah.|b|2942|0
+B|You know, they're in classes together, even when they're outside of the engineering department.|sd|2942|1
+A|Uh-huh.|b|2942|0
+B|And they don't learn the communications,|sd|2942|1
+B|they don't learn the thought processes of other fields of, of endeavor.|sd|2942|1
+A|Um.|b|2942|0
+B|It's, you know, it, that's kind of like if I were king for a day, and got to, and got to make one rule. My rule would be, no one could get out of high school without an entire year of philosophy.|sd|2942|1
+A|Um, uh-huh.|aa|2942|0
+A|That would,  be very good actually.|sv|2942|0
+B|And it's,  that's not even true in our colleges.|sv|2942|1
+A|Right,|aa|2942|0
+A|you, you don't need any philosophy at all in school.|sv|2942|0
+A|Uh-huh.|%|2942|0
+A|Or|%|2942|0
+A|yeah,|%|2942|0
+A|or, or, or, or some other thought provoking area, you know.|sv|2942|0
+A|Very true.|aa|2942|0
+A|We had, uh, when I went to undergraduate, we had uh,|sd|2942|0
+A|went to Brandeis,|sd|2942|0
+A|don't know if you know of it or not, uh,|qy^d|2942|0
+A|we had, uh, uh, a requirement freshman year of just Humanities.|sd|2942|0
+A|Then you were given a choice of, um, you know,|sd|2942|0
+A|there were ten or twelve, or whatever, or fifteen different courses that you could take,|sd|2942|0
+A|but they all centered, they all came out of Philosophy, English, and Literature departments,|sd|2942|0
+A|and they were, they were, they were a set of assigned readings everybody had to read, you know for,|sd|2942|0
+A|so the first year Humanities courses everyone had to read the Iliad an, and so forth,|sd|2942|0
+B|Right.|b|2942|1
+A|and what they did do, was they all approached it from, from very different,|sd|2942|0
+A|so that you could have one class in the philosophy of something, that the philosophy of Greek mythology or something that actually approached this, or, um, one literature, you know, or a, a literature course or, just all sorts of different perspectives on it,|sd|2942|0
+A|and people got to pick and choose,|sd|2942|0
+A|but, but by the end, everyone had a good sample of, of, of, sort of how to think about these things nonscientifically, you know,|sd|2942|0
+A|and, uh, and that sort of forced them.|sd|2942|0
+A|But I believe that, that, that you, one of the, one of the best things to do, at least for me in school was, was, I was sort of forced to take lots of different kinds of courses.|sv|2942|0
+A|Um, I was forced to take, I think you know, some sort of art history course,|sd|2942|0
+A|and we all grumbled about it at first,|sd|2942|0
+A|but then, afterward, we all wound up taking extra art history classes, because it just seemed like something, something we didn't totally know nothing about, but just enjoyed very much doing,  and something I would never would have done if, if I wasn't forced to take it.|sd|2942|0
+B|Yes, I  I remember that experience|sd|2942|1
+A|Uh-huh.|b|2942|0
+B|that and, uh, extra music classes.|sd|2942|1
+A|Yes.|b|2942|0
+A|Uh-huh.|b|2942|0
+A|And that, and that really is something that, that I notice,|sd|2942|0
+A|like I talk to a lot of my friends at school that are more specialized,|sd|2942|0
+A|and they don't have that.|sd|2942|0
+A|They just, you know, they went in and took their courses that they were expected to take,|sd|2942|0
+A|and that was all.|sd|2942|0
+A|They never had some of the more fun classes, I guess .|sd|2942|0
+A|I feel a little more worldly now|sd|2942|0
+B|Well, that will continue to grow even as you go beyond graduate school.|sv|2942|1
+A|Yes,|aa|2942|0
+A|I'm, I'm, I'm hoping, I'm hoping.|sd|2942|0
+B|Have, have you gone straight through?|qy|2942|1
+A|Yes,|ny|2942|0
+A|I, I graduated, um, college in eighty-seven,|sd|2942|0
+A|and I just went straight through.|sd|2942|0
+A|Um, I'm finishing up next year.|sd|2942|0
+A|So, yeah,|ny|2942|0
+A|I didn't take any break or anything yet.|sd|2942|0
+A|I've been trying actually, in graduate school, I've been trying to do the same thing, take courses, completely outside my area,|sd|2942|0
+A|and I'm finding in graduate school it's a lot harder, because, uh, I just don't have the time any more to sort of sit in a course, that I'm not getting graded for.|sd|2942|0
+A|Whereas before I would just sign up for credit for it, now I can't sign up for an art history course for credit necessarily.|sd|2942|0
+A|So I have to try and go myself,|sd|2942|0
+A|and I went for like two or three weeks and realized, not enough time for the work unfortunately.|sd|2942|0
+B|That's true.|aa|2942|1
+B|Are you pursuing a Master's or a Doctorate?|qy|2942|1
+A|I'm pursuing a Doctorate in Psychology.|sd|2942|0
+A|So, I'm just, wind up spending a lot of time doing that instead.|sd|2942|0
+A|Uh, what else.|^h|2942|0
+A|I, I think I,|%|2942|0
+B|Well, let me, let me encourage you to stop and experience life along the way.|oo_co_cc|2942|1
+A|Oh.|b|2942|0
+B|I, I first enrolled in college in nineteen sixty-six.|sd|2942|1
+A|Uh-huh.|b|2942|0
+B|Uh, six years, and a, and a war later, uh, I got a degree, an undergraduate degree.|sd|2942|1
+B|And then fifteen years after that, I got the first of a set of master's degrees|sd|2942|1
+B|and four years after that I got another master's degree.|sd|2942|1
+A|Um. You had real world experience in the middle there.|bf|2942|0
+B|Oh, yes.|aa|2942|1
+A|And that helped, you think?|qy|2942|0
+A|Or that was,|%|2942|0
+B|It, it certainly makes acceptance of different ideas a lot easier.|sv|2942|1
+A|Uh-huh.|b|2942|0
+A|Um. Yeah,|b|2942|0
+A|I'm getting some of that.|sd|2942|0
+A|Um, I have, I have sort of some, work experience .|sd|2942|0
+A|My wife is not an academic at all.|sd|2942|0
+A|My wife is sort of in the real world,|sd|2942|0
+A|and so I sort of hinge halfway out in the real world|sd|2942|0
+A|and I, getting, you know, real world .|%|2942|0
+A|Especially she works in, uh, uh, she works in the, she works for a temporary agency,|sd|2942|0
+A|and I never would have had,|%|2942|0
+A|she's the office supervisor,|sd|2942|0
+A|I never would have had any, I've, I've learned much just sort of by watching her and her, and her business as well.|sd|2942|0
+A|So yeah,|%|2942|0
+A|so I, I can, I can see where that might be a,|%|2942|0
+B|Well, vicarious learning is a wonderful thing.|sv|2942|1
+A|Yeah|b|2942|0
+B|It certainly means that we don't have to experience everything,|sv|2942|1
+B|but experience is a wonderful, teacher also.|sv|2942|1
+A|That's my,|%|2942|0
+A|oh yeah.|aa|2942|0
+A|Yeah,|aa|2942|0
+A|agreed,|aa|2942|0
+A|agreed.|aa|2942|0
+A|Well, I'll, I'll take that, I'll take that and think that through a little bit. Uh.|sd|2942|0
+B|My wife, as I may have mentioned, just finished a doctorate a couple of years ago.|sd|2942|1
+A|Yes.|b|2942|0
+B|and she pursued her education along the lines that I did with lots of break in between.|sd|2942|1
+A|Uh-huh.|b|2942|0
+B|And she feels reasonably comfortable teaching now.|sd|2942|1
+B|She has an awful lot of experience to draw on.|sd|2942|1
+B|No longer|%|2942|1

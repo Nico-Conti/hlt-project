@@ -1,0 +1,112 @@
+A|Okay,|fo_o_fw_"_by_bc|3514
+A|we're supposed to talk about vacations.|sd|3514
+B|Right,|aa|3514
+B|so, uh, well, uh, what kind of vacations do you like?|qw|3514
+A|Well, uh, I haven't been to many places,|sd|3514
+A|but I have a opportunity to go to, uh, Paris, France, uh, with, uh, with my friend in April.|sd|3514
+A|She is, her, uh, her family, you know, lives there,|sd|3514
+A|and she's only been there once.|sd|3514
+A|Her grandmother lives there|sd|3514
+B|Uh-huh.|b|3514
+A|so I'm hoping to I'm praying I get to go. Uh,|sd|3514
+B|Oh, that's great.|ba|3514
+A|Yeah,|aa|3514
+A|it's, it will be probably the most exciting place I'll ever get to go.|sd|3514
+B|Uh-huh.|b|3514
+A|Have you ever been to, uh, like New Mexico?|qy|3514
+B|Uh, no, actually.|nn|3514
+A|Oh.|b|3514
+B|Why, have you?|qy|3514
+A|I was curious.|sd|3514
+A|I was just wondering what it was like.|sd|3514
+B|Oh, okay|bk|3514
+B|No, uh,|nn|3514
+B|I have been to Europe once and to Haiti and, uh,|sd|3514
+A|Tahiti?|br|3514
+B|Yeah.|aa|3514
+A|Tahiti,|b|3514
+A|oh.|b|3514
+B|No,|ar|3514
+B|no,|ar|3514
+B|Haiti.|sd|3514
+A|Oh, Haiti.|b^m|3514
+B|Right.|aa|3514
+A|Where is that?|qw|3514
+B|It's, uh, well, it's in the Caribbean|sd|3514
+B|and it's the western half of an island,|sd|3514
+B|with the eastern half that's the Dominican Republic.|sd|3514
+A|Uh-huh.|b|3514
+B|And I was down there with a program from the college that I went to where we would just spend like three months in a foreign country, most of them third world countries. And study the language and then do a little service project.|sd|3514
+A|Uh-huh.|b|3514
+A|Um.|%|3514
+B|So, yeah,|b|3514
+B|that turned out to be a really good experience for me.|sd|3514
+A|So, what did you do when you were in Europe?|qw|3514
+B|Uh, well, see, I went there when I was in high school, actually|sd|3514
+A|Uh-huh.|b|3514
+B|and I mostly went to Germany and visited some friends of my family and, uh, hung out with them, worked a bit on one of their farms and also went to a youth camp.|sd|3514
+A|What did you do on the farm?|qw|3514
+B|Uh, uh, uh, well, not that much|sd|3514
+B|Just, uh,|%|3514
+A|Are you just kind of sight, just kind of, uh,|qy|3514
+B|Right,|na|3514
+B|I mean, I wasn't a great asset to them or anything|sd|3514
+B|But I, you know, drove a tractor, helped them weed beets and that sort of thing.|sd|3514
+A|Um.|%|3514
+B|And, uh, yep,|b|3514
+B|and I went to a youth camp that included working at an old people's home|sd|3514
+B|and that was pretty interesting.|sd|3514
+B|And while I was there I visited my aunt and uncle who were, uh, staying for their vacation in France in Nantes, which is on the west coast, like right across from England.|sd|3514
+A|Um.|%|3514
+B|Uh, so, uh, where in France are you,|qw|3514
+A|Paris.|sd|3514
+B|Right,|b|3514
+B|Paris.|b^m|3514
+A|Yeah.|b|3514
+B|And, uh, um, how long do you plan to be going for?|qw|3514
+A|Uh, two weeks.|sd|3514
+A|Last time she stayed two months,|sd|3514
+A|but we're only going to stay two weeks.|sd|3514
+B|Uh-huh.|b|3514
+A|So,|%|3514
+B|Great.|ba|3514
+B|And, uh,|%|3514
+A|We're going to take a cooking class there,|sd|3514
+A|so that might be fun.|sd|3514
+B|A what?|br|3514
+A|Cooking class, you know,|sd|3514
+A|French cooking.|sd|3514
+B|Oh, great.|ba|3514
+A|Yeah.|b|3514
+B|And, uh, what else are you planning to do, if anything?|qw|3514
+A|Museums, you know,|sd|3514
+A|go to museums and,|sd|3514
+B|Uh-huh.|b|3514
+B|Yeah, um,|b|3514
+A|Do you go to museums in Europe?|qy|3514
+B|Uh, actually, no,|nn|3514
+B|I don't think I went to any of them.|sd|3514
+B|Uh, the closest thing I did was go to some like, uh, restored castles and stuff.|sd|3514
+A|Um.|%|3514
+B|That, there is some on that west coast of France|sd|3514
+B|and I went to a vineyard or two in Germany.|sd|3514
+A|Um, that's neat.|ba|3514
+B|Yeah,|aa|3514
+B|that was nice.|sd|3514
+B|Uh, um, but, so, uh,|%|3514
+A|Hey,|fo_o_fw_"_by_bc|3514
+A|what about,|qo|3514
+A|have you ever been to Hawaii?|qy|3514
+B|Uh, no,|nn|3514
+B|I haven't.|sd|3514
+A|No?|bh|3514
+B|Have you?|qy|3514
+A|No.|nn|3514
+B|Okay|bk|3514
+B|Well, uh, well,|%|3514
+A|I'm wanting to go there.|sd|3514
+B|Where have you gone first?|qw|3514
+A|Oh, where have I gone that's anywhere.|qh|3514
+B|Yeah,|b|3514
+B|I mean,|%|3514
+A|Uh,|%|3514

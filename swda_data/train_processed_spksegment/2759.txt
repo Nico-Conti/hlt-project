@@ -1,0 +1,181 @@
+A|All right.|fo_o_fw_"_by_bc|2759|0
+B|Have you ever been drug tested?|qy|2759|1
+A|Um, that's a good question.|arp_nd|2759|0
+A|Um,  I had a job I had to go get a blood test for.|sd|2759|0
+B|Uh-huh.|b|2759|1
+A|Um,|%|2759|0
+A|and, and they did a full blood screen on me,|sd|2759|0
+A|but they didn't call that a drug test.|sd|2759|0
+A|So|%|2759|0
+A|I think they checked for drugs.|sd|2759|0
+A|They just don't tell you they did.|sd|2759|0
+B|Yeah.|b|2759|1
+B|I had, I've had, uh, two or three drug tests that I had to get before I could start working at a job uh, different jobs.|sd|2759|1
+A|Uh-huh.|b|2759|0
+B|I had one at T I and then one at another engineering company.|sd|2759|1
+B|And, really, I mean, I don't mind them.|sd|2759|1
+B|I don't do drugs anyway.|sd|2759|1
+B|I guess if I did, maybe I would|sd|2759|1
+B|but, um, I don't know.|h|2759|1
+B|I know a girl that, she's a nurse,|sd|2759|1
+B|and they get drug tested randomly.|sd|2759|1
+B|I've,  never been randomly drug tested.|sd|2759|1
+A|Uh-huh.|b|2759|0
+B|But that would probably bother me to wake up one day and find out halfway through the day that you're going to be drug tested and you didn't know about it.|sd|2759|1
+A|Yeah|b|2759|0
+A|Well, I guess it depends on if you got something to worry about|sv|2759|0
+B|Yeah.|aa|2759|1
+B|I guess so.|sv|2759|1
+B|deeply while saying the first I guess I guess so|sv|2759|1
+B|Do you think that it's right?|qy|2759|1
+A|Well, I, I, I come from kind of a biased opinion because I'm a, a therapist and a drug and alcohol counselor.|arp_nd|2759|0
+B|Uh-huh.|b|2759|1
+A|And I've done employee assistant work|sd|2759|0
+A|and I, I know the kind of cost businesses go through in terms of accidents,  on the job that are specifically drug and alcohol related,|sd|2759|0
+B|Right.|b|2759|1
+B|Right.|b|2759|1
+A|and it's like in the billions of dollars every year. Um,|sd|2759|0
+A|and the only way that they can prevent that is, is, you know, making sure that the employees are drug and alcohol free.|sd|2759|0
+B|That's true.|aa|2759|1
+A|And, you know, the, the problem in the work place is that, that people are,|sv|2759|0
+A|like if your boss is your drinking buddy or whatever, I mean, you can come to, come to work drunk and get in an accident|sv|2759|0
+A|and he'll cover up for you|sv|2759|0
+A|and,  nobody knows about it,|sv|2759|0
+B|Right.|b|2759|1
+A|but you know, ends up costing the company lots and lots of money.|sd|2759|0
+B|That's true.|aa|2759|1
+A|So,|%|2759|0
+B|I believe,  it's right, especially for certain jobs.|sv|2759|1
+A|you know ,|%|2759|0
+B|I think anyone in a, in a public job like bus drivers, and cab drivers, and police officers, and things like that,|sv|2759|1
+A|Uh-huh.|b|2759|0
+B|I think they should be randomly drug tested.|sv|2759|1
+A|Yeah.|b|2759|0
+B|I believe,  full force in that.|sv|2759|1
+A|Yeah.|b|2759|0
+B|I don't know that I believe every secretary in every company needs to be.|sv|2759|1
+A|True.|aa|2759|0
+B|You know, secretaries aren't, aren't really going to cost the company that much money if they fall face forward in their typewriter or something.|sv|2759|1
+B|So, I don't know.|h|2759|1
+B|I, I'm kind of biased, too, because I don't do drugs|sd|2759|1
+B|and,  so, I really don't care one way or another if anybody wants to pull me up tomorrow and test me. Because I have nothing to worry about.|sd|2759|1
+A|Uh-huh.|b|2759|0
+A|Yeah.|b|2759|0
+B|So, I guess that's kind of biased.|sd|2759|1
+A|Yeah.|b|2759|0
+A|Well, there,|%|2759|0
+A|it's, I, I think one of the problems with it is it affects a lot of other folks on the job if somebody else is impaired.|sv|2759|0
+B|Yeah.|aa|2759|1
+B|It does.|aa|2759|1
+A|Because, generally you know it.|sv|2759|0
+A|Uh, you find out one way or another if somebody's got a problem on the job.|sv|2759|0
+B|Yeah.|aa|2759|1
+B|That's true.|aa|2759|1
+A|And if, even if, like you say, even if it's just the secretary,|sv|2759|0
+A|if her work or abilities start affecting her co-workers then it, it's still a problem.|sv|2759|0
+B|Yeah.|b|2759|1
+B|That's true.|aa|2759|1
+A|So,|%|2759|0
+B|But, what do you do about,  the occasional user that may have gone to a party three days before|qw|2759|1
+B|and, you know, it's, it's been the whole weekend since they've done anything|sd|2759|1
+B|and they happen to be tested Monday morning|sd|2759|1
+B|and they could be fired for that?|qy^d|2759|1
+B|You know, that, that's kind of unfair, also.|sv|2759|1
+A|Well, yeah .|aa|2759|0
+A|I guess it comes with the turf.|sv|2759|0
+B|Yeah.|aa|2759|1
+B|I guess so.|sv|2759|1
+B|I guess if you're going to do it you need to suffer the consequences|sv|2759|1
+A|Yeah.|b|2759|0
+A|Man.|ba|2759|0
+A|And, in terms of drugs, they're illegal.|sd|2759|0
+A|So you're,  you're breaking the law anyway.|sd|2759|0
+B|That's true.|aa|2759|1
+B|That's true.|aa|2759|1
+A|Probably the, the biggest problem with those is they don't do a real good job of, of assessing for alcohol.|sv|2759|0
+B|That's true.|aa|2759|1
+A|And that's probably the biggest problem there is|sv|2759|0
+B|Yeah.|aa|2759|1
+B|I think so, more than drugs|sv|2759|1
+B|And I know a lot of companies that will put you in an alcohol rehabilitation before they would put you in a drug rehab.|sd|2759|1
+A|Yeah.|b|2759|0
+B|They would pay for an alcohol|sd|2759|1
+A|Uh-huh.|b|2759|0
+B|but they don't always pay for drug rehabilitation.|sd|2759|1
+A|Well, I guess that's one of the positive things that have come out of it, some of the employee assistance program.|sv|2759|0
+A|If you do test positive for something they will give you an opportunity to go get your life straight rather than to lose your job. *you're your|sd|2759|0
+B|Yeah.|b|2759|1
+B|That's true.|aa|2759|1
+A|And I,|%|2759|0
+B|I,  think that's fair.|sv|2759|1
+A|Yeah,|aa|2759|0
+A|I think the the company benefits in the long run.|sv|2759|0
+B|Yeah|aa|2759|1
+B|That's true|aa|2759|1
+B|That's about all I have,  to say on it|sd|2759|1
+A|What, what kind of testing do they do when you went?|qw|2759|0
+B|Uh, it's a urine test.|sd|2759|1
+A|Urine screen.|b^m|2759|0
+B|And,  they, uh,|%|2759|1
+A|Yeah,|b|2759|0
+B|it was really very official.|sd|2759|1
+B|You have to go in a room solely by yourself, sign papers that say you were totally alone, sign papers that say this is yours,|sd|2759|1
+B|and, and you have to seal the bottle yourself and label it yourself and, all of that.|sd|2759|1
+A|Uh-huh.|b|2759|0
+B|So that they're sure that you haven't borrowed anybody's, I guess, or something.|sd|2759|1
+A|Well, that happens.|sd|2759|0
+B|Yeah.|aa|2759|1
+B|I know,|sd|2759|1
+B|I it's hard to believe,|sv|2759|1
+A|It happens a lot.|sd|2759|0
+B|but I guess it does|sv|2759|1
+A|There, there are people that pay other people to  to help them out.|sd|2759|0
+B|I know.|aa|2759|1
+B|I'm amazed,  at the things people, will do.|sd|2759|1
+A|Yeah.|b|2759|0
+B|It is amazing.|sv|2759|1
+B|I guess there are people that do that.|sd|2759|1
+B|And they are, those are expensive tests.|sv|2759|1
+B|I'm,  glad I never had to pay for one.|sd|2759|1
+A|Yeah.|b|2759|0
+A|Yeah.|b|2759|0
+A|It depends really on how, how strong a test it is.|sd|2759|0
+A|They've got different degrees,  as far as, as how far back they can check.|sd|2759|0
+B|Yeah.|aa|2759|1
+B|I guess so.|sv|2759|1
+A|They got some unusual things besides blood and urine tests.|sd|2759|0
+A|They've some companies that are doing, uh, hair tests.|sd|2759|0
+B|Oh, really?|bh|2759|1
+A|Yeah.|ny|2759|0
+A|Well, that,|%|2759|0
+A|they'll pull out one of your hairs|sd|2759|0
+A|and they can apparently test, um, back a certain period of time. Because some of the, the residue ends up in your hair follicles, you know,|sd|2759|0
+B|How weird.|ba|2759|1
+B|I didn't know that.|sd|2759|1
+A|it's kind of,|%|2759|0
+B|Oh, that's weird.|ba|2759|1
+A|Hair follicles, I guess, are just dead protein|sd|2759|0
+A|and they,|%|2759|0
+B|Yeah.|b|2759|1
+A|And it, it's apparently almost like a, a calendar.|sd|2759|0
+A|They, they've got it pretty precise now.|sd|2759|0
+A|They can go back and look at, in terms of growth in a, in a hair, when you used and, and that type of thing.|sd|2759|0
+B|That's wild.|ba|2759|1
+A|So|%|2759|0
+B|It's amazing the things they can find out from different things on your body.|sv|2759|1
+A|Yeah|aa|2759|0
+A|So, I guess if they perfect that is not quite as cumbersome as having to go fill a bottle or give blood or something like that.|sv|2759|0
+B|Yeah.|aa|2759|1
+B|That's true|aa|2759|1
+B|That's true.|aa|2759|1
+B|I'm glad I never had to do it by giving blood.|sd|2759|1
+B|I can't stand the thought of giving blood.|sd|2759|1
+A|Uh-huh.|b|2759|0
+B|I can't even do it for Wadley, even though it's a good cause|sd|2759|1
+A|Yeah.|b|2759|0
+B|Well, I enjoyed talking to you.|fc|2759|1
+A|Well, I did, too.|fc|2759|0
+B|Thank you.|ft|2759|1
+A|Uh-huh.|fc|2759|0
+B|Bye-bye.|fc|2759|1
+A|Bye-bye.|fc|2759|0

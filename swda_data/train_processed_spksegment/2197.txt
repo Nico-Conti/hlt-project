@@ -1,0 +1,262 @@
+A|Okay,|fo_o_fw_"_by_bc|2197|0
+A|we're rolling.|sd|2197|0
+A|I, uh,|%|2197|0
+A|what, what would you, what would, has your experience lead you to advise, uh, if my child were thinking of going to the Air Force Academy,|qw|2197|0
+A|what would you say?|qw|2197|0
+B|Well, I'd encourage it.|sd|2197|1
+A|Uh-huh.|b|2197|0
+B|It's a good general education for a, a bachelor's degree.|sv|2197|1
+A|Uh-huh,|b|2197|0
+A|uh-huh.|b|2197|0
+B|And obviously, and obviously it's where they don't have a, any post graduate program there,|sd|2197|1
+B|but you get a, an excellent, wide, uh, basis of topics.|sv|2197|1
+B|You know, you get a good broad education out of it.|sv|2197|1
+A|Uh-huh.|b|2197|0
+B|You don't, they don't graduate the best engineers or the best English majors, but maybe a graduate pretty good overall students out of there.|sv|2197|1
+A|Uh-huh.|b|2197|0
+A|Uh-huh,|b|2197|0
+A|uh-huh,|b|2197|0
+A|uh-huh.|b|2197|0
+B|Uh,|%|2197|1
+A|How do you feel about,|qo|2197|0
+A|it must be a somewhat different environment from a regular college.|sv|2197|0
+A|How does that, uh,|qw|2197|0
+A|how do you feel that is for someone at, at that phase in their life?|qw|2197|0
+B|Well, the for some people, it's good because they maybe they need a little discipline, need a little reining in at that, that stage in their life.|sv|2197|1
+B|Uh, other people,|%|2197|1
+B|it, uh, it's, uh, suffocating,|sv|2197|1
+A|Uh-huh.|b|2197|0
+B|you know, you kind of choke on it|sv|2197|1
+A|Uh-huh,|b|2197|0
+A|uh-huh,|b|2197|0
+A|uh-huh.|b|2197|0
+B|uh, it, it depends on the person, on the individual,|sv|2197|1
+A|Uh-huh.|b|2197|0
+B|but, uh, the one factor I think more than anything else in this day and age that's got to be a big factor in your decision's just the, the cost of, how much you're going to pay no matter where you go to school.|sv|2197|1
+A|Uh-huh.|b|2197|0
+A|Uh-huh.|b|2197|0
+B|And if you've been in for twelve years, I'm sure you've, you've got a, your share of student loans that, uh, you're probably going to be paying off or have been|sv|2197|1
+B|or,|%|2197|1
+A|Well, I sort of,|sd|2197|0
+A|one of the reasons it's taken so long is I've been working all, you know, sort of half student, half working and source of income and stuff,|sd|2197|0
+B|Uh-huh.|b|2197|1
+A|so I'm actually managing to do this with zero debt.|sd|2197|0
+B|Oh, that's good.|ba|2197|1
+A|Uh, I couldn't, you couldn't do it otherwise.|sv|2197|0
+B|Oh, I mean I know people that graduated, or that I went to high school with that went to civilian colleges|sd|2197|1
+B|and they, they've got twenty, thirty thousand dollar debts,|sd|2197|1
+B|I mean you could have, uh,|sd|2197|1
+A|Yeah,|b|2197|0
+A|I think if there's any major piece of advice I'd give, is to find a way of getting an education that doesn't incur that kind of debt.|sv|2197|0
+B|Yeah.|b|2197|1
+A|It's not,|%|2197|0
+A|I mean, I remember seeing an article one time about, you know, if the average person who spent that much money going to college just took the same amount of money and put it in a, a, in an investment fund, they'd be considerably wealthier than they would be from the job they'd get after college.|sd|2197|0
+B|Exactly.|aa|2197|1
+A|So, it's, it's really kind of crazy.|sv|2197|0
+B|It's, it's staggering when you think that, just here in central New York, is, uh,|sv|2197|1
+B|Hamilton College is just a few miles south of, you know, maybe about twenty miles to the south from where I am|sd|2197|1
+A|Uh-huh.|b|2197|0
+B|and, uh, they're looking for twenty-two thousand dollars for tuition and room and board now.|sd|2197|1
+A|Really?|bh|2197|0
+B|A year.|sd|2197|1
+A|Huh.|%|2197|0
+B|At just a small,|sd|2197|1
+B|I mean they, they, they are it is a select, college.|sv|2197|1
+A|Yes,|aa|2197|0
+A|yes,|aa|2197|0
+A|I know.|sd|2197|0
+A|I was actually, I I was thinking of trying to get a job there|sd|2197|0
+A|I heard of it.|sd|2197|0
+B|Oh, yeah.|b|2197|1
+B|But, you're talking incredible tuitions now.|sv|2197|1
+A|Uh-uh.|b|2197|0
+B|I don't know how many people actually pay the whole shot.|sd|2197|1
+B|Very few I would imagine.|sv|2197|1
+A|Yeah.|b|2197|0
+B|But, uh, I get,|%|2197|1
+B|I just couldn't|sd|2197|1
+B|I mean it's more money that I make in a year,|sd|2197|1
+B|so|%|2197|1
+B|You know, it, you know,|%|2197|1
+B|me being one person with a above the median income, for New York state, you know,|sd|2197|1
+A|Yeah.|b|2197|0
+B|I'm a I'm a second lieutenant in the Air Force now,|sd|2197|1
+B|and, uh, I,|%|2197|1
+A|Uh-huh.|b|2197|0
+B|even as a somebody making twice what I was making, how could you put half of that into, to your child's education|sv|2197|1
+A|Uh-huh.|b|2197|0
+B|and then just when they make, made, make it to the college years it's,|sv|2197|1
+A|Yeah,|b|2197|0
+A|yeah.|b|2197|0
+B|My God, I can't imagine.|sd|2197|1
+A|Well, my, my real feeling about, about the purpose of undergraduate education is it's really the time,|sv|2197|0
+A|yes,|fo_o_fw_"_by_bc|2197|0
+A|you do get an education, you do learn some things,|sv|2197|0
+A|but you eventually forget most of it.|sv|2197|0
+B|Yes.|aa|2197|1
+A|But what you don't forget is the growing up.|sv|2197|0
+A|It's really the period when people become adults.|sv|2197|0
+A|I mean people who don't go to college become adults in other ways.|sv|2197|0
+A|But, really,|%|2197|0
+A|it's the entry into adulthood, I think.|sv|2197|0
+A|And I think that the best way to choose a college is to decide what kind of environment you want to be fostered in as you become, you know, as you gain new social skills, as you become, you know, more of a functioning member of society.|sv|2197|0
+A|And maybe the Air Force Academy is a perfect,|sv|2197|0
+A|as you said for someone who, you know, a more, you know, who needs to learn self-discipline and so forth would be appropriate for them.|sv|2197|0
+B|Or, it's also a good environment,|sv|2197|1
+B|it may be good for someone who already has self discipline, who has a certain amount of leadership quality in their own, that,|sv|2197|1
+A|Yeah,|b|2197|0
+A|and want to develop that.|^2|2197|0
+B|And, that,|%|2197|1
+B|yeah,|aa|2197|1
+B|the|%|2197|1
+B|it's the same.|sv|2197|1
+A|Uh-huh.|b|2197|0
+B|It can benefit different people different ways.|sd|2197|1
+A|Uh-huh,|b|2197|0
+A|uh-huh.|b|2197|0
+B|But, uh, you know, I, I agree with that, because I see people that I know again, from high school, that I still keep in touch with, that didn't go to college Same patterns of behavior, same, uh, same socializing, same exact crowd that they hang with|sd|2197|1
+A|Uh-huh.|b|2197|0
+A|Uh-huh.|b|2197|0
+A|The same patterns of behavior, you mean?|^2|2197|0
+A|Yeah,|b|2197|0
+A|yeah.|b|2197|0
+B|and it's like, it's like frozen time, you know.|sv|2197|1
+A|Exactly,|aa|2197|0
+A|it's I find it kind of sad,|sv|2197|0
+A|I really do.|sd|2197|0
+B|It is.|aa|2197|1
+B|It really is that they haven't found anything, anything better that, uh,|sv|2197|1
+B|or their, their experiences haven't been broadened at all, to, to you know, you know,|sv|2197|1
+A|Uh-huh.|b|2197|0
+B|it's, it's a, it's a tremendous thing when you sit in a, in a college environment and discuss some issues and really sit there with people with disagreeing opinions|sv|2197|1
+B|and you hear all these different sides of the story that you never thought of|sv|2197|1
+A|Yeah.|b|2197|0
+A|Right.|b|2197|0
+B|and, uh, that's another big thing I think people get out of college is the appreciation for different point, differing points of view, you know, or different opinions.|sv|2197|1
+A|Uh-huh,|b|2197|0
+A|uh-huh.|b|2197|0
+A|Yeah,|b|2197|0
+A|in high school everyone sort of tries to have the same opinion it seems.|sv|2197|0
+B|Yeah,|aa|2197|1
+B|exactly,|aa|2197|1
+B|yeah.|aa|2197|1
+A|Yeah,|b^m|2197|0
+A|the, the one thing I think that's no good for anyone is these monster institutions.|sv|2197|0
+A|These institutions of thirty thousand students and such.|sd|2197|0
+B|Oh I,|%|2197|1
+A|And I see some freshmen wandering around in there|sd|2197|0
+A|and they're they're just like, you know, someone from the country lost in the big city,|sv|2197|0
+A|I mean, they, they,|%|2197|0
+B|Yeah.|b|2197|1
+A|I don't see them getting,|sd|2197|0
+A|I mean when I was undergraduate, I went to a, relatively small school for my first two years|sd|2197|0
+A|and then I transferred to a very large school.|sd|2197|0
+B|Uh-huh.|b|2197|1
+A|And that worked out pretty well.|sd|2197|0
+A|I went from a, you know, a second rate institution to a higher rate institution.|sd|2197|0
+B|Uh-huh.|b|2197|1
+A|But the first couple of years it doesn't matter to me what the quality of the education was.|sd|2197|0
+A|I needed to make friends.|sd|2197|0
+A|I needed to sort of learn the ropes.|sd|2197|0
+A|You know, there were things like that, that mattered a lot more|sd|2197|0
+A|and I needed basic, really simple education that you can get, pretty much anywhere for the first couple of years.|sd|2197|0
+B|Well, your education's a lot what you make of it, too,|sv|2197|1
+B|so,|%|2197|1
+A|Yeah,|aa|2197|0
+A|yeah,|aa|2197|0
+A|exactly.|aa|2197|0
+A|And if you're alienated,|%|2197|0
+A|I mean I see people at supposedly really good universities who are just having psychological problems, that, you think this isn't sinking in.|sd|2197|0
+B|Yeah.|b|2197|1
+B|Well, I, I've seen more graduates from M I T|sd|2197|1
+B|and that,|%|2197|1
+A|Uh-huh.|b|2197|0
+B|being,|%|2197|1
+B|I work in a, in a an Air Force laboratory|sd|2197|1
+B|and so we've got a lot of, uh, M I T graduates that are in there|sd|2197|1
+B|and they are the biggest collection of screwed up people that I think I've ever run into.|sv|2197|1
+A|Yeah,|b|2197|0
+A|yeah.|b|2197|0
+B|Even, even more so, uh, like, military academy grads are a strange lot, too,|sv|2197|1
+B|I, I mean I have to confess to that.|sd|2197|1
+A|Yeah,|b|2197|0
+A|it's sort of a, a rare select environment.|sv|2197|0
+B|Yeah,|b|2197|1
+B|and they have their own quirks and tolerances and, you know, certain things that don't bother us at all, that would drive other people nuts|sv|2197|1
+A|Yeah.|b|2197|0
+B|and then certain things that|sd|2197|1
+B|ways, things we do,|sd|2197|1
+B|the way we do it that drive other people nuts that,|sv|2197|1
+A|Right,|aa|2197|0
+A|right,|aa|2197|0
+A|sure.|aa|2197|0
+B|But, these M I T grads are off in their absolute own world.|sv|2197|1
+B|It, it's a,|%|2197|1
+B|I, I have more I have a lot of respect for M I T master's and doctorate, uh, degrees,|sd|2197|1
+A|Yeah.|b|2197|0
+A|It's a top rated institution|sd|2197|0
+A|and now I,|%|2197|0
+B|but they're undergrads are like,|sv|2197|1
+B|I, I'm amazed, at, at that's a lot of them even graduated.|sd|2197|1
+A|Uh-huh,|b|2197|0
+A|uh-huh.|b|2197|0
+B|But, uh, I don't know.|h|2197|1
+A|Well, I, I had known a lot of undergraduates who pick schools because they want the best reputation for a school. Not realizing that the reputation for M I T is because of the, of the doctorate research, and the professors who go there,|sd|2197|0
+B|Right.|b|2197|1
+B|Right.|b|2197|1
+A|and you're not going to see the professors|sd|2197|0
+B|Nope.|aa|2197|1
+A|you know, you're going to see some T A, you know.|sd|2197|0
+A|Uh, so they they, they want, you know, they want the best|sv|2197|0
+A|and they don't think, they think what the best is, is, reputation for, for research|sv|2197|0
+B|Yeah.|b|2197|1
+A|and that's a one standard,|sd|2197|0
+A|but it's not relevant, to what they need.|sd|2197|0
+B|No.|aa|2197|1
+B|It's interesting that you mention,|sv|2197|1
+B|and I didn't think about that before when you were talking,|sd|2197|1
+B|but the service academies have all, all the faculty, uh, for the most part is, is military with a few exchange, professors from other, schools.|sd|2197|1
+A|Uh-huh.|b|2197|0
+A|Uh-huh,|b|2197|0
+A|uh-huh.|b|2197|0
+B|But, uh, having the military faculty is really beneficial because they see it as doing their job and spending time with the cadets there, uh, is investing in the Air Force,|sv|2197|1
+B|and it,|%|2197|1
+A|Right.|b|2197|0
+B|or the, the military itself, it's the future officer corps|sd|2197|1
+B|and so, I hear horror stories from friends of mine that they could never see their instructors,|sd|2197|1
+B|they could never get extra help.|sd|2197|1
+A|Uh-huh.|b|2197|0
+B|For me any time I needed extra help any time of the day I had all my instructors home phone numbers|sd|2197|1
+A|Uh-huh.|b|2197|0
+A|Uh-huh.|b|2197|0
+B|and could call them,|sd|2197|1
+B|you go to their office anytime.|sd|2197|1
+B|I had some instructors that, uh, would invite me over to their house for extended study things on weekends, when I was having trouble with something|sd|2197|1
+A|Huh.|%|2197|0
+B|and,|%|2197|1
+A|Yeah,|b|2197|0
+A|you won't get that at M I T or virtually or anything like that.|sd|2197|0
+B|No,|aa|2197|1
+B|no,|aa|2197|1
+B|and that,|%|2197|1
+A|And you you know, and you can't blame the professors either, because you look at their job description,|sv|2197|0
+B|No.|aa|2197|1
+A|you'd you know,|%|2197|0
+A|teaching is third down on the list of importance things|sv|2197|0
+A|and,|%|2197|0
+B|Right,|aa|2197|1
+B|right.|aa|2197|1
+B|Publish first,|ad|2197|1
+B|and the|%|2197|1
+A|yeah,|b|2197|0
+A|and, and that's appropriate if the university is trying to do serious research, because it's hard to be a researcher and a teacher at the same time.|sv|2197|0
+B|Right.|b|2197|1
+A|So I'd say go to a, go to a college that has teachers.|sv|2197|0
+A|People who really are committed to the students and can afford to be because that's their job.|sd|2197|0
+B|Yeah.|b|2197|1
+A|But, oh, well|%|2197|0
+B|Yeah,|b|2197|1
+B|it's, there's a lot of factors that people don't ever, ever consider in, in their selection of a college|sv|2197|1
+A|Uh-huh.|b|2197|0
+B|and, uh, I don't know,|h|2197|1
+B|maybe, I wonder if, if they enter these conversations that people have been having, uh ...|sd|2197|1

@@ -1,0 +1,181 @@
+B|Do you have kids?|qy|3727
+A|Oh yeah.|ny|3727
+A|I got three.|sd|3727
+A|How about yourself?|qo|3727
+B|Uh, we have two and another one on the way.|sd|3727
+A|Oh, you have got, uh, young children then.|qy^d|3727
+B|Well, yeah,|ny|3727
+B|uh, we do,|sd|3727
+B|we have, uh, a six year old.|sd|3727
+B|He is oldest|sd|3727
+B|and then, uh, our baby will be a year on Monday.|sd|3727
+A|Oh my goodness.|ba|3727
+A|That is great.|ba|3727
+B|Yeah.|b|3727
+A|What kind of mix do you have?|qw|3727
+A|A boy and a girl?|qy|3727
+B|Two boys.|ng|3727
+A|Two boys.|b^m|3727
+B|Two boys|sd|3727
+B|Yeah.|%|3727
+A|Do you know what is on the way yet?|qy|3727
+A|Are you|%|3727
+B|No.|nn|3727
+B|I am just about three months,|sd|3727
+B|and, uh, I don't think we really even want to find out.|sd|3727
+A|I do not blame you|ba|3727
+B|We like surprises.|sd|3727
+B|So We will take either.|sd|3727
+A|Well, we have got two boys and a girl also.|sd|3727
+A|Well, we have got two boys and a girl|sd|3727
+B|And, uh, does it,|%|3727
+B|are the two boys first?|qy|3727
+A|Yes.|ny|3727
+B|Oh.|bk|3727
+A|Maybe, maybe you will get lucky and get a girl this time.|sv|3727
+B|Maybe, huh.|aa|3727
+B|We, we kind of like our boys though too,|sd|3727
+B|so|%|3727
+A|Well, our boys, one, is, uh, he is in graduate school at A and M, uh,|sd|3727
+A|he is in the Navy.|sd|3727
+A|He is a lieutenant in the Navy|sd|3727
+A|and the Navy is sending him for his Masters in Ocean Engineering|sd|3727
+B|Oh my goodness.|ba|3727
+A|and we have got another boy that is, us, out in Maryland.|sd|3727
+A|He is a wildlife biologist, uh,|sd|3727
+A|and our girl is thirteen.|sd|3727
+A|She is in the seventh grade.|sd|3727
+A|So, we have got, still, all sorts of good activities since,|sd|3727
+B|Oh yeah.|aa|3727
+B|You kind of got, uh, a span there, huh?|qy|3727
+B|Oh, well what do you do with your seventh grader?|qw|3727
+A|Well, she is into a little bit of everything.|sd|3727
+A|She is, uh, loves riding horses|sd|3727
+A|so she goes out riding as much as she can.|sd|3727
+B|Do you have horses?|qy|3727
+A|No|nn|3727
+B|She, just, she knows people that does, huh?|qy|3727
+A|Well, that,|%|3727
+A|yeah|ny|3727
+A|but maybe that riding place that is North of town that she goes to.|sd|3727
+A|She rides English, and does jumping, takes lesson and all that kind of stuff.|sd|3727
+B|Oh, does she?|bh|3727
+B|Oh.|bk|3727
+B|She must really like them.|qy^d|3727
+A|Yeah,|ny|3727
+A|she is into, uh,|%|3727
+A|well she plays the flute in the band, and, the piccolo,|sd|3727
+A|and she is into this, uh, odyssey of the mind thing, which is, uh, takes a lot of time, for, uh,|sd|3727
+A|it|%|3727
+A|a|%|3727
+A|what they call peace group.|sd|3727
+A|I don't know if you have gotten into that with your kids,|qy^d|3727
+A|but that is where the, kind of,|sd|3727
+A|well it is a program for Advanced kids.|sd|3727
+B|Advanced.|^2|3727
+B|Yeah.|b|3727
+B|Yeah.|b|3727
+B|I have heard about it.|sd|3727
+B|Our little boy is in the first grade|sd|3727
+B|and I, I taught school for six years.|sd|3727
+A|Oh, okay.|b|3727
+B|So, I do know about that program|sd|3727
+B|and|%|3727
+A|Well, my wife is involved|sd|3727
+A|and she kind of heads that up for these kids,|sd|3727
+A|and last year they, they, got, uh, the state level.|sd|3727
+A|They did not win that,|sd|3727
+A|but they, uh, got one local and, uh, one region,|sd|3727
+A|and they got a new mix of kids this time.|sd|3727
+A|So, it keeps them busy.|sd|3727
+B|Oh, uh-huh.|b|3727
+A|It keeps them busy.|sd|3727
+B|Oh, yeah|aa|3727
+B|I bet.|ba|3727
+B|Huh, well so does she go actually out into a different classroom with, with, uh, other kids that are involved in this?|qy|3727
+A|Well, uh, yes,|ny|3727
+A|but they, well they have,|%|3727
+A|well you probably know a peace group that, uh, that they are advanced type. That they are special, well, uh, classes for peace classes.|sd|3727
+A|I think that, uh this happens to be, uh, uh,|%|3727
+B|Yeah.|b|3727
+A|history is what their peace class is this year.|sd|3727
+A|But, uh, so.|%|3727
+B|Oh. Uh-huh.|b|3727
+A|They, uh, she enjoys that kind of stuff and, uh, does well with it.|sd|3727
+B|Oh, how neat.|ba|3727
+A|So yeah.|%|3727
+B|Challenging, huh?|qy|3727
+A|Yeah.|ny|3727
+B|Oh.|bk|3727
+A|Always something to do|sd|3727
+B|Well, uh, as far as our activities, we are kind of on a different level here.|sd|3727
+B|But, my|%|3727
+A|Well, you will get to different levels.|sv|3727
+A|I guarantee it.|sv|3727
+B|Yeah,|aa|3727
+B|yeah.|aa|3727
+B|My husband is going to take our six year old to the monster truck show tonight.|sd|3727
+A|Uh, okay.|b|3727
+B|They like to, uh|sd|3727
+A|That will be fun.|ba|3727
+B|both boy things|sv|3727
+A|Oh, yeah,|aa|3727
+A|yeah.|aa|3727
+B|Yeah,|b^m|3727
+B|but we, we, do not have any real, uh,|sd|3727
+B|like we don't really ski.|sd|3727
+B|We have not taken our kids skiing or anything.|sd|3727
+B|Of course, the baby is young,|sd|3727
+B|but|%|3727
+A|Got to wait a couple years.|ad|3727
+B|Yeah,|aa|3727
+B|Yeah.|aa|3727
+A|Sledding, that is what you have got to do.|ad|3727
+A|Tobogganing.|ad|3727
+B|The what?|br|3727
+A|You have got to go tobogganing and sledding with them.|ad|3727
+B|Oh, well yeah,|aa|3727
+B|we, we have done that.|sd|3727
+B|He, in fact, he just goes right out here.|sd|3727
+B|We have got quite a bit of snow, uh,|sd|3727
+B|last week we got a lot.|sd|3727
+A|Well you are welcome to keep that|sd|3727
+B|Yeah|b|3727
+B|You would like that, huh?|qy|3727
+A|Well, I grew up in Wisconsin,|arp_nd|3727
+A|I, I had plenty of snow,|sd|3727
+A|and when I was a kid,|sd|3727
+B|Oh.|bk|3727
+A|and we have lived here about seventeen years,|sd|3727
+A|but we use to take all of the kids tobogganing and ice skating, and all of that kind of stuff|sd|3727
+B|Yeah.|b|3727
+A|it is fun really.|sv|3727
+B|It is fun.|aa|3727
+A|As long as you do not have to drive in it.|sv|3727
+B|Yeah.|aa|3727
+B|I,|%|3727
+B|no,|aa|3727
+B|I do not like that.|sd|3727
+B|I,|%|3727
+B|really, it makes me nervous.|sd|3727
+B|Yeah|%|3727
+A|I had plenty of snow to last me forever.|sd|3727
+A|I, I don't care if I ever see any,|sd|3727
+A|well, I don't care if I ever see it,|sd|3727
+A|but keep it off of here|sd|3727
+B|Yeah,|aa|3727
+B|yeah|aa|3727
+B|Well, uh, I don't mind it,|sd|3727
+B|but, uh, uh, the winter gets long.|sv|3727
+A|Yes.|aa|3727
+B|You know, I get ready, that,|%|3727
+B|come about this time of year I am kind of ready for it to start getting spring,|sd|3727
+B|and, it is too early yet.|sd|3727
+A|Well, you have got, You have got five months before you will see that|sd|3727
+B|Yeah,|aa|3727
+B|we do, we do.|aa|3727
+B|We have had a few early springs though in the last few years.|sd|3727
+B|They have not been too bad.|sd|3727
+B|Come about March, it gets, you know, a lot nicer.|sd|3727
+A|Oh yeah.|aa|3727
+A|Out oldest son. When, uh,|sd|3727

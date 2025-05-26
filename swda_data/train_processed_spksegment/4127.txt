@@ -1,0 +1,122 @@
+B|Okay.|fo_o_fw_"_by_bc|4127|0
+A|Okay,|b^m|4127|1
+A|I thought it was supposed to give a recording,|sv|4127|1
+A|but anyway, uh, well, I do take care of pretty much all of the stuff for, for my wife and for me|sd|4127|1
+A|and uh, I, embarrassed to say, it's pretty trivial.|sv|4127|1
+B|Uh-huh.|b|4127|0
+A|All we, all I do is, uh, keep a list of things like debts that are outstanding and every two or three months update that and every once in a while make a list of what we spent that month,|sd|4127|1
+A|but I doubt I do it more than three times a year.|sd|4127|1
+B|Uh-huh,|b|4127|0
+B|do you use a computer?|qy|4127|0
+A|And,|%|4127|1
+A|No,|nn|4127|1
+A|I work with them all day,|sd|4127|1
+A|I'm in computer science,|sd|4127|1
+A|yet I I do everything on paper|sd|4127|1
+B|Oh.|b|4127|0
+B|Uh-huh.|b|4127|0
+A|Uh, I don't even use a calculator for the stuff I'm doing because it's all pretty round numbers.|sd|4127|1
+B|Yeah,|b|4127|0
+B|mine is really simple, because I got all our bills paid off when, uh, he was a Marine,|sd|4127|0
+B|he went to Saudi Arabia|sd|4127|0
+B|and while he was gone I got all of our bills paid off,|sd|4127|0
+B|so really the only bills I have is rent, utilities, insurance you know,|sd|4127|0
+A|Uh-huh.|b|4127|1
+B|so they come in,|sd|4127|0
+B|I pay them,|sd|4127|0
+B|and that's it you know,|sd|4127|0
+B|that's about the extent of it, you know.|sd|4127|0
+A|Yeah|b|4127|1
+A|that,|%|4127|1
+B|I don't really have this major budget or anything.|sd|4127|0
+B|I just really, I'm real thrifty.|sd|4127|0
+B|I take care of, you know, two children and me and uh, just real careful with the money, you know. What little we have|sd|4127|0
+A|Uh-huh.|b|4127|1
+B|so, that's what I do.|sd|4127|0
+A|Yes,|b|4127|1
+A|it's pretty straightforward.|sd|4127|1
+A|It's|%|4127|1
+A|I can't imagine having to go into real complicated stuff and making you know, fancy budgets.|sd|4127|1
+B|No.|b|4127|0
+A|It seems like if you're getting to that level, you're not in real good control.|sv|4127|1
+B|Uh-uh.|b|4127|0
+B|You know, I mean, I, I, I've never liked credit cards and a lot of debt, you know,|sd|4127|0
+A|Uh-huh|b|4127|1
+B|you buy something on credit|sd|4127|0
+A|Uh-huh.|b|4127|1
+B|and you pay twice as much for it when you get done. You know|sv|4127|0
+A|Yeah.|b|4127|1
+B|so,|%|4127|0
+A|Actually, I mean, I like using credit cards for everything, but just paying off the bills because that way it's a record of everything|sd|4127|1
+B|Uh-huh.|b|4127|0
+A|and I don't have to worry about keeping records of anything else because they come in at the end of the month.|sd|4127|1
+B|I don't have too many, I don't have too many weaknesses,|sd|4127|0
+B|but I found out a credit card was one of them. You know,|sd|4127|0
+A|Uh.|%|4127|1
+B|it's so much easy, easier, you know, if something's on sale if you're a woman and you're a sale person,|sv|4127|0
+B|it's like, oh, it's on sale,|sd|4127|0
+B|let's go grab it, you know|^q|4127|0
+B|so, uh, and if you don't have the money, then use a credit card,|ad|4127|0
+B|so, I got rid of them credit cards. You know.|sd|4127|0
+A|Yeah, I guess if that's if that's a weakness, that's a good thing to do.|sv|4127|1
+B|Yeah,|aa|4127|0
+B|that was my weakness|sd|4127|0
+B|It wasn't bad,|sv|4127|0
+B|I mean, I didn't have like thousands of dollars, you know, and like that,|sd|4127|0
+B|just, I just learned that that wasn't for me, you know.|sd|4127|0
+A|Uh-huh.|b|4127|1
+A|Sure.|b|4127|1
+B|So, but I, self-employed, you know,|sd|4127|0
+B|I have my own little cleaning business type thing,|sd|4127|0
+B|so, uh, I keep,|%|4127|0
+A|Do you find trouble keeping the records for taxes and all that|qy|4127|1
+A|or,|%|4127|1
+B|No,|nn|4127|0
+B|it's not hard,|sv|4127|0
+B|I just keep it in a notebook and write down what I've made and, uh, you know, what it's going to have to go for that month|sd|4127|0
+B|and you know, it's not that, not that hard. Not at all.|sv|4127|0
+A|Uh-huh.|b|4127|1
+A|Well, that's good to know.|ba|4127|1
+B|So, I always do my own income tax, you know.|sd|4127|0
+A|Yeah.|b|4127|1
+B|Do you?|qy|4127|0
+A|I don't understand the idea of paying somebody to, to do it.|sv|4127|1
+B|Huh?|br|4127|0
+A|It seems like it's absurd the number of people who end up having to pay somebody to do it.|sv|4127|1
+B|all you got to do is read a book, I mean read the little book they send you fill in the blanks and go.|sv|4127|0
+A|I,|%|4127|1
+A|Yeah,|b|4127|1
+A|just the form.|bf|4127|1
+A|Yeah.|b|4127|1
+B|I mean, it seems absurd that people will pay, you know, some bucks just to get someone to,|sv|4127|0
+A|Yeah,|aa|4127|1
+A|and a lot of them.|sv|4127|1
+B|it's dumb|sv|4127|0
+B|I guess if you had some really complicated stuff,|sv|4127|0
+B|but I don't,|sd|4127|0
+B|so, I don't mess with it.|sd|4127|0
+A|Yeah.|b|4127|1
+B|But, I don't use a calculator either, you know|sd|4127|0
+A|I, I don't trust myself with using a calculator or computer, too much stuff like that because I want to make sure that, that I, I keep on top of the numbers and understand what's going on.|sd|4127|1
+B|I don't, I don't have that that many, you know, things to add up|sd|4127|0
+B|so,|%|4127|0
+A|I know too many people who use a calculator|sd|4127|1
+A|if they make a mistake, they find out two months later because they weren't paying attention.|sd|4127|1
+B|Oh, yeah.|b|4127|0
+A|And,  And it seem,|%|4127|1
+B|And we have a,|sd|4127|0
+B|I bank at N C N B here|sd|4127|0
+B|and they have a number that you can call in,|sd|4127|0
+B|and I always call in and, like, once every other week or so|sd|4127|0
+B|and I will, uh, check off what checks have cleared|sd|4127|0
+B|and,|%|4127|0
+A|Yeah.|b|4127|1
+B|Do you do that?|qy|4127|0
+A|We have the same thing.|sd|4127|1
+B|You do too?|qy^d|4127|0
+A|Yeah.|ny|4127|1
+B|And I always check them off and, you know, check my balance and my book and, you know, because I always want to know exactly what I have, you know.|sd|4127|0
+A|Sure.|b|4127|1
+B|I do that real often.|sd|4127|0
+B|I do that,|sd|4127|0
+B|so anyway,|%|4127|0

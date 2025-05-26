@@ -1,0 +1,160 @@
+A|Okay.|fo_o_fw_"_by_bc|3280|0
+A|Um, I very seldom read a newspaper.|sd|3280|0
+A|I get most of my news information from T V.|sd|3280|0
+A|Mainly, um, if I'm really wanting an in-depth thing I'll watch C N N.|sd|3280|0
+B|Uh-huh.|b|3280|1
+A|And I find it one of the best.|sv|3280|0
+B|Uh-huh.|b|3280|1
+A|And, uh, otherwise it's just one of the regular, uh, channels eight or five.|sd|3280|0
+B|Uh-huh.|b|3280|1
+A|And, uh, where do you get yours?|qw|3280|0
+B|Uh, mostly from T V too.|sd|3280|1
+B|I usually start watching the news at five and watch it at five thirty and six sometimes and, and then again at ten maybe just the headlines.|sd|3280|1
+A|Uh-huh.|b|3280|0
+B|Um, we do take the DALLAS MORNING NEWS|sd|3280|1
+B|and, uh, once in a while I'll sit down and read, read it, you know,|sd|3280|1
+B|but not very often do I read the whole thing.|sd|3280|1
+B|Quite often just scan through the headlines|sd|3280|1
+B|and,|%|3280|1
+A|Uh-huh.|b|3280|0
+A|Well, I take the DALLAS MORNING NEWS|sd|3280|0
+A|and, and my husband, uh, he reads it cover to cover.|sd|3280|0
+B|Uh-huh.|b|3280|1
+A|And, uh, if he thinks there's something that I need to know about he'll say, you know, here you need to read this|sd|3280|0
+A|and, uh I don't know|h|3280|0
+B|Uh-huh.|b|3280|1
+A|it,|%|3280|0
+A|I kind of quit reading it, oh, I don't know several years ago when the kids were teenagers.|sd|3280|0
+A|It just seems like I was so busy all the time,|sd|3280|0
+A|and if I wanted to read, I wanted to read something light and relaxing and and, uh, things like that|sd|3280|0
+B|Yeah.|b|3280|1
+A|and so I|%|3280|0
+A|and it got so depressing|sd|3280|0
+B|Yeah|b|3280|1
+A|Seems like it wasn't anything but bad news|sv|3280|0
+B|Yeah.|b|3280|1
+B|If there's something, you know, that I want to know more about or|sd|3280|1
+B|might be the Killeen murders.|sd|3280|1
+B|I've been kind of intrigued.|sd|3280|1
+B|I guess it's kind of the sadist in everyone|sv|3280|1
+B|You just,|%|3280|1
+A|Yes,|b|3280|0
+A|yes.|b|3280|0
+A|I, I will pick up if there's something really gruesome in there|sd|3280|0
+A|I'll go through and read it.|sd|3280|0
+A|Uh, but I find that I do better with, oh, remembering it and everything if I watch, uh, the T V you know,|sd|3280|0
+B|Yeah.|b|3280|1
+A|and, and they kind of capsize it and everything|sv|3280|0
+B|Yeah.|b|3280|1
+A|and watch,|%|3280|0
+A|and I think sometimes it's, you know maybe a little biased, you know|sv|3280|0
+B|Right.|b|3280|1
+B|Oh, yeah.|aa|3280|1
+A|and sometimes. You don't, you get the sensationalism as opposed to just pure facts.|sv|3280|0
+B|Yeah.|b|3280|1
+B|That's true.|ba|3280|1
+A|You know.|%|3280|0
+B|I wanted a little more detail like, you know,|sd|3280|1
+B|they would tell more about the people that were killed, where they were from and how old they were.|sd|3280|1
+B|And I guess you just, you know, you you just want to know|sd|3280|1
+B|and with interest, you know I found some people that were members of our church which was different.|sv|3280|1
+B|And that made you even feel a little more kin to, to what was going on.|sv|3280|1
+B|Well, you know, of the same, same type of church that we belong to.|na|3280|1
+A|Oh, the same type of church.|b^m|3280|0
+B|Uh-huh.|b|3280|1
+A|Uh-huh,|b|3280|0
+A|uh-huh.|b|3280|0
+B|Yeah,|b|3280|1
+B|so that made it a little more and that they were from Utah also|sd|3280|1
+B|so.|%|3280|1
+A|Oh, uh-huh,|b|3280|0
+A|uh-huh.|b|3280|0
+B|So that was interesting,|sv|3280|1
+B|but I enjoy the news.|sd|3280|1
+B|I, I think our seven year old even once in a while will sit down and watch it with us,|sd|3280|1
+A|Uh-huh.|b|3280|0
+B|so.|%|3280|1
+A|I used to, uh,|sd|3280|0
+A|or I didn't used to|sd|3280|0
+A|but, uh|%|3280|0
+B|No.|b|3280|1
+A|when my grandchildren had, uh, have stayed over before and even maybe when our kids were younger one of the channels used to give brief inserts of news at a child's level.|sd|3280|0
+B|Uh-huh.|b|3280|1
+A|And I thought that was very interesting,|sd|3280|0
+A|and I thought that was very important for kids.|sd|3280|0
+A|Like they brought down something that had happened like if there was something going on, uh, in the war, they would bring it down to a child's level in words you know, that they could understand what was going on.|sd|3280|0
+B|Huh.|b|3280|1
+B|Uh-huh.|b|3280|1
+A|And, uh, I noticed that my grandchildren seemed to kind of enjoy that.|sd|3280|0
+A|The oldest one he's nine|sd|3280|0
+B|Right.|b|3280|1
+A|and, uh, he would particularly enjoy this|sd|3280|0
+A|been a couple of years ago.|sd|3280|0
+B|Yeah.|b|3280|1
+A|And, uh, I thought, I think that's really interesting.|sd|3280|0
+A|Actually I even understood it better|sd|3280|0
+B|Yeah,|b|3280|1
+B|that's nice sometimes when they they pull it down a little bit like that.|sv|3280|1
+A|Yeah|b|3280|0
+A|Yeah,|b|3280|0
+A|you know. And, uh, but as I said, uh, I you know,|%|3280|0
+B|Right.|b|3280|1
+A|Nobody should get that way about the news. And what's going on in the world.|sv|3280|0
+B|Right.|b|3280|1
+B|Oh, do you have a certain station you like to watch when you watch it|qy|3280|1
+B|or,|%|3280|1
+A|Yes.|ny|3280|0
+A|We like channel eight.|sd|3280|0
+B|Do you?|bh|3280|1
+A|We like it.|na|3280|0
+A|It's the best.|sv|3280|0
+B|Um, channel five for some reason has always been the one I watch.|sd|3280|1
+A|Is that been your favorite?|qy|3280|0
+A|Uh-huh.|b|3280|0
+B|I, I don't know|no|3280|1
+B|it's probably the anchors.|sd|3280|1
+B|They just kind of catch you.|sv|3280|1
+B|I don't, I don't know.|sd|3280|1
+A|Yeah,|b|3280|0
+A|I very|%|3280|0
+A|and I thought it was very interesting, uh,|sd|3280|0
+A|channel nine watching it when the murders were in Killeen|sd|3280|0
+B|Uh-huh.|b|3280|1
+A|and, and going on.|%|3280|0
+A|They were having news coverage|sd|3280|0
+A|and,|%|3280|0
+B|The C N N, is that what that is?|qy|3280|1
+A|No,|nn|3280|0
+A|it was channel nine.|sd|3280|0
+B|Huh.|b|3280|1
+A|And, you know they have that hour that nine to ten of an evening.|sd|3280|0
+B|Oh.|b|3280|1
+A|And so we had the T V on|sd|3280|0
+A|and we were trying to catch all of it,|sd|3280|0
+A|and they were showing some|sd|3280|0
+A|and I was watching,|sd|3280|0
+A|my husband and I were watching it,|sd|3280|0
+A|and then we switched over to channel eight,|sd|3280|0
+A|and the difference in coverage was unbelievable.|sv|3280|0
+B|Yeah.|b|3280|1
+A|I can understand why channel eleven is, uh, you know, why they're kind of behind.|sd|3280|0
+B|Yeah.|b|3280|1
+A|Did I say channel nine to begin with?|qy|3280|0
+B|Yeah|ny|3280|1
+B|That's why I wondered.|sd|3280|1
+A|No|ar|3280|0
+A|Okay.|bk|3280|0
+A|No, channel eleven I meant.|ar|3280|0
+B|I don't get that channel|sd|3280|1
+B|Yeah.|b|3280|1
+A|I was thinking nine to ten.|sd|3280|0
+B|Yeah,|b|3280|1
+B|yeah.|b|3280|1
+A|But channel eleven,|sd|3280|0
+B|That is if you, if you want to go to bed early|sv|3280|1
+B|it's nice to, to, to watch that early news sometimes,|sv|3280|1
+A|Uh-huh.|b|3280|0
+B|so.|%|3280|1
+A|It, uh,|%|3280|0
+A|but the coverage wasn't near as good as when we, you know, switched over to channel eight|sv|3280|0
+A|and they didn't|%|3280|0

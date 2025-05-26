@@ -1,0 +1,281 @@
+A|Okay,|fo_o_fw_"_by_bc|2477
+A|so which, uh, what basketball teams are you interested in?|qw|2477
+B|Well, I guess I'm a big Laker, L A Laker fan, when it comes to pros.|sd|2477
+A|Uh-huh.|b|2477
+B|Uh, the college ranks, um, I guess I really,|sd|2477
+B|of course I try to follow my alma mater,|sd|2477
+B|that's, uh, B Y U, in Utah.|sd|2477
+A|Uh-huh|b|2477
+B|But they don't have much of a team usually.|sv|2477
+A|No,|aa|2477
+A|they're more of a football team than they are basketball team.|sv|2477
+B|Yeah,|aa|2477
+B|yeah.|aa|2477
+B|You see them in football on T V once in awhile.|sd|2477
+A|Yeah.|b|2477
+B|You never see them on a, on nationally basketball.|sd|2477
+A|You know, that's true.|aa|2477
+A|I don't think I've ever seen them nationally on basketball.|sd|2477
+B|They, uh, last year they had a really good team,|sv|2477
+B|the year that Danny Aines was there.|sd|2477
+A|Uh-huh.|b|2477
+B|That was about five, six years ago by now.|sd|2477
+A|Huh.|%|2477
+B|So, they made it to the sweet sixteen, once or twice, in their history,|sd|2477
+A|Um.|%|2477
+A|That's not too bad.|sv|2477
+B|and that's,|%|2477
+B|and they usually lose in the first round.|sd|2477
+A|Uh-huh.|b|2477
+B|How about you?|qo|2477
+A|Well, I'm, uh, originally from the Saint Louis area,|sd|2477
+A|so the only basketball team, pro anyway, in that part of the country is Chicago.|sd|2477
+A|So, I, I do pull for Chicago.|sd|2477
+B|Uh-huh.|b|2477
+A|I mean, of course, this year is a good year to be a, a Chicago fan, I guess, because they're doing pretty good.|sv|2477
+B|Is it the Bulls you're talking about?|qy|2477
+A|Yeah,|ny|2477
+A|yeah.|ny|2477
+B|Yeah,|b|2477
+B|the pro,|bf|2477
+A|Um, as far as college teams, uh, I know it's really easy to say,|sd|2477
+A|but I've been pulling for, uh, Duke for about four years now|sd|2477
+A|so, uh, so, I finally am feeling better about myself as far as college teams. Although, I've, I've really, you know,|sd|2477
+B|Is that right?|bh|2477
+A|again being from Saint Louis, I pull for Missouri.|sd|2477
+B|Uh-huh.|b|2477
+A|Uh, but they're on, uh, probation this year|sd|2477
+A|so you can't do much about that.|sv|2477
+B|No,|aa|2477
+B|no.|aa|2477
+A|But, uh,|%|2477
+B|So, did you watch the, uh, final four this year?|qy|2477
+A|Oh, yeah.|ny|2477
+A|I watched every, uh, I watched all three games of that.|sd|2477
+B|Every game?|^2|2477
+A|And, uh, I was very pleased with all three games, because Kansas, uh,|sd|2477
+A|you know, I was pulling for Kansas on the other side,|sd|2477
+A|so it was real nice to have the, the teams that were there.|sd|2477
+B|Right,|b|2477
+B|right.|b|2477
+A|Of course, I wasn't really,|sd|2477
+A|I mean, I, I,|%|2477
+A|U N L V kind of gave me the impression of being a, uh, uh, oh, I don't know, a macho team, you know,|sd|2477
+A|they just didn't seem, they seemed to think they were better than everybody else|sv|2477
+A|and, and maybe they were,|sv|2477
+A|but, um, I was real happy to see them get knocked off.|sd|2477
+A|So,|%|2477
+B|Yeah.|b|2477
+B|I, I watched that game.|sd|2477
+A|Uh-huh.|b|2477
+B|and, uh, it was a good game.|sv|2477
+A|Oh, yeah.|b|2477
+B|It was a very close game, and hard fought game.|sd|2477
+B|And it just,|%|2477
+B|I don't know,|h|2477
+B|it looked like U N L V may have had more, uh, talent,|sv|2477
+A|Yeah.|b|2477
+B|but, as far as playing together as a team that day, it didn't, Duke seemed to have them off balance.|sv|2477
+A|Uh-huh.|b|2477
+B|And that, uh, they didn't, couldn't,|sv|2477
+B|aren't they more of a running gun team ?|qy|2477
+A|U N L V,|b^m|2477
+A|yeah,|ny|2477
+A|they, they play the pro style, is, what I've always called it.|sd|2477
+B|Right.|b|2477
+A|And, uh,|%|2477
+B|Yeah,|aa|2477
+B|fast breaks and things and,|sd|2477
+A|yeah,|aa|2477
+A|the fast breaks and, and,|b^m|2477
+B|They shut all that down and made them play half court it seemed|sv|2477
+B|and,|%|2477
+A|Right.|aa|2477
+A|And, uh, U N L V wasn't used to that.|sd|2477
+A|Of course, I've, I knew whenever U N L V went in at half time,|sd|2477
+A|see I don't know if they were necessarily behind,|sd|2477
+A|but they weren't ahead as much as they normally are.|sd|2477
+B|Right.|b|2477
+A|Uh, and, you know, that meant that they had to play a second half|sd|2477
+A|and they, they've not had to do that all year|sd|2477
+A|and, uh,|%|2477
+B|Right,|aa|2477
+B|right.|aa|2477
+B|They didn't have, they didn't have to go through some tough games during the year|sd|2477
+B|and that, and that, so that's a terrible time to have to deal with that, right in, when it, when it counts so much.|sv|2477
+A|That's right.|aa|2477
+A|I mean Duke's schedule was, was so much harder than U N L V's that it, uh, it just made them a much tougher team overall,|sv|2477
+B|Right.|b|2477
+A|and, uh, that had to help them a lot.|sv|2477
+B|I think, I think that, that probably was the difference in that game.|sv|2477
+A|Uh-huh.|b|2477
+B|Because it really could have gone either way. Down to the end, you know.|sv|2477
+A|So do I take it that you think though that the Lakers will, uh,  will win|qy|2477
+B|Well,|%|2477
+A|or,|%|2477
+B|I don't know.|no|2477
+B|Probably not.|nn|2477
+A|I mean, Portland's pretty good. Um,|sv|2477
+B|Since Kareem's retired,  they haven't had a center.|sd|2477
+A|Yeah.|b|2477
+B|And, uh, they've got Perkins,|sv|2477
+A|Yeah.|b|2477
+B|but I don't think he's really been a super star for them.|sv|2477
+A|No.|aa|2477
+A|Well, he's, uh,|%|2477
+A|I don't,|%|2477
+A|I,|%|2477
+A|he, he to me is not a center,|sv|2477
+A|he's more of a, a real tall forward|sv|2477
+B|Yeah.|b|2477
+B|Right,|aa|2477
+B|right.|aa|2477
+A|Uh,|%|2477
+B|So,|%|2477
+A|I think Magic does a,|sv|2477
+B|They'll make it, you know,|sv|2477
+B|it, it's going to be a war between, uh, between Chicago and, uh, and, uh, uh, Boston Celtics.|sv|2477
+A|Oh, yeah.|aa|2477
+B|That's going to be a war.|sv|2477
+A|That sure is.|aa|2477
+A|It,|%|2477
+B|It's going to be a great series.|sv|2477
+A|I think that's going to be one of those that's, uh, that's won by the home team, you know,|sv|2477
+B|Yeah.|b|2477
+A|whoever has home court advantage is going to win that one I think.|sv|2477
+B|One of those two will probably be, um, in there,|sv|2477
+B|um, let me see,|^h|2477
+B|where does Detroit fit in?|qw|2477
+A|Detroit's in that same, uh, that, that same, uh, division.|sd|2477
+B|Uh-huh.|b|2477
+B|So, I don't know,|h|2477
+B|those three,|sd|2477
+B|uh, Detroit hasn't been having that great a year this year.|sv|2477
+A|No,|aa|2477
+A|but as I heard, Isaiah came back this week.|sd|2477
+B|Uh-huh.|b|2477
+A|So, uh, that might help them.|sv|2477
+B|Yeah.|aa|2477
+B|They have the, they have the play-off experience,|sd|2477
+B|but,|%|2477
+A|Oh, yeah.|b|2477
+B|so does Detroit, I mean, so does Chicago. So all three of them do, with Larry Bird back, uh,|sd|2477
+A|Oh, yeah.|b|2477
+B|you can never count the Celtics out when Larry Bird's,  starting to click on all cylinders.|sv|2477
+A|That's true.|aa|2477
+A|Uh-huh.|b|2477
+B|They say he's starting to do, starting to play,|sd|2477
+A|He's, yeah but he's been, yeah, but he's been kind of up and down all year.|sv|2477
+B|Right.|b|2477
+A|uh, one game and he'll be playing to where everything he throws up goes in|sv|2477
+A|and then the next time he'll, you know, he can't seem to hit the side of a barn.|sv|2477
+B|Right.|b|2477
+A|So, I don't know,|h|2477
+B|Right.|b|2477
+A|I'm, I'm kind of, I'm not sure about him this year.|sd|2477
+B|Last I've heard is that he's starting to peak right now.|sd|2477
+A|Uh-huh.|b|2477
+A|Well that's when,   you do it.|sv|2477
+B|He's,   starting to be more consistent, you know, right at the right time of the year.|sd|2477
+A|Yeah.|b|2477
+B|Oh, any dark horses I, uh, you know,|sd|2477
+A|Well, the dark horses,|b^m|2477
+B|San Antonio,  San Antonio is the dark horse that could, could really flip in there, I think.|sv|2477
+A|Yeah|b|2477
+A|that's,|%|2477
+A|Yeah.|aa|2477
+A|Well, anybody who has David Robinson, has got to have a chance anyway.|sv|2477
+B|Yeah.|b|2477
+B|He's got to be pretty much, you know,|sv|2477
+B|I use to say Akimo Lija was the dominant player, you know, when he,|sd|2477
+A|Uh-huh.|b|2477
+B|against any team he would dominate,|sd|2477
+B|but Robinson's getting up there where , every game, he's just,|sv|2477
+A|That's right.|aa|2477
+B|I mean, it looks like he's going in for a dunk|sd|2477
+B|and they kind of just scoot out of his way or take a step back, you know,|sd|2477
+A|Uh-huh.|b|2477
+B|nobody's got enough beef, I guess, to challenge him when he's, when he's driving hard to the hoop.|sv|2477
+A|Huh.|%|2477
+B|He's, uh, he's,|%|2477
+B|too bad the Mavericks couldn't get him.|sv|2477
+A|That's true.|aa|2477
+B|With Roy Tarpley they're in big trouble.|sv|2477
+A|Yeah.|aa|2477
+A|Well then, he's gone now|sd|2477
+A|so,  they don't have to worry about that.|sv|2477
+B|Yeah,|aa|2477
+B|for awhile anyway.|sv|2477
+A|Well, I thought he was gone period.|sd|2477
+A|I, I didn't read the story,|sd|2477
+A|but I, I, read that, uh,|sd|2477
+B|I heard he was suspended.  Because of his,|sd|2477
+A|Well, that might have been what it was,|sd|2477
+A|but I, I guess the headlines said something about him, you know, that the Mavericks released him or something,|sd|2477
+A|I, maybe I misunderstood what they meant.|sd|2477
+B|Um. If they did, they'd still have to pay his contract|sd|2477
+A|Well, yeah|b|2477
+B|They may have done it.|sd|2477
+A|you never know.|sv|2477
+B|It was a lot of money.|sd|2477
+B|He was making like,|sd|2477
+A|Yeah|b|2477
+A|but,|%|2477
+B|I heard on the radio it was sixty-three thousand and change a month.|sd|2477
+B|That's what he was being paid, you know,|sd|2477
+B|he wasn't even playing.|sd|2477
+A|Yeah.|b|2477
+B|Oh, boy, what a good job he had|sv|2477
+A|That's what I think.|aa|2477
+B|He ruined his sweet position|sv|2477
+A|Yeah|b|2477
+B|Yeah.|b|2477
+B|I'm looking forward to the, the pro play-off, uh,|sd|2477
+A|Yeah.|b|2477
+A|It's coming up, isn't it.|qy|2477
+B|L A,|sd|2477
+B|yeah,|ny|2477
+B|San Antonio,|sd|2477
+B|who's the other one that's doing so well this year,|qw|2477
+B|is that Portland?|qy|2477
+A|Portland.|na|2477
+A|Yeah,|ny|2477
+A|Portland.|na|2477
+B|Portland.|b^m|2477
+B|I haven't seen them on much T V that much at all,|sd|2477
+B|but all I can do is hear about,|sd|2477
+B|boy they have the seeing eye.|sv|2477
+A|Uh-huh.|b|2477
+B|What do they have|qw|2477
+B|Walter Davis and,|sd|2477
+A|They've got two, the two Johnson brothers|sd|2477
+A|or they're not brothers,|sd|2477
+A|but I mean there's two guys named Johnson on their team that are really good or doing good or something,|sd|2477
+A|I forget how that works.|sd|2477
+A|But, um, like I said they're doing extremely good right now.|sv|2477
+B|Um.|%|2477
+A|Phoenix isn't doing too bad.|sv|2477
+A|So, It, it ought to be a real interesting play-off.|sv|2477
+B|Right.|aa|2477
+B|Right.|aa|2477
+B|Yeah.|b|2477
+B|Yeah.|b|2477
+A|Yeah.|b|2477
+B|I don't think there's any clear pick, you know.|sv|2477
+A|Uh-huh.|b|2477
+B|I guess the two teams that you can't count out are the Celtics because of Bird, and the Lakers because of Magic Johnson.|sv|2477
+A|Uh-huh.|b|2477
+B|They are two guys that seem to find a way when they,|sv|2477
+A|When it's on the line.|^2|2477
+B|When it's on the line, they seem to find a way. You know,|sv|2477
+A|Uh-huh.|b|2477
+B|uh, so, those are what makes a champion I guess.|sv|2477
+A|Yeah,|aa|2477
+A|that's true.|aa|2477
+B|Yeah.|b|2477
+A|Well, it's been nice talking to you.|fc|2477
+B|Nice talking to you.|fc|2477
+A|All right.|fc|2477
+A|Take care.|fc|2477
+B|Take care.|fc|2477
+B|Bye.|fc|2477

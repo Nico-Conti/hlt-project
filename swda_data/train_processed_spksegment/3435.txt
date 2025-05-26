@@ -1,0 +1,152 @@
+A|my number.|ad|3435|0
+A|Okay.|%|3435|0
+B|Okay.|b^m|3435|1
+B|So are you a, a, a golfer|qy|3435|1
+B|or are you a spectator?|qrr|3435|1
+A|Oh, I'm a,|sd|3435|0
+A|I play golf|sd|3435|0
+A|but I don't actually play golf.|sd|3435|0
+B|Well, I'm the same way.|sd|3435|1
+B|I,  I go out there and hit the ball.|sd|3435|1
+A|Yeah.|b|3435|0
+A|Hack it all over the place?|bf|3435|0
+B|Yeah.|aa|3435|1
+A|It's sickening, isn't it?|qy|3435|0
+B|Um, uh, well, in the Carolinas it's, it's just, you know, we've got a bunch of golf courses around here.|sd|3435|1
+A|Yeah.|b|3435|0
+A|We've got tons up here|sd|3435|0
+A|but I don't know.|h|3435|0
+A|How do you feel about your game?|qw|3435|0
+A|I guess that's a good question?|qy^d|3435|0
+B|Uh, well, I mean I'm not a serious golfer at all,|sd|3435|1
+B|uh, uh, a friend of mine goes golfing a lot|sd|3435|1
+B|and he drags me out every now and then|sd|3435|1
+B|and I, uh, I don't have a, I don't really even have a game.|sd|3435|1
+B|I usually|%|3435|1
+B|when I go out and play golf it's usually like at a, at one of these par threes that, you know, you,|sd|3435|1
+A|Yeah.|b|3435|0
+B|but, um, I like watching it on T V.|sd|3435|1
+A|Yeah,|b|3435|0
+A|I like that too.|sd|3435|0
+A|I don't know|h|3435|0
+A|I try to play,|sd|3435|0
+A|but God, I, a couple years ago I played two, three times a week and got lousy.|sd|3435|0
+A|I guess that's the best I ever got was lousy.|sv|3435|0
+A|And I thought I was really improving and the big break was going to come|sv|3435|0
+A|and then I got worse again|sd|3435|0
+A|so.|%|3435|0
+B|get they, they say I hit worm burners because I, I can't hit it up in the air.|sd|3435|1
+A|Yeah.|b|3435|0
+B|So I'm pretty bad|sd|3435|1
+B|but I, I, I get great distance hitting it, you know, across the ground,|sd|3435|1
+B|and if it's going over water or something one of them have to take the shot for me because I'm,|sd|3435|1
+B|but I'm getting better.|sd|3435|1
+B|I've got where now I can hit it in, in the air some of the time.|sd|3435|1
+A|That's pretty good.|ba|3435|0
+B|Yeah.|b|3435|1
+B|Uh, so I'm kind of a novice at it.|sd|3435|1
+A|Um, I'm that and worse.|sd|3435|0
+A|I, I play|sd|3435|0
+A|next year I,|%|3435|0
+A|actually I take it kind of seriously|sd|3435|0
+A|but I've been doing so bad.|sd|3435|0
+A|Next year, I always say this every year, but next year I'm starting over from scratch.|sd|3435|0
+A|I'm going to go take lessons and everything.|sd|3435|0
+A|I'm going to do it right, and see if I can actually play this game or not.|sd|3435|0
+B|Well, that I, I guess that's what I need to do is, is get some kind of lessons or something.|sv|3435|1
+B|Because I, my, my tee off is not bad,|sd|3435|1
+B|I mean I'm, I'm good up to everything else putting and stuff like that|sd|3435|1
+B|it's just, that, that initial tee|sd|3435|1
+A|Yeah,|b|3435|0
+A|what do you do when you're putting?|qw|3435|0
+A|That's a good thing.|sv|3435|0
+A|That's something I could learn actually.|sv|3435|0
+A|That's when I do my worst.|sd|3435|0
+A|I finally get to the green|sd|3435|0
+A|and I think I'm doing all, all fine|sv|3435|0
+A|and then,|%|3435|0
+B|Just walking around the hollow and making sure there's not really,|sd|3435|1
+B|you know, checking the ground and, and so forth, you know.|sd|3435|1
+A|Yeah.|b|3435|0
+B|See how it's going to break or whatever.|sd|3435|1
+A|Can you really see it though?|qy|3435|0
+B|Yeah.|ny|3435|1
+A|What about the speed?|qw|3435|0
+B|If you get, if you get down on the ground you really can.|sv|3435|1
+A|Can you tell but can you tell how, how fast you're going to hit it?|qy|3435|0
+B|Um, well, if you know if it's up on a slope that you've got to hit it not kill it|sd|3435|1
+B|but you've got to hit enough speed and the right angle that it's, it's, you know,|sd|3435|1
+B|because when it's going up a hill it's going to break in a direction.|sd|3435|1
+A|Yeah,|b|3435|0
+A|but you can feel that?|qy|3435|0
+B|Yeah.|ny|3435|1
+A|I don't know|h|3435|0
+A|I have, I can get it within like, you know, four or five feet or something|sd|3435|0
+A|but I don't have enough field.|sd|3435|0
+A|Now I'm T V watching.|sd|3435|0
+B|Yeah.|b|3435|1
+A|They make you die at the hole every time.|sd|3435|0
+B|Yeah.|b|3435|1
+A|Oh, it just dies and rolls in.|sd|3435|0
+A|I don't know,|h|3435|0
+B|But I,|%|3435|1
+A|it's hard for me.|sd|3435|0
+B|The, the,|%|3435|1
+B|it's, it's like I said|sd|3435|1
+B|once I get up on the green I'm fine,|sd|3435|1
+B|but that, that tee shot, uh, it, you know,|sd|3435|1
+B|when teeing off I'll go probably a hundred feet across the ground|sd|3435|1
+B|so it, it takes me awhile to get to the hole|sd|3435|1
+B|but,|%|3435|1
+A|Once you're there, you're all set though.|bf|3435|0
+B|I'm all set.|aa|3435|1
+A|We should play team golf then.|oo_co_cc|3435|0
+A|I'll get us there|sd|3435|0
+A|and you put it in.|ad|3435|0
+B|that sounds good to me.|aa|3435|1
+A|I|%|3435|0
+A|oh, the T V golfers they do that.|sd|3435|0
+A|It takes them two to get there and two to get it in|sd|3435|0
+A|so it's fifty percent.|sd|3435|0
+A|And me it takes me five to get there and five to get it in.|sd|3435|0
+B|Well, it, it, it usually takes me about probably two, two or three to get it there|sd|3435|1
+B|and, and then, that's according to the hole|sd|3435|1
+B|and it|%|3435|1
+B|uh, uh, maybe one or two putts.|sd|3435|1
+B|It's,  according to where I'm at on the green.|sd|3435|1
+A|Yeah.|b|3435|0
+A|That's good.|ba|3435|0
+B|But the friends I play with, uh, they play all the time|sd|3435|1
+B|and, and they're really good.|sd|3435|1
+A|Joe Pros?|bf|3435|0
+B|Uh, they're not Joe Pros|ar|3435|1
+B|but they, they golf in the high sixties low seventies|sd|3435|1
+B|so I guess they're pretty good|sv|3435|1
+A|That's pretty good.|ba|3435|0
+A|For eighteen?|qy^d|3435|0
+B|Yeah.|ny|3435|1
+B|For eighteen.|sd|3435|1
+A|Wow,|ba|3435|0
+A|that's pretty good.|sv|3435|0
+B|Yeah.|b|3435|1
+A|I'm talking to the wrong guy.|sd|3435|0
+A|Your shitty golf is probably the best golf I've ever seen.|sv|3435|0
+B|No,|ar|3435|1
+B|no,|ar|3435|1
+B|no,|ar|3435|1
+B|that's not my golf.|sd|3435|1
+B|That's my friends.|sd|3435|1
+B|Mine, mine,|%|3435|1
+B|I'm, I'm usually in the eighties or nineties|sd|3435|1
+B|so I'm, I'm not good|sv|3435|1
+A|If, when I'm in the nineties I'm feeling good.|sd|3435|0
+A|I'm usually around a hundred.|sd|3435|0
+A|That's my thing. Around a hundred.|sd|3435|0
+A|You know, I can hit a great drives and think I'm going to do all awesome on this hole|sd|3435|0
+A|but it ain't going to happen.|sd|3435|0
+B|Well, I either, teeing off I either slice it|sd|3435|1
+B|or I hook it ever single time|sd|3435|1
+B|and, and I alternate.|sd|3435|1
+A|Well, it's a good thing with me I slice it every single time.|sd|3435|0
+A|That's good.|sv|3435|0
+A|I aim,|sd|3435|0

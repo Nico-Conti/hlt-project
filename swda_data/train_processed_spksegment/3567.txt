@@ -1,0 +1,107 @@
+A|Okay,|fo_o_fw_"_by_bc|3567|0
+A|Scott, let's, uh, talk about advice that we can offer a parent where the child is going to go to a university|ad|3567|0
+B|Uh-huh.|b|3567|1
+B|Do you have any?|qy|3567|1
+A|and,|%|3567|0
+B|Do you have any kids|qy|3567|1
+B|or,|%|3567|1
+A|I have some, yes, some children.|sd|3567|0
+A|I have three boys.|sd|3567|0
+B|Uh-huh.|b|3567|1
+A|And they're all quite young|sd|3567|0
+B|Uh-huh.|b|3567|1
+A|and so we want to plan for their education|sd|3567|0
+A|or we're saving right now|sd|3567|0
+A|and we're getting bonds, and, and, uh, and hopefully finances set aside so that they can choose a college that they want to.|sd|3567|0
+A|How about yourself?|qo|3567|0
+A|Do you have any kids?|qy|3567|0
+B|No,|nn|3567|1
+B|I'm in, I'm in graduate school right now|sd|3567|1
+A|So I imagine you've gone through the experience yourself of selecting your college your own college.|sd|3567|0
+B|Yeah.|aa|3567|1
+B|Yeah,|aa|3567|1
+B|definitely.|aa|3567|1
+B|In fact, I'm even going, uh, selecting again for, for my P H D.|sd|3567|1
+B|It's, it's a close subject right now|sd|3567|1
+A|Very good.|ba|3567|0
+B|Uh,|%|3567|1
+A|What, uh, what do you use as a basis to determine which college or university you go to?|qw|3567|0
+B|Well I use, uh, uh, uh, I have used, uh, several techniques depending on what,|sd|3567|1
+B|for undergraduate, I, I, you know, my criteria were much different than than like for graduate school.|sd|3567|1
+A|Uh-huh.|b|3567|0
+B|Uh, when I, when I wanted to go to an undergraduate institution, I was looking for something that was, you know, rather small and easy to get around, you know. And what I would, what I thought would be easy to get through.|sd|3567|1
+A|Uh-huh.|b|3567|0
+A|Yeah|b|3567|0
+A|what you thought, huh.|bf|3567|0
+B|Yeah|aa|3567|1
+B|And, and, uh, my choice of graduate schools was, uh, you know, it changed a whole lot.|sd|3567|1
+B|I, I got to where I, I wanted to, uh, graduate with a little, you know, with a name behind me, rather than, uh|sd|3567|1
+A|Just the degree itself.|^2|3567|0
+B|yeah,|aa|3567|1
+B|yeah.|aa|3567|1
+A|Well, that's a, that's, that's good, because I did quite a bit the same thing in my undergraduate work.|sd|3567|0
+B|Uh-huh.|b|3567|1
+A|I wanted to get a school that was small enough, that was personable that you didn't have a lecture, uh, hall with about fifteen other students competing for the professor's attention|sd|3567|0
+B|Uh-huh.|b|3567|1
+B|Yeah.|b|3567|1
+A|and, uh, but you, I felt that I got a pretty good, uh, undergraduate, uh,|sd|3567|0
+B|Where, where did you go?|qw|3567|1
+A|I went to Utah State University which is in Logan, Utah|sd|3567|0
+B|Okay.|bk|3567|1
+B|Uh-huh.|b|3567|1
+A|and the nice thing about it too is, I knew that I wanted to get into business and that their business, College of Business, was accredited|sd|3567|0
+A|and well known at least there in the State of Utah and around the surrounding states and so forth.|sd|3567|0
+B|Uh-huh.|b|3567|1
+B|Uh-huh.|b|3567|1
+A|And so I, I feel like, number one, you you also need to see what kind of name the,|sd|3567|0
+A|like you mentioned before, the name the college and university can, can give you and another thing that, uh, another reason why I chose that was the, the finances.|sv|3567|0
+B|Yeah.|b|3567|1
+A|I wanted to make sure that I would be able to afford it, that I wouldn't get through four, three years of the undergraduate work and, and have to leave.|sd|3567|0
+B|Uh-huh.|b|3567|1
+A|And, uh, so I did a lot of talking with friends, with family with, uh, counselors at high school, and also read some, some books on, on the subject at the, at the library.|sd|3567|0
+B|Uh-huh.|b|3567|1
+B|Uh-huh.|b|3567|1
+A|And, uh, it was kind of unusual because my, my two older brothers and I all went to three different universities, depending on what our choice was.|sd|3567|0
+A|So.|%|3567|0
+B|Right.|b|3567|1
+A|Hopefully we, we chose the one that was best for us,|sd|3567|0
+A|and I, I felt very comfortable and good about that.|sd|3567|0
+A|So.|%|3567|0
+B|Uh-huh.|b|3567|1
+B|Do you, do you worry, do you worry any about, uh, uh, being able,|qy|3567|1
+B|I mean, obviously you've taken precautions, you know, or measures to, uh, try and pay for your children's education,|sd|3567|1
+B|but do you think that that's going to be enough?|qy|3567|1
+A|I don't think so.|ng|3567|0
+B|No.|b^m|3567|1
+A|I don't know.|no|3567|0
+A|The, the way that tuition is increasing, um, exponentially it's, it's, it's kind of hard to set aside money and have that money grow at the same pace that the college tuition is increasing.|sd|3567|0
+B|Yeah.|b|3567|1
+B|Yeah.|b|3567|1
+B|Yeah.|b|3567|1
+A|I, uh,|%|3567|0
+B|I, all I, all I can hope for is that I land a professorship at a nice heavy university.|sd|3567|1
+A|And that, that your children can use the benefits of that university.|sv|3567|0
+B|Yeah|aa|3567|1
+A|Well, that's an excellent idea,|ba|3567|0
+A|that's an excellent idea.|ba|3567|0
+A|One thing that, uh, that we did, uh, and my parents, and our family, is that we weren't able to afford, um, the kind of education that we all desired.|sd|3567|0
+A|So my parents stressed that we get excellent grades so that we apply and try for scholarships|sd|3567|0
+B|Uh-huh.|b|3567|1
+A|and, uh, scholarships were very beneficial in my case to help pay for my education, because my parents couldn't.|sd|3567|0
+B|Uh-huh.|b|3567|1
+A|And what the scholarship could not supply I was able to, to work for and and save and, and, and get.|sd|3567|0
+B|Yeah.|b|3567|1
+B|Uh-huh.|b|3567|1
+A|Also, my, my brother, um, he's a, he's a medical doctor right now.|sd|3567|0
+A|He had to, you know,|sd|3567|0
+A|once he got past his undergraduate and graduate degree, he had to take out some loans,|sd|3567|0
+A|and he's, he's working to pay those off.|sd|3567|0
+B|Yeah.|b|3567|1
+A|So I, I think that the, uh, you know, once you get past, uh, the initial stages of it, that there's different options you can use|sv|3567|0
+A|and, and, uh the student loans are, are good options.|sv|3567|0
+B|Yeah.|b|3567|1
+B|Yeah,|b|3567|1
+B|that's what, that's my biggest option right now.|sd|3567|1
+A|Yeah|b|3567|0
+A|Yes,|b|3567|0
+A|and, and as you're well aware that tuition's not,|sv|3567|0

@@ -1,0 +1,163 @@
+B|Well, let me see,|^h|3491
+B|what have you seen lately?|qw|3491
+A|Well, uh, CITY SLICKERS, and STAR TREK FIVE.|sd|3491
+B|FIVE?|qy|3491
+A|Yeah|ny|3491
+A|yeah.|ny|3491
+B|only, only five?|qy|3491
+A|Yeah.|ny|3491
+A|I thought I'd better see that one before I go and see six.|sd|3491
+B|Well, no,|ar|3491
+B|didn't need to.|sv|3491
+A|No,|aa|3491
+A|I found that out|sd|3491
+A|How about yourself?|qo|3491
+B|I just saw the latest one.|sd|3491
+A|How is it?|qw|3491
+B|It was fantastic.|sd|3491
+A|Oh, I can't wait.|sd|3491
+B|Yeah,|b|3491
+B|it's,|%|3491
+B|the lines in there were just perfect.|sd|3491
+B|I mean, it was classic TREK.|sd|3491
+A|Now, does the old STAR TREK guys meet the new guys?|qy|3491
+B|No,|nn|3491
+B|huh-uh.|nn|3491
+A|No,|b|3491
+A|it's just the old guys still.|qy^d|3491
+B|Yeah,|ny|3491
+B|it was just a rumor that that would happen this time.|sv|3491
+B|However, the rumor is, is that it will happen next, happen next time|sv|3491
+B|so,|%|3491
+A|You know, that I read in PEOPLE or somewhere, no, it was U S A TODAY|sd|3491
+B|Uh-huh.|b|3491
+A|that they said they weren't going to do anymore.|sd|3491
+A|That was it.|sd|3491
+B|Uh-huh.|b|3491
+A|But,|%|3491
+B|Yeah,|b|3491
+B|uh, except that the rumor is, is that they still might,|sv|3491
+B|but it may not include the entire crew|sv|3491
+B|and it will be a next generation meets this generation|sv|3491
+A|Huh.|b|3491
+B|So,|%|3491
+A|I'm not sure what the difference in light years between the new generation and the, the old guys was.|qw^d|3491
+B|I think it's a hundred years.|sd|3491
+A|Huh.|b|3491
+B|Somewhere in that range.|sd|3491
+B|Considering that Spock was on an, uh, you know, couple weeks ago and that the, the very first episode of NEXT GENERATION, they had McCoy.|sd|3491
+A|Oh, that's right.|aa|3491
+A|Is that right?|bh|3491
+A|He was a doctor still?|qy|3491
+B|And,|%|3491
+B|Uh-huh.|ny|3491
+B|Yeah,|ny|3491
+B|well, you know, he was rear admiral, whatever, you know,|sd|3491
+B|and he just kind of hobbled down the halls real slow.|sd|3491
+B|Vulcans age a lot better|sv|3491
+A|Well, yeah,|aa|3491
+A|he didn't look too bad, did he?|qy|3491
+B|No,|nn|3491
+B|huh-uh.|nn|3491
+B|Matter of fact, he looks just as about as old and the, uh, NEXT GENERATION as he does in the latest STAR TREK|sd|3491
+B|Imagine that.|ba|3491
+A|Yeah,|b|3491
+A|that's amazing.|ba|3491
+A|But, did they have some pretty good special effects?|qy|3491
+B|Oh, excellent, excellent special effects.|na|3491
+B|But I think the script was, you know, just incredible compared to the last one.|sv|3491
+A|Yeah,|aa|3491
+A|FIVE was, the script was bad, bad, bad|sv|3491
+B|Well, you know why?|qh|3491
+A|No,|nn|3491
+A|I don't.|sd|3491
+A|Why?|qw|3491
+B|Uh, William Shatner wrote it.|sd|3491
+A|Oh, is that right?|bh|3491
+B|And even worse, he directed it.|sd|3491
+A|Uh,|b|3491
+A|Leonard, Nimoy, he does a lot better.|sv|3491
+B|Oh, yeah,|aa|3491
+B|he, in fact, uh, he didn't direct this one.|sd|3491
+B|He produced this one|sd|3491
+B|But he directed the one before, uh, I think STAR TREK FOUR, something like that.|sd|3491
+A|IN SEARCH OF SPOCK, or, no, JOURNEY HOME, I think that was.|sd|3491
+B|Yeah,|aa|3491
+B|uh-huh.|aa|3491
+A|Are, you're a real life Trekkie?|qy|3491
+B|I think so|na|3491
+A|I really like them.|sd|3491
+A|I, I wouldn't go so far as being a Trekkie,|sd|3491
+A|but|%|3491
+B|Uh-huh.|b|3491
+A|uh,|b|3491
+B|Well, I've gone to, you know, one for real live Trek Convention|sd|3491
+B|but,|%|3491
+A|Oh, really?|bh|3491
+B|Yeah,|ny|3491
+B|I saw James Doohan, you know, the guy that plays, uh, Scotty.|sd|3491
+A|Huh, did you get to talk to him?|qy|3491
+B|No|nn|3491
+A|It was crowded.|sd|3491
+B|Not in a crowd like that.|qy^d|3491
+B|Huh-uh.|b|3491
+A|No.|nn|3491
+B|It was like, uh, want an autograph, want to stand in line for about four hours.|sd|3491
+A|Yeah.|b|3491
+A|Wow.|ba|3491
+B|It was a pretty crowded place.|sd|3491
+A|Huh. They have some good management principals in this NEW GENERATION.|sd|3491
+B|Oh, yeah,|b|3491
+B|yeah,|b|3491
+B|I,|%|3491
+B|it's, it's kind of funny.|sd|3491
+B|I, uh, was reading in, uh, a book. Uh, trying to think,|sd|3491
+B|I can't quite remember the name of the book,|sd|3491
+B|but it was, it was saying don't do STAR TREK management style.|sd|3491
+B|And they were referring to, you know, Captain Kirk,|sd|3491
+B|every time he left the Enterprise, everything went to hell.|sd|3491
+A|Oh.|b|3491
+B|And nothing got righted until he got back up on the ship|sd|3491
+A|Right,|b|3491
+A|so he kind of was a cowboy type, too.|qy^d|3491
+B|Uh-huh|ny|3491
+A|Made all the decisions|qy^d|3491
+A|but, uh, Jean Luke does more of a, a, committee type of management.|sv|3491
+B|Uh-huh,|aa|3491
+B|yeah,|aa|3491
+B|uh, it's definitely a lot better A lot more realistic really.|sv|3491
+A|What other movies have you seen?|qw|3491
+B|Uh, saw THE ADDAMS FAMILY last week.|sd|3491
+A|Oh, how was that?|qw|3491
+B|It was pretty good.|sd|3491
+B|Uh, there were a few things different than the old series,|sd|3491
+B|but on the, on the whole, it was pretty similar. And, a lot of fun.|sd|3491
+A|Lots of little funny spots, huh.|qy|3491
+B|Oh, yeah,|ny|3491
+B|yeah.|ny|3491
+A|Did they have Thing|qy|3491
+A|and,|%|3491
+B|Oh, yes,|ny|3491
+B|in fact, Thing has a big, much bigger role than he does in the series.|sd|3491
+B|I mean, you know, there is lots of areas where Thing saves the day.|sd|3491
+A|Really?|bh|3491
+B|And he runs around a lot.|sd|3491
+A|How did,|%|3491
+A|I've always wondered how he gets around.|qw^d|3491
+B|Uh, you know, just finger hopping.|sd|3491
+A|But he's in a box, right?|qy|3491
+B|No,|nn|3491
+B|no,|nn|3491
+B|no,|nn|3491
+B|in fact, it's funny.|sd|3491
+B|He never did, does come in out of a box, I don't think.|sd|3491
+B|Yeah,|%|3491
+B|he was just kind of walking around.|sd|3491
+A|Didn't he used to?|qy|3491
+B|Not really.|ng|3491
+B|He was always in the box before.|sd|3491
+A|Oh.|bk|3491
+A|Oh, that's, yeah, that's, okay.|bk|3491
+B|Yeah.|b|3491
+A|Yeah,|b^m|3491
+A|that's what I was thinking.|sd|3491

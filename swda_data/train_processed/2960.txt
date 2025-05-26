@@ -1,0 +1,335 @@
+A|Well, do you watch much T V?|qy|2960
+B|Well, I watch in the evening with my kids|na|2960
+A|Your kids.|bf|2960
+A|How many kids do you have?|qw|2960
+B|I have four children.|sd|2960
+A|Oh, goodness.|ba|2960
+A|I have got two.|sd|2960
+B|Well,|%|2960
+A|That is about all I want|sd|2960
+B|Yeah,|b|2960
+B|it keeps you busy, doesn't it?|qy|2960
+A|Yeah,|ny|2960
+A|they do.|sd|2960
+A|They are still babies.|sd|2960
+B|Uh, my children like to watch SESAME STREET.|sd|2960
+B|I watch with them every once in a while,|sd|2960
+B|but that is not my favorite programs.|sd|2960
+A|Oh, well. We have only get two channels.|sd|2960
+A|We do not have cable.|sd|2960
+B|Uh-huh.|b|2960
+A|But I am not crazy about T V much.|sd|2960
+A|It just,|%|2960
+A|well it kind of is an idiot box.|sv|2960
+A|Now SESAME STREET is a good program because, uh,|sv|2960
+B|Uh-huh.|b|2960
+A|I do have that on videotape,|sd|2960
+A|and I will let him watch that every once in a while.|sd|2960
+A|And he has learned to count to twenty from that.|sd|2960
+A|So,|%|2960
+B|Yeah.|b|2960
+B|It can be very educational.|sv|2960
+A|Yeah.|b|2960
+B|There are shows that I like.|sd|2960
+B|Uh, I like good family shows, uh, though.|sd|2960
+A|Uh-huh.|b|2960
+B|Uh, I let my kids watch things like LITTLE HOUSE ON THE PRAIRIE.|sd|2960
+A|Okay.|b|2960
+B|And the COSBY SHOW is, uh, is, uh, kind of unrealistic as a family unless you live in upper class and have money.|sv|2960
+A|Right.|b|2960
+B|I think that sometimes the things they show on there though, uh,|sv|2960
+B|the problems that their kids get into, are, are good to, uh, show that they do have problems anyway.|sv|2960
+A|Right.|b|2960
+B|Uh,|%|2960
+A|But they also have a lot easier time disciplining their kids than real people do.|sv|2960
+B|Yeah.|b|2960
+B|I mean, like I said, real life is not that easy.|sv|2960
+A|Yeah.|b|2960
+B|And, uh, I watch a show that I like for entertainment.|sd|2960
+B|Uh, it is called the QUANTUM LEAP.|sd|2960
+A|Oh, I love QUANTUM LEAP.|sd|2960
+B|I watch that show every time,|sd|2960
+B|and, uh,|%|2960
+B|I, I like, uh, how the, how he has to help with the people that he, that he becomes. Uh, because it is not a show that he just becomes these people and then he lives there for a while and then he is gone.|sd|2960
+A|Uh-huh.|b|2960
+A|Uh-huh.|b|2960
+B|He has to do something positive to help them.|sv|2960
+A|Right.|b|2960
+B|So I,|%|2960
+A|He always got to change history is what it is.|sv|2960
+B|Yeah.|b|2960
+B|Yeah.|b|2960
+A|Usually, yeah.|b|2960
+B|It,|%|2960
+A|That it is so good.|sv|2960
+A|I was glad when they put that back on this channel, because like I said, we only get two channels because we do not get cable.|sd|2960
+B|Me too,|sd|2960
+B|me too.|sd|2960
+B|Uh-huh.|b|2960
+A|And still my little boy, he watches videotapes.|sd|2960
+A|He won't, um,|%|2960
+A|this is terrible,|sv|2960
+A|I do not like him sitting in front of the T V all day.|sd|2960
+B|No,|arp_nd|2960
+B|that is not terrible.|sv|2960
+A|Well, It,|%|2960
+B|I do not think that is terrible at all.|sd|2960
+A|but it is a not really a good baby sitter|sd|2960
+B|Well,|%|2960
+A|It is really not.|sv|2960
+A|He needs to get outside and play.|sd|2960
+A|And he is four years old,|sd|2960
+A|and he just does not like to go out there by himself.|sd|2960
+A|And I will let him watch the T V when I am wanting to get my house work done.|sd|2960
+B|Uh-huh.|b|2960
+A|But other than that, I do not like him glued to the T V all the time.|sd|2960
+B|Well, I do not think it is, it is healthy all the time either.|sv|2960
+A|Huh-uh.|b|2960
+B|Uh, and my kids like to, to go play with their friends,|sd|2960
+B|and so I guess I do not mind too much when they do watch a little bit.|sd|2960
+B|Now I,|%|2960
+B|there are shows,|sd|2960
+B|I do not have cable either.|sd|2960
+B|And there are shows that I really put my foot down on.|sd|2960
+B|If there starts to be a lot of violence, I do not go for that.|sd|2960
+A|Uh-huh.|b|2960
+B|I will not let them watch that.|sd|2960
+B|If there is a lot of language or,|sd|2960
+A|Well, we made the|%|2960
+A|Right.|b|2960
+A|We made the mistake of getting ROBOCOP.|sd|2960
+A|And that is one of the worst, oh,|sv|2960
+A|I do not let him watch it anymore. Because the, the pieces, like especially where they kill somebody, it is just not good.|sd|2960
+B|Uh-huh.|b|2960
+A|I mean it is just real violent.|sv|2960
+A|I mean,|%|2960
+B|Well, it, you know,|%|2960
+B|today I watched,|sd|2960
+B|and it is like they show bloody, you know, things,|sv|2960
+A|Uh-huh.|b|2960
+B|and they show it in slow motion.|sd|2960
+B|And, and everything like that.|sd|2960
+A|Uh-huh.|b|2960
+B|And before, in a western or something, in the, in the olden days,|sv|2960
+A|You would see somebody get shot,|sd|2960
+A|they would just fall down.|sd|2960
+B|Yeah.|b|2960
+B|And they were gone|sd|2960
+A|Yeah.|b|2960
+B|And, and it was not, uh,|sv|2960
+A|So graphic.|^2|2960
+A|Today it is, it is really graphic.|sv|2960
+A|They try to make it too realistic.|sv|2960
+B|Uh-huh.|b|2960
+B|Yeah.|b|2960
+A|And,|%|2960
+B|Too much realism I think, sometimes.|sv|2960
+A|Yeah.|b|2960
+B|I don't,|%|2960
+A|Now he is watching HONEY, I SHRUNK THE KIDS right now.|sd|2960
+B|Oh, that is a fun show.|sv|2960
+A|It is, it is cute.|sv|2960
+B|Oh, I really like that one.|sd|2960
+A|And that,|%|2960
+A|little ROGER RABBIT on before that.|sd|2960
+B|Uh-huh.|b|2960
+A|That is cute.|sv|2960
+A|And they have got THE HE MAN, uh, MASTERS OF THE UNIVERSE, the movie.|sd|2960
+B|The cartoon or the,|qy|2960
+B|Oh, uh-huh.|bk|2960
+A|That is a real cute show.|sv|2960
+B|That has good moral values too.|sv|2960
+A|HE MAN?|qy^d|2960
+B|Uh-huh.|ny|2960
+B|Well, uh, I think, uh,|sv|2960
+A|Yeah,|b|2960
+A|good versus evil.|sd|2960
+B|Yeah,|b|2960
+A|Huh.|%|2960
+B|yeah.|b|2960
+A|Oh, well, it sounds like we have the same tapes for our kids anyway.|sv|2960
+B|Yeah.|b|2960
+B|At least we have the same ideas.|sv|2960
+A|Yeah.|b|2960
+B|Yeah.|b|2960
+B|Language too.|sd|2960
+B|language and violence and sexual, you know, things.|sd|2960
+A|Uh-huh.|b|2960
+B|I, I get kind of, uh, saying, "I am sorry kids, this is",|sd|2960
+A|Yeah.|b|2960
+B|And I, I think it is important that I see what they are watching.|sd|2960
+B|If,|%|2960
+A|Yeah.|b|2960
+A|They do have like those parental control things on the, uh, remote controls. You know, where you can block out what channels you do not want them to watch.|sd|2960
+B|You mean in cable?|qy|2960
+A|Uh-huh.|ny|2960
+B|Oh, I do not know, because I do not have that.|sd|2960
+B|But,|%|2960
+A|Well, my, my, uh, stepfather and them have, my stepfather, my father-in-law, and them have that.|sd|2960
+B|Uh-huh.|b|2960
+A|And, uh, they do not have any kids,|sd|2960
+A|but they was told how to use that.|sd|2960
+A|But still, when the kids get older, they learn how to break through that parental control.|sd|2960
+B|Oh, do they?|qy|2960
+A|Huh.|%|2960
+B|They are too smart.|sv|2960
+A|I think alls you have to do is push a couple buttons.|sv|2960
+B|Uh-huh.|b|2960
+A|So, it is, it is, I am hoping that he will grow up not really caring much for those movies because, now we have got a lot of western tapes.|sd|2960
+B|Uh-huh.|b|2960
+A|JOSEY WELLS, now he loves to watch JOSEY WELLS.|sd|2960
+B|Well, I think that is a good show too.|sv|2960
+A|Yeah,|b|2960
+B|Yeah.|b|2960
+A|Clint Eastwood.|sd|2960
+B|Uh-huh.|b|2960
+A|And like THE MAN FROM SNOWY RIVER, we have, oh,|sd|2960
+A|my husband likes westerns.|sd|2960
+A|And he also likes STAR TREK.|sd|2960
+A|Now STAR TREK is good movies, good shows.|sv|2960
+B|Uh-huh.|b|2960
+A|The, uh, series?|qy^d|2960
+A|We have got a lot of those.|sd|2960
+B|Uh, I think not even the old one but the new one too.|sd|2960
+B|I like both of those|sd|2960
+A|Uh-huh.|b|2960
+A|THE NEXT GENERATION?|qy^d|2960
+B|Uh-huh.|ny|2960
+A|Yeah.|b|2960
+A|My little boy is crazy about Captain Kirk.|sd|2960
+B|Yeah.|b|2960
+A|And my little girl has Mister Spock's ears|sd|2960
+B|Oh,|b|2960
+A|I told my husband he cursed my kids.|sd|2960
+B|Yeah.|b|2960
+A|They were both born with pointy ears.|sd|2960
+B|Oh, well.|%|2960
+A|Not real pointy.|sd|2960
+A|My little boy grew out of it.|sd|2960
+B|Oh, that is not a problem anyway,|ba|2960
+A|No.|aa|2960
+B|but it is fun to, you know, seeing the show anyway.|sd|2960
+B|Uh, now I like, uh, everything oh,|sd|2960
+B|no,|ar|2960
+B|not Michael Douglas, um, oh,|^h|2960
+B|I can't think of his name.|sd|2960
+A|Kirk Douglas?|qy^d|2960
+B|No,|nn|2960
+B|the, the man, right now who is having, uh, who has done, uh, BONANZA, and then he did LITTLE HOUSE ON THE PRAIRIE.|sd|2960
+A|Oh, Michael Landon.|sd|2960
+B|Michael Landon.|sd|2960
+B|There you go, Michael Landon.|sd|2960
+A|Oh, now there,|%|2960
+B|I have always liked and thought he did good shows.|sd|2960
+A|Yeah.|b|2960
+A|Like HIGHWAY TO HEAVEN?|qy^d|2960
+B|Uh-huh.|ny|2960
+A|to Here are some cookies, Kyle.|t3|2960
+A|talking to Speaker Yeah,|b|2960
+A|I liked HIGHWAY TO HEAVEN,|sd|2960
+A|and I, and I thought that was kind of neat though.|sd|2960
+A|But I loved LITTLE HOUSE ON THE PRAIRIE, especially when Melissa Gilbert grew up.|sd|2960
+B|Yeah,|b|2960
+A|She was kind of like my idol when I was growing up. Because I am twenty-seven,|sd|2960
+B|yeah.|b|2960
+A|so it is, you know,|%|2960
+A|she is about the same age as I am.|sd|2960
+B|Uh-huh.|b|2960
+A|I wanted to be just like her, because she is so cute.|sd|2960
+B|Yeah,|b|2960
+B|I,|%|2960
+B|and I liked that show because it, it portrayed, I thought, really well, uh, pioneer kind of days. You know,|sd|2960
+A|Yeah|b|2960
+A|and,|%|2960
+A|well,|%|2960
+B|but,|%|2960
+A|I liked it,|sd|2960
+B|Yeah.|b|2960
+A|but there,|%|2960
+A|that is about the only, uh, show I have seen where every time they sit down at the table, they pray before they eat.|sd|2960
+B|Uh-huh.|b|2960
+A|And I thought that was real neat. Because there is not a lot of shows that do that.|sd|2960
+B|Yeah.|b|2960
+A|And, uh, they have this little cartoon that is on Sunday mornings with, Jot.|sd|2960
+B|Now what is that?|qw|2960
+A|I remember him in school,|sd|2960
+A|but I do not,|%|2960
+A|it is just this little dot with arms and feet and little eyes,|sd|2960
+A|and his parents are there.|sd|2960
+A|They have it like before one of the church things, uh, you know, church that comes on?|sd|2960
+B|Uh-huh.|b|2960
+A|And it is a just this little dot.|sd|2960
+A|And he will go out and get himself into trouble and come home,|sd|2960
+A|and the parents will tell him that there is a verse in the Bible that will help him with that,|sd|2960
+A|and, It is just,|%|2960
+B|Oh, I have not seen that.|sd|2960
+A|Well, it is,|%|2960
+A|usually we go to church on Sundays.|sd|2960
+B|Uh-huh.|b|2960
+A|But we will miss every once in a while.|sd|2960
+A|And I will let Kyle watch that,|sd|2960
+A|and he just,|%|2960
+A|well, I even like Jot.|sd|2960
+A|I mean I,|%|2960
+A|it is funny.|sv|2960
+B|What channel is it on?|qw|2960
+A|It is on channel,|sd|2960
+A|well, let us see.|^h|2960
+A|You are in Plano?|qy^d|2960
+B|Uh-huh.|ny|2960
+A|Uh, it is twelve or ten down here.|sd|2960
+B|Well, I will look and, and see.|sd|2960
+B|Yeah,|b|2960
+B|we go to church on Sunday.|sd|2960
+B|About one o'clock is when our meetings start.|sd|2960
+B|And, uh,|%|2960
+A|Oh, well, this is of the mornings.|sd|2960
+B|It is in the morning?|qy^d|2960
+A|Uh, around nine or ten I think.|na|2960
+A|It is before one of the, I think it is before the First Baptist in Sherman airs.|sd|2960
+B|Okay.|bk|2960
+A|I think that is the one that it, uh, comes on before.|sv|2960
+B|Well, we'll look.|sd|2960
+A|It is real cute.|sv|2960
+A|You know what?|qh|2960
+A|He is bouncing around,|sd|2960
+A|and his name is Jot,|sd|2960
+A|and then he has got a friend named Cat.|sd|2960
+A|And I think the dog is the only one that is not a, a dot|sd|2960
+A|But it is real cute.|sv|2960
+A|And like I say, they, they teach him stuff from the BIBLE.|sd|2960
+A|And I think it is just a real cute show.|sd|2960
+A|I am trying to get my little boy into reading, uh, like church books and things.|sd|2960
+B|Uh-huh.|b|2960
+A|We have got like NOAH'S ARK and, oh, LORD IS MY|sd|2960
+A|We have got about eight or twelve books for him, just little Bible stories.|sd|2960
+B|Uh-huh.|b|2960
+A|And|%|2960
+A|he is, he is getting to where he likes them.|sd|2960
+B|Yeah.|b|2960
+A|We got him a little Jesus doll, uh, about a year ago,|sd|2960
+A|and he has always kept that.|sd|2960
+A|He likes it|sd|2960
+B|Well, I really like,|sd|2960
+B|now we get channel fifty-five, although we do not have cable, we do get channel fifty-five.|sd|2960
+A|Uh-huh.|b|2960
+B|And that is a, uh,|%|2960
+B|like, a, a song,|%|2960
+B|they sing songs on there|sd|2960
+B|but they're, uh, worship through music kind of things.|sd|2960
+B|But they are up to date, uh,|sd|2960
+B|and some of them are like, uh, videos like music videos, that go along with the songs about church and Jesus.|sv|2960
+A|Uh-huh.|b|2960
+B|And, And I,|%|2960
+A|So it's a, a Christian songs?|qy^d|2960
+B|Yeah.|ny|2960
+A|Oh, that sounds fun.|sv|2960
+B|The|%|2960
+B|it's called the Christian music station or something like that.|sd|2960
+A|That's something.|ba|2960
+A|Well,|%|2960
+B|And, uh, I really like that.|sd|2960
+A|Yeah.|b|2960
+B|Uh, I turn that on, on Sunday mornings.|sd|2960
+B|And I do not, you know,|%|2960
+B|and so my kids do not, uh, have an|%|2960

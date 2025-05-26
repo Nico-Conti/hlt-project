@@ -1,0 +1,166 @@
+A|Set.|fo_o_fw_"_by_bc|3659|0
+B|Okay.|b|3659|1
+A|You, you got the topic, right?|qy|3659|0
+B|Yeah.|ny|3659|1
+A|Okay.|b|3659|0
+A|Uh, well, where in Dallas are you?|qw|3659|0
+B|I'm in Richardson.|sd|3659|1
+A|Oh, okay.|bk|3659|0
+A|So you do do recycling there?|qy|3659|0
+B|Yeah,|ny|3659|1
+B|Richardson has, uh, well, they have a newspaper pick up once a week supposedly, if it's not raining.|sd|3659|1
+A|Uh-huh.|b|3659|0
+B|And they also have a couple of areas where you can take, uh, cans, plastic and paper, to, uh, you know, dump them off there if you don't, uh, want to wait and have a pick up, least of paper,|sd|3659|1
+B|but they don't pick up the other items.|sd|3659|1
+B|They don't pick up cans or the plastic.|sd|3659|1
+A|Uh-huh.|b|3659|0
+A|Are they going to later,|qy|3659|0
+A|do you know?|qy|3659|0
+B|I'm not sure.|no|3659|1
+B|They only started to do the newspaper uh, late last year.|sd|3659|1
+B|Just kind of like a trial basis. And see how it goes, so I don't know if they're going to pick up the other things.|sd|3659|1
+A|Uh-huh.|b|3659|0
+A|Um.|%|3659|0
+B|What about you?|qo|3659|1
+A|Well, I'm, I'm in Dallas proper in the city of Dallas|sd|3659|0
+B|Uh-huh.|b|3659|1
+A|and I know they do have, you know, a pilot program going on|sd|3659|0
+A|but it's not here.|sd|3659|0
+B|Um.|%|3659|1
+A|So they're not picking up anything|sd|3659|0
+B|Oh.|b|3659|1
+A|So, I mean, we, we collect everything|sd|3659|0
+A|We've got all these boxes in our garage for, you know, green glass and clear glass and plastic and everything.|sd|3659|0
+B|Where do you take them?|qw|3659|1
+A|Well, there's, there's a couple places.|sd|3659|0
+A|Unfortunately, we can't find a place that will take everything.|sd|3659|0
+B|Um.|%|3659|1
+A|Uh, there's a lot of places to take, like the plastic, uh, shopping bags like most of the grocery stores.|sd|3659|0
+B|Uh-huh.|b|3659|1
+B|Uh-huh.|b|3659|1
+A|And there's a Wal-Mart nearby that takes almost everything.|sd|3659|0
+A|I can't remember what it is they don't take.|sd|3659|0
+B|Um.|%|3659|1
+A|And the library will take glass.|sd|3659|0
+A|So we end up, you know,|sd|3659|0
+A|on the weekend we pack it all in the car|sd|3659|0
+A|and, and as we go places we, oh, wait, we can drop the glass off you know.|sd|3659|0
+B|Um.|%|3659|1
+A|Drop things off one at a time,|sd|3659|0
+A|but, uh, and it's kind of disappointing, I mean,|sd|3659|0
+A|I would even be happy if they just had one, you know, one place where you could do everything.|sd|3659|0
+A|You know, it would still be more convenient than what we have now.|sd|3659|0
+B|One of the people from my department, I think used to take a lot of the stuff to a recycling center that was for the benefit of the Dallas Shelter.|sd|3659|1
+A|Um.|%|3659|0
+B|I think it was closer to downtown.|sd|3659|1
+A|Where is that?|qw|3659|0
+B|Uh, she's not here anymore|sd|3659|1
+A|Oh.|b|3659|0
+B|but, uh, yeah,|%|3659|1
+A|I'm pretty far north.|sd|3659|0
+A|I'm not, I'm, I'm, I'm just, I'm north of Addison actually.|sd|3659|0
+B|Oh.|b|3659|1
+A|So I'm, I'm really|sd|3659|0
+B|Yeah.|b|3659|1
+A|I'm, I'm in Dallas, but only technically|sd|3659|0
+B|Well, sometimes we take our, uh, we always keep our aluminum cans.|sd|3659|1
+A|Uh-huh.|b|3659|0
+A|Yeah.|b|3659|0
+B|And a lot of times they take them over to one of these can banks.|sd|3659|1
+A|Yeah,|b|3659|0
+A|I've seen those.|sd|3659|0
+B|You don't get too much money back.|sd|3659|1
+B|I figure it pays for the gas to take my cans over there.|sd|3659|1
+A|Yeah.|b|3659|0
+B|But normally I collect, oh, like three trash bags full|sd|3659|1
+A|Yeah.|b|3659|0
+B|and I take them over to that can bank|sd|3659|1
+B|and it's more fun just to kind of like crunch the cans in the can bank.|sd|3659|1
+B|Don't get too much money for them|sd|3659|1
+B|but,|%|3659|1
+A|Well, you get something|sv|3659|0
+A|Uh,|%|3659|0
+B|Yeah.|b|3659|1
+A|We used to do that,|sd|3659|0
+A|but, again, that's another stop|sd|3659|0
+B|Uh-huh.|b|3659|1
+A|and it doesn't take plastic bags and, and all that sort of thing,|sd|3659|0
+A|but, uh, I think that, you know, I heard that it was going well in the pilot area wherever that is|sd|3659|0
+A|and so hopefully they'll do it soon.|sd|3659|0
+B|Uh-huh.|b|3659|1
+A|That would be good because we have two trash pick ups a week|sd|3659|0
+B|Uh-huh.|b|3659|1
+A|and, where I grew up we only had one a week|sd|3659|0
+A|and that was certainly sufficient.|sd|3659|0
+A|So if they just do,|sd|3659|0
+A|one of them will be trash|sd|3659|0
+A|and the alternate time would be recyclables,|sd|3659|0
+A|that would be great.|sd|3659|0
+B|Yeah.|b|3659|1
+A|So,|%|3659|0
+B|Yeah.|b|3659|1
+B|Uh, I'm disappointed sometimes they're not always consistent in picking up those papers, you know.|sd|3659|1
+B|I seem to put them out there on Wednesday|sd|3659|1
+A|Uh-huh.|b|3659|0
+B|and like sometimes they come by,|sd|3659|1
+B|sometimes they don't.|sd|3659|1
+A|Oh.|b|3659|0
+B|I'm not really sure why they're not always consistent in that.|sd|3659|1
+A|Um.|%|3659|0
+B|But I could certainly have, uh, three bins out there for, you know, plastic and and tin and paper, whatever they were going to, uh, separate into and, and have them pick it up on, on one of the two days per week.|sd|3659|1
+A|Right.|b|3659|0
+B|That would be easy.|sd|3659|1
+A|Yeah.|b|3659|0
+A|Do you have to, uh, sort the paper and take out the glossy pages and that, that sort of thing|qy|3659|0
+A|or do they take the whole thing?|qrr|3659|0
+B|You're not supposed to have, like the coupons in there.|sd|3659|1
+A|Oh, okay.|bk|3659|0
+B|Uh, or you're not supposed to put magazines in there|sd|3659|1
+A|Uh-huh.|b|3659|0
+B|and you can't take newspapers.|sd|3659|1
+B|Now at work, uh, you know, we have changed our recycling.|sd|3659|1
+B|At first they were kind of finicky about what kind of paper you could recycle.|sd|3659|1
+B|And not too long ago they finally decided if it's anything that's paper and tears, you can throw it in there because at first they said,|sd|3659|1
+A|Let me guess|oo_co_cc|3659|0
+A|you work at T I,|sd|3659|0
+A|right?|^g|3659|0
+B|Yeah,|ny|3659|1
+B|at first they said, They said, no telephone books.|sd|3659|1
+A|So do I.|sd|3659|0
+A|Yeah.|b|3659|0
+B|You know, well, that's stupid|sv|3659|1
+B|and then they said no newspapers.|sd|3659|1
+A|Um.|%|3659|0
+B|Well, in the, my department everybody gets the WALL STREET JOURNAL.|sd|3659|1
+A|Yeah.|b|3659|0
+B|There was like a lot of paper coming out of our department that wasn't recyclable.|sd|3659|1
+A|Yeah.|b|3659|0
+B|So I thought that was pretty good to expand upon it,|sd|3659|1
+B|say,|%|3659|1
+A|Well, and they take cans, now, too. Which is great.|sd|3659|0
+B|Yeah.|b|3659|1
+B|I still put my cans in with the cans.|sd|3659|1
+B|I mean, I don't want it with paper.|sd|3659|1
+B|Somehow that just seems weird to me|sd|3659|1
+A|Well, our department used to collect the cans anyway for the Christmas tree project.|sd|3659|0
+A|And, In fact we got, this past year, we got all of our money for the Christmas tree because we saved cans for the entire year.|sd|3659|0
+B|Oh.|b|3659|1
+B|Ooh.|ba|3659|1
+A|And it worked out really well.|sd|3659|0
+B|Well, we had the one person who used to take things to the Dallas Shelter.|sd|3659|1
+A|Uh-huh.|b|3659|0
+B|I think that's what that was called.|sd|3659|1
+A|Uh-huh.|b|3659|0
+B|She collected, she used to collect from the whole department,|sd|3659|1
+B|but she took them all down to that Dallas Shelter place.|sd|3659|1
+A|Uh-huh.|b|3659|0
+B|I wish I could remember the whole name of that place,|sd|3659|1
+B|but it's a charity for the benefit of this shelter.|sd|3659|1
+A|Uh-huh.|b|3659|0
+B|And, yeah,|%|3659|1
+B|she, she used to collect them from everybody in the department.|sd|3659|1
+A|Yeah.|b|3659|0
+B|She'd go up and down with her little bag collecting from everybody.|sd|3659|1
+A|Yeah.|b|3659|0
+A|Yeah.|b|3659|0
+A|Because we would get it,|sd|3659|0

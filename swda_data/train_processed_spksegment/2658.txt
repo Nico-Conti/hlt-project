@@ -1,0 +1,296 @@
+A|Uh, I guess I've had to return something|fo_o_fw_"_by_bc|2658|0
+A|but I'm can't decide,|sd|2658|0
+A|mostly it's been because I didn't like the color,|sd|2658|0
+B|Uh-huh.|b|2658|1
+A|or, um, I'm not sure whether I've had to return that many things, uh,|sd|2658|0
+B|Well, I'm having a problem right now with a computer that we've just returned.|sd|2658|1
+A|Oh, are you?|bh|2658|0
+B|So, for me it's actually a pretty good topic.|sd|2658|1
+A|Okay,|b|2658|0
+A|good,|ba|2658|0
+A|so, we'll talk about that some.|ad|2658|0
+B|Yeah,|aa|2658|1
+B|well, we could talk about that,|oo_co_cc|2658|1
+B|and then we could talk a bit about, um, just quality of products in general,  if they're better or worse like if they last longer or something like that.|oo_co_cc|2658|1
+A|Right.|b|2658|0
+A|Okay,|aa|2658|0
+A|I'm going to let you kind of lead the pack,  because you sound like you're,|ad|2658|0
+A|let me tell you just a little bit about myself.|^h|2658|0
+A|I, for years I did all that shopping and whatnot,|sd|2658|0
+A|but for the last four or five years I've had eye problem,|sd|2658|0
+B|Oh.|b|2658|1
+A|and I've had two cornea transplants.|sd|2658|0
+A|Shopping is no fun anymore|sd|2658|0
+B|I can imagine.|ba|2658|1
+B|Well, see I don't,|%|2658|1
+A|I can't see good enough, you know,|sd|2658|0
+A|and, uh, it's hard to tell what I'm doing,|sd|2658|0
+A|and it's just|sd|2658|0
+B|You can't read labels|qy^d|2658|1
+B|and you can't,|%|2658|1
+A|Oh, I just thought of something we have to return|sd|2658|0
+B|Good.|ba|2658|1
+B|There you go.|ba|2658|1
+A|All right.|b|2658|0
+A|It, it'll come to us,|sv|2658|0
+A|okay?|qy|2658|0
+B|Okay.|na|2658|1
+A|Are you ready?|qy|2658|0
+B|Yeah.|ny|2658|1
+A|Laurie, all right|b|2658|0
+B|Right.|b|2658|1
+A|All right, uh,|b|2658|0
+A|tell me about your computer, Laurie,|ad|2658|0
+A|I think that sounds fascinating.|sv|2658|0
+B|Well, we bought a computer because my husband needed to use it to do some work for a consulting project,|sd|2658|1
+B|and we called up the company and asked them details on it.|sd|2658|1
+B|We bought it sort of, your not a name brand because the clones are so much cheaper.|sd|2658|1
+A|Uh-huh.|b|2658|0
+B|And we called up the company that somebody else we knew had dealt with,|sd|2658|1
+B|and they were very happy with the system,|sd|2658|1
+B|and they felt they've gotten a good price.|sd|2658|1
+B|And we went in,|sd|2658|1
+B|we explained what we needed|sd|2658|1
+B|and yes|ny|2658|1
+B|we had to go across the George Washington Bridge to New Jersey to get, to meet these people.|sd|2658|1
+A|Uh-huh.|b|2658|0
+B|And so we went there,|sd|2658|1
+B|we told them about the stuff|sd|2658|1
+B|and the guy said, uh, that the computer would fit our needs.|sd|2658|1
+B|And we|%|2658|1
+B|these things won't make any sense to you probably|qy^d|2658|1
+B|but he told us there were,  we need user positions to put our own equipment in the computer.|sd|2658|1
+A|Uh-huh.|b|2658|0
+A|Oh, yes.|b|2658|0
+B|And it's called a user boards|sd|2658|1
+B|or slots is what it's called.|sd|2658|1
+A|Uh-huh.|b|2658|0
+B|And he told us there's two sixteen bit slots and two eight bit, sorry, two four sixteen bit slots and two eight bit slots available for the user,|sd|2658|1
+B|and we can put full size cards in there.|sd|2658|1
+B|And so we said, great, you know,|sd|2658|1
+B|we'll buy it,|^q|2658|1
+B|and we put in our order.|sd|2658|1
+B|And a week later we went back and picked up the computer.|sd|2658|1
+B|And then we got it home and tried to put our own board in it|sd|2658|1
+B|and there's only one slot we could put it in.|sd|2658|1
+A|Oh, lovely.|ba|2658|0
+B|And at this point we only have one board|sd|2658|1
+B|so it wasn't so bad|sd|2658|1
+B|so we used it a bit,|sd|2658|1
+B|but we tried to figure out whether we could put three in because we really need to be able to put at least three in.|sd|2658|1
+A|Huh.|b|2658|0
+B|And,|%|2658|1
+A|Oh, no ,|ba|2658|0
+A|the computer was supposed to have two.|qy^d|2658|0
+B|Well, it has them|arp_nd|2658|1
+B|but the problem is that you can't put the type of card that we need to put in it, in it. And even though they told us in advance that you could,|sd|2658|1
+A|Oh, I see.|b|2658|0
+B|they told us there would be no problem because, you know,  the salesman just doesn't really know.|sd|2658|1
+A|I see.|b|2658|0
+A|In some ways it has more to do with the people who sold it.|sv|2658|0
+A|They probably didn't know what they were talking about.|sv|2658|0
+B|Right.|aa|2658|1
+B|That's completely it.|aa|2658|1
+B|The salesman didn't know.|sd|2658|1
+A|Right.|b|2658|0
+B|So, we went back in,|sd|2658|1
+B|and we struck an agreement with the people|sd|2658|1
+B|who said change the casing it comes in so that we could put in extra boards.|sd|2658|1
+A|Huh.|b|2658|0
+B|Okay.|b|2658|1
+B|So they did that.|sd|2658|1
+B|And we said are you sure this will work,|sd|2658|1
+B|we don't want you to go through the work and then find out that this doesn't really work anyway, and et cetera,|^q|2658|1
+B|and they're, they were doing it at their own costs.|sd|2658|1
+B|And so we said, fine.|sd|2658|1
+B|And we went back|sd|2658|1
+B|and we talked to the person a second time and things like that,|sd|2658|1
+B|and then we come, we get the computer home,|sd|2658|1
+B|my husband goes to pick it up last week|sd|2658|1
+B|and we couldn't go get it sooner because I just had the baby,|sd|2658|1
+B|and  you know, life's just a little bit complicated.|sd|2658|1
+A|Uh-huh.|b|2658|0
+A|Uh-huh .|b|2658|0
+B|And, uh, he goes and gets it, brings it home,|sd|2658|1
+B|first of all they're missing components of it like cables so you can't really test it out.|sd|2658|1
+B|And then second thing, we still can't put the boards in,  because they have other things blocking where we need to do it.|sd|2658|1
+A|Oh, jeez .|ba|2658|0
+A|Huh.|b|2658|0
+B|And see now we're dealing with having to bring it back again|sd|2658|1
+B|and they say they can, you know, do something different and change some connectors|sd|2658|1
+B|and we hope so,|sd|2658|1
+B|but it's a hassle.|sd|2658|1
+A|Yeah,|aa|2658|0
+A|it really is.|aa|2658|0
+B|You you know, it's just this problem with sales people just not knowing what goes on.|sv|2658|1
+A|Right,|aa|2658|0
+A|and, and so much time goes past before you finally get any kind of satisfaction.|sv|2658|0
+B|Right.|b|2658|1
+A|I think that's the worst part.|sv|2658|0
+A|I,|%|2658|0
+B|So, well, actually some things are pretty good with that because I put it on a gold credit card|sd|2658|1
+B|and I just called the credit card company and explained to them the situation,|sd|2658|1
+B|and they said, well, you don't have to pay for it yet.|sd|2658|1
+A|Now that's an advantage, isn't it?|qy|2658|0
+B|Yes.|ny|2658|1
+A|It really is.|sv|2658|0
+A|I think, uh, uh, there's a lot not to be said for credit|sv|2658|0
+A|but that's one thing to be said for credit.|sv|2658|0
+A|It, how ,  it gets you some muscle where you need it.|sv|2658|0
+B|Yeah.|b|2658|1
+B|Right.|aa|2658|1
+B|So, and so, you know,|%|2658|1
+A|And I think that's really important.|sv|2658|0
+B|Well, because these guys if they, um, give us a hard time we're going to say, you, look, you know,|sd|2658|1
+B|if, if you can't fix this to our satisfaction,  we're just returning the computer.|^q|2658|1
+A|Yeah.|b|2658|0
+A|That's right.|aa|2658|0
+A|That's right.|aa|2658|0
+B|And if we do that,|%|2658|1
+B|I just tell the credit card company, don't pay the charge,  even though they've already paid it.|sd|2658|1
+A|That's right.|aa|2658|0
+A|No .|aa|2658|0
+B|But they'll just, you know,  undo the credit that they did to them.|sd|2658|1
+A|Yeah,|aa|2658|0
+A|they will,|aa|2658|0
+A|That's right.|aa|2658|0
+A|They will,|aa|2658|0
+B|Yeah.|b|2658|1
+A|they will put the kind of clout on them that you can't really do.|sv|2658|0
+B|Right.|b|2658|1
+A|Yeah.|b|2658|0
+B|And,|%|2658|1
+A|We,|%|2658|0
+A|Hal bought me, uh, uh, small, uh, well, uh, uh, little jam box kind of thing|sd|2658|0
+A|so I'd,|%|2658|0
+A|my, I have my ninety-three year old mother living with us,|sd|2658|0
+A|and so I, she doesn't remember anything|sd|2658|0
+A|but to keep her entertained, music and some of these things do help.|sd|2658|0
+B|Uh-huh.|b|2658|1
+A|And I thought well, if I had, uh, a a nice little, um, tape recorder, you know, so that I could put some good music on in there for her every once in a while. And then also so that I can, uh, uh, copy, uh, parts off, I, I do some musicals and things like this and if I can copy sections off that I can use someplace so I figured well this will be good.|sd|2658|0
+B|Uh-huh.|b|2658|1
+A|Well, the first, uh, uh, the first time I turned it on, uh, I was recording,|sd|2658|0
+A|and the next thing I knew the tape was chewed up in the,  thing.|sd|2658|0
+B|Oh, no.|ba|2658|1
+A|Okay,|%|2658|0
+A|so after that then you couldn't get a you couldn't get a tape to play at the right speed in that side.|sd|2658|0
+B|Uh-huh.|b|2658|1
+A|And then on the other side, when I, when I, uh, I loaned it to my daughter the other day to take it over to, uh, to, uh, videotaping they were doing,|sd|2658|0
+A|and she says it's wrong too because the little thing pokes out too far,|sd|2658|0
+A|and so you can't, you can't get it to run the right, the right way,  either,|sd|2658|0
+B|Uh-huh.|b|2658|1
+A|so, uh,|%|2658|0
+B|What brand is it?|qw|2658|1
+B|Do you know?|qy|2658|1
+A|Yeah,|b|2658|0
+A|so I, I wish I could tell you|^h|2658|0
+A|I really don't know which brand it is.|ng|2658|0
+A|It's ,|%|2658|0
+B|But I was wondering like, you know|sd|2658|1
+B|in our case where we knew we were buying a copy|sd|2658|1
+B|we weren't buying,  on I B M P C|sd|2658|1
+A|Yeah.|b|2658|0
+B|and I was wondering if you,|qy^d|2658|1
+A|No,|nn|2658|0
+A|I think this is a, I think this is maybe a name brand|sd|2658|0
+A|and I suspect that it's probably just a fluke, you know.|sv|2658|0
+A|I have the papers and everything|sd|2658|0
+A|and we're going to get, just take it back|sd|2658|0
+A|but, uh,|%|2658|0
+B|Uh-huh.|b|2658|1
+B|Do you buy it at some major store?|qy|2658|1
+A|Yeah,|ny|2658|0
+A|I think just, uh, just, uh, one of the major, I think it was a, you know, I don't, I think it was, uh, you know, like a Highlands or something like this.|sd|2658|0
+B|Highlands|b^m|2658|1
+B|chain down there that I don't know up here.|sd|2658|1
+A|Do they have Highlands up there?|qy|2658|0
+B|Nope.|nn|2658|1
+A|Don't they?|bh|2658|0
+A|Well, this is, is was a regular, uh, electronics store, you know.|sd|2658|0
+B|Uh-huh.|b|2658|1
+A|So, I don't think, I don't think there will be too much problem|sv|2658|0
+A|but I, I guess I'm not sure whether I think things are not made as well.|sd|2658|0
+A|I think they deliberately sometimes, um,|sv|2658|0
+B|I think a lot of things are not made as well.|sv|2658|1
+A|Don't you?|bh|2658|0
+A|What, what, for instance, what are you,|qw|2658|0
+B|Um, oh,|%|2658|1
+B|of course, it's hard to think of an exact example,|sd|2658|1
+A|Yeah.|b|2658|0
+B|but I think that, um,  I|%|2658|1
+A|That's good|ba|2658|0
+A|they're getting a kind of a, attitude of,  not,|%|2658|0
+B|yeah,|b|2658|1
+B|I just have , well, I like electronic stuff,  you know|sd|2658|1
+A|Yeah.|b|2658|0
+B|for one thing. I know their, work, you know,|sd|2658|1
+B|cars I think are not made,  as well as they could be.|sv|2658|1
+A|Well,|%|2658|0
+A|Yeah.|aa|2658|0
+A|Yeah,|aa|2658|0
+B|Um,|%|2658|1
+A|I think that's right.|aa|2658|0
+A|The fact that,|%|2658|0
+B|because I ,|%|2658|1
+B|they want people to replace it after,  a couple of years.|sv|2658|1
+A|Right.|b|2658|0
+A|The fact that they, that they have competition with the Japanese and whatnot sometimes, uh, dwells on a fact that, you know, uh,|sv|2658|0
+A|I've had, I've known people who have had Toyotas for years that have had almost no repair work to do on them.|sd|2658|0
+B|Uh-huh.|b|2658|1
+A|Well, they may cost a little more,|sv|2658|0
+A|but they don't have to take them to the shop every other day.|sv|2658|0
+B|Yeah,|aa|2658|1
+B|I had a Toyota|sd|2658|1
+B|and I loved it.|sd|2658|1
+A|Yeah.|b|2658|0
+B|My Toyota did,  really well.|sd|2658|1
+A|It does the,  it did a good job,|sv|2658|0
+A|so, part of it is that we need to develop more of a, of a pride in, in, uh, the kinds of things we do so we make them better.|sv|2658|0
+B|Good.|ba|2658|1
+B|Yeah.|aa|2658|1
+A|And it kind of has to start from the top and, and go or from the bottom maybe and go clear up.|sv|2658|0
+A|People,|%|2658|0
+B|Well, I think part of the problem comes in sort of shoddy workmanship.|sv|2658|1
+B|The people just don't care about,  what they're doing.|sv|2658|1
+A|No.|aa|2658|0
+A|Yeah.|b|2658|0
+B|You know, the whole,|%|2658|1
+B|nobody cares, no, nobody's,  really paying,|sv|2658|1
+A|Yeah.|b|2658|0
+A|Attitude is, is just get me my dollar so I can go do what I want to do, and, on,|sv|2658|0
+B|Right,|aa|2658|1
+B|give me my paycheck, so I can go home.|^q|2658|1
+A|what I'm doing, right.|sv|2658|0
+A|I think that's too bad.|sv|2658|0
+A|And it's a shame too because, uh, when you get right down to it most things, there isn't any, if you do a good job, nobody can pay you enough|sv|2658|0
+A|There isn't,  any way to get paid enough.|sv|2658|0
+B|Yeah.|b|2658|1
+A|But if you do a good job, you feel enough satisfaction,|sv|2658|0
+A|so whatever you're paid is enough.|sv|2658|0
+B|Yeah,|aa|2658|1
+B|and also I think,|%|2658|1
+B|well, I do research|sd|2658|1
+B|and so I'm used to sort of being underpaid for whatever work gets done.|sd|2658|1
+A|Uh-huh.|b|2658|0
+B|But, and you get satisfaction out of it.|sv|2658|1
+A|That's right,|aa|2658|0
+B|And,  But I think a lot of it, you know, I think things come both from the, uh, individual side and also from the company side|sv|2658|1
+A|I think they underestimate how much, how much value the satisfaction|sv|2658|0
+B|because the companies that, let, give the attitude that, well, you know,|sv|2658|1
+B|you're the last one hired|^q|2658|1
+B|so you'll be the first one fired,|^q|2658|1
+B|and we just want you to do your day's work,|^q|2658|1
+A|Yeah.|b|2658|0
+B|and we don't really care about you,  as an individual.|^q|2658|1
+A|Yeah.|b|2658|0
+B|When you've got that type of attitude on it, the people don't care,  about their work.|sv|2658|1
+A|No .|aa|2658|0
+B|And so,|%|2658|1
+A|It it probably basically goes right back into the home though unfortunately.|sv|2658|0
+A|Starts with the one person that, you know,|sv|2658|0
+A|and so you need to really work hard at helping your kids to understand that there is value just in work for itself without any pay, you know.|sv|2658|0
+B|Little value just in whatever you do.|sv|2658|1
+A|Yeah.|b|2658|0
+A|The, the, the that the value is in doing it well|sv|2658|0
+B|Doing a good job of it.|sv|2658|1
+A|and,|%|2658|0

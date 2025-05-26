@@ -1,0 +1,165 @@
+A|So, how do we fix the national budget?|qw|2794
+B|Damned if I know.|sd|2794
+B|Um, I don't know,|sd|2794
+B|I suspect, uh,|%|2794
+B|let's see,|^h|2794
+B|I suspect we should do what everyone says we should do,|sv|2794
+B|we should cut spending and maybe even raise taxes|sv|2794
+B|but Lord knows you one shouldn't say that.|sv|2794
+A|Well,|arp_nd|2794
+A|That would probably be good,|ba|2794
+A|but, something that the government hasn't been looking at is the source of the problem.|sv|2794
+B|Huh.|%|2794
+A|The true source of the problem is, a, that we do spend too much,|sv|2794
+B|Yes.|b|2794
+A|but also, b, that we don't take in enough.|sv|2794
+B|Yeah,|b|2794
+B|well, why do you say that actually?|qw|2794
+A|Uh, too few Americans are working.|sv|2794
+B|Huh.|%|2794
+A|If more Americans were working and meaningful good paying labor,  and paying taxes,  and the tax structure was fair between the lowest and the highest income Americans, then we would have more money there to play with.|sv|2794
+B|Yes.|b|2794
+B|Rather than using taxes.|^2|2794
+B|Oh, that's interesting.|ba|2794
+B|Yeah,|b|2794
+B|that's probably true,|ba|2794
+B|I mean, well, we also, we'd be spending less because all the money that, that normally goes to support those people aren't working, it's back in the system.|sv|2794
+A|Right.|b|2794
+B|So, you're right.|ba|2794
+B|That's a real neat idea.|sv|2794
+B|Well, what,|%|2794
+B|but, I mean, what can, you know,|%|2794
+B|at, at some point, what can you do to sort of raise I mean, to raise jobs I wonder.|qw^d|2794
+A|Well, I hesitate to say we ought to spend ourselves to affluence|h|2794
+A|but, in fact, in some cases that's what we ought to do.|sv|2794
+B|Oh, okay.|bk|2794
+B|So, start .|%|2794
+A|Not Reaganomics, thank you.|sv|2794
+B|But, that's not going to work, uh,|sv|2794
+A|Uh, what I was thinking more along the lines of is start going to space.|sd|2794
+B|Huh.|%|2794
+B|And that way just create more jobs or whatever?|qy^d|2794
+A|Well, at some point there, there will be enough jobs for most of the able-bodied Americans.|na|2794
+B|Huh.|bk|2794
+B|well, that's a neat idea.|ba|2794
+A|We also need to, uh, assure that there's some work in the private sector.|sv|2794
+B|Yeah,|b|2794
+B|that's what, that's what,|%|2794
+B|you think space would do that much for that|qy|2794
+B|or,|%|2794
+A|I think it would do something for it.|na|2794
+A|I think we would fill up new technologies.|sv|2794
+A|But I think we should also do something rather radical.|sv|2794
+B|Like what?|qw^d|2794
+A|Legalize marijuana.|sd|2794
+B|Oh, you think, you think that would, uh, have a major effect?|qy|2794
+B|Well, that would put a lot of criminals out of business for a while anyway.|sv|2794
+A|What?|br|2794
+B|that might have a, uh, a good effect on, on, on crime anyway.|sv|2794
+A|Yes, uh,|aa|2794
+A|okay,|^h|2794
+A|I think it would take some of that money out of the hands of criminals.|sv|2794
+A|I think it would put, reduce the amount of carry on drug use where people advance from one drug to another.|sv|2794
+B|That's probably true.|ba|2794
+A|I think that, I think most importantly it would give the federal government something new that they could tax.|sv|2794
+B|And probably a lot of.|sv|2794
+A|And probably a lot of|sv|2794
+A|and really receive some revenues from.|sv|2794
+B|Yeah|b|2794
+B|but that's potentially ,|%|2794
+A|Uh, if you look at prohibition historically, it's repeal helped the federal government a lot in tax revenues.|sv|2794
+B|Uh-huh, huh.|b|2794
+B|No,|%|2794
+B|I had never thought about that.|sd|2794
+A|Then I think once we put money back into the in the coffers of the federal government,  and get the federal government to where there's money there again, we should reduce the amount of money,|sv|2794
+B|Uh-huh.|b|2794
+A|and this would have to come rather quickly, and would have to come originally also where we're not paying,|sv|2794
+A|in some cases we do pay more, for welfare recipients to live then they can earn in the true minimum wage environment.|sv|2794
+B|That's true we do, often times they are paid more, yeah.|ba|2794
+A|And you can't deny people the right to supply their families better through whatever means.|sv|2794
+B|Right.|b|2794
+A|That's just sensible on their part.|sv|2794
+B|That's just what on their part,|br|2794
+B|I'm sorry,|fa|2794
+B|I missed that.|sd|2794
+A|It's just sensible on their parts,  to go after the, the, the greater amount of income.|sv|2794
+B|Oh.|bk|2794
+B|Uh-huh.|b|2794
+A|So, if you lower the amount they make and raise the amount of true minimum wage jobs, not those that are affected by the federal minimum wage, then more people will get off welfare.|sv|2794
+B|That, that maybe true.|b|2794
+B|That's very true.|ba|2794
+A|You know, give them a true incentive to want to work.|sv|2794
+B|Right.|b|2794
+A|And then don't start letting more outsiders in for a few years until we figure out exactly where we're at with unemployment.|sv|2794
+B|Right,|b|2794
+B|that's a,|%|2794
+A|Reduce immigration,  or eliminate it entirely for a few years, until we get our own house in order.|sv|2794
+B|Huh.|%|2794
+B|Yeah,|b|2794
+B|and maybe even reduce, along the same lines, maybe reduce imports as well, I think.|sv|2794
+A|Oh, absolutely,|aa|2794
+A|absolutely.|aa|2794
+A|That's right,|ba|2794
+A|when we're in a world of hurt, well, I don't, I'm not going to say that we ought to reduce them through legal means.|sv|2794
+A|I think we ought to just tax them severely.|sv|2794
+B|Right,|b|2794
+B|well, that, that's what happened in other country though.|sd|2794
+B|And other places they tax us quite|sv|2794
+B|I mean, they tax American imports quite heavily.|sv|2794
+B|So, we could do the same thing,|sv|2794
+B|I mean, just,|%|2794
+B|and, you know, they may get,|%|2794
+A|It seems only fair.|sv|2794
+B|Right,|b|2794
+B|it does seem only fair,|aa|2794
+B|I mean, why not.|qh|2794
+A|And I think really if we got all those that are able-bodied into the work force reduced the amount going out for those purposes, created new jobs for that work force, there would be plenty of money.|sv|2794
+B|I think so.|aa|2794
+A|And then at that point,  quit spending on space.|sv|2794
+B|Yes.|b|2794
+B|Oh real ,|%|2794
+A|Force it all into the, into the private sector.|sv|2794
+B|Oh, really I love the switch.|sd|2794
+B|Well, at that point you might, we, it wouldn't be a problem anymore possibly, you know,|sv|2794
+B|we would be,  we would be able to keep it wherever we wanted to in space or the ocean research whatever we wanted to do,|sv|2794
+A|That's right.|ba|2794
+B|but I think the,|%|2794
+A|Uh, space was just a convenient place for me to go because that would put a lot of,  a lot of|sd|2794
+B|Right.|b|2794
+A|Millspec and NASA work operates to the same demanding specifications,|sd|2794
+B|Uh-huh.|b|2794
+A|that would put a bunch of defense workers back to work.|sv|2794
+B|Right,|b|2794
+B|compared to defense.|^2|2794
+B|Well, that's a good idea.|sv|2794
+B|Well, it,|%|2794
+B|well, the other thing, and the other thing I, I, I think we seriously need to do is, um, like I say, have someone go in and look and, you know, and find out where it is we're paying ten thousand dollars per toilet seat or something.|sv|2794
+A|You know what causes that?|qy|2794
+B|Um, greed, I suspect.|no|2794
+A|Uh, no.|arp_nd|2794
+A|Your, your buying large , uh,|%|2794
+A|the government specifications,|sv|2794
+B|Uh-huh.|b|2794
+A|sheets of paper for building a pair of B V D underwear for the federal government,  is twenty-two foot tall.|sv|2794
+B|Yeah.|b|2794
+B|Really?|bh|2794
+A|If it was all on nine by elevens stacked one on top of another.|sd|2794
+B|For making, you mean, government issue underwear?|qy|2794
+A|For making government issue underwear.|na|2794
+B|Jesus.|ba|2794
+A|To just understand those legal requirements and operate within the government guidelines,  costs the company a huge amount of money.|sv|2794
+B|Uh-huh.|b|2794
+B|Well, that's potentially a fault of the government then, I mean, that could, things like that should,|sv|2794
+A|Yes,|aa|2794
+A|a huge amount of it is not the fault of the contractor.|sv|2794
+B|Right,|b|2794
+B|well, that's a,|%|2794
+B|I had never heard that before.|sd|2794
+A|Uh, a huge amount of what you hear on, about the seventy-five dollar hammers,  and the nine hundred dollar toilet seats doesn't come from people in the industry,|sv|2794
+B|Right.|b|2794
+A|it comes from senators that don't know anything about it.|sv|2794
+B|Huh.|%|2794
+A|Uh, my job is government tooling specialist.|sv|2794
+B|Oh, okay,|b|2794
+B|so, you know about some of these things.|bf|2794
+A|Yeah.|aa|2794

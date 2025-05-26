@@ -1,0 +1,1349 @@
+me003|i guess.|S|Bed002
+me011|okay we're on.|S|Bed002
+me011|so just make sure that your wireless mike is on if you're wearing a wireless.|S|Bed002
+me003|check one.|S|Bed002
+me003|check one.|S|Bed002
+me011|and you should be able to see which one which one you're on by uh watching the little bars change.|S|Bed002
+mn015|so which is my bar?|Q|Bed002
+mn015|mah|D|Bed002
+mn015|number one.|S|Bed002
+me011|yep.|S|Bed002
+me003|sibilance.|S|Bed002
+me003|sibilance.|S|Bed002
+me011|so actually if you guys want to go ahead and read digits now as long as you've signed the consent form that's all right.|S|Bed002
+me003|are we supposed to read digits at the same time?|Q|Bed002
+me011|no.|S|Bed002
+me003|oh okay.|S|Bed002
+me011|no.|S|Bed002
+me011|each individually.|S|Bed002
+me011|we're talking about doing all at the same time.|S|Bed002
+me011|but i think cognitively that would be really difficult to try to read them while everyone else is.|S|Bed002
+me003|everyone would need extreme focus.|S|Bed002
+me011|so when you're reading the digit strings the first thing to do is just say which transcript you're on.|S|Bed002
+me010|other way.|S|Bed002
+me010|we we may wind up with we we may need versions of all this garbage.|S|Bed002
+mn015|for our stuff.|S|Bed002
+me010|yeah.|S|Bed002
+mn015|yeah.|S|Bed002
+me011|um so the first thing you'd want to do is just say which transcript you're on.|S|Bed002
+me010|yeah.|B|Bed002
+me011|so|F|Bed002
+me011|you can see the transcript.|S|Bed002
+me011|there's two large number strings on the digits.|S|Bed002
+me011|so you would just read that one.|S|Bed002
+me011|and then you read each line with a small pause between the lines.|S|Bed002
+me011|and the pause is just so the person transcribing it can tell where one line ends and the other begins.|S|Bed002
+me011|and i'll give i'll read the digit strings first so can see how that goes.|S|Bed002
+me011|um|F|Bed002
+me011|again i'm not sure how much i should talk about stuff before everyone's here.|S|Bed002
+me010|huh.|D|Bed002
+me010|well we have one more coming.|S|Bed002
+me011|okay.|S|Bed002
+me011|well why don't i go ahead and read digit strings?|Q|Bed002
+me011|and then we can go on from there.|S|Bed002
+me011|thanks.|S|Bed002
+me011|so uh just also a note on wearing the microphones.|S|Bed002
+me011|all of you look like you're doing it reasonably correctly.|S|Bed002
+me011|but you want it about two thumb widths away from your mouth.|S|Bed002
+me011|and then at the corner.|S|Bed002
+me011|and that's so that you minimize breath sounds.|S|Bed002
+me011|so that when you're breathing you don't breathe into the mike.|S|Bed002
+me011|um|F|Bed002
+me011|yeah that's good.|S|Bed002
+me011|and uh|F|Bed002
+me011|so everyone needs to fill out only once the speaker form and the consent form.|S|Bed002
+me011|and the short form|D|Bed002
+me011|i mean you should read the consent form.|S|Bed002
+me011|but uh the thing to notice is that we will give you an opportunity to edit all the transcripts.|S|Bed002
+me011|so if you say things and you don't want them to be released to the general public which these will be available at some point to anyone who wants them uh you'll be given an opportunity by email uh to bleep out any portions you don't like.|S|Bed002
+me011|um|F|Bed002
+me011|on the speaker form just fill out as much of the information as you can.|S|Bed002
+me011|if you're not exactly sure about the region|D|Bed002
+me011|we're not exactly sure either.|S|Bed002
+me011|so don't worry too much about it.|S|Bed002
+me011|the it's just self rating.|S|Bed002
+me011|um.|F|Bed002
+me011|and i think that's about it.|S|Bed002
+me011|i mean should i do you want me to talk at all about why we're doing this and what this project is?|Q|Bed002
+me010|um yeah.|S|Bed002
+me011|or|D|Bed002
+me010|no there was there was let's see.|S|Bed002
+me003|does nancy know that we're meeting in here?|Q|Bed002
+me010|oh|D|Bed002
+me010|she got an she was notified.|S|Bed002
+mn015|i sent an email.|S|Bed002
+me003|oh yeah she got an|D|Bed002
+me003|yeah yeah.|S|Bed002
+me010|whether she knows is another question.|S|Bed002
+me010|um|F|Bed002
+me010|so are the people going to be identified by name?|Q|Bed002
+me011|well what we're going to we'll anonymize it in the transcript.|S|Bed002
+me010|right.|S|Bed002
+me011|um but not in the audio.|S|Bed002
+me010|okay.|S|Bed002
+me010|so then in terms of people worrying about uh excising things from the transcript it's unlikely.|S|Bed002
+me011|so|D|Bed002
+me010|since it it isn't attributed.|S|Bed002
+me010|oh i see.|S|Bed002
+me010|but the but the but the|D|Bed002
+me011|right so if i said oh hi jerry how are you we're not going to go through and cancel out the jerry s.|S|Bed002
+me010|yeah.|B|Bed002
+me010|sure.|S|Bed002
+me011|um so we will go through and in the speaker i.d. tags there'll be you know m. one o. seven m. one o. eight.|S|Bed002
+me010|right.|B|Bed002
+me010|right.|B|Bed002
+me011|um but uh|F|Bed002
+me011|um it uh|F|Bed002
+me011|i don't know a good way of doing it on the audio and still have people who are doing discourse research be able to use the data.|S|Bed002
+me010|okay.|S|Bed002
+me010|uhhuh.|B|Bed002
+me010|no i i wasn't complaining.|S|Bed002
+me010|i just wanted to understand.|S|Bed002
+me011|yep.|S|Bed002
+me011|right.|S|Bed002
+me010|okay.|S|Bed002
+mn015|well we can make up aliases for each of us.|S|Bed002
+me011|yeah i mean whatever you want to do is fine.|S|Bed002
+me010|right.|D|Bed002
+me012|okay.|D|Bed002
+me011|but we find that|D|Bed002
+me011|we want the meeting to be as natural as possible.|S|Bed002
+me010|okay.|S|Bed002
+me011|so we're trying to do real meetings.|S|Bed002
+me011|and so we don't want to have to do aliases.|S|Bed002
+me010|right.|B|Bed002
+me011|and we don't want people to be editing what they say.|S|Bed002
+mn015|right.|B|Bed002
+me010|right.|B|Bed002
+me011|so i think that it's better just as a post process to edit out every time you bash microsoft.|S|Bed002
+mn015|uhhuh.|B|Bed002
+me011|you know.|S|Bed002
+me010|right.|B|Bed002
+me010|um okay so why don't you tell us briefly|D|Bed002
+me010|your give give your normal schpiel.|S|Bed002
+me011|okay.|S|Bed002
+me011|so|D|Bed002
+me011|um so this is the project is called meeting recorder.|S|Bed002
+me011|and there are lots of different aspects of the project.|S|Bed002
+me011|um so my particular interest is in the p.d.a. of the future.|S|Bed002
+me011|this is a mock up of one.|S|Bed002
+me011|yes we do believe the p.d.a. of the future will be made of wood.|S|Bed002
+me011|um the idea is that you'd be able to put a p.d.a. at the table at an impromptu meeting.|S|Bed002
+me011|and record it.|S|Bed002
+me011|and then be able to do querying and retrieval later on on the meeting.|S|Bed002
+me011|so that's my particular interest.|S|Bed002
+me011|is a portable device to do uh information retrieval on meetings.|S|Bed002
+me011|other people are interested in other aspects of meetings.|S|Bed002
+me011|um so the first step on that in any of these is to collect some data.|S|Bed002
+me011|and so what we wanted is a room that's instrumented with both the table top microphones.|S|Bed002
+me011|and these are very high quality pressure zone mikes.|S|Bed002
+me011|as well as the close talking mikes.|S|Bed002
+me011|what the close talking mikes gives us is some ground truth.|S|Bed002
+me011|gives us um high quality audio.|S|Bed002
+me011|um especially for people who aren't interested in the acoustic parts of this corpus.|S|Bed002
+me011|so for people who are more interested in language we didn't want to penalize them by having only the far field mikes available.|S|Bed002
+me011|and then also um it's a very very hard task in terms of speech recognition.|S|Bed002
+me011|um and so uh on the far field mikes we can expect very low recognition results.|S|Bed002
+me011|so we wanted the near field mikes to at least isolate the difference between the two.|S|Bed002
+me011|so that's why we're recording in parallel with the close talking and the far field at the same time.|S|Bed002
+me011|and then all these channels are recorded simultaneously and framed synchronously.|S|Bed002
+me011|so that you can also do things like um beam forming on all the microphones.|S|Bed002
+me011|and do research like that.|S|Bed002
+me011|our intention is to release this data to the public um probably through through a body like the l.d.c.|S|Bed002
+me011|and uh just make it as a generally available corpus.|S|Bed002
+me011|um there's other work going on in meeting recording.|S|Bed002
+me011|so we're we're working with s.r.i.|S|Bed002
+me011|with u.w.|S|Bed002
+me011|um nist has started an effort which will include video.|S|Bed002
+me011|we're not including video obviously.|S|Bed002
+me011|and uh and then also um a small amount of assistance from i.b.m.|S|Bed002
+me011|is also involved.|S|Bed002
+me011|um oh and the digit strings this is just a more constrained task.|S|Bed002
+me011|um so because the general environment is so challenging we decided to to do at least one set of digit strings.|S|Bed002
+me011|to give ourselves something easier.|S|Bed002
+me011|and it's exactly the same digit strings as in t.i. digits.|S|Bed002
+me011|which is a common connected digits corpus.|S|Bed002
+me011|so we'll have some um comparison to be able to be made.|S|Bed002
+me010|okay.|S|Bed002
+me011|anything else?|Q|Bed002
+me010|no.|S|Bed002
+me011|okay so when the last person comes in just have them wear a wireless.|S|Bed002
+me011|it should be on already.|S|Bed002
+me011|um|F|Bed002
+me011|either one of those.|S|Bed002
+me011|and uh read the digit strings and and fill out the forms.|S|Bed002
+me011|so the most important form is the consent form.|S|Bed002
+me011|so just be be sure everyone signs that if they consent.|S|Bed002
+mn015|i'm sure it's pretty usual for meetings that people come late.|S|Bed002
+mn015|so you will have to leave what you set.|S|Bed002
+me011|yeah.|S|Bed002
+me011|right.|B|Bed002
+me011|and uh just give me a call.|S|Bed002
+me011|which my number's up there when your meeting is over.|S|Bed002
+me010|yep.|S|Bed002
+me011|and i'm going to leave the mike here.|S|Bed002
+me011|but it's uh but i'm not going to be on.|S|Bed002
+me011|so don't have them use this one.|S|Bed002
+me011|it'll just be sitting here.|S|Bed002
+mn015|input?|Q|Bed002
+mn015|yeah.|S|Bed002
+mn015|there we go.|S|Bed002
+me010|by the way adam we will be using the uh screen as well.|S|Bed002
+mn015|yep.|B|Bed002
+me010|so you know.|S|Bed002
+me010|wow!|S|Bed002
+me010|organization.|S|Bed002
+me010|so you guys who got email about this oh uh friday or something about what we're up to.|S|Bed002
+me003|no.|S|Bed002
+me012|no.|S|Bed002
+mn015|i got it.|S|Bed002
+me003|what was the nature of the email?|Q|Bed002
+me010|oh this was about um inferring intentions from features in context and the words.|S|Bed002
+me010|like go to see or visit or|D|Bed002
+mn015|i uh i i|D|Bed002
+me010|you didn't get it?|Q|Bed002
+me003|i don't think i did.|S|Bed002
+me010|i guess these have got better filters.|S|Bed002
+me010|because i sent it to everybody.|S|Bed002
+me010|you just blew it off.|S|Bed002
+me003|uh.|B|Bed002
+me010|okay.|S|Bed002
+mn015|it's really simple though.|S|Bed002
+mn015|so this is the idea.|S|Bed002
+mn015|um|F|Bed002
+mn015|we could pursue um if we thought it's it's worth it but uh i think we we will agree on that um to come up with a with a sort of very very first crude prototype.|S|Bed002
+mn015|and do some implementation work and do some some research and some modeling.|S|Bed002
+mn015|so the idea is if you want to go somewhere|D|Bed002
+mn015|um and|F|Bed002
+mn015|focus on that object down|D|Bed002
+mn015|oh i can actually walk with this.|S|Bed002
+mn015|this is nice.|S|Bed002
+mn015|down here.|S|Bed002
+mn015|that's the powder tower.|S|Bed002
+mn015|now um we found in our uh data and from experiments that there's three things you can do.|S|Bed002
+mn015|um you can walk this way and come really really close to it.|S|Bed002
+mn015|and touch it.|S|Bed002
+mn015|but you cannot enter or do anything else.|S|Bed002
+mn015|unless you're interested in rock climbing it won't do you no good standing there.|S|Bed002
+mn015|it's just a dark alley.|S|Bed002
+mn015|but you can touch it.|S|Bed002
+mn015|if you want to actually go up or into the tower you have to go this way.|S|Bed002
+mn015|and then through some buildings and up some stairs and so forth.|S|Bed002
+mn015|if you actually want to see the tower and that's what actually most people want to do is just have a good look of it take a picture for the family you have to go this way and go up here.|S|Bed002
+mn015|and there you have a really view it exploded the during the thirty.|S|Bed002
+mn015|really uh interesting sight.|S|Bed002
+me003|huh.|B|Bed002
+mn015|and um these uh these lines are um paths.|S|Bed002
+mn015|or that's uh|D|Bed002
+mn015|the street network of our geographic information system.|S|Bed002
+mn015|and you can tell that we deliberately cut out this part.|S|Bed002
+mn015|because otherwise we couldn't get our g.i.s. system to take to lead people this way.|S|Bed002
+mn015|it would always use the closest point to the object.|S|Bed002
+mn015|and then the tourists would be faced you know in front of a wall.|S|Bed002
+mn015|but it would do them absolutely no good.|S|Bed002
+mn015|so what we found interesting is first of all intentions differ.|S|Bed002
+mn015|maybe you want to enter a building.|S|Bed002
+mn015|maybe you want to see it.|S|Bed002
+mn015|take a picture of it.|S|Bed002
+mn015|or maybe you actually want to come as close as possible to the building.|S|Bed002
+mn015|for whatever reason that may be.|S|Bed002
+me003|what's it what's it made out of?|Q|Bed002
+mn015|um red limestone.|S|Bed002
+me003|so maybe you would want to touch it.|S|Bed002
+mn015|yeah maybe you would want to touch it.|S|Bed002
+mn015|um|F|Bed002
+mn015|okay i this um these intentions we we could if we want to call it the the vista mode.|S|Bed002
+mn015|where we just want to uh get the overview or look at it.|S|Bed002
+mn015|the enter mode.|S|Bed002
+mn015|and the well tango mode.|S|Bed002
+mn015|i always come up with with silly names.|S|Bed002
+mn015|so this tango means literally translated to touch.|S|Bed002
+mn015|so but sometimes the the tango mode is really relevant in the in the sense that um if you want to uh|D|Bed002
+mn015|if you don't have the intention of entering your building but you know that something is really close to it and you just want to approach it or get to that building|D|Bed002
+mn015|consider for example the post office in chicago a building so large that it has its own zip code.|S|Bed002
+mn015|so the entrance could be miles away from the closest point.|S|Bed002
+mn015|so sometimes it makes sense maybe to to distinguish there.|S|Bed002
+mn015|so um i've looked uh through twenty some|D|Bed002
+mn015|uh i didn't look through all the data.|S|Bed002
+mn015|um and there there's uh a lot more different ways in people uh the ways people phrase how to get if they want to get to a certain place.|S|Bed002
+mn015|and sometimes here it's it's a little bit more obvious.|S|Bed002
+mn015|um maybe i should go back a couple of steps.|S|Bed002
+mn015|and go through the|D|Bed002
+me010|no okay come in sit down.|S|Bed002
+me010|if you grab yourself a microphone.|S|Bed002
+mn015|you need to sign some stuff and read some digits.|S|Bed002
+me010|well you can sign afterwards.|S|Bed002
+mn015|or later.|S|Bed002
+me003|you have to also have to read some digits.|S|Bed002
+me010|afterwards.|S|Bed002
+fe004|okay afterwards is fine.|S|Bed002
+mn015|they are uncomfortable.|S|Bed002
+mn015|uhhuh.|B|Bed002
+fe004|really small?|Q|Bed002
+fe004|okay i see.|S|Bed002
+fe004|okay.|S|Bed002
+mn015|yep.|B|Bed002
+fe004|thank you.|S|Bed002
+mn015|okay but that was our idea.|S|Bed002
+me010|and it it it it also has to be switched on nance.|S|Bed002
+mn015|is|D|Bed002
+me003|no that one's already on i thought he said.|S|Bed002
+mn015|i i think|D|Bed002
+me010|it's on?|Q|Bed002
+me010|okay good.|S|Bed002
+me003|yeah.|S|Bed002
+fe004|okay it's on.|S|Bed002
+mn015|okay that was the idea.|S|Bed002
+mn015|um people when they when they want to go to a building sometimes they just want to look at it.|S|Bed002
+mn015|sometimes they want to enter it.|S|Bed002
+mn015|and sometimes they want to get really close to it.|S|Bed002
+mn015|that's something we found.|S|Bed002
+mn015|it's just a truism.|S|Bed002
+mn015|and the places where you will lead them for these intentions are sometimes incredibly different.|S|Bed002
+mn015|i i gave an example where the point where you end up if you want to look at it is completely different from where if you want to enter it.|S|Bed002
+mn015|so this is sort of how people may uh may phrase those requests to a a a mock up system at least that's the way they did it.|S|Bed002
+mn015|and we get tons of of these how do i get to i want to go to.|S|Bed002
+mn015|but also give me directions to and i would like to see.|S|Bed002
+mn015|and um what we can sort of do if we look closer closer at the the data|D|Bed002
+mn015|that was the wrong one.|S|Bed002
+mn015|um we can look at some factors that may make a difference.|S|Bed002
+mn015|first of all|D|Bed002
+mn015|very important.|S|Bed002
+mn015|and um that i've completely forgot that when we talked.|S|Bed002
+mn015|this is of course a crucial factor what type of object is it.|S|Bed002
+mn015|so some buildings you just don't want to take pictures of.|S|Bed002
+mn015|or very rarely.|S|Bed002
+mn015|but you usually want to enter them.|S|Bed002
+mn015|some objects are more picturesque.|S|Bed002
+mn015|and you more more highly photographed.|S|Bed002
+mn015|then of course the the actual phrases may give us some idea of what the person wants.|S|Bed002
+mn015|um sometimes i found in the uh looking at the data in a superficial way i found some sort of modifiers that that may also give us a hint.|S|Bed002
+mn015|um i'm trying to get to.|S|Bed002
+mn015|nuh?|Q|Bed002
+mn015|i need to get to.|S|Bed002
+mn015|sort of hints to the fact that you're not really sightseeing and and just there for pleasure and so forth and so on.|S|Bed002
+mn015|and this leads us straight to the context which also should be considered.|S|Bed002
+mn015|that whatever it is you're doing at the moment may also influence the interpretation of of a phrase.|S|Bed002
+mn015|so this is uh really|D|Bed002
+mn015|uh uh uh|F|Bed002
+mn015|my suggestion is really simple.|S|Bed002
+mn015|we start with um|D|Bed002
+mn015|now let me uh say one more thing.|S|Bed002
+mn015|what we do know is that the parser we use in the smartkom system will never differentiate between any of these.|S|Bed002
+mn015|so basically all of these things will result in the same x.m.l.m. three l. structure.|S|Bed002
+mn015|sort of action go.|S|Bed002
+mn015|and then an object.|S|Bed002
+fe004|uhhuh.|D|Bed002
+mn015|yeah?|Q|Bed002
+mn015|and a source.|S|Bed002
+mn015|so it's it's it's way too crude to capture those differences in intentions.|S|Bed002
+mn015|so i thought huh.|S|Bed002
+mn015|maybe for a deep understanding task that's a nice sort of playground or first little thing.|S|Bed002
+mn015|where we can start it and sort of look|D|Bed002
+mn015|okay we need we going to get those m. three l. structures.|S|Bed002
+mn015|the crude undifferentiated parse.|S|Bed002
+mn015|interpreted input.|S|Bed002
+mn015|we may need additional part of speech or maybe just some information on the verb and modifiers auxiliaries.|S|Bed002
+mn015|we'll see.|S|Bed002
+mn015|and i will try to to sort of come up with a list of factors that we need to get out of there.|S|Bed002
+mn015|and maybe we want to get a switch for the context.|S|Bed002
+mn015|so this is not something which we can actually monitor now.|S|Bed002
+mn015|but just is something we can set.|S|Bed002
+mn015|and then you can all imagine sort of a a constrained satisfaction program depending on on what um comes out.|S|Bed002
+mn015|we want to have an a structure resulting|D|Bed002
+mn015|if we feed it through a belief net or or something along those lines we'd get an inferred intention we we produce a structure that differentiates between the vista the enter and the um tango mode.|S|Bed002
+mn015|which i think we maybe want to ignore.|S|Bed002
+mn015|but that's my idea.|S|Bed002
+mn015|it's up for discussion.|S|Bed002
+mn015|we can change all of it.|S|Bed002
+mn015|any bit of it.|S|Bed002
+mn015|throw it all away.|S|Bed002
+me012|now this email that you sent actually.|S|Bed002
+me010|what?|Q|Bed002
+me012|now i remember the email.|S|Bed002
+me010|okay.|S|Bed002
+me003|huh.|B|Bed002
+me003|still i have no recollection whatsoever of the email.|S|Bed002
+me003|i'll have to go back and check.|S|Bed002
+me010|not important.|S|Bed002
+me010|so what is important is that we understand what the proposed task is.|S|Bed002
+me010|and the the uh robert and i talked about this some on friday.|S|Bed002
+me010|and we think it's well formed.|S|Bed002
+me010|so we think it's a well formed uh starter task for this uh deeper understanding in the tourist domain.|S|Bed002
+me012|so where exactly is the uh deeper understanding being done?|Q|Bed002
+me012|like i mean is it before the bayes-net?|Q|Bed002
+me012|is it uh|D|Bed002
+me010|well it's the it's it's always all of it.|S|Bed002
+me010|so in general it's always going to be the answer is everywhere.|S|Bed002
+me010|uh so the notion is that uh this isn't real deep.|S|Bed002
+me010|but it's deep enough that you can distinguish between these three quite different kinds of uh going to see some tourist thing.|S|Bed002
+me010|and so that's that's the quote deep that we're trying to get at.|S|Bed002
+me010|and robert's point is that the current front end doesn't give you any way to|D|Bed002
+me010|not only doesn't it do it but it also doesn't give you enough information to do it.|S|Bed002
+me010|it isn't like if you just took what the front end gives you and used some clever inference algorithm on it you would be able to figure out which of these is going on.|S|Bed002
+me010|so uh|F|Bed002
+me010|and this is in general it's going to be true of any kind of deep understanding.|S|Bed002
+me010|there's going to be contextual things.|S|Bed002
+me010|there're going to be linguistic things.|S|Bed002
+me010|there're going to be discourse things.|S|Bed002
+me010|and they got to be combined.|S|Bed002
+me010|and my idea on how to combine them is with a belief net.|S|Bed002
+me010|although it may turn out that some totally different thing is going to work better.|S|Bed002
+me010|um the idea would be that you uh take your|D|Bed002
+me010|you're editing your slide?|Q|Bed002
+mn015|yeah as sort of as i get ideas.|S|Bed002
+mn015|uh uh|D|Bed002
+me010|oh.|S|Bed002
+mn015|so discourse i i i thought about that.|S|Bed002
+mn015|of course that needs to sort of go in there.|S|Bed002
+me010|oh i'm sorry.|S|Bed002
+me010|okay so this is minutes taking minutes as we go.|S|Bed002
+me010|in his in his own way.|S|Bed002
+mn015|yep.|S|Bed002
+me010|um but the the|D|Bed002
+me010|anyway so the thing is uh naively speaking you've you've got a for this little task a belief net.|S|Bed002
+me010|which is going to have as output the conditional probability of one of three things.|S|Bed002
+me010|that the person wants to uh to view it to enter it or to tango with it.|S|Bed002
+me010|um|F|Bed002
+me010|so that the the output of the belief net is pretty well formed.|S|Bed002
+me010|and then the inputs are going to be these kinds of things.|S|Bed002
+me010|and then the question is|D|Bed002
+me010|there are two questions.|S|Bed002
+me010|is uh one where do you get this information from?|Q|Bed002
+me010|and two what's the structure of the belief net?|Q|Bed002
+me010|so what are the conditional probabilities of this that and the other given these things?|Q|Bed002
+me010|and you probably need intermediate nodes.|S|Bed002
+me010|i we don't know what they are yet.|S|Bed002
+me010|so it may well be that uh for example that uh knowing whether|D|Bed002
+me010|oh another thing you want is some information i think about the time of day.|S|Bed002
+me010|now they may want to call that part of context.|S|Bed002
+me010|but the time of day matters a lot.|S|Bed002
+mn015|uhhuh.|B|Bed002
+me010|and if things are obviously closed then you|D|Bed002
+mn015|people won't want to enter it.|S|Bed002
+me010|people don't want to enter them.|S|Bed002
+me010|and if it's not obvious you may want to actually uh point out to people that it's closed you know what they're going to is closed and they don't have the option of entering it.|S|Bed002
+me010|so another thing that can come up and will come up as soon as you get serious about this is that another option of course is to have a more of a dialogue.|S|Bed002
+me010|so if someone says something you could ask them.|S|Bed002
+me003|yeah.|B|Bed002
+me010|okay.|S|Bed002
+me010|and now one thing you could do is always ask them.|S|Bed002
+me010|but that's boring.|S|Bed002
+me010|and it also it also be a pain for the person using it.|S|Bed002
+me010|so one thing you could do is build a little system that said whenever you got a question like that i've got one of three answers.|S|Bed002
+me010|ask them which one you want.|S|Bed002
+me010|okay.|S|Bed002
+me010|but that's um not what we're going to do.|S|Bed002
+mn015|but maybe that's a false state of the system that it's too close to call.|S|Bed002
+me010|oh yeah.|S|Bed002
+me010|you want the you want the ability to you want the ability to ask.|S|Bed002
+me010|but what you don't want to do is build a system that always asks every time.|S|Bed002
+me010|and|D|Bed002
+me010|that's not getting at the scientific problem.|S|Bed002
+me010|and it's|D|Bed002
+mn015|uhhuh.|B|Bed002
+me010|in general you're you know it's going to be much more complex than that.|S|Bed002
+me010|this is purposely a really simple case.|S|Bed002
+mn015|yeah.|B|Bed002
+me010|so uh|F|Bed002
+me010|yeah.|S|Bed002
+mn015|i have one more point to to bhaskara's question.|S|Bed002
+mn015|um i think also the the the deep understanding part of it is is going to be in there to the extent that we um want it in terms of our modeling.|S|Bed002
+mn015|we can start you know basic from human beings.|S|Bed002
+mn015|model that.|S|Bed002
+mn015|its motions.|S|Bed002
+mn015|going walking seeing.|S|Bed002
+mn015|we can model all of that.|S|Bed002
+mn015|and then compose whatever inferences we make out of these really conceptual primitives.|S|Bed002
+mn015|that will be extremely deep in the in in in my understanding.|S|Bed002
+me010|yeah so so the way that might come up if you want to suppose you wanted to do that you might say um as an intermediate step in your belief net is there a source path goal schema involved?|Q|Bed002
+me010|okay?|Q|Bed002
+me010|and if so uh is there a focus on the goal?|Q|Bed002
+me010|or is there a focus on the path?|Q|Bed002
+me010|or something.|S|Bed002
+me010|and that could be uh one of the|D|Bed002
+me010|you know the in some piece of the belief net that could be the the appropriate thing to enter.|S|Bed002
+me012|so where would we extract that information from?|Q|Bed002
+me012|from the m. three l..|S|Bed002
+me010|no.|S|Bed002
+me010|no see the m. three l. is not going to give|D|Bed002
+me010|what he was saying is the m. three l. does not have any of that.|S|Bed002
+me010|all it has is some really crude stuff saying a person wants to go to a place.|S|Bed002
+me012|right.|B|Bed002
+me003|the m. three l. is the old smartkom output.|S|Bed002
+me010|right.|S|Bed002
+me003|okay.|S|Bed002
+me010|m. well m. three l. itself refers to multimedia markup language.|S|Bed002
+me003|it's just a language.|S|Bed002
+me003|right yeah.|S|Bed002
+me010|so we have we we have to have a better way of referring to|D|Bed002
+mn015|the parser output?|Q|Bed002
+me010|uhhuh.|B|Bed002
+me010|yeah.|S|Bed002
+mn015|analyzed speech i think it's what they call it.|S|Bed002
+me010|the|D|Bed002
+me010|well okay.|S|Bed002
+mn015|really oder|D|Bed002
+me010|yeah.|S|Bed002
+mn015|no actually intention lattices is what we're going to get.|S|Bed002
+me010|but they they call it intention lattice.|S|Bed002
+me010|but|D|Bed002
+mn015|intention lattice hypothesis.|S|Bed002
+me010|anyway|F|Bed002
+mn015|they call it intention hypotheses.|S|Bed002
+me010|right.|S|Bed002
+me010|so they're going to give us some uh or we can assume that you get this crude information.|S|Bed002
+me010|about intention.|S|Bed002
+me010|and that's all they're going to provide.|S|Bed002
+me010|and they don't give you the kind of object.|S|Bed002
+me010|they don't give you any discourse history.|S|Bed002
+me010|if you want to keep that you have to keep it somewhere else.|S|Bed002
+mn015|well they keep it.|S|Bed002
+mn015|we have to request it.|S|Bed002
+me010|right.|S|Bed002
+mn015|nuh?|Q|Bed002
+mn015|but it's not in there.|S|Bed002
+me010|well they they they keep it by their lights.|S|Bed002
+me010|it may it may or may not be what what we want.|S|Bed002
+mn015|huh.|B|Bed002
+mn015|yeah or|D|Bed002
+me010|yeah.|S|Bed002
+me003|so if someone says i want to touch the side of the powder tower that would basically we need to pop up tango mode and the and the directions?|Q|Bed002
+me010|if if yeah if it got as simple as that yeah.|S|Bed002
+me003|yeah.|S|Bed002
+me010|but it wouldn't.|S|Bed002
+me003|okay.|S|Bed002
+me003|but that doesn't necessarily|D|Bed002
+me003|but we'd have to infer a source path goal to some degree for touching the side right?|S|Bed002
+mn015|well uh there is a a point there if i understand you correct.|S|Bed002
+mn015|um|F|Bed002
+mn015|because um sometimes people just say things.|S|Bed002
+mn015|this you find very often.|S|Bed002
+mn015|where is the city hall.|S|Bed002
+mn015|and this they don't want to see it on a map.|S|Bed002
+mn015|or they don't want to know it's five hundred yards away from you or that it's to the your north.|S|Bed002
+mn015|they want to go there.|S|Bed002
+mn015|that's what they say is where is it.|S|Bed002
+mn015|where is that damn thing.|S|Bed002
+me003|and the parser would output|D|Bed002
+mn015|well that's a a question mark.|S|Bed002
+mn015|a lot of parsers um|D|Bed002
+mn015|just uh|D|Bed002
+mn015|that's way beyond their scope is of interpreting that.|S|Bed002
+mn015|you know.|S|Bed002
+mn015|but um|F|Bed002
+mn015|still outcome the outcome will be some form of structure.|S|Bed002
+mn015|with the town hall and maybe saying it's a w.h. focus on the town hall.|S|Bed002
+mn015|but to interpret it|D|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|you know.|S|Bed002
+mn015|somebody else has to do that job later.|S|Bed002
+me003|i'm just trying to figure out what the smartkom system would output.|S|Bed002
+me010|yeah.|B|Bed002
+me003|depending on these things.|S|Bed002
+mn015|um it will probably tell you how far away it is.|S|Bed002
+mn015|at least that's that's even what deep map does.|S|Bed002
+mn015|it tells you how far away it is.|S|Bed002
+mn015|and and shows it to you on a map.|S|Bed002
+mn015|because we can not differentiate at the moment between you know the intention of wanting to go there or the intention of just wanting to know where where it is.|S|Bed002
+fe004|people might not be able to infer that either right?|S|Bed002
+fe004|like the fact like i could imagine if someone came up to me and asked where's the city hall i might say are you trying to get there.|S|Bed002
+fe004|because how i describe um its location uh probably depend on whether i think i should give them you know directions now or say you know whatever it's half a mile away or something like that.|S|Bed002
+mn015|uhhuh.|B|Bed002
+mn015|it's a granularity factor.|S|Bed002
+me010|yeah.|B|Bed002
+mn015|because where people ask you where is new york you will tell them it's on the east coast.|S|Bed002
+fe004|uhhuh.|B|Bed002
+fe004|yeah exactly.|S|Bed002
+fe004|right.|B|Bed002
+mn015|uh you won't tell them how to get there you know take that bus to the airport and blah blah blah.|S|Bed002
+fe004|right.|B|Bed002
+fe004|yeah.|S|Bed002
+fe004|right.|S|Bed002
+mn015|but if it's the post office you will tell them how to get there.|S|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|so they have done some interesting experiments on that in hamburg as well.|S|Bed002
+fe004|right.|B|Bed002
+fe004|right.|B|Bed002
+mn015|so|F|Bed002
+me010|but|F|Bed002
+me010|go go back to the the uh|D|Bed002
+me010|yeah that slide.|S|Bed002
+mn015|so i this is onto is is knowledge about buildings.|S|Bed002
+mn015|their opening times.|S|Bed002
+mn015|and then coupled with time of day um this should|D|Bed002
+mn015|you know.|S|Bed002
+fe004|so that context was like um their presumed purpose context.|S|Bed002
+fe004|like business or travel.|S|Bed002
+fe004|as well as the utterance context like i'm now standing at this place at this time.|S|Bed002
+me010|yeah well i think we ought to as we have all along we we've been distinguishing between situational context.|S|Bed002
+me010|which is what you have as context.|S|Bed002
+me010|and discourse context.|S|Bed002
+mn015|uhhuh.|B|Bed002
+me010|which you have as d.h.|S|Bed002
+me010|i don't know what the h. means.|S|Bed002
+mn015|nuh.|B|Bed002
+mn015|history.|S|Bed002
+mn015|discourse history.|S|Bed002
+me010|okay.|S|Bed002
+me010|whatever.|S|Bed002
+mn015|yeah.|B|Bed002
+me010|so we can work out terminology later.|S|Bed002
+mn015|yep.|S|Bed002
+me010|so they're they're quite distinct.|S|Bed002
+me010|i mean you need them both.|S|Bed002
+me010|but they're quite distinct.|S|Bed002
+me010|and so what we were talking about doing as a first shot is not doing any of the linguistics.|S|Bed002
+me010|except to find out what seems to be useful.|S|Bed002
+me010|so the the the reason the belief net is in blue is the notion would be|D|Bed002
+me010|uh this may be a bad bad idea.|S|Bed002
+me010|but the idea is to take as a first goal see if we could actually build a belief net that would make this three way distinction uh in a plausible way.|S|Bed002
+me010|given|D|Bed002
+me010|these we have all these transcripts.|S|Bed002
+me010|and we're able to by hand extract the features to put in the belief net.|S|Bed002
+me010|saying aha.|S|Bed002
+me010|here are the things which if you get them out of out of the language and discourse and put them into the belief net it would tell you which of these three uh intentions is most likely.|S|Bed002
+me010|and if to actually do that build it um you know run it run it on the data where you hand transcribe the parameters.|S|Bed002
+me010|and see how that goes.|S|Bed002
+me010|if that goes well then we can start worrying about how we would extract them.|S|Bed002
+me010|so where would you get this information?|Q|Bed002
+me010|and expand it to to other things like this.|S|Bed002
+me010|but if we can't do that then we're in trouble.|S|Bed002
+me010|i mean if you can't do this task|D|Bed002
+me010|um|F|Bed002
+mn015|we need a different uh engine.|S|Bed002
+me010|uh uh yeah or something.|S|Bed002
+mn015|machine i mean.|S|Bed002
+me010|well it if it if it's the belief nets we'll switch to you know logic or some terrible thing.|S|Bed002
+me010|but i don't think that's going to be the case.|S|Bed002
+me010|i think that uh if we can get the information a belief net is a perfectly good way of doing the inferential combination of it.|S|Bed002
+me010|the real issue is what are the factors involved in determining this?|Q|Bed002
+me010|and i don't know.|S|Bed002
+mn015|huh.|B|Bed002
+mn015|but only|D|Bed002
+me010|hold on a hold on a second.|S|Bed002
+mn015|muh|D|Bed002
+me010|so i know.|S|Bed002
+me010|uh uh is it clear what's going on here?|Q|Bed002
+me012|yep.|S|Bed002
+fe004|um i missed the beginning.|S|Bed002
+fe004|but um|F|Bed002
+fe004|i guess|D|Bed002
+fe004|could you back to the slide?|Q|Bed002
+fe004|the previous one.|S|Bed002
+fe004|so is it that it's um|D|Bed002
+fe004|these are all factors that uh these are the ones that you said that we are going to ignore now?|Q|Bed002
+fe004|or that we want to take into account?|Q|Bed002
+fe004|you were saying|D|Bed002
+me010|take them into account.|S|Bed002
+fe004|take the the linguistic factors too.|S|Bed002
+me010|but but you don't worry about|D|Bed002
+fe004|oh how to extract these features.|S|Bed002
+me010|how to extract them.|S|Bed002
+fe004|okay.|S|Bed002
+me010|so let's find out which ones we need first.|S|Bed002
+fe004|got it.|S|Bed002
+fe004|okay.|S|Bed002
+fe004|and and it's clear from the data um like sort of the correct answer in each case.|S|Bed002
+me010|and|D|Bed002
+me010|no.|S|Bed002
+fe004|but|D|Bed002
+fe004|okay.|S|Bed002
+mn015|no.|S|Bed002
+fe004|that's that's the thing i'm curious|D|Bed002
+mn015|but|D|Bed002
+me010|let's go back to let's go back to the the the slide of data.|S|Bed002
+fe004|like do we know from the data which|D|Bed002
+mn015|um|D|Bed002
+fe004|okay.|S|Bed002
+fe004|so|F|Bed002
+mn015|not from that data.|S|Bed002
+mn015|but um since we are designing a a a an compared to this even bigger data collection effort um we will definitely take care to put it in there.|S|Bed002
+fe004|uhhuh.|B|Bed002
+fe004|uhhuh.|B|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|in some shape way form over the other.|S|Bed002
+me010|yeah.|B|Bed002
+mn015|to see whether we can then get sort of empirically validated data.|S|Bed002
+fe004|right.|B|Bed002
+mn015|um from this we can sometimes you know|D|Bed002
+mn015|and that's that but that isn't that what we need for a belief net anyhow?|Q|Bed002
+mn015|is sort of|D|Bed002
+mn015|sometimes when people want to just see it they phrase it more like this.|S|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|but it doesn't exclude anybody from phrasing it totally differently even if they still|D|Bed002
+fe004|right.|S|Bed002
+fe004|right.|B|Bed002
+mn015|you know?|Q|Bed002
+mn015|but then other factors may come into play that change the outcome of their belief net.|S|Bed002
+fe004|right.|B|Bed002
+mn015|so um this is exactly what|D|Bed002
+mn015|because you can never be sure.|S|Bed002
+mn015|and i'm sure even the most sort of deliberate data collection experiment will never give you data that say well if it's phrased like that the intention is this.|S|Bed002
+fe004|sure.|B|Bed002
+mn015|you know because then uh you|D|Bed002
+fe004|i mean the only way you could get that is if you were to give the subjects a task.|S|Bed002
+fe004|right?|Q|Bed002
+fe004|where you have where your uh current goal is to|D|Bed002
+mn015|yeah.|S|Bed002
+mn015|that's what we're doing.|S|Bed002
+fe004|so that's what you want?|Q|Bed002
+mn015|but but we will still get the phrasing all over the place.|S|Bed002
+fe004|okay.|S|Bed002
+fe004|so you will know.|S|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|i'm sure that you know|D|Bed002
+me010|yeah.|B|Bed002
+fe004|the no that's fine.|S|Bed002
+fe004|i guess it's just knowing the intention from the experimental subject.|S|Bed002
+me010|yeah.|B|Bed002
+mn015|uhhuh.|B|Bed002
+me010|from that task yeah.|S|Bed002
+me010|so uh i think you all know this but we are going to actually use this little room.|S|Bed002
+me010|and start recording subjects probably within a month or something.|S|Bed002
+me010|so this is not any any of you guys' worry.|S|Bed002
+me010|except that we may want to push that effort to get information we need.|S|Bed002
+me010|so our job is to figure out how to solve these problems.|S|Bed002
+me010|if it turns out that we need data of a certain sort then the sort of data collection branch can be uh asked to do that.|S|Bed002
+me010|and one of the reasons why we're recording the meeting for these guys is because we want their help when we we start doing uh recording of subjects.|S|Bed002
+me010|so yeah you're absolutely right though.|S|Bed002
+me010|no you you will not have|D|Bed002
+me010|and there it is.|S|Bed002
+me010|and uh|F|Bed002
+me010|but you know|D|Bed002
+me010|the um|F|Bed002
+fe004|and i think the other concern that has come up before too is if it's|D|Bed002
+fe004|um|F|Bed002
+fe004|i don't know if this was collected what situation this data was collected in.|S|Bed002
+fe004|was it is it the one that you showed in your talk?|Q|Bed002
+fe004|like people|D|Bed002
+mn015|no no.|S|Bed002
+fe004|but|D|Bed002
+mn015|no.|S|Bed002
+fe004|okay.|S|Bed002
+fe004|so was this like someone actually mobile like using a device?|Q|Bed002
+mn015|uh|F|Bed002
+mn015|no not|D|Bed002
+mn015|it was mobile.|S|Bed002
+mn015|but not not with a a real wizard system.|S|Bed002
+mn015|so there were never answers.|S|Bed002
+fe004|uhhuh.|B|Bed002
+fe004|okay okay.|S|Bed002
+fe004|but is it|D|Bed002
+fe004|i guess i don't know the situation of of collecting the data.|S|Bed002
+fe004|of like here you could imagine them being walking around the city as like one situation.|S|Bed002
+fe004|and then you have all sorts of other situational context factors that would influence how to interpret like you said the scope and things like that.|S|Bed002
+mn015|uhhuh.|B|Bed002
+fe004|if they're doing it in a|D|Bed002
+fe004|you know i'm sitting here with a map and asking questions.|S|Bed002
+fe004|i i would imagine that the data would be really different.|S|Bed002
+fe004|um so it's just|D|Bed002
+mn015|yeah.|S|Bed002
+mn015|but it was never the goal of that data collection to to serve for for such a purpose.|S|Bed002
+mn015|so that's why for example the tasks were not differentiated by intentionality.|S|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|there was there was no label.|S|Bed002
+fe004|uhhuh.|B|Bed002
+fe004|right.|B|Bed002
+mn015|you know intention a. intention b. intention c. .|S|Bed002
+mn015|or task a. b. c. .|S|Bed002
+mn015|um|F|Bed002
+mn015|i'm sure we can produce some if we need it.|S|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|um that that will help us along those lines.|S|Bed002
+mn015|but you know you got to leave something for other people to model.|S|Bed002
+mn015|so to finding out what you know situational what the contextual factors of the situation really are you know is an interesting interesting thing.|S|Bed002
+fe004|uhhuh.|B|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|sort of i'm at the moment curious and i'm i'm want to approach it from the end where we can sort of start with this toy system that we can play around with.|S|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|so that we get a clearer notion of what input we need for that.|S|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|what suffices and what doesn't.|S|Bed002
+mn015|and then we can start worrying about where to get this input.|S|Bed002
+mn015|what what do we need you know?|Q|Bed002
+mn015|ultimately once we are all experts in changing that parser for example maybe there's just a couple three things we need to do.|S|Bed002
+mn015|and then we get more whatever part of speech and more construction type like stuff out of it.|S|Bed002
+fe004|uhhuh.|D|Bed002
+fe004|huh.|B|Bed002
+mn015|it's a pragmatic approach uh at the moment.|S|Bed002
+me003|how exactly does the data collection work?|Q|Bed002
+me003|do they have a map?|Q|Bed002
+me003|and then you give them a scenario of some sort.|S|Bed002
+mn015|okay.|S|Bed002
+mn015|imagine you're the the subject.|S|Bed002
+mn015|you're going to be in here.|S|Bed002
+mn015|and somebody|D|Bed002
+mn015|and and you see uh either the three d. model or uh a quicktime animation of standing in a square in heidelberg.|S|Bed002
+mn015|so you actually see that.|S|Bed002
+mn015|um the uh|F|Bed002
+mn015|um first thing is you have to read a text about heidelberg.|S|Bed002
+mn015|so just off a textbook uh tourist guide to familiarize uh yourself with that sort of odd sounding german street names like fischergasse and so forth.|S|Bed002
+mn015|so that's part one.|S|Bed002
+mn015|part two is you're told that this huge new wonderful computer system exists that can tell you everything you want to know.|S|Bed002
+mn015|and it understands you completely.|S|Bed002
+mn015|and so you're going to pick up that phone.|S|Bed002
+mn015|dial a number.|S|Bed002
+mn015|and you get a certain amount of tasks that you have to solve.|S|Bed002
+mn015|first you have to know find out how to get to that place.|S|Bed002
+mn015|maybe with the intention of buying stamps in there.|S|Bed002
+mn015|maybe so the next task is to get to a certain place and take a picture for your grandchild.|S|Bed002
+mn015|the third one is to get information on the history of an object.|S|Bed002
+mn015|the fourth one|D|Bed002
+mn015|and then the system breaks down.|S|Bed002
+mn015|it crashes.|S|Bed002
+fe004|at the third?|Q|Bed002
+mn015|and|D|Bed002
+fe004|right then.|S|Bed002
+mn015|after the third task.|S|Bed002
+fe004|okay.|S|Bed002
+mn015|and then|D|Bed002
+mn015|or after the fourth.|S|Bed002
+mn015|some find forget that for now.|S|Bed002
+mn015|and then a human operator comes on and and apologizes that the system has crashed.|S|Bed002
+mn015|but you know urges you to continue you know?|S|Bed002
+mn015|now with a human operator.|S|Bed002
+mn015|and so you have basically the same tasks again.|S|Bed002
+mn015|just with different objects.|S|Bed002
+mn015|and you go through it again.|S|Bed002
+mn015|and that was it.|S|Bed002
+mn015|oh and one one little bit.|S|Bed002
+mn015|and uh the computer you are you are being told the computer system knows exactly where you are via g.p.s.|S|Bed002
+mn015|when the human operator comes on um that person does not know.|S|Bed002
+mn015|so the g.p.s. is crashed as well.|S|Bed002
+mn015|so the person first has to ask you where are you.|S|Bed002
+mn015|and so you have to do some tell the person sort of where you are depending on what you see there.|S|Bed002
+mn015|um this is a a a a a bit that i i don't think we|D|Bed002
+mn015|did we discuss that bit?|Q|Bed002
+mn015|uh i just sort of squeezed that in now.|S|Bed002
+mn015|but it's something uh that would provide some very interesting data for some people i know.|S|Bed002
+mn015|so|F|Bed002
+fe004|so in the display you can oh you said that you you might have a display that shows like the|D|Bed002
+mn015|yeah.|S|Bed002
+mn015|additionally you have a a a sort of a map type display.|S|Bed002
+fe004|a your perspective sort of?|Q|Bed002
+fe004|and so as you|D|Bed002
+mn015|uh two d..|S|Bed002
+fe004|oh two d..|S|Bed002
+fe004|okay.|S|Bed002
+mn015|two d..|S|Bed002
+fe004|so as you move through it they just track it on the for themselves.|S|Bed002
+mn015|yeah.|S|Bed002
+mn015|you don't|D|Bed002
+fe004|there.|D|Bed002
+mn015|that's|D|Bed002
+mn015|i don't know.|S|Bed002
+mn015|i but i don't think you really move.|S|Bed002
+fe004|okay.|S|Bed002
+mn015|sort of.|S|Bed002
+fe004|so|D|Bed002
+mn015|yeah?|Q|Bed002
+mn015|i mean that would be an an an enormous technical effort.|S|Bed002
+mn015|unless we would|D|Bed002
+mn015|we can show it walks to you know.|S|Bed002
+mn015|we can have movies of walking.|S|Bed002
+mn015|you walking through through heidelberg and ultimately arriving there.|S|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|maybe we want to do that.|S|Bed002
+mn015|yeah.|B|Bed002
+fe004|uh i was just trying to figure out how how ambitious the system is.|S|Bed002
+mn015|the map was sort of intended to|D|Bed002
+mn015|you want to go to that place.|S|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|you know and it's sort of there.|S|Bed002
+mn015|and you see the label of the name.|S|Bed002
+mn015|so we get those names pronunciation stuff and so forth.|S|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|and we can change that.|S|Bed002
+fe004|uhhuh.|B|Bed002
+fe004|so your tasks don't require you to|D|Bed002
+fe004|i mean uh you're told so when your task is i don't know go buy stamps or something like that.|S|Bed002
+fe004|so do you have to respond?|Q|Bed002
+fe004|or does your|D|Bed002
+fe004|uh what are you what are you supposed to be telling the system?|Q|Bed002
+fe004|like|D|Bed002
+fe004|what you're doing now?|Q|Bed002
+fe004|or|D|Bed002
+mn015|well we'll see what people do.|S|Bed002
+fe004|there's no|D|Bed002
+fe004|okay so it's just like let's figure out what they would say under the circumstances.|S|Bed002
+mn015|yeah and and we will record both sides.|S|Bed002
+mn015|i mean we will record the the wizard.|S|Bed002
+fe004|uhhuh.|B|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|i mean in both cases it's going to be a human in the computer and in the operator case.|S|Bed002
+mn015|and we will there will be some dialogue you know.|S|Bed002
+mn015|so you first have to do this and that.|S|Bed002
+fe004|yep.|B|Bed002
+mn015|and and|F|Bed002
+fe004|uhhuh.|D|Bed002
+mn015|see what they say.|S|Bed002
+mn015|we can instruct the uh wizard in how expressive and talkative he should be.|S|Bed002
+mn015|but um|F|Bed002
+mn015|maybe the maybe what you're suggesting|D|Bed002
+mn015|is what you're suggesting that it might be too poor the data if we sort of limit it to this ping pong one uh task results in a question and then there's an answer and that's the end of the task?|Q|Bed002
+mn015|you want to have it more more steps sort of.|S|Bed002
+fe004|yeah i i don't know how much direction is given to the subject about what their interaction|D|Bed002
+fe004|i mean they're unfamiliar with interacting with the system.|S|Bed002
+fe004|all they know is it's this great system that could do stuff.|S|Bed002
+mn015|uhhuh.|B|Bed002
+mn015|uhhuh.|B|Bed002
+me010|oh yeah but to some extent this is a different discussion.|S|Bed002
+fe004|right?|Q|Bed002
+fe004|so|F|Bed002
+me010|okay?|Q|Bed002
+me010|so uh we we have to have this discussion of the experiment and the data collection and all that sort of stuff.|S|Bed002
+fe004|uhhuh.|B|Bed002
+me010|and we do have um a student who is a candidate for wizard.|S|Bed002
+me010|uh she's going to get in touch with me.|S|Bed002
+me010|it's a student of eve's.|S|Bed002
+me010|f.e.y.|S|Bed002
+me010|fey?|Q|Bed002
+me010|spelled f.e.y.|S|Bed002
+me010|do you do you|D|Bed002
+fe004|oh fey parrill.|S|Bed002
+me010|you know her?|Q|Bed002
+fe004|yeah.|S|Bed002
+fe004|uhhuh.|S|Bed002
+me010|okay.|S|Bed002
+me010|is|D|Bed002
+fe004|she started taking the class last year.|S|Bed002
+fe004|and then didn't um you know didn't continue.|S|Bed002
+fe004|i she's a|D|Bed002
+fe004|is she an|D|Bed002
+me010|she's graduated.|S|Bed002
+fe004|she is a graduate okay.|S|Bed002
+me010|yeah.|S|Bed002
+fe004|yeah i i know her very very briefly.|S|Bed002
+fe004|i know she was you know interested in aspect and stuff like that.|S|Bed002
+me010|okay.|S|Bed002
+me010|so anyway she's looking for some more part time work while she's waiting actually for graduate school.|S|Bed002
+me010|and she'll be in touch.|S|Bed002
+me010|so we may have someone uh to do this.|S|Bed002
+me010|and she's got you know some background in in all this stuff.|S|Bed002
+me010|and is a linguist|D|Bed002
+me010|and so|F|Bed002
+me010|so that's so nancy we'll have at some point we'll have another discussion on exactly you know how that's going to go.|S|Bed002
+fe004|uhhuh.|B|Bed002
+me010|and um jane but also uh liz have offered to help us do this uh data collection and design and stuff.|S|Bed002
+fe004|uhhuh.|B|Bed002
+fe004|huh.|B|Bed002
+me010|so when we get to that we'll have some people doing it that know what they're doing.|S|Bed002
+fe004|okay.|S|Bed002
+fe004|i guess the reason i was asking about the sort of the the details of this kind of thing is that um it's one thing to collect data for i don't know speech recognition or various other tasks that have pretty clear correct answers.|S|Bed002
+fe004|but with intention um obviously as you point out there's a lot of other factors.|S|Bed002
+fe004|and i'm not really sure um how how the question of how to make it a appropriate toy version of that um it's it's just hard.|S|Bed002
+fe004|so i mean obviously it's a|D|Bed002
+me003|yeah uh actually i guess that was my question.|S|Bed002
+me003|is the intention implicit in the scenario that's given?|Q|Bed002
+me003|like do the|D|Bed002
+fe004|it is if they have these tasks that they're supposed to|D|Bed002
+me003|yeah i just wasn't sure to what level of detail the task was.|S|Bed002
+fe004|to to give|D|Bed002
+fe004|yeah.|S|Bed002
+fe004|uh|D|Bed002
+mn015|uhhuh.|B|Bed002
+fe004|right.|S|Bed002
+mn015|no one is at the moment.|S|Bed002
+fe004|right.|B|Bed002
+me003|okay.|S|Bed002
+me010|so that's part of what we'll have to figure out.|S|Bed002
+fe004|right.|B|Bed002
+fe004|uhhuh.|B|Bed002
+me010|but uh|F|Bed002
+me010|the the problem that i was going to try to focus on today was let's suppose by magic you could collect dialogues in which one way or the other you were able to uh figure out both the intention.|S|Bed002
+me010|and set the context.|S|Bed002
+me010|and know what language was used.|S|Bed002
+me010|so let's suppose that we can get that kind of data.|S|Bed002
+me010|um|F|Bed002
+me010|the issue is can we find a way to basically featurize it?|Q|Bed002
+me010|so that we get some discrete number of features so that uh when we know the values to all those features or as many as possible we can come up with the best estimate of which of the in this case three little intentions are most likely.|S|Bed002
+fe004|what are the three intentions?|Q|Bed002
+fe004|is it to go there to see it and|D|Bed002
+mn015|to come as close as possible to it.|S|Bed002
+me010|the terminology we're using is to|D|Bed002
+fe004|yeah it's.|D|Bed002
+me010|go back.|S|Bed002
+me010|to|D|Bed002
+fe004|okay.|S|Bed002
+me010|to view it.|S|Bed002
+me010|okay.|S|Bed002
+me010|to enter it.|S|Bed002
+me010|now those it seems to me those are you you have no trouble with those being distinct.|S|Bed002
+me010|take a picture of it.|S|Bed002
+fe004|uhhuh.|B|Bed002
+me010|you you might well want to be a really rather different place than entering it.|S|Bed002
+fe004|uhhuh.|B|Bed002
+me010|and for an object that's at all big uh sort of getting to the nearest part of it uh could be quite different than either of those.|S|Bed002
+fe004|uhhuh.|B|Bed002
+fe004|uhhuh.|B|Bed002
+fe004|uhhuh.|B|Bed002
+me010|just sort of|D|Bed002
+fe004|okay so now i understand the referent of tango mode.|S|Bed002
+me003|see i would have thought it was more of a waltz.|S|Bed002
+fe004|i didn't get that before.|S|Bed002
+mn015|to waltz it?|Q|Bed002
+fe004|yeah like how close are you going to be?|S|Bed002
+me010|well|D|Bed002
+fe004|like tango's really close.|S|Bed002
+me003|yeah because a tango|D|Bed002
+me003|yeah.|S|Bed002
+me010|well anyway|F|Bed002
+me012|all these|D|Bed002
+me010|so|D|Bed002
+me012|so like the question is how what features can like do you want to try to extract from say the parse or whatever.|S|Bed002
+me010|right.|S|Bed002
+me012|like the presence of a word or the presence of a certain uh stem or certain construction or whatever|D|Bed002
+me010|right.|S|Bed002
+me010|is there a construction or the kind of object?|Q|Bed002
+me010|or uh anything else that's in the it's either in the in the the discourse itself or in the context.|S|Bed002
+me010|so if it turns out that whatever it is you want to know whether the person's uh a tourist or not okay that becomes a feature.|S|Bed002
+me010|now how you determine that is another issue.|S|Bed002
+me010|but for the current problem it would just be okay if you can be sure that it's a tourist versus a businessman versus a native or something uh that would give you a lot of discriminatory power.|S|Bed002
+me010|and then just have a little section in your belief net that said pppt.|S|Bed002
+me010|though in the short run you'd set them.|S|Bed002
+me012|uhhuh.|B|Bed002
+me010|and see how it worked.|S|Bed002
+me010|and then in the longer run you would figure out how you could derive them from previous discourse or anything else you knew.|S|Bed002
+me012|right.|D|Bed002
+me012|so how should what's the uh plan?|Q|Bed002
+me012|like how should we go about figuring out these|D|Bed002
+me010|okay so first of all is|D|Bed002
+me010|uh do either of you guys you got a favorite belief net that you've you know played with?|Q|Bed002
+me010|javabayes or something.|S|Bed002
+me012|oh.|S|Bed002
+me012|no not really.|S|Bed002
+me010|okay.|S|Bed002
+me010|well anyway get one.|S|Bed002
+me010|okay so so one of one of the things we want to do is actually uh pick a package.|S|Bed002
+me010|doesn't matter which one.|S|Bed002
+me010|uh presumably one that's got good interactive abilities.|S|Bed002
+me010|because a lot of what we're going to be|D|Bed002
+me010|you know we don't need the one that'll solve massive uh belief nets quickly.|S|Bed002
+me010|these are not going to get big in in the foreseeable future.|S|Bed002
+me010|but we do want one in which it's easy to interact with and uh modify.|S|Bed002
+me010|because that's a lot of what it's going to be is um playing with this.|S|Bed002
+me010|and probably one in which it's easy to have um what amounts to transcript files.|S|Bed002
+me010|so that if if we have all these cases|D|Bed002
+me010|okay.|S|Bed002
+me010|so we make up cases that have these features.|S|Bed002
+me010|okay and then you'd like to be able to say okay here's a bunch of cases|S|Bed002
+me010|there're even ones that you can do learning.|S|Bed002
+me010|okay so you have all their cases and and their results.|S|Bed002
+me010|and you have a algorithms to go through and run around trying to set the the probabilities for you.|S|Bed002
+me010|um|F|Bed002
+me010|probably that's not worth it.|S|Bed002
+me010|i mean my guess is we aren't going to have enough data that's good enough to make the these data fitting ones worth it.|S|Bed002
+me010|but i don't know.|S|Bed002
+me010|so i would say you the first task for you two guys is to um pick a package.|S|Bed002
+me010|okay and you want to it you know the standard things.|S|Bed002
+me010|you want it stable you want it|D|Bed002
+me010|yeah.|D|Bed002
+me010|and as soon as we have one we can start trying to uh make a first cut at what's going on.|S|Bed002
+mn015|nuh|D|Bed002
+me010|but it what i like about it is it's very concrete.|S|Bed002
+me010|okay we we have a we know what the outcomes are going to be.|S|Bed002
+me010|and we have some some data that's loose.|S|Bed002
+me010|we can use our own intuition.|S|Bed002
+me010|and see how hard it is.|S|Bed002
+me010|and importantly what intermediate nodes we think we need.|S|Bed002
+me010|so it if it turns out that just thinking about the problem you come up with things you really need to you know this is the kind of thing that is you know an intermediate little piece in your belief net that'd be really interesting.|S|Bed002
+me003|uhhuh.|B|Bed002
+mn015|and it and it may serve as a platform for a person maybe me or whoever who is interested in doing some linguistic analysis.|S|Bed002
+mn015|i mean we have the framenet group here.|S|Bed002
+mn015|and we can see what they have found out about those concepts already.|S|Bed002
+mn015|that are contained in the data.|S|Bed002
+mn015|um you know to come up with a nice little set of features.|S|Bed002
+mn015|and um maybe even means of uh extracting them.|S|Bed002
+mn015|and and that altogether could also be uh become a nice paper that's going to be published somewhere if we sit down and write it.|S|Bed002
+mn015|and um|F|Bed002
+mn015|when you said javabayes belief net you were talking about ones that run on coffee?|Q|Bed002
+mn015|or that are in the program language java?|Q|Bed002
+me010|no it turns out that there is a uh the new end of java libraries.|S|Bed002
+me010|okay and it turns out one called javabayes.|S|Bed002
+me010|which is one that fair people around here use a fair amount.|S|Bed002
+mn015|huh.|B|Bed002
+mn015|okay.|B|Bed002
+me010|i have no idea whether that's|D|Bed002
+me010|the obvious advantage of that is that you can then relatively easily get all the other java packages for guis or whatever else you might want to do.|S|Bed002
+mn015|uhhuh.|B|Bed002
+me010|so that that's i think why a lot of people doing research use that.|S|Bed002
+me010|but it may not be.|S|Bed002
+me010|i have no idea whether that's the best choice.|S|Bed002
+me010|and there're plenty of people around students in the department who you know live and breathe bayes-nets.|S|Bed002
+me010|so uh|F|Bed002
+fe004|there's the tool kit that um kevin murphy has developed.|S|Bed002
+me010|right.|S|Bed002
+me010|it's okay.|S|Bed002
+fe004|which might be useful too.|S|Bed002
+me012|right.|B|Bed002
+me010|so yeah kevin would be a good person to start with.|S|Bed002
+fe004|and it's available matlab code.|S|Bed002
+me010|nancy knows him well.|S|Bed002
+me010|i don't know i don't know whether you guys have met kevin yet or not.|S|Bed002
+mn015|uhhuh.|B|Bed002
+me010|but uh|F|Bed002
+me012|yeah i know him.|S|Bed002
+mn015|but|D|Bed002
+me010|yeah.|S|Bed002
+mn015|but since we all probably are pretty sure that um the|D|Bed002
+mn015|for example this the dialogue history is is um producing x.m.l. documents.|S|Bed002
+mn015|m. three l. of course is x.m.l.|S|Bed002
+mn015|and the ontology that um uh the student is is constructing for me back in in e.m.l. is in oil and that's also in x.m.l.|D|Bed002
+mn015|and so that's where a lot of knowledge about bakeries about hotels about castles and stuff is going to come from.|D|Bed002
+me010|uhhuh.|B|Bed002
+me010|yeah.|F|Bed002
+mn015|um so if it has that i.o. capability and if it's a java package it will definitely be able we can couple.|S|Bed002
+me010|yeah.|B|Bed002
+me010|so yeah we're sort of committed to x.m.l. as the kind of uh interchange.|S|Bed002
+me010|but that's you know not a big deal.|S|Bed002
+mn015|who isn't?|Q|Bed002
+mn015|nuh?|Q|Bed002
+me010|so in terms of of interchanging in and out of any module we build it'll be x.m.l.|S|Bed002
+me010|and if you're going off to queries to the ontology for example you'll have to deal with its interface.|S|Bed002
+me010|but that's that's fine.|S|Bed002
+me010|and um|F|Bed002
+me010|all of these things have been built with much bigger projects than this in mind.|S|Bed002
+me010|so they they have worked very hard.|S|Bed002
+me010|it's kind of blackboards and multi wave blackboards.|S|Bed002
+me010|and ways of interchanging and registering your|D|Bed002
+me010|and so forth.|S|Bed002
+me010|so|D|Bed002
+me010|that i don't think is even worth us worrying about just yet.|S|Bed002
+me010|i mean if we can get the core of the thing to work in a way that we're comfortable with then we we can get in and out of it with uh x.m.l. um little descriptors.|S|Bed002
+me010|i believe.|S|Bed002
+me010|i don't i don't see|D|Bed002
+mn015|huh.|B|Bed002
+mn015|yeah yeah i like for example the what you said about the getting input from from just files about where you where you have the data have specified the features and so forth.|S|Bed002
+mn015|that's of course easy also to do with you know x.m.l.|S|Bed002
+me010|uh you could have an x. yeah you could make and x.m.l. format for that sure.|S|Bed002
+mn015|so|D|Bed002
+me010|that that|D|Bed002
+me010|um|F|Bed002
+me010|you know feature value x.m.l. format is probably as good a way as any.|S|Bed002
+me010|so it's yeah i guess it's also worth um while you're poking around poke around for x.m.l. packages that um do things you'd like.|S|Bed002
+me012|doesn't does smartkom system have such packages?|Q|Bed002
+mn015|yeah.|S|Bed002
+me010|sure.|S|Bed002
+mn015|the the m. three l. library does that.|S|Bed002
+me010|and the question is you you you'll have to we'll have to|D|Bed002
+mn015|it's also|D|Bed002
+me010|that should be we should be able to look at that.|S|Bed002
+mn015|no.|S|Bed002
+mn015|the|D|Bed002
+mn015|what i what sort of came to my mind is was the notion of an idea that if if there are nets that can actually try to set their own um probability factors based on on on on input|D|Bed002
+me010|yeah.|B|Bed002
+mn015|which is in file format.|S|Bed002
+mn015|if we um get really wild on this we may actually want to use some some corpora that other people made.|S|Bed002
+mn015|and for example if if they are in in mate then we get x.m.l. documents with discourse annotations|D|Bed002
+me012|uhhuh.|D|Bed002
+mn015|you know from the discourse act down to the phonetic level.|S|Bed002
+mn015|um michael has a project where you know recognizing discourse acts.|S|Bed002
+mn015|and he does it all in mate.|S|Bed002
+mn015|and so they're actually annotating data and data and data.|S|Bed002
+mn015|so if we if we think it's worth it one of these days not not with this first prototype but maybe with a second and we have the possibility of of taking input that's generated elsewhere and learn from that that'd be nice.|S|Bed002
+me012|right.|B|Bed002
+me010|it'd be nice but but i i i i don't want to count on it.|S|Bed002
+me010|i mean you can't you can't run your project based on the speculation that that the data will come.|S|Bed002
+mn015|no no uh just for|D|Bed002
+me010|and you don't have to actually design the nets.|S|Bed002
+mn015|nuh|D|Bed002
+mn015|just a back door that i i think we should devote|D|Bed002
+me010|could happen.|S|Bed002
+me010|yeah so in terms of of the um the what the smartkom gives us for m. three l. packages it could be that they're fine or it could be eeh.|S|Bed002
+me010|you don't you know you don't really like it.|S|Bed002
+me010|so we're not we're not we're not required to use their packages.|S|Bed002
+me010|we are required at the end to give them stuff in their format.|D|Bed002
+me010|but hey.|S|Bed002
+me012|right.|B|Bed002
+me010|um|F|Bed002
+me010|it's uh|F|Bed002
+me010|it doesn't control what you do you know internally.|S|Bed002
+me003|what's the time frame for this?|Q|Bed002
+mn015|two days?|Q|Bed002
+me010|huh?|Q|Bed002
+mn015|two three days.|S|Bed002
+me010|yeah i'd like that this yeah this week to to to have guys uh you know pick the you know belief net package.|S|Bed002
+mn015|no.|D|Bed002
+me010|and tell us what it is and give us a pointer so we can play with it or something.|S|Bed002
+me012|sure.|S|Bed002
+me010|and then as soon as we have it i think we should start trying to populate it for this problem.|S|Bed002
+me010|make a first cut at you know what's going on.|S|Bed002
+me010|and probably the easiest way to do that is some online way.|S|Bed002
+me010|i mean you can figure out whether you want to make it a web site.|S|Bed002
+me010|or you know|D|Bed002
+mn015|uh i i i um okay i|D|Bed002
+mn015|yeah.|F|Bed002
+mn015|i was actually more joking with the two or three days.|S|Bed002
+me010|okay i wasn't.|S|Bed002
+mn015|so this was was a usual|D|Bed002
+mn015|um it will take as long as you guys need for that.|S|Bed002
+me010|yeah.|B|Bed002
+me010|right.|B|Bed002
+mn015|but um maybe it might be interesting if if the two of you can agree on who's going to be the speaker next monday to tell us something about the net you picked.|D|Bed002
+mn015|and what it does and how it does that.|S|Bed002
+me010|well well or both of them speak.|D|Bed002
+me012|sure.|D|Bed002
+me010|we don't care.|S|Bed002
+mn015|yeah or you can split it up.|S|Bed002
+mn015|so|D|Bed002
+me012|huh.|B|Bed002
+mn015|so that will be sort of the assignment for next week is to to for slides and whatever net you picked.|D|Bed002
+mn015|and what it can do and and how far you've gotten.|S|Bed002
+me010|well i'd like to also though uh have a first cut at what the belief net looks like.|S|Bed002
+me010|even if it's really crude.|S|Bed002
+me010|okay?|Q|Bed002
+me010|so you know here here are|D|Bed002
+me003|so we're supposed to about features and whatnot.|S|Bed002
+me003|and|F|Bed002
+me010|right yeah.|S|Bed002
+me012|uhhuh.|B|Bed002
+me010|and as i said what i'd like to do is|D|Bed002
+me010|i mean what would be really great is you bring it in if if if we could uh in the meeting say you know here's the package.|S|Bed002
+me010|here's the current one we have.|S|Bed002
+me010|uh you know what other ideas do you have.|S|Bed002
+me010|and then we can think about this idea of making up the data file.|S|Bed002
+me010|of|D|Bed002
+me010|uh you know get a a tentative format for it.|S|Bed002
+me010|let's say x.m.l. that says you know these are the various scenarios we've experienced.|S|Bed002
+me010|we can just add to that.|D|Bed002
+me010|and there'll be this this file of them.|D|Bed002
+me010|and when you think you've got a better belief net you just run it against this um this data file.|S|Bed002
+me012|so we'll be like hand uh doing all the probabilities.|S|Bed002
+me012|okay.|D|Bed002
+me010|oh yeah until we know more.|S|Bed002
+me003|and what's the relation to this with changing the table so that the system works in english?|Q|Bed002
+mn015|okay.|F|Bed002
+mn015|so this is while you were doing this i received two lovely emails.|S|Bed002
+mn015|the the full n.t. and the full linux version are there.|S|Bed002
+mn015|i've downloaded them both.|S|Bed002
+mn015|and i started to unpack the linux one.|S|Bed002
+mn015|uh the n.t. one worked fine.|S|Bed002
+mn015|and i started pack the linux one.|S|Bed002
+mn015|it told me that i can't really unpack it.|S|Bed002
+mn015|because it contains a future date.|S|Bed002
+mn015|so this is the time difference between germany.|S|Bed002
+mn015|i had to wait until one o'clock this afternoon before i was able to unpack it.|S|Bed002
+mn015|now um then it will be my job to get this whole thing running both on swede and on this machine.|S|Bed002
+mn015|and so that we have it.|S|Bed002
+mn015|and then um hopefully that hoping that my urgent message will now come through to ralph and tilman that it will send some more documentation along|D|Bed002
+mn015|we i control|D|Bed002
+mn015|maybe that's what i will do next monday.|S|Bed002
+mn015|is show the state and show the system and show that.|S|Bed002
+me010|yeah.|D|Bed002
+me010|yeah so the answer johno is that these are at the moment separate.|S|Bed002
+me010|uh what one hopes is that when we understand how the analyzer works we can both worry about converting it to english and worry about how it could extract the parameters we need for the belief net.|S|Bed002
+me003|i guess my question was more about time frame.|S|Bed002
+me003|so we're going to do belief nets this week.|S|Bed002
+me003|and then|D|Bed002
+me010|oh yeah i don't know.|S|Bed002
+me010|none of this is neither of these projects has got a real tight timeline.|S|Bed002
+me010|in the sense that over the next month there's a there's a deliverable.|S|Bed002
+me003|okay.|B|Bed002
+me010|okay.|S|Bed002
+me010|so uh it's in that sense it's opportunistic.|S|Bed002
+me010|if if you know if we don't get any information for these guys for several weeks then we aren't going to sit around you know wasting time trying to do the problem or guess what they|D|Bed002
+me010|you know just pppt.|S|Bed002
+me010|go on and do other things.|S|Bed002
+me003|okay.|B|Bed002
+mn015|yeah but uh but the uh this point is really i think very very valid that ultimately we hope that that both will merge into a harmonious and um wonderful um state.|S|Bed002
+mn015|where we can not only do the bare necessities i.e. changing the table so it does exactly in english what it does in german but also that we can sort of have the system where we can say okay this is what it usually does.|S|Bed002
+mn015|and now we add this little thing to it.|S|Bed002
+mn015|you know.|S|Bed002
+mn015|whatever|D|Bed002
+mn015|johno's and bhaskara's great belief net.|S|Bed002
+mn015|and we plug it in.|S|Bed002
+mn015|and then for these certain tasks|D|Bed002
+mn015|and we know that navigational tasks are going to be a core domain of the new system.|S|Bed002
+mn015|it all all of a sudden it does much better.|S|Bed002
+mn015|nuh?|Q|Bed002
+mn015|because it can produce better answers.|S|Bed002
+mn015|tell the person as i showed you on this map.|S|Bed002
+mn015|you know produce either you know a red line that goes to the vista point.|S|Bed002
+mn015|or a red line that goes to the tango point.|S|Bed002
+mn015|or red line that goes to the door.|S|Bed002
+mn015|which would be great.|S|Bed002
+mn015|so not only can you show that you know something sensible but ultimately if you produce a system like this it takes the person where it wants to go.|S|Bed002
+mn015|rather than taking him always to the geometric center of a building.|S|Bed002
+me012|huh.|B|Bed002
+mn015|which is what they do now.|S|Bed002
+mn015|and we even had to take out a bit.|S|Bed002
+mn015|nancy you missed that part.|S|Bed002
+mn015|we had to take out a bit of the road work.|S|Bed002
+mn015|so that it doesn't take you to the wall every time.|S|Bed002
+fe004|oh really?|Q|Bed002
+mn015|so um|F|Bed002
+mn015|so this was actually an actual problem that we encountered.|S|Bed002
+mn015|which nobody have has|D|Bed002
+mn015|because car navigation systems don't really care.|S|Bed002
+mn015|you know they get you to the beginning of the street.|S|Bed002
+mn015|some now do the house number.|S|Bed002
+fe004|huh.|B|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|but even that is problematic.|S|Bed002
+mn015|if you go if you want to drive to the s.a.p. in waldorf|D|Bed002
+mn015|i'm sure the same is true of microsoft.|S|Bed002
+mn015|it takes you to the the address.|S|Bed002
+mn015|whatever street number blah blah blah|D|Bed002
+mn015|you are miles away from the entrance.|S|Bed002
+me010|yep.|B|Bed002
+mn015|because the postal address is maybe a mailbox somewhere.|S|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|nuh?|Q|Bed002
+mn015|but the entrance where you actually want to go is somewhere completely different.|S|Bed002
+mn015|so unless you're a mail person you really don't want to go there.|S|Bed002
+fe004|right yeah.|B|Bed002
+me010|probably not then.|S|Bed002
+me010|because you probably can't drop the mail there anyway.|S|Bed002
+mn015|probably neither not even that.|S|Bed002
+me010|yeah.|S|Bed002
+me010|clear?|Q|Bed002
+me012|okay sounds good.|S|Bed002
+me003|the powder tower is made of red limestone.|S|Bed002
+fe004|i was wondering.|S|Bed002
+fe004|okay.|S|Bed002
+mn015|do you want to see a picture?|Q|Bed002
+fe004|sure.|S|Bed002
+me003|sure.|S|Bed002
+mn015|have to reboot for that though.|S|Bed002
+fe004|um|D|Bed002
+fe004|so you two who'll be working on this are are you will you be doing well i mean are you supposed to just do it by thinking about the situation?|Q|Bed002
+fe004|can you use the sample data?|Q|Bed002
+fe004|is it like|D|Bed002
+me010|of course they use the sample data.|S|Bed002
+fe004|yeah i mean is there more than|D|Bed002
+fe004|is there a lot of sample data that is beyond what you what you have there?|Q|Bed002
+mn015|there there's more than i showed.|S|Bed002
+mn015|but um um i think this is sort of um in part my job to look at that.|S|Bed002
+mn015|and and to see whether there are features in there that can be extracted.|S|Bed002
+fe004|yeah.|B|Bed002
+mn015|and to come up with some features that are not you know empirically based on on a real experiment or on on on reality.|S|Bed002
+fe004|right.|B|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|but sort of on your intuition of you know aha.|S|Bed002
+me012|uhhuh.|B|Bed002
+fe004|uhhuh.|B|Bed002
+mn015|this is maybe a sign for that.|S|Bed002
+mn015|and this is maybe a sign for this.|S|Bed002
+fe004|uhhuh.|B|Bed002
+me003|uhhuh.|B|Bed002
+me012|so yeah later this week we should sort of get together and sort of start thinking about that hopefully.|S|Bed002
+mn015|talk features.|S|Bed002
+mn015|yep.|S|Bed002
+me010|okay we can end the meeting.|S|Bed002
+me010|and call adam.|S|Bed002
+me010|and then we want to look at some filthy pictures of heidelberg.|S|Bed002
+me010|we can do that as well.|S|Bed002
+me010|uh is that okay?|Q|Bed002
+mn015|well they had they used the ammunition they stored the ammunition in that tower.|S|Bed002
+me010|all right.|S|Bed002
+mn015|and that's why when it was hit by uh a cannon ball it exploded.|S|Bed002
+me003|it exploded.|S|Bed002
+me010|oh.|B|Bed002
+me003|that's why they call it the powder tower.|S|Bed002
+mn015|ahh.|S|Bed002
+me003|okay.|S|Bed002
+me003|i first thought it had something to do with the material.|S|Bed002
+me003|that it that's why i asked.|S|Bed002
+fe004|that's right okay.|S|Bed002
+mn015|huh.|D|Bed002

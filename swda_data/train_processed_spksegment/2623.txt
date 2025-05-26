@@ -1,0 +1,264 @@
+A|Okay|fo_o_fw_"_by_bc|2623|0
+A|I'll let you go ahead|ad|2623|0
+B|Okay.|aa|2623|1
+B|I, uh, I have five children all together.|sd|2623|1
+A|Oh, uh-huh.|b|2623|0
+B|Uh, my oldest two are already out and about in the world|sd|2623|1
+B|and I, uh, have a set of twins that are fourteen|sd|2623|1
+A|Oh.|b|2623|0
+B|and, uh, my youngest is twelve.|sd|2623|1
+A|That's great.|ba|2623|0
+A|I always thought it'd be great to have twins.|sd|2623|0
+B|Uh, yeah.|b|2623|1
+B|If you like doing everything twice|sv|2623|1
+A|Well, yeah|b|2623|0
+B|Uh, at any rate, um, my first two children, uh, I didn't spend a whole lot of time with them.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|Um, and, you know, was a, a problem with having five children needing to work a, uh, a full-time job that, was more than a full-time job.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|I, worked about fifty-one hours a week, because I worked every, worked eleven hours every Sunday.|sd|2623|1
+A|Uh-huh.|b|2623|0
+A|Uh-huh.|b|2623|0
+B|And, uh, so I didn't get to spend as much time with them as I, as I should have, as I really wanted to.|sd|2623|1
+A|Your first ones you mean, it, was this way?|qy|2623|0
+B|Yeah.|ny|2623|1
+B|The,|%|2623|1
+B|yeah,|ny|2623|1
+B|the|%|2623|1
+B|well, it was with all of them,|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|but it was, uh, more an impact, I think, on the oldest two.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|Because, um, oh, about the time I got out of working that long hours was when the, uh, when the twins were about three years old.|sd|2623|1
+B|And, uh, they never, you know, I don't think they noticed I wasn't around that much.|sd|2623|1
+A|Oh.|b|2623|0
+B|You know, with all the children around the house, it's, kind of hard to notice that Dad isn't around, very much.|sd|2623|1
+A|Right.|b|2623|0
+B|Um, so, what I've tried to do, uh, now that I've, uh,|sd|2623|1
+B|went back to school and got my degree when I was thirty years old.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|And, uh, so, then I came out and was making as much money forty hours a week as I did fifty-one hours, a week.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|So, I've tried to spend more time with, uh, the children since then.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|Um, what I'm currently doing is, uh, taking a lot of time.|sd|2623|1
+B|I'm helping the kids more with their homework in the evenings.|sd|2623|1
+B|Um, we just started a thing where every other week we go to, uh, movies.|sd|2623|1
+B|There's a movie theater that offers dollar movies on Wednesday nights.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|And so, every couple of weeks we will go to the movies because that's how often they change the, movies.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|And, it's working out pretty well.|sd|2623|1
+B|Um, we're spending more time together.|sd|2623|1
+B|I feel like I'm a lot closer to the three that are still living at home than I ever was to the two that were living there before.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|Um, in fact, I found that I'm a lot closer with, uh,|sd|2623|1
+B|I have one son who's gone|sd|2623|1
+B|and I don't even know where he's at.|sd|2623|1
+A|Huh.|b|2623|0
+B|Um, he's taken off for parts unknown,|sd|2623|1
+A|That's difficult.|ba|2623|0
+B|but, uh, yeah.|aa|2623|1
+A|Yeah.|b|2623|0
+B|and, uh, my daughter is, um, has moved out of the house.|sd|2623|1
+B|Her and I get along a lot better now that she's moved out of the house|sd|2623|1
+A|Uh-huh|b|2623|0
+A|It happens that way|sd|2623|0
+B|And uh, so it's, it's, it's, it's been difficult to try to find the time,|sd|2623|1
+B|and I think it's important that we do, because, uh, I notice that, uh, when I had spent two years down in Dallas, down there they all have a, uh, a me kind of attitude.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|And I noticed parents not spending time with their, children and, and going out and doing things.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|And, you know, I knew like the kids next door were all into cocaine|sd|2623|1
+B|and, you know, it just, you know,|%|2623|1
+A|Um, uh-huh.|b|2623|0
+B|I saw the family falling apart down, there.|sd|2623|1
+A|Texas is, much worst for the drugs.|sv|2623|0
+A|I mean, it was bad enough every place else,|sv|2623|0
+A|but drugs is, in Texas, are extremely bad.|sd|2623|0
+B|Yeah.|b|2623|1
+B|And so, I think it's kind of important that I, that I, you know, nurture the relationship I have with my children now.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|And I'm doing my best to keep that up.|sd|2623|1
+A|Uh-huh.|b|2623|0
+A|Well, that's all you can do.|sd|2623|0
+B|Yeah.|b|2623|1
+B|What's your, been your experience?|qw|2623|1
+A|Well, I, I was going to ask, too, does your wife work?|qy|2623|0
+B|Um, she didn't up until the last, oh, six months.|na|2623|1
+A|Uh-huh.|b|2623|0
+B|Um.|%|2623|1
+A|She just recently started working then.|qy^d|2623|0
+B|She just recently, started working.|na|2623|1
+A|Uh-huh.|b|2623|0
+B|Uh, she worked a job until we moved to our new house|sd|2623|1
+B|and, uh, she quit that job because it was too inconvenient.|sd|2623|1
+B|And, uh, she starts a new job tomorrow, which should take her out of the house about four days a week.|sd|2623|1
+A|Uh-huh.|b|2623|0
+A|Oh, uh-huh.|b|2623|0
+A|Uh-huh.|b|2623|0
+A|So, that sounds great.|ba|2623|0
+A|Well, uh, we also have five children.|sd|2623|0
+B|Huh.|b|2623|1
+A|And, but ours are all out of the nest|sd|2623|0
+A|So, uh, as, when they were growing up, I, probably we had a lot of similar things like you had, you know, having the time.|sd|2623|0
+A|When you have younger ones to take care of, you maybe sometimes do not take as much time for the older ones.|sv|2623|0
+B|Yeah.|b|2623|1
+A|But, uh, we were, we're very active, of course, at church, and, uh, Boy Scouting, and Girl Scouts, Four H, uh,|sd|2623|0
+A|and those activities helped a lot in, giving us things to do with the children.|sd|2623|0
+B|Uh-huh.|b|2623|1
+A|And uh, we try to take a vacation with them every year, camping of some sort, something that wasn't expensive.|sd|2623|0
+A|And, uh, our youngest is, uh, expecting her first baby.|sd|2623|0
+A|So, they're, they're all out and on their own.|sd|2623|0
+A|They're,|%|2623|0
+A|and we have one to get married yet|sd|2623|0
+A|And they'll all be married.|sd|2623|0
+A|Uh, and they're, they're all doing pretty good.|sd|2623|0
+A|They, uh,|%|2623|0
+A|T lives in Pittsburgh, you probably don't know where that is.|qy^d|2623|0
+B|Certainly do.|na|2623|1
+A|Okay.|bk|2623|0
+A|Two of our children live there.|sd|2623|0
+A|Uh, one, I, like I said, lives near in, in around Maryland, D C.|sd|2623|0
+A|He works right on the border of D C.|sd|2623|0
+B|Uh-huh.|b|2623|1
+A|And one lives in Connecticut skips on Speaker A's|sd|2623|0
+A|and our baby lives just a mile over the hill so, we'll get to see her a little more than, uh, what we do the other ones.|sd|2623|0
+B|Yeah.|b|2623|1
+B|That sounds great.|ba|2623|1
+B|I've, I've noticed, uh, another thing, um, when I was younger my father was always working.|sd|2623|1
+A|Uh-huh.|b|2623|0
+A|Well, they have to.|sd|2623|0
+B|And,|%|2623|1
+B|Yeah.|b|2623|1
+A|Yeah.|b|2623|0
+B|And, uh, you know, he, uh, he worked a full-time job and a part-time job,|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|and I never saw him.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|So, I didn't have much of a role model to go by. You, know, to learn how to be a, a father and, a parent, and that kind of thing, because, I, I can't ever remember playing ball with my dad or, catch with my dad, or doing anything with my dad.|sd|2623|1
+A|To go, to follow.|^2|2623|0
+A|Uh-huh.|b|2623|0
+A|Uh-huh.|b|2623|0
+A|Yeah.|b|2623|0
+A|Uh-huh.|b|2623|0
+A|And that does make a big difference.|sv|2623|0
+B|Yeah.|aa|2623|1
+B|And it,|%|2623|1
+B|if you don't have,|%|2623|1
+B|I don't,|%|2623|1
+B|I,|%|2623|1
+B|it's my feeling that if you don't have a role model to follow then it's kind of tough.|sv|2623|1
+A|Uh-huh.|b|2623|0
+A|Uh-huh.|b|2623|0
+B|You know, everybody's not FATHER KNOWS BEST.|sv|2623|1
+A|Uh-huh.|b|2623|0
+B|Yeah,|b|2623|1
+A|That's, that's,|%|2623|0
+B|but,|%|2623|1
+A|well none of us are.|sv|2623|0
+A|Let's face it, you know, we're not none of us like they portray it on those shows.|sv|2623|0
+B|Yeah.|b|2623|1
+A|I mean, life's much more difficult than that.|sv|2623|0
+B|Yeah.|b|2623|1
+B|Yeah.|b|2623|1
+B|I, mean, the, the, the capability to, uh, create children doesn't necessarily mean you have the, uh, the mental capacity to raise them|sv|2623|1
+A|And, uh,|%|2623|0
+A|Right.|b|2623|0
+A|Right.|b|2623|0
+B|And,|%|2623|1
+A|Now, our daughter, our, well, she's our second oldest, she has, she's the only that, other one that has children.|sd|2623|0
+A|She has two boys.|sd|2623|0
+A|And, she works full time|sd|2623|0
+A|and I have mixed feelings about that.|sd|2623|0
+A|She's able to do that|sd|2623|0
+A|and I don't know if she'd be happy to stay at home.|sd|2623|0
+A|But, yet, on the other hand, I, I've got the mixed feelings that I think you should be at home with your children.|sd|2623|0
+A|I'm kind of old fashioned, I guess, that way.|sd|2623|0
+B|Yes.|b|2623|1
+A|But they seem to, they seem to give, uh, quality time to those children when they are together.|sd|2623|0
+A|And, and so, it seems, it seems for them that it works out all right.|sd|2623|0
+A|So, I don't know.|h|2623|0
+A|I, I don't think I ever would have had what it would take to work full time and raise a family.|sd|2623|0
+B|Yes.|b|2623|1
+B|It's, it's not easy.|sv|2623|1
+A|Yeah.|b|2623|0
+B|I've, uh, you know, I've helped out extremely, uh,|sd|2623|1
+B|well, I can't say that,|sd|2623|1
+B|but I've helped out as best I could at home.|sd|2623|1
+A|Uh-huh.|b|2623|0
+A|Uh-huh.|b|2623|0
+B|And, uh, as you know, with five children it takes a lot of work.|sv|2623|1
+A|Yes.|aa|2623|0
+A|It does, it, it,|sd|2623|0
+B|Even, if, even if someone's home all the time, there's still a lot of things that have to be done.|sv|2623|1
+A|yeah.|%|2623|0
+A|Yeah.|b|2623|0
+A|What line of work are you in now since you went to school okay.|qw|2623|0
+B|Uh, well, now I work for Texas Instruments.|sd|2623|1
+B|So, so, I'm in computers.|sd|2623|1
+A|Okay.|bk|2623|0
+A|A lot of the people I've, that's I've talked to work for, uh, for the same.|sd|2623|0
+B|Yeah.|b|2623|1
+A|Uh.|%|2623|0
+B|And so, I've, uh,|%|2623|1
+B|prior to that I, uh, I worked in a food store.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|And, uh, you know,|%|2623|1
+A|Which your income would be a lot better, now.|qy^d|2623|0
+A|Yeah.|b|2623|0
+B|Yeah.|b|2623|1
+B|It, uh, it was, uh, it was a, a smart move to make.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|Um, I was more intelligent than the position I was holding.|sd|2623|1
+A|Uh-huh.|b|2623|0
+A|Right.|b|2623|0
+B|And, uh, it was,|%|2623|1
+A|And it's, kind of a waste of a person.|sv|2623|0
+B|Yes.|aa|2623|1
+B|I, I, felt that it certainly was,|sd|2623|1
+A|You know.|fo_o_fw_"_by_bc|2623|0
+B|I mean, I was smarter than most of the people that I was working for.|sd|2623|1
+A|Uh-huh.|b|2623|0
+A|Uh-huh.|b|2623|0
+B|And, uh, you know, every time something new came up, I was explaining it to them.|sd|2623|1
+A|Uh-huh.|b|2623|0
+B|And, uh, I, had,|%|2623|1
+A|Uh-huh.|b|2623|0
+A|And you, you recognized this and, was able to, you know, do something about it.|qy^d|2623|0
+B|No|fo_o_fw_"_by_bc|2623|1
+B|Yeah.|ny|2623|1
+B|I, uh,|%|2623|1
+B|Yeah.|ny|2623|1
+B|I, uh, started back to school.|sd|2623|1
+B|In fact, I was going to school while I was working fifty-one hours a week|sd|2623|1
+B|and that's why I,|%|2623|1
+B|you know if you're working, if you're taking twelve credits at night and you're working fifty-one hours a week, there's not much time left to spend with,|sv|2623|1
+A|Uh-huh.|b|2623|0
+A|Well, it puts a strain on everybody, your wife and your family.|sv|2623|0
+B|Yeah|b|2623|1
+A|And, the only thing you can remember is to try and stay together as much as you can, because it's very easy to, uh, become, go your own direction when you're when you're working so hard and going to school, too.|sv|2623|0
+B|Yeah|b|2623|1
+B|Yeah.|b|2623|1
+B|Well, it, it all paid off.|sd|2623|1
+A|Well, that's wonderful.|ba|2623|0
+B|So, uh, you know, I got my degree and got the better paying job,|sd|2623|1
+B|and and, uh, you know, we, I think as a family we're a lot better off.|sd|2623|1
+A|Uh-huh .|b|2623|0
+A|Uh-huh.|b|2623|0
+A|It sounds to me like, uh, you're doing well.|sd|2623|0
+A|My husband's retired,|sd|2623|0
+A|so, uh, he's been retired for three years now.|sd|2623|0
+B|Uh-huh.|b|2623|1
+A|Yeah.|b|2623|0
+A|That's quite a change.|sv|2623|0
+B|Yeah,|b|2623|1
+B|well, my goal is to try to retire by the time I'm fifty-five.|sd|2623|1
+A|Oh, well, he made it at fifty|sd|2623|0
+B|Great.|ba|2623|1
+A|It was a magic number for him|sd|2623|0
+A|and, and, uh, he went at fifty,|sd|2623|0
+A|and he still works part time at other thing, you know, same job as he was doing, only he's retired and doing it independently.|sd|2623|0
+B|Uh-huh.|b|2623|1
+A|But, uh, nevertheless retired.|sd|2623|0
+B|Well, I'm|%|2623|1

@@ -1,0 +1,196 @@
+B|What kind of a car do you drive now?|qw|2548
+A|I drive a Honda Prelude.|sd|2548
+B|Do you?|bh|2548
+B|I drive a Honda Accord.|sd|2548
+A|Oh, yeah|b|2548
+B|Yeah|b|2548
+A|I bought mine a year ago|sd|2548
+A|so I'm not buying a car any time soon.|sd|2548
+B|Yeah,|aa|2548
+B|me either.|sd|2548
+B|I just bought mine, uh,|sd|2548
+B|it will be a year in August.|sd|2548
+A|Yeah.|b|2548
+B|I love it though.|sd|2548
+B|I love Hondas.|sd|2548
+A|Yeah.|b|2548
+A|It,|%|2548
+B|I think I found my car.|sd|2548
+A|Well, I, I like where all the controls are they're, they're in good spots|sd|2548
+B|Right.|b|2548
+B|Oh, really,|bh|2548
+A|Yeah.|ny|2548
+B|I have a standard.|sd|2548
+A|But, um,|%|2548
+A|I,|%|2548
+A|it's, an it's supposedly real reliable|sd|2548
+A|the only thing I've ever heard about Hondas is that the breaks go out first.|sd|2548
+B|Oh, really?|bh|2548
+A|Yeah.|ny|2548
+B|I hadn't heard that.|sd|2548
+A|Yeah.|b|2548
+B|What did you have before you bought that.|qw|2548
+A|I had a Buick Regal.|sd|2548
+B|Did you?|bh|2548
+A|Yeah.|ny|2548
+B|I had, uh, a Mazda R X Seven before that|sd|2548
+B|and that was the worse car I've ever driven in my life.|sd|2548
+A|The Buick was, was great.|sd|2548
+A|It was nine years old|sd|2548
+A|and it, was still going strong.|sd|2548
+B|Really?|bh|2548
+A|The only problems I had with it in the nine years that I owned it, I had to replace the compressor when it was about seven years old.|sd|2548
+B|Really?|bh|2548
+A|And that was the only major problem that I had, I mean,|sd|2548
+A|I had like little piddly things like I had to replace the muffler|sd|2548
+B|Yeah.|b|2548
+A|and I had replaced the tires|sd|2548
+A|and, uh, seems like it had a radiator leak once.|sd|2548
+A|But I never had any major anything, other than the compressor.|sd|2548
+B|Right.|b|2548
+B|I really never had anything major with my Mazda|sd|2548
+B|but it was a standard also|sd|2548
+B|and the clutch went out on it toward the end,|sd|2548
+B|I had it five years|sd|2548
+B|and the last year, last two years it seemed to go out really easily.|sd|2548
+B|I think it went out twice in two years|sd|2548
+B|and that's, that's a lot|sv|2548
+B|it shouldn't go out that much.|sv|2548
+A|Huh-uh.|aa|2548
+B|And so I went ahead and bought another standard when I bought the Honda|sd|2548
+B|but I don't think I'm going to do that again.|sd|2548
+B|I think I'm going back to automatic now.|sd|2548
+A|Well, I never, well,|sd|2548
+A|I kind of know how to drive standard|sd|2548
+A|but I've never owned one|sd|2548
+A|so I hadn't, I don't drive one a lot.|sd|2548
+B|Right.|b|2548
+A|So, I don't feel comfortable in traffic with it.|sd|2548
+B|Right.|b|2548
+A|And for everything I've heard it's a lot easier to sell an automatic.|sd|2548
+B|Yeah,|aa|2548
+B|it is.|aa|2548
+A|And, and resale value is really important to me|sd|2548
+B|That's true.|aa|2548
+B|Yeah,|aa|2548
+B|it is me too|sd|2548
+B|that's why I got the Honda.|sd|2548
+A|Yeah.|b|2548
+B|Hondas have great resale value.|sd|2548
+A|Yeah.|b|2548
+B|The Mazda definitely did not|sd|2548
+B|Not at all.|sd|2548
+B|They're worse than American cars I think or just as bad as far as resale goes.|sd|2548
+A|I did pretty well with my, uh, Regal because it was in really good shape|sd|2548
+A|but, it still looked real nice,|sd|2548
+B|Yeah.|b|2548
+A|the, the interior was still really nice,|sd|2548
+A|there wasn't cracks all over the dash board and stuff.|sd|2548
+B|Right.|b|2548
+A|And it had some, some nice features.|sd|2548
+A|So I ended up okay with the Buick,|sd|2548
+B|Good.|ba|2548
+A|and I anticipate the same thing with the Honda whenever I decide to sell it,|sd|2548
+A|of course, I may never sell it|sd|2548
+B|Right.|b|2548
+A|I may drive it until it's dead|sd|2548
+A|but,|%|2548
+B|Yeah.|b|2548
+B|That's what I did with the Mazda, drive it until the, until the clutch went out and the wheels fell off,|sd|2548
+A|Yeah.|b|2548
+B|so, probably what I'll do again.|sd|2548
+A|Yeah.|b|2548
+B|But I really like the Hondas.|sd|2548
+B|I like foreign cars a lot.|sd|2548
+A|Uh-huh.|b|2548
+A|Well,|%|2548
+B|I looked at the Mitsubishi Galant.|sd|2548
+B|I was looking for a four door car having driven the R X Seven so long,|sd|2548
+A|Uh-huh.|b|2548
+B|and it was so small|sd|2548
+B|and it's really impractical.|sd|2548
+B|So, I wanted something with a real trunk, and four doors something easy to get in and out of|sd|2548
+B|and I looked at the Galant|sd|2548
+B|and those were really nice|sd|2548
+B|and I can get them for a great price.|sd|2548
+A|Yeah.|b|2548
+B|But I found it hard to deal with the, the dealership I was going through.|sd|2548
+A|Oh.|b|2548
+B|So, that's how I ended up with a Honda.|sd|2548
+A|I wasn't even looking for a car when I bought this car.|sd|2548
+A|I, uh, I was thinking about buying a Prelude from a friend who was moving to New York or something|sd|2548
+A|so and she was going to sell her car because she didn't need it anymore|sd|2548
+A|and it was only like a year old|sd|2548
+A|and I had never driven, uh, a Prelude.|sd|2548
+A|So, I went to a dealership because they had like, uh, the same year and same model, of Prelude on their used car lot|sd|2548
+B|Right.|b|2548
+A|and I went and I test drove it|sd|2548
+A|and, you know, I just fell in love, with this brand new white Prelude, uh, you know, two liter S I with the sun roof and the moon roof|sd|2548
+B|Oh, yeah.|b|2548
+B|They're nice I think.|sv|2548
+A|and I, bought it loaded.|sd|2548
+B|Oh, yeah.|b|2548
+B|Oh, yeah.|aa|2548
+B|I have to have them loaded,|sd|2548
+A|Oh,|%|2548
+B|um, I love all those little things that you don't need|sd|2548
+B|but they're so wonderful.|sv|2548
+A|Yeah.|aa|2548
+A|I went there looking at a used car|sd|2548
+A|and two days later I bought this car.|sd|2548
+A|I felt like, I felt like that was the worst impulse, that was, that was largest impulse that I, that I had ever made.|sd|2548
+A|The the two, other things that I bought on impulse are a V C R and a washer and dryer.|sd|2548
+B|I understand.|ba|2548
+A|I go for the big stuff.|sd|2548
+B|Yeah.|b|2548
+B|I noticed|sd|2548
+B|Mine was definitely not impulse|sd|2548
+B|I really needed a new car.|sd|2548
+B|Mine was just, it was getting worn out I guess from being a sports car.|sd|2548
+B|I drove it kind of hard,|sd|2548
+A|Oh.|b|2548
+B|and I got it right after high school.|sd|2548
+B|So, by the time I traded it in it was ready.|sd|2548
+A|Yeah.|aa|2548
+A|I got, I got my Buick as a high school graduation gift.|sd|2548
+B|Did you?|bh|2548
+A|Yeah.|ny|2548
+A|But I, I guess this wasn't really an impulse, I mean,|sd|2548
+A|buying it right then and, you know, right quickly was kind of impulsive|sd|2548
+A|but I'd been thinking about buying a new car for about three years|sd|2548
+A|and I was just scared to.|sd|2548
+B|Right.|b|2548
+A|I was scared to start taking on payments because the Buick was long since paid for.|sd|2548
+B|Right.|aa|2548
+B|That's the same with me.|sd|2548
+B|Would you ever buy a used car for a new car for yourself?|qy|2548
+A|Buy a, you, buy a used car?|br|2548
+B|Like,|%|2548
+B|Right.|aa|2548
+A|Sure.|na|2548
+B|I, I was going to buy one once|sd|2548
+B|but I just, I worry about who's driven them and what they've been through and the warranties and things like that.|sd|2548
+A|Yeah.|b|2548
+B|Just, I can't seem to get over that.|sd|2548
+B|That just bothers me|sd|2548
+B|I don't know why.|sd|2548
+A|Well, um, like on Hondas they,|sd|2548
+A|supposedly, the maintenance records was supposed to be registered with Honda or whatever|sd|2548
+A|and you can request whatever maintenance records exist on cars|sd|2548
+A|and you can have them checked out by mechanics and stuff.|sd|2548
+B|Yeah,|aa|2548
+B|that's true.|aa|2548
+A|I mean they can't stop you from doing it.|sd|2548
+B|Hoping that they do go to a Honda dealership to get them serviced.|bf|2548
+A|Yeah.|aa|2548
+B|Yeah.|b|2548
+A|Well, and even if they didn't, you can still get a good idea from a, if you can get a good mechanic to, check it over real carefully and check the block and everything.|sv|2548
+B|Yeah.|b|2548
+B|That's true.|aa|2548
+A|So.|%|2548
+B|Well, I guess that's all.|sd|2548
+A|Okay.|aa|2548
+A|Well, I enjoyed talking to you.|fc|2548
+B|I enjoyed talking to you.|fc|2548
+A|Bye-bye.|fc|2548
+B|Bye-bye.|fc|2548

@@ -1,0 +1,196 @@
+A|Hello.|fp|3735
+B|Hi.|fp|3735
+A|Okay,|b|3735
+A|I pressed one|sd|3735
+A|so I guess we're recording now.|sd|3735
+B|Okay.|b|3735
+A|Okay, um.|b^m|3735
+B|Um, as far as spare time, they talked about,|sd|3735
+B|I don't, I think,|%|3735
+B|who has any spare time|qh|3735
+B|I've got a, a six year old and a, um,|sd|3735
+B|well, my baby's one today.|sd|3735
+A|Um.|b|3735
+B|Today's his birthday.|sd|3735
+A|Um.|b|3735
+B|And I'm also, I'm expecting,|sd|3735
+B|and, so, I, I don't know,|h|3735
+B|I haven't had much spare time lately|sd|3735
+B|but,|%|3735
+A|Okay,|b|3735
+A|well, I've, I have had some because I was working for P I E,|sd|3735
+A|and they went bankrupt|sd|3735
+A|so I've got quite a bit of spare time right now.|sd|3735
+B|Oh, uh-huh.|b|3735
+A|And I've been making dolls, cloth dolls.|sd|3735
+B|Oh, have you?|bh|3735
+A|Uh-huh.|ny|3735
+B|Oh.|bk|3735
+A|And, uh,|%|3735
+B|You sew the bodies and everything?|qy|3735
+A|Yeah,|ny|3735
+A|it's a, they're all cloth.|sd|3735
+A|It's not, uh, any porcelain at all.|sd|3735
+B|So, so you just sew everything up, huh?|qy|3735
+A|Yeah|ny|3735
+B|Oh.|bk|3735
+A|and I make the clothes for them.|sd|3735
+B|Uh-huh.|b|3735
+B|What kind|qw|3735
+A|And.|%|3735
+B|do they have yarn hair|qy|3735
+B|or,|%|3735
+A|Um, no,|nn|3735
+A|you can get the little curly hair at the craft shop.|sd|3735
+B|Oh, uh-huh.|b|3735
+B|Oh.|bk|3735
+A|I made some of them with that hair|sd|3735
+A|and then, uh, don't ask me what the other hair I made,|ad|3735
+A|it looked like, um, it looked,|sd|3735
+A|well, I made some of them with regular wigs.|sd|3735
+B|Oh, did you?|bh|3735
+A|I went to the flea markets and bought, you know, like the wigs for a dollar.|sd|3735
+B|Oh, uh-huh.|b|3735
+A|Then I cut a V shape out of the back of them and then sewed them on.|sd|3735
+B|Oh, my goodness.|ba|3735
+B|It sounds like you're creative.|sv|3735
+A|They looked really cute|sd|3735
+B|Uh, do you sell them?|qy|3735
+A|I have sold five of them, so far.|na|3735
+B|Oh, have you?|bh|3735
+A|Uh-huh.|ny|3735
+A|I just have to get a place where, you know, I can sell them actually.|sd|3735
+B|Yeah,|b|3735
+B|I bet.|ba|3735
+B|How long does it take you to make one?|qw|3735
+A|Uh, if I would just work all day long, making the clothes and everything, probably about two and a half days.|sd|3735
+B|Oh, really?|bh|3735
+A|Uh-huh.|ny|3735
+B|Oh.|bk|3735
+A|So.|%|3735
+B|Do you enjoy it?|qy|3735
+A|Yes|ny|3735
+B|Yeah.|b|3735
+A|I really do.|sd|3735
+B|Uh-huh.|b|3735
+A|And, then I also crochet|sd|3735
+A|and,|%|3735
+B|I, I, I can crochet and knit.|sd|3735
+B|Um, actually, I started an afghan,|sd|3735
+B|but it's been a whole long time ago probably over a year ago|sd|3735
+A|Yeah.|b|3735
+B|and it's sitting in my closet half done right now,|sd|3735
+B|but, it's a knitting one.|sd|3735
+B|And,|%|3735
+A|Yeah.|b|3735
+A|I tried knitting first,|sd|3735
+A|but, I don't know,|h|3735
+A|I, I didn't like it.|sd|3735
+B|Oh, didn't you.|b|3735
+A|So then I went to crocheting,|sd|3735
+A|but now I want to learn how to knit again.|sd|3735
+B|Oh.|b|3735
+B|I|%|3735
+A|You know.|b|3735
+B|Yeah,|b|3735
+B|I enjoy knitting.|sd|3735
+B|I, I kind of like that,|sd|3735
+B|but I just, like I say, haven't done it for a while.|sd|3735
+A|Uh-huh.|b|3735
+B|And I do like sewing sometimes.|sd|3735
+B|I, I've made a few of the, you know, just the little valence curtains in my house, and things like that.|sd|3735
+A|Uh-huh.|b|3735
+B|But, it, it's just finding the time for these things that you you enjoy.|sv|3735
+A|Yeah,|aa|3735
+A|yeah.|aa|3735
+B|But,|%|3735
+A|Yeah,|b|3735
+A|I, in fact, I just bought a serger in December.|sd|3735
+B|oh, I would love one of these.|sd|3735
+A|Yeah.|b|3735
+B|Oh, that's neat.|ba|3735
+A|I haven't done everything on it yet, you know,|sd|3735
+A|but just what little bit I have used it for, I really like it.|sd|3735
+B|Oh, those are wonderful aren't they.|sv|3735
+A|You know, especially making the seams and things like that you know, it's, it's got such a professional finish on them.|sv|3735
+B|Oh, yeah,|aa|3735
+B|that, and that's what I hate doing is the finishing stuff.|sd|3735
+A|Yeah.|b|3735
+B|It'd be nice to have that.|sv|3735
+A|So I like that.|sd|3735
+B|Oh, that's neat.|ba|3735
+A|And.|%|3735
+B|Well, do you have, um, uh,|qy|3735
+B|I guess you're kind of young,|sv|3735
+B|I was going to say, do you have grand kids or anything to make dolls for.|qy|3735
+A|Well, fifty-seven's not young,|sv|3735
+A|but no,|nn|3735
+A|my son's, has been married for almost ten years,|sd|3735
+A|but they don't have any children.|sd|3735
+B|Oh, uh-huh.|b|3735
+A|So, I just make clothes for my dolls.|sd|3735
+B|Oh, well.|b|3735
+B|Well, how did you get involved in that?|qw|3735
+A|Just, you know, just like sewing and stuff and decided to buy a pattern and try to make a doll.|sd|3735
+B|So you did buy a pattern, and then started from there.|bf|3735
+A|And they, they turned out really cute.|sd|3735
+A|Yeah,|aa|3735
+A|you got to have a pattern for the body you know.|sv|3735
+B|Uh-huh.|b|3735
+B|Uh-huh.|b|3735
+A|And, uh,|%|3735
+B|have you ever seen those bunnies that they dress?|qy|3735
+A|Yes.|ny|3735
+A|Yes.|ny|3735
+B|Yeah,|b|3735
+B|I, I did make some clothes for one of those dress one of those.|sd|3735
+A|Aren't they cute?|qy|3735
+B|Yeah,|ny|3735
+B|I have quite a few of them actually in my house,|sd|3735
+B|I, and most of them I have bought, um, already clothed,|sd|3735
+B|but I did  I did make the dress on one,|sd|3735
+A|Uh-huh.|b|3735
+B|and I kind of made the pattern up.|sd|3735
+B|It's not, it's probably not the best|sd|3735
+B|but|%|3735
+A|No,|ar|3735
+A|I, I bought a bunny pattern one time,|sd|3735
+A|but when I sewed it up, the face of it looked like a mouse.|sd|3735
+B|Oh, it did?|bh|3735
+A|Uh-huh.|ny|3735
+B|Oh.|bk|3735
+A|See, it was too pointed.|sd|3735
+B|Oh.|bk|3735
+A|So I tore it back apart again,|sd|3735
+A|and I haven't tried another one.|sd|3735
+B|You haven't sewn it back up, huh?|qy|3735
+A|No,|nn|3735
+A|but I bought a little lamb pattern and the material and everything to make it out of,|sd|3735
+A|but I haven't made it yet.|sd|3735
+B|Uh-huh.|b|3735
+B|Uh, do you do any kind of painting or anything?|qy|3735
+A|No,|nn|3735
+A|I don't paint, except I stenciled my wall.|sd|3735
+B|Uh-huh.|b|3735
+B|Oh, uh-huh.|b|3735
+B|I I tried that,|sd|3735
+B|I did, I, I ended up just stenciling a, um, a blind, like a, just a roller shade.|sd|3735
+A|Uh-huh.|b|3735
+B|But, I, I can, I had a hard time stenciling.|sd|3735
+B|For some reason I just couldn't do it.|sd|3735
+A|Oh, really?|bh|3735
+B|And people have told me it's very easy.|sd|3735
+A|Oh, yeah,|b|3735
+A|I, my neighbor did it first|sd|3735
+A|and I seen her house|sd|3735
+A|and I saw how beautiful it looked,|sd|3735
+A|so then I decided well, I was going to do it,|sd|3735
+A|and  uh, it turned out really, really good.|sd|3735
+B|Well.|b|3735
+B|What design did you use?|qw|3735
+A|Uh, mostly flowers you know.|sd|3735
+B|Oh, uh-huh.|b|3735
+B|And, what room?|qw|3735
+A|I've done it in the all, uh, all my rooms.|sd|3735
+B|Have you?|bh|3735
+A|I put it in the bedrooms and the bathroom,|sd|3735

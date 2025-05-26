@@ -1,0 +1,117 @@
+A|So, so what have you seen lately that, um, you think is worthwhile?|qw|3421
+B|Um, the last movie I saw was REGARDING HENRY.|sd|3421
+B|Have you seen that yet?|qy|3421
+A|No,|nn|3421
+A|I, I saw the previews.|sd|3421
+B|It's really good.|sv|3421
+B|I loved it.|sd|3421
+B|Um, it's, um.|%|3421
+A|Does, does he, does it have a happy ending,|qy|3421
+A|or.|%|3421
+B|Yeah,|ny|3421
+B|really good ending|sv|3421
+A|Uh-huh.|b|3421
+B|um, uh, it was the, it's one of the best movies I've seen in a long time.|sd|3421
+B|I generally don't get into movies that much,|sd|3421
+B|but I saw that one,|sd|3421
+B|and then before that one, I saw, um, oh, NAKED GUN TWO AND A HALF.|sd|3421
+A|Oh, that was funny, wasn't it|qy|3421
+B|Yeah,|ny|3421
+B|did you, have you seen that one?|qy|3421
+A|Yes,|ny|3421
+A|and, and, and, and the regular NAKED GUN and AIRPORT and, you know.|sd|3421
+B|Yeah,|b|3421
+B|it's exactly like AIRPLANE wasn't it|qy|3421
+A|Yes.|aa|3421
+B|But it was silly.|sv|3421
+A|Right.|b|3421
+A|So, now these are for two very different movies.|sd|3421
+A|One, one, uh, absolutely slapstick comedy and one clearly, you know, serious subject.|sd|3421
+B|Yeah,|b|3421
+B|yeah.|b|3421
+A|Yeah,|b^m|3421
+A|I, I guess I have similarly broad tastes.|sd|3421
+A|Um, my most recent, um, movie that I, that I liked a lot, not my most recent movie, was HENRY THE FIFTH.|sd|3421
+A|I only rented it, you know, maybe a month ago|sd|3421
+B|Uh-huh.|b|3421
+A|and it's been out for a couple of years,|sd|3421
+A|but. Have you seen that?|qy|3421
+B|I haven't seen that yet.|ng|3421
+A|Well, it's, it's a, it's an adaptation of the, of the Shakespeare play,|sd|3421
+A|and it's beautifully done.|sv|3421
+A|Um, I believe that all the language is as Shakespeare wrote it, except it's been shortened a little bit|sd|3421
+A|and there might be a word or two changed.|sd|3421
+B|Right.|b|3421
+A|Uh, but it's, it's, it's a glorious movie|sv|3421
+B|Um. Such as|br|3421
+A|um, and I like, as you know, these, these, these silly movies,|sd|3421
+A|and I also like just some strange movies.|sd|3421
+A|Do you have any.|qy|3421
+A|Well, the, the one that comes immediately to mind, I, um, is the THE COOK, THE THIEF, HIS WIFE, HER LOVER.|sd|3421
+A|Um, but there are also these various, um, David Lynch movies.|sd|3421
+B|Uh-huh.|b|3421
+A|Um, I got, I got hooked on TWIN PEAKS.|sd|3421
+A|That made me go out and watch every David Lynch movie I could lay my hands on.|sd|3421
+B|Oh, really.|b|3421
+B|I haven't seen any of those.|sd|3421
+A|Oh.|b|3421
+A|Um well, I don't, I don't especially recommend,|sd|3421
+B|They're really good?|qy^d|3421
+A|I mean, you have, you have to just sort of like this thing,|sv|3421
+A|you have to like,|sv|3421
+A|did you see TWIN PEAKS?|qy|3421
+B|Huh-uh,|nn|3421
+B|no.|nn|3421
+A|No,|b|3421
+A|so, okay.|%|3421
+A|So, if you weren't, if you weren't drawn to watch that, you, maybe you wouldn't be drawn to these movies, either.|sv|3421
+B|Uh-huh.|b|3421
+A|They're, they're just strange.|sv|3421
+B|Are they, I mean, is it, like mystery, or suspense|qy|3421
+A|Well, uh. I think suspense is the right word.|sv|3421
+B|or,|%|3421
+A|Uh, and, but, but, a little bit strange and esoteric|sv|3421
+A|and, uh, in the case of TWIN PEAK a little, there's some elements of the supernatural in it, too.|sd|3421
+B|Oh really.|b|3421
+A|That was the television show.|sd|3421
+B|Um.|%|3421
+A|Um, there's also a, a a producer of movies in Baltimore called, um, John Walters, who, who puts, puts on even weirder movies.|sd|3421
+A|Uh, his most recent ones have actually been fairly mainstream, like HAIR SPRAY.|sd|3421
+A|Um, but back in his early days, he, he, he had things, um, um,|sd|3421
+A|what, what are the titles,|t1|3421
+A|I can't remember the titles any more. But, some really weird ones, uh, with quite a random crew of, of characters.|sv|3421
+A|Um, it would have made, you know, these Fellini movies look normal.|sv|3421
+B|Right.|b|3421
+B|So do you like, um, movies a lot?|qy|3421
+B|See I don't do,|sd|3421
+B|I don't.|sd|3421
+A|I do, I do like movies a lot.|na|3421
+B|Right.|bk|3421
+B|See, I don't do that,|sd|3421
+B|I don't go to movies that often,|sd|3421
+B|but, just recently I've been to a couple|sd|3421
+A|Do, do you rent them,|qy|3421
+A|or.|%|3421
+B|Um, no,|nn|3421
+B|we, I just go to like the dollar movie theater around here generally,|sd|3421
+A|Yes.|b|3421
+B|but, I don't know,|h|3421
+B|I just, I usually fall asleep|sd|3421
+B|or I get bored pretty easily|sd|3421
+B|so.|%|3421
+A|Yeah,|b|3421
+A|that's what my wife does too, um,|sd|3421
+A|I mean, she falls asleep|sd|3421
+B|Uh-huh.|b|3421
+A|So we have to, we have to pick just the right kind of movie to, to, to, to appeal.|sd|3421
+B|Yeah.|b|3421
+B|Right,|b|3421
+B|that's exactly right.|ba|3421
+A|Well, well it was good talking to you.|fc|3421
+B|Yeah,|fc|3421
+B|it's good to talk to you, too.|fc|3421
+A|Take care.|fc|3421
+B|Uh-huh.|fc|3421
+A|Okay,|fc|3421
+A|bye.|fc|3421
+B|Bye-bye.|fc|3421

@@ -1,0 +1,324 @@
+A|Okay.|fo_o_fw_"_by_bc|2679
+A|Where, where are you from?|qw|2679
+B|Um, just here in Dallas.|sd|2679
+A|Oh, okay|bk|2679
+B|Uh-huh.|b|2679
+A|because I, uh, I talked to a professor in, uh, what was it, North Carolina, who got the, the T I system,|sd|2679
+A|and he gave to all his students.|sd|2679
+A|So, my daughter's even talked to,|sd|2679
+A|and I've talked to several people from North Carolina.|sd|2679
+A|I was just curious.|sd|2679
+B|That's,|%|2679
+B|yes,|b|2679
+B|yes,|b|2679
+B|that's true.|ba|2679
+B|I've  talked,|sd|2679
+A|Have you,  too?|qy|2679
+B|Uh-huh.|ny|2679
+B|People from Virginia and, and all over. Yeah.|qy|2679
+A|Yeah.|%|2679
+A|I talked to the professor,|sd|2679
+A|and I asked him about it,|sd|2679
+A|and he said, Oh, he says, I think I'm the guy that, actually, uh, gave it to all my students.|sd|2679
+A|So that's why so many people are from this college.|sd|2679
+A|Go,  ahead,|ad|2679
+B|Uh-huh.|b|2679
+A|you, you first, Eve .|ad|2679
+B|Oh, okay.|aa|2679
+B|Um, well the subject we're supposed to be talking about, let's see, is, uh, food.|sd|2679
+A|Food.|b|2679
+B|What type of foods do you cook|qw|2679
+B|and what would you, uh, cook in, uh, uh, let's see, if you were giving a dinner party?|qw|2679
+B|And the only reason why I may know a little bit about this, is that I'm planning on having a barbecue pretty soon.|sd|2679
+A|Oh, great.|ba|2679
+B|And to me, that's the type of thing that I like to give in, um, uh, cooking for people.|sd|2679
+B|And, uh, if he's cooking outside where it's cooler and, uh, you don't have to do all that much work. You know, you just, uh, slap on some food and slap on some barbecue sauce and away you go.|sv|2679
+A|Yeah.|b|2679
+A|We have them too,|sd|2679
+A|and I, I'm trying to think which is the, best, uh, that I prefer.|^h|2679
+A|Uh, my wife, uh, doesn't like to have all that work on the very day that you're doing it, uh,|sd|2679
+A|and we haven't catered out very much, uh,|sd|2679
+A|we, I always worry about the barbecue in that you have to be,|sd|2679
+A|the man always gets that chore,|sd|2679
+A|and you, have to make it perfect.|sd|2679
+A|Uh, I've made shish kabob, which I like.|sd|2679
+A|It's fairly easy and fast.|sd|2679
+B|Uh-huh.|b|2679
+A|Uh,|%|2679
+A|I guess I'm thinking of the easy thing to do for, for having, uh, uh, dinner.|sd|2679
+B|Uh-huh.|b|2679
+B|Uh-huh.|b|2679
+A|I do cook,|sd|2679
+A|but not,|%|2679
+A|I'm mostly the easy cooker.|sd|2679
+A|You know, the breakfasts and,  and the steaks, uh.|sd|2679
+B|Yes.|b|2679
+A|Although I would like to experiment with, uh, the meals my mother made, you know. So to speak,|sd|2679
+B|Uh-huh.|b|2679
+A|and I haven't gotten around to that yet, uh,|sd|2679
+B|What kind of meals did she make that you liked?|qw|2679
+A|Well, she was Polish|sd|2679
+A|and, uh, she would make very economical meals.|sd|2679
+A|We were very poor.|sd|2679
+B|Uh-huh.|b|2679
+A|Different rice and ham and things that, uh,|sd|2679
+A|she would throw things together and galunkies and all that.|sd|2679
+B|Uh-huh.|b|2679
+A|And, uh, I would like to try that one day.|sd|2679
+A|And she would make spaghetti with pork chops and, and special meat balls and everything.|sd|2679
+A|And my wife, of course, thinks I'm crazy, which I may be too|sd|2679
+B|Huh.|b|2679
+A|but,|%|2679
+B|No.|b|2679
+B|Sounds interesting, uh-huh.|ba|2679
+A|Yeah.|b|2679
+B|Yeah,|b|2679
+B|that's great.|ba|2679
+A|But dinner parties are a lot of work, uh,|sv|2679
+B|Yeah,|b|2679
+B|yeah.|b|2679
+B|But, uh, that's, that's why I like the, the outdoor stuff a,  a lot better.|sd|2679
+A|Yeah.|b|2679
+B|People can entertain themselves, I think, a great deal more, uh, when you have a barbecue. Especially when you have hot dogs and hamburgers and,  uh, you know, nothing really fancy, like your, your shish kabobs, where you have to do a whole bunch of work.|sd|2679
+A|Yeah.|b|2679
+A|Yeah.|b|2679
+A|Well, that, that,|%|2679
+A|shish kabob is, uh, just because it only takes a few minutes to cook, you know,|sd|2679
+B|Uh-huh.|b|2679
+A|you get it ready,|sd|2679
+A|you have to do a lot of work beforehand, I agree, and buy special stuff.|sv|2679
+A|But, uh, so far as getting out there and, and putting it on, it only takes a a few minutes, uh.|sv|2679
+B|Right.|b|2679
+A|But anyway, I'm, I'm thinking of the easy way, rather than,  my guests, I guess,|sd|2679
+A|but, uh,|%|2679
+B|Yeah,|b|2679
+B|yeah.|b|2679
+B|Well, I, I think you do, do a lot of work.|sv|2679
+B|Even if people do bring over things, you still do, uh, all the, uh,  housework and get everything prepared and utensils and just, just everything.|sv|2679
+A|Right.|b|2679
+A|Right.|b|2679
+B|Uh, you know, my mother used to make an Armenian rice dish.|sd|2679
+A|Uh-huh,|b|2679
+A|yeah.|b|2679
+B|I'm thinking about, uh, special dishes,|sd|2679
+B|and, uh, yeah,|%|2679
+B|it was made out of rice and consume soup, uh, and bacon and onions.|sd|2679
+A|Oh, yeah.|b|2679
+B|And then you'd simmer it like all day long.|sd|2679
+A|Right.|b|2679
+B|Oh it would,|%|2679
+A|You'd get the odor of it, yeah.|^2|2679
+B|Yeah.|aa|2679
+B|And it was just, it was just wonderful.|sd|2679
+B|That's, that's something that I would really like to, uh, to try and find the recipe for.|sd|2679
+B|But we used to have that at Thanksgiving time. Because you can, you can put it on top of the stove, and do this,|sd|2679
+A|Uh-huh,|b|2679
+A|yes.|b|2679
+B|and, and there's so much broth and juice in there,  that it has to, uh, soak up into the rice, all day long, in order for it to, uh, uh, to come out fluffy and, and nice.|sd|2679
+A|Oh, great.|ba|2679
+B|And that was, you know,|sd|2679
+B|when you were talking about the, the Polish dishes, uh, some goulashes and things like that.|sd|2679
+B|That's, uh, that's what I thought about, was that Armenian rice dish.|sd|2679
+A|Oh, yes,|ba|2679
+A|we probably ought to try this.|sv|2679
+A|But it probably will never taste as good as we remembered.|sv|2679
+A|I guess it gets better and better as we remember it,  back, as we get older, you know.|sv|2679
+B|That's true.|ba|2679
+A|But we probably should try it, uh, to do that.|sv|2679
+B|That's true.|ba|2679
+A|The recipes are really interesting, you know.|sv|2679
+A|We're probably going to lose them|sv|2679
+A|and we'll probably forget all about them, you know.|sv|2679
+B|Uh-huh.|b|2679
+A|Since we're trying to make everything so|sv|2679
+A|here I am talk about trying to make everything easy, you know.|sd|2679
+B|Right,|b|2679
+B|right.|b|2679
+A|I, uh,|%|2679
+A|you talked about Thanksgiving, there are interesting meals at different times.|sd|2679
+A|Uh, something,|%|2679
+A|my wife's from Texas,|sd|2679
+A|so, uh, I remember we were first married|sd|2679
+A|and we were living in New Jersey.|sd|2679
+A|And, uh, we were going over to my mother's house for Christmas, you know, to have a meal.|sd|2679
+B|Uh-huh.|b|2679
+A|And we were on the way over,|sd|2679
+A|we were just married that very year,|sd|2679
+A|and she said, Oh, I'm looking forward to a nice turkey.|sd|2679
+A|I said, Turkey?|sd|2679
+A|I said, We don't have turkey at Christmas|sd|2679
+B|Oh.|b|2679
+A|I said, We only have turkey on Thanksgiving.|sd|2679
+A|I said, We're going to have a ham.|sd|2679
+B|Uh-huh.|b|2679
+A|She said, What?|sd|2679
+B|Yeah!|ba|2679
+A|I said, Yeah.|sd|2679
+A|I said, No, turkey is only for Thanksgiving.|sd|2679
+A|And because she had turkey a lot, you know.|sd|2679
+B|Uh-huh.|b|2679
+A|And, uh, that was surprising in the, in the east, uh,|sd|2679
+A|we always had ham, you know.|sd|2679
+B|Right,|b|2679
+B|right.|b|2679
+A|and, and that's one thing|%|2679
+A|that's another recipe, I guess, we could talk about.|sd|2679
+A|Now the hams just kind of, you know, go take it out of a can or, uh, uh, a package, sliced, uh,|sv|2679
+A|the cans were cooked for hours and hours and, and were just wonderful, you know.|sd|2679
+B|Uh-huh.|b|2679
+B|Uh-huh.|b|2679
+A|I, I'd like to try that too.|sd|2679
+B|Yeah.|b|2679
+B|You know what I found was, at Sam's, uh, Wholesale uh, stores.|sd|2679
+A|Yeah.|b|2679
+B|And, uh, what they have is this honey baked ham,|sd|2679
+A|Oh, yeah,|b|2679
+A|I saw them.|sd|2679
+B|They,|%|2679
+A|That's good.|ba|2679
+B|have you seen, have you had any of those?|qy|2679
+A|No,|nn|2679
+A|I, I, uh, I've, I know about Sam's.|sd|2679
+A|My wife I think goes|sd|2679
+A|but,|%|2679
+B|If, if you ever get a chance to buy one of those, I think it was, uh, twenty dollars, for, uh, I don't remember how many pounds it was.|sd|2679
+A|Uh-huh.|b|2679
+B|But you cook it in the bag that they send it in.|sd|2679
+A|Oh, really?|bh|2679
+B|And all the juices and everything are all sealed in.|sd|2679
+B|And, I tell you what, it's never failed to come out tender and juicy,  and just  and just delicious. Because I normally don't like ham, because it's so salty.|sd|2679
+A|Oh, I haven't heard  of that, yeah.|sd|2679
+A|Yeah.|b|2679
+B|But with this honey bake that they have, that, that's the only one I have been able to find there at Sam's warehouse.|sd|2679
+B|It is absolutely delicious.|sv|2679
+A|Oh, yeah.|b|2679
+B|And it slices great. Uh-huh.|sd|2679
+A|I'm trying to think of his name of it.|sd|2679
+A|Uh, uh, I don't know, uh.|sd|2679
+A|I see a can here, or a box here of Gourmet Choice.|sd|2679
+A|Uh, he delivers, uh.|sd|2679
+A|What is the name of this thing?|qw|2679
+A|I got a box, distributor, marked on it,|sd|2679
+A|it doesn't say, Gourmet Choices.|sd|2679
+A|But he,|%|2679
+A|but it's a company that has, uh, you know, a truck that comes around.|sd|2679
+A|And, and they recently had hams.|sd|2679
+A|They have steaks and,  and, uh, actually, pirogies and all that stuff that, uh,|sd|2679
+B|Uh-huh.|b|2679
+A|I, I wish I could tell you the name of the company,|sd|2679
+A|but I don't know what it is.|sd|2679
+A|But, uh, they recently had a ham, that was supposed to be,|sd|2679
+A|it was boneless|sd|2679
+B|Yeah.|b|2679
+A|and we tried it.|sd|2679
+A|It was real nice,|sd|2679
+A|and it was fully cooked and everything.|sd|2679
+A|We had it for breakfast a long time.|sd|2679
+B|Uh-huh.|b|2679
+A|It was really great.|sv|2679
+B|Wow!|ba|2679
+B|You know, that sounds like it.|sv|2679
+A|Yeah.|b|2679
+B|But that's, that's the only ham I have found that I thoroughly, thoroughly enjoy.|sd|2679
+A|I would like to try the old recipe though, of cooking it,|sd|2679
+A|and, and I keep saying this, uh, to, to do the different things that we did.|sd|2679
+A|But I would like to put one in the oven, you know, the old fashioned way and put it in there for hours and hours, and see if,|sd|2679
+A|because I don't think in, in my married life, which is, uh, twenty-six years now, we've never done that, you know.|sd|2679
+B|Wow.|b|2679
+A|And I remember that when I was a kid, uh,  to have the ham cooking. Uh, rather than that, we just,|sd|2679
+B|Uh-huh.|b|2679
+A|ham is just something you have for breakfast occasionally, you know.|sd|2679
+B|Right|b|2679
+A|And that's it, you know.|sd|2679
+A|In the old days, we had, hams were the meal,|sd|2679
+A|and I don't, I don't think we,  really have it as a main meal.|sd|2679
+B|Right.|b|2679
+B|That's true.|ba|2679
+B|I, I don't think so anymore, not with more, becoming more conscious of, uh, fat and cholesterol and, and all those good things.|sv|2679
+A|Right.|b|2679
+A|That's an interesting point.|sv|2679
+A|How, how have you changed your, your meals now?|qw|2679
+A|Have you,|%|2679
+A|into that, uh,|%|2679
+B|Oh, yeah.|b|2679
+A|looking at those things?|qy^d|2679
+B|Well, my parents actually started it,|na|2679
+A|Uh-huh.|b|2679
+B|and, uh, getting,|%|2679
+A|Parents, that's unusual.|sv|2679
+B|Well, it, it's true.|sd|2679
+B|I think my parents are very unusual because, uh, we grew up in the south, where, uh, you have all the, uh, you know, biscuits and gravy and, oh, fried foods galore.|sd|2679
+A|Oh, yeah.|b|2679
+B|And then gradually they started switching over to, uh, plain rice, uh, no gravy.|sd|2679
+A|That's amazing.|ba|2679
+B|It's just, it really is.|sv|2679
+B|They, uh, they're actually, they actually, uh, uh, led us through it, versus, uh, us teaching them, you know, the, uh, the finer points.|sd|2679
+B|But my mother has really high cholesterol,|sd|2679
+B|so it was one of the reasons which started them off.|sd|2679
+A|Yeah.|b|2679
+B|And they started doing this, like in the early, or in about the middle seventies.|sd|2679
+A|Well, that's amazing,|ba|2679
+B|Uh, yeah.|b|2679
+A|they'd go,|%|2679
+A|that they have started.|sd|2679
+A|Usually it's the younger people doing it.|sd|2679
+A|Yeah.|%|2679
+B|It's true,|ba|2679
+B|it's true.|ba|2679
+B|I agree with you.|aa|2679
+A|I,|%|2679
+A|uh,  my, my wife's mother is the only grandparent left,|sd|2679
+B|So, it's really neat.|ba|2679
+A|and, uh,  she has high cholesterol.|sd|2679
+B|Uh-huh.|b|2679
+A|Of course, I I have too, but not like hers.|sd|2679
+B|Uh-huh.|b|2679
+A|And I always get after her about salt and everything else.|sd|2679
+A|And she just will, I mean, she's going to eat the same way she ate, you know,  her whole life.|sd|2679
+B|That's right.|b|2679
+A|And she just tells, more or less tells me to shut up, you know.|sd|2679
+B|Right|b|2679
+A|And, uh, I like to,|%|2679
+A|I'm trying to do something about my cholesterol in the same way.|sd|2679
+B|Uh-huh.|b|2679
+A|Uh,|%|2679
+B|Uh-huh.|b|2679
+A|uh, it's, it's not the|%|2679
+A|. I listen to, uh, Larry Newarth on the weekend.|sd|2679
+A|He's a fitness expert|sd|2679
+A|and, uh, he talks about, you know, the chicken and the rice and everything else.|sd|2679
+B|Uh-huh.|b|2679
+A|And, and, uh, throwing away peanut butter and all the things  you know, the things not to eat, you know, ever.|sd|2679
+A|I think the peanut butter and mayonnaise he would throw away for ever.|sd|2679
+A|And then he's got me into making eggs without the yolk.|sd|2679
+B|Wow!|ba|2679
+A|You know, try that sometime.|ad|2679
+B|Uh-huh.|b|2679
+A|My wife says she can't stand it.|sd|2679
+A|But, uh, when I make scrambled eggs now, talking about a recipe,|sd|2679
+B|Uh-huh.|b|2679
+A|I,|%|2679
+A|say if I have four eggs, not, not for me,|sd|2679
+A|but if I'm making four eggs, uh, even for my daughter and I, I'll take out all the yolks but one.|sd|2679
+B|Wow!|ba|2679
+A|And and it's fine.|sd|2679
+A|You, you don't miss it, uh.|sv|2679
+B|Huh.|b|2679
+A|In fact, when I, when I make eggs for myself, if I, if I fry them, throw them in there, I will almost hard fry them so I can take, not eat the yolk at all.|sd|2679
+B|Uh-huh,|b|2679
+B|uh-huh.|b|2679
+A|And you don't really miss it.|sv|2679
+A|You get the flavor of the yolk,|sd|2679
+A|but, uh you don't eat it at all, you know.|sd|2679
+A|You don't,|sd|2679
+A|they're hard.|sd|2679
+A|You get like, uh, a bite at, at the most.|sd|2679
+B|Uh-huh.|b|2679
+A|And so, uh, for cholesterol, I mean, I'm trying that.|sd|2679
+A|And it has worked.|sd|2679
+A|My cholesterol gone down twenty points.|sd|2679
+A|So, although,|%|2679
+B|Wow, that's good.|ba|2679
+A|I haven't gotten on the, which, whether butter or not cholesterol, margarine and all that.|sd|2679
+A|I don't know, know, whether any of that is true, you know Whether the margarines or butter,|sd|2679
+B|Uh-huh.|b|2679

@@ -1,0 +1,138 @@
+B|Okay,|fo_o_fw_"_by_bc|3660|0
+B|all set, then.|sd|3660|0
+B|Uh, what do you think about it?|qo|3660|0
+A|Uh, I think it's a real good concept.|sv|3660|1
+A|Uh, drug testing procedures would have to be refined.|sv|3660|1
+B|Uh-huh.|b|3660|0
+A|From what I've seen on the news there's a, a pretty good size problem with poor accuracy, poor procedure in, uh, drug testing.|sd|3660|1
+B|Oh, I didn't realize that.|sd|3660|0
+A|Yeah.|b|3660|1
+A|Uh, there have been people who have been turned down for jobs because there was a drug showed up in their, in their, uh, test,|sd|3660|1
+A|but they didn't know for sure what it was,|sd|3660|1
+A|but it was a drug,|sd|3660|1
+A|so they got turned down|sd|3660|1
+A|and, uh, turns out it was a prescription. Or people getting somebody else's blood test.|sd|3660|1
+B|Uh-huh.|b|3660|0
+A|Same sort of problem that happens sometimes is these, some of these, uh, like AIDS tests and such.|sd|3660|1
+B|Okay.|b|3660|0
+B|Uh-huh,|b|3660|0
+B|yeah,|b|3660|0
+B|that's right,|ba|3660|0
+B|I have heard,|sd|3660|0
+B|uh, I don't remember what they call it, sort of like a positive, negatives or some, some kind of word they use when a, uh, you get a, uh, a positive indication of drugs,|sd|3660|0
+B|but there's not really, there weren't really any there.|sd|3660|0
+A|Yeah.|b|3660|1
+B|Uh, every now and then there's an error|sd|3660|0
+B|and people are really upset about that when it comes to their rights and their rights being violated.|sd|3660|0
+A|Oh, yeah.|aa|3660|1
+B|Yeah.|b|3660|0
+B|I, I work here at Texas Instruments|sd|3660|0
+B|so, uh, we, we do a, let me think, do we, yeah, everyone coming in.|sd|3660|0
+B|I guess I did three years ago.|sd|3660|0
+A|Yeah.|b|3660|1
+B|Everyone coming in, uh, goes through the drug testing procedure|sd|3660|0
+B|and they talk about it as a, you know, as, as better for the country and better for the working conditions.|sd|3660|0
+A|Uh-huh.|b|3660|1
+B|So if they, uh, they test for drugs.|sd|3660|0
+A|Yeah.|b|3660|1
+B|I, I'm, I can't even remember if we do random sampling anymore.|sd|3660|0
+B|I know we did in the military,|sd|3660|0
+B|but I don't know if once your in they continue to do it,|sd|3660|0
+A|Yeah|b|3660|1
+B|but I guess you're always on call for it.|sd|3660|0
+A|Yeah,|b|3660|1
+A|I not very long ago worked for Wal-Mart|sd|3660|1
+B|Uh-huh.|b|3660|0
+A|and about a year and a half ago they instituted a, uh, a, uh, drug testing program, uh, well drug and alcohol testing program.|sd|3660|1
+A|It's, it's not a random|sd|3660|1
+B|Uh-huh.|b|3660|0
+A|through the|%|3660|1
+A|it,|%|3660|1
+A|as each employee comes in part of the hiring procedure is a, a blood test Uh,|sd|3660|1
+B|Uh-huh.|b|3660|0
+A|but I think the big problem, though, is, is they send these off to large labs|sv|3660|1
+B|Uh-huh,|b|3660|0
+B|right.|b|3660|0
+A|and then they have thousands and thousands of samples that, uh, going through it in a day and bottles get mixed up, things like that.|sd|3660|1
+B|So your big beef with it is the, uh,|qy^d|3660|0
+A|It's .|%|3660|1
+B|Is, is, it's a good idea,|sv|3660|0
+B|but like you said the drug testing procedures need to be defined a little better.|sv|3660|0
+A|Yeah.|b|3660|1
+B|Make sure it's a lot safer because a couple of people are going to be discriminated against unfairly or whatever.|sv|3660|0
+B|Yeah,|b|3660|0
+B|I I, I tend to agree with you David.|sd|3660|0
+A|Yeah.|b|3660|1
+B|Yeah,|b|3660|0
+B|my brother, uh, brother used to work for Wal-Mart|sd|3660|0
+B|and then, I don't know if he still does or what because I don't know if Sam's is actually part of it,|sd|3660|0
+B|but he, you know is working at Sam's now.|sd|3660|0
+A|Yeah.|b|3660|1
+A|Yeah,|ny|3660|1
+A|Sam's is part of Wal-Mart.|sd|3660|1
+B|Okay,|b|3660|0
+B|yeah,|b|3660|0
+B|then he's been working for the company for a while, too.|sd|3660|0
+B|He, uh,|%|3660|0
+A|Yeah.|b|3660|1
+B|Good company, uh,|sv|3660|0
+A|Oh, yeah.|ba|3660|1
+B|You all, uh, have some,|%|3660|0
+B|he's telling me about good profit sharing and all that,|sd|3660|0
+A|Company's, that was a great place to work.|sv|3660|1
+B|so.|%|3660|0
+A|Uh-huh.|b|3660|1
+B|It's good news|ba|3660|0
+A|Yeah,|b|3660|1
+A|they got to had two or three years in with them you can start buying stock|sd|3660|1
+A|and you have a, have a little taken out of your check each, each payday to put against, uh, uh, stock portfolio. Uh, not portfolio, just, you know, against Wal-Mart stock.|sd|3660|1
+B|Uh-huh.|b|3660|0
+B|Uh-huh.|b|3660|0
+A|But, uh, you can build a pretty fair amount of stock after a while.|sd|3660|1
+B|Yeah,|b|3660|0
+B|that's what my brother was telling me.|sd|3660|0
+B|That's good, good good deal.|sd|3660|0
+B|Well, uh, how long were we|qw|3660|0
+B|I haven't done this in a couple months.|sd|3660|0
+B|How long were we supposed to discuss for?|qw|3660|0
+A|Uh, you're supposed to get five minutes.|sd|3660|1
+B|Okay,|bk|3660|0
+B|we got a couple more minutes then, I guess|sd|3660|0
+B|Uh, think what else I can say about that. Uh,|^h|3660|0
+A|Uh, do you have any idea, uh,|qy|3660|1
+A|let's see,|^h|3660|1
+A|you were, you were tested for drugs as you got into T, as, as you got into T I?|qy|3660|1
+B|Right,|na|3660|0
+B|uh, everyone coming in gets, goes through the drug test.|sd|3660|0
+A|Yeah.|b|3660|1
+A|Uh, now, uh, were you asked to wait before starting to work until the drug test came through|qy|3660|1
+A|or,|%|3660|1
+B|Uh, no,|nn|3660|0
+B|well, let me think about that.|^h|3660|0
+B|Yeah,|fo_o_fw_"_by_bc|3660|0
+B|it was after, I I had already been hired. Uh,|sd|3660|0
+A|Okay|bk|3660|1
+B|Yeah,|b|3660|0
+B|you get hired, then you come in the first,|sd|3660|0
+B|I,|%|3660|0
+B|seems to me I remember that, uh, I was hired, came in and went through some orientation|sd|3660|0
+B|and I thought I,|%|3660|0
+B|boy, I can't remember.|h|3660|0
+B|That would seem strange to already be working here in the first week of the drug test.|sd|3660|0
+B|Maybe it was during the interview.|sd|3660|0
+B|I came up a couple times for an interview,|sd|3660|0
+B|so it's hard for me to remember where I was when all that happened.|sd|3660|0
+B|But, uh, I guess, just like other companies, other friends I've been hearing about that have been moving around,|sd|3660|0
+B|it's, it's before.|sd|3660|0
+B|They have to wait for the drug test to come in before you actually get employment,|sd|3660|0
+B|so I'm sure that happened to me, too.|sd|3660|0
+A|Yeah.|b|3660|1
+A|Yeah.|b|3660|1
+B|What, what about, oh,|qo|3660|0
+B|they just instituted it there at Wal-Mart|sd|3660|0
+A|Yeah.|b|3660|1
+B|so,|%|3660|0
+A|They, they, it was after I was already working there|sd|3660|1
+A|and they weren't testing any of those who were already working.|sd|3660|1
+B|Right.|b|3660|0
+A|So,|%|3660|1

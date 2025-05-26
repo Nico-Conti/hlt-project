@@ -1,0 +1,131 @@
+A|Uh, well, uh, the Cowboys are my favorite team.|sd|3638|0
+A|That's pretty easy to say nowadays|sd|3638|0
+A|Lot easier than it was a couple years ago,|sd|3638|0
+A|but they had a big win today.|sd|3638|0
+A|Uh, did you get to watch it?|qy|3638|0
+B|No,|nn|3638|1
+B|I didn't.|sd|3638|1
+B|I, uh, have been at my computer all day|sd|3638|1
+B|so,|%|3638|1
+A|Oh.|b|3638|0
+A|Are you a Cowboy fan?|qy|3638|0
+B|Well, I used to be a real big Cowboy fan|no|3638|1
+B|and, and, uh, I'm not a Jimmy Johnson fan.|sd|3638|1
+B|Being an Okie I just really don't care much, uh,|sd|3638|1
+A|Right,|aa|3638|0
+A|yeah.|aa|3638|0
+B|it's, it's kind of hard not to be a Cowboy fan, though.|sd|3638|1
+A|Uh-huh.|b|3638|0
+B|They've always been, you know, my favorite.|sd|3638|1
+A|Right.|b|3638|0
+B|But, uh, and and I guess I still have a soft spot.|sd|3638|1
+A|Yeah.|b|3638|0
+B|I just hate that that's the coach that's leading them.|sd|3638|1
+A|Right.|aa|3638|0
+A|Right.|b|3638|0
+B|So, now have they,|%|3638|1
+B|they're in the playoffs, right?|qy|3638|1
+A|Yeah,|ny|3638|0
+A|they made it to the playoffs finally|sd|3638|0
+A|like just, you know, two years ago they were one and fifteen.|sd|3638|0
+A|They won like just one game|sd|3638|0
+A|and so pretty fast turnaround.|sd|3638|0
+A|But this year they made it to playoffs|sd|3638|0
+A|and today was the first game|sd|3638|0
+A|and they beat the Chicago Bears|sd|3638|0
+A|so everybody's really going crazy, you know, down here.|sd|3638|0
+B|I'll bet they are.|ba|3638|1
+A|They're going crazy,|sd|3638|0
+A|so, so they turned it around,|sd|3638|0
+A|but, you know, they have a lot of young exciting players now, uh,|sd|3638|0
+A|I mean, everybody was real upset, you know, when they fired Tom Landry,|sd|3638|0
+A|but, you know, now it's like, you know, they're doing good so everybody's forgotten about that.|sd|3638|0
+B|Uh, football fans are probably the most fickle people in the world.|sv|3638|1
+A|Uh-huh.|b|3638|0
+B|Hit a bad season|sd|3638|1
+B|and it's, you know, the coach's fault,|sv|3638|1
+B|let's, let's dump him.|sv|3638|1
+A|Right.|aa|3638|0
+B|First good season, the coach can do no wrong.|sv|3638|1
+A|Right,|aa|3638|0
+A|exactly. You know.|aa|3638|0
+B|But they Dallas has always been good ahead, you know, heading good players and both running, running backs and, and defense.|sd|3638|1
+A|Uh-huh.|b|3638|0
+A|Right,|b|3638|0
+A|yeah,|b|3638|0
+A|uh, you know, they have a young team.|sd|3638|0
+A|It's, you know, a lot different than the teams they used to have where it's the same old, you know, players every year and, you know, same coach, same everything,|sv|3638|0
+A|so, now it's, you know, like a taste of something different.|sv|3638|0
+A|They're all not, you know, mister nice guys like they used to be.|sv|3638|0
+A|Now it's like, you know, tough and dirty team|sv|3638|0
+A|so everybody is really excited.|sd|3638|0
+A|And,|%|3638|0
+B|Who is the competition going to be?|qw|3638|1
+A|Well, it's supposed to be the Redskins, but you know, we beat them already.|sd|3638|0
+A|We beat them this year in, in Washington|sd|3638|0
+A|so, you know, so everybody has the feeling like we can go all the way to the Super Bowl,|sd|3638|0
+A|but, you know, it's just that we have to play every game away, you know,|sd|3638|0
+A|it's going to be tough,|sv|3638|0
+A|but, but|%|3638|0
+A|the competition is, are teams that they've already beat this year,|sd|3638|0
+A|so, I mean, Atlanta, they're in it, too,|sd|3638|0
+A|and we beat them|sd|3638|0
+A|and, uh, see, Detroit, we play them next week,|sd|3638|0
+A|but, you know, we should beat them.|sv|3638|0
+A|Everybody feels like we should be able to beat them|sv|3638|0
+A|so, it's, so everything's, uh, looking real good.|sv|3638|0
+B|Course, I think, you know, you can't really go by what happened earlier in the season injuries that heal|sv|3638|1
+A|Uh-huh.|b|3638|0
+A|Right.|b|3638|0
+B|and, you know it can be a or injuries that, uh, have newly happened and it could be almost a totally new team out there than the one we played.|sd|3638|1
+A|Right.|b|3638|0
+A|Right.|b|3638|0
+A|Yeah,|b|3638|0
+A|well the Cowboys are on a roll.|sd|3638|0
+A|They've won, like, I think six or seven in a row now,|sd|3638|0
+A|so they're supposed to be the hottest team in the, in the league going into the playoffs|sd|3638|0
+A|so,|%|3638|0
+B|But, but since you have an O U drop out as a quarterback,|%|3638|1
+A|Right,|b|3638|0
+A|yeah,|b|3638|0
+A|Troy Aikman,|sd|3638|0
+A|he got hurt at O U,|sd|3638|0
+A|so he transferred to U C L A.|sd|3638|0
+B|Well, Well, he, he really didn't feel like he'd be able to do a lot of passing at O U.|sd|3638|1
+A|Right.|b|3638|0
+B|O U has always been known for their running game.|sd|3638|1
+A|Uh-huh.|b|3638|0
+B|More than,|%|3638|1
+A|They're playing tonight in fact.|sd|3638|0
+B|Right.|b|3638|1
+A|I'm watching them on T V right now.|sd|3638|0
+A|But they're doing some stomping on Virginia.|sd|3638|0
+B|Oh, I tell you,|^h|3638|1
+B|they've, they've not had much of a team this year, bless their little hearts|sv|3638|1
+A|Really?|bh|3638|0
+A|Well, they're doing good tonight.|sd|3638|0
+B|Are they?|qy|3638|1
+A|Yeah|ny|3638|0
+B|I haven't been watching.|sd|3638|1
+A|they're winning. They're winning forty-one to seven.|sd|3638|0
+B|Well, good for us|ba|3638|1
+A|Yeah.|b|3638|0
+A|Right.|b|3638|0
+B|Oh.|b|3638|1
+A|But, yeah,|b|3638|0
+A|and, uh, that's right,|%|3638|0
+A|Aikman did go to O U.|sd|3638|0
+A|I forgot about that.|sd|3638|0
+B|Yeah,|b|3638|1
+B|they|%|3638|1
+B|then he went out to S, to southern Cal.|sd|3638|1
+B|Is that where he went?|qy|3638|1
+A|Yeah,|ny|3638|0
+A|uh, U C L A.|sd|3638|0
+B|Yeah.|b|3638|1
+A|Yeah.|b|3638|0
+B|So,|%|3638|1
+A|But, the Cowboys did good today.|sd|3638|0
+A|I mean, I was proud.|sd|3638|0
+A|I thought, I thought they would get beat today because, I mean they're so young, you know,|sd|3638|0
+A|playoffs,|%|3638|0

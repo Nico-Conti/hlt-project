@@ -1,0 +1,126 @@
+A|Okay.|fo_o_fw_"_by_bc|4799|0
+A|Uh, I haven't been in this situation yet|sd|4799|0
+A|You know, my, my parents are not quite at that age yet,|sd|4799|0
+A|so I haven't,|%|4799|0
+B|They're not quite elderly, huh|qy|4799|1
+A|No.|nn|4799|0
+A|So I haven't, uh, really been in that situation although they are thinking about my grandmother|sd|4799|0
+A|but, uh but that's really about it.|sd|4799|0
+B|Uh-huh.|b|4799|1
+A|How about you?|qo|4799|0
+A|Have you been in that situation yet?|qy|4799|0
+B|Uh, not for my parents.|ng|4799|1
+B|But I, I was around, uh, two sets of grandparents, uh, quite a bit,|sd|4799|1
+B|we, we put one, I put one grandfather in a rest home|sd|4799|1
+A|Uh-huh.|b|4799|0
+B|and that killed him|sd|4799|1
+A|Did it really?|bh|4799|0
+B|Well, yeah,|ny|4799|1
+B|kind of.|sd|4799|1
+B|Well, there was some other things involved|sd|4799|1
+B|but it,|%|4799|1
+B|before he was really active|sd|4799|1
+B|and the,|%|4799|1
+B|there was some,|sd|4799|1
+B|you know, he lost his drivers license|sd|4799|1
+B|and I couldn't get around and wasn't able to do some things|sd|4799|1
+B|and so we ended up just having to put him in a rest home.|sd|4799|1
+A|Yeah.|b|4799|0
+B|And he just kind of became a vegetable and died.|sd|4799|1
+A|Oh, no.|fo_o_fw_"_by_bc|4799|0
+B|So  but that was a long time ago.|sd|4799|1
+A|That's sad.|fo_o_fw_"_by_bc|4799|0
+A|Yeah.|b|4799|0
+B|That was, uh, back in like seventy-three.|sd|4799|1
+A|Oh, okay.|bd|4799|0
+B|So, uh, I think the way they did things were a lot different back then.|sv|4799|1
+A|I'm sure they were.|aa|4799|0
+A|Yeah.|aa|4799|0
+B|And, uh, my grandmother, his, his wife uh, we also put her in a rest home.|sd|4799|1
+A|Uh-huh.|b|4799|0
+B|She was in a rest home|sd|4799|1
+B|and then she was back out because she didn't really need to be there and, uh, had a physical, had a good physical therapist at that place|sd|4799|1
+B|and  they worked with her and got her walking and got her kind of taking care of herself|sd|4799|1
+A|Ah.|b|4799|0
+B|and so  she was able to come back home|sd|4799|1
+A|Yeah.|b|4799|0
+B|and then she had to go back in a couple of times,|sd|4799|1
+A|Oh.|b|4799|0
+B|but mostly it was just because she kind of gave up.|sd|4799|1
+A|Um.|b|4799|0
+B|And they got her going again.|sd|4799|1
+A|Yeah.|b|4799|0
+B|So I guess as far as looking, do things with them and treat them, treat like they're ,|sd|4799|1
+A|Uh-huh.|b|4799|0
+A|Yeah.|b|4799|0
+A|And I'm sure it's, it's expensive.|sv|4799|0
+A|Yeah.|%|4799|0
+B|It, it is|aa|4799|1
+A|Yeah.|b|4799|0
+B|It is expensive.|sv|4799|1
+A|Yeah.|b|4799|0
+A|My, my grandmother is not in a nursing home|sd|4799|0
+A|but she's in a|sd|4799|0
+B|Uh-huh.|b|4799|1
+A|oh they're like, uh, they're apartments for senior citizens|sd|4799|0
+B|Oh, uh-huh.|b|4799|1
+A|and she loves that because they arrange activities for them all day long|sd|4799|0
+B|Uh-huh.|b|4799|1
+A|and then they have, uh, where the bus picks them up and takes them where they need to go|sd|4799|0
+A|and she, she, she really does love that|sd|4799|0
+B|Uh-huh.|b|4799|1
+A|And she's just wondering well  what's going to happen to me|sd|4799|0
+B|When she can't take care of herself.|^2|4799|1
+A|and, and I,|%|4799|0
+A|you know, it's, I guess it's so normal to start to wonder about that even if she doesn't need that,|sd|4799|0
+A|but you know|qy|4799|0
+B|Uh-huh.|b|4799|1
+B|Now|%|4799|1
+A|she's kind of asking questions about what, well what's going to happen, this can't last forever|sd|4799|0
+A|and so.|%|4799|0
+B|Uh-huh.|b|4799|1
+B|Does she have a,|qy|4799|1
+B|is it like a kitchenette type apartment where she can fix her own food if she wants to|qy|4799|1
+A|Yeah.|ny|4799|0
+B|or she can go down to the cafeteria?|qrr|4799|1
+A|Yeah,|ny|4799|0
+A|she can|sd|4799|0
+B|Uh-huh.|b|4799|1
+B|In fact, I ,|%|4799|1
+A|because I, I remember her, in her letters, telling me she'll go downstairs for coffee or something to eat,|sd|4799|0
+A|so I'm assuming it's something like that too.|sd|4799|0
+B|Uh-huh.|b|4799|1
+A|So.|%|4799|0
+B|Yeah,|b|4799|1
+B|I, I really like that concept.|sv|4799|1
+A|Uh-huh.|b|4799|0
+B|They've, they have a few of those, well quite a few of those places like that here in Utah|sd|4799|1
+B|and, you know, couples can,|sd|4799|1
+B|you know, husband and wife can, can live there too or, or whatever.|sd|4799|1
+B|I,|%|4799|1
+B|and, and then, and yet they have their, their friendships and relationships and the, in you know, of getting together and eating together and all of that.|sd|4799|1
+A|Yeah,|b|4799|0
+A|yeah.|b|4799|0
+B|I, I think it really takes, uh, you know, looking more at the people than even really the facilities.|sv|4799|1
+A|Uh-huh.|b|4799|0
+A|And she lives by herself too.|sd|4799|0
+A|She seems to like it.|sd|4799|0
+B|Uh-huh.|b|4799|1
+A|And, uh, my husband's grandmother is,|sd|4799|0
+A|well, she lives, she lives in a house on her own|sd|4799|0
+A|and she doesn't really need the care or anything like that|sd|4799|0
+A|but, she has her own home|sd|4799|0
+A|and she's doing really well.|sd|4799|0
+A|I'm really proud of her.|sd|4799|0
+A|She's doing really well,|sd|4799|0
+A|so we haven't had to do anything,|sd|4799|0
+A|but then again, she has a lot of support|sd|4799|0
+A|so I mean, she's got her mother in town too and things like that|sd|4799|0
+B|Yeah.|b|4799|1
+B|Yes.|b|4799|1
+B|Well, I, I think that that's the thing that's a little bit scary, you know, a little bit tough about putting them in a rest home is it's, it's almost like|sv|4799|1
+B|that, you know, they say putting them out to pasture|sv|4799|1
+B|and some, some of the people that were there with my grandmother were really active.|sd|4799|1
+A|Yeah|b|4799|0
+B|They, they wanted to do things.|sv|4799|1
+B|They didn't, you know, they didn't want to go down and play bingo or, uh, you know, play with the oranges|sv|4799|1

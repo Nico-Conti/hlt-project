@@ -1,0 +1,209 @@
+B|You ready?|qy|3144
+A|Yeah.|ny|3144
+B|Okay.|bk|3144
+B|What have you seen lately?|qw|3144
+A|Well, uh, it's funny, when I tried, to make the call the other days,|^h|3144
+A|I thought,|sd|3144
+A|I hadn't seen anything since DANCES WITH WOLVES|sd|3144
+A|but today I went to see REGARDING WITH HENRY.|sd|3144
+B|Oh, I'm dying to see that.|sd|3144
+A|It was really good.|sv|3144
+A|We|%|3144
+B|Oh.|b|3144
+A|uh, Jeff Wariner just got out of the hospital|sd|3144
+B|Uh-huh|b|3144
+A|and, uh, Jeff and Deeanna went and another friend in the neighborhood,|sd|3144
+A|and, uh, we all liked it.|sd|3144
+A|We had both moms and, uh, fifteen year olds and a twelve year old|sd|3144
+A|and everyone enjoyed it.|sd|3144
+B|Oh, my goodness.|ba|3144
+A|And, uh,|%|3144
+B|Oh, well I am just dying to see it.|sd|3144
+B|I went to dinner with some friends last weekend|sd|3144
+B|and they said get a baby-sitter|sd|3144
+B|and we'll all go see REGARDING HENRY|^q|3144
+A|Yeah.|b|3144
+B|and I said, ooh, I want to see it so bad.|sd|3144
+A|Well, my son had gotten to see a lot of movies this summer, on, choir tour and visiting friends and one thing and another. A lot of the ones I had wanted to see|sd|3144
+B|Oh.|b|3144
+A|and so since he had this friend up from Houston, uh, and his friend had already seen so many and I thought they decided on this and I thought well, I want to see this one, too.|sd|3144
+A|So, we, uh,  I|%|3144
+B|Yeah.|b|3144
+A|finally, it's my first summer movie|sd|3144
+B|Oh my.|ba|3144
+B|Well, let me see.|^h|3144
+B|Was it,|qy|3144
+B|well, we went to see ONE HUNDRED AND ONE DALMATIANS last weekend|sd|3144
+B|and that may be,|sv|3144
+B|no,|ar|3144
+B|right before I went in the hospital my girlfriend said come on,|sd|3144
+B|we're going to the movies.|^q|3144
+B|And we won't,|sd|3144
+B|well she goes all the time|sd|3144
+B|but I go maybe once every couple of months.|sd|3144
+A|Yeah.|b|3144
+B|And when I go, I go see two at a time.|sd|3144
+B|So we went to see SOAPDISH,|sd|3144
+B|and|%|3144
+A|Oh, was that good?|qy|3144
+A|Cause,|%|3144
+B|Oh, hysterical.|sv|3144
+B|We laughed so hard,|sd|3144
+B|it was just, you couldn't hear half the dialogue because everyone in the audience was laughing   so hard.|sd|3144
+A|Yeah.|b|3144
+A|Well, I want to see that and CITY SLICKERS both.|sd|3144
+A|I love   comedies.|sd|3144
+B|Yeah|b|3144
+A|But, that's what I was|sd|3144
+B|that's the other one that we went to that night.|sd|3144
+A|Oh, was it?|bh|3144
+B|And, my face hurt so bad, from laughing because I love Billy Crystal.|sd|3144
+A|Oh|b|3144
+B|And course, growing up on, on the back of a horse, you know, and being on ranches and stuff, so much of that was so true|sv|3144
+B|and I was absolutely rolling in the aisles.|sd|3144
+B|It was so funny.|sv|3144
+B|Both of them were great.|sv|3144
+A|Oh, well good.|ba|3144
+A|I'm, I'm glad to hear that because they,|sd|3144
+B|Oh, they are, are|aa|3144
+B|we just laughed so hard.|sd|3144
+B|And like I said, with CITY I mean with SOAPDISH, it is so cornball|sv|3144
+B|and it is so overacted that you're just hysterical you know.|sv|3144
+A|Uh-huh|b|3144
+B|Just, they just carried it off, to the tee.|sv|3144
+A|Well, I don't, I don't know if you got to see WEEKEND, um, AT BERNIE'S  that was out a couple of years ago.|qy^d|3144
+B|No.|nn|3144
+A|They had a free showing at the Berkeley, um, United Artist.|sd|3144
+B|How neat.|ba|3144
+A|And, I don't know who was here or whether Jay called a friend|sd|3144
+A|and we didn't think we'd have much chance of getting in|sd|3144
+A|but we thought we'd try it, you know, free movie.|sd|3144
+B|Shoot,|ba|3144
+B|yeah.|aa|3144
+A|It was so funny and it sounds like, uh, what you were just describing, SOAPDISH, too.|sv|3144
+A|I mean, we just, we hurt by the time we came out.|sd|3144
+B|Oh yeah.|b|3144
+A|And the whole theater was hysterical|sd|3144
+A|and it's just, it's just goofy.|sv|3144
+A|I mean, it's, uh,|%|3144
+A|if you have a chance to rent it, at least,|ad|3144
+A|or it should be out on T V, I would think,|sv|3144
+B|Yeah,|aa|3144
+B|I think it is.|sv|3144
+B|I think it is.|sv|3144
+A|Um, cause it's, it's just a fun summer light comedy,|sv|3144
+A|make your cheeks hurt laughing.|sv|3144
+A|Especially in the theater it was contagious, you know|sd|3144
+B|Yeah.|b|3144
+A|I, I imagine the way SOAPDISH was, but, with   everyone laughing.|sv|3144
+B|Oh gosh|ba|3144
+B|I never laughed.|sd|3144
+B|And people were just screaming and applauding|sd|3144
+B|and, you know, it was just hysterical.|sv|3144
+A|Well, I'm glad you did that before your surgery|sd|3144
+B|Oh, me too, because I don't even know if I could live through it now.|sd|3144
+A|Yeah|b|3144
+B|I mean I'm getting around real good|sd|3144
+B|and I'm just still real sore.|sd|3144
+A|Yeah.|b|3144
+B|And today I was, I, course I went back to work two weeks after, uh|sd|3144
+A|Oh, gosh.|ba|3144
+B|but see I don't have permanent work.|sd|3144
+B|I, right now I'm working with a temporary agency.|sd|3144
+B|And so, the second week I was out of the hospital I went up and worked half day on the computers cause you can learn all the software for free.|sd|3144
+A|Oh.|b|3144
+B|Oh, so I went up to do WordPerfect cause that seems like that's what everybody wants,|sd|3144
+B|and I was up there half a day and came home and collapsed.|sd|3144
+A|Yeah.|b|3144
+B|And then they called me to see if I wanted to work a day.|sd|3144
+B|And I said, yeah,|sd|3144
+B|and I went|sd|3144
+B|and of course it took me the whole weekend to recover from that.|sd|3144
+B|And, uh, I worked about three days a week ever since, two to three days a week.|sd|3144
+B|And so I went to my doctors last Thursday,|sd|3144
+B|and this was my fourth week checkup|sd|3144
+B|and he said well gosh, you're just healing really well,|sd|3144
+B|I just can't get over this.|^q|3144
+B|He says, in two weeks you can go back to doing your crazy normal things.|sd|3144
+B|If you want to play ball, you can go play ball.|^q|3144
+B|He says, now I'm not going to say you're going to feel like playing ball|sd|3144
+B|but you can if you want to.|^q|3144
+A|Yeah|b|3144
+B|And, uh, you know, he was teasing me|sd|3144
+B|and he says, yeah,|sd|3144
+B|you'll be out there waterskiing,|^q|3144
+B|I can just see it now.|^q|3144
+B|And, uh, he says so you just take it easy for two more weeks.|sd|3144
+B|You've only got two more weeks.|^q|3144
+B|I said okay fine, I, I will, I will|sd|3144
+B|Whatever you call easy, I'll do it, you know.|^q|3144
+B|But and I've been out trying to find a job because this is just not cutting it.|sd|3144
+A|Yeah.|b|3144
+A|Yeah|b|3144
+B|And so, I don't, I'm real glad that we didn't go see those funny ones when I was, when I'm still sort of on the sore side.|sd|3144
+A|Yeah|b|3144
+B|But,|%|3144
+B|well, what's your next,|qw|3144
+B|have you seen ROBIN HOOD yet?|qy|3144
+A|No,|nn|3144
+A|that was one, uh, Jay got to see with a friend|sd|3144
+A|and so I|%|3144
+B|Uh.|%|3144
+A|and to try and, uh, try and find time it's hard, uh, with Jim's schedule, too, just to get a time that we can both go.|sd|3144
+B|Oh yeah.|b|3144
+A|And, uh, I'm holding out for CITY SLICKERS for the two of us because, uh, we had friends that went to see that and said, you know, it's just perfect for our age group|sd|3144
+B|Uh-huh.|b|3144
+A|and because I think he, he needs a comedy, too.|sv|3144
+A|Uh, and that's what he would have liked to have seen REGARDING HENRY, too,|sd|3144
+A|but knew that, uh,|%|3144
+A|we've, we've got a lot of company this summer, which is wonderful.|sv|3144
+A|We're really enjoying it|sd|3144
+A|but some of the different things we're doing, uh  there's just not a time, enough time to do it all|sd|3144
+B|Uh-huh.|b|3144
+A|and he said, well, realistically  You know, he knew he couldn't get them all in.|sd|3144
+B|Yeah.|b|3144
+A|But, uh, Jay really liked ROBIN HOOD.|sd|3144
+A|Um, when the choir group went to see BACKDRAFT and they thought that was, uh, it was funny cause he sounded like the critics.|sd|3144
+A|He said, you know the plot line and the characters, uh, you know aren't real big|sd|3144
+A|but the, the fire scenes and the you know  that action part is fantastic.|sd|3144
+B|Uh-huh.|b|3144
+A|But, he thought ROBIN HOOD was great.|sd|3144
+A|It was real different then you'd expect,|sv|3144
+A|but  but he enjoyed it|sd|3144
+B|Oh really?|bh|3144
+A|and so,|%|3144
+B|Well I went,|sd|3144
+B|course I am a Kevin Costner fan.|sd|3144
+A|Yeah,|b|3144
+A|me too.|sd|3144
+A|And  yeah,|b|3144
+B|Supreme.|sd|3144
+A|I really, uh, like him a lot. Which is why, DANCES WITH WOLVES was the last movie we had seen   for several months|sd|3144
+B|Uh-huh.|b|3144
+A|but,|%|3144
+B|Gosh, was that wonderful.|sv|3144
+A|It was,|aa|3144
+A|I, uh,|%|3144
+A|in fact, uh, a friend from Germany was visiting in March|sd|3144
+A|and we wanted, we didn't, ran out of time, we wanted to take him to see it.|sd|3144
+A|We were going to sit through it again cause we really wanted him to see it, too.|sd|3144
+B|Oh, yeah.|b|3144
+A|Uh, I just thought that was terrific.|sv|3144
+A|And I really enjoy Harrison Ford which is one of the reasons I wanted to see,|sd|3144
+B|I do, too.|aa|3144
+B|I think he's really good.|sv|3144
+A|And he's very good in REGARDING HENRY.|sv|3144
+A|That's not an easy part to play, I, I don't think|sv|3144
+B|I wouldn't think.|aa|3144
+B|Well, my kids are going to their Dad's tomorrow night|sd|3144
+B|so I sort of think I may go do that.|sd|3144
+A|Yeah.|b|3144
+A|That's at, that one won't your sides|sv|3144
+B|Good|ba|3144
+A|Um, it,|%|3144
+A|was this the first time you got to see ONE HUNDRED AND ONE DALMATIANS?|qy|3144
+A|Or,|%|3144
+B|I|%|3144
+B|my parents took me when I was probably somewhere between Ashley and Jamie's age begin to|sd|3144
+A|Uh-huh.|b|3144
+B|And we went to the,|sd|3144

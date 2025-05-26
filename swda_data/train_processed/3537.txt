@@ -1,0 +1,96 @@
+A|Okay,|fo_o_fw_"_by_bc|3537
+A|what do you think about, uh, the self insurance business?|qw|3537
+B|Well, I watched something on T V a couple of months ago by, uh, General, ex, uh, Surgeon General Koop.|sd|3537
+A|Uh-huh.|b|3537
+B|And he talked about Canada's system|sd|3537
+B|and it appears to work fine for the normal colds and things like that,|sv|3537
+B|but the expensive stuff, heart, uh, operations and things, they have a managed scarcity.|sd|3537
+B|And they said that in Canada, there were as many heart, uh, trauma centers as there is in San Francisco.|sd|3537
+B|So in one city of, in America, there's as many, uh, hospitals that are equipped to do uh, heart operations as in the entire area of Canada,|sd|3537
+B|and that's kind of spooky.|sv|3537
+A|Well, I, uh, I understand what you're saying,|sd|3537
+A|and there's probably some truth to that.|sv|3537
+A|I think that, uh, generally I don't welcome added government responsibilities.|sv|3537
+A|However, when a, anybody can't police their own profession, it eventually leads to that,|sv|3537
+A|and I think the costs and the, uh, the way the medical profession has, every year|sd|3537
+A|I, being in my own business, uh,|sd|3537
+A|in the last six years, every year there's been at least minimum twenty-five percent increase in health insurance costs,|sd|3537
+A|and I think eventually the number of people that can afford health insurance, as, as it is now getting squeezed and squeezed tighter.|sv|3537
+B|Uh-huh.|b|3537
+A|Uh, I think they're asking for it.|sv|3537
+A|I, I think the medical profession is just, just pushing until there's no option but the government take it over|sv|3537
+A|and, uh,|%|3537
+B|Do you think that it's just, uh, medical guys?|qy|3537
+B|What about, you know, you know how expensive new equipment and technology is.|qw|3537
+B|That's where I think most of the cost is coming.|sv|3537
+A|Well, I, I think a lot of it is, uh,|sv|3537
+A|I, I don't disagree totally with that,|arp_nd|3537
+A|but, uh, my wife this last summer, uh, when we were on vacation tore up her knee,|sd|3537
+A|and, uh, uh, it was ligaments, uh, in her knee,  as it turned out, uh,|sd|3537
+B|Uh-huh.|b|3537
+A|she came back that, uh,|sd|3537
+A|we were out at Cape Hatteras when this happened|sd|3537
+A|and, uh, she got home,|sd|3537
+A|and the leading orthopedic man, who has handled football people for years and is as good as they come,|sd|3537
+A|I mean, he knows knee problems okay,|sd|3537
+B|Uh-huh.|b|3537
+A|I mean if anyone does, this guy knows it.|sd|3537
+A|Well, she goes in,|sd|3537
+A|he says, well, I think this is what it is,|sd|3537
+A|but, uh, you better go to the hospital and have one of these M R I things.|^q|3537
+A|A thousand dollars for this, uh, oh, magnetic, uh, resonance imaging type thing.|sd|3537
+A|And my wife said, well, do I need that?|sd|3537
+A|And he says, well, uh, you know, it, it'll help me diagnose this.|sd|3537
+A|I mean, uh, you know, I, I suggest you go have this thing.|^q|3537
+A|Insurance won't pick this up unless you're in the hospital.|sd|3537
+A|Now, a,  thousand, uh, uh, dollars for thirty-five minutes.|sd|3537
+B|Oh, great.|ba|3537
+A|I mean, doctors routinely send people in for anything.|sv|3537
+A|Now, for years they didn't have this|sd|3537
+A|and they solved these problems,|sv|3537
+A|and, you know,|%|3537
+B|Yeah .|b|3537
+A|I said to her, well, look, you know, if you feel you got to go, go,|sd|3537
+A|but I, I think a thousand dollars,|sd|3537
+A|these guys,|%|3537
+A|I don't know what it is,|sd|3537
+A|but there's,  no doubt they get kickbacks to fill these machines up night and day.|sv|3537
+B|Uh-huh .|b|3537
+A|And even if they cost a hundred, two hundred, five hundred thousand dollars, at, uh, roughly a thousand dollars every half hour, uh, that's ridiculous.|sv|3537
+A|I, I don't care what anyone says.|sd|3537
+A|You know, the costs are not,|sv|3537
+A|it's a picture.|sd|3537
+A|It shouldn't cost more than thirty-five bucks for something like that, you know, reasonableness.|sv|3537
+A|But they aren't reasonable.|sv|3537
+A|Fifty, a hundred dollars.|sd|3537
+A|They don't have to pay them back in three months time.|sd|3537
+B|No.|aa|3537
+B|Yeah,|aa|3537
+B|I'll have to agree,  with you there,|sd|3537
+A|You know .|%|3537
+B|but there's another problem,|sv|3537
+B|and that's the, how litigious our society is.|sv|3537
+B|If the doctor makes a mistake, he can be sure that he's going to be hauled into court.|sv|3537
+A|Well, I think that should be, that, that's a, another problem,|sv|3537
+A|but that's part of our legalese problem.|sv|3537
+A|And that, the government eventually will address too just, you know, because it's out of control.|sv|3537
+A|I, I agree with you.|aa|3537
+A|You know, uh, I was on a jury|sd|3537
+A|or I, I didn't make the jury,|sd|3537
+A|but there was a, deal where a doctor was going to be sued for malpractice on the death on an infant.|sd|3537
+B|Uh-huh.|b|3537
+A|Like it was three days after it was born,|sd|3537
+A|and he was the one that delivered it.|sd|3537
+A|And they got four attorneys,|sd|3537
+A|one guy out of Houston, he introduced himself as snake so-and-so,|sd|3537
+A|and he says, well, anyone have trouble awarding five million dollars,|sd|3537
+A|and I says, yeah,|sd|3537
+A|I got problems with|^q|3537
+A|I mean, you know, five million bucks isn't going to bring this kid back, you know,|sd|3537
+A|I mean, as sorrowful as it is. Uh, you know, if the doctor is wrong, you know, he should be pulled from his license,|sv|3537
+A|but five million dollars and away he goes because insurance pays for it, you know,|sd|3537
+A|it, it doesn't make logical sense to me,|sd|3537
+A|but, uh,|%|3537
+B|No,|aa|3537
+B|it doesn't.|sv|3537
+A|Uh, that's,|%|3537

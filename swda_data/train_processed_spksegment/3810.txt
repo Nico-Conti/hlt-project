@@ -1,0 +1,127 @@
+A|Why don't you tell me about your choir.|ad|3810|0
+B|Oh.|b|3810|1
+B|Okay,|aa|3810|1
+B|well, we, uh, are a group of, uh, musicians that just kind of have, you know, formed out of a desire to sing|sd|3810|1
+B|and many of the people in the group are very professional in the sense that they, or just real talented I should say.|sd|3810|1
+A|Uh-huh.|b|3810|0
+B|Lot of them are former music teachers or currently teaching. Uh,|sd|3810|1
+B|others have,|%|3810|1
+B|there's one gal that's in the, uh, Plano Community Orchestra. Uh,|sd|3810|1
+B|just, you know, different backgrounds.|sd|3810|1
+B|It's been really kind of interesting.|sd|3810|1
+A|Great.|ba|3810|0
+B|So,|%|3810|1
+A|Uh, I play the piano|sd|3810|0
+B|Um.|b|3810|1
+A|and, uh, I have a four year old who, who has started to play the piano.|sd|3810|0
+A|He does that, uh, musically, listens|sd|3810|0
+A|and then he can play, which is kind of interesting.|sd|3810|0
+B|Oh, yeah.|b|3810|1
+A|I think it's because he's always heard music in our home all the, since he was a baby.|sv|3810|0
+B|Uh-huh.|b|3810|1
+A|Uh, my husband and my other son, who's eleven just got through singing in a musical here, in, in the community at Music Man.|sd|3810|0
+B|Oh, they did?|bh|3810|1
+A|Yeah,|qy|3810|0
+A|and that's lots of fun.|sd|3810|0
+B|How did, How did they get involved in that?|qw|3810|1
+A|Uh, basically they read in the newspaper that there were open auditions.|sd|3810|0
+A|It was the Plano Repertory Theatre.|sd|3810|0
+B|Uh-huh.|b|3810|1
+A|And so they went and tried out|sd|3810|0
+A|and my husband played Harold Hill from the Music Man|sd|3810|0
+A|and my son played one of the children in a band.|sd|3810|0
+B|Oh, how fun.|ba|3810|1
+A|So, yeah,|aa|3810|0
+A|it was really fun,|aa|3810|0
+A|and, uh, my son plays the clarinet in his band at school,|sd|3810|0
+A|and my daughter takes piano lessons, too.|sd|3810|0
+B|Uh-huh.|b|3810|1
+A|But, uh, we just really like music.|sd|3810|0
+A|It's a, I, I especially like it as an outlet when the T V goes off,|sd|3810|0
+A|we get the T V off and just have some nice quiet music.|sd|3810|0
+B|Um, uh-huh,|b|3810|1
+B|um.|b|3810|1
+B|Yeah,|b|3810|1
+B|yeah,|b|3810|1
+B|that's nice.|ba|3810|1
+B|You say have your four year old taking lessons already?|qy^d|3810|1
+A|Uh-huh.|ny|3810|0
+B|And, uh, who do you have her, or him, take it from?|qw|3810|1
+A|Uh, I have him take from a friend of mine who teaches Suzuki. Which is an auditory type learning experience.|sd|3810|0
+B|Uh-huh.|b|3810|1
+A|You listen to the music and then learn to play it by by hearing the intervals and things like that.|sd|3810|0
+B|Uh-huh.|b|3810|1
+A|I teach, uh, like what is traditionally taught, you know,|sd|3810|0
+A|you look at the note on the page|sd|3810|0
+A|and you play what's on the piano,|sd|3810|0
+A|but he can't learn like that.|sd|3810|0
+A|He's a delayed child.|sd|3810|0
+A|He's only about, I guess he's about two and a half in his real understanding of things.|sd|3810|0
+B|Oh.|b|3810|1
+A|And, uh, so when my friend played something on the piano and he played it, uh, with his right hand,|sd|3810|0
+A|we went, wow|sd|3810|0
+B|Uh-huh.|b|3810|1
+A|we better have him do do something. You know, educationally.|^q|3810|0
+B|Yeah.|b|3810|1
+B|Yeah.|b|3810|1
+A|So that was really fun.|sd|3810|0
+B|Well, because my,|%|3810|1
+A|My husband and I love to go to the musicals downtown, though.|sd|3810|0
+B|Pardon me?|br|3810|1
+A|So, my husband and I love to go to the musicals when they come into town into Dallas.|sd|3810|0
+B|Uh-huh.|b|3810|1
+B|Uh-huh.|b|3810|1
+B|Well, I have an eight and a half year old daughter who's taking piano lessons and started out at the age of just turning five|sd|3810|1
+A|Um.|b|3810|0
+B|because she wanted, you know, she just seemed to enjoy it so much|sd|3810|1
+B|and now my, my four year old, four and a half year old daughter is, is trying to imitate her older sister and wanting to play|sd|3810|1
+B|and she actually does some very nice chording just naturally.|sd|3810|1
+B|She just,|%|3810|1
+A|Oh, I think that's great.|sv|3810|0
+B|So I wasn't sure when to start her.|sd|3810|1
+B|I didn't want to push her too early, either, but, uh, kind of had a mixed feelings about that scene.|sd|3810|1
+A|That's really hard I think, because, especially if you start them|sv|3810|0
+A|and then they get pretty good|sv|3810|0
+A|and then they get close, ten, you know, eleven or something,|sv|3810|0
+A|they go, I don't want to do this anymore|sv|3810|0
+A|and you're like God, I really want you to do it.|sv|3810|0
+B|Uh-huh|b|3810|1
+B|Yeah.|b|3810|1
+A|You know.|qh|3810|0
+B|Yeah.|b|3810|1
+A|So sometimes it's hard to, to know exactly when,|sv|3810|0
+A|but, I don't know,|h|3810|0
+A|if she acts like she wants to or says she wants to maybe you could have her take some for a while and see how she likes it.|ad|3810|0
+B|Uh-huh,|aa|3810|1
+B|uh-huh.|aa|3810|1
+B|Yeah,|aa|3810|1
+B|I think she'd like to,|sd|3810|1
+B|I just don't know if it's really,|%|3810|1
+B|knowing from what my daughter has gone through, she's, she learned a lot|sd|3810|1
+B|and, of course, it was something she had to keep relearning if she ever got away from it.|sd|3810|1
+A|Uh-huh.|b|3810|0
+B|It was something easily forgotten.|sd|3810|1
+B|So, uh, I don't know if she's any farther ahead than those kids who started when they were eight|sd|3810|1
+B|or, or should I say seven.|sd|3810|1
+B|I mean, she's not a gifted pianist in the sense that she's going to excel just naturally.|sd|3810|1
+B|She does have to really work at it,|sd|3810|1
+B|but, uh, so,|%|3810|1
+A|That's like me.|sd|3810|0
+B|Yeah,|b|3810|1
+B|but, so I'm kind of, you know, just playing with it,|sd|3810|1
+B|but at this point we're going to kind of wait, I think just more for the financial reasons of it anyway|sd|3810|1
+B|but,|%|3810|1
+A|Well, it can get expensive|sv|3810|0
+B|Yeah.|b|3810|1
+A|that's for sure.|sv|3810|0
+B|Yeah.|b|3810|1
+A|I, my friend is, is very generous in, in letting us have my children, uh, do the Suzuki method without paying a lot out.|sd|3810|0
+B|Uh-huh.|b|3810|1
+B|Oh, that's good.|ba|3810|1
+A|Yeah,|aa|3810|0
+A|so it's been good for our family.|sd|3810|0
+B|Well, as a piano teacher, do you have any feelings for kids who come from a Suzuki method,|qy|3810|1
+B|have you had any former Suzuki students?|qy|3810|1
+A|I don't have any Suzuki students. Uh,|ng|3810|0
+B|I was wondering how,|qw^d|3810|1
+A|Something happening to me at Christmas time that, that verified to me that I will|sd|3810|0

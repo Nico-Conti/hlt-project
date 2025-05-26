@@ -1,0 +1,235 @@
+A|Hi,|fp|2917
+A|what do you do with your credit cards?|qo|2917
+B|Oh|b|2917
+B|Well, my husband and I have gotten into some, some problems with credit cards.|sd|2917
+B|We don't handle them very well|sd|2917
+B|We, we tend to run them up to the maximum and then ask for more.|sd|2917
+A|Oh, jeez.|ba|2917
+B|They, they're, they're really bad for us.|sd|2917
+B|Um, matter of fact, we've gotten rid of all of our credit cards except for a MasterCard and a Visa,|sd|2917
+B|and we pretty much keep those maxed out.|sd|2917
+A|Oh, I was going to say that, that sounds like, like pretty many.|sd|2917
+A|But I see what you meant,|sd|2917
+A|you had them for each of the individual stores.|bf|2917
+B|Yeah,|aa|2917
+B|we had I had probably twenty credit cards for,|sd|2917
+A|Uh-huh,|b|2917
+A|uh-huh.|b|2917
+B|I had, I had an American Express, American Express Gold, an Optima, all the different department stores, um, two Visas, two MasterCards|sd|2917
+A|Oh, gee.|ba|2917
+B|I mean, I had,|sd|2917
+B|any time anybody would, you know, send me an application, you know, preapproved or whatever, I went, I took it,|sd|2917
+B|and it really ended up getting us in some real serious trouble.|sd|2917
+A|Oh, sure.|aa|2917
+B|Um, because, see, the more credit cards you have, the more people offer them to you.|sv|2917
+A|Uh-huh,|aa|2917
+A|uh-huh.|aa|2917
+B|And the more you use them, the more they send them to you.|sv|2917
+A|But each of these had an annual fee also, right.|qy|2917
+B|Exactly.|na|2917
+B|The American Express was probably the worst, um, because with the Gold card,|sd|2917
+B|I can't remember how much it was because I didn't even have it very long before I gave it up|sd|2917
+A|Uh-huh.|b|2917
+B|but I know the Green card was like thirty-five, five dollars a year.|sd|2917
+A|Yeah,|b|2917
+A|forty five.|ar|2917
+A|Right, uh,|%|2917
+A|I,|%|2917
+B|Which was a lot,|sv|2917
+B|because I mean, you had to pay it in full every month.|sd|2917
+A|Exactly, you know,|aa|2917
+A|I, that's it,|aa|2917
+A|I really resented the fact that they were charging me for cards,|sd|2917
+A|so I sent back all of mine, except the ones that were free.|sd|2917
+B|Uh-huh.|b|2917
+A|And, um, then, then I also limited it to one of each, one MasterCard and one Visa,|sd|2917
+A|and here, most of the stores will accept those,|sd|2917
+A|and actually I then got a Discover card since they pay you back.|sd|2917
+B|Uh-huh,|b|2917
+B|yeah,|b|2917
+B|I had a Discover,|sd|2917
+B|and that was one of the ones in the group that I ended up, um, closing.|sd|2917
+B|Um, it really wasn't my choice, though.|sd|2917
+B|I mean, I ended up having, I ended up actually losing my credit cards.|sd|2917
+A|Oh.|b|2917
+B|Um, I ended up going through a credit counseling service um, because my husband and I just don't handle credit very well|sd|2917
+A|Uh-huh,|b|2917
+A|uh-huh.|b|2917
+A|Uh-huh,|b|2917
+A|yeah.|b|2917
+B|and, um, when, when you do that, they automatically, once you start with their service, they close your accounts out.|sd|2917
+A|Oh, I see.|b|2917
+B|So, I'm still paying on all these accounts,|sd|2917
+B|but my accounts are closed.|sd|2917
+A|Yeah.|b|2917
+B|So, and I would prefer to keep it that way.|sd|2917
+B|Once we, once we're paid off um, I would prefer just to have one MasterCard and one Visa|sd|2917
+A|Uh-huh.|b|2917
+B|and that's it.|sd|2917
+A|Yeah,|b|2917
+A|yeah.|b|2917
+A|Actually I pay off my cards every month.|sd|2917
+A|Only once in my life have I not paid.|sd|2917
+B|I think that's a really good way to handle it, because that way, if you, if you paid off every month, you never have to worry about, well, how much do I have to pay these guys, you know, this month, you know.|sv|2917
+B|This, you buy what you can afford.|sv|2917
+B|I mean if you handle it just like you would like a check or cash it's a lot easier to keep it in check.|sv|2917
+A|Right.|b|2917
+A|Uh-huh,|aa|2917
+A|uh-huh.|aa|2917
+A|Well, and also in a sense, they're giving you a loan for a month|sd|2917
+A|so that you know, if I were smarter, I would have that same amount in savings and get the interest, which I don't do,|sd|2917
+B|Yeah.|b|2917
+B|Uh-huh.|b|2917
+A|but, but yeah,|%|2917
+A|the, the thought of adding, you know, X percent to, to the price of what I buy, I just, I can't accept.|sd|2917
+B|Yeah,|b|2917
+B|and I, and I think at this, at this point in time with the economy the way it is, I think that, um, it's going to get even worse.|sv|2917
+B|Um, I'm, I'm glad that we're starting to pay our debts off, now, um, you know,|sd|2917
+B|we, only we started this last year|sd|2917
+A|Uh-huh,|b|2917
+A|uh-huh.|b|2917
+B|and we probably still have about another year to go before we're completely out of the hole.|sd|2917
+A|Uh-huh.|b|2917
+B|But I think this, they way the whole economy is going right now, it's just not good to be in debt.|sv|2917
+A|That's right,|aa|2917
+A|that's right.|aa|2917
+A|Yeah,|aa|2917
+A|yeah,|aa|2917
+A|that, I would, that would be a very scary feeling for me to know that I was, you know, juggling payments to different people I guess because I never experienced it.|sd|2917
+B|Uh-huh.|b|2917
+A|And it's not, because you know, I'm rich or anything,|sd|2917
+A|it's just, a mental concept that I have. Yeah,|sd|2917
+B|Yeah.|b|2917
+A|that I just.|%|2917
+B|Well, when you, when you're getting rid of the whole credit card cycle, and if you really get into the mind set, I got really good at juggling money and basically robbing Peter to pay Paul,|sd|2917
+B|and it was scary, because I was so good at it.|sd|2917
+A|Uh-huh,|b|2917
+A|uh-huh.|b|2917
+B|And I thought, this is not right.|sd|2917
+B|I mean, this has got to stop, because eventually it'd end up catching up at, catching up with me|^q|2917
+B|and it hit me in the face.|sd|2917
+A|Right,|b|2917
+A|right.|b|2917
+B|Um.|b|2917
+A|But it sounds like, you know, you, you learned from it|bf|2917
+A|and you're coming out of it all right.|bf|2917
+B|I, yeah,|aa|2917
+B|I have,|aa|2917
+B|I've learned a lot from it.|aa|2917
+A|Uh-huh.|b|2917
+B|I've learned that credit cards are extremely dangerous in my hand and my husband's too, because he's, he's the same way I am.|sd|2917
+A|Uh-huh,|b|2917
+A|uh-huh.|b|2917
+A|Uh-huh.|b|2917
+B|I don't, I don't think that,|%|2917
+B|well, when we buy on credit we just don't have a concept of how much money we're spending until the bill comes in.|sd|2917
+A|Uh-huh.|b|2917
+A|Uh-huh.|b|2917
+B|And then all of a sudden you look at the bill|sv|2917
+B|and you go, Oh my gosh,|sv|2917
+B|I spent this much.|^q|2917
+A|But now, the fact that you still have two cards,|%|2917
+A|are you, do you use them, more judiciously?|qy|2917
+B|Yeah,|ny|2917
+B|we pretty much use them for emergency type things like transmission fell out on our car|sd|2917
+A|Yeah.|b|2917
+B|and that paid for a new transmission|sd|2917
+A|Uh-huh.|b|2917
+B|um, and, and things like that.|sd|2917
+B|Um, and we try not to use them for incidental type things, like, you know, gas and stuff like that.|sd|2917
+A|Purchases.|^2|2917
+A|Uh-huh,|b|2917
+A|uh-huh|b|2917
+A|Clothing, sales.|qy^d|2917
+B|Yeah.|ny|2917
+A|Sales I find are a pain.|sd|2917
+B|Yeah.|b|2917
+B|I've, I've gotten, I've gotten a lot more away from, from credit cards,|sd|2917
+B|and I pay by check a lot more now.|sd|2917
+A|Uh-huh,|b|2917
+A|uh-huh.|b|2917
+A|Well, it sounds good, you know.|ba|2917
+A|Like I said, it sounds like you're, you've really got it under control.|bf|2917
+B|I, I admire you for having, having that mind set for not, not even getting, you know, past the thirty days,|sd|2917
+B|I would, that's ideally the where, where I would like to be.|sd|2917
+A|Uh-huh,|b|2917
+A|uh-huh.|b|2917
+A|Yeah,|b|2917
+A|and like I said, once, once it, it happened I couldn't because my son's tuition came due,|sd|2917
+A|and I guess I had, you know, not really counted on it quite at that point|sd|2917
+B|Uh-huh.|b|2917
+A|but, um, yeah,|b|2917
+A|I didn't like it at all.|sd|2917
+A|I was very uncomfortable.|sd|2917
+A|So,|%|2917
+B|I can imagine.|ba|2917
+A|You know, and, and I mean, it was, I thought a lot,|sd|2917
+A|sixty dollars interest or something for, for just a couple of months,|sd|2917
+A|and I'm going jeez, that's outrageous,|sd|2917
+B|Yeah.|b|2917
+A|but in, in, you know, retrospect it wasn't all that much,|sv|2917
+A|I mean a lot of people pay a lot more|sv|2917
+A|and and, you know, but still, I mean, I figured I didn't need those items if it cost me sixty dollars more to have them.|sd|2917
+B|Oh, yeah.|b|2917
+B|Uh-huh.|b|2917
+B|Think about what you can buy for sixty dollars.|ad|2917
+A|Exactly|aa|2917
+A|Groceries for a week.|sv|2917
+B|Yeah,|aa|2917
+B|yeah.|aa|2917
+A|Yeah.|b^m|2917
+B|I, I think about all, all the money that, that we've spent on interest on all of our credit cards,|sd|2917
+A|Uh-huh.|b|2917
+B|and it's just incredible.|sd|2917
+A|But now did you use to not feel so badly because you could take it off your income tax?|qy|2917
+B|We've never been able to take it off our income tax.|arp_nd|2917
+B|I'm, I'm fairly newly married.|sd|2917
+B|I've only been married less than two years|sd|2917
+A|Uh-huh.|b|2917
+B|and before that, I never owned a home or anything,|sd|2917
+B|so I never had any deductions.|sd|2917
+A|Right,|b|2917
+A|right.|b|2917
+B|So, really, it was always just money thrown away.|sd|2917
+A|Thrown away.|^2|2917
+A|Yeah,|b|2917
+A|jeez.|ba|2917
+B|And I never really thought about it because,|sd|2917
+A|You were good at it|bf|2917
+B|Yeah,|aa|2917
+B|I was so good at it that it just kind of got stuck in the back of my mind and just never um, became a real problem until all of a sudden it came an insurmountable problem.|sd|2917
+A|Uh-huh.|b|2917
+A|Yeah.|b|2917
+A|I suspect that, you know, thinking about it and looking at my friends and the number of credit cards that they use and, you know, the amount that I know they buy, I guess probably a lot of them are in a similar situation, and, you know, just don't talk about it.|sd|2917
+B|Yeah.|aa|2917
+B|Most, most people don't like to talk about money.|sv|2917
+B|They feel uncomfortable, I think.|sv|2917
+A|Uh-huh,|aa|2917
+A|uh-huh,|aa|2917
+B|You know, for a lot of people it is very personal.|sv|2917
+A|very personal.|sv|2917
+A|Uh-huh,|aa|2917
+A|yeah,|aa|2917
+A|and especially if you, if you don't feel you're handling it quite right or that somebody might make fun of you or that it would be,|sv|2917
+B|Yeah.|b|2917
+B|But I think the, the average American is probably pretty heavily in debt. Not, not including like a mortgage.|sv|2917
+B|A mortgage is an understandable debt because that's, you have, you have to have a roof over your head.|sv|2917
+A|Uh-huh.|b|2917
+A|Right.|b|2917
+B|And I would much rather own my own home than, than be renting it like we're doing.|sd|2917
+B|I mean, we're basically, you know, kind of throwing seven hundred dollars a month away.|sd|2917
+A|Uh-huh,|aa|2917
+A|uh-huh.|aa|2917
+B|We're renting a house.|sd|2917
+A|Uh-huh.|b|2917
+B|But, you know, right now with the way our credit card situation is, there's nobody in the world that's going to give us a mortgage on a house.|sd|2917
+A|Right,|aa|2917
+A|right.|aa|2917
+A|But, but, once I suppose you, you prove yourself by paying this off next year you'll be in very good shape.|sv|2917
+B|Yeah.|b|2917
+B|Yeah.|aa|2917
+B|It's, it's going to, it's going to take quite a while.|sv|2917
+A|Uh-huh.|b|2917
+B|Hopefully within five years we'll be in our own home.|sd|2917
+A|Uh-huh.|b|2917
+B|But, um, I'm not really counting on it real soon.|sd|2917

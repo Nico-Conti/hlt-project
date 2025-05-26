@@ -1,0 +1,108 @@
+B|Now is it Stacy?|qy|3506|0
+A|Angie.|sd|3506|1
+B|Angie,|b^m|3506|0
+B|I'm sorry.|fa|3506|0
+A|Okay.|bd|3506|1
+B|Well, now, so if you were going to have a dinner party, what would you make?|qw|3506|0
+A|Um, let's see,|^h|3506|1
+A|uh, I like seafood.|sd|3506|1
+A|Uh, let's see,|^h|3506|1
+A|uh, shrimp, steamed uh, shellfish with maybe herbs.|sd|3506|1
+A|Uh, spicy lobster with linguini.|sd|3506|1
+B|That sounds good.|sv|3506|0
+A|Yeah.|b|3506|1
+B|Now what is, uh, what is, uh, the steamed shellfish you said?|br|3506|0
+A|Uh-huh.|ny|3506|1
+B|And what would that be like, a clam or, uh,|qy|3506|0
+A|Right.|na|3506|1
+B|Okay.|bk|3506|0
+A|Yeah.|b|3506|1
+A|Uh, I think hors d'oeuvres are good, too.|sv|3506|1
+A|Uh, and that way, you can have a variety. Uh,|sd|3506|1
+B|So if you have a, a dinner party and you're going to serve, uh, seafood for supper, what type of, uh, hors d'oeuvres would you serve prior to the meal?|qw|3506|0
+A|Uh,|%|3506|1
+B|Like cheeses or fruits or vegetables or,|qrr|3506|0
+A|Yeah,|b|3506|1
+A|fresh vegetables would be good|sv|3506|1
+A|or, uh, just,|%|3506|1
+B|Probably not nachos and dip, huh?|qy|3506|0
+A|No.|nn|3506|1
+B|And would you, uh, would it be appropriate to, uh, drink with the, uh, prior, when you have the hors d'oeuvres?|qy|3506|0
+A|Yeah,|ny|3506|1
+A|yeah.|ny|3506|1
+B|Okay.|bk|3506|0
+B|And then when you serve the meal, what type of wine would you have with, uh, with the, with seafood?|qw|3506|0
+A|Oh, all these hard questions|^h|3506|1
+A|Uh, what, white wine?|qy|3506|1
+B|That would be my guess.|na|3506|0
+A|Yeah.|b|3506|1
+B|And, And then, uh, uh, dessert.|sd|3506|0
+A|I'm not really a drinker,|sd|3506|1
+A|so I'm not, I don't know a lot about that.|sd|3506|1
+B|Something sweet?|qy^d|3506|0
+A|Oh, goodness.|ba|3506|1
+A|Uh, chocolate, something chocolate.|sd|3506|1
+A|Uh|%|3506|1
+B|You must like chocolate.|qy^d|3506|0
+A|Yes.|ny|3506|1
+B|Well, let's see.|^h|3506|0
+B|Usually when we have a dinner party, I always, I like to grill.|sd|3506|0
+A|Oh, you do?|qy^d|3506|1
+B|So, we might have some cocktails ahead of time and maybe some, uh, some dip, uh, some cheese.|sd|3506|0
+B|One of our favorites is, uh, to take some, let's see Philadelphia cream cheese I think, is that what comes in  those little blocks?  And pour cocktail sauce over the top of it and then get these little canned shrimp and, uh, wash them and cool them and then dump them in the, uh, sauce and then take crackers|sd|3506|0
+A|Uh-huh.|b|3506|1
+A|Yeah.|b|3506|1
+B|and then you just dip the cracker in the sauce with the clams and the cream cheese|sd|3506|0
+B|and you have a real nice dip that goes good with a cocktail.|sv|3506|0
+B|And then I like to barbecue, like steaks or pork chops.|sd|3506|0
+B|And then we have, uh, oh, lot of times we'll have baked potatoes with them and a salad|sd|3506|0
+A|Uh-huh.|b|3506|1
+B|and then, uh, I don't know what we usually have for dessert.|sd|3506|0
+B|Cake sometimes,|sd|3506|0
+B|but, uh, that's what we would do for a dinner party, I guess.|sd|3506|0
+A|That sounds good, too.|sv|3506|1
+B|But that's, I guess when you talk about dinner party, that's probably not, uh, that's more for like when friends come over.|sv|3506|0
+A|Traditional|sd|3506|1
+A|right?|^g|3506|1
+B|Traditional,|sd|3506|0
+B|yeah.|ny|3506|0
+A|Yeah.|b|3506|1
+B|I wouldn't be the big, uh, snotty kind.|sv|3506|0
+A|I just started, I just really started, uh, uh, learning about that|sd|3506|1
+A|and I bought a Martha Stewart,|sd|3506|1
+A|I don't know if you've heard of her.|qy^d|3506|1
+B|Huh-uh.|nn|3506|0
+A|Her cookbook|sd|3506|1
+A|and she talks about catering and, uh, you know, goes into, goes into all that and the different types of, uh, uh, different types of parties, you know, different types of foods.|sd|3506|1
+B|Oh, well, do you work in a, uh, in a setting where you, uh, are in the food business?|qy|3506|0
+A|Um, my father owns a restaurant.|sd|3506|1
+B|Oh, in, uh, Is it in Dallas?|qy|3506|0
+A|It's, it's just a, uh, a cafe,|sd|3506|1
+A|so it's not really anything, you know, that I want to,|sd|3506|1
+A|it's not the same|sd|3506|1
+A|Uh, it's in Lewisville.|sd|3506|1
+B|Okay,|bk|3506|0
+B|all right.|bk|3506|0
+B|So you graduated from which high school?|qw|3506|0
+A|Trinity.|sd|3506|1
+B|Trinity,|b^m|3506|0
+B|okay.|bk|3506|0
+B|And that's a public school or private?|qy|3506|0
+A|That's public.|sd|3506|1
+B|Huh, okay,|bk|3506|0
+B|I have to get to know this area a little better, I guess.|sd|3506|0
+B|Uh, well, is your father's cafe, uh, one that you could cater out of?|qy|3506|0
+A|No,|nn|3506|1
+A|uh-huh, *listen; mistranscription of 'uh-uh'?|nn|3506|1
+A|it's not.|sd|3506|1
+B|Um, and he's not interested in letting his twenty-one year old daughter experiment with it probably.|qy^d|3506|0
+A|Uh.|%|3506|1
+B|Well, let's see,|^h|3506|0
+B|what else for catering. Uh,|^h|3506|0
+A|Let's see,|t1|3506|1
+A|what about Hawaiian luau.|qw|3506|1
+B|Oh, that would be good.|sv|3506|0
+A|Could have, uh, uh, fruits and, and pineapple, uh,|sd|3506|1
+A|let's see, uh,|^h|3506|1
+B|And you could actually go with, uh, a chicken if you wanted to.|sv|3506|0
+A|I think, I think decorating your food is, you know, really,|sv|3506|1

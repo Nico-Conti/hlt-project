@@ -1,0 +1,111 @@
+A|So, the, the topic is hobbies|sd|2593
+B|In your spare time.|^2|2593
+A|Yeah.|b|2593
+A|Who has spare time|qh|2593
+A|Um, I don't really, don't really do any handicraft things like that.|sd|2593
+A|I used to. I used to do, like salt ornaments and things.|sd|2593
+B|Uh-huh.|b|2593
+A|But that was, oh, good many, many years ago|sd|2593
+A|and I have, I really, my spare time|%|2593
+B|Yeah.|b|2593
+A|I usually go do aerobics and read,|sd|2593
+A|and that's,  about it|sd|2593
+B|Yeah.|b|2593
+B|Yeah.|b|2593
+B|I understood that.|sd|2593
+B|I'm, you know, I work full time|sd|2593
+B|and I have two kids|sd|2593
+B|so my spare time usually involves something with the kids.|sd|2593
+A|Yeah.|b|2593
+B|You know, hobbies,|%|2593
+B|we, I, I can't really say that we have hobbies.|sd|2593
+B|It's more like maybe projects or something on the weekend.|sd|2593
+B|You know, we like to go out  go out,|sd|2593
+A|Yeah,|b|2593
+A|family.|%|2593
+A|Well, well, that's what I meant by salt that we, we did that like as a family, little ornaments and, things like that, and just kind of really got into it. Like during the Christmas season, making them up for other people and things like that.|sd|2593
+B|Oh.|b|2593
+B|Uh-huh.|b|2593
+B|Right.|b|2593
+A|But as far as,|%|2593
+B|Uh-huh.|b|2593
+A|I've just never been very skilled at,  far, you know, needle, work|sd|2593
+B|Uh-huh.|b|2593
+A|And the things I've tried to do just don't look very good|sd|2593
+A|and,|%|2593
+B|I, I guess mostly as far as, as crafts go, I've done, um, some needlepoint.|sd|2593
+B|I've done mostly cross stitching.|sd|2593
+B|I used to, uh, do like, um,|sd|2593
+B|one that I did for both kids are like, oh,|sd|2593
+B|they're plaques with, you know, different kind of animals|sd|2593
+B|and then you have their birth date on them,|sd|2593
+A|Yeah.|b|2593
+B|and then you have a little picture of them|sd|2593
+B|and you frame them and stuff,|sd|2593
+A|Uh-huh.|b|2593
+B|but nothing steady.|sd|2593
+B|Just when I get some spare time here and there I'll work on it,|sd|2593
+B|but, you know, it's nothing that I, can really,|sd|2593
+A|It's not, like you sit and knit every night|bf|2593
+B|No.|aa|2593
+B|Not at all.|aa|2593
+A|Yeah.|b|2593
+A|I don't even know how to knit|sd|2593
+A|and my mother used to knit, you know,  all the time|sd|2593
+B|Uh-huh.|b|2593
+A|and, and I don't even know how to knit|sd|2593
+A|I'm like, that's a lost art from this family|sd|2593
+B|Yeah.|b|2593
+A|So, um,|%|2593
+A|but, it's not a very good topic|sv|2593
+A|it feels like,  if, you know,|h|2593
+B|No.|aa|2593
+A|not when you're|%|2593
+A|neither one of us are really,|sd|2593
+A|I, I have seen things I really like, you know, that were done, especially like needlepoint.|sd|2593
+B|Uh-huh.|b|2593
+A|Needlepoint, cushions and things.|sd|2593
+B|Yeah.|b|2593
+A|But, it just seems like there'd be so much time involved in it, you know, and, and that the petty point and things like that.|sv|2593
+B|Yeah.|b|2593
+A|It's like, God, it, it seems like it's easier just to go out and buy it already made|sv|2593
+B|I don't know what, what, is,|sd|2593
+B|it's like there,|sd|2593
+B|but here a lot of the country stuff is in, you know, a lot of the woodwork, a lot of, uh, stenciling.|sd|2593
+A|Yeah.|b|2593
+B|And, you know, you can go to any, like a flea market and stuff|sd|2593
+B|and there's just tons of stuff everywhere|sd|2593
+B|and,  you know, people just do it in their garage|sd|2593
+A|Yeah.|b|2593
+B|and then on weekends they go out and sell it|sd|2593
+B|and during the week they go back and do some more.|sd|2593
+A|And see, they do that as their job. Whereas,  you know, for us it,|bf|2593
+B|Right|aa|2593
+A|and they make it cheaper for us to buy|sd|2593
+B|Yeah|aa|2593
+B|Definitely.|aa|2593
+A|So,|%|2593
+A|but, and, I mean, I'm sure it must be relaxing to do things like that|sv|2593
+A|because I can remember when I used to do, you know, those little salt, those figurines and things.|sd|2593
+A|It was, it was relaxing, you know, creative,|sv|2593
+A|you felt very creative.|sv|2593
+B|Uh-huh.|b|2593
+A|But, it just was so time, time,  involved, you know, so much time involved and the different steps and things.|sd|2593
+B|Yeah.|b|2593
+B|Uh-huh.|b|2593
+A|So,|%|2593
+A|and,|%|2593
+B|Okay|b|2593
+B|Well, I think, I think we're okay.|sv|2593
+B|I think we did five minutes,|sv|2593
+B|so we don't have to keep talking about nothing anymore|sd|2593
+A|Yeah.|b|2593
+A|So,|%|2593
+B|Okay.|b|2593
+B|Well, thank you.|ft|2593
+A|Okay.|bd|2593
+A|I hope you have a good rest of your weekend.|sd|2593
+B|Thanks.|ft|2593
+B|Bye-bye.|fc|2593
+A|Okay.|fc|2593
+A|Bye-bye.|fc|2593

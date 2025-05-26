@@ -1,0 +1,193 @@
+A|Hi, Maureen.|fp|2515|0
+A|How are you?|fp|2515|0
+B|All right.|fp|2515|1
+A|Well do you have a family budget?|qy|2515|0
+B|No,|nn|2515|1
+B|we probably should,|sd|2515|1
+B|but we haven't.|sd|2515|1
+B|So why don't you explain to me some good tips about what you've done, which you've found useful and workable.|ad|2515|1
+A|Okay.|aa|2515|0
+A|We do a few things,|sd|2515|0
+A|and I have to say we're, my husband and I are both from financial backgrounds.|sd|2515|0
+A|I, I'm an accountant.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|And, uh, he has an M B A,|sd|2515|0
+A|so, uh, we were sort of, you know, keyed in on expenses and things like that.|sd|2515|0
+A|So|%|2515|0
+B|Um, okay.|b|2515|1
+A|Um, coming from that background, what we pretty much do is we, in our household, as far as living expenses, we live on a cash budget.|sd|2515|0
+A|Every month, my husband, uh, goes to the credit union and withdraws, you know, X amount of dollars for the month,|sd|2515|0
+A|and then that money is used during that month.|sd|2515|0
+A|We have a certain budget.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|Excuse me. For instance, I control all the household expenses, the groceries, uh, the haircuts, the gasoline for my car, any miscellaneous expenses, baby-sitting, things like that.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|And, uh, excuse me, if, uh, it comes the end of the month and I don't have any money, uh, we don't buy any more milk|sd|2515|0
+B|Uh-huh|b|2515|1
+A|But, uh, we've gotten pretty good at it,|sv|2515|0
+A|we've been doing it a couple of years now.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|So, we, our budgets are realistic|sv|2515|0
+A|and they are not so stringent and, you know to make us feel uncomfortable.|sv|2515|0
+B|Hm.|%|2515|1
+A|And I, I really try to stretch my, my dollars here and there, shopping, uh, at warehouses sometimes, like at Sam's and things like that.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|But, uh, we live, we live on, on a cash budget|sd|2515|0
+A|and it, sometimes it's tight come the end of the month,|sd|2515|0
+A|but generally, we always make it.|sd|2515|0
+B|What do you do for the surprise things that you don't necessarily plan for,|qw|2515|1
+B|the, you know are sometimes several hundred dollars, like, uh, tires for the car or car repair of some sort, or, like a, a dental bill or something that you're not prepared for?|qrr|2515|1
+A|Right.|b|2515|0
+A|Well, uh, most of our medical things, we don't, uh, have to worry about, because of insurance|sd|2515|0
+A|and they're, they're relatively small.|sd|2515|0
+A|Uh, we've been lucky.|sv|2515|0
+A|In the past we didn't have that problem|sd|2515|0
+A|but right now we don't.|sd|2515|0
+A|For the other things, the things that crop up, that we aren't really expecting, we have different funds set aside for different things.|sd|2515|0
+A|Like we have a car fund|sd|2515|0
+A|and we put a certain amount of money into that every single month whether we need to or not.|sd|2515|0
+B|Oh.|b|2515|1
+A|So, I mean,|%|2515|0
+A|and I, I can't really remember what it is.|sd|2515|0
+B|Do you kind of continue, call this like, a part of savings account or a different savings account|qy|2515|1
+B|or,|%|2515|1
+A|It's all part of the savings account.|sd|2515|0
+A|We just keep track of it on paper.|sd|2515|0
+A|Uh, you know a certain amount goes straight to the savings account.|sd|2515|0
+A|We decide, okay, you know, let's say it's a hundred dollars.|sd|2515|0
+A|You know, every month fifteen dollars is for car fund. You know,|sd|2515|0
+B|Oh.|b|2515|1
+A|Ten dollars is for vacation fund whatever.|sd|2515|0
+A|Uh, and we just, we constantly do that, so that there's a buildup of money for those things if something does come up.|sd|2515|0
+A|Like I know that my washing machine is going to go any day.|sd|2515|0
+B|Oh, okay.|b|2515|1
+A|So, but, we have the money set aside,|sd|2515|0
+A|so if it does it's not going to kill us.|sd|2515|0
+B|Hm.|b|2515|1
+A|Uh, so we're, we're actually, we're pretty disciplined,|sv|2515|0
+A|so it makes those surprises not so difficult to get through.|sv|2515|0
+B|Okay,|b|2515|1
+B|then, so like your pay, what kind of a percentage do you basically keep out that you think that, you know, will cover all of the expenses, kind of thing?|qw|2515|1
+A|Well, in.|%|2515|0
+B|Or like what, what percent, do you then save or something?|qo|2515|1
+A|Uh, we have a lot of different things.|sd|2515|0
+A|Right now, we save about twenty-five percent of our, of our pay.|sd|2515|0
+B|Hm, okay.|bk|2515|1
+A|It, and it goes toward different things,|sd|2515|0
+A|it's for, you know, for vacations like I said, for, you know, emergencies like for car, uh, breaks down, something like that.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|Uh, and we also put money aside for our kids college.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|Neither of us had any help with our college degrees,|sd|2515|0
+A|and just this last month we paid off my final school loan.|sd|2515|0
+A|So|%|2515|0
+B|Oh.|b|2515|1
+A|We're starting our kids a little bit early.|sd|2515|0
+B|Okay.|b|2515|1
+A|Do you, uh, use a lot of credit cards or your checking account when you go out and buy things?|qy|2515|0
+B|Checking account a lot, uh, not so much credit cards.|sd|2515|1
+A|Sure.|b|2515|0
+B|and so pretty much now, uh, we don't use them too much.|sd|2515|1
+B|If we travel or something, yeah. But, you know. Standard, we usually don't.|sd|2515|1
+A|Uh-huh.|b|2515|0
+B|Or if it, it is a purchase, uh, then it's paid off when the bill comes.|sd|2515|1
+B|You know, so it isn't any extended, uh,|sd|2515|1
+B|it may be that I picked up something at the store,|sd|2515|1
+B|but then when the bill comes we always pay it off then,|sd|2515|1
+B|so it's not any, you know, uh, build up on the charge cards at all.|sd|2515|1
+A|That's good.|ba|2515|0
+B|And, but that hasn't always been the case|sd|2515|1
+B|So, I'm kind of,|%|2515|1
+B|I feel at least better now that I have finally gotten some of those things, uh, you know, in the past,|sv|2515|1
+B|and I don't have, you know, big cumulative amounts due to those charge cards, because that interest rate just is a killer.|sv|2515|1
+A|Oh, and it's not deductible anymore.|sv|2515|0
+B|Yeah,|b|2515|1
+B|well, I've never been in the situation of itemizing anyhow.|sd|2515|1
+B|But, uh, pretty much when I always, I go to the grocery store or something I just always write checks.|sd|2515|1
+A|Yeah.|b|2515|0
+A|We did, we did that for a long time|sd|2515|0
+A|and it got to the point where we had no idea how much we were spending on things.|sd|2515|0
+B|Hm.|b|2515|1
+A|And it seemed like we didn't have enough money when things cropped up, you know,|sv|2515|0
+B|Uh-huh.|b|2515|1
+A|so we decided to put ourselves on a cash budget.|sd|2515|0
+A|Well the first time we did it, we just took some arbitrary amount that we estimated it would be,|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|and then we kept track of everything for a month. You know, how much we spent on food, how much we spent on gasoline, how much we spent on everything, and from that built, you know, a cash budget.|sd|2515|0
+B|Uh-huh.|b|2515|1
+B|Uh-huh.|b|2515|1
+A|So now, I mean, I have,|%|2515|0
+A|I don't remember what it is now, four hundred dollars for the month, let's say.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|And, uh, I mean some months I may spend three hundred on groceries and a hundred on everything else,|sd|2515|0
+A|and some months it may be different.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|It's not as though we feel like we have to keep ourselves, you know, down to the dollar or the penny in certain categories kind of thing,|sv|2515|0
+A|but the way we set up, you know the amount that we want to save and the amounts that we have to spend for, you know, uh, utilities and, uh, the house payment and all that.|sd|2515|0
+B|Yeah.|b|2515|1
+A|those are things you don't really have much control over.|sv|2515|0
+B|Uh-huh.|b|2515|1
+A|Uh, the cash budget just fits right in there|sv|2515|0
+A|like I said if we don't have, we also set aside money for entertainment.|sd|2515|0
+A|I mean, but again it's a set amount every month. And, uh, on special occasions, I mean birthdays and things like that.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|We, we don't, we still have fun on things|sv|2515|0
+B|Yeah.|b|2515|1
+B|Uh, we are in the process of trying to buy a house,|sd|2515|1
+B|do you know, how did your budget work|qw|2515|1
+B|or did you have a budget to, uh, get your down payment going to get a house?|qrr|2515|1
+A|Well, no|nn|2515|0
+A|not originally, because when we, we did buy, when we bought our first house, it was at a time where you|sv|2515|0
+A|and the kind of loan we got, you really didn't have to put down anything.|sv|2515|0
+B|Huh.|b|2515|1
+A|So, we got into it fairly cheaply,|sv|2515|0
+A|and then, uh, after we sold the first house, we were left with enough cash that there was enough to make the down payment on this house.|sd|2515|0
+B|Oh, okay.|bk|2515|1
+A|So, we, we got out of that one pretty easily|sd|2515|0
+B|Okay, uh,|b|2515|1
+B|yeah,|b|2515|1
+B|I just keep thinking all the time|sd|2515|1
+B|I mean, it, it's really rough to keep yourself on a strict budget for a long long time when your, you know, your priority, at least mine is to save for the house.|sv|2515|1
+B|But then it's awful hard to really scrimp for a long, long time and keep putting all the money into that down payment.|sv|2515|1
+B|You feel like you want to live a little bit in the meantime.|sv|2515|1
+A|Sure,|aa|2515|0
+A|I know.|aa|2515|0
+A|That's how I feel sometimes about my kids' education,|sv|2515|0
+A|I mean jeez, they are one and four|sd|2515|0
+A|We have got a long time to save,|sd|2515|0
+A|my husband, he's the real, he's the real disciplinarian when it comes to that money usually.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|Oh, no,|sv|2515|0
+A|no|sv|2515|0
+B|Well, I know,|ba|2515|1
+B|but there are times when I sit there and I think, wow, you know we make X amount of money and where is it.|sv|2515|1
+B|I mean you look around|sv|2515|1
+B|and you go,  where is it,|sd|2515|1
+A|What do you do with it,|^2|2515|0
+A|I know.|ba|2515|0
+B|you, you haven't made, uh, big purchases|sv|2515|1
+B|and that's the easier thing to see,|sv|2515|1
+B|if you can see a big purchase and you go okay, well this is the year that we bought the couch or the T V, or something like that.|sv|2515|1
+A|Uh-huh,|b|2515|0
+B|But, all those, just monthly payments and stuff that just go out the door|sd|2515|1
+B|and there's big chunks of your money to pay like the utilities and the gas and the groceries, and stuff.|sd|2515|1
+B|That you don't have tangible, I mean the perishable kind of things that's gone, used and gone.|sd|2515|1
+A|Yeah,|b|2515|0
+A|it's, it's amazing how much we spend on some things.|sv|2515|0
+A|My husband cut himself down to ten dollars a week for his lunch at work.|sd|2515|0
+B|Oh.|b|2515|1
+A|And that's all he has,|sd|2515|0
+A|he has a ten dollar bill.|sd|2515|0
+B|Huh.|b|2515|1
+A|And, I mean, so I'd say at least, two usually three times a week he takes his lunch.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|The other times, he'll, uh, I don't know go out somewhere, eat in a cafeteria or whatever.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|But, but he keeps himself on that,|sd|2515|0
+A|I mean, he found it's, it's so easy to spend five dollars a day on lunch.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|That's a hundred dollars a month on lunch.|sd|2515|0
+B|Uh-huh.|b|2515|1
+A|That's, that's twelve hundred dollars a year just on lunch.|sd|2515|0
+B|Yeah.|b|2515|1
+A|When he can take a sandwich, you know.|sd|2515|0

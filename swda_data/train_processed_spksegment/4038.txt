@@ -1,0 +1,123 @@
+A|Okay,|fo_o_fw_"_by_bc|4038|0
+A|I guess it took,|sv|4038|0
+A|so I guess the recording has started now.|sv|4038|0
+B|Yeah.|b|4038|1
+A|Uh.|%|4038|0
+B|So, have you ever served on a jury?|qy|4038|1
+A|I served,|sd|4038|0
+A|I was in the Air Force, and served on a court martial, uh, board a couple of times, which is very similar to a jury.|sd|4038|0
+A|A lot of the same rules apply.|sd|4038|0
+A|Have you ever served on one?|qy|4038|0
+B|Yeah,|ny|4038|1
+B|I finally served on one last year.|sd|4038|1
+B|I've, um, been voting for years,|sd|4038|1
+B|and I couldn't figure out why I hadn't been called yet|sd|4038|1
+A|Uh-huh.|b|4038|0
+B|and I finally was.|sd|4038|1
+B|So it was an interesting experience.|sv|4038|1
+B|I was kind of boring. *listen; should I be "it"|sv|4038|1
+A|Was it civil or criminal?|qy|4038|0
+B|Uh, it was, uh uh, it was, uh, well, let's see, it was municipal court|sd|4038|1
+A|A grand jury or,|qrr|4038|0
+A|Uh-huh.|b|4038|0
+B|so it was a combination of, uh,|sd|4038|1
+B|and I was in the pool for a couple of weeks|sd|4038|1
+A|I see.|b|4038|0
+B|so it was a combination of criminal and civil,|sd|4038|1
+B|and they had, uh,|sd|4038|1
+B|well most of the time we, we spent sitting around in the jury room and getting to know the other potential jurors|sd|4038|1
+A|Uh-huh.|b|4038|0
+B|and then, it was always exciting when we got called to, to, to go, because then we thought we might be able to do something else besides, uh, just sit in the jury room.|sv|4038|1
+A|Uh-huh.|b|4038|0
+A|Uh, did, did the judge, uh, hand down sentences|qy|4038|0
+A|or did you folks do that?|qrr|4038|0
+B|Uh, yeah,|ny|4038|1
+B|the judge did.|sd|4038|1
+B|Uh, I, uh, I had a hard time getting seated on a jury.|sd|4038|1
+B|I kept getting, uh,|sd|4038|1
+B|I'd be questioned, uh, for empaneling the jury,|sd|4038|1
+B|and they kept, uh, dismissing me.|sd|4038|1
+A|Uh-huh.|b|4038|0
+A|Um.|%|4038|0
+B|Course they don't have to give a reason,|sd|4038|1
+B|but it's just whether the prosecutor or the defense attorney feels like, you know,|sd|4038|1
+A|No.|aa|4038|0
+B|they want to get the best, uh, mix for their case,|sv|4038|1
+B|so they ask all kinds of wild questions.|sv|4038|1
+A|That that's a science in itself.|sv|4038|0
+B|Yeah,|b|4038|1
+B|well I kept getting called up for drunk driving questions,|sd|4038|1
+B|and I think part of it was they didn't, uh, they didn't like the fact that I don't drink any more.|sv|4038|1
+B|So.|%|4038|1
+A|Uh-huh,|b|4038|0
+A|I see.|b|4038|0
+A|Because you'd probably be, uh, too puritanical|bf|4038|0
+A|and|%|4038|0
+B|Yeah,|aa|4038|1
+B|that was probably it,|sv|4038|1
+B|although in my case I might have been more, uh, sympathetic with the person who got caught,|sv|4038|1
+B|I don't know.|h|4038|1
+A|Uh-huh.|b|4038|0
+A|So, uh, were, were the, uh, sentences that the judge handed out what you thought to be fair,|qy|4038|0
+A|or would,|qrr|4038|0
+A|if you were deciding, do you think that they would have been different.|qy|4038|0
+B|Well, I was never there, never there for any sentencing.|^h|4038|1
+B|Uh, I finally got empaneled on one case, uh, on my next to the last day,|sd|4038|1
+B|and, uh, we got into the, uh, jury room to, uh, decide the case,|sd|4038|1
+B|and there was one guy on the jury who announced to everybody that he didn't need to deliberate, because he'd already decided that the guy was, uh, not guilty,|sd|4038|1
+B|and he would never vote for guilty.|sd|4038|1
+A|Huh.|%|4038|0
+B|So, uh, they appointed me jury, jury foreman|sd|4038|1
+B|and I, uh, didn't think that, uh, going in without deliberating allowed us to reach a verdict,|sv|4038|1
+B|so I told the judge that we weren't, were unable to reach a verdict because we couldn't get one member of the jury to deliberate.|sd|4038|1
+A|Um.|%|4038|0
+B|So the whole thing had to be tried over again.|sd|4038|1
+A|Wow,|ba|4038|0
+A|I bet that made him happy.|sv|4038|0
+B|Yeah.|aa|4038|1
+B|Yeah,|aa|4038|1
+B|it was, uh, it was funny.|sv|4038|1
+B|The, uh,|%|4038|1
+B|I I, I don't know,|h|4038|1
+B|I, uh, I didn't, uh, uh, I didn't like not being able to deliberate.|sd|4038|1
+A|Right.|b|4038|0
+B|I, uh, I, I wanted to vote guilty for the guy,|sd|4038|1
+B|and the other people were kind of mixed|sd|4038|1
+A|Uh-huh.|b|4038|0
+B|so, uh, the guy had to go through the whole thing all over again.|sd|4038|1
+B|Cost him a lot of money,|sv|4038|1
+B|I'm sure.|sv|4038|1
+A|Yeah.|b|4038|0
+A|Oh, how many members were on the jury?|qw|4038|0
+A|Was it a six or twelve member jury?|qy|4038|0
+B|Uh, it must have been six.|sd|4038|1
+A|Uh-huh.|b|4038|0
+B|Yeah.|b|4038|1
+A|That's kind of curious to me.|sd|4038|0
+A|I didn't realize until the, uh, Wayne Kennedy Smith trial, uh, a few months ago that they had six member juries.|sd|4038|0
+A|I thought that they, you know, it was always twelve, twelve men tried and true, so to speak.|sd|4038|0
+B|Um.|%|4038|1
+A|But, uh, apparently for some, some crimes, it's permissible to have six people sit in judgment.|sv|4038|0
+B|Um.|%|4038|1
+A|I know on a|sd|4038|0
+A|getting to this unanimous thing, whether, you know, a jury should be unanimous or not, or not, in a court martial case it doesn't require the jury to be unanimous.|sd|4038|0
+A|It's a simple majority, you know, rules.|sd|4038|0
+B|Yeah.|b|4038|1
+B|Well, let's  see,|h|4038|1
+B|is it on, uh, capital crimes that they have to be unanimous|qy|4038|1
+B|and,|%|4038|1
+A|Probably on capital,|na|4038|0
+A|I don't know,|h|4038|0
+A|we weren't, we, we,|%|4038|0
+A|the two that I were on had to do with drugs|sd|4038|0
+B|Uh-huh.|b|4038|1
+A|and, uh, we were, uh, unanimous is acquitting the person, even though we in our, in our, uh, gut felt that the individuals were both guilty just because of the friends, because of various things,|sd|4038|0
+A|the government really failed to prove its case,|sd|4038|0
+A|and, you know, being fair to the person, if the government doesn't prove its case, no matter how you feel, you have to go by what's offered as proof,|sd|4038|0
+A|and we had to acquit him in both cases.|sd|4038|0
+B|Uh, it was too circumstantial?|qy^d|4038|1
+A|Uh, yeah,|ny|4038|0
+A|it was, yeah, in some of the critical things, like the special investigations, at one time in one of the cases had videotaped this person,|sd|4038|0
+A|but something happened to the camera and the tape and|sd|4038|0
+B|Um.|%|4038|1
+A|all they could do was testify,|sd|4038|0

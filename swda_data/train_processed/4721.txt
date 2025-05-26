@@ -1,0 +1,157 @@
+A|You want to go first|qy^d|4721
+B|Well, uh, no|nn|4721
+B|I I don't get as much exercise as I, as I should as, or as I would like to, uh, uh, these days.|sd|4721
+B|I,|%|4721
+B|seems to be to easy to get busy with other things.|sd|4721
+B|Uh, I have, in the past, uh, jogged and, and run,|sd|4721
+B|and every, every January and every September, I start out again|sd|4721
+B|and then it tapers off|sd|4721
+A|Really?|bh|4721
+B|Uh, what about you?|qo|4721
+A|Well, yeah,|ny|4721
+A|I do a lot of exercise.|sd|4721
+A|Right now, I'm into jazzercise, which I absolutely love.|sd|4721
+A|Uh, I started about two years ago because I gained some weight over the past few years|sd|4721
+A|and I wanted to get it back off|sd|4721
+B|Uh-huh.|b|4721
+A|and I was going through a divorce|sd|4721
+A|and I just found that running really made me feel good.|sd|4721
+B|Yeah.|b|4721
+A|Got out a lot of aggression.|sd|4721
+A|I went to the gym every day|sd|4721
+A|and I ran on the treadmill and rode the bike|sd|4721
+A|and, uh, I felt really good.|sd|4721
+A|I needed to do it|sd|4721
+A|and it was really helpful at the time.|sd|4721
+A|Now when I do those things, they're boring.|sd|4721
+A|I would rather be outside then in the gym doing this in one place.|sd|4721
+B|Uh-huh.|b|4721
+A|And so I just recently discovered jazzercise, about two months ago.|sd|4721
+A|And I'm getting to be a good dancer from it|sd|4721
+A|and I'm just feeling really good.|sd|4721
+A|I love the class,|sd|4721
+A|it's real challenging,|sd|4721
+A|so I'm really into that,|sd|4721
+A|I really like that a lot.|sd|4721
+B|Well now that, is that, uh, that's related to the, the aerobic, uh, ,|qy^d|4721
+A|It is, it's aerobics|na|4721
+A|but it's with dance steps.|sd|4721
+B|Okay.|bk|4721
+A|It's an aerobic exercise|sd|4721
+A|and it's an hour straight.|sd|4721
+A|And it's just, uh, it's a lot of fun.|sd|4721
+B|Yeah,|b|4721
+B|yeah.|b|4721
+A|and I'm, I'm getting much better.|sd|4721
+A|My stamina is getting great for the dance floor|sd|4721
+A|so  I mean it's just,|%|4721
+B|Yeah.|b|4721
+A|there's a lot of positive things with it,|sd|4721
+A|so.|%|4721
+B|Well, uh, okay.|b|4721
+B|Now that's inside again,|sd|4721
+B|right?|qy|4721
+A|It is inside|na|4721
+A|and I've  been doing a lot of bike riding outside with the nice weather we've been having|sd|4721
+B|But,|%|4721
+A|and I just enjoy that much more too than inside.|sd|4721
+B|Do, do you like to do it with other people.|qy^d|4721
+B|I mean like the, the jazzercise would be?|qy^d|4721
+A|I have a thirteen year old daughter|sd|4721
+A|and so we go bike riding|sd|4721
+A|and it's nice.|sd|4721
+A|We get to spend some time together rather than I go to the gym while she does her homework.|sd|4721
+B|Yeah.|b|4721
+B|Yeah.|b|4721
+A|So I've enjoyed that part of it.|sd|4721
+A|Yeah.|%|4721
+A|And at the gym, even in the class, uh, I,|sd|4721
+A|it's not really a group where you chat a lot.|sd|4721
+A|Everybody's on their way to someplace|sd|4721
+B|Right.|b|4721
+A|and so, you know, I do  have one friend who goes occasionally|sd|4721
+B|But,|%|4721
+A|but, basically, I do it by myself in a group of maybe forty|sd|4721
+A|so.|%|4721
+B|Yeah,|b|4721
+B|right.|b|4721
+B|Right.|b|4721
+B|But still there are, there are other people there doing the, doing the same thing.|sd|4721
+A|There are, there are.|%|4721
+A|It's more motivating that way, I think.|sv|4721
+A|Yeah.|%|4721
+B|In terms of motivation and incentive,|^2|4721
+B|yeah.|%|4721
+A|You could get a tape probably and do it at home in front of the T V|sv|4721
+A|but|%|4721
+A|you probably wouldn't.|sv|4721
+B|Yeah.|b|4721
+A|So.|%|4721
+B|Yeah,|b|4721
+B|uh, that makes a difference doesn't it?|qy|4721
+A|Yeah.|ny|4721
+B|I, I've,|%|4721
+B|one thing,|%|4721
+B|when, when I have run and jogged, uh,|sd|4721
+B|I've always enjoyed doing it by myself|sd|4721
+B|and, and,|%|4721
+B|not with the sense that it was, uh, uh, chore or something that I was having to do,|sd|4721
+B|I, I've really enjoyed just the activity|sd|4721
+B|and, uh, I write software, uh, as far as the job|sd|4721
+B|and so getting out and being active, uh, is, uh, uh, helps out.|sd|4721
+B|The,|%|4721
+B|it's|%|4721
+A|Yeah,|b|4721
+A|yeah,|b|4721
+A|I can see it'll be a good break.|sd|4721
+B|The the the change of pace and just  getting out and around|sd|4721
+A|Right.|b|4721
+B|and I find that I can often, you know,|sd|4721
+B|often, uh, when I get around to doing it, then I, I feel better when I get back to work|sd|4721
+A|Uh-huh|b|4721
+B|and, uh, uh, also that, that, it, my subconscious is working on things while I'm working|sd|4721
+B|and I, I go back|sd|4721
+B|and I've got new ideas,|sd|4721
+B|but still .|%|4721
+A|I think you do.|sv|4721
+A|You feel very good after you exercise.|sv|4721
+A|I think  it's worth making the time for yourself.|sv|4721
+B|Yeah.|b|4721
+A|You owe it to yourself|sv|4721
+B|Yeah.|b|4721
+A|and I think you do accomplish more after that.|sv|4721
+B|Yeah.|b|4721
+A|And I think that it's just is good for your self-esteem, for everything because when you look better, you feel better|sv|4721
+A|and it's just, uh,|%|4721
+A|I think it's well worth it.|sv|4721
+A|I just demand that time for myself.|sd|4721
+A|Now I've learned to do that|sd|4721
+B|Yeah.|b|4721
+A|and, you know, and it's, I think it just benefits you all around.|sv|4721
+A|So.|%|4721
+B|Yeah,|b|4721
+B|I think that's, uh, I think that's a good term, demanding the time for yourself.|sv|4721
+B|That you've just got to   you've just got to|sv|4721
+A|You have to.|sv|4721
+A|Because   there's always more things to do.|sd|4721
+B|Right.|b|4721
+A|There is always things that you can make priority to it|^2|4721
+A|but I just, I don't demand a lot for myself|sd|4721
+A|and so you know, I just feel entitled to it|sd|4721
+B|Yeah.|b|4721
+A|and I take it|sd|4721
+A|so.|%|4721
+B|Well good,|ba|4721
+B|well good.|ba|4721
+B|Well, uh, uh, have you, have you done any jogging?|qy|4721
+B|I tell you, you said you did on the bike and on the treadmill in, in the, uh, club.|sd|4721
+A|No,|nn|4721
+A|I've done some walking with friends in the past.|sd|4721
+B|Uh-huh.|b|4721
+A|But I find that when you do that, you do more chatting than you do exercise|sv|4721
+B|Yeah.|b|4721
+A|and that's not really beneficial,|sd|4721
+A|so, uh I don't have time like that|sd|4721
+B|Yeah,|b|4721
+B|yeah.|b|4721
+A|and I spend enough time chatting around everywhere, you know|sd|4721

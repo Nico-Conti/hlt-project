@@ -1,0 +1,288 @@
+A|Yeah.|fo_o_fw_"_by_bc|3069|0
+A|Yes,|fo_o_fw_"_by_bc|3069|0
+A|I talked with, um, I talked with people from Richardson and Plano|sd|3069|0
+A|and, uh, the first three days,|%|3069|0
+A|and then yesterday I talked with someone with, from Pennsylvania,|sd|3069|0
+A|so,|%|3069|0
+B|Yeah,|b|3069|1
+B|because,|%|3069|1
+A|it's the,|%|3069|0
+B|I've only made,|%|3069|1
+B|this is only my third call.|sd|3069|1
+A|Oh.|b|3069|0
+B|I, I tried to make calls two different days|sd|3069|1
+B|and I couldn't get through.|sd|3069|1
+A|Oh, I know.|aa|3069|0
+A|Sometimes I just|%|3069|0
+A|I'm, in,|%|3069|0
+A|it just takes a very long time|sd|3069|0
+A|so,|%|3069|0
+B|Does it?|bh|3069|1
+B|Yeah,|b|3069|1
+B|I've been trying to, you know, do that,|sd|3069|1
+B|and, and sometimes I just can't wait that long,|sd|3069|1
+A|Yeah,|aa|3069|0
+A|I know.|aa|3069|0
+B|so I just hang up. Because it keeps going through the thing over and over again.|sd|3069|1
+A|Well.|arp_nd|3069|0
+A|This is hilarious|sv|3069|0
+B|But I knew as soon as I heard your voice,|sd|3069|1
+B|I thought, Kathy's, it's Kathy Kester|sd|3069|1
+A|Oh. Well, tell me, what books have you read lately?|qw|3069|0
+B|Well, let's see,|^h|3069|1
+B|I, um, gosh, I can't even think.|sd|3069|1
+B|I haven't read any,|sd|3069|1
+B|and you're such a reader, I know that|sd|3069|1
+B|and I,|%|3069|1
+A|Well, I don't read all that much for enjoyment.|sd|3069|0
+A|I mean, I read a lot for school,|sd|3069|0
+A|but gee, I just don't have much time for enjoyment reading|sd|3069|0
+B|Yeah.|b|3069|1
+B|The, the last book I picked up was a book by Judy Bloom,|sd|3069|1
+A|Uh-huh.|b|3069|0
+B|and it was, um, it was called, um, SMART WOMEN, I think. Um, or something like that.|sd|3069|1
+A|Um.|b|3069|0
+A|Yeah.|b|3069|0
+B|And it was, it was kind of,|%|3069|1
+B|I really didn't like it at all.|sd|3069|1
+A|Huh.|b|3069|0
+B|It was, it was written back in the early eighties.|sd|3069|1
+A|Oh, yeah.|b|3069|0
+B|And it was all this, this, um, divorced woman syndrome of the, um,|sd|3069|1
+A|Oh, yeah.|b|3069|0
+B|it was almost like a, a pre-AIDS scare kind of thing.|sd|3069|1
+A|Interesting.|ba|3069|0
+B|It was really an interesting,|aa|3069|1
+B|because I, I right away looked at when it was copyrighted. Because I could tell by the theme of almost when it was written. And, um, you know, a lot of hanky-panky,  going on.|sd|3069|1
+A|Uh-huh.|b|3069|0
+A|Yes,|aa|3069|0
+A|yes,|aa|3069|0
+A|yeah.|aa|3069|0
+A|Uh-huh.|b|3069|0
+A|Yeah.|b|3069|0
+A|Yeah.|b|3069|0
+A|That kind of was, um, kind of a pop psychology time for when a lot of books like that were coming out, I think.|sv|3069|0
+B|That's right.|aa|3069|1
+A|And so that makes real sense, that that's, um, when it was written.|sv|3069|0
+B|Yeah,|b|3069|1
+B|yeah.|b|3069|1
+A|Um, I haven't, wasn't really aware that she had written anything for, um, adults.|sd|3069|0
+A|I was always,  just more aware of her you know,|sd|3069|0
+B|Uh-huh.|b|3069|1
+A|for her young people, her books. *one utt?|sd|3069|0
+B|Yeah,|b|3069|1
+B|and she's more famous for that,|sd|3069|1
+A|Uh-huh.|b|3069|0
+B|but she has been writing for adults also,|sd|3069|1
+A|I'll be darned.|ba|3069|0
+B|and so I thought hey, I'll just try this, you know,  and see what it was like.|sd|3069|1
+A|Yeah.|b|3069|0
+B|It was very, um,|%|3069|1
+B|the style was very conversational.|sv|3069|1
+A|Uh-huh.|b|3069|0
+B|You would have lots of conversations between people rather than any description.|sd|3069|1
+A|Yeah.|b|3069|0
+A|Right,|b|3069|0
+A|yeah,|b|3069|0
+A|yeah.|b|3069|0
+B|You know how that is,|qh|3069|1
+B|and um,|%|3069|1
+A|Yeah.|b|3069|0
+A|I wonder if she's written anything really recently, if she's got anything printed, in print.|qy^d|3069|0
+B|Yeah,|ny|3069|1
+B|she has,|sd|3069|1
+B|because I, I remember seeing a new book by her that was out,|sd|3069|1
+A|Uh-huh.|b|3069|0
+B|and I think it was a, it was an adult book.|sd|3069|1
+A|I'll be darned.|ba|3069|0
+B|So anyway,|%|3069|1
+A|Yeah.|b|3069|0
+B|but that's the last thing I, I've read,|sd|3069|1
+A|Yeah.|b|3069|0
+B|and, um,|%|3069|1
+A|Well, it's,|%|3069|0
+A|I'm trying to think the last actual book I read that wasn't,|sd|3069|0
+A|let's see, I think I read, oh,|^h|3069|0
+A|when I was on vacation, um, between semester break and summer, you know, on semester break between spring and summer|^h|3069|0
+B|Yeah.|b|3069|1
+A|and I went to my mother's,|^h|3069|0
+A|I read a book that I have, should have read when I was probably in high school.|sd|3069|0
+A|I read, um, JANE EYRE.|sd|3069|0
+B|I,|%|3069|1
+A|No,|ar|3069|0
+A|wait a minute,|^h|3069|0
+A|wait a minute,|^h|3069|0
+A|wait a minute.|^h|3069|0
+A|JANE EYRE?|qy|3069|0
+A|No,|nn|3069|0
+A|no,|nn|3069|0
+A|no,|nn|3069|0
+A|no,|nn|3069|0
+A|it wasn't JANE EYRE.|sd|3069|0
+B|WUTHERING HEIGHTS?|qy|3069|1
+A|No,|nn|3069|0
+A|it was, um, uh, PRIDE AND PREJUDICE,  by Jane Austen.|sd|3069|0
+B|Oh, yeah,|b|3069|1
+B|by Jane Austen,|b^m|3069|1
+B|yes.|b|3069|1
+A|That's what it was,|sd|3069|0
+A|yes.|aa|3069|0
+B|Yes.|aa|3069|1
+A|And, um, you know, I, I didn't know what to expect, except I had heard that, that Jane Austen was such a wonderful novelist,|sd|3069|0
+A|and she really was good.|sv|3069|0
+A|I mean, I was, was very much impressed with the way her plot was put together so,  intricately|sd|3069|0
+B|Uh-huh.|%|3069|1
+A|and, um, and, you know, I just,|%|3069|0
+A|but I, as I say, I was pretty much ashamed that I hadn't read something before then.|sd|3069|0
+B|Yeah.|b|3069|1
+B|Because I, I think I was, I think I read it in college,  or had to write it, read it in high school or college,|sd|3069|1
+B|but I don't remember it.|sd|3069|1
+A|Yeah,|b|3069|0
+A|yeah.|b|3069|0
+B|And then when Jennie had to read it at Gettysburg and I got her the, I got her someone,|sd|3069|1
+A|Uh-huh.|b|3069|0
+B|I think it was, um, oh, some actress reading it.|sd|3069|1
+A|Oh, how interesting.|ba|3069|0
+B|You know, they had an abridged version of it on tape.|sd|3069|1
+A|Yeah.|b|3069|0
+B|And so I got that for her,|sd|3069|1
+B|and she loved doing that.|sd|3069|1
+A|Oh, I'll bet,|ba|3069|0
+A|yeah.|b|3069|0
+B|But I remember that was the book.|sd|3069|1
+A|Yeah.|b|3069|0
+B|And now I, I mean, I think it's around here somewhere,|sd|3069|1
+A|Right|b|3069|0
+A|I wouldn't be,  surprised,|ba|3069|0
+B|I'm just going to have to put it, in the car sometimes and listen to it.|sd|3069|1
+A|yeah.|b|3069|0
+A|Sure.|ba|3069|0
+A|Oh, yeah.|b|3069|0
+B|But, um,|%|3069|1
+A|Well, I read that,|sd|3069|0
+A|and then I'm trying to think, um,|^h|3069|0
+A|usually I try to, to find something long that,  I'm going to,|sd|3069|0
+B|Uh-huh.|b|3069|1
+A|when|%|3069|0
+A|if, if I have long periods of time, like Christmas vacation, or, you know, when I know I'm not going to be doing anything for a while, um,|sd|3069|0
+B|Yeah.|aa|3069|1
+B|Oh, that's what I do too.|sd|3069|1
+A|Yeah,|b|3069|0
+A|and that's about it, because otherwise I'm reading so much for school.|sd|3069|0
+A|I'm, um, I have just started reading a book.|sd|3069|0
+A|Actually, it's for school,|sd|3069|0
+A|but it's for, um,|%|3069|0
+A|there's a, a literary|%|3069|0
+A|well, not a literary journal,|%|3069|0
+A|it's a, it's kind of a journal of, of the history of ideas that's, that's starting to be published, um, from U T D.|sd|3069|0
+A|The first issue doesn't come out until next year,|sd|3069|0
+A|but, um,|%|3069|0
+B|Oh, yeah.|b|3069|1
+A|I'm doing some reviews of books, just to, what, to sort of recommend to whether or not a full-scale review should be done for the journal,|sd|3069|0
+B|Oh, how neat.|ba|3069|1
+A|and I've,|%|3069|0
+A|yeah,|aa|3069|0
+A|it's really neat because these are brand new books|sd|3069|0
+A|and I,  just got a, I got a, this one,|sd|3069|0
+B|Oh, great.|ba|3069|1
+A|um, most of the stuff is on, uh, literary criticism and philosophy,  and religion and all that.|sd|3069|0
+B|Uh-huh.|b|3069|1
+B|Uh-huh.|b|3069|1
+A|This one is on Johann Sebastian Bach,|sd|3069|0
+A|and it's a, a, a biography,  that is really interesting,|sd|3069|0
+B|Oh, great.|ba|3069|1
+B|Oh, that's fascinating.|ba|3069|1
+A|I mean, it, it's fascinating,|aa|3069|0
+A|it really is.|aa|3069|0
+B|Oh.|b|3069|1
+A|Um, but it's so long,|sd|3069|0
+A|I, I don't really have the time to read the whole thing,|sd|3069|0
+A|but I think,  eventually I'll go back to it.|sd|3069|0
+B|Yeah.|b|3069|1
+A|But it's,  it was written,|%|3069|0
+B|Yeah.|b|3069|1
+A|I mean the, the copyright is nineteen ninety-one,|sd|3069|0
+A|so it's a brand new book.|sd|3069|0
+B|Oh, it's a brand new book.|bf|3069|1
+A|Yeah,|b|3069|0
+A|uh-huh.|b|3069|0
+B|Oh, that, that would be wonderful  to read something like that.|ba|3069|1
+A|Yeah,|b|3069|0
+A|and he really, this man really shed some light on, um, some,  aspects of of Bach's genius and, and, and, you know, the, and more sociological things, you know, like the, the idea that, um, that music, to be a musician was as much, um, of a family occupation as anything.|sd|3069|0
+B|Yeah.|b|3069|1
+A|I mean, you know, that was it was families had just loads of musicians|sv|3069|0
+B|Yes.|b|3069|1
+B|Yeah,|aa|3069|1
+B|and they just went from generation,  probably to generation,  just with these, with these all passing it from one to the other.|sv|3069|1
+A|Yeah.|aa|3069|0
+A|that's right.|aa|3069|0
+A|Yes,|aa|3069|0
+A|uh-huh,|b|3069|0
+A|and, um,|%|3069|0
+B|Yeah,|aa|3069|1
+B|that's the way it was, I'm sure back then.|sv|3069|1
+A|Yeah.|b|3069|0
+A|So, uh,|%|3069|0
+B|Yeah.|b|3069|1
+B|Oh, that's interesting.|ba|3069|1
+A|it was just really interesting,|aa|3069|0
+A|if that's, you know, that's kind of what,|%|3069|0
+A|but I have to|%|3069|0
+A|not only am, am I reading it to decide whether or not it should be reviewed, but also, um, because the board of advisers for this, um, journal doesn't have, right now doesn't have a really respected name, um, who's a, uh, a scholar on, on music,|sd|3069|0
+B|Uh-huh.|b|3069|1
+A|um, and I'm supposed to decide whether I think this man might be a worthy person to be a, you know, in that position on the board|sd|3069|0
+A|so,|%|3069|0
+B|Oh, yeah.|b|3069|1
+A|I don't know if I want to take that responsibility or not,|sd|3069|0
+A|but But at least I,  can tell them what I think,|sd|3069|0
+B|Wow, that's rough.|ba|3069|1
+B|That's real rough.|ba|3069|1
+A|so, um,  it's real interesting.|sv|3069|0
+B|Yeah.  Because I think our, I think my alma mater, um, Gettysburg, I think they were just starting a magazine *sd that was similar to that.|b|3069|1
+A|Yeah,|aa|3069|0
+A|it is.|aa|3069|0
+A|Uh-huh.|b|3069|0
+A|Yeah,|b|3069|0
+A|yeah.|b|3069|0
+B|I think that's probably a, sort of a thing to do in small colleges,|sv|3069|1
+A|Yes|b|3069|0
+A|Yeah,|b|3069|0
+B|but, um,|%|3069|1
+A|that it,|%|3069|0
+A|you know, you see, you see a lot of small colleges doing things,  like that,|sd|3069|0
+B|Uh-huh.|b|3069|1
+A|right,|b|3069|0
+A|uh-huh,|b|3069|0
+B|Yeah.|b|3069|1
+A|because it attracts really a, a lot people's interest.|sv|3069|0
+A|That's one way,|%|3069|0
+A|it's really good public relations for small schools,|sv|3069|0
+B|Oh, yeah.|b|3069|1
+A|I think so|sd|3069|0
+B|Yeah.|b|3069|1
+A|But, uh, another one of my projects this summer is, actually it's part of my research assistantship, is, um, it's helping a professor, uh, compile a bunch of translations of, of various poems for a book that he's writing,|sd|3069|0
+A|and so I'm learning the names, if not the actual contents, of a lot of different poems and a lot of French people.|sd|3069|0
+B|Oh.|b|3069|1
+B|Now, translations, what do you mean, translations of, of,|qw|3069|1
+A|Um, well, where, where, for instance, um, a Baudelaire poem that was written,  in the French and then has been translated into English by,  various people.|sd|3069|0
+B|Yeah.|b|3069|1
+B|Uh-huh.|b|3069|1
+B|Oh, I see.|bk|3069|1
+A|And the translations are all so different from one another.|sd|3069|0
+B|All different.|b^m|3069|1
+A|Uh-huh.|b|3069|0
+B|Oh, that's interesting.|ba|3069|1
+A|So it's multiple translations of single works|sd|3069|0
+A|and, and that's right now, right now pretty much what I'm doing as far as, um,|sd|3069|0
+A|my work, is just kind of compiling,  all that for him.|sd|3069|0
+B|Gosh.|ba|3069|1
+A|So,|%|3069|0
+B|That's great.|ba|3069|1
+A|It's real interesting.  There are days when I would be prefer ,  really doing that|aa|3069|0
+B|Boy, you really lift me up to a different,|ba|3069|1
+B|I mean, here I, I'm dealing with, uh,  cleaning the stove|sd|3069|1
+B|and,|%|3069|1
+B|You know, I'm   I wish I were dealing with Baudelaire.|sd|3069|1
+B|That would be nice.|ba|3069|1
+A|I don't know if I've told you,|h|3069|0
+A|but, um, this is not on the subject,|sd|3069|0

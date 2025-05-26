@@ -1,0 +1,125 @@
+A|I'm ready.|sd|4752|0
+A|Well in Atlanta, Georgia you probably have a lot more crime than we have here in Patterson, California.|sv|4752|0
+B|Oh could, could be.|aap_am|4752|1
+A|Uh, this little city is only about eight thousand people.|sd|4752|0
+B|Huh.|b|4752|1
+A|So.|%|4752|0
+B|Yeah,|b|4752|1
+B|we,|%|4752|1
+B|is, is crime a problem there?|qy|4752|1
+B|like a major problem, minor problem or,|qrr|4752|1
+A|Well in Patterson there's,|sd|4752|0
+A|it's not a problem here.|sd|4752|0
+A|But like, uh, I lived in Oakland, uh, until just recently|sd|4752|0
+B|Uh-huh.|b|4752|1
+A|and, uh, Oakland, California, God, they've had like, uh, sixty-seven murders so far this year compared to like, uh, forty at this time last year.|sd|4752|0
+B|Yeah.|b|4752|1
+A|So it's really bad there.|sd|4752|0
+B|Yeah.|b|4752|1
+A|And, and it's all related to drugs it seems like.|sd|4752|0
+B|Oh, yeah.|b|4752|1
+A|Is that what it's there too?|qy|4752|0
+B|Yeah.|ny|4752|1
+B|I've only been here for like, uh,|sd|4752|1
+B|probably just over six months I start, I  started school here.|sd|4752|1
+A|Uh-huh.|b|4752|0
+B|Uh, I came from a smaller town in, in New York|sd|4752|1
+A|Uh-huh.|b|4752|0
+B|and the city was fairly big size or not real big|sd|4752|1
+B|but we had a problem there|sd|4752|1
+B|but here there's just no comparison that, much more crime.|sd|4752|1
+A|Uh-huh.|b|4752|0
+B|Uh, every night the news is very depressing because it just, they run down the list of how many people were shot, you know, drive by shootings or whatever|sd|4752|1
+A|Yeah.|b|4752|0
+B|and it's, it, it's pretty bad.|sd|4752|1
+B|They're, they're,|%|4752|1
+B|it's,|%|4752|1
+B|things have basically improved here over the last few years.|sd|4752|1
+B|They've, they've actually taken steps to try to make it better|sd|4752|1
+B|but it still, it still is a problem.|sd|4752|1
+A|Yeah.|b|4752|0
+A|Like I don't know what they can do to make it better unless they just hire more policemen.|sd|4752|0
+B|Well that's, that seems to be what they were doing|sd|4752|1
+B|and it has, and they've started, stepped up more patrols in certain areas|sd|4752|1
+B|and it has has made some places safer|sd|4752|1
+A|Uh-huh.|b|4752|0
+B|but, you know, it's very difficult.|sd|4752|1
+B|I mean if you don't have an infinite amount of money to, to try to stop the problem although most people wish you could as it is a, it's definitely a problem|sv|4752|1
+A|Uh-huh,|b|4752|0
+A|uh-huh.|b|4752|0
+B|and you know, the more, more, less that's done about it the more it seems it tends to spread into smaller areas unfortunately.|sv|4752|1
+A|Uh-huh.|b|4752|0
+A|Yeah.|aa|4752|0
+A|Well I, I think that if they would do something to these people that they do catch instead of just slapping their little hands|sv|4752|0
+B|Right.|b|4752|1
+A|and, you know, then maybe those other people would be kind of scared|sv|4752|0
+A|and they would not do these bad things, you know.|sv|4752|0
+B|Yeah,|aa|4752|1
+B|I think, I think that, uh, it's, uh, seems to be that, I don't know, some people they they do something, you know,|sv|4752|1
+B|they shoot somebody or whatever,|sv|4752|1
+B|they go to jail,|sv|4752|1
+B|sentenced to jail for like thirty years they're out in five|sv|4752|1
+B|and they're back on the street|sv|4752|1
+B|and then they shoot someone else|sv|4752|1
+B|and just a, a cycle|sv|4752|1
+B|and it seems, seems as though the, the system doesn't tend to stop them unless something is drastic is done.|sv|4752|1
+A|Yeah.|aa|4752|0
+A|I just don't understand our, our laws here.|sd|4752|0
+A|Because, you know, like in other countries, man, I mean, they're really a lot stricter than we are.|sd|4752|0
+B|Yeah.|aa|4752|1
+B|It's, definitely true.|sv|4752|1
+B|It seems, seems as though we try to play humanitarian I think to, a little to much *typo too|sv|4752|1
+B|and maybe some of the people don't deserve the, the humanitarian treatment that they get.|sv|4752|1
+A|Uh-huh,|b|4752|0
+A|uh-huh.|b|4752|0
+B|But I don't know.|h|4752|1
+B|It's a difficult situation I think|sv|4752|1
+B|and some, something has to be done because I definitely think it's, it, it really plays, reeks havoc with your quality of life when, you know, you can see it's going on around you|sv|4752|1
+B|but then when, once it finally affects you then, then it really starts to bother you.|sv|4752|1
+A|Uh-huh,|b|4752|0
+A|uh-huh. Uh,|b|4752|0
+B|But it seems, I mean,|sv|4752|1
+B|people have moved like out of the city because they want to get away from the crime|sv|4752|1
+B|and so they tend to spread the cities farther and farther out|sv|4752|1
+B|but, you know, it's only a matter of time before, you know, it still catches up with them.|sv|4752|1
+B|You can't really run away from the problem|sv|4752|1
+A|Yeah.|b|4752|0
+B|and something, you know, something has to be done but just that too many people argue about how to fix it.|sv|4752|1
+A|Yeah.|aa|4752|0
+A|I know when I lived in Oakland, it was just that, uh, like, I definitely wouldn't go into certain areas of, of the city by myself.|sd|4752|0
+B|Oh, sure.|aa|4752|1
+A|And, uh, and then, then again some areas I wouldn't go by myself after dark you know.|sd|4752|0
+B|Right.|b|4752|1
+B|Right.|b|4752|1
+A|But down here, in Patterson, well like I say, it's so small that you can go anywhere.|sd|4752|0
+B|Yeah.|b|4752|1
+B|Yeah,|b|4752|1
+B|that's good .|ba|4752|1
+A|But just, uh, like twenty miles away see in Modesto, they have, uh, those gangs and things over there.|sd|4752|0
+B|Right.|b|4752|1
+A|And it, it's bad.|sd|4752|0
+A|In Sacramento also, they have, uh, drive by shootings it seems like all the time.|sd|4752|0
+B|Yeah.|b|4752|1
+A|So, I don't know.|h|4752|0
+B|Yeah.|b|4752|1
+A|I just, I just don't know what, what they can do you know.|sd|4752|0
+B|Yeah.|aa|4752|1
+B|It's, it's to bad because it's, uh, I mean, just even the random occurrences where, you know, it's unsafe for a woman just to walk from the car to the, some, in certain areas like from the car, from their car to the mall or something|sv|4752|1
+B|and it's dangerous.|sv|4752|1
+A|I know.|aa|4752|0
+B|And it's just, that's just ridiculous|sv|4752|1
+B|and you know, it's just, that's just not right.|sv|4752|1
+B|Something you know .|%|4752|1
+A|Yeah,|aa|4752|0
+A|I mean like even, even going to the grocery store.|sv|4752|0
+A|I know we've had this one lady that was attacked, you know.|sd|4752|0
+B|Right,|b|4752|1
+B|right.|b|4752|1
+A|I mean, just, you just, you just don't know what to do anymore, you know.|sv|4752|0
+B|Right.|b|4752|1
+A|And some of the times it's happening in the daytime too, you know,|sd|4752|0
+A|so it's not always happening at dark.|sd|4752|0
+B|Yeah.|b|4752|1
+A|So I don't know.|h|4752|0
+B|Yeah,|aa|4752|1
+B|it's definitely unfortunate|sv|4752|1

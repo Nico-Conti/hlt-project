@@ -1,0 +1,74 @@
+A|Okay|fo_o_fw_"_by_bc|3428|0
+A|on a scale of one to ten where do you stand and why?|qw|3428|0
+B|Well, I guess I stand on, uh, on, probably ten for no, uh, restrictions.|sd|3428|1
+B|I, uh, recently just moved to Texas from, uh, South Dakota and Nebraska,|sd|3428|1
+B|and I guess in terms of gun control I've always, uh, been raised with the, uh, idea in the Constitution that, uh, citizens had a right to bear arms,|sd|3428|1
+B|and I realize that probably way back when when the Constitution was written it probably regarded, uh, more, uh, of a national defense, uh, than anything else,|sv|3428|1
+B|but, uh, on the other hand, too, uh, people then, uh, needed to use firearms for, um, survival in terms of, uh, food|sv|3428|1
+A|Yes,|aa|3428|0
+A|true.|aa|3428|0
+B|and, uh, I was raised, uh, you know, hunting all the time,|sd|3428|1
+B|I lived on the farm, and, uh, you know, enjoy hunting|sd|3428|1
+B|and I guess I have, uh, some problems with, uh, being restricted to, um, owning a gun for, you know, hunting purposes mainly.|sd|3428|1
+A|Right.|b|3428|0
+B|And, um, it scares me a little bit to think that they would begin restricting gun control to the point where, um, eventually we may not be able to have that right any more.|sd|3428|1
+A|Yeah,|aa|3428|0
+A|I can, I can understand that.|ba|3428|0
+A|I was raised in Oklahoma,|sd|3428|0
+A|and of course, being Oklahoman and Texan, uh,|%|3428|0
+A|yeah,|%|3428|0
+A|the hunting and everything,|%|3428|0
+A|and I used to things in my father and my husband having guns and all,|sd|3428|0
+A|and I, I did, used to be all in favor of it,|sd|3428|0
+A|but it's, all of a sudden it's starting to get really scary with these gangs.|sv|3428|0
+A|Yet I think I would vote a one if I thought that it would be nation wide and they can guarantee no one would have a gun, no crooks, nothing.|sd|3428|0
+A|But because I know that's not going to happen, then I have to probably right up there about an eight|sd|3428|0
+B|Yeah,|aa|3428|1
+B|it, uh, moving to this area, of course it happens everywhere,|sv|3428|1
+B|but, uh, I guess we're pretty naive coming from small towns, uh, in the midwest and then, uh, moving to a larger city where there are drive-by shootings|sv|3428|1
+B|and, uh, there seems like killing for no reason at all,|sv|3428|1
+B|and, uh.|%|3428|1
+A|Well, it just seems like in the past three or four years it has just gotten so much worse than it was.|sv|3428|0
+A|There's always been a certain amount of crime in your, you know, your urban areas,|sv|3428|0
+A|and I know we lived in Chicago for seven years,|sd|3428|0
+A|and of course it was definitely there.|sd|3428|0
+A|So when we first moved here, it wasn't as bad as this.|sd|3428|0
+A|It's, you know, it's just getting all of a sudden so much worse.|sv|3428|0
+A|I don't know whether it's due to the drugs and the, uh, drug kings that are here and Jamaican drug kings coming in.|sd|3428|0
+A|I don't know whether that's it, or street gangs.|sd|3428|0
+A|I don't know what the answer is.|sd|3428|0
+A|I know that it's scary,|sv|3428|0
+A|and yet I hate the government constantly telling me what I can do and what I can't do,|sd|3428|0
+A|and that's basically what the gun control would end up being.|sv|3428|0
+B|I, I think so,|aa|3428|1
+B|and, and there's always the, uh, the, uh, the old, uh, saying that keeps coming up that if a person wants a gun bad enough they'll, they'll get one,|sd|3428|1
+B|and, uh, and then, uh.|%|3428|1
+A|Well, it's very true.|aa|3428|0
+B|Yeah.|b|3428|1
+A|It's not the law abiding citizen that, you know, is, is dangerous with the gun|sv|3428|0
+A|It's the ones that are going out and stealing it.|sv|3428|0
+B|Yeah.|b|3428|1
+A|And I said I think the only way I would be in big favor of gun control is if they could absolutely guarantee that nobody would have them.|sd|3428|0
+A|And I think that would almost have to go with armies, too.|sv|3428|0
+A|I mean, they'd have to be almost world-wide, which we know would never ever happen.|sv|3428|0
+B|Yeah,|aa|3428|1
+B|yeah,|aa|3428|1
+B|that's for sure.|ba|3428|1
+A|Because even if you said, okay,|sv|3428|0
+A|you know, armed forces could have them,|^q|3428|0
+A|some idiot would come out and sell it to somebody on the street to make a quick buck.|sv|3428|0
+B|Yeah,|aa|3428|1
+B|and, uh, and, you know, uh, I suppose, uh, years ago, way back when, uh, when, uh, they had the revolutionary war and people decided that they, uh, were fed up with the government, uh,|sv|3428|1
+B|and if they didn't have a way to, uh, to fight back they would have been in big trouble.|sv|3428|1
+A|That's very true|aa|3428|0
+A|very true.|aa|3428|0
+A|Who knows,|qh|3428|0
+A|we maybe want to overthrow the government|sv|3428|0
+B|Well, the way things are going.|sv|3428|1
+A|I know,|aa|3428|0
+A|if somebody doesn't do something.|sv|3428|0
+A|Uh, what about, uh, what do you think of this, this, uh, law that they're putting into effect that you have to wait X number of days before you can, uh, carry the gun, or buy, you know, actually purchase the gun?|qo|3428|0
+B|Well, you know, they introduced some gun control back when I was a teenager, I believe, in terms of, uh, every gun you bought had to be licensed, I believe.|sd|3428|1
+A|Yes.|b|3428|0
+B|And, uh, you know, that didn't bother me, uh, too much,|sd|3428|1
+B|and so, I guess it depends, um, if there are some statistics that show that, uh, that people, uh, commit crimes on the spur of the moment.|sv|3428|1

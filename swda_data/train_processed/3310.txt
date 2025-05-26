@@ -1,0 +1,111 @@
+A|Okay.|fo_o_fw_"_by_bc|3310
+A|Have you faced, uh, elderly care yet, uh, nursing home care for any of your parents?|qy|3310
+B|Unfortunately, yes.|ny|3310
+B|Uh, in fact, tonight I had the dinner with, uh, my three brothers and our wives|sd|3310
+B|and we were talking, uh,|sd|3310
+B|we had a review with the nursing home staff.|sd|3310
+B|My mother's in a nursing home.|sd|3310
+A|Uh-huh.|b|3310
+B|And, uh, we had a review today|sd|3310
+B|and a few things we had to do that are part of it that you don't really like, like, uh making decisions on living wills and extended care, that type of thing,|sd|3310
+A|Yes.|b|3310
+B|so, yes,|ny|3310
+B|I'm very familiar with it|sd|3310
+B|and it's not something that is, uh, you know,|sv|3310
+B|I never thought I'd have to go through this kind of experience.|sd|3310
+B|But I guess we all do.|sv|3310
+A|I think sooner or later, uh,|aa|3310
+A|both my mother and my husband's mother, we had to end up putting in nursing homes|sd|3310
+A|and they were to the point that they only lived, both of them, about six weeks once they got in.|sd|3310
+B|Oh, really?|bh|3310
+A|And, uh-huh.|ny|3310
+A|And it's absolutely, I believe that was one of the hardest things I ever did. In my life.|sd|3310
+B|Uh-huh.|b|3310
+A|I, that, it just, you know, it's absolutely devastating.|sv|3310
+B|Right.|b|3310
+A|What have you found in dealing with the nursing homes?|qw|3310
+B|Well, they're not, every, all the horror stories you hear about them I think are true.|sv|3310
+A|Yes|aa|3310
+B|Uh, we've, you know, we've looked around|sd|3310
+B|and, my wife has looked at, extensively at all the ones in the area|sd|3310
+B|And the one she is in now, uh, there's a lot of drawbacks, a lot of things we don't like.|sd|3310
+B|But, again, it's no different than every one.|sv|3310
+B|And, you know, the cost of it, the, three thousand dollars a month|sd|3310
+A|Um, uh-huh.|b|3310
+B|when you think about it, for what you're paying a hospital for almost the same, well, even not as much care.|sv|3310
+A|Yes.|aa|3310
+A|Yes.|aa|3310
+B|It's not that expensive, really.|sv|3310
+A|No,|aa|3310
+A|uh, there, well, there's a little bit of difference in, in the two between my mother and my mother-in-law.|sd|3310
+B|Uh-huh.|b|3310
+A|And, uh, theirs both ran,|%|3310
+A|oh, I think my mother-in-law's was like fifteen hundred|sd|3310
+A|and my mother's was two thousand.|sd|3310
+A|Then, this has been five years ago.|sd|3310
+A|And, uh uh, one of the things that, you know, I had discovered is that if they knew that I came in there at all different hours, they got much better care than if,|sd|3310
+B|Uh-huh.|b|3310
+A|when I started out with my mother-in-law, because she was in there first, I would go certain hours|sd|3310
+B|Uh-huh.|b|3310
+A|and they knew.|sd|3310
+A|And if I'd pop in unexpectedly, I discovered, you know, they did a little bit, they did better.|sd|3310
+B|Oh, really?|bh|3310
+A|You know, uh-huh.|ny|3310
+A|And, you know, a couple of times with my mother-in-law, I would catch something not being taken care of. And, you know, would have to rate,|sd|3310
+B|Uh-huh.|b|3310
+A|so I got to where, I knew then when my mother was in that, you know, not to go the same time all the time. Because they would,|sd|3310
+B|Yeah.|b|3310
+A|and when I was looking for the nursing homes, another thing that I learned, uh,|sd|3310
+A|we had my mother all set to go into one|sd|3310
+A|and for some reason I just went back, and on my own went around the different floors.|sd|3310
+B|Uh-huh.|b|3310
+A|And, I saw areas that they had not shown me|sd|3310
+A|and they did not come across as well as, you know, what they had originally shown me,|sd|3310
+B|Well, I'll be darned.|ba|3310
+A|so, uh, we did not put her in that one.|sd|3310
+A|We put her in another one that I, I went a couple of times when they weren't expecting me and saw, and, you know, was much, uh, better pleased with the situation.|sd|3310
+B|Uh-huh.|b|3310
+B|Yeah.|b|3310
+B|Yeah,|b|3310
+B|you, you know, this is the whole point.|sv|3310
+B|You've got, you've got to shop them.|sv|3310
+A|Yes,|aa|3310
+A|you do.|aa|3310
+B|I know my mother's in now, in a unit that's mainly Alzheimer's|sd|3310
+A|Uh-huh.|b|3310
+B|and, uh, we're convinced that she probably would be better off in a geriatric.|sd|3310
+A|Uh-huh.|b|3310
+B|Uh, the fact that these people are they're up and around,|sd|3310
+B|but they're, they're, it's reminds me too much of an asylum type situation.|sd|3310
+A|Uh-huh.|b|3310
+A|Uh-huh.|b|3310
+B|And it's very, very,|%|3310
+A|Does your mother have Alzheimer's?|qy|3310
+B|She,|%|3310
+B|well, who knows.|no|3310
+B|They call it, uh, dementia.|sd|3310
+A|Uh-huh.|b|3310
+B|And, uh, we don't know.|no|3310
+B|I, I mean she does not know us anymore|sd|3310
+A|Uh-huh.|b|3310
+B|and whether it's Alzheimer's or what it is nobody really knows,|sd|3310
+A|Uh-huh.|b|3310
+B|but it's, basically the same.|sd|3310
+B|And her health is not that bad.|sd|3310
+B|Although she has gone down, downhill drastically since this, this last,|sd|3310
+B|well, she had been in a retirement community|sd|3310
+B|and somewhere in the back of her mind she had it that she would live with her children.|sd|3310
+B|Well she, we, we just did not have the capabilities to, to take care of her.|sd|3310
+A|Uh-huh.|b|3310
+B|And, uh, but she, she has gone down steadily since she has been in,|sd|3310
+B|and she's been in the nursing home now for, oh, I would say about three months.|sd|3310
+A|Uh-huh.|b|3310
+B|And,|%|3310
+A|Did she know that she was going to a nursing home?|qy|3310
+B|I'm sorry?|br|3310
+A|Did she know that she was going to a nursing home?|qy|3310
+B|She,|%|3310
+B|no,|nn|3310
+B|as far as she knew, she was going to a hospital. And that she could, she could handle a hospital|sd|3310
+A|Uh-huh.|b|3310
+B|and we says, you know, mom, if you, you know, if you get a, you get better, you've got to have the care, the doctor insisted on it, you know, if you get better that you could come out.|sd|3310

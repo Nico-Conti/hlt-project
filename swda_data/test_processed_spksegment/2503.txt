@@ -1,0 +1,226 @@
+A|Hi, Wanet is his last|fp|2503|0
+A|How are you?|fp|2503|0
+B|I'm doing fine.|fp|2503|1
+B|Where you from?|qw|2503|1
+A|I'm from New England.|sd|2503|0
+A|Massachusetts.|sd|2503|0
+B|Okay.|bk|2503|1
+B|I'm from Berkeley, California.|sd|2503|1
+A|Wow!|ba|2503|0
+A|This is quite a, quite a long distance.|sd|2503|0
+B|Yeah,|aa|2503|1
+B|it certainly is.|aa|2503|1
+A|Do you have any pets?|qy|2503|0
+B|No.|nn|2503|1
+B|Use too.|sd|2503|1
+B|Use to,|sd|2503|1
+B|but none, none right now.|sd|2503|1
+A|How come, uh, you don't have any now?|qw|2503|0
+A|You get tired of them?|qy|2503|0
+B|Well, I, I live in an apartment building|sd|2503|1
+B|and, and, uh, and, and, it, it, it's just not feasible  you know.|sd|2503|1
+A|Yeah.|b|2503|0
+B|I'd love to have a dog, you know.|sd|2503|1
+A|I've got a little doggy, uh, that I've had quite, uh, quite a long time.|sd|2503|0
+A|In fact, she just turned sixteen years old New Year's Eve.|sd|2503|0
+B|Ah.|%|2503|1
+A|And, uh|%|2503|0
+B|Is she?|%|2503|1
+A|I beg your pardon?|br|2503|0
+B|What is she?|qw|2503|1
+A|She's, uh, uh, uh, a poodle.|sd|2503|0
+A|Uh, a toy poodle, a toy poodle|sd|2503|0
+A|and she's,|%|2503|0
+B|Ah.|b|2503|1
+B|Ah,|b|2503|1
+B|my, I got my mom a teacup little mutt ,  not too long ago.|sd|2503|1
+A|This is a little bigger than a teacup.|sd|2503|0
+B|Yeah.|b|2503|1
+A|And, uh, it's funny how, uh, how I, I, uh, acquired this animal.|sd|2503|0
+A|Uh, when I was, uh, married, my, uh, ex-wife had said that she had a friend who had a little puppy. That she needed,|sd|2503|0
+A|uh, the woman needed someone to baby-sit|sd|2503|0
+A|and, uh, this is what she had told the kids|sd|2503|0
+A|and she even told me that.|sd|2503|0
+A|And after the two week period was up, uh, she then informed me that the woman no longer wanted the little puppy and wanted to know if we wanted to keep it.|sd|2503|0
+A|Well, after you had an animal for a couple of weeks, it's, uh, you become  you become attached to it.|sv|2503|0
+B|Oh, for sure.|aa|2503|1
+B|Oh, yeah.|b|2503|1
+A|So, I've had this dog now for, for sixteen years|sd|2503|0
+A|and she's been a lot of company|sd|2503|0
+A|Uh, she's, uh, however, getting a little old|sd|2503|0
+A|and things are starting to fail.|sd|2503|0
+A|Uh, I, I live alone now|sd|2503|0
+A|and she stays in the house all day while I go to work|sd|2503|0
+A|and, uh, she's been holding herself pretty well. The, uh, up until, you know, recently where she's been having accidents in the house because she either is losing control or she forgets where she is|sd|2503|0
+A|and, uh, I find a little present on the floor sometimes when I come home.|sd|2503|0
+A|But she's, she's usually pretty good.|sd|2503|0
+B|Yes,|b|2503|1
+B|well. My, my mother has one that's, uh,|sd|2503|1
+B|it's, uh, it's, uh, teacup|sd|2503|1
+B|and, uh, it's made such a difference for her.|sd|2503|1
+B|But, you know, just, I, you know,|%|2503|1
+B|the way my mom's presence countenance is, just, just for having a puppy|sd|2503|1
+B|but, you know, having this dog|%|2503|1
+B|she's had it for, I guess three years now. Oh, possibly four.|sd|2503|1
+A|Uh-huh.|b|2503|0
+B|But, uh, it was, it, it's it's really made such a difference for her.|sd|2503|1
+B|I really would like to, uh,|sd|2503|1
+B|I'm a disabled person|sd|2503|1
+A|Uh-huh.|b|2503|0
+B|so I'm unable to, to, really take care of a pet|sd|2503|1
+B|and if that weren't so, I would certainly have one.|sd|2503|1
+B|I just, I just,|%|2503|1
+B|it frustrates me sometimes not being able to have a dog|sd|2503|1
+B|yeah .|b|2503|1
+A|Huh. Well, you might want to get yourself, uh, an animal that doesn't require much attention. Like a cat.|ad|2503|0
+B|Oh, yeah.|b|2503|1
+B|Well, yeah,|b|2503|1
+B|uh, I, I, I typically am not a cat person.|sd|2503|1
+B|I have a friend that, uh, has on occasion, uh brought her cat over for me to keep for, you know, from time to time|sd|2503|1
+B|And this cat is like no other cat I have ever seen.|sd|2503|1
+B|And, uh, it would sleep on my chest, you know.|sd|2503|1
+A|Yeah.|b|2503|0
+B|It's just, it's just a great cat,|sd|2503|1
+B|but.|%|2503|1
+A|Well, my, my personal preference is, is a dog.|sd|2503|0
+A|Uh, I don't know that, uh, that I would ever want a cat.|sd|2503|0
+A|Oh, I like cats.|sd|2503|0
+A|I just wouldn't want to own one.|sd|2503|0
+A|Uh  they're not, uh, they're, they're affectionate|sv|2503|0
+B|Well, you don't own cats.|sv|2503|1
+A|but they,|%|2503|0
+A|yeah|%|2503|0
+A|I don't know,|h|2503|0
+A|I can't seem to communicate with a cat like I can with my dog.|sv|2503|0
+B|Yeah.|b|2503|1
+B|You, they, they own you or, or, you know, grant you with you their presence, you know.|sv|2503|1
+A|Yeah,|aa|2503|0
+A|right|aa|2503|0
+A|Yeah.|aa|2503|0
+A|Right.|aa|2503|0
+A|That,|%|2503|0
+A|yes,|%|2503|0
+A|we're supposed to appreciate them.|sd|2503|0
+A|Well, my, my dog when I came home, uh, when I come home in the evenings, my dog greets me at the door.|sd|2503|0
+A|I don't know that a cat would do that, uh|sv|2503|0
+B|Yeah.|b|2503|1
+B|I used to have, a cat that could read me better than any human being in my life.|sd|2503|1
+A|Yeah.|b|2503|0
+B|I could just walk in the door|sd|2503|1
+B|and she knew whether to, to, to quietly come up to me or to just run and knock me over.|sd|2503|1
+B|I mean she really could pick up on my mood  uh, the way I walked in the door.|sd|2503|1
+A|Yeah,|b|2503|0
+A|yeah.|b|2503|0
+B|It was, uh, uncanny like a|sv|2503|1
+A|Huh. I, I think, uh, in a way we're able to read each other pretty well because, uh, she knows when I'm upset and I know when she's not feeling good too|sd|2503|0
+A|So.|%|2503|0
+B|Yeah.|b|2503|1
+A|I know like when she has an accident, I know she's not doing it on purpose.|sd|2503|0
+A|When when she was younger, she used to do that to get even with me,|sd|2503|0
+B|Yeah.|b|2503|1
+A|Uh, and, and, you know, some people might not believe that|sd|2503|0
+A|but, but, but, uh, I do|sd|2503|0
+B|Sure|b|2503|1
+B|Oh, absolutely.|ba|2503|1
+A|Like if I, if I put her in a room all by herself and close the door and leave her there for a few hours, uh, because I was going out. She would, uh, break something or rip up the carpet or do something just to, uh, to, to let me know that she was unhappy with what I did|sd|2503|0
+B|Really?|bh|2503|1
+A|Yeah.|ny|2503|0
+B|That's the way,|%|2503|1
+B|well, I had that cat that I mentioned, Alfie .|sd|2503|1
+B|One morning, you know, the first thing you do is you get up and you, you, you feed this cat something and, and you make sure that it can get to its litter box.|sd|2503|1
+B|Well, for some reason during the night, the door was not quite wide enough for it to get through|sd|2503|1
+A|Uh-huh.|b|2503|0
+B|and, uh, the next morning, uh, when my roommate got up and, and, uh, did not feed it right away, it decided that, that it was going to protest.|sd|2503|1
+B|And so it jumped up on my bed and anointed my blanket,  for me. Looking, looking at me eye to eye,  all the time while it was doing it.|sd|2503|1
+B|All right. Have I got your attention now?|^q|2503|1
+A|Oh, yes.|b|2503|0
+A|Animals have a way of talking|sv|2503|0
+B|Alfie did.|sd|2503|1
+B|I tell you if I could have gotten a hold of that cat that day.|sd|2503|1
+A|I, I don't know that I'd, uh, that I'd trade my dog in for the world.|sd|2503|0
+A|Uh, it was about two years ago she got sick on me|sd|2503|0
+A|and I took her to the, uh, to the vet's because she wasn't eating and, and, uh, she wasn't able to jump.|sd|2503|0
+A|She, you know, lost all her activity|sd|2503|0
+A|and, uh, she stayed there for one day|sd|2503|0
+A|and the doctor called me up and said, uh, she had a low white cell count and that, uh, she wasn't, she was dying and, uh, suggested that I take her to a working dog hospital, animal hospital|sd|2503|0
+A|So I took his suggestion|sd|2503|0
+A|and I, uh, took the, the dog to a hospital. The dog hospital there|sd|2503|0
+A|and they said they'd keep her there for three days.|sd|2503|0
+A|Well, she ended staying there five days at a hundred and something dollars a day because she was in intensive care|sd|2503|0
+A|It cost me over five hundred dollars.|sd|2503|0
+B|Ouch.|ba|2503|1
+A|Plus, the, the, uh, the vet sent me a bill for what he did|sd|2503|0
+A|and, uh, then she recouped.|sd|2503|0
+A|She was okay for a couple of years.|sd|2503|0
+A|And then she got sick on me again|sd|2503|0
+A|and I brought her to a different vet this time|sd|2503|0
+A|and I told the vet what medication I had given her and everything|sd|2503|0
+A|And, uh, he gave me the medication, the same medication that I gave her the last time|sd|2503|0
+A|and she was okay|sd|2503|0
+A|and she's been okay every since.|sd|2503|0
+A|It's been about two years now.|sd|2503|0
+B|Huh. Well, that's great,|ba|2503|1
+B|it really is.|ba|2503|1
+B|I, I'm glad that she was able to pull out of it that way and so cheaply the second time.|sd|2503|1
+A|Yeah.|b|2503|0
+A|Well, the, see the problem is if, if the, if someone would have came up to me and said it's going to cost you five hundred dollars to keep your dog alive.|sd|2503|0
+A|What do you want to do?|^q|2503|0
+A|I probably would have had second thoughts.|sd|2503|0
+B|Yeah.|aa|2503|1
+B|Of course, you would.|aa|2503|1
+A|But what they, well, what they do is, is they say, well it's going to cost, you know, twenty dollars for tests and forty dollars for this|sd|2503|0
+A|and, and, you know, and it creeps up on you.|sd|2503|0
+A|You don't know that, uh, you know|sd|2503|0
+A|You really, you don't know what it's going to until it's all over.|sd|2503|0
+A|Uh, to give you an example. My mom had an elderly cat who, uh, whoever evidently got a hold of it|sd|2503|0
+A|and, uh, the cat got sick.|sd|2503|0
+A|So she took the cat to the vet|sd|2503|0
+A|and she had the cat there for two days|sd|2503|0
+A|and then the cat died.|sd|2503|0
+A|So the doctor had called her up and said, uh, your cat died|sd|2503|0
+A|and you owe me this bill,|^q|2503|0
+A|and oh, by the way, do you want me to, to bury the cat|^q|2503|0
+A|So, it cost her three hundred dollars, uh,|sd|2503|0
+A|and she didn't get the cat back.|sd|2503|0
+A|So, yeah,|%|2503|0
+A|they had to pay for all the medical, uh, bills that the cat ran up plus the burial expenses.|sd|2503|0
+A|And, uh, you know, she just brought the cat in because he wasn't feeling good|sd|2503|0
+A|So that  that was kind of a surprise|sd|2503|0
+B|Really.|b|2503|1
+B|Geez.|ba|2503|1
+A|At|%|2503|0
+B|Yeah.|b|2503|1
+B|You kind of wonder what really happened.|qy^d|2503|1
+A|Yeah.|ny|2503|0
+A|Well even the, you know,|%|2503|0
+A|they, they claimed they did the best that they could have have|sd|2503|0
+A|and then the cat, uh, died.|sd|2503|0
+A|So|%|2503|0
+B|My goodness.|ba|2503|1
+A|I'm, I'm looking for another cat for them. Uh,|sd|2503|0
+A|I, I've, I've got a little kitten, uh, that's still, uh, just being born right now.|sd|2503|0
+A|So another five or six weeks I'll be bringing the little kitten over to, uh, to my folks.|sd|2503|0
+B|Well, that, that, that, that will make their day.|sv|2503|1
+A|Yeah.|aa|2503|0
+A|I, I think it will|sv|2503|0
+A|because they're both in their, in their seventies. And, uh, the cat, uh, although it's a little bit of work for them sometimes, it turns, it turns out to be, uh, uh, a pleasant experience for them.|sd|2503|0
+A|Uh, I think they enjoy that.|sv|2503|0
+B|Only work initially.|bf|2503|1
+A|Yeah.|aa|2503|0
+B|For cats anyway, you know.|sv|2503|1
+A|Yeah.|b|2503|0
+B|Well, listen|ad|2503|1
+B|it's been a pleasure talking to you.|fc|2503|1
+A|Well, the same here.|fc|2503|0
+B|And you take care.|fc|2503|1
+A|Okay.|fc|2503|0
+A|Bye now.|fc|2503|0
+B|Maybe we'll talk again sometimes|fc|2503|1
+A|Okay.|fc|2503|0
+A|What is that sound?|qw|2503|0
+B|That's my buzzer at the door|sd|2503|1
+A|Oh, okay.|bk|2503|0
+A|I'll let you go.|fc|2503|0
+B|Okay.|fc|2503|1
+A|Right|fc|2503|0
+B|Thank you|fc|2503|1

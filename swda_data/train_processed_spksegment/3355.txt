@@ -1,0 +1,143 @@
+A|Okay,|fo_o_fw_"_by_bc|3355|0
+A|who do you like?|qw|3355|0
+B|Okay,|b|3355|1
+B|What kind do I like?|qw|3355|1
+B|I like just about any kind except country and western.|sd|3355|1
+A|Yeah,|aa|3355|0
+A|that's the same with me, same with me.|sd|3355|0
+B|It's, it's, course country|sv|3355|1
+B|and western even I've gotten a little bit used to because it's not like it used to be.|sv|3355|1
+A|Uh-huh.|b|3355|0
+A|Like Clint Black, he's pretty good,|sv|3355|0
+A|and who's the other big guy?|qw|3355|0
+B|Well, in Oklahoma we say Garth Brooks|sd|3355|1
+A|Garth Brooks,|b^m|3355|0
+A|yeah,|bk|3355|0
+A|that's, yeah, that's the other guy I was thinking of was Garth Brooks.|sd|3355|0
+A|Yeah,|%|3355|0
+A|in fact I think both of them have performed here.|sd|3355|0
+A|And Kenny Rogers, he's kind of country western verge, you know on the verge of country western.|sv|3355|0
+B|Right.|b|3355|1
+B|Of course, Garth Brooks lives about, uh, you know,|sd|3355|1
+B|his, his home town is about, uh, fifteen minutes away|sd|3355|1
+A|Oh, wonderful.|ba|3355|0
+B|so he is, he's a home boy|sd|3355|1
+A|Well, then, of course you like him.|sv|3355|0
+A|That's great.|ba|3355|0
+A|But, well, I have teen age children,|sd|3355|0
+A|and so, you know, I'm, hear the, the rock music, not the hard rock, but the, you know, Michael Bolton type stuff.|sd|3355|0
+B|Uh-huh.|b|3355|1
+A|He's my personal favorite.|sd|3355|0
+B|My son is, uh, twenty-eight,|sd|3355|1
+B|so, but he, he's real unusual in that, uh,|sd|3355|1
+B|he likes a little bit of every kind.|sd|3355|1
+B|He likes jazz and, uh, blues and, and course the rock|sd|3355|1
+A|Oh, that's good.|ba|3355|0
+A|Uh-huh,|b|3355|0
+A|uh-huh.|b|3355|0
+B|I, I can't say he's real crazy about elevator music, as he calls it.|sd|3355|1
+A|No,|b|3355|0
+A|no,|b|3355|0
+A|I, I don't, I don't, actually, we don't listen to any elevator music at my house.|sd|3355|0
+A|But I've got teenagers,|sd|3355|0
+A|so.|%|3355|0
+B|Well, my teenagers are all gone.|sd|3355|1
+B|I can listen to any music I want to|sd|3355|1
+A|Yeah,|b|3355|0
+A|that's good,|ba|3355|0
+A|I, actually, when I'm home alone, which isn't too often, but, uh, our Public Radio Station has wonderful classical music.|sd|3355|0
+A|It's just very wonderful. Soothing, and, you know, uh, lot of symphonies|sv|3355|0
+A|and, I just, I love that,|sd|3355|0
+A|that's probably my all-time favorite.|sd|3355|0
+B|You know, uh, I, I teach|sd|3355|1
+A|Um.|%|3355|0
+B|and we can have music in the classroom,|sd|3355|1
+B|but it, you know, it can't be the rock or anything like that|sd|3355|1
+A|Right.|b|3355|0
+B|and I, I find that the classical music is very good for the kids too, it doesn't disturb them and yet it's, it's, it stimulates them,|sv|3355|1
+A|Right.|b|3355|0
+A|Relax,|^2|3355|0
+B|and and, uh,|%|3355|1
+A|Yeah.|b|3355|0
+A|What do you teach, what grade?|qw|3355|0
+B|Well, it's ninth, nine through twelve|sd|3355|1
+A|Good for you.|ba|3355|0
+B|and,|%|3355|1
+A|A certain subject?|qw^d|3355|0
+B|Well, it's, uh, business technology.|sd|3355|1
+A|Good for you.|ba|3355|0
+B|But, uh|%|3355|1
+A|I was just sitting here while she was trying to find, a, a, another caller, uh,|sd|3355|0
+A|I was reading|sd|3355|0
+A|my, my husband and I are taking a computer class at our junior college|sd|3355|0
+B|oh, boy,|ba|3355|1
+A|Yeah,|b|3355|0
+A|it's pretty good,|sv|3355|0
+A|it's just a real basic class,|sd|3355|0
+A|but we're learning a lot,|sd|3355|0
+A|and we have a home computer,|sd|3355|0
+A|so it's, it's very interesting.|sv|3355|0
+B|Uh, yeah,|b|3355|1
+B|I'd learn it too.|sd|3355|1
+B|Uh, back to, I guess we'd better get back to music, though.|sv|3355|1
+A|Yeah,|b|3355|0
+A|the subject of music|sd|3355|0
+B|I, uh,|%|3355|1
+B|do you play any instruments?|qy|3355|1
+A|I play, I play piano,|na|3355|0
+A|I took lessons for thirteen years,|sd|3355|0
+A|and right now my nine year old is taking piano,|sd|3355|0
+A|and I just got a whole mess of music,|sd|3355|0
+A|I, I play the, volunteer to play the piano at the children's Christmas program for the whole grade school, which is K through six five hundred kids.|sd|3355|0
+B|Ooh, you took on a,|sv|3355|1
+B|good job.|ba|3355|1
+A|I did it last year,|sd|3355|0
+A|and, and, um, I, I just sub at the school,|sd|3355|0
+A|I don't want to work full time,|sd|3355|0
+A|so I just sub at the school,|sd|3355|0
+A|and that's kind of my volunteer thing,|sd|3355|0
+A|so that, it, it's really neat,|sv|3355|0
+A|and my older daughter plays the saxophone,|sd|3355|0
+A|my next son plays the drums,|sd|3355|0
+A|and my third son just started baritone this year,|sd|3355|0
+A|and my little girl will start French horn next year,|sd|3355|0
+A|so.|%|3355|0
+B|Oh, well, my son played the sax and drums, my daughter the piano, organ and French horn.|sd|3355|1
+A|Oh.|b|3355|0
+B|So.|%|3355|1
+A|French horn is absolutely wonderful instrument.|sv|3355|0
+A|It's just my favorite.|sd|3355|0
+A|Of course that's what I played,|sd|3355|0
+A|and so I'm pushing that on my daughter because I want to play in our city band, not the symphony, with just the city band once we get the, the French horn|sd|3355|0
+B|Oh, okay.|b|3355|1
+A|and I get a little bit more time.|sd|3355|0
+A|Right now I'm busy chasing my kids.|sd|3355|0
+B|Yes,|b|3355|1
+B|sounds like you've got a houseful.|qy^d|3355|1
+A|I do, I do, I love it,|na|3355|0
+A|but we have a, a marvelous band instructor,|sv|3355|0
+A|and, and he's just, he's wonderful.|sv|3355|0
+A|We have, uh, couple of hundred kids in the band,|sd|3355|0
+A|our junior high band is just wonderful.|sv|3355|0
+B|Oh, that's a,|%|3355|1
+A|He, lot,|%|3355|0
+A|and their concert band,|%|3355|0
+A|and then he has a jazz band that my older daughter was in,|sd|3355|0
+A|and my son will be in next year|sd|3355|0
+A|that's,|%|3355|0
+A|I mean, they play college level music in junior high,|sd|3355|0
+A|he's that good of an instructor,|sv|3355|0
+A|and the kids just love him.|sv|3355|0
+B|Oh, that's wonderful,|ba|3355|1
+A|So it's really good.|sv|3355|0
+A|It is wonderful.|sv|3355|0
+B|I, I have totally, totally a tin ear|sd|3355|1
+A|Oh do you|qy|3355|0
+B|and I love music.|sd|3355|1
+B|I cannot carry a tune in a basket.|sd|3355|1
+B|I know what I like,|sd|3355|1
+B|but I|%|3355|1
+A|Uh-huh.|b|3355|0
+B|you know, and I love to listen to it, love to sing, and I, my kids, when I was little and, they were little|sd|3355|1
+B|and I was rocking them, singing to them.|sd|3355|1
+A|Uh-huh.|b|3355|0

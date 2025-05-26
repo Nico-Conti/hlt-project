@@ -1,0 +1,78 @@
+A|Okay.|fo_o_fw_"_by_bc|4822
+A|Go ahead.|ad|4822
+B|Well, uh, a friend of mine actually works for McDonald Douglas in the, uh, in the space station program|sd|4822
+B|so I get to find out a lot of information about what's going on there|sd|4822
+A|Oh.|b|4822
+B|and  it sure sounds like that's going to be a really viable program if it continues to be funded at current levels.|sv|4822
+A|Sure.|b|4822
+A|Uh-huh.|b|4822
+B|Uh, they're, they're going to be doing a lot of interesting things.|sv|4822
+B|Uh, I think one of the big things he's involved with is the micro gravity payloads.|sv|4822
+B|And that has a direct impact on a lot of things that we really can't do down here on earth including, uh, some new pharmaceutical techniques.|sv|4822
+A|Oh, you're kidding.|ba|4822
+A|Yeah.|b|4822
+B|So, you know, there's  there's a big opportunity for us to explore, uh, what sorts of things you can do in a zero gravity environment.|sv|4822
+A|Huh.|%|4822
+A|Uh-huh.|b|4822
+A|Sure.|b|4822
+B|So. I suspect that we'll see a lot of gains from that.|sv|4822
+A|Oh, that's good because sometimes I wonder, you know, being a, uh, lay person out there of not, uh, knowing exactly what's going on in space. Whether, you know, they're going ahead and doing things and whether or not|sd|4822
+A|we're spending too much money on the programs and not spending enough money on the earth that we have here.|sd|4822
+A|Being, you know,|%|4822
+A|to me, all this, uh, space exploration that we've done thus far has told us that there's no other place like earth. That, uh, we can't live on Mars.|sd|4822
+A|We can't live here,|sv|4822
+A|we can't live there.|sv|4822
+A|I mean, this is the, the place that we have to live.|sv|4822
+A|I mean, there's, uh, no other resource for us to, to look at other than here.|sv|4822
+A|So, it's kind of like, to me,|%|4822
+A|I would like to see a lot more money being put toward taking care of the environment that we have here and not so much emphasis put on what's going out in space|sv|4822
+A|and what, you know,|%|4822
+A|not that I want everything to halt|sd|4822
+A|and let's forget about the space program or whatever,|sd|4822
+A|because we're always curious|sv|4822
+A|and we always need to know more things.|sv|4822
+A|But, uh, to me it's kind of like let's try and clean up the air that we have here.|sv|4822
+A|Let's try to take care of the lakes that are getting polluted and the other things that are going on here.|sv|4822
+A|Mainly because, uh,|%|4822
+A|the space program has taught us that there is no other place for us.|sv|4822
+A|I mean this is it.|sv|4822
+A|I mean if we would have, uh, if we would have went into space and found Mars a livable, uh, planet, we probably would have inhabited it|sv|4822
+A|and, uh, you know, who would have cared about earth?|qh|4822
+A|It would have been another planet to kind of take over and, uh, continue on.|sv|4822
+A|So, you know, and that|%|4822
+A|when I look at the space program itself, I think of it, you know, as being in terms of it's, it's interesting to learn but it's also, it's, it brings down the fact that this earth is it.|sd|4822
+A|It's it for us, you know what I mean? Uh, unless technology makes the decision that we are all going to live in space or whatever.|sv|4822
+B|Right.|b|4822
+A|But I would love to, uh, go into the space shuttle some day and, uh, just see, uh, you know, the earth and the different planets and things like that.|sd|4822
+A|I, I think it would be very interesting to do but whether it would be feasible to do I don't know.|sd|4822
+B|Well, uh, as far as the practical aspects go, I suspect that the space station may actually be a good compromise between, you know, deep space I'm sorry, deep space exploration and, uh, and not doing anything because we have the opportunity to off load some things to the space station.|sd|4822
+A|Uh-huh.|b|4822
+A|Uh-huh.|b|4822
+A|Sure.|b|4822
+A|Exactly.|aa|4822
+A|Uh-huh.|b|4822
+B|And, uh, you know, perhaps we can find better techniques for doing things that, uh, we'd normally do down here that are damaging to the environment.|sd|4822
+A|Uh-huh.|b|4822
+A|Exactly.|aa|4822
+A|Yeah,|b|4822
+A|that's true, you know.|ba|4822
+A|And I, I think of, uh,|%|4822
+A|I'm sure you probably have heard of the Genesis program that's going on currently out in the Arizona desert.|qy^d|4822
+B|Uh-huh.|ny|4822
+A|Uh, there's, uh, you know, they're trying to look at how things effect everything in trying to create, you know, an environment where they have an ocean and they have the lakes and then they have the desert part of it|sd|4822
+A|and then they have an area that's more, uh, you know, full of, uh, vegetation, tropicals, that kind of thing, to kind of look at things and say, you know, the environment wise, this is where we're living|sd|4822
+A|but what, what effects it|%|4822
+A|and how can we improve it and things like that.|sd|4822
+A|And I, I think in space, uh,|%|4822
+A|I don't know how many people could live up in space, uh, for any length of time|sd|4822
+A|I mean just the way that we're affected by when it's cloudy out|sd|4822
+A|and it's cloudy for days|sd|4822
+A|and we don't see the sun|sd|4822
+A|and the people, their moods are extreme, you know.|sv|4822
+B|Right.|b|4822
+A|It's like, God if I don't get to see the sun I'm going to be in this bad mood all this entire time|sv|4822
+A|and this is how I see people reacting.|sd|4822
+A|You know, when is the sun going to come out?|qh|4822
+A|So I wonder how, you know, somebody living up in space is going to be able to tolerate never seeing the sun You know, in the aspect that we see it. Uh, and never seeing, uh, you know, light, bright days, you know.|sd|4822
+B|Right.|b|4822
+A|And,|%|4822

@@ -1,0 +1,110 @@
+A|Budgeting activity in our household I, has is, uh, uh, kind of an informal kind of situation.|sd|4868|0
+A|We, we, you know, put,|sd|4868|0
+A|actually what happens is, uh, is, my check gets automatically deposited.|sd|4868|0
+A|I don't even have the glories of bringing home my check anymore.|sd|4868|0
+A|It just gets deposited.|sd|4868|0
+A|And,  and, and my, my wife, you know, you know, looks at all those bills that come in|sd|4868|0
+A|and, you know, and all those people are counting on me to have my wife pay them. You see,|sd|4868|0
+A|and so our, our budgeting,|sd|4868|0
+A|we really don't have a formal budgeting situation.|sd|4868|0
+A|Every time I've ever tried one, it's, uh, I've just got wrapped in my inertia.|sd|4868|0
+A|And, uh, I've just decided not to pursue it.|sd|4868|0
+A|Uh, what, what's your budget situation?|qw|4868|0
+B|Well, actually, uh, I've, I've had a couple of different situations.|sd|4868|1
+B|My current one has been the most successful.|sd|4868|1
+B|Uh, at a certain point in life|sd|4868|1
+B|my husband, my ex-husband was an alcoholic.|sd|4868|1
+B|And we got divorced back in the mid-seventies|sd|4868|1
+B|and that left me with three teenagers.|sd|4868|1
+A|You know, well actually that kind of situation is just wonderful for budgets. Isn't it?|qy|4868|0
+B|It certainly is|aa|4868|1
+B|But at any rate, what happened was that I, I just absolutely put away all the credit cards.|sd|4868|1
+B|I didn't rip them up.|sd|4868|1
+B|I didn't send them back.|sd|4868|1
+B|Nothing.|sd|4868|1
+B|I just put them away.|sd|4868|1
+B|Because there was one that it was really handy to have.|sd|4868|1
+B|If I absolutely had to have something, I could go use it.|sd|4868|1
+A|Uh-huh.|b|4868|0
+B|But, uh, mostly we just spent cash. Whatever we had.|sd|4868|1
+B|And if we didn't have it, we absolutely didn't spend it.|sd|4868|1
+B|But then, as things improved, you know.|sd|4868|1
+B|Once, once I got them all through college, uh, it came to the point where, uh,|sd|4868|1
+B|my parents came through the depression.|sd|4868|1
+B|I'm not sure how old you are.|sd|4868|1
+A|Well, my, you know, my, my parents too.|sd|4868|0
+A|You, you  you were born in, in the, in the late thirties or early forties.|qy^d|4868|0
+B|But my,|%|4868|1
+B|Late thirties,|sd|4868|1
+B|yeah.|%|4868|1
+B|Uh-huh.|%|4868|1
+A|Yeah.|b|4868|0
+B|And, uh, my mother hardly ever spent anything on herself or on the house.|sd|4868|1
+B|And that's kind of the way I was raised.|sd|4868|1
+B|And so I'm not a very demanding person in, in that aspect.|sd|4868|1
+B|So for quite a period of time, I just flat didn't spend any money.|sd|4868|1
+A|Um.|%|4868|0
+B|Now, meanwhile, I got, had a, a building bank balance.|sd|4868|1
+B|And my intent was that whenever something went on sale that I really had to have, I would have the cash to buy it right then and there. And not ever have to spend any money on interest.|sd|4868|1
+A|Uh-huh.|sd|4868|0
+A|Well, that, that's good.|ba|4868|0
+B|And that, that's the way I've operated ever since then.|sd|4868|1
+B|It,|%|4868|1
+B|and you know, if, if something goes on sale and I don't have the money, I still don't buy it.|sd|4868|1
+A|Well, we, we buy what, well,|sd|4868|0
+A|we just got through buying a twenty-five foot refrigerator, a new ceramic top stove, and a new dishwasher.|sd|4868|0
+B|Oh my|ba|4868|1
+A|And, and we put twenty-eight hundred dollars on the charge. Along with my trip to Japan which was, was fourteen or fifteen hundred dollars|sd|4868|0
+B|Oh my!|ba|4868|1
+A|and you know.|%|4868|0
+B|Oh my.|ba|4868|1
+A|Right.|aa|4868|0
+A|I mean, we just, we got a monster, you know, bill coming in.|sd|4868|0
+A|But, but we also have zero interest being paid.|sd|4868|0
+A|And we pay it off as, as it goes.|sd|4868|0
+B|Uh-huh.|b|4868|1
+B|And that's the way I do my credit cards now.|sd|4868|1
+A|Yeah.|b|4868|0
+A|So we never really get that much over, uh, over extended.|sd|4868|0
+B|Yeah.|b|4868|1
+B|I do almost all my purchasing on credit cards.|sd|4868|1
+A|Huh.|%|4868|0
+B|But it's the fact that I have enough of a, of a cushion in the bank so that when they come, I can pay them in full.|sd|4868|1
+A|Yeah.|b|4868|0
+A|We're, we're doing that.|sd|4868|0
+A|We have, you know, uh,|sd|4868|0
+A|this is our, our, our big, uh,|sd|4868|0
+A|we did redecorating.|sd|4868|0
+A|Two, you know, two new pieces in the in the family room and new carpet.|sd|4868|0
+A|I mean we just  uh, we've just been spending, spending, spending.|sd|4868|0
+B|Oh my.|ba|4868|1
+B|I'm envious|sd|4868|1
+B|Well I,|%|4868|1
+A|but we haven't really done anything for a long time because we've, we've had two kids in college that just have graduated in the past year.|sd|4868|0
+B|Uh-huh.|b|4868|1
+A|So we're, you know, we don't have that.|sd|4868|0
+B|It's time for you to do these things then. Right?|qy|4868|1
+A|Yeah,|ny|4868|0
+A|it's, uh, it's about time that we did that.|sd|4868|0
+A|and it all looks still pretty good to me.|sd|4868|0
+A|Why, why we need to replace it?|qh|4868|0
+A|But, but, unfortunately my, my, my wife really feels as though it's, it's just been an inappropriate, uh, thing to, to, I mean|sd|4868|0
+A|that rug is thirteen years old,|^q|4868|0
+A|why not replace it.|^q|4868|0
+A|I mean, uh, I say it might go for another thirteen|sd|4868|0
+A|but, uh, too late, we'll never find that out.|sd|4868|0
+B|This is so funny.|ba|4868|1
+B|That's wonderful.|ba|4868|1
+B|But  you're lucky to have her because if you're like me and you have difficulty spending money, you need somebody to help you spend it.|sv|4868|1
+A|And,|%|4868|0
+B|I mean, certain things really do need to be done whether or not you think they should, be or not|sv|4868|1
+A|You know, I, I, I don't spend that much money.|sd|4868|0
+A|I just, uh, we just sort of have had, uh, you know, too many obligations to, you know,|sd|4868|0
+A|we sort of take care of the kids when they were school and they, they got through school.|sd|4868|0
+A|And that was the major, you know, decade of expenses, you know.|sd|4868|0
+A|So we, we feel as, uh,|%|4868|0
+A|but as far as any formal budgeting, uh, you know, I, I, we just apparently have been very fortunate.|sd|4868|0
+A|When we went, want to go out to eat, we go out to eat.|sd|4868|0
+A|We never really, you know, have to program money for that or make choices, you know.|sd|4868|0
+A|But, uh, we don't have that uproarious a, a lifestyle.|sd|4868|0
+A|After all, we're,|%|4868|0

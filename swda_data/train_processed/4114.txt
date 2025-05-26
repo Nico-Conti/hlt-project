@@ -1,0 +1,126 @@
+A|So, how you like New Jersey?|qo|4114
+B|Uh, it's pretty good, you know.|sv|4114
+B|You get, uh, closer to the, uh, coast here,|sd|4114
+B|and you do get a good bit of, uh, smog and stuff, especially from all the, uh, fuel cracking towers and chemical plants.|sd|4114
+A|Right,|b|4114
+A|I guess, uh, I don't know what part of New Jersey you're in, but I guess it's, uh, fairly industrial?|qy|4114
+B|Yeah,|ny|4114
+B|it's,|%|4114
+B|when you get further east towards New York City it gets very industrial|sd|4114
+A|Right, uh-huh.|b|4114
+B|but I'm, I'm about, uh, thirty miles west of there|sd|4114
+B|so you have, uh, actually green trees and such that you don't notice that, that other part of New Jersey exists.|sd|4114
+A|Yeah.|b|4114
+A|Yeah|b|4114
+A|Right.|b|4114
+B|Actually very,|%|4114
+B|you know, you go even a few miles out and you got, uh, farms and everything|sd|4114
+B|so you, relatively clear air.|sd|4114
+A|Right.|b|4114
+B|But, uh,|%|4114
+A|Well, I don't know about you,|h|4114
+A|but I've always considered automobiles to be, probably the, the prime contributor.|sv|4114
+A|I mean there's a lot of contributors,|sv|4114
+A|but it seems that automobiles would probably do more than their fair share of that.|sv|4114
+B|Oh, definitely.|aa|4114
+B|It's|%|4114
+A|Yeah.|b|4114
+B|uh, you know, there are a large number of them on the road.|sd|4114
+B|They're all, you know, going,|sd|4114
+B|and a lot of them are in relatively poor repair.|sv|4114
+A|That's, yeah, that's, that's a big issue is, you know,|sv|4114
+A|a lot of states don't have a, uh, inspection law|sd|4114
+A|so you get, you get a lot of people out there without E T R, emission control systems on their cars and things like that.|sv|4114
+B|Oh, even where you do have the inspections, you know, the inspection is once a year.|sv|4114
+A|Yeah,|b|4114
+A|and it's like,|%|4114
+B|You get the car that's in the accident|sv|4114
+B|and muffler falls off or something|sv|4114
+A|Sure.|b|4114
+B|and guy keeps driving along for long period of time after that.|sv|4114
+A|Right.|b|4114
+A|I guess, from what I hear, though, uh, next year Ford is coming out with their electric cars.|sd|4114
+A|They're actually coming out with the first prototypes in California.|sd|4114
+B|Yeah,|b|4114
+B|that,|%|4114
+B|and I think also some of the, uh, car companies are coming out with, uh, gas powered fleets so you,|sd|4114
+A|Yeah.|b|4114
+B|natural gas powered rather than, uh, gasoline.|sd|4114
+A|Right.|b|4114
+A|I hope, I, I'm hoping that comes along quick|sd|4114
+A|Uh, I was reading a, an article in TIME the other day about the ozone layer and how fast that's going|sd|4114
+A|and I guess it's, it's really disappearing a lot quicker than people realize|sv|4114
+A|and I know that's not due to, uh, it's not due to, to gasoline or to, you know, carbon monoxide so much as the C F C|sv|4114
+A|but,|%|4114
+B|It, it is coming from cars, though.|sd|4114
+A|Uh, yeah,|aa|4114
+A|I think that's a, that's a contributor definitely.|sv|4114
+B|I mean, the, uh, car air conditioners is one of the major leaking sources of, uh, the, uh, freon. Which is one of the major fluorocarbons.|sd|4114
+A|Right.|b|4114
+A|Right.|b|4114
+A|Yeah,|b|4114
+A|I guess right now what they're, what they're primarily worried about is third world countries because I guess United States and, and Russia have kind of taken the lead in terms of eliminating C F C production,|sv|4114
+A|but it,|%|4114
+B|Well, it, it,|%|4114
+A|go ahead.|ad|4114
+B|No,|ar|4114
+B|it's, it's the type of thing there that, uh, you know,|sv|4114
+B|the Third World countries are less industrial|sd|4114
+B|and they want to become industrial|sd|4114
+A|Uh-huh.|b|4114
+B|so they're on the different part of the cycle of the U S.|sd|4114
+B|The U S used, you know, all the air pollution stuff and air polluting technologies to get where it is today.|sd|4114
+A|Right.|b|4114
+A|And that's one of the arguments that the Third World countries have been using is, that basically they don't want to have to pay for our mistakes if, if that makes any sense.|sd|4114
+A|Uh, in terms of,|%|4114
+B|Or, or they want the right to make the same mistakes themselves to bootstrap them up to the way, where we got to.|sd|4114
+A|Exactly.|aa|4114
+A|Exactly.|aa|4114
+A|Uh, those of kind of, yeah, those are joining arguments,|sv|4114
+A|but, uh, I don't know,|h|4114
+A|that's, that's kind of an interesting situation there.|sv|4114
+A|Uh, what they don't realize, those third world countries, what they don't realize is how quickly the ozone is depleting.|sv|4114
+A|I guess the latest figures are up to fifty percent at the Poles|sd|4114
+A|and it's, it's increasing even as far near the Equator as like Florida and Cuba and those places.|sd|4114
+B|Yeah.|b|4114
+A|So it's kind of an interesting situation.|sv|4114
+A|It's not not a real good one actually.|sv|4114
+B|No.|aa|4114
+A|But,|%|4114
+B|Well, you also have the very close related thing of the, uh, rain forest destruction which is the main source of what's clearing out the atmosphere and replacing some of the pollutants.|sv|4114
+A|Yeah.|b|4114
+A|Uh-huh,|b|4114
+A|yeah.|aa|4114
+A|Yeah,|b|4114
+A|you don't get that, that source of cleansing anymore.|sv|4114
+A|Are, have you been in big cities a long time?|qy|4114
+B|Mostly, I've mostly been in the east coast,|na|4114
+B|so that's going between Atlanta, D C area,|sd|4114
+A|Okay,|bk|4114
+A|so you've got,|%|4114
+A|Yeah,|b|4114
+A|those are actually areas that are hit pretty hard, I would think.|sv|4114
+B|Well, not, not as hard as some places out west because you don't get the, uh, major pollution sources as you do out in Denver with the  inversion  and Los Angeles and rest of California which is just terrible it sounds.|sd|4114
+A|Yeah,|aa|4114
+A|Denver's definitely|sd|4114
+A|yeah,|aa|4114
+A|that's one of the worst.|sv|4114
+A|Sure.|aa|4114
+A|Yeah,|aa|4114
+A|Denver's that, that real good that real good, uh, example of sitting in a valley, kind of like Mexico City does, I guess.|sd|4114
+B|Uh-huh.|b|4114
+A|Mexico City is historically been one of the worst in the, in the world for that.|sd|4114
+B|Yeah.|b|4114
+A|But I've been pretty lucky,|sv|4114
+A|I've lived in cities that really haven't had that much of a problem, although, uh, I'm really kind of based in Orlando, Florida|sd|4114
+A|and there, you can tell that it's getting worse.|sv|4114
+A|I mean, it, it definitely it's not at a level comparable to Los Angeles or Denver|sd|4114
+A|but you can,|%|4114
+B|Yeah,|b|4114
+B|there, it's almost all automobiles because there's not that much in the way of heavy industry, you know, that would be causing it.|sv|4114
+A|Exactly.|aa|4114
+A|Yeah.|aa|4114
+A|And there's not that much in terms of, of public transportation down there.|sd|4114
+B|Uh-huh.|b|4114
+A|There is,|%|4114
+A|but it's kind of it's,|%|4114

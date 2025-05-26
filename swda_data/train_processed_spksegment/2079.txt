@@ -1,0 +1,121 @@
+A|Okay.|fo_o_fw_"_by_bc|2079|0
+A|I'll let you start first, okay?|qy|2079|0
+B|Okay.|na|2079|1
+B|We, um, I'm presently living in a house, uh,|sd|2079|1
+B|first time, uh,|sd|2079|1
+B|we had the house built|sd|2079|1
+B|and so this is our, our fifth year in it I guess,|sd|2079|1
+B|and, uh, um, it was a real excitement to, uh, to go out and select the house and have one made and built|sd|2079|1
+B|and like you wanted it, we were the fourth to build out of three hundred and forty houses.|sd|2079|1
+B|And, um, as we did with probably ninety-five percent of the people here in Dallas-Fort Worth we bought a Fox and Jacobs home,|sd|2079|1
+B|and they're good for about five years or four years|sd|2079|1
+B|and after that they start falling apart.|sd|2079|1
+B|So, I would, uh, not recommend F and J house for my dog to live in, uh, because they're overpriced, uh,|sd|2079|1
+B|but they're a cheap house.|sd|2079|1
+B|If you can't afford something good, you know,|sd|2079|1
+B|they're good for that,|sv|2079|1
+B|and, um, you can call it a home because it's a place to go home and keep the rain off your head,|sd|2079|1
+B|but as far as the costs for what your getting, uh, the longevity of the house is not, uh, is not worth it.|sv|2079|1
+B|How about in your case?|qo|2079|1
+A|Well, in my case my husband is not a carpenter,|sd|2079|0
+A|but, in fact, he's in electronics,|sd|2079|0
+A|but he knew the only way we'd ever have a new home is if he would build it.|sd|2079|0
+A|So it took him about two and a half years,|sd|2079|0
+A|but, uh, he built us a house,|sd|2079|0
+A|it's, uh,|%|2079|0
+A|we have thirty-two hundred square feet,|sd|2079|0
+A|and it's a brick house,|sd|2079|0
+A|and price-wise, it was great because he did it all himself, you know,|sd|2079|0
+A|so that way he could, we could kind of control, in, control it,|sd|2079|0
+B|Uh-huh.|b|2079|1
+A|and, uh, we live in kind of a small town,|sd|2079|0
+B|Uh-huh.|b|2079|1
+A|and I mean it's nothing fancy, you know,|sd|2079|0
+A|it's, it's a house,|sd|2079|0
+A|it's nice,|sv|2079|0
+A|and it's real pretty|sv|2079|0
+A|and we're all comfortable in it.|sd|2079|0
+B|Well, that's great,|ba|2079|1
+B|that's great,|ba|2079|1
+B|that's, uh,|%|2079|1
+B|I've heard,|sd|2079|1
+B|I have another gentleman, friend of mine, who, uh, who had a house built|sd|2079|1
+B|as a matter of fact another guy is building one now,|sd|2079|1
+B|he's been doing it for three years|sd|2079|1
+B|and the city's a little upset with him,|sd|2079|1
+B|but I understand you save a lot of money off, uh, by doing that,|sd|2079|1
+B|and, uh,|%|2079|1
+A|Oh, you can because that way your not having to pay the middle men and everybody else.|sd|2079|0
+B|Nothing wrong with that,|sv|2079|1
+A|You know.|%|2079|0
+B|uh, I'll vouch for that.|sd|2079|1
+B|Um,|%|2079|1
+A|But, uh, of course, my husband did everything except|sd|2079|0
+A|my brother's a trim carpenter,|sd|2079|0
+A|and he came in, you know, and did the inside for us,|sd|2079|0
+A|and that helped.|sd|2079|0
+B|That was a big savings.|bf|2079|1
+A|And, uh,|%|2079|0
+A|yes,|aa|2079|0
+A|and, uh, we had to hire, of course, the plumbing and the brick and everything else, nothing, you know,|sd|2079|0
+B|Well, that's great.|ba|2079|1
+B|uh, have you been in it long?|qy|2079|1
+B|Oh, really,|b|2079|1
+B|well, have you any plans to, uh, maybe, uh, expand or move onward?|qy|2079|1
+A|no,|nn|2079|0
+A|we're,|%|2079|0
+A|well, uh, our kids are kind of still small now,|sd|2079|0
+A|and we had thought before maybe a lot older we don't need such a large house that we'll sell it,|sd|2079|0
+A|but he will not build a second one himself. Because he says age-wise he'll never be able to handle that again|sd|2079|0
+B|I see,|b|2079|1
+B|well,|%|2079|1
+B|First one is always a bear.|sv|2079|1
+A|Yes,|aa|2079|0
+A|yes.|aa|2079|0
+B|We're having a, an architect friend of mine design a house for us|sd|2079|1
+B|and that can basically be, be put on any lot, in any state, any you know,|sd|2079|1
+B|so that's kind of, we just got with him and told him what all we wanted,|sd|2079|1
+A|Oh.|b|2079|0
+A|Uh-huh.|b|2079|0
+B|and he's charging us about a buck a square foot to design it|sd|2079|1
+B|and he's certified, and registered|sd|2079|1
+B|so at least we know we're, it's not going to fall in or something if it's built.|sd|2079|1
+A|Yeah,|b|2079|0
+A|oh.|b|2079|0
+B|But, uh, I have heard that your approach is, is right,|sd|2079|1
+B|you can actually go out and sub it, if, even if you don't want to get hands on,|sd|2079|1
+A|Uh-huh.|b|2079|0
+B|you can even just sub it out to concrete and those kind of things|sd|2079|1
+B|and, and that's kind of the plan I have|sd|2079|1
+B|so, I'm, uh,|%|2079|1
+A|Yeah.|b|2079|0
+B|everyone I talk to, uh, I file in my little book and do other things with it .|sd|2079|1
+B|That's great,|^q|2079|1
+B|that's great.|^q|2079|1
+A|But, uh, like I said otherwise, you know, the expense,|sd|2079|0
+A|but, you know, we could not have one as large as we have if, you know, we hadn't did it ourselves.|sd|2079|0
+B|Sure,|b|2079|1
+B|I can imagine.|ba|2079|1
+A|Yeah,|b|2079|0
+A|I mean it's not an Eldorado house or anything like that,|sd|2079|0
+A|but, you know, it's ours.|sd|2079|0
+B|If your happy with it, that's all that counts.|sv|2079|1
+A|That's right.|aa|2079|0
+A|That's right.|aa|2079|0
+B|That's all,|sv|2079|1
+B|you only have to, uh, satisfy yourself and no one else.|sv|2079|1
+A|apparently the appraisers likes it because our taxes sure is high|sv|2079|0
+B|Oh, that's, uh, that's, uh, an encouraging sign if you ever want to resell, I guess.|sv|2079|1
+A|Isn't it?|qy|2079|0
+A|It really is|sv|2079|0
+A|because I, I'm always shocked at about, you know, what they have it appraised at,|sd|2079|0
+A|I think, oh my goodness.|sd|2079|0
+B|Well that's great.|ba|2079|1
+B|Well, yeah,|%|2079|1
+B|I guess that about does it.|sv|2079|1
+A|Okay,|aa|2079|0
+A|and it was nice talking to you.|fc|2079|0
+B|Nice talking with you, too.|fc|2079|1
+A|Okay,|fc|2079|0
+A|bye-bye.|fc|2079|0
+B|Bye.|fc|2079|1

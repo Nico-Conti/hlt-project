@@ -1,0 +1,174 @@
+A|Okay,|fo_o_fw_"_by_bc|3018|0
+A|what are your favorite things to watch?|qy|3018|0
+B|Oh, uh, let's see,|^h|3018|1
+B|I, uh, I have enjoyed, uh, THIRTYSOMETHING in the past, uh, now that it has gone off|sd|3018|1
+A|Uh-huh.|b|3018|0
+B|Uh, some comedy shows, uh, I can not, can not think of, off hand,|sd|3018|1
+A|Yeah.|b|3018|0
+B|but, what, what are your,|qw|3018|1
+B|what is,|qw|3018|1
+A|We do not watch a lot of T V,|sd|3018|0
+A|we try to watch it on Thursday nights,|sd|3018|0
+A|we usually watch L A LAW,|sd|3018|0
+A|I like that real well. And CHEERS|sd|3018|0
+B|Yeah.|b|3018|1
+B|Yeah.|b|3018|1
+A|we like to watch that.|sd|3018|0
+A|Uh, we sort of got hooked on LA LAW.|sd|3018|0
+A|Uh, do you ever watch that?|qy|3018|0
+B|Yeah,|ny|3018|1
+B|uh, yeah,|ny|3018|1
+B|yeah,|ny|3018|1
+B|we, we we try to catch that most, most nights.|sd|3018|1
+A|Yeah|b|3018|0
+A|And I, I have watched THIRTYSOMETHING some in the last couple seasons.|sd|3018|0
+A|I was sort of sorry to see it go too.|sd|3018|0
+B|Yeah.|b|3018|1
+B|It, it was kind of interesting, uh, some people complained about, uh, uh, the kind of whining or whatever on it.|sd|3018|1
+B|I, I really did not think it, it was,  that way.|sd|3018|1
+A|Yeah.|b|3018|0
+B|I think it had some, some good, uh, good situations that it presented.|sd|3018|1
+A|Yeah,|aa|3018|0
+A|I thought a lot of the,|sd|3018|0
+A|like the problems that Michael and Hope had in their marriage and stuff, I can relate to some of those things.|sd|3018|0
+B|Yeah.|b|3018|1
+A|Just the dynamics of it and everything.|sd|3018|0
+B|Well, I think, I think a lot of people, you know, kind of felt that way,|sv|3018|1
+B|but they had a lot of, uh, uh, counseling groups that use some of the episodes as,  as examples of things that were going on|sd|3018|1
+A|Oh, really.|b|3018|0
+B|and, and uh, you know, that they called interaction between people and sort of to use as, uh, as a way of getting people to talk about their problems,|sd|3018|1
+A|Yeah.|b|3018|0
+B|and that sort of thing|sd|3018|1
+B|Uh, we kind of,|%|3018|1
+B|uh, our T V viewing has, uh, slowed down a little bit since our our daughter came along,|sd|3018|1
+B|so, uh,|%|3018|1
+A|Uh-huh.|b|3018|0
+B|that, that tends to, uh, put a cramp in your viewing, because by the time you get through getting her ready for bed and everything, uh, it's, uh, very little T V time left.|sv|3018|1
+A|Yeah,|aa|3018|0
+A|you are too tired to do anything.|bf|3018|0
+B|Yeah.|b|3018|1
+A|Oh, it's better to spend time with your kids, I think though, than glued in front of the T V anyway.|sv|3018|0
+B|Yeah,|aa|3018|1
+B|that's right.|aa|3018|1
+A|Probably more worthwhile.|sv|3018|0
+A|I just don't, I don't think there's as many good things to watch as there used to be, really.|sv|3018|0
+B|No,|aa|3018|1
+B|I, I can not, uh, *typo? cannot?|sd|3018|1
+B|I don't think there were, Uh,|sv|3018|1
+B|I have not, I have not, uh, uh, there are not as many good shows that I, that I continuously like to watch as much as I used to|sd|3018|1
+B|I, uh, you know,|%|3018|1
+B|I, uh, I used to could be able to name ten shows or so, you know, that I felt were worth my time to watch,|sd|3018|1
+B|but, uh, I uh, you know very seldom like to watch you know those,|sd|3018|1
+B|there's a couple now that I tend to want to watch.|sd|3018|1
+B|I like, uh, home improvement shows like Bob Vela's, uh, HOME AGAIN on Saturday morning,|sd|3018|1
+A|Right,|b|3018|0
+A|yeah.|b|3018|0
+B|it's, I notice it's like, it's like THIS OLD HOUSE,|sd|3018|1
+B|yeah|%|3018|1
+B|but it's, uh, it's on|%|3018|1
+B|instead of being on P B S it's on regular T V.|sd|3018|1
+A|Oh.|b|3018|0
+B|But, it's, uh, it's kind of interesting because they renovate an old house|sd|3018|1
+B|and,|%|3018|1
+A|Uh-huh.|b|3018|0
+A|Yeah,|b|3018|0
+A|I have seen parts of that before,|sd|3018|0
+A|it is interesting.|sv|3018|0
+B|Yeah,|aa|3018|1
+B|so I like to watch that|sd|3018|1
+B|and uh, some, some things on P B S I like to watch|sd|3018|1
+B|but, uh.|%|3018|1
+A|Do you watch sports much on T V?|qy|3018|0
+B|Yeah,|ny|3018|1
+B|if it's if it's a team or something that I am really interested in I am not one to just watch a football game just, just to be watching it|sd|3018|1
+B|or,  or I am not a big basketball or baseball fan, if it, unless it's baseball, if it's some, if it's a team I really like, I may watch|sd|3018|1
+A|Yeah.|b|3018|0
+B|but, uh, baseball to me is a little hard to watch on T V,  for an extended period.|sd|3018|1
+A|Yeah.|b|3018|0
+A|It's slow.|sv|3018|0
+B|Yeah,|aa|3018|1
+B|it's so slow that you just get bored, you know,|bf|3018|1
+B|I, I will switch between something else and, and a baseball game going back and forth, you know watching it.|sd|3018|1
+B|But, I usually,|%|3018|1
+B|if, if, if it's a football team I really like, a college team or, or pro team that I am fond of, I usually will sit and watch that.|sd|3018|1
+B|But, uh, that's the|%|3018|1
+A|Yeah,|aa|3018|0
+A|we are like that|sd|3018|0
+A|and occasionally we will, like on, if we do not have anything to do or kind of bored and we just want to sit in the house or something,  we will watch a little bit of a golf tournament.|sd|3018|0
+A|But, uh,  you can not take a whole lot of that either,|sv|3018|0
+B|Yeah.|b|3018|1
+A|it's pretty slow.|sv|3018|0
+B|Yeah,|aa|3018|1
+B|it's kind of like,  like baseball|sv|3018|1
+A|Yeah.|b|3018|0
+A|Do you|%|3018|0
+A|we went to the movies a lot on weekends and watch them at home, because there's just,  on Friday and Saturday nights there's nothing good on|sd|3018|0
+A|and,|%|3018|0
+B|Right.|aa|3018|1
+B|I think that that's what more people are doing|sv|3018|1
+B|and I think that's, you know,|sv|3018|1
+B|as, as T V,|%|3018|1
+B|I think the less good shows being on T V has caused a lot of people to do, to do that, uh, you know, get more movies and watch.|sd|3018|1
+A|Uh-huh.|b|3018|0
+B|I know we, we have done that too in the past, uh,|sd|3018|1
+B|we do not do it quite as much now, cause our baby will not let us watch them.|sd|3018|1
+A|Yeah.|b|3018|0
+B|But, uh, you know, we usually will, we used to rent, uh, two or three movies on a weekend and, and try to watch.|sd|3018|1
+A|Uh-huh.|b|3018|0
+A|Do you have cable T V?|qy|3018|0
+B|No, uh,|nn|3018|1
+A|We do not either.|sd|3018|0
+B|we live in,|sd|3018|1
+A|I thought we were the only ones  who did not have it.|sd|3018|0
+B|No.|aa|3018|1
+B|No,|aa|3018|1
+B|we, uh,|%|3018|1
+B|the, uh, development we moved into was,|sd|3018|1
+B|they have it on one like right across the street from us,|sd|3018|1
+A|Uh-huh.|b|3018|0
+B|but when they built our section they did not, did not put it in|sd|3018|1
+B|and we have been there about two years now.|sd|3018|1
+A|Gosh.|ba|3018|0
+B|and they are still, still do not have it|sd|3018|1
+B|so  I am hoping that, that soon they will, they will,|sd|3018|1
+A|Yeah.|b|3018|0
+B|I have contacted them about this|sd|3018|1
+B|and they say that well, it's, it's,|sd|3018|1
+B|they look,|%|3018|1
+B|they, every year they look at, uh, different areas and try to determine where, where, uh, the most houses will be,|sd|3018|1
+A|Uh-huh.|b|3018|0
+B|and so they, uh, they look|sd|3018|1
+B|and they, when they, when we reach a certain number of people in that area they will put one in, put,  some in, or they will at,  least consider it,|sd|3018|1
+A|Huh.|b|3018|0
+A|Yeah.|b|3018|0
+B|so.|%|3018|1
+A|Yeah.|b|3018|0
+A|Well, we had it for awhile|sd|3018|0
+A|and it just seemed like we never watched it|sd|3018|0
+A|any we did not have the movie channels,|sd|3018|0
+A|we just had all the normal ones,  that come|sd|3018|0
+B|Yeah.|b|3018|1
+A|and we just never watched any of them,|sd|3018|0
+A|we kept a log for a month of every time we watched it|sd|3018|0
+A|and it seemed like we did not watch even half an hour,|sd|3018|0
+B|Um. Yeah.|b|3018|1
+A|so we decided to just cancel it.|sd|3018|0
+A|It does improve the reception a little bit though,|sd|3018|0
+A|that's the only thing.|sd|3018|0
+B|Yeah.|aa|3018|1
+B|I have, I put some, put in some, uh, an antenna, a really good antenna|sd|3018|1
+B|and, uh, it's really helped, you know, ours|sd|3018|1
+B|and it's not been too bad.|sd|3018|1
+B|I have not really missed it that much,|sd|3018|1
+B|there's certain things that I have, that I want to see, you know, occasionally, like a football game, a college game or something that happens to be on cable, or some old movie,|sd|3018|1
+B|but the, uh,|%|3018|1
+B|I, I have not been bothered by it too much.|sd|3018|1
+A|Yeah.|b|3018|0
+B|So,|%|3018|1
+A|Well, I can not, uh, think of too much else to say. *typo cannot? Since we are not big watchers.|sd|3018|0
+B|Right.|b|3018|1
+B|Okay.|b|3018|1
+A|Well, it was nice talking to you.|fc|3018|0
+B|Alright,|fc|3018|1
+B|bye.|fc|3018|1
+A|Bye.|fc|3018|0

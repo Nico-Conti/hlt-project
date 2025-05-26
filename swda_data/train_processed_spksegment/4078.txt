@@ -1,0 +1,115 @@
+A|What do you do there in Lubbock as far as, uh, recycling is concerned?|qw|4078|0
+B|Well, you know they actually started|sd|4078|1
+B|and I assumed it was T I wide, uh,|sv|4078|1
+B|they, they started putting out at least recycling bins for the paper|sd|4078|1
+A|Uh-huh.|b|4078|0
+B|uh, I've you know|%|4078|1
+B|either computer paper or different types of paper.|sd|4078|1
+A|Uh-huh.|b|4078|0
+B|I've had some ideas on how I think they could probably do it a little less expensively and accomplish the same purpose,|sd|4078|1
+B|but I, I guess I need to put it on paper and turn it in|sv|4078|1
+A|Oh, yeah. what would be more efficient about it.|b|4078|0
+B|Uh.|%|4078|1
+A|what,|%|4078|0
+B|Well, the way they have, you know, they have boxes located at certain areas throughout a module, or down the hall|sd|4078|1
+B|or  a lot of people aren't going to get up, walk out of their offices and go there.|sv|4078|1
+A|Uh-huh.|b|4078|0
+A|Uh-huh.|b|4078|0
+B|You know, where I use to work we had what we called tree boxes.|sd|4078|1
+B|That's just what we called them.|sd|4078|1
+A|Uh-huh.|b|4078|0
+B|And they were recycled cardboard.|sd|4078|1
+B|They were eight and a half by eleven|sd|4078|1
+B|and you set it by your desk and you know as you got rid of a piece of paper you stuck it in there|sd|4078|1
+B|and when it filled up you called, you know facilities whoever to come pick it up|sd|4078|1
+B|and they brought you another box.|sd|4078|1
+B|So not only is it, you know,|sd|4078|1
+B|I think more people would take advantage of it and use it, uh,|sv|4078|1
+B|I think you save a lot of the cleaning service's time and effort and money that we are paying for them to, to empty the trash cans and combine it and bundle it and things like that now when it could all be done in one step kind of type thing.|sv|4078|1
+A|Oh.|b|4078|0
+A|I see.|b|4078|0
+B|So,|%|4078|1
+A|Yeah,|b|4078|0
+A|I, I, I, uh, was going to say cause I know I have right here a trash can for trash and a trash can for for paper on it you know|sd|4078|0
+B|Right.|b|4078|1
+A|and, uh, if  if I have a, if I, I printed up something that I don't need it, just chunk it in the, in the paper.|sd|4078|0
+B|If.|%|4078|1
+B|Right,|b|4078|1
+B|but somebody still has to collect all that and bundle it together|sd|4078|1
+A|That's true.|ba|4078|0
+B|and whereas if you had a box that pretty soon it got full, you close the box, it's already bundled, it's already done for you.|sd|4078|1
+A|Certainly that's a good idea.|ba|4078|0
+B|So you're saving a lot of time and effort.|sv|4078|1
+B|I just need to put it on paper and I guess recommended it to somebody and see if they thinks it's feasible|sd|4078|1
+A|Yeah.|b|4078|0
+A|Uh-huh.|b|4078|0
+B|So, uh, what else do they do in the Dallas area?|qo|4078|1
+A|Well, uh, as far as T I is concerned, I'm not sure.|sd|4078|0
+A|Uh, and I have heard, you know, uh, in residential situations.|sd|4078|0
+A|I live in a dorm|sd|4078|0
+A|and I have heard in residential situations, uh, like in Plano uh, that they are doing, uh, stuff like having recycle picked up where, uh, the city, uh, I guess the sanitation department, uh, as part of their responsibility picks up, uh, the recycled items as well, you know, the plastics and the paper uh, and aluminum|sd|4078|0
+B|Uh-huh.|b|4078|1
+B|Um.|%|4078|1
+A|and, uh, the only responsibility of the, of the, patron is to separate them|sd|4078|0
+A|and then the, the,|%|4078|0
+A|uh, I guess the department takes them and and does what they do with them|sv|4078|0
+A|and it doesn't cost the patron anything.|sd|4078|0
+A|Doesn't really cost the, uh, department.|sd|4078|0
+B|Anything extra.|^2|4078|1
+A|Right.|aa|4078|0
+A|They don't pay, they don't pay for the recycled items.|sd|4078|0
+B|That sounds good.|ba|4078|1
+B|There's,|%|4078|1
+B|I, I've been wanting to put like two of three bins like right out my garage door where, you know, from the kitchen where you know you can throw cans in one or the glass in the other|sd|4078|1
+B|or the, the even, uh,|%|4078|1
+B|there are areas that can recycle the, the tin cans, like your you know, vegetable things come in|sd|4078|1
+A|Uh-huh.|b|4078|0
+B|and, uh, so I, I've not done that,|sd|4078|1
+B|but that's kind of what I want to set up so. Because we do go through aluminum cans, you know.|sd|4078|1
+B|That's probably the one we use most.|sd|4078|1
+A|Uh-huh.|b|4078|0
+B|Uh, but,|%|4078|1
+A|Well, what kind of services do you have there in Lubbock as far as,|qw|4078|0
+A|I, I lived in Abilene for a, uh,|sd|4078|0
+A|I went to school there at Abilene Christian|sd|4078|0
+A|and I,|%|4078|0
+A|it was so hard to, uh,|sd|4078|0
+A|you know if you  you wanted to recycle you newspapers it was impossible.|sv|4078|0
+B|Find a place.|^2|4078|1
+B|Well, uh, uh they, they do have facilities for recycling the newspapers, aluminum cans, those are the two major items.|sd|4078|1
+B|You know, we can take oil, like car oil, recycled oil to,|sd|4078|1
+B|they have, uh, uh, dump areas like at the fire departments throughout town.|sd|4078|1
+A|Um.|%|4078|0
+A|Uh-huh.|b|4078|0
+B|Uh, I don't know that they yet have the facilities here to do the tin cans.|sd|4078|1
+A|Uh-huh.|b|4078|0
+B|Uh, I think they can do the plastics, like the liter bottles things like that.|sv|4078|1
+A|Uh-huh.|b|4078|0
+A|Uh-huh.|b|4078|0
+B|Uh, but, I, I don't know.|h|4078|1
+B|I know for sure though they have the newspaper and the aluminum can and then the oil at the fire departments.|sd|4078|1
+A|Uh-huh.|b|4078|0
+B|So,|%|4078|1
+A|Well, that's good.|sv|4078|0
+B|I do that|sd|4078|1
+B|I think people are becoming more aware. You know of, of the waste|sv|4078|1
+A|Yeah.|b|4078|0
+B|and you know I, I like to see, you know,|%|4078|1
+B|you drive through Burger King now and the bags are recycled paper|sd|4078|1
+A|Uh-huh.|b|4078|0
+B|and you know, so, you know I feel like people are more aware of it or becoming more aware of it.|sv|4078|1
+B|You know, maybe it's making an impact|sv|4078|1
+A|Uh-huh.|b|4078|0
+A|Do you tend to buy more recycled items that, if something, uh, the pack says recycled and something else doesn't?|qy|4078|0
+A|Do,|%|4078|0
+A|would you tend to chose the one that does|qy|4078|0
+A|or,|%|4078|0
+B|I'm not as good about searching something out like that|ng|4078|1
+A|Uh-huh.|b|4078|0
+B|but if I am there and the choice is there I would probably take the recycled product.|sd|4078|1
+A|Um.|%|4078|0
+A|Uh-huh.|b|4078|0
+B|So, you know, that's just where I probably need to be a little more responsible, citizen wise, you know, looking or searching those out because you figure if we as the citizens do that then the manufactures and producers will start packaging it that way.|sv|4078|1
+A|Sure,|b|4078|0
+A|yeah.|b|4078|0
+B|So, uh, you know, they are getting away from the styrofoam,|sd|4078|1

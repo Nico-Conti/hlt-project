@@ -1,0 +1,86 @@
+A|Well what do you feel about the, um, present situation in the Mideast?|qo|4154
+B|Well, it looks like it's just about as volatile as it usually is.|sv|4154
+A|Uh-huh.|b|4154
+B|What do you think, Mark?|qo|4154
+A|Yeah,|aa|4154
+A|I agree.|aa|4154
+A|I think, I think there's definitely been some changes, um,|sv|4154
+A|and I think you know, the, the, um, end of the Soviet Union will definitely have its effect on, on the situation.|sv|4154
+B|Oh, yeah.|b|4154
+A|Um, you know, in that there's, there's not, you there, you know, you know,|%|4154
+A|basically since the end of World War two there was always, you know, that little proxy war going on. You know, with, um, the U S funding Israel and, and the, um, Soviet Union funding the Arab countries.|sv|4154
+B|Uh-huh.|b|4154
+B|And then we'll see what happens when, uh, they're not funded quite as much.  Or supplied with arms the same way.|sv|4154
+A|Yeah.|b|4154
+A|Uh-huh.|aa|4154
+A|Yeah,|aa|4154
+A|but on the same token, you know, Israel has lost a lot of their, you know, value to the U S in being, you know, the foothold of capitalism. You know in, in the Mideast.|sv|4154
+B|Uh-huh.|b|4154
+B|Well, I, we tend to be pretty strong supporters of Israel ourselves,|sv|4154
+A|Uh-huh.|b|4154
+B|you know, we kind of cringe when they make mistakes but yet overall tend to support them.|sv|4154
+A|Uh-huh.|b|4154
+B|But, I think one of the most interesting things to me recently was, you know, during the war,  uh, in, uh, Kuwait was, uh, the fact that they did not retaliate,  for the, uh, scud missiles that were, uh, launched there.|sd|4154
+A|Uh-huh.|b|4154
+A|Uh-huh.|b|4154
+B|That just seemed to me to be a, uh, a phenomenal, uh, demonstration of restraint,|sv|4154
+B|and it must have reflected, uh, uh, some awful good, uh, diplomacy on the part of the U S.|sv|4154
+A|Uh-huh.|aa|4154
+A|Yeah,|aa|4154
+A|but on the other hand, you know, if they would have had a hard time retaliating because the, you know, they, they wouldn't have been given access to the friend or foe codes.|sv|4154
+B|I see.|b|4154
+A|They basically would have, you know, had a, had a they had, they would have had, had to fly through, you know, two enemies.|sv|4154
+B|Oh, you don't think they got the codes from the U S already?|qy|4154
+A|The U S would claim that they would have not given them to them.|sv|4154
+B|I see.|bk|4154
+A|I mean, of course, you know, public statements can be taken for,|sv|4154
+B|That's true.|aa|4154
+B|They can, yet they,|%|4154
+A|Uh-huh.|b|4154
+B|Yeah.|b|4154
+B|Well what do|%|4154
+B|what about this situation with the, you know, the, uh, continual, uh, harassment by Iraq right now and, uh, apparently failing to let the, uh, arms inspectors have free access.|qo|4154
+A|Uh-huh.|^h|4154
+A|You know, well, to begin with, you know,|^h|4154
+A|I pretty much question or what, what the U S motives were in, uh, in, in actually the original involvement.|sd|4154
+B|Uh-huh.|b|4154
+A|Uh, I,|%|4154
+A|the cynical side of me says that, you know, it was more for, uh, the, the domestic political situation than for anything else.  You know, and that, you know, and for portraying Bush is a strong President.|sv|4154
+B|Huh, yeah,|b|4154
+B|okay.|b|4154
+B|Sure.|b|4154
+A|Uh, I mean I really, I really think that, that, my gut feeling is that, that, you know, he pretty much picked, picked the fight with, uh, with, um, Hussein.|sv|4154
+B|Uh-huh.|b|4154
+A|I mean I'm not, not saying at all that Hussein wasn't quite willing to enter that fight.|sd|4154
+B|Right.|b|4154
+A|But, you know, I think, I think that, that, um, we chose to have our official feelings hurt.|sv|4154
+B|Uh-huh.|b|4154
+A|Where a lot|%|4154
+B|Well, do you think that, uh, we should ignore it and just allowed him to go ahead and, uh, you know, move on into Kuwait and see what happens?|qy|4154
+A|I think, I mean I thought, I think that, um, in the past we've allowed lots of things like that to happen.|sv|4154
+B|Uh-huh.|b|4154
+A|And I, I really don't, I really don't think that,|sv|4154
+A|I think, I think it was, it was, there were, there were a lot more demographic related interests involved than true foreign policy interests.|sv|4154
+B|Right.|b|4154
+A|Um,|b|4154
+B|Yeah,|b|4154
+B|well may have been.|sv|4154
+B|You know, I'm not saying that that's not the case. Uh,|sd|4154
+A|Yeah.|b|4154
+A|And I mean in, in, in along this line since, since, you know it, it really, it really didn't accomplish very much except we're getting, getting, uh, the Iraqis out of Kuwait.|sv|4154
+B|Right.|b|4154
+A|I just don't, I just don't, I, I, I I, I, I don't foresee Bush making the decision to invest a lot of manpower and money and, you know, in, in fighting a second battle.|sv|4154
+B|No.|aa|4154
+A|Um, you know, over, over the, uh, over, over what, what probably won't accomplish him, accomplish much for him politically.|sv|4154
+B|No,|aa|4154
+B|it doesn't look like we're getting ready to do, to do much more in there.|sv|4154
+A|Uh-huh.|aa|4154
+B|Even at this point.|sv|4154
+A|Uh-huh.|aa|4154
+B|Yeah.|b|4154
+B|Well what about, uh,|%|4154
+B|do you have any, any views on, uh, Israel's relation to the U S?|qy|4154
+B|Do you, think we ought to, you know, back off on our support of the country|qy|4154
+B|or what do|%|4154
+A|Well, I have, I have very fixed feelings about Israel.|arp_nd|4154
+A|Um, I think that, that for a long while we've, we've had almost a, you know,|sv|4154

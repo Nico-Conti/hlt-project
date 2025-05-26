@@ -1,0 +1,104 @@
+A|The question was on lawn and garden work.|sd|3205
+A|Um, how do you like it?|qo|3205
+B|Well, I don't do much of it here.|arp_nd|3205
+B|I'm from, uh, from, uh, Colorado originally|sd|3205
+B|and there are no bugs there.|sd|3205
+B|And I didn't mind getting in the dirt there,|sd|3205
+B|but, boy, I'll tell you what,|fo_o_fw_"_by_bc|3205
+B|once I see these bugs around here, I'm just kind of out of it.|sd|3205
+A|Oh, what kind do you have?|qw|3205
+B|Oh, roaches and,|sd|3205
+A|Do they really?|bh|3205
+B|Oh, yes.|ny|3205
+B|Cockroaches are awful here.|sd|3205
+A|Oh.|bk|3205
+B|Just awful.|sd|3205
+B|So I,|%|3205
+A|Oh, and I know somebody that lives there,|sd|3205
+A|and they never mentioned that problem|sd|3205
+B|Oh, you're kidding, you're kidding.|bh|3205
+B|No,|%|3205
+B|it's a|%|3205
+B|well, maybe they didn't mention it because it's just kind of a fact of life around here.|sv|3205
+B|And, uh,|%|3205
+A|Oh, my.|ba|3205
+A|They probably just take it for granted then.|sv|3205
+B|It must be.|aa|3205
+B|If they lived here, a lot of people I know just say, oh, I just stomp on them.|sd|3205
+B|It doesn't matter.|^q|3205
+B|They make good fertilizer in the garden.|^q|3205
+A|Oh, yuck|ba|3205
+B|Me, personally can't,|sd|3205
+A|I don't have that problem, uh,|sd|3205
+A|it's,|%|3205
+A|mine is mainly|sd|3205
+A|we kind of have an understanding that, uh, I, I said I'll do inside work you do outside work.|sd|3205
+B|Uh-huh.|b|3205
+A|And so I get into the gardening part of it, the fun part, like putting in the annuals and things like that.|sv|3205
+B|Uh-huh|b|3205
+A|But I don't like, I don't like it dirty|sd|3205
+B|No|aa|3205
+B|I have to, you know I have to say that's not exactly my favorite thing either really|sd|3205
+A|No,|b|3205
+A|I don't know.|h|3205
+A|We got the, we got the question|sd|3205
+A|and I thought, oh, this is going to be interesting.|sd|3205
+A|Two bits I'll get a man to talk to me, because they get stuck doing it all.|^q|3205
+A|But although I do know a lot of my friends do like all the gardening work.|sd|3205
+A|And this year we put in a new lawn in a new home|sd|3205
+A|so, um, we've been fighting a drought here this summer and getting into fall.|sd|3205
+B|Huh.|b|3205
+A|Today we just had a lot of rain|sd|3205
+B|Oh, really?|bh|3205
+A|Yeah,|ny|3205
+A|so it's kind of nice.|sd|3205
+A|I don't know how yours has been.|qw^d|3205
+B|Well, it's been real hot here lately.|sd|3205
+B|I mean we've had to actually have the air-conditioning on and everything|sd|3205
+B|but, uh,|%|3205
+B|it's supposed to rain again now, uh, this weekend.|sd|3205
+A|Oh, I see.|bk|3205
+B|So, then,|%|3205
+A|Okay.|bk|3205
+A|Well, we're leaving tomorrow|sd|3205
+A|and we're going down to New Orleans|sd|3205
+A|and from Ohio since we're right near Lake Erie|sd|3205
+A|this is going to be a switch for us for a week going down there,|sd|3205
+B|Yeah.|b|3205
+A|and I think we'll probably experience some of your weather although I think they have more humidity.|sd|3205
+A|But, um, as far as the gardening and things like that goes I don't know, uh, too much, too much about, uh, how much I really do enjoy it myself.|sd|3205
+B|Yeah.|b|3205
+A|Do you like it at all?|qy|3205
+B|I, well, not here.|ng|3205
+B|I mean it's just, here|sd|3205
+B|I just can't stand to even get out in the, uh, in the dirt|sd|3205
+B|Just,|%|3205
+A|Well, how about when you were in Colorado?|qo|3205
+B|Well, I liked it a little bit|sd|3205
+B|but I didn't, uh,|%|3205
+B|I was working at that time full-time and didn't have a lot of time, for that|sd|3205
+A|Uh-huh.|b|3205
+B|and so that I think really, um, hampered it a little bit.|sd|3205
+A|Well, and then, too, now like where we had the dry summer and we had to sprinkle constantly. My water bill was high.|sd|3205
+A|And, uh, if you have that on a regular basis in Texas, I think I would go with something very dry to keep it off, you know.|ad|3205
+B|Yeah.|aa|3205
+A|But, uh, and with children, um, you probably don't have time anyhow to, to get into it.|qy^d|3205
+B|No.|nn|3205
+B|Not really|sd|3205
+A|It's so, uh, okay, very good.|ba|3205
+B|Uh-huh.|b|3205
+A|I guess we've kind of covered our subject matter, since neither one is really into gardening, are we?|fc|3205
+B|Sounds like|%|3205
+B|No,|fc|3205
+B|no.|fc|3205
+B|Afraid not.|fc|3205
+B|Uh, hopefully they'll give a subject I like one of these times Something I really know a lot about.|fc|3205
+A|Right.|fc|3205
+A|Okay.|fc|3205
+A|Right.|fc|3205
+B|nice talking to you.|fc|3205
+A|Nice talking with you.|fc|3205
+B|Okay,|fc|3205
+B|bye-bye.|fc|3205
+A|Uh-huh,|fc|3205
+A|bye.|fc|3205

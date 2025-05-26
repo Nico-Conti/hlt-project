@@ -1,0 +1,168 @@
+B|So, how do you feel about capital punishment?|qo|3150|0
+A|Well, it's,|%|3150|1
+A|I am pretty much against it|sd|3150|1
+B|Really?|qy|3150|0
+A|Yeah.|ny|3150|1
+A|How about you?|qo|3150|1
+B|Oh, I'm pretty much for it.|sd|3150|0
+A|Oh, good|ba|3150|1
+A|we can have a debate.|sv|3150|1
+B|We'll have some interesting discussion, I guess.|sv|3150|0
+A|Well, like, um, I don't know,|h|3150|1
+A|I think that I,|%|3150|1
+A|one of the reasons that I'm against it is that, uh, um, I'm afraid of someone losing their life, for um, wrongly,|sd|3150|1
+B|Wrongfully.|^2|3150|0
+B|Yeah.|b|3150|0
+A|Right|aa|3150|1
+B|Yeah.|b|3150|0
+A|and, uh, another reason,|sd|3150|1
+A|one of the arguments, that really, I really actually have been kind of ambivalent about it, but one of the arguments that really, uh, made me feel kind of strongly against it, is that, uh, you know, someone said to me once, well, imagine if the person you love most in the world, like your mother or something, if someone killed her, wouldn't you want to see them killed for the punishment?|sd|3150|1
+A|But then I thought about it|sd|3150|1
+A|and I thought, well, the loss that I would feel at losing my mother   someone else would feel that about that person no matter how rotten they were, somebody loves them|sd|3150|1
+B|Yeah,|b|3150|0
+B|it would never be equal,|^2|3150|0
+B|Right.|b|3150|0
+B|Right.|b|3150|0
+B|Yeah.|b|3150|0
+A|How about you?|qo|3150|1
+B|Well, I guess, you know, I, I guess I can see it from several different perspectives,|h|3150|0
+B|but, you know when I hear about things like, you know, what they've, what they've been reporting about in Milwaukee, you know I, I, to me I don't see any way of rehabilitating the guy.|sd|3150|0
+B|You know, maybe there is, I don't know.|h|3150|0
+A|Yeah,|b|3150|1
+A|that's true.|ba|3150|1
+B|But, you know, and, you know, he's never going to be, to me, a functioning part of society.|sv|3150|0
+B|He's already been either paroled, or whatever, for child molestation.|sv|3150|0
+A|Uh-hum.|b|3150|1
+B|I mean, I don't know,|h|3150|0
+B|I just, I really have a hard time with that because he really sounds like a real sicko.|sv|3150|0
+B|And, you know, for the things he's done,|sd|3150|0
+B|I don't know,|h|3150|0
+B|I guess it's either, you know, put him in jail for the rest of his life, you know, or or capital punishment I guess. You know|sd|3150|0
+A|Right.|b|3150|1
+A|Well you know  that's true, because um a lot of um these conversations I've had on this program this these telephone conversations have revolved around um criminal you know justice.|sd|3150|1
+B|Oh, really.|b|3150|0
+A|Uh-huh.|b|3150|1
+A|Uh-huh.|b|3150|1
+A|Or whatever|sd|3150|1
+A|and most of the time I hear myself saying well you know we don't have enough room left in the jails|sd|3150|1
+A|and people crime is still climbing|sd|3150|1
+A|and we need to have different punishments you know.|sv|3150|1
+B|Right.|b|3150|0
+A|but I just am scared of capital punishment, I guess.|sd|3150|1
+B|I I mean you know there there is always that chance|sv|3150|0
+B|but you know I guess to some people it'd almost be better to die to them than to spend life in prison or whatever I don't I mean I don't know|sv|3150|0
+B|but uh, you know, but that would be a situation where if somebody you know was gonna be, you know|sv|3150|0
+B|you you you really throw a lot on the courts, hopefully that they won't do that you know for any for any situation really.|sv|3150|0
+B|But, uh, you know, when I, you find somebody just like that situation, I mean, it was disgusting when I read about it today.|sv|3150|0
+B|And, and when you find someone like that, that you know is guilty, he confessed already to killing eleven I, I'd, you know, I guess I have a hard time feeling merciful toward him,|sv|3150|0
+A|Uh-huh.|b|3150|1
+B|and|%|3150|0
+A|Right.|b|3150|1
+A|Especially when it's so far removed.|^2|3150|1
+A|If it's no one that I know then you have to think about the taxpayers paying the shelter and feed and clothe them for the rest of their life.|sv|3150|1
+B|Right.|b|3150|0
+B|Right.|b|3150|0
+B|And trying to rehabilitate him, too,|sv|3150|0
+B|and, you know,|%|3150|0
+A|Letting him out again|^2|3150|1
+B|Right,|b|3150|0
+B|exactly.|aa|3150|0
+B|And, uh, you know, nobody wants that.|sv|3150|0
+A|Uh-huh.|b|3150|1
+B|You know, everybody would be just as scared to death, you know.|sv|3150|0
+B|We, we've had a real problem here in Texas with, uh, prison overcrowding|sd|3150|0
+B|and they've been releasing people left and right|sd|3150|0
+B|and, you know, they've committed murders and rapes and everything else,|sd|3150|0
+B|and, you know, you just think, you know, where's the justice here.|sv|3150|0
+A|Uh-huh.|b|3150|1
+B|I mean, you know, they're not even having to serve out what they should be serving.|sv|3150|0
+A|That's true.|ba|3150|1
+A|You know, I just recently moved to Massachusetts.|sd|3150|1
+A|I'm not sure what their policy is on capital punishment|sd|3150|1
+A|and that was one of the questions|sd|3150|1
+A|but, uh, I do know that they are notorious for paroling people.|sd|3150|1
+B|Oh, really?|bh|3150|0
+A|Yeah,|ny|3150|1
+A|when they're, when,|%|3150|1
+A|and then having them reconvicted for violent crimes.|sd|3150|1
+B|Uh-huh.|b|3150|0
+B|Yeah.|b|3150|0
+A|And, I guess, they said, you know, do you think it should be restricted?|sd|3150|1
+A|I guess, if it were, if, if,|%|3150|1
+A|because a lot of states do still practice capital punishment|sv|3150|1
+B|Uh-huh.|b|3150|0
+A|I guess violent crimes would be the crimes where I can see it making the most sense.|sv|3150|1
+B|Yeah.|b|3150|0
+A|You know, violent crimes with no, uh, with just malicious intent.|sv|3150|1
+B|Right,|b|3150|0
+B|exactly.|aa|3150|0
+B|Yeah.|b|3150|0
+B|Well, you know, that's exactly, I mean, I'm, I'm not saying I, I think capital murder or capital punishment is the perfect solution in every case, you know, especially because there are some cases when you just don't know|sv|3150|0
+B|and I, I think there's a, a shadow of a doubt, you know, like with this, this guy in, in Milwaukee.|sv|3150|0
+B|I mean, it,|%|3150|0
+B|he pretty much confessed to it.|sd|3150|0
+B|I mean, they, you know,|%|3150|0
+B|just everything, I mean, cannibalism and everything else, uh,|sd|3150|0
+A|Yeah.|b|3150|1
+A|Hang?|^2|3150|1
+B|Because, I mean, that's just awful.|sv|3150|0
+A|And what is he going to do prison to the other people|bh|3150|1
+B|Right.|b|3150|0
+B|Well, I have a I have a hunch that, you know, the other prisoners aren't going to be too happy with him anyway. Either,|sv|3150|0
+B|I mean, you know they,|%|3150|0
+B|I don't know,|h|3150|0
+B|from, from what I hear about jail life is not any way to live.|sd|3150|0
+A|Right.|b|3150|1
+B|But, uh, I don't know. It's just,|%|3150|0
+A|Well, I was, I saw on a human interest story, or whatever today, there was a woman who was just being paroled and trying to make it back,|sd|3150|1
+A|she was off drugs and everything,|sd|3150|1
+B|Uh-huh.|b|3150|0
+A|but she said, uh, you know, in prison you can get anything.|sd|3150|1
+A|You can any drugs you want.|sd|3150|1
+A|There's,|%|3150|1
+A|it, it's just like being outside.|sd|3150|1
+A|You know, people  find ways around.|sd|3150|1
+B|Really.|b|3150|0
+A|And there's a power structure that you have bow to|sd|3150|1
+A|and, and, it really isn't, for some people who have been there for over, and over, and over, it really isn't, uh, as bad.|sd|3150|1
+A|I mean, there's,|%|3150|1
+A|it's not that bad of a life as it should be for the punishment aspect.|sv|3150|1
+B|Yeah.|b|3150|0
+B|Yeah.|b|3150|0
+A|But the society is turned against punishment and more towards rehabilitation|sv|3150|1
+A|and  maybe that's why, one of the reasons why crime has gone up, because it's not so scary anymore.|sv|3150|1
+B|Yeah.|b|3150|0
+B|That,|%|3150|0
+B|Yeah.|b|3150|0
+B|Well, you know, especially like repeat offenders.|sd|3150|0
+B|It, it just appalls me that they can be out, you know, they even get a ten year sentence and be out in, in two, or three, or four years.|sd|3150|0
+B|You know, that's, that's scary because, you know, I'm not sure, I think we're paroling them without even knowing if they're, you know, going to be committing any more violent acts or not.|sd|3150|0
+A|Right.|b|3150|1
+A|And what they're going to be doing when they get out|^2|3150|1
+B|Right.|b|3150|0
+B|And, it, it's, it's really scary|sv|3150|0
+B|I you know,|%|3150|0
+B|I, I don't know what the perfect solution to that is|h|3150|0
+B|but I know that especially with violent crimes where, you know, you're nearly a hundred percent convinced that they're guilty and without much repentance or anything else, you know, then, I don't know, I, I guess, I, I just really don't see much use for this guy in Milwaukee, you know.|sv|3150|0
+B|For instance, I mean, that's just,|%|3150|0
+B|I could see capital punishment in a case like that. And, you know, for, for other people, too, that do things, like that.|sv|3150|0
+B|But, uh, when,|%|3150|0
+B|uh, my wife and I are both participating in this survey|sv|3150|0
+B|and she picked up the phone|sd|3150|0
+B|and when she heard the topic, she said, capital punishment,|sd|3150|0
+B|so she was, uh,|%|3150|0
+A|Handed it to you?|qy^d|3150|1
+B|Yeah,|ny|3150|0
+B|well luckily it was for me. Because they want, they coordinate the times so it can, only be one or the other.|sd|3150|0
+A|Oh, oh, I see.|b|3150|1
+B|So, she tried to enter her number|sd|3150|0
+B|and it wouldn't work|sd|3150|0
+B|so she said, whew, it's for you.|sd|3150|0
+B|So, but, uh, you know, I don't know,|h|3150|0
+B|I, I struggle with it,|sd|3150|0
+B|but I, I really think that in, in terms of like this, I'd, I think that it, it might not be such a bad thing. Because, I don't know that anybody, I don't know that anybody would feel good, you know, like if you let someone like that loose in your community.|sv|3150|0
+B|You know, I, I, I'm|%|3150|0
+B|you'd have to be scared to death|sv|3150|0
+A|Well, maybe if they could, uh,|sv|3150|1
+A|if they had more money or more, more resources to work more on rehabilitation,|sv|3150|1
+A|I mean, deep down I think every, every human|sv|3150|1

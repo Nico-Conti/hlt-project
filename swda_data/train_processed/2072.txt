@@ -1,0 +1,197 @@
+A|All righty .|fo_o_fw_"_by_bc|2072
+A|Uh, I'll just hand it off to you|sd|2072
+A|and hobbies in our spare time is what we've been selected to discuss today.|sd|2072
+B|Well, uh, the hobbies that I pursue in my spare time, are crafts|sd|2072
+B|and, uh, I've been involved in making, uh, hat stands and, uh, rag dolls and, uh, different type hats with, uh, flowers and roses, you know, and, uh, that kind of thing, straw hats and, all that kind of stuff.|sd|2072
+A|Oh like typing noises in|b|2072
+B|And I enjoy it,|sd|2072
+B|it's relaxing.|sv|2072
+B|And you kind of get absorbed in it|sv|2072
+B|so the time goes by, you know, before you realize anything is going on.|sv|2072
+B|And I play the organ sometimes, uh, just for my own satisfaction Not for anybody else's ears|sd|2072
+B|because I'm not that good at it,|sd|2072
+B|but I like to bang on the keyboards once in a while.|sd|2072
+A|Oh really?|bh|2072
+B|How about yourself?|qo|2072
+A|Well, oh, hobbies, gee whiz,|^h|2072
+A|I guess I got too many hobbies|sd|2072
+A|so I never have time to deal with them.|sd|2072
+B|Really?|bh|2072
+A|I like photography a lot,|sd|2072
+B|Oh, yeah,|b|2072
+B|that's neat.|ba|2072
+A|uh, I used to do that a lot|sd|2072
+A|and then I like, um,|%|2072
+A|we have a new child that will be a year old here next week,|sd|2072
+A|so I'll take a lot of pictures of her, you know, and spoil them,|sd|2072
+B|Oh, that's great,|ba|2072
+B|uh-huh.|b|2072
+A|first one, you know how that is.|sv|2072
+A|And, um, uh, I play the guitar and a banjo.|sd|2072
+A|I mainly play the guitar a lot,|sd|2072
+A|I play about every night.|sd|2072
+A|And, um, I really love that,|sd|2072
+A|if I had a druther ,|sv|2072
+A|if I could have, if I could make it on the road, I'd like to play on like a bluegrass band or something,|sv|2072
+A|because that's,|%|2072
+A|I've,|%|2072
+B|Oh, that sounds nice.|ba|2072
+B|I like bluegrass, too.|sd|2072
+A|yeah,|b|2072
+A|I've done it before and when I was in in high school and college, and thoroughly enjoyed it,|sd|2072
+B|Uh-huh.|b|2072
+A|and it's really a, a blast.|sv|2072
+A|My wife hates it,|sd|2072
+A|but that's the way life is, I guess.|sv|2072
+B|That's the hard part, right?|bf|2072
+A|Exactly.|aa|2072
+B|If you can do things together, that really helps a lot.|sv|2072
+A|yeah,|b|2072
+A|we, uh,|%|2072
+A|she's, uh, into aerobics,|sd|2072
+A|and, uh, and we did aerobics together for about a month and a half|sd|2072
+B|Oh, that's good, too.|ba|2072
+A|and that went over real well,|sd|2072
+B|Uh-huh.|b|2072
+A|but, uh, that's about it there.|sd|2072
+B|Oh, it's good|ba|2072
+B|and it's healthy, too.|sv|2072
+A|Oh, yeah,|aa|2072
+A|yeah.|aa|2072
+B|We do that too,|sd|2072
+B|we have a, uh, a treadmill and, uh, a bicycle and that kind of stuff,|sd|2072
+B|we try to get twenty minutes like at least three for four times a week, you know.|sd|2072
+A|Oh, that's great.|ba|2072
+B|Yeah.|b|2072
+A|That's great.|ba|2072
+B|And we like movies,|sd|2072
+B|that|%|2072
+B|yeah.|%|2072
+A|Yeah,|b|2072
+A|that's, uh,|%|2072
+A|spare time,|%|2072
+A|with a child it's, kind of|sv|2072
+A|she's,|%|2072
+A|we have, uh,|%|2072
+A|we're looking for a baby-sitter|sd|2072
+A|so we've been out twice in in this year so far. By ourselves without the child|sd|2072
+B|Uh-huh.|b|2072
+A|so it's kind of, uh, become an issue you could say.|sv|2072
+B|Sure.|b|2072
+A|Um, hobbies,|%|2072
+A|I like, messing around in your house building things, and, you know, putting cabinets up, and, those kind of things, um,|sd|2072
+B|Oh yeah,|aa|2072
+B|that's great, too.|ba|2072
+B|Uh-huh.|b|2072
+B|Yeah,|b|2072
+B|we did some remodeling when we bought a house,|sd|2072
+B|we built, put a kitchen in and, um, that kind of stuff, and painting and some wallpapering,|sd|2072
+B|that's fun.|sv|2072
+A|It's really kind of fun.|aa|2072
+B|It is.|aa|2072
+B|It really is.|aa|2072
+A|Especially if your spouse will get in there with you and get dirty,|sv|2072
+A|yeah.|%|2072
+B|Yeah,|aa|2072
+B|exactly.|aa|2072
+B|I like things that, you know, two people can do,|sd|2072
+B|but I like the quiet of doing things away, you know,|sd|2072
+B|kind of gives you some space for yourself,|sv|2072
+B|and that's what I find in making the dolls and things, that it gives me something that I can create,|sd|2072
+B|and I like to crochet and knit.|sd|2072
+B|I made some afghans and that kind of stuff.|sd|2072
+B|I like doing things with my hands.|sd|2072
+A|Uh-huh.|b|2072
+A|Sounds like it.|ba|2072
+B|Yeah.|aa|2072
+A|Do you like to cook?|qy|2072
+B|Yes,|ny|2072
+B|I love to cook.|sd|2072
+A|Yeah,|aa|2072
+A|I love to cook, too,|sd|2072
+A|I'm, uh,|%|2072
+B|Italian food|sd|2072
+A|Oh, really?|bh|2072
+B|Yeah,|qy|2072
+B|pizzas and spaghettis and lasagnas and that kind of stuff.|sd|2072
+A|Well, we're all skinny farts|sd|2072
+A|so, I,|%|2072
+A|it,|%|2072
+A|so when it comes to,|%|2072
+A|I like to cook and eat and, to have, mainly, I guess, I get to|sd|2072
+B|Yeah.|b|2072
+A|amount of people eat, *listen and then say, man this is really good,|sd|2072
+B|Uh-huh.|b|2072
+B|Yeah,|aa|2072
+B|it is.|sv|2072
+A|um, um, but it just,|%|2072
+A|work in the garden, work around the yard, of course,|sd|2072
+B|Do you do barbecues?|qy|2072
+A|Yes,|ny|2072
+A|we sure do,|sd|2072
+A|smoke them|sd|2072
+B|Well, uh, uh, smoking and all that stuff?|qy|2072
+A|Oh, yeah,|ny|2072
+A|all that hoedown stuff.|sd|2072
+B|Yeah,|b|2072
+B|yep,|b|2072
+A|All that stuff that's bad for you.|sd|2072
+B|I, I lived in Abilene for a little while, and, uh, worked in the Abilene plant,|sd|2072
+A|Oh, sure,|b|2072
+A|yeah.|b|2072
+B|and we used to go to Joe Allen's Barbecue,|sd|2072
+B|and, uh, oh, that was great.|sv|2072
+A|Oh, yeah.|b|2072
+B|Really great,|sv|2072
+A|That's, uh, only way to do it.|sv|2072
+B|they have some nice stuff down there.|sv|2072
+B|I miss it|sd|2072
+A|Well, yeah,|b|2072
+A|it's, uh, it's, uh, it's, uh,|%|2072
+A|there's, uh, there's pluses to everything,|sv|2072
+B|Oh, yeah.|b|2072
+A|but, you know, seems like there's just so many things to do down here,|sv|2072
+A|I like the sports,|sd|2072
+A|I play a lot of racquetball.|sd|2072
+B|We did, I did horseback riding, too,|sd|2072
+B|in fact, when my children were growing up, we always had horses|sd|2072
+B|and, uh, that was kind of for them,|sd|2072
+B|but they weren't as interested in it as we were, you know,|sd|2072
+B|so, uh, that was a real,|sd|2072
+B|I'd say probably for maybe fifteen years, we dabbled in that, you know,|sd|2072
+B|we always had horses around,|sd|2072
+B|and I really enjoyed that,|sd|2072
+A|Oh, that's great,|ba|2072
+A|sounds like you,|sv|2072
+B|and I was disappointed when I went to Texas.|sd|2072
+B|I didn't see that many of them.|sd|2072
+A|Horses?|br|2072
+B|Yes|aa|2072
+A|Yeah,|aa|2072
+A|you really don't.|sv|2072
+A|Yeah,|%|2072
+A|the,|%|2072
+A|you have to look real hard to see a lot of things besides concrete, uh,|sv|2072
+B|I know,|aa|2072
+B|I know,|aa|2072
+B|it's true.|aa|2072
+A|there's buildings and concrete and a lot of people|sv|2072
+A|and that's about it down here,|sv|2072
+A|and so,|%|2072
+B|Uh-huh.|b|2072
+A|Yeah.|b|2072
+A|But, uh, that's great.|ba|2072
+A|Well, sounds like you have a lot of nice hobbies there.|sv|2072
+B|Yeah,|b|2072
+B|you too,|sv|2072
+B|you too.|sv|2072
+A|Well, great,|ba|2072
+A|well look, uh,|^h|2072
+A|I know it's probably late for you,|sv|2072
+B|Okay.|b|2072
+A|I enjoyed speaking with you|fc|2072
+B|Me too.|fc|2072
+A|have a good weekend.|fc|2072
+B|Okay.|fc|2072
+A|Bye-bye.|fc|2072
+B|Bye, now.|fc|2072

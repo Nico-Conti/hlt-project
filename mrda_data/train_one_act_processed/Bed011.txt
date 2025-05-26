@@ -1,0 +1,1160 @@
+mn015|all right.|B|Bed011
+me010|yeah let's get started.|S|Bed011
+me010|um hopefully nancy will come.|S|Bed011
+me010|if not she won't.|S|Bed011
+me045|uh robert do you uh have any way to turn off your uh screensaver on there so that it's not going off every uh|D|Bed011
+me045|it seems to have about at two minute|D|Bed011
+mn015|yeah i've i uh it's not that i didn't try.|S|Bed011
+me045|okay.|B|Bed011
+mn015|and um i i told it to stay on forever and ever but if it's not plugged in it just doesn't obey my commands.|S|Bed011
+me045|okay.|S|Bed011
+mn015|it has a mind.|S|Bed011
+me045|got it.|S|Bed011
+fe046|wants to conserve.|S|Bed011
+mn015|but i i just you know sort of keep on wiggling.|S|Bed011
+me045|yeah okay.|D|Bed011
+mn015|but uh we'll just be working on it at intensity so it doesn't happen.|S|Bed011
+mn015|we'll see.|B|Bed011
+mn015|should we plunge right into it?|Q|Bed011
+me010|yeah.|S|Bed011
+mn015|so would you like to|D|Bed011
+me010|i think so.|S|Bed011
+mn015|so what i've tried to do here is list all the decision nodes that we have identified on this side.|S|Bed011
+mn015|commented and what they're about and sort of the properties we may um give them.|S|Bed011
+mn015|and here are the uh tasks to be implemented via our data collection.|S|Bed011
+mn015|so all of these tasks|D|Bed011
+mn015|the reading is out of these tasks more or less imply that the user wants to go there sometime or the other.|S|Bed011
+mn015|and analogously for example here we have our eva um intention.|S|Bed011
+mn015|and these are the data tasks where we can assume the person would like to enter view or just approach the thing.|S|Bed011
+mn015|analogously the same on the object information.|S|Bed011
+mn015|we can see that you know we have sort of created these tasks before we came up with our decision nodes.|S|Bed011
+mn015|so there's a lot of things where we have no analogous tasks and that may or may not be a problem.|S|Bed011
+mn015|we can change the tasks slightly if we feel that we should have data for sort of for every decision node.|S|Bed011
+mn015|so trying to um implant the intention of going to a place now going to a place later on the same tour.|S|Bed011
+mn015|or trying to plant the intention of going sometime on the next tour or the next day or whenever.|S|Bed011
+me010|right right.|B|Bed011
+mn015|but i think that might be overdoing it a little.|S|Bed011
+me010|so yeah.|B|Bed011
+me010|so let me pop up a level.|S|Bed011
+me010|and uh make sure that we're all oriented the same.|S|Bed011
+me010|so what we're going to do today is two related things.|S|Bed011
+me010|uh one of them is to work on the semantics of the belief net which is going to be the main inference engine for the system uh making decisions.|S|Bed011
+me010|and decisions are going to turn out to be parameter choices for calls on other modules.|S|Bed011
+me010|so the natural language understanding thing is uh we think going to only have to choose parameters but you know a fairly large set of parameters.|S|Bed011
+me010|so to do that we need to do two things.|S|Bed011
+me010|one of which is figure out what all the choices are which we've done a fair amount.|S|Bed011
+me010|then we need to figure out what influences its choices.|S|Bed011
+me010|and finally we have to do some technical work on the actual belief relations and presumably estimates of the probabilities and stuff.|S|Bed011
+me010|but we aren't going to do the probability stuff today.|S|Bed011
+me010|technical stuff we'll do uh another day.|S|Bed011
+me010|probably next week.|S|Bed011
+me010|but we are going to worry about all the decisions and the things that that contribute to them.|S|Bed011
+me010|and we're also sort of uh in the same process going to work with fey on what there should be in the dialogues.|S|Bed011
+me010|so one of the steps that's coming up real soon is to actually get subjects uh in here and have them actually record like this.|S|Bed011
+me010|uh record dialogues more or less.|S|Bed011
+me010|and depending on what fey sort of provokes them to say we'll get information on different things.|S|Bed011
+me010|so|D|Bed011
+mn015|well how people phrase different intentions more or less.|S|Bed011
+me010|yeah people with the phrase them.|S|Bed011
+mn015|huh?|Q|Bed011
+me010|and so uh for you know keith and people worrying about what constructions people use uh we have some we have some ways to affect that by the way the dialogues go.|S|Bed011
+me010|so what robert kindly did is to lay out a table of the kinds of uh things that that might come up.|S|Bed011
+me010|and the kinds of decisions.|S|Bed011
+me010|so the uh uh on the left are decision nodes and discreet values.|S|Bed011
+me010|so if if we're right you can get by with um just this middle column worth of decisions.|S|Bed011
+me010|and it's not all that many and it's perfectly feasible technically to build belief nets that will do that.|S|Bed011
+me010|and he has a handout.|S|Bed011
+mn015|yeah.|F|Bed011
+mn015|maybe it was too fast plunging in there because we have two updates.|S|Bed011
+me010|yeah.|S|Bed011
+mn015|um you can look at this if you want.|S|Bed011
+mn015|these are what our subject's going to have to fill out.|S|Bed011
+mn015|any comments i can can still be made and the changes will be put in correspondingly.|S|Bed011
+fe046|yes.|B|Bed011
+mn015|let me summarize in two sentences.|S|Bed011
+mn015|mainly for eva's benefit who probably has not heard about the data collection at all.|D|Bed011
+fn050|okay.|D|Bed011
+mn015|or have you heard about it?|Q|Bed011
+fn050|not that much.|S|Bed011
+mn015|no.|S|Bed011
+fn050|you didn't|D|Bed011
+mn015|okay we were going to put this in front of people.|S|Bed011
+mn015|they give us some information on themselves.|S|Bed011
+fn050|okay.|B|Bed011
+mn015|then then they will read uh a task where lots of german words are sort of thrown in between.|S|Bed011
+mn015|and um and they have to read isolated proper names.|S|Bed011
+mn015|and these change|D|Bed011
+me010|i don't see a release|D|Bed011
+mn015|no this is not the release form.|S|Bed011
+mn015|this is the speaker information form.|S|Bed011
+me010|got it.|S|Bed011
+me010|okay fine.|S|Bed011
+me010|okay.|S|Bed011
+mn015|the release form is over there in that box.|S|Bed011
+me010|all right fair enough.|S|Bed011
+mn015|and um and then they going to have to um um choose from one of these tasks which are listed here.|S|Bed011
+mn015|they they pick a couple.|S|Bed011
+mn015|say three uh uh six as a matter of fact.|S|Bed011
+mn015|six different things they sort of think they would do if they were in heidelberg or traveling someplace.|S|Bed011
+mn015|and um and they have a map.|S|Bed011
+me045|huh.|B|Bed011
+mn015|like this.|S|Bed011
+mn015|very sketchy simplified map.|S|Bed011
+mn015|and they can take notes on that map.|S|Bed011
+mn015|and then they call this computer system that works perfectly and understands everything.|S|Bed011
+fn050|okay.|B|Bed011
+mn015|and um|F|Bed011
+mn015|the yeah the computer system sits right in front of you.|S|Bed011
+me045|this is a fictional system obviously.|S|Bed011
+me045|huh?|Q|Bed011
+mn015|that's fey.|S|Bed011
+fe046|i've i understand everything.|S|Bed011
+me010|and she does know everything.|S|Bed011
+fe046|yes i do.|S|Bed011
+mn015|and she has a way of making this machine talk.|S|Bed011
+mn015|so she can copy sentences into a window or type really fast.|S|Bed011
+mn015|and this machine will use speech synthesis to produce that.|S|Bed011
+mn015|so if you ask how do i get to the castle then a several seconds later it'll come out of here in order to get to the castle you do|D|Bed011
+mn015|okay?|Q|Bed011
+me045|yeah.|B|Bed011
+mn015|and um and then after three tasks the system breaks down.|S|Bed011
+mn015|and fey comes on the phone as a human operator.|S|Bed011
+mn015|and says sorry the system broke down but let's continue.|S|Bed011
+mn015|and we sort of get the idea what people do when they think they speak to a machine and what people say when they think they speak to a human or know or assume they speak to a human.|S|Bed011
+fn050|okay.|B|Bed011
+fn050|huh.|B|Bed011
+me045|uhhuh.|B|Bed011
+me045|uhhuh.|B|Bed011
+mn015|that's the data collection.|S|Bed011
+mn015|and um and fey has some thirty subjects lined up?|Q|Bed011
+mn015|something|D|Bed011
+fe046|yeah.|S|Bed011
+fe046|and more and more every day.|S|Bed011
+mn015|and um and they're ready uh to roll.|S|Bed011
+mn015|and we're going to start tomorrow at three?|Q|Bed011
+mn015|four?|Q|Bed011
+mn015|one?|Q|Bed011
+fe046|tomorrow|D|Bed011
+fe046|well we don't know for sure.|S|Bed011
+fe046|because we don't know whether that person is coming or not.|S|Bed011
+mn015|okay.|S|Bed011
+fe046|but|F|Bed011
+mn015|around four-ish.|S|Bed011
+mn015|and um we're still looking for a room on the sixth floor because they stole away that conference room um behind our backs.|S|Bed011
+mn015|but|D|Bed011
+me010|well there are these uh uh|D|Bed011
+me010|oh i see we have to|D|Bed011
+me010|yeah it's tricky.|S|Bed011
+me010|we'll let's let we'll do that off line okay.|S|Bed011
+mn015|yeah but i it's happening.|S|Bed011
+mn015|david and and jane and and lila are working on that as we speak.|S|Bed011
+me010|okay.|B|Bed011
+mn015|okay.|S|Bed011
+mn015|that was the uh the data collection in a nutshell.|S|Bed011
+mn015|and um i can report a so i did this but i also tried to do this|D|Bed011
+mn015|so if i click on here|D|Bed011
+mn015|isn't this wonderful?|Q|Bed011
+mn015|we get to the uh uh belief net just focusing on on the go there node.|S|Bed011
+mn015|uh analogously this would be sort of the reason node and the timing node and so forth.|S|Bed011
+me045|uhhuh.|B|Bed011
+mn015|and what what happened is that um design wise i'd sort of noticed that we can we still get a lot of errors from a lot of points to one of these sub go there user go there situation nodes.|S|Bed011
+mn015|so i came up with a couple of additional nodes here where um|D|Bed011
+mn015|whether the user is thrifty or not and what his budget is currently like is going to result in some financial state of the user.|S|Bed011
+mn015|how much will he is he willing to spend?|Q|Bed011
+mn015|or can spend.|S|Bed011
+mn015|being the same at this just the money available which may influence us whether he wants to go there.|S|Bed011
+mn015|if it is you know charging tons of dollars for admission or its going to cost a lot of|D|Bed011
+mn015|whatever.|S|Bed011
+mn015|twenty two million to fly to international space station you know.|S|Bed011
+me010|right.|B|Bed011
+mn015|just not all people can do that.|S|Bed011
+mn015|so and this actually turned out to be pretty key because having specified sort of these uh this this intermediate level um and sort of noticing that everything that happens here|D|Bed011
+mn015|let's go to our favorite endpoint one.|S|Bed011
+mn015|is again more or less we have um|D|Bed011
+mn015|then the situation nodes contributing to the the endpoint situation node which contributes to the endpoint and so forth.|S|Bed011
+mn015|um i can now sort of draw straight lines from these to here meaning it of course goes where the sub s.|S|Bed011
+mn015|everything that comes from situation everything that comes from user goes with the sub u.|S|Bed011
+mn015|and whatever we specify for the so called keith node or the discourse what comes from the um parser construction parser um will contribute to the d and the ontology to the sub o node.|S|Bed011
+mn015|and um one just sort of has to watch which also final decision node so it doesn't make sense to figure out whether he wants to enter view or approach an object if he never wants to go there in the first place.|S|Bed011
+mn015|but this makes the design thing fairly simple.|S|Bed011
+mn015|and um now all that's left to do then is the c p g's the conditional probabilities for the likelihood of a person having enough money actually wanting to go a place if it costs you know this or that.|S|Bed011
+mn015|and um okay.|S|Bed011
+mn015|and once um bhaskara has finished his classwork that's where we're going to end up doing.|S|Bed011
+mn015|you get involved in that process too.|S|Bed011
+mn015|and um and for now uh the the question is how much of these decisions do we want to build in explicitly into our data collection?|Q|Bed011
+mn015|so um one could sort of think of|D|Bed011
+mn015|you know we could call the see or you know people who visit the zoo.|S|Bed011
+mn015|we could call it visit the zoo tomorrow.|S|Bed011
+mn015|so we have an intention of seeing something but not now but later.|S|Bed011
+me010|right.|B|Bed011
+me010|yeah.|F|Bed011
+me010|yeah so let's uh see i i think that from one point of view uh um all these places are the same.|S|Bed011
+me010|so that that um in terms of the linguistics and stuff there may be a few different kinds of places.|S|Bed011
+me010|so i it seems to me that we ought to decide you know what things are are actually going to matter to us.|S|Bed011
+me010|and um so the zoo and the university and the castle et cetera um are all big-ish things that um you know have different parts to them and one of them might be fine.|S|Bed011
+mn015|huh.|B|Bed011
+mn015|huh huh.|B|Bed011
+me010|and|D|Bed011
+mn015|yeah the the reason why we did it that way as a as a reminder is uh no person is going to do all of them.|S|Bed011
+mn015|they're just going to select um according to their preferences.|S|Bed011
+me010|yeah yeah.|F|Bed011
+mn015|uh yeah i usually visit zoos or i usually visit castles or i usually|D|Bed011
+mn015|and then you pick that one.|S|Bed011
+me010|right no no.|S|Bed011
+me010|but but point is to to to build a system that's got everything in it that might happen you do one thing.|S|Bed011
+fe046|they're redundant.|S|Bed011
+me010|to build a system that um had the most data on a relatively confined set of things you do something else.|S|Bed011
+me010|and the speech people for example are going to do better if they if things come up uh repeatedly.|S|Bed011
+me010|now of course if everybody says exactly the same thing then it's not interesting.|S|Bed011
+me010|so all i'm saying is there's there's a kind of question of what we're trying to accomplish.|S|Bed011
+me010|and i think my temptation for the data gathering would be to uh|D|Bed011
+me010|you know and each person is only going to do it once.|S|Bed011
+me010|so you don't have to worry about them being bored.|S|Bed011
+me010|so if if it's one service one luxury item you know one big-ish place and so forth and so on um then my guess is that that the data is going to be easier to handle.|S|Bed011
+me010|now of course you have this i guess possible danger that somehow there're certain constructions that people use uh when talking about a museum that they wouldn't talk about with a university and stuff.|D|Bed011
+me010|um but i guess i'm i uh my temptation is to go for simpler.|S|Bed011
+me010|you know less variation.|S|Bed011
+me010|but i don't know what other people think about this in terms of|D|Bed011
+me010|uh|F|Bed011
+me045|so i don't exactly understand|D|Bed011
+me045|like i i i guess we're trying to limit the detail of our ontology or types of places that someone could go.|S|Bed011
+me045|right?|Q|Bed011
+me045|but who is it that has to care about this?|Q|Bed011
+me045|or what component of the system?|Q|Bed011
+me010|oh.|S|Bed011
+me010|well uh i think there are two places where it comes up.|S|Bed011
+me010|one is uh in the these people who are going to take this and and try to do speech with it.|S|Bed011
+me045|uhhuh.|B|Bed011
+me010|uh lots of pronunciations of of the same thing are going to give you better data than you know a few pronunciations of lots more things.|S|Bed011
+me045|okay.|B|Bed011
+me010|that's one.|S|Bed011
+me045|so we would rather just ask uh have a bunch of people talk about the zoo.|S|Bed011
+me045|uh and assume that that will that the constructions that they use there will give us everything we need to know about these sort of zoo castle whatever type things these bigger places.|S|Bed011
+me010|bigger.|S|Bed011
+me010|yeah well this is a question for|D|Bed011
+me045|and that way you get the speech data of people saying zoo over and over again or whatever too.|S|Bed011
+me010|yeah.|S|Bed011
+me010|yeah.|S|Bed011
+me010|yeah.|F|Bed011
+me045|okay.|S|Bed011
+me010|so this is a question for you.|S|Bed011
+me045|uhhuh.|B|Bed011
+me010|and you know if we if we do and we probably will actually try to uh build a prototype uh|D|Bed011
+me010|probably we could get by with the prototype only handling a few of them anyway.|S|Bed011
+me010|so um|F|Bed011
+mn015|yeah this was sort of these are all different sort of activities.|S|Bed011
+mn015|um but i think i i got the point and i think i like it.|S|Bed011
+mn015|we can do put them in a more hierarchical fashion.|S|Bed011
+mn015|so go to place and then give them a choice.|S|Bed011
+mn015|you know either they're the symphony type or opera type or the tourist site guide type or the nightclub disco type person and they say yeah this is on that go to big-ish place.|S|Bed011
+mn015|this is what i would do.|S|Bed011
+me045|uhhuh.|B|Bed011
+mn015|and then we have the fix thing and then maybe do something the other day thing.|S|Bed011
+mn015|so my question is|D|Bed011
+mn015|i guess to some extent we should we just have to try it out and see if it works.|S|Bed011
+mn015|it would be challenging in in a sense to try to make it so so complex that they even really should schedule or to plan it uh a more complex thing in terms of|D|Bed011
+mn015|okay.|F|Bed011
+mn015|you know they should get the feeling that there are these six things they have to do.|S|Bed011
+mn015|and they can be done maybe in two days.|S|Bed011
+me010|well|F|Bed011
+me010|yeah.|F|Bed011
+me010|well i think|D|Bed011
+mn015|so they make these decisions.|S|Bed011
+me010|yeah.|F|Bed011
+mn015|can i go there tomorrow?|Q|Bed011
+mn015|or you know influences.|S|Bed011
+me010|yeah.|F|Bed011
+me045|uhhuh.|B|Bed011
+me010|well i think it's easy enough to set that up if that's your expectation.|S|Bed011
+me010|so the uh system could say well uh we'd like to to set up your program for two days in heidelberg.|S|Bed011
+me010|you know let's first think about all the things you might like to do.|S|Bed011
+me010|so there in i mean in i i i'm sure that if that's what you did then they would start telling you about that and then you could get into um various things about ordering if you wanted.|S|Bed011
+mn015|uhhuh.|B|Bed011
+mn015|yeah.|B|Bed011
+mn015|yeah but i think this is part of the instructor's job.|S|Bed011
+mn015|and that can be done sort of to say okay now we've picked these six tasks.|S|Bed011
+mn015|now you have you can call the system and you have two days.|S|Bed011
+mn015|and|D|Bed011
+me010|i'm sorry.|S|Bed011
+me010|no we have to help we have to decide.|S|Bed011
+me010|fey will carry out whatever we decide.|S|Bed011
+me010|but we have to decide you know what is the appropriate scenario.|S|Bed011
+me010|that's what we're going to talk about yeah.|S|Bed011
+mn015|yep yep.|B|Bed011
+mn036|but these are two different scenarios entirely.|S|Bed011
+mn036|i mean one is a planner the other it kind of give you instructions on the spot.|S|Bed011
+mn015|yeah but the i don't i'm not really interested in sort of phase planning capabilities.|S|Bed011
+mn015|but it's more the how do people phrase these planning requests?|Q|Bed011
+mn015|so are we going to masquerade the system as this as you said simple response system?|Q|Bed011
+mn015|i have one question i get one response.|S|Bed011
+mn015|or should we allow for a certain level of complexity?|Q|Bed011
+mn015|and i think the data would be nicer if we get temporal references.|S|Bed011
+me010|well so keith what do you think?|Q|Bed011
+me045|well um it seems that|D|Bed011
+me045|yeah i mean|D|Bed011
+me045|off the top of my head it kind of seems like you would probably just want you know richer data.|S|Bed011
+me045|more complex stuff going on.|S|Bed011
+me045|people trying to do more complex sets of things.|S|Bed011
+me045|i mean you know if our goal is to really sort of be able to handle a whole bunch of different stuff then throwing harder situations at people will get them to do more linguistic more interesting linguistic stuff.|S|Bed011
+me045|but i mean i'm i'm not really sure.|S|Bed011
+me045|uh because i don't fully understand like what our choices are of ways to do this here yet.|S|Bed011
+mn015|i mean we have tested this and|D|Bed011
+mn015|have you heard listen to the first two or|D|Bed011
+mn015|as a matter of fact the second person is uh is was faced with exactly this kind of setup.|S|Bed011
+mn015|and|D|Bed011
+me045|i started to listen to one and it was just like um uh sort of depressing.|S|Bed011
+me045|i thought i'd just sort of listen to the beginning part and the person was just sort of reading off her script or something.|S|Bed011
+me045|and|D|Bed011
+mn015|oh okay.|S|Bed011
+me010|yeah.|B|Bed011
+mn015|that was the first subject.|S|Bed011
+me045|yeah.|B|Bed011
+me010|first one wasn't very good.|S|Bed011
+me045|yeah.|B|Bed011
+mn015|yeah.|B|Bed011
+me045|so um i|D|Bed011
+fe046|although|D|Bed011
+mn015|um it is already with this it got pretty with this setup and that particular subject it got pretty complex.|S|Bed011
+me045|uhhuh.|B|Bed011
+mn015|maybe i suggest we make some fine tuning of these get sort of run through ten or so subjects.|S|Bed011
+me045|uhhuh.|B|Bed011
+mn015|and then take a breather.|S|Bed011
+mn015|and see whether we want to make it more complex or not depending on what what sort of results we're getting.|S|Bed011
+me045|right.|B|Bed011
+me045|yeah.|F|Bed011
+me045|it in fact um i am just you know today next couple days going to start really diving into this data.|S|Bed011
+me045|i've basically looked at one of the files.|S|Bed011
+me045|you know one of these|D|Bed011
+me045|you gave me those dozens of files.|S|Bed011
+me045|and i looked at one of them which was about ten sentences found fifteen twenty different construction types that we would have to look for and so on.|S|Bed011
+me045|and like all right well let's start here.|S|Bed011
+me045|um so i haven't really gone into the you know looked at all of the stuff that's going on.|S|Bed011
+me045|so i don't really|D|Bed011
+me045|right i mean once i start doing that i'll have more to say about this kind of thing.|S|Bed011
+me010|okay.|S|Bed011
+mn015|and and always|D|Bed011
+me010|but well but you did say something important which is that um you can probably keep yourself fairly well occupied uh with the simple cases for quite a while.|S|Bed011
+me045|yeah.|S|Bed011
+me010|although obviously so so that does suggest that|D|Bed011
+me010|uh now i have looked at all the data and it's it's actually at least to an amateur quite redundant.|S|Bed011
+me010|that that it was it was very stylized and quite a lot of people said more or less the same thing.|S|Bed011
+me045|yeah yeah.|B|Bed011
+me045|i um i did sort of scan it at first and noticed that and then looked in detail at one of them.|S|Bed011
+me010|yeah.|B|Bed011
+me045|but yeah yeah i noticed that too.|S|Bed011
+me010|so we we we want to do more than that.|S|Bed011
+mn015|and with this we're getting more.|S|Bed011
+me010|okay.|S|Bed011
+mn015|no question.|S|Bed011
+me010|right.|B|Bed011
+me010|so|D|Bed011
+mn015|uh do we want to get going beyond more which is sort of the|D|Bed011
+me010|well okay so let's let's take let's i|D|Bed011
+me010|i think your suggestion is good which is we'll do a uh a batch.|S|Bed011
+me010|okay.|S|Bed011
+me010|and uh|F|Bed011
+me010|fey how long is it going to be till you have ten subjects?|Q|Bed011
+me010|couple days?|Q|Bed011
+me010|or a week?|Q|Bed011
+me010|or i don't i don't have a feel for|D|Bed011
+fe046|um i can yeah i mean i i think can probably schedule ten people uh whenever.|S|Bed011
+me010|well it's it's up to you.|S|Bed011
+me010|i mean i i uh we don't have any huge time pressure.|S|Bed011
+me010|it's just when you have|D|Bed011
+fe046|how long will it be?|Q|Bed011
+fe046|um i i would say maybe two weeks.|S|Bed011
+me010|yeah.|S|Bed011
+me010|oh okay.|S|Bed011
+me010|so let's do this.|S|Bed011
+me010|let's plan next monday okay to have a review of what we have so far.|S|Bed011
+me010|and|D|Bed011
+mn015|this means audio but|D|Bed011
+me010|huh?|Q|Bed011
+mn015|no transcriptions of course.|S|Bed011
+me010|no we won't have the transcriptions.|S|Bed011
+mn015|yeah.|B|Bed011
+me010|but what we should be able to do|D|Bed011
+me010|and i don't know if fey if you will have time to do this.|S|Bed011
+me010|but it would be great if you could um not transcribe it all but pick out uh some stuff.|S|Bed011
+me010|i mean we could uh just sit here and listen to it all.|S|Bed011
+me010|are you going to have the audio on the web site?|Q|Bed011
+me010|okay.|S|Bed011
+mn015|until we reach the gigabyte thing and david johnson kills me and we're going to put it on the web site yeah.|S|Bed011
+me010|oh we could get|D|Bed011
+me010|i mean you can buy another disk for two hundred dollars.|S|Bed011
+me010|right?|Q|Bed011
+me010|i mean it's it's not like|D|Bed011
+me010|okay.|B|Bed011
+me010|so we'll take care of david johnson.|S|Bed011
+me010|okay.|S|Bed011
+mn015|no he uh he he has been solving all our problems or is wonderful.|S|Bed011
+fe046|take care of him.|S|Bed011
+me010|okay.|B|Bed011
+mn015|so|D|Bed011
+me010|all right.|B|Bed011
+me010|so we'll buy a disk.|S|Bed011
+me010|but anyway so um if you if you can think of a way to uh point us to to interesting things sort of as you're doing this or or something.|S|Bed011
+me010|uh make your make notes or something that that this is you know something worth looking at.|S|Bed011
+me010|and other than that yeah i guess we'll just have to uh listen|D|Bed011
+me010|although i guess it's only ten minutes each.|S|Bed011
+me010|right?|Q|Bed011
+me010|roughly.|S|Bed011
+fe046|well i guess.|S|Bed011
+fe046|i'm not sure how long it's actually going to take.|S|Bed011
+mn015|the reading task is a lot shorter.|S|Bed011
+mn015|that was cut by fifty percent.|S|Bed011
+mn015|and the reading|D|Bed011
+mn015|nobody's interested in that except for the speech people.|S|Bed011
+me010|right.|S|Bed011
+me010|no we don't care about that at all.|S|Bed011
+mn015|so|D|Bed011
+mn015|it's actually like five minutes dialogue.|S|Bed011
+me010|my guess is it's going to be ten.|S|Bed011
+me010|people|D|Bed011
+mn015|ten minutes is long.|S|Bed011
+me010|i understand.|S|Bed011
+me010|but people people you know uh|D|Bed011
+fe046|it feels like a long time.|S|Bed011
+fe046|but|F|Bed011
+mn015|yeah.|S|Bed011
+me010|yeah.|B|Bed011
+mn015|it feels like forever when you're doing it.|S|Bed011
+mn015|but then it turns out to be three minutes and forty five seconds.|S|Bed011
+me010|yeah.|B|Bed011
+me010|could be.|S|Bed011
+me045|yeah.|B|Bed011
+me010|okay.|B|Bed011
+me010|i was thinking people would you know hesitate and whatever.|S|Bed011
+me010|whatever it is we'll we'll deal with it.|S|Bed011
+mn015|yeah it's not|D|Bed011
+me010|okay so that'll be that'll be um on on the web page.|S|Bed011
+mn015|and it's fun.|S|Bed011
+mn015|okay.|B|Bed011
+me010|that's great.|S|Bed011
+me010|um but anyway yeah so i think it's a good idea to start with the sort of relatively straight forward just response system.|S|Bed011
+me010|and then if we want to uh get them to start doing uh multiple step planning with a whole bunch of things and then organize them.|S|Bed011
+me010|um|D|Bed011
+me010|tell them which things are near each other.|S|Bed011
+me010|and|F|Bed011
+me010|you know any of that stuff.|S|Bed011
+me010|uh you know which things would you like to do tuesday morning.|S|Bed011
+mn015|yeah.|B|Bed011
+me010|so yeah i that seems pretty straight forward.|S|Bed011
+fe046|but were you saying that|D|Bed011
+mn015|i need those back by the way.|S|Bed011
+me010|okay.|S|Bed011
+fe046|yeah.|B|Bed011
+me045|okay.|B|Bed011
+mn015|that's for|D|Bed011
+me010|i'm sorry fey what?|S|Bed011
+fe046|that maybe one thing we should do is go through this list and sort of select things that are categories and then offer only one member of that category?|Q|Bed011
+me010|that's what i was suggesting for the first round yeah.|S|Bed011
+fe046|okay.|S|Bed011
+me045|so rather than having zoo and castle|D|Bed011
+fe046|and then i mean they could be alternate versions of the same if you wanted data on different constructions.|S|Bed011
+me010|they could but but uh they|D|Bed011
+me010|yeah but uh but|D|Bed011
+fe046|like one person gets the version with the zoo as a choice and the other person gets the|D|Bed011
+me010|you could|D|Bed011
+me010|but but i i i think in the short run|D|Bed011
+mn015|and|D|Bed011
+mn015|no the|D|Bed011
+mn015|the person don't get it.|S|Bed011
+mn015|i mean this is why we did it because when we gave them just three tasks for part a and three tasks for part b|D|Bed011
+me010|right.|B|Bed011
+me010|yeah.|B|Bed011
+fe046|well no they could still choose.|S|Bed011
+fe046|they just wouldn't be able to choose both zoo and say touring the castle.|S|Bed011
+mn015|exactly.|S|Bed011
+mn015|this is limiting the choices but yeah.|S|Bed011
+mn015|right.|S|Bed011
+mn015|okay sorry.|S|Bed011
+mn015|but um i i think this approach will very well work.|S|Bed011
+mn015|but the person was able to look at it and say okay this is what i would actually do.|S|Bed011
+fe046|yeah.|B|Bed011
+me010|okay.|B|Bed011
+mn015|yeah.|B|Bed011
+mn015|okay.|B|Bed011
+fe046|he was vicious.|S|Bed011
+mn015|okay we got to we got to disallow uh traveling to zoos and uh castles at the same time sort of|D|Bed011
+fe046|i mean there they are significantly different but|D|Bed011
+mn015|but no they're i mean they're sort of this is where tour becomes you know|D|Bed011
+mn015|tourists maybe a bit different.|S|Bed011
+fe046|yeah i guess so.|S|Bed011
+mn015|and um these are just places where you you enter um much like here.|S|Bed011
+me010|yeah.|B|Bed011
+mn015|but we can uh|D|Bed011
+me010|yeah in fact if if if you use the right verb for each in common|D|Bed011
+me010|like you know attend a theater symphony or opera is is a group.|S|Bed011
+me010|and tour the university castle or zoo.|S|Bed011
+mn015|uhhuh yeah.|B|Bed011
+me010|all of these do have this kind of tour um aspect about the way you would go to them.|S|Bed011
+me010|and uh the movie theater is probably also uh is attend et cetera.|S|Bed011
+mn015|attend.|S|Bed011
+mn015|yeah.|S|Bed011
+me010|so it may turn out to be not so many different kinds of things.|S|Bed011
+mn015|huh uhhuh.|B|Bed011
+me010|and then what one would expect is that that the sentence types would uh their responses would tend to be grouped according to the kind of activity you would expect.|S|Bed011
+me045|uhhuh.|B|Bed011
+mn036|but i mean it seem that um there is a difference between going to see something and things like exchange money or dine out.|S|Bed011
+me010|oh absolutely.|S|Bed011
+me010|yeah.|B|Bed011
+mn036|uh function yeah.|D|Bed011
+mn015|yeah this is where|D|Bed011
+mn015|yeah.|F|Bed011
+mn015|the function stuff is definitely different and the getting information or stuff yeah.|S|Bed011
+mn015|okay.|B|Bed011
+mn015|but this is open.|S|Bed011
+mn015|so since people going to still pick something we're not going to get any significant amount of redundancy.|S|Bed011
+mn015|and for reasons we don't want it really in that sense.|S|Bed011
+mn015|and um we would be ultimately more interested in getting all the possible ways of people asking oh for different things with or with a computer.|S|Bed011
+mn015|and so if you can think of any other sort of high level tasks a tourist may do just always just mail them to us and we'll sneak them into the collection.|S|Bed011
+mn015|we're not going to do much statistical stuff with it.|S|Bed011
+me010|we don't have enough.|S|Bed011
+mn015|no.|S|Bed011
+mn015|but it seems like since we since we are getting towards uh subject uh fifty subjects.|S|Bed011
+mn015|and if we can keep it up um to a uh sort of five four-ish per week rate we may even reach the one hundred before fey takes off to chicago.|S|Bed011
+fe046|that means that one hundred people have to be interested.|S|Bed011
+me045|good luck.|S|Bed011
+fe046|yeah.|B|Bed011
+me010|well um these are all people off campus from campus so far.|S|Bed011
+fe046|yeah.|S|Bed011
+me010|right?|Q|Bed011
+fe046|yeah.|S|Bed011
+me010|so we yeah we don't know how many we can get next door at the uh shelter for example.|S|Bed011
+me045|huh.|B|Bed011
+me010|uh for ten bucks probably quite a few.|S|Bed011
+me045|yeah.|B|Bed011
+me045|that's right.|S|Bed011
+me010|yeah.|B|Bed011
+me010|so all right so let's go let's go back then to the the chart with all the decisions and stuff and see how we're doing.|S|Bed011
+mn015|yep.|B|Bed011
+me010|do do people think that you know this is is going to um cover what we need or should we be thinking about more?|Q|Bed011
+mn015|okay in terms of decision nodes?|S|Bed011
+me010|yep.|S|Bed011
+mn015|i mean go there is is a yes or no.|S|Bed011
+mn015|right?|Q|Bed011
+me010|yep.|S|Bed011
+me045|uhhuh.|B|Bed011
+mn015|i'm also interested in in this property uh line here.|S|Bed011
+mn015|so if you look at sorry look at that|D|Bed011
+mn015|um timing was um i have these three.|S|Bed011
+mn015|do we need a final differentiation there?|Q|Bed011
+mn015|now later on the same tour sometimes on the next tour?|Q|Bed011
+me045|what's this idea of next tour?|Q|Bed011
+me045|i mean|D|Bed011
+mn015|it's sort of next day.|S|Bed011
+mn015|so you're doing something now and you have planned to do these three four things.|S|Bed011
+me045|uhhuh.|B|Bed011
+mn015|and you can do something immediately.|S|Bed011
+me045|uhhuh.|B|Bed011
+mn015|you could sort of tag it on to that tour.|S|Bed011
+me045|or okay.|S|Bed011
+mn015|or you can say this is something i would do i want to do sometime in my life basically.|S|Bed011
+me045|okay.|F|Bed011
+me045|okay.|F|Bed011
+me045|so so this tour is sort of just like the idea of current round of of touristness or whatever.|S|Bed011
+me010|right.|S|Bed011
+me010|yeah.|F|Bed011
+me045|okay.|S|Bed011
+me010|yeah probably between stops back at the hotel.|S|Bed011
+me045|okay.|S|Bed011
+me045|got it.|S|Bed011
+me010|i mean if you if if you wanted precise about it uh you know|D|Bed011
+me045|got it.|S|Bed011
+me010|uh and i think that's the way tourists do organize their lives.|S|Bed011
+me045|sure sure sure.|S|Bed011
+me010|you know okay we'll go back to the hotel and then we'll go off.|S|Bed011
+me010|and|F|Bed011
+me045|okay.|S|Bed011
+mn036|so all tours a tour happens only within one day?|Q|Bed011
+me010|yes.|S|Bed011
+me045|okay.|B|Bed011
+mn036|so the next tour will be tomorrow?|Q|Bed011
+me010|it|D|Bed011
+me010|right.|S|Bed011
+me010|for this.|S|Bed011
+me045|okay.|S|Bed011
+me045|just to be totally clear.|S|Bed011
+me045|okay.|B|Bed011
+mn015|well my visit to prague there were some nights where i never went back to the hotel.|S|Bed011
+mn015|so whether that counts as a two day tour or not we'll have to think.|S|Bed011
+me045|you just spend the whole time at u fleku or something.|S|Bed011
+mn036|yeah.|B|Bed011
+me010|i we will we will not ask you more.|S|Bed011
+fe046|right.|S|Bed011
+mn036|right.|B|Bed011
+fe046|that's enough.|S|Bed011
+mn015|i don't know.|S|Bed011
+mn015|what is the uh the the english uh um cognate if you want for sankt nimmerlandstag?|Q|Bed011
+me045|keine ahnung.|S|Bed011
+mn015|sort of we'll do it on when you say on that day it means it'll never happen.|S|Bed011
+me010|yeah.|B|Bed011
+me010|right.|S|Bed011
+me045|okay.|B|Bed011
+mn015|do you have an expression?|Q|Bed011
+mn015|probably you|D|Bed011
+me045|not that i know of actually.|S|Bed011
+mn015|yeah when hell yep we'll do it when hell freezes over.|S|Bed011
+me010|yeah.|B|Bed011
+mn015|so maybe that should be another property in there.|S|Bed011
+mn036|right.|B|Bed011
+fe046|never.|S|Bed011
+me010|yeah.|B|Bed011
+me010|yeah.|B|Bed011
+mn015|okay.|S|Bed011
+mn015|um the reason why why do we go there in the first place|D|Bed011
+mn015|i e uh it's either uh for sightseeing for meeting people for running errands or doing business.|S|Bed011
+mn015|entertainment is a good one in there i think.|S|Bed011
+mn015|i agree.|S|Bed011
+me045|so business is supposed to uh be sort of it like professional type stuff?|Q|Bed011
+me045|right?|Q|Bed011
+me045|or something like that?|Q|Bed011
+mn015|yep.|S|Bed011
+me045|okay.|S|Bed011
+me045|um|D|Bed011
+mn015|i mean this this is uh an old uh johno thing.|S|Bed011
+mn015|he sort of had it in there.|S|Bed011
+mn015|who is the the is the person?|Q|Bed011
+mn015|so it might be a tourist.|S|Bed011
+mn015|it might be a business man who's using the system who wants to sort of go to some|D|Bed011
+me045|uhhuh.|B|Bed011
+me045|yeah.|S|Bed011
+me010|yeah or or both.|S|Bed011
+me045|yeah.|F|Bed011
+me045|yeah i mean like for example my my father is about to travel to prague.|S|Bed011
+mn015|yep.|B|Bed011
+me045|he'll be there for two weeks.|S|Bed011
+me045|he is going to uh|D|Bed011
+me045|he's there to teach a course at the business school but he also is touring around.|S|Bed011
+me045|and so he may have some mixture of these things.|S|Bed011
+me010|huh.|B|Bed011
+mn015|yep.|B|Bed011
+me010|sure.|B|Bed011
+mn015|yep.|B|Bed011
+me010|right.|B|Bed011
+mn015|he would|D|Bed011
+mn036|what what do you have in mind in terms of um socializing?|Q|Bed011
+mn036|what kind of activities|D|Bed011
+mn015|uh just meeting people basically.|S|Bed011
+mn036|oh|D|Bed011
+mn015|i want to meet someone somewhere which puts a very heavy constraint on the eva.|S|Bed011
+mn015|you know because then if you're meeting somebody at the town hall you're not entering it usually.|S|Bed011
+me045|yeah.|B|Bed011
+mn015|you're just want to approach it.|S|Bed011
+me045|so i mean does this capture like where do you put|D|Bed011
+me045|exchange money is an errand.|S|Bed011
+me045|right?|Q|Bed011
+me045|but what about uh|D|Bed011
+me010|uhhuh.|B|Bed011
+mn015|yep.|S|Bed011
+me045|so like go to a movie is now entertainment.|S|Bed011
+me045|dine out is|D|Bed011
+mn036|socializing i guess.|S|Bed011
+me010|no i i|D|Bed011
+me010|well i don't know.|S|Bed011
+me010|let let well we'll put it somewhere.|S|Bed011
+me045|so i mean|D|Bed011
+me010|but but um|D|Bed011
+me045|right.|B|Bed011
+me010|i would say that if dine out is a special uh|D|Bed011
+me010|if you're doing it for that purpose then it's entertainment.|S|Bed011
+me045|yeah.|B|Bed011
+me010|and we'll also as as you'll further along we'll get into business about well you're you know this is going over a meal time.|S|Bed011
+me010|do you want to stop for a meal or pick up food or something?|Q|Bed011
+me045|uhhuh.|B|Bed011
+me010|and that's different.|S|Bed011
+me010|that's that's sort of part of that's not a destination reason that's sort of en passant right.|S|Bed011
+me045|right.|S|Bed011
+mn015|that goes with the energy depletion function blech.|S|Bed011
+me045|yeah.|B|Bed011
+me010|right yeah.|B|Bed011
+mn015|okay endpoint|D|Bed011
+me045|tourist needs food badly.|S|Bed011
+me010|right.|B|Bed011
+mn015|endpoint is pretty clear.|S|Bed011
+mn015|um mode.|S|Bed011
+mn015|uh i have found three.|S|Bed011
+mn015|drive there walk there uh or be driven which means bus taxi bart.|S|Bed011
+me010|okay.|S|Bed011
+mn015|yeah.|S|Bed011
+mn015|yep.|S|Bed011
+me010|obviously taxis are very different than buses.|S|Bed011
+me010|but on the other hand the system doesn't have any public transport this the planner system doesn't have any public transport in it yet.|S|Bed011
+mn015|so this granularity would suffice i think if we say the person|D|Bed011
+mn015|probably based on the utterance we on the situation we can conclude|D|Bed011
+mn015|wants to drive there walk there or use some other form of transportation.|S|Bed011
+me045|how much of heidelberg can you get around by public transport?|Q|Bed011
+me045|i mean in terms of the interesting bits.|S|Bed011
+me045|there's lots of bits where you don't really|D|Bed011
+me045|i've only was there ten years ago for a day so i don't remember but|D|Bed011
+me010|well|D|Bed011
+me045|i mean like the sort of the touristy bits|D|Bed011
+mn015|everywhere.|S|Bed011
+me045|is it like|D|Bed011
+me010|you can't get to the philosophers' way very well.|S|Bed011
+me010|but|D|Bed011
+me045|yeah.|B|Bed011
+me010|i mean there are hikes that you can't get to.|S|Bed011
+me010|but|D|Bed011
+mn015|yeah.|B|Bed011
+me045|okay.|B|Bed011
+me010|but i think other things you can if i remember right.|S|Bed011
+fn050|so is like biking there part of like driving there?|Q|Bed011
+mn015|yeah um we actually biking should be should be a separate point because we have a very strong bicycle planning component.|S|Bed011
+fn050|or|D|Bed011
+me010|oh!|S|Bed011
+mn015|so|D|Bed011
+fe046|huh that's good.|S|Bed011
+mn015|um|D|Bed011
+me010|put it in.|S|Bed011
+mn015|bicycles should be in there.|S|Bed011
+mn015|but|D|Bed011
+mn015|will we have|D|Bed011
+mn015|i mean is this realistic?|Q|Bed011
+mn015|i mean|D|Bed011
+me045|yeah.|S|Bed011
+me010|okay we can leave it out i guess.|S|Bed011
+me045|yeah.|B|Bed011
+mn015|we can we can sort of uh drive|D|Bed011
+me045|i would i would lump it with walk because hills matter.|S|Bed011
+mn015|yeah.|S|Bed011
+me045|right?|Q|Bed011
+me045|you know.|S|Bed011
+me045|things like that.|S|Bed011
+mn015|yeah.|D|Bed011
+me010|okay.|B|Bed011
+me010|skateboards.|S|Bed011
+me010|right?|Q|Bed011
+mn036|right.|B|Bed011
+me010|anyway.|S|Bed011
+me010|scooters.|S|Bed011
+me010|right?|Q|Bed011
+mn015|yep.|B|Bed011
+me010|all right.|S|Bed011
+mn015|okay length is um you want to get this over with as fast as possible.|S|Bed011
+mn015|you want to use some part of what of the time you have.|S|Bed011
+mn015|um they can.|S|Bed011
+mn015|but we should just make a decision whether we feel that they want to use some substantial or some fraction of their time.|S|Bed011
+mn015|you know they want to do it so badly that they are willing to spend uh you know the necessary and plus time.|S|Bed011
+me045|huh.|B|Bed011
+mn015|and um|F|Bed011
+mn015|and you know if we feel that they want to do nothing but that thing then you know we should point out that to the planner that they probably want to use all the time they have.|S|Bed011
+mn015|so stretch out that visit for that.|S|Bed011
+me010|uhhuh.|S|Bed011
+me045|wow!|S|Bed011
+me045|it seems like this would be really hard to guess.|S|Bed011
+me045|i mean on the part of the system.|S|Bed011
+me045|it seems like it|D|Bed011
+me045|i mean you're you're talking about rather than having the user decide this you're supposed we're supposed to figure it out?|Q|Bed011
+me010|well|F|Bed011
+mn015|the user can always say it but it's just sort of we we hand over these parameters if we make if we have a feeling that they are important.|S|Bed011
+me045|overrider.|S|Bed011
+me010|yeah.|S|Bed011
+me045|uhhuh.|B|Bed011
+mn015|and that we can actually infer them to a significant degree or we ask.|S|Bed011
+me010|and|F|Bed011
+me010|and yeah and part of the system design is that if it looks to be important and you can't figure it out then you ask.|S|Bed011
+me045|okay.|S|Bed011
+mn015|yeah.|B|Bed011
+me045|okay.|S|Bed011
+me010|but hopefully you don't ask you know all these things all the time.|S|Bed011
+me010|or uh so but there's but definitely a back off position to asking.|S|Bed011
+me045|yeah.|S|Bed011
+me045|yeah.|B|Bed011
+me045|right.|S|Bed011
+me045|yeah.|B|Bed011
+mn015|and if no no part of the system ever comes up with the idea that this could be important no planner is ever going to ask for it.|S|Bed011
+me045|yeah.|B|Bed011
+mn015|so and i like the idea that you know sort of|D|Bed011
+mn015|jerry pushed this idea from the very beginning that it's part of the understanding business to sort of make a good question of what's sort of important in this general picture what you need|D|Bed011
+me045|uhhuh.|B|Bed011
+mn015|if you want to simulate it for example what parameters would you need for the simulation?|Q|Bed011
+mn015|and timing uh uh length would definitely be part of it.|S|Bed011
+mn015|costs?|Q|Bed011
+mn015|little money some money lots of money?|Q|Bed011
+me010|uhhuh.|S|Bed011
+mn015|actually maybe uh uh so|D|Bed011
+mn015|yeah okay.|S|Bed011
+mn015|huh?|Q|Bed011
+me045|you could say some in there.|S|Bed011
+mn036|i must say that this one looks a bit strange to me.|S|Bed011
+mn036|um maybe it seems like appropriate if i go to las vegas.|S|Bed011
+mn036|well but i decide kind of how much money uh i'm willing to lose.|D|Bed011
+mn036|but i as a tourist i'll just paying what's what's more or less is required.|S|Bed011
+me010|well no.|S|Bed011
+me010|i think there are there're different things where you have a choice.|S|Bed011
+fe046|huh.|B|Bed011
+me010|for example uh this interacts with am i are you willing to take a taxi?|Q|Bed011
+me045|yeah.|B|Bed011
+me045|dinner.|S|Bed011
+me010|or uh you know if if you're going to the opera are you going to look for the best seats or the peanut gallery?|Q|Bed011
+mn036|the best seat or or right.|S|Bed011
+me010|or you know?|Q|Bed011
+me010|whatever.|S|Bed011
+me045|okay so|F|Bed011
+me010|so i think there are a variety of things in which um|D|Bed011
+me010|tourists really do have different styles eating.|S|Bed011
+me010|another one.|S|Bed011
+me010|you know?|Q|Bed011
+me045|yeah.|S|Bed011
+mn036|right that's true.|S|Bed011
+fe046|right.|S|Bed011
+mn015|the what what my sort of sentiment is they're|D|Bed011
+mn015|well i i once had to write a a a a charter a carter for a a student organization.|S|Bed011
+mn015|and they had wanted me to define what the quorum is going to be.|S|Bed011
+mn015|and i looked at the other ones and they always said ten percent of the student body has to be present at their general meeting otherwise it's not a|D|Bed011
+mn015|and i wrote in there enough people have to be there.|S|Bed011
+mn015|and it was hotly debated but people agreed with me that everybody probably has a good feeling whether it was a farce a joke or whether there were enough people.|S|Bed011
+me045|yeah.|B|Bed011
+mn015|and if you go to turkey you will find when people go shopping they will say how much cheese do you want.|S|Bed011
+mn015|and they say uh enough.|S|Bed011
+mn015|and the and the this used all over the place.|S|Bed011
+mn015|because the person selling the cheese knows you know that person has two kids and you know a husband that dislikes cheese so this is enough.|S|Bed011
+me045|uhhuh.|B|Bed011
+mn015|and um so the middle part is always sort of the the golden way.|S|Bed011
+mn015|right?|Q|Bed011
+mn015|so you can you can be really make it as cheap as possible or you can say i want uh you know i don't care.|S|Bed011
+me045|money is no object.|S|Bed011
+me045|uhhuh.|B|Bed011
+me010|yeah.|B|Bed011
+mn015|money is no object.|S|Bed011
+mn015|or you say i just want to spend enough.|S|Bed011
+me045|uhhuh.|B|Bed011
+mn015|or the sufficient or the appropriate amount.|S|Bed011
+me045|yeah.|B|Bed011
+mn015|but then again this may turn out to be insufficient for our purposes.|S|Bed011
+mn015|but well this is my first guess.|S|Bed011
+me045|i mean|D|Bed011
+mn015|in much the same way as how how you know should the route be?|Q|Bed011
+me045|yeah.|B|Bed011
+mn015|should it be the easiest route even if it's a little bit longer?|Q|Bed011
+me045|uhhuh.|D|Bed011
+mn015|no steep inclinations?|Q|Bed011
+mn015|go the normal way?|Q|Bed011
+mn015|whatever that again means uh or do you does the person want to rough it?|Q|Bed011
+me045|uhhuh.|B|Bed011
+me045|i mean so there's a couple of different ways you can interpret these things.|S|Bed011
+me045|right?|Q|Bed011
+me045|you know i want to go there and i don't care if it's really hard.|S|Bed011
+me045|or if you're an extreme sport person you know|D|Bed011
+me045|i want to go there and i insist on it being the hard way.|S|Bed011
+me010|right.|S|Bed011
+me045|right?|Q|Bed011
+me045|you know so i assume we're going for the first interpretation.|S|Bed011
+fe046|right.|B|Bed011
+me045|right?|Q|Bed011
+me045|something like|D|Bed011
+me045|i'll go|D|Bed011
+me045|i mean|D|Bed011
+me045|i'd|D|Bed011
+me045|i don't know.|S|Bed011
+me010|no i think he was going for the second one actually.|S|Bed011
+me045|it's different from thing to|D|Bed011
+me045|yeah?|Q|Bed011
+me010|anyway we'll sort yeah we'll sort that out.|S|Bed011
+me045|i i|D|Bed011
+me045|okay.|S|Bed011
+me010|right.|S|Bed011
+me045|yeah.|B|Bed011
+me010|absolutely.|S|Bed011
+mn015|well this is all sort of um top of my head.|S|Bed011
+mn015|no no research behind that.|S|Bed011
+me045|yeah.|B|Bed011
+mn015|um object information.|S|Bed011
+mn015|do i do i want to know anything about that object.|S|Bed011
+mn015|is either true or false.|S|Bed011
+mn015|and if i care about it being open accessible or not i don't think there's any middle ground there.|S|Bed011
+mn015|um either i want to know where it is or not.|S|Bed011
+mn015|i want to know about it's history or not.|S|Bed011
+mn015|or um i want to know about what it's good for or not.|S|Bed011
+mn015|maybe one could put scales in there too.|S|Bed011
+mn015|so i want to know a lot about it.|S|Bed011
+me010|yeah now|D|Bed011
+me010|okay.|S|Bed011
+me010|i'm sorry!|S|Bed011
+me010|go ahead.|S|Bed011
+me010|what were you going to say?|Q|Bed011
+mn015|one could put scales in there.|S|Bed011
+mn015|so i want to know a lot about the history.|S|Bed011
+mn015|just a bit|D|Bed011
+me010|yeah right.|S|Bed011
+me010|well if we|D|Bed011
+me010|right.|S|Bed011
+me010|so object becomes entity.|S|Bed011
+me010|right?|Q|Bed011
+mn015|yep that's true.|S|Bed011
+me010|yeah but we don't have to do it now.|S|Bed011
+mn015|yep.|S|Bed011
+mn015|that was the wrong shortcut anyhow.|S|Bed011
+me010|and we think that's it interestingly enough that um you know|D|Bed011
+me010|or or or something very close to it is going to be uh going to be enough.|S|Bed011
+me010|and|D|Bed011
+fe046|still wrong.|S|Bed011
+mn015|yeah.|S|Bed011
+me045|okay.|S|Bed011
+me010|all right so um so i think the order of things is that um robert will clean this up a little bit although it looks pretty good.|S|Bed011
+me010|and|D|Bed011
+mn015|what|D|Bed011
+mn015|well this is the part that|D|Bed011
+me010|huh?|Q|Bed011
+mn015|this is the part that needs the work.|S|Bed011
+me010|right.|S|Bed011
+me010|yeah so|D|Bed011
+me045|yeah.|B|Bed011
+me010|right.|S|Bed011
+me010|so so um in parallel uh three things are going to happen.|S|Bed011
+me010|uh robert and eva and bhaskara are going to actually build a belief net that that um has c p t's and you know tries to infer this from various kinds of information.|S|Bed011
+me010|and fey is going to start collecting data.|S|Bed011
+me010|and we're going to start thinking about uh what constructions we want to elicit.|S|Bed011
+me010|and then it may iterate on uh further data collection to elicit|D|Bed011
+me045|do you mean do you mean eliciting particular constructions?|Q|Bed011
+me045|or do you mean like what kinds of things we want to get people talking about semantically speaking uh|D|Bed011
+me010|well yes.|S|Bed011
+me010|both.|S|Bed011
+me045|okay.|S|Bed011
+me010|uh and though for us constructions are primarily semantic.|S|Bed011
+me010|right?|Q|Bed011
+me045|right.|S|Bed011
+me010|and and so uh|D|Bed011
+me045|sure.|S|Bed011
+me045|i mean from my point of view i'm i'm trying to care about the syntax so you know|D|Bed011
+me010|well that too.|S|Bed011
+me010|but um you know if if we in if we you know make sure that we get them talking about temporal order.|S|Bed011
+me045|okay.|S|Bed011
+me045|yeah.|B|Bed011
+me010|okay that would be great.|S|Bed011
+me010|and if if they use prepositional phrases or subordinate clauses or whatever.|S|Bed011
+me045|uhhuh.|B|Bed011
+me045|right okay.|B|Bed011
+me010|um|F|Bed011
+me010|you know whatever form they use is fine.|S|Bed011
+me045|okay.|S|Bed011
+me010|but i i think that probably we're going to try to look at it as you know what semantic constructions do we do we want them to uh do|D|Bed011
+me045|okay.|S|Bed011
+me010|you know um caused motion.|S|Bed011
+me010|i don't know.|S|Bed011
+me010|something like that.|S|Bed011
+me045|okay.|B|Bed011
+me010|uh but uh uh this is actually a conversation you and i have to have about your thesis fantasies and how all this fits into that.|S|Bed011
+me045|got it.|S|Bed011
+me045|yeah.|B|Bed011
+me045|uh yeah okay.|B|Bed011
+me010|but uh|D|Bed011
+mn015|well i will tell you the german tourist data.|S|Bed011
+me045|okay.|S|Bed011
+mn015|because i have not been able to dig out all the stuff out of the thirty d v ds.|S|Bed011
+me045|okay.|B|Bed011
+mn015|um if you|D|Bed011
+me045|is that roughly the equivalent of of what i've seen in english or is it|D|Bed011
+mn015|no not at all.|S|Bed011
+me045|okay.|S|Bed011
+mn015|dialogues.|S|Bed011
+me045|okay.|S|Bed011
+mn015|smartkom human.|S|Bed011
+mn015|wizard of oz.|S|Bed011
+me045|okay.|B|Bed011
+me045|same|D|Bed011
+me045|okay that.|S|Bed011
+me045|got it.|S|Bed011
+me045|like what what have i got now?|Q|Bed011
+me045|i mean i have uh what what i'm what i|D|Bed011
+me045|those files that you sent me are the user side of some interaction with fey?|Q|Bed011
+mn015|a little bit of data i|D|Bed011
+me045|is that what it is or|D|Bed011
+mn015|with nothing.|S|Bed011
+me010|no no.|S|Bed011
+me045|just talking into a box and not hearing anything back.|S|Bed011
+mn015|yep.|S|Bed011
+me045|okay.|S|Bed011
+mn015|yep.|S|Bed011
+mn015|some data i collected in a couple weeks for training recognizers and email way back when.|S|Bed011
+me045|okay okay.|S|Bed011
+mn015|nothing to write home about.|S|Bed011
+me045|okay.|S|Bed011
+mn015|and um the|D|Bed011
+mn015|see this this this uh ontology node is probably something that i will try to expand.|S|Bed011
+mn015|once we have the full ontology a p i what can we expect to get from the ontology?|Q|Bed011
+mn015|and hopefully you can sort of also try to find out you know sooner or later in the course of the summer what we can expect to get from the discourse that might you know or the|D|Bed011
+me045|uhhuh.|B|Bed011
+me010|uhhuh.|B|Bed011
+mn015|not the discourse the utterance as it were uh|D|Bed011
+me045|uhhuh.|B|Bed011
+me010|right.|S|Bed011
+mn015|in terms of uh|D|Bed011
+me010|right but we're not expecting keith to actually build a parser.|S|Bed011
+mn015|no no no no no.|S|Bed011
+me045|right right.|S|Bed011
+me010|okay.|S|Bed011
+me010|we are expecting johno to build a parser.|S|Bed011
+mn015|yes.|S|Bed011
+me010|but that's a|D|Bed011
+me045|by the end of the summer too.|S|Bed011
+me010|no.|S|Bed011
+mn015|no.|S|Bed011
+me010|no.|S|Bed011
+me010|uh he's he's hoping to do this for his masters' thesis by a year from now.|S|Bed011
+mn015|but it's sort of it's|D|Bed011
+me045|right.|S|Bed011
+me045|huh!|S|Bed011
+me045|still pretty formidable actually.|S|Bed011
+me010|uh absolutely.|S|Bed011
+me010|uh limited.|S|Bed011
+me010|i mean you know the idea is is|D|Bed011
+me045|yeah.|B|Bed011
+me010|well the hope is that the parser itself is uh pretty robust.|S|Bed011
+me010|but it's not popular it's only only|D|Bed011
+me045|right right.|S|Bed011
+me045|existence proof you know.|S|Bed011
+me045|set up the infrastructure.|S|Bed011
+me010|right.|S|Bed011
+me010|it's only|D|Bed011
+me045|yeah.|B|Bed011
+me010|right.|S|Bed011
+me045|um sometime i have to talk to some subset of the people in this group at least about um what sort of constructions i'm looking for.|S|Bed011
+me045|i mean you know obviously like just again looking at this one uh thing you know i saw things from sort of as general as argument structure constructions.|S|Bed011
+me045|oh you know i have to do verb phrase.|S|Bed011
+me045|i have to do uh uh unbounded dependencies.|S|Bed011
+me045|you know which have a variety of constructions in uh uh|D|Bed011
+me045|instantiate that.|S|Bed011
+me045|on the other hand i have to have you know|D|Bed011
+me045|there's particular uh fixed expressions or semi fixed expressions like get plus path expression for you know how how do i get there.|S|Bed011
+me010|uhhuh.|B|Bed011
+me045|how do i get in.|S|Bed011
+me045|how do i get away.|S|Bed011
+me010|right.|B|Bed011
+me045|and all that kind of stuff.|S|Bed011
+me045|um so there's a variety of sort of different sorts of constructions.|S|Bed011
+me010|absolutely.|S|Bed011
+me045|and it you know it's it's sort of like anything goes.|S|Bed011
+me045|like|D|Bed011
+me010|okay so this is i think we're going to mainly work on with george.|S|Bed011
+me010|okay and|D|Bed011
+me045|okay.|B|Bed011
+me010|let me say what i think is is|D|Bed011
+me010|so the idea is uh first of all i misspoke when i said we thought you should do the constructions.|S|Bed011
+me010|cause apparently for a linguist that means to do completely and perfectly.|S|Bed011
+me010|so what i yeah okay so what what i meant was do a first cut at.|S|Bed011
+me045|uh that's what|D|Bed011
+me045|yeah yeah.|S|Bed011
+me010|okay because uh we do want to get them perfectly but i think we're going to have to do a first cut at a lot of them to see how they interact.|S|Bed011
+me045|of course.|S|Bed011
+me045|right exactly.|F|Bed011
+me045|now it we talked about this before.|S|Bed011
+me045|right?|Q|Bed011
+me045|and i i it would it would be completely out of the question to really do more than say like oh i don't know ten over the summer.|S|Bed011
+me010|yeah.|B|Bed011
+me045|but uh but you know obviously we need to get sort of a general view of what things look like.|S|Bed011
+me045|so|D|Bed011
+me045|yeah.|B|Bed011
+me010|right.|S|Bed011
+me010|so the idea is going to be to do|D|Bed011
+me010|sort of like nancy did in some of uh these papers where you do enough of them so you can go from top to bottom.|S|Bed011
+me010|so you can do you know uh have a complete story of of some piece of dialogue.|S|Bed011
+me045|uhhuh.|B|Bed011
+me010|and that's going to be much more useful than having all of the clausal constructions and nothing else or or or something like that.|S|Bed011
+me045|yeah.|B|Bed011
+me045|sure.|B|Bed011
+me045|yeah.|B|Bed011
+me010|so that the the trick is going to be to take this and pick a some sort of lattice of constructions.|S|Bed011
+me045|uhhuh.|B|Bed011
+me010|some lexical and some phrasal and and you know|D|Bed011
+me045|uhhuh.|B|Bed011
+me010|whatever you need in order to uh be able to then uh by hand you know explain some fraction of the utterances.|S|Bed011
+me045|uhhuh.|B|Bed011
+me045|yeah.|B|Bed011
+me010|and so exactly which ones will partly depend on your research interests and a bunch of other things.|S|Bed011
+me045|uhhuh.|B|Bed011
+me045|sure.|S|Bed011
+me045|okay.|B|Bed011
+me045|but i mean in terms of the sort of level of uh of analysis.|S|Bed011
+me045|you know these don't necessarily have to be more complex than like the out of construction in the b c p paper where it's just like you know half a page on each one or something.|S|Bed011
+me010|correct.|S|Bed011
+me010|oh yeah yeah.|D|Bed011
+me010|a half a page is is what we'd like.|S|Bed011
+me045|yeah.|B|Bed011
+me010|and if if there's something that really requires a lot more than that then it does.|S|Bed011
+me010|and we have to do it.|S|Bed011
+me010|but|D|Bed011
+me045|yeah.|F|Bed011
+me045|for the first cut that should be fine yeah.|S|Bed011
+me010|yeah.|S|Bed011
+mn015|we could sit down and think of sort of the the ideal speaker utterances.|S|Bed011
+mn015|and i mean two or three that follow each other.|S|Bed011
+me045|uhhuh.|B|Bed011
+mn015|so where we can also sort of once we have everything up and running show the tremendous insane inferencing capabilities of our system.|S|Bed011
+me045|uhhuh.|B|Bed011
+mn015|so you know as as the smartkom people have.|S|Bed011
+mn015|this is sort of their standard demo dialogue which is you know what the system survives and nothing but that.|S|Bed011
+me045|uhhuh.|B|Bed011
+me045|uhhuh.|B|Bed011
+mn015|um we could also sort of have the analogen of our sample sentences.|S|Bed011
+mn015|the ideal sentences where we have complete construction coverage and sort of they match nicely.|S|Bed011
+me045|uhhuh.|B|Bed011
+mn015|so the the how do i get to x?|Q|Bed011
+mn015|you know that's definitely going to be uh a major one.|S|Bed011
+me045|yeah.|B|Bed011
+me045|yeah.|F|Bed011
+me045|that's about six times in this little one here so uh yeah.|S|Bed011
+me010|right.|B|Bed011
+mn015|yep.|D|Bed011
+mn015|where is x?|Q|Bed011
+mn015|might be another one which is not too complicated.|S|Bed011
+me045|yeah.|B|Bed011
+me045|uhhuh.|B|Bed011
+mn015|and um tell me something about x.|S|Bed011
+me045|yeah.|B|Bed011
+mn015|and hey that's that's already covering eighty percent of the system's functionality.|S|Bed011
+me010|right but it's not covering eighty percent of the intellectual interest.|S|Bed011
+me045|yeah.|S|Bed011
+mn015|no we can throw in an out of film construction if you want to.|S|Bed011
+me010|no no no.|S|Bed011
+mn015|but|D|Bed011
+me010|well the the thing is there's a lot that needs to be done to get this right.|S|Bed011
+me010|okay i|D|Bed011
+mn015|okay.|S|Bed011
+me010|we done?|Q|Bed011
+mn015|i have one bit of news.|S|Bed011
+me010|good.|S|Bed011
+mn015|um the action planner guy has wrote has written a a lengthy proposal on how he wants to do the action planning.|S|Bed011
+me010|good.|S|Bed011
+mn015|and i responded to him also rather lengthy how he should do the action planning.|S|Bed011
+mn015|and|D|Bed011
+me010|action planning meaning discourse modeling?|Q|Bed011
+mn015|yes.|S|Bed011
+mn015|and i tacked on a little paragraph about the fact that the whole world calls that module a dialogue manager.|S|Bed011
+me010|right.|B|Bed011
+mn015|and wouldn't it make sense to do this here too?|Q|Bed011
+me010|right.|B|Bed011
+mn015|and also rainer malaka is going to be visiting us shortly.|S|Bed011
+mn015|most likely in the beginning of june.|S|Bed011
+me010|uhhuh.|F|Bed011
+me010|i'll be gone.|S|Bed011
+mn015|yeah.|S|Bed011
+mn015|he's just in a conference somewhere and he is just swinging through town.|S|Bed011
+me010|sure okay.|S|Bed011
+mn015|and um making me incapable of going to n a a c l for which i had funding.|S|Bed011
+mn015|but no no pittsburg this year.|S|Bed011
+me045|huh.|B|Bed011
+mn015|when is the uh santa barbara|D|Bed011
+mn015|who is going to|D|Bed011
+mn015|uh should a lot of people|D|Bed011
+mn015|that's something i will would sort of enjoy.|S|Bed011
+me010|probably should go.|S|Bed011
+me010|that was that's one you should probably go to.|S|Bed011
+mn015|yep.|S|Bed011
+me045|how much does it cost?|Q|Bed011
+mn015|there's|D|Bed011
+me045|i haven't planned to go.|S|Bed011
+me010|uh probably we can uh pay for it.|S|Bed011
+me045|okay.|S|Bed011
+me010|um a student rate shouldn't be very high.|S|Bed011
+me010|so if we all decide it's a good idea for you to go then you'll we'll pay for it.|S|Bed011
+me045|right.|S|Bed011
+me045|sure.|B|Bed011
+fe046|then you can go.|S|Bed011
+me010|i mean i i don't have a feeling one way or the other at the moment.|S|Bed011
+me010|but it probably is.|S|Bed011
+me045|okay.|S|Bed011
+me010|okay great.|S|Bed011
+me045|thanks.|S|Bed011

@@ -1,0 +1,91 @@
+A|Do you know anyone that, uh, is, is in a nursing home or has ever been in one?|qy|4646
+B|No.|nn|4646
+B|But I, my grandparents were looking into it before|sd|4646
+B|so I know what they've said.|sd|4646
+A|Uh-huh.|b|4646
+B|Uh-huh.|b^m|4646
+A|Well, I'm trying to think.|^h|4646
+A|My, uh, uh, wife's grandmother had Alzheimer's|sd|4646
+A|and they were going to put her into a, a nursing home|sd|4646
+A|and, uh, they, when they put her in, she had all kinds of trouble|sd|4646
+A|and the nursing home made them come and take her back because she was being a, a, you know, a, a nuisance. Or worse than a nuisance,|sd|4646
+A|I mean  she sort of went, you know, bananas|sd|4646
+B|they thought it was too much of a bother.|bf|4646
+A|and they couldn't, couldn't deal with her|sd|4646
+A|So, I guess you need to, uh, know whether it's a, you know, a no deposit, no return kind of thing whether|sd|4646
+B|Right.|aa|4646
+B|If they're equipped too, to handle the kind of patients you're going to have you know, put in there too.|bf|4646
+A|Yeah.|aa|4646
+B|Because I know my grandparents wanted to have some independence still.|sd|4646
+A|Right.|b|4646
+B|They wanted some place they can go and have their meals and a nurse on staff just in case they needed her|sd|4646
+B|but they wanted to be independent as well. Have their own room.|sd|4646
+A|Right.|b|4646
+A|My grandmother actually was in a, a nursing home that, uh,|sd|4646
+A|there was a retirement hotel and then a, uh,|sd|4646
+A|there was some sort of full-time care place that was also associated with it|sd|4646
+A|so for, uh, the first few years she had her own apartment and, you know, made her own meals sometimes. But could, could also go and eat someplace else.|sd|4646
+B|Uh-huh.|b|4646
+A|And then, uh, as she became less able to take care of herself, then she moved into this other part that was able to, uh, provide full-time care|sd|4646
+A|and, uh, she didn't have to do anything anymore.|sd|4646
+A|But my experience has been that most people that move into nursing homes die very quickly.|sv|4646
+A|And that's|%|4646
+A|I don't know whether that's because they, you know, sort of give up hope once they get in there or what the, the reason is.|sd|4646
+A|But I think the average length of time that somebody lives in a nursing home is only like six months or something.|sv|4646
+B|Well a lot of it's probably to do with the fact that people go to it because they need help.|sv|4646
+A|Yeah.|b|4646
+B|They need health care|sd|4646
+B|so they're already ill before they go.|sd|4646
+A|Right.|b|4646
+B|That's probably a large factor.|sv|4646
+A|Yeah.|b|4646
+A|If, if you can take care of yourself at all or have someone that can take care of you, then you stay where you are.|sv|4646
+A|Then you only go there as a last resort.|sv|4646
+B|Uh-huh.|b|4646
+A|Or people send you there as a last resort.|sd|4646
+B|Right,|aa|4646
+B|right.|aa|4646
+B|That's what my grandparents,|sd|4646
+B|it was just so that the rest of the relatives would have peace of mind knowing that if anything happened, there was somebody there for them.|sd|4646
+A|Uh-huh.|b|4646
+B|So that was their thinking.|sd|4646
+B|Somebody who would know what to do in the event of an emergency.|sd|4646
+A|Right.|b|4646
+B|And also so they could find someplace that they enjoyed while they still had choices to make. So they wouldn't be stuck going into just whatever nursing home was available at the time.|sd|4646
+A|Right.|b|4646
+B|I guess that's a problem too for people. Wait lists and all.|sv|4646
+A|Yeah,|b|4646
+A|I guess.|h|4646
+B|That, uh,|%|4646
+B|you can't always get in when you want too|sv|4646
+B|and of course, you can't just sit around and wait.|sd|4646
+A|Right.|aa|4646
+A|When you need it, you need it  I guess.|sv|4646
+B|Yeah.|b|4646
+B|And the money is also another issue. How you're going to pay for it.|qh|4646
+A|Right.|b|4646
+B|At that stage of life you only have so much money left|sv|4646
+B|and I guess it's not exactly fair for the younger family members to have to put it in their savings.|sv|4646
+A|Yeah.|b|4646
+B|I mean it is kind of fair,|sv|4646
+B|but it's also not fair because they have their own children to raise.|sv|4646
+A|Sure.|b|4646
+B|So it's another problem.|sv|4646
+A|And you probably, if it were you, you probably wouldn't want someone choosing a place for you to live based on lowest price.|sv|4646
+B|Right,|aa|4646
+B|right.|aa|4646
+B|So, it, it's just so complicated anymore, I think|sv|4646
+B|People outlive their savings.|sv|4646
+B|And, with medicine being the way it is, you're extending life where sometimes the quality of living has gone down|sv|4646
+B|and they're not necessarily enjoying life anymore.|sv|4646
+A|Yeah.|b|4646
+A|Well maybe that's the purpose of the nursing home is to have them go someplace where they can see that it's not worth continuing.|sv|4646
+B|It's just a shame that's the way it has to be.|sv|4646
+B|I think  the retirement home idea's a nice idea. To go and find older people and with similar interests and someplace to stay|sv|4646
+A|Yeah.|b|4646
+B|and cause like if your spouse died, all alone, it'd be nice to go someplace with people similar to you. To have friends.|sv|4646
+A|Right.|b|4646
+A|Yeah,|aa|4646
+A|I've known quite a few people that have, uh, gone to retirement communities.|sd|4646
+A|I don't know if they have them back there|sd|4646
+A|but here in California and in|sd|4646

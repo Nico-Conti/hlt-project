@@ -1,0 +1,248 @@
+A|Uh-huh.|fo_o_fw_"_by_bc|2406|0
+B|Okay|b|2406|1
+B|movies.|sd|2406|1
+B|I haven't seen too many lately.|sd|2406|1
+B|I have kids|sd|2406|1
+B|and we went and saw THE RESCUERS DOWN UNDER, Under, over the, the break.|sd|2406|1
+A|Uh-huh.|b|2406|0
+B|Do, do you have kids you take to movies|qy|2406|1
+B|or,|%|2406|1
+A|No,|nn|2406|0
+A|no kids.|sd|2406|0
+B|Yeah.|b|2406|1
+B|It's a Walt Disney movie|sd|2406|1
+B|and it didn't get as, you know, as good a reviews as like the LITTLE MERMAID, their last one, and got all kinds of Academy Awards and things last year.|sd|2406|1
+B|But this one was, I thought was excellent.|sd|2406|1
+B|The ,|%|2406|1
+A|Was that the animated version?|qy|2406|0
+B|Yeah,|ny|2406|1
+B|it's animated.|sd|2406|1
+B|And I can't believe how good they're getting with their animation now.|sd|2406|1
+B|It's just, just the special effects, you know.|sd|2406|1
+B|And in this movie, this, there's this boy|sd|2406|1
+B|and he rescues this, uh, bald eagle|sd|2406|1
+B|and, uh, and it's a huge eagle, you know, wing span of twenty feet or something like that.|sd|2406|1
+B|And the boy actually rides on his back|sd|2406|1
+B|and he rides through the clouds, you know,|sd|2406|1
+B|and you see him coming out of the clouds, his head coming out and then the bird coming out,|sd|2406|1
+B|and it, you know, they're flying all over with it.|sd|2406|1
+B|And I mean, I know they, there must have used, been computers or something for animation this day,|sd|2406|1
+B|but it was just so real, realistic and lifelike and good animation.|sd|2406|1
+B|It was a good show.|sd|2406|1
+A|Even better than ROGER RABBIT insofar as animation?|qy|2406|0
+B|Well, ROGER was a composite one.|arp_nd|2406|1
+A|Yeah .|b|2406|0
+B|There's one, there's a movie I've seen, ROGER RABBIT.|sd|2406|1
+B|That's not a recent movie,|sd|2406|1
+B|but, uh, I enjoyed that show.|sd|2406|1
+A|Yeah,|b|2406|0
+A|that was made in a few, I don't know, several years back, I guess.|sd|2406|0
+B|Yeah,|b|2406|1
+B|yeah.|b|2406|1
+A|Latest, latest one I've saw which was a mistake to go see was LIONHEART,|sd|2406|0
+A|had Claude Van Damme.|sd|2406|0
+B|Uh-huh.|b|2406|1
+A|He was, he's of course, uh, I guess he's trained in this, uh, martial arts of some sort,|sd|2406|0
+A|but the plot was bland,|sd|2406|0
+A|the acting was bland.|sd|2406|0
+A|It was just mostly centered upon his abilities to|sd|2406|0
+B|Chop them up, huh?|^2|2406|1
+A|yeah,|aa|2406|0
+A|chop them up,|b^m|2406|0
+A|exactly.|aa|2406|0
+A|And,|%|2406|0
+B|This is supposed to be the, the guy that's, uh, replaces Bruce Lee or whatever or, or the next Chuck Norris type of guy.|sd|2406|1
+A|Yeah.|b|2406|0
+A|Or he's singular I guess, you know.|sd|2406|0
+A|You know how they can make any of, any single one of them in a movie to be a super superstar of any sort, you know,|sv|2406|0
+B|Uh-huh.|b|2406|1
+B|Superstar.|^2|2406|1
+B|Uh-huh.|b|2406|1
+A|but Chuck Norris, of course, could be just about equal, if not more|sv|2406|0
+B|Uh-huh.|b|2406|1
+A|or, and all of them, I guess, could be in that fashion, or category.|sv|2406|0
+B|Hum.|%|2406|1
+B|Uh-huh,|b|2406|1
+B|uh-huh.|b|2406|1
+A|It was about, uh, a, French Foreign Legion fellow who deserts to go help his brother's wife who got, who became a widow because he was selling drugs|sd|2406|0
+B|.|%|2406|1
+A|and he got killed.|sd|2406|0
+B|Really uplifting, huh|qy|2406|1
+A|So he deserts and goes to New York|sd|2406|0
+A|and he starts out by fighting to make money,|sd|2406|0
+A|and then he moves on to L A to where that, where she is to just help him out.|sd|2406|0
+B|Uh-huh.|b|2406|1
+A|It was really, I mean the Hollywood really must think there's some real dummies out there or something.|sv|2406|0
+A|I don't know|h|2406|0
+B|Yeah,|b|2406|1
+B|I haven't heard, I hadn't heard much about that movie.|sd|2406|1
+B|I,|%|2406|1
+B|other than it was a chop them up movie.|sd|2406|1
+B|But, uh, well, I guess that's one I won't go see|sd|2406|1
+A|Well, it was worth the buck I guess.|sd|2406|0
+B|Oh, you went to the dollar movie?|bf|2406|1
+B|Yeah.|b|2406|1
+B|Yeah,|b|2406|1
+B|they show up at the dollar movie right after they get, come out.|sd|2406|1
+B|You know they're usually not, not that great or didn't do that great anyway.|sv|2406|1
+A|A lot of,|%|2406|0
+B|Let me see.|^h|2406|1
+B|Let me see|^h|2406|1
+B|another movie I watched.|sd|2406|1
+B|Uh, I want to see, uh, that new one, uh, that won all those Academy Awards this year, DANCES WITH WOLVES.|sd|2406|1
+A|Uh-huh.|b|2406|0
+B|I haven't seen that.|sd|2406|1
+B|Have you seen that one yet?|qy|2406|1
+A|Yeah.|b|2406|0
+B|What, what, what,|%|2406|1
+A|I, I absorbed all of that movie in one sitting.|sd|2406|0
+A|Uh, I guess what made it so good was the cinematography,|sd|2406|0
+B|The, the wide open, the spaces,|bf|2406|1
+A|Yeah,|aa|2406|0
+A|and the music|sd|2406|0
+A|and, uh, well, it had an excellent story line.|sd|2406|0
+A|Everything about it was good.|sd|2406|0
+B|Uh-huh.|b|2406|1
+A|Um, I thought an excellent one, too, was MISERY with Kathy Bates and James Caan.|sd|2406|0
+A|I'm not a James Caan fan,|sd|2406|0
+A|but that was a well directed and acted movie.|sd|2406|0
+B|Is that right?|bh|2406|1
+A|I'd recommend it.|sd|2406|0
+A|It's a little on the violent side|sd|2406|0
+B|Uh-huh.|b|2406|1
+A|but then what movie isn't anymore.|qh|2406|0
+B|Right,|aa|2406|1
+B|right.|aa|2406|1
+B|Yeah,|%|2406|1
+B|our movies today, it used to be X|sd|2406|1
+B|and, you know, and P G used to be R|sd|2406|1
+B|and, seems like the rating system, you know, is kind of switching that way a little bit|sv|2406|1
+A|Well, I have no objections to it.|sd|2406|0
+A|It's just, uh,|%|2406|0
+A|and it's a matter of your taste, uh,|sv|2406|0
+B|Yeah,|b|2406|1
+B|yeah.|b|2406|1
+B|Oh, yeah.|b|2406|1
+B|It's just that,|%|2406|1
+B|yeah,|%|2406|1
+B|it's just that the rating system seems, you know, instead of having X now, they have what, N C seventeen?|qy^d|2406|1
+A|Yeah.|ny|2406|0
+B|They just changed it because X had a connotation with it, you know,|sv|2406|1
+B|so,|%|2406|1
+A|And even on those type they don't show what you expect.|sv|2406|0
+B|Right.|b|2406|1
+B|A lot of those are really violent type movies.|sv|2406|1
+A|Right.|b|2406|0
+B|Really gory.|sv|2406|1
+A|Yeah,|aa|2406|0
+A|that seems to be the norm of most movies,|sv|2406|0
+A|but what the hey.|fo_o_fw_"_by_bc|2406|0
+B|Yeah.|b|2406|1
+A|This is America.|fo_o_fw_"_by_bc|2406|0
+B|Let me see.|^h|2406|1
+B|One movie I saw, I guess it was a while back, RED OCTOBER.|sd|2406|1
+A|Yeah.|b|2406|0
+B|Have you seen that one?|qy|2406|1
+A|Yes,|ny|2406|0
+A|I have.|sd|2406|0
+A|That was pretty good.|sd|2406|0
+B|Yeah,|aa|2406|1
+B|I read the book before|sd|2406|1
+B|so I knew the story line going in,|sd|2406|1
+B|but they changed some things in the movie.|sd|2406|1
+B|It wasn't the same.|sd|2406|1
+B|I thought the book was better than the movie,|sd|2406|1
+B|but I thought the movie was really good as well.|sd|2406|1
+A|I always wait for the movie.|sd|2406|0
+A|I don't have time to read the book.|sd|2406|0
+B|Yeah.|aa|2406|1
+B|I don't,|sd|2406|1
+B|I read about one or two thick novels like that a year. You know,|sd|2406|1
+A|Uh-huh.|b|2406|0
+B|that's about all the time I can, I can spare.|sd|2406|1
+B|But that was a good show I thought, you know.|sd|2406|1
+B|I read about how they did, uh, an article on how they did all the special effects with the submarine.|sd|2406|1
+B|You know, that wasn't a real submarine you saw in the water.|sd|2406|1
+B|It was, it was all done in studio with smoke and mirrors and all the Hollywood magic.|sd|2406|1
+A|Yeah.|b|2406|0
+B|All those underwater scenes.|sd|2406|1
+B|I thought, you know,|%|2406|1
+B|it looked to me like it was a real submarine, that was in the water, you know.|sd|2406|1
+A|They ,|%|2406|0
+A|That's the magic of Hollywood, special effects.|sv|2406|0
+B|Yeah.|b|2406|1
+A|I hear this movie F X part two coming out is, uh, pretty good.|sd|2406|0
+B|Is that right?|bh|2406|1
+A|Did you ever see the original one?|qy|2406|0
+B|I didn't.|na|2406|1
+A|It was, uh,|sd|2406|0
+A|you ought to rent the, uh, F X part one.|ad|2406|0
+A|It doesn't say part one,|sd|2406|0
+A|but it, it's F slash X.|sd|2406|0
+B|Huh. What's that about?|qw|2406|1
+A|A, uh, special effects man who somehow gets involved in this, um,|sd|2406|0
+A|oh, I'm not sure.|h|2406|0
+A|I can't remember.|h|2406|0
+A|It's been a while since I've seen it.|sd|2406|0
+A|But he, he gets involved in some sort of bad dealings with somebody|sd|2406|0
+A|and he has to go underground,|sd|2406|0
+A|and he uses all of his special effects knowledge in doing what needs to be done.|sd|2406|0
+B|Hm.|%|2406|1
+A|And, uh,|%|2406|0
+B|To, to fool people|bf|2406|1
+B|and ,|%|2406|1
+A|Right,|aa|2406|0
+A|and using makeup and using the all the props and whatever to get to where he needs to go.|sd|2406|0
+B|All the tricks.|^2|2406|1
+B|Uh-huh.|b|2406|1
+B|That sounds like an interesting concept.|sv|2406|1
+A|But you need to rent the first one first.|ad|2406|0
+B|To understand what's going on in the second?|qy^d|2406|1
+A|Uh, if, if that is that the second one follows the first.|sd|2406|0
+A|I don't know if they have the, uh, original actors on that first one to that one.|sd|2406|0
+B|Uh-huh.|b|2406|1
+B|They're supposed to be coming out with all these Desert Storm movies, this summer, too|sd|2406|1
+A|Oh.|b|2406|0
+A|I expected those.|sd|2406|0
+B|Yeah.|b|2406|1
+A|I mean, Hollywood, I mean they were doing their dealings with that before they even got over there, I think.|sv|2406|0
+B|Yeah.|b|2406|1
+B|Well, they had some,|%|2406|1
+B|in some of those, you know, they, I guess they retitled some movies that were going to be about Lebanese and, and, you know, and, and Americans|sd|2406|1
+A|Uh-huh.|b|2406|0
+B|and they decide, oh, make it Iraqis and Americans, you know,|sd|2406|1
+B|and they just change the title and, uh, and reshot a few parts, you know, where they, yeah, you know, where they could.|sd|2406|1
+B|I guess they figured we wouldn't, can't tell the difference between an,|sv|2406|1
+A|Actual names, will not be used.|bf|2406|0
+B|Yeah.|b|2406|1
+B|Right.|b|2406|1
+A|Eventually I'm sure they will come out with the, the, the proper names.|sv|2406|0
+B|Yeah.|b|2406|1
+B|Right .|aa|2406|1
+B|It was such a,|sv|2406|1
+B|it,|%|2406|1
+B|I guess they, they'll probably come out with a lot of movies, you know.|sv|2406|1
+B|It was, it was such a rout though, you know.|sv|2406|1
+B|I don't know, you know,|h|2406|1
+B|they probably do the story of someone who was shot down early in the war or something and how he survived or, or about, or about those two newsmen or whatever that got captured.|sd|2406|1
+A|Latest story,|^2|2406|0
+A|Uh-huh.|b|2406|0
+A|Kevin Costner I understand is supposed to be play Schwartzkopf, supposedly.|sd|2406|0
+B|Is that right?|qy|2406|1
+A|I don't know.|no|2406|0
+A|That's just one of the many rumors that floats around.|sd|2406|0
+B|Yeah.|b|2406|1
+A|Or what you read.|sd|2406|0
+B|Uh-huh.|b|2406|1
+B|Well, I think we've probably,|sv|2406|1
+A|Pretty much used up the tape, I guess.|^2|2406|0
+B|Yeah,|aa|2406|1
+B|yeah,|aa|2406|1
+B|it's been about five minutes.|sd|2406|1
+B|It's been nice talking with you.|fc|2406|1
+A|Same.|fc|2406|0
+A|And, uh, we'll Talk to you on the next go around.|fc|2406|0
+B|Keep on watching those movies, huh?|ad|2406|1
+B|Okay.|fc|2406|1
+B|Bye-bye.|fc|2406|1
+A|Adios.|fc|2406|0

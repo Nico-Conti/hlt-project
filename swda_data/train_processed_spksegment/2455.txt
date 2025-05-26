@@ -1,0 +1,156 @@
+A|Well I wondered if I was going to get to talk to a male or a female on this type|sd|2455|0
+B|Have you been talking to males?|qy|2455|1
+B|Yeah,|%|2455|1
+B|yeah,|%|2455|1
+B|this is, this is probably more interesting if it had been a male and a female|sv|2455|1
+A|I was afraid we might get into an argument.|sd|2455|0
+B|Right.|aa|2455|1
+A|Well, uh, I guess uh, there have been certainly a lot of changes in the last couple of generations, for, uh, the roles of women|sv|2455|0
+B|Uh-huh.|b|2455|1
+A|and uh, I guess the most significant probably is that so many are working now, And trying to juggle job and home and family and all sorts of other possibilities, you know,|sv|2455|0
+B|Right.|b|2455|1
+A|they may be going to school, or may have elderly parents, or you know all sorts of other things.|sv|2455|0
+B|Yeah,|b|2455|1
+B|it, it seems too me like though that women's roles are changing faster than the men and therefore, the women are spreading themselves thinner, than before.|sv|2455|1
+A|Oh, I think so.|aa|2455|0
+A|Absolutely.|aa|2455|0
+A|I, I, I think it's extremely difficult to keep up with all that we have to these days.|sv|2455|0
+B|Uh-huh.|b|2455|1
+A|Sometimes, I think I am going crazy trying to do it|sd|2455|0
+A|but,|%|2455|0
+B|Do you work outside the home?|qy|2455|1
+A|Yes.|ny|2455|0
+B|Do you have children?|qy|2455|1
+A|Uh, yes.|ny|2455|0
+A|They are getting older now,|sd|2455|0
+B|Uh-huh.|b|2455|1
+A|so they are not quite as much of a responsibility|sd|2455|0
+A|but they are still there, you know,|sd|2455|0
+B|Oh sure.|ba|2455|1
+A|they still take time,|sd|2455|0
+A|and, and I, you know, I still provide most of the things that go on around the house.|sd|2455|0
+B|Right.|b|2455|1
+A|So, uh, yeah|%|2455|0
+A|and for a while I was going to school too,|sd|2455|0
+A|and it was tough.|sd|2455|0
+B|Yeah,|b|2455|1
+B|I uh, I think that while it's a good change for I think women to be able to fulfill their potential in whatever they feel, you know, their expertise may be.|sv|2455|1
+A|Uh-huh.|b|2455|0
+A|Uh-huh.|b|2455|0
+B|Uh, I think sometimes other things suffer and|sd|2455|1
+B|I think it's hard to find a balance there.|sv|2455|1
+A|But in some ways I think we are expected to do it all.|sv|2455|0
+A|You're almost looked down upon if you don't try to do all of these things|sv|2455|0
+A|and that's where the problem is really.|sv|2455|0
+B|Right.|b|2455|1
+B|Yeah,|b|2455|1
+B|yeah,|b|2455|1
+B|I have little children, four and one,|sd|2455|1
+B|and I decided that it was very important to me to stay home.|sd|2455|1
+A|Uh-huh.|b|2455|0
+B|Uh, and when I, I, I happen to, you know be,|%|2455|1
+B|I'm very active with, uh, people, other people with children my age|sd|2455|1
+B|and most of us do tend to stay home,|sv|2455|1
+B|but when I run into people that, you know, just have recently had babies or have very young children and are working full time, I, there's almost a, uh, friction between us.|sd|2455|1
+A|Uh-huh.|b|2455|0
+B|Uh-huh,|b|2455|1
+B|not people that are, you know, necessarily good friends, Even though that has happened too, uh,|sd|2455|1
+A|Yeah.|b|2455|0
+B|it's almost as though it puts you on different sides of a fence.|sv|2455|1
+B|You know|%|2455|1
+B|if you decide to go back to work then you feel like you are always having to defend yourself.|sv|2455|1
+A|Right.|b|2455|0
+B|And if you don't then, sometimes you feel like you're looked down upon by people that go back to work and so you're just wasting your time , at home.|sv|2455|1
+A|Yeah.|b|2455|0
+A|Yeah,|aa|2455|0
+A|it's a tough one.|sd|2455|0
+A|I mean, I've done some of both.|sd|2455|0
+B|Uh-huh.|b|2455|1
+A|I, when my kids were real little, I was at home for a couple of different periods of time.|sd|2455|0
+B|Uh-huh.|b|2455|1
+A|Oh, I think the longest was less than a year,|sd|2455|0
+A|but still at least I was able to, to spend, you know, those first months with them.|sd|2455|0
+B|Right.|b|2455|1
+A|But, uh, I mostly went back to work because I was tired of doing without things.|sd|2455|0
+B|Yeah.|b|2455|1
+A|You know, the money was the issue.|sd|2455|0
+A|But, uh, even now, I would, I would like to not have to work in some ways.|sd|2455|0
+B|Right.|b|2455|1
+A|It, it's kind of pull and tug,|sd|2455|0
+B|Yeah.|b|2455|1
+A|on the other hand, I can't imagine just being at home, uh, although I have a lot of interests and a lot of things I would like to pursue.|sd|2455|0
+B|Uh-huh.|b|2455|1
+A|Uh, still, uh, there's, there's sort of a feeling of accomplishment with having, you know, a job and all that goes with that.|sv|2455|0
+B|No,|aa|2455|1
+B|that, that's definitely true.|aa|2455|1
+B|In fact, I, I work out of my home.|sd|2455|1
+B|Um, I'm an accountant,|sd|2455|1
+A|Oh.|b|2455|0
+B|and I do taxes and bookkeeping|sd|2455|1
+B|and I, uh,|%|2455|1
+B|it was,|%|2455|1
+B|it's a way for me to stay home.|sd|2455|1
+A|Uh-huh.|b|2455|0
+B|And I mean, I still, unfortunately have to be very disciplined in doing my work at five in the morning and ten o'clock at night,|sd|2455|1
+A|Yeah.|b|2455|0
+B|but, uh, but it, it's worked out for, for my family, to have my cake and eat it too, kind of thing.|sd|2455|1
+A|Yeah.|b|2455|0
+A|Yeah,|b|2455|0
+A|that's a good deal.|ba|2455|0
+A|Where do you think this is going in the future,|qo|2455|0
+A|I mean, do you think things are going to change,|qy|2455|0
+A|or are we going to keep having to try to juggle all of this?|qy|2455|0
+B|Well, I, I hope that they will change uh,|no|2455|1
+B|but, but I'm,|%|2455|1
+B|I just,|%|2455|1
+B|I know it's going to be a slow change.|sv|2455|1
+B|Uh, I, I feel as though a lot of people are going back to just having a one wage earner.|sv|2455|1
+B|I mean I'm just thinking of my circle of people that I know.|sd|2455|1
+B|I know quite a few people who have decided to not have both, both, both, uh, couples, you know, both, uh, of the parents work.|sd|2455|1
+A|Yeah.|b|2455|0
+B|And yet, uh, I, I|%|2455|1
+B|I hope to see employer based, you know, helping out. You know, child, uh, care centers at the place of employment and, and things like that, that will help out.|sd|2455|1
+A|Uh-huh.|b|2455|0
+B|What do you think,|qo|2455|1
+B|do you think we are, setting a trend?|qy|2455|1
+A|I don't,|sd|2455|0
+A|yeah,|ny|2455|0
+A|I, well I see, I think some people wanting to stay home more and take care of the children.|sd|2455|0
+B|Uh-huh.|b|2455|1
+A|Uh, and even those who may not do it seem to be spending more time with their kids and really trying harder at making all of the, the family things work.|sv|2455|0
+B|Right.|b|2455|1
+A|Uh, but I don't know if they're going to ever give up their careers, you know.|sv|2455|0
+A|It's sort of like they went to school and they worked so hard to get where they are,|sv|2455|0
+A|I don't know if they want to completely give that up.|sv|2455|0
+B|Right,|aa|2455|1
+B|it's a very personal thing.|sv|2455|1
+A|But, it would be nice if there could be an in-between, a middle ground somewhere.|sv|2455|0
+B|Yeah.|b|2455|1
+B|I think it's hard though when you talk about, about families and, and raising children|sd|2455|1
+B|because I think children have a hard time understanding a middle ground.|sv|2455|1
+B|I think they, uh, they need security|sv|2455|1
+B|and yet they,|%|2455|1
+B|I don't know,|h|2455|1
+B|I,|%|2455|1
+B|from speaking from my children, they aren't real flexible when it comes to things like that.|sd|2455|1
+A|Yeah.|b|2455|0
+B|They, uh, they want to know things are going to be a certain way.|sv|2455|1
+A|Well, yeah,|aa|2455|0
+A|I think they, they like a routine of sorts.|sv|2455|0
+B|Uh-huh,|b|2455|1
+B|right.|aa|2455|1
+B|Well, we will see.|h|2455|1
+B|I, I'm hoping to see more female leadership in our society.|sd|2455|1
+A|Well, yes,|aa|2455|0
+A|I, I like the fact that, you know, gradually you're beginning to see women in public office and executive positions,|sd|2455|0
+A|but it's still a long way from being what it ought to be.|sv|2455|0
+B|Oh, yes,|aa|2455|1
+B|the, the numbers are still very skewed to say the least.|sv|2455|1
+A|Yeah.|b|2455|0
+A|Okay,|%|2455|0
+A|well I enjoyed talking to you.|fc|2455|0
+B|Okay,|fc|2455|1
+B|you too Ellen.|fc|2455|1
+A|All right,|fc|2455|0
+A|good-bye.|fc|2455|0
+B|Bye-bye.|fc|2455|1

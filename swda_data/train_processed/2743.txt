@@ -1,0 +1,88 @@
+A|Okay.|fo_o_fw_"_by_bc|2743
+A|Hi Norma.|fp|2743
+B|Hi.|fp|2743
+A|Have you taken anything back lately, uh, that you've bought?|qy|2743
+B|Well the only thing we've taken back recently are plants.  Shrubbery, that were guaranteed|sd|2743
+A|Well why?|qw|2743
+B|and we had no problem with it.|sd|2743
+A|Very good.|ba|2743
+B|We got our got our money back.|sd|2743
+A|Good.|ba|2743
+A|Well do you think that, uh, consumer goods, goods are generally getting better, or worse in quality?|qy|2743
+B|Well, I believe they're better.|sd|2743
+A|I do too.|aa|2743
+A|I believe about ten years ago that we went through a terrible time,|sv|2743
+A|but I don't,|%|2743
+A|I, I believe that they're better now,|sd|2743
+A|you know,|%|2743
+B|I think so.|sv|2743
+B|I don't think they're shoddy, not as shoddy.|sv|2743
+B|Electrical appliances I think are pretty good, reliable.|sv|2743
+A|however, I didn't like it very well when the transmission went out on my car with sixty-three thousand miles on it.|sv|2743
+B|Right|b|2743
+A|And I don't like it very well if, when my electric blanket that was only one year old went out at, uh, on one side.|sv|2743
+B|Oh, did you return it?|qy|2743
+A|No,|nn|2743
+A|I had moved away.|sd|2743
+B|No,|b^m|2743
+B|uh-huh.|b|2743
+A|I had taken the first one back.|sd|2743
+A|I didn't think that it heated well enough.|sd|2743
+A|It never did get anything but just moderately warm,|sd|2743
+A|took it back|sd|2743
+A|and, uh, the people told me well that's the way it's supposed to be|sd|2743
+A|and I fell for it|sd|2743
+A|and, uh, when I got this one it did, a it heated a little bit warmer|sd|2743
+A|and then after one year it started heating only on one side.|sd|2743
+B|Huh,|b|2743
+B|so either you or your husband can be warm but not both|bf|2743
+A|Also, I took an iron back after having it only one year.|sd|2743
+B|Oh.|b|2743
+A|Now I figure uh, anybody that is dumb enough to iron, needs to have an iron that will last a long time,|sv|2743
+A|and one year of ironing only once a week is not long enough for it to last.|sv|2743
+B|No,|aa|2743
+B|huh-uh.|b|2743
+B|Did they replace it?|qy|2743
+A|Well without even any question,|sd|2743
+A|but I think it was the store.|sd|2743
+B|Uh-huh.|b|2743
+A|Wal-Mart.|sd|2743
+B|Wal-Mart,|b^m|2743
+B|I was going to say, it must have been Wal-Mart.|sd|2743
+A|Yes|aa|2743
+A|And, uh, well, have you been buying any clothes lately? Any new clothes?|qy|2743
+B|I haven't bought any new|ng|2743
+B|well the last thing I bought was a dress last Summer.|sd|2743
+B|And the buttons turned on it over the winter.|sd|2743
+B|The buttons tarnished slightly|sd|2743
+B|and I have not gone back about it.|sd|2743
+A|That was poor quality, I think.|sv|2743
+B|I think it is too,|sv|2743
+B|and it was an expensive dress.|sd|2743
+A|I wondered if it weren't expensive,|sv|2743
+B|Yes|aa|2743
+B|it was.|sd|2743
+A|and they should have put buttons on it that would last forever.|sv|2743
+B|That's right,|aa|2743
+B|that's what I think too.|sv|2743
+B|And one belt loop, the uh, you know, like the chain link, chain belt loop half of it raveled out.|sd|2743
+A|Yes.|b|2743
+B|And that was, I believe a Leslie Faye dress|sd|2743
+B|and it was, I think, over a hundred dollars.|sd|2743
+A|You spent that much on your dresses?|qy|2743
+B|Yeah,|ny|2743
+B|I don't usually,|sd|2743
+B|but I did that one.|sd|2743
+A|You're really divulging very personal information.|sv|2743
+B|But I think it should have been better than that, for that money, is what I mean.|sv|2743
+A|Oh, of course, I do too.|sv|2743
+A|Well I believe that we've been talking about five minutes.|sv|2743
+B|Okay,|b|2743
+B|I think so.|sv|2743
+A|And Norma, it is just wonderful to talk to you.|fc|2743
+B|Good talking to you too,|fc|2743
+B|I've enjoyed it|fc|2743
+A|You are a good one to talk about consumer goods, because you keep up on it all the time.|fc|2743
+B|Well, we'll be talking to you later.|fc|2743
+A|Bye, bye.|fc|2743
+B|Bye, bye.|fc|2743

@@ -1,0 +1,196 @@
+B|So you like to fish, huh?|qy|2874|0
+A|Yeah,|ny|2874|1
+A|I like to,|sd|2874|1
+A|I don't have a boat,|sd|2874|1
+A|but I like to fish|sd|2874|1
+A|and there's a lot of lakes around here.|sd|2874|1
+A|Uh, are there many lakes up there?|qy|2874|1
+B|Yeah,|ny|2874|0
+B|actually there are quite a bit of lakes around me.|sd|2874|0
+B|We uh, we have the, those little, the, the, the Great Lakes, you know,|sd|2874|0
+B|uh, Lake Ontario is right near here.|sd|2874|0
+A|Uh-huh.|b|2874|1
+B|Plus, we're in what's called the Finger Lake Region of New York|sd|2874|0
+B|where there're lots of small lakes everywhere|sd|2874|0
+B|and these are, uh, real good, uh, for, like, you know, bass fishing and so forth.|sd|2874|0
+A|They have mostly small mouth in them|qy^d|2874|1
+A|or,|%|2874|1
+B|No,|nn|2874|0
+B|we have a, actually quite a lot of variety.|sd|2874|0
+B|There's, uh, there's,|%|2874|0
+B|we have large mouth, small mouth, uh, sort of musky, pike, stuff like that.|sd|2874|0
+A|Uh-huh.|b|2874|1
+B|You know, all sorts of fun stuff like that.|sd|2874|0
+B|Uh, we have a pretty large bass masters tournament actually takes place right on Lake Ontario every year.|sd|2874|0
+A|Oh, yeah,|b|2874|1
+A|that's right,|ba|2874|1
+A|uh-huh.|b|2874|1
+B|So it's, it's, that's, a lot of fun.|sd|2874|0
+A|Uh-huh.|b|2874|1
+B|How about you?|qo|2874|0
+B|Do you like, what do you like to go for?|qw|2874|0
+A|Oh, it's, it's, uh,|%|2874|1
+A|I fish for bass,|sd|2874|1
+A|but I hardly ever catch one,|sd|2874|1
+A|but, uh, uh, they have a tail race over in Lake Lavon|sd|2874|1
+B|Yeah.|b|2874|0
+A|and, uh, you know, they wash, when they open up the dam and let out water, they wash down the fish|sd|2874|1
+A|and, uh, you catch that white bass and crappie out of there.|sd|2874|1
+B|Um.|b|2874|0
+A|Every once in a while there'll be striped bass.|sd|2874|1
+B|We have, uh, some friends who live on the lake|sd|2874|0
+A|Uh-huh.|b|2874|1
+B|and, it, the lake it just seems, is, is completely filled with bass to the point where, you know, normally you go, go fishing for bass, you get a lot of sunfish, or, or cat or whatever, and some other strange stuff. *listen|sv|2874|0
+B|But in this particular lake, we went out with some friends, once|sd|2874|0
+B|and we just, every time you tossed the line in, you pull up a five, six, seven inch minimum bass|sd|2874|0
+B|and usually you pull up, you know, thirteen to fourteen inch bass.|sd|2874|0
+A|Wow.|ba|2874|1
+B|Yeah,|aa|2874|0
+B|it's a real, it's a real enjoyable experience to go fishing there because we just, we pull up, you know, bass after bass|sd|2874|0
+A|Uh-huh.|b|2874|1
+B|probably during, during perch season the perch will run in very large schools,|sd|2874|0
+B|so what they'll do is|sd|2874|0
+B|you'll, you'll be sort of boating around,|sd|2874|0
+B|these people own a little row boat,|sd|2874|0
+B|and they'll be boating around|sd|2874|0
+B|and they'll hit a, they'll hit a school of perches in the middle|sd|2874|0
+A|Uh-huh.|b|2874|1
+B|and when they do, you can just drop the lines in and just pull them in one at,|sd|2874|0
+B|they, they just drop it in.|sd|2874|0
+B|They can't pull it in fast enough.|sd|2874|0
+A|What do you, what do you catch perch on?|qw|2874|1
+B|Uh, I, they actually, they,|%|2874|0
+B|according to them, you can catch, when the perch are running, you can catch them on just about anything.|sd|2874|0
+A|Huh.|b|2874|1
+B|They tend to use, I guess worms or some kind of lures sometimes,|sd|2874|0
+B|but, you know, I've,|sd|2874|0
+B|she told me that they will sometimes use corn or anything, you know.|sd|2874|0
+A|Uh-huh.|b|2874|1
+B|They'll,|%|2874|0
+B|corn or salami or bread or anything,|sd|2874|0
+B|they'll, they'll, they'll hit because they're just sort of surrounded, these large schools.|sd|2874|0
+A|Yeah,|b|2874|1
+A|it's,|%|2874|1
+A|sometimes I use corn,|sd|2874|1
+A|but, uh, uh, some fish steal it off the hook sometimes.|sd|2874|1
+B|Yeah,|aa|2874|0
+B|it's a big problem.|sv|2874|0
+A|Yeah,|aa|2874|1
+A|uh, the other day I was fishing with bread, uh,|sd|2874|1
+A|there's a college across the street|sd|2874|1
+B|Yeah.|b|2874|0
+A|and they,|%|2874|1
+A|it's, it's full of carp and, uh, I caught a carp on a, about, what size is that, uh, I think it was a number two treble hook,|sd|2874|1
+B|Um.|b|2874|0
+A|and it's huge,|sd|2874|1
+A|its, its mouth was full of hooks.|sd|2874|1
+B|Wow.|ba|2874|0
+A|So he was in a bad way.|sd|2874|1
+A|But, uh, it's,|%|2874|1
+A|he was fast.|sd|2874|1
+A|He,|%|2874|1
+B|A big one?|qy|2874|0
+A|Yeah.|ny|2874|1
+A|Well, it's, uh, it was sixteen inches long.|sd|2874|1
+B|Wow, that's, that's, that's a nice size carp.|ba|2874|0
+A|Yeah,|ny|2874|1
+A|I think it was about a pound and a half, you know,|sd|2874|1
+A|but all they're good for is the fight.|sv|2874|1
+A|Boy they they really don't want to come out of the water|sv|2874|1
+A|they, they zip through the water, you know,|sd|2874|1
+A|you're, how your line goes, you know|sd|2874|1
+B|Uh-huh.|b|2874|0
+A|and I thought, you know, that, uh, I wasn't going to be able to get it in, because, uh, the one I hooked just about ten minutes before, when I tried to raise it out of the water, it fell off,|sd|2874|1
+A|so it wasn't hooked very well.|sd|2874|1
+A|But, you know, I got it that far,|sd|2874|1
+A|I figured that, uh,|%|2874|1
+B|That, that, that counts.|bf|2874|0
+A|Yeah,|aa|2874|1
+A|that's what I said.|sd|2874|1
+A|That's what I told the guy.|sd|2874|1
+A|The guy was standing there|sd|2874|1
+A|and he laughed when it fell off|sd|2874|1
+A|and I said, that's a quick release, right there.|sd|2874|1
+B|Do you, do you, do you actually like the taste of|qy|2874|0
+B|do you, like, eat the fish that you catch|qy|2874|0
+B|or are you more of a sport fisherman?|qy|2874|0
+A|Uh, catfish, yeah.|sd|2874|1
+A|But, uh, I haven't eaten anything else, you know.|sd|2874|1
+A|Uh, there's some, uh,|%|2874|1
+A|my dad has a farm|sd|2874|1
+A|and there's,|%|2874|1
+A|he has two ponds up there|sd|2874|1
+A|and my uncle has a, a pond upstream|sd|2874|1
+A|and there's a lot of crappie in there now.|sd|2874|1
+A|But, uh, I think he's the only one that's, that's caught enough crappie or, a big enough crappie to eat.|sd|2874|1
+A|But the catfish, there's, you know, there's hundreds of them from like two to six pounds and, that,|sd|2874|1
+A|yeah.|ny|2874|1
+B|Right,|b|2874|0
+B|so you can just, oh,|%|2874|0
+B|because I don't actually like fish.|sd|2874|0
+B|It's sort of,|%|2874|0
+B|so when I fish, it's more for sport than anything else.|sd|2874|0
+A|Yeah,|b|2874|1
+A|and if, you know,|%|2874|1
+A|when you, when you have to look in their eyes and, you know, hit them in the head or whatever, that's what you do with a catfish you know, because you have to sever their spinal cord.|sv|2874|1
+B|Right.|aa|2874|0
+B|And, and, and, and, and be careful you don't get stung.|sv|2874|0
+A|Yeah,|b|2874|1
+A|yeah.|b|2874|1
+B|Yeah,|aa|2874|0
+B|I know it.|sd|2874|0
+B|Have you ever tried, uh, deep sea fishing?|qy|2874|0
+A|Uh, not yet.|ng|2874|1
+A|My brother went off the coast of Maine, uh,|sd|2874|1
+A|when the,|%|2874|1
+A|I don't know,|h|2874|1
+A|what they,|%|2874|1
+A|mackerel|%|2874|1
+B|Yeah.|b|2874|0
+A|that school up there? *listen--is there overlap?|qy|2874|1
+A|It's|%|2874|1
+A|he, he said that it was just like that.|sd|2874|1
+A|They were throwing like, uh, uh, hell benders or, uh, uh, some other kind of treble hook lure|sd|2874|1
+A|and, and, uh, each time they bring them in they'd have at least one,|sd|2874|1
+A|sometimes they've had two on, you know, one on every hook.|sd|2874|1
+B|Yeah,|b|2874|0
+B|we, I was out in Florida with a friend a while ago|sd|2874|0
+B|and we would go and just, uh, drop two, you know, a, a two or three rig, two or three hooked rig as well down off a boat.|sd|2874|0
+B|We just dropped it down there|sd|2874|0
+B|and, the captain had, you know, some kind of sonar in the boat|sd|2874|0
+A|Uh-huh.|b|2874|1
+B|so he'd maneuver us into a school of fish|sd|2874|0
+B|and you just drop it in and and it just,|sd|2874|0
+B|you, you get one or two at a shot, you know|sd|2874|0
+B|and, It's a good deal, too.|sv|2874|0
+A|Yeah.|b|2874|1
+B|It was, it was a, like twenty dollars for six hours of fishing on some big charter boat.|sd|2874|0
+A|Wow.|ba|2874|1
+B|You know, and, and, and they'll clean your fish on a tip basis for you if you want.|sd|2874|0
+A|Yeah,|b|2874|1
+A|down here it's like two hundred dollars a day.|sd|2874|1
+B|Well, this is,|%|2874|0
+B|yeah,|%|2874|0
+B|this, this, this was for a, you know, large,|sd|2874|0
+B|there were maybe thirty of us on the boat.|sd|2874|0
+A|A group party.|bf|2874|1
+B|We, we weren't all related, just, you know, thirty people off the shop in the boat there.|sd|2874|0
+A|Yeah.|b|2874|1
+B|If you want to go on a boat alone, it's like two hundred dollars a day.|sd|2874|0
+A|Yeah.|b|2874|1
+B|But this is great, because it was, I think it was nineteen dollars for five hours and twenty dollars for six hours or something.|sd|2874|0
+A|Uh-huh.|b|2874|1
+B|You know,|%|2874|0
+B|so you'd get to go out there for, for, for six hours and get a nice suntan and bring along some lunch and, and fish all day.|sd|2874|0
+B|It's really nice|sv|2874|0
+B|It's real enjoyable.|sv|2874|0
+A|Yeah.|b|2874|1
+A|Well, I, I don't know if it's been five minutes yet or not.|sd|2874|1
+B|I think we're probably close, though.|sv|2874|0
+A|Yeah.|aa|2874|1
+A|It's nice talking to you.|fc|2874|1
+B|Nice talking to you, too.|fc|2874|0
+B|Good luck with fishing this season.|fc|2874|0
+A|Good luck.|fc|2874|1
+B|Bye-bye.|fc|2874|0
+A|Bye-bye.|fc|2874|1

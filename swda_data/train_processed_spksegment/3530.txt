@@ -1,0 +1,104 @@
+A|What kind of books do you like best?|qw|3530|0
+B|Well, I alternate between Danielle Steele is one of my very favorites|sd|3530|1
+B|and, uh, then I try to go into one of the self improvement books.|sd|3530|1
+B|Uh, we, we take books every once in a while in our Sunday school class and go through them.|sd|3530|1
+B|Uh, I love Scott Peck and his ROAD LESS TRAVELED.|sd|3530|1
+A|Huh, yeah,|b|3530|0
+A|I've heard of that one.|sd|3530|0
+A|I don't think I've read it.|sd|3530|0
+B|Oh, it is it is wonderful.|sd|3530|1
+B|I, I thoroughly enjoyed that.|sd|3530|1
+B|What do you read?|qw|3530|1
+A|Well, uh, I'm a Tom Clancy fan.|sd|3530|0
+B|Okay.|bk|3530|1
+A|And I read,|sd|3530|0
+A|I just finished a book on Novelle Netware, uh,|sd|3530|0
+A|that's computer stuff.|sd|3530|0
+A|I do a lot of computer reading|sd|3530|0
+B|Oh, yes.|b|3530|1
+A|and, uh, I'm just finishing another one up on, uh, statistical sampling,|sd|3530|0
+A|so, I do more work kind of related reading than, uh, just for enjoyment.|sd|3530|0
+B|I, I try to keep a book going all the time.|sd|3530|1
+B|Uh, I try to read when I first wake up in the morning and then before I go to sleep.|sd|3530|1
+B|So I probably get, oh, thirty to fifty pages a day read.|sd|3530|1
+A|Well, that's pretty good.|ba|3530|0
+B|And I just, you know,|%|3530|1
+B|I don't feel like,|%|3530|1
+B|in fact this morning, I was almost late for work because I'm almost at the end of this book|sd|3530|1
+B|and I didn't want to put it down|sd|3530|1
+A|Oh, I've had them like that before, too.|sd|3530|0
+B|But I like, I like mysteries.|sd|3530|1
+A|Mysteries.|b^m|3530|0
+A|Any particular writer?|qy|3530|0
+B|Uh, yes,|ny|3530|1
+B|I like, uh, uh, oh,|sd|3530|1
+B|I'm drawing a blank.|sd|3530|1
+B|Uh, he wrote the, uh, BOURNE ULTIMATUM.|sd|3530|1
+A|Ludwig,|^2|3530|0
+B|Ludwig, yes.|aa|3530|1
+A|Yes.|aa|3530|0
+B|And, uh, I like Jeffrey Archer.|sd|3530|1
+B|He is an English author who writes some mystery.|sd|3530|1
+B|Uh, well, I guess they're, they're a type of mystery.|sd|3530|1
+B|They're usually some|%|3530|1
+B|he's a ex-lawyer|sd|3530|1
+B|so, or, he, he's a lawyer who no longer practices,|sd|3530|1
+B|but his are all, have some part of the law, uh, enveloped in them.|sd|3530|1
+A|So, you kind of learn something as well as enjoy yourself.|sd|3530|0
+B|Right,|b|3530|1
+B|and then, uh, the new author that came out with, uh, oh, the one that, uh, Harrison Ford starred in.|sd|3530|1
+A|RAIDERS OF THE LOST ARK stuff.|^2|3530|0
+B|No,|ar|3530|1
+B|no,|ar|3530|1
+B|it was the, uh,|sd|3530|1
+A|Oh.|b|3530|0
+B|it's late,|sd|3530|1
+B|I'm tired,|sd|3530|1
+B|so I'm not thinking too well.|sd|3530|1
+A|What, what time is it there, ten thirty?|qw|3530|0
+B|Uh-huh.|b|3530|1
+A|Uh, it's nine thirty here.|sd|3530|0
+B|Oh, it's, uh, it was his first book.|sd|3530|1
+B|It came, it was on the top of the list, uh,|sd|3530|1
+B|he was a D A.|sd|3530|1
+A|Uh, PRESUMED INNOCENT?|qy|3530|0
+B|Yes.|ny|3530|1
+A|Oh, I haven't seen the movie, uh, or read the book|sd|3530|0
+B|Okay,|b|3530|1
+B|and then he's, he came out with the second one.|sd|3530|1
+B|Uh, a sequel to it.|sd|3530|1
+B|And both of those I've enjoyed real well.|sd|3530|1
+B|But I, I like that.|sd|3530|1
+B|I love Danielle Steele|sd|3530|1
+B|and, and, you know, if I want to get a fantasy and get away from it all.|sd|3530|1
+A|Is she is she kind of racy?|qy|3530|0
+B|No,|nn|3530|1
+B|no,|nn|3530|1
+B|she isn't at all.|sd|3530|1
+A|Just feel good.|^2|3530|0
+B|Her books, uh,|%|3530|1
+B|you always cry.|sv|3530|1
+A|Oh, really?|bh|3530|0
+B|I mean, it's, it's always good for good tears.|sd|3530|1
+B|Uh, one book that she wrote that's good for both men and women is FINE THINGS,|sd|3530|1
+A|my mother-in-law's a real fan of hers.|sd|3530|0
+B|it's, it's always going to make you have a good cry|sd|3530|1
+B|and you know it's going it turn out good|sd|3530|1
+B|and you're going to be happy in the end|sd|3530|1
+A|Oh, well, that's nice.|ba|3530|0
+B|And I said, you know,|%|3530|1
+B|I don't want anything too real anymore.|sd|3530|1
+B|I have enough of that in my own life.|sd|3530|1
+B|I want, I want happy, fantasy|sd|3530|1
+B|like.|%|3530|1
+A|Yeah.|b|3530|0
+A|Uh, you mentioned Sunday school Ladonna.|sd|3530|0
+B|Uh-huh.|b|3530|1
+A|Uh, do you,|qy|3530|0
+A|are you a BIBLE fan, too?|qy|3530|0
+B|Uh, I, I do my share of it.|na|3530|1
+B|I, I certainly can't say that I understand a lot of it.|sd|3530|1
+A|Oh, yeah,|b|3530|0
+A|but, uh, that's always a challenge.|sv|3530|0
+A|So do you do,|qy|3530|0
+A|my wife talks with other people,|sd|3530|0

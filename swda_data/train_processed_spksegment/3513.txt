@@ -1,0 +1,166 @@
+A|Well, uh, let's see,|^2|3513|0
+A|what type of car do I want?|^2|3513|0
+A|Well, I'd like to have a Corvette.|sd|3513|0
+B|Oh, wow.|ba|3513|1
+A|But my, uh, weekly wages don't apply for me to have that kind of car,|sd|3513|0
+A|so|%|3513|0
+B|Yeah.|b|3513|1
+A|uh, I'm engaged to get married|sd|3513|0
+A|so, I'll more likely get a car for economic reasons.|sd|3513|0
+B|Right.|b|3513|1
+A|Yeah,|b|3513|0
+A|and, uh, so, uh, to drive back and forth to work is all I'll need a car for pretty much.|sd|3513|0
+A|And we have a truck,|sd|3513|0
+A|so probably a economic size car or, uh,|sd|3513|0
+B|What kind of a car do you have now?|qw|3513|1
+A|Right now I have a eighty-seven Cavalier.|sd|3513|0
+A|It's a piece of|sd|3513|0
+B|My car is really old, too,|sd|3513|1
+B|because, uh, I drive out of town a lot of the weekends|sd|3513|1
+A|Uh-huh.|b|3513|0
+B|and, uh, I would like my next car to have good gas mileage.|sd|3513|1
+A|Right.|b|3513|0
+B|And, uh, same here, uh,|sd|3513|1
+B|you know, a nice car, American made|sd|3513|1
+B|and, uh, you know, a, a nice car, but not too expensive,|sd|3513|1
+B|because, uh, I couldn't afford like a brand new like Lamborghini|sd|3513|1
+B|I hardly drive,|sd|3513|1
+A|But while we're talking,|%|3513|0
+A|right|b|3513|0
+B|While we're talking, my next car, I'd like to be sporty and, you know nice,|sd|3513|1
+A|Right.|b|3513|0
+B|but, you know, it's expensive|sd|3513|1
+B|and then insurance is really high for that, too|sd|3513|1
+B|so, Something with a, that's not too sporty because of insurance, then|sd|3513|1
+A|Oh, I know.|ba|3513|0
+A|Right,|b|3513|0
+A|that insurance does come into play.|^2|3513|0
+A|I forgot about that.|sd|3513|0
+B|Yeah.|b|3513|1
+A|What kind of insurance do you have up there|qw^d|3513|0
+A|or is it real high up there?|qrr|3513|0
+B|Uh, no|nn|3513|1
+B|mine just got lowered because I just turned twenty-one|sd|3513|1
+B|and, uh, I'm not sure really how much I pay.|sd|3513|1
+B|I just,|%|3513|1
+B|my mom's helping me out, you know, because I'm a college, I'm in college|sd|3513|1
+B|and, uh, so I just give her the money and take her word for it|sd|3513|1
+A|Right.|b|3513|0
+A|Right,|b|3513|0
+A|I mean that insurance is high dollars.|sd|3513|0
+B|Yeah,|b|3513|1
+B|yeah,|b|3513|1
+B|it is,|sd|3513|1
+B|so,|%|3513|1
+A|But,|%|3513|0
+B|And the more expensive the car, the higher it is|sd|3513|1
+B|so, Unless I win the lottery, I won't be driving, anything too expensive.|sd|3513|1
+A|Right,|b|3513|0
+A|yeah.|b|3513|0
+A|Right.|b|3513|0
+B|I don't plan on buying a car for many, many years|sd|3513|1
+B|so,|%|3513|1
+A|Right,|b|3513|0
+A|yeah.|b|3513|0
+B|I have to make this one last as long as I can.|sd|3513|1
+A|What's everybody drive up there?|qw|3513|0
+B|Uh, in Kenosha?|qy^d|3513|1
+A|I mean in Wisconsin, they drive them little four wheelers or four wheel drive|na|3513|0
+B|Oh, it just is,|%|3513|1
+A|or, do you all need four wheel drives up there because of snow and everything?|qrr|3513|0
+B|Yeah,|ny|3513|1
+B|we, we have a Jeep with four wheel drive because, uh, because of the snow, you mean|sd|3513|1
+B|or,|%|3513|1
+A|Right,|b|3513|0
+A|it never snows down here,|sd|3513|0
+A|so,|%|3513|0
+B|Well, we don't have any snow here now.|sd|3513|1
+A|Really?|bh|3513|0
+B|It all melted.|sd|3513|1
+B|Yeah,|b|3513|1
+B|there is no snow at all.|sd|3513|1
+A|We haven't had snow yet.|sd|3513|0
+A|We usually only get like once a year or so.|sd|3513|0
+B|Huh.|b|3513|1
+A|Kind of strange to you all, huh?|qy|3513|0
+B|Yeah.|ny|3513|1
+B|Yeah,|ny|3513|1
+B|it is.|sd|3513|1
+A|Because, how,|%|3513|0
+A|it's like seventy degrees here right now.|sd|3513|0
+B|Oh, don't tell me that|ad|3513|1
+A|Yep,|b|3513|0
+A|how, how cold is it there?|qw|3513|0
+B|Well, actually, it's been warm,|sd|3513|1
+B|it's in the forties.|sd|3513|1
+A|Really?|bh|3513|0
+B|Yeah,|b|3513|1
+B|and that's, that's really warm.|sd|3513|1
+A|Huh.|b|3513|0
+B|Uh, and it's supposed to rain tomorrow|sd|3513|1
+B|so we,|%|3513|1
+B|I've only seen snow once this year.|sd|3513|1
+B|And it was really bad|sd|3513|1
+B|and then it all melted like within the week.|sd|3513|1
+A|Really?|bh|3513|0
+B|And now there is no snow,|sd|3513|1
+B|so,|%|3513|1
+A|Huh.|b|3513|0
+A|But, um, so what, what is your dream car?|qw|3513|0
+B|Uh, I haven't really thought about it.|sd|3513|1
+B|I'm not too big on cars.|sd|3513|1
+B|I mean, I don't know the names and stuff,|sd|3513|1
+B|but if I were to go to a car lot and like look at them I would pick out one that, you know looked really nice.|sd|3513|1
+A|Uh-huh.|b|3513|0
+A|What's your favorite color?|qw|3513|0
+B|Uh, for a car?|qy^d|3513|1
+A|Yeah.|ny|3513|0
+B|Probably blue. Like if it, you know, was just an average, middle class car.|sd|3513|1
+A|Blue?|bh|3513|0
+B|But if I were to get a sports car, maybe white or red|sd|3513|1
+A|Right|b|3513|0
+A|right.|b|3513|0
+B|Yeah.|b|3513|1
+A|So, what kind of car do you drive right now?|qw|3513|0
+B|Uh, it's a Sky Hawk Buick.|sd|3513|1
+A|Really?|bh|3513|0
+B|Eighty-three,|sd|3513|1
+B|I think.|sd|3513|1
+A|Really?|bh|3513|0
+B|Yeah,|ny|3513|1
+B|uh, like eighty-two thousand miles.|sd|3513|1
+A|Really?|bh|3513|0
+B|Yeah.|ny|3513|1
+A|Oh.|b|3513|0
+B|I'm afraid it's not going to last me that long|sd|3513|1
+B|and I hope it does, though.|sd|3513|1
+A|Yeah.|b|3513|0
+B|It's a two door.|sd|3513|1
+B|I like, I like smaller cars.|sd|3513|1
+B|They're,|%|3513|1
+B|I find them more comfortable to drive.|sd|3513|1
+A|Right,|b|3513|0
+A|does everybody have their windows tinted up there?|qy|3513|0
+B|Uh, no,|nn|3513|1
+B|I don't see too many cars tinted.|sd|3513|1
+A|Everybody has tinted down here.|sd|3513|0
+B|Oh, I'm sure,|ba|3513|1
+B|yeah.|b|3513|1
+B|I could, I could see why.|sd|3513|1
+A|So, you been down here before?|qy|3513|0
+B|Yep.|ny|3513|1
+A|Really?|bh|3513|0
+B|Uh,|%|3513|1
+A|Did you like it?|qy|3513|0
+B|It was busy|sd|3513|1
+A|Yeah,|b|3513|0
+A|it's different I bet, huh.|sd|3513|0
+B|Yeah,|b|3513|1
+B|It was nice.|sd|3513|1
+B|I remember, uh, swimming on Easter day|sd|3513|1
+B|and it was like really cold up here,|sd|3513|1
+B|but came back with a little tan,|sd|3513|1
+A|Right|b|3513|0
+B|so that was nice|sd|3513|1
+A|It's like, you know,|%|3513|0
+A|everybody freaks out when it|sv|3513|0

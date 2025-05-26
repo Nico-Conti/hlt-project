@@ -1,0 +1,186 @@
+A|There a lot of places to camp in Dallas?|qy^d|2930
+B|Well, not necessarily in Dallas,|ng|2930
+B|but it's a very short drive to areas near here.|sd|2930
+A|Uh-huh.|b|2930
+A|Do you do a lot of camping?|qy|2930
+B|Well, I have done camping in the past.|na|2930
+B|Uh, I can't remember when the last time I actually went camping was.|sd|2930
+B|It was, uh, several years ago,|sd|2930
+B|and then I did most of my camping in the mountains.|sd|2930
+A|Uh-huh.|b|2930
+A|Well, that must have been fun though.|qy^d|2930
+B|Well, it is.|na|2930
+B|I enjoy hiking and camping.|sd|2930
+B|We went to the|sd|2930
+B|. I have, uh, some land there,|sd|2930
+B|and so it's, it's handy to, to station yourself there on the land and then make trips up into the mountains for backpacking and hiking and, and overnight camping.|sd|2930
+A|Uh-huh.|b|2930
+A|Well, that sounds fun.|ba|2930
+B|Do you do most of yours in tents?|qy|2930
+A|Yeah,|ny|2930
+A|we've done ours,|sd|2930
+A|I've only been camping twice.|sd|2930
+B|Oh, wow.|ba|2930
+A|And one of them I don't really consider camping.|sd|2930
+B|Um.|b|2930
+A|It was on the edge of the lake|sd|2930
+A|and it was at a camp.|sd|2930
+A|I don't like those camping grounds where, you know, you got R V beside you and then another people in tents beside you.|sd|2930
+B|Uh-huh.|b|2930
+B|Uh-huh.|b|2930
+A|I just don't care for that.|sd|2930
+B|No,|aa|2930
+B|I agree with you.|aa|2930
+B|I think it's much nicer when you can really get out far enough away where,  that you can't see people right out the window.|sv|2930
+A|Uh-huh.|b|2930
+A|Right.|b|2930
+B|But,|%|2930
+A|Well, it doesn't, uh,|%|2930
+A|we, uh,|%|2930
+A|four years ago,|%|2930
+A|it was about four years ago, my little boy was three months old|sd|2930
+A|and the first time I left him we went overnight camping.|sd|2930
+B|Uh-huh.|b|2930
+A|And we went, and we found this little peninsula out in the middle of nowhere by the lake.|sd|2930
+A|And we had a ball.|sd|2930
+B|Uh-huh.|b|2930
+A|Just sat out there with our,|sd|2930
+A|we didn't even use tents then,|sd|2930
+A|we just had, uh, sleeping bags and fire going.|sd|2930
+B|Uh-huh.|b|2930
+A|And we fried potatoes and bacon and everything for breakfast the next morning.|sd|2930
+B|Doesn't that always taste so much better,  when you're out like that.|qy^d|2930
+A|Oh, it did,|na|2930
+A|it did.|na|2930
+B|Yeah.|%|2930
+A|I didn't even think about frying potatoes.|sd|2930
+A|But my sister-in-law, she's always done a lot of camping.|sd|2930
+B|Uh-huh.|b|2930
+A|And she's good.|sd|2930
+A|She'd think about bringing a rake so you can rake your area out.|sd|2930
+A|And, yeah.|b|2930
+B|That's right.|b|2930
+B|If you don't you'll find every rock on it when you put your when you put your bag down.|sv|2930
+A|Uh-huh.|b|2930
+A|Well,|%|2930
+A|yeah,|%|2930
+A|she was, she is always prepared,|sd|2930
+A|I mean, she brought everything from, like I said, toilet paper to the rake.|sd|2930
+A|The only thing we'd had to do, we had to go out looking for some kind of a grill, you know.|sd|2930
+B|Uh-huh.|b|2930
+A|We, and we, and we seen this old refrigerator that somebody had dumped|sd|2930
+B|Uh-huh.|b|2930
+A|and we broke the, I guess it's the freezing component|sd|2930
+B|Uh-huh.|b|2930
+A|and we broke that out of there and put it over our, um, hole.|sd|2930
+B|Oh, what a clever idea|ba|2930
+A|Yeah.|b|2930
+B|I wouldn't have thought about that.|sd|2930
+A|Well, it held our pan and, you know, the potatoes and stuff.|sd|2930
+A|We had a good time.|sd|2930
+B|Oh, that's a good idea.|ba|2930
+A|Yeah,|b|2930
+A|we're still waiting to go again.|sd|2930
+B|Uh-huh.|b|2930
+B|Well if you get a chance,|sd|2930
+B|now there are some really nice camping areas, uh, up in the Wichitas, which is in Oklahoma and, uh, Arkansas.|sd|2930
+A|Uh-huh.|b|2930
+A|Arkansas.|b^m|2930
+B|I can't remember the name.|sd|2930
+B|It's, it's on the Oklahoma-Arkansas border.|sd|2930
+A|Uh-huh.|b|2930
+B|And it won't take but just a, you know, just a quick look at a map to find where those mountains are,|sd|2930
+A|Uh-huh.|b|2930
+B|but I took a drive up through there, as a matter of fact, last September, just took the drive through to see what was there.|sd|2930
+A|Uh-huh.|b|2930
+B|They have some wonderful camping areas there.|sd|2930
+A|Pretty.|qy^d|2930
+B|Beautiful, beautiful country.|na|2930
+A|Well, I love to swim,|sd|2930
+A|so I like to get out by a lake or a, uh, you know, somewhere close where we can swim.|sd|2930
+B|Uh-huh.|b|2930
+B|Yeah.|b|2930
+B|Right,|b|2930
+B|well, Lake, Lake Tawakoni is a pretty nice place|sd|2930
+A|Uh-huh.|b|2930
+B|and we had a two bedroom mobile home there,|sd|2930
+B|but the boys still liked to throw their sleeping bags out by the lake and build a little fire and roast their marshmallows until the mosquitos bit and then they came in.|sd|2930
+A|Uh-huh.|b|2930
+A|Yeah.|b|2930
+A|How old are your boys?|qw|2930
+B|Oh, oh they're grown now.|sd|2930
+A|Oh, so they don't go camping with you.|qy^d|2930
+B|They go camping on their own.|ng|2930
+A|Oh.|b|2930
+B|Once you start them, they enjoy it all their lives.|sv|2930
+A|Yeah,|b|2930
+A|well, I haven't taken my little boy yet.|sd|2930
+B|Uh-huh.|b|2930
+A|I'm afraid to get him out.|sd|2930
+A|He is so fearless, he, it terrifies me.|sd|2930
+B|Uh-huh|b|2930
+A|He,|%|2930
+B|Oh, don't be concerned.|ad|2930
+B|There's much less for them to get hurt on camping than there is elsewhere.|sv|2930
+A|Think so?|qy|2930
+B|Uh-huh.|ny|2930
+A|Well, it's the water he's not scared of.|sd|2930
+A|He'll go out into it until it's up to his nose and then try to tread back|sd|2930
+B|Uh-huh.|b|2930
+B|Uh-huh.|b|2930
+B|Well, it's easy to keep him occupied though on land.|sd|2930
+B|I know that I took my kids, we'd go out,|sd|2930
+B|and I've them walk with me along the lakefront|sd|2930
+A|Uh-huh.|b|2930
+B|and we'd have a little contest finding the tiniest shell, and finding the biggest shell.|sd|2930
+B|And, or we'd hunt pine cones or we climbed some, uh, pinon pines one year and gathered the cones so that we could eat the pine nuts.|sd|2930
+A|Uh-huh.|b|2930
+A|Uh-huh.|b|2930
+B|And, we did a lot of naturalist work when we were out.|sd|2930
+B|We, you know, we,  we searched for|sd|2930
+A|Uh-huh.|b|2930
+B|and we ate the wild plants|sd|2930
+B|and we gathered wild berries,|sd|2930
+B|and, uh, it's really, you know|%|2930
+A|Yeah.|b|2930
+B|the, the mountains can accommodate you if you know what to find.|sv|2930
+A|If you know what to look for.|fo_o_fw_"_by_bc|2930
+B|Uh-huh.|aa|2930
+B|I had my boys build their own little you know, three leg camp stools by cutting a branch off the tree and binding them together with bark.|sd|2930
+A|Well, that sounds so neat.|ba|2930
+B|And, uh, we cooked in a pot.|sd|2930
+B|I baked them a cake, right there on a camp fire.|sd|2930
+B|They were so impressed.|sd|2930
+A|Yeah.|b|2930
+B|I used a tire chain and the bottom of a Dutch oven.|sd|2930
+A|Well, I'm impressed|sd|2930
+A|My mother-in-law|sd|2930
+A|and my,|%|2930
+A|well, they've always done a lot of camping.|sd|2930
+A|I grew up in Louisville, Kentucky|sd|2930
+A|and there wasn't,|%|2930
+A|I don't know,|h|2930
+A|but we just didn't get out.|sd|2930
+A|My mother and my father split up when we were young,|sd|2930
+A|so, and my mother wasn't into that,|sd|2930
+A|and that's who I stayed with.|sd|2930
+B|Uh-huh.|b|2930
+A|So we didn't do much outdoors stuff, except swimming|sd|2930
+B|Uh-huh.|b|2930
+A|and we went swimming a lot.|sd|2930
+B|Uh-huh.|b|2930
+A|And, uh, oh, excuse me, my baby's getting sick.|sd|2930
+B|Uh-oh.|b|2930
+A|I know.|ba|2930
+B|Well, if our time is up we can quit.|ad|2930
+A|Yeah,|aa|2930
+A|um, I've got to clean her up|sd|2930
+A|I'm sorry,|fa|2930
+A|appreciate it.|sd|2930
+B|Okay.|b|2930
+B|Uh-huh.|b|2930
+A|I enjoyed talking.|fc|2930
+A|Thank you.|fc|2930
+B|You bet,|fc|2930
+B|bye-bye.|fc|2930
+A|Bye-bye.|fc|2930

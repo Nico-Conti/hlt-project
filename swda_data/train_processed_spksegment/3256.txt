@@ -1,0 +1,96 @@
+A|Well I did hear the end of the prompt this time.|sd|3256|0
+A|Was that you, that we didn't hear the whole prompt?|qy|3256|0
+B|Yes,|ny|3256|1
+B|Yes,|ny|3256|1
+A|And it said that what, what do we, do we think that certain crimes should fit certain punishments,|sd|3256|0
+A|and, uh, I was thinking about it after I got off the phone, that, that I really, you know, wish that there was some way to, uh, send a message to people, you know, about, um, child abuse and things like that|sd|3256|0
+B|Uh-huh.|b|3256|1
+A|that, uh,|%|3256|0
+A|those kind of crimes deserve some kind of severe punishment.|sv|3256|0
+A|Too often I feel that people get off, uh, without,|sv|3256|0
+B|Yeah,|aa|3256|1
+B|I, I agree with you, although I will say,|aa|3256|1
+B|I'm not sure, you know,|h|3256|1
+B|I sometimes have a problem with some of the, especially more famous people who all of a sudden are crawling out of the woodwork to say that whatever problems they have, you know, was, was because they were abused abused as children.|sd|3256|1
+B|And the parents are saying, Hey, wait a minute,|sv|3256|1
+B|we didn't do anything like that you know,|^q|3256|1
+A|Uh-huh.|b|3256|0
+B|and, and, and I guess before I'd like to see that severe of a punishment for it it has to be a, an absolute certainty you know, like, uh, caught at it, or something|sd|3256|1
+A|Uh-huh.|b|3256|0
+A|Right,|aa|3256|0
+A|right,|aa|3256|0
+B|you know, or if they, they, uh, you know, severely beat up on a child, or, you know, I would have absolutely no problem at all you know, with, with,|sd|3256|1
+A|Yeah,|b|3256|0
+B|I don't buy the routine, oh they're just sick,|sd|3256|1
+B|or they were abused when they were little|sd|3256|1
+A|Uh-huh.|b|3256|0
+B|well, you know, forget that.|sv|3256|1
+A|Yeah,|aa|3256|0
+A|well, sometimes they even wonder when, when, uh, criminals plead temporary insanity for, for for crimes that are so severe and then, you know, they get sent to a mental institution|sv|3256|0
+B|Uh-huh.|b|3256|1
+A|and they play loony for a while,|sv|3256|0
+A|and then they're back out in public.|sv|3256|0
+B|Well, but I can't see that either.|sd|3256|1
+B|I don't feel that that should be any excuse at all or any deterrent uh, you know reason to not use capital punishment.|sv|3256|1
+A|Yeah.|b|3256|0
+A|Yeah,|aa|3256|0
+A|oh, I agree,|aa|3256|0
+A|I agree,|aa|3256|0
+A|because we,|%|3256|0
+B|I think, uh, I think if I wanted to badly enough, I could convince somebody, uh, I was crazy|sv|3256|1
+B|so, my family may say that on occasion,|sd|3256|1
+B|who knows|h|3256|1
+A|Uh-huh.|b|3256|0
+A|Yeah,|aa|3256|0
+A|yeah,|aa|3256|0
+A|well, and too, you know, they can always be blaming the other person,|sv|3256|0
+A|well, she looked like my mother who abused me when I was a child, or something, which I think is, unfortunate for that person and yet shouldn't be an excuse.|sv|3256|0
+B|Uh-huh.|b|3256|1
+B|Uh-huh,|b|3256|1
+A|I guess, you know, a lot of,|%|3256|0
+A|and I was just seeing in the newspaper or the grocery store that some Miss America was abused by the man she loved|sd|3256|0
+A|and,|%|3256|0
+B|That's the new one.|sd|3256|1
+A|Is that the new,|%|3256|0
+A|I just happened to see the headline on it,|sd|3256|0
+A|and I didn't, couldn't realize if it was the husband or the father or what,|sd|3256|0
+A|but I thought, uh, you know, if these things, if children are being abused, I, I'm wondering how our school system is failing, that they're not even seeing this, you know,|sd|3256|0
+A|if it was that severe that when they're later in life adults, that it's all of a sudden affecting them in this way, that it wasn't shown up at all when they were younger,|sv|3256|0
+A|and that kind of, that kind of worries me with my kids only being under two and not having, you know, to, to deal with that yet,|sd|3256|0
+A|but still.|%|3256|0
+B|Well, you, you're right, uh,|aa|3256|1
+B|and yet, I mean, did you ever in your life when you were little know anybody or hear anything of anything like this?|qy|3256|1
+A|Never|ng|3256|0
+B|No,|bk|3256|1
+A|and I lived in California which I feel like California, you know,|sd|3256|0
+A|anything can go on in California.|sd|3256|0
+B|well, yes,|b|3256|1
+B|I, but I was from conservative Wisconsin|sd|3256|1
+B|and, uh, you know, there was, there was, nothing on it,|sd|3256|1
+B|which makes me wonder, you know, if it's as, uh, prevalent as, as some of them claim.|sd|3256|1
+A|Yeah.|b|3256|0
+B|It, uh, it, it, it's,|%|3256|1
+B|you just don't know,|sv|3256|1
+B|and it all,|%|3256|1
+B|unless they're caught in the act or the child is very badly, you know, beaten up, it comes down to a one word against the other that type thing.|sv|3256|1
+A|Uh-huh,|aa|3256|0
+A|uh-huh.|aa|3256|0
+B|Now, Texas, is capital punishment for,|%|3256|1
+B|it used to be just capital murder,|sd|3256|1
+B|and now they added mass murder.|sd|3256|1
+B|Are those the only two things that we, uh|qy|3256|1
+A|I really would have no idea. I, um, I don't, don't really know.|no|3256|0
+B|uh, you know, because I have a feeling it is,|sd|3256|1
+B|and I, I think there ought to be more things added to it.|sv|3256|1
+A|Uh-huh|b|3256|0
+B|Uh,|b|3256|1
+A|that would be pretty lenient in my opinion.|sv|3256|0
+B|Yeah,|aa|3256|1
+B|I, I think that's, I, you know, uh,|%|3256|1
+B|killing a child, or kidnapping, uh,|%|3256|1
+B|and possibly not, well,|%|3256|1
+B|I guess kidnapping maybe if the person gets very badly hurt, you know,|sv|3256|1
+B|if they release them two hours later, he probably doesn't deserve the death penalty,|sv|3256|1
+A|Yeah,|aa|3256|0
+A|that's, that,|%|3256|0
+A|or like when, uh, I've heard when I,|%|3256|0

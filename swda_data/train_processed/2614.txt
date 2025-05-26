@@ -1,0 +1,249 @@
+A|Well thanks for being home, uh, on the weekend,|ft|2614
+A|I, uh, I'm actually working at night|sd|2614
+A|and, uh, there very few people that are on the list for calls, uh, on the weekends nights.|sd|2614
+B|Uh-huh,|b|2614
+B|yeah,|b|2614
+B|well sometimes I'm home|sd|2614
+B|and sometimes I'm not,|sd|2614
+B|but if I am it's always fun to talk.|sd|2614
+A|Are, are you part of the school system out there?|qy|2614
+B|I am, as a matter of fact.|na|2614
+B|I'm at, uh, North Carolina State.|sd|2614
+A|Uh, the reason I said that because I've had about, uh, three calls and my daughter had one, too, from different students out of North Carolina.|sd|2614
+A|I guess they pass the names amongst your computer students, or whatever.|sv|2614
+B|Yeah,|b|2614
+B|I think I was the one who did that actually.|sv|2614
+A|Oh is that|bh|2614
+A|great,|ba|2614
+A|great.|ba|2614
+B|Yeah,|b|2614
+B|I had a, uh,|%|2614
+B|I teach a course in Voice I O Systems.|sd|2614
+A|Oh, is that right?|bh|2614
+A|That's wonderful.|ba|2614
+B|So, I know, uh, you know, I know about this project,|sd|2614
+B|so I got my students to sign up|sd|2614
+B|and, uh, apparently a number of them have been participating.|sv|2614
+A|Oh, yeah,|b|2614
+A|I talked to one,|sd|2614
+A|we're not on the subject. Of course,|sd|2614
+A|I talked to one,|sd|2614
+A|I think he had a whole bunch of calls.|sv|2614
+A|He had a roommate that had calls and everything.|sd|2614
+B|Uh-huh.|b|2614
+A|He had way more, twice as many calls as, as I've made, uh,|sd|2614
+A|and I, I'm,|%|2614
+A|of course, we at T I just hoping it works out that the new products that they come out will, uh, sell like gang books, busters, really.|sv|2614
+B|Yeah.|b|2614
+A|Okay,|b|2614
+A|you first on the subject,|ad|2614
+A|what do you think, about Latin America?|qw|2614
+B|Uh, let's see,|^h|2614
+B|the subject is, Latin America.|sd|2614
+A|Latin America,|b^m|2614
+A|yeah.|%|2614
+B|I don't know whether I have any real profound thoughts about that,|h|2614
+B|I actually was planning a trip to Latin America|sd|2614
+B|and I got warned off by some people.|sd|2614
+B|They say Peru can't be traveled to|sd|2614
+B|and the crime rate in Brazil makes it not a pleasant place to go and so on and so forth.|sv|2614
+A|Oh, really.|b|2614
+A|T I had a place,|sd|2614
+A|I'm not too sure,|h|2614
+A|I don't think they do anymore,|sd|2614
+A|down,|%|2614
+A|I think it was Campinas,|sv|2614
+A|I'm not sure|h|2614
+A|and, uh, I guess we were selling parts to the automotive industry, or whatever.|sd|2614
+A|And they had quite a few, uh, locations,|sd|2614
+A|not quite a few, several, in Latin America.|sd|2614
+A|I think the one in New Mexico is closed|sd|2614
+A|and I think the one in, in Brazil is closed,|sd|2614
+A|but I, I don't know why that is a problem down there|sd|2614
+A|and I guess the crime rate is terrible up here too|sv|2614
+A|and, uh, an|%|2614
+A|some people say go to New York,|sd|2614
+A|but I don't, I don't have an answer to the crime rate.|sd|2614
+A|It's sad.|sv|2614
+A|That is a sad situation.|sv|2614
+A|I, I'd like to go down to Mexico, you know,|sd|2614
+A|and I keep hearing that, you know, the government and, and the crime rates pretty high too,|sd|2614
+A|that, that is sad. Uh, not that we can, uh, sell any great program we have with crime,|sv|2614
+B|Yeah.|b|2614
+A|but, uh. I think, uh, I'm kind of like you,|sv|2614
+A|I don't have any strong opinions on it.|sd|2614
+A|I guess maybe that's our biggest problem we have with our, our neighbors down there is that we don't have any.|sv|2614
+A|We have more,|%|2614
+A|I guess ties,|%|2614
+A|we in the United States have more ties to Europe and everything|sd|2614
+A|and we don't really, aren't that close to everyone in South America.|sd|2614
+A|I don't really know why though.|sd|2614
+B|Yeah,|b|2614
+B|I, I don't understand it either, although I, I think a lot of South Americans regard the United States as, as bullying.|sv|2614
+B|And, uh, that's certainly from a historical point of view, would be true.|sv|2614
+A|Right.|b|2614
+B|I mean certainly we took far more from Mexico than Saddam Hussein ever dreamed of taking, in, in his wildest dreams from his neighbors.|sv|2614
+A|Right.|b|2614
+A|Yeah,|b|2614
+A|I know that I saw in a book,|sd|2614
+A|I was reading a Spanish book, uh, not that I read Spanish, you know,|sd|2614
+A|I just, you know, reading some Spanish words|sd|2614
+A|and there was a comment in there about the Mexicans don't really want us to say, we're Americans.|sd|2614
+A|They would like to say that we're North Americans because they're Americans too, you know,|sd|2614
+A|and I guess that's true.|sv|2614
+A|We don't think of any one else but|sv|2614
+A|I guess, we're kind of, uh, the smart asses in the world, I suppose, uh, or of America anyway.|sv|2614
+A|We think of ourselves as the only Americans, when they're Americans, too.|sv|2614
+B|Yeah,|b|2614
+B|well I think they're going to have,|sv|2614
+B|that's a tough row for them to, to hoe because I think most of the world is going to regard, uh, citizens of the United States as Americans and citizens of Mexico as Mexicans.|sv|2614
+A|As Mexicans,|^2|2614
+A|yes|b|2614
+A|that, that,|%|2614
+B|And they can stand on their heads if they want too,|sv|2614
+B|but I don't think that they're going, they're going to change that,|sv|2614
+B|and,  and, and really, I mean North Americans I think are, when you say that even, I I mean, I tend to think of Americans and Canadians.|sv|2614
+A|No,|aa|2614
+A|no,|aa|2614
+A|I know.|sd|2614
+B|I just don't think of Mexicans as being North Americans, although, I guess, strictly speaking they are.|sv|2614
+A|Yeah,|aa|2614
+A|no,|aa|2614
+A|I mean they were saying that of us, that we're the North Americans and they're Americans,|sv|2614
+A|they, they,|%|2614
+A|we always say we're Americans,|sv|2614
+A|and they, they want us to say we're the North Americans.|sv|2614
+B|Oh, I see|b|2614
+A|We're not Americans,|sv|2614
+A|we're North Americans|sv|2614
+A|and they're South Americans,|sv|2614
+A|yeah.|%|2614
+B|I don't know.|h|2614
+A|Whatever,|sv|2614
+A|I, I don't want to make,|sd|2614
+A|I read it somewhere, though|sd|2614
+A|it's not my point, I guess,|sv|2614
+A|so|%|2614
+B|Yeah,|b|2614
+B|well it's, it's so interesting, I I just don't think Mexico's problems are going to be cured by semantics.|sv|2614
+A|No,|aa|2614
+A|no,|aa|2614
+A|they, they were lucky enough to have some oil, what, ten years ago, an,|sv|2614
+A|and they, they blew all that, and borrowed more money than they can pay back now|sv|2614
+A|and, uh, uh, so they're not exactly business men.|sv|2614
+A|I do think we should deal more with them.|sv|2614
+A|I don't, I do have a lot of sympathy in that we're here in Texas, uh,|sd|2614
+A|for the language, you know, is very foolish.|sd|2614
+A|I'm relatively familiar with Texas school system|sd|2614
+A|and we should teach Spanish at least in, uh, grammar school, you know four or five grades of it so that we can speak Spanish.|sd|2614
+A|I think that helps, when you certainly can speak their language, uh,|sv|2614
+A|and there are problems with, you know, the wet back problem, you know,|sv|2614
+A|for, everyone knows what we're talking about,|sv|2614
+A|say wet back problem.|sv|2614
+A|And then we should somehow, uh,|sd|2614
+A|and I think the governments are working on that, to try to have some, uh, businesses, uh, at the borders of both sides so that you can, you don't have this problem of them trying to come up here an, to, to get the jobs, you know,|sv|2614
+A|there, there may be some organized way to do this.|sv|2614
+B|Yeah.|b|2614
+A|I, I do feel for them, uh,|sd|2614
+A|they are very envious of us, or they wouldn't be coming up here, you know, risking a lot.|sv|2614
+A|Not that they're risking their lives, of course, but risking a lot, uh,|sv|2614
+A|getting thrown back I guess is all that, uh, happens.|sd|2614
+B|Yeah.|b|2614
+A|You probably don't see that.|sv|2614
+A|Where,|%|2614
+A|we see it, you know, once a month. I'm sure in San Antonio they see it more often than that.|sv|2614
+B|Well I grew up in Los Angeles.|sd|2614
+A|Okay,|b|2614
+A|well you see it, saw it out there then, too.|sd|2614
+B|And, uh, in fact, I drove a cab when I was a graduate student|sd|2614
+B|so I, I knew, uh, the Hispanic part of L A pretty well.|sd|2614
+A|Uh-huh.|b|2614
+B|And certainly, you know, knew that problem,|sd|2614
+B|knew, you know, knew about apartment houses that would have eight or ten or twelve people living in them, sleeping in the same bed in shifts and all that.|sd|2614
+A|Yeah.|b|2614
+B|And, uh, it was, it was pretty wild.|sd|2614
+A|I think a, a common factor to a lot of problems, both, whether it be crime, if, if you want to jump on that, is mostly, uh, poverty.|sv|2614
+A|Uh, and I think a lot of their problems is poverty.|sv|2614
+A|If we could, uh, uh,|sv|2614
+A|the problems we have, in this country, is, is a lot of it's poverty.|sv|2614
+A|Whether it's the people aren't trying hard enough to get out of poverty, I, that's another story,|sv|2614
+A|but, uh, uh, it is sad.|sd|2614
+A|There, there's so much down in all of South America, uh, so much potential, you know,|sv|2614
+A|we're,|%|2614
+A|T I, of course is, is really pushing world markets in their products|sd|2614
+A|and they're, they're mostly in, in Europe now and, in, in, in the Orient, Japan and Singapore now just announced building a plant in Singapore, uh,|sd|2614
+A|they're in Taiwan and Japan|sd|2614
+A|and they're, they haven't had, what, that much luck in South America|sd|2614
+A|and there's got to be a lot of potential for business down there, for the products certainly that we make and everything.|sd|2614
+B|Yeah.|b|2614
+A|And there's got to be trade.|sd|2614
+A|I guess that's some of the answer, I guess is business, uh. Uh,|sv|2614
+A|and I try to be an optimist and say, well that, that's one way is to help any problem whether it be crime, or certainly poverty obviously is to, is to get some business going between each other.|sv|2614
+A|And we need, we need to do more of that, uh, somehow. And encourage more business,  between us.|sv|2614
+B|Yeah.|b|2614
+B|Yeah.|b|2614
+A|They've got to have a lot of resources I would think. An enormous amount of, of well potential that way.|sv|2614
+A|A lot of it, of course is hot and jungle and all that,|sv|2614
+A|but, uh, there's got to be a lot of potential down there.|sv|2614
+B|Yeah,|b|2614
+A|what are you taking in school,|qw|2614
+A|I didn't ask you that.|sd|2614
+A|What are you taking in school?|qw|2614
+B|Well I am actually,|sd|2614
+A|Oh, you're an instructor,|^2|2614
+B|Yeah.|aa|2614
+A|yeah,|b|2614
+A|you're an instructor,|sd|2614
+A|yeah,|%|2614
+A|you said.|sd|2614
+B|Yeah,|b|2614
+B|I'm the, I'm the teacher,|sd|2614
+B|I give, as it were.|sd|2614
+A|That's great.|ba|2614
+A|Are you teaching Computer Science?|qy|2614
+A|you said, what were you saying you were teaching there?|qw|2614
+B|Yeah,|b|2614
+B|I'm in Computer Science|sd|2614
+A|Great,|ba|2614
+A|great.|ba|2614
+B|but of course, this project is really one to collect a data base of, of, uh, of casual speech, uh, in an attempt to get some kind of a model of what speech is like.|sd|2614
+A|Right.|b|2614
+A|I, of course, I work at T I|sd|2614
+A|and I'm a little puzzled as to why when they get my voice one time, why that isn't enough.|sd|2614
+A|I mean, I'm, I'm, I'm getting a kick out of the whole program|sd|2614
+A|but, uh, there's going to be I guess thousands, I don't know how many thousands, or tens of thousands of these recordings|sd|2614
+A|and I wonder how they're going to analyze them. Whether it would be listening to them or analyzing,|sd|2614
+A|I|%|2614
+A|they've got to be analyzing with a, a voice recorder some how.|sv|2614
+B|Yeah,|b|2614
+B|well they record these|sd|2614
+B|and then somebody transcribes them so that they,  they have, uh, they have a speech signal|sd|2614
+A|Uh-huh.|b|2614
+B|and what,|%|2614
+B|and what is said.|sd|2614
+A|Right.|b|2614
+B|And they have a, they're able to average it over a number of different occasions because peoples voices change a lot even from morning to evening|sd|2614
+B|and that's, uh, a big problem in speech recognition.|sd|2614
+A|Oh, yes.|b|2614
+A|I know they change with age,|sd|2614
+A|I know mine changes, uh, has changed, uh,|sd|2614
+A|although you, you never found,|sd|2614
+A|your, your voice echoes in your own head which is, makes it different than what it really sounds to other people.|sv|2614
+B|Yeah.|b|2614
+A|Uh, I'm sure singers and professional people know that,|sv|2614
+A|and you always hear your own voice in recordings and say, my God, that's, that's not, obviously that's not me, you know.|sd|2614
+B|Yeah.|b|2614
+A|But, uh, I know your voice in your own head resonates a different way.|sd|2614
+A|Uh, go ahead,|ad|2614
+A|you comment on it,|ad|2614
+A|yeah,|%|2614
+A|I'm glad that you're in the business.|sd|2614
+A|That,|%|2614
+A|I|%|2614
+A|T I gotten with their Speak and Spell and everything,|sd|2614
+A|I've told my wife, that one of the reasons they're doing it is because eventually you'll be able to talk to your computer,|sd|2614
+B|Right.|b|2614
+A|you wouldn't have to have a keyboard,|sv|2614
+A|you'll be able to just give it commands|sv|2614
+A|and I'm sure they have some of that now,|sd|2614
+A|and not, not, in computers but a lot of potential, of course for handicapped people,|sv|2614

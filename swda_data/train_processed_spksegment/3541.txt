@@ -1,0 +1,71 @@
+A|Okay.|fo_o_fw_"_by_bc|3541|0
+A|You think you're getting your money's worth?|qy|3541|0
+B|Uh, never|ng|3541|1
+B|Uh, the only thing I'm, I'm thankful of is that we don't have to pay any income tax in, in Texas.|sd|3541|1
+A|Well, that's probably the next year's agenda.|sv|3541|0
+B|Yeah.|aa|3541|1
+B|Boy, I tell you what,|^h|3541|1
+B|I sure hope they don't pass something like that.|sd|3541|1
+A|Oh, yeah.|aa|3541|0
+A|They're finding a way to tax you every time you turn around,|sv|3541|0
+A|and I, I think one way or the other, we're going to pay for the bureaucracy, I guess.|sv|3541|0
+A|Uh, it's one area that is really, I, I think hurting the economy more than anything.|sv|3541|0
+A|I think the taxes have just, every time you turn around they, they have taking more bite out of the dollars that are available for spending for any kind of products,|sv|3541|0
+A|and I, I, I think that is probably as big a item fueling the recession as anything right now.|sv|3541|0
+B|Well, I, I tell you, um,|^h|3541|1
+B|I remember every time, it seems like, we turned around, they're adding another nickel or a few more cents onto the price of gasoline.|sd|3541|1
+A|That's right.|aa|3541|0
+A|That's right.|aa|3541|0
+B|And actually, that one, the, the, the taxes on gasoline don't, don't bug me as much as, uh, uh, what are we, eight and a quarter percent sales tax?|qw|3541|1
+A|Yep,|ny|3541|0
+A|that's right.|aa|3541|0
+B|And every time you go to buy anything now, uh,|sv|3541|1
+B|even, you know, they, they tax food.|sv|3541|1
+B|That's the one that really kind of bothers me.|sd|3541|1
+A|Well, I think that, uh, that the problem with the sales tax, of course, is it's an unfair tax across the board, uh, as far as ability to pay, which allegedly, allegedly taxes are supposed to be directed towards.|sv|3541|0
+A|But, uh, now people with the lowest income pay a hundred percent almost of, you know, taxes on everything they buy, and where people that make, you know, two hundred, three hundred thousand dollars a year, certainly a portion of that, they aren't going to be paying taxes on, you know.|sv|3541|0
+A|And, uh, that's the unfair equity, inequities of sales tax as a main source of revenue,|sv|3541|0
+A|but I don't think it is anymore, not in Texas anyway.|sd|3541|0
+B|Oh, I got you, because people that, uh, don't make very much money wind up spending it all.|sv|3541|1
+A|That's right,|aa|3541|0
+A|that's right.|aa|3541|0
+B|Yeah,|b|3541|1
+B|whatever they spent it on, they have to pay tax on.|sv|3541|1
+A|That's right,|aa|3541|0
+A|that's right.|aa|3541|0
+A|And that's the unfairness of the thing,|sv|3541|0
+A|but, uh, I think taxes generally are unfair|sv|3541|0
+A|so|%|3541|0
+B|what do you think of that new luxury car tax, anything over ten or thirty thousand dollars?|qo|3541|1
+A|Well, you know, like other things, if they don't affect you, you don't worry about them too much.|arp_nd|3541|0
+A|I have trouble buying a twenty thousand dollar car still,|sd|3541|0
+A|so it doesn't,|%|3541|0
+A|I, I think, uh, you know, generally the prices of cars have gotten out of line, which is, uh, you know.|sv|3541|0
+B|Oh, sure.|aa|3541|1
+A|And, uh, I guess if people got thirty, forty thousand bucks to spend on a car, uh, that's their prerogative, you know|sv|3541|0
+A|I, I, I don't have a whole of sympathy on that .|sd|3541|0
+A|You, maybe you buy that, you know,|qy^d|3541|0
+A|and I don't mean to be knocking, uh,|sd|3541|0
+B|No,|nn|3541|1
+B|uh, no,|nn|3541|1
+B|I haven't,|sd|3541|1
+B|but it, it to me it seems really interesting that they come along and add another ten percent tax, uh, on top of it.|sv|3541|1
+B|And there's an awful lot of cars that cost more than thirty thousand.|sv|3541|1
+A|Yeah,|aa|3541|0
+A|there are,|aa|3541|0
+A|there are.|aa|3541|0
+A|And the idea of that kind of taxation is to have people think twice on putting their money into that, I guess, you know, unless they really want it, buy something that, you know,|sv|3541|0
+A|more, well, it, it's just like having taxes on, or exemptions for kids, you know.|sv|3541|0
+A|It's a way of increasing the population, that, that was one of the initial ideas of, you know, giving exemptions on kids, on, on federal taxes.|sv|3541|0
+B|Yeah.|b|3541|1
+A|And where you exempt things, like, uh, uh, one of the best things I heard on taxes to stimulate the economy, someone, brilliant deductor, probably Lloyd Bentsen, said that all, you know, if they gave back the deductions on credit cards on your federal taxes people would probably be, you know, spending more money using their credit cards.|sd|3541|0
+B|Right.|b|3541|1
+B|Right.|b|3541|1
+A|Now, I don't know if that's true or not,|sd|3541|0
+A|but if you look on all interest things, not just credit cards, but on your cars and, you know, any kind of interest that you're paying, from a personal point of view, that might make certain sense in stimulating consumer purchasers.|sv|3541|0
+B|Sure.|aa|3541|1
+A|So that's a lot of the games that politicians play on where they want to go, you know, tax things that they don't, you know, to a degree, well, like booze, you know,|sv|3541|0
+A|example, they keep raising the taxes on booze,|sv|3541|0
+A|it gets to the point, you know, it makes drunks sober, you know|sv|3541|0
+A|They quit buying it.|sv|3541|0
+B|Well, what, what about the taxes on cigarettes?|qo|3541|1

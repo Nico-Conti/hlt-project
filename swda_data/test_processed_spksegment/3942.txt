@@ -1,0 +1,99 @@
+A|Well, the topic's about government.|sd|3942|0
+A|Uh, I'm not altogether sure that that's my best topic. Uh,|sd|3942|0
+B|I thought it was kind of a strange topic about corruption in the government and uh, how many people are self serving.|sv|3942|1
+A|Yeah.|b|3942|0
+A|Uh-huh.|b|3942|0
+B|I mean, you I, I think people tend to think that the government is not corrupt And that people aren't self serving.|sv|3942|1
+A|Uh-huh|b|3942|0
+A|Uh-huh.|b|3942|0
+A|Uh-huh.|b|3942|0
+B|I mean that's what I would like to think.|sv|3942|1
+A|Yeah,|b|3942|0
+A|I, I, I think that the last, uh, part of that question was particularly interesting, uh, about, uh, uh, uh, can all unethical behavior, or how much unethical behavior can be made illegal uh, because it seems to me that when uh, government or public service of any kind degenerates so much that you have to have so many explicit ethical codes uh, parallel to the legal codes that, uh, we're focusing on the wrong thing.|sv|3942|0
+B|Uh-huh.|b|3942|1
+B|Uh-huh.|b|3942|1
+B|Uh-huh,|b|3942|1
+B|yeah.|b|3942|1
+A|Maybe, maybe that's what is happening.|sv|3942|0
+A|Maybe so many things have become public with the media over the past, you know, ten to twenty years that, uh, it becomes more evident.|sv|3942|0
+A|Perhaps things that we didn't think of before and just concentrated on the lawmaking or the results that would be seen in public works or bills that are passed or, you know, et cetera like that|sv|3942|0
+B|Uh-huh.|b|3942|1
+A|and we were just not exposed to the personal lives of these persons.|sv|3942|0
+B|Uh-huh.|b|3942|1
+A|And I couldn't help thinking when that last it was a funny question when that last part of the question came about how many things can we, uh, actually put a legal code on that, uh, how much, uh, should it be our, uh, prerogative to see into the private lives of these people. You know.|sv|3942|0
+B|Uh-huh.|b|3942|1
+B|Uh-huh.|b|3942|1
+B|Yeah.|b|3942|1
+B|Yeah,|aa|3942|1
+B|that makes sense.|sv|3942|1
+A|Um.|%|3942|0
+B|Because you start prying in people's private lives, you ruin their lives as well as,|sv|3942|1
+A|That's right.|aa|3942|0
+B|And sometimes, you know, I don't even know how much of a difference it really makes, you know.|sv|3942|1
+A|Yeah.|b|3942|0
+B|I mean, I guess in some cases, sure we care about what they did in the past|sv|3942|1
+A|Uh-huh.|b|3942|0
+B|but, uh, sometimes, I don't know|h|3942|1
+A|Uh-huh.|b|3942|0
+B|I think it gets in the way of the better judgment.|sv|3942|1
+B|I mean just because you did something in the past doesn't mean he's not a good enough person to be a politician.|sv|3942|1
+A|I, I, I agree with that and, uh, and also that if the results that they're putting out and what they actually seem to be accomplishing by legitimate means is what's, you know, going to the public then, uh, then they'll pay for their private life in their own private conscience.|sv|3942|0
+B|Uh-huh.|b|3942|1
+B|Uh-huh.|b|3942|1
+B|That's it.|ba|3942|1
+A|And, uh you when it becomes public, though, it becomes scandalous.|sv|3942|0
+B|Uh-huh.|b|3942|1
+B|Yeah.|b|3942|1
+A|The, that's, that's the thing that,|%|3942|0
+A|uh, things that you don't know uh, do, do not worm their way around and influence other people or perhaps lead other people astray.|sv|3942|0
+B|Uh-huh.|b|3942|1
+B|Yeah.|b|3942|1
+A|People could say, oh, they do it,|sd|3942|0
+A|so, I guess, you know,|%|3942|0
+A|but, as soon as things do get public uh, there, there is that terrible concern.|sv|3942|0
+B|Uh-huh.|b|3942|1
+B|Um|%|3942|1
+A|So, sometimes I ask myself, what are, uh, people doing that are in the media when somebody, you know, comes up to office,|sd|3942|0
+B|Uh-huh.|b|3942|1
+A|it seems that one of the first thing that's done is to dig up any kind of a thing they can on them and get it all over the headlines.|sv|3942|0
+B|Uh-huh.|b|3942|1
+B|Oh, yeah|aa|3942|1
+B|I guess it's what sells newspapers, you know.|sv|3942|1
+A|It's a very low way of living.|sv|3942|0
+B|Uh-huh.|b|3942|1
+A|Uh, so,|%|3942|0
+A|and, and, and as far as, uh, you know, myself having any particular personal, uh, knowledge or insight into politics or politicians, it, I'm not terribly involved in it.|sd|3942|0
+B|Uh-huh|b|3942|1
+A|Just in a very cursory way.|sd|3942|0
+B|Right.|b|3942|1
+A|I vote|sd|3942|0
+A|and I, you know, try to do whatever I can on the little local area,|sd|3942|0
+A|but, I, I, it just is not one of the things that I have, uh, placed, uh, uh, a, a lot of my particular time and effort into,|sd|3942|0
+B|Yeah.|b|3942|1
+A|so, I, I always feel very outside this kind of, uh, this kind of an issue.|sd|3942|0
+B|Uh-huh.|b|3942|1
+B|Yeah.|b|3942|1
+A|But, uh,|%|3942|0
+B|I am kind of the same way.|sd|3942|1
+B|I just kind of read the paper follow up on I mean, you know, just keep an eye on what's going on|sd|3942|1
+A|Yeah.|b|3942|0
+A|Uh-huh.|b|3942|0
+A|Yeah,|b|3942|0
+A|right.|b|3942|0
+B|but I don't really play an active role in any kind of politics|sd|3942|1
+A|Yeah,|b|3942|0
+A|uh,|%|3942|0
+A|Uh, uh-huh.|b|3942|0
+A|I'm not, I'm not in there,|sd|3942|0
+A|I'm not one of those, uh, you know, volunteers that's down at headquarters and whatever, uh, although I admire the people that do that|sd|3942|0
+A|and they certainly do get inside information|sv|3942|0
+B|Uh-huh.|b|3942|1
+A|and, uh, of course, the better you know a person that might be affiliated with that kind of thing, the more you can trust their, their judgment and their insight.|sv|3942|0
+B|Right.|b|3942|1
+B|Right.|b|3942|1
+B|Uh-huh.|b|3942|1
+A|But the media insight, as you said,|sd|3942|0
+A|I just kind of read and kind of be aware|sd|3942|0
+B|Yeah.|b|3942|1
+A|and then, uh, I don't like to make a whole lot of, uh, judgment myself unless things are so absolutely out of whack that, uh,|sd|3942|0
+B|Yeah.|b|3942|1

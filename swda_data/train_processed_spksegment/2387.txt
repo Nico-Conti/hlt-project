@@ -1,0 +1,210 @@
+A|Okay,|fo_o_fw_"_by_bc|2387|0
+A|what types of music do you like to listen to?|qw|2387|0
+B|Well, I primarily listen to classical music when I have my druthers, partly because I find it more soothing.|sd|2387|1
+B|I don't know a lot about classical music so far as, uh, any background in music,|sd|2387|1
+B|but it's the the music I enjoy the most.|sd|2387|1
+B|How about you?|qo|2387|1
+A|I like classical music also.|sd|2387|0
+A|I, uh,|%|2387|0
+A|like you, I don't know a whole lot about it,|sd|2387|0
+A|and I, I would like to buy more classical tapes and stuff,|sd|2387|0
+A|but I'm not sure which composers or which I really like,|sd|2387|0
+B|Right.|b|2387|1
+A|so I kind of hesitate to buy something.|sd|2387|0
+B|Uh-huh.|b|2387|1
+A|There are certain kinds I like and certain kinds I don't.|sd|2387|0
+B|I tend to listen to the classical music, uh, on the radio a lot.|sd|2387|1
+B|There's, uh, one particular, well there several stations in this area that play, uh, classical music all the time,|sd|2387|1
+B|but there's one in particular that is on both A M and F M so I can listen to it without, uh, worrying.|sd|2387|1
+B|It's cute, though, because my children, when they get in the car, and I have, uh, the button pushed for that, they always switch it to something else|sd|2387|1
+B|Because naturally that isn't their taste at this point in time anyway.|sd|2387|1
+A|Yeah.|b|2387|0
+A|Yeah,|b|2387|0
+A|I understand that.|sd|2387|0
+B|Are, are you involved in music?|qy|2387|1
+A|Uh, no,|nn|2387|0
+A|not really.|ng|2387|0
+A|My husband is,|sd|2387|0
+A|but not, I do, uh, the world a favor|sd|2387|0
+A|and I don't sing aloud, to anybody but myself|sd|2387|0
+B|Well, my whole family is somewhat musical, um, and not from training, but just because we sing in our choir|sd|2387|1
+B|and my daughter's quite involved and all that sort of thing.|sd|2387|1
+B|So, um, I think that one of these days maybe she'll get involved in classical music, too, because that's usually what happens if you, unless you get into rock, which isn't her voice style.|sd|2387|1
+B|So,|%|2387|1
+A|Yeah,|b|2387|0
+A|I, I don't care for rock, at all.|sd|2387|0
+A|I guess I'm real old fashioned in my musical tastes.|sd|2387|0
+B|No,|ar|2387|1
+B|I,|%|2387|1
+B|well most of it is not all that exciting in that it is terribly repetitious.|sv|2387|1
+A|Yes.|aa|2387|0
+B|It's loud and repetitious without having a great deal of meaning.|sv|2387|1
+B|Now I do like folk song.|sd|2387|1
+B|Um, and there have been some nice folk songs over the years that, you know, kind of still hang around.|sv|2387|1
+A|Right.|b|2387|0
+B|But, um, but, uh, the more popular music I don't care for, usually.|sd|2387|1
+A|Yeah.|b|2387|0
+B|Um, even when I was a teenager I didn't really like the music of that period so much because I found I liked, um, a little bit more melodious music than what was often the popular, rock and roll kind of sound.|sd|2387|1
+A|Yeah,|b|2387|0
+A|I agree with that too.|aa|2387|0
+B|Although now I kind of enjoy hearing the rock and roll, I guess it makes me think I'm young again|sd|2387|1
+A|Yeah,|aa|2387|0
+A|now rock and roll seems tame compared to like the New Age and all that stuff.|sv|2387|0
+B|Isn't that the truth?|bh|2387|1
+B|It's funny.|sv|2387|1
+B|In fact, it's interesting to me that so many of the songs,|sd|2387|1
+B|now I grew up in the late fifties and early sixties,|sd|2387|1
+B|and so much of the music that was popular at that time, has come back.|sd|2387|1
+A|Uh-huh.|b|2387|0
+B|And, you, you don't hear everything all the time,|sd|2387|1
+B|but you hear much of the same music, perhaps a new version of it,|sd|2387|1
+B|but it's the same stuff. Um, which is always kind of funny.|sd|2387|1
+A|Right.|b|2387|0
+B|Um, and I remember my older sister.|sd|2387|1
+B|I have a sister who's sixteen years older,|sd|2387|1
+B|and at the time that I was a teenager, a late teenager I guess, I can't remember the year, SMOKE GETS IN YOUR EYES became popular.|sd|2387|1
+B|I think it was done by maybe the Platters or something.|sd|2387|1
+A|Uh-huh.|b|2387|0
+B|Then,|%|2387|1
+B|and she laughed|sd|2387|1
+B|and she said, Well, you know, when I was a teenager, that had been,|sd|2387|1
+B|you know, some years before, she said, that was a version of, you know, a song then.|sd|2387|1
+B|And she said, It's very similar,|sd|2387|1
+B|but they've changed a little bit.|^q|2387|1
+B|She said, I like the original version better.|sd|2387|1
+B|Well, they did it again, about two or three years ago,|sd|2387|1
+B|and I laughed again.|sd|2387|1
+B|I said, Oh no, here we are|sd|2387|1
+A|Crops up every so often.|bf|2387|0
+B|Right,|aa|2387|1
+B|right.|aa|2387|1
+B|It does indeed.|sd|2387|1
+A|I listen to, um, the Christian radio station when I'm in the car.|sd|2387|0
+A|K L T Y.|sd|2387|0
+B|Uh-huh.|b|2387|1
+A|I like to listen to some of that.|sd|2387|0
+B|Yes,|aa|2387|1
+B|now there, there's some wonderful Christian music when you can find good stations.|sv|2387|1
+A|Yeah.|b|2387|0
+B|Uh, the problem that I found, um, in this area is that the, there, there is inconsistency in the quality here.|sd|2387|1
+A|Uh-huh.|b|2387|0
+B|If you get someone who's very good at selecting, it's okay,|sd|2387|1
+B|but sometimes they kind of get on a, a, a binge,|sd|2387|1
+B|and they play the same sort of thing over and over again, without really necessarily quality.|sd|2387|1
+A|Yeah,|b|2387|0
+A|where do you live?|qw|2387|0
+B|Uh, I live in the, uh, Washington, D C area, Maryland.|sd|2387|1
+A|I thought maybe you lived in Dallas, because that's the complaint I make to my husband about the radio station too.|sd|2387|0
+A|I said, Oh, they're playing one of their ten songs.|sd|2387|0
+B|Yes.|b|2387|1
+A|It seems like every week they pick ten|sv|2387|0
+A|and they just play them over and over,|sv|2387|0
+B|Uh-huh,|aa|2387|1
+B|and I, I, you know,|%|2387|1
+B|there's so much available that I don't understand why they do that.|sv|2387|1
+A|Yeah.|b|2387|0
+A|Yeah.|b|2387|0
+B|But, um, now my children have, have sometimes,|sd|2387|1
+B|um, they've gone to a few of the concerts and so on of Christian musicians that come to our youth group at our church.|sd|2387|1
+B|And, um, and when they buy a tape or something, sometimes that's fun because it's different and something I've not always heard,|sd|2387|1
+B|and, you know, I enjoy that.|sd|2387|1
+A|Right.|aa|2387|0
+A|My husband likes Sandy Patty songs.|sd|2387|0
+A|He likes to sing those in church.|sd|2387|0
+A|He'd buy all the sound tracts he could get his hands on *typo tracks if he had the money to.|sd|2387|0
+B|Oh, wow.|ba|2387|1
+B|Yeah,|b|2387|1
+B|that's nice.|ba|2387|1
+B|So, is your husband a singer?|qy|2387|1
+A|Well, just an amateur singer.|na|2387|0
+A|He sings in the choir|sd|2387|0
+A|and he likes to do special music and stuff at church.|sd|2387|0
+B|Right.|b|2387|1
+B|Yeah.|b|2387|1
+B|Well, that's a good thing to do.|sv|2387|1
+A|Yeah,|aa|2387|0
+A|yeah,|aa|2387|0
+A|I like to hear him sing.|sd|2387|0
+A|a very soft He does a good job.|sd|2387|0
+B|That's nice,|ba|2387|1
+B|uh, well, do you have children?|qy|2387|1
+A|No,|nn|2387|0
+A|not yet,|ng|2387|0
+A|we're expecting a baby in July.|sd|2387|0
+B|Well, wonderful.|ba|2387|1
+A|I guess we'll start listening,|sd|2387|0
+B|That'll be a musician.|sv|2387|1
+A|Yeah,|aa|2387|0
+A|maybe so.|aap_am|2387|0
+A|We'll start listening to children's music|sd|2387|0
+B|Oh, there's some wonderful Christian, uh, children's tapes. You can, uh, you can get,|sv|2387|1
+A|Yeah,|aa|2387|0
+A|there are.|sv|2387|0
+B|and I know when my children were younger, um, we found a lot of really nice tapes that they, that they liked.|sd|2387|1
+B|Um, there was an Agape music group,|sd|2387|1
+B|and, um, I, some of the songs I still find going over in my head over and over again because they were really, um, very memorable even though my children are now,|sd|2387|1
+A|Uh-huh.|b|2387|0
+B|my youngest is almost sixteen.|sd|2387|1
+A|Oh, uh|b|2387|0
+B|But I still find some of the same tapes, I, uh, some of the same songs from those tapes I enjoy.|sd|2387|1
+A|Uh-huh.|b|2387|0
+B|Um, there's one that's, um, a little girl singing Practice Makes Perfect.|sd|2387|1
+A|Uh-huh.|b|2387|0
+B|And, uh, she's playing the piano.|sd|2387|1
+A|Oh.|b|2387|0
+B|And so she, she gets the wrong note every now and then.|sd|2387|1
+B|But then she keeps repeating it, practice makes perfect,|sd|2387|1
+B|and then you know, talking about that so far as Christian life, too,|sd|2387|1
+B|and it's really cute.|sd|2387|1
+A|Yeah,|aa|2387|0
+A|that sounds really cute.|sv|2387|0
+B|Yeah.|b|2387|1
+A|Uh, I tell my husband to sing to my stomach, because they say that babies can hear quite a lot while they're still in the womb,|sd|2387|0
+A|and I said, then when, when it's born you can hold it and sing that again|sd|2387|0
+B|Yeah,|aa|2387|1
+B|right.|aa|2387|1
+A|and maybe it'll comfort her, you know, when she's fussy and stuff.|sv|2387|0
+B|Yeah,|aa|2387|1
+B|well do you know something?|qy|2387|1
+A|What?|qw|2387|0
+B|Because I have always played classical music, uh, or classical style,|sd|2387|1
+B|it's not always classical as, you know, the official, uh, word might go,|sd|2387|1
+B|but, um, even when I was pregnant, of course I listened to that,|sd|2387|1
+B|and when our first child was, you know, an infant, um, of course, when I was around the house, I played that music, too.|sd|2387|1
+B|When he first made sounds that you could detect they were in the scale, the music scale.|sd|2387|1
+A|Huh.|b|2387|0
+B|Someone else noticed it|sd|2387|1
+A|How strange.|ba|2387|0
+B|and I said, well, I guess that's true.|sd|2387|1
+B|And it was somewhat melodious,|sd|2387|1
+B|in other words it wasn't just|sd|2387|1
+A|Uh-huh.|b|2387|0
+A|Babbly.|^2|2387|0
+B|you know, it was really funny|sd|2387|1
+A|I'll say, that is|aa|2387|0
+A|Well, we'll have to keep up with that then.|sv|2387|0
+B|Right,|aa|2387|1
+B|right.|aa|2387|1
+B|I do think there is probably an influence there, because I noticed that even though popular music, the, the wilder stuff, was around when my older children were, were, you know, adolescents, early adolescents, when they first start listening to music on their own they first get, ask for a radio of their own, and so on,|sd|2387|1
+A|Uh-huh.|b|2387|0
+B|um, this same child, um, really listened to more, um, ballady or, um, pleasant sort of songs rather than, and even classical, rather than the real hard rock stuff that so many other kids listen to.|sd|2387|1
+A|Huh.|b|2387|0
+B|And I, I never, I didn't want to say too much for fear he would think it was wrong and wouldn't do it anymore|sd|2387|1
+A|Right,|aa|2387|0
+A|yeah,|aa|2387|0
+A|have something to rebel against|bf|2387|0
+B|Right|aa|2387|1
+B|But, uh, then I must say they all kind of like a variety of music, which is nice,|sd|2387|1
+B|I like that.|sd|2387|1
+A|Yeah,|b|2387|0
+A|that's good,|ba|2387|0
+A|yeah,|%|2387|0
+A|variety is good.|sv|2387|0
+B|Yeah.|b|2387|1
+A|Well, I guess that covers it.|sv|2387|0
+A|It was real good talking to you.|fc|2387|0
+B|Well, it was nice talking to you,|fc|2387|1
+B|and good luck with the baby.|fc|2387|1
+A|Well, thanks,|ft|2387|0
+A|bye.|fc|2387|0
+B|Bye-bye.|fc|2387|1

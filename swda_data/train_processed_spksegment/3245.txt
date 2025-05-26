@@ -1,0 +1,164 @@
+B|Okay,|fo_o_fw_"_by_bc|3245|0
+B|I'm ready.|sd|3245|0
+A|Okay,|bk|3245|1
+A|so we're going to talk about, uh, what kind of clothes we wear while we work.|sd|3245|1
+B|Uh-huh.|b|3245|0
+A|Do you work for T I?|qy|3245|1
+B|No,|nn|3245|0
+B|I work at home|sd|3245|0
+A|Oh, you do,|bh|3245|1
+A|well, you're like me then|sd|3245|1
+A|I stay home also.|sd|3245|1
+B|Do you have children?|qy|3245|0
+A|Yes,|ny|3245|1
+A|I have two, a seven year old and three and a half year old.|sd|3245|1
+B|Oh, that's good.|ba|3245|0
+A|How about you?|qo|3245|1
+B|I have four girls|sd|3245|0
+A|Oh.|b|3245|1
+B|they're nine and five and three and a newborn.|sd|3245|0
+A|Oh, my, you are busy|ba|3245|1
+B|Yes,|aa|3245|0
+A|and they're all girls,|bf|3245|1
+A|I have two girls,|sd|3245|1
+A|so, all girls around here|sd|3245|1
+B|Girls are nice, aren't they?|qy|3245|0
+A|Yes,|ny|3245|1
+A|uh, really sweet.|sv|3245|1
+B|Anyway, as far as clothing goes, um, my wardrobe changes all the time, depending on my size|sd|3245|0
+A|That's how I am too.|aa|3245|1
+B|We go from regular kind of spring clothes regular kind of fall clothes pregnant clothes, clothes that are in between where you're not down to regular size yet or you're on your way up from regular size|sd|3245|0
+A|Uh-huh.|b|3245|1
+A|Uh-huh.|b|3245|1
+A|Oh, that's funny.|ba|3245|1
+B|and they're all in boxes or bags,|sd|3245|0
+B|and they all rotate all the time kind of the same stuff all the time, though,|sd|3245|0
+A|Yeah.|b|3245|1
+B|I don't, uh, get a whole lot new right now,|sd|3245|0
+A|Yeah.|b|3245|1
+A|Yeah,|b|3245|1
+A|I know that's kind of how I am.|aap_am|3245|1
+A|I said, who ever I talk to is going to be board, because when it's summer time, I'm wearing shorts,|sd|3245|1
+A|and when it's cold, I'm wearing sweat pants, and most of, unless I'm going to something special that my daughter's doing, or something like that,|sd|3245|1
+B|Yeah.|b|3245|0
+B|Yeah,|b|3245|0
+B|I, I like jeans a lot.|sd|3245|0
+A|Well, that's, that's good.|ba|3245|1
+A|I used to wear jeans all the time until after I had kids,|sd|3245|1
+A|and now nothing seems to be comfortable because I bulge in all the wrong places,|sd|3245|1
+A|so|%|3245|1
+B|Oh, and it's, it's frustrating,|sv|3245|0
+B|I just, I find I have to get the right kinds, though, or it's not comfortable|sd|3245|0
+A|Yeah.|b|3245|1
+B|they,|%|3245|0
+B|it, it works best if they have pleats in the front|sv|3245|0
+A|Right,|aa|3245|1
+A|yeah.|aa|3245|1
+B|and, uh, they have to,|%|3245|0
+B|my waist is kind of small compared to the hips,|sd|3245|0
+B|so it has to be not the straight up and down levis kind|sd|3245|0
+A|Yeah,|b|3245|1
+A|yeah,|b|3245|1
+A|I know what you mean.|sd|3245|1
+A|Well,|%|3245|1
+B|But, um, but I,|%|3245|0
+B|when I was, I was pregnant through the summer this time and I wore dresses all the time because it was so much cooler and so much more comfortable not to have something binding on your waist|sd|3245|0
+A|Oh.|b|3245|1
+A|Uh-huh.|b|3245|1
+A|Right.|aa|3245|1
+A|Uh-huh.|b|3245|1
+A|That's right.|aa|3245|1
+B|but, uh,|%|3245|0
+A|One of my daughters was born in June,|sd|3245|1
+A|and I remember, I wore sundresses and, you know, just those real cool dresses almost the entire time|sd|3245|1
+B|Yeah,|b|3245|0
+B|yeah.|b|3245|0
+A|And I had one that was born in December,|sd|3245|1
+A|so, um, it was a little bit, because it was a real warm winter|%|3245|1
+B|Uh-huh.|b|3245|0
+A|so even, even into like November and December I was still wearing the short sleeve dresses,|sd|3245|1
+A|course I'm always hot when I'm pregnant, too,|sd|3245|1
+A|so|%|3245|1
+B|Yeah,|b|3245|0
+B|yeah,|b|3245|0
+A|I, I didn't really need warm clothes|sd|3245|1
+A|but I really have been spoiled by sweat pants and these new, uh, units outfits, you know, that are just knit,|sd|3245|1
+B|Oh, I haven't tried those,|sd|3245|0
+A|Oh, they are so comfortable.|sd|3245|1
+B|Huh.|b|3245|0
+A|It's, it's just, um, you know, a light weight kind of like a sweat suit but made out of that real light polyester stuff,|sd|3245|1
+B|Yeah.|b|3245|0
+A|and it's just great because you can put, you know, you can decorate them up, or dress them up, if you want,|sd|3245|1
+B|Yeah.|b|3245|0
+A|or you can just wear them with, you know, tennis shoes if you want.|sd|3245|1
+A|So they're really nice|sd|3245|1
+A|and I've enjoyed wearing those|sd|3245|1
+B|Uh-huh.|b|3245|0
+A|but I,|%|3245|1
+B|I don't know if they expected us to talk about blazers and such here|sd|3245|0
+B|but I sure never wear them|sd|3245|0
+A|Yeah,|b|3245|1
+A|well I don't either,|sd|3245|1
+A|if we, if we had professional jobs where we go into an office and have to wear a jacket or something that would make a big difference.|sd|3245|1
+B|Yeah.|b|3245|0
+A|I worked part time when my oldest was a baby|sd|3245|1
+B|Uh-huh.|b|3245|0
+A|and, um, I had to wear a dress every day,|sd|3245|1
+A|and and it was a little bit hard to, uh, wind down,|sd|3245|1
+B|I'm watching, Janice,|t3|3245|0
+B|uh-huh.|b|3245|0
+A|I would, I would have to drive six thirty five home|sd|3245|1
+A|and I would be burning up, like in the summer time|sd|3245|1
+B|Oh.|b|3245|0
+A|by the time I got home I was like, Oh, I've got to get out of these clothes|sd|3245|1
+B|I, I remember that from when I was,|sd|3245|0
+B|I worked way before I was married, even,|sd|3245|0
+B|but offices, they keep them so cold in the summer that you can't wear regular summer clothes and be comfortable|sv|3245|0
+A|Uh-huh.|b|3245|1
+A|Right.|aa|3245|1
+A|Right.|aa|3245|1
+B|you've got to have something to add to it or something|sv|3245|0
+A|Yeah.|b|3245|1
+A|Yeah.|b|3245|1
+B|I don't know if you can,|sd|3245|0
+A|Yeah,|b|3245|1
+A|and then when you drive home, like especially if you're in a lot of traffic which you are in Dallas,|sd|3245|1
+B|You burn up,|sv|3245|0
+A|uh-huh|b|3245|1
+B|Yeah.|b|3245|0
+A|because I always hated to run my air conditioner just sitting still all the time|sd|3245|1
+B|Yeah.|b|3245|0
+A|I was afraid I'd make the car overheat.|sd|3245|1
+B|It's hard on the car.|aa|3245|0
+A|Yeah,|b|3245|1
+A|so I would roll my windows down,|sd|3245|1
+A|it was still a hundred degrees|sd|3245|1
+B|Oh.|b|3245|0
+A|and I would just be sweltering hot by the time I picked my daughter up,|sd|3245|1
+A|and um, I had a friend who used to take shorts to work,|sd|3245|1
+B|Yeah.|b|3245|0
+A|and after work she'd go in the bathroom and change her clothes|sd|3245|1
+B|Oh, that's funny,|ba|3245|0
+A|and I thought, that's probably a good idea because you really|sd|3245|1
+B|Yeah|b|3245|0
+B|at least something cooler,|sv|3245|0
+A|yeah,|aa|3245|1
+A|because you can ruin your good clothes getting so hot in them if you especially if it's something that has to be dry cleaned, which I don't have any of.|sv|3245|1
+B|That's true,|aa|3245|0
+B|Yeah,|b|3245|0
+B|I don't have to worry a whole lot about that.|sd|3245|0
+A|No,|aa|3245|1
+A|when you have children, you don't,|sd|3245|1
+A|um, even when I go to church I have to have something I can just throw in the washer when I'm through.|sd|3245|1
+B|That's right,|aa|3245|0
+B|something that it doesn't matter if it gets spit up on, too|bf|3245|0
+A|I know it.|aa|3245|1
+B|I've always been a creature of comfort, too|sd|3245|0
+A|Me, too.|aa|3245|1
+B|if it's not comfortable, forget it.|sv|3245|0
+A|I know,|aa|3245|1
+A|that's how I am, too,|sd|3245|1
+B|Wool was never comfortable to me.|sv|3245|0
+A|Right,|aa|3245|1
+A|me neither,|aa|3245|1
+A|I have,|%|3245|1

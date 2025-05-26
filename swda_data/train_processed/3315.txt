@@ -1,0 +1,138 @@
+A|Hello?|fp|3315
+B|Hi.|fp|3315
+A|Hi,|fp|3315
+A|my name is Leslie.|sd|3315
+B|Hi,|fp|3315
+B|I'm Jennifer.|sd|3315
+A|And where are you from?|qw|3315
+B|Pennsylvania.|sd|3315
+A|Oh, nice,|ba|3315
+A|I'm from Dallas, Texas.|sd|3315
+B|Oh, really?|bh|3315
+A|Yeah,|ny|3315
+A|so,|%|3315
+B|Oh, that's neat.|ba|3315
+A|Well, did you understand what this was for, you know, what it was for, what we,|qy|3315
+B|Uh, television shows?|qy^d|3315
+A|Yeah|ny|3315
+B|Sure,|b|3315
+B|that sounds good.|sv|3315
+A|Okay|b|3315
+A|I, I don't watch too many,|sd|3315
+A|but we can try it.|sd|3315
+B|Okay.|b|3315
+A|Are you ready to start?|qy|3315
+B|Sure am.|na|3315
+A|Okay,|bk|3315
+A|just a minute|ad|3315
+B|Okay,|b|3315
+B|I guess we're recording now.|sv|3315
+A|Yeah,|b|3315
+A|okay.|b|3315
+B|What are your favorite television shows?|qw|3315
+A|Well, I don't really watch too many T V shows other than, uh, occasionally I'll, I'll turn on DONAHUE because it comes on in the morning when I seem to be getting ready around here.|sd|3315
+B|Oh, really?|bh|3315
+A|And, uh, so if, if there's no one else around, you know, it's just me and I have a chance to listen to something, I'll turn that on, but, uh, just for the, for the conversation factor, I think,|sd|3315
+A|but, and then I think I enjoy when I catch it, I don't even know what night it's on, but DESIGNING WOMEN sometimes,|sd|3315
+B|Oh, I love that show.|sv|3315
+A|Yeah,|b|3315
+A|do you?|qy|3315
+B|Yes,|ny|3315
+B|that is great.|sv|3315
+A|Yeah,|aa|3315
+A|it's fun.|sv|3315
+A|And then there's a new one that started out that I've caught a couple of times called GOOD AND EVIL, I think.|sd|3315
+B|Oh, I heard they just canceled that.|sd|3315
+A|Oh, really?|bh|3315
+B|I read in today's paper they just canceled that show.|sd|3315
+A|It is a real different one.|sv|3315
+A|It's, uh, it's, it's different.|sv|3315
+A|I guess I watch it more out of the uniqueness of it and the time that it comes on more than the fact that I have to see it.|sv|3315
+A|But,|%|3315
+B|Have you seen the show, it's, it's new this year, called HOME FRONT?|qy|3315
+A|No,|nn|3315
+A|I haven't watched that.|sd|3315
+B|Oh, it's, it's really good.|sv|3315
+B|It's, uh, I think it's on like Tuesday nights from ten to eleven|sd|3315
+A|Uh-huh.|b|3315
+B|and it's set in post World War Two times|sd|3315
+B|and it's about how the servicemen come home and readjust to civilian life here and the changes everyone's going through.|sd|3315
+B|It's really interesting.|sv|3315
+A|Oh, yeah.|b|3315
+B|It's kind of like a a nighttime soap opera type thing.|sv|3315
+A|Sounds neat.|ba|3315
+B|It is, it's a good, it's really well written.|sv|3315
+A|Yeah.|b|3315
+A|Is that on, what what station?|qw|3315
+B|Uh, I don't even know, to tell you the truth|sd|3315
+A|Oh, okay.|bk|3315
+A|What other shows do you like?|qw|3315
+B|Uh, I prefer OPRAH WINFREY to DONAHUE|sd|3315
+A|Oh, yeah.|b|3315
+A|Well, she comes on later|sd|3315
+A|and I usually have kids around so I don't end, end up watching that one is the only problem I have with it, I guess.|sd|3315
+B|Oh.|b|3315
+B|I did watch soap operas,|sd|3315
+B|but I work full-time now and can't catch those anymore. Except when I'm home sick,|sd|3315
+A|Yeah|b|3315
+B|and now when I watch them, I think, why did I ever watch those?|sd|3315
+A|That's right|aa|3315
+B|They're stupid|sv|3315
+A|Yeah.|b|3315
+B|So when I did watch them I was addicted to them every day.|sd|3315
+A|Uh-huh.|b|3315
+B|But not anymore.|sd|3315
+A|That can happen.|sv|3315
+A|So do you know of any other shows in the even, or something that you enjoy?|qo|3315
+B|Oh, uh, tonight I'm looking forward to seeing GOLDEN GIRLS.|sd|3315
+A|Oh, that's always fun.|sv|3315
+B|Yes,|aa|3315
+B|I like that show.|sd|3315
+A|Yeah.|b|3315
+B|And if I can stay up late enough, I like to catch SATURDAY NIGHT LIVE every now and then.|sd|3315
+A|Oh, uh-huh.|b|3315
+B|And right now we're watching a Penn State football game because that's where we live.|sd|3315
+A|Oh, yeah.|b|3315
+B|So|%|3315
+A|Uh-huh.|b|3315
+B|It's exciting,|sv|3315
+B|we're winning,|sd|3315
+B|so that's really exciting.|sv|3315
+A|Yeah,|b|3315
+A|well, I think,|sv|3315
+A|I also, course, like to catch the news during the evening hours|sd|3315
+B|Uh-huh.|b|3315
+A|but, uh, it's a little tough because that's when I'm usually making dinner and the kids are wanting to talk all at the same time.|sd|3315
+A|So, usually I don't get a whole lot of news watching in.|sd|3315
+B|Yes,|b|3315
+B|we watch C N N in morning while we're getting ready for the day and eating breakfast.|sd|3315
+A|Uh-huh.|b|3315
+B|We'll catch our news that way.|sd|3315
+B|Watch the weather channel so that we know what the weather's going to be like.|sd|3315
+A|Yeah,|b|3315
+A|yeah.|b|3315
+A|So what have you seen interesting on OPRAH WINFREY lately?|qw|3315
+B|Lately, I haven't been catching it because of my work schedule.|sd|3315
+A|Uh-huh.|b|3315
+B|Uh, I can't remember the last time I saw it.|sd|3315
+B|It's been a while.|sd|3315
+A|Yeah,|b|3315
+A|well, I don't know if we've talked our full three minutes or not|sd|3315
+B|I don't know,|sd|3315
+B|sometimes they come on and, and say.|sd|3315
+A|Oh, that's right.|aa|3315
+B|Well, today on C N N they were talking about something like this about, uh, learning to recognize voices and words and stuff and the research that's going on which is kind of what we're doing, helping them get a data base for words.|sd|3315
+A|Um, yeah.|b|3315
+B|It was really interesting.|sv|3315
+A|It is interesting.|aa|3315
+A|So,|%|3315
+B|Do you work for Texas Instruments?|qy|3315
+A|No,|nn|3315
+A|no,|nn|3315
+A|just, uh, doing this as a fund-raiser for our church.|sd|3315
+B|Oh, that's nice.|ba|3315
+A|Yeah,|b|3315
+A|so it kind of makes it easy, you know, to do a little something for it.|sd|3315
+B|Sure,|b|3315
+B|because we, uh, we've talked to a lot of people from Texas, it seems,|sd|3315
+B|and we thought, well, maybe they work from, for Dallas,|sd|3315

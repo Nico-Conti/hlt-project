@@ -1,0 +1,149 @@
+A|Well, I, uh, before I was married, I used to play a lot of sports.|sd|2191|0
+B|Uh-huh.|b|2191|1
+A|And, uh, but when I got married and had children and everything, it seems like I keep all my activity just chasing around fulfilling my obligations|sd|2191|0
+A|so I haven't done a lot of, uh, exercise on purpose.|sd|2191|0
+B|Uh-huh.|b|2191|1
+A|What about you?|qo|2191|0
+B|Well, it's funny,|^h|2191|1
+B|this week,|%|2191|1
+B|yesterday I started exercising seriously.|sd|2191|1
+A|Oh, really?|bh|2191|0
+B|This weekend I cleaned out my closets|sd|2191|1
+B|and, uh, a couple years ago I, too, got married.|sd|2191|1
+B|I haven't have any children yet,|sd|2191|1
+B|but this weekend I cleaned out some closets|sd|2191|1
+B|and I found a bathing suit that I had bought.|sd|2191|1
+A|Uh-huh.|b|2191|0
+B|Tried it on and decided I really did not like how it looked on me.|sd|2191|1
+A|Oh no,|nn|2191|0
+A|that can be awful.|sv|2191|0
+B|So yesterday I went to, uh, a spa.|sd|2191|1
+B|I belong to a private spa and went in and, and got with a trainer|sd|2191|1
+B|and, uh, he checked body fat content|sd|2191|1
+A|Uh-huh.|b|2191|0
+B|and we set up a program for me to work on,|sd|2191|1
+B|and I went back tonight also.|sd|2191|1
+B|So I've been two nights in a row|sd|2191|1
+B|and I, I'm going to take it pretty seriously.|sd|2191|1
+B|I'm going to start going every night just, you know,|sd|2191|1
+B|even if I, I,|%|2191|1
+B|like tonight I only went for thirty minutes,|sd|2191|1
+B|but I at least did something.|sd|2191|1
+A|Do you work out on,|qy|2191|0
+A|like, is it the weight machines or aerobics or what is it?|qrr|2191|0
+B|Last night I did about thirty minutes of riding a bike and a few, like, three different types of, uh, uh, weight lifting for my legs and, and my hips|sd|2191|1
+A|Uh-huh.|b|2191|0
+A|Uh-huh.|b|2191|0
+B|and then I did a hour of aerobics.|sd|2191|1
+A|Uh-huh.|b|2191|0
+B|And that was really tough|sd|2191|1
+A|Oh, I bet.|ba|2191|0
+B|And I was sore this morning when I got up,|sd|2191|1
+B|but then tonight I got into a, a,|sd|2191|1
+B|it's sort of like an aerobics class|sd|2191|1
+A|Uh-huh.|b|2191|0
+B|but it's only thirty minutes|sd|2191|1
+B|and it's for your abdominals your thighs, and your butt.|sd|2191|1
+A|Uh-huh.|b|2191|0
+A|Um.|b|2191|0
+B|So, and that was,|%|2191|1
+B|thirty minutes was definitely plenty.|sd|2191|1
+B|So,|%|2191|1
+A|Doesn't sound like low impact.|qy^d|2191|0
+B|No,|nn|2191|1
+B|it was a lot of sweat|sd|2191|1
+A|Well.|%|2191|0
+A|Well that's good.|ba|2191|0
+B|So,|%|2191|1
+A|So are you|qy|2191|0
+B|Have you started exercising at home|qy|2191|1
+B|or,|%|2191|1
+A|Well, I, like, I am undisciplined in the sense that I can't just go and do exercise,|sd|2191|0
+A|but I like to, uh, play tennis and play racquetball|sd|2191|0
+B|Uh-huh.|b|2191|1
+A|I, I like to get exercise when I'm playing a game of some sort,|sd|2191|0
+A|and so that's always been the way that I have kept myself in, uh, the shape that I was satisfied with at least.|sd|2191|0
+A|And, uh, then I have given that up,|sd|2191|0
+A|but, uh, I would really like to start that again, because I am now, you know, not in a position that I like myself.|sd|2191|0
+B|Uh-huh.|b|2191|1
+A|I don't feel good|sd|2191|0
+A|and I get, you know,|%|2191|0
+A|when you get out of shape and you don't,|sv|2191|0
+A|if,|%|2191|0
+A|you're easily tired|sv|2191|0
+B|Uh-huh.|b|2191|1
+A|and so that has made me,|sd|2191|0
+A|but I, I'm not the kind of person that could go to a spa and work out,|sd|2191|0
+B|Yeah.|b|2191|1
+A|I just,|%|2191|0
+A|if something like, uh,|%|2191|0
+A|I mean I have so many chores and so many obligations every day for, to add another obligation would make me feel stressed.|sd|2191|0
+B|Uh-huh.|b|2191|1
+B|Yeah.|b|2191|1
+B|Uh-huh.|b|2191|1
+A|And I wouldn't enjoy it.|sd|2191|0
+A|But if I have something, some team sport or some activity, then it's kind of like having fun, playing|sd|2191|0
+B|Yeah.|b|2191|1
+A|and then you, then you get some of the, uh, good exercise and some of the desired results,|sv|2191|0
+A|but you, you're doing it for fun.|sv|2191|0
+B|Uh-huh.|b|2191|1
+B|Yeah.|%|2191|1
+A|But I really admire people who can go and work out|sd|2191|0
+B|Well, I don't, you know,|%|2191|1
+B|a lot of people,|%|2191|1
+B|I have a girlfriend that goes for the social aspect of it|sd|2191|1
+B|and she walks around, talks to people|sd|2191|1
+B|and and, I don't really get into that.|sd|2191|1
+B|Naturally I'm married|sd|2191|1
+A|Uh-huh.|b|2191|0
+B|so my husband goes a lot|sd|2191|1
+B|and we'll go and, and just do what we want to do and then leave.|sd|2191|1
+A|Well, that's nice.|ba|2191|0
+B|But, yeah,|b|2191|1
+B|and swimming is a, is a part that I, I'd like to get into as far as my you know,|sd|2191|1
+B|just aerobic activity they say that swimming is real good,|sd|2191|1
+A|Uh-huh.|b|2191|0
+B|so I'd like to try that as well.|sd|2191|1
+B|And that's probably something that, that you could do, you know family, included.|sv|2191|1
+A|Yes.|b|2191|0
+A|It is kind,|%|2191|0
+A|It is family,|^2|2191|0
+A|and it's fun.|sd|2191|0
+B|Uh-huh.|aa|2191|1
+A|It's a fun thing|sd|2191|0
+A|and kids enjoy that and and all.|sd|2191|0
+A|And also, the nice thing about belonging to a club is that you can have some of the relaxation, you know, like saunas, or you know, uh, hot Jacuzzis or whatever, they have that kind of is, kind of makes it fun and stuff, you know,|sv|2191|0
+B|Yeah.|b|2191|1
+B|Right.|b|2191|1
+A|you can relax that way, afterwards and things.|sv|2191|0
+B|Uh-huh.|b|2191|1
+B|Yeah.|aa|2191|1
+B|I agree|aa|2191|1
+A|Well, I guess it's getting late.|sd|2191|0
+B|Yeah.|b|2191|1
+A|And I should take off,|sd|2191|0
+A|but, uh, I appreciate that,|sd|2191|0
+A|that helped me, helped motivate me|sd|2191|0
+B|Okay.|b|2191|1
+A|Think someone can do it.|sd|2191|0
+B|Yeah.|b|2191|1
+A|Maybe I should start thinking about it again.|sd|2191|0
+B|Well, try it|ad|2191|1
+B|or, or maybe just exercise at home.|ad|2191|1
+B|I bought a tape,|sd|2191|1
+B|and I'm going to try doing that.|sd|2191|1
+A|Yeah,|b|2191|0
+A|I bought one,|sd|2191|0
+A|I went to the,|%|2191|0
+A|I bought the low impact first.|sd|2191|0
+B|Uh-huh.|b|2191|1
+B|Yeah,|b|2191|1
+B|that's me.|sd|2191|1
+A|So, but I haven't done it.|sd|2191|0
+B|Uh-huh.|b|2191|1
+A|But I'm going to try it.|sd|2191|0
+A|Well you have a good night.|fc|2191|0
+B|Thanks a lot.|fc|2191|1
+A|We'll see you.|fc|2191|0
+A|Bye-bye.|fc|2191|0
+B|Bye-bye.|fc|2191|1

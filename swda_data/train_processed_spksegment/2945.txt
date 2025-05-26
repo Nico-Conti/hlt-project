@@ -1,0 +1,293 @@
+B|Where are you from Tina?|qw|2945|0
+A|Um, I'm from Maryland|sd|2945|1
+A|and, um, I have one son who's almost sixteen months old.|sd|2945|1
+A|Are, are you married, or ...|qy|2945|1
+B|Yeah,|ny|2945|0
+B|uh-huh.|ny|2945|0
+A|You are.|bk|2945|1
+B|I have, I have two children,|sd|2945|0
+B|I have a seven year old and a three year old.|sd|2945|0
+A|Oh.|b|2945|1
+B|And, uh, so I try to spend as much time as possible with them.|sd|2945|0
+A|That's good.|ba|2945|1
+A|Uh, what kind of things do you do?|qw|2945|1
+B|Well, um, we do a lot of things with them, you know,|sd|2945|0
+B|Taylor my youngest is,|sd|2945|0
+B|or my oldest is in school|sd|2945|0
+B|and so she has a lot of school programs and things like that.|sd|2945|0
+A|Oh.|b|2945|1
+B|was it a big change in your life, to, uh have a child.|qy|2945|0
+A|Oh yeah|ny|2945|1
+A|Um, yeah,|ny|2945|1
+A|it's really nice, uh,|sv|2945|1
+A|my husband, uh, is working you know, most of the time.|sd|2945|1
+A|He's working long hours,|sd|2945|1
+A|but, uh, I'm staying home.|sd|2945|1
+B|Uh-huh.|b|2945|0
+B|Uh-huh.|b|2945|0
+A|Uh, I'm just working a couple days a month,|sd|2945|1
+A|and, um ...|%|2945|1
+B|Oh, uh-huh.|b|2945|0
+B|What do you do during those, those days?|qw|2945|0
+A|Um, we spend a lot of time at the playground|sd|2945|1
+A|and we go to the zoo,|sd|2945|1
+A|and we go|sd|2945|1
+A|and we ...|%|2945|1
+B|Well you said, you said you worked a couple days a month, though,|sd|2945|0
+A|Yeah,|aa|2945|1
+A|yeah.|aa|2945|1
+B|what do, what do you do?|qw|2945|0
+A|I'm a nurse.|sd|2945|1
+B|Oh, are you?|bh|2945|0
+A|So, yeah,|ny|2945|1
+A|so it's, it's, it's real easy to work out my schedule, you know, to, uh, get in, to, to still stay in with that, an, and to have enough time to spend with Matthew.|sd|2945|1
+B|Uh-huh.|b|2945|0
+B|Yeah.|b|2945|0
+B|Yeah.|b|2945|0
+A|He, he's, uh, just now really starting to, to get interested in a lot of things,|sd|2945|1
+A|so, um,|%|2945|1
+B|Yeah,|b|2945|0
+B|I understand that,|sd|2945|0
+B|yeah.|%|2945|0
+B|They really grow up quick. Especially at that early age.|sv|2945|0
+A|Yeah|b|2945|1
+B|But my, my wife was, uh,|sd|2945|0
+B|she worked part-time when my oldest was, was little|sd|2945|0
+B|and now she's staying home all the time,|sd|2945|0
+B|but, uh, that worked out really well because it's a big transition I think to have children.|sv|2945|0
+A|Oh, yeah.|b|2945|1
+B|You know, to go from, you know, nothing, you know,|sv|2945|0
+B|if you want to do something every night that's fine,|sv|2945|0
+B|but when you have children it doesn't work that way anymore,|sv|2945|0
+B|so.|%|2945|0
+A|That's right,|aa|2945|1
+A|and I think a lot of people are, um, are turning to, well, I think, I think a lot of people are realizing that|sv|2945|1
+A|but still there are so many people that are, you know, have their careers first|sv|2945|1
+A|and, it's, uh, I think it's really hurting, uh, the kids, you know,|sv|2945|1
+B|Yeah,|b|2945|0
+B|yeah.|b|2945|0
+A|but.|%|2945|1
+B|Yeah,|aa|2945|0
+B|I agree with you,|aa|2945|0
+B|I, I, I think that my wife leaned that way|sv|2945|0
+B|and I'm really glad she did|sd|2945|0
+B|and, you know, I'm glad she's staying home,|sd|2945|0
+B|but, you know, I know there are some days when she she wishes she was back at work.|sd|2945|0
+A|I know,|aa|2945|1
+A|That's why I like to to, to work a couple days,|sd|2945|1
+A|I think it's, uh, it gives me a break.|sv|2945|1
+B|Yeah.|b|2945|0
+B|Yeah,|b|2945|0
+B|well see that's, that's why I'm glad my wife did too,|sd|2945|0
+B|'cause she worked either two to three days a week|sd|2945|0
+B|and that got her out of the house|sd|2945|0
+B|and yet she'd get to spend, you know, three or four days with ...|sd|2945|0
+A|Most of the time at home,|bf|2945|1
+A|yeah.|b|2945|1
+B|Yeah,|aa|2945|0
+B|yeah,|aa|2945|0
+B|and so.|%|2945|0
+A|Uh, we had started out like that|sd|2945|1
+A|and, um, I think that was really ideal, uh.|sv|2945|1
+B|Yeah,|aa|2945|0
+B|I do to,|sd|2945|0
+B|I agree,|sd|2945|0
+B|but then when you start having two of them, it's, you know, a little bit tougher, because you've got to make a little more money, to make that payoff and stuff.|sv|2945|0
+A|It's,|%|2945|1
+A|yeah.|b|2945|1
+A|Yeah,|b|2945|1
+A|yeah,|b|2945|1
+A|it's difficult,|sv|2945|1
+A|but.|%|2945|1
+B|Are, are you from the Maryland area?|qy|2945|0
+A|Uh-huh,|ny|2945|1
+A|I'm, I've, I've lived here forever,|sd|2945|1
+A|so.|%|2945|1
+B|Really.|bh|2945|0
+A|Yeah,|ny|2945|1
+A|I I live in Germantown,|sd|2945|1
+A|and, uh.|%|2945|1
+A|Are you, where are you from?|qw|2945|1
+B|Um, uh, I'm in Dallas, Texas.|sd|2945|0
+A|In Dallas,|b^m|2945|1
+A|oh.|b|2945|1
+B|Yeah,|b|2945|0
+B|so, uh, I'm, I've lived here like eight years or so,|sd|2945|0
+B|my wife's from Fort Worth.|sd|2945|0
+A|Oh, yea-,.|b|2945|1
+B|But,|%|2945|0
+B|yeah,|b|2945|0
+B|I work for Texas Instruments.|sd|2945|0
+A|Okay,|b|2945|1
+A|oh,|b|2945|1
+A|so that explains.|sd|2945|1
+B|Yeah,|b|2945|0
+B|that explains it doesn't it.|qy|2945|0
+A|Well, um, I don't know,|h|2945|1
+A|I, uh, we, we do a lot of things on the weekends together, the family,|sd|2945|1
+B|Yeah,|b|2945|0
+B|yeah.|b|2945|0
+A|but, uh, as far as during the week, it's, it's usually, uh, you know, just my son and I,|sd|2945|1
+A|and we're ...|%|2945|1
+B|Yeah,|b|2945|0
+B|what's your husband do?|qw|2945|0
+A|Uh, he, he works for Coca Cola.|sd|2945|1
+B|Uh-huh.|bk|2945|0
+A|So he, uh, he manages a plant out here,|sd|2945|1
+B|Oh.|b|2945|0
+A|an, and it takes a lot of time.|sd|2945|1
+B|Oh, yeah,|b|2945|0
+B|I'm sure it does.|ba|2945|0
+A|But, um, it, you know,|%|2945|1
+A|we take walks, and go to the library, and try to fill our day with things like that,|sd|2945|1
+B|Uh-huh.|b|2945|0
+B|Yeah.|b|2945|0
+A|but, um.|%|2945|1
+B|Yeah,|b|2945|0
+B|what, uh,|%|2945|0
+B|my wife did some teaching at like, uh, like a private tutoring place. A Sylvan Learning Center this year|sd|2945|0
+A|Oh.|b|2945|1
+B|and so that, that got me to to be able to spend more time with the kids at night and stuff, you know, 'cause normally if, if they need something they just go to mom. No matter what it is,|sd|2945|0
+A|Oh.|b|2945|1
+A|Yeah|b|2945|1
+B|I mean, I I'm perfectly capable of doing it for them,|sd|2945|0
+B|but, it's so much easier to go to mom,|sd|2945|0
+A|Right.|b|2945|1
+B|I guess they get used to it.|sv|2945|0
+B|So,|%|2945|0
+B|but, you know, we'd go to the library and do things like that,|sd|2945|0
+B|yeah,|%|2945|0
+B|but|%|2945|0
+A|That's good,|ba|2945|1
+A|that's good.|ba|2945|1
+A|I know my husband was real, uh,|sd|2945|1
+A|in the beginning when he, uh, he was transferred to a, a larger plant|sd|2945|1
+A|and he, uh, he works about an hour and a half away from here, from our home,|sd|2945|1
+B|Uh-huh.|b|2945|0
+A|and, uh, so it takes him a little bit of time.|sd|2945|1
+B|Oh, yeah.|b|2945|0
+A|And I'm not able to work during the week, uh, because of that.|sd|2945|1
+A|He was, I was working in the evening,|sd|2945|1
+B|Uh-huh.|b|2945|0
+A|and he was coming home|sd|2945|1
+A|and I, I could go to work,|sd|2945|1
+A|but, uh, their relationship, uh, when I was able to work in the evenings, uh, really grew.|sd|2945|1
+B|Yeah.|b|2945|0
+B|Uh-huh.|b|2945|0
+A|He, you know,|%|2945|1
+A|just the time that they were spending together,|sd|2945|1
+B|Yeah.|b|2945|0
+A|I think it, it really, it really helped to have that time together.|sv|2945|1
+B|Uh-huh,|aa|2945|0
+B|it really does|sv|2945|0
+B|because I think you know, you grow closer.|sv|2945|0
+B|Was your, uh, was your husband, I mean naturally a child,|qy|2945|0
+B|I mean had he been around children,|qy|2945|0
+B|or ...|%|2945|0
+A|Uh, oh yeah,|ny|2945|1
+A|he has, uh, he has seven other brothers and sisters,|sd|2945|1
+B|Oh.|b|2945|0
+A|and they have, we have thirteen grand,|sd|2945|1
+A|well his parents have thirteen grandchildren.|sd|2945|1
+B|Uh-huh.|b|2945|0
+A|So it's, uh, you know, there's a lot of kids in the family|sd|2945|1
+A|and, and he really enjoys it.|sd|2945|1
+B|Yeah,|b|2945|0
+B|yeah.|b|2945|0
+A|But, uh, right now it's kind of a difficult time,|sd|2945|1
+A|but ...|%|2945|1
+B|Yeah.|b|2945|0
+A|And, and the cost of living here is just so tremendously, you know, outrageous|sv|2945|1
+B|Yeah,|b|2945|0
+B|yeah.|b|2945|0
+A|Um, it's difficult, uh, to do it any other way.|sv|2945|1
+B|Yeah,|b|2945|0
+B|I understand.|sd|2945|0
+A|Yeah.|b|2945|1
+B|I'm, I, you know|%|2945|0
+B|it's, it's hard because, you know,|sv|2945|0
+B|then you're not getting to spend as much time with, at home,|bf|2945|0
+B|I mean your husband is not getting to spend as much time at home as he'd want to.|bf|2945|0
+A|That's right.|aa|2945|1
+B|So, yeah,|b|2945|0
+B|that that's a tough situation,|sv|2945|0
+B|but then, then again, you know, some,|%|2945|0
+B|you got to do what you got to do, you know to get along, too,|sv|2945|0
+A|Yeah.|b|2945|1
+B|so.|%|2945|0
+A|Yeah,|b|2945|1
+A|yeah,|b|2945|1
+A|at least, I, I just consider myself blessed that I can stay home|sv|2945|1
+A|It, uh,|%|2945|1
+B|Uh-huh,|b|2945|0
+B|well like I said my wife normally feels that way,|sd|2945|0
+B|there are days when, uh, I come home and she says here take these kids,|sd|2945|0
+B|I'm getting out.|^q|2945|0
+A|I know|ba|2945|1
+B|So she's, she's had about enough during those days,|sd|2945|0
+B|but. But, for the most part, I, you know, I've really feel like that's led,|sv|2945|0
+A|I know.|ba|2945|1
+B|the way that, you know,|%|2945|0
+B|like what you said with the cost of living and everything, I think a lot of people can't afford to get by on just one salary an and won't.|sv|2945|0
+A|Yeah.|b|2945|1
+A|Yeah.|b|2945|1
+B|And so I think that's tended to lead to a decline in, in families and family values especially.|sv|2945|0
+A|Oh yeah,|aa|2945|1
+A|it has.|sv|2945|1
+B|And I really think that that's one of the problems the nation's facing that, you know, we need to do something about,|sv|2945|0
+B|but I don't know what.|sd|2945|0
+A|I believe that too,|aa|2945|1
+A|and I think, uh, the kids are where they need to, you know,|sv|2945|1
+B|Yeah.|b|2945|0
+A|they need to really focus on the children in the in this country.|sv|2945|1
+B|Yeah.|b|2945|0
+B|Would, would you have said that a couple of years ago, do you think?|qy|2945|0
+A|No,|nn|2945|1
+A|I didn't, I didn't even really think about it that much, I mean, you know,|sd|2945|1
+B|Uh-huh.|b|2945|0
+A|I, I was aware, vaguely aware of it,|sd|2945|1
+A|but, um, I didn't it wasn't really that important to me,|sd|2945|1
+A|and, uh, ...|%|2945|1
+B|Uh-huh,|b|2945|0
+B|it's amazing how your whole focus on life changes after you've had a child.|sv|2945|0
+A|Oh, it, it really does,|aa|2945|1
+A|I,|%|2945|1
+A|just the whole, uh, you know,|%|2945|1
+A|seeing how you really are are, are forming this, you know, the mind|bf|2945|1
+B|Uh-huh.|aa|2945|0
+B|Well, you know, in the next year or so, you'll see so many instances where, you know, he'll mimic something that you've done,|sd|2945|0
+B|and you see, you know, everything I'm doing, he's learning from.|sv|2945|0
+A|That's right.|aa|2945|1
+B|And, and, you think, if I wasn't here he'd be learning that from a baby-sitter or from a day care.|sd|2945|0
+A|Yeah.|b|2945|1
+B|You know, that's how they're developing their patterns.|sv|2945|0
+B|And I think a lot of people either, don't care, or don't realize it, you know.|sv|2945|0
+B|That's,|%|2945|0
+A|Or, or they just put it in the back of their mind and let it slide.|^2|2945|1
+B|Yeah.|aa|2945|0
+A|I, I've seen a lot of people just say well, you know, he'll learn everything when he gets into, uh, you know,|sd|2945|1
+B|Yeah|b|2945|0
+B|eventually.|^2|2945|0
+B|Yeah,|aa|2945|0
+B|it's true.|sv|2945|0
+A|but it, um,|%|2945|1
+A|I, I know,|sd|2945|1
+A|even just this first year, that I've been with, uh, my son, here, um, he's,|sd|2945|1
+A|I can just see how much, of, of a difference it makes staying home with him, instead of, uh,|sd|2945|1
+B|Uh-huh,|b|2945|0
+B|Yeah.|b|2945|0
+B|Yeah,|b|2945|0
+B|plus, plus I think it becomes part of part of you too,|sv|2945|0
+B|I mean, you get to stay home,|sd|2945|0
+B|I mean it's not just for him,|sv|2945|0
+B|but it's also for you, because you're both kind of bonding together there too, I think,|sv|2945|0
+B|so.|%|2945|0
+A|Yeah,|aa|2945|1
+A|that's true.|sv|2945|1
+B|Well it's been nice talking to you.|fc|2945|0
+A|Well it's nice talking to you, too.|fc|2945|1
+B|Okay|fc|2945|0
+B|good luck.|fc|2945|0
+A|Okay.|fc|2945|1
+B|Okay,|fc|2945|0
+B|good-bye.|fc|2945|0

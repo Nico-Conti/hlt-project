@@ -1,0 +1,256 @@
+A|All right,|fo_o_fw_"_by_bc|3013
+A|what type of things would you fix if you're having company come over?|qw|3013
+B|Well, I have a really great one that I make in the summertime because it's cool|sd|3013
+B|and it's, uh, it's just really pretty easy.|sd|3013
+B|It's pretty much dumping things in and stirring.|sd|3013
+A|Uh-huh.|b|3013
+B|And I like that.|sd|3013
+B|Uh, the only thing you have to do is cook the rice that goes in, in it|sd|3013
+B|and then I, you're supposed to do chicken,|sd|3013
+B|but I just use those little cans of chicken.|sd|3013
+A|Uh-huh.|b|3013
+B|And it makes it so much easier,|sd|3013
+B|and so you dump the rice,|sd|3013
+B|you dump the chicken|sd|3013
+B|and then you put in fruit like pineapple and mandarin oranges and grape,|sd|3013
+B|now grapes are the ones that you have to pull all that off,|sd|3013
+B|but I get my kids to do that,|sd|3013
+B|so,|%|3013
+A|Oh|sd|3013
+B|I, I don't have to do that.|sd|3013
+B|And, um, and it really,|%|3013
+B|and you mix it all up with|sd|3013
+B|there's a little dressing that goes in it that you have to stir up,|sd|3013
+B|but it's so simple|sd|3013
+B|and it tastes really good because it's cool in the summertime.|sd|3013
+A|Oh, yeah.|b|3013
+A|You serve it cold?|qy|3013
+B|Uh-huh.|ny|3013
+A|Oh, yeah,|bk|3013
+A|that sounds good.|ba|3013
+B|Yeah,|b|3013
+B|it has to sit in the fridge over night,|sd|3013
+B|but, but it's really good.|sv|3013
+A|Um.|%|3013
+B|And I like that one.|sd|3013
+A|Yeah.|b|3013
+A|Usually when we entertain we do something really simple, because I like to visit with my company, and not be scurrying around in the kitchen,|sd|3013
+B|Yeah.|b|3013
+A|so, a lot of times, we'll barbecue|sd|3013
+B|Exactly.|b|3013
+A|like, uh, for Memorial Day we had some friends over|sd|3013
+A|and we just bought a brisket and marinated it overnight in one of those like Adolph's meat marinate, and put it on the smoker and cooked it.|sd|3013
+B|Uh-huh.|b|3013
+B|Oh, that sounds good.|ba|3013
+A|And it was real good.|sd|3013
+A|You can buy a fairly cheap piece of meat that way|sd|3013
+A|and then people think they're eating steak or something|sd|3013
+B|Yeah,|b|3013
+B|yeah|b|3013
+B|And these days that helps, doesn't it?|qy|3013
+A|Yeah,|b|3013
+A|yeah.|b|3013
+B|Yeah.|b|3013
+A|It really does.|sd|3013
+B|I know what you mean.|sd|3013
+A|I don't usually I just pass on any recipe that's got more than five or six steps to it because I just know I'll never take the time to do it.|sd|3013
+B|Now spaghetti's such an easy one.|sd|3013
+B|Um, I do that a lot.|sd|3013
+A|Uh-huh.|b|3013
+B|I do spaghetti a lot.|sd|3013
+A|Yeah,|b|3013
+A|it seems like most people like spaghetti.|sd|3013
+B|Yeah,|b|3013
+B|I don't like to do that if it's real hot though.|sd|3013
+A|Yeah.|b|3013
+B|Because, um, I don't know,|h|3013
+B|I have a real thing about being hot in the, in the summertime.|sd|3013
+A|Uh-huh.|b|3013
+B|I guess.|b|3013
+A|Well I think when you heat your kitchen up it really makes a big difference, in your whole house.|sv|3013
+B|Yeah.|b|3013
+B|Yeah,|aa|3013
+B|I think that's right.|sv|3013
+B|And, um, we don't entertain that often,|sd|3013
+B|but when we do, I'm like you. I like it to be fast and easy. And something so that we can talk and not and not have to worry about being in the kitchen all the time.|sd|3013
+A|Uh-huh.|b|3013
+A|Yeah.|b|3013
+A|Most,|%|3013
+A|we don't entertain like people from work or stuff often.|sd|3013
+A|It's usually friends from church and stuff,|sd|3013
+B|Yeah.|b|3013
+A|and it's usually kind of like, you want to come over, and they say well what can we bring.|sd|3013
+B|Yeah.|b|3013
+A|And so it's real easy because you just make one or two things|sd|3013
+A|and everybody else brings something.|sd|3013
+B|That's exactly like us, from our church, we just do it,|sd|3013
+B|yeah.|aa|3013
+A|Oh yeah,|ba|3013
+A|yeah.|b|3013
+B|Uh.|%|3013
+A|It's a lot more relaxing.|sd|3013
+A|I don't know if I could take the pressure of having to you know, put on this really fancy dinner for someone.|sd|3013
+B|Well you see all that on T V|sd|3013
+B|and I could never be that person.|sd|3013
+A|Huh-uh.|b|3013
+B|It just, uh, I'm just not,|%|3013
+B|well I'm so, I'm pretty laid back.|sd|3013
+A|Yeah|b|3013
+B|And, uh, you know, so I don't, I know a lady in a, my church|sd|3013
+B|and, uh, she like does her own bread and does her own stuff|sd|3013
+B|and so when she, um, does food, she really goes all out|sd|3013
+B|and I don't know how she can do it and be calm|sd|3013
+A|Yeah|b|3013
+B|I guess,|fo_o_fw_"_by_bc|3013
+A|Do you work?|qy|3013
+B|No,|nn|3013
+B|I don't.|sd|3013
+A|Do you stay home with kids?|qy|3013
+B|Uh-huh,|ny|3013
+B|yeah.|ny|3013
+A|Yeah.|b|3013
+A|I, I've been working,|sd|3013
+A|we're going to have a baby this summer,|sd|3013
+A|and I'm not going to work anymore.|sd|3013
+B|Oh, how exciting.|ba|3013
+A|Yeah.|b|3013
+A|So hopefully, I think I'll enjoy cooking more, when I don't have to work all day.|sd|3013
+A|I don't like to come home and stand in the kitchen and spend an hour fixing something and then have to clean it up|sd|3013
+A|and by then it's eight thirty or nine o'clock at night,|sd|3013
+A|so.|%|3013
+B|Yeah.|b|3013
+B|Well I usually start about six and, an, and cook and then eat at seven. I mean, cook at five and eat at six, rather.|sd|3013
+A|Yeah.|b|3013
+A|Eat at six, yeah.|b^m|3013
+B|Yeah,|b|3013
+B|and, uh, my family and I, we're a sit down together family.|sd|3013
+A|Oh, that's good.|ba|3013
+B|Uh, yeah,|b|3013
+B|I don't like the run in and out part.|sd|3013
+A|Yeah.|b|3013
+B|And I like to be able to sit down after school and have them talk with me an, and my husband about what's happened|sd|3013
+B|and, I think I, that was ingrained in me during my family time at home.|sd|3013
+A|Yeah,|b|3013
+A|that's neat.|ba|3013
+A|Uh-huh.|b|3013
+B|And, uh, you know we could learn to talk about things|sd|3013
+B|and I think that's good.|sv|3013
+A|Yeah,|aa|3013
+A|that really is.|sv|3013
+A|It keeps the family in touch with what's going on with each other.|sd|3013
+B|Yeah.|b|3013
+B|I think,|%|3013
+A|Right now we eat in front of the T V|sd|3013
+A|but since it's just the two of us, it's|sd|3013
+B|Yeah,|b|3013
+B|yeah|b|3013
+B|Well that happens to us sometimes too.|sd|3013
+A|Yeah.|b|3013
+B|But, uh, sometimes if something, uh, is on that they want to watch I leave it on,|sd|3013
+B|but we eat in the kitchen|sd|3013
+B|and their heads are always poking past the door.|sd|3013
+A|Uh-huh,|b|3013
+A|to see what's happening.|^2|3013
+B|Yeah.|b|3013
+B|Anyway food is, is, uh, a real life-style kind of thing|sv|3013
+B|and some people don't like to do this|sv|3013
+B|but I like to uh, cook with my kids.|sv|3013
+A|Oh, uh-huh.|b|3013
+B|And if they're going to have other kids over then, then they help.|sd|3013
+B|And we make real simple things, you know, those, oh,|sd|3013
+B|I I don't know if you've ever made them, maybe not since you don't have kids yet, but those Jell-O, uh, gelatin things you can pick up with your fingers, I can't think of what they call it.|sd|3013
+A|Oh, I've seen those in the magazines.|sd|3013
+B|Yeah,|b|3013
+B|they're so simple.|sv|3013
+A|Uh-huh.|b|3013
+B|And the kids love to do that.|sd|3013
+B|Uh, finger food is, is a biggie with them.|sd|3013
+A|Yeah.|b|3013
+B|And, and like, now one thing I wish I could find a, a better way to do are celery sticks and carrot sticks, because they love to do that|sd|3013
+B|and it's just really hard|sd|3013
+B|and if you have to work with a knife, I don't like that.|sd|3013
+A|Yeah.|b|3013
+B|So, that's, uh,|%|3013
+B|they like to eat it,|sd|3013
+B|but it's a hard one to have to, to prepare.|sd|3013
+A|Yeah,|b|3013
+B|But they like that with the, the cool ranch dressing that goes along with that.|sd|3013
+A|Oh yeah,|b|3013
+A|yeah,|b|3013
+A|we like that.|sd|3013
+B|Yeah.|b|3013
+A|That's good that, that's a good way to get kids to eat vegetables too.|sv|3013
+B|Yeah.|b|3013
+B|My son's getting to be a, a real good cook|sd|3013
+B|so, uh,|%|3013
+A|Oh, neat.|ba|3013
+B|sometimes he fixes me breakfast|sd|3013
+A|Oh, wow, that's great|ba|3013
+B|Yeah,|b|3013
+B|I like it,|sd|3013
+B|I like it a lot.|sd|3013
+A|How old is he?|qw|3013
+B|He's eleven.|sd|3013
+A|Eleven,|b^m|3013
+A|wow, that's good.|ba|3013
+B|Uh-huh.|b|3013
+B|Yeah,|b|3013
+B|so|%|3013
+A|Do you cook like you cook a breakfast every morning|qy|3013
+A|or,|%|3013
+B|Uh, not every morning, uh,|ng|3013
+B|mostly during the summer it's hit and miss|sd|3013
+B|and, we usually have like, uh, cold cereal or something like that.|sd|3013
+A|Yeah.|b|3013
+A|Yeah.|b|3013
+B|Um, during the during wintertime when they're in school, um, then I try to vary it so that we only eat that like a twice a, twice a week or something and then have like, when it's really cold, I even cook oatmeal, Because I like oatmeal|sd|3013
+A|Uh-huh.|b|3013
+B|and the they like it all right.|sd|3013
+A|Yeah.|b|3013
+B|And, um, then sometimes we do something,|sd|3013
+B|it has to be fast because they're on their way to school,|sd|3013
+B|we do like Eggo waffles and stuff like that,|sd|3013
+B|but.|%|3013
+A|Oh, uh-huh,|b|3013
+A|yeah.|b|3013
+B|Yeah,|b|3013
+B|so, I try to, uh,|%|3013
+B|and sometimes we do eggs if I get up early enough to do that.|sd|3013
+B|I used to do them in the microwave,|sd|3013
+B|but they don't like that.|sd|3013
+A|Oh, do they get rubbery,|qy|3013
+A|or,|%|3013
+B|Um.|%|3013
+A|I've never tried it.|sd|3013
+B|It it depends.|no|3013
+B|If you let them cook too long then they'll turn a little bit gray.|sd|3013
+A|Uh-huh.|b|3013
+B|You can tell if they've gone to long because they'll turn a little bit gray|sd|3013
+B|and they will be a little harder,|sd|3013
+B|and I don't like that.|sd|3013
+A|Yeah.|b|3013
+B|So you have to just let it cook a little bit less than what it says in, if you have a microwave book,|sd|3013
+B|but you cook it a little bit less and then let it sit with a, like a plate over the top.|sd|3013
+A|Oh.|b|3013
+B|And let it steam.|sd|3013
+A|Uh-huh.|b|3013
+B|And then, and then stir it up.|sd|3013
+A|Huh.|b|3013
+B|Yeah,|b|3013
+B|an, and that turns out okay.|sd|3013
+A|Yeah.|b|3013
+B|And it's funny 'cause if I turn them out on to a on to like a plate, for them to take what they want, they don't know I've ever done it in a microwave.|sd|3013
+A|Uh-huh.|sd|3013
+B|It's really funny,|sv|3013
+B|it's very deceiving, you know, 'cause if they see it with their eyes they go, uh, I don't like want that, you know,|sd|3013
+A|Yeah|b|3013
+B|and yet if they don't ever see it, then it's like, oh this tastes okay, you know,|sd|3013
+B|so.|%|3013
+A|Yeah.|b|3013
+B|Anyway.|%|3013
+A|We had,|sd|3013
+A|my grandmother used to do that to us with things like squash.|sd|3013
+A|Everybody would say we don't like squash, we won't eat squash,|sd|3013
+A|so she would make these fancy casseroles and hide it in there, you know,|sd|3013
+B|Yeah|b|3013
+A|and then we'd go, oh, this is really good.|sd|3013

@@ -1,0 +1,111 @@
+A|Hi.|fp|3253|0
+B|Hi.|fp|3253|1
+A|I'm wondering what, what camping means to you.|qw^d|3253|0
+B|When I think of camping I think of, of bugs and sleeping bags and, and tents, uh, like along the Appalachian Trail.|sd|3253|1
+A|Oh, very good.|ba|3253|0
+A|That's sort of the same thing that, that I do.|sd|3253|0
+A|I don't think of, um, trailers and campers and all this stuff.|sd|3253|0
+B|No.|aa|3253|1
+A|Um, do you do much camping?|qy|3253|0
+B|I have never been camping|ng|3253|1
+A|Oh, you've never been camping.|b^m|3253|0
+A|Oh, gee.|ba|3253|0
+B|No.|nn|3253|1
+B|Do you do much?|qy|3253|1
+A|Well, um, yes and no,|no|3253|0
+A|and, the, uh,|%|3253|0
+A|I haven't done much recently,|sd|3253|0
+A|but, um, up until, gee, maybe five or six years ago, I did a lot of it|sd|3253|0
+B|Really,|b|3253|1
+A|and, you know I've,|%|3253|0
+B|Where you live now,|qy^d|3253|1
+A|Say?|br|3253|0
+B|or,|%|3253|1
+A|No, um,|nn|3253|0
+A|I used to live abroad,|sd|3253|0
+A|and so, I, I camped a lot in, um, the Middle East|sd|3253|0
+B|Oh, okay.|bk|3253|1
+A|and I was able to camp right in ruins, which was always very exciting and, a bit exotic for those who love bugs,|sd|3253|0
+B|Oh, I bet.|ba|3253|1
+A|but, um, and then when I used to come back to the states in summer we'd often go up, um, to the lake country in New York with my brother's family and, and do camping there.|sd|3253|0
+B|Uh-huh.|b|3253|1
+B|Oh, okay.|b|3253|1
+B|Well, my uh, husband and, and his uncle especially, uh, grew up camping together,|sd|3253|1
+B|and, uh, they, they just love it,|sd|3253|1
+B|and they're planning a trip, uh, into Canada this, I guess in about a year,|sd|3253|1
+B|and they're going to spend about a week and a half camping up there,|sd|3253|1
+A|And you're not going?|qy|3253|0
+B|No,|nn|3253|1
+B|this is, this is a, a man's trip|sd|3253|1
+A|Oh, that's too bad,|fo_o_fw_"_by_bc|3253|0
+B|So they're really looking forward to that|sd|3253|1
+A|Oh, gee.|ba|3253|0
+B|so.|%|3253|1
+A|I guess it makes a difference.|sd|3253|0
+A|I grew up camping, being in Girl Scouts and things like that,|sd|3253|0
+A|so.|%|3253|0
+B|And see I was, I was never exposed to it|sd|3253|1
+A|Uh-huh,|b|3253|0
+A|uh-huh.|b|3253|0
+B|so,|%|3253|1
+B|I, I feel like I'm a little bit too, uh, much of a city, city mouse to try doing it|sd|3253|1
+A|Oh, that's too bad.|fo_o_fw_"_by_bc|3253|0
+A|I think you know, there's certainly a lot of aspects you would like,|sv|3253|0
+A|but maybe not the, you know the Canada men's trip, but some other, you know,|sv|3253|0
+A|a nice tent on the, the shore of a lake,|sv|3253|0
+A|and,|%|3253|0
+B|What's the best part about it to, to you, the, the quiet, the getting away?|qw|3253|1
+A|Right,|na|3253|0
+A|the, the, the no telephone, the,|sd|3253|0
+A|gee whiz, you go to bed when it gets dark,|sd|3253|0
+A|and you get up when it gets light|sd|3253|0
+B|Wow.|ba|3253|1
+A|Yeah,|b|3253|0
+A|and, um, I guess just, just the change, from the rat race.|sd|3253|0
+B|Now, do you usually, like do you usually go and there's lots of other people around,|qy|3253|1
+B|or is it pretty much isolated.|qrr|3253|1
+A|No,|nn|3253|0
+A|it's, uh, it's pretty isolated, um,|sd|3253|0
+A|and to me, I like that, I guess, too, although there are people,|sd|3253|0
+A|I mean, you know, it's really hard to get away|sv|3253|0
+B|Yeah.|b|3253|1
+A|and I guess when, when we did sites in, in the Middle East, of course it was with a group, in order to make it safe|sd|3253|0
+B|Yes.|b|3253|1
+A|but, I mean, we'd go in different parts of the ruins, and, and things like that.|sd|3253|0
+A|But we didn't even have tents there,|sd|3253|0
+A|we just sort of put out the sleeping roll|sd|3253|0
+B|Oh, good grief.|ba|3253|1
+B|That, that does sound neat,|ba|3253|1
+B|but I don't think I, I've got quite enough nerve to do that.|sv|3253|1
+B|I know my husband's gone, uh, for several days on the Appalachian Trail before,|sd|3253|1
+B|and he said that you can, a lot of times you can go for, you know, a good day before you'll see or meet anybody else on the trail.|sd|3253|1
+A|Right.|b|3253|0
+B|So it's not for the faint of heart, I don't think.|sv|3253|1
+A|Right.|aa|3253|0
+A|Actually I just joined, um, the Appalachian Trail Walking Club, or whatever they call it,|sd|3253|0
+A|what,|%|3253|0
+B|Oh.|b|3253|1
+A|I love to walk|sd|3253|0
+B|Uh-huh.|b|3253|1
+A|and, um, I'm going to start with day trips, though, because I don't know the territory and all,|sd|3253|0
+A|and I'm not sure,|h|3253|0
+A|my son is not eager to go|sd|3253|0
+B|I think it would be,|aa|3253|1
+B|yeah.|b|3253|1
+B|Well, that sounds really neat.|ba|3253|1
+A|Oh, but, you know, I'm going to try|sd|3253|0
+A|Well, gee whiz,|ba|3253|0
+A|I hope you get into camping some day, just slowly.|sd|3253|0
+B|we talk about sometimes going up to Chincoteague|ad|3253|1
+A|Oh, yeah.|b|3253|0
+B|and, uh, I,|%|3253|1
+B|maybe, like you said, start out slow and, and kind of get used to it, and find out that it, maybe it's not as bad as I, I fear it might be|sd|3253|1
+A|Right,|b|3253|0
+A|I think that, you know,|sv|3253|0
+A|I guess one time recently we went up to Maine, and had planned to camp,|sd|3253|0
+A|and you know, the only site left when we got there was in the middle of a field,|sd|3253|0
+A|and I said, Gee whiz, for twenty dollars we can go down the road and get a, a motel which we did,|sd|3253|0
+B|Yeah.|b|3253|1
+A|and, so that, you know,|%|3253|0
+A|if the setting was right and that, it's, it's great,|sd|3253|0
+A|but if it's,|%|3253|0

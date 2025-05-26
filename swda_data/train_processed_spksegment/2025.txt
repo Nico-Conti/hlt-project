@@ -1,0 +1,145 @@
+A|All right,|fo_o_fw_"_by_bc|2025|0
+A|Amy, how are you doing today?|fp|2025|0
+B|Fine,|fp|2025|1
+B|fine.|fp|2025|1
+A|All right,|b|2025|0
+A|I think we know what we're going to speak about.|sd|2025|0
+B|Yeah.|b|2025|1
+A|Uh, I tell you what, I'll start off.|oo_co_cc|2025|0
+A|How's that?|qw|2025|0
+B|Okay,|aa|2025|1
+B|you go ahead.|ad|2025|1
+A|Um, I personally think to set a mark with the judicial system and we're talking about criminals, criminal cases that they should bring back hangings on weekends, in public places.|sv|2025|0
+B|Uh-huh.|b|2025|1
+B|In public places.|^2|2025|1
+A|There is one state that does that, by the way.|sd|2025|0
+B|Really?|bh|2025|1
+B|What is that?|qw|2025|1
+A|I want to say Oklahoma,|sd|2025|0
+A|I saw something the other night about it.|sd|2025|0
+B|Um.|%|2025|1
+A|They don't do them real often. Which is obviously the death penalty.|sd|2025|0
+B|Yeah.|b|2025|1
+B|Yeah.|b|2025|1
+A|Um, but I think if we quit, uh, building, these Taj Mahals with the color T V and sixty sixty thousand a year to keep an inmate in there on a, on a, on a life sentence, we should start hanging them and get it over with|sv|2025|0
+A|and let's just screwing up the system.|sv|2025|0
+B|Yeah.|b|2025|1
+B|Well, the sentences are so unbelievable.|sv|2025|1
+B|I just saw on the news last night, that they said the average time a sentenced murderer, you know, is in jail is two years before he's paroled, and a rapists is like six months, and a burglar is like two months.|sd|2025|1
+A|That's pathetic.|sv|2025|0
+A|That's pathetic.|sv|2025|0
+B|Because they just say there's either no room in the system, you know, in the jails for them|sd|2025|1
+B|or, you know, it's just that, it seems like the automatic sentences, if, if a judge has leeway, on what he's going to, you know, sentence someone for between, you know, two months and fifty years and, you know, what's his whim to decide it should be two months.|sv|2025|1
+A|This is true,|aa|2025|0
+B|You know, it's crazy.|sv|2025|1
+A|an, and the way the law reads, uh, if they sentence you to life in prison, then he's available for parole.|sd|2025|0
+A|If it's life and a day, then he's not eligible for parole.|sd|2025|0
+B|Yeah.|b|2025|1
+A|So, what, you know,|%|2025|0
+A|let's quit B S with the system.|sv|2025|0
+B|Well even if it's life, like you say, we end up spending sixty thousand dollars a year to keep some, you know, joker in there for life.|sd|2025|1
+B|We could spend that money, you know, for children that are starving, or twelve million other things would be more useful than that.|sv|2025|1
+A|Exactly.|aa|2025|0
+B|So to me if somebody has life, you know, beyond a reasonable doubt they should, that should be it.|sv|2025|1
+A|A life for a life.|bf|2025|0
+B|You know particularly for some of these really, I mean,|sv|2025|1
+B|there are so many just major, major serial murders,|sv|2025|1
+B|it's not just like one instance, or something, it's just, uh, horrifying, some of the murders that go on.|sv|2025|1
+A|The old Charles Manson case.|sd|2025|0
+A|I mean the guy is really, just shouldn't be allowed to, to even, even live.|sv|2025|0
+B|Yeah,|aa|2025|1
+B|an,|%|2025|1
+B|yeah,|aa|2025|1
+B|there's just everyday you hear on the news of another one like that.|sd|2025|1
+B|Yeah.|b|2025|1
+A|Uh, about the issue about sentencing by the judge.|sd|2025|0
+B|Uh-huh.|b|2025|1
+A|The, the judge presently has an opportunity to intervene, uh, when there's a, my understanding, when there's uh, a verdict|sd|2025|0
+A|and it|%|2025|0
+A|for example there's a hung jury here in Fort Worth, today, in eight to four|sd|2025|0
+A|and bam, bam the guy got off.|sd|2025|0
+A|Uh, he was, he was a veterinarian, and killed two, a father and a son, okay.|sd|2025|0
+B|Right,|aa|2025|1
+B|yeah,|aa|2025|1
+B|I heard about that on the news.|sd|2025|1
+A|Uh, it kind of gets back to the second request,|sd|2025|0
+A|we've been asked to look at, is most criminal cases requiring an unanimous verdict.|sd|2025|0
+A|In a situation like that, I'd say no,|sd|2025|0
+A|let's just go like a regular vote.|^q|2025|0
+A|Eight to four tells me that there were eight,|sd|2025|0
+A|there's a certain percentage of the people there, with sixty percent of the people, uh, seventy percent of the people said, hey, they guys guilty.|sd|2025|0
+B|Right.|b|2025|1
+B|Rather than have to retrial the whole, whole thing and spend all the money for people to, uh, you know, go back to court and all the lawyers|sv|2025|1
+B|and, I mean it just winds up costing the taxpayers a, you know, a fortune to keep doing that.|sv|2025|1
+A|Exactly.|aa|2025|0
+B|And the victims, you know, the family of these people that have been murdered, they just have to have it dragged on for years and years before they ever get any resolution.|sv|2025|1
+A|Exactly,|aa|2025|0
+A|because it's not next day they have, the, start the trial, it's X number of months and just prolongs the situation that much more.|bf|2025|0
+B|Right,|aa|2025|1
+B|yeah,|aa|2025|1
+B|yeah.|aa|2025|1
+A|I think that, that if it's, if it's not a split decision, go with the highest number|sv|2025|0
+A|and let's just get on with the program.|sv|2025|0
+B|Yeah,|aa|2025|1
+B|yeah.|aa|2025|1
+A|But as far as the sentencing by the judge, I would have to vote against that since there is a jury, because that's what the juries are for is to make the decision.|sd|2025|0
+B|Yeah,|aa|2025|1
+B|yeah,|aa|2025|1
+A|Uh, what are your feelings?|qo|2025|0
+B|Well if I,|%|2025|1
+B|I saw on one of the talk shows this woman judge, I believe from Florida,|sd|2025|1
+B|and she just has, just really stiff penalties|sd|2025|1
+B|and I saw that in, in the hands of a judge that really was conscientious and really, you know, took the pains to give a sentence for what was deserved, it could, you could have a, a judge that would really make a good impact.|sd|2025|1
+B|But likewise, you could have the flip side, and have some judge that was paid off or, you know, had a good old boy network|sv|2025|1
+B|or for whatever reasons, you know, politics, just let all kinds of people through|sv|2025|1
+B|so, he, he would have a heck, or she would have a heck of a lot of power, you know, if used wrongly.|sv|2025|1
+B|So at least the jury system does something to prevent that, you know, or help it with it anyway.|sv|2025|1
+B|I don't know if it prevents it,|sd|2025|1
+B|but, seems like the jury system does have it's advantages.|sv|2025|1
+B|But I also, I've also heard on trials that sometimes they go through like three hundred jurors before they hand pick these jurors that they think are going to be the ones that are going to be the most lenient, you know,|sd|2025|1
+B|and I don't know how much they're getting just a jury of their peers, at that point, they're really getting a select group.|sd|2025|1
+B|It's not just random people.|sd|2025|1
+A|Um.|%|2025|0
+B|It almost should be the first twelve people that they, you know, have on a list are the ones that are on the jury|sv|2025|1
+B|and that's it.|sv|2025|1
+A|Yeah,|aa|2025|0
+A|I get back to Price's comment when he, uh, was found guilty he said well he didn't have any blacks, uh, you know, from his neck of the woods.|sd|2025|0
+A|Well give me a break, you know.|fo_o_fw_"_by_bc|2025|0
+B|He'd have to have his whole family up there for him to feel like he's got his peers or something,|sv|2025|1
+B|yeah.|%|2025|1
+A|Exactly,|aa|2025|0
+A|yeah,|aa|2025|0
+A|yeah.|aa|2025|0
+A|I mean you're, you're in Dallas|sd|2025|0
+A|so everybody,|sd|2025|0
+A|I can't believe they can,|sd|2025|0
+A|uh, like in a murder situations, they look for juries who don't know anything about the system, well or know anything about the, the occurrence,|sd|2025|0
+A|you'd have to be pretty dense,|sv|2025|0
+B|Yeah.|b|2025|1
+A|you'd be, you'd either have to be in a cave not to know what's going on, or moving it to Lubbock, or somewhere, possibly is not the answer.|sv|2025|0
+B|Yeah.|b|2025|1
+B|Oh, they'd have to move it to Taiwan for people not to know about it practically.|sv|2025|1
+A|This is true, so true.|aa|2025|0
+B|Yeah,|b|2025|1
+B|yeah.|b|2025|1
+A|Well this has been an interesting conversation.|sv|2025|0
+B|Well, really, this is, breaks up my afternoon from changing diapers and mopping floors, I mean,|sd|2025|1
+B|what can I say.|qh|2025|1
+A|So, you're at the house you're not at the plant.|bf|2025|0
+B|No,|aa|2025|1
+B|I'm at home with two little preschoolers.|sd|2025|1
+B|My husband works for T I.|sd|2025|1
+A|Oh, that's good,|ba|2025|0
+A|that's good.|ba|2025|0
+A|I thought I heard a holler there in the background,|sd|2025|0
+A|but I wasn't sure.|sd|2025|0
+B|Oh yeah,|aa|2025|1
+B|I've got the dog and two kids waiting here,|sd|2025|1
+B|I'm just locked up in the laundry room|sd|2025|1
+A|Oh goodness,|ba|2025|0
+A|well, I'll let you get,|oo_co_cc|2025|0
+B|Okay,|aa|2025|1
+B|thanks a lot.|ft|2025|1
+B|Bye-bye.|fc|2025|1
+A|I enjoyed it.|fc|2025|0
+A|Bye.|fc|2025|0

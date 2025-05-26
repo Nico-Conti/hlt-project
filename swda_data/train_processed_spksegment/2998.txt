@@ -1,0 +1,180 @@
+A|Um, what do you think the major cause of air pollution or at least in the Boston areas,|qo|2998|0
+B|Well, the, the, the major cause it seems up here is|sd|2998|1
+B|I live right on the ocean|sd|2998|1
+B|so it's kind of hard for me to tell what would happen if I lived in some of the valleys inland,|sd|2998|1
+A|Uh-huh.|b|2998|0
+B|but the major cause here, and we always seem to, and it seems to be validated by the press, is the car pollution.|sd|2998|1
+B|We don't have too much industrial pollution.|sd|2998|1
+A|Yeah,|b|2998|0
+A|yeah.|b|2998|0
+B|Uh, car pollution seems to be the one and only thing that, that I can really put my finger on here.|sd|2998|1
+A|Um, that isn't the same in the Washington area because we don't have any major, um, industry except for, uh, government and services.|sd|2998|0
+A|And the, the transportation situation is such that, uh, all the car pollution is, is absolutely awful.|sd|2998|0
+A|Um, also the worth of the hub of three airports|sd|2998|0
+A|in this general area there is, uh, National, Dulles, and then, uh, Baltimore, Washington.|sd|2998|0
+A|And it,|%|2998|0
+A|interestingly some of the information I've been reading indicates that the amount of air pollution from, uh, uh, airplanes is extraordinary.|sd|2998|0
+B|Is that so?|bh|2998|1
+A|Yeah,|ny|2998|0
+B|I didn't know that.|sd|2998|1
+A|and that's always something that, you know, you just don't real, you don't think about.|sv|2998|0
+B|Well, most people talk about the noise pollution from airplanes rather than the air pollution.|sv|2998|1
+A|But the, uh,|%|2998|0
+A|apparently the air pollution and the fact that it's delivered right up in high altitudes is a very significant factor.|sv|2998|0
+B|Yeah.|b|2998|1
+B|I would think so.|aa|2998|1
+B|You know, uh, I guess it talked about all types of pollution.|sd|2998|1
+B|I happen to just read something the other day at least in the Boston paper there were three things that, that come to note.|sd|2998|1
+B|One, is that the carbon fluorides that are, uh, being released into the atmosphere are causing even a larger hole in the southern hemisphere in the ozone layer|sd|2998|1
+B|and again|%|2998|1
+B|and now they've located another one or rather an expanding one in the northern hemisphere.|sd|2998|1
+B|So|%|2998|1
+B|so I'm quite concerned.|sd|2998|1
+B|I don't think it's involved any longer with, with, uh, hair sprays or those|sv|2998|1
+A|Yeah.|aa|2998|0
+A|Yeah.|aa|2998|0
+B|No,|b|2998|1
+B|I think it's now, is what, uh, from what I understand it's air conditioning units|sv|2998|1
+B|and, and, we certainly turned into an air conditioned society.|sv|2998|1
+A|Uh-huh.|b|2998|0
+B|Yeah,|aa|2998|1
+B|I know in Florida there's no place you go that isn't air conditioned,|sd|2998|1
+B|and I do quite a bit of business in Washington.|sd|2998|1
+B|And,|%|2998|1
+A|I mean you know what it's like here.|qw|2998|0
+B|Oh, yeah,|ny|2998|1
+B|it's quite,|%|2998|1
+B|is, is the|%|2998|1
+B|it's really out of the norm not to find something that isn't air conditioned.|sv|2998|1
+B|And,|%|2998|1
+A|Yeah,|aa|2998|0
+A|yeah,|aa|2998|0
+A|yeah.|aa|2998|0
+B|and I guess refrigerators,  are the same way.|sv|2998|1
+A|We just had the,|%|2998|0
+B|They release that.|sv|2998|1
+A|That's right.|aa|2998|0
+A|So, solutions to this, would be|sv|2998|0
+B|Yeah.|b|2998|1
+A|I, I,|%|2998|0
+B|Well,|%|2998|1
+A|you know, improved.|%|2998|0
+A|Well, I guess the the, to me the first thing is I wish society would get as upset about this as you do get, getting people upset about animal rights.|sd|2998|0
+B|Yeah.|b|2998|1
+A|I mean this is so, so basic.|sv|2998|0
+A|It's human rights in the sense,|sv|2998|0
+A|but, uh, in terms of demanding, it's just not caused|sv|2998|0
+A|but demanding that, uh, we can spend so much money on certain things but that research really be directed toward, um, improvement of polluting vehicles, and not just cars but also buses, um, planes. That something can be done. I I can't imagine that well ,|sv|2998|0
+B|Well, I, I|%|2998|1
+A|if we can't send people to the moon, that we can't improve these things.|sv|2998|0
+B|Yeah.|b|2998|1
+B|No,|b|2998|1
+B|I think that it can be done simply because, uh, uh, we've, we've,|sv|2998|1
+B|every car now in America that's been produced for the past fifteen years has what they call a catalytic converter.|sd|2998|1
+A|Converter,|b^m|2998|0
+A|yeah,|b|2998|0
+A|uh-huh.|b|2998|0
+B|And no lead gas was, came to the pumps.|sd|2998|1
+B|And, and that's been done.|sd|2998|1
+B|There's the lead pollution has, that problem, essentially I guess because it was at crisis proportions was, was licked.|sv|2998|1
+A|Uh-huh.|b|2998|0
+B|And I think that there are there are solutions,|sv|2998|1
+A|And that for buses,|%|2998|0
+B|certainly we don't even need a, need a research anymore.|sv|2998|1
+B|It's just a matter of passing the law,|sv|2998|1
+B|and passing the law depends on how heavy the car industry, the automobile lobby is.|sv|2998|1
+A|That's right.|aa|2998|0
+A|Well, and also to make it economically feasible. Uh, and also in buses.|sv|2998|0
+B|That's right.|aa|2998|1
+B|That's right.|aa|2998|1
+A|I don't know if you ever got caught in a traffic jam behind a bus,|qy^d|2998|0
+B|Oh, yeah, well,|ny|2998|1
+A|That, you know,|%|2998|0
+B|That, that, the, the smell is awful|sv|2998|1
+B|and but, you know, I was reading the other day not to go on with this but that, diesel fumes actually have less pollutants in them than gasoline fumes.|sd|2998|1
+A|Uh-huh.|b|2998|0
+A|Yeah.|b|2998|0
+A|Uh-huh,|b|2998|0
+A|uh-huh.|b|2998|0
+B|So, I guess you're better off sitting behind a bus than a car although I can never, I could never, uh, really rationalize that while I was sitting there|sv|2998|1
+A|Yeah,|aa|2998|0
+A|but even, of course, in the longer term just to get away from fossil fuels.|sv|2998|0
+B|Yeah.|b|2998|1
+A|I mean, I'm, I'm thinking of research in that direction rather than|sv|2998|0
+A|we, we've taken the intermediate step|sv|2998|0
+A|but I don't think, fossil fuels are the answer.|sv|2998|0
+B|Well, we, you know|%|2998|1
+B|up here in New England, uh, where I've,|%|2998|1
+B|right close to where I live is the Seabrook Nucleus site which is, practically a, you know, guerilla war up here, went on for years.|sd|2998|1
+A|Uh-huh.|b|2998|0
+A|Yes|b|2998|0
+A|I|%|2998|0
+B|Uh, my daughters marched in the, uh, uh, against the Seabrook|sd|2998|1
+B|and I kind of, uh,|%|2998|1
+B|my feelings were that we needed this bridge to, to, uh, to jump from whatever it was going to be, from fossil fuel to whatever it was going to be.|sd|2998|1
+A|Yeah.|b|2998|0
+A|Yeah,|b|2998|0
+A|you don't throw the baby out with the bath water, and condemning nuclear use.|sv|2998|0
+B|Yeah.|b|2998|1
+B|unfortunately though I think the oil companies have lied to us for years|sv|2998|1
+A|Yeah,|aa|2998|0
+A|yeah.|aa|2998|0
+B|So we really don't know whether there's enough fossil fuel left|sv|2998|1
+B|or there isn't,|sv|2998|1
+B|and, uh, and, uh,|%|2998|1
+A|But with the pollution issue, uh, fossil fuel is not the way to go anyway.|sv|2998|0
+B|No.|aa|2998|1
+A|Uh, so you've, to you've got to look elsewhere.|sv|2998|0
+B|Yeah.|b|2998|1
+A|So, uh, but it is something that's a little frightening|sv|2998|0
+A|and in fact, well, I,|%|2998|0
+A|within our family we have said,|sd|2998|0
+A|my husband,|%|2998|0
+A|I have two sons, uh, well,|sd|2998|0
+A|one is already in college in New England,|sd|2998|0
+B|Yeah.|b|2998|1
+A|and the other will be going in September,|sd|2998|0
+A|and we just feel that when we leave, uh, this area, we're going north, not south.|sd|2998|0
+B|Yes.|b|2998|1
+A|Uh, I like the mentality north,|sd|2998|0
+A|and I also like the fresher air up there.|sd|2998|0
+B|That's right.|aa|2998|1
+A|So, I mean that's the way we will be going.|sd|2998|0
+B|Yeah.|b|2998|1
+A|But, um, so, I, I'd be interested in having spoken with somebody also from the far west on this issue to see how they, their attitudes are.|sd|2998|0
+B|Well, since, since Texas and Louisiana and, uh, California that, in that ranking order, the worst pollutants in America.|sd|2998|1
+A|Uh-huh.|b|2998|0
+B|I mean, I read that the other day.|sd|2998|1
+B|I mean Louisiana for a small state it was amazing|sv|2998|1
+B|but it's the industrial pollution I should imagine.|sv|2998|1
+A|Uh-huh.|b|2998|0
+B|And California seems to be taking steps,|sv|2998|1
+B|I mean, you, you read about the, the fairly , fairly stiff laws they put in on cars now they're, they're enforcing.|sd|2998|1
+A|The smog and,|^2|2998|0
+A|yeah.|%|2998|0
+A|Uh-huh,|b|2998|0
+A|yeah.|b|2998|0
+B|But, uh, again, uh, that didn't occur without a crisis.|sv|2998|1
+B|Nothing will occur, I guess, without a crisis.|sv|2998|1
+A|I mean, even California was notorious for its smog years ago,  before it even was an issue, out here.|sv|2998|0
+B|Yeah,|aa|2998|1
+B|exactly.|aa|2998|1
+B|Exactly.|aa|2998|1
+B|Well, the greatest thing that happened to pollution in the last couple of years as far as I'm concerned, is the no smoking rules, on airplanes and in restaurants.|sv|2998|1
+B|And it, it really is a pleasure for me, although, I guess smokers don't think that.|sv|2998|1
+B|But that,  to me was pollution ,|sv|2998|1
+A|Well, that, that's, that's that's personal air pollution|sv|2998|0
+B|that was its most personal, personal, uh, pollution that I can think of.|sv|2998|1
+A|Yes,|aa|2998|0
+A|yes.|aa|2998|0
+A|Yeah,|aa|2998|0
+A|well, I, I, definitely advance that.|aa|2998|0
+A|Well, listen I enjoyed speaking with you.|fc|2998|0
+B|Surely.|fc|2998|1
+A|And let's hope some, there are other people that feel the same way|fc|2998|0
+B|something happen.|fc|2998|1
+B|Right on,|fc|2998|1
+B|thank you.|fc|2998|1
+A|You're welcome.|fc|2998|0
+B|Bye-bye.|fc|2998|1
+A|Bye-bye.|fc|2998|0

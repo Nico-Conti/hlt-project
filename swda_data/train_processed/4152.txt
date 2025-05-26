@@ -1,0 +1,109 @@
+A|Well, anyway I, uh, I, uh, oh,|%|4152
+A|yeah.|%|4152
+A|I did forget to ask you.|sd|4152
+A|What is your name by the way?|qw|4152
+B|Uh, I'm Ann.|sd|4152
+A|Oh, you're Ann.|b^m|4152
+A|Hi.|fp|4152
+A|But, uh, anyway, I, uh,|%|4152
+A|lot of, lot of interesting procedural things I think would be a good, be a good change if we're going to be talking about the subject tonight which in some I guess criminal courts the|sv|4152
+B|Criminal courts?|br|4152
+B|Yes.|aa|4152
+A|Yeah.|aa|4152
+A|the one of which was, uh, something, something that's been going on because of the Rodney King trial here in town|sd|4152
+A|and that is, uh, and that is the exclusion of jurors because of or in spite of their race. Uh,|sd|4152
+B|Oh, really?|bh|4152
+A|Yeah.|ny|4152
+A|Well, they, they, uh, the, the people that|sd|4152
+A|the, uh, the jury that's trying, uh, the officers in that case,  is, is an all white panel.|sd|4152
+B|Uh-huh.|b|4152
+A|And there's been a lot made in the local papers of that,  fact.|sd|4152
+B|I see.|b|4152
+B|I can't,|%|4152
+B|I'm a little surprised they didn't get a change of venue on that one.|sv|4152
+A|They have.|sd|4152
+A|They have.|sd|4152
+A|They moved it up to the county north of here.|sd|4152
+B|Oh.|b|4152
+A|Um, it's in Ventura|sd|4152
+A|and there's, there's still quite a bit of publicity obviously,|sd|4152
+A|and it's kind of, it's kind of debatable whether you could get a fair trial almost anywhere because that, uh, that,|sv|4152
+B|Well, that videotape was just horrible.|sv|4152
+A|Yeah.|b|4152
+A|It was everywhere.|sv|4152
+B|Yes.|aa|4152
+A|So you know,|%|4152
+A|and I, I think it would be very difficult to find someone, uh, find a panel that would be, not have seen it and, and known of what was going on.|sv|4152
+B|Oh, I agree with you|aa|4152
+B|but I can't imagine that they would do an all white jury without having some sort of, of discrimination or, or, you know, uh, appeal on not having a jury of his peers and all of that kind of stuff.|sv|4152
+A|Exactly.|aa|4152
+A|You know, um, the you know,|%|4152
+A|I, I'm kind of torn on this issue.|sd|4152
+A|It's like they're saying well on the one hand they're not, he's not getting a jury of his peers which is in some ways I think true.|sv|4152
+A|But on the other hand, it's, it's also saying that white jurors are not going to, are not going to convict.|sv|4152
+B|Right.|b|4152
+A|Uh, you know, they're not going to do their job. Which is|sv|4152
+A|the whole, the whole point of being on a jury is to convict or, or, or, uh, let go based on whether,  or not the person, whether or not the evidence says,  that there's enough|sv|4152
+B|Exactly.|aa|4152
+B|Based on fact.|bf|4152
+B|Right.|aa|4152
+B|How interesting.|sv|4152
+B|Oh.|%|4152
+B|So what's the prevailing thought within the community?|qw|4152
+A|Um,|%|4152
+B|I mean you know, what the news media is going to make of it,|sv|4152
+B|but what about the community?|qw|4152
+A|They, well,|%|4152
+A|I guess it depends on who you talk to.|sv|4152
+A|I haven't talked to, uh, I haven't talked to a whole lot of black people on it|sd|4152
+A|but I, I rather imagine there's, there's some snickering about it. And a lot of the usually fatalistic, uh, here we go again folks,  kind of stuff.|sv|4152
+B|Uh-huh.|b|4152
+B|Oh, my goodness.|ba|4152
+B|That can't be good for Los Angeles either.|sv|4152
+A|No,|aa|4152
+A|no.|aa|4152
+A|I, you know,|%|4152
+A|on, on, on one hand you know, on the one hand you almost hope that they convict them because it's they have that very strong piece of physical evidence showing,  these people beating the heck out of this guy. Um,|sv|4152
+B|Oh, exactly.|aa|4152
+B|Unfortunately that kind of thing is not limited to a big city like Los Angeles.|sv|4152
+B|You're going to have it just about anywhere.|sv|4152
+A|Uh-huh.|b|4152
+B|There. *listen|fo_o_fw_"_by_bc|4152
+A|Well,|%|4152
+B|But that's, that's interesting.|sv|4152
+A|Yeah. Um|b|4152
+B|What about the judge who's hearing the case?|qo|4152
+B|Is he going to be impartial?|qy|4152
+B|Is he going to, be a a good adjudicator?|qy|4152
+A|I don't know. You know,|no|4152
+A|and, and again there's something else you know, there was a uh, something else along those lines.|sd|4152
+A|There was a girl out here named|sd|4152
+A|I don't know if it's, it's got, it's got as much notoriety|sd|4152
+A|but it's rather almost as infamous here as it was, as it was with, uh, the Rodney King problem.|sd|4152
+A|Um, a girl walked into a Korean owned store|sd|4152
+A|and, uh, they, she had a dispute, black girl.|sd|4152
+B|Uh-huh.|b|4152
+A|She, she had some kind of a dispute over some orange juice with the, with the owner of the store.|sd|4152
+A|The owner of the store popped her.|sd|4152
+B|Oh, really?|bh|4152
+A|Yeah.|ny|4152
+A|And, and, oh, of course, they,|%|4152
+A|you know, the criminal case went up|sd|4152
+A|and, and the judge gave the woman who shot her, shot the girl a, uh, uh, practically a suspended sentence.|sd|4152
+A|I mean it was it was just,|%|4152
+B|Oh, my goodness.|ba|4152
+A|she gave her no time in jail, you know, all of these things|sd|4152
+A|and then, oh, there's we have these, we have people wondering around with petitions trying to get the judge,|sd|4152
+B|To get that judge recalled I would think.|^2|4152
+A|Yeah.|aa|4152
+A|Yeah.|aa|4152
+B|Huh.|%|4152
+B|That's almost when you kind of wish that there where standardized sentences.|sv|4152
+A|Yeah.|aa|4152
+A|It would make, it would make life easier.|sv|4152
+B|It would.|aa|4152
+A|Yeah.|b|4152
+B|Uh,|%|4152
+A|But,|%|4152
+B|you would know, the whole world would know what you were facing.|sd|4152
+B|And then it's a matter of, of deciding,|sd|4152

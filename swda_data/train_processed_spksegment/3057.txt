@@ -1,0 +1,259 @@
+A|Hi|fp|3057|0
+A|you want to start first|ad|3057|0
+B|Of course.|aa|3057|1
+B|We are talking about the elderly and, uh, whether or not we we like nursing homes|sd|3057|1
+A|Right.|b|3057|0
+B|and, as a matter of fact, I can tell you something about that.|sd|3057|1
+A|Uh-huh.|b|3057|0
+A|You apparently have somebody there, in one.|qy^d|3057|0
+B|No,|nn|3057|1
+B|actually, my grandmother owned and operated a nursing home for years|sd|3057|1
+B|and her mother,|sd|3057|1
+A|Oh, you are kidding?|qy|3057|0
+B|No,|nn|3057|1
+B|she did.|sd|3057|1
+A|Oh.|b|3057|0
+B|And then my mother also owned and operated a nursing home, for years. And then, uh, went on back to school and became the director of nurses at a nursing home|sd|3057|1
+A|Uh-huh.|b|3057|0
+A|I will be darned.|ba|3057|0
+A|Uh-huh.|b|3057|0
+B|And, uh, my mother and my older sister both are geriatric nurses.|sd|3057|1
+A|Oh, for heaven's sake.|ba|3057|0
+B|So, I do know something about that.|sd|3057|1
+A|You are very, very much aware of what goes on.|sv|3057|0
+B|Absolutely.|aa|3057|1
+A|That is great.|ba|3057|0
+B|Actually, the motivation for Grandmother entering the business, was that her mother was very old, and couldn't seem to find companions.|sd|3057|1
+A|Uh-huh.|b|3057|0
+A|Uh-huh.|b|3057|0
+A|Uh-huh,|b|3057|0
+A|uh-huh.|b|3057|0
+B|She was lonely.|sd|3057|1
+A|Right.|b|3057|0
+B|And she needed company, for her mother|sd|3057|1
+A|Right.|b|3057|0
+B|and so she opened a nursing home and initially started with eight ladies.|sd|3057|1
+A|I will be darned.|ba|3057|0
+B|And then, uh, it, it grew into a, very prosperous business from that point.|sd|3057|1
+A|Uh-huh,|b|3057|0
+A|uh-huh,|b|3057|0
+A|uh-huh.|b|3057|0
+B|Uh, then they,|%|3057|1
+A|Now, see that is a nice attitude to go into.|sv|3057|0
+B|Uh-huh.|b|3057|1
+A|Uh, it seems like they must be waiting until it is a necessity|sv|3057|0
+B|Uh-huh.|b|3057|1
+A|and there is no chance of, uh, good companionship or doing anything.|sv|3057|0
+B|Well, that is not really true, either, uh,|ad|3057|1
+B|I think that is a stigma and an I, and an impression that has come from some few bad experiences.|sv|3057|1
+A|Uh-huh.|b|3057|0
+B|You see, those who had bad experiences talk about them.|sd|3057|1
+A|Uh, right,|b|3057|0
+A|right.|b|3057|0
+B|And those who do not may write, a letter to the nursing home and say you did good,|sd|3057|1
+A|Uh-huh.|b|3057|0
+A|Uh-huh.|b|3057|0
+B|but they do not talk a whole lot about that.|sd|3057|1
+A|That is true.|ba|3057|0
+A|But what I mean is instead of maybe entering a nursing home, when you are still able to have good, relationships with, maybe other friends they wait until they are, you know, unable.|sd|3057|0
+B|Uh-huh.|b|3057|1
+B|Uh-huh.|b|3057|1
+B|Uh-huh.|b|3057|1
+B|Sure.|b|3057|1
+B|Well now, That is right.|ba|3057|1
+B|Well, that is because they wait until the children make those choices, they choose to not make those, choices themselves.|sv|3057|1
+A|Right.|b|3057|0
+A|Right,|b|3057|0
+A|right.|b|3057|0
+B|However, my daughter-in-law also is a nurse in a nursing home.|sd|3057|1
+A|Uh-huh.|b|3057|0
+B|And, uh, she works for one here in Dallas, which is more a retirement village than it is a nursing home.|sd|3057|1
+B|And these, these,|%|3057|1
+A|Uh, uh-huh.|b|3057|0
+B|I love watching these elderly people come, they will come and tell her. "Well I am going for my, tennis lessons.|sd|3057|1
+A|Uh-huh.|b|3057|0
+B|And, uh, would would you, you know, call down and have the van come around and take, us for our tennis lessons."|^q|3057|1
+A|Uh-huh,|b|3057|0
+A|uh-huh.|b|3057|0
+B|And they are very active and very enthusiastic|sd|3057|1
+B|and they have, some excellent programs right there on site.|sd|3057|1
+A|Uh-huh.|b|3057|0
+A|Yeah.|b|3057|0
+B|Their dining room looks like, you know, Luby's Cafeteria.|sv|3057|1
+A|Yeah.|b|3057|0
+A|That is great.|ba|3057|0
+B|Or, or one of the lovely cafeterias.|sd|3057|1
+B|And they have, you know, pink linen napkins for their dinners. And, a well equipped library.|sd|3057|1
+A|Uh-huh,|b|3057|0
+A|uh-huh.|b|3057|0
+A|Yeah,|b|3057|0
+A|that sounds great.|ba|3057|0
+B|Oh, I am certainly very much for a nursing home|sv|3057|1
+B|and I think when the, the parent gets old enough, to the extent where they just do not want to be bothered with keeping house, and with taking care of themselves, anymore. That is a wonderful alternative.|sd|3057|1
+A|Yeah.|b|3057|0
+A|Uh-huh.|b|3057|0
+A|Uh-huh.|b|3057|0
+A|Uh-huh.|b|3057|0
+B|It is expensive.|sv|3057|1
+B|It is costly.|sv|3057|1
+A|See if they could, could get this idea across though, better than what it is, you, know.|sv|3057|0
+B|Uh-huh.|b|3057|1
+B|Well, now my daddy's mother, uh, lived in a, a retirement village|sd|3057|1
+B|and she and her sister had side by side duplexes, one bedroom duplex.|sd|3057|1
+A|Uh-huh.|b|3057|0
+B|She still had her individuality,|sd|3057|1
+A|Uh-huh.|b|3057|0
+B|but they were there close|sd|3057|1
+B|and they did have, uh, you know, the button that you could push the central office if you got into problems|sd|3057|1
+B|and, there were lights that you could flip on and so forth.|sd|3057|1
+A|Uh-huh.|b|3057|0
+B|And they have security.|sd|3057|1
+A|Uh-huh.|b|3057|0
+B|No,|b|3057|1
+B|I am very much in favor,|sd|3057|1
+B|I have heard horror stories,|sd|3057|1
+A|Oh, well you have that with anything.|sd|3057|0
+B|I know that the elderly can easily be abused,|sd|3057|1
+A|Oh yeah .|b|3057|0
+B|but I would be willing to bet they are far less abused in a nursing home than are, they are in, homes of their own children.|sd|3057|1
+A|In the homes, yeah.|^2|3057|0
+A|Well, we used our nursing home as, uh,|sd|3057|0
+B|Uh-huh.|b|3057|1
+A|like when my sister was real bad before she died uh, we took her the last month and a half, into a nursing home.|sd|3057|0
+B|Uh-huh.|b|3057|1
+B|Uh-huh.|b|3057|1
+B|Uh-huh.|b|3057|1
+A|And they were super with her.|sd|3057|0
+B|Absolutely.|aa|3057|1
+A|They were, uh,|sd|3057|0
+B|Well now, my grandmother,|sd|3057|1
+B|of course all of my folks lived to be very old|sd|3057|1
+A|Uh-huh.|b|3057|0
+B|and my grandmother developed Hodgkin's Disease, when she was in her late eighties, uh, late seventies, I mean.|sd|3057|1
+A|Uh-huh.|b|3057|0
+A|Uh-huh.|b|3057|0
+A|Uh-huh.|b|3057|0
+B|She went to the doctor,|sd|3057|1
+B|she had surgery,|sd|3057|1
+B|she got the treatments|sd|3057|1
+B|and during, the period of time that she was undergoing those treatments she was in a nursing home.|sd|3057|1
+A|Uh-huh,|b|3057|0
+A|uh-huh.|b|3057|0
+A|Uh-huh.|b|3057|0
+B|She got better,|sd|3057|1
+B|she got well,|sd|3057|1
+B|she got out and went dancing again.|sd|3057|1
+A|Well, a lot of people do that.|sd|3057|0
+A|They , left them temporally maybe they had a, broken hip or something or,|sd|3057|0
+B|Uh-huh.|b|3057|1
+B|That is right.|ba|3057|1
+B|Uh-huh,|b|3057|1
+B|uh-huh.|b|3057|1
+B|I think it is a wonderful interim place,|sv|3057|1
+A|Uh-huh.|b|3057|0
+B|it is a place that you do not have to struggle with hospital, problems|sv|3057|1
+A|Uh-huh,|b|3057|0
+A|uh-huh.|b|3057|0
+B|and yet it is not, you know,|sv|3057|1
+B|you have,|%|3057|1
+A|And it can become home to them.|sd|3057|0
+B|Uh-huh,|b|3057|1
+B|uh-huh.|b|3057|1
+A|It, It depends upon the individual.|sv|3057|0
+B|It certainly is.|ba|3057|1
+B|It certainly does,|ba|3057|1
+B|but, you see, we have had excellent experience with that.|sd|3057|1
+B|And, uh, I, I did not put my husband in a nursing home when he became ill,|sd|3057|1
+B|but, I would not object to going to one.|sd|3057|1
+A|Uh-huh,|b|3057|0
+A|uh-huh.|b|3057|0
+B|I might, I might like to be, uh, coherent enough to make my own choice.|sd|3057|1
+A|Uh-huh.|b|3057|0
+A|Uh-huh,|b|3057|0
+A|uh-huh.|b|3057|0
+B|Uh, I would not particularly think I would want my kids to say, "well, I think this is what I need for Mom", and, then dump me there.|sd|3057|1
+A|This is|%|3057|0
+A|and,|%|3057|0
+B|But, I would like,|%|3057|1
+A|There has to be consideration taken on everything.|sv|3057|0
+B|That is right.|ba|3057|1
+B|Uh-huh,|aa|3057|1
+B|uh-huh.|aa|3057|1
+B|And I think you would shop for a nursing home, just like you would shop for a church, or a doctor or anything else.|sv|3057|1
+A|Yeah.|b|3057|0
+A|That is right,|ba|3057|0
+A|you would look into it thoroughly and, do, do the best job you could in choosing one.|sv|3057|0
+B|Uh-huh,|b|3057|1
+B|sure.|b|3057|1
+B|Uh-huh.|b|3057|1
+B|When you get to the point where you are in trouble, and you have got to have that help, you are in no position to make those choices.|sv|3057|1
+A|Uh-huh.|b|3057|0
+A|No|b|3057|0
+A|and you do not have the time to look,|sv|3057|0
+A|that is what, I am saying,|sd|3057|0
+B|That is right.|ba|3057|1
+B|Uh-huh.|b|3057|1
+A|most people will not even look at that until it becomes a necessity.|sv|3057|0
+B|Absolutely.|ba|3057|1
+B|I think that one of the best ways to do that is for families to realize they are going to be needing those facilities one day, and to actually get involved and participate on a community level with community service.|sv|3057|1
+A|Uh-huh.|b|3057|0
+B|Go out to the nursing home, help guide some craft programs, perhaps, work on some music programs, whatever their talents are.  And work with, those senior citizens.|ad|3057|1
+A|Whatever their talents, yeah.|b^m|3057|0
+A|Uh-huh.|b|3057|0
+A|Yeah,|aa|3057|0
+A|I have a cousin who is, uh,|sd|3057|0
+A|she had a son that was epileptic from birth,|sd|3057|0
+A|and he did fine, at home,|sd|3057|0
+B|Uh-huh.|b|3057|1
+A|they lived on a farm,|sd|3057|0
+B|Uh-huh.|b|3057|1
+A|but she made arrangements, so that when she was gone, she did not want her, her children, her other children burdened with his care.|sd|3057|0
+B|Uh-huh.|b|3057|1
+B|Uh-huh.|b|3057|1
+B|That is right.|ba|3057|1
+A|So he, they, she has made arrangements that when she, she was gone, that he would go into the nursing home.|sd|3057|0
+B|Uh-huh.|b|3057|1
+A|And he has, I would say, he adjusted very well|sd|3057|0
+A|and, uh, he, he, he has been there quite a long time.|sd|3057|0
+B|Uh-huh.|b|3057|1
+A|And, uh, he don't know me usually|sd|3057|0
+B|Yeah.|b|3057|1
+A|So, he goes wheeling down, uh, the hall to bingo.|sd|3057|0
+A|Somebody else, is helping him out, you know,|sd|3057|0
+B|That is right.|ba|3057|1
+B|Uh. Well, one of the things, I think that is most desirable for the elderly and that is routine.|sv|3057|1
+A|and, uh, he has adjusted very well.|sd|3057|0
+A|Uh-huh,|b|3057|0
+A|oh yes.|aa|3057|0
+A|Yes.|aa|3057|0
+B|Routine and, uh, constancy.|sv|3057|1
+A|Uh-huh.|b|3057|0
+A|Uh-huh,|b|3057|0
+A|uh-huh|b|3057|0
+B|Uh, the only real problem with that in a nursing home is that the staff turns over.|sd|3057|1
+B|I do not think they pay, the nursing home staff sufficiently, to, to get the dedication that they have in some other profession,|sv|3057|1
+A|uh-huh.|b|3057|0
+A|To keep them there, uh-huh.|^2|3057|0
+A|True.|ba|3057|0
+B|and that is sad, because, I think the health profession is one of the most critical,|sv|3057|1
+A|Yes.|b|3057|0
+A|But , for some reason people resist, uh, the fact that they should be paid as well as businesses and that type of thing, you know.|sv|3057|0
+B|And, uh,|%|3057|1
+B|That is right.|ba|3057|1
+A|It seems to be a resistance.|sv|3057|0
+B|Care for the elderly and care for the children, I cannot imagine a more costly and a more, a more, uh, better area to invest, your money.|sv|3057|1
+A|Uh-huh.|b|3057|0
+A|Uh-huh.|b|3057|0
+A|Right,|b|3057|0
+A|right.|b|3057|0
+A|But there seems to be a resistance.|sv|3057|0
+B|You are preserving your heritage and your future there.|sv|3057|1
+A|Yeah,|b|3057|0
+A|yeah.|b|3057|0
+A|So, uh,|%|3057|0
+B|And, as a matter of fact, I do not see why they do not have children's programs in nursing homes.|sv|3057|1
+A|Well, around here, we have some, you know, the churches, take your, the children|sd|3057|0
+B|Uh-huh.|b|3057|1
+A|and, I know our kids thoroughly,|sd|3057|0
+B|Uh-huh.|b|3057|1
+A|the children thoroughly enjoy,|sd|3057|0

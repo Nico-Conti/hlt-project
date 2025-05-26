@@ -1,0 +1,228 @@
+A|Okay.|fo_o_fw_"_by_bc|3042|0
+B|So, what's it been doing up there?|qw|3042|1
+A|It's real dry up here.|sd|3042|0
+B|Oh, really?|bh|3042|1
+A|Yeah.|ny|3042|0
+A|We need rain really bad.|sd|3042|0
+B|Oh.|b|3042|1
+B|Well,|%|3042|1
+A|All the farmers, you know,|sd|3042|0
+A|well, it's good for hay.|sd|3042|0
+A|You know all the farmers got their first cut of hay and everything,|sd|3042|0
+A|but they're going to need some you know, rain to get the second cut.|sd|3042|0
+B|Oh.|b|3042|1
+A|I, I'm working for a lady who has a strawberry field,|sd|3042|0
+A|and if we don't have rain, she's going to lose a lot of money.|sd|3042|0
+B|Oh, my goodness.|ba|3042|1
+B|Well, we have been drenched.|sd|3042|1
+A|Oh|b|3042|0
+B|We have had so much rain for May and June that we've got all the, uh, weather people down here really confused.|sd|3042|1
+A|Oh, my.|ba|3042|0
+B|Uh, we,|%|3042|1
+B|it's probably,|%|3042|1
+B|it, it's just,|%|3042|1
+A|It's usually dry down there, isn't it?|qy|3042|0
+B|Yeah.|ny|3042|1
+B|Right now,|sd|3042|1
+B|by now it's usually,|sd|3042|1
+B|no,|nn|3042|1
+B|you know, it's quit raining, you know, by at least a month.|sd|3042|1
+A|Uh-huh.|b|3042|0
+B|And it's still,|%|3042|1
+B|we're still having April showers, for June.|sd|3042|1
+A|Oh, I hope they come, this way.|sd|3042|0
+B|Yeah,|b|3042|1
+B|uh, I don't know where, where it came from|sd|3042|1
+B|but it's been really,|sd|3042|1
+B|we got a lot of, uh,|sd|3042|1
+B|we're in central Texas|sd|3042|1
+B|and it feels like we live in Houston.|sd|3042|1
+A|Oh, really?|bh|3042|0
+B|Yeah,|ny|3042|1
+B|it's, it, it, you know,|%|3042|1
+B|like it rained today|sd|3042|1
+B|and then it just kind of steamed everything up, you know.|sd|3042|1
+A|Uh-huh.|b|3042|0
+B|Uh, it's been great because we haven't had to use our sprinkler system,|sd|3042|1
+B|We've had some with really, really high winds that have trashed trees and, everything else.|sd|3042|1
+A|Oh, my.|ba|3042|0
+B|It's just,|%|3042|1
+A|Now see, every, everyone up here with their gardens they're not going to have much of a garden this year because it's so dry.|sd|3042|0
+B|Yeah.|b|3042|1
+B|Well, I hope you get some of that.|sd|3042|1
+A|Yeah.|b|3042|0
+B|We got enough.|sd|3042|1
+B|We have had plenty,|sd|3042|1
+B|and we're still, uh, forecast for more.|sd|3042|1
+A|Really?|bh|3042|0
+B|Yeah.|ny|3042|1
+A|Well, gee,|ba|3042|0
+B|So,|%|3042|1
+A|uh, does is California getting rain then?|qy|3042|0
+B|Uh, I'm not real sure.|h|3042|1
+B|I think a lot of this is coming out of,|sv|3042|1
+B|I think what's of|%|3042|1
+B|it's coming out of Canada,|sd|3042|1
+A|Out of the Gulf?|^2|3042|0
+B|and it's meeting what's coming out of the Gulf.|sd|3042|1
+A|Oh.|b|3042|0
+B|And it's just causing chaos|sv|3042|1
+A|Yeah.|b|3042|0
+B|so it's been, it's been, uh, wet.|sd|3042|1
+A|Uh-huh.|b|3042|0
+B|And we've moved our yard I think three or four times in the last two or three weeks.|sd|3042|1
+A|Oh, my gosh.|ba|3042|0
+B|I mean just because it just keeps growing and growing and growing|sd|3042|1
+B|and, and one, one week it just rained, thunderstormed for a day straight|sd|3042|1
+B|and you couldn't get out there.|sv|3042|1
+A|Uh-huh.|b|3042|0
+B|You just couldn't get out there.|sv|3042|1
+B|By the time you finally got out there where your lawn mower wouldn't sink, we were, you know,|sd|3042|1
+B|yeah,|%|3042|1
+B|lawn mower broke|sd|3042|1
+B|So,|%|3042|1
+A|Oh, well, see, now we need,|sd|3042|0
+A|we could use two days straight of rain.|sd|3042|0
+B|Oh.|b|3042|1
+A|It's really drying up, up here.|sd|3042|0
+B|Well, what always works for me is if I water my plants or we wash the car, it usually rains.|sd|3042|1
+B|If not that night, the next day|sd|3042|1
+A|Does it?|^g|3042|0
+A|I was telling everyone, hang your clothes out on the line|sd|3042|0
+A|and it's surely going to rain.|sd|3042|0
+B|Yeah,|b|3042|1
+B|yeah.|b|3042|1
+A|Whenever you hang your clothes out on the line it always rains|sv|3042|0
+B|Yeah.|b|3042|1
+A|Uh-huh.|b|3042|0
+B|Um,|b|3042|1
+A|We've had real hot weather.|sd|3042|0
+B|Hotter than usual?|qy|3042|1
+A|Yeah,|ny|3042|0
+A|yes.|ny|3042|0
+A|We, you know,|%|3042|0
+A|and, uh, let me think.|^h|3042|0
+A|I got out of school in May.|sd|3042|0
+A|In March I was wearing shorts.|sd|3042|0
+B|Wow.|ba|3042|1
+A|I was wearing shorts in March up at college,|sd|3042|0
+A|and, uh, we,|%|3042|0
+A|what they said is that this area has had its summer weather in the spring.|sd|3042|0
+B|Huh.|b|3042|1
+A|Is what they said what happened.|qh|3042|0
+B|Huh.|b|3042|1
+A|I hope that,|sd|3042|0
+A|Oh, I don't know.|h|3042|0
+A|But,|%|3042|0
+A|I hope that doesn't mean we're going to get an early winter.|sd|3042|0
+B|No.|nn|3042|1
+B|I wouldn't think so.|sv|3042|1
+B|I wouldn't,|%|3042|1
+B|not as early as it came.|sd|3042|1
+B|I mean your talking September, maybe.|sv|3042|1
+A|Yeah.|b|3042|0
+B|That's a little early.|sv|3042|1
+B|Still the,|%|3042|1
+A|Uh-huh.|b|3042|0
+A|Yeah,|b|3042|0
+A|I was wearing shorts in March.|sd|3042|0
+A|You know it was nippy|sd|3042|0
+B|Uh-huh.|b|3042|1
+A|but, um, like it was still in the seventies.|sd|3042|0
+B|Yeah.|b|3042|1
+A|You know, high sixties low seventies in March.|sd|3042|0
+B|Yeah.|b|3042|1
+B|And we were there, we were in New Jersey last October|sd|3042|1
+A|Uh-huh.|b|3042|0
+B|and it was hotter there than it was here.|sd|3042|1
+A|Yes.|b|3042|0
+B|It was just like a heat wave.|sd|3042|1
+A|Uh-huh.|b|3042|0
+A|Yeah,|b|3042|0
+A|we haven't,|%|3042|0
+B|and we just died.|sd|3042|1
+A|Oh, my gosh.|ba|3042|0
+B|It was really hot,|sd|3042|1
+B|so. But I like it here.|sd|3042|1
+A|Huh.|b|3042|0
+B|I wouldn't, I wouldn't trade it for snow any day.|sd|3042|1
+A|Really?|bh|3042|0
+B|Yeah.|ny|3042|1
+A|See I like, I like the snow|sd|3042|0
+A|but I like to watch it fall,|sd|3042|0
+A|and I just like it where it's deep enough, you know, but not too deep.|sd|3042|0
+B|Right.|b|3042|1
+B|And I can handle a vacation in it|sd|3042|1
+B|and, you know, but my husband is from New Jersey|sd|3042|1
+B|and he wouldn't go back either.|sd|3042|1
+B|He did all the, shoveling and everything else.|sd|3042|1
+A|Really?|bh|3042|0
+B|He said it was a pain.|sd|3042|1
+B|So,|%|3042|1
+A|Well, isn't it weird at Christmas time without snow?|qy|3042|0
+B|No.|nn|3042|1
+B|I don't think so.|sd|3042|1
+B|Well, see last year we had snow at Christmas time.|sd|3042|1
+A|Oh.|b|3042|0
+B|So it really wasn't, it was weird because we had snow|sd|3042|1
+B|It's like, wow, it actually fell on the right day.|sd|3042|1
+B|So, uh, no,|nn|3042|1
+B|it's not.|sd|3042|1
+B|In fact, uh, you know, we're used to running around in, you know, spring clothes in December,|sd|3042|1
+B|and so when it throws in a real cool winter, we get broken pipes and, and all that kind of stuff and because Texas is, just isn't built for you know, real cold weather for long periods of time.|sd|3042|1
+A|Yeah.|b|3042|0
+A|Well, it's real dry down there.|sd|3042|0
+A|You don't have the humidity either, do you?|qy|3042|0
+B|No,|nn|3042|1
+B|not, not were we are.|sd|3042|1
+B|Now in Houston and stuff they've got it, they've got it where no hairsprayer works.|sd|3042|1
+B|It's so humid at times,|sd|3042|1
+B|but here it's, it's just about right.|sd|3042|1
+B|It's, it's pretty dry and, not too dry where, you know you just, it hurts to breathe,|sd|3042|1
+A|Uh-huh.|b|3042|0
+B|but we're just about right.|sd|3042|1
+A|Yeah.|b|3042|0
+B|We're just having this, all this rain,|sd|3042|1
+B|and late rain has made it kind of uncomfortable.|sd|3042|1
+B|Made it, the humidity real high.|sd|3042|1
+A|Yeah,|b|3042|0
+A|muggy, huh?|^2|3042|0
+B|But no,|nn|3042|1
+B|I like it.|sd|3042|1
+B|Well, we're right in a good stop because we're, you know, we get over in the, over the hundreds in the summer,|sd|3042|1
+A|Uh-huh.|b|3042|0
+B|but it's, it's not, it's a dry heat|sd|3042|1
+B|and it's not really as hot and muggy as it would be being over a hundred plus ninety degree humidity, ninety percent humidity,|sd|3042|1
+A|Yeah.|b|3042|0
+B|so.|%|3042|1
+A|See that's what's bad up here is when we do get the real, you know, hundred and the high nineties, we have the humidity to go with it,|sv|3042|0
+B|Oh.|b|3042|1
+A|so you're like real mucky|sd|3042|0
+A|and you, you know,|qy|3042|0
+A|your legs stick together just from walking you know.|sd|3042|0
+B|Yeah.|b|3042|1
+B|Yeah,|b|3042|1
+B|I know what,|ba|3042|1
+A|So, um,|%|3042|0
+B|So we like it where we're at.|sd|3042|1
+B|If it's not a whole bunch of everything at once type stuff.|sd|3042|1
+A|Uh-huh.|b|3042|0
+A|Yeah.|b|3042|0
+B|So. But no,|nn|3042|1
+B|it's interesting when it gets really cold here|sd|3042|1
+B|and people forget that they're, live in Texas|sd|3042|1
+B|and they don't know how to drive in snow|sd|3042|1
+B|and, you know. But, uh, I wouldn't trade it for anything|sd|3042|1
+A|Oh, that's good.|ba|3042|0
+B|I was born in Texas|sd|3042|1
+B|and I visited other areas,|sd|3042|1
+B|and I'm just a sun person I think.|sd|3042|1
+B|I've gotten used to it.|sd|3042|1
+A|Well, I don't know|h|3042|0
+A|Well, I guess that's really about all.|sd|3042|0
+B|Yeah,|b|3042|1
+B|weather is not real hard to talk about|sv|3042|1
+B|It doesn't last real long either.|sv|3042|1
+B|I thought the weather is the last thing you talk about,|sd|3042|1
+B|but in this case it's the only thing to talk about.|sd|3042|1
+B|But, well, Michelle, it's great talking to,|fc|3042|1

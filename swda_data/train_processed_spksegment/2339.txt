@@ -1,0 +1,262 @@
+A|Okay.|fo_o_fw_"_by_bc|2339|0
+A|I was thinking about camping and different people's ideas about it.|sd|2339|0
+B|Uh-huh.|b|2339|1
+A|We've even seen people with these campers|sd|2339|0
+A|and they got the big old antennas up so they can watch their T V when they're going.|sd|2339|0
+B|Right or their  satellite dish|aa|2339|1
+A|That's not,|%|2339|0
+A|Yeah|b|2339|0
+A|A satellite dish?|qy|2339|0
+B|On top of the recreational vehicles.|sd|2339|1
+A|Oh, golly!|ba|2339|0
+A|That's not the kind we do.|sd|2339|0
+A|Do you go camping?|qy|2339|0
+B|Yeah.|ny|2339|1
+B|We have a little bit|sd|2339|1
+B|and we've just gotten one of those little tents that we throw out on the ground|sd|2339|1
+B|and that's what we camp in.|sd|2339|1
+B|So we kind of rough it.|sd|2339|1
+A|Well, so do we.|sd|2339|0
+A|In fact, when we first got married, we would try to take these trips to Minnesota to see his family|sd|2339|0
+B|Uh-huh.|b|2339|1
+A|and we didn't have a tent or any camping supplies|sd|2339|0
+A|so we'd sleep on those picnic tables at roadside parks.|sd|2339|0
+B|Oh no.|ba|2339|1
+A|I mean, I know it's dangerous,|sd|2339|0
+A|I wouldn't do it now|sd|2339|0
+A|but we did|sd|2339|0
+A|And one time we went to Yellowstone|sd|2339|0
+A|and we were doing the same thing.|sd|2339|0
+A|We couldn't find a place to camp|sd|2339|0
+A|and so we were on top of a picnic table with our, our sleeping bags I guess.|sd|2339|0
+A|And this ranger comes up with this light, shines it on us and said that we're just bear bait out there. We had our food  you know. and told us to get inside our car.|sd|2339|0
+B|Oh.|b|2339|1
+B|Uh-huh.|b|2339|1
+B|Gosh. Bear bait|b^m|2339|1
+A|Bear bait.|b|2339|0
+B|That would make me nervous|sd|2339|1
+A|Yeah.|b|2339|0
+B|Have you done any camping around here?|qy|2339|1
+A|Yeah.|ny|2339|0
+A|We've got some land at Holly Lake outside of Tyler.|sd|2339|0
+B|Uh-huh.|b|2339|1
+A|And we go up there fairly often|sd|2339|0
+A|Sometimes we get a lot of people together to do it.|sd|2339|0
+B|Yeah.|b|2339|1
+B|That sounds fun.|ba|2339|1
+A|And we've done things like when, when it's kind of cold.|sd|2339|0
+A|We take extension cords|sd|2339|0
+A|and we've all got heaters in our tents.|sd|2339|0
+A|And in the Summer|sd|2339|0
+A|Same thing, we get our extension cords running from all these tents|sd|2339|0
+A|but we've got the fans going.|sd|2339|0
+B|Right|b|2339|1
+A|So we're not roughing it too much.|sd|2339|0
+B|Yeah.|b|2339|1
+A|And we have taken T V out there for the kids|sd|2339|0
+B|Yeah.|b|2339|1
+A|And they've got their electrical hookups.|sd|2339|0
+A|So it's not so bad.|ba|2339|0
+B|Yeah.|b|2339|1
+B|Do you go on long?|qy|2339|1
+B|Like a week at a time or just weekends?|qy|2339|1
+A|I think the longest we've stayed out there is like five days.|sd|2339|0
+B|Uh-huh.|b|2339|1
+A|And they even, they had a library at one time out there.|sd|2339|0
+B|Oh.|b|2339|1
+A|So that's really not roughing it so much|bf|2339|0
+A|but  we have gone on trips where we bathed in streams.|sd|2339|0
+B|Yeah.|ny|2339|1
+B|Uh-huh.|b|2339|1
+A|That's kind of different.|ba|2339|0
+B|Yeah|aa|2339|1
+B|I like the campgrounds that have a nice shower|sd|2339|1
+A|And a pool to go to.|sv|2339|0
+B|Uh-huh.|aa|2339|1
+A|That would be nice.|ba|2339|0
+B|Yeah.|aa|2339|1
+B|We've, uh, we camped at the DeGray State Park in Arkansas. In the Fall|sd|2339|1
+A|Uh-huh.|b|2339|0
+B|and there was nobody else, hardly, around|sd|2339|1
+B|and it was just really nice, that time of year.|sd|2339|1
+B|We had taken our electric, blanket too, just in case it was unbearable|sd|2339|1
+B|but we didn't need it|sd|2339|1
+B|Yeah .|fo_o_fw_"_by_bc|2339|1
+A|Well my husband has even camped at Lake Lavon  with one of his friends|sd|2339|0
+B|Oh really?|bh|2339|1
+A|he just decided to take the kids out there.|sd|2339|0
+B|Yeah.|b|2339|1
+A|I mean it's not very many miles from our house at all.|sd|2339|0
+A|But they had the time of their lives, you know.|sd|2339|0
+B|Oh, yeah|b|2339|1
+A|Had the boat just pulled up right by the tents.|sd|2339|0
+B|Uh-huh.|b|2339|1
+A|It wasn't bad.|ba|2339|0
+B|That sounds nice.|ba|2339|1
+A|Yeah.|b|2339|0
+A|And we've taken, our tents though, loaded them up in car carrier and decided we were going to tent most of the way.|sd|2339|0
+A|And it ended up, when it came time for us to pull in for the night, we'd take a vote.|sd|2339|0
+A|And most of the time we decided we wanted to stay in a hotel.|sd|2339|0
+B|Yeah.|b|2339|1
+A|Instead of getting out all that stuff, you know.|sd|2339|0
+B|Yeah,|b|2339|1
+B|it's a lot of work to set up just for one night.|sv|2339|1
+A|Yeah.|aa|2339|0
+A|Then you have to get up the next day and move it on.|sd|2339|0
+B|Right|aa|2339|1
+A|Huh-uh.|b|2339|0
+A|But we're set now.|sd|2339|0
+A|We've got cook stoves|sd|2339|0
+A|and we've got our bug light|sd|2339|0
+A|and everybody's got their sleeping bags,|sd|2339|0
+A|we got air mattresses.|sd|2339|0
+A|We decided that was easier than cots and more comfortable.|sd|2339|0
+B|Yeah.|aa|2339|1
+B|Those are nice,|ba|2339|1
+B|we have one of those, too.|sd|2339|1
+A|Yeah.|b|2339|0
+A|Those double ones?|qy^d|2339|0
+B|Uh-huh.|ny|2339|1
+A|Pretty good.|ba|2339|0
+A|We're on our third one I think.|sd|2339|0
+A|Somehow,|%|2339|0
+B|Yeah.|b|2339|1
+B|How do you blow yours up?|qw|2339|1
+A|We've got an electric pump that hooks into the cigarette lighter.|sd|2339|0
+B|Oh.|bk|2339|1
+B|we were looking at those in a magazine.|sd|2339|1
+B|Last time we went, we took our vacuum cleaner with us|sd|2339|1
+A|I didn't know you could do that.|qy^d|2339|0
+B|And, yeah, you can, if you can reverse the, nozzle on your vacuum cleaner|sd|2339|1
+A|Yeah.|b|2339|0
+B|and it blows air out instead of sucking it in|sd|2339|1
+B|and you can fill them up that way|sd|2339|1
+B|but something that's smaller would be a lot more convenient.|sd|2339|1
+A|No joke|ba|2339|0
+A|I hope you didn't have a big vacuum cleaner.|qy^d|2339|0
+B|No.|nn|2339|1
+B|Uh-huh.|%|2339|1
+B|We have a, my husband and I, we have a pickup truck|sd|2339|1
+B|so there's plenty of room to hold things.|sd|2339|1
+A|Yeah.|b|2339|0
+A|Now we've used a hair dryer before.|sd|2339|0
+B|Uh-huh.|b|2339|1
+A|But I put it on hot and also melted it.|sd|2339|0
+B|Oh no|ba|2339|1
+A|I found that you don't do that.|sd|2339|0
+B|Yeah.|b|2339|1
+A|I didn't realize it would melt so easily.|sd|2339|0
+B|Oh.|b|2339|1
+A|I don't know.|sd|2339|0
+B|We take, we take our dog camping.|sd|2339|1
+B|She likes to go out and stay in the woods.|sd|2339|1
+A|Yeah.|b|2339|0
+B|She sleeps, she sleeps in the tent with us.|sd|2339|1
+B|It's fun|sd|2339|1
+A|I don't like it when there's mosquitos so bad.|sd|2339|0
+B|Oh, me either.|sd|2339|1
+A|And then one night we were camping|sd|2339|0
+A|and it came, just a torrential downpour.|sd|2339|0
+A|We had the steaks on the grill.|sd|2339|0
+A|These people were with us.|sd|2339|0
+A|And it, , I mean everything was sopping wet inside the tent.|sd|2339|0
+A|It was just that bad, you know|sd|2339|0
+B|Oh no.|ba|2339|1
+A|And we decided we'd just go across the road to the office and see if we could rent anything.|sd|2339|0
+B|Uh-huh.|b|2339|1
+A|So I got a condo with a jacuzzi|sd|2339|0
+A|and it was wonderful.|sd|2339|0
+B|Oh boy|ba|2339|1
+A|Yeah.|b|2339|0
+B|That was lucky.|ba|2339|1
+A|Yeah,|aa|2339|0
+A|it was.|aa|2339|0
+B|We've been lucky.|sd|2339|1
+B|We've never really been rained on the few times we've gone.|sd|2339|1
+A|It's horrible.|sd|2339|0
+B|Oh I bet it,|ba|2339|1
+B|when we were younger, when I was a kid, we camped in Virginia|sd|2339|1
+B|and we had one of those little pop up tents, which is really nice because it kind of gets you off the ground.|sd|2339|1
+B|But it seemed like it rained every weekend for about a the year we were really into camping.|sd|2339|1
+A|You mean that you put on a truck or what?|qy|2339|0
+B|No.|nn|2339|1
+B|It's a little trailer you pull behind your car|sd|2339|1
+B|and, uh,  you know, you, the lid pops off,|sd|2339|1
+A|Oh yeah,|b|2339|0
+A|yeah.|b|2339|0
+B|the little tent comes up the top|sd|2339|1
+A|Uh-huh.|b|2339|0
+B|and it had two double beds in it.|sd|2339|1
+A|with How many weeks have you been doing these calls?|qw|2339|0
+B|Oh, since the beginning.|sd|2339|1
+B|I guess it's been two or three weeks.|sd|2339|1
+A|I think this must be into my third week too.|sd|2339|0
+A|So do you work for T I?|qy|2339|0
+B|Uh, well, I work as a temporary in the Speech Lab.|na|2339|1
+A|In a Speech Lab?|qy|2339|0
+B|Uh-huh.|ny|2339|1
+B|Where they're doing this program. The Voice Recognition Program.|sd|2339|1
+A|And what exactly are they going to do?|qw|2339|0
+B|Oh, they turn them over to somebody|sd|2339|1
+B|and they're going to, I guess they're going to try to teach computers how to recognize voices and search for specific words and stuff.|sd|2339|1
+A|So any voice, no matter what the speech pattern or the dialect  or anything.|bf|2339|0
+B|Right.|aa|2339|1
+B|Yeah.|aa|2339|1
+A|Um. I wonder if these are going to be speaking The computers,|qy^d|2339|0
+B|I don't know.|no|2339|1
+B|I type up the tapes of what people talked about.|sd|2339|1
+A|Oh, that's kind of neat.|ba|2339|0
+B|Yeah,|aa|2339|1
+B|it's sort of interesting.|sv|2339|1
+A|Do you put all the uh-huhs in here on everything, too.|qy|2339|0
+B|Uh-huh.|ny|2339|1
+B|Everything like that.|sd|2339|1
+B|All the little stutters and everything.|sd|2339|1
+A|What do you write for stutter?|qw|2339|0
+A|That, uh,|%|2339|0
+B|Like if they say I, I, we just type it in like that.|sd|2339|1
+A|Uh-huh.|b|2339|0
+B|Well, I guess that's it for camping, uh|sv|2339|1
+A|I guess so unless you want to talk about stakes.|aa|2339|0
+A|What size stakes to put in|qw^d|2339|0
+A|You need metal instead of plastic.|ad|2339|0
+B|Yeah.|aa|2339|1
+A|And you make sure that you keep up with them for the next time.|ad|2339|0
+B|Yeah.|aa|2339|1
+A|We got one of those kind that have got the,|sd|2339|0
+A|oh what is it?|t1|2339|0
+A|They're plastic|sd|2339|0
+A|and they've got the elastic on the inside of the poles|sd|2339|0
+A|and you just put them together.|sd|2339|0
+B|Oh, uh-huh.|b|2339|1
+B|That's what we have, too.|sd|2339|1
+A|And it's a dome tent.|sd|2339|0
+B|Yeah,|b|2339|1
+B|that's what ours is.|sd|2339|1
+A|That's good isn't it|qy|2339|0
+B|Yeah,|ny|2339|1
+B|yeah,|ny|2339|1
+B|they pop up pretty fast.|sd|2339|1
+A|Yeah.|b|2339|0
+B|Have you ever camped on sand?|qy|2339|1
+A|Um, no.|nn|2339|0
+B|That can be a mess.|sd|2339|1
+B|We camped at the beach one time|sd|2339|1
+B|and that was sort of miserable.|sd|2339|1
+B|You just|sd|2339|1
+B|everywhere you went there was sand.|sd|2339|1
+B|You couldn't,|sd|2339|1
+B|even when you're eating,|sd|2339|1
+B|it, it was in your bed|sd|2339|1
+A|I've done it in a shelter.|sd|2339|0
+B|Uh-huh.|b|2339|1
+A|It was in Padre Island and in a  truck off Corpus, not, but not in a tent.|sd|2339|0
+B|Oh.|b|2339|1
+B|Uh-huh.|b|2339|1
+A|Oh well, that's about all .|fc|2339|0
+B|Okay.|fc|2339|1
+A|Okay .|fc|2339|0
+B|Well, it's good talking to you.|fc|2339|1
+A|Uh-huh.|fc|2339|0
+B|Bye.|fc|2339|1
+A|Bye.|fc|2339|0

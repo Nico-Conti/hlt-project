@@ -1,0 +1,90 @@
+A|Well, I don't know if there's going to be solutions to the U S budget.|sv|3270|0
+B|Well, now it's in pretty disastrous shape for sure.|sv|3270|1
+A|Uh-huh.|b|3270|0
+B|It's only getting worse exponentially it seems.|sv|3270|1
+A|Yes.|b|3270|0
+A|Exactly.|ba|3270|0
+B|Um,|%|3270|1
+A|There's, uh, maybe some short-term things that they can do|sv|3270|0
+A|and it hurts everybody's pocket, of course,|sv|3270|0
+A|but, um, I know that state has, uh, cutback, uh, raises for a year to help, uh, the, uh, state financial or whatever you might want to say to get better in a better condition.|sv|3270|0
+B|Uh-huh.|b|3270|1
+A|That,|%|3270|0
+B|Oh, which state is that?|qw|3270|1
+A|Uh, State of Minnesota.|sd|3270|0
+B|Uh-huh.|b|3270|1
+A|So there's the potential that perhaps, you know, the U S budget might want to take a look at it's, uh, federal employees or, and take a look at saying, well, let's freeze wages.|sv|3270|0
+A|I mean everybody's doing it so it isn't like, uh, private business has had to do it|sv|3270|0
+B|Uh-huh.|b|3270|1
+A|so it might have to be something that they might consider doing as a that's got to be very short term.|sv|3270|0
+B|Right.|b|3270|1
+B|Right.|b|3270|1
+A|And the only other avenue that I can think of is, uh, looking at where they're spending the money and not so much as saying, well, we're spending too much in that area as perhaps looking at what is costing them the money.|sv|3270|0
+A|As for, for instance, I think you probably remember the military getting caught, um, with toilet seats that cost them four hundred, five hundred dollars.|sd|3270|0
+B|Yep.|b|3270|1
+B|Right.|b|3270|1
+A|And it was just,|%|3270|0
+A|I mean you can go to K-Mart and buy them for, uh, eight dollars or I think six dollars or whatever for toilet seats,|sd|3270|0
+B|Yeah.|b|3270|1
+A|so. So it gives you idea that,|sv|3270|0
+B|Yeah.|b|3270|1
+B|Definitely|ba|3270|1
+B|I think that there's probably a lot of waste in defense and in government funded research in the first place.|sv|3270|1
+A|Sure,|b|3270|0
+A|sure.|b|3270|0
+A|So,|%|3270|0
+B|I mean there was, um, people at Stanford who were soaking the government, you know, using millions of dollars of research money to, uh, for the President to buy beach homes or whatever it was.|sv|3270|1
+A|Uh-huh.|b|3270|0
+A|Uh-huh.|b|3270|0
+B|And I think that, that maybe more widespread than well, than we'd like to have think.|sv|3270|1
+A|Than we think.|^2|3270|0
+A|Sure.|b|3270|0
+A|Sure.|b|3270|0
+B|But, but then it's something that's hard to enforce too I'm sure.|sd|3270|1
+A|Uh-huh.|b|3270|0
+A|It sure is.|aa|3270|0
+A|The, you know, as far as,|%|3270|0
+A|I think there was something with the government official that went on conferences for two days|sv|3270|0
+A|and actually, uh, the conferences were nothing|sv|3270|0
+A|but, uh, you know, they're getting paid for this,|sd|3270|0
+A|and it was something more than just the conferences.|sd|3270|0
+A|They were using it as eating out, uh,|sd|3270|0
+A|when you think about people, uh, taking vacations these big government officials taking descendants in congress.|sd|3270|0
+B|Uh-huh.|b|3270|1
+A|The rest of them taking these vacations and using the taxpayers' money for that.|sv|3270|0
+B|Right.|b|3270|1
+A|And it's a real big crunch, uh|sv|3270|0
+B|Uh-huh.|b|3270|1
+A|of course, when they get caught then they're, you know, they're guilty of course,|sv|3270|0
+A|but, uh, during that time I'm sure there's hundreds of, uh, thousands of people that are, uh, spending money that does not belong to them.|sv|3270|0
+A|So,|%|3270|0
+B|Well, that's right.|ba|3270|1
+B|Uh, I think that, oh, politicians talk a lot about waste|sv|3270|1
+A|Uh-huh.|b|3270|0
+B|but I'm not sure that that's really that much of the problem.|sv|3270|1
+A|Sure.|b|3270|0
+B|I mean when you look at something like the Gulf War it cost us God knows how much. You know, at a million dollars, a pop for patriot missiles.|sd|3270|1
+A|Uh-huh.|b|3270|0
+A|Exactly.|ba|3270|0
+A|And I don't think, uh, it's ended up being,|sv|3270|0
+A|I mean it gave people jobs|sd|3270|0
+B|Yeah.|b|3270|1
+A|but I think it also cost, um, quite a bit as far as because after they're done with the war, a lot of things were no longer put to use.|sv|3270|0
+A|I mean it was kind of like, okay, we'll do this during this point and time|sv|3270|0
+A|but after that that's, you know, uh they didn't want to do it anymore.|sv|3270|0
+B|Right.|b|3270|1
+B|Uh-huh.|b|3270|1
+A|So, a lot of things that are saying that they're no longer going to be doing for next wars that are coming up that they did for this one in getting rid of a lot of things.|sd|3270|0
+A|So I don't know.|h|3270|0
+B|Uh-huh.|b|3270|1
+B|Right.|b|3270|1
+A|Okay,|fc|3270|0
+A|well, it was good talking to you|fc|3270|0
+A|and have a good evening.|fc|3270|0
+B|Okay|fc|3270|1
+B|All right.|fc|3270|1
+B|You too.|fc|3270|1
+A|Uh-huh,|fc|3270|0
+A|thanks.|fc|3270|0
+B|Bye-bye.|fc|3270|1
+A|Bye now.|fc|3270|0

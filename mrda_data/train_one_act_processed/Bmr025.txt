@@ -1,0 +1,1054 @@
+me013|um so|F|Bmr025
+me013|if we can't we can't but uh we're going to try to make this an abbreviated meeting.|S|Bmr025
+me013|because the the next next occupants were pushing for it.|S|Bmr025
+me013|so|F|Bmr025
+me013|um.|F|Bmr025
+me013|so|F|Bmr025
+me013|agenda is according to this is transcription status darpa demos x m l tools disks backups et cetera and crosspads.|S|Bmr025
+me011|does anyone have anything to add to the agenda?|Q|Bmr025
+me013|okay.|S|Bmr025
+me013|should we just go in order?|Q|Bmr025
+me013|transcription status.|S|Bmr025
+me013|who's that's probably you.|S|Bmr025
+fe008|i can do that quickly.|S|Bmr025
+fe008|um i hired several more transcribers.|S|Bmr025
+fe008|they're making great progress.|S|Bmr025
+me013|seven?|Q|Bmr025
+fe008|several several.|S|Bmr025
+me013|oh.|S|Bmr025
+fe008|and uh|F|Bmr025
+fe008|and uh|F|Bmr025
+fe008|uh i've been uh finishing up the uh double checking.|S|Bmr025
+fe008|i hoped to have had that done by today.|S|Bmr025
+fe008|but it's going to take one more week.|S|Bmr025
+me011|um|F|Bmr025
+me011|as a somewhat segue into the next topic um could i get a hold of uh the data even if it's not really corrected yet?|Q|Bmr025
+mn014|i|D|Bmr025
+me011|just so i can get the data formats.|S|Bmr025
+me011|and make sure the information retrieval stuff is working.|S|Bmr025
+fe008|certainly.|S|Bmr025
+fe008|yeah i mean it's in the same place it's been.|S|Bmr025
+me011|so can you just|D|Bmr025
+me011|oh it is?|Q|Bmr025
+me011|okay.|S|Bmr025
+fe008|uhhuh no change.|S|Bmr025
+me011|just so transcripts is the sub directory?|Q|Bmr025
+fe008|uh yes uhhuh.|S|Bmr025
+me011|okay.|S|Bmr025
+me011|so i'll i'll probably just make some copies of those.|S|Bmr025
+me011|rather than use the ones that are there.|S|Bmr025
+fe008|okay.|S|Bmr025
+me011|um and then just we'll have to remember to delete them once the corrections are made.|S|Bmr025
+fe008|okay.|S|Bmr025
+me013|okay|D|Bmr025
+mn014|i also got a short remark to the transcription.|S|Bmr025
+mn014|i've uh just processed the first five e d u meetings.|S|Bmr025
+mn014|and they are chunked up.|S|Bmr025
+mn014|so they would they probably can be sent to i b m.|S|Bmr025
+mn014|whenever they want them.|S|Bmr025
+me018|well the second one of those|D|Bmr025
+me001|cool.|S|Bmr025
+mn014|yep it's already at i b m.|S|Bmr025
+me018|is already at i b m.|S|Bmr025
+mn014|but the other ones|D|Bmr025
+me018|that's the one that we're waiting to hear from them on.|S|Bmr025
+mn014|yeah.|B|Bmr025
+mn014|yeah.|B|Bmr025
+me018|yeah.|B|Bmr025
+fe008|okay.|B|Bmr025
+fe008|these are separate from the ones that|D|Bmr025
+me018|as soon as|D|Bmr025
+fe008|i mean these are|D|Bmr025
+me018|they're the i b m set.|S|Bmr025
+me011|it's this one.|D|Bmr025
+mn014|yep.|S|Bmr025
+fe008|excellent.|B|Bmr025
+me018|yeah.|B|Bmr025
+fe008|good.|B|Bmr025
+me011|is my mike on?|Q|Bmr025
+me018|and so as soon as we hear from brian that this one is okay.|S|Bmr025
+me011|yeah.|B|Bmr025
+me018|and we get the transcript back.|S|Bmr025
+me018|and we find out that hopefully there are no problems matching up the transcript with what we gave them.|S|Bmr025
+me018|then uh we'll be ready to go and we'll just send them the next four as a big batch.|S|Bmr025
+fe008|excellent.|B|Bmr025
+me018|and let them work on that.|S|Bmr025
+me011|and so we're doing those as disjoint from the ones we're transcribing here?|Q|Bmr025
+me018|yes.|S|Bmr025
+me011|okay good.|S|Bmr025
+me018|exactly.|S|Bmr025
+me018|we're sort of doing things in parallel.|S|Bmr025
+me018|that way we can get as much done at once.|S|Bmr025
+me011|yeah i think that's the right way to do it.|S|Bmr025
+me018|yeah.|S|Bmr025
+me011|especially for the information retrieval stuff.|S|Bmr025
+me011|anything else on transcription status?|Q|Bmr025
+fe008|hm-huh.|S|Bmr025
+me011|okay.|S|Bmr025
+me013|darpa demos.|S|Bmr025
+me013|we had the submeeting the other day.|S|Bmr025
+me011|right which uh|D|Bmr025
+me011|so i've been working on using the thisl tools to do information retrieval on meeting data.|S|Bmr025
+me011|and the thisl tools are there're two sets there's a back end and a front end.|S|Bmr025
+me011|so the front end is the user interface.|S|Bmr025
+me011|and the back end is the indexing tool and the querying tool.|S|Bmr025
+me011|and so i've written some tools to convert everything into the right file formats.|S|Bmr025
+me011|and the command line version of the indexing and the querying is now working.|S|Bmr025
+me011|so at least on the one meeting that i had the transcript for uh conveniently you can now do information retrieval on it.|S|Bmr025
+me011|do type in a a string and get back a list of start end times for the meeting.|S|Bmr025
+me011|uh of hits.|S|Bmr025
+me018|what what kind of uh what does that look like the string that you type in?|Q|Bmr025
+me018|what are you are you are they keywords or are they|D|Bmr025
+me011|keywords.|S|Bmr025
+me018|okay.|S|Bmr025
+me018|i see.|S|Bmr025
+me011|right and so and then it munges it to pass it to the thisl i r which uses an s g m l like format for everything.|S|Bmr025
+me018|i see.|S|Bmr025
+me013|and then does it play something back?|Q|Bmr025
+me013|or that's something you're having to program?|Q|Bmr025
+me011|um right now i have a tool that will do that on a command line using our standard tools.|S|Bmr025
+me013|yeah.|B|Bmr025
+me011|but my intention is to do a prettier user interface based either|D|Bmr025
+me011|so so that's the other thing i wanted to discuss is well what should we do for the user interface.|S|Bmr025
+me011|we have two tools that have already been written.|S|Bmr025
+me011|um the softsound guys did a web based one.|S|Bmr025
+me013|uhhuh.|B|Bmr025
+me011|um which i haven't used haven't looked at.|S|Bmr025
+me011|dan says it's pretty good.|S|Bmr025
+me013|uhhuh.|B|Bmr025
+me011|but it does mean you need to be running a web server.|S|Bmr025
+me013|uhhuh.|B|Bmr025
+me011|and so it it's pretty big and complex.|S|Bmr025
+me011|uh and it would be difficult to port to windows.|S|Bmr025
+me011|because it means porting the web server to windows.|S|Bmr025
+me013|uhhuh.|B|Bmr025
+me011|uh the other option is dan did the tcl t k thisl gui front end for broadcast news.|S|Bmr025
+me013|yeah.|B|Bmr025
+me011|which i think looks great.|S|Bmr025
+me011|i think that's a nice demo.|S|Bmr025
+me011|um and that would be much easier to port to windows.|S|Bmr025
+me011|and so i think that's the way we should go.|S|Bmr025
+fe008|i can i ask a question?|Q|Bmr025
+me011|uhhuh.|S|Bmr025
+fe008|so um as it stands within the the channeltrans interface it's possible to do a find and a play.|S|Bmr025
+fe008|you can find a searched string and play.|S|Bmr025
+fe008|so are you so you're adding like um i don't know uh are they fuzzy matches or are they uh|D|Bmr025
+me011|it's a sort of standard text-retrieval-based.|S|Bmr025
+me011|so it's uh term frequency inverse document frequency scoring.|S|Bmr025
+fe008|okay.|S|Bmr025
+me011|um and then there are all sorts of metrics for spacing.|S|Bmr025
+me011|how far apart they have to be and things like that.|S|Bmr025
+me011|so it it's|D|Bmr025
+fe008|it's a lot more sophisticated than the uh the basically windows based.|S|Bmr025
+me011|it's like doing a google query or anything else like that.|S|Bmr025
+me011|so it uses so it produces an index ahead of time.|S|Bmr025
+fe008|okay.|S|Bmr025
+me011|so you don't you're not doing a linear search through all the documents.|S|Bmr025
+me011|because you can imagine if with if we have the sixty hours' worth you do wouldn't want to do a search.|S|Bmr025
+fe008|hm-huh.|S|Bmr025
+me011|um you have to do preindexing.|S|Bmr025
+fe008|good.|B|Bmr025
+me011|and so that these tools do all that.|S|Bmr025
+me011|and so the work to get the front end to work would be porting it|D|Bmr025
+me011|well uh to get it to work on the unix systems our side is just rewriting them and modifying them to work for meetings.|S|Bmr025
+me011|so that it understands that they're different speakers and that it's one big audio file instead of a bunch of little ones and just sort of things like that.|S|Bmr025
+me013|uhhuh.|B|Bmr025
+me013|uhhuh.|B|Bmr025
+fe016|uhhuh.|B|Bmr025
+me018|so what does the user see as the result of the query?|Q|Bmr025
+me011|on which tool?|Q|Bmr025
+me018|thisl.|S|Bmr025
+me011|the thisl gui tool which is the one that dan wrote tcl t k.|S|Bmr025
+me018|yeah.|B|Bmr025
+me011|um you type in a query and then you get back a list of hits.|S|Bmr025
+me011|and you can type on them and listen to them.|S|Bmr025
+me011|click on them rather with a mouse.|S|Bmr025
+me018|uh.|S|Bmr025
+me018|so if you typed in small heads or something you could|Q|Bmr025
+me013|huh.|B|Bmr025
+me011|right you'd get|D|Bmr025
+me018|get back a uh uh something that would let you click and listen to some audio where that phrase had occurred.|S|Bmr025
+me011|something|D|Bmr025
+me011|you you'd get to listen to beep.|S|Bmr025
+me018|or|D|Bmr025
+me013|that was a really good look.|S|Bmr025
+me013|it's too bad that that couldn't come into the|D|Bmr025
+me011|you couldn't get a video.|S|Bmr025
+fe016|guess who i practice on.|S|Bmr025
+fe008|at some point we're going to have to say what that private joke is.|S|Bmr025
+fe008|that keeps coming up.|S|Bmr025
+me013|yeah.|S|Bmr025
+me013|and then again maybe not.|S|Bmr025
+me013|so uh|F|Bmr025
+me013|yeah that that sounds reasonable.|S|Bmr025
+me013|yeah it it my my recollection of it is it's it's a pretty reasonable uh demo sort of format.|S|Bmr025
+me011|right.|S|Bmr025
+me018|yeah that sounds good.|S|Bmr025
+me011|and so i think there'd be minimal effort to get it to work minimally.|S|Bmr025
+me018|that sounds really neat.|S|Bmr025
+me011|and then we'd want to add things like query by speaker and by meeting and all that sort of stuff.|S|Bmr025
+me011|um dave gelbart expressed some interest in working on that.|S|Bmr025
+me011|so i'll work with him on it.|S|Bmr025
+me011|and it it's looking pretty good.|S|Bmr025
+me011|you know the fact that i got the query system working.|S|Bmr025
+me011|so if we want to just do a video based one i think that'll be easy.|S|Bmr025
+me013|uhhuh.|B|Bmr025
+me011|if we want to get it to windows it's going to be a little more work.|S|Bmr025
+me011|because the thisl i r the information retrieval tool's um|D|Bmr025
+me011|i had difficulty just compiling them on solaris.|S|Bmr025
+me013|uhhuh.|B|Bmr025
+me011|so getting them to compile on windows might be challenging.|S|Bmr025
+me013|uhhuh.|B|Bmr025
+me018|but you were saying that that the uh that there's that set of tools uh cygnus tools that|D|Bmr025
+me011|so|F|Bmr025
+me011|it certainly helps.|S|Bmr025
+me018|uhhuh.|B|Bmr025
+me011|um i mean without those i wouldn't even attempt it.|S|Bmr025
+me018|yeah.|S|Bmr025
+me013|uhhuh.|B|Bmr025
+me011|but what those they what those do is provide sort of a b s d compatibility layer.|S|Bmr025
+me011|so that the normal unix function calls all work.|S|Bmr025
+me013|uhhuh.|B|Bmr025
+me013|uhhuh.|B|Bmr025
+me011|um|F|Bmr025
+me018|and you have to have all the|D|Bmr025
+me011|but the problem is that that the thisl tools didn't use anything like autoconf.|S|Bmr025
+me011|and so you have the normal porting problems of different header files and some things are defined and some things aren't.|S|Bmr025
+me011|and uh different compiler work arounds and so on.|S|Bmr025
+me011|so the fact that um it took me a day to get it to compile under solaris means it's probably going to take me significantly more than that to get it to compile under windows.|S|Bmr025
+me013|how about having it run under free b s d?|Q|Bmr025
+me022|well what you need|D|Bmr025
+me011|free b s d would probably be easier.|S|Bmr025
+me022|all you need to do is say to dan gee it would be nice if this worked under autoconf and it'll be done in a day.|S|Bmr025
+me011|that's true.|S|Bmr025
+me022|right?|Q|Bmr025
+mn014|uh|B|Bmr025
+me011|actually you know i should check.|S|Bmr025
+me011|because he did port it to sprachcore.|S|Bmr025
+me022|right.|S|Bmr025
+me011|so he might have done that already.|S|Bmr025
+me022|i i i wouldn't be surprised.|S|Bmr025
+me013|so|F|Bmr025
+me011|i'll check at that.|S|Bmr025
+me018|how does it play?|Q|Bmr025
+me022|what i|D|Bmr025
+me013|but it would what would serve would serve both purposes is if you contact him and ask him if he's already done it.|S|Bmr025
+me011|yeah right.|S|Bmr025
+me013|if he has then you learn.|S|Bmr025
+me013|if he hasn't then he'll do it.|S|Bmr025
+me011|right.|S|Bmr025
+fe008|wow.|B|Bmr025
+me018|i hope he never listens to these meetings.|S|Bmr025
+me011|that's right.|D|Bmr025
+me011|so and i've been corresponding with dan and also with uh uh softsound guy uh|D|Bmr025
+fe008|it's amazing.|B|Bmr025
+me013|yeah.|B|Bmr025
+me011|blanking on his name.|S|Bmr025
+me018|tony robinson?|Q|Bmr025
+me013|tony robinson?|Q|Bmr025
+me011|do i mean tony?|Q|Bmr025
+me011|i guess i do.|S|Bmr025
+me013|yeah.|B|Bmr025
+me011|or or steve renals.|S|Bmr025
+me022|james christie.|S|Bmr025
+me011|which one do i mean?|Q|Bmr025
+me013|steve steve renals.|S|Bmr025
+me022|steve renals is not softsound.|S|Bmr025
+me022|is he?|Q|Bmr025
+me013|no.|S|Bmr025
+me011|my brain is not working.|S|Bmr025
+me011|i don't remember who i've been corresponding with.|S|Bmr025
+me013|okay.|S|Bmr025
+me022|steve it's steve renals wrote thisl i r.|S|Bmr025
+me011|then it's steve renals.|S|Bmr025
+me022|okay.|S|Bmr025
+me013|oh okay.|S|Bmr025
+me011|so uh just getting documentation and uh and and formats.|S|Bmr025
+me013|yeah.|B|Bmr025
+me011|so that's all going pretty well.|S|Bmr025
+me011|i think we'll be okay with that.|S|Bmr025
+me022|right.|B|Bmr025
+me013|assuming we're|D|Bmr025
+me018|what about issues of playing sound files between the two platforms?|Q|Bmr025
+me011|um|F|Bmr025
+me011|we have|D|Bmr025
+me011|well that's a good point too.|S|Bmr025
+me022|here's a here's a crazy idea actually.|S|Bmr025
+me011|i don't know.|S|Bmr025
+me022|why don't you try and merge transcriber and thisl i r?|Q|Bmr025
+me011|well this is one of the reasons|D|Bmr025
+me022|they're both tcl interfaces.|S|Bmr025
+me011|this is the one of the reasons that i'm going to have uh dave gelbart gelbart.|S|Bmr025
+me011|having him volunteer to work on it is a really good thing.|S|Bmr025
+me011|because he's worked on the transcriber stuff.|S|Bmr025
+me022|right.|S|Bmr025
+me011|and he's more familiar with tcl t k than i am.|S|Bmr025
+me022|and then you get they then you get the windows media playing for free.|S|Bmr025
+me011|well that's snack not not transcriber.|S|Bmr025
+me022|right but the point is that the transcriber uses snack and then you can but you can use a a lot of the same functionality.|S|Bmr025
+me011|yeah yeah i mean i i think thisl thisl gui probably uses snack.|S|Bmr025
+me022|and it's|D|Bmr025
+me011|and so my intention was just to base it on that.|S|Bmr025
+me022|yeah.|S|Bmr025
+me022|well my thought was is that it would be nice it would be nice to have the running transcripts um uh you know from speaker to speaker.|S|Bmr025
+me011|and if it doesn't|D|Bmr025
+me022|right?|Q|Bmr025
+me022|do you have you have you know a speaker mark here and a speaker mark here?|Q|Bmr025
+me011|right we'll have to figure out a user interface for that so.|S|Bmr025
+me022|right well that uh my thought was if you had like multitrans or whatever do it.|S|Bmr025
+me022|or whatever.|S|Bmr025
+me011|yeah.|S|Bmr025
+me011|it might be fairly difficult to get that to work in the little short segments we'd be talking about.|S|Bmr025
+me011|and having the search tools and so on.|S|Bmr025
+me011|we we can look into it.|S|Bmr025
+me011|but|F|Bmr025
+me022|yeah.|B|Bmr025
+me013|the thing i was asking about with um free b s d is that it might be easier to|D|Bmr025
+me013|get powerpoint shows running in free b s d than to get this other package running in|D|Bmr025
+me011|yeah i mean we have to i have to sit down and try it before i make too many judgments.|S|Bmr025
+me013|yeah.|B|Bmr025
+me011|so uh|F|Bmr025
+me011|um|F|Bmr025
+me011|my experience with the gnu compatibility library is really it's just as hard and just as easy to port to any system.|S|Bmr025
+me011|right?|Q|Bmr025
+me011|the windows system isn't any harder.|S|Bmr025
+me011|because it it looks like a b s d system.|S|Bmr025
+me013|uhhuh.|B|Bmr025
+me011|it's just you know just like all of them the include files are a little different and the function calls are a little different.|S|Bmr025
+me013|right.|B|Bmr025
+me011|so i it might be a little easier.|S|Bmr025
+me011|but it's not going to be a lot easier.|S|Bmr025
+me013|okay.|B|Bmr025
+me013|so there was that demo which was one of the main ones.|S|Bmr025
+me013|and then we talked about um some other stuff.|S|Bmr025
+me013|which would basically be um showing off the the transcriber interface itself.|S|Bmr025
+me013|and as you say maybe we could even merge those in some sense.|S|Bmr025
+me013|but but um|F|Bmr025
+me013|uh and part of that was showing off what the speech non uh nonspeech stuff that thilo has done looks like.|S|Bmr025
+mn014|yeah.|B|Bmr025
+fe008|can i ask one more thing about thisl?|Q|Bmr025
+me011|uhhuh.|S|Bmr025
+fe008|so with the i r stuff then you end up with a somewhat prioritized um|D|Bmr025
+me011|uhhuh.|S|Bmr025
+me011|ranked.|S|Bmr025
+fe008|excellent.|S|Bmr025
+fe008|excellent.|S|Bmr025
+fe008|yeah.|B|Bmr025
+fe016|so another idea i had just now actually for the demo was whether it might be of interest to to show some of the prosody uh work that don's been doing.|S|Bmr025
+me013|uhhuh.|B|Bmr025
+fe016|um actually show some of the features.|S|Bmr025
+fe016|and then show for instance a task like finding sentence boundaries or finding turn boundaries.|S|Bmr025
+fe016|um|F|Bmr025
+fe016|you know you can show that graphically sort of what the features are doing.|S|Bmr025
+fe016|it you know it doesn't work great but it's definitely giving us something.|S|Bmr025
+me013|well i think it|D|Bmr025
+fe016|i don't know if that would be of interest or not.|S|Bmr025
+me013|at the very least we're going to want something illustrative with that.|S|Bmr025
+me013|because i'm going to want to talk about it.|S|Bmr025
+me013|and so if there's something that shows it graphically it's much better than me just having a bullet point.|S|Bmr025
+fe016|yeah.|B|Bmr025
+me013|pointing at something i don't know much about.|S|Bmr025
+fe016|i mean you're looking at this now.|S|Bmr025
+me013|so|F|Bmr025
+fe016|are you looking at waves or matlab?|Q|Bmr025
+me001|um yeah i'm starting to.|S|Bmr025
+me001|and|F|Bmr025
+me001|um|F|Bmr025
+me001|yeah we can probably find some examples of different type of prosodic events going on.|S|Bmr025
+fe016|yeah|D|Bmr025
+me013|so when we here were having this demo meeting what we're sort of coming up with is that we want to have all these pieces together to first order by the end of the month.|S|Bmr025
+me013|and then that'll give us a week or so.|S|Bmr025
+fe016|oh the end of this month or next month?|Q|Bmr025
+me001|ooo the end of|D|Bmr025
+me011|this month.|S|Bmr025
+fe016|oh you mean like today?|S|Bmr025
+fe016|oh.|S|Bmr025
+me011|oh sorry next month.|S|Bmr025
+me013|june june june.|S|Bmr025
+fe016|next month.|S|Bmr025
+me001|yeah.|B|Bmr025
+fe016|sorry.|S|Bmr025
+me011|today isn't june first.|S|Bmr025
+me018|there's another one.|S|Bmr025
+me011|is it?|Q|Bmr025
+me022|exactly.|B|Bmr025
+me013|uh that'll that'll give us that'll give us a week or so to uh to port things over to my laptop and make sure that works.|S|Bmr025
+fe016|sorry.|S|Bmr025
+fe016|i think i mean uh where|D|Bmr025
+me013|yeah.|B|Bmr025
+me001|yeah i mean i'll be here.|S|Bmr025
+fe016|yeah if if don can sort of talk to whoever's|D|Bmr025
+fe016|because we're doing this anyway as part of our you know the research.|S|Bmr025
+me013|yeah.|B|Bmr025
+fe016|visualizing what these features are doing.|S|Bmr025
+me013|yeah.|B|Bmr025
+fe016|and so either|D|Bmr025
+fe016|it might not be integrated.|S|Bmr025
+fe016|but it it could potentially be in it.|S|Bmr025
+fe016|could find some.|S|Bmr025
+me013|yeah well this is to an audience of researchers.|S|Bmr025
+me013|so i mean you know|D|Bmr025
+me013|to let the goal is to let them know what it is we're doing.|S|Bmr025
+fe016|i mean it's different.|S|Bmr025
+me013|so that's|D|Bmr025
+fe016|i don't think anyone has done this on meeting data.|S|Bmr025
+fe016|so it might be neat you know.|S|Bmr025
+me013|yeah.|B|Bmr025
+me013|good.|B|Bmr025
+me013|done with that.|S|Bmr025
+me013|x m l tools?|Q|Bmr025
+me011|um|F|Bmr025
+me011|so i've been doing a bunch of x m l tools.|S|Bmr025
+me011|where you we're sort of moving to x m l as the general format for everything.|S|Bmr025
+me011|and i think that's definitely the right way to go.|S|Bmr025
+me011|because there are a lot of tools that let you do extraction and reformatting of x m l tools.|S|Bmr025
+me011|um|F|Bmr025
+me011|so yet again we should probably meet to talk about transcription formats in x m l.|S|Bmr025
+me011|because i'm not particularly happy with what we have now.|S|Bmr025
+me011|i mean it works with transcriber.|S|Bmr025
+me011|but it it's a pain to use it in other tools.|S|Bmr025
+me011|uh because it doesn't mark start and end.|S|Bmr025
+me018|start and end of each|D|Bmr025
+me011|uh|F|Bmr025
+mn014|yeah.|B|Bmr025
+me011|utterance.|S|Bmr025
+me018|utterance.|S|Bmr025
+me018|just marks?|Q|Bmr025
+me011|so it's implicit in in there.|S|Bmr025
+me011|but you have to do a lot of processing to get it.|S|Bmr025
+me018|yeah.|B|Bmr025
+me018|right.|S|Bmr025
+me018|right.|S|Bmr025
+me011|and so and also i'd like to do the indirect time line business.|S|Bmr025
+me011|um but regardless i mean that's something that you me and jane can talk about later.|S|Bmr025
+me011|um but i've installed x m l tools of various sorts in various languages.|S|Bmr025
+me011|and so if people are interested in doing extracting any information from any of these files.|S|Bmr025
+me011|either uh information on users because the user database is that way.|S|Bmr025
+me011|i'm converting the key files to x m l so that you can extract uh various uh sorted information on individual meetings.|S|Bmr025
+me001|cool.|S|Bmr025
+mn014|yeah.|B|Bmr025
+me011|and then also the transcripts.|S|Bmr025
+me011|and so just let me know there.|S|Bmr025
+me011|it's mostly java and perl.|S|Bmr025
+me011|but we can get other languages too if if that's desirable.|S|Bmr025
+fe016|oh quick question on that is do we have the the seat information?|Q|Bmr025
+fe016|in in the key files now?|Q|Bmr025
+fe008|uhhuh.|S|Bmr025
+me011|the seat information is on the key files for the ones which|D|Bmr025
+fe008|uh|B|Bmr025
+fe016|oh in|D|Bmr025
+me011|it's been recorded.|S|Bmr025
+fe016|for the new one.|S|Bmr025
+fe016|okay.|S|Bmr025
+me011|yeah.|S|Bmr025
+me013|seat?|Q|Bmr025
+fe016|great.|S|Bmr025
+fe016|yeah.|S|Bmr025
+me011|where where you're sitting.|S|Bmr025
+me013|oh not not the quality or anything no.|S|Bmr025
+me011|right.|S|Bmr025
+me013|okay i see.|S|Bmr025
+me011|it's pretty soft and squishy.|S|Bmr025
+me013|yeah.|B|Bmr025
+fe016|all right.|B|Bmr025
+me013|yeah.|B|Bmr025
+me013|okay.|F|Bmr025
+me011|oh but that might just be me.|S|Bmr025
+fe016|okay.|B|Bmr025
+me011|um|F|Bmr025
+fe016|all right.|B|Bmr025
+me013|that's more seat information than we wanted.|S|Bmr025
+fe016|never mind.|S|Bmr025
+me022|huh|B|Bmr025
+fe016|i'm just trying to figure out you know when morgan's voice appears on someone's microphone are they next to him or are they across from him.|S|Bmr025
+me011|maybe we should bleep that out.|S|Bmr025
+me013|yeah.|B|Bmr025
+me013|huh yeah.|B|Bmr025
+me018|wait a minute.|S|Bmr025
+me011|right.|S|Bmr025
+me018|how how uh where is it in the key file?|Q|Bmr025
+me013|yeah.|B|Bmr025
+me011|the square bracket.|S|Bmr025
+fe016|because i mean i haven't been putting it in.|S|Bmr025
+fe016|and in by|D|Bmr025
+me011|you haven't been putting it in.|S|Bmr025
+fe016|right.|S|Bmr025
+fe016|i have not.|S|Bmr025
+fe008|well|D|Bmr025
+me011|oh okay.|S|Bmr025
+fe008|isn't it always on the digits?|Q|Bmr025
+fe016|and|F|Bmr025
+me013|some of these are missing.|S|Bmr025
+me013|aren't they?|Q|Bmr025
+fe008|isn't it always on the digits forms?|Q|Bmr025
+me013|some fall out of|D|Bmr025
+fe016|well|D|Bmr025
+me011|yeah so we can go back and fill them in for the ones we have.|S|Bmr025
+me001|ooo.|B|Bmr025
+fe016|i mean they're on right these.|S|Bmr025
+fe016|but i just hadn't ever been putting it in the key files.|S|Bmr025
+me018|yeah i i never|D|Bmr025
+fe016|and i don't think chuck was either.|S|Bmr025
+me018|i never knew we were supposed to put it in the key file.|S|Bmr025
+fe016|because|D|Bmr025
+me011|i had told you guys about it.|S|Bmr025
+fe016|oh so we're both sorry.|S|Bmr025
+me011|but|F|Bmr025
+me018|oh really?|Q|Bmr025
+fe016|so|F|Bmr025
+me011|i mean this is why i want to use a a tool to do it rather than the plain text.|S|Bmr025
+fe016|okay.|B|Bmr025
+me011|because with the plain text it's very easy to skip those things.|S|Bmr025
+me018|okay.|S|Bmr025
+fe016|okay.|S|Bmr025
+me011|so|F|Bmr025
+me011|um if you use the edit key|D|Bmr025
+me011|or key edit.|S|Bmr025
+me011|i think it's edit key command.|S|Bmr025
+mn014|edit key.|S|Bmr025
+me011|did i show you guys that?|Q|Bmr025
+mn014|yep.|S|Bmr025
+me011|i did show it to you.|S|Bmr025
+me018|you mentioned it.|S|Bmr025
+me011|but i think you both said no you'll just use text file.|S|Bmr025
+me018|yeah yeah.|S|Bmr025
+me018|text.|S|Bmr025
+me011|um it has it in there a place to fill it in.|S|Bmr025
+fe016|okay.|S|Bmr025
+me018|okay.|S|Bmr025
+me011|yeah and so if you don't fill it in you're not going to get it in the meetings.|S|Bmr025
+fe016|so if|D|Bmr025
+me011|so|F|Bmr025
+fe016|right well i i just realized i hadn't been doing it.|S|Bmr025
+me011|yep.|B|Bmr025
+fe016|and probably so|D|Bmr025
+me011|yeah and then the other thing also that thilo noticed is on the microphone.|S|Bmr025
+me011|on channel zero it says hand held mike or crown mike.|S|Bmr025
+fe016|yeah.|B|Bmr025
+fe016|right.|S|Bmr025
+me011|you actually have to say which one.|S|Bmr025
+fe016|i know.|S|Bmr025
+fe016|yeah i usually delete the|D|Bmr025
+me011|so|F|Bmr025
+fe016|i don't|D|Bmr025
+me018|oh okay i didn't do that either.|S|Bmr025
+fe016|maybe i forgot to|D|Bmr025
+mn014|yeah.|B|Bmr025
+me018|takes me no time at all to edit these.|S|Bmr025
+fe016|but it's almost|D|Bmr025
+fe016|yeah.|F|Bmr025
+me011|yeah that's because you|D|Bmr025
+me018|i'm not doing anything.|S|Bmr025
+me011|i i know why.|S|Bmr025
+fe016|and i was i was looking at chuck's like oh what did chuck do.|S|Bmr025
+fe016|okay i'll do that.|S|Bmr025
+fe016|so|F|Bmr025
+me011|and then uh also in a couple of places instead of filling the participants under participants they were filled in under description.|S|Bmr025
+me013|uh okay.|S|Bmr025
+fe016|uh|F|Bmr025
+me011|and so that's also a problem.|S|Bmr025
+me011|so anyway.|S|Bmr025
+fe016|we will do better.|S|Bmr025
+me011|that's it.|S|Bmr025
+me011|oh uh also i'm working on another version of this tool.|S|Bmr025
+me011|the the one that shows up here that will flash yellow if the mike isn't connected.|S|Bmr025
+me011|and it's not quite ready to go yet.|S|Bmr025
+me011|because um it's hard to tell whether the mike's connected or not.|S|Bmr025
+me011|because the best quality ones the crown ones are about the same level if they're off.|S|Bmr025
+me011|and no one's off or if they're on and no one's talking.|S|Bmr025
+me001|huh.|B|Bmr025
+me011|um these these ones they are much easier.|S|Bmr025
+me011|there's a bigger difference.|S|Bmr025
+me011|so i'm working on that.|S|Bmr025
+me011|and it it sort of works.|S|Bmr025
+me011|and so eventually we will change to that.|S|Bmr025
+me011|and then you'll be able to see graphically if your mike is dropping in or out.|S|Bmr025
+me001|will that also include like batteries dying?|Q|Bmr025
+me011|yep.|S|Bmr025
+me001|just any time the mike's putting out zeros basically.|S|Bmr025
+me011|yep.|S|Bmr025
+me011|yep.|S|Bmr025
+me018|but with the screensaver kicking in it|D|Bmr025
+me011|now|D|Bmr025
+mn014|but|F|Bmr025
+mn014|yeah.|B|Bmr025
+me011|well i'll turn off the screensaver too.|S|Bmr025
+me001|yeah.|B|Bmr025
+mn014|yeah.|B|Bmr025
+me001|oops!|S|Bmr025
+me011|um the other thing is as i've said before it is actually on.|S|Bmr025
+me001|speaking of which.|S|Bmr025
+me011|the thing.|S|Bmr025
+me011|there's a little level meter.|S|Bmr025
+me011|but of course no one ever pays attention to it.|S|Bmr025
+me011|so i think having it on the screen is more easy to notice.|S|Bmr025
+fe008|it would be nice if if these had little light indicators.|S|Bmr025
+fe008|little l e d's for|D|Bmr025
+me011|uh buzzer.|S|Bmr025
+fe008|yeah a buzzer.|S|Bmr025
+me011|bamp bamp!|S|Bmr025
+me013|small shocks.|S|Bmr025
+fe008|yeah.|S|Bmr025
+fe008|actually|D|Bmr025
+me013|administered to the|D|Bmr025
+me013|okay.|F|Bmr025
+me011|okay disk backup et cetera?|Q|Bmr025
+me013|oh|F|Bmr025
+me011|um i spoke with dave johnson about putting all the meeting recorder stuff on non backed up disk to save the overhead of backup.|S|Bmr025
+me011|and he pretty much said yeah you could do that if you want.|S|Bmr025
+me011|but he thought it was a bad idea.|S|Bmr025
+me011|in fact what he said is doing the manual one doing uh n w archive to copy it is a good idea.|S|Bmr025
+me011|and we should do that and have it backed up.|S|Bmr025
+me011|he he's a firm believer in in lots of different modalities of backup.|S|Bmr025
+me011|i mean his point was well taken.|S|Bmr025
+me011|this data cannot be recovered.|S|Bmr025
+fe016|yeah.|S|Bmr025
+me011|and so if a mistake is made and we lose the backup we should have the archive.|S|Bmr025
+me011|and if then a mistake is made and we lose the archive we should have the backup.|S|Bmr025
+me013|well i guess it is true that even with something that's backed up it's not going to|D|Bmr025
+me013|if it's stationary it's not going to go through the it's not going to burden things in the incremental backups.|S|Bmr025
+me011|just just the monthly full.|S|Bmr025
+fe008|huh|B|Bmr025
+me013|yeah so the monthly full will be a bear.|S|Bmr025
+me013|but|F|Bmr025
+me011|yeah but he said that that we shouldn't worry too much about that.|S|Bmr025
+me011|that we're getting a new backup system.|S|Bmr025
+me011|and we're far enough away from saturation on full backups that it's probably okay.|S|Bmr025
+me013|really?|Q|Bmr025
+me011|and uh so the only issue here is the timing between getting more disks and uh recording meetings.|S|Bmr025
+me013|so i guess the idea is that we would be reserving the non backed up space for things that took less than twenty four hours to recreate or something like that.|S|Bmr025
+me011|things that are recreatable easily and also yeah basically things that are recreatable.|S|Bmr025
+me013|right?|Q|Bmr025
+me013|yeah.|B|Bmr025
+me013|yeah.|B|Bmr025
+me011|the expanded files and things like that.|S|Bmr025
+me013|okay.|B|Bmr025
+me011|they take up a lot more room anyway.|S|Bmr025
+me013|yeah.|B|Bmr025
+me011|uh but we do need more disk.|S|Bmr025
+me013|so we can get more disk.|S|Bmr025
+me011|yeah.|S|Bmr025
+me013|yeah so.|F|Bmr025
+me011|and i i think i agree with him.|S|Bmr025
+me011|i mean his point was well taken that if we lose one of these we cannot get it back.|S|Bmr025
+me013|okay.|S|Bmr025
+me011|i don't think there was any other et cetera there.|S|Bmr025
+me013|well i was allowing someone else to come up with something related that they had uh|D|Bmr025
+me022|i thought you guys were going to burn c d's.|S|Bmr025
+me011|um unfortunately we could burn c d's but first of all it's a pain.|S|Bmr025
+me022|yeah.|B|Bmr025
+me011|because you have to copy it down to the p c and then burn it.|S|Bmr025
+me011|and that's a multi step procedure.|S|Bmr025
+me011|and second of all the the write once burners as opposed to a professional press don't last.|S|Bmr025
+me022|yeah.|B|Bmr025
+me011|so i think burning them for distribution is fine.|S|Bmr025
+me011|but burning them for backup is not a good idea.|S|Bmr025
+me022|i see.|S|Bmr025
+me011|because they they fail after a couple years.|S|Bmr025
+me022|okay.|B|Bmr025
+me022|all right.|B|Bmr025
+fe008|i do have uh uh it's a different topic can i add one topic.|S|Bmr025
+fe008|we have time?|Q|Bmr025
+fe008|i wanted to ask|D|Bmr025
+fe008|i know that uh that thilo you were um bringing the channeltrans interface onto the windows machine.|S|Bmr025
+mn014|yeah it's it basically it's done.|S|Bmr025
+fe008|and i wanted to know is|D|Bmr025
+mn014|yeah.|B|Bmr025
+fe008|it's all done that's wonderful great.|S|Bmr025
+mn014|yeah.|B|Bmr025
+me011|yes since tcl t k runs on it basically things will just work.|S|Bmr025
+mn014|yeah it|D|Bmr025
+mn014|yeah it was just a problem with the snack version and the transcriber version.|S|Bmr025
+mn014|but it's solved.|F|Bmr025
+mn014|so|F|Bmr025
+fe008|does and that does that mean i|D|Bmr025
+fe008|maybe i should know this but i don't.|S|Bmr025
+fe008|does this mean that the that this could be uh ported to a think pad or some other type of uh|D|Bmr025
+mn014|yeah basically uh i did install it on my laptop.|S|Bmr025
+mn014|and yeah.|F|Bmr025
+fe008|wonderful.|S|Bmr025
+mn014|it worked.|S|Bmr025
+fe008|wonderful.|S|Bmr025
+me013|huh!|B|Bmr025
+me013|good.|S|Bmr025
+me013|crosspads?|Q|Bmr025
+me011|uh i got an email from uh james landay.|S|Bmr025
+me011|who basically said if you're not using them could you return them.|S|Bmr025
+me011|so he said he doesn't need them he just periodically at the end of each term sends out email to everyone who was recorded as having them.|S|Bmr025
+me011|and asks them if they're still using them.|S|Bmr025
+me013|so we've never used them.|S|Bmr025
+fe008|we used them once.|S|Bmr025
+me011|we we used them a couple times.|S|Bmr025
+me013|once?|Q|Bmr025
+fe008|uhhuh.|S|Bmr025
+me018|them?|Q|Bmr025
+me011|but|F|Bmr025
+fe008|couple times.|S|Bmr025
+me018|there's more than one?|Q|Bmr025
+me011|yeah we have two.|S|Bmr025
+fe008|yeah.|S|Bmr025
+me011|um|F|Bmr025
+me013|but|F|Bmr025
+me011|my opinion on it is|D|Bmr025
+me011|first i never take notes anyway.|S|Bmr025
+me011|so i'm not going to use it.|S|Bmr025
+me011|um and second it's another level of infrastructure that we have to deal with.|S|Bmr025
+fe008|and i have uh so my my feeling on it is that i think in principle it's a really nice idea.|S|Bmr025
+fe008|and you have the time tags which makes it better than just taking raw notes.|S|Bmr025
+fe008|on the other hand i the down side for me was that i think the pen is really noisy.|S|Bmr025
+fe008|so you have kaplunk kaplunk kaplunk.|S|Bmr025
+fe008|and i and i don't know if it's audible on the|D|Bmr025
+fe008|but i i sort of thought that was a disadvantage.|S|Bmr025
+fe008|i do take notes.|S|Bmr025
+fe008|i mean i could be taking notes on these things.|S|Bmr025
+fe008|and i guess the plus with the crosspads would be the time markings.|S|Bmr025
+fe008|but|F|Bmr025
+fe008|i don't know.|S|Bmr025
+mn014|uh what is a crosspad?|Q|Bmr025
+me013|so it's it's um it's a regular pad just a regular pad of paper but there's this pen which indicates position.|S|Bmr025
+me001|thank you.|S|Bmr025
+me013|and so you have time and position stuff stored.|S|Bmr025
+mn014|okay.|S|Bmr025
+me013|so that you can you have a record of whatever it is you've written.|S|Bmr025
+mn014|okay.|S|Bmr025
+me011|and then you can download it.|S|Bmr025
+me011|and they have o c r and searching and all sorts of things.|S|Bmr025
+mn014|okay.|S|Bmr025
+mn014|okay.|B|Bmr025
+me011|so if you take notes it's a great little device.|S|Bmr025
+fe008|could uhhuh|D|Bmr025
+me011|but i don't take notes.|S|Bmr025
+me013|and one of the reasons that it was brought up originally was because uh we were interested in in higher level things.|S|Bmr025
+me011|so|F|Bmr025
+me013|not just the you know microphone stuff but also summarization and so forth.|S|Bmr025
+me013|and the question is if you were going to go to some gold standard of what what was it that happened in the meeting you know where would it come from.|S|Bmr025
+me013|and um i think that was one of the things.|S|Bmr025
+mn014|yeah.|B|Bmr025
+me011|yep.|S|Bmr025
+fe016|yeah.|S|Bmr025
+me013|right?|Q|Bmr025
+me013|and so the it seemed like a neat idea.|S|Bmr025
+me013|we'll have a you know have a scribe.|S|Bmr025
+me013|have somebody uh take good notes and then that's part of the record of the meeting.|S|Bmr025
+me013|and then we did it once or twice and we sort of|D|Bmr025
+me011|yep and then just sort of died out.|S|Bmr025
+me013|probably chose the wrong scribe.|S|Bmr025
+me013|but it was it's uh|D|Bmr025
+me011|yeah that's right.|S|Bmr025
+fe016|i mean|D|Bmr025
+fe008|well i did it one time.|S|Bmr025
+fe008|but um|F|Bmr025
+me011|yep.|B|Bmr025
+me013|yeah.|B|Bmr025
+fe008|but i guess the the other thing i'm thinking is if we wanted that kind of thing i wonder if we'd lose that much by having someone be a scribe.|S|Bmr025
+fe008|by listening to the tape to the recording afterwards.|S|Bmr025
+fe008|and taking notes in some other interface.|S|Bmr025
+me018|i mean we're transcribing it anyways.|S|Bmr025
+me018|why do we need notes?|Q|Bmr025
+fe008|oh it's it's useful.|S|Bmr025
+me011|because that's summary.|S|Bmr025
+fe008|have a summary and high points.|S|Bmr025
+fe016|i think|D|Bmr025
+me013|summary.|S|Bmr025
+fe016|there's also|D|Bmr025
+fe016|there's this use that|D|Bmr025
+me018|summarize it from the transcription.|S|Bmr025
+fe016|the|D|Bmr025
+fe016|well what if you're sitting there and you just want to make an x?|Q|Bmr025
+fe016|and you don't want to take notes.|S|Bmr025
+fe016|and you're you just want to|D|Bmr025
+me018|doodle.|S|Bmr025
+fe016|get the summary of the transcript from this time location.|S|Bmr025
+fe016|like you know and and then while you're bored you don't do anything.|S|Bmr025
+fe016|and once in a while maybe there's a joke and you put a x.|S|Bmr025
+fe016|but|F|Bmr025
+fe016|in in other words you can use that just to highlight times in a very simple way.|S|Bmr025
+fe016|also with i was thinking and i know morgan disagrees with me on this.|S|Bmr025
+fe016|but suppose you have a group in here and you want to let them note whenever they think there might be something later that they might not want to distribute in terms of content.|S|Bmr025
+fe016|they could just sort of make an x near that point.|S|Bmr025
+fe016|or a question mark that sort of alerts them that when they get the transcript back they could get some red flags in that transcript region.|S|Bmr025
+fe016|and they can then look at it.|S|Bmr025
+fe016|so|F|Bmr025
+fe016|i know we haven't been using it.|S|Bmr025
+fe016|but i i can imagine it being useful just for sort of marking time periods.|S|Bmr025
+me011|right.|S|Bmr025
+fe016|which you then get back in a transcript.|S|Bmr025
+fe008|well.|B|Bmr025
+me013|i guess so you know what what makes one think is maybe we should actually schedule some periods where people go over something later.|S|Bmr025
+fe016|so|F|Bmr025
+me013|and and and put some kind of summary or something.|S|Bmr025
+me013|uh you know some there'd be some scribe who would actually listen who'd agreed to actually listen to the whole thing.|S|Bmr025
+me013|not transcribe it but just sort of write down things that struck them as important.|S|Bmr025
+me013|but then you don't you don't have the time reference uh that you'd have if you had it live.|S|Bmr025
+fe016|right.|S|Bmr025
+fe016|and you don't have a lot of other cues that might be useful.|S|Bmr025
+me013|yeah.|S|Bmr025
+me018|how do you synchronize the time in the crosspad and the time of the recording?|Q|Bmr025
+fe016|so|F|Bmr025
+me011|i mean that was one of the issues we talked about originally.|S|Bmr025
+me011|and that's part of the difficulty is that we need an infrastructure for using the time the crosspads.|S|Bmr025
+me011|and so that means synchronizing the time|D|Bmr025
+fe016|oh.|B|Bmr025
+me011|you know you want it pretty close.|S|Bmr025
+fe008|uhhuh.|B|Bmr025
+me011|and there's a fair amount of skew because it's a hand held unit with a battery.|S|Bmr025
+fe008|well when when i|D|Bmr025
+me011|and so you|D|Bmr025
+fe008|okay.|B|Bmr025
+me011|so you have to synchronize at the beginning of each meeting all the pads that are being used.|S|Bmr025
+me011|so that it's synchronized with the time on that.|S|Bmr025
+me011|and then you have to download to an application.|S|Bmr025
+me011|and then you have to figure out what the data formats are and convert it over if you want to do anything with this information.|S|Bmr025
+me011|and so there's a lot of infrastructure which|D|Bmr025
+fe008|uhhuh.|B|Bmr025
+me022|why|D|Bmr025
+fe008|there is an alternative.|S|Bmr025
+me011|unless someone|D|Bmr025
+fe008|there is an alternative.|S|Bmr025
+fe008|i mean it's still there's uh you know your point stands about there be needing to be an infrastructure.|S|Bmr025
+fe008|but it doesn't have to be synchronized with the little clock's timer on it.|S|Bmr025
+fe008|you i mean i when i when i did it i synchronized it by voice.|S|Bmr025
+fe008|by whispering one two three four onto the microphone.|S|Bmr025
+me011|huh|B|Bmr025
+fe008|and uh you know.|S|Bmr025
+me011|well but then there's the infrastructure at the other end.|S|Bmr025
+me022|right.|B|Bmr025
+me011|which someone has to listen to that and find that point.|S|Bmr025
+fe008|yeah it's transcribed.|S|Bmr025
+me011|and then mark it.|S|Bmr025
+fe008|it's in the transcript.|S|Bmr025
+me011|so|F|Bmr025
+fe008|yeah.|B|Bmr025
+fe008|well it's in the transcript.|S|Bmr025
+fe016|well could we keep one of these things for another year?|Q|Bmr025
+fe016|would i mean is there a big|D|Bmr025
+me011|we can keep all both of them for the whole whole year.|S|Bmr025
+fe016|just just in case we|D|Bmr025
+me011|i mean it's just|D|Bmr025
+fe016|even maybe some of the transcribers who might be wanting to annotate.|S|Bmr025
+fe016|uh just there's a bunch of things that might be neat to do.|S|Bmr025
+fe016|but i it might not be the case that we can actually synchronize them and then do all the infrastructure.|S|Bmr025
+fe016|but we could at least try it out.|S|Bmr025
+me013|well one thing that we might try um is on some set of meetings some collection of meetings maybe e d u is the right one or maybe something else.|S|Bmr025
+me013|we we get somebody to buy into the idea of doing this as part of the task.|S|Bmr025
+me013|i mean|D|Bmr025
+fe016|right.|S|Bmr025
+me013|uh part of the reason i think part of the reason that adam was so interested in uh the speechcorder sort of idea from the beginning is he said from the beginning he hated taking notes.|S|Bmr025
+me011|yep.|S|Bmr025
+me013|and|F|Bmr025
+me013|and so forth.|S|Bmr025
+me013|so and and jane is more into it.|S|Bmr025
+me013|but uh uh|F|Bmr025
+me013|you know i don't know if you want to really do do this all the time.|S|Bmr025
+me013|so i think the thing is to to get someone to actually buy into it.|S|Bmr025
+me013|and have at least some series of meetings where we do it.|S|Bmr025
+me013|um|F|Bmr025
+me013|and if so it's probably worth having one.|S|Bmr025
+me013|the the the problem with the the more extended view|D|Bmr025
+me013|all these other you know with uh quibbling about particular applications of it|D|Bmr025
+me013|is that it looks like it's hard to get people to um uh routinely use it.|S|Bmr025
+me013|i mean it just hasn't happened anyway.|S|Bmr025
+me013|but maybe if we can get a person to|D|Bmr025
+fe016|yeah i don't think it has to be part of what everybody does in a meeting.|S|Bmr025
+fe016|but it might be a useful neat part of the project.|S|Bmr025
+fe016|that we can you know show off as a mechanism for synchronizing events in time.|S|Bmr025
+fe016|that happen that you just want to make a note of.|S|Bmr025
+fe016|like what jane was talking about.|S|Bmr025
+fe016|with some later browsing just just as a convenience.|S|Bmr025
+fe016|even if it's not a full blown note taking substitute.|S|Bmr025
+me022|well if you wanted to do that maybe the right architecture for it is to get a p d a with a wireless card.|S|Bmr025
+me022|and and that way you can synchronize very easily with the the the meeting.|S|Bmr025
+me022|because you'll be you can synchronize with the the linux server.|S|Bmr025
+me022|and uh|F|Bmr025
+fe016|so what kind of input would you be|D|Bmr025
+me022|so so i mean if you're not worried about|D|Bmr025
+me011|buttons.|S|Bmr025
+fe016|you'd just be pressing like a a|D|Bmr025
+me022|well well you have a p d a.|S|Bmr025
+me022|and and you could have the same sort of x interface or whatever.|S|Bmr025
+me022|i mean you'd have to do a little uh a little bit of coding to do it.|S|Bmr025
+fe016|uhhuh.|B|Bmr025
+me022|but you could imagine|D|Bmr025
+fe016|yeah.|S|Bmr025
+fe016|that be good.|S|Bmr025
+me022|i mean if if all you really wanted was you didn't want this secondary note taking channel.|S|Bmr025
+me022|but just sort of being able to use markers of some sort.|S|Bmr025
+me022|a p d a with a a wireless card would be the probably the right way to go.|S|Bmr025
+me022|i mean even buttons you could do.|S|Bmr025
+me022|sort of.|S|Bmr025
+me022|i mean as you said.|S|Bmr025
+me011|i mean for what what you've been describing buttons would be even more convenient than anything else.|S|Bmr025
+fe016|right.|S|Bmr025
+me011|right?|Q|Bmr025
+fe016|that would be fine too.|S|Bmr025
+me011|you have the|D|Bmr025
+me022|right.|S|Bmr025
+fe016|i mean i don't have you know grandiose ideas in mind.|S|Bmr025
+fe016|but i'm just sort of thinking well we've we're getting into the next year now.|S|Bmr025
+fe016|and we have a lot of these things worked out at in terms of the speech.|S|Bmr025
+fe016|maybe somebody will be interested in this.|S|Bmr025
+fe016|and|F|Bmr025
+fe008|i like this p d a idea.|S|Bmr025
+fe008|yeah.|B|Bmr025
+me013|yeah i do like the idea of having a couple buttons.|S|Bmr025
+me011|well i'm sure there would|D|Bmr025
+fe016|yeah.|B|Bmr025
+me013|where like one one button was uh oh.|S|Bmr025
+fe008|yeah.|B|Bmr025
+me013|and then another button was that's great.|S|Bmr025
+me013|and another button that's|D|Bmr025
+fe016|or like this is my i'm supposed to do this kind of button.|S|Bmr025
+fe008|yeah.|B|Bmr025
+fe016|like i better remember to|D|Bmr025
+me011|action item.|S|Bmr025
+fe016|yeah.|S|Bmr025
+fe016|something like that.|S|Bmr025
+fe016|or|D|Bmr025
+me011|i mean i think the crosspad idea is a good one.|S|Bmr025
+fe008|and then|D|Bmr025
+fe008|uhhuh.|B|Bmr025
+me011|it's just a question of getting people to use it.|S|Bmr025
+me011|and getting the infrastructure set up in such a way that it's not a lot of extra work.|S|Bmr025
+me011|i mean that's part of the reason why it hasn't happened.|S|Bmr025
+me011|is that it it's been a lot of extra work for me.|S|Bmr025
+fe016|yeah.|B|Bmr025
+me013|right.|B|Bmr025
+me011|and|F|Bmr025
+fe008|well and not just for you.|S|Bmr025
+fe008|but it's also it has this problem of having to go from an analog to a a digital record too.|S|Bmr025
+fe008|doesn't it?|Q|Bmr025
+me011|well it's digital but it's in a format that is not particularly standard.|S|Bmr025
+fe008|i mean|D|Bmr025
+fe008|but i mean say if if if you're writing if you're writing notes in it does it it can't do handwriting recognition.|S|Bmr025
+fe008|right?|Q|Bmr025
+me013|no no but it's just it's just storing the pixel position information.|S|Bmr025
+fe008|okay.|S|Bmr025
+me013|it's all digital.|S|Bmr025
+fe008|i i guess what i'm thinking is that the p d a solution you you have it already without needing to go from the pixelization to a to a|D|Bmr025
+fe008|i mean|D|Bmr025
+me013|right.|S|Bmr025
+me013|you don't have to|D|Bmr025
+me022|the transfer function is less errorful.|S|Bmr025
+me022|yes.|S|Bmr025
+fe016|yeah yeah.|S|Bmr025
+me013|yeah.|S|Bmr025
+fe008|oh nicely put.|S|Bmr025
+me013|yeah yeah.|B|Bmr025
+fe016|well it also it's maybe realistic because people are supposed to be bringing their p d a's to the meeting eventually.|S|Bmr025
+fe016|right?|Q|Bmr025
+fe016|that's why we have this little|D|Bmr025
+fe016|i don't know what i don't want to cause more work for anyone.|S|Bmr025
+fe016|but i can imagine some interesting things that you could do with it.|S|Bmr025
+fe016|and so if we don't have to return it|D|Bmr025
+fe016|and we can keep it for a year|D|Bmr025
+fe016|i don't know.|S|Bmr025
+me011|well we don't we certainly don't have to return it.|S|Bmr025
+me011|as i said all all he said is that if you're not using it could you return it if you are using it feel free to keep it.|S|Bmr025
+me011|the point is that we haven't used it at all.|S|Bmr025
+me011|and are we going to.|S|Bmr025
+me013|so we have no|D|Bmr025
+me013|but uh by i i would suggest you return one.|S|Bmr025
+me011|okay.|S|Bmr025
+fe016|yeah.|S|Bmr025
+me013|because we we you know we we haven't used it at all.|S|Bmr025
+fe016|we|D|Bmr025
+me013|we have some aspirations of using them.|S|Bmr025
+fe016|one would probably be fine.|S|Bmr025
+fe016|maybe we could do like a student project.|S|Bmr025
+me013|and|F|Bmr025
+fe016|you know maybe someone who wants to do this as their main like project for something would be cool.|S|Bmr025
+me013|yeah.|B|Bmr025
+me011|yep.|B|Bmr025
+me011|i mean if we had them out and sitting on the table people might use them a little more.|S|Bmr025
+me013|maybe jeremy could sit in some meetings and press a button when there when when somebody laughed.|S|Bmr025
+me011|although there is a little|D|Bmr025
+fe016|well i'm yeah that's not a bad|D|Bmr025
+me013|yeah yeah.|B|Bmr025
+me013|yeah.|B|Bmr025
+fe016|jeremy's going to be an he's a new student starting on modeling breath and laughter actually.|S|Bmr025
+fe016|which sounds funny.|S|Bmr025
+fe016|but i think it should be cool.|S|Bmr025
+fe016|so|F|Bmr025
+me013|yeah.|B|Bmr025
+me011|sounds breathy to me.|S|Bmr025
+fe016|okay.|B|Bmr025
+me011|breath and|D|Bmr025
+fe016|ha ha ha.|S|Bmr025
+me011|ha ha ha ha.|S|Bmr025
+me011|ha ha ha ha.|S|Bmr025
+me013|well dear!|S|Bmr025
+me011|um|F|Bmr025
+me013|huh.|B|Bmr025
+me011|that reminded me of something.|S|Bmr025
+me011|oh well.|S|Bmr025
+me011|too late.|S|Bmr025
+me011|it slipped out.|S|Bmr025
+me013|okay.|F|Bmr025
+me011|oh!|F|Bmr025
+fe016|you're you're going to tease me?|Q|Bmr025
+me011|equipment.|S|Bmr025
+fe016|okay.|S|Bmr025
+me011|ordered|D|Bmr025
+me011|uh well i'm always going to do that.|S|Bmr025
+me011|uh we ordered uh more wireless.|S|Bmr025
+me011|and so they should be coming in at some point.|S|Bmr025
+fe016|great.|S|Bmr025
+me011|and then at the same time i'll probably rewire the room as per jane's suggestion.|S|Bmr025
+me011|so that uh the first n channels are wireless uh are the the close talking and the next n are far field.|S|Bmr025
+me013|you know what he means.|S|Bmr025
+me013|but isn't that funny sounding?|Q|Bmr025
+me013|we ordered more wireless.|S|Bmr025
+me013|it's like wires are the things.|S|Bmr025
+me013|so you're wiring you're you're you we're we ordered more absence of the thing.|S|Bmr025
+fe016|that's a very philosophical statement from morgan.|S|Bmr025
+me011|wired less wired more.|S|Bmr025
+fe016|i just it's sort of a anachronism.|S|Bmr025
+fe016|i mean it's like|D|Bmr025
+fe016|it's great.|S|Bmr025
+me011|should we do digits?|Q|Bmr025
+me013|anyway.|F|Bmr025
+me011|do we have anything else?|Q|Bmr025
+me013|yeah.|S|Bmr025
+fe008|okay.|B|Bmr025
+me013|i mean there's there's all this stuff going on uh between uh andreas and and and dave and chuck and others with various kinds of runs.|S|Bmr025
+me013|uh um recognition runs.|S|Bmr025
+me013|trying to figure things out about the features.|S|Bmr025
+me013|but it's it's all sort of in process.|S|Bmr025
+me013|so there's not much to say.|S|Bmr025
+me013|right now.|S|Bmr025
+me013|uh why don't we start with our our esteemed guest?|Q|Bmr025
+me022|okay.|F|Bmr025
+me022|all right.|F|Bmr025
+me011|so just the transcript number and then the then the|D|Bmr025
+me022|this is|D|Bmr025
+me022|yes this is number two for me today.|S|Bmr025
+me013|see all you have to do is go away to move way up in the|D|Bmr025
+me022|oh.|B|Bmr025
+fe016|we could do simultaneous.|S|Bmr025
+fe016|initiate him.|S|Bmr025
+me013|we we could.|S|Bmr025
+me011|should we do simultaneous?|Q|Bmr025
+fe016|well i'm just thinking are you going to try to save the data before this next group comes in?|Q|Bmr025
+me013|yeah.|S|Bmr025
+me011|yeah.|S|Bmr025
+me011|absolutely.|S|Bmr025
+fe016|yeah so we might want to do it simultaneous.|S|Bmr025
+me011|i mean you sort of have to.|S|Bmr025
+fe016|right so|D|Bmr025
+me013|well okay so let's do one of those simultaneous ones.|S|Bmr025
+fe016|so we might we might need to do that actually.|S|Bmr025
+me011|okay.|B|Bmr025
+me013|that sounds good.|S|Bmr025
+me022|okay.|B|Bmr025
+me013|everybody ready?|Q|Bmr025
+fe008|yeah.|S|Bmr025
+me013|a one.|S|Bmr025
+fe016|you have to plug your ears by the way uh eric.|S|Bmr025
+me011|well i have to.|S|Bmr025
+fe016|or|D|Bmr025
+me011|i don't know about other people.|S|Bmr025
+fe016|or you start laughing.|S|Bmr025
+me022|okay all right.|S|Bmr025
+mn014|you don't have to.|S|Bmr025
+me013|okay.|F|Bmr025
+me013|a one and a two and a three.|S|Bmr025

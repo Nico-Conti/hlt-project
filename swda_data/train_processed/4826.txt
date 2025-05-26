@@ -1,0 +1,129 @@
+A|Okay,|fo_o_fw_"_by_bc|4826
+A|I'm here.|sd|4826
+A|How do you feel about public schools?|qo|4826
+B|Well, our public schools are, are really poor, I feel.|sv|4826
+A|Uh-huh.|b|4826
+B|Uh, I'm not sure where Georgia ranks in the nation|sd|4826
+B|but, uh, we're toward the bottom.|sd|4826
+A|Yeah.|b|4826
+B|And, uh, there's a lot of things that I see that are so obviously wrong. That you would think it would be easy to correct.|sv|4826
+A|Uh-huh.|b|4826
+A|Right.|b|4826
+B|But the system doesn't allow for the corrections|sv|4826
+A|Uh-huh.|b|4826
+B|How about you?|qo|4826
+A|Well, that's interesting.|sv|4826
+A|I have a sister who used to live in Kennesaw, Georgia.|sd|4826
+B|Oh, yes.|bk|4826
+A|And, uh, she has a young boy. Actually has two boys now but only had one when she was there.|sd|4826
+A|And she complained quite a bit about their school system there.|sd|4826
+B|Yes.|b|4826
+A|And,|%|4826
+B|And Cobb County is better than the county I'm in.|sd|4826
+A|Right.|b|4826
+B|She was in Cobb County.|sd|4826
+A|Right.|aa|4826
+A|I'm,|%|4826
+A|I can't really say much about the schools up here.|sd|4826
+A|I really don't come from here|sd|4826
+B|Uh-huh.|b|4826
+A|I'm only up here temporarily on an internship|sd|4826
+A|but  uh, I live in Orlando, Florida usually.|sd|4826
+B|Okay.|b|4826
+A|And the schools down there, from what I know, are not bad.|sd|4826
+A|They're pretty good.|sd|4826
+B|Well, that's great.|ba|4826
+A|But I know that in some, I know in a lot of rural areas they're not that good.|sd|4826
+B|Uh-huh.|b|4826
+A|For example, I have a brother in North Carolina|sd|4826
+A|and he says the schools there are, are incredibly bad. Uh, just terrible.|sd|4826
+B|Well, I feel that we're way behind.|sv|4826
+B|Uh, I have a son that is in the fourth grade|sd|4826
+A|Huh.|b|4826
+B|and, uh, they have just now taken up division.|sd|4826
+A|Wow.|ba|4826
+B|Yeah|aa|4826
+B|And|%|4826
+A|That is slow.|sd|4826
+B|uh,|%|4826
+B|my husband and I go to the store|sd|4826
+B|and we buy these math books and fractions and multiplication, division things|sd|4826
+B|and I feel like, uh, there are several areas that we're just really, really slow in.|sd|4826
+A|Uh-huh.|b|4826
+B|And, uh, I don't blame the teachers as much as I blame the system.|sd|4826
+B|It is,|%|4826
+A|What do you think's wrong to cause that?|qo|4826
+B|Well, well, for one thing there's not enough money in the school system.|sv|4826
+B|And the money they do have, they're not, they do not use it wisely.|sv|4826
+A|Yeah.|b|4826
+B|Uh, she, my son's teacher has twenty-seven students.|sd|4826
+A|Uh-huh.|b|4826
+B|And that's certainly is a lot of students for one person to deal  with on an every day basis. Uh|sv|4826
+A|Yeah.|b|4826
+A|Perhaps.|aap_am|4826
+B|but more than that, I don't think that they have the authority to command the attention of the children.|sv|4826
+A|Yeah.|b|4826
+B|And when you have two kids in that class that constantly keeps the class in an uproar and you're not at liberty to do something about it, other than give them on campus isolation or send them to the principal's office. It  it, you know, it can, it can really be bad.|sv|4826
+A|Yeah.|b|4826
+A|Yeah,|aa|4826
+A|that's, that's one thing I worry about .|sd|4826
+B|Uh, also I think, we have a lot of, uh, Hispanics|sv|4826
+A|There you go,|aa|4826
+A|uh-huh.|b|4826
+B|and we have a lot of, uh,|%|4826
+B|the county I am, I'm in, the minorities are mostly Hispanic.|sd|4826
+A|Yeah.|b|4826
+A|Probably quite a few black people up there|sv|4826
+A|and and,|%|4826
+B|No|ar|4826
+B|We're from a county, we're from the county they marched in.|sd|4826
+B|We're in Forsyth county|sd|4826
+A|Oh, is that right?|bh|4826
+B|yes,|ny|4826
+B|and we,|%|4826
+B|and there's very, very few blacks.|sd|4826
+A|Oh, okay.|bk|4826
+B|Uh, so, so that's, uh,|%|4826
+B|I, I hate to say, uh,|sd|4826
+B|it's not a problem, uh, because I hate to feel like they are a problem, although they are.|sv|4826
+A|Yeah|aa|4826
+A|but, you know, it, it's,|%|4826
+A|you don't want to seem racist or prejudice or whatever,|sv|4826
+A|but then again.|sv|4826
+B|But it is a problem  Uh, especially in the inner schools, inner city.|sv|4826
+A|Yeah,|aa|4826
+A|there is no denying that, that,|aa|4826
+A|Sure, you know.|ba|4826
+A|Teachers, you have to admit that teachers have to slow things down for people who don't understand, especially if there's not a very well developed special education program at the school.|sv|4826
+B|Well,|arp_nd|4826
+B|and you can't put all the children in special education.|sv|4826
+A|That's right,|aa|4826
+A|you can't do that.|sv|4826
+B|Uh, and if the parents do not care enough to take an interest in whether the homework is done you know.|sv|4826
+A|Right.|b|4826
+A|See, I grew up in Nebraska|sd|4826
+B|Uh-huh.|b|4826
+A|and the school that I went to there was fantastic.|sd|4826
+A|It,|%|4826
+A|I, I really consider myself very, very lucky.|sd|4826
+A|Uh, we had a school that had classes probably about the same size you're talking, twenty-seven, thirty kids to to a class.|sd|4826
+B|Yeah.|b|4826
+A|But,|%|4826
+B|But your teacher had control.|bf|4826
+A|Yeah.|aa|4826
+A|We zipped right along, you know.|sd|4826
+A|I, I was, I was doing mathematics, fractions and division and multiplication by the third grade, easily.|sd|4826
+B|Uh-huh.|b|4826
+B|Yeah.|aa|4826
+B|I, I  believe I was too.|sd|4826
+A|Uh,|%|4826
+A|Uh-huh.|b|4826
+A|But, you're right, you know.|aa|4826
+A|With all this, don't hurt the kids and don't abuse their rights, you've also taken  something away from the discipline, I think.|sv|4826
+B|Uh-huh|b|4826
+B|Uh, well, it, it really is a concern of mine because if we could afford it, my son would be in private school.|sd|4826
+A|Yeah.|b|4826
+B|We just cannot afford it.|sd|4826
+A|Right.|b|4826
+A|I was going to ask you if there, if that was an option.|qy^d|4826
+B|Uh, if,|%|4826

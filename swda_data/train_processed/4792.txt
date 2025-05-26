@@ -1,0 +1,145 @@
+A|I'm Nevin from Sunnyvale, California.|sd|4792
+B|Hi,|fp|4792
+B|this is Jim Bliss from Minneapolis, Minnesota.|sd|4792
+B|How you doing?|fp|4792
+A|Pretty good.|fp|4792
+B|Good.|fp|4792
+B|Uh, I guess the topic is trial by jury and how we should change that or how we would change it.|sd|4792
+A|Yep.|aa|4792
+B|Uh, I'm ready whenever you are.|sd|4792
+A|Okay|bk|4792
+B|So, uh, what are your, what are your thoughts on the subject there?|qw|4792
+A|Well I definitely think, like decisions have to be unanimous.|sv|4792
+B|Yeah.|aa|4792
+B|Yeah,|aa|4792
+B|I think that's probably a good thing.|sv|4792
+A|It's probably the safest thing.|sv|4792
+B|Yeah.|aa|4792
+B|I mean, it's to easy to get a quorum|sv|4792
+A|Yep|aa|4792
+B|and simple majority won't do.|sv|4792
+A|No.|aa|4792
+A|And even like, you know, two-thirds majority, I mean, it's|sv|4792
+B|Yeah,|aa|4792
+B|that's,|%|4792
+B|yeah,|aa|4792
+B|quorums are to easy to get.|sv|4792
+A|Yep.|aa|4792
+B|And there's always that, that chance that one or two people could be playing devil's advocate for a good reason, you know.|sv|4792
+B|So it's, it's|%|4792
+B|definitely|%|4792
+B|but, uh, I don't know.|h|4792
+B|I could, I couldn't believe they suggested that judges should be doing the sentencing.|sd|4792
+A|Yeah.|aa|4792
+A|Like Gives them a little too much power|sv|4792
+B|Yeah|aa|4792
+B|I, I know of a couple of people at least who would be arguing with that. Or arguing against that pretty vehemently.|sd|4792
+B|But, uh,|%|4792
+A|Plus, you know, you may be, you know, doing, you know, a, a guilty verdict|sd|4792
+A|but it may not be, you know, it may be for technical reasons|sd|4792
+B|Yeah.|b|4792
+B|About the only good thing I would say about that is it that it would, uh, hurry the process up a bit|sv|4792
+A|Yeah.|b|4792
+B|but I mean even now we've got, I know we've got plenty of cases out there where people have been wrongly convicted and things like that|sd|4792
+B|and  that's what the trial by jury.|%|4792
+A|I know .|aa|4792
+B|I mean, jeez if, if the judge was doing it himself, without any checks and balances  whose to say.|sv|4792
+A|Yeah.|b|4792
+A|It,|%|4792
+A|there would be much more of that|sv|4792
+B|Yeah|aa|4792
+B|no doubt.|aa|4792
+B|Are you involved in the legal system at all?|qy|4792
+A|No.|nn|4792
+A|But I .  I tend to follow it just to, just to know what's going on.|sd|4792
+B|Okay.|bk|4792
+B|Yeah,|b|4792
+B|yeah.|b|4792
+B|I've got some friends that are lawyers|sd|4792
+B|so.|%|4792
+A|Yeah,|b|4792
+A|I do too|sd|4792
+A|so.|%|4792
+B|One of them just got his law degree.|sd|4792
+B|But, uh, to tell you the truth, I'm not real familiar with, uh, the system of jurisprudence the way it is right now.|sd|4792
+A|No.|aa|4792
+B|I really haven't studied it in depth.|sd|4792
+A|Yeah.|aa|4792
+A|I know a little more about civil cases when, than criminal cases. Which is,|sd|4792
+B|Yeah.|b|4792
+A|it's more in how you present it versus, you know, who's right.|sv|4792
+B|I'm sure of it.|aa|4792
+B|Because a lot of those things, it's all, it's in, it's largely a matter of viewpoint. And who can argue their case better.|sv|4792
+A|Yep.|b|4792
+B|Uh, it's kind of weird.|sv|4792
+B|I don't know,|h|4792
+B|you I always think about watching the PEOPLE'S COURT or something. And how weird those cases get.|sd|4792
+B|It's just,|%|4792
+B|Yeah.|b|4792
+A|like, you know, you go say okay, we can't bring up this point because then they're going to, you know,|sd|4792
+A|the opposition will say this, this and this and|sd|4792
+B|Uh-huh.|b|4792
+B|And it's like, boy, the stuff that they can twist around is,|sd|4792
+A|Yep|b|4792
+B|it's pretty amazing.|sv|4792
+A|And it's like the, the truth isn't really important anymore.|sv|4792
+A|It's,|%|4792
+B|Yeah,|aa|4792
+B|it's not.|aa|4792
+B|And then you get people who, who bring in cases just because they want to bring them up just because.|sd|4792
+A|Yep.|b|4792
+B|Like this, this friend of mine's pretty obnoxious|sd|4792
+B|and he really gets into suing people.|sd|4792
+B|And so he'll, he'll sue just about anybody just for the chance to get into court, and argue his case you know, It is. It's, it's wasting people's time and the taxpayers' money and everything else. *aa,sv|sd|4792
+A|but,|%|4792
+B|But, uh,|%|4792
+A|Yeah|b|4792
+A|but it's for the more general,|%|4792
+A|people don't want to take responsibility.|sv|4792
+B|Yeah.|b|4792
+A|You know, it's,|%|4792
+B|And, and most of the time they're looking to place blame. Uh  and stuff.|sv|4792
+A|Yep|b|4792
+B|See, you're from California,|sd|4792
+B|is that right?|qy|4792
+A|Uh, yeah.|ny|4792
+A|Well originally from Chicago|sd|4792
+A|but,|%|4792
+B|Oh, okay.|bk|4792
+B|I was just thinking|sd|4792
+B|I wonder, I wonder how, how the civil system or the court system must differ between there and say where I am in Minneapolis.|qw^d|4792
+A|I really,|%|4792
+B|From what I understand, it's all pretty the same except when you get to Louisiana.|sd|4792
+B|And Louisiana is completely different cause it was based on the,|sd|4792
+B|what is it,|^h|4792
+B|it's based on common law|sd|4792
+B|and the rest of the country is not or something like that.|sd|4792
+A|Yeah.|b|4792
+B|Pretty strange.|sv|4792
+B|But, uh, fortunately I never have had to go in even, even for jury duty.|sd|4792
+A|Yeah,|aa|4792
+A|I haven't either other than,|aa|4792
+B|But, uh, that friend of mine's telling me that I might have to go in for, uh, as a witness.|sd|4792
+B|He may subpoena me.|sd|4792
+B|So we'll see what happens.|sd|4792
+B|But, uh,|%|4792
+A|I'm not really sure how we could change the legal system to make it better. .|sd|4792
+B|Yeah.|aa|4792
+B|It's,|%|4792
+B|there are too many big problems, you know.|sv|4792
+B|There's, there's such a backlog of court cases right now. You know, to try to get them all in in a good time|sd|4792
+A|I know.|aa|4792
+B|and we already have too many lawyers as it is.|sv|4792
+A|Yeah.|b|4792
+A|And if it's criminal cases we, you can't put them in jail because there's no room left.|sd|4792
+B|Yeah.|aa|4792
+B|Yeah,|aa|4792
+B|that's true.|aa|4792
+B|And, in fact, they're even letting some go.|sd|4792
+A|Yeah.|b|4792
+B|I, I, I'm originally from Florida|sd|4792
+B|and it's like it seems like every year they let out more and more just cause they don't have room for them, you know.|sd|4792
+A|Huh.|b|4792
+B|That's not a, that's not a good solution either.|sv|4792
+A|Not at all.|aa|4792
+B|I'm not real sure what the,|sd|4792

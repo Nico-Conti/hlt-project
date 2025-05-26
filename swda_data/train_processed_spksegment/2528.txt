@@ -1,0 +1,273 @@
+A|Yeah,|fo_o_fw_"_by_bc|2528|0
+A|so, uh, what are your favorite T V shows?|qw|2528|0
+B|One that I can't find anymore which is GABRIEL'S FIRE.|sd|2528|1
+A|Oh, I haven't watched that very much,|sd|2528|0
+A|is that,|qy|2528|0
+A|do you like that?|qy|2528|0
+B|Yes.|ny|2528|1
+A|When was that on?|qw|2528|0
+B|It was usually on, um, Thursday nights.|sd|2528|1
+A|On A B C?|qy|2528|0
+B|I don't know|h|2528|1
+A|Oh, oh, yeah,|b|2528|0
+A|well, um, um, it may be that, um, it was recently replaced, by actually by, um, by what may be my favorite T V show of, because sort of, uh, um, TWIN PEAKS.|sv|2528|0
+B|It was same time period,|sd|2528|1
+B|yes.|aa|2528|1
+A|Yeah,|b|2528|0
+A|so, TWIN PEAKS, um, what happened was, I think, TWIN PEAKS, um, went, went off, they moved to a Saturday night for a while. And then put, and then put something, I guess, GABRIEL'S FIRE on it, and at Thursday nights,|sd|2528|0
+A|and then they moved, um,|sd|2528|0
+A|no,|t1|2528|0
+A|GABRIEL'S FIRE was on C B S, I think,|sv|2528|0
+A|I, I take that back.|sd|2528|0
+A|I'm not sure,|h|2528|0
+A|but anyway they moved it back and forth|sd|2528|0
+A|and that's when PEAKS was back in that time slot as well.|sd|2528|0
+A|So, I don't know.|h|2528|0
+B|You don't know what happened to GABRIEL'S FIRE then?|qy|2528|1
+A|No,|nn|2528|0
+A|I have no idea.|sd|2528|0
+A|I don't think, I don't think that was on A B C, anyway I don't know what happened to it though.|sd|2528|0
+B|I don't remember one, from one station to another.|sd|2528|1
+B|I keep forgetting one station.|sd|2528|1
+B|What's your second favorite?|qw|2528|1
+A|Um, it's hard to say|^h|2528|0
+A|I'm sort of a very big TWIN PEAKS fan,|sd|2528|0
+A|and beyond that I just sort of watch anything that happens to be on.|sd|2528|0
+A|I'm, I'm, half the time I'm a T V addict|sd|2528|0
+A|and the other half the time I just ignore it|sd|2528|0
+A|it's really bad.|sd|2528|0
+A|Yeah,|%|2528|0
+A|there's some new shows that I sort of like, um,|sd|2528|0
+A|have you seen this SHANNON FIELD SHOW|qy^d|2528|0
+A|or, uh, it's about a lawyer, it's one of these lawyer shows, you know,|sd|2528|0
+A|they seem to be popular these days.|sv|2528|0
+A|And there's a lot of those Blair shows floating around.|sv|2528|0
+B|Oh, is he the reformed, um, gambler?|qy|2528|1
+A|Yeah.|ny|2528|0
+B|Yes,|aa|2528|1
+B|yes,|aa|2528|1
+B|yes.|aa|2528|1
+A|I just like I just finished watching that a few minutes ago,|sd|2528|0
+A|Um, and it|%|2528|0
+A|and, that, that's a interesting one.|sd|2528|0
+A|I, I, I like that, because there's, there are ,|sd|2528|0
+A|I've noticed that every, every major station now has their own law show.|sd|2528|0
+A|There's L A LAW,|sd|2528|0
+A|and there's, um, EQUAL JUSTICE, some other one, LAW AND ORDER or something.|sd|2528|0
+A|Do you like the law shows|qy|2528|0
+A|or,|%|2528|0
+B|I really don't watch that much T V,|ng|2528|1
+B|what I do is I tape the programs I want to watch,|sd|2528|1
+B|and then on the nights I can watch, I'll pick out something.|sd|2528|1
+A|That, that makes logic ,|ba|2528|0
+B|But, um,|%|2528|1
+A|also saves a lot of time with commercials.|sv|2528|0
+B|you're not kidding.|aa|2528|1
+B|Do you ever watch AMERICAN GLADIATORS?|qy|2528|1
+A|Oh, I have.|na|2528|0
+A|I've, I've, I watched that late, um,|sd|2528|0
+A|I guess it's on late Saturday nights or something,|sd|2528|0
+B|Midnight.|fo_o_fw_"_by_bc|2528|1
+A|that's entering the day as well.|sd|2528|0
+B|Midnight.|fo_o_fw_"_by_bc|2528|1
+A|Have you, have, have you seen this often?|qy|2528|0
+B|I tape it.|na|2528|1
+A|Oh, really?|bh|2528|0
+B|Yeah,|ny|2528|1
+B|I tape it because I don't stay up that late to watch it,|sd|2528|1
+A|Yeah.|b|2528|0
+B|I tape it.|sd|2528|1
+B|But I understand, uh, that in England, they play it at normal times because they don't consider that violent,|sd|2528|1
+B|and the reason they have it on here so late is because they consider it a violent program.|sd|2528|1
+A|Really?|bh|2528|0
+A|I,|%|2528|0
+B|And, I'm like, I don't believe this.|sd|2528|1
+A|That don't,|%|2528|0
+A|it , it, it seems like,|sv|2528|0
+A|I mean, if wrestling is prime time, professional wrestling, it seems like it's just, just, just like pros in a wrestling to me,|sv|2528|0
+A|I don't, I don't see any difference though,|sv|2528|0
+B|I don't either.|aa|2528|1
+A|I, I don't understand it,|sd|2528|0
+A|they consider it violent.|sd|2528|0
+A|I have so ever ,|%|2528|0
+A|I have seen it on, where we are ,|sd|2528|0
+A|I live in, uh , Rochester, New York,|sd|2528|0
+A|and I think a,|%|2528|0
+B|You're in New York?|qy|2528|1
+A|Yes.|ny|2528|0
+B|Oh.|b|2528|1
+A|Where are you?|qw|2528|0
+B|I'm in Dallas, Texas.|sd|2528|1
+A|You're, uh,|%|2528|0
+A|everybody I speak to is in Texas, oh, oh,|sd|2528|0
+A|yeah,|%|2528|0
+A|but I'm, I'm in New York|sd|2528|0
+A|and, uh, we seem, we seem to have, um,|sd|2528|0
+A|I think the AMERICAN GLADIATORS is on Sunday afternoons actually around here as well, sometimes.|sd|2528|0
+B|Oh, really?|bh|2528|1
+A|I think it's been on,|sd|2528|0
+A|I think I've seen it during the day.|sd|2528|0
+B|Oh.|b|2528|1
+A|Definitely seen it on, on, during the day down there ,|sd|2528|0
+A|and I don't think it's a very violent show,|sv|2528|0
+A|I think it's funny.|sv|2528|0
+A|I think it's a real good concept,|sv|2528|0
+A|I think it's something completely new.|sv|2528|0
+B|I think it's great.|aa|2528|1
+B|I love watching a microbiologist fighting off with a policemen or something else,|sd|2528|1
+B|and competition.|%|2528|1
+B|I'm going oh, great, you know,|sd|2528|1
+B|it's a, it's a great role model for everybody.|sv|2528|1
+A|I think so,|aa|2528|0
+A|I think because people sort of get through, you know, um, I think that people sort of learn the importance of sort of physical fitness as well as the, as well as, you know, some mental fitness|sv|2528|0
+A|and I think that people sort of learn good sportsmanship and so forth.|sv|2528|0
+B|Oh, yes,|aa|2528|1
+B|I mean, when I had, uh,|sd|2528|1
+B|I was watching it, the, first time I ever saw a microbiologist on there I thought well, it just goes to prove it has nothing to do with your physical capabilities.|sd|2528|1
+B|And, uh, there she was terrific,|sd|2528|1
+B|she was really terrific.|sd|2528|1
+A|Well, don't they take people who have some sort of, um, big abilities like|qy^d|2528|0
+A|and, and at least they used to when it, when it,|sd|2528|0
+A|the first ones I saw they had, um, a man on who was, uh, he played college football and almost went pro,|sd|2528|0
+A|and they had a, a woman who was a black belt in karate|sd|2528|0
+A|and she was the, uh, she was in the junior Olympics or something|sd|2528|0
+A|or they seem to have people who have very, very big sports backgrounds.|sd|2528|0
+A|To have|%|2528|0
+A|they, leaned away from that sort of,|sd|2528|0
+B|They hold competitions in Los Angeles in, um, Florida and Minneapolis, um,|sd|2528|1
+B|trying to think of,|h|2528|1
+B|I think it's in four places around the United States.|sv|2528|1
+B|They hold competition|sd|2528|1
+B|and the only requirement is, of course, your skill of passing these tests,|sd|2528|1
+A|Oh, that's how they do it.|qy^d|2528|0
+B|and that's it.|na|2528|1
+B|And we had a bar man from here in Dallas area that made it.|sd|2528|1
+A|Really?|bh|2528|0
+B|There is a woman that, uh, made,|sd|2528|1
+B|well, she called herself a craft person|sd|2528|1
+B|so, I'm not quite sure what she made.|sd|2528|1
+B|And, uh, she made it.|sd|2528|1
+B|I mean there is no,|%|2528|1
+B|your occupation has nothing to do with it.|sv|2528|1
+A|Yeah,|b|2528|0
+A|okay,|b|2528|0
+A|I just thought they had some,|sv|2528|0
+B|Strictly your skill.|bf|2528|1
+A|yeah,|b|2528|0
+A|I thought they had some sort of,|sv|2528|0
+A|I mean, I thought they were just poor people like us I guess not,|sd|2528|0
+A|that's great.|ba|2528|0
+B|Huh-uh.|b|2528|1
+A|But, maybe I'll try it one day.|oo_co_cc|2528|0
+A|I'll get on there one day and see if I can, uh, um,|sd|2528|0
+A|what, what do they win,|qw|2528|0
+A|they, they win money I think, don't they?|qy|2528|0
+B|I think the last I heard was it's up to about a hundred fifty thousand dollars.|sd|2528|1
+A|Really?|bh|2528|0
+B|Uh-huh.|ny|2528|1
+A|Wow.|ba|2528|0
+A|All that for getting tennis balls shot at you at a hundred miles an hour.|qy^d|2528|0
+B|Yeah,|ny|2528|1
+B|that's, you know, just minor.|sd|2528|1
+B|Just minor little ball here or there, you know.|sd|2528|1
+A|One little ball here and there,|sd|2528|0
+A|yeah,|%|2528|0
+A|and this guy's beating you up,|sd|2528|0
+A|so, I don't know the beating up part.|sv|2528|0
+A|I, I actually feel the tennis balls would hurt.|sv|2528|0
+B|Oh, well, they, they come out with a lot of bruises too.|sd|2528|1
+A|They look like,|sv|2528|0
+A|Yeah,|b|2528|0
+A|they seem like a tennis ball|sv|2528|0
+A|but it almost doesn't look like it's almost livable|sv|2528|0
+A|yeah,|%|2528|0
+A|the best|%|2528|0
+A|I, I don't think I could, I, I could handle those tennis balls.|sd|2528|0
+A|So, what else to you tape besides AMERICAN at,|qw|2528|0
+A|there anything else?|qy|2528|0
+B|Hey,|b|2528|1
+A|Huh?|br|2528|0
+B|see I tape MURDER SHE WROTE.|sd|2528|1
+A|Okay.|b|2528|0
+B|I like mysteries.|sd|2528|1
+A|Oh, okay.|b|2528|0
+B|I like mysteries.|sd|2528|1
+B|I tape, um, FATHER DOWLING, because that's another mystery,|sd|2528|1
+A|Uh-huh.|b|2528|0
+B|and I don't have to concentrate too hard on them.|sd|2528|1
+A|But, I'm sure that's fun.|sv|2528|0
+B|Um, most of the lawyer programs like, uh, LAW AND ORDER, they're not on the times that I've got, that I've watched because I haven't had T got, T V GUIDE around here in ages.|sd|2528|1
+A|Uh-huh.|b|2528|0
+A|Oh, okay,|b|2528|0
+A|well, they seem to be on later,|sd|2528|0
+B|Yeah.|b|2528|1
+A|all,|%|2528|0
+A|always right, right before the news is when I catch them.|sd|2528|0
+A|I, I tend to, if nothing else is in the town television at eleven o'clock just to watch the news, and or, or NIGHTLINE or something, just sort of get a good, you know, a good, a good think for the day.|sd|2528|0
+B|Your news is on at eleven?|qy|2528|1
+A|Yes.|ny|2528|0
+A|When is yours on?|qw|2528|0
+B|Ten,|sd|2528|1
+B|I was just in the middle of watching it.|sd|2528|1
+A|Oh, gosh,|ba|2528|0
+A|well, I'm sorry I interrupted, um,|fa|2528|0
+B|Oh, that's okay.|bd|2528|1
+A|Yeah,|b|2528|0
+A|ours is on,|sd|2528|0
+B|No problem.|bd|2528|1
+A|actually it,|%|2528|0
+A|ours is on at eleven|sd|2528|0
+A|it, it's, um, eleven o'clock now here or eleven twenty-five now here in New York.|sd|2528|0
+A|Um, I think they they do that,|%|2528|0
+A|I think they put things on at, um, eleven o'clock here|sv|2528|0
+A|and I think they put it like eleven o'clock, um, California time, like in California|sd|2528|0
+A|but in the middle they sort of, um,|sd|2528|0
+A|like central time or mountain time they, they push things back.|sd|2528|0
+A|So, I was actually, actually|%|2528|0
+A|I'm not sure|h|2528|0
+A|, I was in, I was in Iowa awhile ago, and noticed that everything was an hour earlier,|sd|2528|0
+A|so, does your prime time start at seven o'clock?|qy|2528|0
+B|No,|nn|2528|1
+B|well, they have it at six|sd|2528|1
+B|and they have it at nine,|sd|2528|1
+A|Wait,|ad|2528|0
+A|no,|nn|2528|0
+A|no,|nn|2528|0
+B|and they have one at ten.|sd|2528|1
+A|not, not even the news|sd|2528|0
+A|but do they have like, um,|qy|2528|0
+A|do like sort of all the regular sitcoms and so forth, start at seven o'clock?|qy|2528|0
+A|You,|%|2528|0
+A|so, like, you know, the regular television shows that are, that are very popular, do they start at, seven or, or at eight?|qy|2528|0
+B|I'm trying to think.|h|2528|1
+B|Both,|na|2528|1
+B|um, let's see they start, um,|^h|2528|1
+B|EVENING SHADE at seven|sd|2528|1
+B|and then it goes to, um,|sd|2528|1
+B|what is it after EVENING, um,|t1|2528|1
+A|Right,|b|2528|0
+A|because that would the eight o'clock here.|sd|2528|0
+B|that's MAJOR DAD at eight I think it is.|sd|2528|1
+A|Yeah,|b|2528|0
+A|that, that would all start at, at, um, that would all start at, at eight o'clock here,|sd|2528|0
+A|that wouldn't start at seven.|sd|2528|0
+A|We have, um,|%|2528|0
+A|at seven o'clock we just have, um,|sd|2528|0
+A|the,|%|2528|0
+A|they'll play, you know, they have old reruns of CHEERS or something from seven to seven thirty, and then something else from seven thirty to eight|sd|2528|0
+B|Huh.|b|2528|1
+A|and ours start at, at, at, at eight and end at eleven,|sd|2528|0
+A|that's why we|%|2528|0
+A|. I, I would actually like it better if everything started at seven and ended at ten.|sv|2528|0
+B|Yeah,|b|2528|1
+B|it's, it's stopped around here at ten|sd|2528|1
+B|and it goes into night programs, at that point which could be one of, you know, many different night programs|sd|2528|1
+B|but it goes into night programs.|sd|2528|1
+A|Oh, that's great.|ba|2528|0
+B|But, uh, do you ever watch CHEERS?|qy|2528|1
+A|Oh, all the time.|na|2528|0
+A|Do you watch CHEERS|qy|2528|0
+B|Oh, yeah,|ny|2528|1
+B|oh, yeah.|ny|2528|1
+A|it's at,|%|2528|0
+A|that was actually a big dilemma for me now because, um, CHEERS, CHEERS and TWIN PEAKS are now on the same time,|sd|2528|0

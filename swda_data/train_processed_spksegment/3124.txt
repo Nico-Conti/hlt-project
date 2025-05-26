@@ -1,0 +1,214 @@
+A|Well, the weather has been, certainly has been hot|sd|3124|0
+A|and it's been humid.|sd|3124|0
+A|I don't remember a year in a long time that the humidity has stayed up this high for, uh, this late into, uh,|sd|3124|0
+A|well, it's not really late into the summer,|sd|3124|0
+A|but the, the humidity has hung around all of June.|sd|3124|0
+B|Yeah.|b|3124|1
+B|Are you native to this area?|qy|3124|1
+A|No,|nn|3124|0
+A|I grew up in Michigan, But I've been, I've been in Texas for fifteen years. *sd|sd|3124|0
+B|Oh, okay.|bk|3124|1
+B|Uh-huh.|b|3124|1
+A|So, uh, but, you know, I know the summers get hot|sd|3124|0
+A|but it certainly, uh,|%|3124|0
+B|Uh-huh.|b|3124|1
+A|this humidity has just really hung on there.|sd|3124|0
+B|Yeah.|aa|3124|1
+B|Yeah,|aa|3124|1
+B|it seemed like, well, you know, last year was so strange having all those heavy, heavy rains in April|sv|3124|1
+B|and this year we really didn't have heavy rains until May.|sv|3124|1
+B|Kind of like pushed the season back a little farther|sv|3124|1
+B|and now it's kind of lingering with kind of still a bit of humidity|sv|3124|1
+B|and it just tried to rain,|sd|3124|1
+B|I mean, I was coming in from my car just a few minutes ago|sd|3124|1
+B|and it was trying to rain which seems strange to have it raining in July.|sd|3124|1
+A|Yes.|aa|3124|0
+B|Normally we don't have too much, uh, humidity or, or, uh, rainy time when it's past June.|sv|3124|1
+A|Oh, that's right,|aa|3124|0
+A|that's right.|aa|3124|0
+A|I can remember it not,|sd|3124|0
+A|it's really August that it happens.|sd|3124|0
+A|You get those great big cracks in the ground where it's been so dry|sd|3124|0
+B|Right.|b|3124|1
+A|and it just gets so dry|sd|3124|0
+A|and, the earth opens up.|sd|3124|0
+A|I can remember the first year I moved here|sd|3124|0
+B|Uh-huh.|b|3124|1
+A|and it didn't rain,|sd|3124|0
+A|I moved here like in late August|sd|3124|0
+A|and it didn't rain from August until December|sd|3124|0
+A|and, I went home and told it just doesn't rain in Texas.|sd|3124|0
+A|I mean it was great after growing up in Michigan and not, and you know, every day was cloudy,|sd|3124|0
+A|almost every day was cloudy|sd|3124|0
+A|and I, you sort of forget how much it did rain|sd|3124|0
+A|and coming here and then it didn't rain,|sd|3124|0
+A|it was just wonderful.|sd|3124|0
+B|Well, yeah,|b|3124|1
+B|see I, I lived in, uh, Ohio mainly.|sd|3124|1
+B|I lived in, uh, Pontiac just a little while before I came down here|sd|3124|1
+A|Oh, yeah.|b|3124|0
+B|and, you know, so many times when you were trying to schedule outdoor activities, you just never knew if it was going to be a go or not because of the weather.|sv|3124|1
+B|It might rain on your little parade.|sv|3124|1
+A|That's right,|aa|3124|0
+A|that's right.|aa|3124|0
+B|You know, and here it was like, pretty much you could schedule some activity outside anytime|sd|3124|1
+B|and you really didn't have too much of a chance of it getting rained out.|sv|3124|1
+A|Yeah.|b|3124|0
+B|You could pretty much do whatever you wanted to do.|sv|3124|1
+A|That's right.|aa|3124|0
+B|What part of Michigan were you living in?|qw|3124|1
+A|Oh, I grew up in Dearborn which is a suburb of, of Detroit.|sd|3124|0
+B|Okay.|bk|3124|1
+B|Yeah,|b|3124|1
+B|yeah.|b|3124|1
+A|You probably know where that is because I know where Pontiac is, Anyway,|sv|3124|0
+A|yeah.|%|3124|0
+B|What brought you down here?|qw|3124|1
+A|Oh, a teaching job.|sd|3124|0
+B|So you teach in Plano schools?|qy|3124|1
+A|Yeah,|ny|3124|0
+A|I did, I did for a while,|sd|3124|0
+A|uh-huh.|ny|3124|0
+A|So, I'm home with, home with two children, So,|sd|3124|0
+B|Oh.|b|3124|1
+B|Okay|bk|3124|1
+A|New career. New career|sd|3124|0
+B|Okay.|bk|3124|1
+A|but, uh, anyway,|%|3124|0
+A|so that kind of, uh,|%|3124|0
+A|well, I had been down here to visit|sd|3124|0
+A|so I school and said hey, let's, you know, find a place that has a nice job|sd|3124|0
+A|and, uh, that's how it worked out.|sd|3124|0
+B|Well, yeah,|b|3124|1
+B|I think a lot of people were, uh, leaving Michigan all about the time I came here in the early eighties|sv|3124|1
+B|and it seemed like it was almost a mass exodus.|sv|3124|1
+A|Oh, yeah.|b|3124|0
+B|You know, the, the little joke about, will the last person leaving Michigan just turn out the light|sd|3124|1
+A|Oh, well, it's a nice place, you know,|sv|3124|0
+A|I mean it's, it's a nice, that's a nice place, though.|sv|3124|0
+B|Well, you know, I, I said I lived in, uh, the Pontiac.|sd|3124|1
+B|I didn't live in the city of Pontiac,|sd|3124|1
+B|I lived to the west of it.|sd|3124|1
+B|Uh, I forget the, the county,|sd|3124|1
+B|but you know where all the lakes are around there.|sd|3124|1
+A|Okay,|bk|3124|0
+A|sort of.|h|3124|0
+B|I lived in an apartment complex on one of the lakes.|sd|3124|1
+B|It was real close to where I worked.|sd|3124|1
+B|It was only like four miles to work|sd|3124|1
+B|and it was wonderful being on the lake like that.|sd|3124|1
+B|You know, in the summer, you feel like you're, you know, on a vacation all the time because you're right on a lake|sd|3124|1
+B|and everybody's, you know, out enjoying the water and such,|sd|3124|1
+B|and, uh, in the winter time the lakes froze over,|sd|3124|1
+B|you could still kind of go sledding and such out there|sd|3124|1
+B|but I thought it was just really neat to be out there on all those lakes.|sd|3124|1
+B|There's lots of really small ones out there.|sd|3124|1
+A|Yeah.|b|3124|0
+B|You know, like maybe a mile, two long.|sd|3124|1
+A|Yeah.|sd|3124|0
+B|That's enough to, uh, do some boating|sv|3124|1
+A|That's right.|aa|3124|0
+B|and it was lots of fun.|sd|3124|1
+A|That's right. Which is,|aa|3124|0
+B|Um.|b|3124|1
+A|well, I think it's, I think it's toward Ann Arbor,|sd|3124|0
+A|so it's probably out in that direction,|sd|3124|0
+A|but that's the only one I probably could name after all these years|sd|3124|0
+B|Uh-huh.|b|3124|1
+A|so, But, uh,|%|3124|0
+B|Yeah,|b|3124|1
+B|yeah.|b|3124|1
+B|But it was, yeah, just lots of little lakes|sd|3124|1
+B|and, of course, it was, you know, a little more expensive to live on the lake,|sd|3124|1
+B|but I just thought that was grand.|sd|3124|1
+B|And I think a lot of people didn't really know that there were all those lakes out there unless you were from that area and kind of spotted them,|sv|3124|1
+B|but there was quite a few lakes all around there.|sd|3124|1
+B|It seemed like, it was almost like you were living on an island|sv|3124|1
+B|there was so much water around where I was.|sd|3124|1
+B|I said I wasn't close to downtown Pontiac,|sd|3124|1
+B|I was way out to the west maybe four or five miles from, from the city limits|sd|3124|1
+B|and it was really nice out there.|sd|3124|1
+A|Yeah.|b|3124|0
+B|We had, uh, Pine Knob you know, to go skiing and stuff.|sd|3124|1
+A|Oh.|b|3124|0
+A|Right.|b|3124|0
+A|Right.|b|3124|0
+B|So there were things around there.|sd|3124|1
+B|Really was pretty nice.|sd|3124|1
+A|Sure,|ba|3124|0
+A|sure,|ba|3124|0
+A|and isn't that where they have a summer music festival there, too?|qy|3124|0
+B|Right,|na|3124|1
+B|right|na|3124|1
+B|in the summertime they have musicals there|sd|3124|1
+B|and in the winter time they make snow and have a ski slope.|sd|3124|1
+A|That's right,|bk|3124|0
+A|that's right.|bk|3124|0
+A|I know, we used to,|%|3124|0
+A|we, we didn't do a lot of it,|sd|3124|0
+A|but we did. We did,|%|3124|0
+B|Yeah,|b|3124|1
+B|yeah.|b|3124|1
+A|so those are always fun.|sv|3124|0
+A|And Alpine, was it Alpine was another ski slope that we went to, It was nice.|sd|3124|0
+B|Uh-huh.|b|3124|1
+B|Uh-huh,|b|3124|1
+B|uh-huh.|b|3124|1
+A|I always tell people that in the winter we use, we used to, uh,|sd|3124|0
+A|my dad would kind of bank up the snow in the backyard and turn the hose on, you know, make a pond in the backyard for us.|sd|3124|0
+B|Oh, yeah,|b|3124|1
+B|yeah.|b|3124|1
+A|So but, uh, you know, we probably did some ice skating on it,|sd|3124|0
+A|but then it chipped, chipped|%|3124|0
+A|and, you know, it would melt or whatever and get pretty uneven|sd|3124|0
+A|so,|%|3124|0
+B|Yeah,|b|3124|1
+B|yeah.|b|3124|1
+B|We used to have a|sd|3124|1
+B|Christmas time, uh, some of our relatives would come up from Alabama,|sd|3124|1
+B|and I think most times we would have snow around Christmas|sd|3124|1
+B|and the kids when they were young would just go nuts.|sd|3124|1
+A|Yeah.|b|3124|0
+B|You know, because they were from Alabama where it never snowed|sd|3124|1
+A|Oh.|b|3124|0
+B|and they just had a grand time watching the snow and getting out there and playing in it, you know, eternally.|sd|3124|1
+A|Oh.|b|3124|0
+A|Oh, right,|b|3124|0
+A|right.|b|3124|0
+A|If only it would make nice snow here in Texas, we'd be okay at Christmas time.|sv|3124|0
+B|My first winter here,|sd|3124|1
+B|I, I came down in, uh, early eighty-two|sd|3124|1
+B|and there was just a freak snowfall early one morning in December couple days before Christmas.|sd|3124|1
+B|It lasted only a few hours,|sd|3124|1
+B|like by noon it was gone.|sd|3124|1
+A|Yeah.|b|3124|0
+A|Yeah.|b|3124|0
+B|And I remember getting up and somebody telling me, hey, better wait to go to work because the roads are all, you know, snow|sd|3124|1
+B|And I was laughing, going yeah, right, that's a good practical joke,|sd|3124|1
+B|ha ha.|^q|3124|1
+B|They said, no really, there's snow|sd|3124|1
+B|and there was, but a very short time|sd|3124|1
+B|and the weather got warm so quick|sd|3124|1
+A|Yeah.|b|3124|0
+B|it just melted it all away.|sd|3124|1
+A|Yeah,|aa|3124|0
+A|yeah,|aa|3124|0
+A|I know.|aa|3124|0
+B|Course, when we get an ice storm, that's not too much fun.|sv|3124|1
+A|No,|aa|3124|0
+A|that's not fun either,|sv|3124|0
+A|so, uh, I, I just as soon have all the slushy snow on the streets than have the ice on the streets|sv|3124|0
+A|so, But, uh, well we have,|%|3124|0
+A|our house is kind of on a little hill,|sd|3124|0
+A|so, uh, we get the sled out|sd|3124|0
+A|and, uh, the kids go down the the hill on the sleds when it's icy,|sd|3124|0
+A|I mean they just go down the ice.|sd|3124|0
+B|Yeah.|b|3124|1
+A|And if it's cold, we say, okay, out you go.|sd|3124|0
+A|I think we must be the only people on the block that make use of that cold weather and get out there.|sd|3124|0
+B|Oh, yeah.|aa|3124|1
+B|I think it's fun,|sv|3124|1
+B|even the couple of ice storms I've gotten out there in my ski pants or something and still just been out and enjoying it a little bit.|sd|3124|1
+B|I mean, sometimes the ice is pretty bad,|sv|3124|1
+B|but if you get on the, the, uh, grassy kind of part, you get a little bit of traction, you know, not slip and fall.|sv|3124|1
+B|I mean, first,|%|3124|1

@@ -1,0 +1,127 @@
+A|Okay,|fo_o_fw_"_by_bc|3229
+A|while I was waiting for you to connect, I, I thought of a couple of menus,|sd|3229
+A|so I decided it had to be in it, informal or not.|sd|3229
+A|You know because that's a lot of fun, especially this time of year where it's so nice out. *sv|sd|3229
+B|Uh-huh.|b|3229
+B|Uh-huh.|b|3229
+B|Yes.|aa|3229
+A|Um, if it was formal I'd probably go with something like a chicken breast or lasagna or something.|sd|3229
+A|I'm not I'm not into formal dinner parties,|sd|3229
+A|but I'd probably go with lasagna, a green salad, and garlic bread.|sd|3229
+B|I see.|b|3229
+B|So what do you use for cookbooks?|qw|3229
+A|Um, I have a PILLSBURY cookbook I got when I was married,|sd|3229
+A|but, it's kind of the bible of cooking for me.|sd|3229
+B|Uh-huh,|b|3229
+B|uh-huh.|b|3229
+A|Then I have some from like church that are more family recipes that are more useful You know, budget cookbooks,|sd|3229
+B|Uh-huh.|b|3229
+A|but and, of course, you get a lot from when you're growing up.|sv|3229
+B|Uh-huh.|b|3229
+B|Uh-huh.|b|3229
+A|Um, I cook a lot the same as, as my mom did,|sd|3229
+A|of course I've added several different recipes,|sd|3229
+B|Right.|b|3229
+A|but, what you serve or what would you|qw|3229
+B|Well, I, I, I think we come from, from different backgrounds, uh,|sd|3229
+B|so the,|%|3229
+A|Well, that's good|ba|3229
+B|I, I, I,|%|3229
+B|so, it you know,|%|3229
+B|have different perspectives that you are.|sv|3229
+B|I find the JOY OF COOKING to be a remarkably useful book to, to fall back on,|sd|3229
+A|Uh-huh.|b|3229
+B|because it has almost everything in it.|sd|3229
+B|But on the other hand, it's not very inspiring, uh,|sv|3229
+B|it's a good reference when you need to dig something up.|sv|3229
+A|Uh-huh.|b|3229
+B|What we've found very useful is a book called THE THIRTY MINUTE COOKBOOK,|sd|3229
+B|I think that's the title, by Marion Burroughs|sd|3229
+A|Huh.|b|3229
+B|uh, which has recipes which allegedly can all be prepared in thirty minutes, you know, the whole meal|sd|3229
+A|Yeah|b|3229
+B|and so she's|%|3229
+A|that would be wonderful in these times|ba|3229
+B|yeah,|b|3229
+B|now, now, I, I find that the cutting up of the food, and all that really makes it take a little longer than thirty minutes.|sd|3229
+A|Yeah, Uh-huh.|aa|3229
+B|But they're, but they're, but they're interesting they're interesting menus, um, combinations that you wouldn't have, nobody thought of.|sd|3229
+A|Uh-huh.|b|3229
+B|Um.|%|3229
+A|What's one of your favorites?|qw|3229
+B|Um, gee,|^h|3229
+B|the one I had most recently was, was one that, was,|sd|3229
+B|she, she describes as Jim Beard's favorite, um, summer menu, or something,|sd|3229
+B|and it consisted of, of grilled kielbasa sausage uh, a potato salad with olive oil, and uh, some tomatoes that had been chopped up with onions and curry powder and probably some yogurt was in there.|sd|3229
+A|Uh-huh.|b|3229
+A|Wow,|ba|3229
+A|sounds too good.|ba|3229
+B|Uh, and that, and that was, you know, that's, that, that's certain you can do in thirty minutes.|sd|3229
+A|Yeah.|b|3229
+B|But there are a whole lot of, you know,|sd|3229
+B|I mean, I, I would recommend you look at that book if you're a busy person.|ad|3229
+A|Yeah,|aa|3229
+A|that THIRTY MINUTE COOKBOOK.|aa|3229
+B|THIRTY MINUTE COOKBOOK.|sd|3229
+A|That sounds fun.|ba|3229
+A|I find a lot of the cookbooks that, I don't know, that you buy over the counter ask for really strange ingredients, or things I don't keep on hand all the time|sd|3229
+B|Uh-huh.|b|3229
+A|and I have young children,|sd|3229
+A|and our budget's set, you know, at this time,|sd|3229
+A|but I want to use simple recipes that I have things on hand,|sd|3229
+B|Uh-huh.|b|3229
+A|I don't have to run to the store to buy or look for something I haven't heard of|sd|3229
+B|Yes,|aa|3229
+B|yes.|aa|3229
+A|That's why sometimes I shy away from, uh, more of a traditional cookbook|sd|3229
+B|Uh-huh.|b|3229
+A|but, well, it was interesting talking to you.|sv|3229
+A|It's a fun subject.|sv|3229
+A|Food is one of my favorite things too.|sd|3229
+B|Yes.|b|3229
+A|Anything else you wanted to add?|qo|3229
+B|Well, you had said dinner, you know, you know,|sd|3229
+B|what would I put together for a formal dinner.|^q|3229
+B|We, we had some friends over as recently as Saturday night|sd|3229
+A|Oh, wow.|ba|3229
+B|and, and, um, put, here, here|%|3229
+B|the inspiration was a combination of Julia Child for the dessert, you know, a chocolate mousse recipe and a sort of cookbook which has a recipe for a thing called chicken marabella um, which is this wonderful thing you can do, um,|sd|3229
+A|Uh-huh,|b|3229
+A|that's good.|ba|3229
+A|Uh-huh.|b|3229
+B|basically you're baking, baking chicken in a, in an open pan, um, having marinated it first|sd|3229
+B|and, my wife did this part so I don't remember all the details|sd|3229
+A|Uh-huh.|b|3229
+B|marinated in olive oil and some seasoning, um, and cooked with some olives and some, and some prunes, uh,|sd|3229
+B|there's a little bit of brown sugar in there,|sd|3229
+B|and it bakes up|sd|3229
+B|and it's a delicious thing,|sd|3229
+B|and it's easy|sd|3229
+A|That sounds good.|ba|3229
+B|comparatively. Um. I'm sorry,|sd|3229
+A|That sounds really good.|ba|3229
+B|I just love|sd|3229
+A|It sounds like you guys are a little more gourmet than I am,|sv|3229
+A|I'm pretty simple right now,|sd|3229
+A|but.|%|3229
+B|Well, maybe a little more leisure time to do it.|sv|3229
+A|Yes|aa|3229
+B|I don't know,|h|3229
+A|that's probably, that's true,|aa|3229
+A|I have little ones|sd|3229
+A|and we, and they won't eat, you know, too many different foods right now.|sd|3229
+B|Yeah.|b|3229
+B|I found my kids were very frustrating when they were little in terms of their tastes.|sd|3229
+A|Yes.|aa|3229
+A|Yeah.|b|3229
+B|Well, there again, sometimes it was easy,|sd|3229
+B|they'd, you know,|%|3229
+B|canned ravioli was, one of their favorites, and so it was easy to open a can of ravioli.|sd|3229
+A|Yeah.|b|3229
+A|Spaghetti's a pretty staple every other week or so|sd|3229
+B|Yes.|b|3229
+A|and it goes a long ways too. All righty.|sd|3229
+B|Well, nice talking to you Cheryl.|fc|3229
+B|Okay.|fc|3229
+A|Talk to you later maybe.|fc|3229
+B|Bye.|fc|3229

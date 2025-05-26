@@ -1,0 +1,102 @@
+A|Uh, I don't know.|h|4788|0
+A|Your camping experience is probably,|sv|4788|0
+A|I don't know if they're similar to mine|sd|4788|0
+A|but, uh, since I've had children it has changed a little bit,|sd|4788|0
+A|but, uh, when my husband and I were, uh, camping, we'd take this domed tent that, uh, is easily collapsible and, uh, go camping and, uh, just kind of roughed it.|sd|4788|0
+A|As long as there was a bathroom there and some clean showers and things like that, then it was fine.|sd|4788|0
+A|But, uh, we'd get up at three in the morning and start on our little, uh, escapade for the day and, uh, kind of, uh, do a lot of different things and then stop when we wanted to.|sd|4788|0
+A|But, uh, that's kind of changed now.|sd|4788|0
+A|When you have a small child because they don't want to get up at three in the morning|sd|4788|0
+A|and you don't want them up that early.|sd|4788|0
+B|Would you then go hiking.|qy|4788|1
+B|I mean would the camping be part of a long hike?|qy|4788|1
+A|Oh yeah,|ny|4788|0
+A|yeah.|ny|4788|0
+A|We did a lot of different things.|sd|4788|0
+A|We'd stop when we wanted to, that kind of stuff.|sd|4788|0
+A|So, we kind of did a little bit of hiking, sure, and a little bit of, uh, sightseeing, uh, different areas. Uh, sitting back at different areas and spending hours,|sd|4788|0
+A|we never had really a time limit,|sd|4788|0
+A|we just kind of did what we wanted to do for that day.|sd|4788|0
+B|Um.|b|4788|1
+A|Very comfortable,|sd|4788|0
+A|so.|%|4788|0
+B|Were you up in, in Wisconsin|qy|4788|1
+B|or would you go into|qrr|4788|1
+B|where would you camp ?|qw|4788|1
+A|Well, there's, uh, places in Wisconsin.|sd|4788|0
+A|There's the Apostle Islands, uh which are in Bayfield which is a wonderful place.|sd|4788|0
+B|Uh-huh.|b|4788|1
+A|And then there's also, uh, what we found, uh, in the state of, uh, South Dakota, the Black Hills.|sd|4788|0
+B|Oh, yeah.|b|4788|1
+B|That's beautiful.|sd|4788|1
+A|And we just have this, uh, really good time there.|sd|4788|0
+A|One thing is they don't have mosquitoes|sd|4788|0
+A|and, uh, sorry to say,  and, uh, in Wisconsin we do,|sd|4788|0
+A|so, that kind of puts a little bit of a hamper on your, uh, you know,|sd|4788|0
+A|if, if you're going to go camping, who wants to deal with bugs|qh|4788|0
+A|and, uh|%|4788|0
+B|Right|b|4788|1
+A|We found this one area that doesn't have mosquitoes.|sd|4788|0
+A|They just don't have them|sd|4788|0
+A|and it's just wonderful not to be bugged all night long with a humming mosquito at your ear,|sd|4788|0
+B|Oh, yeah.|b|4788|1
+B|Well, most of my camping,|sd|4788|1
+B|I haven't done much since I was a kid|sd|4788|1
+B|but, uh, we'd, basically, take the tent up in the Sierras and, uh, usually just camp near some stream  or some lake.|sd|4788|1
+A|Uh-huh.|b|4788|0
+A|Sure.|b|4788|0
+B|And, uh, just,|%|4788|1
+B|it wasn't even a, a full tent.|sd|4788|1
+B|It would be more a tarp, uh strung up between trees|sd|4788|1
+A|Sure.|b|4788|0
+A|Uh-huh.|b|4788|0
+A|Sure.|b|4788|0
+B|and, uh, we just thought it was absolute heaven.|sd|4788|1
+A|Yeah,|b|4788|0
+A|yeah.|b|4788|0
+B|Uh, there was certainly nothing like a, a bathroom, a shower or anything, near by|sd|4788|1
+B|It was dig your own hole|sd|4788|1
+B|and, uh  and I I'm not sure I'd do that  that anymore,|sd|4788|1
+A|That was really called roughing it,|^2|4788|0
+A|yeah.|%|4788|0
+A|I,|%|4788|0
+A|Anymore.|^2|4788|0
+A|Yeah,|%|4788|0
+A|see|%|4788|0
+B|but it's, it, uh, uh,|%|4788|1
+B|actually some friends of mine and I are planning to camp this summer, uh, for four days.|sd|4788|1
+B|Also  going fishing, uh|sd|4788|1
+A|Uh-huh.|b|4788|0
+A|Sure.|b|4788|0
+A|Uh-huh.|b|4788|0
+B|and I have a idea it's going to be a, a lot more equipment and a lot more stuff than  before.|sd|4788|1
+A|Than you,|^2|4788|0
+A|sure.|b|4788|0
+A|Than it, when you were younger,|^2|4788|0
+A|uh-huh.|b|4788|0
+B|Yeah.|aa|4788|1
+B|But,|%|4788|1
+A|it,|%|4788|0
+A|with kids they don't care if they take a shower everyday.|sd|4788|0
+A|With kids they don't care, you know, uh, a about a lot of things.|sv|4788|0
+A|But as adults, uh, it's like if I don't take a shower every day, I feel like, you know, ooh.|sd|4788|0
+B|Yeah.|b|4788|1
+A|I, I just don't feel right|^q|4788|0
+A|so. There's lots of places if you're going to go camping.|sd|4788|0
+A|K O A are wonderful.|sd|4788|0
+A|It's kind of it's kind of the, uh, yuppie type of camping because they have showers,|sd|4788|0
+A|they have things for kids to do.|sd|4788|0
+A|They have swimming pools, things like that.|sd|4788|0
+A|If you  can find, uh, some really nice, clean, uh, campgrounds versus, uh, if you go to state parks, uh,|sd|4788|0
+B|Oh, my.|ba|4788|1
+A|we have found state parks, not that they're lacking|sd|4788|0
+A|but, uh, they're certainly not up to a standard of a K O A where it's, you know, a little bit cleaner.|sd|4788|0
+A|You've got the showers available.|sd|4788|0
+A|It's not, you know, in the same category.|sd|4788|0
+A|State parks, you know, you get a little bit fearful too, uh, you know, things like that simply because it, they are supposed to be patrolled|sd|4788|0
+A|but, uh, you know, it's, it's a little bit different.|sd|4788|0
+A|But, so we've always kind of stayed with a K O A and then, uh, did other things besides just sit at the campground at night.|sd|4788|0
+A|That's the only time you really use your campground.|sd|4788|0
+A|If you're going to be gone all day long, walking someplace or doing tourism or whatever uh, you're camping really is just for like in the evening to start the fire, to sit back and watch a fire, uh, to enjoy that, you know, and then to get up in the morning and get a shower and get cleaned up, that kind of stuff.|sd|4788|0
+B|Uh-huh.|b|4788|1
+A|So we never really spent that much time at the campground as much as we did,|sd|4788|0

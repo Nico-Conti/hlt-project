@@ -1,0 +1,148 @@
+A|Do you have children?|qy|3260
+B|Uh, yes.|ny|3260
+B|Uh, we have two sons.|sd|3260
+B|Uh, one's a freshman in college|sd|3260
+B|and one's a sophomore in high school.|sd|3260
+A|Oh.|b|3260
+B|And you?|qy|3260
+A|I have one that's a freshman in high school, a daughter. And a son who's a sixth grader in a middle school.|sd|3260
+B|Okay.|b|3260
+A|And I spend most of my time carpooling|sd|3260
+B|Oh|b|3260
+A|The story of my life|sd|3260
+B|Yes|aa|3260
+B|Yes. Yeah.|aa|3260
+A|My kids are involved in sports.|sd|3260
+A|My daughter has played basketball for six years,|sd|3260
+A|and my son plays football.|sd|3260
+A|I,|%|3260
+A|my rule is that they can't play a sport the same time of the year because there's just not enough of me to drive them around everywhere.|sd|3260
+B|Uh, well, uh, yeah.|%|3260
+B|We 've spend a spend a did spend a lot of time, uh,|sd|3260
+B|it really helped when the, uh, older one was old enough to get his license and could, uh drive around by himself although that brought in a whole other set of problems.|sd|3260
+A|Yes.|b|3260
+A|I know,|aa|3260
+A|I know.|aa|3260
+A|The insurance.|sd|3260
+B|But, uh, I, uh,|%|3260
+B|yeah,|aa|3260
+B|for one thing.|sd|3260
+B|Uh, but yeah,|%|3260
+B|we, uh, we do|%|3260
+B|but our two had, had, uh, totally different interests of,|sd|3260
+B|but there was not much, uh, overlap as such.|sd|3260
+B|The, the older one is not, was not at all into, uh, sports for the most part.|sd|3260
+B|Uh, he participated|%|3260
+B|band and, and, uh, scouts were his two big things.|sd|3260
+A|Yes.|b|3260
+A|My son, is in both band and scouts too.|sd|3260
+B|And, uh and the, yeah, younger one is, uh, uh, the sports one|sd|3260
+B|and the, whatever season it is he's, he's playing, although football is really his favorite|sd|3260
+A|Oh, gee.|ba|3260
+B|Yeah.|%|3260
+B|So, uh, yeah,|%|3260
+B|we spend a lot of time, uh, uh, carpooling and, uh, you know, and then trying to be, uh, up as much as possible with anything that they, that they do.|sd|3260
+A|Right.|b|3260
+B|But then, uh, we also didn't do , spend, uh, time with them trying to, trying to,|sd|3260
+B|uh, you know, just family time.|%|3260
+A|Uh-huh.|b|3260
+B|Uh, we had a,|%|3260
+B|at a fairly young age we started teaching them to play games and card games and so forth.|sd|3260
+B|And, and, uh, uh, but we didn't, uh, do it as much or as often as, uh, I would have liked to.|sd|3260
+B|I would like to do that as a, as a family and, and some T V watching.|sd|3260
+A|Yeah.|b|3260
+B|What about you?|qo|3260
+A|We found this Oriental tile game called Mah-jongg .|sd|3260
+B|Yeah,|b|3260
+B|I've, I've heard of that.|sd|3260
+A|Have you?|qy|3260
+B|I've never actually, never actually played it.|no|3260
+B|But,|%|3260
+A|Well, it's really fun.|sd|3260
+A|Um, one of my neighbors moved here from Memphis|sd|3260
+A|and a lot of them played it,|sd|3260
+A|and she started a group going in the neighborhood|sd|3260
+A|and my kids wanted to learn how to play it|sd|3260
+A|and it's more fun with four people.|sd|3260
+B|Yeah,|b|3260
+B|yeah.|b|3260
+A|And it's a game that none of their friends know how to play,|sd|3260
+A|and they both enjoy it.|sd|3260
+A|So if they want to play, they have to play with mom and dad.|sd|3260
+B|Yeah.|b|3260
+A|So, uh, we play that a lot of them,|sd|3260
+A|and, uh, we like to go miniature golfing and to movies.|sd|3260
+B|Yeah.|b|3260
+A|We have family that lives outside of the state|sd|3260
+A|so we go visit both sets of grandparents and, and take car trips.|sd|3260
+B|Yeah,|aa|3260
+B|so do we.|aa|3260
+A|So, that,|%|3260
+A|and my husband and son go camping with scouts mostly.|sd|3260
+B|Okay.|b|3260
+B|Yeah.|b|3260
+A|My daughter and, and I hate camping so we go shopping.|sd|3260
+A|So that just kind of works out real well.|sd|3260
+B|Yeah.|b|3260
+A|And, um, I'm a writer by profession|sd|3260
+A|and my daughter enjoys writing too,|sd|3260
+A|so a lot of times, she and I will travel to writers conferences together.|sd|3260
+B|Oh, now that's neat.|ba|3260
+A|Yeah. Yeah.|aa|3260
+B|Yeah.|b|3260
+B|No,|%|3260
+B|we've never had anything like that.|sd|3260
+A|So that gives us special time together too.|sd|3260
+B|Yeah.|b|3260
+A|And she's on the yearbook staff and things like that|sd|3260
+A|so I can help her with that|sd|3260
+A|and she gives me ideas for my writing too|sd|3260
+A|so.|%|3260
+B|Uh-huh.|b|3260
+A|Yep.|%|3260
+B|Uh-huh.|b|3260
+B|Oh, well, good.|ba|3260
+B|Well, I, you know, in terms of, in terms of any sorts of trends I, you know,|%|3260
+B|obviously things are different from, for me than, and my children than when I was growing up.|sd|3260
+A|Yeah.|b|3260
+B|I, I, I grew up on a farm, uh, in Iowa,|sd|3260
+B|and, uh, you know the whole family was around the, the whole time.|sd|3260
+B|And then what my father did was, was, uh, you know, obvious to me|sd|3260
+B|and I, I helped out with it.|sd|3260
+B|But, uh, although I have brought my boys into to see where I work, it's not that easy,|sd|3260
+B|and it's, it's certainly not at all common,|sd|3260
+B|and they, they just don't really have that same idea,|sd|3260
+A|Right.|b|3260
+B|so they, uh,|%|3260
+B|it's a, it's a whole different, uh, kind of thing there then, uh,|sd|3260
+A|My husband has taken us to work with him,|sd|3260
+A|and we still don't know what he does.|sd|3260
+B|Yeah.|b|3260
+A|So, we just say he travels a lot.|sd|3260
+A|So, that kind of covers it.|sd|3260
+B|Yeah.|b|3260
+B|Yeah.|b|3260
+B|Well, that makes it hard though for in terms of, you know, family time with, with him.|sv|3260
+A|Yes.|b|3260
+A|Yeah.|b|3260
+B|Yeah,|b|3260
+B|I've been lucky in that respect that I don't, uh, don't travel too much .|sd|3260
+A|He's been on temporary duties where he's been gone nine months.|sd|3260
+B|Oh.|b|3260
+A|Yes.|%|3260
+B|Yeah.|b|3260
+A|So those are the real killers.|sd|3260
+A|If he's just gone,|%|3260
+B|Yes.|aa|3260
+A|he's gone three weeks right now|sd|3260
+A|and that's, that's mild compare to the big ones,|sd|3260
+B|Yeah.|b|3260
+A|so we just, you know. I just do the carpooling and, and handle whatever needs to be done.|sd|3260
+A|And something major, always needs to be done.|sd|3260
+B|Yeah.|b|3260
+B|Yeah.|b|3260
+A|So you just have to, to handle it until he gets home|sd|3260
+B|Yeah.|b|3260
+B|Yeah,|b|3260
+B|right.|b|3260
+A|And hopefully he won't have too many surprises when he gets home.|sd|3260

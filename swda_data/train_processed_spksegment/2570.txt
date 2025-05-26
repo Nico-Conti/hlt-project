@@ -1,0 +1,279 @@
+B|Why don't you go ahead and start.|ad|2570|0
+A|Okay,|aa|2570|1
+A|my hobby is, uh, sewing.|sd|2570|1
+A|I, I've just, uh, started learning how to sew|sd|2570|1
+A|and, uh, I've taken some classes|sd|2570|1
+A|and I've made a few, few garments.|sd|2570|1
+A|Do you sew at all?|qy|2570|1
+B|I used to, uh,|ng|2570|0
+A|Did you?|bh|2570|1
+B|I, I sewed, you know, in high school|sd|2570|0
+B|and when I went to college I think everything in my closet, I had made.|sd|2570|0
+B|But I haven't sewed since then|sd|2570|0
+B|and that's been fifteen years.|sd|2570|0
+B|So, uh, you know, I didn't have access to a machine the whole time I was in college.|sd|2570|0
+A|Oh.|b|2570|1
+B|And, uh, my sister sewed|sd|2570|0
+B|and she needed the money so I would pay her|sd|2570|0
+B|and she'd make my clothes|sd|2570|0
+A|Oh.|b|2570|1
+B|And, uh, and then just in the last, you know, ten or I just haven't sewn anything.|sd|2570|0
+B|I would love to, I would like to get back to it.|sd|2570|0
+A|Yeah,|b|2570|1
+A|uh-huh.|b|2570|1
+A|Uh, clothes are getting so expensive now in, in the stores|sv|2570|1
+A|and the, the quality is, is sometimes so poor that, uh, it, it really is worth while to sew.|sv|2570|1
+B|Yeah.|b|2570|0
+B|It is, you know, an even back then,|sv|2570|0
+B|I remember you could make something for, you know, half what it cost to buy|sd|2570|0
+B|and, of course, the quality was just exceptional.|sd|2570|0
+A|Right an,|aa|2570|1
+B|Uh, now it's a little more expensive to make it, because, you know, you start paying the price for the patterns and the material,|sv|2570|0
+A|Yeah.|b|2570|1
+B|but it's still such better quality that I think it's worth it.|sv|2570|0
+A|It certainly is,|aa|2570|1
+A|and the patterns have gone up tremendously, too, the prices for them, you used to could get, you know, a pattern for two or three dollars, now, they're like, you know, five, six, seven, eight.|sd|2570|1
+B|You're kidding me.|bh|2570|0
+A|Oh, no,|nn|2570|1
+A|I'm not.|sd|2570|1
+B|See I can remember paying seventy-five cents for a pattern|sd|2570|0
+A|Huh-uh,|b|2570|1
+A|no,|%|2570|1
+A|the, the cheapest ones now are like maybe, uh, four or five dollars, six, seven|sd|2570|1
+B|Uh-huh.|b|2570|0
+A|and then you get into the Vogues,|sd|2570|1
+A|they get up into twelve and fifteen and, on like that.|sd|2570|1
+B|Good night.|ba|2570|0
+B|Well do you have kids and a husband,|qy|2570|0
+B|are you sewing for a whole family|qy|2570|0
+B|or,|%|2570|0
+A|Uh, right now I'm just sewing for myself.|sd|2570|1
+A|I, I do have two daughters that, you know, out, they're, they're grown now though.|sd|2570|1
+A|I wish that I had started sewing, you know, when they were younger.|sd|2570|1
+B|Uh-huh.|b|2570|0
+A|And, uh, it would have helped me out tremendously|sd|2570|1
+A|But, um, oh, I guess, I, I just, you know, I always, I have always tried to sew|sd|2570|1
+A|and, uh, I didn't like the way it looked so I'd never wear anything.|sd|2570|1
+B|Yeah.|b|2570|0
+A|But now I, I have bought some, uh, new, sewing equipment.|sd|2570|1
+A|I bought the Singer machine|sd|2570|1
+A|and, uh, it really makes it look professional|sd|2570|1
+B|Uh-huh.|b|2570|0
+A|and I've taken some classes here in, in, uh, Dallas.|sd|2570|1
+B|Well and that always is helpful for starters.|sv|2570|0
+A|Yeah.|b|2570|1
+B|You know you have to have something that kind of gets you on the right track of where you're going.|sv|2570|0
+A|Right.|b|2570|1
+A|I know a lot of people where I work make their clothes.|sd|2570|1
+A|It's just, there's just so many people sewing now days.|sv|2570|1
+B|That's true.|aa|2570|0
+A|Uh-huh.|b|2570|1
+B|Well do you do anything|qy|2570|0
+B|do you knit or crochet like for sweaters or anything like that?|qy|2570|0
+A|No,|nn|2570|1
+A|I'm not that talented.|sd|2570|1
+B|see, I'm I've not ever been a real craft type person.|sd|2570|0
+B|I have a sister-in-law that, I mean, if it can be done with your hands, she does it.|sd|2570|0
+B|She makes things for the kids for Christmas and nephews and nieces|sd|2570|0
+B|and I look at them|sd|2570|0
+B|and I think, God, you know, I, I should be able to do things like this|sd|2570|0
+A|Right.|b|2570|1
+A|I have a sister that can, can, uh, crochet real well, or, or knit, I, I guess I mean knit.|sd|2570|1
+B|Yeah.|b|2570|0
+A|And she knits things like hats, and, uh, sweaters, an, you know .|sd|2570|1
+B|Yeah.|b|2570|0
+B|Well, when my sister, oh, when my sister had her first, uh, child, my niece, and this is, we're talking fifteen years ago. I was, it was my last year of college,|sd|2570|0
+A|Uh-huh.|b|2570|1
+A|Uh-huh.|b|2570|1
+B|and I asked my roommate if she would teach me how to crochet granny squares.|sd|2570|0
+B|So she did,|sd|2570|0
+B|and I crocheted a blanket for my sister's baby,|sd|2570|0
+A|Oh.|b|2570|1
+B|and I started crocheting a king size bedspread for a guy that I was dating at the time.|sd|2570|0
+A|Uh-huh.|b|2570|1
+B|And when we broke things off,|sd|2570|0
+B|actually we were supposed to get married when I got out of college.|sd|2570|0
+B|So when we broke things off, I quit crocheting it|sd|2570|0
+B|and I've never picked up a needle since then,|sd|2570|0
+B|in fact, I think it's still sitting in the top of the closet|sd|2570|0
+A|Oh, my goodness.|ba|2570|1
+B|One of these days I keep thinking I'm going to finish it because it would make a really pretty bedspread|sd|2570|0
+B|But,|%|2570|0
+A|Yeah,|b|2570|1
+A|now, now they have the, uh, knitting machines that will do it for you.|sd|2570|1
+B|Fast|bf|2570|0
+B|My problem, I guess is time, you know,|sd|2570|0
+B|I, I talk to my husband,|sd|2570|0
+B|we kind of planning for the time eventually when, you know, maybe I can quit work, while my kids, because, I, my kids are young.|sd|2570|0
+B|I have a three and a half and a two year old.|sd|2570|0
+A|Um.|%|2570|1
+B|And he says|sd|2570|0
+B|but Bev, I think you'll be so bored, because, you know, all you've ever done is work.|^q|2570|0
+B|And I said, but there's so many things I want to do,|sd|2570|0
+B|I'd like to start sewing again,|sd|2570|0
+B|I'd like to learn how to do this cross stitch and these, you know, knit these things|sd|2570|0
+B|and I think that would be fascinating.|sd|2570|0
+B|He kind of laughs|sd|2570|0
+A|Are you familiar with what a Serger is, uh, the Serger Sewing Machine?|qy|2570|1
+B|I don't think so.|ng|2570|0
+A|Well you know, in, when we used to sew, we'd sew the seam|sd|2570|1
+A|and then we'd finish the edges,|sd|2570|1
+B|Sure.|b|2570|0
+A|and we, we would, uh, trim the seams and finish the edges.|sd|2570|1
+B|Uh-huh.|b|2570|0
+A|Well, this machine does it all in one step.|sd|2570|1
+B|You're kidding,|bh|2570|0
+B|so like as you're sewing the seam, it's finishing off the inside edge.|bf|2570|0
+A|Right,|aa|2570|1
+A|and it's cutting off the, uh,|sd|2570|1
+A|the, there, there are two knives|sd|2570|1
+A|and it cuts off the, uh, you know excess seam allowance.|sd|2570|1
+B|Well that takes all the work out of it.|sv|2570|0
+A|Right.|aa|2570|1
+A|And, uh, it, it really makes it look professional.|sv|2570|1
+B|Well, how neat.|ba|2570|0
+A|Especially, on, you know, I mean from the inside, you know how you look under, under something that you've made|sd|2570|1
+A|and it doesn't really,|sd|2570|1
+B|Uh-huh.|b|2570|0
+A|But, uh, the Serger really makes it look professional.|sv|2570|1
+B|Well that's neat.|ba|2570|0
+A|They're pretty expensive.|sd|2570|1
+A|I like,|%|2570|1
+A|I paid like about eight hundred dollars for mine,|sd|2570|1
+B|For the machine,|b^m|2570|0
+A|Uh-huh.|aa|2570|1
+B|Yeah.|b|2570|0
+A|So, since I bought it and paid that much for it, I guess I'd might as well get some use out of it.|sd|2570|1
+B|You have to learn how to do it.|bf|2570|0
+B|That's right.|aa|2570|0
+A|Yes,|aa|2570|1
+A|I'm going to have to do it.|sd|2570|1
+B|Otherwise, they hold it over your head forever, right|qy|2570|0
+A|Right.|na|2570|1
+B|Now I bought you that machine|^q|2570|0
+B|Well that sounds really good.|sv|2570|0
+A|Yeah.|b|2570|1
+B|Do you paint or anything like that?|qy|2570|0
+A|No.|nn|2570|1
+B|Never.|bf|2570|0
+A|No,|aa|2570|1
+A|I, I play the piano.|sd|2570|1
+B|Oh, so do I.|sd|2570|0
+A|Oh, you do.|bf|2570|1
+B|well I have one here,|sd|2570|0
+B|it's the one that I grew up with,|sd|2570|0
+A|Uh-huh.|b|2570|1
+B|and my folks gave it to me,|sd|2570|0
+B|and, uh, a couple years ago when they, they sail,|sd|2570|0
+B|and so they sold their home|sd|2570|0
+B|and they, they've been sailing,|sd|2570|0
+B|and, uh, so it's here|sd|2570|0
+B|but I haven't touched one like since college, so I kind of am picking it all out again and trying to remember how to do it again.|sd|2570|0
+B|And of course, my kids jump in the middle of it and want to pound on it|sd|2570|0
+B|and I'd love to teach them to play, too.|sd|2570|0
+A|Yeah.|b|2570|1
+B|So, I'm not great,|sd|2570|0
+B|but I remember it.|sd|2570|0
+A|Uh-huh,|b|2570|1
+A|well I'm not that great either.|sd|2570|1
+A|I used to be a lot better than I am now.|sd|2570|1
+A|I, I have played for, uh, the church choir,|sd|2570|1
+A|and, uh, I played for the choral club in high school|sd|2570|1
+B|Yeah.|b|2570|0
+A|and, but, I, you know, I don't practice a lot anymore,|sd|2570|1
+A|and, uh, you know, you get rusty.|sv|2570|1
+A|You really,|%|2570|1
+B|You do,|aa|2570|0
+B|you do.|aa|2570|0
+A|I never thought I would get rusty,|sd|2570|1
+A|but I'm rusty now.|sd|2570|1
+B|Well, I, I figure it takes practice|sd|2570|0
+B|and I, I don't, I say I don't have the time,|sd|2570|0
+B|that's not true.|sd|2570|0
+A|Uh-huh.|b|2570|1
+B|By the time I put my kids in bed at night, I don't want to do anything.|sd|2570|0
+A|Yeah.|b|2570|1
+B|I, you know, I've worked all day|sd|2570|0
+B|and I come home|sd|2570|0
+B|and I do that,|sd|2570|0
+B|I, and, you know, even hobbies and crafts and sewing things like that, I, I think gee, I could do this or that,|sd|2570|0
+B|I have an hour here.|^q|2570|0
+A|Uh-huh.|b|2570|1
+B|I don't want to do them sometimes,|sd|2570|0
+B|I'm too tired.|sd|2570|0
+A|Yeah,|b|2570|1
+A|right.|b|2570|1
+B|So, I try to save that for the weekend.|sd|2570|0
+B|I need to get better at it though|sd|2570|0
+A|Well, sewing does take up, take an awful lot of time, takes an awful lot of time.|sv|2570|1
+B|Now the part about sewing that I never liked was laying out the material and the pattern and cutting it out.|sd|2570|0
+B|If, if somebody would lay it out for me, then I didn't mind cutting it out and sewing it.|sd|2570|0
+B|I could do that all day long|sd|2570|0
+B|and I, I can remember once in high school, I wanted some extra money,|sd|2570|0
+A|Yeah.|b|2570|1
+B|and my mom wanted some pants,|sd|2570|0
+B|so she laid out the material|sd|2570|0
+B|and I cut it and sewed it|sd|2570|0
+B|and she paid me I think like two dollars a pair to make her some pants.|sd|2570|0
+A|Yeah.|b|2570|1
+B|But I, I hate laying out material and trying to get the most out of the material and, make sure it's on the right lines and not on the bias.|sd|2570|0
+A|Yeah,|b|2570|1
+A|on the, on the, right on the straight grain, and all that stuff,|^2|2570|1
+B|Yes,|aa|2570|0
+B|on the grain of the fabric.|sd|2570|0
+A|uh-huh.|%|2570|1
+B|It drives me crazy|sd|2570|0
+A|Yeah|b|2570|1
+A|that, that's, that's the part that I don't like, too.|sd|2570|1
+B|Yeah.|b|2570|0
+A|Yeah,|b|2570|1
+A|I, I like sewing, sewing up the garment itself.|sd|2570|1
+A|I really like to do that,|sd|2570|1
+A|but the, the cutting and the, all the,|sd|2570|1
+A|even the cutting I don't like.|sd|2570|1
+B|Well what are some of the other features on this machine?|qw|2570|0
+B|It sounds wonderful.|sv|2570|0
+A|Well that's about it really.|sd|2570|1
+A|It's, it has four, uh, four threads instead of, the, the regular basic two threads.|sd|2570|1
+B|Oh, okay.|bk|2570|0
+A|And, uh, it,|%|2570|1
+B|Is that for designs,|qy|2570|0
+B|or is that for the regular seam in the fabric|qrr|2570|0
+B|or,|%|2570|0
+A|No,|nn|2570|1
+A|you, you can either use three or four of the threads.|sd|2570|1
+B|Oh, okay.|bk|2570|0
+A|Uh, it's kind of, it the stitch is kind of like a knitting machine, like the, they're loopers under the bottom|sd|2570|1
+A|and then the, there's a seam stitch|sd|2570|1
+A|and it's the loopers that form the, the edge, you know that edge finish.|sd|2570|1
+B|Uh-huh.|b|2570|0
+A|And, uh, that's what really makes it look professional.|sd|2570|1
+A|You can do a lot with the Serger though.|sd|2570|1
+A|You can make, uh, piping and cording|sd|2570|1
+A|and, uh, you can use all kinds of different, uh, textures of thread.|sd|2570|1
+B|So it has the ability to do just about any type of sewing you want to do.|bf|2570|0
+A|Well, yes,|aa|2570|1
+A|but you, you have to use it in combination with a sewing machine.|sd|2570|1
+A|You can't throw your sewing machine away.|sd|2570|1
+A|you, you need it to do things like button holes, and, uh, seams that need to be really strong, need to be done on the sewing machine.|sd|2570|1
+B|Uh-huh.|b|2570|0
+B|So the Serger is not a sewing machine, itself.|qy^d|2570|0
+B|It's something that goes with it?|qy^d|2570|0
+A|It's, uh,|%|2570|1
+B|Like an attachment|qy^d|2570|0
+B|or,|%|2570|0
+A|No,|nn|2570|1
+A|it's, it's a, it's a, it's a machine,|sd|2570|1
+A|it's not exactly a sewing machine|sd|2570|1
+A|but it it does sew the seam and trim the edges and all that stuff,|sd|2570|1
+A|but there are are other things that a regular sewing machine does that it doesn't do. Like you can't top stitch with it.|sd|2570|1
+B|Oh, okay.|bk|2570|0
+A|You know, you can't do top stitching,|sd|2570|1
+A|or, um, there's, there's a few things that you just can't do with it.|sd|2570|1
+A|It will also do a rolled edge, um,|sd|2570|1
+B|Uh-huh.|b|2570|0
+A|Gee, it's just so versatile,|sd|2570|1
+A|I uh.|%|2570|1
+B|Well I'm going to have to go check it out.|sd|2570|0
+B|That's just something I hadn't heard of|sd|2570|0
+B|but it,|%|2570|0

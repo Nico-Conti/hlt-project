@@ -1,0 +1,105 @@
+A|Okay,|fo_o_fw_"_by_bc|3276|0
+A|as far as, uh, universal health care um, I guess I'm all for it.|sd|3276|0
+B|Uh-huh.|b|3276|1
+A|I think it's time that we start looking at, uh, getting into that.|sv|3276|0
+A|Um, health cost has continued to rise|sd|3276|0
+A|and I think, uh, there's people that to me it's the fundamental, uh, life of a person.|sv|3276|0
+A|Uh, it doesn't matter if you have money or no or all the money in the world, um,|sv|3276|0
+A|you would,|%|3276|0
+B|You should still be|^2|3276|1
+A|Everybody should be able to have surgeries that will save their lives or things that will make their life more comfortable verses than just the rich people that can afford to pay or to work for corporations that have wonderful health benefits.|sv|3276|0
+A|Um, I think if, uh, they looked at it as a way of business helping out financially for universal health care and, uh, individuals, um, helping out in some sort of way whether it be taxes or some how.|sv|3276|0
+A|But, uh, the expenses right now for health care, um, are just unreal.|sv|3276|0
+B|Well, they really are even for, even when you're not talking about surgery.|sv|3276|1
+B|If you're just talking about basic care,|sd|3276|1
+B|we've we've got four children|sd|3276|1
+A|Yes.|b|3276|0
+B|and, you know in the past month they, it just, they pass things from one to one|sd|3276|1
+A|Uh-huh.|b|3276|0
+A|Oh, sure.|b|3276|0
+B|and it just can devastate your budget, you know.|sd|3276|1
+A|And your constantly,|^2|3276|0
+A|Exactly.|ba|3276|0
+A|Yeah.|b|3276|0
+A|The only,|%|3276|0
+A|I, I know that, um, uh, I know a little bit about the, uh, European, uh, universal health care|sd|3276|0
+A|and there's some pros and cons.|sd|3276|0
+A|One of the things, of course, is everybody gets health care,|sd|3276|0
+A|but, uh, sometimes health care, uh, when you get into a universal system lacks in, uh, what would be considered, uh,|sd|3276|0
+A|how can I say it?|^h|3276|0
+A|Um, over like in Poland, uh, where my father-in-law lived for years there their health care system is, um,|sd|3276|0
+A|because no financial gains are available for doctors.|sd|3276|0
+A|Uh, they may just go into being a doctor just clearly just to be a doctor for the full reason,|sd|3276|0
+A|but most people that go in to being a physician here in the U S do it for financial gain.|sd|3276|0
+A|They say, well, jeez. If I get into this area of dermatology, I don't have to do this,|sd|3276|0
+A|I can do this,|^q|3276|0
+A|and I can, you know,|^q|3276|0
+B|Can still make big bucks|^q|3276|1
+A|Yeah,|b|3276|0
+A|or plastic surgery|sv|3276|0
+A|or, uh, if I become a, uh, heart specialist I'm going to make this kind of money, uh,|^2|3276|0
+A|and there's, you know, financial gains toward that.|sv|3276|0
+A|And in a universal system I don't think there is a financial gain for the doctors.|sv|3276|0
+B|Do you think that the quality, um it would would be as high?|qy|3276|1
+A|The quality I think goes down. Uh-huh when you have a universal system.|sv|3276|0
+B|Yeah.|b|3276|1
+B|Yeah.|b|3276|1
+A|Um, the only way they could do that is by having a real good quality check, um, and also offering some kind of,|sv|3276|0
+A|because I think, uh, all physicians, well, anybody, um, likes the ability to kind of, uh, get themselves financially, uh, situated.|sv|3276|0
+A|Uh, I guess that's the whole U S concept is to come here and,|sv|3276|0
+B|Right.|b|3276|1
+B|More motivation|sv|3276|1
+A|Yeah,|b|3276|0
+A|and I don't know if you can have that with a universal system.|sv|3276|0
+A|Maybe, you know, there's a way of working that out,|sv|3276|0
+A|but I know that in Poland in particular the doctors just go to do their job and that's it.|sd|3276|0
+A|That's what they look at it as.|sd|3276|0
+B|Yeah.|b|3276|1
+A|There's no, uh,|%|3276|0
+A|and that's sad because if that's the case, if doctors aren't going in to be doctors to help people then maybe they shouldn't be in that area anyway.|sv|3276|0
+B|Right.|b|3276|1
+A|But that might be one way of weeding out those that are greedy for the money and those that really want to help mankind.|sv|3276|0
+B|Yeah.|b|3276|1
+B|That's true.|ba|3276|1
+B|Yeah.|b|3276|1
+A|So.|%|3276|0
+B|I, uh,|%|3276|1
+A|But I, I think we have to head toward that way.|sv|3276|0
+B|Well, we're going to have to do something because there's just too many people in the country that are uninsured|sv|3276|1
+A|Uh-huh.|b|3276|0
+B|and, and you know you cannot,|sv|3276|1
+B|I mean it's just,|%|3276|1
+A|I'm worried when I get older.|sd|3276|0
+B|Oh, sure.|ba|3276|1
+A|You know, and, uh, let's say for instance you, uh, get fired or not fired but maybe laid off from your job.|sd|3276|0
+A|You no longer have insurance.|sd|3276|0
+B|Right.|b|3276|1
+A|I mean and you're sixty some or fifty some years old you try, try to find insurance.|sd|3276|0
+B|Uh-huh.|b|3276|1
+B|Oh, yeah.|b|3276|1
+A|I mean you're uninsurable. Unless you want to pay five hundred, six hundred dollars a month|sv|3276|0
+B|That's right.|ba|3276|1
+A|and I know people that are paying two hundred, three hundred dollars a month for insurance.|sd|3276|0
+B|Yeah.|b|3276|1
+A|And how they can do it I have no idea.|sd|3276|0
+A|Um, I know working for small corporations|sd|3276|0
+A|and health insurance, um, myself, um, it would cost for a family|sd|3276|0
+A|and this was back three, four years ago to put my entire family up|sd|3276|0
+A|and this was working for like a med center, uh, health plan.|sd|3276|0
+A|Um, it was like eighty dollars out of my paycheck.|sd|3276|0
+B|Yeah.|b|3276|1
+A|So,|%|3276|0
+B|Well, our ours is three hundred for our family|sd|3276|1
+B|and I mean we, that is, we pay that instead of a car payment. You know.|sd|3276|1
+A|See.|fo_o_fw_"_by_bc|3276|0
+A|Yeah.|b|3276|0
+B|I mean I'm driving a piece of junk, you know|sd|3276|1
+A|Well, we do the same.|sd|3276|0
+A|I mean it's,|%|3276|0
+A|I think, uh, people are changing their viewpoints of, you know,|sv|3276|0
+A|it's getting harder and harder to survive.|sv|3276|0
+B|Right.|b|3276|1
+A|And, uh and that's why, uh, if they don't go to a universal system, something is going to happen.|sv|3276|0
+B|Right.|b|3276|1
+B|Yeah.|b|3276|1
+A|We're going to have, uh, a larger amount of people dying.|sv|3276|0

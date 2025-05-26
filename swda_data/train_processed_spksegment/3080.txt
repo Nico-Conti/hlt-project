@@ -1,0 +1,202 @@
+A|All right, do you do exercise?|qy|3080|0
+B|I do,|na|3080|1
+B|yes,|ny|3080|1
+B|I, uh, uh, I guess it actually changes,|sd|3080|1
+B|I do a number of different things simply walking with my wife|sd|3080|1
+A|Uh-huh.|b|3080|0
+A|Right.|b|3080|0
+B|and sometimes my daughter will come along on her little bicycle.|sd|3080|1
+B|Uh, and then moving up, I run in the mornings,|sd|3080|1
+A|Uh-huh|b|3080|0
+B|not every morning, it probably averages about two days a week|sd|3080|1
+A|Right.|b|3080|0
+B|and then with my wife I actually go to the gym and lift weights, which isn't, I understand, quite exercising,|sd|3080|1
+B|but it's along the lines,|sd|3080|1
+A|Right.|b|3080|0
+B|How about yourself.|qo|3080|1
+A|Well, um, that's a hard question to answer because I do physical things, but I don't always set out for them to be exercise.|sd|3080|0
+B|Uh-huh.|b|3080|1
+A|I walk with my parents, occasionally,|sd|3080|0
+A|nothing's real regular about this because I have a weird schedule and they have a normal schedule,|sd|3080|0
+A|and, um, I play racquetball,|sd|3080|0
+A|but I haven't since I've been out of school.|sd|3080|0
+A|I don't have anywhere to do that,|sd|3080|0
+A|but that's going to start soon again|sd|3080|0
+B|Uh-huh.|b|3080|1
+A|and, um, I play softball once a week, which is kind of more recreation than exercise.|sd|3080|0
+B|Uh-huh.|b|3080|1
+A|Because I really don't like to exercise,|sd|3080|0
+A|I think that's the basic point of it, is I'm not, I, I don't enjoy it if I know that it's exercise,|sd|3080|0
+B|Right.|b|3080|1
+A|but if it's like a social activity or a recreational activity, I don't mind|sd|3080|0
+B|Right.|b|3080|1
+A|so I have to disguise it,|sd|3080|0
+A|it's like feeding little babies food and telling them it's something else so that they'll eat it.|sd|3080|0
+B|That's right.|aa|3080|1
+A|That's kind of the same thing for me.|sd|3080|0
+A|I have to not know that it's exercise so I can do it.|sd|3080|0
+B|Right.|aa|3080|1
+B|So you look at it more as a task.|bf|3080|1
+A|Well, yeah,|aa|3080|0
+A|if it's exercise, it's a task.|sd|3080|0
+B|Right.|b|3080|1
+A|I don't want to do anything I have to do.|sd|3080|0
+B|I see.|bk|3080|1
+A|I mean, I'll voluntarily clean the bathroom,|sd|3080|0
+A|but I won't do it if I have to do it.|sd|3080|0
+B|Right,|b|3080|1
+B|right.|b|3080|1
+B|So, I'm thirty-two years old which is probably different than yourself|sd|3080|1
+A|Uh-huh.|b|3080|0
+A|Right,|aa|3080|0
+A|I'm twenty-two.|sd|3080|0
+B|and so, it's interesting that as you get older you begin to understand that you need to exercise.|sd|3080|1
+A|Right.|b|3080|0
+B|My job at Texas Instruments, I have to sit in front of a computer all day and make phone calls, so, that, I don't get any exercise doing that|sd|3080|1
+A|Right.|b|3080|0
+B|and plus there's a build up of stress|sd|3080|1
+A|Uh-huh.|b|3080|0
+B|so I need to go out and take those walks after dinner,|sd|3080|1
+B|and I need to go out in the morning and run|sd|3080|1
+B|or I'll just get nuts|sd|3080|1
+A|Right.|b|3080|0
+B|so that's kind of a motivator,|sd|3080|1
+B|so even though I can look at it as a task, the, you know, I kind of get the, I get some kind of global benefit from the whole thing by saying, Well, I'm lowering my chance of heart attack, and thus, that type stuff.|sd|3080|1
+A|Right.|b|3080|0
+A|Eating right and no cholesterol and all that.|bf|3080|0
+B|Sure,|aa|3080|1
+B|that all,|sd|3080|1
+B|I, I do all that.|sd|3080|1
+A|Yeah,|b|3080|0
+A|we,|%|3080|0
+A|I'm sure, I will do,|sd|3080|0
+A|I'm doing that more and more than I used to|sd|3080|0
+B|Yeah.|b|3080|1
+A|I'm getting better about this knowing that I need exercise and doing it, but it's still at the task stage.|sd|3080|0
+B|Right.|b|3080|1
+A|Is it a pleasure for you,|qy|3080|0
+A|or are you,|qrr|3080|0
+B|Well, it's a,|%|3080|1
+B|something as simple as a walk with my wife is very enjoyable.|sd|3080|1
+A|Right.|b|3080|0
+B|I do that at the end of the day,|sd|3080|1
+B|and it takes, you know,|sd|3080|1
+B|that, that during that time the stress from the day goes away.|sd|3080|1
+B|I get to share whatever I did with my wife, and, and vice versa.|sd|3080|1
+A|Right.|b|3080|0
+B|Going to the gym is, is actually something different than, than, like,|sd|3080|1
+B|oh, and the running,|sd|3080|1
+B|and I enjoy that too.|sd|3080|1
+A|Uh-huh|b|3080|0
+B|Year,|fo_o_fw_"_by_bc|3080|1
+B|I've been running since high school on track teams and the like,|sd|3080|1
+A|Oh.|b|3080|0
+B|so, running, I, I'm at that point which you probably get to after about six months of dedicated running where you don't feel your muscles any more|sd|3080|1
+A|Uh-huh.|b|3080|0
+A|Right,|b|3080|0
+B|and you don't think about the pain of it.|sd|3080|1
+B|You, you, you take the time to relax some how|sd|3080|1
+B|and you think about other things.|sd|3080|1
+B|During those first few months you have to think about running and why your elbow hurts and why you can't breathe and this and that,|sd|3080|1
+A|Uh-huh|b|3080|0
+B|and that's no fun.|sd|3080|1
+B|And it's so hard to get past that for a lot of people.|sv|3080|1
+A|Right,|aa|3080|0
+A|that's,|%|3080|0
+A|I never got past that stage.|sd|3080|0
+B|Yeah,|b|3080|1
+B|the the, uh, weight lifting on the other hand is actually, you know,|sd|3080|1
+B|I think I look better.|sd|3080|1
+A|Right.|b|3080|0
+B|I have just a, I don't, I'm not a huge person,|sd|3080|1
+B|I'm just a regular looking guy,|sd|3080|1
+B|but just going to lift weights on occasion with my wife,|sd|3080|1
+B|and my wife thinks the same thing about both me and herself that get that little bit of definition in your muscles is, is attractive|sd|3080|1
+A|Uh-huh.|b|3080|0
+A|Right.|b|3080|0
+B|so that pays also.|sd|3080|1
+A|That's good.|ba|3080|0
+B|Yeah,|aa|3080|1
+B|so, so I guess that aspect of that takes away the work the, with my wife, which is nice,|sd|3080|1
+A|Yeah.|b|3080|0
+B|I love her, you know,|sd|3080|1
+B|I enjoy being with her|sd|3080|1
+A|Uh-huh.|b|3080|0
+B|I guess that's one thing,|sd|3080|1
+B|but also, uh, that, that long term benefit of a little bit of tone in your muscles.|sd|3080|1
+A|Right,|aa|3080|0
+A|that's it,|sv|3080|0
+A|I do the occasional push up and sit up.|sd|3080|0
+A|I haven't really brought myself to go to the the gym, because that's very stressful to me,|sd|3080|0
+B|Yeah.|b|3080|1
+A|because I feel, I felt real competitive there,|sd|3080|0
+A|and I need to find some place I could go and not feel like there's all these people who are just huge and hulking that are ...|sd|3080|0
+B|Oh, yeah,|aa|3080|1
+B|I don't, I don't let that bother me,|sd|3080|1
+B|but, yeah,|%|3080|1
+B|that's something that comes with time, too. You know,|sv|3080|1
+A|Right.|b|3080|0
+B|I'll tell you, the sit ups and push ups are excellent you know,|sd|3080|1
+A|Uh-huh.|b|3080|0
+B|it's your own,|%|3080|1
+B|you, you're, you're struggling against your own body weight|sd|3080|1
+A|Right.|b|3080|0
+B|you can have variety by putting your feet higher or lower, by putting your arms further apart or closer together, by doing them real quick or real slow|sd|3080|1
+A|Right.|b|3080|0
+B|and you can actually get a good|sd|3080|1
+B|you can, I know in the push up, at least, you can get chest muscles and the back of your arms quite built up just doing push ups.|sd|3080|1
+A|Uh-huh.|b|3080|0
+A|That's a good idea,|sv|3080|0
+A|but I do have my ride,|sd|3080|0
+A|we have a stationary bicycle and a stair step machine here at the house.|sd|3080|0
+B|Oh, is that right.|bh|3080|1
+A|I'll do those once in a while just you know, like at eleven thirty when Love Connection's on and I can't sleep,|sd|3080|0
+B|Right.|b|3080|1
+B|Yeah.|b|3080|1
+B|Right.|b|3080|1
+A|I'll get up and stair step for half an hour|sd|3080|0
+B|That's funny.|ba|3080|1
+A|so.|%|3080|0
+B|Yeah.|b|3080|1
+A|It's, I guess, pretty, pretty healthy,|sd|3080|0
+A|but I don't have a regular plan, that's|sd|3080|0
+B|Yeah.|b|3080|1
+A|I need to get started on that.|sd|3080|0
+B|Well, you know, maybe not.|arp_nd|3080|1
+B|I'd say, I'd say at twenty-two you don't necessarily need a plan as long as you're getting, getting the exercise otherwise.|sv|3080|1
+A|Right.|b|3080|0
+B|When your life becomes sedentary is when you have to make yourself a plan,|sv|3080|1
+A|Uh-huh.|b|3080|0
+B|and what's real funny about plans is that there's a struggle between, uh, when you, when you add something to your life, when you add a plan to your life,|sv|3080|1
+B|something else has to go away|sv|3080|1
+A|Uh-huh.|b|3080|0
+B|and that's the hard decision, is, okay, if I'm going to run in the mornings, what am I, what do I trade it off for.|sv|3080|1
+B|Well, the answer's sleep, right.|sd|3080|1
+A|Sleep|^2|3080|0
+B|If I'm going to walk at night, what do I trade it off for.|^q|3080|1
+B|Well, Star Trek|sd|3080|1
+A|Uh-huh.|b|3080|0
+B|or, you know, it, it, it's always trade offs,|sv|3080|1
+B|and you actually have to, as you get older you have to really think what can go, and what, to, to, to replace this thing.|sv|3080|1
+A|Yeah.|b|3080|0
+B|It's, I mean, not just exercise, but anything.|sv|3080|1
+B|It's very hard.|sv|3080|1
+A|Right.|b|3080|0
+B|And, uh, I don't, I don't think you should worry about not having a program yet.|sd|3080|1
+A|That'll come some day when I,|bf|3080|0
+B|Yep.|aa|3080|1
+B|Yeah,|aa|3080|1
+B|I guess if you care, or if your wife, your future wife, uh, gives you a reason to care which helps|sv|3080|1
+A|Right.|b|3080|0
+A|Well, I hope so.|sd|3080|0
+B|Well, I think we covered it.|sv|3080|1
+A|Yeah,|aa|3080|0
+A|sounds good.|sv|3080|0
+B|Nice talking with you, Craig.|fc|3080|1
+A|Yeah,|fc|3080|0
+A|you too.|fc|3080|0
+A|Have a nice day.|fc|3080|0
+B|You too.|fc|3080|1
+B|Good day.|fc|3080|1
+A|Bye.|fc|3080|0
+B|Bye.|fc|3080|1

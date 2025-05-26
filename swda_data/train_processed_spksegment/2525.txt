@@ -1,0 +1,245 @@
+A|Okay.|fo_o_fw_"_by_bc|2525|0
+B|All set.|sd|2525|1
+B|Do you want to start?|qy|2525|1
+A|I can go ahead and start,|na|2525|0
+B|Sure, go ahead.|ad|2525|1
+A|uh, in Dallas there's definitely a crime problem,|sv|2525|0
+A|I know it's, you know, worse in the larger cities.|sv|2525|0
+A|Um, it's kind of a concern for me,|sd|2525|0
+A|in fact, at the moment I'm thinking of possibly moving to a new apartment|sd|2525|0
+A|and, uh, it's,|%|2525|0
+A|I am single and female,|sd|2525|0
+A|you definitely are going to worry about the location, and, uh, you know, accessibility of people to be able to break in.|sv|2525|0
+A|I live on a third floor now,|sd|2525|0
+A|but, I, you know, I'm real concerned that I, I don't want to be on a first floor where you can have problems with things like that,|sd|2525|0
+A|and, the, um,|%|2525|0
+B|Do they have many buildings that have security there?|qy|2525|1
+A|Some buildings do,|na|2525|0
+A|it depends on the location.|sd|2525|0
+A|The area I live in right now, is, is real good as far as crime rate is concerned|sd|2525|0
+A|and we don't have anything at all, no burglar alarms, no guards.|sd|2525|0
+B|Yeah,|b|2525|1
+B|yeah,|b|2525|1
+B|well I, I went to Dallas, uh, when I worked for T I in Abilene|sd|2525|1
+B|and, uh, I'm a little familiar with the city area, Forest Lane and, you know, through that, off, off the freeway.|sd|2525|1
+A|Uh-huh.|b|2525|0
+B|And, uh, it didn't seem like it was that congested in that, that part.|sd|2525|1
+B|You know because to me where we live out here in the north east, it, it's there are a lot of buildings very close to each other,|sd|2525|1
+A|Uh-huh.|b|2525|0
+B|and the cities are very populated with tenement housing, where there are more than one family in a house. And with the, uh, people that are coming into the country from other countries, not knowing the language|sd|2525|1
+A|Uh-huh.|b|2525|0
+A|Um.|b|2525|0
+B|and, uh, they're going to the big cities.|sv|2525|1
+B|It makes it very difficult.|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|It really does,|sv|2525|1
+B|and, and I've seen the same thing that you're talking about, uh, much more crime than ever before. Drugs of course, uh, a big part of it I think.|sd|2525|1
+A|Uh-huh.|b|2525|0
+A|Uh-huh.|b|2525|0
+B|And, uh, I don't know,|h|2525|1
+B|a lot of younger people, you know, into more violent crimes.|sv|2525|1
+A|Oh, yeah,|aa|2525|0
+A|yeah.|aa|2525|0
+B|that, that's really sad, you know,|ba|2525|1
+B|you got young boys or girls, that at fourteen or twelve years old that are committing murders and, no remorse, what so ever.|sv|2525|1
+A|Uh-huh.|aa|2525|0
+A|There's a lot of that going on in Dallas, too.|sd|2525|0
+B|Yeah.|b|2525|1
+A|Yeah,|b^m|2525|0
+A|it's really sad.|sv|2525|0
+B|It is|aa|2525|1
+B|and, and I don't know if it's, uh, the family, you know, thing where they're not bonding anymore, where mothers are working all the time and, the kids aren't getting the attention that they need, or the television.|sv|2525|1
+A|Uh-huh,|b|2525|0
+A|Uh-huh.|b|2525|0
+B|And I, I really think that we're, we're falling by the wayside with not incarcerating these people.|sv|2525|1
+A|Oh, I agree.|aa|2525|0
+A|I think that people are getting off too easy.|sv|2525|0
+A|They're getting, they're getting paroled too easily.|sv|2525|0
+B|Uh, uh.|b|2525|1
+A|They're just getting, uh, put on probation or something, because the prisons don't have enough room|sv|2525|0
+A|so they get, they get lighter sentences,|sv|2525|0
+B|Yeah, exactly.|aa|2525|1
+A|and some of those people, they don't deserve to be let loose.|sv|2525|0
+B|And, uh, you know, they had, uh,|%|2525|1
+B|in fact on the news last night we were watching this, uh, man who lost his ten year old daughter.|sd|2525|1
+B|He ran out to the store for a few minutes|sd|2525|1
+B|and he had left her home alone.|sd|2525|1
+B|now ten years old,|sd|2525|1
+B|she's old enough to be alone for a few minutes, you know.|sd|2525|1
+A|Oh, yeah.|b|2525|0
+B|And while he was gone, he had looked, went looking for a job and stopped at the store,|sd|2525|1
+B|that's what it was.|sd|2525|1
+B|And, uh, someone who was in the neighborhood cleaning carpets, these two men, went in, raped the girl, murdered her, and the whole bit.|sd|2525|1
+A|Oh my gosh.|ba|2525|0
+B|And one of the men got, uh, I think it was seventeen years|sd|2525|1
+B|and the other one was in for, uh, life imprisonment.|sd|2525|1
+A|Uh-huh.|b|2525|0
+B|The one that was in for the seventeen years, actually served seven,|sd|2525|1
+B|and he's out.|sd|2525|1
+A|Uh, that's terrible.|ba|2525|0
+B|And the man said, that, you know, if it weren't for the fact that he would go to jail, that he would eliminate this person himself. And then go to McDonalds and have a hamburger and not thing a thing, think a thing about it.|sd|2525|1
+A|Uh-huh.|b|2525|0
+B|And I mean, I think that what this is going to lead to is people will take things into their own hands. And that innocent people,|sv|2525|1
+A|Yeah.|b|2525|0
+B|I, I shouldn't say innocent, because I mean, actually if they commit a crime that they're in the same circumstances|sv|2525|1
+B|but,|%|2525|1
+A|Uh-huh.|b|2525|0
+B|the reasons that they're doing it compared to the reason someone else is in jail for it, you know, it's like two different things.|sv|2525|1
+A|Yeah.|b|2525|0
+B|Sometimes when you lose someone that you really love, you do some crazy things|sv|2525|1
+B|I don't know,|h|2525|1
+A|Right,|aa|2525|0
+A|it's a little more understandable under the circumstances, I guess.|sv|2525|0
+B|I, I like the idea that, uh, if someone is from a foreign country, and they come to this country and uh, commit, a crime, I think that irregardless of whether they have already become a citizen or anything, they should be immediately deported.|sv|2525|1
+A|Uh-huh.|b|2525|0
+A|Uh-huh.|b|2525|0
+B|Especially if they're found guilty of the crime.|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|You know, once they, they have been arrested|sv|2525|1
+B|and if they know beyond a shadow of a doubt, these people are guilty.|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|That's it,|sv|2525|1
+B|we don't take care of them,|sv|2525|1
+B|we don't support them, nothing,|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|I mean they go right back where they came from.|sv|2525|1
+A|Right,|aa|2525|0
+A|we have enough, enough problems with overcrowding in the jails as it is.|sv|2525|0
+A|So let, let their country take care of it.|sv|2525|0
+B|Exactly|aa|2525|1
+B|and,|%|2525|1
+A|We don't have, I guess too much trouble in Dallas with,|sd|2525|0
+A|well, I guess, I guess we do have a lot of people come in from Mexico, that cause problems,|sv|2525|0
+A|but, uh.|%|2525|0
+B|But that's, uh, they're, so close,|sv|2525|1
+B|I, I don't consider Mexican people in the same category with, uh, especially like, uh, people who come from cultures that don't have the same, uh, kind of moral upbringing that we have.|sv|2525|1
+A|Yeah.|b|2525|0
+A|Uh-huh.|b|2525|0
+B|Like you take Asian countries, or, uh, the Eastern countries where women are like in the foreground, uh, in the background and the men are in the foreground,|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|and it's like, you know, um, they live back in where we came from two hundred years ago.|sv|2525|1
+A|Uh-huh.|b|2525|0
+A|Uh-huh.|b|2525|0
+B|You know, we've advanced beyond that,|sv|2525|1
+B|and I think that their, uh, mentality as far as the way they treat them and that kind of thing,|sv|2525|1
+B|you know what I mean.|qh|2525|1
+A|Uh-huh.|aa|2525|0
+A|It was amazing|sd|2525|0
+A|I went to the Far East, uh, back in October to do some training for T I|sd|2525|0
+A|and I,|%|2525|0
+B|Uh-huh.|b|2525|1
+A|uh, some of those countries were so safe, it was unreal.|sd|2525|0
+A|Singapore is very, supposed to be very safe|sd|2525|0
+A|and, in fact, Tokyo,|sd|2525|0
+A|and I thought Tokyo would be dangerous being such a huge large city with so many people,|sd|2525|0
+B|Yeah.|b|2525|1
+A|but they,|%|2525|0
+A|at, at the T I there, I said is there any area I should avoid.|sd|2525|0
+A|And the guy said let me ask another girl here|sd|2525|0
+A|and he turned and asked this girl, and said, can you think of any place where Dana shouldn't go by herself, or anything.|sd|2525|0
+A|And she, she thought for a few minutes|sd|2525|0
+A|and she said, no.|sd|2525|0
+A|And he said is there any place you wouldn't go by yourself.|sd|2525|0
+A|She said, no.|sd|2525|0
+A|And they said, it is so safe there that you can leave your purse on the subway|sd|2525|0
+B|Wow.|ba|2525|1
+A|and somebody will turn it in|^q|2525|0
+A|and, and nothing will be missing.|^q|2525|0
+A|They said they can just about guarantee that there, that, that would happen if you did that.|sd|2525|0
+A|I thought, boy, in America, if you left a purse on a subway, you would never see it again.|sd|2525|0
+B|Wow.|ba|2525|1
+B|You better believe it,|ba|2525|1
+B|if,|%|2525|1
+B|you wouldn't even have to leave it,|sv|2525|1
+B|I mean,|%|2525|1
+A|Yeah,|aa|2525|0
+A|that's true,|aa|2525|0
+B|it would get snatched right off your arm|sv|2525|1
+A|that's true.|aa|2525|0
+A|But I was thinking boy, in Dallas, if somebody asked me if there were places you wouldn't go by yourself at night, I'd have to set them down for about five or ten minutes to list all the places out.|sd|2525|0
+B|Oh sure.|aa|2525|1
+A|I mean, I couldn't believe that she couldn't think of any place.|sd|2525|0
+A|They said, the, apparently the crime, is, just, uh,|sd|2525|0
+B|That's amazing,|ba|2525|1
+B|well, what's the difference there,|qw|2525|1
+B|do you know?|qy|2525|1
+A|I'm not sure what it is there.|no|2525|0
+A|Now, I know what it is in Singapore, is they have the death penalty|sd|2525|0
+A|and they really enforce it,|sd|2525|0
+B|Oh, I, I believe in the death penalty,|sd|2525|1
+B|I really do.|sd|2525|1
+A|like for drugs, for drugs they, they enforce the death penalty for that.|sd|2525|0
+A|Uh, they're just, very, very tough,|sd|2525|0
+A|and I guess maybe that's the way Tokyo is too, or Japan is too.|sd|2525|0
+A|They're just very tough on criminals.|sd|2525|0
+B|Yeah,|b|2525|1
+B|yeah,|b|2525|1
+B|I think that we're too easy.|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|Uh, and we take the, the, uh, civil liberties, uh, stuff too far.|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|You know like people that are in prison, I mean we didn't put them there.|sv|2525|1
+B|They put themselves in that situation.|sv|2525|1
+A|Uh-huh,|aa|2525|0
+A|oh yeah.|aa|2525|0
+B|And as far as like them, uh, entertaining the rights that they should have.|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|I mean, we educate them,|sv|2525|1
+B|we feed them,|sv|2525|1
+B|we take care of them|sv|2525|1
+B|and they no sooner get out on the street and they're back in again.|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|I'm not saying they're all bad,|sd|2525|1
+B|but I think people who are guilty of really serious heinous crimes, do not deserve to be cared for for the rest of their lives.|sv|2525|1
+A|Uh-huh.|b|2525|0
+A|Right.|b|2525|0
+B|I think that they should be put away.|sv|2525|1
+A|Right,|aa|2525|0
+A|and if they're overcrowded, well, you know they shouldn't have gotten theirself there in the first place.|sv|2525|0
+B|Get rid of them.|^2|2525|1
+B|Exactly.|aa|2525|1
+B|I, I really, I, I think that that's the whole key here.|sv|2525|1
+B|This plea bargaining baloney, where, uh, you know, they plead to a lesser crime, or, uh, they plead guilty in, or, you know, tell about someone else and they, they get less time,|sv|2525|1
+A|Uh-huh.|b|2525|0
+A|Uh-huh.|b|2525|0
+B|Or, if they're in there and they've got seventeen years and they're on good behavior, for every year they're in they get so many less, you know, that they don't serve the full penalty.|sd|2525|1
+A|Uh-huh.|b|2525|0
+B|I, I, I really think we're going to far overboard with all of this.|sv|2525|1
+A|Oh, yeah,|aa|2525|0
+A|I agree, because it's not fair to those of us that, that deserve a safe, you know, life to have to,|sv|2525|0
+B|Yeah,|aa|2525|1
+B|same with drunk drivers.|sv|2525|1
+A|Right.|b|2525|0
+B|I think it's too easy for them.|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|That if the, the laws, and, and were, were harsher and were enforced,|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|I mean you have to set an example.|sv|2525|1
+B|You have to start somewhere.|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|And I think that people know that they're going to get a slap on the wrist, they might serve a little bit of time and that they'll be out on the street again.|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|An, it, an I feel bad for the policeman, because he's out there every day facing these people. This, this craziness, you know, people with, uh, automatic weapons and, uh, all this other stuff and trying to do a job|sv|2525|1
+A|Uh-huh.|b|2525|0
+A|Right.|b|2525|0
+B|and let's face it,|ad|2525|1
+B|what do they get paid.|qh|2525|1
+A|Right,|aa|2525|0
+A|not much.|sv|2525|0
+B|Twenty thousand dollars a year, if they're lucky.|sv|2525|1
+B|I wouldn't do it for that.|sd|2525|1
+A|Yeah,|aa|2525|0
+A|huh-uh,|aa|2525|0
+A|and especially not in some of these big cities,|sv|2525|0
+A|like in Dallas I mean they've had,|sd|2525|0
+A|they're up in the top, top five I think of cities that are getting policeman killed on, on, in the line of duty|sd|2525|0
+A|and that's really sad.|ba|2525|0
+B|It is, it really is.|aa|2525|1
+B|And I mean, they're the first ones that take the brunt of everything.|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|You know, and I'm not saying that they're all good either, because there's good and bad in everything,|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|but they, they're already, uh, have three strikes against them when they're out there.|sv|2525|1
+A|Uh-huh.|b|2525|0
+B|Because they'll arrest someone and, you know, go through all that paperwork and writing a report and all this, and having all kinds of evidence|sv|2525|1
+B|and you have to even be careful how you arrest them, how you talk to them, uh, you know, what they say,|sv|2525|1

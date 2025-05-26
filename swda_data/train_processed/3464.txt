@@ -1,0 +1,160 @@
+A|Uh, which ones have you seen lately?|qw|3464
+B|Oh, I just sort of blanking tonight.|sd|3464
+B|I just got done saying I just saw one, uh, fairly recently.|sd|3464
+B|Uh, oh, gosh, oh, I know, uh, uh, the one with the two girls that take off from, uh, uh, across, across the country on a crime spree.|sd|3464
+A|THELMA AND LOUISE,|sd|3464
+B|THELMA AND LOUISE,|b^m|3464
+B|yeah.|aa|3464
+A|Yeah.|b|3464
+A|I haven't seen that.|sd|3464
+A|Is it good?|qy|3464
+B|Yeah,|ny|3464
+B|it really is,|sd|3464
+B|it's, it's interesting.|sv|3464
+A|Is it?|bh|3464
+B|Oh, yeah,|ny|3464
+B|I enjoyed it.|sd|3464
+B|I was going to go see, uh, the Billy Crystal movie, also, which was,|sd|3464
+B|I'm a little bit behind.|sd|3464
+B|I usually rent them|sd|3464
+A|Yeah,|b|3464
+A|I, I'm not familiar.|sd|3464
+A|Which, which Billy Crystal movie?|qw|3464
+B|Oh, this is the,|sd|3464
+B|uh, just the one, oh,|sd|3464
+B|gosh,|ba|3464
+B|it was the, uh, CITY SLICKERS,|sd|3464
+A|Oh, CITY SLICKERS,|^2|3464
+B|right.|aa|3464
+A|That's a real good show.|sv|3464
+B|Have you seen that?|qy|3464
+A|Yeah,|ny|3464
+A|it's great.|sv|3464
+A|Uh, it says a lot about, uh, uh, you know,|sv|3464
+A|I, I'm young,|sd|3464
+A|but it says a lot about middle life you know,|sv|3464
+B|Uh-huh.|b|3464
+A|and, uh, uh, it's a really good show.|sv|3464
+B|Yeah,|b|3464
+B|I, I, I've heard lots of good things about it|sd|3464
+B|and I would have, would have liked to have seen it,|sd|3464
+B|but I was with my wife|sd|3464
+B|and I figured she'd like THELMA AND LOUISE better|sd|3464
+B|so,|%|3464
+A|Yeah.|b|3464
+B|And I'd heard it was really good, too|sd|3464
+B|so,|%|3464
+A|Yeah.|b|3464
+A|Uh, yeah,|%|3464
+A|I'm not too familiar with THELMA AND LOUISE.|sd|3464
+A|Uh, uh, uh, recently I, I've seen, uh, the FISHER KING.|sd|3464
+A|Have you seen that?|qy|3464
+B|No.|nn|3464
+A|It's a really good show.|sv|3464
+B|Okay.|b|3464
+A|Uh, has Jeff Bridges and, and, uh, Robin Williams.|sd|3464
+B|Uh-huh.|b|3464
+A|Uh, really, really good.|sv|3464
+B|Yeah,|b|3464
+B|there's, there's been a, a fair number of, of pretty good movies out recently.|sv|3464
+A|Yeah.|b|3464
+B|I mean it kind of runs in, in batches,|sv|3464
+B|I mean, for a while, sometimes they come in a whole bunch of them that just, I don't even, you know doesn't even sound like something I want to see.|sd|3464
+A|Yeah.|b|3464
+A|Uh-huh.|b|3464
+B|What, what kind of movies in general do you like to watch?|qw|3464
+A|Uh, well, I like to be entertained once in a while|sd|3464
+A|but, I, I really enjoy watching a movie that, uh, where they don't really try and attract the, you know, the great audience, but rather put out a, a real good movie.|sd|3464
+B|Uh-huh.|b|3464
+A|Uh, it always,|%|3464
+A|my, my favorite movie of all time has been, uh, uh, THE MISSION.|sd|3464
+A|Did you ever see that?|qy|3464
+B|No,|nn|3464
+B|in fact, I'm not even familiar with it,|sd|3464
+B|I don't think.|h|3464
+A|Uh, it's a, a|%|3464
+A|I think it's put out by Landmark Productions, the same people who put out CHARIOTS OF FIRE.|sd|3464
+B|Uh-huh.|b|3464
+A|Uh, it's a, it's a,|%|3464
+A|has Robert DeNiro in it.|sd|3464
+A|Uh, he plays one of the main characters|sd|3464
+A|and, uh, it's about, uh, Jesuit community in, uh, at the Inca Falls in, in, uh, South America, Northern Argentina.|sd|3464
+B|Oh, uh-huh No,|b|3464
+A|Uh, really, really good show.|sd|3464
+B|in fact, I, I, I'll, I'll look for it because I|sd|3464
+A|Yeah,|b|3464
+A|it's, it's something that, you know,|sv|3464
+A|it's, it's really stirring.|sv|3464
+A|The cinematography is just beautiful and really beautiful scenes and real good music.|sv|3464
+B|Actually yeah,|b|3464
+B|my wife's from down in that region around the the, called the, the Seven Missions which are, which are right down in this, where I'm sure where it was filmed at.|sd|3464
+A|Oh.|b|3464
+B|And, uh, I'm sure that, that would make it worth, worth her watching.|sd|3464
+A|Yeah.|b|3464
+B|She,|%|3464
+B|my, my, uh, my movie watching has, has, severely, uh, has, has changed a lot since I got married.|sd|3464
+A|Oh, yeah?|bh|3464
+B|Yeah,|ny|3464
+B|she, she likes, uh, action movies and, uh, and, and comedies|sd|3464
+B|and so anything that's, has anything little, is a little, little bit less than sort of mainstream Hollywood is is boring to her|sd|3464
+A|Uh-huh.|b|3464
+A|Uh-huh.|b|3464
+A|Oh.|b|3464
+B|And, and so I, I, I, I really, I used to watch a fair number of foreign films.|sd|3464
+B|I used to watch a lot of, sort of, the less, the less popular films.|sd|3464
+A|Uh-huh.|b|3464
+B|And I find I don't do it anymore or else I have to watch them on my own.|sd|3464
+A|I'm much the same way.|sd|3464
+A|I, I, I, I have a fiance|sd|3464
+A|and, it, it gets very difficult to, uh, uh,|sd|3464
+B|Find something both of you will watch.|^2|3464
+A|Yeah,|aa|3464
+A|yeah.|aa|3464
+B|She,|%|3464
+B|it's funny because most women aren't really,|sv|3464
+B|she's sort of Schwarzenegger fan type of.|sd|3464
+A|Oh, really?|bh|3464
+B|Yeah,|ny|3464
+B|she really likes all these gory shoot them up films.|sd|3464
+A|Uh-huh.|b|3464
+A|Uh-huh.|b|3464
+B|Keep her on the edge of her seat.|sd|3464
+B|I'll watch them, you know,|sd|3464
+B|they're kind of fun to watch in a way.|sv|3464
+A|Yeah,|aa|3464
+A|they are.|sv|3464
+A|Sometimes you're in the mood for it even.|sv|3464
+B|But, uh, so it, it, it varies,|sd|3464
+B|I don't seem to get, you know, as much variety these days lately as I used to.|sd|3464
+A|Uh-huh.|b|3464
+A|I found when, when I get, when I get with my, uh, old college buddy, we, we usually rent, uh, good gladiator movie or two|sd|3464
+A|Uh, I still enjoy watching those.|sd|3464
+A|You can't just watch them by yourself or else, it's not bearable.|sv|3464
+A|But it's, it's fun to,|sv|3464
+B|Well, yeah,|aa|3464
+B|on the other hand, you know, given that my wife likes those, I, I, say, I occasionally like to watch them|sd|3464
+B|and, and so, uh, you know, so it's, you can always count on her to watch something like that|sd|3464
+B|And she'll even watch things like karate movies and stuff like that. You know, which most, most women now won't,|sd|3464
+A|Oh, yeah?|bh|3464
+A|Yeah,|aa|3464
+A|yeah,|aa|3464
+A|that's, that's, The ones where they dub in, dub in the English.|bf|3464
+B|they won't come within ten feet of, All the, all the ya All the sounds of the karate chops flying through the air|sv|3464
+B|A-cha! .|ba|3464
+A|That's great.|ba|3464
+A|Uh, uh, on foreign films did, uh, did you, did you watch,|qy|3464
+A|are you, uh, fluent in another language|qy|3464
+A|or,|%|3464
+B|I|%|3464
+B|yeah,|ny|3464
+B|I speak several, uh,|sd|3464
+B|but, I, I don't mind watching subtitle movies. Uh,|sd|3464
+A|Oh, you don't?|bh|3464
+B|No,|nn|3464
+B|I, I,|%|3464
+A|I don't either.|sd|3464
+A|I, I feel foolish sometimes because I, I don't speak another language fluently|sd|3464
+A|but I do enjoy watching you know, subtitles.|sd|3464
+B|Yeah.|b|3464
+B|I mean, for some people, that's just, you know, that's out of the question, you know.|sv|3464
+B|You give it subtitles, they won't watch,|sv|3464

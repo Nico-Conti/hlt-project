@@ -1,0 +1,139 @@
+A|Okay, Ron.|fo_o_fw_"_by_bc|3852|0
+B|Okay.|fo_o_fw_"_by_bc|3852|1
+A|Welcome to the net|fp|3852|0
+A|and, uh, what did you do about your last auto repair,|qw|3852|0
+A|oh, and might you say what kind of cars you have and so forth.|ad|3852|0
+B|Well, Larry, my last one, unfortunately, was a, an expensive one because I had a brand new Lincoln Town Car|sd|3852|1
+B|and and a couple of ladies ran a stop light,|sd|3852|1
+A|Um.|%|3852|0
+B|the lights weren't working properly,|sd|3852|1
+B|it wasn't their fault,|sd|3852|1
+B|but we, they didn't run it.|sd|3852|1
+B|We both had green,|sd|3852|1
+B|and she hit me and did about eleven thousand dollars worth of damage to my car,|sd|3852|1
+B|so.|%|3852|1
+A|My goodness gracious that's,|ba|3852|0
+B|That was a huge repair bill.|sd|3852|1
+A|Well, that's still not enough for a total, is it.|qy|3852|0
+B|I know,|ng|3852|1
+B|I hated that.|sd|3852|1
+A|It's a very expensive automobile.|sd|3852|0
+B|So it wasn't enough to total it,|sd|3852|1
+B|but that's my, that's been my most, uh, expensive repair probably in the last year, with the except of just service work, because I buy a new car every two years|sd|3852|1
+B|and,|%|3852|1
+A|Oh, and do you buy one every two years?|qy|3852|0
+B|Well, I travel a lot,|arp_nd|3852|1
+B|so you know, uh, this last one I leased,|sd|3852|1
+A|Uh-huh.|b|3852|0
+B|so I don't know,|no|3852|1
+B|and I leased it on a twenty-four month program.|sd|3852|1
+B|First time I've ever done that.|sd|3852|1
+B|But I'll probably go back to buying them, because I don't care to lease them|sd|3852|1
+A|Did this car have one of these expanding balloons,|qy|3852|0
+A|or just are there normal safety belts in it, that you had.|qrr|3852|0
+B|No,|nn|3852|1
+B|it has the expanding balloons.|sd|3852|1
+A|Did that help you?|qy|3852|0
+B|Uh, it,|%|3852|1
+B|they didn't go off.|sd|3852|1
+A|They didn't go off.|qy^d|3852|0
+B|No,|nn|3852|1
+B|I guess we weren't going,|sd|3852|1
+B|that sort of upset me,|sd|3852|1
+B|we weren't going fast enough|sd|3852|1
+B|when I called the dealership about it and called Ford Motor about it,|sd|3852|1
+B|but, no, sir,|ng|3852|1
+B|didn't go off, uh,|sd|3852|1
+B|we were|%|3852|1
+B|it was a bad, rainy, dark, dreary day,|sd|3852|1
+B|and, and the street lights.|sd|3852|1
+A|But you were hit in the side, weren't you?|qy|3852|0
+B|Yes.|ny|3852|1
+A|That may be the problem.|sd|3852|0
+A|You, you may, you may need to be hit from something the, leaning towards the forward to activate it.|sd|3852|0
+B|Yes.|b|3852|1
+B|Took off my whole front fender and hood and everything.|sd|3852|1
+B|I tell you, just took it all off.|sd|3852|1
+A|My goodness.|ba|3852|0
+B|It was uh, uh,|sd|3852|1
+B|my doors were okay front and back|sd|3852|1
+A|Uh-huh.|b|3852|0
+B|but it did, uh, right eleven thousand dollars in damage.|sd|3852|1
+B|It was a|sd|3852|1
+B|then I get it back and two weeks after that, I'm driving it in front of the local high school, and some young man just wasn't paying any attention and runs in the back of me.|sd|3852|1
+B|That's another twelve hundred dollars worth of damage|sd|3852|1
+A|My goodness.|ba|3852|0
+B|So, I'm going to get,|%|3852|1
+B|when my twenty-four months is up on this car, I'm getting rid of this car.|sd|3852|1
+A|I would think so|ba|3852|0
+A|This doesn't sound like you've got very good luck with that one.|sv|3852|0
+B|My golly.|ba|3852|1
+B|How about you, Larry?|qo|3852|1
+A|Well, I'm relatively fortunate about that.|sd|3852|0
+A|Uh, here we, somehow, don't have many people run into us, although at the beginning of each school season, uh, students move into town who are from big cities,|sd|3852|0
+A|and they sort of drive kind of wild for about two, three weeks, then they finally settle down and,  realize that they don't have to drive that way here.|sd|3852|0
+B|I understand.|ba|3852|1
+A|And, now that takes the strain out, off of everyone that, uh, is driving a vehicle,|sd|3852|0
+A|and I find that the most of the repairs I have to do here is body damage due to the salt that we have to put on the road to, uh, take care of us in the winter time.|sd|3852|0
+B|I understand.|ba|3852|1
+A|Uh, I have a sixty-nine cougar and a seventy-seven pontiac, so forth,|sd|3852|0
+A|and I have to,|%|3852|0
+A|and I drive a Honda most of the time,|sd|3852|0
+A|and like hand over the telephone I have to make sure that, uh, salt and so forth are kept off of it,|sd|3852|0
+A|and once in a while we have to replace some of the plates in the bottom of it because it's rusted away.|sd|3852|0
+B|Sure.|b|3852|1
+B|I understand that because I'm from West Virginia,|sd|3852|1
+B|and we had the same thing up there continuously salting the roads for snow.|sd|3852|1
+A|Uh-huh.|b|3852|0
+A|Well, I just, I I had this Cougar totally, uh, the body of it, totally rebuilt, uh, to get some of the rusts that were in the fenders uh, done, and then it all repainted,|sd|3852|0
+A|and then winter got here|sd|3852|0
+A|and so I put the cover over it then to keep the ice and snow off,|sd|3852|0
+A|like hand over the telephone so I haven't had a chance to drive it very much|sd|3852|0
+A|But, anyhow, uh, now, are you going to buy this next car|qy|3852|0
+A|or you going rent it, lease it again?|qrr|3852|0
+B|No,|nn|3852|1
+B|I'm going to, I'm going to buy it, Larry,|sd|3852|1
+B|I don't like the rental,|sd|3852|1
+B|I think, I'm getting ready to retire myself,|sd|3852|1
+B|and I'm going to, I'm going to be, you know, driving a car for longer,|sd|3852|1
+A|Are you?|bh|3852|0
+B|so, I usually drive a car for three years,|sd|3852|1
+B|and and anyway, and so, but last couple of cars I've only driven for two years,|sd|3852|1
+A|Uh-huh.|b|3852|0
+B|and so I'd leased this one for two years.|sd|3852|1
+B|So I'll probably go back and buy one,|sd|3852|1
+B|and, uh, this next car will probably be my retirement car.|sd|3852|1
+A|Well, that's an awfully big one, that, uh, that one that you had, that Lincoln, uh,|sd|3852|0
+A|isn't it too large for normal town driving, finding parking places  and getting in and out the doors?|qy|3852|0
+B|Well, no sir.|ng|3852|1
+B|Not really,|ng|3852|1
+B|not really|ng|3852|1
+A|Uh-huh.|b|3852|0
+B|uh, no problem at all.|sd|3852|1
+B|My wife and daughter,|sd|3852|1
+B|we have, uh, two Toyotas in the family, one Nissan,|sd|3852|1
+B|and then we have the Lincoln|sd|3852|1
+B|and the|%|3852|1
+B|not really,|ng|3852|1
+B|no problem there at all as as far as finding parking places,|ng|3852|1
+B|it's it's convenient in that, in that regard.|sd|3852|1
+A|Well, that certainly would be a wonderful, comfortable machine to take on long trips|sv|3852|0
+B|Yes,|aa|3852|1
+B|it is.|sd|3852|1
+B|And I and I travel,|sd|3852|1
+A|I'm, I'm very much aware of that.|sd|3852|0
+B|I'm like a traveling salesman,|sd|3852|1
+B|don't travel a lot any more,|sd|3852|1
+B|but, uh, when I do take it, it is very comfortable to drive.|sd|3852|1
+A|Yes,|aa|3852|0
+A|I'm sure it is, because that's the way that I enjoy this Pontiac that I have.|sd|3852|0
+B|Yes|b|3852|1
+B|it's,|%|3852|1
+A|It only has thirty-eight thousand miles on it,|sd|3852|0
+A|but it's  very quiet and very smooth riding machine.|sd|3852|0
+B|Is that right?|bh|3852|1
+B|Well, my wife's Toyota is soon to be four years old,|sd|3852|1
+B|it only has, doesn't even have thirty thirty thousand miles on it,|sd|3852|1
+B|so, gosh, been much, in such good shape, that'll probably be an eight or ten year car.|sd|3852|1
+A|Uh-huh.|b|3852|0
+A|Do you, do you feel that, uh,|qy|3852|0

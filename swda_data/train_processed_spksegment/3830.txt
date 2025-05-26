@@ -1,0 +1,158 @@
+A|Hello?|fp|3830|0
+B|Hello.|fp|3830|1
+A|How you doing?|fp|3830|0
+B|Fine.|fp|3830|1
+A|I'm Lee with, uh, uh,|sd|3830|0
+A|I'm over here in Plano, Texas.|sd|3830|0
+B|Okay.|b|3830|1
+B|Let me ask you something, can I run a minute and shut my radio off?|qy|3830|1
+A|Oh, sure.|na|3830|0
+B|Okay.|bk|3830|1
+A|Oh.|b|3830|0
+B|Okay.|b|3830|1
+A|Where are you calling from|qw|3830|0
+A|or where are you at?|qw|3830|0
+B|Arlington.|sd|3830|1
+B|Arlington, Texas.|sd|3830|1
+A|Arlington.|b^m|3830|0
+B|Yes.|aa|3830|1
+A|Well, there's a lot of stuff going on in Arlington these days.|sv|3830|0
+B|Yes,|aa|3830|1
+B|not all good stuff.|sv|3830|1
+A|Are you involved in any of that?|qy|3830|0
+B|No.|nn|3830|1
+A|No.|b^m|3830|0
+B|No,|nn|3830|1
+B|I'm not, not personally.|sd|3830|1
+A|Well, uh, what benefits do,|qw|3830|0
+A|now, do you work?|qy|3830|0
+B|I'm going to school right now.|sd|3830|1
+A|Oh, you are?|bh|3830|0
+B|I can tell you about my last job or whatever you want to talk about that or my husband's or what I think.|oo_co_cc|3830|1
+A|Okay.|aa|3830|0
+A|Yeah.|b|3830|0
+B|I've got a lot of,|sd|3830|1
+A|Because I, I work for myself|sd|3830|0
+B|Uh-huh.|b|3830|1
+A|and so, uh, there's a lot that I, that I guess I do miss, uh, a lot of benefits from working for a big corporation.|sv|3830|0
+A|I miss, uh insurance and uh, the steady paychecks that come.|sd|3830|0
+B|Yes.|b|3830|1
+B|Right.|b|3830|1
+B|Yes.|b|3830|1
+A|But, uh,|%|3830|0
+B|Yes,|b|3830|1
+B|I've been in my own business, Mary Kay, in fact,|sd|3830|1
+B|I'm selling in out now to go to school full time|sd|3830|1
+B|and I enjoyed the freedom of having that, you know,|sd|3830|1
+A|Oh, is that right?|bh|3830|0
+B|go to work when I wanted to or not|sd|3830|1
+A|Uh-huh.|b|3830|0
+B|but, you know, the benefits weren't there.|sd|3830|1
+A|Yeah.|b|3830|0
+B|So,|%|3830|1
+A|I, uh, I own part of a roofing company.|sd|3830|0
+B|Oh, do you?|bh|3830|1
+A|In the, in the Dallas, Fort Worth area.|sd|3830|0
+B|Uh-huh.|b|3830|1
+A|And, uh, you know, unfortunately we, we were part of a, of a bigger, bigger company|sd|3830|0
+B|Uh-huh.|b|3830|1
+A|and they, uh, you know, we, we had all the benefits there|sd|3830|0
+A|and, and I do miss that. You know,|sd|3830|0
+B|Yeah.|b|3830|1
+A|but, uh, on the other hand, I, I, uh, I enjoy having the, the time that I have with my family and being able to, you know, work when I want|sd|3830|0
+B|Right.|b|3830|1
+B|Yeah,|b|3830|1
+B|uh-huh.|b|3830|1
+A|and,|%|3830|0
+B|I think today the thing that I, uh, would appreciate the most,|sd|3830|1
+B|uh, because my husband gets, his medical through his company,|sd|3830|1
+B|but we have to pay for mine|sd|3830|1
+A|Uh-huh.|b|3830|0
+B|and we're the only one, I'm the only one that's being insured|sd|3830|1
+B|and and we pay the same amount that someone over there that has four children has, I mean,|sd|3830|1
+A|Oh, is that right?|bh|3830|0
+B|so it's kind of,|sv|3830|1
+A|Yeah.|b|3830|0
+B|And I would,|%|3830|1
+B|I really,|%|3830|1
+B|and the way medical expenses are I think that's probably one of the biggest benefits to you need to have.|sv|3830|1
+A|It's,|%|3830|0
+A|Yeah.|b|3830|0
+A|It, it,|%|3830|0
+A|Yeah,|aa|3830|0
+A|I'll tell you what,|fo_o_fw_"_by_bc|3830|0
+A|that is the single most uh, benefit that I, that I enjoyed, and I do miss|sd|3830|0
+B|Right.|b|3830|1
+A|because I looked into picking up some, uh, medical insurance for my, just for my family, you know, just,|sd|3830|0
+A|and it is unbelievable how much you have to pay for it.|sv|3830|0
+B|It's out of sight.|aa|3830|1
+B|Right,|aa|3830|1
+B|it's out of sight.|aa|3830|1
+A|And, uh, yeah,|b|3830|0
+B|Even at a group rate, I couldn't believe how much is our,|sd|3830|1
+A|Oh, yeah|aa|3830|0
+A|even at a group rate.|aa|3830|0
+A|Uh, it's, it's unbelievable|sv|3830|0
+A|and, uh, the amount that you have to pay for, you know, for kids|sd|3830|0
+A|and, and if you want to add dental to it, I mean, that's  that eats even more.|sd|3830|0
+B|Right,|b|3830|1
+B|it goes up.|^2|3830|1
+B|Right.|b|3830|1
+A|So, yeah,|b|3830|0
+A|I guess what, the other benefits that, uh, that I, uh, that I miss, I guess is, uh, you know, some of the bonuses and stuff that that goes on with just being involved with a big company, you know|sd|3830|0
+B|Uh-huh.|b|3830|1
+A|and course, these days, you can't count on that because|sv|3830|0
+B|Right.|b|3830|1
+A|uh, you know, I feel bad for the people that are involved in that, uh, G M deal there in in Arlington|sd|3830|0
+B|Right.|b|3830|1
+A|and I'm sure it will be, you know, quite a few people are affected by that|sv|3830|0
+A|so,|%|3830|0
+B|Right,|aa|3830|1
+B|it's going to hurt the city,|sv|3830|1
+B|although, uh, I will personally tell you, I used to work at a bank,|sd|3830|1
+B|and I would see the G M people come in when they were, they would shut down to retool.|sd|3830|1
+A|Uh-huh.|b|3830|0
+B|They were paid that whole time|sd|3830|1
+B|and I don't know, if you're aware of this|qy^d|3830|1
+A|Oh, really?|bh|3830|0
+B|Yes,|ny|3830|1
+B|they come in there,|sd|3830|1
+B|just, they go off fishing and stuff and come in and, every Friday, and go to the safety deposit box,|sd|3830|1
+B|and I'm sitting there making a hundred dollars a week, you know|sd|3830|1
+B|and, And they had all these|%|3830|1
+A|Is that right?|bh|3830|0
+B|I, I really believe they have done this to themselves, in a way, because of the unions being so stocked.|sv|3830|1
+A|The union,|b^m|3830|0
+A|yeah.|aa|3830|0
+B|And right now, anybody's that's laid off from G M will have a full year's paycheck.|sd|3830|1
+B|I just read this in the paper the other day.|sd|3830|1
+A|Is that right?|bh|3830|0
+B|Plus probably an additional six months through the, the worker's stuff that they have at, at, uh, through the company|sv|3830|1
+B|so I'm you know, I'm sorry it's happening because it's going to hurt,|sd|3830|1
+A|Yeah.|b|3830|0
+B|but I don't feel as sorry for them,|sd|3830|1
+A|Well|%|3830|0
+B|If my husband  were laid off tomorrow, we'd get one more check|sd|3830|1
+A|really the,|%|3830|0
+B|and that would be it.|sd|3830|1
+A|Yeah,|b|3830|0
+A|really the ones it's going to hurt is, is actually the, the businesses around in that area.|sv|3830|0
+B|Yes.|aa|3830|1
+B|Oh, yeah,|aa|3830|1
+B|that's already hurting.|sd|3830|1
+A|You know, that's the ones that that that's going to hurt because they depend on that, uh,|sv|3830|0
+B|But I think there's a case, where benefits have gotten,|sv|3830|1
+B|they voted them in|sd|3830|1
+B|and they got so good, I mean, like two dollars for a prescription no deductible on the medical, all these things, you know|sd|3830|1
+A|Oh, yeah.|b|3830|0
+A|Yeah.|b|3830|0
+B|and it made the prices of cars go up|sv|3830|1
+B|and and, you know, the,|%|3830|1
+A|Uh-huh.|b|3830|0
+B|I, we, I believe in unions,|sd|3830|1
+B|but they went too far.|sv|3830|1
+A|Well, I'll tell you, I I've had my fill of unions|sd|3830|0
+B|I mean, I can't make eighteen dollars an hour.|sd|3830|1
+A|I,|%|3830|0
+B|I mean, I know someone out here that makes eighteen dollars an hour.|sd|3830|1
+A|Oh, yeah.|b|3830|0

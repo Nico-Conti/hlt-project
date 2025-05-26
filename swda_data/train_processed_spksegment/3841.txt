@@ -1,0 +1,86 @@
+A|our topic today?|qw|3841|0
+B|Uh, yeah,|b|3841|1
+B|something about the school system here.|sd|3841|1
+A|Right,|b|3841|0
+A|and now I'm sort of, don't know if this an advantage or disadvantage.|sd|3841|0
+A|My wife's a school teacher|sd|3841|0
+A|so|%|3841|0
+B|Well, then, I'll, uh, I'll walk softly.|oo_co_cc|3841|1
+A|No.|ar|3841|0
+A|You go right ahead because I,  have a lot of strong opinions on it, too.|ad|3841|0
+A|My wife teaches seventh grade,|sd|3841|0
+A|and, you know, there is a lot of serious things wrong with the school system today and the teaching system.|sv|3841|0
+A|I think the,|sv|3841|0
+A|I don't think the teachers get enough support, quite honestly.|sv|3841|0
+B|Yeah.|b|3841|1
+A|But, uh, for example, my wife, she has kids that are on drugs,|sd|3841|0
+A|and, of course, like everyone, she has kids that get pregnant even, even in the seventh grade.|sd|3841|0
+B|What school system does she teach in?|qw|3841|1
+A|Plano School System.|sd|3841|0
+B|Oh, wow.|ba|3841|1
+A|But to give you an example, uh, you know, one of her kids will come in and he's, you could tell he was just bombed out on drugs,|sd|3841|0
+A|and, uh, she sends him to the principal's office,|sd|3841|0
+A|and the principal sends him right back, or her right back, and says, Hey, your problem, you take care of it.|sd|3841|0
+A|You're not allowed to send them home.|sd|3841|0
+A|You know, if you do that, then your allocation's cut from the state or the feds or whatever,|sd|3841|0
+A|your, your,|%|3841|0
+A|you have to have a certain amount of kids in your class every day,|sd|3841|0
+A|and, it's, it's, it's a numbers game.|sv|3841|0
+A|I don't think that's right, if they're, especially if they're interrupting the class and preventing other kids from learning.|sv|3841|0
+B|Well, I think it's more of a,|arp_nd|3841|1
+B|there's a bigger problem here than, uh, than discipline in the schools.|sv|3841|1
+B|I think it gets back to the, uh, parental participation into the program.|sv|3841|1
+A|Yes.|aa|3841|0
+B|Um, to give you an example, both of my children are in the academy system in the Garland School District,|sd|3841|1
+B|and it's a public system, however, you'd think that it was a private school, because I take it, the best teachers and the best students,|sd|3841|1
+B|they're taking top three percent that have tested out, you know, in the district and, uh, put them in this academy system,|sd|3841|1
+B|and to get into the system's very difficult.|sd|3841|1
+B|But once you're in, uh, they have, they have self-paced programs,|sd|3841|1
+B|and so you have students that want to learn|sv|3841|1
+B|and, uh, you have teachers that want to teach,|sv|3841|1
+B|and you have parents that are really interested in the children,|sv|3841|1
+B|and basically, uh, there's probably some discrimination if you want to say that uh, because most of the people that are in the academy system, uh, are Caucasian, and, because you have to test into the system.|sv|3841|1
+A|Sure.|b|3841|0
+A|Sure.|b|3841|0
+B|And most of,|sv|3841|1
+B|that's not all true,|t1|3841|1
+B|but I'm saying a large percentage of them are,|sv|3841|1
+B|and also the other large percentage is is that all the parents just about, of these kids, uh, have college degrees, at least one parent does.|sd|3841|1
+B|And so there's,|%|3841|1
+B|I think that, uh, that's my justification for saying that the parents that are, that are pushing their children at home, even if they don't know what their children are learning, they're, they're saying do your homework, let me see it, don't get in trouble at school or we're going to be all over you|sv|3841|1
+A|Oh, yeah.|b|3841|0
+A|My son had such a tough time in, uh, the school he went to|sd|3841|0
+A|but, there was through,|sd|3841|0
+A|it wasn't all the school's fault,|sd|3841|0
+A|it was his fault also,|sd|3841|0
+A|but we put him in a private school in Richardson,|sd|3841|0
+A|and that, that cost more,|sd|3841|0
+A|that was five thousand dollars a semester for three semesters,|sd|3841|0
+A|that was more than his college tuition was|sd|3841|0
+B|Yeah|b|3841|1
+A|but, uh, it had to be done,|sd|3841|0
+A|at least it took care of him and, uh, threw him in a good learning situation where he did participate and, uh, want to learn something.|sd|3841|0
+A|But I'll tell you what, there's a, there, there are a few faults, to say the least, in the school systems today.|sv|3841|0
+B|Yeah.|b|3841|1
+B|I think what we've done is, um, um, especially looking at, um, the South Dallas area, is that we're trying to bring the education level down to the lowest level so that the lowest level can succeed.|sv|3841|1
+A|Yeah,|b|3841|0
+A|I think we have that problem dealing in most areas, which is unfortunate.|sv|3841|0
+B|And, um, that also probably crosses over into business, because now, businesses also say that if you're not, don't have the proper education, uh, including, uh, exposure to high tech fields such as computer technology, if you can't use a computer today and do word processing and do, uh, data base management and do, I forget all the other stuff, financial management and all this other kind of stuff in your regular job, uh, you can't function you know.|sv|3841|1
+A|You bet.|aa|3841|0
+A|You bet.|aa|3841|0
+B|So I think that the school system proliferates over to the business world|sv|3841|1
+B|and the business world then says, we're not going to pay you, unless you have the education,|sv|3841|1
+B|and then|%|3841|1
+B|and then, then we, what we've done is caused a big problem that proliferates itself.|sv|3841|1
+A|Sure.|b|3841|0
+A|Well, teachers, you know, they have a, a tough row to hoe, so to speak, they just, always fighting the system.|sv|3841|0
+A|I don't know if it's better than any,|sd|3841|0
+A|you know, we came down to Texas from the, uh, New York area,|sd|3841|0
+A|we were there for a short time,|sd|3841|0
+A|but my wife is from New York,|sd|3841|0
+A|and she was born and raised there, and educated there, college and everything,|sd|3841|0
+A|and I think, you know, the schools in the east are really a whole lot better than the schools in the south, I don't care where you're from.|sv|3841|0
+A|And they, they,|%|3841|0
+A|I don't know if they learn more,|sd|3841|0
+A|but they certainly, uh, they have a tendency to learn more,|sv|3841|0
+A|and in that part of the country there is all nationalities,|sd|3841|0

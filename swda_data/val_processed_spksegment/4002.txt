@@ -1,0 +1,104 @@
+B|Okay|fo_o_fw_"_by_bc|4002|0
+A|Okay|b^m|4002|1
+B|Have you done this very long?|qy|4002|0
+A|Uh, well, yeah,|ny|4002|1
+A|for the last, uh, couple of months.|sd|4002|1
+B|Yeah,|b|4002|0
+B|that's the same with us.|sd|4002|0
+A|Yeah.|b|4002|1
+B|Well, what kind of car would you buy?|qw|4002|0
+A|Well, it's kind of hard to say,|^h|4002|1
+A|uh, because I don't think we're going to buy another car for about three years.|sd|4002|1
+A|We just bought, uh, a car, uh, last year and then bought one in eighty-nine|sd|4002|1
+B|Oh, okay.|bk|4002|0
+A|and, uh,|%|4002|1
+A|wait a minute,|^h|4002|1
+A|we bought one in ninety.|sd|4002|1
+A|We've got three cars, of all things.|sd|4002|1
+B|Uh-huh.|b|4002|0
+A|So, uh, probably we'll be in at least a midsize, four door sedan.|sd|4002|1
+B|Okay.|b|4002|0
+B|What kind do you have now?|qw|4002|0
+A|Uh, we have a, a Mazda nine twenty nine and a Ford Crown Victoria and a little two seater C R X.|sd|4002|1
+B|Oh, okay.|bk|4002|0
+A|Uh, it's rather difficult to, to project what kind of, uh,|sv|4002|1
+A|we'd, look, always look into, uh, consumer reports to see what kind of, uh, report, or, uh, repair records that the various cars have|sd|4002|1
+B|Uh-huh.|b|4002|0
+A|and then, of course, we look into the prices.|sd|4002|1
+B|Yeah.|b|4002|0
+A|And, uh, uh, we're not adverse to buying along in the summer when, when the cars could get to be discounted|sd|4002|1
+A|because we keep, we've begun to keep them, uh, a longer period of time.|sd|4002|1
+A|Uh, I traded off an eighty-two Oldsmobile for the eighty-nine Mazda.|sd|4002|1
+B|Oh, uh-huh.|b|4002|0
+A|So, uh,|%|4002|1
+B|And did you find that you like the foreign cars better than the domestic?|qy|4002|0
+A|Uh, yeah,|ny|4002|1
+A|yeah.|ny|4002|1
+A|We, we've had thirty some odd cars in our married life,|sd|4002|1
+A|and, uh, we, we've had a good many foreign cars.|sd|4002|1
+B|Uh-huh.|b|4002|0
+A|And, uh, they, they, uh,|%|4002|1
+A|I've been extremely,|sd|4002|1
+A|we've had three Mazdas.|sd|4002|1
+A|We've been extremely pleased with our Mazdas.|sd|4002|1
+B|Oh, really?|bh|4002|0
+A|Yeah.|ny|4002|1
+B|We've always bought American made cars, mostly Oldsmobiles.|sd|4002|0
+A|Yeah,|b|4002|1
+A|well, we, we've had, uh,|%|4002|1
+A|let's see,|^h|4002|1
+A|we had, uh, we had a, uh,|sd|4002|1
+A|let me think.|^h|4002|1
+A|ause We had a fifty-three|sd|4002|1
+A|and a, uh, we had, uh, two fifty-threes which is a long thirty minute story|sd|4002|1
+A|Uh, and we had a sixty-five|sd|4002|1
+A|and then we had this eighty-two.|sd|4002|1
+B|Uh-huh.|b|4002|0
+A|So we, we really can't complain about Oldsmobiles, really.|sd|4002|1
+B|Yeah,|b|4002|0
+B|we've been real pleased with ours.|sd|4002|0
+B|I think we've had, one, two, three|sd|4002|0
+A|Yeah.|b|4002|1
+B|and most,|%|4002|0
+B|we have a Cutlass, we still have a Cutlass Supreme which is like, a seventy-seven.|sd|4002|0
+A|Uh-huh.|b|4002|1
+B|Then we have a Cutlass Sierra|sd|4002|0
+B|and we've had the ninety-eight.|sd|4002|0
+A|Uh-huh.|b|4002|1
+B|So,|%|4002|0
+B|but I don't know,|h|4002|0
+B|we'll, we're going to be in the market for a car, probably in the next year|sd|4002|0
+B|and the financing is always something we consider, you know, the four percent or when they give good financing through the, the motor company.|sd|4002|0
+A|Uh-huh.|b|4002|1
+A|Uh-huh.|b|4002|1
+B|But, I don't know what we're going to buy.|sd|4002|0
+B|I always thought I would like to try a foreign made car,|sv|4002|0
+B|but, boy, with all the auto workers being laid off, makes me feel guilty|sd|4002|0
+A|Well|b|4002|1
+B|So,|%|4002|0
+A|uh, my son over in Shreveport, uh, sold Porsches, Audis, Mazdas and Volkswagons for ten years|sd|4002|1
+A|and that was one of the deciding factors in getting the Mazdas.|sd|4002|1
+B|Oh.|b|4002|0
+A|Uh, so, uh, the first foreign car that we had was a, a seventy-seven M G, M G B|sd|4002|1
+B|Oh the,|%|4002|0
+A|Was British racing green, with real wire wheels and a hard top and a soft top.|sd|4002|1
+B|Ooh, boy.|ba|4002|0
+A|And, uh, I drove it mostly.|sd|4002|1
+B|I'll bet it was hard to part with that.|sv|4002|0
+A|And,|%|4002|1
+A|Yeah,|aa|4002|1
+A|it really was.|aa|4002|1
+A|My husband was in the Air Force|sd|4002|1
+A|and we got transferred to Okinawa.|sd|4002|1
+B|Oh.|b|4002|0
+A|So, uh, we had to sell it.|sd|4002|1
+A|which really tore me up|sd|4002|1
+B|Oh, yeah.|b|4002|0
+A|Because, uh, it, it it was great fun.|sv|4002|1
+A|And then, uh, when we got to Okinawa, well, we bought a second hand,|sd|4002|1
+A|we, uh, we decided that, uh,|sd|4002|1
+A|we had this, uh, sixty-five Oldsmobile|sd|4002|1
+A|and it, and it was just too big,|sd|4002|1
+A|so we, we sold it to a fellow who was coming back to the States|sd|4002|1
+A|and we got a little Fiat, uh, and a, and the little, uh, forty horse power Mazda, four door sedan.|sd|4002|1
+B|Oh.|b|4002|0

@@ -1,0 +1,242 @@
+A|Okay,|fo_o_fw_"_by_bc|3039
+A|we can start.|ad|3039
+B|Okay.|aa|3039
+B|Hi.|fp|3039
+A|Hi.|fp|3039
+B|How many children do you have?|qw|3039
+A|I have four.|sd|3039
+B|Oh, four,|b^m|3039
+B|okay,|bk|3039
+B|okay.|bk|3039
+A|How many do you have?|qw|3039
+B|Well, I have two children and, uh, two stepdaughters.|sd|3039
+A|Okay.|bk|3039
+B|So we have four altogether, too.|sd|3039
+A|Okay.|bk|3039
+B|Yeah.|b|3039
+B|Are you, are you running ragged these days?|qy|3039
+A|Well, no,|nn|3039
+A|because mine are all grown|sd|3039
+B|Oh, they are.|b|3039
+B|Oh|b|3039
+A|So the topic for me,|sd|3039
+A|I, I can only relate now to my grandchildren.|sd|3039
+B|Oh, well good.|ba|3039
+A|I do keep my,|sd|3039
+B|Impart me some wisdom, Catherine|ad|3039
+A|Uh, I do take care of my youngest granddaughter, uh, most every Saturday.|sd|3039
+A|Uh, my daughter and her husband work Saturdays.|sd|3039
+A|My daughter is, uh, uh, doing a schedule of, uh, twenty-four hours on the weekend,|sd|3039
+A|but she gets paid for forty.|sd|3039
+B|Uh-huh.|b|3039
+A|And Dave is, uh, in supervisory work|sd|3039
+A|and he has to work almost every Saturday|sd|3039
+A|so,|%|3039
+B|Uh-huh.|b|3039
+A|Uh,|%|3039
+B|How old is your granddaughter?|qw|3039
+A|She's three.|sd|3039
+B|Oh, so she's a little one.|bf|3039
+A|Yes.|aa|3039
+B|Yeah.|b|3039
+A|She's, she's little|sd|3039
+B|Yeah,|b|3039
+B|yeah.|b|3039
+A|She's says how are you doing grandma today.|sd|3039
+B|Oh|b|3039
+A|Whoa|ba|3039
+B|Are you surviving.|qy|3039
+B|Is she your oldest child?|qy|3039
+A|Oh, no,|nn|3039
+A|no,|nn|3039
+A|no.|nn|3039
+A|No,|nn|3039
+A|she's my baby.|sd|3039
+B|Oh.|b|3039
+A|She's my baby,|sd|3039
+A|yeah.|%|3039
+B|Oh.|b|3039
+A|She was a miracle baby.|sd|3039
+B|Was she?|bh|3039
+A|Yeah,|ny|3039
+A|she really was.|sd|3039
+B|Yeah.|b|3039
+A|Uh-huh.|b|3039
+B|Oh.|b|3039
+A|Yeah.|b|3039
+B|Oh, that's nice.|ba|3039
+B|Now do your other grandchildren live in the Dallas area?|qy|3039
+A|Yes,|ny|3039
+A|they do,|na|3039
+A|uh-huh.|ny|3039
+B|Do you get to see them?|qy|3039
+A|They really do,|sd|3039
+A|uh-huh.|ny|3039
+B|How nice.|ba|3039
+B|What a treat.|ba|3039
+B|You know, being from Plano, you know, I know so very few people who have extended family in town.|sd|3039
+B|I'm real jealous when I hear that somebody has a grandma around because we don't,|sd|3039
+A|Oh|b|3039
+A|yeah,|b|3039
+A|that's really,|ba|3039
+B|and,|%|3039
+A|that's really wonderful.|ba|3039
+B|It is,|aa|3039
+B|it is.|aa|3039
+A|Yeah.|b|3039
+B|And, you know, just so that they get to know their grandparents, but also for help|sd|3039
+A|Yeah.|b|3039
+B|We don't, we don't have that luxury.|sd|3039
+B|But, we have lots of friends,|sd|3039
+B|and, and everybody tends to be in the same boat.|sd|3039
+B|So we, we trade off a whole lot with friends and, you know, run here and run there.|sd|3039
+B|We're right smack dab in the middle of baseball season right now.|sd|3039
+B|And we have three playing baseball.|sd|3039
+A|Oh, that's marvelous.|ba|3039
+B|So|%|3039
+A|Well they keep you hopping, I'm sure.|sv|3039
+B|They definitely do.|aa|3039
+A|Well, I know, uh, that, uh, one of the ladies I know, they are very involved with their little girl|sd|3039
+A|and, and I think it's excellent because she's getting qualified quality time for, uh, her musical, uh, talents her sports abilities|sv|3039
+B|Uh-huh.|b|3039
+B|Uh-huh.|b|3039
+B|Uh-huh.|b|3039
+A|and, uh, I think because she is, uh, the only child that they concentrate, uh, they would like to have more,|sd|3039
+A|but that hasn't been, uh, possible.|sd|3039
+B|Uh-huh,|b|3039
+B|uh-huh.|b|3039
+A|And, uh, she's tried many, uh, avenues|sd|3039
+B|Yeah.|b|3039
+A|and, and so now it's just, you know, that she's kind of resolved herself that, yes, this is going to be the only one|sd|3039
+B|Yeah,|aa|3039
+B|and she devotes,|bf|3039
+B|yeah.|aa|3039
+A|And they're focusing on all of her, uh, welfare.|sd|3039
+B|Uh-huh,|b|3039
+B|uh-huh.|b|3039
+B|Yeah,|b|3039
+B|well, our kids, you know,|sd|3039
+B|uh, my daughter uh, sings with Younger Generation, I don't know if you've ever heard of them.|sd|3039
+B|There they're a singing group here in Plano.|sd|3039
+A|Oh, okay.|bk|3039
+B|And they're part of the uh, Plano Children's Civics, Civic Chorus.|sd|3039
+A|Uh-huh.|b|3039
+B|And they're going to Washington, D. C. next December Uh, to sing for President Bush at the White House at Christmas time.|sd|3039
+A|Oh, how wonderful.|ba|3039
+B|Isn't that neat?|qy|3039
+B|Yeah,|%|3039
+B|so, So we have been really up to our eye balls in fund raising and trying to get, uh,|sd|3039
+A|That's wonderful.|ba|3039
+A|Well, that's wonderful.|ba|3039
+B|Yeah,|aa|3039
+B|it is.|sd|3039
+B|It is.|sd|3039
+B|So, you know, and then she plays softball|sd|3039
+B|and my son plays baseball|sd|3039
+B|and my stepdaughter plays softball|sd|3039
+B|so we, we tend to do a lot of running.|sd|3039
+B|Things are very different nowadays than when I grew up|sv|3039
+A|Oh, they are.|aa|3039
+B|and I'm sure when your children grew up you didn't, you know,|sv|3039
+B|I don't remember doing all these things.|sd|3039
+A|No.|aa|3039
+B|I certainly don't remember my parents running me here and there and supporting me in all these things,|sd|3039
+B|but we had more, I guess family time alone where we did nothing. Which was good.|sd|3039
+A|Yeah,|aa|3039
+A|you're,|%|3039
+A|Now I think everything is doing, doing, doing, out of the house. Which can be very hectic.|sv|3039
+B|Yeah,|aa|3039
+B|yeah.|aa|3039
+B|It can be|aa|3039
+B|and, and sometimes I, you know, I kind of long for the good old days when we didn't do all these running.|sd|3039
+A|Yeah,|aa|3039
+A|it wasn't so|bf|3039
+B|But on the other hand, we just love watching the kids play and getting to know the other parents|sd|3039
+B|and we've had a lot of fun with that, too.|sd|3039
+A|Uh-huh.|b|3039
+A|You have to look on that, on the, uh, positive side of that.|sv|3039
+B|It's just different.|sv|3039
+A|Yes,|aa|3039
+A|it is.|sd|3039
+B|Yeah.|b|3039
+A|It's just a different lifestyle.|bf|3039
+B|It's just very different.|b^m|3039
+A|Yes.|aa|3039
+B|Yeah.|b|3039
+A|Uh,|%|3039
+B|Yeah.|b|3039
+A|My, uh, second grandson is in A Cappella|sd|3039
+A|and I know what you're talking about when he's involved, you know, the children are involved in that,|sd|3039
+B|Uh-huh.|b|3039
+A|and he's been,|sd|3039
+A|he has traveled|sd|3039
+A|and they have won awards,|sd|3039
+A|so I|%|3039
+B|Oh, really.|bh|3039
+B|Yeah.|b|3039
+A|Uh-huh.|b|3039
+A|And, I know where you're coming from|ba|3039
+B|Yeah.|b|3039
+A|and it's, it's very nice.|sv|3039
+B|It is very nice.|aa|3039
+A|I think, uh, uh, those type of children, uh, that are involved in things like that, their, uh, goals are going to be set higher than the average child that are not participating in things.|sv|3039
+B|Well, I think so,|aa|3039
+B|and, and I think they've learned a whole lot about being part of a team, whether the team is your singing group, your band, your your sports team you know, you all have to pull together.|sv|3039
+A|Right.|aa|3039
+A|Going to,|%|3039
+A|Yeah.|b|3039
+B|And, uh,|%|3039
+A|A, a, a team effort,|bf|3039
+A|yes.|%|3039
+B|Yeah,|aa|3039
+B|and so I've been real pleased with that, too.|sd|3039
+B|I think they've learned some real good life skills. Uh, you know, being involved in all those things.|sd|3039
+A|That, That's wonderful.|ba|3039
+B|And, uh,|%|3039
+A|That's really is nice to have in your background, that, you know, then you can, you're, you can be very flexible.|sv|3039
+B|Yeah.|b|3039
+B|Uh-huh.|b|3039
+A|And, uh, there's less, uh, friction involved in relationships when you add that skill of teamwork.|sv|3039
+B|Uh-huh.|b|3039
+B|Uh-huh.|b|3039
+A|And, uh, I mean a lot of people that are adults are having to go back and learn those basics when our children are already learning that.|sv|3039
+B|Yes,|aa|3039
+B|yes.|aa|3039
+A|And I think it's a step, a, a giant step of progress, I really do.|sv|3039
+B|Uh-huh,|aa|3039
+B|uh-huh.|aa|3039
+A|So, uh, I,|%|3039
+B|Give me some wonderful advice Catherine.|ad|3039
+B|What is the best advice of mothering that you know?|qw|3039
+A|The best of, Well, uh, Cathy, I think if you look to the Word of God and, uh, think on the things that are pure and lovely|sv|3039
+B|Besides don't sweat the small stuff|sd|3039
+B|Uh-huh.|b|3039
+B|Oh, that's good, that's real good advice.|sv|3039
+A|and, uh, keep your mind off of negative things.|ad|3039
+B|Uh-huh.|b|3039
+A|And keep your mind on positive things|ad|3039
+A|and, and stress that to your children.|ad|3039
+B|Uh-huh.|b|3039
+A|And, uh, even if they're, even if they're discouraged, tell them that that's just a passing moment and to dwell on those things that are, uh, not negative and that are positive things in their life|ad|3039
+B|Uh-huh.|b|3039
+B|Uh-huh.|b|3039
+A|and, I think you'll see a lot of growth in, uh, in their ability to, uh, control their thought pattern|sv|3039
+A|and, and when you employ the Word of God there's nothing as powerful as the Word of God.|sv|3039
+B|Absolutely.|aa|3039
+B|Well, I would agree with that.|aa|3039
+B|We're also real active in our church|sd|3039
+B|and my kids do an awful lot with that.|sd|3039
+B|Allyson sings in the choir.|sd|3039
+B|I told her that's a gift from God|sd|3039
+B|and you need to return that back.|^q|3039
+A|Oh, absolutely.|aa|3039
+A|That's right.|aa|3039
+B|And you owe, you owe that back to God because he's given you that ability and that talent|^q|3039
+A|Uh-huh|b|3039
+B|and and that's real nice.|sv|3039
+A|Right.|aa|3039
+B|I'm real proud of her.|sd|3039
+B|I'm equally proud of her when I see her in church as I am when I see her performing.|sd|3039
+B|You know, that's, that's real neat.|sd|3039
+A|Well, if she looks, if she looks at it as you suggest that, that that's, that she can give her, her talent back to the Lord for His glory and she can look at it that way and, and, uh, that's ...|sv|3039
+B|Uh-huh.|b|3039

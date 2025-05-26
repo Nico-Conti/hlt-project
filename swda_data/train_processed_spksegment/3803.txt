@@ -1,0 +1,103 @@
+A|Hi.|fp|3803|0
+A|What do you think about gun control?|qw|3803|0
+B|Well, uh, sort of mixed feelings about it, I guess, uh, uh,|sd|3803|1
+B|I, I I lean more towards the control side than, than towards, you know, just the, the free, free army.|sv|3803|1
+B|Uh, on the other hand I, it's, it's sort of an issue of, of uh,|sd|3803|1
+B|I'm not, I'm not a great fan of, of government control in general|sd|3803|1
+B|and so it's, it's kind of a tough issue.|sd|3803|1
+B|What about yourself?|qo|3803|1
+A|Well, I guess that I would like to, to say that perhaps someplace in the middle where people could somehow qualify or, uh, have a legitimate use for the, the, the weapon I suppose because also, living in this area, the, the problems in D C come home very quickly.|sv|3803|0
+B|Uh-huh.|b|3803|1
+B|I'm, I'm sure,|ba|3803|1
+B|yeah.|%|3803|1
+B|Uh, so you would take a position where somebody without, without a, uh, uh, specific use,|qy^d|3803|1
+B|in other words, if they just wanted to have a, a gun to have in their home, uh, you wouldn't, you wouldn't like them to be able to do that?|qy|3803|1
+B|Is that,|qy|3803|1
+A|Well, I'm not so sure about that,|no|3803|0
+A|but I think somehow, uh, safety courses|sv|3803|0
+A|or, I don't know whether this could be something that was done in school,|sd|3803|0
+A|but somehow people,|%|3803|0
+A|I'd like to know that the people who had them at least knew what the responsibilities were, whether they followed them or not.|sv|3803|0
+A|but still,|%|3803|0
+B|I, I have, uh, I have the impression that, that the, the majority of the problems that we have with guns are not, are, are probably not from the people that are, are buying them through legitimate channels anyway.|sv|3803|1
+B|Uh, that may be wrong.|h|3803|1
+B|Uh, you know, I mean, certainly there, there are cases of, of, you know, children who find their parents' gun or something and, and shoot a brother or sister or, you know, things like that that need to be definitely avoided|sv|3803|1
+B|and that's, that's certainly within the channels,|sv|3803|1
+B|right.|b|3803|1
+A|Uh-huh.|b|3803|0
+B|But, uh, a lot of the, the crime, I think, that goes on, I, I don't know to what the degree the guns are, are purchased through regular channels or they're illegal guns.|sv|3803|1
+A|Yeah,|b|3803|0
+A|I don't know,|h|3803|0
+A|this morning in our paper, it, there was an article about somebody who had bought three guns in Virginia because all you have to do is get a driver's license,|sd|3803|0
+A|so he went over there and got a driver's license, the same day bought three guns and went up to New York and sold them for, you know, very high markups.|sd|3803|0
+A|Now, in a sense, that's a legal way of getting the guns,|sv|3803|0
+B|Uh-huh.|b|3803|1
+A|but certainly the the purpose is not very legal.|sv|3803|0
+B|Yeah.|b|3803|1
+B|Uh-huh,|b|3803|1
+B|yeah,|%|3803|1
+B|I, I mean, I think, uh, some|%|3803|1
+B|or, I, I don't know if it's been actually been implemented,|sd|3803|1
+B|I think so, uh,|sd|3803|1
+B|or at least there's been talk about doing, uh, you know, like waiting periods and and things like that.|sd|3803|1
+A|Uh-huh.|b|3803|0
+B|Uh, and, and, uh, you know, I, I think stuff like that is perfectly good.|sv|3803|1
+A|Right.|b|3803|0
+B|I don't know,|h|3803|1
+B|I've, you know,|%|3803|1
+B|I, I don't own a gun and, and don't really want one,|sd|3803|1
+B|and I'd just as soon a lot fewer people did.|sv|3803|1
+A|Uh-huh.|b|3803|0
+B|Uh, but on the other hand, you know, uh, like I say, I kind of, kind of against government control in general.|sv|3803|1
+B|Uh,|%|3803|1
+A|Right.|b|3803|0
+A|And I suppose uh, you know, total ban would lead to more illegal weapons.|sv|3803|0
+B|Yeah,|b|3803|1
+B|and I, you know,|%|3803|1
+B|something about banning is that, you know, there, there are so many weapons out there that, that they're not going to disappear anytime soon.|sv|3803|1
+B|Uh, and they're already,|%|3803|1
+B|I know there's a ready market for them, you know,|sd|3803|1
+B|in the|%|3803|1
+B|the stolen, stolen guns can be sold.|sd|3803|1
+B|I mean, the first thing a, a, a burglar will pick up if he can is a gun.|sv|3803|1
+A|Uh-huh,|b|3803|0
+A|uh-huh.|b|3803|0
+B|Right,|b|3803|1
+B|because, uh, because they, they can be so easily sold|sd|3803|1
+B|and, you know, they're, they're,|%|3803|1
+B|I don't know how many millions of guns have been sold in this country,|sd|3803|1
+B|but, uh, it's not like they're going to disappear all of a sudden. Uh, even if you do do a total ban on them.|sv|3803|1
+B|Uh, it's a real tough problem.|sd|3803|1
+A|Right.|b|3803|0
+B|I, I don't know,|h|3803|1
+B|I don't know where I really come down on it.|sd|3803|1
+B|I mean, I, I grew up,|sd|3803|1
+B|my father was a hunter,|sd|3803|1
+B|right,|qy|3803|1
+B|and that's, and that's sort of almost a separate issue.|sv|3803|1
+B|I think we've generally been talking about handguns and that kind of thing,|sv|3803|1
+A|Uh-huh.|ny|3803|0
+B|and,|%|3803|1
+A|But that's true.|aa|3803|0
+A|I mean, some people grew up with guns in the house.|sd|3803|0
+A|We never had any in the house|sd|3803|0
+B|Uh-huh.|b|3803|1
+A|so, to me, the, you know, the first time I saw a gun up close was a pretty scary thing.|sd|3803|0
+A|And I'm not sure that's good either.|b|3803|0
+B|well we, you know, we, I grew up with them.|sd|3803|1
+B|I never really took to hunting.|sd|3803|1
+B|I mean, I did some of it,|sd|3803|1
+B|but, uh, you know, we didn't have any, we never had any handguns or anything like that.|sd|3803|1
+B|We had, you know, had shotguns for, for quail and pheasant hunting and things like that.|sd|3803|1
+A|Uh-huh.|b|3803|0
+B|And, you know, it was a whole different thing|sd|3803|1
+B|and, and gun safety was taken very seriously|sd|3803|1
+B|and it was, you know,|%|3803|1
+B|I mean, before we go hunting, we, we took safety courses, uh, you know,|sd|3803|1
+B|and, and, and it,|%|3803|1
+B|but, you know, that's, that seems to me to be just a whole another issue.|sv|3803|1
+A|Uh-huh.|b|3803|0
+B|Uh, you know, the, the thing,|%|3803|1
+B|the, the,|%|3803|1
+B|yeah,|%|3803|1
+B|I'm not certain that people are, are, are terribly concerned about other people.|sv|3803|1

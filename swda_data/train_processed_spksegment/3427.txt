@@ -1,0 +1,110 @@
+A|Well what kind of car, uh, are you thinking of buying next?|qw|3427|0
+B|Uh, more than likely, it's going to be a Chrysler.|sd|3427|1
+A|You like the Chrysler products, do you?|qy|3427|0
+B|Uh, Chrysler LeBaron,|na|3427|1
+B|yeah.|ny|3427|1
+B|It won't be a Ford.|sd|3427|1
+B|I've got a Ford Mustang now,|sd|3427|1
+B|and I hate it.|sd|3427|1
+A|Do you really?|bh|3427|0
+B|Yeah.|ny|3427|1
+A|What year is it?|qw|3427|0
+B|It's a eighty-eight.|sd|3427|1
+A|And why don't you like the Mustang?|qw|3427|0
+B|It's, um,|%|3427|1
+B|I've had one problem with it after the other.|sd|3427|1
+A|I'll be darned.|ba|3427|0
+B|The the paints peeling off of it, or find them road dead.|sd|3427|1
+A|Well, you know the old sayings about Fords, what they stand for.|fo_o_fw_"_by_bc|3427|0
+A|There you go.|aa|3427|0
+A|Well, uh.|%|3427|0
+B|That, uh,|%|3427|1
+B|I, uh,|%|3427|1
+B|it's,|%|3427|1
+B|my electrical system shorted out like two or three times,|sd|3427|1
+B|and it's been torn up since April,|sd|3427|1
+B|and I, and luckily, everything was under warranty,|sd|3427|1
+B|so it's only costing like a hundred and forty dollars to get it fixed.|sd|3427|1
+B|It would have been like two thousand|sd|3427|1
+A|Well, we've always, uh, we've always had Oldsmobiles, and, uh, been very, uh, happy with Oldsmobiles,|sd|3427|0
+A|but, uh, my wife thought she wanted to get a Ford Mustang|sd|3427|0
+A|and then she kind of changed her mind and thinks her next car ought to be one of those, uh, Mitsubishi Eclipses.|sd|3427|0
+A|She She likes, uh, likes those.|sd|3427|0
+B|Those, those are nice cars.|sv|3427|1
+A|She has a sister that lives in, uh, Phoenix that has one and, uh, really, uh, enjoys it.|sd|3427|0
+A|Well, what, uh, what things do you consider when you buy a car?|qw|3427|0
+B|Um, the gas mileage for one thing,|sd|3427|1
+B|and I've, I've, I've always had like stick shift.|sd|3427|1
+B|I want to, the next car I get I want it to be automatic.|sd|3427|1
+A|I see.|bk|3427|0
+B|I, uh, I, I hate driving anyway,|sd|3427|1
+B|and then, and changing gears at stop lights and stuff is really getting on my nerves now.|sd|3427|1
+A|Yeah,|aa|3427|0
+A|especially when you're in high traffic areas and have to mess with that all the time.|sv|3427|0
+B|Yeah.|b|3427|1
+B|And, you know, when you work nine to five, or eight to five, and you're in rush hour traffic to and from work, unfortunately.|sd|3427|1
+A|That makes it very frustrating.|bf|3427|0
+B|And I look,|sd|3427|1
+B|and one of the things with Chrysler right now is, is their, the warranties that they have,|sd|3427|1
+B|and I, I feel like their,|%|3427|1
+B|everybody I've talked to that owns one, has, has, has been real pleased with it,|sd|3427|1
+B|and I like the, the driver's air bag,|sd|3427|1
+B|I like that.|sd|3427|1
+A|Now this is a LeBaron?|qy^d|3427|0
+B|Uh, yeah,|ny|3427|1
+B|well all Chrysler products has it in there,|sd|3427|1
+B|but LeBaron would be the next car I get,|sd|3427|1
+B|yeah.|%|3427|1
+A|I sure like the, uh, convertible, those rag top LeBarons,|sd|3427|0
+A|they really look sporty.|sv|3427|0
+B|Yeah,|aa|3427|1
+B|yeah,|aa|3427|1
+B|I like, I like that too, huh,|sd|3427|1
+B|but, uh, I, I couldn't afford the insurance on one of those|sd|3427|1
+A|Well, uh, we always,|sd|3427|0
+A|this last Oldsmobile we bought, uh, it's an eighty-seven,|sd|3427|0
+A|but we bought it in eighty-eight, you know, right at the end of the year when they were trying to get rid of them|sd|3427|0
+B|Yeah.|b|3427|1
+A|and, uh, we found that, uh, we found a real good interest rate,|sd|3427|0
+A|you know, when they're trying to get rid of those cars at the end of the year like that, they really come down on their prices|sd|3427|0
+A|and, uh, uh, you know, we looked around at used cars,|sd|3427|0
+A|and we really couldn't, uh, afford the payments on a used car,|sd|3427|0
+A|because, uh, if you go to the bank and try to get a loan, they want to charge twelve, thirteen percent, you know,|sd|3427|0
+A|and we ended up, I think, with like a four and a half percent interest rate on a brand new car, and the payments.|sd|3427|0
+B|Well, that's what I'm paying on mine now.|sd|3427|1
+B|I had to get like a first time,|sd|3427|1
+B|my dad's always cosigned on, on my, my loans, or whatever,|sd|3427|1
+B|and this is one, when I bought,|sd|3427|1
+B|I got my Mustang this time was by myself, because I got on my own, or whatever,|sd|3427|1
+B|and, um, I had said,|sd|3427|1
+B|they, they said it had to be like a first time buyer's car or whatever,|sd|3427|1
+B|and they're charging me unreasonable interest,|sd|3427|1
+B|but I've got eight more payments|sd|3427|1
+B|and it's paid for.|sd|3427|1
+A|Well, that's great.|ba|3427|0
+B|But I got it when, I got it when the eighty-eights first came out,|sd|3427|1
+B|it's a, it's, it's a good car, I mean, I got in eighty-seven, I guess, in like November or something like that,|sd|3427|1
+B|and.|%|3427|1
+A|Uh-huh.|b|3427|0
+A|Well, when our kids were younger we really wanted a two door.|sd|3427|0
+A|Our first car was an Oldsmobile back in seventy-seven.|sd|3427|0
+A|It was a two door Cutlass Supreme,|sd|3427|0
+A|and, uh, it just happened that when we looked for our, our new car, they had a thing going with Oldsmobile|sd|3427|0
+A|and if you'd buy a, a new Oldsmobile they'd give you four hundred rebate, because it was their seventy-fifth anniversary.|sd|3427|0
+B|Uh-huh.|b|3427|1
+A|I|%|3427|0
+A|yeah|b|3427|0
+A|seventy-fifth anniversary.|sd|3427|0
+A|So in addition to everything else we got off the car, all we had to do is show them our, uh, papers on our first car,|sd|3427|0
+A|and they gave us another four hundred dollars off on it.|sd|3427|0
+A|So we, we got a four door this time,|sd|3427|0
+A|and I sort of went more for the, uh, the comfort factor,|sd|3427|0
+A|and, uh, I liked the smaller cars,|sd|3427|0
+A|but I'm a bigger person,|sd|3427|0
+A|and I, I really like comfort, you know, driving along the road and stuff.|sd|3427|0
+B|Well, that's another big factor of mine.|sd|3427|1
+B|Next, next car I get's going to be a four door too. Something with some room.|sd|3427|1
+A|Yeah.|b|3427|0
+B|Because I, uh, my Mustang is, is, is two door with bucket seats,|sd|3427|1
+B|and you buy groceries and stuff like that.|sd|3427|1
+A|And if you try to take anybody, you know, go to the show or go out for supper, and you go as a foursome,|sd|3427|0

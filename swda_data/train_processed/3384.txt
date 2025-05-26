@@ -1,0 +1,195 @@
+A|Okay.|fo_o_fw_"_by_bc|3384
+A|Do you work?|qy|3384
+B|Yes,|ny|3384
+B|I do.|ng|3384
+A|I think that's the main change.|sv|3384
+A|What do you think?|qo|3384
+B|Well, I think that's a big part of it|sv|3384
+B|and I, I think it maybe started because women wanted outside of the home|sv|3384
+B|and,  I almost think with our society and, and inflation and the cost of things it's anymore it's almost couples have to work outside the home.|sv|3384
+A|Right.|aa|3384
+A|That's right.|aa|3384
+B|But, but yeah, I think that's a big change|sv|3384
+B|I'd like to not work.|sd|3384
+B|What about you?|qo|3384
+A|Well, I've worked all the time up until just about a year ago.|sd|3384
+B|Yeah.|b|3384
+A|And I just,|%|3384
+A|physically I wasn't able to|sd|3384
+A|and I mean, I love my job.|sd|3384
+B|Uh-huh.|b|3384
+A|But I have four children,|sd|3384
+A|and that's real hard.|sd|3384
+A|You have children?|qy^d|3384
+A|I assume so.|qy^d|3384
+B|Yes.|ny|3384
+B|I have two|sd|3384
+B|and that's been a big deciding factor because I mean I never wanted to be a career woman,|sd|3384
+A|Right.|b|3384
+B|but as long as I you know, was going to work I was going to do as, as much as I could,  as well as I could et cetera.|sd|3384
+A|Right.|b|3384
+A|Right.|b|3384
+B|And I, I wanted to stay home when I had kids.|sd|3384
+B|Well, I have two.|sd|3384
+B|I have a four year old and a three year old.|sd|3384
+A|Oh.|b|3384
+B|And we would like two more|sd|3384
+B|but I,|%|3384
+B|it's like, we talked. Uh, I don't want two more unless I can quit and stay home and take care,  of them which is,   something right now financially it takes both people to work.|sd|3384
+A|Right.|b|3384
+A|Oh.|b|3384
+A|It's real hard.|bf|3384
+B|Yeah.|aa|3384
+A|It's real hard.|bf|3384
+A|I mean even I,|sd|3384
+B|It's full time work.|sd|3384
+A|Yeah.|b|3384
+A|It was so hard for me to work full time.|sd|3384
+B|Uh-huh.|b|3384
+A|Of course, my kids are, are a little older|sd|3384
+A|but then you, then you give up the money.|sd|3384
+B|Yeah.|b|3384
+A|You know?|qy|3384
+B|You do there's|%|3384
+B|of course, you know, everything you give up something|sv|3384
+B|but I just,|%|3384
+B|I,|%|3384
+B|the kids are so wonderful|sd|3384
+A|Yeah.|b|3384
+A|.|%|3384
+B|But I do think that's one of the major changes. You know,|sv|3384
+B|my mama I remember her being home uh,  you know, she made breakfast in the morning for us.|sd|3384
+A|Yep.|b|3384
+A|Fine .|fo_o_fw_"_by_bc|3384
+A|Yep.|aa|3384
+A|I know.|sd|3384
+B|And if she worked it was part time|sd|3384
+B|and it was work that was done while we were maybe at school,|sd|3384
+B|and she was there when we got home.|sd|3384
+A|Yeah.|b|3384
+B|You know, and,|%|3384
+A|Well, I've decided now in fact, I'm just, I'm substitute teachers aid which is a, afar cry from my travel agent career,  which I loved.|sd|3384
+B|Uh-huh.|b|3384
+A|But I'm, I'm there in the same school as my children, my two littler ones.|sd|3384
+B|Uh-huh.|b|3384
+A|And I'm home when they are home.|sd|3384
+A|In fact, I've had an offer to just work the Christmas season at a local jewelry store,|sd|3384
+A|and I'm just really hesitating,  because I've, I enjoyed my, the first summer home ever,  so like seventeen years with my kids.|sd|3384
+B|Yeah.|b|3384
+B|Oh.|b|3384
+B|Oh.|b|3384
+A|I mean, well, I didn't have babies or day care or working as a travel agent|sd|3384
+A|and it was wonderful.|sd|3384
+B|Yeah.|b|3384
+A|My kids and I, we just had a ball.|sd|3384
+B|See,|%|3384
+B|and I think,|sv|3384
+A|Of course, their, their ages, they are almost seventeen well, sixteen, fourteen, eleven, and nine|sd|3384
+B|Oh.|b|3384
+B|Oh.|b|3384
+A|and we are just running every direction|sd|3384
+A|and,|%|3384
+B|But see, it's such an important time to be home. You know.|sv|3384
+A|It is.|aa|3384
+B|And that,  was important to me enough,|sd|3384
+A|It is.|aa|3384
+B|you know, my husband was raised, uh,|sd|3384
+B|his, his parents were divorced when he was young so his mom always worked,|sd|3384
+A|Always worked.|b^m|3384
+B|and he's like well, you know, what's the big deal about being home,  for your kids.|sd|3384
+A|What, yeah.|b^m|3384
+B|Well, as our kids are getting older, you know, he sees it more.|sd|3384
+B|I said, Russ, you don't understand what it was like to have her home or to if you needed,  Mom at school, you know, she was there to help|sd|3384
+A|Right.|b|3384
+B|or,  she was there to take you,|sd|3384
+A|Right.|b|3384
+B|and, and I want to be able to do those things|sd|3384
+B|so.|%|3384
+A|I think that, you know, it's good.|sv|3384
+A|You know, sometimes I'll have the cookies ready when they,  come home|sd|3384
+B|Yeah.|b|3384
+A|and, and a lot of my boys, uh, my older boys' junior high friends will come over.|sd|3384
+A|In fact, everyday,  I've got boys hanging around,|sd|3384
+A|and it's wonderful|sd|3384
+A|I'm real close to the schools|sd|3384
+A|and, you know, we are just|sd|3384
+A|I, I'm very happy to be staying home.|sd|3384
+B|I think that's wonderful.|ba|3384
+A|But again I miss,  the .|sd|3384
+B|So, where do you see,  us changing in the future?|qw|3384
+A|I don't.|sd|3384
+B|Well, see that was one of the things the, the question I think is,  you know, what changes do we see|sd|3384
+A|I keep on working .|sd|3384
+A|Right.|fo_o_fw_"_by_bc|3384
+B|and I'm, I'm not sure I, I see it go anywhere.|sd|3384
+B|I think they are still going to have to work.|sv|3384
+A|That we are because it's so expensive.|bf|3384
+A|If we want, uh, extra clothes, the extra car, the extra,|bf|3384
+B|Right.|aa|3384
+A|The thing is, when a woman does work, then there is the clothes to buy,|sd|3384
+B|Uh-huh.|b|3384
+A|and then there is the gas,|sd|3384
+B|Uh-huh.|b|3384
+A|and then there is the lunches and then the day care.|sd|3384
+B|The day care eats,   me alive.|sd|3384
+A|You must pay for ,|sd|3384
+A|day care.|sd|3384
+A|Yeah.|%|3384
+B|You know, I pay four hundred fifty to five hundred fifty,  a month  for two kids|sd|3384
+A|Oh  my gosh.|ba|3384
+A|Yeah,|b|3384
+A|for two.|b^m|3384
+B|They would eat you,  alive.|sv|3384
+A|It's almost hardly worth it for you,  to work until they get in school.|sv|3384
+B|I know.|aa|3384
+A|Then you work summers unless you are a teacher.|sd|3384
+A|Are you a teacher?|qy|3384
+B|No,|nn|3384
+B|I'm not,|ng|3384
+B|and I would love,|sd|3384
+B|you, you, you talked about having the summers off|sd|3384
+B|and I thought, oh, that would be so wonderful.|sd|3384
+B|And I love the little preschool they are in.|sd|3384
+B|It's wonderful.|sd|3384
+A|Uh-huh.|b|3384
+B|You know, so I feel good about them being there|sd|3384
+B|but it's still not the same.|sd|3384
+A|No.|aa|3384
+A|It's not the same.|b^m|3384
+B|It's just not.|sd|3384
+A|I, I don't see things changing really,|sd|3384
+A|and, and it's terrible for divorced women you know, who are forced to work who maybe don't have a college education.|sv|3384
+B|Uh-huh.|b|3384
+A|Thank goodness I have mine,|sd|3384
+A|and I could get a real good paying job,  if I wanted to, you know, in fact, I still have offers, you know, please come back,|sd|3384
+B|Uh-huh.|b|3384
+B|Please come back to work.|b^m|3384
+A|and we'll pay you this .|^q|3384
+B|Sure.|b|3384
+A|Yeah,|b|3384
+A|yeah.|b|3384
+A|And it's been a real tough decision|sd|3384
+A|but I'm very happy to be here with my kids.|sd|3384
+A|My kids, we've seen a remarkable difference in,  now that I'm home.|sd|3384
+B|That's wonderful.|ba|3384
+B|That's wonderful.|ba|3384
+A|Yeah.|b|3384
+A|I'm real,|%|3384
+A|and I'm,|%|3384
+A|but I've been doing a lot of volunteering at the schools and playing lots of tennis|sd|3384
+B|I like that.|ba|3384
+A|Yeah,|aa|3384
+A|yeah.|aa|3384
+A|I know .|aa|3384
+B|Well, we're working on it.|sd|3384
+B|I'm hoping in about three to five years I'll be able to stay home|sd|3384
+B|and my kids, of course, will be in school then|sd|3384
+B|but I'll,  be there mornings, I'll be there noons,  I'll be there afternoons and all.|sd|3384
+A|Right .|b|3384
+A|Yeah.|b|3384
+B|I feel like,  that's good|sd|3384
+A|Well,|%|3384
+B|and I can work part days in my husband's business, you know, so that,  he can afford for us to do that, you know.|sd|3384
+A|Oh, that would be great.|ba|3384
+A|Right.|aa|3384
+A|I think the, the other thing that, that has changed for woman because we are working is we are having less children.|sv|3384

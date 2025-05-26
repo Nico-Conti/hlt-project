@@ -1,0 +1,137 @@
+B|So how many, um, credit cards do you have?|qw|3409|0
+A|Um, I think I'm down to one.|sd|3409|1
+B|Oh, my gosh,|ba|3409|0
+B|I wish I was that way.|sd|3409|0
+B|Is that why you said I had more experience than you?|qy|3409|0
+A|Well, no.|nn|3409|1
+A|I was pulling your leg.|sd|3409|1
+B|Oh.|bk|3409|0
+B|Well, how, how do you use your credit card?|qw|3409|0
+B|I mean, do you just keep it in reserve,|qy|3409|0
+B|or.|%|3409|0
+A|I, I, well,|%|3409|1
+A|the way I'd like to try and use it is, um, you, you, you make your purchases at, at prime buying time|sd|3409|1
+B|Uh-huh.|b|3409|0
+A|and then you pay that off and don't use it until, uh, it's paid off.|sd|3409|1
+B|Uh-huh.|b|3409|0
+A|That's, that's my ideal way|sd|3409|1
+B|Uh-huh.|b|3409|0
+B|How, how do you use it?|qw|3409|0
+A|Emergencies come along,|sd|3409|1
+A|and I and I use it.|sd|3409|1
+B|Yeah|b|3409|0
+B|that's understandable, exactly.|ba|3409|0
+A|Uh, like, uh, my car, uh, had a major problem, and seven hundred dollars,|sd|3409|1
+B|Uh-huh.|b|3409|0
+A|and uh, things just come up|sd|3409|1
+B|Right,|b|3409|0
+B|right.|b|3409|0
+A|and you just never get to use it the way you'd really like to.|sv|3409|1
+B|Uh-huh,|aa|3409|0
+B|uh-huh.|aa|3409|0
+B|Well, actually I do have quite a few more credit cards than you have|sd|3409|0
+B|Um, and I use them, you know,|sd|3409|0
+B|like my American Express I use for, you know, gas, things like that,|sd|3409|0
+B|and I pay that off monthly,|sd|3409|0
+B|and then, um, some other credit cards, like store credit cards, you know, I do have them up there a little bit,|sd|3409|0
+B|but, uh.|%|3409|0
+A|Uh-huh.|b|3409|1
+B|I try not to use them too often.|sd|3409|0
+B|But living in this area, uh, like I live fifteen miles west of Washington, D C|sd|3409|0
+A|Um.|b|3409|1
+B|it's a very expensive area|sd|3409|0
+A|Yeah.|b|3409|1
+B|So, sometimes you have no other choice if you need to buy something.|sv|3409|0
+A|Yeah.|aa|3409|1
+A|Well, I, I know I was up in there and a lot of credit cards,|sd|3409|1
+A|and I was just starting to get to where it was getting me in trouble|sd|3409|1
+B|Right.|b|3409|0
+A|so we just disposed of them, paid them off, and got out of it.|sd|3409|1
+B|Uh-huh.|b|3409|0
+A|I just.|%|3409|1
+B|Uh-huh,|b|3409|0
+B|well that was good that you had the opportunity to do that.|sv|3409|0
+A|Yeah.|b|3409|1
+B|Uh-huh.|b|3409|0
+B|Now are you married, that you both, you and your wife use a credit card,|qy|3409|0
+B|or?|%|3409|0
+A|Yeah,|ny|3409|1
+A|yeah.|ny|3409|1
+B|Uh-huh.|b|3409|0
+A|Well, now we pretty much just pay cash for as much as we can there.|sd|3409|1
+B|Uh-huh. Um.|b|3409|0
+B|Uh-huh.|b|3409|0
+A|Our, our only credit card is Sears,|sd|3409|1
+A|so and I have that for automotive purposes.|sd|3409|1
+B|Uh-huh, um.|b|3409|0
+B|Right,|b|3409|0
+B|right.|b|3409|0
+B|Well, well that's great.|ba|3409|0
+B|Um, everyone I know here uses, um, credit cards like they're going out of business to be honest with you.|sd|3409|0
+A|Yeah.|b|3409|1
+A|Yeah,|b|3409|1
+A|it's, it's just too easy, basically, uh, just get yourself in trouble with those.|sv|3409|1
+B|Yeah,|aa|3409|0
+B|yeah.|aa|3409|0
+B|Yeah,|aa|3409|0
+B|the only other one I have,|sd|3409|0
+B|I have like a Diner's Club through my, um, where I work|sd|3409|0
+A|I see.|b|3409|1
+B|so that I use, because I travel some.|sd|3409|0
+B|So I use that,|sd|3409|0
+B|and I don't really have to worry about that, because I only use it for business,|sd|3409|0
+B|so I automatically have the money to pay it off.|sd|3409|0
+A|Yeah.|b|3409|1
+B|But. Um.|%|3409|0
+A|Uh, I wouldn't mind, uh, you know, getting back into one if they would, you know,|sd|3409|1
+A|you start out at a low limit,|sv|3409|1
+A|and then they just keep wanting you to increase your limit|sv|3409|1
+B|Uh-huh.|b|3409|0
+A|and, and if I can get one that'll keep my limit at five hundred and I can never go over that or something like that, then that's fine,|sd|3409|1
+B|Uh-huh.|b|3409|0
+B|Uh-huh.|b|3409|0
+A|but they|%|3409|1
+A|eventually gets up there to five thousand, ten thousand, whatever fifty thousand|sv|3409|1
+B|Uh-huh.|b|3409|0
+B|Yeah.|b|3409|0
+A|forget it,|ba|3409|1
+A|I don't want that.|sd|3409|1
+B|Um, the temptation's too great.|sv|3409|0
+A|Yeah.|b|3409|1
+B|Um.|b|3409|0
+A|So, I don't know,|h|3409|1
+A|just, uh,|%|3409|1
+A|writing checks is just as easy I guess.|sv|3409|1
+B|Yeah,|aa|3409|0
+B|that's true,|aa|3409|0
+B|that's true,|aa|3409|0
+B|but. So, I guess, uh, we've kind of exhausted this, uh, topic|fc|3409|0
+A|Yeah,|fc|3409|1
+A|well, really,|%|3409|1
+A|what, what can you.|%|3409|1
+B|Yeah,|fc|3409|0
+B|you can't say too much about it really.|fc|3409|0
+A|Other than, you use them or you don't use them.|fc|3409|1
+A|You like them|fc|3409|1
+A|or you don't like them.|fc|3409|1
+A|So.|%|3409|1
+B|Uh-huh.|fc|3409|0
+A|I guess, uh, they don't care if we end it early.|fc|3409|1
+A|So, uh, hopefully, uh, you have a good Thanksgiving.|fc|3409|1
+A|That's coming up,|fc|3409|1
+A|and. And, then, uh, maybe we'll talk again.|fc|3409|1
+B|Okay,|fc|3409|0
+B|you, too.|fc|3409|0
+B|Yeah,|fc|3409|0
+B|may be,|fc|3409|0
+B|you're the furthest person, actually, that I've talked.|sv|3409|0
+B|I've talked to a lot of people in Texas.|fc|3409|0
+A|Yeah.|fc|3409|1
+B|Yeah.|fc|3409|0
+A|Texas is the big one.|fc|3409|1
+B|Yeah,|fc|3409|0
+B|so.|%|3409|0
+A|Okay, then.|fc|3409|1
+A|Well, bye now.|fc|3409|1
+B|okay,|fc|3409|0
+B|bye-bye.|fc|3409|0

@@ -1,0 +1,130 @@
+B|So have you got a pet.|qy|2770|0
+A|no,|nn|2770|1
+A|I don't,|sd|2770|1
+A|an|%|2770|1
+A|my kids would love a pet.|sd|2770|1
+A|I had a pet when I was a girl.|sd|2770|1
+A|I had a Cocker Spaniel.|sd|2770|1
+A|And I think one thing about pets is they're a lot of company.|sd|2770|1
+B|Yeah,|b|2770|0
+A|You can, you can tell them anything|sv|2770|1
+A|and they won't tell anybody.|sv|2770|1
+B|That's right,|aa|2770|0
+B|that's like unconditional affection.|bf|2770|0
+A|Right,|aa|2770|1
+A|as a matter of fact, I was thinking that same thing, unconditional love.|sd|2770|1
+A|They just give it, and don't expect too much.|sv|2770|1
+B|Yeah.|b|2770|0
+A|Anyway, do you have a pet?|qy|2770|1
+B|I had a cat,|na|2770|0
+B|I've had several cats.|sd|2770|0
+B|My pet, uh, was hit by a car New Year's Eve,|sd|2770|0
+B|but, uh,|%|2770|0
+A|Oh! like a|b|2770|1
+B|I'm going to get another one as soon as I get back in town.|sd|2770|0
+B|I'm going out of town this weekend,|sd|2770|0
+B|when I get back I'm going to find a cat.|sd|2770|0
+B|So,|%|2770|0
+A|Oh, I'm so sorry.|fo_o_fw_"_by_bc|2770|1
+A|But that's good that you're going to get another one.|sv|2770|1
+B|Yeah.|b|2770|0
+A|I know some of my friends who have pets, uh,|sd|2770|1
+A|and they just are really, you know,|sd|2770|1
+A|the ones that have dogs are very, uh, protective of them|sd|2770|1
+A|and I think that's one reason they have them, especially older people that I know, that have pets.|sv|2770|1
+A|But they just, um, really take care of them, or, uh, are protective of them.|sd|2770|1
+B|I work and go to school|sd|2770|0
+B|and it's kind of nice|sd|2770|0
+B|you come home your, your pet's there for you and wants a little food a little attention.|sd|2770|0
+A|Yeah,|b|2770|1
+A|an,|%|2770|1
+A|and my, my kids,|sd|2770|1
+B|And that's,|%|2770|0
+B|it's kind of fun.|sd|2770|0
+A|um, they really want a dog badly,|sd|2770|1
+A|and they've been looking and looking|sd|2770|1
+A|and want, you know,|%|2770|1
+A|they'd take anything I think|sd|2770|1
+B|Yeah.|b|2770|0
+A|but, um, I don't know do you like,|sd|2770|1
+A|I guess your cat was an indoor cat.|qy^d|2770|1
+B|No|nn|2770|0
+B|it was an kind of indoor, outdoor,|sd|2770|0
+B|it, it was,|%|2770|0
+A|It kind of traveled around|^2|2770|1
+A|travel .|%|2770|1
+B|well yeah,|aa|2770|0
+B|I don't, I don't care for the smell of the litter box|sd|2770|0
+B|so my cat was trained to go outside,|sd|2770|0
+B|other than that it was inside when it wanted to be, it was outside when .|sd|2770|0
+A|Yeah,|b|2770|1
+A|when I had a Cocker Spaniel it, it was an outdoor dog|sd|2770|1
+A|and, uh, I think I liked that better.|sd|2770|1
+B|Yeah,|b|2770|0
+B|I, I, think, you know,|%|2770|0
+B|I like dogs,|sd|2770|0
+B|but I think that, uh,|%|2770|0
+B|I'm,|%|2770|0
+B|kind of like big big dogs|sd|2770|0
+B|and you have to have room for them.|sv|2770|0
+A|Yeah,|aa|2770|1
+A|that's true.|aa|2770|1
+B|And dogs take a lot of, a lot more care than cats do.|sd|2770|0
+B|Cats are pretty independent, you know,|sd|2770|0
+B|you feed them|sd|2770|0
+B|and they keep themselves clean|sd|2770|0
+B|and, if you, if you raise them right, you know, you don't have to worry about the litter box thing, where with dogs you really do have to let them out and take them for walks and things like that.|sd|2770|0
+A|Yeah,|aa|2770|1
+A|that's true.|aa|2770|1
+A|Take them for walks,|^2|2770|1
+A|right.|b|2770|1
+A|Yeah,|aa|2770|1
+A|I see all the people on, on Sunday going for a walk with their dogs|sd|2770|1
+A|and, and I, I'm kind of skeptical with my son getting a dog,|sd|2770|1
+A|I'm like I know it will be fun the first week maybe,|sd|2770|1
+B|Yeah.|b|2770|0
+A|and then mom gets to take care of it, or something.|sd|2770|1
+A|So, I|%|2770|1
+B|Yeah,|b|2770|0
+B|I got to take care of a friend of mine's dog.|sd|2770|0
+B|He's just got a puppy|sd|2770|0
+B|and he was out of town last weekend|sd|2770|0
+B|and of course the dog is not trained for anything yet,|sd|2770|0
+B|so it was, go over there and clean up after the dog,|sd|2770|0
+A|Oh, that's exciting.|ba|2770|1
+A|Yeah.|b|2770|1
+B|And, uh, kids kind of,|%|2770|0
+B|they want the, they want the fun part and not the, not the work.|sd|2770|0
+A|Yeah,|b|2770|1
+A|I think it's really important to that, that if you get a pet that they're either spayed or neutered so that, you know, we're not just going on with this pet population and having to, just get rid of them.|sv|2770|1
+B|Yeah.|b|2770|0
+A|That, that kind of gripes on me some,|sv|2770|1
+A|but, but I don't know.|h|2770|1
+B|Well if you're, if you're going to have a pet,  and not have it neutered or spayed you need to be willing to, you know deal with the consequences, take care of the offspring|sv|2770|0
+A|More and more people are,|^2|2770|1
+A|Right,|b|2770|1
+A|right.|b|2770|1
+B|and, and I think, you know,|sv|2770|0
+A|But, uh,|%|2770|1
+B|when I was growing up we had cats|sd|2770|0
+B|and, you know, just seeing the cats, you know, the, the miracle of birth, you know, put that in quotes, is that's a, that's a neat thing to, to experience as a kid and understand,|sv|2770|0
+A|I think that's really true.|aa|2770|1
+B|and, and it was a real positive thing,|sv|2770|0
+B|but on the other hand you don't want to, you'd be one of these people that dumps the kittens off on the side of the road, you know,|sv|2770|0
+A|Yeah.|b|2770|1
+B|they're, they're, getting old now,|^q|2770|0
+B|and it's time to get rid of them.|^q|2770|0
+A|Yeah,|aa|2770|1
+A|exactly.|aa|2770|1
+B|So.|%|2770|0
+A|Exactly.|aa|2770|1
+A|I think our community is a lot more conscious now though too,|sv|2770|1
+A|and, and that's good too.|sv|2770|1
+B|Yeah.|b|2770|0
+A|Well, I think that's all I have to say.|sv|2770|1
+B|Okay,|b|2770|0
+A|Okay,|b|2770|1
+A|have a good night.|fc|2770|1
+A|All right,|fc|2770|1
+A|bye-bye.|fc|2770|1
+B|Bye.|fc|2770|0

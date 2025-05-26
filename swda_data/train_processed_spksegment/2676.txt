@@ -1,0 +1,341 @@
+B|Do you live in Plano or work in Plano, or both?|qy|2676|0
+A|Both.|sd|2676|1
+B|Both,|b^m|2676|0
+B|are you a T I|qy|2676|0
+A|Yes.|ny|2676|1
+B|Are you at work right now?|qy|2676|0
+A|Uh-huh.|ny|2676|1
+B|So am I.|sd|2676|0
+B|In building, which building?|qw|2676|0
+A|Well, are you Summit or are you, uh,  Spring Creek?|qy|2676|1
+B|I'm, I'm,  I'm Spring Creek.|sd|2676|0
+A|Oh this is fun.|sv|2676|1
+A|What building are you in?|qw|2676|1
+B|I'm building, uh, one.|sd|2676|0
+A|Oh, I'm building two.|sd|2676|1
+A|At least we found something different|sv|2676|1
+A|That's,|%|2676|1
+A|I've never had a call,|sd|2676|1
+B|Not like that.|aa|2676|0
+B|Neither have I.|sd|2676|0
+A|No,|aa|2676|1
+A|isn't that funny?|bh|2676|1
+A|I usually get some place,|sd|2676|1
+A|I got a woman in New Jersey the last time I called, I think.|sd|2676|1
+B|Right.|b|2676|0
+B|That's funny.|sv|2676|0
+A|That is funny.|aa|2676|1
+A|So,|%|2676|1
+B|So how's the how's the weather in building two?|qo|2676|0
+A|The weather in building two is cold|sd|2676|1
+A|it's been cold.|sd|2676|1
+A|It's been cold in the building.|sd|2676|1
+A|Outside the building it's not bad.|sd|2676|1
+A|Typical T I, or T I,|fo_o_fw_"_by_bc|2676|1
+A|listen I got me doing it.|^h|2676|1
+A|Typical Texas Spring.|sd|2676|1
+A|Are you a native to Texas?|qy|2676|1
+B|No,|nn|2676|0
+B|no,|nn|2676|0
+B|I'm, I'm a transplant.|sd|2676|0
+A|From?|qw|2676|1
+B|From California.|sd|2676|0
+A|So what do you think of the Texas weather?|qw|2676|1
+B|Not as nice as California|sd|2676|0
+A|How long have you been here?|qw|2676|1
+B|Oh, five years now.|sd|2676|0
+A|Oh, okay.|bk|2676|1
+B|I've been here long pretty long.|sd|2676|0
+B|So.|%|2676|0
+A|You, you, you know about August then.|qy^d|2676|1
+B|Yes,|ny|2676|0
+B|oh, I've been through five of those|sd|2676|0
+A|Okay,|b|2676|1
+A|there's no surprises left.|sv|2676|1
+B|Right,|b|2676|0
+B|right.|b|2676|0
+B|A lot of people try to leave the state for a couple of weeks in August, for, you know,|sd|2676|0
+B|if they're going to go out of state for vacation that's the time to go.|sv|2676|0
+A|Uh-huh.|b|2676|1
+A|Good idea.|ba|2676|1
+A|Real good idea.|ba|2676|1
+B|Yeah,|b|2676|0
+B|we went up to Wyoming this last, uh, Summer during that time.|sd|2676|0
+B|And it was like you know, eighty degrees up there.|sd|2676|0
+B|It was beautiful.|sd|2676|0
+B|Nice to get out of Texas for a while.|sd|2676|0
+A|We went to Alaska.|sd|2676|1
+B|Well, that's, that's the even, even farther away.|sd|2676|0
+A|That is really nice.|sd|2676|1
+A|It is so cool, you wear a jacket, you know.|sd|2676|1
+B|Even in the Summer time, huh.|bf|2676|0
+A|Yeah,|aa|2676|1
+A|or keep one handy. Because it's, it rains a lot in Alaska.|sd|2676|1
+B|Uh-huh,|b|2676|0
+B|uh-huh.|b|2676|0
+B|Is that right?|bh|2676|0
+A|Uh, it,|%|2676|1
+A|they call it their liquid gold.|sd|2676|1
+B|Um.|%|2676|0
+A|But it, you know,|%|2676|1
+A|you get sunshine,|sd|2676|1
+A|and it's lovely,|sd|2676|1
+A|and then it rains just enough to keep everything nice and moist and very green. And blooming.|sd|2676|1
+B|Green.|^2|2676|0
+B|Um.|%|2676|0
+A|Oh my goodness, it's pretty.|ba|2676|1
+B|Right.|b|2676|0
+A|Well, Texas isn't bad.|sv|2676|1
+B|No,|aa|2676|0
+B|no.|aa|2676|0
+A|Not in the Spring.|sv|2676|1
+B|Right.|b|2676|0
+B|I have to think every year to try to remember what it was, what's it supposed to like this time of year.|sd|2676|0
+A|Spring is nice.|sv|2676|1
+B|Yeah.|b|2676|0
+B|Because March we usually get a lot of rain, in March, you know.|sd|2676|0
+B|It'll seem the news, the Harold Taft, you know, on the local news.|sd|2676|0
+A|Right.|b|2676|1
+B|March we typically get a lot of rain,|sd|2676|0
+B|and we've had this many inches,|sd|2676|0
+B|and, you know, we're right on target, you know,|sd|2676|0
+B|and just seem like we were getting a lot of rain in March,|sd|2676|0
+B|but I|%|2676|0
+A|Oh, we always we always do though.|sd|2676|1
+B|it's hard to remember twelve months ago what it was like.|sd|2676|0
+B|Yeah|b|2676|0
+A|uh, it,|%|2676|1
+B|I wish, I just wish it wouldn't come all at once|sd|2676|0
+A|That's right,|ba|2676|1
+A|and then we get all that heat.|sd|2676|1
+A|Right.|b|2676|1
+B|Well, it's just that, you know,|sv|2676|0
+B|when it rains, it rains.|sv|2676|0
+B|In California you get these nice, lovely rains, you know, nothing really you know, like downpours like you have here.|sd|2676|0
+B|The other day we had some hail, the biggest hail I've ever seen in Texas.|sd|2676|0
+A|Oh, really.|b|2676|1
+B|Yeah,|b|2676|0
+B|I live in Garland.|sd|2676|0
+A|Oh, you got into that bad stuff.|sv|2676|1
+B|Yeah.|aa|2676|0
+B|We got hail the size of marbles.|sd|2676|0
+B|I mean, just so noisy hitting the house|sd|2676|0
+B|and the glass on the windows.|sd|2676|0
+B|It didn't break anything,|sd|2676|0
+B|but we went out there afterwards|sd|2676|0
+B|and there's ice balls the size of marbles all over our lawn.|sd|2676|0
+A|Isn't that strange.|ba|2676|1
+B|I know, I,|%|2676|0
+B|you pick them up, you know,|sd|2676|0
+B|and they're perfectly round.|sd|2676|0
+B|And I go, gee, how did they form, you know, so perfect like that.|sd|2676|0
+A|I think that's one of the strange, strange things,|sv|2676|1
+A|and you very seldom see it though.|sv|2676|1
+B|Right,|b|2676|0
+B|right.|b|2676|0
+B|I've seen hail, you know,|sd|2676|0
+B|but usually the size, you know, of, uh, tiny, tiny pebbles.|sd|2676|0
+B|You know, really small, you know.|sd|2676|0
+B|But this was, uh, really large.|sd|2676|0
+A|So it had come, it's a drop of water that had come through quite a few rain clouds apparently.|sv|2676|1
+A|Is that correct?|qy|2676|1
+B|Uh, I don't know how hail is formed to tell you the truth.|no|2676|0
+A|I think, I think that's,|sv|2676|1
+B|You don't think it's cold enough, you know to,|sv|2676|0
+A|It's not on the ground,|sd|2676|1
+A|but in the clouds it is.|sd|2676|1
+B|Right,|b|2676|0
+B|must be.|sv|2676|0
+B|I guess,|sv|2676|0
+B|and then, I think, you know, all that falling would warm it up and melt it,|sv|2676|0
+B|but maybe that's what rounds it, I don't know. But, tumbling.|sv|2676|0
+A|I was dumb.|sd|2676|1
+A|I was in, um, Florida for a week on business.|sd|2676|1
+B|Uh-huh.|b|2676|0
+A|And I had called back to the house.|sd|2676|1
+A|I stayed the weekend,|sd|2676|1
+A|and I called back to the house.|sd|2676|1
+A|My housekeeper was baby-sitting my cats and dogs, pitched said something to the effect of, now we've made the national news, don't get upset, and don't worry,|sd|2676|1
+A|it's in Garland where all the bad weather is.|sd|2676|1
+A|I said, Okay, you know|sd|2676|1
+B|Uh-huh.|b|2676|0
+A|and I watched the news,|sd|2676|1
+A|and I thought, ha ha, that's Garland, that's not Plano,|sd|2676|1
+A|I don't have anything to worry about.|sd|2676|1
+A|I was on the plane heading back to Dallas before it dawned on me, stupid, you own property in Garland|sd|2676|1
+A|Felt so dumb.|sd|2676|1
+B|Um.|%|2676|0
+A|Finally I got home and found out my property was okay.|sd|2676|1
+B|Yeah.|b|2676|0
+A|There was no problem with it.|sd|2676|1
+A|But I guess you just tend to think of, of where your house is you know, and nothing else.|sv|2676|1
+B|Right.|b|2676|0
+B|Right,|b|2676|0
+B|and close to that, what's called Duck Creek that runs through part of Garland, that's the part that always seems to get hardest hit when there's, there's the hard rain.|sd|2676|0
+A|Oh, oh, I see.|b|2676|1
+B|The creek overflows|sd|2676|0
+B|and a lot of houses, a lot of houses around that creek seem to, to get flooded|sd|2676|0
+A|Oh, okay.|b|2676|1
+B|the streets and stuff around that area,  get a lot of flooding.|sd|2676|0
+A|The house, that house,  that I bought is close to a Firewheel golf course.|sd|2676|1
+B|Okay.|b|2676|0
+A|Just going to be blocks off of that new highway one ninety that's going through.|sd|2676|1
+B|Right.|b|2676|0
+B|That's where I live, close to that.|sd|2676|0
+A|Oh really.|b|2676|1
+B|Yeah,|b|2676|0
+B|uh, uh, not quite,|sd|2676|0
+B|I don't live in that Firewheel division.|sd|2676|0
+B|But I live close by there in north, far north Garland.|sd|2676|0
+A|Is that a nice area?|qy|2676|1
+B|Yeah|ny|2676|0
+B|they're supposed to,|sd|2676|0
+B|it's getting built up, you know, with more new, new shopping centers and things. You know,|sd|2676|0
+B|it's a fairly new area.|sd|2676|0
+B|Yeah|%|2676|0
+B|and, uh, and they're supposed to be building a mall somewhere close by, by the next, by ninety-three or ninety-four or something,|sd|2676|0
+B|a brand new mall not too far away from that area,|sd|2676|0
+A|Well,|%|2676|1
+B|so.|%|2676|0
+A|The house that the house that I bought was really, really nice.|sd|2676|1
+B|It'd be nice.|ba|2676|0
+B|Uh-huh,|b|2676|0
+B|in the Firewheel Estates there, whatever.|qy^d|2676|0
+A|Yes,|ny|2676|1
+A|yes.|ny|2676|1
+B|Uh-huh.|b|2676|0
+A|Really, really nice home, very pretty. Uh.|sd|2676|1
+B|Uh-huh.|b|2676|0
+B|But you're not living there right now.|qy^d|2676|0
+A|No,|nn|2676|1
+A|I'm going to lease it.|sd|2676|1
+B|Oh, I see.|bk|2676|0
+A|It's, it's investment property.|sd|2676|1
+B|I see.|b|2676|0
+A|But it is really, it's a very nice place.|sd|2676|1
+A|Uh, I, I would cheerfully live there.|sd|2676|1
+A|Of course it's not my home,|sd|2676|1
+A|and I've lived in my home in, well, almost ten years,|sd|2676|1
+A|and, you know, I've got everything just exactly like I want it.|sd|2676|1
+B|Right.|b|2676|0
+A|But if I were to live some place else, it certainly meets my standards.|sd|2676|1
+A|It's a nice house.|sd|2676|1
+B|Uh-huh,|b|2676|0
+B|yeah,|b|2676|0
+B|that's a nice area.|sd|2676|0
+B|Is it on the golf course?|qy|2676|0
+A|No,|nn|2676|1
+A|it's not,|sd|2676|1
+A|it's off the golf course,|sd|2676|1
+A|and I'll be honest with you,|sd|2676|1
+A|I'm going to have to get a map to figure out exactly where is the golf course versus where my house is.|sd|2676|1
+B|Is that right.|b|2676|0
+A|But it's in the estates that adjoin it.|sd|2676|1
+B|Yeah,|b|2676|0
+B|right,|b|2676|0
+B|right.|b|2676|0
+B|Well that's a nice area.|sd|2676|0
+A|Yes,|aa|2676|1
+A|it is.|sd|2676|1
+B|That really is a nice area.|sd|2676|0
+B|When they get that highway finished, you can hop on that and get anywhere you need to go fairly quick.|sd|2676|0
+A|Yeah,|b|2676|1
+A|that one nine that one ninety is just going to be the the outermost loop around.|sd|2676|1
+B|Right,|b|2676|0
+B|another belt line, just, uh, farther out.|sd|2676|0
+A|Right,|b|2676|1
+A|just continue to do that.|sd|2676|1
+B|Right,|b|2676|0
+B|right,|b|2676|0
+B|right.|b|2676|0
+A|Where are you from in California?|qw|2676|1
+B|Southern California.|sd|2676|0
+A|San Diego?|qy^d|2676|1
+B|I've lived in San Diego for six years when I was a younger, and L A area,|na|2676|0
+B|and my parents live in Anaheim right now.|sd|2676|0
+B|Lived up north of Los Angeles in Thousand Oaks area, where the Cowboys have their training camp, or used to anyway.|sd|2676|0
+A|I've been through all of that.|sd|2676|1
+B|Yeah.|b|2676|0
+A|Uh, there is an area beyond Thousand Oaks, north of Los Angeles that is really an eerie, strange looking area with boulders,|sd|2676|1
+A|I|%|2676|1
+A|they're not really hills,|sd|2676|1
+A|they're more like just huge boulders with very little vegetation.|sd|2676|1
+B|Huh.|b|2676|0
+B|I'm not familiar with what,|sd|2676|0
+B|is it along the coast or or inland.|qy|2676|0
+A|Uh. Well, you know, it may be a little bit more inland.|sd|2676|1
+A|That is one of the strangest areas I have ever seen.|sd|2676|1
+B|Um.|%|2676|0
+A|Uh, I had to go up to T I on business a couple years ago|sd|2676|1
+B|Out there,|^2|2676|0
+B|uh-huh.|b|2676|0
+B|Uh-huh.|b|2676|0
+A|and we went up that coastline,|sd|2676|1
+A|and I was just amazed how unusual that looks.|sd|2676|1
+B|Huh.|b|2676|0
+A|Here, hang on just a second,|ad|2676|1
+A|I've got a Los Angeles map.|sd|2676|1
+A|Let me just quick|oo_co_cc|2676|1
+B|Yeah,|b|2676|0
+A|valley.|^2|2676|1
+A|Yes|aa|2676|1
+B|Okay,|b|2676|0
+B|I know where that is.|sd|2676|0
+A|beyond Thousand Oaks.|sd|2676|1
+B|I know where Valley is,|sd|2676|0
+B|I've been out there before,|sd|2676|0
+B|sure.|%|2676|0
+A|You don't think that's strange looking.|qy^d|2676|1
+B|I didn't notice anything strange, I guess about it.|ng|2676|0
+A|Oh, okay|bk|2676|1
+A|maybe, maybe I'm used to Texas.|sd|2676|1
+B|Maybe Texas the way,|sd|2676|0
+A|The elevation is extremely high.|sd|2676|1
+B|Uh-huh.|b|2676|0
+A|It's got curving roads on it,|sd|2676|1
+A|but, but the,|%|2676|1
+A|it's just a strange landscape,|sd|2676|1
+A|there's very little vegetation.|sd|2676|1
+B|Huh.|b|2676|0
+B|I didn't, I don't remember seeing that part of it.|sd|2676|0
+B|I know Valley,|sd|2676|0
+B|yeah,|%|2676|0
+B|it's just a suburb of L A.|sd|2676|0
+A|Right.|b|2676|1
+A|It's a,|%|2676|1
+B|And they've built some new highways out to that area, and things, lately.|sd|2676|0
+B|People can get in and out of L A easier.|sd|2676|0
+A|Maybe it's a place I went to,|sd|2676|1
+A|it was far extreme, thought we'd never find the place.|sd|2676|1
+B|Huh.|b|2676|0
+A|It was interesting. Because we went out the Ventura highway to Thousand Oaks and on up through that way.|sd|2676|1
+B|Yeah,|b|2676|0
+B|sounds interesting.|ba|2676|0
+B|Right.|b|2676|0
+B|Right,|b|2676|0
+B|right.|b|2676|0
+B|I, I know exactly that area.|h|2676|0
+B|It's a nice area out there.|sd|2676|0
+B|I love Thousand Oaks.|sd|2676|0
+B|Uh, Texas, I don't know,|h|2676|0
+B|thing, things,|%|2676|0
+B|you just have less a variety, I guess.|sv|2676|0
+B|I think, I don't think it's quite as green, you know.|sv|2676|0
+B|It's green with all the trees and things out here|sd|2676|0
+B|but it's just,|%|2676|0
+A|Oh, it's green sometime.|sd|2676|1
+B|Yeah,|b|2676|0
+B|but it's just, you know,|%|2676|0
+B|I don't know.|h|2676|0
+A|Well, it doesn't stay green, you know|sd|2676|1
+B|Right.|b|2676|0
+A|the really,|%|2676|1
+A|and in all honesty,|sd|2676|1
+A|I know this sounds like a Texas story,|sd|2676|1
+A|all honesty, you haven't seen the hottest of summers if you've only been here five years.|sd|2676|1
+A|We haven't had a really bad one,|sd|2676|1
+B|Yeah|b|2676|0
+B|I missed that one of eighty or eighty-two or eighty-one that had the heat wave.|sd|2676|0
+A|Oh.|b|2676|1
+A|It may be eighty-two, because we bought our house in eighty-one|sd|2676|1
+A|and we built a pool in eighty-two,|sd|2676|1

@@ -1,0 +1,223 @@
+A|Okay.|fo_o_fw_"_by_bc|2157|0
+B|So, who's your, uh, favorite team?|qw|2157|1
+A|Who do you think?|qh|2157|0
+A|The Dallas Cowboys.|sd|2157|0
+B|The Dallas Cowgirls, huh.|bh|2157|1
+A|Yeah.|ny|2157|0
+B|Well, they did have a fairly decent year finally this year.|sv|2157|1
+A|Uh-huh.|b|2157|0
+B|At least they're coming around.|sv|2157|1
+A|Yeah,|aa|2157|0
+A|they're going to get better.|sv|2157|0
+A|I mean, you know.|%|2157|0
+B|Well I mean, you know, I think, uh, once Jimmy Johnson gets his system established, uh, they'll do all right.|sv|2157|1
+A|Yeah.|aa|2157|0
+A|As long as Troy Aikman doesn't get hurt again.|sv|2157|0
+A|That kind of killed them at the end of the season last year.|sv|2157|0
+B|Uh-huh.|b|2157|1
+A|So, I don't, I don't even know who your favorite team is, actually.|qw^d|2157|0
+B|I'm a Viking fan.|sd|2157|1
+A|Okay.|bk|2157|0
+A|I think I did know that, I just forgot.|sd|2157|0
+A|Okay.|bk|2157|0
+B|And they haven't been doing too hot,|sv|2157|1
+B|so.|%|2157|1
+A|Yeah.|aa|2157|0
+A|Has Herschel Walker done much for them?|qy|2157|0
+B|No,|nn|2157|1
+B|in fact, in fact the Cowboys got the best end of that deal.|sv|2157|1
+A|Definitely.|aa|2157|0
+A|Well, he was a good player. I guess,|sv|2157|0
+A|well I don't know,|h|2157|0
+A|he just never,|%|2157|0
+A|I don't know,|h|2157|0
+A|for a while there ,|%|2157|0
+B|I've never been over impressed with him.|sd|2157|1
+A|Well, he could always get past, you know, he'd get past like six or seven tackles and just keep spinning around and get on into the end zone.|sv|2157|0
+A|But, um, I guess you never could really see him play, because with the Cowboys, while he was with the team, the rest of the team was pretty poor|sv|2157|0
+A|so you couldn't really tell if it was just him or the team|sv|2157|0
+A|and I always just assumed that he was too good for the rest of the team.|sd|2157|0
+A|But, I don't know.|h|2157|0
+B|Well, who's the running,|qw|2157|1
+B|is it Sammy Smith,|qy|2157|1
+B|or is it, Emmett Smith.|qrr|2157|1
+A|Emmett Smith,|sd|2157|0
+A|yeah.|%|2157|0
+B|Emmett Smith.|b^m|2157|1
+A|he's been doing real good.|sv|2157|0
+A|I'm pretty impressed with him so far.|sd|2157|0
+B|Yeah.|b|2157|1
+A|Did he, did he actually play in the Pro Bowl.|qy|2157|0
+A|I remember he was like a backup|sd|2157|0
+A|and then somebody got injured|sd|2157|0
+A|and he was supposed to go.|sd|2157|0
+B|I'm not sure.|no|2157|1
+A|Yeah,|b|2157|0
+A|I kind of, I haven't been keeping up with football, I mean, in the fall|sd|2157|0
+A|I, I can go on and on about football,|sd|2157|0
+A|but since it's kind of off season, it's kind of hard to think back about all that.|sv|2157|0
+A|But, uh,|%|2157|0
+B|Who else is, uh, oh|qw|2157|1
+B|there's, you know, Mike ,|%|2157|1
+B|Minnesota Vikings, used to be the general manager starting the World Football League.|sd|2157|1
+A|Yeah.|b|2157|0
+B|So, and and he was trying to keep, uh, uh,|%|2157|1
+B|I can't even think of the guy's name, either, the coach of the Vikings.|sd|2157|1
+A|Um, I have no idea.|sd|2157|0
+B|Jerry Burns.|sd|2157|1
+A|No earthly idea.|sd|2157|0
+B|he was going to keep him as the coach somehow,|sd|2157|1
+B|but, uh, I don't know,|h|2157|1
+B|I'd like to see the Vikings get revamped somehow.|sd|2157|1
+A|How did they end up this year?|qw|2157|0
+A|Did they, did they make it to the play-offs at all?|qy|2157|0
+B|Well, they started out really bad,|arp_nd|2157|1
+B|they went like one and six,|sd|2157|1
+B|and then they won five or six in a row.|sd|2157|1
+A|Uh-huh.|b|2157|0
+B|So they were in a shot to make the play-offs|sd|2157|1
+B|and they screwed up the last couple of games.|sd|2157|1
+A|Kind of like the cowboys, huh.|qy|2157|0
+B|Yeah,|ny|2157|1
+B|I guess you can,|sv|2157|1
+A|Except I think the Cowboys are on the upswing|sv|2157|0
+A|I don't know about the Vikings|sd|2157|0
+B|Yeah.|b|2157|1
+A|Just hadn't heard much about them lately.|sd|2157|0
+B|And the Cardinals were kind of like the|sv|2157|1
+B|in fact they were doing better than the Cowboys,|sv|2157|1
+B|and the Cowboy, Cowboys came on strong at the end of the season,|sv|2157|1
+B|and the Cardinals got killed by the Cowboys,|sv|2157|1
+B|so.|%|2157|1
+A|Yeah.|aa|2157|0
+A|Well, the Cardinals, I don't know.|%|2157|0
+A|I think the Cowboys probably have a, a better team.|sv|2157|0
+A|They just,|%|2157|0
+A|at the end of the season, the kind of got messed up with Aikman getting hurt, because, uh, Laufenberg just couldn't ever really get it together at all.|sv|2157|0
+A|Of course, he sat along the sidelines all season,|sd|2157|0
+A|he never really got in a game, never did a whole lot.|sv|2157|0
+B|Oh, don't made any excuses for him|ad|2157|1
+A|Well, I'm just saying I shouldn't, I shouldn't blast him like that, say, oh well, Laufenberg got out there and blew it for them,|sv|2157|0
+A|I mean, he didn't get to see much action. But, too bad.|sv|2157|0
+A|Because now, now, you know, he had a shot and, and didn't look too good|sv|2157|0
+A|and so, no one's going to have much faith in him any more.|sv|2157|0
+B|Uh-huh.|b|2157|1
+A|In fact, I think they're getting a different guy for a backup quarterback.|sd|2157|0
+A|I haven't, uh, I haven't kept up with it lately,|sd|2157|0
+A|but I remember reading something a few months ago about them signing somebody else on, or, or trying to go after somebody or trade for somebody,|sd|2157|0
+A|but it wasn't anybody I'd really heard of.|sd|2157|0
+A|But I heard on the radio this morning, or yesterday morning, that, uh, Aikman's back in practicing, doing real, real well.|sd|2157|0
+A|Um, who is it, Michael Irvin|qw|2157|0
+B|Uh-huh.|ny|2157|1
+A|he said that, uh, Aikman was hitting him right on the numbers every time.|sd|2157|0
+A|So, sounds like he's going to be all right for next season.|sv|2157|0
+A|They're just trying not to overwork him right now, until he gets his shoulder, uh, back in|sd|2157|0
+A|it was his shoulder, wasn't it, that he had the problems with?|qy|2157|0
+B|I don't know|no|2157|1
+B|Yeah|ny|2157|1
+B|I think it was .|sd|2157|1
+A|I think it, I think it was his shoulder he had surgery on.|sd|2157|0
+A|But anyway, they're trying to keep him, you know, keep him, uh, from reinjuring anything, but anyway|sd|2157|0
+B|But, uh, well I got my thirty day notice yesterday.|sd|2157|1
+A|Thirty day notice for what?|qw|2157|0
+B|Um, I'm done, where I work.|sd|2157|1
+A|Oh, really.|b|2157|0
+B|So, anyway, I guess we can't talk much more about that,|sv|2157|1
+B|but I just thought I'd throw that in there|sd|2157|1
+A|What.|ba|2157|0
+A|Oh, okay,|%|2157|0
+A|maybe I'll call you back after, after the recording is finished.|sd|2157|0
+A|Actually I think we have talked about football for five minutes.|sd|2157|0
+A|I can't remember.|sd|2157|0
+B|Oh,|%|2157|1
+B|I've always ran out of time ever since I've done this.|sd|2157|1
+A|Really.|b|2157|0
+A|I usually have, too .|sd|2157|0
+B|They always say you've talked your ten minute limit.|sd|2157|1
+A|Yeah,|b|2157|0
+A|I've done that once or twice.|sd|2157|0
+A|I didn't look at the clock when we started talking,|sd|2157|0
+A|so I guess we should talk about football a little bit longer just to be sure we got five minutes in.|sv|2157|0
+B|Make sure we get our cash flow.|sv|2157|1
+A|Yeah.|b|2157|0
+A|So other than the Vikings, who do you like?|qo|2157|0
+B|Um, actually, when I was younger, I was a Cardinal fan, too.|arp_nd|2157|1
+A|Uh, oh.|bk|2157|0
+B|Remember Jim Hart?|qh|2157|1
+B|Jim Hart was playing.|sd|2157|1
+B|Terry Metcalf was on the Cardinals.|sd|2157|1
+B|This was a long time ago.|sd|2157|1
+A|Yeah.|b|2157|0
+B|Um, I don't know who else I've ever.|sd|2157|1
+B|That's about it,|sd|2157|1
+B|I was always a Viking fan.|sd|2157|1
+B|I think I was into the Cardinals for a little bit|sd|2157|1
+B|and,|%|2157|1
+A|Uh-huh.|b|2157|0
+A|Back when they were in Saint Louis?|qy|2157|0
+B|Yes,|ny|2157|1
+B|oh, of course.|sd|2157|1
+A|Since they've been to Phoenix they haven't been, uh, all that impressive, I guess.|sv|2157|0
+A|I guess I've always been a Cowboy fan.|sd|2157|0
+A|Other than that, I mean, you know, when I've, you know, when you grow up in a city that has the, you know, one of the greatest football teams until the last few years, you kind of tend to get caught up in it.|sv|2157|0
+B|Yeah,|aa|2157|1
+B|well, the Cowboys were America's football team,|sv|2157|1
+A|Yeah.|b|2157|0
+B|there's no question about that,|sv|2157|1
+B|so.|%|2157|1
+A|Yeah,|aa|2157|0
+A|I mean it, it was really exciting, growing up when, when the Cowboys were really big.|sd|2157|0
+A|Because my parents would always have season tickets,|sd|2157|0
+A|and they'd go to all the games,|sd|2157|0
+A|and you know, the hype were just unbelievable.|sd|2157|0
+A|It's just, you know, the last, oh|%|2157|0
+A|I guess probably since about eighty-four, about eighty-five was when they started kind of going downhill really,|sv|2157|0
+A|but, you know, I'm just used to always growing up and hearing Cowboys, Cowboys, Cowboys, and, you know, Super Bowl, and all this other stuff.|sd|2157|0
+A|So, I can't, you know,|%|2157|0
+A|I'm not going to decide I don't like them just because they're having a few bad years.|sd|2157|0
+A|I mean, I think they'll pull out of it,|sv|2157|0
+A|and, you know, they'll, they'll wind up being good again.|sv|2157|0
+A|They've got some, lot of really good young players that are going to, that are going to, uh, do pretty good, I think.|sv|2157|0
+A|But, they're raising prices on their tickets.|sd|2157|0
+A|So they're banking on doing good next season.|sv|2157|0
+A|I think tickets are,|sv|2157|0
+B|Again.|qy^d|2157|1
+A|Yeah.|ny|2157|0
+B|What are they going up to, thirty bucks or something?|qw|2157|1
+A|Thirty, or thirty-two for really good tickets.|sd|2157|0
+A|See, they, they sectioned it out even more.|sd|2157|0
+A|They used to just have like, uh,|sd|2157|0
+A|first of all it was all one price.|sd|2157|0
+A|And then they sectioned it out to end zone and then everything else.|sd|2157|0
+A|And now they're sectioning it off to like from the, from one twenty yard line to the other one,|sd|2157|0
+A|just on the lower levels is the highest price,|sd|2157|0
+A|and then the next highest price is that same area but above it on the upper level,|sd|2157|0
+A|and then like from the twenty to the ten yard line.|sd|2157|0
+A|And then they're some sections kind of in the corner areas,|sd|2157|0
+A|and then the cheapest of course is going to be the end, the direct end zones.|sd|2157|0
+A|But, um, they have about four or five different prices now,|sd|2157|0
+A|that they're structuring it with,|sd|2157|0
+A|but obviously yeah, they're all going up, more or less is what it's going to do.|sd|2157|0
+B|So now the tickets even got lower than the lowest one last year.|qy^d|2157|1
+A|Um, you know, I'm not sure,|no|2157|0
+A|I'm not positive,|no|2157|0
+A|I didn't, I didn't really think about that.|sd|2157|0
+A|I just remember trying to figure out where you could get|sd|2157|0
+A|that was real close to the good section but in the little bit cheaper.|sd|2157|0
+A|But, not that I'll ever go.|sd|2157|0
+A|I hadn't been to a Cowboys game,|sd|2157|0
+A|time, last time I went to the Cowboys game was during that, um, N F L strike, or the, when they had the scab team, teams in there,|sd|2157|0
+A|and it was the, uh, Dallas and Washington Redskins game.|sd|2157|0
+A|And I went because my dad can usually get a hold of some free tickets, because a lot of those doctors have season tickets,|sd|2157|0
+A|and they, um, if they're not going to use them they'll give them to somebody else.|sd|2157|0
+A|So my dad, I went with my dad to a game that one time.|sd|2157|0
+A|But that wasn't a real, you know,|sd|2157|0
+A|it was, it was the scab teams,|sd|2157|0
+A|it was kind of, you know, it was kind of different, I guess.|sd|2157|0
+A|And before that it's been quite a few years.|sd|2157|0
+A|I've been wanting to go to a game,|sd|2157|0
+A|I just never, never have gotten around to it.|sd|2157|0
+A|So maybe this year .|sd|2157|0
+B|That's interesting,|ba|2157|1
+B|I almost lost our electricity here .|sd|2157|1
+A|Oh.|b|2157|0

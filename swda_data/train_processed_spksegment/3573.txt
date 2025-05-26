@@ -1,0 +1,121 @@
+A|Okay|fo_o_fw_"_by_bc|3573|0
+A|well,|%|3573|0
+B|There we are.|sd|3573|1
+A|All right. Um, um, well, uh,|b|3573|0
+A|tell me about the car that you've got.|ad|3573|0
+B|Well, I have a Honda, um, hatchback, nineteen eighty-four.|sd|3573|1
+A|Uh-huh.|b|3573|0
+B|And I had a hatchback, a nineteen seventy-eight version before this one.|sd|3573|1
+A|Uh-huh.|b|3573|0
+B|And, uh, I'll be honest with you.|sd|3573|1
+B|I have never found any automobile that has been more conscientiously constructed and, and, uh, put together|sd|3573|1
+B|and it, it does its job.|sv|3573|1
+B|All I have to do on my Honda is change the oil and the filter every thirty-five hundred miles,|sd|3573|1
+B|and I, I did have to put two, two new front tires on at fifty thousand miles,|sd|3573|1
+B|but that car just purrs like the day it was built.|sd|3573|1
+B|I get forty-two miles per gallon on the highway and uh, twenty-eight to thirty driving around in town.|sd|3573|1
+B|It's a five speed straight stick machine.|sd|3573|1
+A|Uh-huh.|b|3573|0
+B|And, I can carry more in that, uh, that trunk area in my little Honda than I can in the big cars,|sd|3573|1
+B|and I have a large, um, Pontiac,|sd|3573|1
+B|and I have a sixty-nine Cougar, which really is, I'm saving because it's, it's old,|sd|3573|1
+B|but it's in beautiful shape.|sd|3573|1
+A|Uh-huh.|b|3573|0
+B|But I can carry as much in my Honda or more than I can in, in those other bigger cars.|sd|3573|1
+A|Well, that's very interesting.|ba|3573|0
+A|I've had, I've had exactly the same experience with the one that I've got.|sd|3573|0
+A|It's a,|%|3573|0
+A|and surprisingly it's also an eighty-four|sd|3573|0
+B|Oh, oh.|b|3573|1
+A|and, uh,|%|3573|0
+B|L X?|qy^d|3573|1
+A|Yeah,|ny|3573|0
+A|I'm still here.|sd|3573|0
+A|Um, I'm sorry what?|br|3573|0
+B|It was an L X?|qy^d|3573|1
+A|Yes,|ny|3573|0
+A|it's an L X,|sd|3573|0
+A|it's not a hatchback,|sd|3573|0
+A|but it's, um, it's, uh,|%|3573|0
+B|Uh-huh,|b|3573|1
+B|yours is a four door.|qy^d|3573|1
+A|Four door,|na|3573|0
+A|yeah|ny|3573|0
+B|Uh-huh.|b|3573|1
+A|and very, very comfortable car.|sv|3573|0
+A|Big roomy trunk|sd|3573|0
+B|Yeah.|b|3573|1
+A|uh, and, uh, and very happy with it,|sd|3573|0
+A|and I must admit it's, you know,|sd|3573|0
+A|if, if, if, uh,|%|3573|0
+A|my only consideration were, were, you know, buying another car just to tool around town in and make, you know, brief trips and things like that,|sd|3573|0
+A|I would very, very seriously consider buying one. Uh,|sd|3573|0
+A|I think they're extraordinarily reliable cars.|sv|3573|0
+B|Yes,|aa|3573|1
+B|they are.|sv|3573|1
+A|Um, my, my real concern with, uh, uh, why I'm not sure I want to buy a Honda, is because I have to make a kind of a, a steady, um, trip down the road about once a month, because I'm divorced|sd|3573|0
+A|and I have a daughter that lives down in North Carolina|sd|3573|0
+B|Um, uh-huh.|b|3573|1
+A|and, uh, I drive, down Interstate Ninety-five,|sd|3573|0
+A|and it's just an absolutely wild highway.|sv|3573|0
+B|Ninety-five is wild in any car.|sv|3573|1
+B|There's no doubt about that|aa|3573|1
+A|Yeah|b|3573|0
+A|and,|%|3573|0
+B|because I, I, I run over to Crystal City, or used to,|sd|3573|1
+B|I'm retiring the end of this month|sd|3573|1
+A|Uh-huh.|b|3573|0
+B|but I'm very much aware of the crazy driving that goes on over there.|sd|3573|1
+A|And, you, well, you've got it,|aa|3573|0
+A|and, uh, so having precious cargo in the car with me as you can well imagine, it's very hard for me to imagine that, that, uh, a Honda's going to be as safe a car as, as the one that I've got my eye on, which is a Volvo.|sd|3573|0
+B|Uh-huh,|b|3573|1
+B|uh-huh.|b|3573|1
+A|In, in fact, quite frankly I've owned a Volvo in the past,|sd|3573|0
+A|and uh, I've, I've,|%|3573|0
+B|Uh-huh.|b|3573|1
+A|they're expensive cars to keep up when they need service,|sv|3573|0
+A|but, uh, I've found that I've had a lot of luck with them.|sd|3573|0
+A|Uh, course I'm a mechanically inclined kind of person,|sd|3573|0
+A|and I always wind up getting under the hood and finding out all the things that, you know, need to be taken care of, and so forth.|sd|3573|0
+A|And I guess that's one thing that, that recommends the Honda to a lot of people, is is there's just very little that you have to do under the hood,|sv|3573|0
+A|and, uh,|%|3573|0
+B|Yes,|aa|3573|1
+B|it just, just sits there and purrs,|sd|3573|1
+B|and you, all you got to do is the main major thing of changing that oil and that filter.|sd|3573|1
+B|I get six hundred miles on a tank of gas.|sd|3573|1
+A|Oh, I know.|aa|3573|0
+A|It's really amazing.|sv|3573|0
+B|Yeah.|b|3573|1
+A|It's, uh,|sv|3573|0
+B|Beautiful, beautiful machine.|^2|3573|1
+A|Absolutely,|aa|3573|0
+A|incredible|ba|3573|0
+A|So, um, yeah,|%|3573|0
+A|anyway, I've been looking at the prices of these cars and, and so forth,|sd|3573|0
+A|and I think that it's, it's very surprising some of these very expensive Volvos can be gotten for a lot less money than you would think if you're willing to buy ones that are about, the vintage of the cars that you and I currently own|sv|3573|0
+B|Is that right,|bh|3573|1
+B|uh-huh.|b|3573|1
+B|Uh-huh.|b|3573|1
+A|and, um,|%|3573|0
+B|Well, a brand new Volvo costs, what, thirty thousand dollars?|qy^d|3573|1
+A|Well, certainly some of the top end ones.|na|3573|0
+A|You can still get, get, uh, even the, the low end wagons, um, for less than twenty thousand dollars|sd|3573|0
+B|Uh-huh.|b|3573|1
+A|and, uh, we get, you know,|sd|3573|0
+A|in the Washington area, of course, being as affluent as it is, there are lots and lots of Volvo dealerships down here|sd|3573|0
+B|Um, uh-huh.|b|3573|1
+A|so there're lots and lots of them available in the paper at any, any week,|sd|3573|0
+A|and I sort of, you know, scan the paper and look at them, and so forth|sd|3573|0
+A|and so, um, anyway, and that's, that's the other thing is that I've, I've never really been too terribly much of a new car person.|sd|3573|0
+B|Yeah.|b|3573|1
+A|I think I've bought one or two new cars in my life,|sd|3573|0
+A|and I've tended to, um, to, uh, buy cars that are, you know, two or three, and sometimes even four and five or six years old.|sd|3573|0
+A|This Honda that I have I bought used,|sd|3573|0
+A|and, in fact, it had an extraordinarily low amount of mileage on it.|sd|3573|0
+A|I've just rolled seventy thousand miles,|sd|3573|0
+A|and it's a seventy-four, I mean, an eighty-four.|sd|3573|0
+A|So|%|3573|0
+B|Well, my, my eighty-four just has seventy-seven on it|sd|3573|1
+A|Yeah.|b|3573|0
+B|and I've made many trips to Washington and down to Virginia Beach, Virginia, where my mother lives, and things like that,|sd|3573|1
+B|and I drive it,|sd|3573|1

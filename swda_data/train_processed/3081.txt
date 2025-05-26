@@ -1,0 +1,192 @@
+A|Okay,|fo_o_fw_"_by_bc|3081
+A|well, I, I, I guess if I was having a dinner party I, depending on the number of people, I might cook a, like a brisket or a roast or a, maybe a chicken dish|sd|3081
+B|Uh-huh.|b|3081
+A|and, um, I guess I usually plan probably a lettuce salad and a, a potato dish,|sd|3081
+A|and we usually serve fresh fruit and, uh, then make a dessert.|sd|3081
+B|Oh, that sounds good.|ba|3081
+A|So that makes,|%|3081
+B|Uh, we're not, uh, real wealthy at the moment.|sd|3081
+B|Last time I had people over for dinner we had lasagna,|sd|3081
+B|and I used my mother's recipe,|sd|3081
+B|I really like it.|sd|3081
+B|It's got, um,|%|3081
+B|you cook the noodles and make, and brown hamburger and put tomato sauce in with it|sd|3081
+B|and, I'm not sure she even puts,|sd|3081
+B|must be some Italian spices in there.|sd|3081
+B|I can't remember.|sd|3081
+B|But, um, for the cheese part, you mix, uh, sour cream, and cream cheese and cottage cheese and, uh, layer all that.|sd|3081
+A|Well, that sounds good.|ba|3081
+B|It's good.|sd|3081
+A|That sounds good.|ba|3081
+B|And, then, uh, uh, tossed salad and, and, um, someone in the Oh,|sd|3081
+B|my goodness, Diane, get down from there.|t3|3081
+B|to And, uh, let's see,|^h|3081
+B|what else did I serve with that.|t1|3081
+A|Bread, do you have bread to go with it?|qy|3081
+B|Corn,|sd|3081
+B|yeah,|b|3081
+B|I made French bread with that one too.|na|3081
+A|Gosh.|ba|3081
+B|I have a recipe that's pretty good for that|sd|3081
+B|So.|%|3081
+A|Oh, well, lasagna's always wonderful for large crowds.|sv|3081
+B|Yeah.|b|3081
+A|I've heard, you know, I've heard a lot of people say, it, the short cut on the cooking for lasagna,|sd|3081
+A|they, they've told me that they go to Sam's and buy a great big pan of lasagna.|sd|3081
+B|I've heard that Sam's has a really good lasagna|sd|3081
+A|So.|%|3081
+B|in fact I think I had it at a, at a party once.|sd|3081
+A|Did you?|bh|3081
+B|It was good.|sd|3081
+A|Well, I, I know people that have, have served it|sd|3081
+A|and they say, gosh, if you have company coming when you don't want to be always in the kitchen, it's easy,|sd|3081
+B|Easy|^2|3081
+A|and she said it's, they said it's good.|sd|3081
+B|Yeah.|b|3081
+A|So, that, that's always sounds good to me, um,|ba|3081
+B|Yeah.|b|3081
+A|I feel like, I feel like I'm in the kitchen cooking a lot.|sd|3081
+B|Oh, I know.|ba|3081
+A|I cook, guess I cook a, seems like I cook a lot of dinners, oh, not always for company, just for, just for family.|sd|3081
+B|Oh, yeah.|b|3081
+A|So, feels like I'm often in the kitchen.|sd|3081
+B|Not my favorite place, but. A necessity|sv|3081
+A|But a time consuming place.|^2|3081
+A|Yeah,|b|3081
+A|right,|b|3081
+A|right,|b|3081
+A|so.|%|3081
+B|Let's see,|^h|3081
+B|what else do we like to have for,|t1|3081
+B|trying to think what else I like to serve.|^h|3081
+B|My mother likes to serve taco grandes.|sd|3081
+B|Have you ever had,   that?|qy|3081
+A|I don't know,|no|3081
+A|what that is.|sd|3081
+A|No|nn|3081
+A|I don't know what that is.|sd|3081
+B|You take a flour tortilla|sd|3081
+B|and you fry it like a taco shell|sd|3081
+A|Okay.|b|3081
+A|Right.|b|3081
+B|and you, uh,|%|3081
+B|for all the inside parts you brown hamburger and put some, um, tomato sauce in it,|sd|3081
+B|and, and I like to just add picante sauce to get the Mexican flavor|sd|3081
+B|so you don't have to mess with spices and stuff.|sd|3081
+A|Right.|b|3081
+B|And, then, um, let's see,|^h|3081
+B|and then, and you heat up refried beans,|sd|3081
+B|and you cut up tomatoes and lettuce and grated cheese,|sd|3081
+B|and what you do to make it, you take the shell and you spread the beans on first,|sd|3081
+B|then you put the meat,|sd|3081
+B|then you put the grated cheese,|sd|3081
+B|and then you put, um,|sd|3081
+B|let's see, what's next,|^h|3081
+B|then, and I, I usually put the cut up tomatoes next and then the, um, lettuce,|sd|3081
+A|Right.|b|3081
+B|and you can put, uh, like guacamole and someone in the|sd|3081
+B|Katy, I'm on the phone.|t3|3081
+B|Well, get a towel or go change.|t3|3081
+B|I'm on the phone.|t3|3081
+B|to Um, oh a little sour cream is good and, and chopped olives,|sd|3081
+A|Right.|b|3081
+A|Right.|b|3081
+A|Do you like to make your own guacamole?|qy|3081
+B|Uh, yeah.|ny|3081
+A|Yeah,|b|3081
+A|we, we don't make it very often, I guess,|sd|3081
+A|but, uh,|%|3081
+B|No,|aa|3081
+B|I don't very often.|sd|3081
+B|Usually when we get avocados my kids just like to eat them plain|sd|3081
+A|Oh do they?|bh|3081
+B|so. Yeah.|%|3081
+A|Gosh,|ba|3081
+B|I just cut slices off|sd|3081
+B|and. I like an avocado sandwich, too.|sd|3081
+A|Gosh,|ba|3081
+A|Oh, that's good,|aa|3081
+A|that's good,|aa|3081
+A|or it's always good on top of something in the sandwich.|sd|3081
+B|Yeah,|b|3081
+B|yeah.|b|3081
+A|Oh, well, we made, I made guacamole that I would take to a pool party across the street the other day,|sd|3081
+A|and, and everyone there said they never made guacamole salad.|sd|3081
+B|off What you want.|t3|3081
+B|to where do they get it?|qw|3081
+A|Well, I don't know,|sd|3081
+A|I guess they don't have it at home,|sv|3081
+B|I can't imagine it would stay fresh long enough to,|sv|3081
+B|I guess they just buy it at a restaurant when they eat it at a restaurant maybe.|sv|3081
+A|They must, they just said they never had it at home.|sd|3081
+A|So I, I was concerned that, I thought, oh, taking this, you know, taking this as a dip, I thought, gosh, you know, sometimes when we have it at home it, it turns dark on the top so quickly,|sd|3081
+B|Yeah.|b|3081
+A|so I just,|%|3081
+B|It helps if you, I helps if you leave the pit in it.|sd|3081
+A|Oh, does that help?|qy|3081
+B|Yeah,|ny|3081
+B|if you leave the pit in the bowl with the thing, especially while you're waiting before you serve it.|sd|3081
+A|Okay,|b|3081
+A|well,|%|3081
+B|That's supposed to help keep the, um, keep it from turning brown so quick.|sd|3081
+A|Well, I'll have to remember that.|oo_co_cc|3081
+A|Well, I just, I, that day I just took extra lemon and just squeezed across the top|sd|3081
+A|and it really stayed longer than I ever thought it would,|sd|3081
+B|Oh.|b|3081
+A|so.|%|3081
+B|Oh, that's good.|ba|3081
+A|I thought maybe that was the trick.|sd|3081
+B|That probably helps, too.|sv|3081
+A|Yeah,|b|3081
+A|yeah,|b|3081
+A|so. Oh, well. I guess we bought a lot of,|sd|3081
+A|we've been buying turkey lately, instead of beef,|sd|3081
+A|so|%|3081
+B|Do you want it?|t3|3081
+A|even though, you know,|%|3081
+B|Oh, yeah|b|3081
+B|we have too,|sd|3081
+A|the ground turkey, it's, the meat is softer|sd|3081
+A|and I,|%|3081
+A|everybody seems to like it.|sd|3081
+B|Do you want scrambled?|t3|3081
+A|So. Sometimes it seems to be cheaper, too,|sd|3081
+A|so we often buy it|sd|3081
+B|Yeah.|b|3081
+B|Yeah|b|3081
+A|we buy it,|sd|3081
+B|if you get it on sale,|sv|3081
+A|Yeah,|b|3081
+A|yeah,|b|3081
+A|so we bought that|sd|3081
+A|or we bought the, the filets, and then the chicken, or turkey nuggets,|sd|3081
+A|and I don't think anybody in my house knows the difference, unless you tell them.|sd|3081
+B|Yeah,|b|3081
+B|yeah|b|3081
+A|Or in,|%|3081
+B|I don't think mine know either.|sd|3081
+B|In fact, we've been getting lunch meat that's turkey, too.|sd|3081
+B|It costs less than the other,|sd|3081
+B|I don't know,|h|3081
+B|there's supposed to be something more healthy about it|sd|3081
+A|Yeah,|b|3081
+A|yeah.|b|3081
+B|Poultry instead of the beef and pork,|sd|3081
+B|yeah|%|3081
+A|right,|b|3081
+A|right.|b|3081
+A|Well, I guess that's probably all we need to do for tonight.|sv|3081
+B|Yeah,|aa|3081
+B|I, I can't think of any other specific things I like to serve. Um,|sd|3081
+A|I always like dessert|sd|3081
+B|One salad that we always like, my sister-in-law always brings to family dinners, is a,|sd|3081
+B|I don't know what you call it.|sd|3081
+B|Uh, you mix, um, cottage cheese and a package of jello and a thing of, uh, like Cool Whip|sd|3081
+A|Right,|b|3081
+A|right|b|3081
+B|that's good and quick and easy,|sv|3081
+A|that's always good,|ba|3081
+A|Probably, probably the only family recipe that we, we make and it's really for special occasions is cheese cake,|sd|3081
+A|and we take a recipe from my grandmother, you know|sd|3081
+B|Uh-huh.|b|3081
+A|it's probably fairly typical, cream cheese and egg and sugar, and the insides of a,|sd|3081

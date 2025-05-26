@@ -1,0 +1,154 @@
+A|Night,|fo_o_fw_"_by_bc|3528|0
+B|Fine,|fp|3528|1
+B|thank you.|ft|3528|1
+A|I understand we're supposed to talk about spaceflight.|sd|3528|0
+B|Yes.|aa|3528|1
+A|I hope you know more about it than I do.|sd|3528|0
+B|Oh, well I just got through renting, reading, uh, SPACE by, uh, James Michener.|sd|3528|1
+A|Oh, is that right?|qy|3528|0
+B|And so that, uh, helped out a little bit I think.|sv|3528|1
+A|I haven't read his book.|sd|3528|0
+A|I was so upset with TEXAS that I haven't gotten into any more of his books because I thought it was just horrible.|sv|3528|0
+B|Well, he tends to go into a lot of detail sometimes.|aa|3528|1
+A|Well,|h|3528|0
+A|and I don't think he was truthful in a lot of what he did in TEXAS|sv|3528|0
+A|so I wasn't sure how credible he was.|sv|3528|0
+B|Oh, is that right?|qy|3528|1
+A|But anyway, what do you think we've gained from the spaceflights?|qo|3528|0
+B|Well uh, I'm not sure to be honest with you,|^h|3528|1
+B|so, uh, this going to the moon seemed to be a exciting adventure|sv|3528|1
+B|and, uh, And, yeah,|%|3528|1
+A|Ego trip.|sv|3528|0
+B|it was nice to go there,|sv|3528|1
+B|but I don't know that it really benefitted mankind that much.|sv|3528|1
+A|Uh-huh.|b|3528|0
+B|I happen to live not too far away from,|sd|3528|1
+B|uh, well, I've actually worked for the company that, uh, has been blamed for the Challenger disaster. Uh Morton Thiakol.|sd|3528|1
+A|Oh, is that right?|qy|3528|0
+A|Uh-huh.|b|3528|0
+B|And, uh, you know, that's been kind of a, a real negative feeling here|sd|3528|1
+B|is|sd|3528|1
+A|Right.|b|3528|0
+B|sure it was, you know, very unfortunate thing that occurred there|sv|3528|1
+B|and it's,|%|3528|1
+A|Where do you live?|qw|3528|0
+B|Uh, we live in, uh, Utah.|sd|3528|1
+A|You live in|bk|3528|0
+A|am I talking to Utah right now?|qy|3528|0
+B|Uh-huh.|ny|3528|1
+A|Oh, oh, great.|ba|3528|0
+B|Yeah.|b|3528|1
+A|Because I'm in Dallas.|sd|3528|0
+B|Uh,|b|3528|1
+B|Oh.|b|3528|1
+B|I have a sister that lives in Dallas,|sd|3528|1
+B|that's how we got hooked up to the program was her her husband works for Penney's there.|sd|3528|1
+A|I see.|b|3528|0
+A|I see.|b|3528|0
+B|So.|%|3528|1
+A|Carolyn Rash?|qy^d|3528|0
+B|Pardon me?|br|3528|1
+A|Is her name Rash, Carolyn Rash?|qy|3528|0
+B|No, her name is, uh, my last name is Skidmore.|ng|3528|1
+A|I see.|b|3528|0
+B|And her, her husband's name is, his last name is Weight.|sd|3528|1
+A|I see.|b|3528|0
+B|And, uh,|%|3528|1
+A|Well, you probably know a lot about it.|sv|3528|0
+A|I wasn't sure that they were blaming that space disaster on one company.|sv|3528|0
+A|I hadn't heard that.|sd|3528|0
+B|Well, they were.|sd|3528|1
+B|There was, uh,|%|3528|1
+B|apparently the specifications for the joints, uh,|sd|3528|1
+B|they were not to perform in, uh, cold weather|sd|3528|1
+B|and, uh, apparently there was definitely a, a joint that did not seal,|sd|3528|1
+B|and, uh, if you've ever seen the size of those, uh, motors that put them into space,|sd|3528|1
+A|Uh-huh.|b|3528|0
+B|I mean, they're as long as a football field practically and about twelve foot in diameter|sd|3528|1
+A|Uh-huh.|b|3528|0
+B|and, and there is a lot of pressure, lot of thrust to get that much weight up in the air.|sd|3528|1
+A|Oh, yeah.|b|3528|0
+B|So it's, this book was interesting, though.|%|3528|1
+B|I, uh,|sv|3528|1
+B|talked about how a lot of the problems they have to come, overcome to, uh,|sd|3528|1
+B|it's a very complex, uh, situation to go into space.|sv|3528|1
+A|Oh, yeah,|aa|3528|0
+A|I would think so, too|aa|3528|0
+B|They would,|%|3528|1
+B|the thing that he went into quite a bit of detail about how, how much of a problem it is to re-enter the Earth's atmosphere.|sd|3528|1
+A|You never think about that do you?|qy|3528|0
+B|Yeah.|ny|3528|1
+A|I would think it would be harder to get up than it would be getting back down.|sv|3528|0
+B|Yeah|b|3528|1
+B|But they have to come in at a, just the right angle.|sd|3528|1
+B|If you come in at the wrong angle, what happens is they bounce off and go back into space|sd|3528|1
+A|Uh-huh.|b|3528|0
+B|and if they come into it at a different angle there is so much friction that it burns them up.|sd|3528|1
+A|Right.|b|3528|0
+B|So,|%|3528|1
+A|Well, I saw one of, some of those early space capsules at Smithsonian.|sd|3528|0
+A|I'm sure you've seen more of them than I have,|sv|3528|0
+B|Oh.|b|3528|1
+A|but you could see the scorch on them, you know,|sd|3528|0
+B|Uh-huh.|b|3528|1
+A|they had though piles|%|3528|0
+B|Yeah.|b|3528|1
+A|but you could see where they would come off in the, how hot it got because it was still the scorch on them which was quite interesting.|sv|3528|0
+B|Yeah,|b|3528|1
+B|I've, I've, I would say I've never, I've never seen an actual capsule.|sd|3528|1
+A|Well, I,|%|3528|0
+A|excuse me, go ahead.|ad|3528|0
+A|Oh, yeah.|b|3528|0
+B|I've seen more, more of the motors that, that they produced out there.|sd|3528|1
+A|Uh-huh.|b|3528|0
+A|Well, these were the ones that John Glenn went up in you know, and the old, old ones.|sd|3528|0
+B|Uh-huh.|b|3528|1
+B|Yeah.|b|3528|1
+A|The very first ones,|sd|3528|0
+A|the little bell type things.|sd|3528|0
+B|People have commented how, uh, they were surprised at how small they were.|sd|3528|1
+A|Yeah,|aa|3528|0
+A|they really were,|sd|3528|0
+A|they just, uh,|%|3528|0
+B|Looked pretty confining, huh.|qy^d|3528|1
+A|Oh, yeah,|ny|3528|0
+A|and, uh, the whole thing was small|sd|3528|0
+A|and, yeah, you, I mean, you actually put it on you know.|sv|3528|0
+B|Is that right?|qy|3528|1
+A|You put it around you pretty much,|na|3528|0
+A|it was so small.|sd|3528|0
+B|Huh.|b|3528|1
+A|Well, I thought there was some medical benefits that we have learned from space,|sv|3528|0
+A|but did he go into that in the book?|qy|3528|0
+B|Not really. Uh,|ng|3528|1
+A|I guess that's just to sell us on it.|sv|3528|0
+B|One thing's,|sd|3528|1
+B|I know one thing they've, they've mentioned that I didn't get from the book, by the way,|sd|3528|1
+B|but, it talked about, uh,|sd|3528|1
+B|they're able to manufacture, uh, different kinds of crystals and ball bearings and things like that in a zero gravity state that they turned out being almost, uh, nearly perfect as far as a ball bearing goes.|sd|3528|1
+A|Oh, yeah.|b|3528|0
+B|It's perfectly round.|sd|3528|1
+A|Uh-huh.|b|3528|0
+B|But I'm not sure you have to go to outer space to achieve that zero gravity.|sv|3528|1
+A|Well, that's true|aa|3528|0
+A|and,|%|3528|0
+B|Yeah.|b|3528|1
+A|That's right|aa|3528|0
+A|Well, do you think we should continue to support it at the level,|qy|3528|0
+A|well, I thought probably one of the things they were doing that they didn't tell us was spying.|sv|3528|0
+A|Because I think those satellites, you know, or not satellites, but the spaceflights could really spy|sv|3528|0
+B|Uh-huh.|b|3528|1
+A|and with, uh with Russia's demise, I didn't know if we should continue to support it at the current level.|sv|3528|0
+B|Yes.|aa|3528|1
+B|Uh, I think they have cut it back, to be honest with you. From, from the glory days when they did the Apollo shots to the moon.|sv|3528|1
+A|Yeah.|b|3528|0
+A|Uh.|b|3528|0
+B|Uh, I appreciate having the satellites.|sd|3528|1
+B|You know, that's certainly made it nice for other purpose.|sv|3528|1
+B|I don't know if you have a satellite dish or not.|qy^d|3528|1
+B|We don't|sd|3528|1
+A|No,|nn|3528|0
+A|I don't.|sd|3528|0
+A|I don't either.|sd|3528|0
+B|but I I know that's certainly helped a lot in that regard. Uh,|sv|3528|1
+A|Yeah.|b|3528|0

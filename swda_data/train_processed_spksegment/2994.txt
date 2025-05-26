@@ -1,0 +1,117 @@
+A|Okay,|fo_o_fw_"_by_bc|2994|0
+A|have you participated in anything like that?|qy|2994|0
+B|Well a little bit,|na|2994|1
+B|we mostly do our newspapers.|sd|2994|1
+B|We keep our newspapers, and stuff like that and we keep our newspapers and stuff like that|sd|2994|1
+B|and we take them to be recycled.|sd|2994|1
+A|Uh-huh,|b|2994|0
+A|uh, we, we have a pretty nice recycling center, uh, in our city now|sd|2994|0
+A|and we take the newspapers and plastic and glass up there.|sd|2994|0
+A|They're open like two days a week|sd|2994|0
+A|and you can just take it up there and drop it off.|sd|2994|0
+B|Uh-huh.|b|2994|1
+A|It's kind of fun.|sd|2994|0
+A|And everybody up there looks pleased with themselves when they're taking their stuff in like they're doing something good to, help the earth, I guess.|sd|2994|0
+B|Yeah.|b|2994|1
+B|And a lot of people complain because it's really not convenient for them.|sv|2994|1
+A|Yeah.|aa|2994|0
+A|Yeah|aa|2994|0
+A|my husband was complaining the other day|sd|2994|0
+A|because he said every time I turn around you're telling me some new rule about recycling|sd|2994|0
+A|like yesterday I was tell him, you have to, you're supposed to squeeze the plastic jugs before you take them up there.|sd|2994|0
+B|You're supposed to what.|br|2994|1
+A|Every time he turns around I'm giving him some new rule, where you're supposed to squish up the, you know, like collapse the plastic jugs. Instead of taking them up there solid.|sd|2994|0
+B|But what are you supposed to do with them.|qw|2994|1
+B|Oh, okay.|bk|2994|1
+A|And I wish that our recycling center took paper bags.|sd|2994|0
+A|They won't take those.|sd|2994|0
+A|We like to put our, just put our newspapers in a paper bag, you know, and then carry them up there that way.|sd|2994|0
+B|Uh-huh.|b|2994|1
+A|And we have to bring the paper bags back every time. Because they won't take them.|sd|2994|0
+B|Yeah.|b|2994|1
+A|Do you, uh, take your papers somewhere|qy|2994|0
+A|or does someone pick them up?|qrr|2994|0
+B|We, we usually collect a, you know, collect a quite a bit|sd|2994|1
+B|and then we take them, take them in.|sd|2994|1
+A|Uh-huh.|b|2994|0
+A|We, um, we don't take our cans up to that center, though,|sd|2994|0
+A|our aluminum cans, we like to take them to one of the places where they pay you for them.|sd|2994|0
+B|Yeah,|b|2994|1
+B|we don't, we don't, um, use aluminum cans,|sd|2994|1
+A|Uh-huh.|b|2994|0
+B|so, we generally don't have those to do.|sd|2994|1
+A|Yeah,|b|2994|0
+A|it takes us about a year to save up enough to be worth, you know, worth bothering to go in and do,|sd|2994|0
+A|but. Do you, um, have any ideas on anything that would make,|qy|2994|0
+B|You know, they, they charge you, you know,|sd|2994|1
+B|it's like a flat rate I think for picking up your garbage.|sd|2994|1
+A|Uh-huh.|b|2994|0
+B|And I know a lot of people it would, would solve the convenience problem if they had curbside pickup|sv|2994|1
+B|and some communities are trying to do that now.|sd|2994|1
+B|And I think that maybe if they only charged for the garbage that you did not sort and have set up for recycling,|sv|2994|1
+A|Right.|b|2994|0
+B|they, they charged you by, by weight of how much trash you were actually sending to a land fill.|sv|2994|1
+A|Yeah|aa|2994|0
+A|that would be a good idea.|ba|2994|0
+B|That that might be a better way to do it.|sv|2994|1
+A|Yeah.|b|2994|0
+B|And then people would, would know that it was going to cost them money to not sort their trash.|sv|2994|1
+A|Right.|aa|2994|0
+A|Yeah,|aa|2994|0
+A|that would be a real good motivation for people.|sv|2994|0
+B|You know, because then it would, then it would make monetary sense to them, you know, to say, hey, you know, if I just spend the time to, to sort this out where this stuff can be recycled then I don't have to pay for them hauling it off.|sv|2994|1
+A|Right.|aa|2994|0
+A|Yeah,|aa|2994|0
+A|my father was telling me about some program he read about where you buy your bags, like you buy your garbage bag from the city,|sd|2994|0
+B|Uh-huh.|b|2994|1
+A|and you pay more than just what you would pay for an empty garbage bag|sd|2994|0
+A|but then you don't pay any monthly fee or anything,|sd|2994|0
+A|so how ever many bags of garbage you throw away, that's how many you have to pay for.|sd|2994|0
+B|Oh, yeah|b|2994|1
+B|that's about the same kind of thing.|sv|2994|1
+A|Yeah.|aa|2994|0
+A|Yeah|aa|2994|0
+A|that would be a real good idea.|sv|2994|0
+A|I'm trying to think if there's anything else I could think of.|sd|2994|0
+A|They are talking about going to curbside pickup in our, in our city .|sd|2994|0
+B|Where do you live?|qw|2994|1
+A|Rowlett, Texas.|sd|2994|0
+B|Oh, okay.|bk|2994|1
+A|Do you know where that is?|qy|2994|0
+B|Yes.|ny|2994|1
+A|And I don't know if they decided to do, or not,|sd|2994|0
+A|but I think they said it was going to add like either a dollar or three dollars a month to your bill to have them do that.|sd|2994|0
+A|Although, I think a lot of those programs can operate at about a break even, break even point,  without charging people.|sv|2994|0
+B|It seems like they would be able to.|aa|2994|1
+A|Yeah|%|2994|0
+A|I don't know, uh,|h|2994|0
+A|I guess it just depends on how they manage it.|sv|2994|0
+B|Uh-huh.|b|2994|1
+A|I don't know how much they get when they sell all that stuff.|sd|2994|0
+A|The center that they've got now where you take your stuff in I, I think that should be making some money. Since they just have to hire someone to man it a few hours a week.|sd|2994|0
+B|Yeah.|b|2994|1
+A|And they sell, I guess they sell everything to some waste company that comes and gets it.|sd|2994|0
+B|Yeah.|b|2994|1
+A|But I wish that, uh, more of the cans, you know, like the cans you buy vegetables and fruit and stuff like that in were recyclable.|sd|2994|0
+A|I don't,|%|2994|0
+A|a lot of that's that recyclable steel|sd|2994|0
+A|and I don't know anybody that takes that.|sd|2994|0
+B|Yeah,|aa|2994|1
+B|that's true .|aa|2994|1
+A|my husband likes Pepsi|sd|2994|0
+A|and those cans are steel instead of aluminum,|sd|2994|0
+A|so we can't, can't ever recycle them.|sd|2994|0
+A|I think it's a good reason to quit buying it.|sv|2994|0
+B|Um, now I didn't know that,|sd|2994|1
+B|cause we just usually if we're going to, uh, buy sodas they're in the, the two liter bottles.|sd|2994|1
+A|Yeah,|b|2994|0
+A|that's what we buy the most of, unless we're going on a trip or something where we want to, put the cans in a cooler|sd|2994|0
+B|Yeah.|b|2994|1
+A|But, well that's all I can really think about for recycling.|sd|2994|0
+B|Okay.|b|2994|1
+A|It was good talking to you.|fc|2994|0
+B|Okay.|fc|2994|1
+A|Uh, bye.|fc|2994|0
+B|All right,|fc|2994|1
+B|bye-bye. voice said what's that|fc|2994|1
+B|voice said, where were they|t3|2994|1

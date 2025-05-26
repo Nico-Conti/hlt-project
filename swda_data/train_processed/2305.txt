@@ -1,0 +1,265 @@
+A|Okay, um, well,|fo_o_fw_"_by_bc|2305
+A|the first thing,|fo_o_fw_"_by_bc|2305
+A|uh, what do you think you would offer as far as, uh, information about selecting a school?|qw|2305
+B|Well, first I think they've got to have a pretty good idea of what they want to, what they want to do.|sv|2305
+A|Uh-huh.|b|2305
+B|Uh, once they have that, then they can start looking in all the various publications that give out all the information about schools and write to the schools themselves, and start finding out about the different requirements for the programs and what kind of, uh, of job assistance and all that other kind of stuff they offer.|sv|2305
+A|Yeah, uh,|b|2305
+A|do you, do you feel that the first two years that the, um,|qy|2305
+A|depending upon the field, I know there are some fields which a person should go to the school, that school, all four years,|sd|2305
+A|but I know there are some fields where it's really not necessary.|sd|2305
+B|Yeah,|aa|2305
+B|a lot fields are,|sv|2305
+B|most of your liberal arts degrees and stuff aren't really concerned with your first two years anyway.|sd|2305
+B|It's, it's your core education, your general general education requirements.|sd|2305
+A|Uh-huh.|b|2305
+B|Um, if, you know, if they want to get a liberal arts degree, I don't, I don't know what advice I'd give them.|sd|2305
+B|Go to the school you'd like to go to.|^q|2305
+A|Yeah.|b|2305
+B|That's what I did|sd|2305
+A|Yeah.|b|2305
+B|I didn't care about the program or anything else.|sd|2305
+B|I went where I wanted to go.|sd|2305
+A|Yeah.|b|2305
+A|What was your degree in?|qw|2305
+B|Uh, political science.|sd|2305
+A|Political science, oh,|b^m|2305
+A|okay.|bk|2305
+A|Well, I I know, I'm going to school right now,|sd|2305
+A|and, uh, I have a friend,|sd|2305
+B|Where are you at?|qw|2305
+A|Uh, U T D.|sd|2305
+A|University of Texas, Dallas.|sd|2305
+B|Well, yeah,|b|2305
+B|I guess, everybody's in Dallas that I talk to.|sv|2305
+B|I'm in, North Carolina.|sd|2305
+A|I know.|aa|2305
+A|That's where Texas Instruments is.|sd|2305
+B|Yeah,|aa|2305
+B|right.|aa|2305
+A|Um, something that I, I think that I've noticed that|sd|2305
+A|I, I have a friend,|sd|2305
+A|I think if you're going into like, uh, law or medicine, a very particular, very specific field, even, even engineering, you can get, you can meet a lot of the requirements at a public, um, institution.|sd|2305
+B|Sure.|b|2305
+A|And, uh, it's a lot cheaper.|sd|2305
+B|Oh, yeah.|aa|2305
+A|My parents, my parents made a mistake in, uh, in sending my sister to a private institution for the first two years.|sd|2305
+B|Um.|%|2305
+A|And she found out after that,|sd|2305
+A|she said, you know, my parents, they just, they really wasted a lot of money.|sd|2305
+A|This is about twenty years ago.|sd|2305
+B|Uh-huh.|b|2305
+A|But, uh, well, right now I just,|sd|2305
+A|I mean as far as selecting, selecting a school, I, I, I feel that, uh, a lot of it depends upon the major.|sv|2305
+B|Yeah,|aa|2305
+B|it does. Um,|sv|2305
+B|I didn't know what I wanted to do after I got my, my degree.|sd|2305
+A|Uh-huh.|b|2305
+B|Um, originally I had planned, uh, undergrad degree in political science and then a master's in public administration.|sd|2305
+B|And I went ahead and pursued that.|sd|2305
+B|I, I got as far as the thesis, and decided, To hell with it,|sd|2305
+B|I didn't want it.|sd|2305
+B|Um, and from that point I went to law school.|sd|2305
+A|Uh-huh.|b|2305
+B|And after a year and a half of that I decided I didn't want that either|sd|2305
+A|Okay.|b|2305
+B|Haven't figured out what I want to be when I grow up.|sd|2305
+A|Yeah.|b|2305
+B|And so, but I, I, I really did enjoy the law.|sd|2305
+B|I mean, that's, that's where I wanted to be,|sd|2305
+B|but I didn't want to go through the, uh, the hassle that the law schools put you through, because I never did want to be a practicing attorney.|sd|2305
+B|I just wanted a law degree.|sd|2305
+A|Uh-huh.|b|2305
+B|And I've since discovered that I would be far better off being in the paralegal field. Because that's the nuts and bolts of the law, and that's what I like,|sd|2305
+A|Yeah.|b|2305
+B|and you don't have to put up with all the B S that the lawyers have to.|sd|2305
+A|Right.|b|2305
+B|So that's, that's what I'm pursuing right now|sd|2305
+A|Um.|%|2305
+B|and I'm pretty happy with it so far.|sd|2305
+A|Yeah,|b|2305
+A|yeah,|b|2305
+A|I'm, I'm pursuing what they, what's, what's called an interdisciplinary field.|sd|2305
+A|I'm a speech therapy major|sd|2305
+B|Uh-huh.|b|2305
+A|and fortunately I have a lot of, I have a good medical background,|sd|2305
+B|Yeah.|b|2305
+A|and,|%|2305
+B|that's probably very useful.|sv|2305
+A|Yeah,|aa|2305
+A|it's, it's actually turning out to be more, more useful than what I thought.|sd|2305
+B|Uh-huh.|b|2305
+A|And, um, I also have a good languages background, linguistics. And some psychology.|sd|2305
+B|Uh-huh.|b|2305
+A|So, it's all working together.|sd|2305
+B|Yeah.|b|2305
+A|The only field I'm not familiar with really is education, which is required, requires about four or five different fields really.|sd|2305
+B|Oh, good grief.|ba|2305
+A|So it's a,|%|2305
+B|Yeah,|b|2305
+B|I thought at one time I wanted to be a teacher,|sd|2305
+B|but I, I quickly dispelled that idea when I became a substitute teacher for a while, just to get my feet wet.|sd|2305
+A|Uh-huh.|sd|2305
+B|I said, uh, I couldn't do this everyday.|sd|2305
+B|No way.|sd|2305
+A|Well.|%|2305
+B|Maybe, maybe being a tenured professor would be one thing, but being a public school teacher is entirely another thing.|sv|2305
+A|Oh, so you are a disgruntled graduate student|bf|2305
+B|I am a I am, I am just a disgruntled person all around|sd|2305
+A|Oh|%|2305
+B|I'm the, uh, I'm the, uh, original, uh, Mister Scrooge, I guess.|sd|2305
+A|Yeah,|b|2305
+A|Bah, humbug.|fo_o_fw_"_by_bc|2305
+B|Yeah,|aa|2305
+B|bah, humbug.|fo_o_fw_"_by_bc|2305
+B|Yeah,|%|2305
+B|I just,|%|2305
+A|I, I, I think,|%|2305
+A|yeah,|b|2305
+A|there is,|%|2305
+A|I, I, I think, uh, law would be a fine field, a fine profession, fine field to go into.|sv|2305
+A|Um, I know one time I was in a political science class,|sd|2305
+A|and you know, talking about fields, people going into different fields, I made an off, off the cuff remark about lawyers, about their integrity being questionable.|sd|2305
+A|And I mean, oh, that was like a can of worms.|sd|2305
+B|Probably, you probably got everybody on you, because they were probably all going to law school.|sv|2305
+A|No,|ar|2305
+A|there was a woman,|sd|2305
+A|she said a My, my best friends are lawyers a and you know, all this,|sd|2305
+A|and it was just|sd|2305
+B|Well, that remark in itself is a slam a|sv|2305
+B|My best friends are lawyers a|^q|2305
+A|Yeah,|aa|2305
+A|I know.|aa|2305
+B|You know, like, like, uh, my best friends are blacks|^q|2305
+A|Or Jewish,|^q|2305
+A|it used to be Jewish, you know.|sd|2305
+B|Jewish,|b^m|2305
+B|now blacks|b^m|2305
+A|Yeah.|b|2305
+B|and I guess, I, I, guess Iraqi now is the|sd|2305
+A|I know,|aa|2305
+A|it's,|%|2305
+A|but,|%|2305
+B|Law, law was a lot of fun until you get to law school|sd|2305
+A|Yeah.|b|2305
+B|and it doesn't become fun anymore.|sd|2305
+A|Yeah,|b|2305
+A|I have a I have a friend.|sd|2305
+A|She's studying, she's going into law,|sd|2305
+A|another friend going into law,|sd|2305
+A|and, she's,|%|2305
+A|I, I, I'm really, I'm really concerned about, you know,|sd|2305
+A|she's just going to be, you know,|sd|2305
+A|what's going to happen when she gets there.|qh|2305
+B|Yeah,|b|2305
+B|you going,|%|2305
+A|You know, all of her dreams will be dispelled|sv|2305
+B|Oh, yeah.|aa|2305
+B|Yeah,|aa|2305
+B|if, if, if you've ever seen the program PAPER CHASE it's very much like that, except worse.|sd|2305
+A|Yeah.|b|2305
+A|Yeah,|b|2305
+A|it's I, I think it's probably more embarrassing and very painful.|sv|2305
+B|It is.|aa|2305
+A|I see I see that happening.|sd|2305
+B|Yeah,|aa|2305
+B|very much so.|aa|2305
+B|Yeah,|aa|2305
+B|it's, it's a lot of that. Um|sd|2305
+A|Yeah.|b|2305
+B|it, it was enjoyable for a while, um,|sd|2305
+B|but it's such a grind|sd|2305
+A|Yeah.|b|2305
+B|and you begin to wonder, you know,|sd|2305
+B|if, if I'm not, I mean,|sd|2305
+B|you really have to be dead set on being a lawyer to do it.|sd|2305
+A|Uh-huh.|b|2305
+B|If you have any doubts whatsoever, you better not get into it.|sv|2305
+A|Uh-huh.|b|2305
+B|I mean, I wasted a year and a half of awfully hard,|sd|2305
+B|and I aged ten years.|sd|2305
+A|Uh-huh.|b|2305
+B|But I, I, I wouldn't trade the experience for anything in the world.|sd|2305
+B|It never hurts to have some kind of a grounding in law.|sv|2305
+A|Yeah,|b|2305
+A|I went to a language school,|sd|2305
+A|and, and that was a, it was a, an I guess, uh, United States institution.|sd|2305
+A|I was military at the time|sd|2305
+A|And I, I think probably the biggest.|sv|2305
+B|What branch were you in?|qw|2305
+A|Huh?|br|2305
+B|What branch were you in?|qw|2305
+A|I was in the Air Force?|sd|2305
+B|I was too.|sd|2305
+A|Yeah,|b|2305
+A|yeah,|b|2305
+A|for myself, I mean, I think that military experience was fine,|sd|2305
+A|it was just, I just wish that there was something else that, that, that I could have done, you know, with,|sd|2305
+B|Well, I got, I got tired of the service after a while, I mean|sd|2305
+B|it,|%|2305
+B|I had a terrific job, really enjoyed it.|sd|2305
+A|Yeah,|b|2305
+A|what, what was your job?|qw|2305
+B|Uh, command post.|sd|2305
+A|Uh, I was, I was a linguist|sd|2305
+B|I was just wondering, were you in SAC by any chance?|qy|2305
+A|Um.|%|2305
+B|Were you in SAC?|qy|2305
+A|In Tak?|br|2305
+B|SAC.|sd|2305
+A|Uh, no|nn|2305
+A|I wasn't.|sd|2305
+B|Oh, okay,|bk|2305
+B|I, I thought maybe you might have had some experience with the, uh, R C one thirty-fives.|sv|2305
+A|No,|ar|2305
+A|no,|ar|2305
+A|I didn't, I didn't go flight crew.|sd|2305
+A|Matter of fact, I didn't make it completely through that, through that field.|sd|2305
+A|I, was in intelligence school and about three weeks short.|sd|2305
+B|Oh.|%|2305
+A|I didn't make it,|sd|2305
+A|I sort of washed out.|sd|2305
+B|Well,|%|2305
+B|Well.|%|2305
+A|Yeah|b|2305
+A|after about eighteen months of talking about the year and a half training, you know, it's, it's something, you know,|sd|2305
+B|Uh-huh.|b|2305
+A|I think that's why, you know, children really need to think about the field they're going to, going into, and I mean, spend a lot of serious reading before they, I mean, not just thinking about.|sv|2305
+B|Yeah.|b|2305
+B|Yeah.|b|2305
+A|They actually should do some reading|sv|2305
+B|That's right,|aa|2305
+B|and it, And if it's possible even get some experience at it or at least watch some people do it.|sv|2305
+A|and they should study it.|^2|2305
+A|Yeah.|b|2305
+A|I, I, I, I think, I think there's a lot to be said for kids working after school.|sv|2305
+B|Uh-huh,|aa|2305
+B|sure.|aa|2305
+A|I mean, they, they find out whether, just how much of a people person they are.|sv|2305
+B|That's true,|aa|2305
+B|I found that out when I was in high school.|sd|2305
+B|I worked at McDonald's.|sd|2305
+A|Oh, and I tell you what,|^h|2305
+A|I worked at McDonald's as well,|sd|2305
+A|and I, I can tell you one thing,|h|2305
+A|there are just some people that I, you know,|sv|2305
+A|you just came to the point where I mean,|sv|2305
+A|and oh, I eventually worked in a lab, in a as a lab technician,|sd|2305
+A|and I worked front desk.|sd|2305
+A|And I mean, somebody could walk in the door,|sd|2305
+A|and I knew exactly what they were going to do and say.|sd|2305
+B|Yeah,|aa|2305
+B|yeah|aa|2305
+B|I was the same way too.|sd|2305
+B|I'm not a people person.|sd|2305
+B|I, I, I hate, um, having to play such a nice guy. You know, especially when it's all phony. Especially when you got some, uh, jerk coming in.|sd|2305
+A|Yeah.|b|2305
+A|Uh-huh.|b|2305
+A|Uh-huh.|b|2305
+B|I,|%|2305
+B|it's just not for me.|sd|2305
+B|I'm, uh, I deal much better in research and books, and stuff like that which is why I'm going to enjoy the paralegal field a lot.|sd|2305
+A|Uh-huh.|b|2305
+A|Yeah,|b|2305
+A|that's good.|ba|2305
+A|I was just wondering, um, getting back to the school thing, so, I, I almost wish that there was something ...|sd|2305

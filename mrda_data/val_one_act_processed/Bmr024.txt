@@ -1,0 +1,1626 @@
+me011|so we're on.|S|Bmr024
+me011|and somewhere is my agenda.|S|Bmr024
+me011|i think the most important thing is morgan wanted to talk about uh the arpa demo.|S|Bmr024
+me013|well so here's the thing.|S|Bmr024
+me013|um why don't we again start off with with|D|Bmr024
+me013|uh uh|F|Bmr024
+me013|yeah i'll get it.|S|Bmr024
+me013|i'll get the door.|D|Bmr024
+me013|um i think we want to start off with the agenda.|S|Bmr024
+me013|and then given that uh liz and andreas are going to be ten fifteen minutes late we can try to figure out what we can do most effectively without them here.|S|Bmr024
+me013|so so so one thing is yeah talk about demo.|S|Bmr024
+me011|okay.|F|Bmr024
+me011|so uh.|F|Bmr024
+me011|uh i b m transcription status.|S|Bmr024
+me013|i b m transcription.|S|Bmr024
+me013|uh what else?|Q|Bmr024
+me011|smartkom.|S|Bmr024
+me013|smartkom.|S|Bmr024
+me013|smartkom.|S|Bmr024
+me013|what's smartkom?|Q|Bmr024
+me011|uh we want to talk about if if we want to add the data to the meeting recorder corpus.|S|Bmr024
+mn014|the data.|D|Bmr024
+mn014|the data which we are collecting here.|S|Bmr024
+me013|what what what are we collecting here?|Q|Bmr024
+mn014|data.|S|Bmr024
+me011|so why don't we have that on the agenda and we'll we'll get to it and talk about it?|Q|Bmr024
+mn014|the smartkom data.|S|Bmr024
+me013|yeah right.|B|Bmr024
+mn014|yeah.|B|Bmr024
+me013|uh right.|B|Bmr024
+me013|uh.|F|Bmr024
+me011|uh reorganization status.|S|Bmr024
+me013|reorganization status.|S|Bmr024
+fe008|oh.|F|Bmr024
+fe008|files and directories?|Q|Bmr024
+me013|files and directories.|S|Bmr024
+me011|yep.|B|Bmr024
+me011|uhhuh.|F|Bmr024
+me011|absinthe which is the multiprocessor unix linux.|S|Bmr024
+me011|i think it was andreas wanted to talk about segmentation and recognition.|S|Bmr024
+me011|and update on s r i recognition experiments.|S|Bmr024
+me013|um|F|Bmr024
+me011|and then if if there's time i wanted to talk about digits.|S|Bmr024
+me011|but it looked like we were pretty full so i can wait till next week.|S|Bmr024
+me013|right.|B|Bmr024
+me013|okay.|B|Bmr024
+me013|well let's see.|S|Bmr024
+me013|i think the certainly the segmentation and recognition we want to maybe focus on when andreas is here since that was particularly his thing.|S|Bmr024
+mn014|and also the smartkom thing should|D|Bmr024
+me013|smartkom also andreas.|S|Bmr024
+me013|absinthe i think also he has sort of been involved in a lot of those things.|S|Bmr024
+me011|at least|D|Bmr024
+me011|yeah.|B|Bmr024
+me013|yeah.|B|Bmr024
+me011|he'll he'll probably be interested.|S|Bmr024
+me011|but|F|Bmr024
+me013|yeah.|S|Bmr024
+me013|um|F|Bmr024
+me013|so i mean i think they'll be i'll be interested in all this.|S|Bmr024
+me013|but but uh probably if we had to pick something that we would talk on for ten minutes or so while they're coming here or i guess it would be you think reorganization status?|Q|Bmr024
+me013|or|F|Bmr024
+me011|yeah.|F|Bmr024
+me011|i mean i think chuck was the one who added out the agenda item.|S|Bmr024
+me011|i don't really have anything to say other than that we still haven't done it.|S|Bmr024
+me011|so|F|Bmr024
+me018|well i mean i uh just basically that|D|Bmr024
+me018|maybe i said maybe we said this before just that we met and we talked about it.|S|Bmr024
+me018|and we sort of have a plan for getting things organized.|S|Bmr024
+me018|and|F|Bmr024
+fe008|and i and i think a crucial part of that is the idea of of not wanting to do it until right before the next level zero back up so that there won't be huge number of of added.|S|Bmr024
+me018|right.|S|Bmr024
+fe008|uh|F|Bmr024
+me011|right.|S|Bmr024
+me018|that that was basically it.|S|Bmr024
+me018|not not much.|D|Bmr024
+me011|although dave basically said that if we want to do it just tell him and he'll do a level zero then.|S|Bmr024
+fe008|yeah.|B|Bmr024
+fe008|uhhuh.|S|Bmr024
+fe008|oh excellent.|S|Bmr024
+me011|so|F|Bmr024
+me018|oh so maybe we should just go ahead and get everything ready.|S|Bmr024
+fe008|oh good.|S|Bmr024
+me018|and|F|Bmr024
+me011|yep.|S|Bmr024
+me011|so i think we do need to talk a little bit about|D|Bmr024
+me011|well we don't need to do it during this meeting.|S|Bmr024
+me011|we have a little more to discuss.|S|Bmr024
+me018|yeah.|B|Bmr024
+me011|but uh we're we're basically ready to do it.|S|Bmr024
+me011|and uh i have some web pages on more of the background.|S|Bmr024
+me011|so naming conventions and things like that that i've been trying to keep actually up to date.|S|Bmr024
+me011|so|F|Bmr024
+me011|and i've been sharing them with u u w folks also.|S|Bmr024
+fe008|i'm sorry you've been what?|Q|Bmr024
+me013|okay.|D|Bmr024
+fe008|showing them?|Q|Bmr024
+me011|sharing them with the u w folks.|S|Bmr024
+fe008|sharing them.|S|Bmr024
+fe008|okay.|S|Bmr024
+fe008|okay.|B|Bmr024
+me013|okay.|F|Bmr024
+me013|well maybe uh since that that was a pretty short one maybe we should talk about the i b m transcription status.|S|Bmr024
+me013|someone can fill in liz and andreas later.|S|Bmr024
+me011|okay.|S|Bmr024
+me013|uh|B|Bmr024
+me011|so we uh we did another version of the beeps where we separated each beeps with a spoken digit.|S|Bmr024
+me011|chuck came up here and recorded some himself speaking some digits.|S|Bmr024
+me011|and so it just goes beep one beep and then the phrase.|S|Bmr024
+me011|and then beep two beep and then the phrase.|S|Bmr024
+me011|and that seems pretty good.|S|Bmr024
+me011|um i think they'll have a easier time keeping track of where they are in the file.|S|Bmr024
+mn014|and we have done that on the automatic segmentations.|S|Bmr024
+me011|and we did it with the automatic segmentation.|S|Bmr024
+me011|and i don't think we we didn't look at it in detail.|S|Bmr024
+me011|we just sent it to i b m.|S|Bmr024
+me011|we we sort of spot checked it.|S|Bmr024
+me018|i listened to probably uh five or ten minutes of it from the beginning.|S|Bmr024
+mn014|yeah.|D|Bmr024
+me011|oh really?|Q|Bmr024
+me011|okay.|F|Bmr024
+me018|yeah.|S|Bmr024
+me018|and|F|Bmr024
+me011|i sort of spot checked here and there and it sounded pretty good.|S|Bmr024
+me011|so i think it'll work.|S|Bmr024
+me013|okay.|S|Bmr024
+me011|and uh we'll just have to see what we get back from them.|S|Bmr024
+me011|uh|F|Bmr024
+me018|and the main thing will be if we can align what they give us with what we sent them.|S|Bmr024
+me018|i mean that's the crucial part.|S|Bmr024
+me011|right.|S|Bmr024
+me018|and i think we'll be able to do that at with this new beep format.|S|Bmr024
+me011|yep.|S|Bmr024
+me011|well i think it's also they are much less likely to have errors.|S|Bmr024
+me018|uhhuh.|S|Bmr024
+me011|i mean so the problem last time is that there were errors in the transcripts where they put beeps where there weren't any or and they put in extraneous beeps.|S|Bmr024
+me018|right.|S|Bmr024
+me018|yeah.|B|Bmr024
+me011|and with the numbers there it's much less likely.|S|Bmr024
+me018|yeah one interesting note is uh or problem|D|Bmr024
+me018|i don't know if this was just because of how i play it back i say uh s n d play and then the file.|S|Bmr024
+me018|every once in a while uh like a beep sounds like it's cut into two beeps.|S|Bmr024
+mn014|yeah.|S|Bmr024
+mn014|into two pieces.|S|Bmr024
+mn014|yeah.|S|Bmr024
+me018|yeah and i i don't know if that's an uh artifact of playback.|S|Bmr024
+mn014|yep.|B|Bmr024
+me018|uh i don't think it's probably in the original file.|S|Bmr024
+me018|um but uh|F|Bmr024
+mn014|i recognize that too.|S|Bmr024
+mn014|yeah.|D|Bmr024
+me011|ha.|D|Bmr024
+me011|that's interesting.|S|Bmr024
+me011|i didn't hear that.|S|Bmr024
+me018|yeah.|B|Bmr024
+me018|but with this new format um that hopefully they're not hearing that and if they are it shouldn't throw them.|S|Bmr024
+mn014|yep.|B|Bmr024
+me018|so|F|Bmr024
+me011|well maybe we better listen to it again.|S|Bmr024
+me011|make sure.|S|Bmr024
+me011|but i mean certainly the software shouldn't do that.|S|Bmr024
+me018|yeah.|S|Bmr024
+me018|that's what i thought.|S|Bmr024
+me011|so|F|Bmr024
+me018|it's probably just you know huh somehow the audio device gets hung for a second.|S|Bmr024
+fe008|uhhuh.|B|Bmr024
+mn014|yeah.|B|Bmr024
+mn014|some latency or something.|S|Bmr024
+me011|hiccups.|S|Bmr024
+mn014|yeah.|B|Bmr024
+me018|or|F|Bmr024
+mn014|yeah.|D|Bmr024
+fe008|as long as they have one number and they know that there's only one beep maximum that goes with that number.|S|Bmr024
+me018|yeah.|S|Bmr024
+me011|yeah.|F|Bmr024
+me011|the only the only part that might be confusing is when chuck is reading digits.|S|Bmr024
+me018|right.|B|Bmr024
+mn014|yep.|B|Bmr024
+me018|right.|B|Bmr024
+me018|so|D|Bmr024
+fe008|well you know actually are we having them|D|Bmr024
+me011|seven four eight beep seven beep eight three two.|S|Bmr024
+fe008|yeah but are we having them do digits?|Q|Bmr024
+me011|yes.|S|Bmr024
+me011|because uh we don't we didn't in order to cut them out we'd have to listen to it.|S|Bmr024
+me018|we we didn't cut those out.|S|Bmr024
+mn014|yeah.|B|Bmr024
+mn014|they are not transcribed yet.|S|Bmr024
+mn014|so|F|Bmr024
+mn014|yeah.|F|Bmr024
+mn014|yeah.|B|Bmr024
+me011|and we wanted to avoid doing that.|S|Bmr024
+fe008|okay.|S|Bmr024
+me011|so we they are transcribing the digits.|S|Bmr024
+fe008|okay.|D|Bmr024
+fe008|okay.|D|Bmr024
+me011|although we could tell them we could tell them if you hear someone reading a digits string just say bracket digit bracket.|S|Bmr024
+me018|we can we can ignore it when we get it back.|S|Bmr024
+me018|huh.|B|Bmr024
+me011|and don't bother actually computing the writing down the digits.|S|Bmr024
+me018|yeah.|S|Bmr024
+fe008|that'd be great.|S|Bmr024
+fe008|that'd be what i'm having the transcribers here do because it can be extracted later.|S|Bmr024
+me011|yep.|B|Bmr024
+me011|and then i wanted to talk about but as i said i we may not have time what we should do about digits.|S|Bmr024
+me011|we have a whole pile of digits that haven't been transcribed.|S|Bmr024
+me013|let's talk about it.|S|Bmr024
+me013|because that's that's something that i i know andreas is less interested in than liz is.|S|Bmr024
+me011|okay.|S|Bmr024
+me013|so you know.|F|Bmr024
+me011|do we have anything else to say about transcription?|Q|Bmr024
+me013|it's good.|D|Bmr024
+me011|about i b m stuff?|Q|Bmr024
+me018|uh brian i i sent bresset sent brian a message about the meeting.|S|Bmr024
+me018|and i haven't heard back yet.|S|Bmr024
+me018|so i hope he got it and hopefully he's|D|Bmr024
+me011|okay.|B|Bmr024
+fe008|huh.|D|Bmr024
+me018|maybe he's gone.|S|Bmr024
+me018|i don't know.|S|Bmr024
+me018|he didn't even reply to my message.|S|Bmr024
+me018|so i should probably ping him just to make sure that he got it.|S|Bmr024
+me011|all right.|B|Bmr024
+me011|so we have a whole bunch of digits.|S|Bmr024
+me011|if we want to move on to digits.|S|Bmr024
+me013|actually maybe i one one more related thing in transcription.|S|Bmr024
+me013|so that's the i b m stuff.|S|Bmr024
+me013|we've got that sorted out.|S|Bmr024
+me013|um how're we doing on the on the rest of it?|Q|Bmr024
+fe008|we're doing well.|S|Bmr024
+fe008|i i hire i've hired two extra people already expect to hire two more.|S|Bmr024
+me011|huh.|D|Bmr024
+fe008|and um i've prepared um uh a set of five which i'm which i'm calling set two.|S|Bmr024
+fe008|which are now being edited by my head transcriber in terms of spelling errors and all that.|S|Bmr024
+fe008|she's also checking through and and and monitoring um the transcription of another transcriber.|S|Bmr024
+fe008|you know i mean she's going through and doing these kinds of checks.|S|Bmr024
+me013|uhhuh.|B|Bmr024
+fe008|and i've moved on now to what i'm calling set three.|S|Bmr024
+fe008|i sort of thought if i do it in sets groups of five then i can have like sort of a a parallel processing through through the the current.|S|Bmr024
+me013|uhhuh.|B|Bmr024
+fe008|and and you indicated to me that we have a a goal now for the for the um the uh darpa demo of twenty hours.|S|Bmr024
+fe008|so i'm going to go up to twenty hours be sure that everything gets processed and released and and that's that's what my goal is.|S|Bmr024
+fe008|package of twenty hours right now and then once that's done move on to the next.|S|Bmr024
+me013|yeah uh|F|Bmr024
+me013|so twenty hours.|S|Bmr024
+me013|but i guess the other thing is that um that that's kind of twenty hours a. sap because the longer before the demo we actually have the twenty hours the more time it'll be for people to actually do cool things with it.|S|Bmr024
+fe008|uhhuh.|B|Bmr024
+me013|so okay.|B|Bmr024
+fe008|good.|F|Bmr024
+fe008|i'm i'm hiring people who uh really are|D|Bmr024
+fe008|they would like to do it full time several of these people.|S|Bmr024
+me013|uhhuh.|B|Bmr024
+fe008|and and i don't think it's possible really to do this full time but that what it shows is motivation to do as many hours as possible.|S|Bmr024
+me011|it'll keep your accuracy up.|S|Bmr024
+me011|yep.|B|Bmr024
+me013|yeah.|B|Bmr024
+me013|yeah.|B|Bmr024
+fe008|and they're really excellent.|S|Bmr024
+me013|well that's good.|S|Bmr024
+fe008|yeah.|B|Bmr024
+me013|yeah i mean i guess the so the difference if if um if the i b m stuff works out the difference in the job would be that they primarily would be checking through things that were already done by someone else?|Q|Bmr024
+fe008|got a good core group now.|S|Bmr024
+fe008|again.|S|Bmr024
+fe008|uhhuh.|B|Bmr024
+me013|is that most of what it|D|Bmr024
+me011|and correcting.|S|Bmr024
+me013|i mean correcting.|S|Bmr024
+me011|correcting.|S|Bmr024
+me011|we'll we'll expect that they'll have to move some time bins and do some corrections.|S|Bmr024
+fe008|and i you know i've also uh discovered|D|Bmr024
+fe008|so with the new transcriber i'm|D|Bmr024
+fe008|um|F|Bmr024
+fe008|so|F|Bmr024
+fe008|uh let me say that my|D|Bmr024
+fe008|uh|F|Bmr024
+fe008|so um|F|Bmr024
+fe008|at present um the people have been doing these transcriptions a channel at a time.|S|Bmr024
+fe008|and that sort of um is useful.|S|Bmr024
+fe008|and you know and then once in a while they'll have to refer to the other channels to clear something up.|S|Bmr024
+fe008|okay.|F|Bmr024
+fe008|well i realize that um we're using the pre segmented version.|S|Bmr024
+fe008|and um the pre segmented version is extremely useful.|S|Bmr024
+fe008|and wouldn't it be useful also to have the visual representation of those segments?|Q|Bmr024
+fe008|and so i've uh i uh uh i've trained the new one uh the the newest one to um use the visual from the channel that is going to be transcribed at any given time.|S|Bmr024
+fe008|and that's just amazingly helpful.|S|Bmr024
+fe008|because what happens then is you scan across the signal and once in a while you'll find a blip that didn't show up in the pre segmentation.|S|Bmr024
+me011|oh right.|B|Bmr024
+me011|i see what you mean.|S|Bmr024
+fe008|and that'll be something like it's it's interesting.|S|Bmr024
+me011|a backchannel or|D|Bmr024
+fe008|once in a while it's a backchannel.|S|Bmr024
+mn014|yep.|B|Bmr024
+fe008|sometimes it seems to be um similar to the ones that are being picked up.|S|Bmr024
+me011|uhhuh.|B|Bmr024
+fe008|and they're rare events but you can really go through a meeting very quickly.|S|Bmr024
+fe008|you just you just you know you you scroll from screen to screen looking for blips.|S|Bmr024
+fe008|and i think that we're going to end up with uh better coverage of the backchannels.|S|Bmr024
+me013|yeah.|B|Bmr024
+fe008|but at the same time we're benefitting tremendously from the pre segmentation.|S|Bmr024
+fe008|because there are huge places where there is just absolutely no activity at all.|S|Bmr024
+me013|uhhuh.|B|Bmr024
+fe008|and uh the audio quality is so good.|S|Bmr024
+me018|so they can they can um scroll through that pretty quick?|Q|Bmr024
+fe008|yeah.|S|Bmr024
+fe008|uhhuh.|S|Bmr024
+me018|that's great.|S|Bmr024
+fe008|yeah.|S|Bmr024
+fe008|so i think that that's going to also uh you know speed the efficiency of this part of the process.|S|Bmr024
+me013|huh.|B|Bmr024
+me013|okay.|S|Bmr024
+me013|uh yeah.|B|Bmr024
+me013|so uh|F|Bmr024
+me013|yeah.|F|Bmr024
+me013|so let's talk about the digits since they're not here yet.|S|Bmr024
+me011|uh so we have a whole bunch of digits that we've read and we have the forms and so on.|S|Bmr024
+me011|um but only a small number of that|D|Bmr024
+me011|well not a small number.|S|Bmr024
+me011|only a subset of that has been transcribed.|S|Bmr024
+me011|and so we need to decide what we want to do.|S|Bmr024
+me011|and uh liz and andreas actually they're not here but they did say at one point that they thought they could do a pretty good job of just doing a forced alignment.|S|Bmr024
+me011|and again i don't think we'll be able to do with that alone because um sometimes people correct themselves and things like that.|S|Bmr024
+me011|but|F|Bmr024
+me011|so i was just wondering what people thought about how automated can we make the process of finding where the people read the digits doing a forced alignment and doing the timing.|S|Bmr024
+me013|well forced alignment would be one thing.|S|Bmr024
+me013|what about just actually doing recognition?|Q|Bmr024
+me011|well we we know what they read because we have the forms.|S|Bmr024
+me013|no they make mistakes.|S|Bmr024
+me011|right.|S|Bmr024
+me011|but the point is that we want to get a set of clean digits.|S|Bmr024
+me013|right.|S|Bmr024
+me018|you're talking about as a pre processing step.|S|Bmr024
+me018|right morgan?|Q|Bmr024
+me013|um|F|Bmr024
+me018|is that what you're|D|Bmr024
+me013|yeah i'm i'm not quite sure what i'm talking about.|S|Bmr024
+me013|i mean i|D|Bmr024
+me013|i mean uh we're talking about digits now.|S|Bmr024
+me013|and and so um there's a bunch of stuff that hasn't been marked yet.|S|Bmr024
+me013|uh.|F|Bmr024
+me013|and um there's the issue that that they we know what what was said but do we?|Q|Bmr024
+me011|i mean so one option|D|Bmr024
+me013|because people make mistakes and stuff.|S|Bmr024
+me013|i was just asking just out of curiosity if if with uh uh the s r i recognizer getting one percent word error.|S|Bmr024
+me013|uh would we would we do better?|Q|Bmr024
+me013|so if you do a forced alignment but the but the but the transcription you have is wrong because they actually made mistakes uh or false starts it's it's much less it's much less common than one percent?|Q|Bmr024
+me011|but that's pretty uncommon.|S|Bmr024
+me011|um if we could really get one percent on|D|Bmr024
+me011|well i guess yeah i guess if we segmented it we could get one percent on digits.|S|Bmr024
+me013|we should be able to.|S|Bmr024
+me013|right?|Q|Bmr024
+me018|yeah.|S|Bmr024
+me013|yeah.|B|Bmr024
+me013|so that's just my question.|S|Bmr024
+me011|but|F|Bmr024
+me013|i'm not saying it should be one way or the other but it's if|D|Bmr024
+me011|well there there're a couple different ways of doing it.|S|Bmr024
+me011|we could use the tools i've already developed and transcribe it.|S|Bmr024
+me011|hire some people or use the transcribers to do it.|S|Bmr024
+me011|we could let i b m transcribe it.|S|Bmr024
+me011|you know they're doing it anyway.|S|Bmr024
+me011|and unless we tell them different they're going to transcribe it.|S|Bmr024
+me011|um or we could try some automated methods.|S|Bmr024
+me011|and my my tendency right now is well if i b m comes back with this meeting and the transcript is good just let them do it.|S|Bmr024
+me013|well|F|Bmr024
+me013|yeah it's you raised a point kind of uh euphemistically.|S|Bmr024
+me013|but i mean maybe it is a serious problem.|S|Bmr024
+me013|what will they do when they go hear beep seven beep seven three five two?|Q|Bmr024
+me013|i mean you think they'll we'll get|D|Bmr024
+me011|it's pretty distinct.|S|Bmr024
+me011|the beeps are pre recorded.|S|Bmr024
+me013|yeah.|B|Bmr024
+me018|it'll only be a problem for for mine.|S|Bmr024
+mn014|yeah.|B|Bmr024
+fe008|well it it well it'd be preceded by i'm reading transcript so-and-so?|Q|Bmr024
+me018|yeah.|S|Bmr024
+me011|yes.|S|Bmr024
+fe008|so i think if they're processing it at|D|Bmr024
+me011|i mean it'll be it will be in the midst of a digit string.|S|Bmr024
+me011|so|F|Bmr024
+me013|yeah.|B|Bmr024
+me011|i mean it|D|Bmr024
+me011|sure there there might be a place where it's beep seven beep eight beep eight beep.|S|Bmr024
+me011|but you know they they're they're going to macros for inserting the beep marks.|S|Bmr024
+me011|and so i i don't think it'll be a problem.|S|Bmr024
+me011|we'll have to see.|S|Bmr024
+me011|but i don't think it's going to be a problem.|S|Bmr024
+me013|okay.|S|Bmr024
+me013|well i i i don't know.|S|Bmr024
+me013|i i think that that's if they are in fact going to transcribe these things uh certainly any process that we'd have to correct them or whatever is needs to be much less elaborate for digits than for other stuff.|S|Bmr024
+me011|right.|S|Bmr024
+me013|so why not?|Q|Bmr024
+me013|sure.|S|Bmr024
+me013|that was it?|Q|Bmr024
+me011|that was it.|S|Bmr024
+me011|just what do we do with digits.|S|Bmr024
+me013|okay.|B|Bmr024
+me011|we have so many of them and it'd be nice to actually do something with them.|S|Bmr024
+me013|well we we we want to have them.|S|Bmr024
+mn017|you mean there're more than ten?|Q|Bmr024
+me013|yeah i|D|Bmr024
+me011|anything else?|Q|Bmr024
+me011|your mike is a little low there.|S|Bmr024
+me013|in berkeley yeah.|S|Bmr024
+me013|so uh you you have to go a little early.|S|Bmr024
+me013|right?|Q|Bmr024
+mn017|well i can stay till about uh three forty.|S|Bmr024
+me013|at twenty|D|Bmr024
+me013|all right.|F|Bmr024
+me013|so let's make sure we do the ones that that uh saved you.|S|Bmr024
+mn017|yeah.|B|Bmr024
+mn017|uhhuh.|B|Bmr024
+me013|so there was some uh in in adam's agenda list.|S|Bmr024
+me013|he had something from you about segmentation this last recognition?|Q|Bmr024
+mn017|well yeah.|S|Bmr024
+mn017|so this is just partly to inform everybody um and and of course to get um input.|S|Bmr024
+me011|oops!|S|Bmr024
+mn017|um so uh we had a discussion don and liz and i had discussion last week about how to proceed with uh you know with don's work.|S|Bmr024
+mn017|and and and uh one of the obvious things that occur to us was that we're since we now have thilo's segmenter and it works you know amazingly well um we should actually basically re evaluate the recognition um results using you know without cheating on the segmentations.|S|Bmr024
+mn017|and that should be fairly|D|Bmr024
+mn014|so|F|Bmr024
+mn014|and how do we find the transcripts for those so that|D|Bmr024
+mn014|yeah.|F|Bmr024
+mn017|oh okay.|S|Bmr024
+mn014|the references for for those segments?|Q|Bmr024
+mn017|so there's actually|D|Bmr024
+mn014|it's not that|D|Bmr024
+mn017|why do you ask?|Q|Bmr024
+me011|i could|D|Bmr024
+mn017|no actually um nist has um a fairly sophisticated scoring program that you can give a um a time.|S|Bmr024
+fe016|well|D|Bmr024
+me011|hand ones.|S|Bmr024
+mn014|okay.|S|Bmr024
+mn017|uh you know you basically just give two time marked sequences of words and it computes the um the uh you know the the|D|Bmr024
+me018|it does all the work for you.|S|Bmr024
+mn017|it does all the work for you.|S|Bmr024
+me018|yeah.|B|Bmr024
+mn014|okay.|B|Bmr024
+mn017|so it we just and we use that actually in hub five to do the scoring.|S|Bmr024
+mn017|um so what we've been using so far was sort of a simplified version of the scoring.|S|Bmr024
+mn017|and we can we can handle the the the type of problem we have here.|S|Bmr024
+mn017|so we|D|Bmr024
+mn014|so basically you give some time constraints for for the references and for for the hypothesis.|S|Bmr024
+mn017|yeah.|S|Bmr024
+mn017|right.|S|Bmr024
+mn017|right.|S|Bmr024
+mn014|and|D|Bmr024
+fe016|yeah.|B|Bmr024
+fe016|maybe the start of your speech and the end of it.|S|Bmr024
+mn014|yeah okay.|B|Bmr024
+mn017|so|D|Bmr024
+fe016|or stuff like that.|S|Bmr024
+mn014|okay.|B|Bmr024
+mn017|right.|B|Bmr024
+mn017|it does time constrained word alignment.|S|Bmr024
+mn014|okay.|S|Bmr024
+mn017|so|F|Bmr024
+mn017|so that should be possible.|S|Bmr024
+mn017|i mean that shouldn't be a problem.|S|Bmr024
+mn017|uh so that was the one thing.|S|Bmr024
+mn017|and the other was that|D|Bmr024
+mn017|um|F|Bmr024
+mn017|what was the other problem?|Q|Bmr024
+mn017|oh!|S|Bmr024
+mn017|that thilo wanted to use the recognizer alignments to train up his um speech detector.|S|Bmr024
+mn014|yeah.|S|Bmr024
+mn017|um so that we could use uh you know there wouldn't be so much hand labelling needed to uh to generate training data for for the speech detector.|S|Bmr024
+mn014|yeah.|S|Bmr024
+mn014|i'm just in progress of of doing that.|S|Bmr024
+mn014|so|F|Bmr024
+mn017|and i think you're in the process of doing that.|S|Bmr024
+mn017|so you can you can|D|Bmr024
+mn014|yeah.|B|Bmr024
+me018|it'll give you a lot more data too.|S|Bmr024
+me018|won't it?|Q|Bmr024
+mn014|yeah.|S|Bmr024
+mn014|so it's basically|D|Bmr024
+mn014|i think eight meetings or something which which i'm using.|S|Bmr024
+mn014|and it's before it was twenty minutes of one meeting.|S|Bmr024
+mn017|uhhuh.|B|Bmr024
+mn014|so should be a little bit better.|S|Bmr024
+mn017|right.|B|Bmr024
+mn017|that won't be perfect the alignments aren't perfect.|S|Bmr024
+me018|great.|S|Bmr024
+mn014|yeah.|B|Bmr024
+mn017|but um it's probably still better to have all this extra data than|D|Bmr024
+mn014|but|D|Bmr024
+fe016|yeah.|B|Bmr024
+mn014|yeah.|B|Bmr024
+mn014|yep.|B|Bmr024
+mn017|yeah.|B|Bmr024
+mn014|we'll see that.|S|Bmr024
+mn017|yeah.|B|Bmr024
+me013|okay.|B|Bmr024
+fe016|actually i had a question about that.|S|Bmr024
+fe016|if you find that you can lower the false alarms that you get where there's no speech that would be useful for us to know.|S|Bmr024
+fe016|so um|F|Bmr024
+mn014|there were the false alarms.|S|Bmr024
+fe016|yeah.|F|Bmr024
+fe016|so right now you get you know false false uh speech regions when it's just like um breath or something like that.|S|Bmr024
+mn014|okay.|S|Bmr024
+mn014|yeah.|B|Bmr024
+fe016|and i'd be interested to know the if you retrain|D|Bmr024
+mn014|yep.|B|Bmr024
+fe016|um|F|Bmr024
+mn014|yeah.|B|Bmr024
+fe016|do those actually go down or not?|Q|Bmr024
+fe016|because of|D|Bmr024
+mn014|yeah.|S|Bmr024
+mn014|i'll can make can like make a comparison of of the old system to the to the new one.|S|Bmr024
+fe016|yeah just to see if by doing nothing in the modeling of just having that training data what happens.|S|Bmr024
+mn014|and then|D|Bmr024
+mn014|yeah.|B|Bmr024
+mn014|yeah.|S|Bmr024
+mn014|yep.|B|Bmr024
+me013|um another one that we had on adam's agenda that definitely involved you was something about smartkom?|Q|Bmr024
+me011|right.|S|Bmr024
+me011|so rob porzel|D|Bmr024
+me011|uh porzel?|Q|Bmr024
+me011|and the uh porzel and the uh smartkom group are collecting some dialogues.|S|Bmr024
+mn017|porzel.|S|Bmr024
+mn017|porzel.|S|Bmr024
+me011|basically they have one person sitting in here looking at a picture and a wizard sitting in another room somewhere.|S|Bmr024
+me011|and uh they're doing a travel task.|S|Bmr024
+me011|and uh it involves starting i believe starting with a|D|Bmr024
+me011|it's it's always the wizard.|S|Bmr024
+me011|but it starts where the wizard is pretending to be a computer and it goes through a uh speech generation system.|S|Bmr024
+mn014|yeah.|D|Bmr024
+mn014|actually it's changed to a synthesis for for the first part now.|S|Bmr024
+me011|synthesis system.|S|Bmr024
+mn014|yeah.|B|Bmr024
+me011|um and then it goes to a real wizard and they're evaluating that.|S|Bmr024
+me011|and they wanted to use this equipment and so the question came up is|D|Bmr024
+me011|well here's some more data.|S|Bmr024
+me011|should this be part of the corpus or not?|Q|Bmr024
+me011|and my attitude was yes because there might be people who are using this corpus for acoustics as opposed to just for language.|S|Bmr024
+me011|um or also for dialogue of various sorts.|S|Bmr024
+me011|um so it's not a meeting.|S|Bmr024
+me011|right?|Q|Bmr024
+me011|because it's two people and they're not face to face.|S|Bmr024
+me013|wait a minute.|S|Bmr024
+mn014|yeah.|B|Bmr024
+me013|so i just wanted to understand it because i i'm uh hadn't quite followed this process.|S|Bmr024
+me013|um so it's wizard in the usual sense that the person who is asking the questions doesn't know that it's uh a not a machine?|Q|Bmr024
+mn017|right.|B|Bmr024
+mn017|actually actually the the we do this|D|Bmr024
+me011|at the beginning.|S|Bmr024
+mn017|i don't know who came up with it but i think it's a really clever idea.|S|Bmr024
+mn017|we simulate a computer breakdown halfway through the session and so then after that the person's told that they're now talking to a uh to a human.|S|Bmr024
+me013|yeah.|S|Bmr024
+mn014|it's a human operator.|S|Bmr024
+mn014|yeah.|B|Bmr024
+me013|yeah.|B|Bmr024
+me011|but of course they don't know that it's the same person both times.|S|Bmr024
+mn017|so we we collect we collect both human computer and human human data essentially in the same session.|S|Bmr024
+me013|you might want to try collecting it the other way around sometime saying that the computer isn't up yet.|S|Bmr024
+fe008|huh.|B|Bmr024
+me013|and then so then you can separate it out whether it's the beginning or end kind of effects.|S|Bmr024
+mn017|that's an idea.|S|Bmr024
+me013|but|F|Bmr024
+me011|yep.|B|Bmr024
+me013|yeah.|B|Bmr024
+mn017|yeah.|B|Bmr024
+fe008|that's a good idea.|D|Bmr024
+me011|i have to go now.|S|Bmr024
+me011|you can talk to the computer.|S|Bmr024
+me018|it's a lot more believable too.|S|Bmr024
+me011|no!|S|Bmr024
+me018|if you tell them that they're the computer part is running on a windows machine.|S|Bmr024
+me018|and the whole breakdown thing kind of makes sense.|S|Bmr024
+mn017|just just reboot it.|S|Bmr024
+me011|abort|D|Bmr024
+me011|abort retry fail?|Q|Bmr024
+fe016|so did they actually save the far field data?|Q|Bmr024
+fe016|because at first they weren't they weren't|D|Bmr024
+me011|well this was this was the question.|S|Bmr024
+mn014|yes.|B|Bmr024
+mn017|yeah.|B|Bmr024
+me011|so so they were saying they were not going to.|S|Bmr024
+mn014|yeah.|B|Bmr024
+fe016|okay.|B|Bmr024
+me011|and i said well that's silly if if we're going to try to do it for a corpus there might be people who are interested in acoustics.|S|Bmr024
+fe016|yeah.|B|Bmr024
+mn017|wow!|D|Bmr024
+mn014|no.|B|Bmr024
+fe016|or|D|Bmr024
+mn014|projector we were not saying we are not doing it.|S|Bmr024
+fe016|yeah.|B|Bmr024
+mn017|no the the question is do we save one or two far field channels or all of them?|Q|Bmr024
+mn014|we we just wanted to do|D|Bmr024
+fe016|right.|B|Bmr024
+mn014|yeah.|B|Bmr024
+mn014|yeah.|B|Bmr024
+me011|i i see no reason not to do all of them.|S|Bmr024
+me011|that that if we have someone who is doing acoustic studies uh it's nice to have the same for every recording.|S|Bmr024
+me013|um|F|Bmr024
+fe016|nnn.|D|Bmr024
+mn017|huh.|D|Bmr024
+fe016|yeah.|B|Bmr024
+me013|so what is the purpose of this recording?|Q|Bmr024
+mn017|uhhuh.|D|Bmr024
+me013|this is to get acoustic and language model training data for smartkom.|S|Bmr024
+mn017|it's to be to training data and development data for the smartkom system.|S|Bmr024
+mn014|the english system?|Q|Bmr024
+mn017|yeah.|S|Bmr024
+mn014|yeah.|B|Bmr024
+mn017|right.|S|Bmr024
+mn017|right.|S|Bmr024
+me013|okay.|S|Bmr024
+me018|where does this|D|Bmr024
+fe016|maybe we can have him vary the microphones too.|S|Bmr024
+me013|well|F|Bmr024
+fe016|or they're different speakers.|S|Bmr024
+me011|right.|F|Bmr024
+me011|so so so for their usage they don't need anything.|S|Bmr024
+me013|so why not|D|Bmr024
+mn014|yeah.|F|Bmr024
+mn014|but but i'm not sure about the legal aspect of of that.|S|Bmr024
+me011|right?|Q|Bmr024
+mn014|is is there some contract with smartkom or something about the data?|Q|Bmr024
+mn017|yeah.|B|Bmr024
+mn014|what they|D|Bmr024
+mn014|or is is that our data which we are collecting here?|Q|Bmr024
+me013|we've never signed anything that said that we couldn't use anything that we did.|S|Bmr024
+mn014|or|D|Bmr024
+mn014|okay.|S|Bmr024
+mn014|okay.|S|Bmr024
+mn017|we weren't supposed to collect any data.|S|Bmr024
+mn014|so|B|Bmr024
+mn014|okay.|F|Bmr024
+mn017|this was all|D|Bmr024
+me013|yeah.|B|Bmr024
+mn014|so yeah that was the question.|S|Bmr024
+mn014|if if|D|Bmr024
+mn014|yeah.|B|Bmr024
+mn017|yeah.|B|Bmr024
+mn014|basically.|S|Bmr024
+me013|no that's not a problem.|S|Bmr024
+me013|i look it seems to me that if we're doing it anyway and we're doing it for these these purposes that we have and we have these distant mikes we definitely should should save it all as long as we've got disk space.|S|Bmr024
+mn017|uhhuh.|B|Bmr024
+me013|and disk is pretty cheap.|S|Bmr024
+mn017|okay.|S|Bmr024
+me013|so should we save it?|Q|Bmr024
+me011|and then|D|Bmr024
+me013|now|D|Bmr024
+me013|yeah.|S|Bmr024
+me013|so we save it because it's it it's potentially useful.|S|Bmr024
+me011|right.|S|Bmr024
+me013|and now what do we do with it is is a separate question.|S|Bmr024
+me013|i mean anybody who's training something up could choose to put it uh to include this or not.|S|Bmr024
+mn017|right.|D|Bmr024
+me013|i i would not say it was part of the meetings corpus.|S|Bmr024
+me013|it isn't.|S|Bmr024
+me013|but it's some other data we have.|S|Bmr024
+me013|and if somebody doing experiment wants to train up including that then they can.|S|Bmr024
+mn017|uhhuh.|B|Bmr024
+me013|right?|Q|Bmr024
+me011|so it's it it i guess it the begs the question of what is the meeting corpus.|S|Bmr024
+me011|so if at u w they start recording two person hallway conversations is that part of the meeting corpus?|Q|Bmr024
+me013|i think it's i i think i think the idea of two or more people conversing with one another is key.|S|Bmr024
+me011|well this has two or more people conversing with each other.|S|Bmr024
+me013|nnn well|F|Bmr024
+mn014|yeah.|B|Bmr024
+me011|they're just not face to face.|S|Bmr024
+fe016|what if we just give it a a name like we give these meetings a name?|Q|Bmr024
+fe008|well this|D|Bmr024
+me013|no it doesn't.|S|Bmr024
+me013|right?|Q|Bmr024
+me013|it has|D|Bmr024
+me011|i mean that was my intention.|S|Bmr024
+fe016|and then later on some people will consider it a meeting and some people won't.|S|Bmr024
+me013|yeah.|B|Bmr024
+me011|that was my intention.|S|Bmr024
+fe008|well this|D|Bmr024
+fe016|and|F|Bmr024
+me011|so so so part of the reason that i wanted to bring this up is do we want to handle it as a special case or do we want to fold it in?|Q|Bmr024
+fe016|just give it a title.|S|Bmr024
+fe008|oh.|B|Bmr024
+me013|i think it is a|D|Bmr024
+me011|give everyone who's involved as their own user i d give it session i ds let all the tools that handle meeting recorder handle it or do we want to special case it?|Q|Bmr024
+me011|and if we were going to special case it who's going to do that?|Q|Bmr024
+mn017|well it it makes sense to handle it with the same infrastructure since we don't want to duplicate things unnecessarily.|S|Bmr024
+mn014|so|F|Bmr024
+mn014|it it it|D|Bmr024
+fe008|i think|D|Bmr024
+mn017|but as far as distributing it we shouldn't label it as part of this meeting corpus.|S|Bmr024
+mn017|we should let it be its own|D|Bmr024
+me013|yeah.|S|Bmr024
+me011|i don't see why not.|S|Bmr024
+fe008|well it's it well because|D|Bmr024
+me011|it's just a different topic.|S|Bmr024
+fe008|i i have an extra point which is the naturalness issue.|S|Bmr024
+fe008|because we have like meetings that have a reason.|S|Bmr024
+fe008|that's one of the reasons that we were talking about this.|S|Bmr024
+fe008|and and those and this sounds like it's more of an experimental setup.|S|Bmr024
+me013|yeah.|B|Bmr024
+me013|it's scenario based it's it's human computer interface it's really pretty different.|S|Bmr024
+fe008|it's got a different purpose.|S|Bmr024
+me013|but i i have no problem with somebody folding it in for some experiment they're going to do.|S|Bmr024
+fe008|yeah.|B|Bmr024
+me013|but i don't think it it doesn't match anything that we've described about meetings.|S|Bmr024
+me011|uhhuh.|B|Bmr024
+me013|whereas everything that we talked about them doing at at u w and so forth really does.|S|Bmr024
+me011|okay.|F|Bmr024
+me013|they're actually talking|D|Bmr024
+me011|so so what does that mean for how we are going to organize things?|Q|Bmr024
+fe008|huh.|B|Bmr024
+mn014|yeah.|B|Bmr024
+me013|you can you can|D|Bmr024
+me013|again as as i think andreas was saying if you want to use the same tools and the same conventions there's no problem with that.|S|Bmr024
+me013|it's just that it's you know different directory it's called something different it's|D|Bmr024
+me013|you know|F|Bmr024
+me013|it is different.|S|Bmr024
+me013|you can't just fold it in as if it's|D|Bmr024
+me013|i mean digits are different too.|S|Bmr024
+me013|right?|Q|Bmr024
+mn017|it might also be potentially confusing.|S|Bmr024
+me011|yeah but those are folded in.|S|Bmr024
+me011|and it's just you just mark the transcripts differently.|S|Bmr024
+me011|so so one option is you fold it in.|S|Bmr024
+mn017|right.|B|Bmr024
+me011|and just simply in the file you mark somewhere that this is this type of interaction rather than another type of interaction.|S|Bmr024
+mn017|yeah i|D|Bmr024
+me013|well i i wouldn't call reading digits meetings.|S|Bmr024
+me013|right?|Q|Bmr024
+me013|i mean we we we were doing|D|Bmr024
+me011|well but but i put it under the same directory tree.|S|Bmr024
+me011|you know it's in user doctor speech data m r.|S|Bmr024
+me013|well|F|Bmr024
+fe016|can we just have a directory called like other stuff?|Q|Bmr024
+fe016|and|F|Bmr024
+me011|other.|S|Bmr024
+fe016|well or i don't know.|S|Bmr024
+me013|i mean i don't care what directory tree you have it under.|S|Bmr024
+fe016|and and just um store it there.|S|Bmr024
+me013|right?|Q|Bmr024
+me013|i mean that's just a|D|Bmr024
+me011|okay.|F|Bmr024
+me011|my preference is to have a single procedure so that i don't have to think too much about things.|S|Bmr024
+mn017|yes.|D|Bmr024
+fe016|i mean|F|Bmr024
+me011|and just have a marking.|S|Bmr024
+me013|yeah.|B|Bmr024
+me011|if we do it any other way that means that we need a separate procedure and someone has to do that.|S|Bmr024
+me013|o you you can use whatever procedure you want that's convenient for you.|S|Bmr024
+me013|all i'm saying is that there's no way that we're going to tell people that reading digits is meetings.|S|Bmr024
+me011|right.|S|Bmr024
+me013|and similarly we're not going to tell them that someone talking to a computer to get travel information is meetings.|S|Bmr024
+me013|those aren't meetings.|S|Bmr024
+me013|but if it makes it easier for you to fold them in the same procedures and have them under the same directory tree knock yourself out.|S|Bmr024
+me013|you know?|Q|Bmr024
+me018|there's a couple other questions that i have too.|S|Bmr024
+me018|and and one of them is what about uh consent issues?|Q|Bmr024
+me018|and the other one is what about transcription?|Q|Bmr024
+mn014|transcription is done in munich.|S|Bmr024
+me018|are|D|Bmr024
+me018|okay.|S|Bmr024
+me018|so we don't have to worry about transcribing it?|Q|Bmr024
+mn014|yeah.|S|Bmr024
+me013|all right.|B|Bmr024
+me011|so we will have to worry about format.|S|Bmr024
+mn017|that's a that's another argument to keep it separate.|S|Bmr024
+mn017|because it's going to follow the smartkom transcription conventions and not the icsi meeting transcription conventions.|S|Bmr024
+me011|oh okay.|S|Bmr024
+mn014|yeah.|B|Bmr024
+me013|uh.|B|Bmr024
+me011|okay.|F|Bmr024
+me011|well i didn't realize that.|S|Bmr024
+me013|good point.|S|Bmr024
+me011|that's that's a|D|Bmr024
+me013|good point.|S|Bmr024
+me013|but i'm sure no one would have a problem with our folding it in for some acoustic modeling or or some things.|S|Bmr024
+me013|um.|F|Bmr024
+me013|do we do we have uh um american born folk uh reading german german uh uh place names and so forth?|Q|Bmr024
+mn014|yeah.|S|Bmr024
+me013|is that|D|Bmr024
+mn017|exactly.|S|Bmr024
+me011|yep.|S|Bmr024
+mn014|yeah.|S|Bmr024
+me013|yeah great.|S|Bmr024
+mn017|yeah.|B|Bmr024
+me011|they they even have a reading list.|S|Bmr024
+me018|i bet that sounds good.|S|Bmr024
+me011|it's pretty funny.|S|Bmr024
+me013|yeah.|B|Bmr024
+me018|huh?|Q|Bmr024
+mn017|yeah.|B|Bmr024
+mn014|you can do that if you want.|S|Bmr024
+me013|yeah.|B|Bmr024
+me018|okay.|B|Bmr024
+mn017|yeah.|B|Bmr024
+me018|i don't know if you want that.|S|Bmr024
+me013|right.|B|Bmr024
+me011|so|F|Bmr024
+fe008|huh.|B|Bmr024
+me013|heidelberg.|S|Bmr024
+mn017|exactly.|S|Bmr024
+me011|disk might eventually be an issue so we might we we might need to uh get some more disk pretty soon.|S|Bmr024
+mn017|do you want to be a subject?|Q|Bmr024
+me013|yeah i be pretty good.|S|Bmr024
+mn017|we|D|Bmr024
+mn017|yeah.|B|Bmr024
+me011|we're about we're about half halfway through our disk right now.|S|Bmr024
+mn017|that was one of our concerns.|S|Bmr024
+me018|yeah.|B|Bmr024
+me018|are we only half?|Q|Bmr024
+me018|i thought we were more than that.|S|Bmr024
+me011|we're probably a little more than that because we're using up some space that we shouldn't be on.|S|Bmr024
+me011|so once everything gets converted over to the disks we're supposed to be using we'll be probably uh seventy five percent.|S|Bmr024
+me018|well when i was looking for space for thilo i found one disk that had uh i think it was nine gigs and another one had seventeen.|S|Bmr024
+me011|yep.|S|Bmr024
+me018|and everything else was sort of committed.|S|Bmr024
+me018|uh.|F|Bmr024
+me011|were those backed up or non backed up?|Q|Bmr024
+me018|those were non backed up.|S|Bmr024
+mn014|non back up.|S|Bmr024
+me011|right.|S|Bmr024
+me011|so that's different.|S|Bmr024
+me018|oh you're talking about backed up.|S|Bmr024
+me011|i'm much more concerned about the backed up.|S|Bmr024
+me011|the non backed up.|S|Bmr024
+me018|i haven't looked to see how much of that we have.|S|Bmr024
+me011|yeah.|B|Bmr024
+me011|is cheap.|S|Bmr024
+me011|i mean if we need to we can buy a disk hang it off a uh workstation.|S|Bmr024
+me011|if it's not backed up the sysadmins don't care too much.|S|Bmr024
+me013|yeah.|B|Bmr024
+me013|so i mean pretty much anytime we need a disk we can get it at the rate that we're|D|Bmr024
+mn017|you can|D|Bmr024
+mn017|i shouldn't be saying this but you can just you know since the back ups are every night you can recycle the backed up diskspace.|S|Bmr024
+me011|yeah.|F|Bmr024
+me011|but that's that's that's risky.|S|Bmr024
+me013|yeah you really shouldn't be saying|D|Bmr024
+me011|huh.|B|Bmr024
+mn017|i didn't say that.|S|Bmr024
+me011|huh.|B|Bmr024
+me011|yeah that's right.|S|Bmr024
+mn017|i didn't say that.|D|Bmr024
+me011|beep that out.|S|Bmr024
+me013|we had allowed dave to listen to these these uh recordings.|S|Bmr024
+mn017|right.|B|Bmr024
+me013|um yeah.|F|Bmr024
+me013|i and there's been this conversation going on about getting another file server.|S|Bmr024
+me013|and and we can do that.|S|Bmr024
+mn017|uhhuh.|B|Bmr024
+me013|we'll take the opportunity and get another big raft of of disk i guess.|S|Bmr024
+me011|yeah.|B|Bmr024
+mn017|well i think i think there's an argument for having you know you could use our old file server for for disks that have data that is very rarely accessed.|S|Bmr024
+me011|it's really the back up issue rather than the file server issue.|S|Bmr024
+mn017|and then have a fast new file server for data that is um heavily accessed.|S|Bmr024
+me011|yeah.|B|Bmr024
+me011|my understanding is the issue isn't really the file server.|S|Bmr024
+mn017|yeah.|B|Bmr024
+me011|we could always put more disks on.|S|Bmr024
+mn017|yeah.|B|Bmr024
+mn017|it's the it's the back up|D|Bmr024
+me011|it's the back up system.|S|Bmr024
+mn017|yeah.|B|Bmr024
+me011|so|F|Bmr024
+me011|which is near saturation apparently.|S|Bmr024
+me011|so|F|Bmr024
+me013|soon.|S|Bmr024
+me018|i think i think the file server could become an issue as we get a whole bunch more new compute machines.|S|Bmr024
+me018|and we've got you know fifty machines trying to access data off of abbott at once.|S|Bmr024
+me011|well we're all right for now.|S|Bmr024
+me011|because the network's so slow.|S|Bmr024
+mn017|i mean i think i think we've raised this before and someone said this is not a reliable way to do it.|S|Bmr024
+mn017|but the|D|Bmr024
+mn017|what about putting the stuff on like c c d rom or d v d or something?|Q|Bmr024
+me011|yeah.|F|Bmr024
+me011|that was me.|S|Bmr024
+me011|i was the one who said it was not reliable.|S|Bmr024
+mn017|okay.|S|Bmr024
+me011|they they wear out.|S|Bmr024
+mn017|oh okay.|S|Bmr024
+me011|yeah.|F|Bmr024
+me011|the the|D|Bmr024
+mn017|but they wear out just from sitting on the shelf?|Q|Bmr024
+me011|yep.|S|Bmr024
+me011|absolutely.|S|Bmr024
+mn017|or from being read and read?|Q|Bmr024
+me011|no.|S|Bmr024
+me011|read and write don't hurt them too much unless you scratch them.|S|Bmr024
+mn017|oh okay.|S|Bmr024
+me011|but the the write once and the read writes don't last.|S|Bmr024
+me011|so you don't you don't want to put reproduceable data on them.|S|Bmr024
+mn017|uhhuh.|B|Bmr024
+me018|wear out after what amount of time?|Q|Bmr024
+me011|year or two.|S|Bmr024
+fe008|would it be|D|Bmr024
+me013|year or two?|Q|Bmr024
+me011|yep.|S|Bmr024
+me013|wow!|S|Bmr024
+fe008|huh.|B|Bmr024
+mn017|but if that|D|Bmr024
+mn017|then you would think you'd hear much more clamoring about data loss.|S|Bmr024
+mn014|yeah.|B|Bmr024
+mn017|and|F|Bmr024
+me013|i mean yeah all the l|D|Bmr024
+me011|i i don't know many people who do it on c d.|S|Bmr024
+me011|i mean they're the most|D|Bmr024
+me013|l d all the l d c distributions are on c d rom.|S|Bmr024
+fe016|yeah.|S|Bmr024
+me011|they're on c d but they're not that's not the only source.|S|Bmr024
+fe016|like|D|Bmr024
+me011|they have them on disk.|S|Bmr024
+me011|and they burn new ones every once in a while.|S|Bmr024
+mn017|but you know we have|D|Bmr024
+me011|but if you go if you go|D|Bmr024
+fe016|but we have like thirty you know from ten years ago?|Q|Bmr024
+fe016|no.|S|Bmr024
+me013|we have all sorts of c d roms from a long time ago.|S|Bmr024
+fe016|yeah.|S|Bmr024
+mn017|right.|B|Bmr024
+fe016|ten years ago.|S|Bmr024
+mn014|yeah.|D|Bmr024
+me011|well|F|Bmr024
+me011|okay.|D|Bmr024
+fe016|ninety one.|S|Bmr024
+fe016|and they're still all fine.|S|Bmr024
+me001|were they burned or were they pressed?|Q|Bmr024
+me013|yeah.|B|Bmr024
+fe016|uh both.|S|Bmr024
+fe016|i've burned them and they're still okay.|S|Bmr024
+me001|yeah.|B|Bmr024
+fe016|i mean usually they're|D|Bmr024
+me011|the the pressed ones last|D|Bmr024
+me011|well not forever.|S|Bmr024
+me011|they've been finding even those degrade.|S|Bmr024
+me013|oh i see.|S|Bmr024
+me011|but uh the burned ones|D|Bmr024
+me011|i mean when i say two or three years what i'm saying is that i have had disks which are gone in a year.|S|Bmr024
+fe016|that's what i|D|Bmr024
+me011|on the average it'll probably be three or four years.|S|Bmr024
+me011|but uh i i you don't want to have your only copy on a media that fails.|S|Bmr024
+mn017|huh.|B|Bmr024
+me011|and they do.|S|Bmr024
+mn017|so how about|D|Bmr024
+me011|um if you have them professionally pressed you know they're good for decades.|S|Bmr024
+mn017|so so how about putting them on that plus like on a on on dat or some other medium that isn't risky?|Q|Bmr024
+me011|i think|D|Bmr024
+me011|um|F|Bmr024
+me011|we can already put them on tape.|S|Bmr024
+mn017|okay.|S|Bmr024
+me011|and the tape is is very reliable.|S|Bmr024
+mn017|uhhuh.|B|Bmr024
+me011|so the the only issue is then if we need access to them.|S|Bmr024
+mn017|right.|B|Bmr024
+me011|so that's fine if we don't need access to them.|S|Bmr024
+mn017|well if if if you if they last|D|Bmr024
+mn017|say they actually last like five years huh in in the typical case.|S|Bmr024
+mn017|and and occasionally you might need to re create one.|S|Bmr024
+mn017|and then you get your tape out but otherwise you don't.|S|Bmr024
+mn017|can't you just|D|Bmr024
+mn017|you just put them on|D|Bmr024
+me001|so you just archive it on the tape and then put it on c d as well?|Q|Bmr024
+mn017|yeah.|S|Bmr024
+mn017|right.|S|Bmr024
+me011|oh.|S|Bmr024
+me011|so you're just saying put them on c ds for normal access.|S|Bmr024
+mn017|right.|B|Bmr024
+me001|yeah.|S|Bmr024
+me011|yeah.|B|Bmr024
+me011|i mean you can do that.|S|Bmr024
+me018|what you|D|Bmr024
+me011|but that's pretty annoying.|S|Bmr024
+me011|because the c ds are so slow.|S|Bmr024
+fe016|see|D|Bmr024
+me001|yeah.|B|Bmr024
+mn017|huh.|B|Bmr024
+fe016|yeah.|B|Bmr024
+me018|what'd be nice is a system that re burned the c ds every year.|S|Bmr024
+fe016|every time it was a going to going to die.|S|Bmr024
+me011|well i mean the c ds are are an|D|Bmr024
+me013|well|B|Bmr024
+mn014|yeah.|B|Bmr024
+mn017|it's like like dynamic d ram.|S|Bmr024
+mn014|just before.|S|Bmr024
+fe016|just before before it goes bad it burns them in.|S|Bmr024
+me018|yeah.|B|Bmr024
+me011|the the c d is an alternative to tape.|S|Bmr024
+me001|yeah.|B|Bmr024
+me011|icsi already has a perfectly good tape system and it's more reliable.|S|Bmr024
+me013|you know i would think|D|Bmr024
+me011|so for archiving we'll just use tape.|S|Bmr024
+mn017|one one thing i don't understand is if you have the data if if if the meeting data is put on disk exactly once then it's backed up once and the back up system should never have to bother with it uh more than once.|S|Bmr024
+me011|well regardless|D|Bmr024
+me011|well first of all there was um a problem with the archive in that i was every once in a while doing a chmod on all the directories or recursive chmod and chown.|S|Bmr024
+me011|because they weren't getting set correctly every once in a while.|S|Bmr024
+mn017|uhhuh.|B|Bmr024
+me011|and i was just doing a minus r star not realizing that that caused it to be re backed up.|S|Bmr024
+mn017|uhhuh.|B|Bmr024
+fe016|uh|B|Bmr024
+me011|but normally you're correct.|S|Bmr024
+me011|but even without that the back up system is becoming saturated.|S|Bmr024
+mn017|but but this back up system is smart enough to figure out that something hasn't changed and doesn't need to be backed up again.|S|Bmr024
+me011|sure but we still have enough changed that the nightly back ups are starting to take too long.|S|Bmr024
+me013|the i think the at least the once that you put it on it would it would kill that.|S|Bmr024
+mn017|okay.|F|Bmr024
+mn017|so so then if so so then let's|D|Bmr024
+me011|it has nothing to do with the meeting.|S|Bmr024
+me013|so|B|Bmr024
+me011|it's just the general icsi back up system is becoming saturated.|S|Bmr024
+mn017|right.|S|Bmr024
+mn017|okay.|S|Bmr024
+mn017|right.|S|Bmr024
+mn017|so what if we buy uh uh what what do they call these um high density|D|Bmr024
+me011|well why don't you have this have a this conversation with dave johnson rather than with me?|Q|Bmr024
+mn017|no no.|S|Bmr024
+mn017|because this is maybe something that we can do without involving dave and and putting more burden on him.|S|Bmr024
+mn017|how about we buy uh uh uh one of these high density tape drives?|Q|Bmr024
+mn017|and we put the data actually on non backed up disks.|S|Bmr024
+mn017|and we do our own back up once and for all all and then and we don't have to bother this up.|S|Bmr024
+me011|actually you know we could do that just with the tape with the current tape.|S|Bmr024
+mn017|i don't know what these tapes.|S|Bmr024
+mn017|uh|F|Bmr024
+mn017|at some point these|D|Bmr024
+mn017|i don't know.|S|Bmr024
+mn017|what kind of tape drive is it?|Q|Bmr024
+mn017|is it is|D|Bmr024
+me011|i don't know but it's an automatic robot so it's very convenient.|S|Bmr024
+mn017|right.|B|Bmr024
+me011|you just run a program to restore them.|S|Bmr024
+me013|the the one that we have?|Q|Bmr024
+me011|yeah.|S|Bmr024
+mn017|but it might interfere with their back up schedule.|S|Bmr024
+me013|the i mean|D|Bmr024
+fe016|but|F|Bmr024
+me013|no we have we don't we have our own?|Q|Bmr024
+mn017|uh.|B|Bmr024
+me013|something that doesn't that isn't used by the back up gang?|Q|Bmr024
+me013|don't we have something downstairs?|Q|Bmr024
+fe008|well they|D|Bmr024
+me018|what kind of tape drive?|Q|Bmr024
+me013|just in|D|Bmr024
+me011|well|F|Bmr024
+me013|yeah.|F|Bmr024
+me011|but|F|Bmr024
+me011|no.|F|Bmr024
+me011|but andreas's point is a good one.|S|Bmr024
+me011|and we don't have to do anything ourselves to do that.|S|Bmr024
+mn017|right.|B|Bmr024
+me011|they're already right now on tape.|S|Bmr024
+me011|right?|Q|Bmr024
+me011|so your your point is and i think it's a good one that we could just get more disk and put it there.|S|Bmr024
+mn017|huh.|B|Bmr024
+mn017|on an x h uh x x whatever partition.|S|Bmr024
+me011|yeah.|S|Bmr024
+me011|that's not a bad idea.|S|Bmr024
+mn017|yeah.|B|Bmr024
+me013|yeah that's basically what i was going to say is that a disk is is so cheap it's essentially you know close to free.|S|Bmr024
+me011|so once it's on tape|D|Bmr024
+mn017|right.|B|Bmr024
+me013|and the only thing that costs is the back up issue uh to first order.|S|Bmr024
+mn017|right.|B|Bmr024
+me013|and we can take care of that by putting it on non back up drives and just backing it up once onto this tape.|S|Bmr024
+mn017|uhhuh.|B|Bmr024
+me011|i think that's a good idea.|S|Bmr024
+mn017|right.|B|Bmr024
+me013|oh.|B|Bmr024
+mn017|okay.|B|Bmr024
+me013|yeah.|B|Bmr024
+me013|good.|B|Bmr024
+me013|it's good.|B|Bmr024
+fe016|so who's going to do these back ups?|Q|Bmr024
+fe016|the people that collect it?|Q|Bmr024
+me011|uh|F|Bmr024
+me011|well i'll talk to dave and and see what how what the best way of doing that is.|S|Bmr024
+me018|it's probably going to|D|Bmr024
+me011|there's a little utility that will manually burn a tape for you.|S|Bmr024
+me011|and that's probably the right way to do it.|S|Bmr024
+me018|yeah and we should probably make that part of the procedure for recording the meetings.|S|Bmr024
+fe016|well|D|Bmr024
+me011|yep.|B|Bmr024
+fe016|yeah.|B|Bmr024
+fe016|that's what i'm wondering.|S|Bmr024
+fe016|if|D|Bmr024
+me011|well we're we're going to automate that.|S|Bmr024
+fe016|okay.|B|Bmr024
+me011|my intention is to do a script that'll do everything.|S|Bmr024
+fe016|i mean you don't have to physically put a tape in the drive?|Q|Bmr024
+me011|no.|S|Bmr024
+fe016|or|D|Bmr024
+fe016|oh okay.|S|Bmr024
+me011|it's all tape robot.|S|Bmr024
+fe016|so it's just|D|Bmr024
+me011|so you just sit down at your computer and you type a command.|S|Bmr024
+fe016|oh okay.|S|Bmr024
+mn017|yeah but then you're effectively using the resources of the back up system.|S|Bmr024
+mn017|or is that a different tape robot?|Q|Bmr024
+fe016|but not at the same time.|S|Bmr024
+me011|yeah.|F|Bmr024
+me011|but but you would be anyway.|S|Bmr024
+mn017|no no.|F|Bmr024
+me011|right?|Q|Bmr024
+me018|no no no.|S|Bmr024
+me011|because|D|Bmr024
+mn017|see|D|Bmr024
+me018|he's saying get a whole different drive.|S|Bmr024
+mn017|yeah just give a|D|Bmr024
+me011|but there's no reason to do that.|S|Bmr024
+mn017|well i'm saying is if you go to dave and and and ask him can i use your tape robot.|S|Bmr024
+me011|it we already have it there and it it's|D|Bmr024
+mn017|he will say well that's going to screw up our back up operation.|S|Bmr024
+me011|no we won't.|S|Bmr024
+me011|he'll say if if that means that it's not going to be backed up standardly great.|S|Bmr024
+me013|i dave has has promoted this in the past.|S|Bmr024
+me013|so i don't think he's actually against it.|S|Bmr024
+me011|yeah.|F|Bmr024
+me011|it's it's definitely no problem.|S|Bmr024
+mn017|oh okay.|S|Bmr024
+mn017|all right.|B|Bmr024
+mn017|all right.|B|Bmr024
+me013|yeah.|F|Bmr024
+mn017|good.|S|Bmr024
+me013|okay.|B|Bmr024
+fe016|what about if the times overlap with the normal back up time?|Q|Bmr024
+me011|um it's it's just it's just a utility which queues up.|S|Bmr024
+fe016|okay.|S|Bmr024
+me011|it just queues it up and and when it's available it will copy it.|S|Bmr024
+me013|yeah.|B|Bmr024
+me011|and then you can tell it to then remove it from the disk or you can you know do it a few days later or whatever you want to do.|S|Bmr024
+me011|after you confirm that it's really backed up.|S|Bmr024
+fe016|okay.|S|Bmr024
+me011|n w|D|Bmr024
+fe008|you saying n w archive?|Q|Bmr024
+me011|n w archive.|S|Bmr024
+me011|that's what it is.|S|Bmr024
+fe008|yep and if you did that during the day it would never make it to the nightly back ups.|S|Bmr024
+me013|okay.|B|Bmr024
+me011|right.|S|Bmr024
+fe008|and then there wouldn't be this extra load.|S|Bmr024
+mn017|well it if he you have to put the data on a on a non backed up disk to begin with.|S|Bmr024
+mn017|so that so that otherwise you don't you|D|Bmr024
+me011|right.|S|Bmr024
+fe008|well but you can have it n w archive to you can have uh a non backed up disk n w archived.|S|Bmr024
+me011|right.|S|Bmr024
+fe008|and it'll never show up on the nightly back ups.|S|Bmr024
+me011|and then it never|D|Bmr024
+mn017|right.|B|Bmr024
+mn017|right.|B|Bmr024
+me011|right.|S|Bmr024
+me011|which i'm sure would make the sysadmins very happy.|S|Bmr024
+mn017|right.|B|Bmr024
+fe008|yeah.|B|Bmr024
+me011|so i think that's a good idea.|S|Bmr024
+mn017|okay.|B|Bmr024
+me011|that's what we should do.|S|Bmr024
+mn017|okay.|B|Bmr024
+me011|so that means we'll probably want to convert all all those files filesystems to non backed up media.|S|Bmr024
+me018|that sounds good.|S|Bmr024
+me011|yep.|B|Bmr024
+me013|yeah.|B|Bmr024
+me013|um another thing on the agenda said s r i recognition experiments?|Q|Bmr024
+me013|what's that?|Q|Bmr024
+mn017|s r i recognition?|Q|Bmr024
+mn017|oh.|S|Bmr024
+me011|that wasn't me.|S|Bmr024
+mn017|um well|F|Bmr024
+me013|uh.|D|Bmr024
+me013|who's that?|D|Bmr024
+mn017|we have lots of them.|S|Bmr024
+mn017|uh i don't know.|S|Bmr024
+mn017|chuck do you have any any updates?|Q|Bmr024
+me018|i'm successfully uh increasing the error rate.|S|Bmr024
+me018|uh|F|Bmr024
+me011|that's good.|S|Bmr024
+mn017|oh.|B|Bmr024
+me001|huh.|B|Bmr024
+fe016|lift the herve approach.|S|Bmr024
+me018|yeah.|S|Bmr024
+me018|so i mean i'm just playing with um the number of gaussians that we use in the the recognizer and|D|Bmr024
+mn017|well you have to you have to tell people that you're you're doing you're trying the tandem features.|S|Bmr024
+me018|yes i'm using tandem features.|S|Bmr024
+me011|oh you are?|Q|Bmr024
+mn017|and i'm still tinkering with the p l p features.|S|Bmr024
+me011|cool.|S|Bmr024
+me018|and|D|Bmr024
+me013|yeah i got confused by the results.|S|Bmr024
+me013|it because uh the meeting before you said okay we got it down to where they're they're within a tenth of a percent.|S|Bmr024
+me018|that was on males.|S|Bmr024
+mn017|right.|B|Bmr024
+mn017|that was that was before i tried it on the females.|S|Bmr024
+me013|oh.|S|Bmr024
+mn017|see women are are trouble.|S|Bmr024
+me013|it's the women are the problem.|S|Bmr024
+me013|okay.|S|Bmr024
+mn017|right?|Q|Bmr024
+mn017|as we all know.|S|Bmr024
+mn017|so|F|Bmr024
+fe016|well let's just say that men are simple.|S|Bmr024
+mn017|so so when so i i had i|D|Bmr024
+me011|that was a quick response.|S|Bmr024
+mn017|so we had reached the point where|D|Bmr024
+fe016|i'm well rehearsed.|S|Bmr024
+me013|yeah.|B|Bmr024
+mn017|we had reached the point where um on the male portion of the development set the um or one of the development sets i should say the um the male error rate with uh icsi p l p features was pretty much identical with uh s r i features.|S|Bmr024
+mn017|which are m f c c.|S|Bmr024
+mn017|so um then i thought oh great.|S|Bmr024
+mn017|i'll i'll just let's make sure everything works on the females.|S|Bmr024
+mn017|and the error rate you know there was a three percent difference.|S|Bmr024
+me013|oh.|B|Bmr024
+me013|uhhuh.|B|Bmr024
+mn017|so|F|Bmr024
+fe016|is there less training data?|Q|Bmr024
+mn017|uh|F|Bmr024
+fe016|i mean we|D|Bmr024
+mn017|no actually there's more training data.|S|Bmr024
+fe016|this is on just digits?|Q|Bmr024
+mn017|no no.|S|Bmr024
+fe016|oh sorry.|S|Bmr024
+me013|no.|D|Bmr024
+me011|no.|S|Bmr024
+me011|it's uh|D|Bmr024
+fe016|okay.|S|Bmr024
+me018|hub five.|S|Bmr024
+fe016|this is on|D|Bmr024
+mn017|this is hub five.|S|Bmr024
+fe016|oh okay.|S|Bmr024
+me011|hub five.|S|Bmr024
+me011|yeah.|B|Bmr024
+mn017|yeah.|B|Bmr024
+mn017|um and the test data is callhome and switchboard.|S|Bmr024
+mn017|so uh so then um|F|Bmr024
+mn017|oh and plus the the vocal tract length normalization didn't actually made things worse.|S|Bmr024
+mn017|so something's really seriously wrong.|S|Bmr024
+mn017|so|F|Bmr024
+mn017|um|F|Bmr024
+me013|aha.|B|Bmr024
+mn017|so so|F|Bmr024
+me013|okay.|B|Bmr024
+me013|so but you see now between between the males and the females there's certainly a much bigger difference in the scaling range than there is say just within the males.|S|Bmr024
+me013|and what you were using before was scaling factors that were just from the the the s r i front end.|S|Bmr024
+me013|and that worked that worked fine.|S|Bmr024
+mn017|that's true.|S|Bmr024
+mn017|yeah.|S|Bmr024
+me013|uh but now you're looking over a larger range and it may not be so fine.|S|Bmr024
+mn017|well um|F|Bmr024
+mn017|so|F|Bmr024
+mn017|i just|D|Bmr024
+mn017|so the one thing that i then tried was to put in the low pass filter which we have in the|D|Bmr024
+mn017|so most most hub five systems actually band limit the uh at about uh thirty seven hundred um hertz.|S|Bmr024
+me013|uhhuh.|B|Bmr024
+mn017|although you know normally i mean the channel goes to four four thousand.|S|Bmr024
+mn017|right?|Q|Bmr024
+mn017|so um|F|Bmr024
+mn017|and that actually helped uh uh a little bit.|S|Bmr024
+me013|uhhuh.|B|Bmr024
+mn017|um and it didn't hurt on the males either.|S|Bmr024
+mn017|so um|F|Bmr024
+mn017|and i'm now uh trying the|D|Bmr024
+mn017|oh and suddenly also the the vocal tract length normalization only in the test on the test data.|S|Bmr024
+mn017|so you can do vocal tract length normalization on the test data only or on both the training and the test.|S|Bmr024
+me013|yeah.|B|Bmr024
+mn017|and you expect it to help a little bit if you do it only on the test and more if you do it on both training and test.|S|Bmr024
+me013|yeah.|B|Bmr024
+mn017|and so the it now helps if you do it only on the test.|S|Bmr024
+mn017|and i'm currently retraining another set of models where it's both in the training and the test.|S|Bmr024
+mn017|and then we'll we'll have hopefully even better results.|S|Bmr024
+mn017|so|F|Bmr024
+mn017|but there's|D|Bmr024
+mn017|it looks like there will still be some difference.|S|Bmr024
+mn017|maybe between one and two percent um for the females.|S|Bmr024
+me013|huh.|B|Bmr024
+mn017|and so um you know i'm open to suggestions.|S|Bmr024
+mn017|and it is true that the uh that the you know we are using the|D|Bmr024
+me011|uhhuh.|B|Bmr024
+mn017|but|D|Bmr024
+mn017|it can't be just the v t l.|S|Bmr024
+me013|uhhuh.|B|Bmr024
+mn017|because if you don't do v t l in both systems uh you know the the females are considerably worse in the with the p l p features.|S|Bmr024
+me013|no no.|B|Bmr024
+me013|i i remember that.|S|Bmr024
+me011|it's much worse.|S|Bmr024
+me011|yeah.|B|Bmr024
+mn017|so there must be some something else going on.|S|Bmr024
+fe016|well what's the standard?|Q|Bmr024
+fe016|yeah so i thought the performance was actually a little better on females than males.|S|Bmr024
+me011|that's what i thought too.|S|Bmr024
+mn017|um that overall yes.|S|Bmr024
+mn017|but on this particular development test set they're actually a little worse.|S|Bmr024
+mn017|but that's beside the point.|S|Bmr024
+mn017|we're looking at the discrepancy between the s r i system and the s r i system when trained with icsi features.|S|Bmr024
+fe016|right.|S|Bmr024
+fe016|i'm just wondering if that if if you have any indication of your standard features.|S|Bmr024
+me011|what's are the|D|Bmr024
+fe016|you know if that's also different or in the same direction or not.|S|Bmr024
+me013|you're this is let me ask a more basic|D|Bmr024
+fe016|because|D|Bmr024
+mn017|uhhuh.|B|Bmr024
+me013|i mean is this uh uh iterative baum welch training?|Q|Bmr024
+me013|or is it viterbi training?|Q|Bmr024
+me013|or|D|Bmr024
+mn017|it's baum welch training.|S|Bmr024
+me013|baum welch training.|S|Bmr024
+me013|and how do you determine when to to stop iterating?|Q|Bmr024
+mn017|um|F|Bmr024
+mn017|well actually we we just basically do a a fixed number of iterations.|S|Bmr024
+me011|huh.|B|Bmr024
+mn017|uh in this case four.|S|Bmr024
+mn017|um which uh we used to do only three.|S|Bmr024
+mn017|and then we found out we can squeeze|D|Bmr024
+mn017|and it was basically we're we're keeping it on the safe side.|S|Bmr024
+mn017|but you're|D|Bmr024
+mn017|right.|F|Bmr024
+mn017|it might be that one more iteration would would help but it's sort of|D|Bmr024
+mn017|you know.|F|Bmr024
+me013|or maybe or maybe you're doing one too many.|S|Bmr024
+me013|i mean it's it's|D|Bmr024
+mn017|no but with baum welch there shouldn't be an over fitting issue really.|S|Bmr024
+me013|uh well there can be.|S|Bmr024
+me013|sure.|B|Bmr024
+mn017|um|F|Bmr024
+me011|well you can try each one on a cross validation set.|S|Bmr024
+me013|it if you if you remember some years ago bill byrne did a thing where he was he was looking at that.|S|Bmr024
+me011|can't you?|Q|Bmr024
+me013|and he showed that you could get it.|S|Bmr024
+mn017|yeah.|B|Bmr024
+me013|so|F|Bmr024
+me013|but but but um|F|Bmr024
+mn017|well yeah.|F|Bmr024
+mn017|we can|D|Bmr024
+mn017|well that's that's the easy one to check.|S|Bmr024
+mn017|because we save all the intermediate models.|S|Bmr024
+me013|yeah.|B|Bmr024
+me011|do you|D|Bmr024
+mn017|and we can|D|Bmr024
+me013|and in each case|D|Bmr024
+me011|what|D|Bmr024
+me013|um i'm sorry.|S|Bmr024
+me013|in each case how do you determine you know the the usual fudge factors?|Q|Bmr024
+me013|the uh the uh language uh scaling acoustic scaling.|S|Bmr024
+me013|uh uh|F|Bmr024
+mn017|um i i'm actually re optimizing them.|S|Bmr024
+mn017|although that hasn't shown to make a big difference.|S|Bmr024
+me013|okay.|S|Bmr024
+me013|and the the question he was asking at one point about pruning.|S|Bmr024
+me013|uh|F|Bmr024
+mn017|pruning|D|Bmr024
+me013|remember that one?|Q|Bmr024
+mn017|pruning in the|D|Bmr024
+me013|well he was he's it looked like the at one point he was looking at the probabilities he was getting out at the likelihoods he was getting out of p l p versus mel cepstrum and they looked pretty different.|S|Bmr024
+me018|yeah the likelihoods were lower for the p l p.|S|Bmr024
+me013|as i recall.|S|Bmr024
+fe016|oh.|B|Bmr024
+me013|and so uh there's the question.|S|Bmr024
+mn017|you mean did you see this in the s r i system?|Q|Bmr024
+me018|uhhuh.|S|Bmr024
+mn017|um well the likelihoods are|D|Bmr024
+me018|was just looking through the log files.|S|Bmr024
+me018|and|D|Bmr024
+mn017|you can't directly compare them because for every set of models you compute a new normalization.|S|Bmr024
+mn017|and so these log probabilities they aren't directly comparable.|S|Bmr024
+me018|oh.|S|Bmr024
+mn017|because you have a different normalization constants for each model you train.|S|Bmr024
+mn017|so|F|Bmr024
+me018|huh.|B|Bmr024
+me013|but still it's a question.|S|Bmr024
+me013|if you have some threshold somewhere in terms of beam search or something?|Q|Bmr024
+me018|well yeah.|F|Bmr024
+me013|or|D|Bmr024
+me018|that's what i was wondering.|S|Bmr024
+mn017|yeah.|S|Bmr024
+mn017|i mean|D|Bmr024
+mn017|uh|F|Bmr024
+me018|i mean if you have one threshold that works well because the range of your likelihoods is in this area|D|Bmr024
+mn017|we prune very conservatively.|S|Bmr024
+mn017|i mean as we saw with the meeting data um we could probably tighten the pruning without really|D|Bmr024
+mn017|so we basically we have a very open beam.|S|Bmr024
+me013|but you're only talking about a percent or two.|S|Bmr024
+me018|yeah.|B|Bmr024
+me013|right?|Q|Bmr024
+me013|here we're we're saying that there gee there's this uh there's this difference here.|S|Bmr024
+me013|and it|D|Bmr024
+me013|see because there could be lots of things.|S|Bmr024
+me013|right?|Q|Bmr024
+mn017|right.|S|Bmr024
+me013|but but but but um let's suppose just for a second that uh we've sort of taken out a lot of the the major differences uh between the two.|S|Bmr024
+mn017|course.|B|Bmr024
+mn017|uhhuh.|B|Bmr024
+mn017|right.|B|Bmr024
+me013|i mean we're already sort of using the mel scale and we're using the same style filter integration.|S|Bmr024
+me013|and and well we're making sure that low and high|D|Bmr024
+mn017|actually there is the difference in that.|S|Bmr024
+mn017|so for the p l p features we use the triangular filter shapes.|S|Bmr024
+mn017|and for the in the s r i front end we use the trapezoidal one.|S|Bmr024
+me011|and what's the top frequency of each?|Q|Bmr024
+mn017|well now it's the same.|S|Bmr024
+mn017|it's thirty thirty to seven hundred and sixty hertz.|S|Bmr024
+me011|yeah.|B|Bmr024
+me011|one's triangular one's trapezoidal.|S|Bmr024
+me011|so|F|Bmr024
+mn017|no no.|S|Bmr024
+mn017|but|D|Bmr024
+me013|before we with straight p l p it's trapezoidal also.|S|Bmr024
+mn017|well|F|Bmr024
+mn017|but|F|Bmr024
+me013|but then we had a slight difference in the in the scale.|S|Bmr024
+me013|uh so|F|Bmr024
+mn017|since currently the feacalc program doesn't allow me to change the filter shape independently of the scale.|S|Bmr024
+me011|uhhuh.|S|Bmr024
+mn017|and i did the experiment on the s r i front end where i tried the where the standard used to be to use trapezoidal filters.|S|Bmr024
+mn017|you can actually continuously vary it between the two.|S|Bmr024
+mn017|and so i i i tried the uh triangular ones.|S|Bmr024
+mn017|and it did slightly worse but it's really a small difference.|S|Bmr024
+me011|huh.|B|Bmr024
+mn017|so|F|Bmr024
+me013|couple tenths of a percent or something.|S|Bmr024
+me011|okay.|S|Bmr024
+mn017|yeah exactly.|S|Bmr024
+me011|so it's not just losing some frequency range.|S|Bmr024
+me013|right.|B|Bmr024
+mn017|so it's not|D|Bmr024
+mn017|i don't think the filter shape by itself will make a huge difference.|S|Bmr024
+me013|yeah.|B|Bmr024
+me013|right.|S|Bmr024
+me013|so the the other thing that|D|Bmr024
+me011|yeah.|B|Bmr024
+me013|so|F|Bmr024
+me013|we've always viewed it anyway as the major difference between the two is actually in the smoothing.|S|Bmr024
+mn017|uhhuh.|B|Bmr024
+me013|that the that the um p l p and and the reason p l p has been advantageous in uh slightly noisy situations is because p l p does the smoothing at the end by an auto regressive model.|S|Bmr024
+mn017|uhhuh.|B|Bmr024
+me013|and mel cepstrum does it by just computing the lower cepstral coefficients.|S|Bmr024
+mn017|uhhuh.|B|Bmr024
+me013|um so um uhhuh.|F|Bmr024
+mn017|okay.|F|Bmr024
+mn017|so one thing i haven't done yet is to actually do all of this with a much larger with our full training set.|S|Bmr024
+mn017|so right now we're using a|D|Bmr024
+mn017|i don't know.|S|Bmr024
+mn017|forty?|Q|Bmr024
+mn017|it's it's it's a training set that's about um you know by a factor of four smaller than what we use when we train the full system.|S|Bmr024
+mn017|so some of these smoothing issues are over fitting for that matter.|S|Bmr024
+mn017|and the baum welch should be much less of a factor if you go full whole hog.|S|Bmr024
+me013|uhhuh.|B|Bmr024
+me013|could be.|S|Bmr024
+me013|yeah.|S|Bmr024
+mn017|and so so just um so the strategy is to first sort of treat things with fast turnaround on a smaller training set and then when you've sort of narrowed it down you try it on a larger training set.|S|Bmr024
+me013|yeah.|B|Bmr024
+mn017|and so we haven't done that yet.|S|Bmr024
+me013|now the other related question though is is uh what's the boot models for these things?|Q|Bmr024
+mn017|the boot models are trained from scratch.|S|Bmr024
+mn017|so we compute|D|Bmr024
+mn017|um|F|Bmr024
+mn017|so we start with a um alignment that we computed with the sort of the best system we have.|S|Bmr024
+mn017|and and then we train from scratch.|S|Bmr024
+mn017|so we we do a you know um we collect the uh the observations from those alignments under each of the feature sets that that we train.|S|Bmr024
+mn017|and then from there we do|D|Bmr024
+mn017|um|F|Bmr024
+mn017|there's a lot of|D|Bmr024
+mn017|actually the way it works you first train a phonetically tied mixture model.|S|Bmr024
+mn017|um|F|Bmr024
+mn017|you do a total of|D|Bmr024
+mn017|first you do a context independent p t m model.|S|Bmr024
+mn017|then you switch to a context|D|Bmr024
+mn017|you do two iterations of that.|S|Bmr024
+mn017|then you do two iterations of of of context dependent phonetically tied mixtures.|S|Bmr024
+mn017|and then from that you you do the you you go to a state clustered model.|S|Bmr024
+me013|yeah.|B|Bmr024
+mn017|and you do four iterations of that.|S|Bmr024
+mn017|so there's a lot of iterations overall between your original boot models and the final models.|S|Bmr024
+mn017|i don't think that|D|Bmr024
+mn017|huh.|F|Bmr024
+mn017|we have never seen big differences.|S|Bmr024
+mn017|once i thought oh i can now i have these much better models.|S|Bmr024
+mn017|i'll re generate my initial alignments.|S|Bmr024
+mn017|then i'll get much better models at the end.|S|Bmr024
+mn017|made no difference whatsoever.|S|Bmr024
+mn017|it's i think it's uh|D|Bmr024
+me013|right.|S|Bmr024
+mn017|the boot models are|D|Bmr024
+me013|well for making things better.|S|Bmr024
+me013|yeah.|F|Bmr024
+me013|but this for making things worse.|S|Bmr024
+me013|this it|D|Bmr024
+me013|the thought is is is possible another possible partial cause is if the boot models used a used a different feature set that|D|Bmr024
+mn017|uhhuh.|B|Bmr024
+mn017|uhhuh.|B|Bmr024
+mn017|but there are no boot models in fact.|S|Bmr024
+mn017|you you're not booting from initial models.|S|Bmr024
+mn017|you're booting from initial alignments.|S|Bmr024
+me013|which you got from a different feature set.|S|Bmr024
+mn017|that's correct.|S|Bmr024
+me013|so those features look at the data differently actually.|S|Bmr024
+mn017|yeah but|D|Bmr024
+me013|i mean you know they they will find boundaries a little differently though.|S|Bmr024
+me013|you know all all that sort of thing is actually slightly different.|S|Bmr024
+me013|i'd expect it to be a minor effect.|S|Bmr024
+mn017|but but but what i'm what i'm saying is|D|Bmr024
+me013|but|F|Bmr024
+mn017|so we for a long time we had used boot alignments that had been trained with a with the same front end but with acoustic models that were like fifteen percent worse than what we use now.|S|Bmr024
+me013|uhhuh.|B|Bmr024
+mn017|and with a different dictionary with a considerably different dictionary which was much less detailed and much less well suited.|S|Bmr024
+me013|uhhuh.|B|Bmr024
+me013|yeah.|B|Bmr024
+mn017|and so then we switched to new boot alignments.|S|Bmr024
+mn017|which which now had the benefit of all these improvements that we've made over two years in the system.|S|Bmr024
+me013|right.|B|Bmr024
+mn017|and the result in the end was no different.|S|Bmr024
+me013|right.|B|Bmr024
+mn017|so what i'm saying is the exact nature of these boot alignments is probably not a big factor in the quality of the final models.|S|Bmr024
+me013|yeah maybe not.|S|Bmr024
+me013|but it it i still see it as i mean there's there's a history to this too.|S|Bmr024
+mn017|yeah.|B|Bmr024
+me013|but i uh i don't want to go into.|S|Bmr024
+mn017|uhhuh.|B|Bmr024
+me013|but but i i i i think it could be the things that it the data is being viewed in a certain way uh that a beginning is here rather than there and so forth.|S|Bmr024
+mn017|yeah.|B|Bmr024
+mn017|right.|B|Bmr024
+me013|because the actual signal processing you're doing is slightly different.|S|Bmr024
+mn017|right.|B|Bmr024
+me013|but it's it's that's probably not it.|S|Bmr024
+mn017|yeah.|B|Bmr024
+mn017|anyway i i i should really reserve uh any conclusions until we've done it on the large training set um and until we've seen the results with the with the v t l in training.|S|Bmr024
+mn017|so|F|Bmr024
+me013|yeah.|F|Bmr024
+me013|at some point you also might want to take the same thing and try it on uh some broadcast news data or something else that actually has has some noisy noisy components so we can see if any conclusions we come to holds across different data.|S|Bmr024
+mn017|yeah.|B|Bmr024
+mn017|right.|B|Bmr024
+me013|uh|F|Bmr024
+mn017|and uh with this i have to leave.|S|Bmr024
+me001|huh!|B|Bmr024
+me013|okay.|S|Bmr024
+me013|so is there something quick about absinthe that you|D|Bmr024
+mn017|with this said.|S|Bmr024
+me011|uh just what we were talking about before which is that i ported a blass library to absinthe.|S|Bmr024
+me011|and then got got it working with fast forward.|S|Bmr024
+me011|and got a speedup roughly proportional to the number of processors times the clock cycle.|S|Bmr024
+mn017|oh.|B|Bmr024
+me011|so that's pretty good.|S|Bmr024
+mn017|oh!|S|Bmr024
+mn017|cool.|S|Bmr024
+me011|um i'm in the process of doing it for quicknet.|S|Bmr024
+me011|but there's something going wrong.|S|Bmr024
+me011|and it's about half the speed that i was estimating it should be.|S|Bmr024
+me011|and i'm not sure why.|S|Bmr024
+mn017|uhhuh.|B|Bmr024
+me011|but i'll keep working on it.|S|Bmr024
+me011|but the what it means is that it's likely that for net training and forward passes we'll absinthe will be a good machine.|S|Bmr024
+me011|especially if we get a few more processors and upgrade the processors.|S|Bmr024
+mn017|a few more processors?|Q|Bmr024
+mn017|how many are you shooting for?|Q|Bmr024
+me011|there're five now.|S|Bmr024
+me011|it can hold eight.|S|Bmr024
+mn017|oh okay.|S|Bmr024
+me013|yeah we'll just go buy them i guess.|S|Bmr024
+me011|and it's also five fifty megahertz and you can get a gigahertz.|S|Bmr024
+mn017|yeah.|B|Bmr024
+me011|so|F|Bmr024
+mn017|can you mix uh processors of different speed?|Q|Bmr024
+me011|i don't think so.|S|Bmr024
+me011|i think we'd have to do all|D|Bmr024
+mn017|okay.|B|Bmr024
+me013|probably just throw away the old ones.|S|Bmr024
+me011|yep.|S|Bmr024
+me013|and|F|Bmr024
+me013|thank you for the box.|S|Bmr024
+me013|and i'll just go buy their process.|S|Bmr024
+mn017|oh okay.|S|Bmr024
+me001|huh!|B|Bmr024
+mn017|maybe we can stick them in another system.|S|Bmr024
+mn017|i don't know.|S|Bmr024
+me011|we'd have to get a almost certainly have to get a uh netfinity server.|S|Bmr024
+mn017|i see.|S|Bmr024
+me011|they're pretty pretty specialized.|S|Bmr024
+me013|yeah.|B|Bmr024
+mn017|okay.|B|Bmr024
+me013|okay.|F|Bmr024
+me013|is is liz coming back do you know?|Q|Bmr024
+me013|or|D|Bmr024
+me013|i don't know.|S|Bmr024
+me013|yeah.|B|Bmr024
+me013|oh you don't.|S|Bmr024
+me013|okay.|B|Bmr024
+me013|all right.|B|Bmr024
+me013|all right.|S|Bmr024
+me013|see you.|S|Bmr024
+me013|um.|B|Bmr024
+me013|all right.|F|Bmr024
+me013|so|F|Bmr024
+me013|uh they're having tea out there.|S|Bmr024
+me013|so i guess the other thing that we were going to talk about is is uh demo.|S|Bmr024
+me013|and um so these are the demos for the uh july uh meeting and um darpa|D|Bmr024
+me011|july what?|Q|Bmr024
+me011|early july?|Q|Bmr024
+me011|late july?|Q|Bmr024
+me013|oh i think it's july fifteenth.|S|Bmr024
+fe008|sixteen to eighteen i think.|S|Bmr024
+me013|is that it?|Q|Bmr024
+me013|yeah sixteenth eighteenth.|S|Bmr024
+fe008|roughly.|S|Bmr024
+me013|yeah.|F|Bmr024
+me013|so we talked about getting something together for that.|S|Bmr024
+me013|but maybe uh maybe we'll just put that off for now given that|D|Bmr024
+me013|but i think maybe we should have a a sub meeting.|S|Bmr024
+me013|i think uh probably uh adam and and uh chuck and me should talk about should get together and talk about that sometime soon.|S|Bmr024
+me011|over a cappuccino tomorrow?|Q|Bmr024
+me013|yeah something like that.|S|Bmr024
+me013|um uh you know maybe maybe we'll involve dan ellis at some some level as well.|S|Bmr024
+me011|uhhuh.|B|Bmr024
+me013|um.|F|Bmr024
+me013|okay the the tea is is going so uh i suggest we do uh uh a unison.|S|Bmr024
+me011|a unison digits?|Q|Bmr024
+fe008|okay.|S|Bmr024
+me013|yeah.|S|Bmr024
+me011|which is going to be a little hard for a couple people because we have different digits forms.|S|Bmr024
+me013|gets our|D|Bmr024
+mn014|oops!|S|Bmr024
+me011|we have a i found a couple of old ones.|S|Bmr024
+me001|huh.|B|Bmr024
+me013|oh.|S|Bmr024
+me013|well that'll be interesting.|S|Bmr024
+me013|so|F|Bmr024
+me013|uh|F|Bmr024
+me011|have you done digits before?|Q|Bmr024
+me013|no.|S|Bmr024
+me051|i haven't done it.|S|Bmr024
+me011|okay.|F|Bmr024
+me011|so uh the idea is just to read each line with a short pause between lines.|S|Bmr024
+me051|all right.|S|Bmr024
+me011|not between.|S|Bmr024
+me011|and uh since we're in a hurry we were just going to read everyone all at once.|S|Bmr024
+me011|so if you sort of plug your ears and read|D|Bmr024
+me051|okay.|S|Bmr024
+me011|so first read the transcript number and then start reading the digits.|S|Bmr024
+me051|sure.|S|Bmr024
+me011|okay?|Q|Bmr024
+me011|one two three.|S|Bmr024

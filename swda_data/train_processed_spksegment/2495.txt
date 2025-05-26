@@ -1,0 +1,172 @@
+A|So, what is your latest experience with painting?|qo|2495|0
+B|Well, I don't,|%|2495|1
+B|I haven't done any painting since I was a child|sd|2495|1
+B|and my father would be painting and I'd ask him if I could, you know, take a turn or something,|sd|2495|1
+B|but, uh,|%|2495|1
+A|Uh-huh.|b|2495|0
+B|when we bought our home it was recently updated.|sd|2495|1
+B|They did that, maybe improvements, so they could sell it and things,|sd|2495|1
+B|so we didn't have to do any painting.|sd|2495|1
+A|Right.|b|2495|0
+B|And the condominium we moved in before, my husband went over and painted,|sd|2495|1
+B|but I,|%|2495|1
+B|the experience that I've had is that, um, whatever time he gave, said, Oh, it would take me about, just about four hours, because it was only about like eleven or twelve hundred square feet over there,|sd|2495|1
+B|and he said, Oh, it's going to be just about four hours.|sd|2495|1
+B|Well, he was gone the whole day,|sd|2495|1
+B|and he said, Well, all I got done was the taping around|sd|2495|1
+A|Isn't that amazing?|bh|2495|0
+A|It, it looks so easy just slapping paint on.|sd|2495|0
+A|I had an addition put on|sd|2495|0
+B|Uh-huh.|b|2495|1
+A|and, um, we, and I decided, because my inner room looked so dingy, because I put these beautiful French doors in|sd|2495|0
+B|Uh-huh.|b|2495|1
+A|and, so I decided, okay, I'll just, you know, have them paint this little room, you know, a little ten by ten dining area.|sd|2495|0
+B|Uh-huh.|b|2495|1
+A|It took four days.|sd|2495|0
+A|And even the painter couldn't give me a good estimate.|sd|2495|0
+A|He said, Well, I'll be done this afternoon, you know|sd|2495|0
+B|Uh-huh.|b|2495|1
+A|and pretty soon, before you know it, you know, he's run into so many problems,|sd|2495|0
+A|and it's just,|%|2495|0
+A|there's nothing there to be a problem I thought,|sd|2495|0
+A|but, um, it just took him so much longer,|sd|2495|0
+A|and and he was there to paint the French doors also.|sd|2495|0
+B|Uh-huh.|b|2495|1
+A|Um, and if you've ever painted French doors, which my husband just finally said he wasn't going to do because it looked so formidable,|sd|2495|0
+B|Yeah.|b|2495|1
+A|Um, then, then just|ad|2495|0
+A|we, we got this painter,|sd|2495|0
+A|and I just called him because I got a little ad out of the, you know, the adcose or whatever in the mail, and, uh, you know, just got this painter person over here.|sd|2495|0
+A|And he said, Yeah, I can finish it in a day.|sd|2495|0
+A|Oh, right.|ba|2495|0
+A|so the whole project basically took a week|sd|2495|0
+B|Oh, I know,|ba|2495|1
+B|it's just awful.|sd|2495|1
+A|Funny.|sd|2495|0
+A|And I go what makes you a professional? You know?|sd|2495|0
+A|How much, you know, more do you know than I know about this whole situation,|^q|2495|0
+A|but he just kept painting on those French doors, you know,|sd|2495|0
+A|and each little, um paint stroke, you know, the paint wasn't going on right is what it was.|sd|2495|0
+B|Pane.|^2|2495|1
+B|Uh-huh.|b|2495|1
+A|So he had to redo them like three times before I was happy with them, before he was happy, you know, that they even looked halfway decent,|sd|2495|0
+A|and so it's just been painting, yeah,|sd|2495|0
+B|Um.|%|2495|1
+A|I mean, hire a professional,|sd|2495|0
+A|but that doesn't guarantee anything|sv|2495|0
+B|No,|aa|2495|1
+B|and it really,|%|2495|1
+B|like you said, always takes way longer than anyone, um, is able to guess, because I know my husband he, he painted, when he,|sv|2495|1
+B|it was just the preparation time was so long. That when he actually got down to the painting part, he, it was like ten times longer than he already thought he would be done,|sd|2495|1
+A|Right.|b|2495|0
+B|and, and, uh, he did part of the, in the, at night because we were trying to hurry up and get it ready so we could move in,|sd|2495|1
+B|and, um, and he didn't notice until the next morning that the shades of paint between the two paint cans, he had finished one can off and started another one.|sd|2495|1
+A|Oh, no.|ba|2495|0
+B|And then we went in there, you know, one was,|sd|2495|1
+B|they were white,|sd|2495|1
+B|but one had more blue to it.|sd|2495|1
+A|Oh, and that can make a difference, too.|sv|2495|0
+B|Uh-huh.|b|2495|1
+A|I mean, and they bring the, uh, you know, little samples|sd|2495|0
+B|Uh-huh.|b|2495|1
+A|and you've got like maybe, five hundred,|sd|2495|0
+A|well that's an exaggeration,|sd|2495|0
+A|but there are just so many tints upon tints upon tints,|sd|2495|0
+A|and you don't know what you to want to, put up there,|sv|2495|0
+A|and by the time it's on, I, I|sd|2495|0
+A|selected a, what I thought was white,|sd|2495|0
+A|and it was like you said, you know, it was blue blue cast to it.|sd|2495|0
+B|Uh-huh.|b|2495|1
+B|Uh-huh.|b|2495|1
+A|And it looked awful on|sv|2495|0
+A|So that was the next problem.|sd|2495|0
+A|He had to redo that too.|sd|2495|0
+A|I|%|2495|0
+B|Yeah.|b|2495|1
+A|This was a,|%|2495|0
+A|and it was a major project getting the money together to do it too, by the end, of the whole project,|sd|2495|0
+B|Right.|b|2495|1
+A|but, you know, we worked something out, because he was kind of apologetic that it took so long.|sd|2495|0
+A|He really came over here to paint, I think, because he kept offering to paint the outside of my house|sd|2495|0
+A|I don't think he did the interiors very well|sv|2495|0
+B|Oh, boy.|ba|2495|1
+A|And, yeah.|%|2495|0
+B|Well, I don't recall my parents having that much trouble|sd|2495|1
+A|No|b|2495|0
+B|I mean, you know, they painted our rooms all the time,|sd|2495|1
+B|and we had a, a wooden,|sd|2495|1
+B|we hardly,|sd|2495|1
+B|we just had brick on like as accent on a certain area of our home growing up,|sd|2495|1
+A|Uh-huh.|b|2495|0
+B|and so he had to paint the outside all the time.|sd|2495|1
+B|and, um, I just don't think, you know, that there was that big problem|sd|2495|1
+A|It wasn't a big deal for them.|sd|2495|0
+B|No,|b|2495|1
+A|I don't know.|%|2495|0
+B|but to us, you know,|%|2495|1
+B|we're going, oh, we're so glad we have a brick home, all we have is like trim around the windows or something,|sd|2495|1
+B|and|%|2495|1
+A|I think my husband's really glad about that|sd|2495|0
+B|No, uh no painting to have to do.|sd|2495|1
+A|For sure.|ba|2495|0
+B|I, I don't know that|%|2495|1
+B|like, uh, say, we're freshly graduated from school and things,|sd|2495|1
+B|so we haven't gotten to the point where we're hiring professionals to do too much of our needs.|sd|2495|1
+A|You just, you just get in there and do it yourself.|sd|2495|0
+B|We've been trying,|sd|2495|1
+A|Yeah.|b|2495|0
+B|you know, we've done that the whole time we were in school. Like, trying to repair our own cars,|sd|2495|1
+A|Uh-huh.|b|2495|0
+B|and, so I, I want to get to the point where I could feel like I could just hire someone|sd|2495|1
+A|Yeah.|b|2495|0
+A|Well, it's, it's not that easy.|sv|2495|0
+A|It's like, it's, uh,|sv|2495|0
+A|I don't even know if I, you know, I would not even recommend this person again to anybody.|sd|2495|0
+A|I don't know.|h|2495|0
+B|Uh-huh.|b|2495|1
+A|A,|%|2495|0
+A|I guess you|%|2495|0
+A|I, I don't know if you get into the mind set where you just say, Well, I'll accept something, or you just really have to get on their back, I mean, about things and, and working with what they say are professional painters.|sv|2495|0
+B|Uh-huh.|b|2495|1
+A|I mean,|%|2495|0
+A|I tell you what, the fumes that the, the paint gives off makes you wonder what these people do|sv|2495|0
+B|That's true.|ba|2495|1
+A|I mean the fumes are amazing,|sd|2495|0
+A|and I, I don't think I could stay sane, you know and working with all that.|sd|2495|0
+B|No.|b|2495|1
+A|So, I mean, I know it's not lead based any more, paints,|sd|2495|0
+A|but, my goodness|ba|2495|0
+B|But, still, it's harmful,|^2|2495|1
+B|and they have to live with that every day in, in their clothes and everything.|sd|2495|1
+A|I,|%|2495|0
+A|well, yeah,|%|2495|0
+A|I, think so|sv|2495|0
+A|Oh, it does.|ba|2495|0
+B|The only painting job that was really painless for us was in this condominium that the, um, association that manages it, they have to take care of like the structural damage.|sd|2495|1
+B|there was a roof leak,|sd|2495|1
+B|and that was not something that we had to pay for.|sd|2495|1
+B|So they sent their painters in to, to repaint a corner of the ceiling and then, you know, repaint the whole ceiling, in a certain room.|sd|2495|1
+A|Oh.|b|2495|0
+A|Yeah.|b|2495|0
+B|But they came in, and, um, they came in and did it and left in just no time at all,|sd|2495|1
+B|and I think it's because they, you know, they were accustomed to working in that environment, in those particular condominiums,|sd|2495|1
+B|and I don't, I didn't watch them,|sd|2495|1
+B|but I couldn't imagine that they came in and painted it, the whole ceiling, you know, just within a couple of hours.|sv|2495|1
+A|Right|b|2495|0
+B|And, uh|%|2495|1
+A|Well, maybe there are some professionals out there|sd|2495|0
+A|It makes you wonder|sv|2495|0
+B|Uh-huh.|b|2495|1
+A|Really, it does, uh, for all that.|sv|2495|0
+B|Um.|%|2495|1
+A|Well, um, I hope you have a nice day today.|fc|2495|0
+B|Well, you too,|fc|2495|1
+A|And you take care.|fc|2495|0
+B|I guess it's getting to be lunch time,|fc|2495|1
+B|I need to go take care of the kids|fc|2495|1
+B|but,|fc|2495|1
+A|Okay.|fc|2495|0
+B|You have a good day.|fc|2495|1
+A|Okay.|fc|2495|0
+A|Bye, Kay.|fc|2495|0
+B|Bye.|fc|2495|1

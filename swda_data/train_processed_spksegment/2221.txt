@@ -1,0 +1,235 @@
+A|What do you think about, uh, the way the criminal justice system handles trials?|qo|2221|0
+B|Well, you know, they tell you that you get tried by a jury of your peers|sd|2221|1
+A|Yeah.|b|2221|0
+B|but, you know, it's pretty hard to try, let's say, the man down the street that's living on Social Security or somebody that's on a limited income to be tried by a jury of his peers if most of the people,|sv|2221|1
+B|like the juries that I've served on, are businessmen.|sd|2221|1
+A|Uh-huh.|b|2221|0
+B|Okay|b|2221|1
+B|now they don't understand that, you know, maybe he needed fifty dollars|sd|2221|1
+B|so he held up the seven eleven. *Seven Eleven|sd|2221|1
+A|Yeah.|b|2221|0
+B|Okay|b|2221|1
+B|they don't understand that because they have fifty dollars, all the time,|sd|2221|1
+B|so, you know, I think that it, a trial by your peers should be exactly that, someone in your own age bracket,|sv|2221|1
+B|someone that, you know, you can't really do it ethnically, you know,|sv|2221|1
+B|but you could do it, you could probably get it a little closer.|sv|2221|1
+A|Yeah.|b|2221|0
+B|But then there's another thing that I disagree with in Texas is sometimes you have a jury of six|sd|2221|1
+B|and sometimes you have a jury of twelve.|sd|2221|1
+A|Yeah.|b|2221|0
+B|And I don't know why they do that.|sd|2221|1
+B|Do you have any reason,|qy|2221|1
+B|do you know of any reason why they do that?|qy|2221|1
+A|Well, I think the six is called a Grand Jury|sd|2221|0
+A|and that's mostly to decide whether or not the person's actually going to stand trial.|sd|2221|0
+B|Okay,|bk|2221|1
+B|see|%|2221|1
+A|Whether they're acquitted or whether they're actually going to be accused of, you know, and held over for trial.|sd|2221|0
+B|Okay|b|2221|1
+B|I don't know much about the Grand Jury.|sd|2221|1
+B|How do you feel about the,|qw|2221|1
+B|in Texas I noticed since I've been here, in twelve years that they, they break up the, the trial and then the sentencing part of the trial.|sd|2221|1
+A|Yeah,|b|2221|0
+A|I don't know.|h|2221|0
+A|I, I think that, uh,|%|2221|0
+A|I know that judges aren't supposed to be crooked.|sd|2221|0
+A|However,|%|2221|0
+B|Well, we know there's a few out there.|sv|2221|1
+A|Yeah.|aa|2221|0
+A|It seems like if you break the sentencing away from the jury and give it, you give it to one person you're letting there be a whole lot more of an opportunity for something to either go wrong|sv|2221|0
+A|or for, you know,|%|2221|0
+A|if, if, if the judge is not of high moral standards he could be bought off, much easier than twelve people could.|sv|2221|0
+B|Uh-huh.|b|2221|1
+B|Yeah|b|2221|1
+B|it's,|%|2221|1
+B|Yeah,|aa|2221|1
+B|would be pretty hard.|sv|2221|1
+B|Well I don't think, you know, I don't think that, if I was the criminal, that I would like the judge passing sentence on me.|sd|2221|1
+B|If the jury found me guilty, then they should be able to decide at the same time what my punishment should be.|sv|2221|1
+B|And I think it's,|%|2221|1
+B|not only that, it's a waste of our money.|sv|2221|1
+B|We have to have a trial for this person,|sd|2221|1
+B|then two weeks down the road we have to excuse me, set a sentencing date so now we're back in court again|sd|2221|1
+A|Uh-huh.|b|2221|0
+B|and that's more money spent.|sd|2221|1
+A|It's not so much that I, that, I haven't seen a lot of really bad sentences passed either by trials or by judges. What bothers me is that, uh, they really don't mean anything.|sd|2221|0
+B|No.|aa|2221|1
+A|Someone could be sentenced to thirty-five years|sd|2221|0
+A|and yet, you know, the, the parole system, it's going to let them out in, in three years for good behavior.|sv|2221|0
+B|And it's not working either.|sv|2221|1
+A|No,|aa|2221|0
+A|it's not.|aa|2221|0
+B|It seems that we have more and more repeat offenders.|sv|2221|1
+A|Uh-huh.|b|2221|0
+B|I know,|aa|2221|1
+B|I don't know how you all are there where you're at,|sd|2221|1
+B|but where we're at, now our jails are overcrowded.|sd|2221|1
+B|We just built a brand new one two years ago.|sd|2221|1
+A|Oh, I think they're all overcrowded.|sv|2221|0
+B|And it's overcrowded.|sd|2221|1
+A|They've, uh,|%|2221|0
+B|So now they start turning them loose.|sd|2221|1
+A|I think I heard Fort Worth that, uh, they've been ordered to do something because their jail is so overcrowded.|sd|2221|0
+A|They're not allowed to accept any new inmates.|sd|2221|0
+A|Now what are they supposed to do?|qw|2221|0
+B|They turn them loose.|sd|2221|1
+A|Well, no,|ar|2221|0
+A|I mean, they're not allowed to accept any new inmates.|sd|2221|0
+B|Yeah.|b|2221|1
+A|So what are they supposed to do with people that they need to put in jail?|qw|2221|0
+A|You know.|%|2221|0
+B|Well, the way, it seems the way it's been working here's,|sd|2221|1
+A|There, yeah,|%|2221|0
+B|Go ahead. * LISTEN are utterances 1 and 2 really from the same speaker?|ad|2221|1
+B|It seems the way it's been working here is they let those out that have spent two or three years out of their five to twenty sentence, or five to life.|sd|2221|1
+A|Uh-huh.|b|2221|0
+A|Something that is working|sd|2221|0
+A|and I, I really like the system of house arrest where a, a, someone's wear, someone wears a bracelet like a ankle bracelet that's a monitor,|sd|2221|0
+B|Yeah|b|2221|1
+B|that,|%|2221|1
+B|Yeah,|b|2221|1
+B|and they, They keep,|%|2221|1
+A|and they are not allowed,|sd|2221|0
+A|I mean, some of them are even allowed to work,|sd|2221|0
+A|they can go to their regular job,|sd|2221|0
+A|they come home,|sd|2221|0
+A|they have to be home by such and such a time,|sd|2221|0
+A|they're instructed, uh, so that, this, this electronic monitor is turned on at, at a certain time|sd|2221|0
+B|Yeah.|b|2221|1
+A|and it connects them up to a system where they know their whereabouts.|sd|2221|0
+B|All right.|b|2221|1
+A|And, uh, they can put a,|sd|2221|0
+A|they usually install a video monitor in the house|sd|2221|0
+A|and when the parole officer calls to check on them, they're instructed to turn it on and stand in front of it. So that they can see that this person is actually at home in their house doing what they're supposed to be doing|sd|2221|0
+B|All right.|b|2221|1
+A|and that's working rather well.|sv|2221|0
+A|That's a good system.|sv|2221|0
+A|That allows people, to actually continue to be productive members of society while they're, you know, paying back for whatever crime they've committed.|sv|2221|0
+B|Yeah,|aa|2221|1
+B|instead of being completely penned up.|bf|2221|1
+B|And that way it would give, you know,|sv|2221|1
+B|the probation department and parole department, they've got to be overloaded with as many criminals as we have here in, in Lubbock.|sd|2221|1
+A|Oh, yeah,|b|2221|0
+A|yeah.|b|2221|0
+B|And that would give, you know,|sd|2221|1
+B|at least they don't have to drive all over town trying to find one guy, or trying to see six or seven people.|sd|2221|1
+A|Uh-huh.|b|2221|0
+A|I, I've really,|%|2221|0
+A|I could go on for hours about the criminal justice system and what I think we ought to do about it.|sd|2221|0
+A|But, Something that I really don't understand is when someone goes to jail and they have a job in jail and they work, that they should,|sd|2221|0
+B|Sometimes it's pretty messed up,|sv|2221|1
+B|isn't it.|^g|2221|1
+B|Uh-huh.|b|2221|1
+A|I,|%|2221|0
+A|and this may sound cruel,|h|2221|0
+A|but I do not think that they should be allowed cigarettes.|sv|2221|0
+A|I mean they're in jail for crying out loud.|sv|2221|0
+B|Yeah.|b|2221|1
+A|What do they need cigarettes for?|qh|2221|0
+B|Well, see|%|2221|1
+B|and there's another thing about the justice system that I don't like|sd|2221|1
+B|and there's a lot of people that tell me that, that maybe my thoughts are wrong.|sd|2221|1
+B|I came from California|sd|2221|1
+A|Uh-huh.|b|2221|0
+B|and when you're in jail, they take you out just like they do in Alabama or anywhere else, what they call a chain gang.|sd|2221|1
+A|Uh-huh.|b|2221|0
+B|And they clean the city parks.|sd|2221|1
+A|Oh, I think that's a wonderful idea.|sv|2221|0
+B|And they clean the city streets.|sd|2221|1
+B|But you know, we have criminals in jail that do nothing but sit on their duff all day|sv|2221|1
+B|and here it costs us seventeen to eighteen thousand dollars a year to support a prisoner,|sd|2221|1
+A|More than that.|sd|2221|0
+B|and I know,|%|2221|1
+B|yeah,|b|2221|1
+A|More than that.|sd|2221|0
+B|but I know families myself that have three and four children in Lubbock that don't make that much.|sd|2221|1
+A|I know.|aa|2221|0
+B|And they're not, you know, they're not doing anything to support themselves, while they're there.|sd|2221|1
+A|The thing that, the thing that gets me is that while we're supporting them, they're working.|sd|2221|0
+B|Yeah.|b|2221|1
+A|When they get out of jail they get handed all that money.|sd|2221|0
+B|Yeah.|b|2221|1
+A|That really ticks me off.|sd|2221|0
+A|I think that while they are in jail and they are working, their wages should go,|sv|2221|0
+B|Yeah.|b|2221|1
+A|like, I don't know,|h|2221|0
+A|they could,|%|2221|0
+A|some percentage, like eighty-five percent of their wages should go toward their room and board figured on a whatever basis how much it costs to actually support them for a year.|sv|2221|0
+B|Yeah,|b|2221|1
+B|well, Uh-huh.|b|2221|1
+B|See now .|%|2221|1
+A|And when they get out they should have a, I don't know, you know, some reasonable amount of money to start, like a couple of thousand dollars,|sv|2221|0
+B|Yeah.|b|2221|1
+A|but there should be a limit over which they, that it all goes back to the State.|sv|2221|0
+A|Anything that they've earned while they're in prison should go back to the State except for that, you know, there needs to be some allowance for when someone gets out that they have some money to start with.|sv|2221|0
+B|Yeah,|aa|2221|1
+B|but at least they would, at least that way they would be helping pay for their own.|sv|2221|1
+A|Exactly,|aa|2221|0
+A|absolutely.|aa|2221|0
+B|And something else that I would, And something else that I would like to see is, is, uh, victim reimbursement, you know, because they, you know, like you say these guys are in jail|sd|2221|1
+A|That's the part that I really think we need to change.|sv|2221|0
+B|and they're working,|sd|2221|1
+B|they're getting paid,|sd|2221|1
+B|but the guy that they messed over to get there or they stole something from, or beat to death|sv|2221|1
+B|or,|%|2221|1
+A|Has nothing,|^2|2221|0
+A|right.|aa|2221|0
+B|has nothing, you know.|sv|2221|1
+B|Our, our victims are victimized, period,|sv|2221|1
+B|and the law has no, no, uh, regulations to deal with that.|sd|2221|1
+A|Absolutely.|aa|2221|0
+B|They, they know how to deal with the penal system|sv|2221|1
+B|and they know how to deal with the criminal,|sv|2221|1
+B|but they don't know how to deal with the victim because we as citizens, I guess haven't laid anything up there for them to deal with on that aspect.|sv|2221|1
+A|Yeah.|b|2221|0
+B|But it's,|%|2221|1
+B|but I sure don't,|%|2221|1
+B|I, I strongly disagree with any judge passing sentence on a person himself.|sd|2221|1
+A|Uh-huh.|b|2221|0
+B|There that,|%|2221|1
+A|I think it works much better if it's, if it's the actual jury.|sv|2221|0
+B|Yeah,|aa|2221|1
+B|because, well, see the jury is dealing with the seriousness of the crime,|sd|2221|1
+A|Uh-huh.|b|2221|0
+B|the jury gets to see the whole trial, as does the judge,|sd|2221|1
+B|but you know, if, if they figure there's maybe litigating circumstances, or something like that whereas maybe the judge does, just doesn't care, you committed this crime|sv|2221|1
+B|so I'm just going to throw the book at you.|^q|2221|1
+A|Uh-huh.|b|2221|0
+B|Whereas the jury may have a little, shall we say, sympathy, you know,|sv|2221|1
+B|he did this,|^q|2221|1
+B|but, you know, why did he do this,|^q|2221|1
+A|Yeah,|aa|2221|0
+A|in some, cases it would work that way.|sv|2221|0
+B|is there, is there a basis for it.|^q|2221|1
+A|In some cases it would work the other way.|sv|2221|0
+B|Yeah,|aa|2221|1
+B|in some cases where the judge says okay, I'll give you, you know, two to three years|sd|2221|1
+B|and,|%|2221|1
+A|The jury would, would, slam them|sv|2221|0
+A|and, and I think that, that the jury probably has more of a right to sentence than the judge all the time.|sv|2221|0
+B|Yeah.|b|2221|1
+B|Well, they have a stronger debate, too, because there's twelve people there.|sv|2221|1
+B|They have to decide whether or not he's guilty|sd|2221|1
+B|and then they can sit in at the same time and decide what his punishment would be,|sd|2221|1
+A|Uh-huh.|b|2221|0
+B|and you'd have more than one person's input on it.|sd|2221|1
+A|Yeah.|aa|2221|0
+A|I think that's probably a much fairer way.|sv|2221|0
+B|And, you know, we're supposed to be, and I quote, in a democratic society.|sd|2221|1
+B|So, you know, if you can find me guilty, then you ought to be able to pass sentence.|^q|2221|1
+A|Yeah.|b|2221|0
+B|And a lot of jurors,|sv|2221|1
+B|not that I know of,|sd|2221|1
+B|but, you know, a lot of jurors may just sit there and say, yeah, he's guilty,|sv|2221|1
+B|but I don't have to deal with it from here, you know,|^q|2221|1
+B|so the judge takes care of all of that.|sv|2221|1
+A|Yeah.|b|2221|0
+A|It might be more,|sv|2221|0
+A|it would be more work for the jury,|sv|2221|0
+A|but it would be a more responsible way to deal with it.|sv|2221|0
+B|Yeah|aa|2221|1
+B|it would,|aa|2221|1
+B|yeah,|aa|2221|1
+B|serving on the jury would be definitely more you'd have to be a definitely more responsible person.|sv|2221|1
+A|The thing that I, I don't really like,|sd|2221|0
+A|I, I don't know, if, uh, a lot of jury selection processes that I've seen have been a,|sd|2221|0

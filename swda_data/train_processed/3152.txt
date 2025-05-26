@@ -1,0 +1,227 @@
+A|Well, my favorite type of music is classical music,|sd|3152
+A|and, uh, I, I enjoy orchestral classical music|sd|3152
+A|and I enjoy classical guitar and classical piano, you know,|sd|3152
+A|and that's, those are, that's my favorite type.|sd|3152
+B|Well,|%|3152
+A|Uh, probably the favorite instrument would be, uh, the violin.|sd|3152
+B|Oh, well my favorite, well,|sd|3152
+B|I, I don't really have a favorite,|sd|3152
+B|I, I like everything basically.|sd|3152
+B|Um, I guess if I had to pick, it would be like pop, I would think,|sd|3152
+B|but I like everything.|sd|3152
+B|So, it's kind of hard to choose sometimes.|sd|3152
+A|Yeah, you know.|b|3152
+A|I guess I enjoy, I enjoy jazz, listening to jazz sometime although I don't feel like I have a good, good understanding of it, or a good, a good feel for maybe what's good jazz and what's not,|sd|3152
+A|but, but, um, I enjoy it|sd|3152
+A|and, uh, sometimes I enjoy listening to, uh, fiddle music.|sd|3152
+B|Uh-huh.|b|3152
+A|We were in Colorado recently|sd|3152
+A|and heard this, these, uh, well, we heard this fiddler|sd|3152
+A|and we bought his, we bought his tape|sd|3152
+A|and it's kind of fun to listen to the fiddle pans .|sd|3152
+B|Yeah.|b|3152
+A|So,|%|3152
+B|I grew up next door to, uh, the Richardson Symphony Orchestra leader|sd|3152
+B|so,|%|3152
+A|Oh, Chris Xeros.|bf|3152
+B|Yeah.|aa|3152
+A|Oh, you lucky thing.|ba|3152
+B|So, we used to go and listen to them all the time|sd|3152
+B|and, my parents still do.|sd|3152
+A|Yeah.|b|3152
+B|So, I grew up with a lot of his music, and, and what not.|sd|3152
+B|Plus my parents are, well,|sd|3152
+B|especially my dad, likes a lot of classical music|sd|3152
+B|and he introduced my brother and I both, to a lot of it.|sd|3152
+B|So,|%|3152
+A|Oh, gosh,|ba|3152
+A|Chris Xeros|bf|3152
+A|You grew up with his children, too, then?|qy^d|3152
+B|Yeah.|ny|3152
+A|Oh, gosh.|ba|3152
+B|Sure did.|na|3152
+A|Gosh,|b|3152
+A|small world, huh?|qy|3152
+B|Yeah.|ny|3152
+B|We all went to high school together|sd|3152
+B|and, uh, and we're still in contact with each other.|sd|3152
+A|Oh.|b|3152
+B|We all go back to parents' houses on the weekends, and what not|sd|3152
+B|so,|%|3152
+A|Oh gosh.|ba|3152
+A|Well actually, I used to play in the Richardson Symphony,|sd|3152
+A|I played violin in the orchestra for several years you know,|sd|3152
+B|Oh really?|bh|3152
+A|yeah|ny|3152
+A|So,|%|3152
+B|It is a small world isn't it?|qy|3152
+A|Yeah,|ny|3152
+A|small world.|b^m|3152
+A|So, I, uh, I know Chris|sd|3152
+B|Yeah,|b|3152
+B|he's a pretty nice guy.|sv|3152
+A|Most of the time|aa|3152
+B|Yeah,|aa|3152
+B|well I never I had to work for him|sd|3152
+B|and I never would want to work for him.|sd|3152
+B|So|%|3152
+A|No,|aa|3152
+A|no.|aa|3152
+A|Well life just took different turns here|sd|3152
+A|so, uh, it just didn't work out to do that now.|sd|3152
+A|So, he's, he's about ready to retire, another year|sd|3152
+A|and he,|%|3152
+B|Yeah,|aa|3152
+B|he sure is,|sd|3152
+B|he just became a grandfather.|sd|3152
+A|Yeah,|b|3152
+A|I heard that.|sd|3152
+A|It's, it's daughter, it's his daughter that,|sd|3152
+B|Uh, uh-huh.|aa|3152
+B|Yeah,|aa|3152
+B|they just had the baby's christening|sd|3152
+B|so,|%|3152
+A|Oh.|b|3152
+B|It was really nice so|sd|3152
+A|Was it a boy or a girl?|qy|3152
+B|He's a little boy|sd|3152
+A|Yeah.|b|3152
+A|What did they name him?|qw|3152
+B|I can't,|sd|3152
+B|it, it's a|%|3152
+B|oh gosh,|ba|3152
+B|it's like Elijah, or something like that.|sd|3152
+A|Oh.|b|3152
+B|I keep forgetting, what, what she named him.|sd|3152
+A|Oh.|b|3152
+B|His middle name is Chris, or Christopher for for her daddy,|sd|3152
+A|Of course.|aa|3152
+B|but I think it's Elijah|sd|3152
+A|Oh.|b|3152
+B|It starts with an E.|sd|3152
+A|Yeah,|b|3152
+A|yeah.|b|3152
+B|I can't remember|h|3152
+A|Oh, so you've heard the Richardson Symphony?|qy^d|3152
+B|Yes.|ny|3152
+A|Yeah.|b|3152
+B|Yeah,|b|3152
+B|we've heard them and, liked, liked it real well, of course|sd|3152
+A|Do you have a favorite instrument?|qy|3152
+B|Um, actually one of my favorite instruments is a harpsichord.|sd|3152
+A|Yes.|b|3152
+B|I really like those,|sd|3152
+B|in fact, I had a harpsichord played at my wedding.|sd|3152
+A|Oh, did you?|bh|3152
+B|Yeah.|ny|3152
+A|Oh.|b|3152
+B|Which was real nice.|sd|3152
+B|I got married, uh, during the Christmas season|sd|3152
+B|and we played, uh, old fashioned Christmas carols instead of normal wedding marches and what not,|sd|3152
+B|and it was real nice,|sd|3152
+B|I liked that a lot.|sd|3152
+A|Oh.|b|3152
+B|I liked the sound of the harpsichord.|sd|3152
+A|And it played by itself?|qy^d|3152
+B|No,|nn|3152
+B|somebody played it|sd|3152
+A|Well, I mean, but you didn't have oboe or something with it?|qy^d|3152
+B|No,|nn|3152
+B|no,|nn|3152
+B|no,|nn|3152
+B|no,|nn|3152
+B|no.|nn|3152
+B|Just by itself,|sd|3152
+B|just by itself.|sd|3152
+A|Yeah.|b|3152
+A|Oh.|b|3152
+B|It was real nice.|sd|3152
+A|Well, that's really, yeah that's, I bet that was nice.|sv|3152
+B|Yeah.|b|3152
+B|It went well,|sd|3152
+B|it was a change, you know, from your traditional, normal, you know, stuff, and since it was Christmas time and, and, uh, we had the church decorated with Christmas hollies and poinsettias and, you know, stuff like that|sd|3152
+B|and so, we did the harpsichord with old-time traditional Christmas carols,|sd|3152
+A|Oh.|b|3152
+B|Not, not, you know, the bouncy, you know sing along kind but some of the old, older ones that|sd|3152
+A|Right.|b|3152
+A|Right.|b|3152
+B|some, I don't even, I recognize the, the melodies, and whatnot,|sd|3152
+B|but I didn't recognize the name.|sd|3152
+A|Right.|b|3152
+B|So, it was real nice.|sd|3152
+A|Well actually, I play, I play the violin in, in a string quartet that often plays at weddings.|sd|3152
+B|Um.|%|3152
+A|So, um, I always think it's a nice break from the traditional organ or piano.|sd|3152
+B|Uh-huh.|b|3152
+A|And, it makes, it makes it nice.|sd|3152
+A|It makes, you know, you can say classy|sd|3152
+A|or it makes an elegant wedding to have  something else.|sd|3152
+B|It does.|aa|3152
+B|It really does|aa|3152
+B|and it has such a different sound to it, anyway.|sv|3152
+B|It's almost,|sv|3152
+B|I don't know the way it vibrates,|sv|3152
+B|it's kind of haunting, you know, on, on some of the notes|sv|3152
+B|It, it's,|%|3152
+B|I, I like it.|sd|3152
+A|Oh.|b|3152
+B|I don't know how else to explain.|sd|3152
+B|But, we've got friends that are in the music business that go around Dallas,|sd|3152
+B|they're, uh, called Odessa.|sd|3152
+B|It's a husband and wife team that we've known for years|sd|3152
+B|and, uh, we try to make contact with them periodically to see what's going on and stuff, too,|sd|3152
+B|so we've had a lot of stuff, you know, friends and, and things to do with music that constant,|sd|3152
+B|plus my husband's real big into music, too,|sd|3152
+B|so. He doesn't play anything,|sd|3152
+B|but, he just likes to listen.|sd|3152
+A|Yeah.|b|3152
+B|And my dad and|sd|3152
+B|my kids are now well,|sd|3152
+B|my oldest is getting to the point where he likes certain types of music and favorite songs and when they come on we have to turn the radio up full blast|sd|3152
+B|and,|%|3152
+A|Oh. Now does, does the school in, in your, in your city,|qy|3152
+A|does it, does it offer, like band, or some of the instruments?|qy|3152
+B|Yeah,|ny|3152
+B|well, my, my oldest is only nine.|sd|3152
+A|Okay.|bk|3152
+B|So he hasn't really gotten into, um, that yet.|sd|3152
+B|They have choir that they go to, you know, music class that they go to|sd|3152
+A|Right.|b|3152
+B|but, um, he's not old enough yet to get into the band yet.|sd|3152
+A|Right.|b|3152
+B|So,|%|3152
+A|Right.|b|3152
+B|I think that starts in sixth grade.|sd|3152
+A|Probably. Oh.|aa|3152
+B|So,|%|3152
+A|Gosh.|ba|3152
+B|but I don't know.|h|3152
+B|He, he's, he, the only thing he's shown interest in wanting to play is the drums|sd|3152
+B|cause his, my brother plays,|sd|3152
+B|and, um, I don't, I don't know if he's really serious about it yet or not you know,|sd|3152
+B|it's just one of those things I'm just going to wait and see if he's interested in something, you know.|sd|3152
+A|Yeah.|b|3152
+A|Right.|aa|3152
+A|Right,|aa|3152
+A|you got a little ways to go, too|sv|3152
+A|Right .|%|3152
+B|Yeah,|aa|3152
+B|just a little bit|sd|3152
+A|Hey, oh.|ba|3152
+A|Well, my, well my oldest is eight|sd|3152
+A|and, and she's, we've, started her on piano|sd|3152
+A|so, uh,|%|3152
+B|Uh.|%|3152
+A|But, that's been, it's been fun,|sd|3152
+A|I mean it's a lot of work to see that she's prepared|sd|3152
+A|but it's been fun,|sd|3152
+A|it's been fun,|sd|3152
+A|I feel like I've learned a lot about the piano.|sd|3152
+A|I've learned a lot about playing the piano.|sd|3152
+B|Really?|bh|3152
+A|And, uh, it kind of makes me listen a little closer to, to the piano when I hear it at other places, or when I, you know, see some, see and hear someone playing.|sd|3152
+A|I sort of watch their technique, too, and, and see if it corresponds up to what she's learning.|sd|3152
+B|Yeah.|b|3152
+A|So, it's been fun.|sd|3152
+B|I don't know if any of mine will be interested in it|sd|3152
+B|or ...|%|3152

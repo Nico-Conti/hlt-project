@@ -1,0 +1,148 @@
+A|Okay.|fo_o_fw_"_by_bc|4877
+A|Uh, so your, you, I guess you're probably in the same, uh, same situation uh, we're in.|sv|4877
+A|We're kind of past having to provide child care.|sd|4877
+A|Our, our kids are grown up.|sd|4877
+A|We don't have any grandchildren yet.|sd|4877
+A|But, uh, uh, they're,|%|4877
+B|Uh-huh.|b|4877
+B|How old are your children?|qw|4877
+A|Uh, one's twenty-six|sd|4877
+A|and the other is, uh, twenty, twenty-one.|sd|4877
+B|Uh-huh|b|4877
+A|So they're, uh, uh, They're, they're getting there.|sd|4877
+B|Well, they're going to be getting there.|^2|4877
+A|You know, there's no  no, no prospects right away for anything to happen.|sd|4877
+B|Yeah.|b|4877
+B|uh-huh.|b|4877
+B|Oh, I see.|b|4877
+A|But, uh,|%|4877
+B|I have, uh, five children.|sd|4877
+B|I have a eighteen year old son.|sd|4877
+B|The of my girls are like twenty-three, twenty-six, twenty-eight, and twenty-nine.|sd|4877
+A|Uh-huh.|b|4877
+B|And I have three granddaughters right now.|sd|4877
+A|Oh.|b|4877
+B|And, uh, I, uh,|%|4877
+B|one's in Iowa.|sd|4877
+A|Uh-huh.|b|4877
+B|And, uh, she's, she's a teacher|sd|4877
+B|and what she does is she, teaches at a preschool.|sd|4877
+A|Oh, okay.|b|4877
+B|And, and so she kind of,|%|4877
+B|and they let her bring her, her little daughter in for free.|sd|4877
+A|Uh-huh.|b|4877
+B|And then, so|%|4877
+B|but she just works part-time.|sd|4877
+A|Uh-huh.|b|4877
+B|Then I have another daughter in, uh, Bountiful, Utah|sd|4877
+B|and she has to work full-time|sd|4877
+B|and it's just tearing her apart.|sd|4877
+B|She has a private baby-sitter.|sd|4877
+A|Yeah.|b|4877
+B|And, uh, the baby just screams.|sd|4877
+B|I mean, the baby is like seventeen months|sd|4877
+B|and she just screams.|sd|4877
+A|Uh-huh.|b|4877
+B|Well even if she knows that they're fixing to get ready to go over there.|sd|4877
+B|They're not even there yet you know.|sd|4877
+A|Uh-huh.|b|4877
+A|Yeah.|b|4877
+A|It's hard.|sv|4877
+A|We,|%|4877
+B|And, and then I have my, uh, uh, I have a seven month old granddaughter|sd|4877
+B|and, uh, her mother stays home|sd|4877
+B|and she, they live, they live with us. You know, in, as Orange County is really expensive.|sd|4877
+A|Uh-huh.|b|4877
+A|Uh-huh.|b|4877
+B|They live with us|sd|4877
+B|and so, of course, we love it. Because we get to see this cute little baby all the time.|sd|4877
+B|But, uh, uh, she just,|%|4877
+B|uh, she used to work in pre, in the preschool and, and, and child care|sd|4877
+B|and she says after working in there|sd|4877
+B|and, and, you know, here she was a provider|sd|4877
+B|but, you know, there's only so much one person can do.|sv|4877
+A|Yeah.|b|4877
+B|She said it's so awful.|sd|4877
+B|She said she'll never put her child in a, in a, in a in a in a preschool.|sd|4877
+A|Uh-huh.|b|4877
+B|I'm sure there must be some good ones around here somewhere.|sv|4877
+A|Huh.|b|4877
+B|But it's really, it's really, really very difficult|sv|4877
+B|and,|%|4877
+A|Yeah.|b|4877
+A|What did you do when your kids were growing up?|qw|4877
+A|Were you,|%|4877
+B|Well, when, when|%|4877
+B|the, uh, the first, uh, ten years, see first ten or twelve years, I stayed home.|sd|4877
+A|Uh-huh.|b|4877
+B|And, uh, then after that I, I went to work.|sd|4877
+A|Uh-huh.|b|4877
+B|And, uh, uh, uh, a couple of times I just, uh, uh, you know,|sd|4877
+B|then I had one job|sd|4877
+B|and then that job ran out because it was kind of a government seeded type job.|sd|4877
+B|And then, and then like about, later I, I tried to get the baby to a baby-sitter.|sd|4877
+B|Supposed to be good, uh, recommended person from the church|sd|4877
+B|and I knew her personally.|sd|4877
+B|She had two kids of her own and everything.|sd|4877
+B|But I quit my job because I couldn't stand how she was taking care of my child.|sd|4877
+A|Uh-huh.|b|4877
+B|I mean, first of all, uh, her children were sick all the time.|sd|4877
+B|So when my son stayed over there, he got sick.|sd|4877
+A|He got sick,|b^m|4877
+A|yeah.|b|4877
+B|Same thing, same thing that the, her kids had,|sd|4877
+B|right?|^g|4877
+A|Right.|b^m|4877
+A|Well,|%|4877
+B|And so, uh, we didn't take her over there until like about eleven o'clock.|sd|4877
+B|Then he, she'd take my son and her daughter over to kindergarten.|sd|4877
+B|But|%|4877
+B|that day, uh, I was saying now he, he's sick.|sd|4877
+B|And she goes well, she goes, he has the same thing that all my kids have.|sd|4877
+B|That's what he got, you know.|sd|4877
+B|Goes, well, okay,|sd|4877
+B|so it's not like he's going to infect her kids.|sd|4877
+B|But then what happened was, is, I said, uh, he just threw up|sd|4877
+B|and kindergarten starts at eleven thirty|sd|4877
+B|so she said well she'll keep him home|sd|4877
+B|and he'll probably just sleep anyway.|sd|4877
+B|Well, you know, what|qh|4877
+B|that woman sent her, sent him to kindergarten.|sd|4877
+B|She sent him to kindergarten.|sd|4877
+B|As soon as he went there, the teacher took one look at him|sd|4877
+B|and he threw up again|sd|4877
+B|and they put him in the nursery, uh, they put him in the nurse's office.|sd|4877
+A|yeah.|b|4877
+B|And then what happened was, is, you know, they gave her a call because they knew that she was my baby-sitter.|sd|4877
+B|Called her|sd|4877
+B|and they said, uh, that he's sick.|sd|4877
+B|Well she wasn't home.|sd|4877
+A|Huh.|%|4877
+B|I mean her, all her kids were sick|sd|4877
+B|but she wasn't home, right.|sd|4877
+B|And her, and her, her daughter that was in kindergarten with him also did not go to school because she was sick.|sd|4877
+B|Now why didn't he, why didn't she keep him home with her?|qh|4877
+B|No,|nn|4877
+B|she didn't do that.|sd|4877
+B|So, it got to the point where he's, he's supposed to get out of, uh, kindergarten like about two thirty.|sd|4877
+B|And I had to leave work.|sd|4877
+B|It was, it was five o'clock in the evening|sd|4877
+B|and I found out he was still there at school.|sd|4877
+B|And they were calling me|sd|4877
+B|and they said somebody's got to pick him up.|sd|4877
+B|And I kept thinking that she was going to get picked up, she was going to pick him up because she only lives in like two blocks away from the school.|sd|4877
+B|I was trying to get my husband to come and pick him up and all that kind of stuff.|sd|4877
+B|And he had a hundred and four fever.|sd|4877
+B|They couldn't, uh, give him anything because they're not allowed to at school and everything.|sd|4877
+A|Right.|b|4877
+B|I was so furious.|sd|4877
+B|I, I quit that job|sd|4877
+B|and I stayed home for awhile longer.|sd|4877
+B|Then I went and got a, uh, a job in real estate where I can kind of adjust my time a little bit better.|sd|4877
+A|Yeah,|aa|4877
+A|a little more flexibility.|bf|4877
+A|You can come and go.|bf|4877
+B|Yeah,|aa|4877
+B|but, uh, I haven't had any good, really very good experience with child care|sd|4877
+A|Yeah.|b|4877
+A|When, when our kids were small we had a couple of, uh, good, good women who, uh, would often uh, get them to come to the house.|sd|4877

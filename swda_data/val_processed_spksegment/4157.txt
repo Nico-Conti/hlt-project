@@ -1,0 +1,86 @@
+A|Um, so what do you think?|qo|4157|0
+B|Um,|^h|4157|1
+B|I lived, I lived in Sweden for two years.|sd|4157|1
+A|Uh-huh.|b|4157|0
+B|And in Sweden they have socialized medicine.|sd|4157|1
+B|And so I saw some of the good|sd|4157|1
+B|and also I saw some of the bad that results from such a program.|sd|4157|1
+A|Uh-huh.|b|4157|0
+B|Uh, some of the, some of the good obviously that nobody has to worry about health care.|sv|4157|1
+A|Right.|b|4157|0
+B|So it's a very, it's a very, uh, comfortable,|sv|4157|1
+B|I mean our people are very comfortable in the sense that, you know, there's no medical emergency that's going to make you destitute for life.|sv|4157|1
+A|Right.|b|4157|0
+B|Um, the bad was more apparent I think at least for me|sv|4157|1
+B|because I think it affected people's lives on, in a way that you could see.|sv|4157|1
+B|One, one thing that I noticed is it's very, very convenient to be alcoholic in Sweden.|sv|4157|1
+A|Oh, really?|bh|4157|0
+B|Because it's treated as a disease.|sd|4157|1
+B|Now I don't know if that necessarily has to be part of socialized medicine,|sd|4157|1
+B|but, uh, if you're, if you're alcoholic, then you're treated as if you're on disability, long-term disability|sd|4157|1
+B|and so there was very little incentive for people to get out of that.|sv|4157|1
+A|Huh.|b|4157|0
+B|Also, um, another thing that, that I noticed that was very strange,|sv|4157|1
+B|I was, uh, I would go down all these, uh, uh,|sd|4157|1
+B|I remember this one row of houses|sd|4157|1
+B|and they were, uh, row houses or townhouses, all connected together so it was like lower middle-class housing.|sd|4157|1
+A|Uh-huh.|b|4157|0
+B|Well, it would be lower middle-class housing here.|sv|4157|1
+B|It's probably middle-class housing there.|sv|4157|1
+A|Uh-huh.|b|4157|0
+B|Um, and there was a taxi driver that lived in one of these|sd|4157|1
+B|and there was a doctor that lived in one of these.|sd|4157|1
+B|The one guy was a doctor|sd|4157|1
+B|and one was a taxi driver,|sd|4157|1
+B|and so their, their incomes were about the same.|sd|4157|1
+A|Huh.|b|4157|0
+B|Whereas here, there is a great incentive to be a doctor because there's a great financial reward.|sv|4157|1
+A|Right.|b|4157|0
+B|And that, that didn't exist in Sweden.|sd|4157|1
+A|Right.|b|4157|0
+B|And, uh, overall I their, their health care suffered fair amount from just the fact that the doctor salaries were lower|sv|4157|1
+B|and it was, it was less professional|sv|4157|1
+B|and it was treated more, like a, like a taxi driver type job, then a, then a doctor type job.|sv|4157|1
+A|Yeah.|b|4157|0
+A|that is, uh, that is something I've heard.|aa|4157|0
+A|Uh, I had a friend, uh, that I worked with that was from Sweden|sd|4157|0
+A|and that was, uh,|%|4157|0
+A|probably the, the major concern I have is that, you know, we are leading in the technology realm of, of medicine just because it is such a great incentive to, to get into, uh, the medical field,|sv|4157|0
+A|but at the same time it's real hard.|sv|4157|0
+A|I mean my husband works for a company that provides insurance|sd|4157|0
+A|and so, you know, I'm real, you know,|%|4157|0
+A|it's like well, you know, you know,|%|4157|0
+A|there's got to be better ways, you know, to do some things|sv|4157|0
+A|but, you know, I hate to, uh,|sd|4157|0
+A|the, the competition, in a lot of ways is, is wonderful just because you can choose your doctor|sv|4157|0
+A|and, and, uh, they have to compete to be, to be good and to be knowledgeable.|sd|4157|0
+A|But at the same time, there's a, you know, they're regulating themselves|sv|4157|0
+A|and, and the hospitals are charging just enormous amounts for products that they don't have to pay very much for.|sv|4157|0
+A|My, I have a brother who's a vet|sd|4157|0
+A|and for something that he can get, you know, wholesale|sd|4157|0
+A|and I'm sure they can get a lot cheaper because they, they, hospitals buy in such a bulk rate, um|sv|4157|0
+B|Right.|b|4157|1
+A|you know, they could charge you twenty dollars for a dollar fifty item|sv|4157|0
+A|and that's ridiculous.|sv|4157|0
+A|And I don't think that is, that is, uh, abnormal in any means to be doing things like that.|sv|4157|0
+A|And,|%|4157|0
+B|You don't think it's abnormal?|qy^d|4157|1
+A|I don't think it's abnormal for hospitals to be doing that at all|sv|4157|0
+B|Oh, I see.|b|4157|1
+B|You're not saying it's right,|bf|4157|1
+B|you're just saying it's common.|bf|4157|1
+A|yeah.|aa|4157|0
+A|And so it's, I think, to me I think, uh, something that's going to help our medical, uh, arena is for, um,|sv|4157|0
+A|and I don't know how to, I don't know how to do this|sd|4157|0
+A|but I think people are too lawsuit happy.|sv|4157|0
+A|And I mean things will happen|sv|4157|0
+A|and, and you've got to, uh, keep up|sv|4157|0
+A|or you've got to realize that, you know, it is just men or women that are, that are making, um, decisions|sv|4157|0
+A|and they will make mistakes|sv|4157|0
+A|and you know, if people, you know,|%|4157|0
+A|there are some people that I'm sure make mistakes because they just don't keep on top of it,|sv|4157|0
+A|but there are other things that just happen that you can't, you know, you can't say, you know, well, if you had just done this, you know, things would have done differently,|sv|4157|0
+A|and, um, I don't know.|h|4157|0
+A|I, I think the fact that malpractice has gone up I think has raised our prices just dramatically. Um, in the, in the last number of years|sv|4157|0
+B|Yes.|aa|4157|1
+A|and I think that's something that if, if they could work on the cause of that and,|sv|4157|0

@@ -1,0 +1,142 @@
+A|Uh, are you presently looking, uh, for a used car?|qy|3639
+B|Well, as a matter of fact, I just bought one|ng|3639
+A|Just bought one.|b^m|3639
+B|Just, just within the last three weeks.|sd|3639
+A|what did you get?|qw|3639
+B|I got a Lexus L S four hundred. Which is made by Toyota.|sd|3639
+A|Lexus.|b^m|3639
+A|Uh,|%|3639
+A|Okay,|bk|3639
+A|Lexus is a Toyota subbrand.|bf|3639
+B|Yeah.|aa|3639
+A|Okay.|bk|3639
+B|It's kind of their,|%|3639
+A|I was wondering where that came from|qy^d|3639
+A|because they're talking like it was an American built car.|sd|3639
+B|Right,|b|3639
+B|it, it sounds like it, but it really isn't|sd|3639
+A|Yeah.|b|3639
+B|It's, uh, marketed, of course, it its own dealerships.|sd|3639
+A|Yeah.|b|3639
+B|Usually, or somebody that's maybe got a Cadillac or Lincoln and Lexus dealership, uh|sd|3639
+A|Yeah.|b|3639
+B|sometimes they do that,|sd|3639
+B|but it's, uh, a brand car,|sd|3639
+A|Yeah.|b|3639
+B|but I've really liked it.|sd|3639
+B|It, it drives just wonderfully|sd|3639
+B|and there is,|%|3639
+B|it's so quiet, almost can't tell the engine is running.|sd|3639
+A|That's their big selling point, uh, other than general luxury|sd|3639
+A|and, but the particular seems to be the, uh, the quiet ride.|sv|3639
+B|It really is.|aa|3639
+B|It's got pretty good acceleration, too.|sv|3639
+A|Yeah.|b|3639
+B|It's got a C D player in it,|sd|3639
+B|so I can, I can play those|sd|3639
+B|and,|%|3639
+A|Uh, was,|%|3639
+A|that wasn't a standard, feature, was it?|qy|3639
+B|Uh-huh.|ny|3639
+A|Okay.|bk|3639
+B|But there is not very many options on that car.|sd|3639
+A|Uh,|b|3639
+B|There is only about five or six options.|sd|3639
+B|Everything else is standard.|sd|3639
+A|Yeah,|b|3639
+A|you get the impression that,|%|3639
+B|Uh, some of the tracking control things and skidding control things for up north. The C D and the premium sound system.|sd|3639
+A|Uh-huh.|b|3639
+A|Skidding control,|b^m|3639
+A|you mean the antilock brake system?|qy|3639
+B|Yeah,|ny|3639
+B|it's kind of a traction control, I think they call it.|sd|3639
+A|Yeah.|b|3639
+B|It's, it's not just antilock brake.|sd|3639
+B|I think that's already on most of them,|sv|3639
+B|but there is a further traction control, uh,|sd|3639
+A|Oh,|b|3639
+A|this is a, uh, Uh, probably suspension tied into the brakes.|sv|3639
+B|Yeah.|aa|3639
+B|And, and also the suspension can be raised for driving, like in the ice and snow.|sd|3639
+B|It can raise the car's center up a little bit. For going under a lot of piled up stuff if you were up in Michigan or somewhere.|sd|3639
+A|Um.|b|3639
+A|Yeah.|b|3639
+A|Yeah,|b|3639
+A|uh, shoot|ba|3639
+B|Mississippi probably doesn't, Mississippi probably doesn't have to worry too much|sv|3639
+A|some of these muddy driveways could use it around here.|sv|3639
+A|No,|aa|3639
+A|snow doesn't happen very often.|sd|3639
+B|If it does, people go, what's this stuff.|sv|3639
+A|Yeah,|b|3639
+A|uh, originally I'm from West Virginia.|sd|3639
+A|We got a  pretty fair amount of snow.|sd|3639
+B|Oh,|bk|3639
+B|well, you had some there.|sd|3639
+B|Yeah.|b|3639
+A|But, uh, I got down here in June of eighty-four,|sd|3639
+A|and the first winter down here was probably the worst winter they'd seen in twenty years,|sd|3639
+A|and it was amazing how a few inches of snow would turn normally sane, manly, adult men into playful little children.|sd|3639
+B|Oh, I know.|aa|3639
+A|We had this group of, uh, surveyors come into, uh, a shop I was working in, uh, four or five of them, these big old flame worn suburbans and the snow all over the place.|sd|3639
+A|They had just come in to get gas in their vehicles and get the oil checked.|sd|3639
+A|But, while they were there they set back drank about four or five cups of coffee apiece and made snowmen on the hoods of their vehicles threw snowballs all over the place, had themselves a ball for about an hour|sd|3639
+B|Oh, no.|ba|3639
+B|Well, the, uh, the Lexus, uh, really,|%|3639
+B|and the moon roof I think is also an option.|sv|3639
+A|Yeah.|b|3639
+B|Although most of them are ordered them with it,|sd|3639
+B|but there really is only about a half a dozen, uh, things|sd|3639
+B|and everything else is pretty standard.|sd|3639
+A|Yeah.|b|3639
+B|I did not get the traction control which also, when you take the traction control and the and the suspension thing it also puts heaters in the front seats, too.|sd|3639
+A|Oh,|ba|3639
+A|so that's kind of,|%|3639
+B|You go out and get in that real cold car|sv|3639
+A|It's a package deal.|bf|3639
+B|and you turn that on,|sv|3639
+B|and it, yeah, and it kind of, uh,|%|3639
+B|but that's only available if, with the traction control and the other option.|sd|3639
+A|Yeah.|b|3639
+B|And those two are sold together|sd|3639
+B|so you have to take a two thousand dollar option there to to, uh, do it,|sd|3639
+A|Ouch.|ba|3639
+B|so I, I opted not for that|sd|3639
+B|but, And, uh, the dealership I dealt with, they order them all with the, uh, moon roof and, uh you know, nice floor mats and everything in there.|sd|3639
+A|No,|ba|3639
+A|it doesn't sound real necessary in Texas.|bf|3639
+A|Yeah.|b|3639
+A|Yeah,|b|3639
+A|I worked for Lincoln,|sd|3639
+B|So the only thing I had to decide on was whether I wanted a C D or not in the stereo system|sd|3639
+B|and that was pretty much it.|sd|3639
+B|And they had like three or four basic packages that they they offer.|sd|3639
+A|Yeah.|b|3639
+A|Sounds like the Lincoln Mercury dealer I used to work for.|sv|3639
+A|They didn't order anything but the extra luxury version of whatever they got.|sd|3639
+A|Little Mercury Tracer|sd|3639
+B|Yeah,|b|3639
+B|I've been|%|3639
+B|I've been,|%|3639
+A|imagine, or not, they make a, they make a luxury Mercury Tracer.|sd|3639
+B|Yeah,|b|3639
+B|I've seen that in the dealership.|sd|3639
+B|I was driving a Lincoln, a Mark Seven for the last four years before I traded it for this|sd|3639
+A|Yeah.|b|3639
+B|and, uh, I'm leasing the Lexus.|sd|3639
+B|I usually lease them since I own a business|sd|3639
+A|Yeah.|b|3639
+B|I just run it through my business,|sd|3639
+B|but but it,|%|3639
+A|Uh-huh.|b|3639
+B|the Lincoln ride is certainly good, too, but the, this Lexus is nothing like I have ever been in before. *one or two utt?|sd|3639
+B|It's just,|%|3639
+A|Like sitting in your living room.|b|3639
+B|Yeah,|aa|3639
+B|it really is,|sd|3639
+B|and it's got a lumbar support in the seats.|sd|3639
+A|Adjustable?|qy|3639
+B|Adjustable, uh power|na|3639
+A|Yeah|b|3639
+B|and just kind of brings that support up in the|sd|3639

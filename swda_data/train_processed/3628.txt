@@ -1,0 +1,135 @@
+A|What vacations have you been on that you like?|qo|3628
+B|Um, well I really enjoyed, um,|sd|3628
+B|I went to Mackinaw Island a few years back.|sd|3628
+A|Right.|b|3628
+B|It's in the middle of Michigan|sd|3628
+B|and so that was nice.|sv|3628
+A|Uh-huh.|b|3628
+B|I like, um, driving to different cities because of the scenery,|sd|3628
+B|so that was nice.|sv|3628
+A|So you,|%|3628
+A|most of yours is kind of driving|bf|3628
+A|and,|%|3628
+B|Yeah,|aa|3628
+B|we've, I've been all over the states except for pretty much east.|sd|3628
+B|Um, it's very pretty driving like, um, up north in Wisconsin too.|sd|3628
+A|Um, how, how far do you usually end, end up driving just,|qw|3628
+B|Um, the furthest I drove was probably Texas,|sd|3628
+B|and then I've taken a train before to California.|sd|3628
+A|Now where, you're from where? *slash error Oh, Wisconsin.|qw|3628
+B|Kenosha, Wisconsin.|sd|3628
+B|Uh-huh.|aa|3628
+A|Okay.|bk|3628
+A|Yeah,|b|3628
+A|I have a brother in Minnesota that used to live in Wisconsin.|sd|3628
+B|Oh.|b|3628
+A|So, yeah,|b|3628
+A|that's quite a ways.|bf|3628
+B|Yeah,|aa|3628
+B|it is|sd|3628
+A|I've, uh,|%|3628
+A|we went to California this last year and, uh, liked it,|sd|3628
+B|Uh-huh.|b|3628
+A|but it was too crowded|sv|3628
+B|Um.|b|3628
+A|Walt Disney World, and other places, it's just the wrong time of the year to go.|sv|3628
+B|Oh, yeah.|b|3628
+A|And, uh, course, uh, you get in any of those tourist traps and everything's, uh, outrageously priced,|sv|3628
+B|Uh-huh.|b|3628
+A|and, uh, kind of,|%|3628
+A|you wonder if they're, it's really worth it to pay, uh, thirty-five dollars or forty dollars just to get in.|sv|3628
+B|Yeah|aa|3628
+A|But, There's lots of fun places to see. Um,|sd|3628
+B|that's true.|aa|3628
+A|I think the scenery kind of,|sv|3628
+A|that's something do to, you like to get up in mountains *two utts|qy|3628
+A|or,|%|3628
+B|Oh, yeah,|ny|3628
+B|uh-huh.|ny|3628
+A|Do you have any mountains nearby?|qy|3628
+B|No|nn|3628
+A|Pretty flat, isn't it?|qy|3628
+B|Yeah,|ny|3628
+B|yeah.|ny|3628
+A|Um, I think, uh, the biggest limitation is a lot, just time and money, isn't it.|sv|3628
+B|Oh, yeah.|b|3628
+B|Yeah.|b|3628
+A|What vacation have you enjoyed the most?|qw|3628
+B|Uh, um. Probably, uh, when we go to Wisconsin .|sd|3628
+B|Um, it's pretty fun.|sd|3628
+B|There's a lot to do up there.|sd|3628
+B|It's pretty busy, though,|sd|3628
+B|you have to like crowds, you know.|sv|3628
+A|What is it?|qw|3628
+B|Um, oh, it's a, like a huge amusement park um, they have water slides|sd|3628
+A|Okay.|bk|3628
+A|Uh-huh.|b|3628
+B|and it's just a big, big tourist attraction.|sd|3628
+B|The downtown is all like little shops and candy shops|sd|3628
+B|and, it's, it's really neat.|sv|3628
+B|I don't think, uh, hardly anybody lives there,|sd|3628
+B|because it's just kind of like, you know, tourists.|sd|3628
+A|Probably a city in itself, kind of like, huh?|qy|3628
+B|Yeah,|ny|3628
+B|it's mostly a, a summer, summer place.|sd|3628
+A|Summer place.|b^m|3628
+A|How far away is it?|qw|3628
+B|Um, from Kenosha, it's about three hours.|sd|3628
+A|Huh.|b|3628
+B|It's about a hour away from Madison.|sd|3628
+A|Okay,|bk|3628
+A|sure.|ba|3628
+B|Yeah,|b|3628
+B|so that's nice.|sd|3628
+A|Sure.|ba|3628
+B|It's, it's a pretty ride up there, too.|sd|3628
+B|I really like the city Wausau in Wisconsin.|sd|3628
+B|It's really pretty.|sd|3628
+B|It's nice out there.|sd|3628
+B|Oh, I like all the nature things there are to look at, you know.|sd|3628
+A|Right,|b|3628
+A|well, and you can probably,|%|3628
+A|you're in a climate that's kind of humid,|sd|3628
+A|so you have probably a lot of green, and lot of real pretty things.|sv|3628
+A|Our, our climate's real dry|sd|3628
+B|Where is that?|qw|3628
+A|and you have to kind of get up into the mountains to get much of the greenery.|sd|3628
+A|Most of, most, most of the land's pretty brown.|sd|3628
+A|You don't have as much of the greenery like you have.|sv|3628
+B|Oh,|b|3628
+B|where's that?|qw|3628
+A|Uh, Idaho, is where I live,|sd|3628
+A|and, uh|%|3628
+A|Yes.|ny|3628
+B|Okay|bk|3628
+A|It's by, uh,|sd|3628
+A|I have a little baby thinks he needs to cry now that I'm on the phone.|sd|3628
+A|It's by, um, Boise.|sd|3628
+A|You ever heard of Boise?|qy|3628
+B|Oh, yeah,|ny|3628
+B|yeah.|ny|3628
+A|And, uh, it's fine,|sd|3628
+A|it's nice.|sd|3628
+A|It's, uh, lot different kind of.|sv|3628
+A|I lived in Indiana for a while,|sd|3628
+A|and it's a real different, uh, land and scenery than there.|sd|3628
+A|It's kind of fun to have a little bit diversity, and things like that.|sv|3628
+B|Yeah.|b|3628
+A|I think, uh, there's a lot of places uh, oh, down, even in southern Utah, the canyons, canyon lands and Bryce Canyon|sd|3628
+A|and, oh, boy, they're gorgeous|sv|3628
+B|yeah.|b|3628
+A|Those are kind of fun places.|sd|3628
+A|We usually go over to Bear Lake in the summer, which is kind of on the border of Idaho and Utah,|sd|3628
+A|and the lake goes on forever,|sd|3628
+A|and that's real pretty over there too.|sd|3628
+B|Oh.|b|3628
+A|But I think I'm kind of a summer vacationer.|sd|3628
+B|Oh, yeah,|aa|3628
+B|me too, uh,|sd|3628
+B|me too.|sd|3628
+B|Unless I'm going somewhere warm for the winter|sd|3628
+A|Right.|b|3628
+A|Right.|b|3628
+B|Yeah,|aa|3628
+B|that'd be nice.|sv|3628
+A|Where'd you,|qw|3628

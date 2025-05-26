@@ -1,0 +1,302 @@
+A|Well, do you own a P C?|qy|2465
+B|No,|nn|2465
+B|I don't,|sd|2465
+B|I have one at, uh,|sd|2465
+B|the company I work for furnishes,|sd|2465
+B|so I can work at home.|sd|2465
+A|Oh, wow.|ba|2465
+B|And it's just an old, old compact, that is super slow|sd|2465
+B|and, but it does, it does its job,|sd|2465
+B|so.|%|2465
+A|What processor does it have in it?|qw|2465
+B|Um, I don't know,|no|2465
+B|it's so old.|sd|2465
+B|It's one of,|%|2465
+A|Oh what kind of work do you do on it?|qw|2465
+B|Um, I do, um, television ratings|sd|2465
+B|and I process some ratings and put, do graphics for their television stations, their clients,|sd|2465
+A|Oh, okay.|bk|2465
+B|so.|%|2465
+A|Yeah.|b|2465
+B|It's basically just data entry and running, you know, some, some software|sd|2465
+B|so it doesn't really have to be anything sophisticated, you know.|sd|2465
+A|Huh, yeah,|b|2465
+A|I don't own a P C|sd|2465
+A|but I've, I've, yeah, I work for T I|sd|2465
+A|and, uh,|%|2465
+B|Yeah,|b|2465
+B|my husband does, too,|sd|2465
+B|so.|%|2465
+A|Well, I have, uh, pretty, a fairly fancy one,|sd|2465
+A|it's a T I model.|sd|2465
+A|It's an S P one thousand which, has a, it has a fast processor in it, a three eighty-six.|sd|2465
+B|Uh-huh.|b|2465
+A|And I,|%|2465
+A|the, the job that I do,|sd|2465
+A|I do a lot of training of our customers for new products.|sd|2465
+B|Uh-huh.|b|2465
+A|And I have to develop, uh, functional specs and disk and desk top publishing and everything,|sd|2465
+A|so it's, it's kind of fun,|sd|2465
+B|Uh-huh.|b|2465
+B|Yeah.|b|2465
+A|I mean, I, I always say that I need to buy a computer for the house|sd|2465
+A|but I just haven't got around to doing it yet.|sd|2465
+B|Oh, yeah,|b|2465
+B|I'd like to have one for the house, too,|sd|2465
+B|but sometimes my husband, my husband says usually, I work on the computer all day at work,|sd|2465
+B|I don't want to come home and have to work on one, too .|^q|2465
+A|Your husband, what, what group is your husband in?|qw|2465
+B|Um, something with the defense.|sd|2465
+A|Oh, ?|b|2465
+B|Huh?|br|2465
+A|Defense systems and electronics group?|qy^d|2465
+B|Yeah,|ny|2465
+B|something like that,|sd|2465
+B|yeah,|%|2465
+B|they've changed their name so many times I've lost track,|sd|2465
+B|so.|%|2465
+A|I see.|b|2465
+A|Yeah.|b|2465
+B|He works up in Plano.|sd|2465
+A|Oh, okay.|b|2465
+B|So|%|2465
+A|Yeah,|b|2465
+A|I work on, uh, printers and, the peripheral products division, basically, uh,|sd|2465
+B|Uh-huh.|b|2465
+A|I work in the airline, marketing group.|sd|2465
+B|Oh.|b|2465
+A|So, we, we do a lot of,|%|2465
+B|I didn't even know they had anything like that.|sd|2465
+A|Oh, yeah.|b|2465
+B|Man,|%|2465
+B|there's so,|%|2465
+B|they're,|%|2465
+B|I learned so many things that they, they do,|sd|2465
+B|they're into so many different things,|sd|2465
+B|so.|%|2465
+B|Yeah,|b|2465
+B|I just kind of,|%|2465
+B|in for a while, you know,|%|2465
+B|he had a, he had, uh, one of those, what are they, top secret things, you know, where he couldn't talk about what he did, so. For a while|sd|2465
+A|Uh-huh.|b|2465
+A|Yeah.|b|2465
+B|but then he switched jobs.|sd|2465
+B|I don't understand half the stuff he does|sd|2465
+B|and, I have, uh,|%|2465
+A|Is he a programmer?|qy|2465
+B|Uh-huh.|ny|2465
+A|I see.|bk|2465
+B|Software design engineer, so, as they call it,|sd|2465
+B|so.|%|2465
+B|But I have a degree in information management, which is computer, you know,|sd|2465
+A|Uh-huh.|b|2465
+A|Right.|b|2465
+B|it's basically the, more the business end of it than the programming end of it, you know.|sd|2465
+A|Right.|b|2465
+B|So, but I've been at it for, you know, five years,|sd|2465
+B|so. Everything's changed so much I probably couldn't even get a job right now.|sd|2465
+B|It seems like it's changed so much,|sd|2465
+B|so, you know, they've made such advances in computers,|sd|2465
+B|so.|%|2465
+A|Really.|ba|2465
+A|So, uh, does your husband ever use, uh, a laptop or a notebook?|qy|2465
+A|Does he bring a little one home with him|qy|2465
+A|or,|%|2465
+B|No,|nn|2465
+B|huh-uh,|nn|2465
+B|sometimes he he brought home a, uh, a portable one,|sd|2465
+A|Uh-huh.|b|2465
+B|but, uh, it, it quit working|sd|2465
+B|so he brought it, brought it back|sd|2465
+B|and he just hasn't brought another one home.|sd|2465
+B|But they did give him a new computer at work,|sd|2465
+B|so.|%|2465
+A|Oh, I see.|b|2465
+A|Yeah,|b|2465
+A|we, we build, uh, laptop and notebook computers here in Temple also.|sd|2465
+B|Oh, uh-huh.|b|2465
+A|And those are really handy,|sd|2465
+A|I mean, we, they, they have modems in them, you can send a fax from your P C,|sd|2465
+B|Oh, how nice,|ba|2465
+A|but they're, they're really,|%|2465
+B|no,|fo_o_fw_"_by_bc|2465
+B|he doesn't have one of those,|sd|2465
+B|so.|%|2465
+A|What's that?|br|2465
+B|He doesn't have one of those.|sd|2465
+A|Yeah,|b|2465
+A|they're, they're pretty handy because, you know, when I travel, it's easy to check messages,|sd|2465
+A|just, you know, plug in the phone to your computer and dial in|sd|2465
+B|Uh-huh.|b|2465
+A|and,|%|2465
+B|Yeah.|b|2465
+B|Well, my husband doesn't have to travel,|sd|2465
+B|so.|%|2465
+A|Oh, okay.|b|2465
+A|Yeah,|b|2465
+A|I just found out I'm going to Denver Sunday night again.|sd|2465
+B|Oh, boy.|ba|2465
+B|Well at least you get to,|%|2465
+A|So that kind of reeks havoc with plans,|sd|2465
+A|but, it, it's really not enough to become a big hassle.|sd|2465
+B|Uh-huh.|b|2465
+B|Well, that's good.|ba|2465
+B|Some people enjoy the travel|sd|2465
+B|but I don't think I'd like it, if he traveled a lot .|sd|2465
+A|I see.|b|2465
+B|Yeah,|b|2465
+B|I would love to have a computer,|sd|2465
+B|they,|%|2465
+B|but they're so expensive.|sd|2465
+A|Well, I don't know,|h|2465
+A|there, you can get, well,|%|2465
+A|depends on what you consider expensive,|sd|2465
+A|I mean,|%|2465
+B|Uh-huh.|b|2465
+A|you can get real high powered stuff now for under two thousand dollars, where, you know, just a few years ago it would have been six, seven, eight, nine thousand dollars.|sd|2465
+B|Yeah. You know,|b|2465
+B|I guess it's not, it's all, you know, it's, inexpensive compared to what it used to be|sv|2465
+B|but it's a lot to put into one.|sv|2465
+A|Yeah,|b|2465
+A|it's still, I mean,|%|2465
+A|you know, two thousand dollars isn't just, just pocket change to a lot of people|sv|2465
+B|That's right|ba|2465
+B|No,|aa|2465
+B|it's not.|sv|2465
+B|It's, it's not pocket change,|sv|2465
+B|so it's major .|sv|2465
+B|Maybe when the kids get in school that will be, you know,|sd|2465
+B|when they start needing something, you know, then that will be different|sd|2465
+B|but,|%|2465
+A|Yeah,|b|2465
+A|when I started at, uh, T I, I was a Summer development student, and finishing up at school|sd|2465
+B|Uh-huh.|b|2465
+A|and so those papers really,|sd|2465
+A|I mean, it was nice having access to the, equipment to, uh,|sd|2465
+B|Oh, yeah.|b|2465
+B|Yes,|b|2465
+B|I remember that.|sd|2465
+B|I had to do some of my husband's papers because I had access to one|sd|2465
+B|but, you know, he, his was more for scientific stuff than for word processing, you know,|sd|2465
+B|so,|%|2465
+A|Yeah.|b|2465
+B|I did a lot of his papers.|sd|2465
+B|Yeah,|b|2465
+B|they come in real handy,|sd|2465
+B|that was a lifesaver.|sd|2465
+A|Well, how many different types of packages do you use?|qw|2465
+B|At home?|qy^d|2465
+A|Uh-huh.|b|2465
+B|Um, all I,|%|2465
+B|the packages I, I don't really use,|sd|2465
+B|I what I use that outside development that we use most of it's just stuff that's been written in house that I use.|sd|2465
+A|Oh, okay.|b|2465
+A|Yeah.|b|2465
+A|Golly,|b|2465
+A|I've got,|%|2465
+A|up, up at work anyway, I use WordPerfect and Lotus and, and which is, uh, uh, a, a line-draw package.|sd|2465
+B|Yeah,|b|2465
+B|I know those two.|sd|2465
+B|Uh-huh,|b|2465
+B|I've just used WordPerfect and Lotus and, the most.|sd|2465
+A|Yeah.|b|2465
+A|You probably use or something like that, for your, uh, data entry stuff that your, talking about.|sv|2465
+B|Yeah.|b|2465
+B|Yeah.|b|2465
+B|A lot of the data entry stuff they used, uh, survey system and, and, um, you know, just in-house programs to do what they needed.|sd|2465
+B|I work,|%|2465
+A|Do you get, do you work at home all the time|qy|2465
+A|or just,|%|2465
+B|Well, no,|nn|2465
+B|I worked for this company before I had my first daughter,|sd|2465
+A|Uh-huh.|b|2465
+B|and they just wanted me to continue working for them at home doing other things,|sd|2465
+B|so.|%|2465
+A|Oh, that, that was, that worked out pretty good then.|sv|2465
+B|Yeah,|aa|2465
+B|it did.|sv|2465
+B|You know, I don't do, I don't really don't do basic, a lot of what I used to do,|sd|2465
+B|I just do, you know, something really minor|sd|2465
+B|but, it's something that nobody else wants to do,|sv|2465
+A|Uh-huh.|b|2465
+A|Yeah.|b|2465
+B|and it's time consuming.|sd|2465
+B|So,|%|2465
+A|So, it keeps you in the company, huh?|qy|2465
+B|That's right, you know,|na|2465
+B|it gives me a paycheck, you know,|sd|2465
+B|it's only like the work's only, you know, three weeks.|sd|2465
+B|Goes for like three to four weeks three times a year,|sd|2465
+A|Uh-huh.|b|2465
+B|you know, it's not something that's continual because, you know, the television ratings don't come out, you know, all the time.|sd|2465
+B|They only come out four times a year,|sd|2465
+B|so but.|%|2465
+A|Yeah.|b|2465
+A|Boy|ba|2465
+A|I tell you if I could bring a computer home and do stuff here, I'd get all kinds of stuff done.|sd|2465
+B|Oh.|b|2465
+A|Phone's always ringing|sd|2465
+A|and, people always asking me to do something else.|%|2465
+B|Uh-huh.|b|2465
+B|Yeah.|b|2465
+A|I've got a lot of,|sd|2465
+A|especially right now, we've got several new products coming out,|sd|2465
+A|and I've got lots of documentation I need to review and some I need to revise.|sd|2465
+B|Uh-huh,|b|2465
+B|will they let you take a computer home to work?|qy|2465
+A|Well, yeah,|ny|2465
+A|but, you know, I need to be at the office, too.|sd|2465
+B|Oh, uh-huh.|b|2465
+A|You know I've just got to deal, with all those other things that happen|sd|2465
+A|but, a P C at the house would really take a lot of the load off.|sd|2465
+B|Yeah.|b|2465
+B|Yeah,|b|2465
+B|I bet.|ba|2465
+B|Yeah,|b|2465
+B|my he took one home when they, when they had it, you know, they had a big deadline coming up|sd|2465
+B|and it was looking a little touchy to meet,|sd|2465
+B|so.|%|2465
+A|Uh-huh,|b|2465
+A|well, I've, I've done that before on, a couple times.|sd|2465
+B|Yeah.|b|2465
+A|But that would make it just that much easier|sd|2465
+A|instead of bringing home a computer, you just bring home a few floppy disks, you know.|sd|2465
+B|Uh-huh,|b|2465
+B|that's right.|ba|2465
+B|I thought that would be, you know,|sd|2465
+B|because it's real nice with this because I don't even have to go into the office|sd|2465
+B|I've maybe been into the office once in the past three years, you know.|sd|2465
+A|Oh, my.|ba|2465
+B|They just, um, they just send me everything and pick it up courier or whatever,|sd|2465
+B|so, you know.|%|2465
+A|Man that sounds really nice.|ba|2465
+B|Yeah.|b|2465
+B|It is real nice, you know,|sd|2465
+B|I just deal with them on the telephone,|sd|2465
+B|half the people don't even know who they're talking to.|sd|2465
+A|Uh-huh.|b|2465
+B|But I, you know, worked,|sd|2465
+B|I know most of them, well,|sd|2465
+B|I can't say that,|h|2465
+B|a lot of people changed around there|sd|2465
+B|but, most people know who I am,|sd|2465
+B|but I don't know who they are, you know.|sd|2465
+A|Uh-huh.|b|2465
+B|A lot of them just know me by name and phone voice.|sd|2465
+A|Right.|b|2465
+A|Yeah,|b|2465
+A|I've got a lot of folks that I've worked with like that as well.|sd|2465
+B|Yeah,|b|2465
+B|you just know them by the telephone,|sd|2465
+B|so. But, well, it's been good talking to you,|fc|2465
+B|I think we've got the subject|sv|2465
+A|Yeah,|b|2465
+A|we sort of stayed to the topic anyway.|sv|2465
+B|Yeah,|b|2465
+B|we tried.|sv|2465
+B|It's hard to sometimes.|sd|2465
+A|Okay,|b|2465
+A|well, we'll talk to you later.|fc|2465
+B|Okay, well, thanks,|fc|2465
+B|bye, bye.|fc|2465
+A|Bye.|fc|2465

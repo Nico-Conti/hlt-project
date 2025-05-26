@@ -1,0 +1,166 @@
+A|Okay.|fo_o_fw_"_by_bc|3200
+A|I'll let you start.|sd|3200
+A|Do you all keep a budget,|qy|3200
+A|and how do you hold to yours?|qw|3200
+B|No,|nn|3200
+B|I, I never keep a budget.|sd|3200
+B|My budget or philosophy, I guess, is spend as little as possible.|sd|3200
+A|Well, that's, that's good|ba|3200
+B|And, uh and it's, it's sort of always worked.|sd|3200
+A|Especially for these times.|ba|3200
+A|Uh-huh.|b|3200
+B|Uh, but that depends, you know, on the individual if they can I guess have self-control.|sv|3200
+A|Well, that's a lot of it.|aa|3200
+A|Uh, I know we tried several different ways.|sd|3200
+A|One time we tried something that really worked|sd|3200
+A|but we didn't keep it up.|sd|3200
+A|I passed it on to a friend|sd|3200
+A|and she won't quit doing it.|sd|3200
+A|She loves it|sd|3200
+A|and that was the envelope system. Where you go ahead and decide about how much based on what you did last month that you are going to spend,|sd|3200
+B|Uh-huh.|b|3200
+A|and you put the cash in envelopes marked for that.|sd|3200
+A|So you have one for entertainment and one for groceries et cetera.|sd|3200
+A|And then for some reason taking it out of that envelope and seeing it in cash instead of in check form, uh, causes you to realize how much is left.|sd|3200
+A|And she even writes down on the envelope as she subtracts and kind of debits on each envelope, what she's buying.|sd|3200
+B|Uh-huh.|b|3200
+A|And then at the end of the, of the period, pay period, if she has any left, that much is for fun or entertainment.|sd|3200
+B|Uh-huh.|b|3200
+A|And they kind of work it that way.|sd|3200
+A|We tried for a while|sd|3200
+A|and a seems like the problem that they were having of all the, of all the things that worked was not planning enough for the incidentals that we couldn't think about.|sd|3200
+B|Yes.|b|3200
+A|And those are the ones that will kill you.|sv|3200
+A|You know, the the accidental fee or the car repair or the things that weren't supposed to be every month.|sv|3200
+B|Well, yeah,|b|3200
+B|I, I couldn't probably be bothered doing that every month,|sd|3200
+A|Uh-huh.|b|3200
+B|and and ever since,|%|3200
+A|That's what I mean.|aa|3200
+A|It was a hassle|sv|3200
+B|uh, well, we've been married almost thirty years now|sd|3200
+B|but, uh, my husband got paid once a month.|sd|3200
+A|Uh-huh.|b|3200
+A|Uh-huh.|b|3200
+B|So you learn to get,|%|3200
+A|That's, that's kind of hard|ba|3200
+B|Right.|aa|3200
+B|You learn to get through, you know, to the end of the month|sd|3200
+B|and, uh,|%|3200
+A|But do you sort of self budget even,|sd|3200
+A|I mean, you wouldn't like on payday think, boy, I can go do this and that and this and that.|sd|3200
+A|You kind of think this is got to|sd|3200
+B|No.|aa|3200
+A|you kind of divide it in fourths in a way, don't you?|qy|3200
+B|No.|nn|3200
+B|Because if you charge things, uh, you pay all your bills at the beginning of the month, when you get paid,|sd|3200
+A|Right.|b|3200
+B|or you get paid the last day or next to the last day.|sd|3200
+A|Right.|b|3200
+B|You pay all your bills|sd|3200
+B|and there isn't anything left to spend anyway.|sd|3200
+A|Well, that's true.|aa|3200
+A|What we're in the process of doing right now is paying off our credit cards entirely.|sd|3200
+A|And we're going to go ahead and try to just live on what we earn instead of guessing ahead of what we probably will have next month|sd|3200
+B|Well, yeah,|b|3200
+B|we, we tried to, to, to,|%|3200
+A|Oh.|b|3200
+B|or we are paying them off now.|sd|3200
+A|Yeah,|b|3200
+A|we're not there yet.|sd|3200
+B|Uh, there was a time when maybe we didn't take all of them off,|sd|3200
+A|Uh-huh.|b|3200
+B|but you just sort of had to watch what you put in, because you hate to pay those finance charges, when you see how much it is.|sd|3200
+A|Uh-huh.|b|3200
+A|That's right.|aa|3200
+A|That's right.|aa|3200
+B|And for most of, uh,|%|3200
+B|I mean I'm a substitute teacher,|sd|3200
+B|and I've only substituted, I guess, for the last fifteen years,|sd|3200
+A|Huh.|b|3200
+B|so there's only been really one working.|sd|3200
+A|Uh-huh,|b|3200
+A|same here.|aa|3200
+A|Uh-huh.|b|3200
+B|And, uh, it, it works for me|sd|3200
+B|but I can't see that it would work for probably the majority of people.|sv|3200
+A|Well, I could say it's kind of,|%|3200
+A|you know, that's, that's good.|ba|3200
+A|You you probably have a little extra than you have to have, to,|sv|3200
+A|you know what I'm saying?|qy|3200
+B|Yeah.|ny|3200
+A|And so, that, that's the difference there where sometimes like I know if we've had an especially bad month and we're just almost getting down to payday, then I think if we could really budget,|sv|3200
+A|we tried one|%|3200
+A|I know when we were planning to buy the new car and we hadn't had a car payment in five years, we had to go ahead and write down each month what it was that every penny went for, to see how much was going to be left,|sd|3200
+B|Uh-huh.|b|3200
+B|Yeah.|b|3200
+A|and that was a real eye opener. Uh-huh. *slash error should be 'b'|sd|3200
+B|Uh-huh.|b|3200
+B|It, it is when you do it that way.|ba|3200
+A|But to, to have lived by that every week would have been tough for me because sometimes I'll spend less on groceries but we'll go out.|sd|3200
+A|So it's kind of hard to say this is how much you're going to spend going out for fun.|sv|3200
+A|This is how much you're going to spend|sv|3200
+A|It's kind of hard.|sv|3200
+B|Well, we, we eat out a good deal at this point.|sd|3200
+A|Do you?|bh|3200
+B|I, I started subbing just to go on a vacation and saved, all that money so because I knew that you couldn't, you know, spending, five thousand dollars on a vacation, or whatever.|sd|3200
+A|Yeah,|b|3200
+A|yeah.|b|3200
+A|Right|b|3200
+A|Right.|b|3200
+B|We were going to go for ten weeks, uh, in nineteen eighty|sd|3200
+A|Oh.|b|3200
+B|so I started, working in nineteen eighty-seven and just saved, for three years.|sd|3200
+A|How nice.|ba|3200
+A|Uh-huh.|b|3200
+B|But the,|%|3200
+B|what minuscule amount I made|sd|3200
+B|but, that way you just didn't put it on your credit card,|sd|3200
+A|Well, that's,|%|3200
+B|and, and it was paid for.|sd|3200
+A|and it made a big,|%|3200
+A|and you enjoyed it better probably.|ba|3200
+B|Yes.|aa|3200
+A|Yeah, .|b|3200
+B|And so I think that that's difficult for most people,|sv|3200
+B|but then my father was,  very Scotch|sd|3200
+A|I think so too.|aa|3200
+B|and, you know, you never could afford anything although we could afford everything if he wanted to. Um,|sd|3200
+A|So if you're out like in a department store and there's a sale, you're just real careful not to let your urges get hold of you?|qy^d|3200
+B|Yes.|ny|3200
+A|That's, that's excellent.|ba|3200
+A|That's what I'm working toward.|sd|3200
+A|I think you're probably much ahead of me there|sv|3200
+A|and I'm working on it.|sd|3200
+B|And I never worried about saving money because we just, we're in the savings plan at work|sd|3200
+B|and they took it out|sd|3200
+B|so,|%|3200
+A|Same here,|aa|3200
+A|same here.|aa|3200
+B|I, uh,|%|3200
+A|And I think though that we need to have some liquid around that you don't have to go through the company to get|sv|3200
+B|Uh-huh.|b|3200
+A|You know?|qy|3200
+B|Well, we never had too much of that|sd|3200
+A|Yeah.|b|3200
+B|but then we never had any really emergencies that, uh,|sd|3200
+A|That came up.|^2|3200
+A|Yeah.|b|3200
+B|And we didn't buy really new or expensive cars.|sd|3200
+B|I think the most, my, we're looking at cars now, uh, we ever spent for a new car was like six thousand dollars.|sd|3200
+A|Uh-huh.|b|3200
+B|And they were mainly used cars.|sd|3200
+A|Well, that's the best thing to do.|ba|3200
+A|My husband said the other day it was the worst mistake we ever did to buy a new car because it wasn't worth it from the day after.|sd|3200
+B|Yeah,|b|3200
+B|so,|%|3200
+A|So,|%|3200
+B|you know, we've been rather rather frugal in that.  In that respect.|sd|3200
+A|Rather frugal.|b^m|3200
+A|Well, that's, that's going to payoff on retirement.|sv|3200
+A|Yeah.|b|3200
+B|So.|%|3200
+A|Well, it, uh,|%|3200
+A|I guess we've completed,|fo_o_fw_"_by_bc|3200
+A|do you think we've been here to|qy|3200
+B|Well, each time they used to call in and tell me their space is limited and to please, uh,|no|3200

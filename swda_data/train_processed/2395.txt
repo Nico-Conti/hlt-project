@@ -1,0 +1,200 @@
+A|Where do you get most of your news?|qw|2395
+B|I watch the MACNEIL LEHRER news hour,|sd|2395
+B|and I subscribe to the paper on the weekends.|sd|2395
+A|Where, where are you?|qw|2395
+B|I'm in Dallas.|sd|2395
+A|Oh, yeah.|bk|2395
+B|Are you in Dallas also?|qy|2395
+A|No,|nn|2395
+A|I'm in San Antonio.|sd|2395
+B|Oh, really,|b|2395
+B|okay.|bk|2395
+A|I get my news from a combination of sources.|sd|2395
+A|I take the paper every day|sd|2395
+B|Uh-huh.|b|2395
+A|and I read it on the way in to work on the, in a carpool.|sd|2395
+B|Oh, really.|bh|2395
+A|Uh-huh.|ny|2395
+A|And, uh, and I watch the, uh, actually I watch the morning news before I leave for work.|sd|2395
+A|And then, you know, usually over lunch, there'll be a big topic of conversation on something from the news.|sd|2395
+B|Uh-huh.|b|2395
+B|I normally find that uh, I'm probably the most, um, news hungry of my friends,|sd|2395
+B|so I don't, we don't normally talk about the news at lunch.|sd|2395
+B|I, I find that I have to only subscribe to the paper on the weekend, simply because I used to get it during the week|sd|2395
+A|Uh-huh.|b|2395
+B|but, um, I would always end up arriving at work late, because I would always end up skimming the headlines, spending too much time, reading it in the morning.|sd|2395
+A|Yeah.|b|2395
+B|So I have to cut myself down to the weekend, plus after work.|sd|2395
+B|Um, the MACNEIL LEHRER news hour is on public television|sd|2395
+A|Uh-huh.|b|2395
+B|and I enjoy that quite a bit.|sd|2395
+A|Yeah.|b|2395
+A|Um, one of the women that I work with, her husband is Iranian.|sd|2395
+B|Uh-huh.|b|2395
+A|So here lately with all the Middle Eastern news we've had some very interesting conversations over lunch.|sd|2395
+B|I will admit I work with, uh, someone who's Iranian,|sd|2395
+B|and he definitely has a very different slant on the news.|sd|2395
+A|Uh-huh.|b|2395
+B|He's very, very skeptical of the news media,|sd|2395
+B|and I will admit I'm reasonably skeptical also.|sd|2395
+B|But he's, I don't know, uh, he's much, much more so.|sd|2395
+B|It's sort of interesting though, because he does bring a, a much, um, different perspective with all the Gulf goings on, um.|sd|2395
+B|He was always speaking in terms of, you know, American imperialism reasserting itself.|sd|2395
+B|Um, I suppose it's a different attitude that we normally don't hear in the country.|sv|2395
+A|Uh-huh|b|2395
+A|Well I, I, uh, I like the print news much better than the television news because television news tends to sensationalize.|sd|2395
+B|Uh-huh.|b|2395
+B|True, um,|aa|2395
+B|the,|%|2395
+A|I understand that the MacNeil Lehrer probably doesn't.|sv|2395
+B|They, um, tend to spend quite a bit of time on one story.|sd|2395
+A|Uh-huh.|b|2395
+B|They will have maybe two or three main stories and just spend a very large amount of time.|sd|2395
+B|Sort of like the, uh, what is that, A B C's NIGHTLINE.|sd|2395
+A|Uh-huh.|b|2395
+B|Well, I guess they only normally stick with just the one, um, story.|sd|2395
+B|But they, they can do a much better job since they don't have to chop it into little two minute stories.|sv|2395
+A|They don't report on every murder and shooting that happened in, in every little town.|bf|2395
+B|No,|aa|2395
+B|no.|aa|2395
+B|It's very much national interest news.|sd|2395
+A|Yeah.|b|2395
+B|A lot of times they end up, um, with these panels of experts|sd|2395
+B|and they go back and forth, where everyone's giving some opinions|sd|2395
+B|and sometimes that,|%|2395
+B|I don't know the value of that, because I saw plenty of jokes and, and, um, oh, editorial cartoons about all the retired generals, making a living during the, the Gulf War.|sd|2395
+A|I've been getting a kick out of those lately.|sd|2395
+B|Uh-huh.|b|2395
+A|Although, um|%|2395
+A|I'm only twenty-five,|sd|2395
+A|so I've never actually been through a period of war|sd|2395
+B|Uh-huh.|b|2395
+A|and I don't know anyone in the military|sd|2395
+A|and I don't have a lot of background knowledge in, uh, military strategy and, and weaponry, and, and all that kind of stuff.|sd|2395
+A|And I thought the generals were very interesting.|sv|2395
+A|Now when they started to speculate, I, I saw that for what is was, and thought all of these guys don't know what's going on.|sd|2395
+B|Uh-huh.|b|2395
+A|But I thought they were interesting,|sv|2395
+A|and, and they shed some light on what was going on for me.|sd|2395
+B|I will admit it's interesting.|aa|2395
+B|I'm twenty-six.|sd|2395
+B|So I don't have any more experience in that than you.|sd|2395
+B|Um, it, it, it was very interesting that it seemed like some of the commentators had their axe to grind, you know,|sv|2395
+B|there were some that were screaming for air power,|sd|2395
+B|there were some that were saying the air power wasn't going to do it.|sd|2395
+A|Uh-huh.|b|2395
+B|And they seemed to mold the events to their view of the world, which I suppose just about everyone does,|sv|2395
+B|but these guys had a, a, uh, national soap box to stand on and, and express this view.|sd|2395
+A|You know, one of the best television news shows that I saw during the war was a show on a Saturday morning on A B C,|sd|2395
+A|and it was for children|sd|2395
+B|Uh-huh.|b|2395
+A|and it was hosted by Peter Jennings,|sd|2395
+A|and it was so interesting because they were relating the war to these children in their studio,|sv|2395
+A|and they also had children calling in live from all over the country and asking questions.|sd|2395
+A|And they, they had all their correspondents in the different areas, in Saudi Arabia, and Israel, and, and all.|sd|2395
+A|They had them all, uh, on,|sd|2395
+A|I don't know what you'd call it other than on line.|sd|2395
+A|They had them all on hold|sd|2395
+B|Uh-huh.|b|2395
+A|and if a child asked a question that the person in Jerusalem could best answer, they would cut to that person,|sd|2395
+A|and that person would answer the question.|sd|2395
+A|It was just very informative and interesting,|sv|2395
+A|and, uh, I was real impressed at how A B C handled, uh, translating, the war for children.|sd|2395
+B|Uh-huh.|b|2395
+B|Yeah,|b|2395
+B|I didn't see anything like that, although I did, uh,|sd|2395
+B|I guess one thing that I found sort of interesting,|sd|2395
+B|this is getting a little off the topic,|h|2395
+B|but there was a, a, a big push with the local T V stations to have little hot lines with counselors to, to help parents learn how to talk about their war with their children.|sd|2395
+A|Uh-huh.|b|2395
+B|I thought that was a really unusual thing.|sv|2395
+A|And our local H E B stores here,|sd|2395
+A|I don't know if it's H E B statewide or whatever,|sd|2395
+A|but they have videos that, uh,|sd|2395
+A|I don't know if they still have them,|sd|2395
+A|but they were free rental, videos, that had something to do with the war.|sd|2395
+B|Uh-huh.|b|2395
+A|Uh, it was,|%|2395
+B|with the children's aspect?|qy^d|2395
+A|Right.|na|2395
+A|It was something for children, that they, they had several advertisements on television pushing parents going and, uh, getting the video and watching it with their children and discussing it and that kind of thing.|sd|2395
+B|Uh-huh.|b|2395
+B|I suppose that is a valuable service.|sv|2395
+B|Again not having, uh, lived through another war, I don't know if that's a common thing that people thought of,|sd|2395
+B|or if that was a new concern with people.|sd|2395
+A|Well back during the Viet Nam conflict that no one will, will have the guts enough to call a real war|sd|2395
+B|Uh-huh.|b|2395
+A|uh, the, that type of technology just wasn't at people's disposal.|sd|2395
+B|That's true.|aa|2395
+B|That's true.|aa|2395
+A|So I don't think there's ever been a war that's been so thoroughly covered by the news.|sv|2395
+B|And spot in the probably more importantly, one that lasted short enough that, that people's interest didn't flag too badly.|sv|2395
+A|Yeah.|aa|2395
+A|I tell you what,|fo_o_fw_"_by_bc|2395
+A|the first three days, I was glued to the television.|sd|2395
+B|I will admit the same thing.|sd|2395
+B|And I, would come home and flip on MacNeil Lehrer|sd|2395
+A|And I,|%|2395
+B|and they would run these extended two, three hour versions of the program|sd|2395
+A|Yeah.|b|2395
+B|and I, I was just, I was horrified and fascinated by what I was seeing.|sd|2395
+A|I tell you what.|fo_o_fw_"_by_bc|2395
+A|The uh, the war spot in|sd|2395
+A|let's see, was it a Wednesday or Thursday?|^h|2395
+A|Must have been Thursday, uh,|sd|2395
+A|and Friday night I was, I stayed up until two o'clock in the morning, sitting, right dead center in front of my television just watching practically with my mouth hanging open.|sd|2395
+B|Uh-huh.|b|2395
+A|Because I was watching C N N,|sd|2395
+A|and they would, they would switch back to one of their Israel bureaus,|sd|2395
+A|and the people would be standing there in gas masks,|sd|2395
+A|and you'd be hearing the sirens,|sd|2395
+A|and it was just,|%|2395
+A|I was amazed.|sd|2395
+B|Uh-huh.|b|2395
+B|I, I didn't have that experience.|sd|2395
+B|I, I don't have cable|sd|2395
+A|Oh.|b|2395
+B|so I, I'm pretty much limited to P B S, which I thought, I thought they did a very good job.|sv|2395
+A|Uh-huh.|b|2395
+B|Um, I've got one question for you.|sd|2395
+B|I you say you take the newspaper.|qy^d|2395
+A|Uh-huh.|ny|2395
+B|Um, I, I found the newspaper situation in Dallas very interesting.|sv|2395
+B|We've got the one fairly, well, relatively weaker paper, the TIMES HERALD, and then the MORNING NEWS, which has a very strong subscription.|sv|2395
+A|Uh-huh.|b|2395
+B|Does San Antonio|qy|2395
+B|you said San Antonio, right?|qy|2395
+A|Uh-huh.|ny|2395
+B|Do you have just one paper,|qy|2395
+B|or do you have several?|qrr|2395
+A|No.|nn|2395
+A|There are two,|sd|2395
+A|and they're pretty close.|sv|2395
+A|Uh, the one that I picked is more similar in format to the newspaper,|sd|2395
+A|I grew up near Houston|sd|2395
+B|Uh-huh.|b|2395
+A|and there are two major newspapers there that run pretty much neck and neck,|sd|2395
+A|and the one I picked here had the same format as the one that my parents took as I was growing up. I mean, the same type of typeface on the headline and that kind of stuff.|sd|2395
+B|Uh-huh.|b|2395
+A|It's piddly stuff to pick a newspaper over,|sv|2395
+A|and I enjoy,|sd|2395
+A|the comics are better in this newspaper.|sv|2395
+A|This newspaper has the far side and the comics that I enjoy|sd|2395
+A|and the other one has some weird ones that I've never heard of.|sd|2395
+A|So,|%|2395
+B|I, I actually take both newspapers on the weekends.|sd|2395
+A|Do you?|bh|2395
+B|I figure I'm only taking on the weekend,|sd|2395
+B|and I can afford that.|sd|2395
+A|Yeah.|b|2395
+B|I, I find the news reporting in the MORNING NEWS to be better,|sd|2395
+B|but I sort of have a liberal political slant,|sd|2395
+B|and the MORNING NEWS just has an incredibly conservative editorial, um, outlook.|sv|2395
+A|And my, My fiancee takes probably six Sunday papers.|sd|2395
+B|I get the TIMES HERALD just to balance that out a little bit.|sd|2395
+A|He takes both San Antonio papers, an Austin paper, both Houston papers,|sd|2395
+A|I guess he takes seven, the San Marcos paper and the New Braunsfel paper,|sd|2395
+A|but he's a football coach at Southwest Texas State University,|sd|2395
+A|so he's getting all the sports sections.|sd|2395
+B|Uh-huh.|b|2395
+A|And, so, you know, he has these stacks of Sunday newspapers that go unread ...|sd|2395

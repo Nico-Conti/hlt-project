@@ -1,0 +1,127 @@
+A|Um, hello, um,|fp|2244|0
+A|what is your favorite, um, food for a dinner party?|qw|2244|0
+B|Um, I don't know,|h|2244|1
+B|I, I think I make things, you know,|sd|2244|1
+B|I do things kind of simple because I, you know, I just have close friends over.|sd|2244|1
+B|I make like lasagna|sd|2244|1
+B|and, uh, oh, we like to have barbecues outside so, you know, when the weather's nice because in Texas you have a lot of nice weather,|sd|2244|1
+B|so, we do a lot of, um, things like that.|sd|2244|1
+B|Um, I'm not really into gourmet cooking,|sd|2244|1
+B|so, I don't know how to do that,|sd|2244|1
+B|so, I don't have gourmet foods|sd|2244|1
+A|Do you do Tex-Mex?|qy|2244|0
+B|Um, yeah,|ny|2244|1
+B|you know, like fajitas and stuff like that,|sd|2244|1
+B|so.|%|2244|1
+A|Oh, fajitas,|b^m|2244|0
+A|how do you make fajitas?|qw|2244|0
+B|Um, it's kind of like made out of skirt steak|sd|2244|1
+B|and you marinate it.|sd|2244|1
+A|Uh-huh.|b|2244|0
+B|You can buy marinating mixes here|sd|2244|1
+B|I don't know, get it up there.|sd|2244|1
+A|Oh.|b|2244|0
+B|Uh, you can, you know, marinate it in any kind of barbecue sauce you like|sd|2244|1
+B|and then you, uh, you quick fry it real fast with, in hot, hot grease. You know, not a not, not deep frying it|sd|2244|1
+B|but you can either barbecue it which is really good, with, uh, green beans, not green beans but green peppers and red peppers and onions.|sd|2244|1
+B|And, uh, then you put it on a flour, like, you know,|sd|2244|1
+B|you make your meat real, uh, thin, you know, bite-size pieces.|sd|2244|1
+A|Uh-huh.|b|2244|0
+B|Then you put it on flour tortillas with, you know, guacamole and, uh, sour cream and, you know, all kinds of, you know,|sd|2244|1
+B|it's like a Tex-Mex type thing.|sd|2244|1
+A|Oh, it sounds good.|ba|2244|0
+B|It's really good.|sd|2244|1
+B|You can do it with chicken too.|sd|2244|1
+B|Chicken fajitas and stuff.|sd|2244|1
+A|Okay.|b|2244|0
+B|So.|%|2244|1
+A|Well, that's nice.|ba|2244|0
+B|So, what kind of cooking do you do up there?|qw|2244|1
+A|Oh, well, basically, um, because I lived in the Middle East for a while I tend to fix Middle Eastern foods when I have, have people over.|sd|2244|0
+A|And so, um, some of the dips are like chick peas mashed with, um, sesame.|sd|2244|0
+B|Uh-huh.|b|2244|1
+A|And, uh, cold um,|%|2244|0
+A|what's it called,|t1|2244|0
+A|I forgot, what it's called,|sd|2244|0
+A|anyway and, and my,|%|2244|0
+B|You cook them so often you kind of forget their names.|qy^d|2244|1
+A|That's right,|na|2244|0
+A|that's right.|na|2244|0
+B|Yeah,|b|2244|1
+B|yeah.|b|2244|1
+A|It's called ,|sd|2244|0
+A|now I remember it.|sd|2244|0
+B|Oh.|b|2244|1
+A|And, um, dipping Arabic bread, the thin piece of bread in that.|sd|2244|0
+B|Uh-huh.|b|2244|1
+A|Or another dip is made with, very similar but with, um, eggplant which has been actually|sd|2244|0
+A|it ends up with a barbecued taste.|sd|2244|0
+A|I,|%|2244|0
+A|although we usually bake it in the oven|sd|2244|0
+A|or if we have, uh,|%|2244|0
+A|those of us that have gas stoves bake it on top just like putting it in the gas flame and sort of getting it black, on the outside but mushy on the inside.|sd|2244|0
+B|Oh.|b|2244|1
+B|Oh, that's unusual I'd never heard of anything like that, you know.|sd|2244|1
+B|Here in Texas it's all, you know, Tex-Mex cooking and barbecue|sd|2244|1
+B|and,|%|2244|1
+A|But barbecue is it like steaks|qy|2244|0
+A|or is it, uh, turkey?|qrr|2244|0
+B|Yeah,|b|2244|1
+B|you barbecue|%|2244|1
+B|Pardon me?|br|2244|1
+A|Would you barbecue a turkey or a chicken|qy|2244|0
+A|or,|%|2244|0
+B|Oh, yeah,|ny|2244|1
+B|you can barbecue turkey if you have a big enough grill|sd|2244|1
+B|but my, I cook my turkeys inside, you know,|sd|2244|1
+B|it|%|2244|1
+B|you can buy smoked turkeys.|sd|2244|1
+A|Uh-huh.|b|2244|0
+B|And or, uh, but most the stuff that we barbecue is like steak and chicken and hamburgers, hot dogs, you know,|sd|2244|1
+A|Uh-huh.|b|2244|0
+B|the simple things like that,|sd|2244|1
+A|Uh-huh.|b|2244|0
+B|You know, barbecue beans and baked beans|sd|2244|1
+B|and,|%|2244|1
+A|Uh-huh.|b|2244|0
+A|I'm sure that the chicken that we barbecue from the Middle East has a lemon garlic sauce.|sd|2244|0
+A|I wouldn't imagine that a barbecued chicken would.|sd|2244|0
+B|No,|nn|2244|1
+B|no,|nn|2244|1
+B|this is more like hickories, hickory type, you know,|sd|2244|1
+A|Uh-huh.|b|2244|0
+B|depending on the|sd|2244|1
+B|it's like a smokey flavor, if you've ever, you know, had stuff like that.|sd|2244|1
+A|Uh-huh.|b|2244|0
+B|Yeah,|%|2244|1
+B|it's totally different.|sd|2244|1
+B|Sounds like it would be interesting to eat some of the Middle Eastern cooking,|sd|2244|1
+B|so.|%|2244|1
+A|Right,|b|2244|0
+A|right.|b|2244|0
+B|Yeah.|b|2244|1
+A|Well, it's been fun talking to you.|fc|2244|0
+B|Yeah,|fc|2244|1
+B|it's been fun,|fc|2244|1
+B|it's been nice,|fc|2244|1
+B|it's, uh, you know, new to learn some, what different people eat,|fc|2244|1
+A|Right.|fc|2244|0
+B|I come from Wyoming|fc|2244|1
+B|and it's basically the same, same type of thing except for you do eat more the Tex-Mex down here,|fc|2244|1
+B|so.|fc|2244|1
+A|Uh, in Wyoming it would be less spicy?|fc|2244|0
+B|Yeah,|fc|2244|1
+B|yeah,|fc|2244|1
+B|you, you know,|fc|2244|1
+B|down there it's just like meat and potatoes, you know.|fc|2244|1
+A|Vegetables once in a while.|fc|2244|0
+B|Yeah,|fc|2244|1
+B|right|fc|2244|1
+A|Oh, dear.|fc|2244|0
+B|Well, it's been interesting to talk to you.|fc|2244|1
+A|Okay,|fc|2244|0
+A|very good.|fc|2244|0
+B|Thank you for calling.|fc|2244|1
+A|Okay,|fc|2244|0
+A|bye-bye.|fc|2244|0
+B|Bye-bye.|fc|2244|1

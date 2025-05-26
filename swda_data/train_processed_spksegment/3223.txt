@@ -1,0 +1,157 @@
+A|Well, I almost forgot the topic,|sd|3223|0
+A|I was waiting so long for, uh, for it to find somebody. Um,|sd|3223|0
+B|It's on your favorite T V shows and why.|sd|3223|1
+A|Right,|aa|3223|0
+A|well, so what is your favorite T V show?|qw|3223|0
+B|Uh, MAJOR DAD.|sd|3223|1
+A|Oh, you like that one?|qy|3223|0
+B|I, I love it,|sd|3223|1
+B|I think it promotes good family values,|sv|3223|1
+B|and it's funny.|sv|3223|1
+A|Uh-huh.|b|3223|0
+A|Uh, I've never really watched that one.|sd|3223|0
+A|You know, it's funny how you can just get in a mode where you only watch certain shows|sv|3223|0
+B|That's|aa|3223|1
+B|yeah.|aa|3223|1
+A|and, uh, you know, there's, so there's only a few that I, that I like to watch routinely.|sd|3223|0
+B|What kind do you like to watch?|qw|3223|1
+A|Probably my favorite is, um, oh,|%|3223|0
+A|well, I like shows like GROWING PAINS|sd|3223|0
+A|and, uh, what's the other one now, they moved from Tuesday night to Wednesday night,|^h|3223|0
+A|so I don't get to watch it very much.|sd|3223|0
+B|WONDER YEARS?|qy|3223|1
+A|WONDER YEARS,|b^m|3223|0
+A|yeah,|ny|3223|0
+A|that's my favorite. Uh,|sd|3223|0
+B|I like both of those real much also.|sd|3223|1
+B|I, I think basically, they same thing, they promote family values.|sv|3223|1
+A|Yeah.|b|3223|0
+A|WONDER YEARS,|b^m|3223|0
+A|I, I guess that is supposed to be put out at a time when I was growing up or whatever.|sd|3223|0
+A|I guess I can really relate to it,|sd|3223|0
+A|and, uh, it's just a real cute show|sd|3223|0
+A|Uh, I, I guess I like the shows that really have a real sense of, uh, I don't know, honesty or sort of a purity value, I guess.|sd|3223|0
+B|I do, too.|aa|3223|1
+B|I, I don't like it, uh, lot of the shows that, that I've liked in the past, like, uh, oh, GOLDEN GIRLS|sd|3223|1
+B|and, some of them tend to get so risque,|sv|3223|1
+B|and when you have children uh, watching it, that sometimes really starts to bother me|sv|3223|1
+A|Uh-huh.|b|3223|0
+A|Yeah,|b|3223|0
+A|Right,|aa|3223|0
+A|right.|aa|3223|0
+B|and, uh, that's one of the reasons,|sd|3223|1
+B|I mean, if you want to go all time favorite show, probably one of them was LITTLE HOUSE ON THE PRAIRIE|sd|3223|1
+A|Uh-huh,|b|3223|0
+A|yeah,|b|3223|0
+A|my wife really likes that show,|sd|3223|0
+B|yeah,|%|3223|1
+B|which I just, I was, I always felt was wonderful|sd|3223|1
+A|Uh-huh.|b|3223|0
+B|uh, and so many of them nowadays, like I said, I think are just, um|sv|3223|1
+A|Yeah.|b|3223|0
+B|uh, they, they go after, well,|sv|3223|1
+B|they,|%|3223|1
+B|like I said, the risque stuff, just I guess they think that's what people want to watch.|sv|3223|1
+A|Yeah,|b|3223|0
+A|well, there was,|%|3223|0
+A|but there's a sense of I guess, purity in the show,|sv|3223|0
+A|like one of my favorite shows used to be HAPPY DAYS|sd|3223|0
+B|Yes.|b|3223|1
+A|but, uh, you know, Richie always used to be so, you know, just so honest and pure I guess,|sv|3223|0
+B|Yeah.|b|3223|1
+A|and when he left the show, you know, that, it seemed to be missing that part of it|sv|3223|0
+B|Uh-huh.|b|3223|1
+A|and I never did like it after that|sd|3223|0
+B|Uh-huh.|b|3223|1
+A|so, I don't know,|h|3223|0
+A|I, I say, see the same thing in like WONDER YEARS and a lot of the shows that I like to watch.|sv|3223|0
+A|There always seems to be that kind of value in there somewhere.|sv|3223|0
+B|Yeah,|aa|3223|1
+B|I, I agree.|aa|3223|1
+B|Uh, do you like the sports programming?|qy|3223|1
+A|Yeah,|ny|3223|0
+A|uh-huh.|ny|3223|0
+B|Um, I, I enjoy those also, almost as, as much to a certain extent.|sd|3223|1
+B|I'm,|%|3223|1
+B|our whole house is baseball fans|sd|3223|1
+A|Uh-huh.|b|3223|0
+B|and, uh, we enjoy that,|sd|3223|1
+B|and, uh|%|3223|1
+A|So you're going to watch a game tonight?|qy|3223|0
+B|oh yeah,|ny|3223|1
+B|oh, yeah|ny|3223|1
+A|So do you, do you have a favorite for the series or anything?|qy|3223|0
+B|Uh, probably the Pirates,|sd|3223|1
+B|but only because of Steve Bushel, I guess|sd|3223|1
+A|Oh, uh-huh.|b|3223|0
+B|otherwise I really don't care that much,|sd|3223|1
+B|but, uh, you know, I'm, I'm annoyed that the Rangers got rid of him,|sd|3223|1
+B|and, uh, I'd like to see him do well, like all the way to the bank I guess|sd|3223|1
+A|Yes.|b|3223|0
+A|Yeah,|aa|3223|0
+A|he's a nice guy.|sv|3223|0
+A|I take it you live in the Dallas area.|qy^d|3223|0
+A|Do you live in the Dallas area?|qy|3223|0
+B|Live in, live in Plano.|sd|3223|1
+A|Uh-huh,|b|3223|0
+A|yeah,|b|3223|0
+A|I live in Garland,|sd|3223|0
+A|and, yeah,|%|3223|0
+A|I, I like Steve Bushel,|sd|3223|0
+A|but I don't really like the Pirates.|sd|3223|0
+A|I'm a big Saint Louis Cardinals fan|sd|3223|0
+B|Uh-huh.|b|3223|1
+A|so, uh, I'm kind of, I'm kind of pulling for the Braves over all,|sd|3223|0
+A|they, you know, they they've come from so far down,|sd|3223|0
+B|Uh-huh.|b|3223|1
+A|I really would like to see them do well.|sd|3223|0
+B|Well, yeah,|b|3223|1
+B|yeah,|b|3223|1
+B|it's, uh,|%|3223|1
+B|so I keep hoping the Rangers are going to do|sd|3223|1
+A|Yeah,|b|3223|0
+A|one, one year they,|%|3223|0
+A|maybe they'll make it, I don't know|sv|3223|0
+B|Right.|b|3223|1
+A|so, but, uh, yeah,|%|3223|0
+A|I like sports programming quite a bit,|sd|3223|0
+A|but, uh, I guess my, my favorite shows are the,|sd|3223|0
+A|and, you know, that getting back to the point that you made, that's really true,|aa|3223|0
+A|we were watching ROSEANNE, I guess, couple of weeks ago,|sd|3223|0
+A|and her daughter was talking about birth control, you know|sd|3223|0
+B|Uh-huh.|b|3223|1
+A|and my daughter was kind of walking in during that time,|sd|3223|0
+A|and, you know, she's only seven years old,|sd|3223|0
+A|so,|%|3223|0
+B|Well, it's,|%|3223|1
+B|so many of them now, um, you know, it just seems like they feel like they have to stick that stuff in,|sv|3223|1
+B|and and, uh, you know, I'm, you know, I'm, I'm an adult|sd|3223|1
+A|Yeah.|b|3223|0
+A|Yeah.|b|3223|0
+B|and I have adult tastes now,|sd|3223|1
+B|but I don't need that|sv|3223|1
+A|Yeah,|b|3223|0
+A|yeah.|b|3223|0
+B|uh, I, I like things that, uh, are, are wholesome, I guess.|sd|3223|1
+A|Yeah,|b|3223|0
+A|well that, that seems to be more our values, too,|sd|3223|0
+A|like the WONDER YEARS, I, I mean, it's kind of risque stuff for, maybe for teenagers,|sv|3223|0
+A|you know, or, and you can kind of relate to it you know,|sv|3223|0
+B|Uh-huh.|b|3223|1
+A|I don't know,|h|3223|0
+A|that's,|%|3223|0
+A|I enjoy that a lot|sd|3223|0
+B|Yes,|b|3223|1
+B|yes.|b|3223|1
+A|but, uh, you know, I agree with you,|aa|3223|0
+A|the,|%|3223|0
+A|and it's funny because the shows,|%|3223|0
+A|like a lot of them that used to be considered risque, like THREE'S COMPANY and stuff, I think they, they maintained,|sv|3223|0
+A|people would watch them because|%|3223|0
+A|there was that, uh, you know, there was really the period that was going on there,|sv|3223|0
+A|I mean, he really wasn't messing around with the girls,|sd|3223|0
+A|but everybody perceived him that way, and stuff|sv|3223|0
+B|Uh-huh.|b|3223|1
+A|but as soon as, you know, he went to move in with another girl, the show just died|sv|3223|0
+B|Yeah.|b|3223|1
+A|and it's, it's interesting that a lot of the shows are that way,|sv|3223|0

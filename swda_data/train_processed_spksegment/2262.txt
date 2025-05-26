@@ -1,0 +1,230 @@
+A|Well, I, um, I haven't really lived in a lot of big cities.|sd|2262|0
+A|I mean, I'm living in Dallas now.|sd|2262|0
+A|Plano is outside of Dallas,|sd|2262|0
+A|but, um, so I don't really have a lot of experience with air pollution.|sd|2262|0
+B|Huh-uh.|b|2262|1
+A|But, I know when I lived down in Houston, on the outskirts of Houston, there were some towns like Pasadena that had oil refineries,|sd|2262|0
+B|Huh-uh.|b|2262|1
+A|And, um, if you would drive by there, like on your way to the beach or something, there would just be dumping this huge amounts of smoke, into the air|sd|2262|0
+B|Huh-uh.|b|2262|1
+B|Huh-uh.|b|2262|1
+A|and it always smelled really bad.|sd|2262|0
+A|We know that, that was really, really, really bad for the atmosphere.|sd|2262|0
+A|What have you got up there?|qo|2262|0
+B|Well, I, I live out in the country,|sd|2262|1
+A|Huh-uh.|b|2262|0
+B|so that part is good.|sv|2262|1
+B|Uh, we're maybe one hundred miles from Pittsburgh,|sd|2262|1
+B|which has a lot of pollution from their plants,|sd|2262|1
+A|Huh-uh.|b|2262|0
+B|and right now in our area were fighting against a toxic waste incinerator. *sp: we're|sd|2262|1
+A|Oh, no.|ba|2262|0
+B|And, uh, it won't be too for from where we live. *sp: far|sd|2262|1
+B|And everybody really has been, you know, fighting against it, because we, we do not want it.|sd|2262|1
+B|Well, we don't want one any place|sd|2262|1
+A|Sure.|ba|2262|0
+B|we would like the, uh, industry to do more to take care of the waste products before they turn to incineration, because we feel that, uh, the small percentage that they're going to be putting into the air is too much. Huh-uh.|sd|2262|1
+A|Yeah.|aa|2262|0
+A|It's just, I mean, it's just so bad that there is just so much going into the air|sv|2262|0
+A|and, and the little bit you say that there putting in here and there, and everywhere, it all adds up. *there they're|sv|2262|0
+B|Huh-uh.|b|2262|1
+A|Plus all the problems in the Middle East.|sv|2262|0
+A|With all that smoke and,|sd|2262|0
+B|Oh, that has to be terrible over there.|sv|2262|1
+A|Yeah.|aa|2262|0
+A|So it's just, um, why are we doing this to ourselves|qh|2262|0
+B|Huh-uh.|b|2262|1
+A|I just don't know,|sd|2262|0
+A|but, um, I, you know, what really amazes me about, like that Pasadena area and the oil refineries, is that there would be houses and people living just really close to it.|sd|2262|0
+B|Huh-uh.|b|2262|1
+B|Yeah.|b|2262|1
+A|I mean, between the freeway and the oil refinery, you would see a neighborhood.|sd|2262|0
+B|Huh-uh.|b|2262|1
+A|and you just thought, well, it's obvious that there's a lot going up in the air there,|sv|2262|0
+A|and what comes up, must come down|sv|2262|0
+B|Yeah.|b|2262|1
+B|Yeah.|b|2262|1
+B|Breathing it, we're breathing it all the time.|sd|2262|1
+A|Yes.|b|2262|0
+A|And, and how, if they have all of those, um,|%|2262|0
+A|toxicity, I mean, it, there's signs around saying how dangerous it is|sd|2262|0
+A|and here you are living ...|sv|2262|0
+B|Huh-uh|b|2262|1
+A|That just doesn't make too much sense.|sv|2262|0
+B|No.|aa|2262|1
+B|And I figure we're paying to take care of this toxic waste, no matter who does it. and they have shown, some of the industries have been real good at, uh, uh, doing their part in, uh, reducing the amount that they have, *sd|sv|2262|1
+A|Huh-uh.|b|2262|0
+A|Huh-uh.|b|2262|0
+B|Uh, they've reused some of it, uh,|sd|2262|1
+B|it can be recycled, a lot of their things,|sd|2262|1
+A|Huh-uh.|b|2262|0
+B|and that they've shown, that it, uh, to begin with, apparently it does cost more,|sd|2262|1
+A|Huh-uh.|b|2262|0
+B|but, once they get started, it's really, it saves them money in the end,|sd|2262|1
+B|and it cuts down on the end product that has to be dealt with some other way.|sd|2262|1
+A|Huh-uh.|b|2262|0
+B|And if they would all,|%|2262|1
+B|that's what, that's what we want done.|sd|2262|1
+B|Is, we want industry to take, you know, more responsibility in taking care of it.|sd|2262|1
+A|Well, um, individual companies and things are so selfish,|sv|2262|0
+B|Huh-uh.|b|2262|1
+A|And their desires to save a few dollars and, and that|sv|2262|0
+A|they don't care about the environmental impact, that they make.|sv|2262|0
+B|Huh-uh.|b|2262|1
+B|they're greedy.|sv|2262|1
+B|It's money, is what is.|sv|2262|1
+B|It's, it's the money|sv|2262|1
+A|Yes.|aa|2262|0
+B|They're making fantastic amounts on these things|sv|2262|1
+B|and, uh, even the incinerator, the money and the income that they're going to make off this, is, you know, just astronomical.|sv|2262|1
+A|Huh-uh.|b|2262|0
+A|Well, have you ever visited, um, like Los Angeles or any place that's ever, it's kind of known, that it has, uh, pollution in it's air?|qy|2262|0
+B|We've never been,|ng|2262|1
+B|we went as far as, as, uh, like Las Vegas, and Yellow Stone Park,|sd|2262|1
+A|Huh-uh.|b|2262|0
+A|Huh-uh.|b|2262|0
+B|We did go, we should have gone the whole way over,|sd|2262|1
+B|but we didn't.|sd|2262|1
+B|But, I understand that,|sd|2262|1
+B|we have an aunt that lives out there|sd|2262|1
+B|and, When she was visiting here, she would look up at the stars|sd|2262|1
+A|Huh-uh.|b|2262|0
+B|and she said how wonderful it was to be able to look into the sky and see some of the things that she saw.|sd|2262|1
+A|Huh-uh.|b|2262|0
+B|She said they couldn't see those things out there, because of the smog and everything.|sd|2262|1
+A|Huh-uh.|b|2262|0
+A|That's so awful.|ba|2262|0
+A|Well, what about in New York.|qh|2262|0
+A|I guess you've gone that way, maybe.|qy^d|2262|0
+B|No.|nn|2262|1
+B|Never been in New York|sd|2262|1
+B|I don't want to go there|sd|2262|1
+A|Pretty funny.|ba|2262|0
+B|Have you been there?|qy|2262|1
+A|Well, I've been to New York.|na|2262|0
+A|I have relatives that direction.|sd|2262|0
+B|Oh.|b|2262|1
+A|We have,|%|2262|0
+A|it's, um,|%|2262|0
+A|is it close to Phoenixville, Pennsylvania?|qy|2262|0
+B|Um, no,|nn|2262|1
+B|I never heard of that one.|sd|2262|1
+A|Because I have family there|sd|2262|0
+A|and,|%|2262|0
+B|We're near Pittsburgh, Clarion University.|sd|2262|1
+A|Oh, huh-uh.|b|2262|0
+A|It's pretty neat.|ba|2262|0
+B|It's, it's kind of northwest part of Pennsylvania.|sd|2262|1
+A|That's beautiful country up that way.|ba|2262|0
+A|I know,|sd|2262|0
+A|it's, um, very lush and pretty, Up in the, back in the east.|sd|2262|0
+A|It's really,|sd|2262|0
+B|Are you a young person?|qy|2262|1
+A|Well, I'm thirty-one.|no|2262|0
+B|Thirty-one.|b^m|2262|1
+B|You're, you're young|sd|2262|1
+A|Seems kind of old to me.|sv|2262|0
+B|No,|nn|2262|1
+B|you're young.|sd|2262|1
+B|You have a lot of life yet,|sd|2262|1
+B|and, and these,|%|2262|1
+B|we have some people who say, well, this isn't going to affect me, this air pollution,|sd|2262|1
+A|Huh-uh.|b|2262|0
+B|uh, older people,|sd|2262|1
+B|or they think they're far enough away from something, that it's,|sd|2262|1
+A|Huh-uh.|b|2262|0
+B|and they don't realize these things are going to affect everybody.|sv|2262|1
+B|And if you're older it's not going to affect you that way.|sv|2262|1
+B|You have grandchildren,|sv|2262|1
+B|you have children, uh,|sv|2262|1
+A|Yes.|aa|2262|0
+B|Nieces, nephews, whatever, friends.|sv|2262|1
+B|Uh, everybody is going to be affected by it.|sv|2262|1
+A|That's really true.|aa|2262|0
+A|And we all, you know, need to be willing to help pay a little bit. Like,|sv|2262|0
+A|I've heard some people, uh, grumble about their, uh, cars passing their emission tests, and things,|sd|2262|0
+B|Huh-uh.|b|2262|1
+A|and how they've had to, how it's more expensive and things.|sd|2262|0
+B|Huh-uh.|b|2262|1
+A|And I thought, well, it's so much better.|sv|2262|0
+B|They say it has really made a difference, though.|sd|2262|1
+A|Huh-uh.|b|2262|0
+B|Now, see, we don't have that here, yet.|sd|2262|1
+A|Oh, you don't.|qy^d|2262|0
+B|No,|nn|2262|1
+B|we don't have that testing in that down here, yet.|sd|2262|1
+A|Huh-uh.|b|2262|0
+B|But they,|%|2262|1
+B|I have read that, that, that it has really helped where the problem is greater, where the population is greater,|sd|2262|1
+A|Huh-uh.|b|2262|0
+B|and that it has made a difference.|sd|2262|1
+A|Well, I really think it must.|sv|2262|0
+A|I think every,|sv|2262|0
+A|I mean, well, think about how many automobiles there are.|qh|2262|0
+B|Huh-uh.|b|2262|1
+B|Huh-uh.|b|2262|1
+A|And each is putting out,|sv|2262|0
+A|like we have a car,|sd|2262|0
+A|an older, one of our cars is an older car,|sd|2262|0
+B|Huh-uh.|b|2262|1
+A|and every time you start it, from the tail pipe, it makes a black spot, on the cement,|sd|2262|0
+B|Huh-uh.|b|2262|1
+B|Huh-uh.|b|2262|1
+A|And you know that, that is a sign.|sd|2262|0
+B|Something is coming out,|^2|2262|1
+B|yeah.|b|2262|1
+A|Yeah.|aa|2262|0
+A|And that's, all cars are doing that.|sv|2262|0
+B|Yeah.|b|2262|1
+A|And it's really polluting the air.|sv|2262|0
+B|Yeah.|b|2262|1
+B|If you have to put a price on it. Which is more valuable, life or paying a little more.|qh|2262|1
+A|Huh-uh.|b|2262|0
+A|And it's also, it's causing of lot of the real terrible suffering like cancer,  and things,|sv|2262|0
+B|Huh-uh.|b|2262|1
+B|Huh-uh.|b|2262|1
+A|We sure wouldn't want, so much more people suffering from that.|sv|2262|0
+B|Huh-uh.|b|2262|1
+B|Yeah.|b|2262|1
+B|And like I said, I think you have to pay for it no matter what you do you with it, because it's industry.|sv|2262|1
+B|We're paying industry to make the products|sv|2262|1
+B|and, we're helping pay for there making these end products that are, toxic waste.|sv|2262|1
+A|Huh-uh.|b|2262|0
+A|Huh-uh.|b|2262|0
+B|Then, we have to pay for them to pay somebody to carry it away someplace,|sv|2262|1
+B|then they put it in the dump some place|sv|2262|1
+B|and they find out, well, this dump doesn't work|sv|2262|1
+B|so we have to clean this up and move it someplace else.|sv|2262|1
+B|We end up paying for it again.|sv|2262|1
+B|Now we're going to end up paying for it again by having it burned in these large incinerators.|sv|2262|1
+A|Huh-uh.|b|2262|0
+B|And we're paying to have our air polluted and our water streams polluted.|sv|2262|1
+A|Pretty sad.|ba|2262|0
+B|Or the,|%|2262|1
+B|where they want to put, the one area they want to put the incinerator is right in the middle of the Clarion, the two water sheds that feed Clarion river.|sd|2262|1
+A|Oh, no.|ba|2262|0
+B|And, you know, it just boggles our mind that they can consider even putting it there, because, if that water gets contaminated, it will go on down to Pittsburgh.|sv|2262|1
+A|Huh-uh.|b|2262|0
+B|It will, you know,|%|2262|1
+B|it affects so many people.|sv|2262|1
+A|Huh-uh.|b|2262|0
+B|And it's just hard to think that they could allow them to do things like this.|sv|2262|1
+A|No.|aa|2262|0
+A|No.|aa|2262|0
+A|It's scary|sv|2262|0
+B|Huh-uh.|b|2262|1
+A|It's scary.|sv|2262|0
+B|It really is.|aa|2262|1
+A|Huh-uh.|b|2262|0
+A|It's really awful.|sv|2262|0
+A|Well, I've really enjoyed the conversation.|fc|2262|0
+A|It's helped me to think more about some issues that I need to be thinking more about|fc|2262|0
+B|It is really a concern. Huh-uh.|fc|2262|1
+A|Huh-uh.|fc|2262|0
+A|And it's, instead of waiting until it directly affects me, like you say, it's important to be involved ahead of time.|fc|2262|0
+A|Well, you have a good day.|fc|2262|0
+B|Well, you, too.|fc|2262|1
+A|Thank you.|fc|2262|0
+B|Huh-uh.|fc|2262|1
+A|Bye-bye.|fc|2262|0
+B|Bye.|fc|2262|1

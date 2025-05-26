@@ -1,0 +1,113 @@
+A|Okay.|fo_o_fw_"_by_bc|3283|0
+A|We're talking about capital punishment.|sd|3283|0
+B|Right.|b|3283|1
+A|How do you feel about that Lenore ?|qo|3283|0
+B|I am very much for capital punishment.|sd|3283|1
+A|Well, wonderful.|ba|3283|0
+A|I am too, one hundred percent.|sd|3283|0
+B|My Dad retired from the federal prison of bureaus.|sd|3283|1
+A|Uh-huh.|b|3283|0
+B|And I've been raised around prison prisons all my life.|sd|3283|1
+A|All your life.|^2|3283|0
+A|Uh-huh.|b|3283|0
+B|And I believe if you don't have a punishment befitting the crime, there's not any deterrent|sv|3283|1
+A|There's no deterrent.|^2|3283|0
+A|That's right.|aa|3283|0
+A|There's just no deterrent.|sv|3283|0
+B|That's right.|aa|3283|1
+A|And so many of those kind of people, they got, they have a better life in prison than they have on the street anyway|sv|3283|0
+A|so, you know, unless they really make it rough on them that's not a, going to prison for a little while is not much of a deterrent I don't think.|sv|3283|0
+B|Especially not a federal prison.|bf|3283|1
+A|Right.|aa|3283|0
+A|Well, I don't know what Oklahoma's laws are|sd|3283|0
+A|but Texas's I don't know are,|h|3283|0
+A|I don't know|h|3283|0
+A|it's, it's no one's|%|3283|0
+A|I mean it's not the judge's fault I don't think.|sv|3283|0
+A|It's just the way the law is down here.|sv|3283|0
+A|Man our our, uh, prisons are so crowded that, uh, they can commit some pretty serious crimes and be set free within a year to two.|sv|3283|0
+B|Well, see we were under, uh, the state's prisons were under a mandate to, uh,|sd|3283|1
+B|it was over crowded|sd|3283|1
+B|and the federal came in and said, hey, you know, you have either got to build more prisons or let people go.|sd|3283|1
+A|Well, that's what ours did, same thing.|sd|3283|0
+B|And finally our governor at the time which who is not in office now came in and said, okay, where we draw the line is no sex offenders will be let loose. Under early bail, you know or early, uh get out.|sd|3283|1
+A|Uh-huh,|b|3283|0
+A|uh-huh.|b|3283|0
+A|Uh-huh.|b|3283|0
+A|Uh-huh.|b|3283|0
+A|Uh-huh.|b|3283|0
+B|But, uh, we have,|%|3283|1
+B|the death penalty is not given often.|sd|3283|1
+A|Huh-uh.|aa|3283|0
+B|But there have been|%|3283|1
+A|It's not here either really.|sd|3283|0
+B|And you know, I,|%|3283|1
+B|maybe it should be, uh, well, it should be given, you know, I, I won't say sparingly,|sv|3283|1
+B|but I do believe it should be befitting the crime.|sv|3283|1
+A|I do too|aa|3283|0
+A|and, and you know, but the way the courts are set up they've, they've got so many chances for appeal,|sv|3283|0
+A|but I think I think it needs to be expedited.|sv|3283|0
+A|You know if they've been convicted and given an appeal and they're still convicted of, of a crime that's deserving of, of a lethal injection, let's do it and not waste so many years to do it.|sv|3283|0
+B|Right.|b|3283|1
+B|Of course, you know, they're, they're entitled to a speedy trial.|sv|3283|1
+A|That's right.|aa|3283|0
+B|But then they're, they're also entitled to drag it through the courts for years and years and years on appeals.|sv|3283|1
+A|Uh-huh.|b|3283|0
+A|Uh-huh.|b|3283|0
+B|So somehow, you know, it doesn't really balance out too much.|sv|3283|1
+A|Yeah.|b|3283|0
+A|That's right.|aa|3283|0
+A|Somehow it just doesn't,|sv|3283|0
+A|it works and then again it takes too long for it to work.|bf|3283|0
+B|And it seems even though, you know, that they got ,|sv|3283|1
+B|the prisoner himself can come to the point that, hey, I'm tired.|sd|3283|1
+B|I just want out.|^q|3283|1
+A|Uh-huh.|b|3283|0
+B|You know, I'm tired of fighting it.|^q|3283|1
+A|Uh-huh.|b|3283|0
+B|Then the system just keeps on.|sd|3283|1
+A|Uh-huh,|aa|3283|0
+A|yeah.|aa|3283|0
+A|Yeah,|aa|3283|0
+A|it|%|3283|0
+B|And at that point you know I, I really think there needs to be maybe a shorter appeal process.|sv|3283|1
+A|I do too.|aa|3283|0
+A|I think that needs to,|sv|3283|0
+A|and I don't see why it couldn't be shortened considerably.|sv|3283|0
+A|But, you know|%|3283|0
+B|Well, part of that is the overcrowding of the court system.|sd|3283|1
+A|that's true.|sv|3283|0
+A|It is overcrowded because there's so much drug, uh, problem with the people on drugs|sv|3283|0
+A|because that|%|3283|0
+A|they, with the drugs they're, they're robbing and killing|sd|3283|0
+A|and, uh, that's why it's filled the prisons up so much I think.|sv|3283|0
+B|Uh, it doesn't, it doesn't help them any at all|sv|3283|1
+A|No,|aa|3283|0
+A|it doesn't.|sv|3283|0
+B|and, of course, your court system when you get into the appeals,|sd|3283|1
+B|I don't believe criminal is in a court by itself.|sv|3283|1
+B|And the whole judicial system is backed up with a lot of junk that shouldn't be in there.|sv|3283|1
+A|Yeah,|aa|3283|0
+A|that's true.|aa|3283|0
+A|With all these lawsuits and people suing people over ridiculous things|sd|3283|0
+A|but,|%|3283|0
+B|We've gotten into a very litigious, uh, type of life.|sv|3283|1
+A|Boy, haven't that we though.|aa|3283|0
+A|We really have.|sv|3283|0
+A|But anyway I'm glad to hear that you agree with me on the capital punishment.|sd|3283|0
+B|Well, I just,|%|3283|1
+A|I'm, I'm very muchly for it.|sd|3283|0
+A|Always have been,|sd|3283|0
+A|always will be.|sd|3283|0
+B|I just feel like their crime and punishment|sv|3283|1
+B|and if, if you don't have the punishment, you double your crime.|sv|3283|1
+B|And the, you know, that is just personal feeling.|sd|3283|1
+B|It's not going on facts.|h|3283|1
+B|I think the facts would probably back it up|sv|3283|1
+A|It could be supportive.|^2|3283|0
+A|It, it's it's supported with facts though.|sv|3283|0
+B|but,|%|3283|1
+B|What?|br|3283|1
+A|It could very easily be supported with facts.|sv|3283|0
+B|Well, yes.|aa|3283|1
+B|I,|%|3283|1

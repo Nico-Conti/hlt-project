@@ -1,0 +1,237 @@
+A|Okay.|fo_o_fw_"_by_bc|2235
+B|Hi.|fp|2235
+A|Hi.|fp|2235
+B|Okay.|b|2235
+B|You want to start?|qy|2235
+A|Um, yeah.|ny|2235
+A|Sure.|na|2235
+A|Um, I think, I think we should have a balanced budget even if it means that services are dramatically cut back.|sv|2235
+A|If you can't pay for it, you shouldn't have it.|sv|2235
+A|Period.|fo_o_fw_"_by_bc|2235
+A|And,|%|2235
+B|That is very true.|aa|2235
+A|That's just.|%|2235
+B|However, our whole economy is based on loans.|sv|2235
+A|Uh-huh.|b|2235
+B|Uh, uh, but, bet right this moment, you probably have several loans out|sv|2235
+B|or you have borrowed money against your credit card or something|sv|2235
+A|Well,|%|2235
+B|Master Charge.|sd|2235
+A|I don't have a Master Charge,|ar|2235
+A|thank you|fo_o_fw_"_by_bc|2235
+B|But, see our whole system is built on owing not borrowing.|sv|2235
+A|Right.|aa|2235
+A|But, that's the problem, see.|sv|2235
+A|Our system shouldn't be based on owing and borrowing and all that.|sv|2235
+B|Uh, true.|aa|2235
+B|But, uh, uh, without it, people wouldn't be able to own automobiles|sv|2235
+B|or they wouldn't be able to own a house.|sv|2235
+A|Yes,|ar|2235
+A|they would.|ar|2235
+A|They just wouldn't be able to own the kind of automobiles that they think they deserve to own. Or the kind of homes that we think we deserve to own.|sv|2235
+A|We might have to, you know, just be able to,|sv|2235
+A|I think, if we, a generation went without debt, then the next generation,|sv|2235
+A|like, if, if our, our generation,|sv|2235
+A|my husband and I, we're twenty-eight, if we lived our lives and didn't become, you know, indebted, like you know, our generation before us, that, um, the budget would balance. And that we became accustomed to living with what we could afford, which we wouldn't be destitute,|sd|2235
+A|I mean, we wouldn't be living on the street, by any means.|sd|2235
+A|But just compared to how spoiled we are, we would be in our own minds,|sd|2235
+A|but I feel like the generation after us would,|sd|2235
+A|oh, man, it would be so good.|sv|2235
+A|It would be so much better.|sv|2235
+A|It wouldn't be perfect,|sv|2235
+A|but then, they could learn to live with what they could afford to save to buy.|sv|2235
+A|And if you want a nicer car than that, well, you save a little longer.|sv|2235
+B|Well, now I agree, uh I agree with you one hundred percent.|aa|2235
+A|Uh-huh.|b|2235
+B|I'm just taking the other side so we'll have a discussion here.|sd|2235
+B|Uh, but I still go to right back to what I said.|sd|2235
+B|When is the time you had fifteen thousand dollars all at one time to go out and buy an automobile?|qw|2235
+A|But, see, we made poor choices in college.|sd|2235
+A|We took out two,|sd|2235
+A|both of us had twenty thousand dollars in loans, for student loans|sd|2235
+B|Uh-huh.|b|2235
+A|and I look back on that,|sd|2235
+A|and I bought shoes.|sd|2235
+A|I went shopping.|sd|2235
+A|I did not need that money.|sd|2235
+A|I did not need it.|sd|2235
+A|I didn't need it.|sd|2235
+A|I shouldn't have even qualified to get it.|sd|2235
+A|I didn't need it.|sd|2235
+A|And it would have been a little rough,|sd|2235
+A|I might have eaten some bologna instead of roast beef out of the deli,|sd|2235
+A|but I did not need it.|sd|2235
+A|And as I look back now, now we're paying that back.|sd|2235
+A|I told my son, if you have to live in the ghetto to go to college, do it,|sd|2235
+A|but don't take out ten thousand dollars in loans.|^q|2235
+A|Don't do it.|^q|2235
+A|And I don't, I hope, don't think he'll have to do that|sd|2235
+A|but, I just feel like if we didn't have those loans, we could have saved in the last five years the money for that,|sd|2235
+A|and I believe we would have, because God's really put it in our heart not to get in debt, you know.|sd|2235
+A|But we have friends in church that do this on a constant basis, that are totally debt free.|sd|2235
+A|And they pay cash for everything they buy.|sd|2235
+B|Uh-huh.|b|2235
+A|Including new vans,|sd|2235
+A|and, so, so I guess, I've seen it done|sd|2235
+A|and I know you can do it, you know.|sd|2235
+A|But you have to drive that old car until you get that money saved up for that new van.|sv|2235
+A|And that's where Americans don't like to do it.|sv|2235
+A|And so and we don't want to cut back our services from the government, because we're spoiled.|sv|2235
+B|Well, I have one way to suggest reducing the budget.|sd|2235
+A|What?|qw|2235
+B|Very simple.|sd|2235
+B|Just take all these civil service employees, and, uh, uh, take some of those holidays away from them, like Columbus Day, President's Day, I mean, they, they get all these days off.|sv|2235
+A|I know.|aa|2235
+A|Yeah.|b|2235
+B|Now give them,   what a, a week, I think we here at T I get a total of eleven a year.|sv|2235
+A|I know.|aa|2235
+A|Uh-huh.|b|2235
+B|And that's about, uh, three or four less than civil servants get.|sd|2235
+A|Uh-huh.|b|2235
+B|Now just look at that money the government could save if they didn't have all of those days off, all those holidays.|sv|2235
+A|Yeah,|aa|2235
+A|that is true.|aa|2235
+A|Because I always think the mail never comes on these days|sd|2235
+A|and you're like, well, what is it|sd|2235
+A|You don't even know it's a holiday|sd|2235
+B|Well, now don't forget the mail is something else again.|sv|2235
+B|That has nothing,|sd|2235
+B|they're not civil servant people.|sd|2235
+A|But isn't it federal, in the federal budget?|qy|2235
+B|No,|nn|2235
+B|no,|nn|2235
+B|they have their own budget they go by.|sd|2235
+A|But isn't it part of our income,|qy|2235
+A|it's not part of our taxes?|qy^d|2235
+B|No.|nn|2235
+A|It's not?|qy|2235
+B|That's why the price of mailing a letter keeps going up.|sd|2235
+A|That's why it keeps going up, uh?|b^m|2235
+B|You know, I could I can remember the days when it cost only three cents to mail, uh, uh, uh, a letter.|sd|2235
+A|That's another topic|sd|2235
+A|Those stamps are valuable, now.|sv|2235
+B|Yeah.|b|2235
+B|They probably,|%|2235
+B|hey,|ba|2235
+B|I ought to go looking through some of my old mail.|sd|2235
+A|That's funny.|ba|2235
+A|Yeah,|%|2235
+A|and that is a good short term thing, though.|sv|2235
+A|That little things like that, that|sv|2235
+A|overall, though, I just think we're just going to, I don't know, see,|sv|2235
+A|I know,|%|2235
+A|I guess I'm kind of leery of this topic, because I know that Bush is real for the new world order. The one world government, and alleviating all, you know, national debt between all of the nations.|sd|2235
+A|But I see that to be a potential power problem later, with, um, who's going to be in charge with this new world order.|sd|2235
+A|And I, you know, I'm uncomfortable with that much power being in one place.|sd|2235
+A|But, I know, we already have a new money system.|sd|2235
+A|We already have new bills printed, for,|sd|2235
+A|the U S Treasury already has our new bills printed for new currency,|sd|2235
+A|and I've seen them|sd|2235
+A|And so I know that the long-term vision for the U S government is to alleviate all national debts and to start over afresh,|sd|2235
+A|but I'm concerned with who's going to have the power over this new world order that they keep talking about, you know.|sd|2235
+A|That's a lot of power for one or two people to have.|sv|2235
+A|And so, um, I guess because I,|%|2235
+A|I guess,|%|2235
+A|in fact, I know what their long-term vision is.|sd|2235
+A|I'm kind of like, you know, yeah, the only answer is to start over or to totally change our lifestyles.|sd|2235
+A|And I don't think Americans are willing to do it.|sv|2235
+B|Well, what about, uh, uh, sending all this money overseas supporting other governments, third world governments.|qo|2235
+B|How do you feel about that?|qo|2235
+A|I don't, I don't feel we should loan them money.|sv|2235
+A|If I, I wish our leaders were really seeking the Lord on these things,|sd|2235
+A|and if we feel led to give a country money to help them, fine.|sv|2235
+A|But I don't feel we should be loaning money like that.|sv|2235
+A|I mean, it doesn't work, I mean.|sv|2235
+B|Well, in so many cases, it's not a loan,|sv|2235
+B|it's just a give away.|sv|2235
+A|But it's not, but it's not set up as a giveaway.|sd|2235
+A|If it were set up as giveaway,|sd|2235
+A|and it was something, that, I mean, our, our President and our leaders could be seeking God saying, God is it your will for us to bless this nation with this money,|sd|2235
+A|is it your will, this money and your will for us to give to them,|^q|2235
+A|and I believe if we gave it, no strings attached that God would bless our nation.|sv|2235
+A|But because we're, our motive is interest, our motive is not pure, it just backfires,|sv|2235
+A|I mean, none of these nations have paid us back.|sv|2235
+A|But, you understand, it's, I guess it's a principle of giving and receiving.|sv|2235
+A|You give it, no strings attached|sv|2235
+A|and they may never give you anything back,|sv|2235
+A|but because there's no strings attached, it like gives them a freedom to give us something back.|sv|2235
+A|And it might not be money,|sv|2235
+A|it might be, um, no taxes on our things, our computers going into their nation,|sv|2235
+A|it might come back in another way,|sv|2235
+A|but it would be come back.|sv|2235
+A|But because we're loaning it, I think that's the problem.|sv|2235
+A|And I don't mean give it to everybody that asks.|sv|2235
+A|Use a lot of discernment.|^q|2235
+A|Don't give money to every nation.|^q|2235
+A|You know, what I'm saying,|qy|2235
+A|I think we're loaning money to too many nations,|sv|2235
+A|but I think if we gave to a few select ones, that really needed it, that it would work out better for us and for them.|sv|2235
+A|And so now we have all these nations that owe us all this money|sd|2235
+A|and so I just think, we're never going to get that back, you know.|sv|2235
+A|Do you understand?|qy|2235
+B|No.|nn|2235
+B|That, that's true.|aa|2235
+B|I, I understand that France still owes us money from World War I.|sd|2235
+A|Uh-huh.|b|2235
+B|And, uh, World War Two debts have never been repaid.|sd|2235
+B|I think the U S just wrote them all off.|sd|2235
+A|Yeah.|b|2235
+B|And said, well, we'll cancel it just like they did to the, that Polish debt here, uh, last week.|sd|2235
+A|Yeah.|b|2235
+B|Uh, uh, half the countries of the world simply canceled the Poland debts to help them.|sd|2235
+A|Right.|b|2235
+A|Long, long term though, do you think it would best to see a one world, you know,|qy|2235
+A|you can't alleviate all national debts|sv|2235
+A|or do you think it would be better for our leaders to just start seeking God on how to turn our nation around financially?|qrr|2235
+A|That's my opinion.|sd|2235
+A|My opinion's the latter.|sd|2235
+B|Uh-huh.|b|2235
+B|Well, uh, I've got to respect your opinion.|sd|2235
+B|You have some solid ideas.|sv|2235
+A|Uh-huh.|b|2235
+A|I know.|aa|2235
+A|What's yours?|qw|2235
+A|Do you agree|qy|2235
+A|or do you disagree|qrr|2235
+A|or I mean, what do you think long term?|qw|2235
+B|Well, I don't believe in a single government or a single control for the world.|sd|2235
+A|Uh-huh.|b|2235
+B|Uh, that's asking for trouble.|sv|2235
+B|People are too different.|sv|2235
+A|Uh-huh.|b|2235
+B|I mean you could travel from one coast to the other here in the U S and find a tremendous differences between the peoples.|sv|2235
+B|They have their own ideas how things should be run.|sv|2235
+A|Uh-huh.|b|2235
+B|So, therefore, I don't believe there could be a single government for the whole world.|sd|2235
+B|There's too many societies involved, uh,|sv|2235
+B|the language barriers.|sv|2235
+A|Uh-huh.|b|2235
+B|Uh, oh, sure,|fo_o_fw_"_by_bc|2235
+B|somebody said years ago, well, let's make it English, uh, international language.|sd|2235
+A|Uh-huh.|b|2235
+B|That's a big laugh,|sv|2235
+B|we can't even make English a national language here in our country.|sv|2235
+A|Uh-huh.|b|2235
+B|We've got too many, uh, uh, immigrants.|sv|2235
+A|Yeah.|aa|2235
+A|Yeah.|aa|2235
+A|I know.|sd|2235
+B|They don't call them immigrants anymore,|sd|2235
+B|that was back in my granddaddy's day.|sd|2235
+A|Yeah.|aa|2235
+A|Different ethnic groups|bf|2235
+B|Yes.|aa|2235
+B|Yeah|aa|2235
+B|but,|%|2235
+A|Yeah.|b|2235
+A|I know what your saying. *typo your you're|sd|2235
+B|My grandfather came over from Lithuania back, uh, just before the turn of the century|sd|2235
+A|Uh-huh.|b|2235
+B|and, uh, as a matter of fact he's a draft dodger.|sd|2235
+A|Uh-huh.|b|2235
+B|He, uh, was supposed to serve some time.|sd|2235
+B|Well, he did serve his time in the, uh, in the militia.|sd|2235
+A|Uh-huh.|b|2235
+B|And he came back.|sd|2235
+B|He was a civilian again|sd|2235
+B|and his father said well if,|sd|2235

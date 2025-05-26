@@ -1,0 +1,189 @@
+A|Well, what kind of vacations do you like to take? .|qw|3768|0
+B|Well, we've, uh, we've been fortunate enough to take a couple of trips over to Europe|sd|3768|1
+B|so So, I, I guess those are the types I like|sd|3768|1
+A|Uh-huh.|b|3768|0
+A|Uh-huh.|b|3768|0
+B|We've really enjoyed them.|sd|3768|1
+A|Yeah.|b|3768|0
+A|Where have you gone there?|qw|3768|0
+B|We've gone to, um, Germany, Switzerland, Austria, Ireland and England.|sd|3768|1
+A|Uh-huh.|b|3768|0
+B|We've been to Germany twice.|sd|3768|1
+A|Uh-huh.|b|3768|0
+B|But, um, I guess my favorite is probably Switzerland and Ireland.|sd|3768|1
+A|Uh-huh.|b|3768|0
+A|Yeah|b|3768|0
+A|well, I've been over there too.|sd|3768|0
+B|Uh-huh.|b|3768|1
+B|Where have you been?|qw|3768|1
+A|I even.|%|3768|0
+A|Let's see, um,|^h|3768|0
+A|mostly Germany and France.|sd|3768|0
+B|Uh-huh.|b|3768|1
+A|I lived in France for a year and a half|sd|3768|0
+A|so I was able,|%|3768|0
+B|Oh, how neat.|ba|3768|1
+A|but, I, once when I had a chance in France to go on vacation instead of travelling around France I went to Germany|sd|3768|0
+B|Uh-huh.|b|3768|1
+A|because, uh, I've got relatives there|sd|3768|0
+A|and I just  like it there.|sd|3768|0
+B|Oh, that's neat.|ba|3768|1
+B|Uh-huh.|b|3768|1
+A|So, but, um, Austria, I found really pretty and Switzerland,|sd|3768|0
+B|Uh-huh.|b|3768|1
+A|yeah,|%|3768|0
+A|and I, I lived in the Alps in France|sd|3768|0
+A|so I anything in the mountains over there I just love.|sd|3768|0
+B|Oh, how neat.|ba|3768|1
+B|Oh, yeah.|b|3768|1
+A|Then I finally made it to England, too, uh, on my way home, um,|sd|3768|0
+A|I lived in Africa, actually,|sd|3768|0
+A|and on my way home from there.|%|3768|0
+B|You lived in Africa?|qy^d|3768|1
+A|Yeah.|ny|3768|0
+B|Oh, my goodness|ba|3768|1
+A|Yeah.|aa|3768|0
+B|Wow.|ba|3768|1
+A|So, um, and you always have to go out, fly through, or unless you fly from Nairobi, you have to fly through, um, uh, Europe on your way home.|sd|3768|0
+B|Uh-huh.|b|3768|1
+A|So, I went to England,|sd|3768|0
+A|and I really liked it there too.|sd|3768|0
+B|It's so expensive over there|sv|3768|1
+A|I know,|aa|3768|0
+A|it's true.|aa|3768|0
+A|That's the one thing.|sv|3768|0
+B|It really is.|aa|3768|1
+B|It just, it's, it's,|%|3768|1
+B|I love to go over there,|sd|3768|1
+B|but it's so darn expensive to go over.|sv|3768|1
+A|Yeah.|b|3768|0
+A|Yeah,|b|3768|0
+A|actually now you can get some really good deals flying over,|sd|3768|0
+A|but it's|%|3768|0
+B|Yeah.|b|3768|1
+A|once you're there you still have to spend money Unless you know people, you know|sd|3768|0
+B|Oh, I know,|aa|3768|1
+B|just.|%|3768|1
+B|Right.|aa|3768|1
+B|Then you can stay with them,|sd|3768|1
+B|and  yeah.|%|3768|1
+A|Uh-huh.|b|3768|0
+A|That helps a lot.|sv|3768|0
+B|Yeah.|b|3768|1
+A|But.|%|3768|0
+B|You know there's a lot of places in the states that we haven't even gone.|sd|3768|1
+A|Uh-huh.|b|3768|0
+B|You know, I'd like to go to Hawaii some time,|sd|3768|1
+B|and and, uh, we made it,|%|3768|1
+A|Yeah.|b|3768|0
+B|we've, we've at least gone to the Grand Canyon and Niagara Falls.|sd|3768|1
+B|So.|%|3768|1
+A|Uh-huh.|b|3768|0
+A|Yeah.|b|3768|0
+B|Feel like we've accomplished a little bit here.|sd|3768|1
+A|I haven't.|sd|3768|0
+A|I've been, I've,|%|3768|0
+A|most of my vacationing in the U S has been on the West Coast|sd|3768|0
+B|Uh-huh.|b|3768|1
+A|or this summer I went to Colorado|sd|3768|0
+B|Uh-huh.|b|3768|1
+A|and, uh, I'd love to go to the East Coast, during the Fall.|sd|3768|0
+B|The, oh, the|%|3768|1
+B|it's, oh,|%|3768|1
+B|I've always wanted to go there.|sd|3768|1
+B|I've seen pictures,|sd|3768|1
+B|and, and it looks gorgeous.|sv|3768|1
+A|Yeah.|b|3768|0
+B|We, um, we made a trip up the East Coast.|sd|3768|1
+B|It was, uh, in the summer|sd|3768|1
+A|Uh-huh.|b|3768|0
+B|and it really is pretty.|sd|3768|1
+A|Uh-huh.|b|3768|0
+B|It's, uh,|%|3768|1
+B|both coasts are really pretty|sd|3768|1
+A|Yeah.|b|3768|0
+B|but, um, I love the Carolinas.|sd|3768|1
+B|It's just gorgeous over there.|sd|3768|1
+A|Uh-huh.|b|3768|0
+A|I haven't been there, anywhere on the East Coast.|sd|3768|0
+B|Yeah.|b|3768|1
+A|I think Tennessee has been the furthest east I've been.|sd|3768|0
+B|Uh-huh.|b|3768|1
+A|Yeah.|b|3768|0
+B|Well, you'll just have to plan a vacation some time and, and go over there.|ad|3768|1
+A|Yeah,|aa|3768|0
+A|I guess so.|aap_am|3768|0
+B|Yeah,|b|3768|1
+B|but there's, you know, there's a lot to see here|sd|3768|1
+A|Uh-huh.|b|3768|0
+B|but I just love going over to Europe because it's so, their way of life is just so different than ours.|sd|3768|1
+A|Yeah.|b|3768|0
+B|You know, we're so fast paced here,|sv|3768|1
+B|and over there, you know, every time we'd go and, and eat dinner or lunch or whatever we'd always have to ask for the check you know|sd|3768|1
+A|Uh-huh.|b|3768|0
+A|Yeah.|b|3768|0
+B|they're so leisurely over there|sv|3768|1
+A|Yeah.|b|3768|0
+B|and it's kind of nice to, to have that.|sv|3768|1
+A|Yeah.|b|3768|0
+A|So the type of vacation you'd like, um,|%|3768|0
+A|like, would you go over and spend a lot of time in one place, or travel to whole bunch of different places in one week?|qy|3768|0
+B|Well, usually a bunch of different places.|sd|3768|1
+A|Yeah,|b|3768|0
+A|mainly probably because you want to see everything.|sv|3768|0
+B|Right,|aa|3768|1
+B|see as much as you can while you're there.|sd|3768|1
+A|Yeah.|b|3768|0
+A|Yeah,|aa|3768|0
+A|I know.|aa|3768|0
+B|Yeah.|b|3768|1
+A|Yeah.|b|3768|0
+B|How did you like Africa?|qo|3768|1
+A|Well, I liked it.|sd|3768|0
+A|I was working in Cameroon, Africa|sd|3768|0
+B|Uh-huh.|b|3768|1
+A|and it's not a, it's not a place for tourists,|sd|3768|0
+A|I mean, they're not used to having tourists there,|sd|3768|0
+A|so it's,|%|3768|0
+B|Uh-huh.|b|3768|1
+A|you're kind of roughing it.|sd|3768|0
+A|But, um, I liked it,|sd|3768|0
+A|I liked it.|sd|3768|0
+B|Uh-huh.|b|3768|1
+A|The people there are just very, very friendly|sd|3768|0
+A|and.|%|3768|0
+B|What type of work?|qw|3768|1
+A|Um, I was working with an organization that does Bible translation.|sd|3768|0
+B|Oh, okay.|bk|3768|1
+A|So I was doing linguistic work actually, travelling around, finding out about languages, and uh, what they call survey work.|sd|3768|0
+B|Oh, uh-huh.|b|3768|1
+B|Uh-huh.|b|3768|1
+A|Find out where the languages are.|sd|3768|0
+B|Uh-huh.|b|3768|1
+A|So, I travelled a lot around the country and met a lot of people.|sd|3768|0
+B|Yeah.|b|3768|1
+A|Um.|%|3768|0
+B|That's neat.|ba|3768|1
+A|Yeah,|aa|3768|0
+A|I enjoyed it.|sd|3768|0
+A|So.|%|3768|0
+B|I've, I've always, um, I've talked to people who have been to Africa,|sd|3768|1
+B|and they,|%|3768|1
+B|and then of course when that movie OUT OF AFRICA came out|sd|3768|1
+A|Yeah.|b|3768|0
+B|Um, but I've always thought it would be neat to go on a safari over there.|sv|3768|1
+A|Yeah,|b|3768|0
+A|my cousin came over while I was there,|sd|3768|0
+A|and she came to Cameroon|sd|3768|0
+A|and then she went over to Nairobi and took a safari around you know, close to Nairobi in Kenya.|sd|3768|0
+B|Uh-huh.|b|3768|1
+B|Oh how neat.|ba|3768|1
+A|So, she'd always dreamed of doing that too.|sd|3768|0
+B|Yeah,|b|3768|1
+B|that's great.|ba|3768|1
+A|So. Yeah.|%|3768|0
+A|So is there any place you would try to talk me into going to|qy|3768|0
+B|Uh.|%|3768|1
+A|It sounds like we've been to some of the same places.|sv|3768|0
+B|Yeah,|aa|3768|1
+B|it does.|aa|3768|1

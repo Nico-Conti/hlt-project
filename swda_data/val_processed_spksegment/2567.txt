@@ -1,0 +1,172 @@
+A|So, what do you,|qw|2567|0
+A|what's your opinion on the, our policy down there?|qo|2567|0
+B|I don't think we have one.|sv|2567|1
+A|I didn't know we had one either|sv|2567|0
+B|Yeah.|b|2567|1
+B|I was going to say it's kind of hard to have, have an opinion.|sd|2567|1
+B|We seem to, uh,|sv|2567|1
+B|whoever screams the loudest or whoever we happen to give the most money to at that particular time we seem to support, without,  regard whether it's a democracy or a anarchy, or anything else.|sv|2567|1
+A|Yeah.|b|2567|0
+A|I don't,|%|2567|0
+A|Yeah|b|2567|0
+A|The only thing that I pretty much know about is the Central American policy where, you know, they're just trying to, you know,|sd|2567|0
+A|military action in Panama is the only thing that comes to my mind right now,|sd|2567|0
+B|Well, uh,|b|2567|1
+A|and then,|%|2567|0
+B|yeah.|b|2567|1
+B|And then, of course, there was, there was the, uh, in Columbia, with the drug lords.|sd|2567|1
+A|Right.|b|2567|0
+B|But we just talked a lot.|sv|2567|1
+B|We didn't actually do anything.|sv|2567|1
+A|Right.|aa|2567|0
+A|Well, that's, that's what I was about to say.|sd|2567|0
+A|We didn't do anything.|sv|2567|0
+B|I'm actually surprised at anything in Central America, along with Panama.|sv|2567|1
+B|I'm just kind of surprised we did that.|sv|2567|1
+A|Yeah,|b|2567|0
+B|But, uh,|%|2567|1
+A|that is, that is pretty, uh, risky.|sv|2567|0
+A|I, mean,|%|2567|0
+B|Especially, after our friend Jimmy Carter gave it away anyway.|aa|2567|1
+A|Uh-huh.|b|2567|0
+B|But I guess they had to finally do something.|sv|2567|1
+B|Actually Bush has been better at that than I thought.|sv|2567|1
+A|Uh-huh.|b|2567|0
+B|He has a little more a little more of a stand on policy than I thought he would.|sv|2567|1
+B|I always considered him kind of a wimp.|sv|2567|1
+A|He takes more risks.|sv|2567|0
+B|Yeah.|b|2567|1
+B|Reagan is kind of mushmouth.|sv|2567|1
+A|Yeah.|aa|2567|0
+A|He was.|aa|2567|0
+B|But, but I guess most of the policy that we're using now is, uh, a combination of Reagan and Carter, much as, you know, policy makers.|sv|2567|1
+A|Yeah.|b|2567|0
+A|It seems that the, the policies of pretty much anywhere, not just in Central America, that U S has now is, is, you know, more action than just words, than just rhetoric.|sv|2567|0
+A|But, you know, we, we back up what we what we say with actions.|sv|2567|0
+B|Uh, yeah.|b|2567|1
+B|We have so far,|sv|2567|1
+B|but we,  really haven't,|sd|2567|1
+A|I don't know, how long it's going to last.|sd|2567|0
+B|Of course, we really haven't taken on the drug lords, yet.|sv|2567|1
+A|Yeah.|b|2567|0
+B|I'd be interested to see if we do that.|sv|2567|1
+A|Well, I don't think it's possible because, even though, you know, we're against them, I don't think we can go into another country and do something about the other country's problem.|sv|2567|0
+B|Well, we did in Panama.|sv|2567|1
+B|We did in,  Saudi Arabia.|sv|2567|1
+A|Yeah.|b|2567|0
+A|But,|%|2567|0
+A|no,|ar|2567|0
+A|but see the thing when Panama was, uh, the, that, uh, Noriega was, uh, was, was, uh, was wanted either the F B I, by the F B I,|sv|2567|0
+A|and therefore, they had a reason|sv|2567|0
+A|But, to go in and take out the whole drug kingdom would be something totally different because,|sv|2567|0
+B|It could be an interesting, interesting problem.|sv|2567|1
+A|Right.|b|2567|0
+B|I don't know if they could do it or not.|sv|2567|1
+B|Did you read Tom Clancy's A CLEAR AND PRESENT DANGER?|qy|2567|1
+A|Uh, no.|nn|2567|0
+A|I didn't.|sd|2567|0
+B|I think you need to pick that up and read it.|sv|2567|1
+B|It's quite, uh, it's, it's quite interesting.|sv|2567|1
+B|It addresses the problem.|sd|2567|1
+A|Oh, the drug problem?|br|2567|0
+B|Uh-huh.|ny|2567|1
+A|Uh-huh.|b^m|2567|0
+B|Actually, he, he wrote that prior to the, uh, Medellin Cartel being exposed.|sd|2567|1
+B|It was on the stands prior to that time.|sd|2567|1
+B|It, it's quite timely.|sv|2567|1
+B|And either he knows somebody|sd|2567|1
+B|or he has a real good, a real good imagination|sd|2567|1
+B|because its, it hits pretty close to home.|sd|2567|1
+A|Yeah.|b|2567|0
+B|But I don't think we're going to have much of a choice in either Central or South America.|sv|2567|1
+A|I don't think, uh, I don't think, the, the, uh, problem about drugs is going to be safe any time soon.|sv|2567|0
+A|I mean, you know, it, I think it pretty much got sidetracked with, uh, with the Panama and, and with the Middle East problems.|sv|2567|0
+A|Things that, that are important take precedent, precedence over the drugs, I think.|sv|2567|0
+A|I think, I think the big thing is trying to stop here on the home front|sv|2567|0
+A|And|%|2567|0
+A|you know, it, it'll take a little bit of time before they'll realize that this is failing,|sv|2567|0
+A|so they're going to have to go to the source.|sv|2567|0
+B|Um, yeah.|b|2567|1
+B|I think we realize it's failed.|sv|2567|1
+B|We just don't, we just don't,|%|2567|1
+B|nobody,  wants to make the, nobody wants to make the unpopular decision of going in and invading,|sv|2567|1
+A|Don't want to admit it yet.|^2|2567|0
+A|Right.|b|2567|0
+B|We still, there's still there's still too many Kennedys and and all up there.|sv|2567|1
+A|Yep ause.|aa|2567|0
+A|Yeah.|aa|2567|0
+A|That's true.|sv|2567|0
+B|There's too many liberals in control.|sv|2567|1
+B|They can't agree on anything.|sv|2567|1
+B|And they have blinders on as far as the policy goes.|sv|2567|1
+B|As long as somebody's getting killed, as long as nobody knows about it it's okay.|sv|2567|1
+B|But, but the minute it hit, hits the paper then, of course, the Kennedys and the and the and the, and, uh, the from Georgia, all stand up and scream and yell about what a horrible thing it is.|sv|2567|1
+A|Yeah.|b|2567|0
+B|Of course, these are the same people that also drown the Chappaquiddic, and stuff like that, you know.|sv|2567|1
+A|Huh.|b|2567|0
+B|But I guess it|%|2567|1
+B|I guess it's automatic respective.|sv|2567|1
+A|Depends on how much power you have,  and who you know.|sv|2567|0
+B|Yeah.|b|2567|1
+B|You know,  the people have a right to know except about what it, about what concerns them.|sv|2567|1
+A|Yeah.|b|2567|0
+B|And these are the people that make the foreign policy|sv|2567|1
+B|and it, it's probably basically, uh,|%|2567|1
+B|I would not be surprised if the Kennedy Foundation or some of those don't have a lot of, uh, financial holdings in, in Central and South America.|sv|2567|1
+A|Probably.|aa|2567|0
+B|Considering the Kennedys made all their money off bootleg whiskey anyway.|sv|2567|1
+A|Huh.|b|2567|0
+B|Every time you drink Scotch, you're paying Kennedys.|sv|2567|1
+A|I don't drink Scotch.|sd|2567|0
+B|Good.|ba|2567|1
+B|Don't ever drink Scotch,|ad|2567|1
+B|it's terrible.|sv|2567|1
+B|I quit drinking Scotch when I found out about that,|sd|2567|1
+B|but, anyway.|%|2567|1
+B|But, uh, as far as, as far as, you know, Central and South America, we, our policy pretty much, uh, it depends on who we're, what government we're buying down there at the particular time.|sv|2567|1
+A|Yeah.|b|2567|0
+A|I,  think we're trying to stay, uh, stay friendly with uh, the, uh, the Brazilian and, and Argentinean governments because they're producing so much, uh, agricultural exports.|sv|2567|0
+B|We,|%|2567|1
+A|We, don't want to piss them off and have them over produce|sv|2567|0
+B|Yeah.|b|2567|1
+B|Although we do need to do something about, you know,|sv|2567|1
+B|of course, in Nicaragua and around there with the Sandinistas and the Contras, that's been going on for years.|sd|2567|1
+B|But then, hell, it's probably still be going on long after we're dead.|sv|2567|1
+B|It'll still be the same thing.|sv|2567|1
+B|Those people down there don't really,|sv|2567|1
+B|I mean,|%|2567|1
+A|I think it's going to have to get worse before it gets better,|sv|2567|0
+A|you know,  the same old cliche.|sd|2567|0
+B|Well, I think basically,  they can't figure out what they want down there.|sv|2567|1
+A|Right.|b|2567|0
+B|If you give everybody what they wanted there is a complete democracy, those people wouldn't know how to react because they have no education.|sv|2567|1
+A|Right.|b|2567|0
+A|And they'll just pick crooked people again.|sv|2567|0
+A|And then people, the, the wrong people will just fight their way up to the top again,|sv|2567|0
+A|and it'll all,  be for nothing.|sv|2567|0
+B|It's all tradition.|sv|2567|1
+B|It's all traditional.|sv|2567|1
+B|They have to,|sv|2567|1
+B|you have the ruling class|sv|2567|1
+B|and you have everybody else.|sv|2567|1
+A|Yeah.|b|2567|0
+A|Well, I guess that's about five minutes.|fc|2567|0
+A|Appreciate talking,  to you.|fc|2567|0
+B|was very pleasant)).|fc|2567|1
+B|All righty.|fc|2567|1
+B|Good,  talking to you.|fc|2567|1
+A|Hey, what was that book,|qw|2567|0
+A|what was that book that you were saying to read, again?|qw|2567|0
+B|Tom, Clancy.|sd|2567|1
+B|It's called A CLEAR AND PRESENT DANGER.|sd|2567|1
+A|A CLEAR AND PRESENT DANGER.|b^m|2567|0
+B|Uh-huh.|aa|2567|1
+B|He he's the one who wrote, uh, RED OCTOBER, A HUNT FOR RED OCTOBER.|sd|2567|1
+A|Okay.|bk|2567|0
+A|All right.|bk|2567|0
+B|And I think if you read that, I think you'll get a real kick out of it.|sv|2567|1
+A|All right.|aa|2567|0
+A|Thanks a lot.|ft|2567|0
+B|All righty.|bd|2567|1
+A|Bye-bye.|fc|2567|0
+B|Bye.|fc|2567|1

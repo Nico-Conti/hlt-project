@@ -1,0 +1,65 @@
+A|Afternoon, Doug,|fp|3979
+A|it certainly is, uh, going to be a pleasure to chat with you.|fp|3979
+B|Uh-huh.|b|3979
+A|And I'm, uh, certainly was surprised to, uh, to hear from you.|sd|3979
+A|Normally I talk to people in Plano, Texas.|sd|3979
+B|Yeah,|aa|3979
+B|me too.|aa|3979
+A|How did you get on this list?|qw|3979
+B|Uh, through Nancy Dahlgren.|sd|3979
+B|She, um, she had somehow gotten the information from T I and was distributing it around.|sd|3979
+A|Well, okay.|bk|3979
+A|All right.|b|3979
+A|Well, now, what would you say about these everyday invasions of our privacy?|qw|3979
+A|What ideas do you have on that, Doug?|qo|3979
+B|Um, see, I'm not sure that,|%|3979
+B|I don't think they're necessarily widespread in this country,|sd|3979
+B|but I think that the opportunity is definitely there for, um, people to invade your privacy when they want to,|sv|3979
+B|I think it's, um,|%|3979
+A|In what manner?|qw|3979
+B|Well, it's certainly not that difficult to tap a phone.|sd|3979
+B|It's completely trivial to, for instance, listen in on someone's car phone or walk around phone, since they're just radio signals.|sv|3979
+A|Uh-huh.|b|3979
+B|It's, um,|%|3979
+B|and let's see,|^h|3979
+B|well, what's the first thing that comes to your mind?|qo|3979
+A|Well, the thing that I thought they were, uh, concerned about was, was people calling on the phone from all over the country to sell you something|sv|3979
+B|Uh-huh.|b|3979
+A|and in reality in many cases, they knew, or they had information about you that was purchased from some other organizations.|sd|3979
+A|And I thought was, uh, beginning to invade the privacy of people, because the things about where you live and, and maybe what you purchased in past months is then put down and sent to someone else in the same business,|sd|3979
+A|and they in return, come back and try to sell you something with this additional knowledge.|sd|3979
+A|To me that's an invasion of privacy.|sv|3979
+B|Yeah,|aa|3979
+B|I agree with you there, for sure.|aa|3979
+B|Um, and I think that all that information is quite easy for anyone to get.|sv|3979
+B|It's possible for almost anyone to get information about your credit history, for instance, if they just, um, twist the right arm or claim to be from the right organization when they're calling the credit company.|sd|3979
+A|Uh-huh.|b|3979
+B|It's, you know, possible for a thirteen year old hacker with a modem to find out almost anything about your personal history, not to mention, change it if he wants to.|sv|3979
+A|You mean your history in regards to, uh the charge card company or something like that?|br|3979
+B|Well, um.|%|3979
+B|Well, yes,|ny|3979
+B|well, for instance, yes, um,|ny|3979
+B|and they'll probably goes into other things, like, you know, your records with the government or utility companies or anything.|sd|3979
+A|Do you consider these serious, uh, problems?|qy|3979
+B|Um, uh, not, not yet anyways, because I don't think they're widespread enough,|ng|3979
+B|but I think they have the potential of becoming serious problems.|sv|3979
+A|Uh-huh.|b|3979
+A|Well, what should we do about it,|qw|3979
+A|or what could be done about it, do you think to correct it?|qrr|3979
+B|Um I'm not really sure, because the, I mean society is going more and more electronic,|sv|3979
+B|and there are certainly benefits to its doing so,|sv|3979
+B|and it's hard to, hard to say whether the, um, risks have potential of outweighing the benefits or not,|sd|3979
+B|and I'm not sure what can be done to ensure that they don't.|sd|3979
+B|Why,|qw|3979
+B|do you see any out for us?|qy|3979
+A|Well, I would think that, uh, information held on records, uh, by any company or charge card dealer or person should be absolutely private and, and not be allowed to be, uh, to, given out by those companies.|na|3979
+B|Uh-huh.|b|3979
+A|I mean, it should be made a, a, uh, national or a state law to protect people so that, uh, you would then feel more free to deal direct with these companies.|sd|3979
+B|Uh-huh.|b|3979
+A|In other words, if you call the company yourself, directly, uh, and then know that what you tell them will be on their records but will not be available to anyone else, uh, you know, from the outside, so to speak then you would, you would feel more free to, uh, to go into detail with them|sv|3979
+B|Uh-huh.|b|3979
+B|Yeah,|b|3979
+B|I.|%|3979
+A|but, but we have no control of that now|sd|3979
+B|Uh-huh.|b|3979
+A|and then, uh, you, you're, when you're talking with them you really don't want to tell them everything that's on your mind because you, you feel that it someday might be used against you.|sv|3979

@@ -1,0 +1,133 @@
+A|Do you see anything wrong with public school systems?|qy|3246|0
+B|Well, yes,|ny|3246|1
+B|I do.|sd|3246|1
+B|Um, I think I'm concerned about the large number of children that each teacher is expected to, to deal with in some quality way.|sd|3246|1
+B|I think maybe we've given our teachers a almost impossible job.|sv|3246|1
+A|I agree.|aa|3246|0
+B|Do you?|qy|3246|1
+B|Do you have children in the public school system?|qy|3246|1
+A|Yes,|ny|3246|0
+A|and I taught for fourteen years before we moved to Texas,|sd|3246|0
+B|Is that right.|b|3246|1
+A|and the, the one thing I see is changing is I was held accountable so much|sd|3246|0
+A|I had to document and create a paper chase for all of my students,|sd|3246|0
+A|and instead of spending my time coming up with creative learning stations and things like that I was filling out all these forms for all the children|sd|3246|0
+B|You were a bookkeeper|bf|3246|1
+B|Oh.|b|3246|1
+A|everything had to be documented,|sd|3246|0
+A|and I had file cabinets that weren't filled with neat stuff for kids,|sd|3246|0
+A|it was filled with documentation|sd|3246|0
+B|Oh, no.|ba|3246|1
+A|yes.|aa|3246|0
+B|Well, um, I'm, I have three years toward a teaching degree and am trying to get headed back,|sd|3246|1
+B|and, and I'm just really in a dilemma if that's what, you know,|sd|3246|1
+B|I love to work with children and to teach them,|sd|3246|1
+A|Me, too.|sd|3246|0
+B|but I'm really having questions if, if I can deal with that system and, and have a good conscience about, you know, what I do.|sd|3246|1
+B|I don't think, I don't think it's the teachers,|sv|3246|1
+B|I think it's the system|sv|3246|1
+A|I think so too.|aa|3246|0
+B|but, um.|%|3246|1
+A|They're so worried about lawsuits and the scores the children get on tests now and teacher competency, you know,|sv|3246|0
+B|Right.|b|3246|1
+A|and it's not like the teacher can just get in there and do her best,|sv|3246|0
+A|she's always worried who's looking over her shoulder|sv|3246|0
+A|and,|%|3246|0
+B|What child's going to say something some parent's going to overreact to|sv|3246|1
+A|That's right.|aa|3246|0
+A|I know.|aa|3246|0
+B|that's, that's true.|aa|3246|1
+B|Well, it's, it's hard on the children too,|sv|3246|1
+B|I think, you know, because the, um, the teachers are overworked|sv|3246|1
+B|and just like a mommy that's overworked you're not at your best, you know, um.|sv|3246|1
+A|That's right.|aa|3246|0
+A|Do you have children in the system?|qy|3246|0
+B|I have two,|na|3246|1
+B|I have, in the system|na|3246|1
+B|one is in ninth grade|sd|3246|1
+B|and one is in seventh grade,|sd|3246|1
+B|and them,|%|3246|1
+B|um, I'm home schooling my kindergartner this year.|sd|3246|1
+A|Oh.|bk|3246|0
+B|We, um, live in a district that has open classrooms,|sd|3246|1
+B|and I wasn't particularly comfortable with that for her.|sd|3246|1
+A|Yep.|b|3246|0
+A|Are you in Plano?|qy|3246|0
+B|Yes.|ny|3246|1
+A|Yep,|b|3246|0
+A|I am too.|sd|3246|0
+B|You too.|b|3246|1
+A|And I have one in ninth grade at Clark|sd|3246|0
+A|and one at Hendrick this year,|sd|3246|0
+A|and he, my my, uh, sixth grader came from an open classroom at Matthews,|sd|3246|0
+A|and the very first year I taught back in seventy-three, we had open classroom|sd|3246|0
+A|and it didn't work then|sd|3246|0
+B|Oh.|b|3246|1
+A|and when we moved down here, I was just appalled that they were still doing it here,|sd|3246|0
+B|Still at it.|b|3246|1
+B|Well the explanation I was, was given about, you know,|sd|3246|1
+B|they, they seemed to admit that it wasn't working,|sd|3246|1
+B|but they didn't have the money to restructure,|sd|3246|1
+B|but looks to me that it wouldn't take really that much money to at least come up with, I mean, some kind of partitions you know,|sv|3246|1
+A|Partitions|b|3246|0
+A|or just to face the children different directions or to do something|sv|3246|0
+B|Just,|%|3246|1
+B|yeah.|%|3246|1
+A|I know last year my son had to eat in the classroom because there was no cafeteria at his school|sd|3246|0
+B|Oh, goodness.|ba|3246|1
+A|so he spent all day in this one large open area,|sd|3246|0
+B|Oh.|b|3246|1
+A|so, I didn't really care for that.|sd|3246|0
+A|It seems like the schools in Michigan were much better than they are down here.|sd|3246|0
+B|Were they?|bh|3246|1
+A|That was our last tour, in Michigan.|sd|3246|0
+B|Well, we were from North, um, Carolina,|sd|3246|1
+B|and of course North, North Carolina has a terrible reputation as far as education.|sd|3246|1
+B|I think they rank about forty-ninth|sd|3246|1
+A|Oh.|b|3246|0
+B|but our children got a very good education there|sd|3246|1
+A|Uh-huh.|b|3246|0
+B|they were in the magnet school program,|sd|3246|1
+B|and a lot of their classes, from the time they were about third grade, they, they changed classes several times during the day, which has its pros and cons,|sd|3246|1
+B|but a lot of their classes there were only eight or ten children in their classes|sd|3246|1
+A|Oh, wow.|ba|3246|0
+B|and it was wonderful|sd|3246|1
+A|Yes.|aa|3246|0
+B|so, you know, I'm coming to, to Plano thinking, Well, gosh, it's going to be really great,|sd|3246|1
+B|it's ranked so much better|sd|3246|1
+A|Yes,|aa|3246|0
+A|that's right.|aa|3246|0
+A|We heard wonderful things about it until we actually got in the system.|sd|3246|0
+B|Isn't that interesting,|ba|3246|1
+B|I, I, I don't understand how they get this, this reputation unless it's just that they spend a lot of money,|sv|3246|1
+B|I don't know.|h|3246|1
+A|Probably so, on publicity and letting realtors know and key people how wonderful the schools are|aa|3246|0
+B|I guess so.|aa|3246|1
+A|so.|%|3246|0
+B|Well, my son is at Clark this year too,|sd|3246|1
+B|so, uh, we're|%|3246|1
+A|As a freshman?|qy|3246|0
+B|Yeah.|ny|3246|1
+A|Yep.|b|3246|0
+B|And, uh, he's pleased with his classes.|sd|3246|1
+B|I, I, I don't guess I've been in the high school long enough to, to know what to expect really you know, how to judge it.|sd|3246|1
+A|Yeah.|b|3246|0
+A|My daughter seems to be having a good time,|sd|3246|0
+A|she was absent with strep throat the last three days,|sd|3246|0
+A|and I ran over and picked up her report card,|sd|3246|0
+A|and she did very good,|sd|3246|0
+A|so and she seems to be studying and has just about the right amount of home work I would expect for a freshman to have.|sd|3246|0
+B|Well, that's good.|ba|3246|1
+B|Yeah.|b|3246|1
+A|She's not bogged down,|sd|3246|0
+A|but yet she has some every night.|sd|3246|0
+B|Well, Eric seems to have quite a few nights where he doesn't have any,|sd|3246|1
+B|so, that's interesting,|ba|3246|1
+B|but, he, his grades, I haven't seen them yet,|sd|3246|1
+B|but supposedly they're good,|sd|3246|1
+B|so,|%|3246|1
+A|Yes,|b|3246|0
+A|you always hear how good.|sv|3246|0
+A|Now my son's at, junior high and says that his grades are going to be wonderful|sd|3246|0
+A|but, who knows what he's going to bring home.|qh|3246|0
+B|That's right.|aa|3246|1

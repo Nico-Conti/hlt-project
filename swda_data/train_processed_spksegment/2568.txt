@@ -1,0 +1,299 @@
+B|Okay.|fo_o_fw_"_by_bc|2568|0
+A|Okay.|b^m|2568|1
+B|What's, what's your most recent one that you've seen?|qw|2568|0
+A|Well actually, what I do,|%|2568|1
+A|I haven't been to a movie theater in probably eight or nine months,|arp_nd|2568|1
+B|Uh-huh.|b|2568|0
+A|so I haven't really seen any movies in the movie theater|sd|2568|1
+A|but I rent probably four or five movies a week.|sd|2568|1
+B|Really,|b|2568|0
+B|I used to do that too,|sd|2568|0
+B|but I haven't been doing it lately|sd|2568|0
+B|but,|%|2568|0
+A|We've got a good video place out here|sd|2568|1
+A|and, uh, uh, oh gosh, uh, I'm just trying to think of all the movies I've recently seen. Uh,|sd|2568|1
+A|oh, AIR AMERICA.|qy^d|2568|1
+B|No,|nn|2568|0
+B|see, I haven't seen that one, uh.|sd|2568|0
+A|Have you seen WILD ORCHID?|qy|2568|1
+B|No,|nn|2568|0
+B|is it good?|qy|2568|0
+A|Well, it depends,|^h|2568|1
+A|do you like, uh, steamy movies|qy|2568|1
+B|Uh, no,|nn|2568|0
+B|not|%|2568|0
+B|I know that sounds funny coming from a woman,|sv|2568|0
+B|but usually I don't|sd|2568|0
+A|Oh, okay,|bk|2568|1
+A|what type of movies do you like?|qo|2568|1
+B|Um, action|sd|2568|0
+B|I, I guess one of my favorite, well two of my favorite movies is probably like LETHAL WEAPON and LETHAL WEAPON TWO.|sd|2568|0
+A|Okay.|bk|2568|1
+B|And those are, those are like two of my most favorite,|sd|2568|0
+B|I mean they're just really good movies.|sv|2568|0
+B|And I liked BIRD ON A WIRE. And movies like that.|sd|2568|0
+A|Yeah.|b|2568|1
+A|Do you like suspense movies|qy|2568|1
+A|or do you like, uh, just action|qrr|2568|1
+A|or,|%|2568|1
+B|Um, yeah,|ny|2568|0
+B|some, I guess like,|%|2568|0
+B|what do you mean|qw|2568|0
+B|like, like are you talking about movies like DIE HARD TWO.|qy|2568|0
+A|Oh, JAGGED EDGE,|sd|2568|1
+B|Okay,|bk|2568|0
+B|yeah,|bk|2568|0
+B|I liked that,|sd|2568|0
+B|that was pretty good.|sv|2568|0
+B|Um, that was okay,|sv|2568|0
+B|I, I don't, I guess I thought it was too far fetched|sv|2568|0
+B|but so many people said oh, no it wasn't, you know.|sv|2568|0
+B|But I guess,|%|2568|0
+A|Oh, well I hope I don't run across them.|sd|2568|1
+B|Really,|b|2568|0
+B|that's true because,|aa|2568|0
+B|I don't know,|h|2568|0
+B|I just didn't find that one to be real,|sv|2568|0
+B|I, I just thought it was too far fetched.|sv|2568|0
+A|What was your favorite all time movie?|qw|2568|1
+B|Um, oh gosh, I I can't think off my head.|^h|2568|0
+B|Do you know which one yours was?|qy|2568|0
+A|I, I have to say that probably the one movie that really threw me back the most, uh, that I was really the most in shock with was probably, uh, STAR WARS.|sd|2568|1
+B|Oh, yeah,|b|2568|0
+B|well that's,|%|2568|0
+A|When that first came out, I really did not expect the special effects or anything like that.|sd|2568|1
+B|Right.|b|2568|0
+A|I mean, I guess, uh, out of all the movies, I've, I've never been as excited to go back.|sd|2568|1
+A|I was ready to go back and see it again, you know|sd|2568|1
+B|Really.|b|2568|0
+B|Yeah,|b|2568|0
+B|yeah,|b|2568|0
+B|you're right about that,|aa|2568|0
+B|but that that's really like an all time classic.|sv|2568|0
+B|I mean, I don't think anybody, anything could ever beat that.|sv|2568|0
+A|Now, I, I also liked, uh, oh, GONE WITH THE WIND or some of the classic, like THE LAWRENCE OF ARABIA|sd|2568|1
+B|See, I've never seen that.|sd|2568|0
+A|Oh, you haven't?|bh|2568|1
+B|No,|nn|2568|0
+B|should I rent it?|qy|2568|0
+A|Oh, yeah.|ny|2568|1
+B|Should I go rent it tomorrow|qy|2568|0
+A|No,|nn|2568|1
+A|that's, uh, that's a, that's a real interesting movie|sd|2568|1
+A|and it's got a good historical perspective to it.|sd|2568|1
+B|That's probably something I need to see right now because I'm taking history in school|sd|2568|0
+A|Oh, yeah.|b|2568|1
+A|Actually, I just saw a movie, uh, called THE LOST CAPONE.|sd|2568|1
+A|And it's about Al Capone's brothers. Primarily one of his brothers,|sd|2568|1
+B|Oh, really.|b|2568|0
+A|and I won't give the, the whole plot away|sd|2568|1
+A|but it's, it's really a good movie. Uh,|sd|2568|1
+A|Al Capone had three brothers,|sd|2568|1
+B|Uh-huh.|b|2568|0
+A|and one of them was lost for many, many years|sd|2568|1
+A|and, uh, he actually, he turns out to be a law man.|sd|2568|1
+B|Really.|bh|2568|0
+A|Yeah,|ny|2568|1
+A|it's really interesting|sd|2568|1
+A|it,|%|2568|1
+B|Oh, you just gave it away,|sv|2568|0
+B|I guess I can't go see it|sv|2568|0
+B|no.|%|2568|0
+A|No,|ar|2568|1
+A|that's okay,|bd|2568|1
+A|I didn't give away the whole thing,|sd|2568|1
+A|I just gave away just enough to get you interested|sd|2568|1
+B|That does sound good,|ba|2568|0
+B|is it one,|%|2568|0
+B|I guess it's a rental.|qy^d|2568|0
+A|Yeah,|ny|2568|1
+A|it is.|sd|2568|1
+B|Okay,|bk|2568|0
+B|I may have to do that. Go see it,|sd|2568|0
+B|or go rent it.|sd|2568|0
+A|And, a lot of times, what I wind up doing is, picking say an actor or an actress,  and seeing like all,|sd|2568|1
+B|Yeah.|b|2568|0
+A|I've seen all of James Dean's movies.  Uh, all of Mae West's movies.|sd|2568|1
+B|Uh-huh.|b|2568|0
+A|And, just kind of, kind of go out and, uh, rent all the movies and, uh, uh, you know, just kind of go,|sd|2568|1
+A|I guess you could do that, you know, get all of David Carradine's movies,  or, uh, uh, Segal,|sv|2568|1
+B|Uh-huh.|b|2568|0
+A|to,|%|2568|1
+A|what's his first name.|qw|2568|1
+A|I can't remember his first name.|sd|2568|1
+B|Um, it's not David is it?|qy|2568|0
+A|Is it David Segal.|qy|2568|1
+A|I don't know,|h|2568|1
+A|he was on, uh, on, uh, uh, Arsenio, just recently.|sd|2568|1
+B|Oh, I don't, I don't watch that|sd|2568|0
+B|Um,|%|2568|0
+A|It was really kind of interesting because,  Arsenio was asking him about, uh, what he thought of, uh, one of the other action guys.|sd|2568|1
+B|Really.|b|2568|0
+A|God, I can't even remember the name.|sd|2568|1
+A|He said well, he wouldn't really talk about it.|sd|2568|1
+A|Didn't want to talk about him because he didn't think he was such a, uh, a good action guy.|sd|2568|1
+B|Huh.|b|2568|0
+A|It wasn't Stallone,|sd|2568|1
+A|it was, uh,|%|2568|1
+A|I can't remember.|sd|2568|1
+A|Shoot, I can't remember the guy's name.|sd|2568|1
+A|But I like all the, the RAMBO movies.|sd|2568|1
+B|Oh, see, I didn't really care, that's, that's one side of the action I guess that I didn't really care for|sd|2568|0
+B|but see I don't really like Sylvester Stallone.|sd|2568|0
+A|Yeah.|b|2568|1
+B|I don't think he's really a very good actor.|sv|2568|0
+B|I know that sounds awful because so many people think he's so wonderful|sv|2568|0
+B|but I just have never been a Stallone fan.|sd|2568|0
+A|Yo, Adrian|^q|2568|1
+B|Hey that's pretty good.|ba|2568|0
+B|No,|b|2568|0
+B|I guess like I say,|sd|2568|0
+B|I just have, I don't know, I just have never seen any interest in him,|sd|2568|0
+B|but.|%|2568|0
+A|No,|b|2568|1
+A|we, we actually rent, uh, probably a good combination of movies with the exception of horror films.|sd|2568|1
+B|Oh.|b|2568|0
+A|Don't watch really very many horror films at all.|sd|2568|1
+B|Yeah,|b|2568|0
+B|I don't either|sv|2568|0
+A|You know, I don't know,|h|2568|1
+A|there's something about people coming up through the sofa to get you, or something, you know,  coming out of the T V that just doesn't make my day, you know.|sd|2568|1
+B|Yeah,|aa|2568|0
+B|you're right.|aa|2568|0
+B|Well it's so,|%|2568|0
+B|I guess, I'm a real, I'm a realist, and so, when I watch movies like that, it's like this can not happen.|sd|2568|0
+B|So, I just don't enjoy it, you know, because it's just like, come on, give me a break.|sd|2568|0
+A|Yeah.|b|2568|1
+B|You know, I mean, I just|%|2568|0
+B|and so many of them are done so poorly,|sv|2568|0
+A|Yeah.|b|2568|1
+B|you know that, it just doesn't even give you the effect,|sv|2568|0
+B|I mean some of them are done good|sv|2568|0
+B|and they do scare you.|sv|2568|0
+B|But, um, so many of them are just done real,|sv|2568|0
+B|I don't know,|h|2568|0
+B|I'm not really into those.|sv|2568|0
+A|I just saw, uh, uh, a really interesting movie called, uh, FLATLINERS.|sd|2568|1
+B|Oh, that was one of my favorites,|sd|2568|0
+B|yes.|%|2568|0
+B|I thought that was a very good movie.|sv|2568|0
+A|Yeah.|b|2568|1
+B|I was really impressed with that one.|sd|2568|0
+B|I mean it was, what I liked about it was that it was a new subject.|sd|2568|0
+B|Nobody had ever touched it before.|sd|2568|0
+A|Yeah.|b|2568|1
+B|You know, and it was just, it was done so well, you know,|sv|2568|0
+B|it was just,|%|2568|0
+A|It was just crazy enough for|sv|2568|1
+A|you know students might try to do it.|sv|2568|1
+A|You know, I mean, and it's not like there's a lot of scientific data on it.|sd|2568|1
+B|Right,|aa|2568|0
+B|well that's probably true|aa|2568|0
+B|But it was a very good movie.|sv|2568|0
+B|It was done real well too.|sv|2568|0
+B|I mean there wasn't any part of it that you really felt like, no, this can't happen.|sv|2568|0
+B|It seemed it seemed real,|sv|2568|0
+B|you know it was really good.|sv|2568|0
+A|Yeah.|b|2568|1
+B|That, that was one, I mean|%|2568|0
+B|it's not my all time favorite movie|sd|2568|0
+B|but it was good,|sv|2568|0
+B|it was really good.|sv|2568|0
+A|Yeah.|b|2568|1
+B|And, um, I don't know if you like this kind,|qy^d|2568|0
+B|but I thought PRETTY WOMAN was a really good movie, too.|sv|2568|0
+A|Oh, yeah,|aa|2568|1
+A|that was a great movie.|aa|2568|1
+B|Yeah,|b|2568|0
+B|I've, we've seen that two or three times.|sd|2568|0
+B|We waited|sd|2568|0
+B|and we rented it,|sd|2568|0
+A|Yeah.|b|2568|1
+B|you know, but, but it was really good.|sv|2568|0
+A|Uh, have you seen SHRIMP ON THE BARBY ?|qy|2568|1
+B|No,|nn|2568|0
+B|I haven't,|sd|2568|0
+B|I don't know if I've even heard of that one.|sd|2568|0
+A|yeah,|b|2568|1
+A|it's got,|%|2568|1
+B|It must have, uh, what's his name in it.|qy^d|2568|0
+A|No.|nn|2568|1
+B|No|bk|2568|0
+B|it doesn't,|bh|2568|0
+A|No.|nn|2568|1
+B|Really.|b|2568|0
+A|Uh, Hogan?|qy|2568|1
+B|Yeah,|ny|2568|0
+B|Paul Hogan.|sd|2568|0
+A|No,|nn|2568|1
+B|No,|nn|2568|0
+B|really,|bh|2568|0
+B|I'm surprised.|sd|2568|0
+A|no|nn|2568|1
+A|it's got, uh, uh, Cheech Marin .|sd|2568|1
+B|Oh really, that must be pretty good then,|qy^d|2568|0
+B|was it good.|qy|2568|0
+A|Yeah,|ny|2568|1
+A|it is,|sd|2568|1
+A|it's kind of, uh, kind of a poor man's PRETTY WOMAN in reverse.|sd|2568|1
+B|Oh|bk|2568|0
+A|But it was kind of cute.|sd|2568|1
+A|Actually did you see DIRTY ROTTEN SCOUNDRELS?|qy|2568|1
+B|Yes,|ny|2568|0
+B|yes.|ny|2568|0
+A|I though that was a really cute movie,|sv|2568|1
+A|I enjoyed that.|sd|2568|1
+B|Yeah,|aa|2568|0
+B|it was.|aa|2568|0
+B|TWINS was good too,|sv|2568|0
+B|because when I thought of that, I thought of,|sd|2568|0
+B|anyway.|%|2568|0
+B|Um, oh, there was another one,|^h|2568|0
+B|what's the one that just,|qw|2568|0
+B|oh, DANCES WITH WOLVES, have you seen that yet?|qy|2568|0
+A|No,|nn|2568|1
+A|I haven't.|sd|2568|1
+B|Oh, you've got to see that one,|ad|2568|0
+B|it's really,|%|2568|0
+A|I hear that's the one that you really need to see at the theater instead of home video|sd|2568|1
+B|Right,|aa|2568|0
+B|that's probably true,|aa|2568|0
+B|that's probably true.|aa|2568|0
+B|It's, it's very, very good. Very good.|sd|2568|0
+A|Yeah.|b|2568|1
+B|That's another one that,|%|2568|0
+B|I was really glad when it won all those awards because it really deserved it.|sd|2568|0
+A|Well my wife, uh, has got a, uh, a picture from Kevin Costner|sd|2568|1
+A|and he signed it.|sd|2568|1
+A|It's from DANCES WITH WOLVES.|sd|2568|1
+B|Really.|bh|2568|0
+A|Yeah,|ny|2568|1
+A|and he signed it.|sd|2568|1
+A|He, he happens to be, uh, a friend of one of her, her business associates. And, or, not, not a friend, a cousin, a cousin.|sd|2568|1
+B|Oh, wow, that's impressive.|ba|2568|0
+B|Oh, neat.|ba|2568|0
+A|So, uh, uh, but anyhow we got, uh, we got a nice, uh, picture|sd|2568|1
+A|and it came in an envelope that says DANCES WITH WOLVES|sd|2568|1
+A|so we've got to, uh, try to get out there and see that one.|sd|2568|1
+B|Oh, yeah,|aa|2568|0
+B|it's really worth it.|sd|2568|0
+B|I mean it's a very good movie|sd|2568|0
+B|and yes,|ny|2568|0
+B|I would suggest seeing it at the theater.|ad|2568|0
+B|I know that they're still playing it|sd|2568|0
+B|and they pushed it back, to playing it in the theaters until like August,|sd|2568|0
+A|Huh.|b|2568|1
+B|I, think because they were, they were scheduling a video release of it in July|sd|2568|0
+B|and then when it won all those awards, uh, they pushed it back to August,|sd|2568|0
+B|so. But, yeah,|%|2568|0
+B|that one is definitely worth seeing,|sd|2568|0
+B|it's really good.|sd|2568|0
+A|Now did you see, uh, DRIVING MISS DAISY?|qy|2568|1
+B|Yeah,|ny|2568|0
+B|and you know, I didn't think that one was near as good.|sv|2568|0
+A|Okay.|bk|2568|1
+B|You know, I guess it was okay,|sv|2568|0
+B|I mean it was all right,|sv|2568|0
+B|but, um, when I compare like the winners of this year and last year, it just,|sv|2568|0
+B|I don't know.|h|2568|0
+B|Maybe, it's, it's not,|%|2568|0

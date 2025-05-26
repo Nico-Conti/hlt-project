@@ -1,0 +1,138 @@
+A|Okay.|fo_o_fw_"_by_bc|3181|0
+B|All right,|b|3181|1
+B|well, I'm not a big exerciser,|sd|3181|1
+B|but I kind of had to start after I had my baby because I wanted to lose that extra weight.|sd|3181|1
+A|Uh-huh.|b|3181|0
+B|And so basically at this point I'm, I'm a real walker.|sd|3181|1
+A|I am, too.|sd|3181|0
+B|Are you?|bh|3181|1
+A|Yes.|ny|3181|0
+B|I don't do that, oh, I guess I'll call it that fancy type walking where they kind of move their hips, you know, and keep their arms up.|sd|3181|1
+A|Uh-huh.|b|3181|0
+B|I don't do that.|sd|3181|1
+B|I mostly just take a, a walk around the block or with my baby|sd|3181|1
+B|or, you know, and I have to do that at least once a day. If it, If it's going to make any effect on, since I have to eat the same as I did before.|sd|3181|1
+A|Oh, that's good.|ba|3181|0
+B|I can't neglect that because of the baby either.|sd|3181|1
+A|And how old is your baby?|qw|3181|0
+B|She just, uh, well, she was premature,|sd|3181|1
+B|so she's about nine months now, though.|sd|3181|1
+B|times goes fast.|sv|3181|1
+A|Yes.|aa|3181|0
+A|Well, I walk two and a half to three miles every night.|sd|3181|0
+B|Oh, that's great.|ba|3181|1
+A|My husband and I were on Nutrisystem about eighteen months ago|sd|3181|0
+B|Uh-huh.|b|3181|1
+A|and he lost sixty-two pounds|sd|3181|0
+A|and I lost twenty-one.|sd|3181|0
+B|Oh, my goodness.|ba|3181|1
+A|So we've decided to maintain our weight, that we will do this exercise walking program|sd|3181|0
+A|and we walk our dog every night and go up around the elementary school.|sd|3181|0
+B|Uh-huh.|b|3181|1
+A|We have a little path that we do. And, uh, except if it's raining or real cold which it hasn't been|sd|3181|0
+B|Uh-huh.|b|3181|1
+B|Yeah.|b|3181|1
+B|Exactly.|b|3181|1
+A|we try to get out, uh, every, every night.|sd|3181|0
+B|Uh-huh.|b|3181|1
+A|And he plays racquetball twice a week,|sd|3181|0
+A|but I'm not into that,|sd|3181|0
+A|so I think the walking is enough to help us stay in shape and toned.|sv|3181|0
+B|Well, I think that is just wonderful.|sv|3181|1
+B|Now, as far as I'm concerned, I have several other children|sd|3181|1
+B|and so, uh, I think at this point to fit it into, to other things, it's kind of a task.|sv|3181|1
+A|Yes.|aa|3181|0
+B|You know. Uh, it's not to where I'm just so freed up that I, I just go, oh, this is wonderful,|sd|3181|1
+B|let's go|^q|3181|1
+A|Right|aa|3181|0
+A|that's right.|aa|3181|0
+A|I know my kids are into sports|sd|3181|0
+A|and a lot of times, tonight we won't finish with the football game till around nine thirty|sd|3181|0
+A|so we will just go out after that.|sd|3181|0
+B|Uh-huh.|b|3181|1
+A|So, my kids, luckily, are old enough I can leave them at home alone while I go out and walk.|sd|3181|0
+B|Yeah.|b|3181|1
+B|Now, does your husband usually go with you, then?|qy|3181|1
+A|Yes.|ny|3181|0
+B|Oh, see, now that's really nice.|ba|3181|1
+A|Yes.|aa|3181|0
+B|Because mine's at meetings sometimes|sd|3181|1
+B|and, and he's not really into it|sd|3181|1
+B|so I have to,|%|3181|1
+A|No|%|3181|0
+A|my husband never was either until he lost the weight.|sd|3181|0
+B|Uh-huh.|b|3181|1
+A|That was his decision.|sd|3181|0
+A|He had arthritis in his hips|sd|3181|0
+A|and his doctor said he needed to lose weight and exercise.|sd|3181|0
+B|I think that is so wonderful.|sv|3181|1
+A|So once he got motivated, now he's ready to walk every night.|sd|3181|0
+A|And our dog has lost a little weight.|sd|3181|0
+A|He walks every night, too|sd|3181|0
+A|So, he gets excited when he sees us put on our, our shoes, our walking shoes.|sd|3181|0
+B|I bet.|ba|3181|1
+B|I think that's really, really good.|sv|3181|1
+B|And, and, you know, I think this, after you've done it a certain amount of time, it kind of does get to be a routine.|sv|3181|1
+A|Yes.|aa|3181|0
+B|It's not,|%|3181|1
+B|like when I first started, it, you know, that was the hardest thing was to get ready and get out there.|sd|3181|1
+A|Making time for it.|^2|3181|0
+B|But now if I haven't done it in a day or two or something, I really notice that I haven't done it in a ...|sd|3181|1
+A|Yes.|b|3181|0
+B|You know. And I like the time because my kids, sometimes they come with me|sd|3181|1
+B|and sometimes they don't.|sd|3181|1
+B|And when they don't, I, I really notice, you know, how fun it can be when they come.|sd|3181|1
+B|So, uh, I like to have somebody come with me.|sd|3181|1
+A|I know,|aa|3181|0
+A|I do, too.|sd|3181|0
+B|Uh, I know most of, enough of the people that if anything ever happened I could go to a home around this block area.|sd|3181|1
+A|Right.|b|3181|0
+B|So it, it's not real dangerous,|sd|3181|1
+B|but still, I don't like to go alone.|sd|3181|1
+A|No.|aa|3181|0
+B|So|%|3181|1
+A|I never do either. Even if I have my dog with me.|sd|3181|0
+B|Yeah.|b|3181|1
+A|You know, it's nice to have another person there,|aa|3181|0
+A|but ...|%|3181|0
+B|Yeah.|aa|3181|1
+B|You know,|%|3181|1
+A|Mostly, it's my husband|sd|3181|0
+A|and sometimes it's my kids.|sd|3181|0
+B|Well, I think that's great.|sv|3181|1
+B|I, and, well, sometimes when I, I take my kids to the playground that's the only other exercise I, I really think I do.|sd|3181|1
+B|I was on an exercise program before where it was more like an aerobics type thing.|sd|3181|1
+A|Uh-huh.|b|3181|0
+B|Uh, I found real quick that wasn't for me.|sd|3181|1
+A|Me, too.|sd|3181|0
+A|I did the dance step when I lived up in Michigan|sd|3181|0
+B|Uh-huh|b|3181|1
+A|and it just wore me out.|sd|3181|0
+A|I would leave totally exhausted.|sd|3181|0
+A|I never lost any weight,|sd|3181|0
+A|and I got to the point I dreaded going in.|sd|3181|0
+B|Yeah,|b|3181|1
+B|yeah.|b|3181|1
+A|So walking seems to be a good solution for me|sd|3181|0
+A|and it doesn't cost anything|sd|3181|0
+B|Right|aa|3181|1
+B|right.|aa|3181|1
+B|And it gives me time to think.|sd|3181|1
+B|So I think, not only does it help my body,|sd|3181|1
+B|but I think it helps my mind too.|sd|3181|1
+A|Yes.|aa|3181|0
+B|So I like that.|sd|3181|1
+A|That's the one time in the day my husband and I can get away and talk without having the kids jump in and ...|sd|3181|0
+B|Uh-huh.|b|3181|1
+B|Yeah,|aa|3181|1
+B|need something|^2|3181|1
+B|and,|%|3181|1
+A|Yep.|aa|3181|0
+B|They can wait until you get back home.|sv|3181|1
+A|Yep.|aa|3181|0
+B|Well, I think that's great|sv|3181|1
+B|Well, that's what I do for|sd|3181|1
+A|Yep,|b|3181|0
+A|that's all I do, too.|sd|3181|0
+B|Okay.|b|3181|1
+A|Okay.|b^m|3181|0

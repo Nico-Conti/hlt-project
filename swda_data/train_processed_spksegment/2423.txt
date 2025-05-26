@@ -1,0 +1,309 @@
+A|So, do you have any hobbies?|qo|2423|0
+B|Well, right at the present time nothing real special.|sd|2423|1
+B|I kind of like gardening|sd|2423|1
+B|and I'm kind of into camping and, you know, vacationing, that sort of thing.|sd|2423|1
+A|Yeah, uh,|b|2423|0
+B|I don't have any real serious,|sd|2423|1
+A|I'm an avid gardener, oh,|sd|2423|0
+B|Oh, okay.|ba|2423|1
+B|I think you're ,|%|2423|1
+A|Um, I consider that a hobby.|sd|2423|0
+A|I don't know,|h|2423|0
+A|they were like suggesting, like handcraft things which,|sd|2423|0
+B|Uh-huh.|b|2423|1
+A|I guess that's a really true, true hobby,|sd|2423|0
+A|but I, I think anything that you enjoy,|sv|2423|0
+B|Yeah.|b|2423|1
+B|Yeah.|b|2423|1
+A|um, it doesn't really have to matter,|sv|2423|0
+A|I mean, it could be working on cars could be your hobby really.|sv|2423|0
+B|Really|aa|2423|1
+B|yeah,|aa|2423|1
+B|I kind of enjoy doing that a little bit, too.|sd|2423|1
+B|No,|nn|2423|1
+B|I, I guess if you make money at it, it becomes a vocation|sv|2423|1
+A|well, I don't know,|h|2423|0
+A|I told my husband, I said, you go out some to work on the car,|sd|2423|0
+A|it's not worth getting all mad and fighting and hollering at each other when it goes wrong.|sv|2423|0
+A|I says, you go pay to have someone do it.|sd|2423|0
+B|Yeah|b|2423|1
+A|Because it always seems it goes wrong when you try to do something.|^q|2423|0
+B|I guess as far north as you are if you like gardening, you've still got a couple months to go, haven't you?|qy|2423|1
+A|Oh, yeah.|ny|2423|0
+A|Um, well, right now we, um, start our seeds inside.|sd|2423|0
+B|Uh-huh.|b|2423|1
+B|Oh, yeah,|b|2423|1
+B|that's right,|ba|2423|1
+B|you would,|bf|2423|1
+B|yeah.|%|2423|1
+A|We'll start them inside|sd|2423|0
+A|and, uh,|%|2423|0
+B|In cold frames or whatever the,|qy|2423|1
+A|Yeah,|ny|2423|0
+A|well, we usually start them right in the house.|sd|2423|0
+B|Uh-huh.|b|2423|1
+A|My sister tries to set up a greenhouse on her back deck|sd|2423|0
+A|and, and the and a wind storm come and knock it down.|sd|2423|0
+B|Huh.|b|2423|1
+A|But she's had really good luck.|sd|2423|0
+A|I mean,|%|2423|0
+A|next month,|%|2423|0
+A|well, actually, it, if you, if you start it in a couple weeks and you can get your plants outside, pretty much the end of May,|sd|2423|0
+A|you can leave them outside.|sd|2423|0
+B|Uh-huh.|b|2423|1
+A|You might put them in the ground just the first week of June|sd|2423|0
+B|Yeah.|b|2423|1
+A|but we can put potatoes in the ground in the middle of May.|sd|2423|0
+B|Yeah,|b|2423|1
+B|I've, I've lived in, in Texas and New Mexico most of my life,|sd|2423|1
+B|but I did once,|%|2423|1
+B|I spent one winter in North Dakota,|sd|2423|1
+A|Oh.|b|2423|0
+B|and I, I remember that it was on into May before it really started warming up,|sd|2423|1
+B|and, uh|%|2423|1
+A|Yeah,|b|2423|0
+A|well, well, we live, we live really close to Lake Champlain, which is in the Champlain Valley,|sd|2423|0
+B|Oh, yeah.|b|2423|1
+A|so we're a little, we're about two weeks ahead of everyone else out on the outskirts|sd|2423|0
+A|so,|%|2423|0
+B|Okay,|bk|2423|1
+B|because that kind of moderates the weather a little bit?|qy^d|2423|1
+A|Yeah.|ny|2423|0
+B|Yeah.|b|2423|1
+A|We are a little lucky.|sd|2423|0
+A|Well, my brother lives ten miles from here|sd|2423|0
+B|You're at,|%|2423|1
+A|and he gets frost|sd|2423|0
+A|and, his crop gets killed.|sd|2423|0
+B|Yeah.|b|2423|1
+B|You're right across the, uh, lake from, what, Plattsburgh?|qy^d|2423|1
+A|Yeah,|ny|2423|0
+A|from Plattsburgh Air Force Base.|sd|2423|0
+B|Yeah,|b|2423|1
+B|yeah.|b|2423|1
+A|But, um,|%|2423|0
+B|Yeah,|b|2423|1
+B|I had, I had a cousin that was stationed there, Plattsburgh for a while.|sd|2423|1
+B|He, he remembers lots of snow|sd|2423|1
+A|Yeah,|b|2423|0
+A|Plattsburgh's kind of a,|sd|2423|0
+A|it's, uh, it's, uh, depressed economically.|sd|2423|0
+B|Oh, really, oh.|b|2423|1
+A|When you go across the lake, um,|%|2423|0
+A|I don't know why we have so much going for us,|sd|2423|0
+A|I really don't.|sd|2423|0
+A|I'm, just wrote my resume up because told we might be facing layoff over at Digital|sd|2423|0
+A|and they've never had, well, they've had layoffs recently,|sd|2423|0
+A|but when we got hired here, no, no, never any layoffs, never, never,|sd|2423|0
+A|and now we're looking at serious,|%|2423|0
+A|I, I mean, I'm a technician.|sd|2423|0
+B|Yeah.|b|2423|1
+A|When they start getting rid of technicians,|sv|2423|0
+B|Yeah,|b|2423|1
+B|well, I'm, I'm working for T I, Texas Instruments, down here.|sd|2423|1
+A|Well, I interviewed with them.|sd|2423|0
+B|Oh, yeah?|bh|2423|1
+A|But I didn't want to go to Texas.|sd|2423|0
+B|Oh,|b|2423|1
+A|Even though my, um, mother's people are from Georgia.|sd|2423|0
+B|Oh,|b|2423|1
+A|Yeah.|b|2423|0
+B|yeah.|b|2423|1
+A|Well, I guess we have to get back to hobbies since,|ad|2423|0
+B|Yeah,|aa|2423|1
+B|we're getting to where, we're straying, I guess,|sv|2423|1
+A|Stick on the subject.|ad|2423|0
+B|yeah.|%|2423|1
+A|Well, interesting thing that I do is with, gardening, uh,|sd|2423|0
+A|my sister grows flowers that you can dry,|sd|2423|0
+B|Uh-huh.|b|2423|1
+A|and you can make uh, dried flower arrangements|sd|2423|0
+A|and you can get real handy with the hot glue gun.|sd|2423|0
+A|And we made some really nice Christmas wreaths with, uh, dried red flowers and dried white flowers and, uh, eucalyptus.|sd|2423|0
+B|Huh, yeah.|b|2423|1
+A|you know what eucalyptus is?|qy|2423|0
+A|It's,|%|2423|0
+B|Yeah,|ny|2423|1
+B|yeah,|ny|2423|1
+B|the, they uh, it's sold in the hobby stores and nurseries.|sd|2423|1
+A|Yeah,|aa|2423|0
+A|it's got a|%|2423|0
+B|It's got a kind of a peculiar smell to it|sd|2423|1
+B|but,|%|2423|1
+A|Yeah,|aa|2423|0
+A|at first I'm like, oh, how, why do people like this,|sd|2423|0
+A|but it, it is kind of a nice smell after a while.|sv|2423|0
+A|People put them in,|%|2423|0
+B|Yeah,|aa|2423|1
+B|I didn't realize what it was for a while.|sd|2423|1
+B|I'd walk into a room where some of that,|sd|2423|1
+B|and I'd wonder what is that, you know,|sd|2423|1
+B|and then one day I, I realized that it was eucalyptus.|sd|2423|1
+A|it's, it's, it's, uh, like a fad thing.|sd|2423|0
+A|I, I don't know.|h|2423|0
+A|It's, I've never heard of it,|sd|2423|0
+A|in the last five years I've used so much of it that,|sd|2423|0
+B|Yeah.|b|2423|1
+A|I hate,|%|2423|0
+B|Is that the stuff that koala bears eat in Australia or something?|qy|2423|1
+A|Yeah,|ny|2423|0
+A|it is.|sd|2423|0
+B|Maybe that's why they're so slow.|sd|2423|1
+B|I guess they're stoned on the stuff or something.|sv|2423|1
+A|Yeah,|b|2423|0
+A|it, it looks really potent stuff.|sv|2423|0
+B|Yeah|b|2423|1
+B|yeah.|b|2423|1
+A|But, uh, it's, yeah, I think it's the greatest stuff in the world, though.|sv|2423|0
+A|It's, jeez,|%|2423|0
+A|they, I make all kinds of things with it.|sd|2423|0
+A|We make all kinds of things just with dried flowers.|sd|2423|0
+A|I, I almost want to start a business doing it,|sd|2423|0
+A|but I don't, I, I'm so, uh, timid when it comes to starting a business.|sd|2423|0
+B|Yeah,|b|2423|1
+B|that's, that's a big step,|sv|2423|1
+B|yeah.|%|2423|1
+A|Yeah,|aa|2423|0
+A|it is, especially with the, being in on the creative aspect and the crafty end.|sv|2423|0
+B|Yeah, uh,|b|2423|1
+A|You know, after a while you make some stuff,|sd|2423|0
+A|then you start looking at it,|sd|2423|0
+A|go, boy, this, this is kind of ugly|sv|2423|0
+A|But I know someone who does a lot of woodworking for a hobby.|sd|2423|0
+A|Um, he does it, believe it or not, I wouldn't imagine why, but to get out of the house, away from his wife,|sd|2423|0
+A|because he's a seasonal worker,|sd|2423|0
+A|he works in the construction.|sd|2423|0
+A|And up here it's almost a pattern,|sd|2423|0
+A|and you see your fathers do it,|sd|2423|0
+A|then their sons do it.|sd|2423|0
+A|What they do is they work construction,|sd|2423|0
+A|then they get laid off for like twelve weeks in the winter.|sd|2423|0
+A|And, uh, this guy was going nuts,|sd|2423|0
+A|and his, uh, son built him a garage and got him some, uh, oh, I don't know what the equipment's called, but planers and things and set him up,|sd|2423|0
+B|Uh-huh,|b|2423|1
+B|shapers and planers and routers.|fo_o_fw_"_by_bc|2423|1
+A|and he makes, all kinds of furniture for, um, his kids,|sd|2423|0
+A|and he makes, uh, uh, like little kids' furniture.|sd|2423|0
+A|He gets right into it|sd|2423|0
+A|and, uh,|%|2423|0
+B|There was a program on T V down here on the educational channel here a while back about a lot of little, little companies of one and two guys, you know, up there,|sd|2423|1
+B|this particular one, I think, was in Maine and New Hampshire, where out in the, just kind of out in these little towns they'd be in,|sd|2423|1
+B|they may be the same kind of people you're talking about.|sd|2423|1
+B|You know, they've, they've got twelve weeks to do something,|sd|2423|1
+B|and they, they're making furniture and just, you know, things like that during the winter|sd|2423|1
+B|and then they go off and do other things during the summer.|sd|2423|1
+A|Yeah,|b|2423|0
+A|it's a, it's a really, good thing because it's keeping him sane,|sd|2423|0
+B|So, yeah,|b|2423|1
+B|Yeah,|b|2423|1
+B|yeah.|b|2423|1
+B|Yeah.|b|2423|1
+A|and plus it's keeping his marriage|sd|2423|0
+B|Yeah.|b|2423|1
+A|so, and, and plus he's getting on in his years now.|sd|2423|0
+A|He's, he's not that old,|sd|2423|0
+A|but he's getting to the point where he needed an extra boost, to, to do something like that.|sd|2423|0
+B|Yeah.|b|2423|1
+A|And, uh, it's really, it's, it's, uh, hard work.|sd|2423|0
+A|I couldn't imagine taking lumber, raw lumber and trying to make something out of it.|sd|2423|0
+A|He He dowels everything.|sd|2423|0
+B|That would be really you know,|ba|2423|1
+B|like say the,|%|2423|1
+B|Oh, man,|ba|2423|1
+B|yeah.|b|2423|1
+A|And it's all got to line up.|sd|2423|0
+A|It's,|%|2423|0
+A|and, uh, I don't think he goofs too much,|sd|2423|0
+A|I don't to, see too much scrap around.|sd|2423|0
+B|Yeah,|b|2423|1
+B|yeah,|b|2423|1
+B|that's, that's something.|ba|2423|1
+B|Now our temperatures down here, we're starting to get pretty consistently in the seventies and eighties|sd|2423|1
+A|God , I'm envious|ba|2423|0
+B|and, uh, so, and, uh, so as far as, you know, planting outdoor stuff, matter of fact, tonight I just got through, I was planting some, some trees out back tonight,|sd|2423|1
+B|and, uh, this is, uh, it's really nice, out tonight.|sd|2423|1
+A|Is it going to be, Is it going to be really dry?|qy|2423|0
+B|Almost hated to come, you know.|sd|2423|1
+A|Uh, are you are you,|%|2423|0
+A|now I always plant trees in the fall.|sd|2423|0
+A|I don't know why|h|2423|0
+A|so the, the cold weather can kill them|sd|2423|0
+B|Yeah,|b|2423|1
+B|these were, uh, trees that, that wintered.|sd|2423|1
+A|but I guess,|%|2423|0
+B|I don't know where they came from.|sd|2423|1
+B|They come out of nurseries mostly in Missouri and places like that.|sd|2423|1
+B|And they come down here|sd|2423|1
+B|and they'll sit in the nurseries here|sd|2423|1
+B|and they'll go ahead and, and, uh, leaf out.|sd|2423|1
+B|So what I'm planting or actually transplanting is a tree that's, or trees that are already leafed out.|sd|2423|1
+A|Oh, that's good.|ba|2423|0
+A|I guess they, they say you can plant them in the spring or the fall, all .|sd|2423|0
+B|Yeah.|b|2423|1
+B|Mostly, I think in a place where it's really cold they do it in the fall,|sd|2423|1
+B|let them winter you know, through the fall,|sd|2423|1
+A|Yeah.|b|2423|0
+B|but, uh, down here, well, it's done both ways.|sd|2423|1
+B|It, it just kind of depends on what you're, what you're planting,|sd|2423|1
+B|but, uh all the shrubs and,|%|2423|1
+A|Yeah,|b|2423|0
+A|and, uh, when you have time to do it|sd|2423|0
+B|Yeah.|b|2423|1
+A|My sister does, uh, flower gardens.|sd|2423|0
+A|She gets right into it.|sd|2423|0
+B|Uh-huh.|b|2423|1
+A|She spends lots of money on them.|sd|2423|0
+A|And I guess a lot of people do, do do that.|sd|2423|0
+A|They landscape their whole house with flower gardens.|sd|2423|0
+B|Yeah .|b|2423|1
+A|She's got like, just a small patch of lawn and just flowers and mulch tree bark all over her lawn|sd|2423|0
+B|Yeah.|b|2423|1
+B|Flowers, during the summer down here, the, the normal kind of flowers, there's very few of them that will really do well.|sd|2423|1
+B|Everything does real well here in the spring until about, oh, first part of June|sd|2423|1
+B|and then the the heat sets in.|sd|2423|1
+A|It gets,|%|2423|0
+B|And June, July, August are, you know,|sd|2423|1
+B|most of the, those kind of plants just, are just barely staying alive, let alone make flowers.|sd|2423|1
+A|Do you have a lot of shade trees around your house|qy|2423|0
+A|or is it,|qrr|2423|0
+B|Uh, we're in a relatively new area.|no|2423|1
+B|We're kind of out of, uh, the natural tree area.|sd|2423|1
+B|We're kind of up on a, on a higher, on a slope.|sd|2423|1
+A|So you don't have a lot of tree coverage?|qy|2423|0
+B|So we don't have,|ng|2423|1
+B|where we are right now there are very few trees.|sd|2423|1
+A|Because going to make,|%|2423|0
+B|This was, this was, this was pasture land,|sd|2423|1
+B|but down the, down the hill here a little ways there are parks that are, look like jungles, you know.|sd|2423|1
+B|They're really,|%|2423|1
+A|Yeah.|b|2423|0
+A|See, um, uh, where my, uh, well, my grandmother passed away, but where aunts are they have these huge pecan trees,|sd|2423|0
+B|Uh-huh.|b|2423|1
+A|and they just shade everything.|sd|2423|0
+B|Now where is this?|qw|2423|1
+A|Uh, it's in Georgia.|sd|2423|0
+B|In Georgia,|b^m|2423|1
+B|yeah,|b|2423|1
+B|yeah.|b|2423|1
+A|It's, yeah, it's right outside of Macon,|sd|2423|0
+A|and, and it's just a,|%|2423|0
+A|I like the way that, I like the way that idea of the south is,|sd|2423|0
+A|but when I think of Texas, I think of nothing but, no trees and just grass|sv|2423|0
+B|Well, I tell you what,|fo_o_fw_"_by_bc|2423|1
+B|now, see, East Texas,|%|2423|1
+B|there's two parts of Texas, East Texas and North Texas.|sd|2423|1
+B|Atlanta and Dallas are almost identical in every way, weather and everything.|sd|2423|1
+A|Yeah.|b|2423|0
+B|The two cities are very, very identical,|sd|2423|1
+B|so if you were familiar with Atlanta, uh,|sd|2423|1
+A|So it's that dry heat?|qy|2423|0
+B|Uh, well, no,|nn|2423|1
+B|it's, it's, uh, not dry at all.|sd|2423|1
+B|It, it's humid.|sd|2423|1
+A|Well, where is it,|%|2423|0
+A|is it wasn't it Houston's humid?|qy|2423|0
+B|Houston is awful|na|2423|1
+A|Yeah.|b|2423|0
+B|Houston is really humid.|na|2423|1
+B|No,|nn|2423|1
+A|It's humid.|sd|2423|0

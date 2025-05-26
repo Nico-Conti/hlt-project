@@ -1,0 +1,200 @@
+B|Okay, uh,|fo_o_fw_"_by_bc|2039|0
+B|my favorite show is MASTERPIECE THEATRE|sd|2039|0
+B|and it has been for a long time|sd|2039|0
+B|but I feel almost ashamed to say that to anybody now because I have never met anybody who likes it.|sd|2039|0
+B|Do you by any chance?|qy|2039|0
+A|Oh, yes.|ny|2039|1
+B|You do!|qy^d|2039|0
+A|Yes,|ny|2039|1
+A|very much.|sd|2039|1
+B|Well, wouldn't you know|ba|2039|0
+A|As a matter of fact, I prefer public television.|sd|2039|1
+B|Uh-huh.|b|2039|0
+A|And, uh, I have, particularly enjoy the English comedies, and the English mysteries.|sd|2039|1
+B|Yeah,|b|2039|0
+B|Yeah,|b|2039|0
+B|I watch mysteries too.|sd|2039|0
+B|Is that what you're referring to?|qy|2039|0
+A|Yes.|ny|2039|1
+B|Okay,|bk|2039|0
+B|yeah.|b|2039|0
+B|That is good.|ba|2039|0
+B|I like, uh,|sd|2039|0
+B|do you read?|qy|2039|0
+A|Vociferously.|na|2039|1
+B|Okay,|bk|2039|0
+B|well that's the reason why I like both of those programs is because they're kind of based on books.|sd|2039|0
+A|Yes.|b|2039|1
+B|And, the plots are more, um, challenging, you know, than the sitcoms of regular T V.|sv|2039|0
+A|Well, unfortunately for us at least here in the United States, we, the only access we have to that of course is public television.|sv|2039|1
+B|Yeah.|b|2039|0
+A|I'm, I'm not a great television watcher in any respect|sd|2039|1
+A|but, uh, the watching,|%|2039|1
+A|what I do watch is, uh, usually news and whatever is on public television.|sd|2039|1
+A|Any kind of,|%|2039|1
+A|I also uh, am very fond of great performances, in that regard.|sd|2039|1
+B|Uh-huh,|b|2039|0
+B|yeah.|b|2039|0
+B|Me too.|aa|2039|0
+A|But, uh|%|2039|1
+B|Did you stay up late and catch this RED DWARF?|qy|2039|0
+A|No|nn|2039|1
+B|Oh, that was a scream.|sv|2039|0
+A|no,|nn|2039|1
+A|no|nn|2039|1
+A|as a matter of fact, uh, Turner Broadcasting, has been uh, broadcasting all of the James Bond movies, every night this week,|sd|2039|1
+B|Uh-huh,|b|2039|0
+B|Really.|b|2039|0
+A|so I have concentrated on watching James Bond movies, this week|sd|2039|1
+B|I used to like him too,|sd|2039|0
+B|he was my hero.|sd|2039|0
+B|In fact, I like Sean Connery to this day.|sd|2039|0
+A|Well, they're showing uh, LIVE AND LET DIE at this moment,|sd|2039|1
+B|Yeah.|b|2039|0
+A|and, it is the first appearance of Roger Moore as double oh seven.|sd|2039|1
+B|Yeah.|b|2039|0
+A|So,|%|2039|1
+B|Oh, he can never cut it|sv|2039|0
+A|No,|aa|2039|1
+A|no|aa|2039|1
+A|that's true.|sv|2039|1
+A|I was just thinking that today, he did, well, in some of the later movies he looks very effeminate, in his early movies.|sv|2039|1
+B|Yeah,|aa|2039|0
+B|Yeah,|aa|2039|0
+B|yeah,|aa|2039|0
+B|he does.|sv|2039|0
+A|Whereas, uh, Sean Connery has maintained the, uh, how would you, uh, ruddy look,|sv|2039|1
+B|Uh-huh,|b|2039|0
+B|yeah.|aa|2039|0
+B|I liked his accent too.|sd|2039|0
+B|And, he can even be in movies that are not, uh, uh, sexually oriented,|sv|2039|0
+B|and he still comes off great.|sv|2039|0
+A|Well, you know he was, when was it, last year or year before last, he was voted the sexiest actor in movies, or something.|sd|2039|1
+B|He is.|sv|2039|0
+B|Yeah,|aa|2039|0
+B|he had my vote double|sd|2039|0
+A|I mean the man is sixty-two years old.|sd|2039|1
+B|I don't care|sd|2039|0
+A|But, uh, but otherwise you know we,|%|2039|1
+A|uh, with P B S and so forth.|%|2039|1
+A|And I, I particularly enjoy, I don't know whether you've had a chance to watch it on P B S but uh, the series, uh, YES MINISTER?|sd|2039|1
+B|Yeah.|b|2039|0
+B|Oh, what's that about?|qw|2039|0
+A|That was about a, the Interior Minister,|sd|2039|1
+A|it was a comedy,|sd|2039|1
+B|Oh, yeah,|b|2039|0
+B|yeah.|b|2039|0
+A|the Interior Minister of, in England, with the permanent secretary, and bureaucracy and all that.|sd|2039|1
+B|Uh-huh.|b|2039|0
+B|Right.|b|2039|0
+B|Right,|b|2039|0
+B|I, I've seen it several times.|sd|2039|0
+B|It's a scream,|sv|2039|0
+B|but I have to go to bed,|sd|2039|0
+B|I have to get up and, and work the next morning.|sd|2039|0
+B|I wish they'd put those,|sd|2039|0
+B|that's why I say, did you stay up late to watch this RED DWARF.|sd|2039|0
+B|It came on after DOCTOR WHO, on Saturday nights, here at least.|sd|2039|0
+A|Uh-huh.|b|2039|1
+B|And it should,|sv|2039|0
+B|of course I|%|2039|0
+B|really it was,|%|2039|0
+B|I don't think they should show it during prime time,|sv|2039|0
+B|but still, it was funny.|sv|2039|0
+A|Yeah.|b|2039|1
+A|Yeah,|b|2039|1
+A|I know.|b|2039|1
+A|Well I, I, I'm not much of a television watcher.|sd|2039|1
+A|I, I read as I said, and, uh, quite a bit.|sd|2039|1
+B|Uh-huh.|b|2039|0
+A|I read about two or three novels a week, in addition to all the technical stuff.|sd|2039|1
+B|Yeah.|b|2039|0
+A|What, what do you do?|qw|2039|1
+A|What kind of work do you do?|qw|2039|1
+B|I'm a Payroll Clerk.|sd|2039|0
+B|Just an accounting clerk.|sd|2039|0
+A|At T I?|qy^d|2039|1
+B|No, uh,|nn|2039|0
+B|I have a friend who works for T I|sd|2039|0
+B|and I work for a tire service, here in,|sd|2039|0
+A|Oh, I see.|bk|2039|1
+B|I'm from Dallas.|sd|2039|0
+A|Uh-huh.|b|2039|1
+A|Well the last two people who have called, both worked for T I|sd|2039|1
+A|and I just wondered.|sd|2039|1
+B|Yeah,|b|2039|0
+B|yeah,|b|2039|0
+B|it could be T I I think, probably are participating more than anybody else,|sv|2039|0
+B|but I needed the money.|sd|2039|0
+B|This is five bucks here.|sd|2039|0
+A|I think that's something we all|sv|2039|1
+B|Yeah,|aa|2039|0
+B|really.|aa|2039|0
+B|Do you work for T I?|qy|2039|0
+A|No,|nn|2039|1
+A|no,|nn|2039|1
+A|I work for G T E. In Maryland,|sd|2039|1
+B|Really?|bh|2039|0
+A|yes.|ny|2039|1
+B|How did you hear,|qw|2039|0
+B|oh we're not even supposed to be talking about this though, are we?|qy|2039|0
+A|I guess not.|ng|2039|1
+A|How did I hear about it?|br|2039|1
+A|Well I work, you know,|sd|2039|1
+A|they are gathering a data base for voice processing.|sd|2039|1
+B|Uh-huh.|b|2039|0
+A|And, that's my field of work also.|sd|2039|1
+B|Oh!|b|2039|0
+A|So I, I know the people at T I who are doing this|sd|2039|1
+A|and I heard about it,|sd|2039|1
+A|so I called them and asked if I could participate. And, uh, You know send in the forms et cetera and uh so forth.|sd|2039|1
+B|Oh.|b|2039|0
+B|Right.|b|2039|0
+A|We could go back to television shows.|oo_co_cc|2039|1
+B|Well, you know, speaking of public TV, have you caught any of this series on the Bible?|qy|2039|0
+A|Yes,|ny|2039|1
+A|I have.|sd|2039|1
+B|I've heard that it's really against the, well I mean that it's coming out with the idea that the Bible's not true.|sd|2039|0
+A|Well, no.|ar|2039|1
+A|That's, uh,|%|2039|1
+A|you could interpret it that way.|sv|2039|1
+B|Uh-huh.|b|2039|0
+A|Uh, I, I think what they are trying to say, is that there is a great deal of historical truth,|sv|2039|1
+A|but the interpretation that actually got into the writing of the Bible itself is probably uh, after the what, uh, was is it the King James Version when the committee did it, wrote the translation, that so much was lost in the translation, particularly since most of the translations were in Greek.|sv|2039|1
+B|Yeah.|b|2039|0
+A|Well, for example. In Greek there are seven different words for love.|sd|2039|1
+B|Right.|b|2039|0
+A|Okay,|b|2039|1
+A|so you can have,|sd|2039|1
+A|there's one word for love of your brother, one word for love of your wife, one word for, you know, uh, love of your father, and that sort of thing.|sd|2039|1
+A|So, in, as to those types of interpretations, uh, really made a difference in how one might interpret the Bible now, and what it's at.|sv|2039|1
+B|Uh-huh.|b|2039|0
+A|So that's, you know,|%|2039|1
+A|you can look at it as though they are saying it's not true,|sv|2039|1
+A|but there's too much historical fact involved just from the uh, the histories that are, were developed around that time, that are available. To deny that, at least the majority of it is true.|sv|2039|1
+B|Yeah.|b|2039|0
+A|So, you know, it depends on how you look at it.|h|2039|1
+B|Yeah.|b|2039|0
+A|You can look at it, you know,|sv|2039|1
+A|if you want to say that it's proven that it isn't true, then you can very much look at it that way.|sv|2039|1
+B|I guess if you're looking for that, you're,|sv|2039|0
+A|Yeah,|b|2039|1
+A|well, Well, you can interpret that the, what the T V show, in the same way that you can interpret the Bible.|sv|2039|1
+B|that, uh,|%|2039|0
+B|Uh-huh.|b|2039|0
+A|So,|%|2039|1
+B|Really.|b|2039|0
+A|But, uh, as, as far as that goes, I, we at least agree on what we enjoy.|sd|2039|1
+B|Yeah,|aa|2039|0
+B|that's right.|ba|2039|0
+A|But, uh, I don't know if there is, there is a time limit on this, so, uh.|sd|2039|1
+B|Yeah.|b|2039|0
+B|Surely we've made it.|sv|2039|0
+A|I think so too.|aa|2039|1
+A|Let's just,|ad|2039|1
+A|it's been very pleasant talking to you,|fc|2039|1
+B|It was very nice talking to you.|fc|2039|0
+A|and have a good evening.|fc|2039|1
+B|You too.|fc|2039|0
+A|Good night!|fc|2039|1
+B|Bye-bye.|fc|2039|0

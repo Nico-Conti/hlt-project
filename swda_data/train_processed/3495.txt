@@ -1,0 +1,107 @@
+B|Okay,|fo_o_fw_"_by_bc|3495
+B|what do you feel are some of the main problems?|qw|3495
+A|Well, I'm in a, I'm in an urban area.|sd|3495
+A|I'm in Dallas.|sd|3495
+B|Uh-huh.|b|3495
+A|And we're finding that crime is going up very quickly and has become a major problem, uh, even a more major problem.|sd|3495
+A|Uh, in Dallas, some of the major problems, uh,|sd|3495
+A|drugs seems to be related to quite a bit of the crime we have now.|sd|3495
+A|There is a lot of theft, a lot of assault dealing with, uh, people trying to get money for drugs.|sd|3495
+B|Yeah.|b|3495
+A|And, uh, I think that's a national problem, though.|sv|3495
+B|It, it, it's pretty bad here, too.|sd|3495
+A|It's not unique,|sv|3495
+B|We've had a lot of murders drug related and stuff. In Durham, which is right next to Raleigh.|sd|3495
+A|Yes.|b|3495
+A|Uh-huh.|b|3495
+A|Well, now, we're pretty close to the golden triangle, aren't you?|qy|3495
+B|Yeah,|ny|3495
+B|that, that|%|3495
+B|Durham, Raleigh, and Chapel Hill is the triangle.|sd|3495
+A|Right,|aa|3495
+A|research triangle and all of that.|bf|3495
+B|Right.|aa|3495
+A|And, uh, I'm sure you have a lot of students there, uh, and a lot of researchers|sv|3495
+A|so you, you may have a, you know, perhaps a little better economic climate,|sv|3495
+A|but, in all your cities now, it seems like there is a, a crowd that's really effected by this bill.|sv|3495
+B|Yeah,|aa|3495
+B|it's, it's really, it's,|%|3495
+B|and I've seen in more in Durham than I have in Raleigh or, or or Chapel Hill.|sd|3495
+A|Really?|bh|3495
+B|Chapel Hill is kind of a, a ritzy city or whatever.|sd|3495
+B|I mean, it's kind of,|sd|3495
+B|I'm, I'm sure there is problems with it,|sd|3495
+B|but it has a pretty low crime rate. Compare, compared to, to, Durham has probably got the worst.|sd|3495
+B|They've had like forty-eight murders since the beginning of the year.|sd|3495
+A|Really?|bh|3495
+B|And over half of it has been drug related.|sd|3495
+A|Um. Well, here, uh, I'm not sure how many Dallas has had.|sd|3495
+A|I've, uh,|%|3495
+A|Houston is averaging about two a week or three or four,|sd|3495
+A|I, I don't know.|h|3495
+A|A, a number every week.|sd|3495
+B|Yeah.|b|3495
+A|Uh, Dallas is having quite a few.|sd|3495
+A|Seems like most of ours are occurring in late at night or, or, like I say, drug related.|sd|3495
+A|Uh, I guess the other thing was that are causing a lot of the crime now is the decrease in values.|sv|3495
+A|Seems like a, a lot of people don't hold human life quite as high as perhaps they used to.|sv|3495
+B|Yeah.|b|3495
+A|Uh, I,|%|3495
+B|Well, that,|%|3495
+B|and the, and the economy is so bad|sd|3495
+B|and, And so many people have been laid off and stuff.|sd|3495
+A|The economy is lousy|bf|3495
+B|They've done special stories on the news, local news here.|sd|3495
+A|Uh-huh.|b|3495
+B|We had a lot of bank robberies and different, lot of break ins and stuff.|sd|3495
+B|I know, like a week or so ago,|sd|3495
+B|I live in a, in a town house, which is, you know,|sd|3495
+B|it's a pretty nice neighborhood|sd|3495
+B|and this lady was going to work,|sd|3495
+B|she came home and everything in her house was total gone, light fixtures, everything.|sd|3495
+B|And nobody thought any different,|sd|3495
+B|they just thought she was moving.|sd|3495
+B|It was a moving man pulled right up to her house, broke in and stole everything she owned|sd|3495
+A|Boy that really, that really takes someone who is bold to do that.|sv|3495
+B|Well, yeah,|aa|3495
+B|it's, it's, it's pretty bad|sv|3495
+A|Well, now, do you find that security is very good in, in a, in a town home?|qy|3495
+B|Uh, I would say so for the majority in, in our, in my little section of the neighborhood because there is always somebody at home|na|3495
+A|Uh-huh.|b|3495
+B|and we all know one another|sd|3495
+B|and, and, on our one little section of the street we all know one another and know that we're not moving and different things like that.|sd|3495
+A|Well, that,|%|3495
+B|It's,|%|3495
+B|I, I'm, I'm probably the, one of the youngest people that live over here.|sd|3495
+A|I see.|bk|3495
+B|Most people are, are, retired|sd|3495
+B|or, or, or, you know, they're, they're in their forties or, or whatever.|sd|3495
+B|So and I'm in my twenties,|sd|3495
+B|so I, I'm, I'm out more than they are,|sd|3495
+B|but they're at home at night,|sd|3495
+A|Yeah.|b|3495
+B|so I really don't worry about anything.|sd|3495
+A|Well, I think you hit on one point there is you know each other.|sv|3495
+B|Yeah.|b|3495
+A|I'm, I'm in a neighborhood where we try to keep up with everything.|sd|3495
+A|Uh, I am, oh, about three blocks off a major road and, uh, a couple of blocks off another road that kind of runs,|sd|3495
+A|I guess you would say the neighborhood road, it runs between the high school and the, the commercial districts|sd|3495
+A|and, uh, I'm over the northeast part of Dallas.|sd|3495
+A|It's a, in a nice neighborhood.|sd|3495
+A|The houses here, uh, before the recession were running two hundred thousand or so|sd|3495
+A|and, course, everything's down ten to twenty percent now.|sd|3495
+B|Yeah,|b|3495
+B|see, that's the same thing here.|sd|3495
+A|But we have, uh,|sd|3495
+A|one, one thing that effects us is we have apartments that are probably about a half mile away|sd|3495
+A|and now the economy is bad,|sd|3495
+A|they have trouble keeping those full|sd|3495
+A|so they've dropped the, uh,|sd|3495
+A|they're not nearly as selective as they used to be.|sd|3495
+B|Yeah.|b|3495
+A|And, course, that's kind of like a cancer in an apartment complex.|sv|3495
+A|You start letting that happen and they go down|sv|3495
+A|and then before you know it you have drugs and a lot of other things|sv|3495
+A|so, uh, I'm sure that aggravates it also.|sv|3495
+B|Yeah.|b|3495
+A|But, unemployment now in Dallas, or in Texas is up around six point,|sd|3495

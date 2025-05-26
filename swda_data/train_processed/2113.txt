@@ -1,0 +1,177 @@
+A|Uh, the last movie that I saw,|sd|2113
+A|I, I don't go to that many|sd|2113
+A|so I'll just have to talk about the ones that I went to see,|sd|2113
+A|but, uh, it was AWAKENINGS with, uh, Robin Williams and, uh, Peter DeNiro.|sd|2113
+B|Okay.|b|2113
+B|Yes,|b|2113
+B|uh-huh.|b|2113
+A|Have you seen it.|qy^d|2113
+B|No|nn|2113
+B|unfortunately I haven't,|sd|2113
+B|I heard it's really good,|sd|2113
+B|but.|%|2113
+A|It is.|sv|2113
+A|I just have to take my hat off to Peter DeNiro.|sv|2113
+B|Uh-huh.|b|2113
+A|He is one of the best actors I've ever seen.|sv|2113
+A|It's,|%|2113
+A|there's a point where,|%|2113
+A|the, uh, the show is about these, uh, catatonic type people that,|sd|2113
+A|this doctor discovers a drug that brings them back to the, the living, more or less,|sd|2113
+A|but it wears off.|sd|2113
+B|Uh-huh.|b|2113
+A|And the way it wears off is he goes through all these spastic, you know, uh,|sd|2113
+A|it starts off with like a tic,|sd|2113
+B|Uh-huh.|b|2113
+A|and then it gets to where he can't, you know, control his movements at all.|sd|2113
+A|And it was just so realistic.|sd|2113
+A|The way, you know, you have to just keep reminding yourself that he's an actor.|sd|2113
+B|Uh-huh.|b|2113
+B|What does, uh,|qw|2113
+B|is|%|2113
+B|Robby, Robin Williams, does he have a funny part in it?|qy|2113
+A|No,|nn|2113
+A|it was very serious, very|sd|2113
+B|Oh how does he do serious.|qo|2113
+A|He's good,|sv|2113
+A|he's, he's talented,|sv|2113
+A|boy, he is.|ba|2113
+B|I've only seen him in funny stuff|sd|2113
+B|and so.|%|2113
+A|I know,|b|2113
+A|me too.|sd|2113
+A|But, uh, well, what was that show, um, uh,|qw^d|2113
+A|I want to say Garfield|sd|2113
+A|but that wasn't it.|sd|2113
+B|Yeah,|b|2113
+B|uh, GARP, THE WORLD ACCORDING TO GARP.|sd|2113
+A|Yeah,|aa|2113
+A|THE WORLD ACCORDING TO GARP.|sd|2113
+A|He wasn't always funny in that show, was he.|qy|2113
+B|I didn't read, see the, the movie,|no|2113
+B|I read the book|sd|2113
+B|but I,|%|2113
+A|I did too.|sd|2113
+A|That's why I was thinking it couldn't be just a totally funny part|sd|2113
+B|Yeah,|b|2113
+B|in fact, it got some pretty serious deep parts in it|sd|2113
+B|so.|%|2113
+A|Yeah,|b|2113
+A|right.|b|2113
+B|Yeah.|b|2113
+A|Well what have you seen?|qw|2113
+B|I think the last movie that we went out to see was DANCES WITH WOLVES.|sd|2113
+A|Oh, I saw it.|sd|2113
+B|Good,|b|2113
+B|we've both seen one|sd|2113
+B|Did you cry through it?|qy|2113
+A|Yes,|ny|2113
+A|the whole way|sd|2113
+B|It was telling a friend, I, I said, I only cried twice,|sd|2113
+B|but each was about half an hour long,|^q|2113
+B|so.|%|2113
+A|Where did you cry.|qw^d|2113
+B|Um, let's see,|^h|2113
+B|when I, each time that I thought that the Indians were going to get killed, I cried.|sd|2113
+A|Uh-huh.|b|2113
+B|Um, I cried the first time when the, um, the wagon man got killed, when they attacked him.|sd|2113
+A|Uh-huh,|b|2113
+A|yeah,|b|2113
+A|yeah.|b|2113
+B|And, uh, I think from there on, all the way through the movie.|sd|2113
+B|Let's see what else did it. Um, what other parts.|^h|2113
+B|I can't remember any of the other parts right off now.|sd|2113
+A|I cried when the horse got killed and when the wolf got killed|sd|2113
+B|I don't remember when the horse got killed.|sd|2113
+A|Oh,|%|2113
+A|when he was riding back to the settlement and they shot his horse out from under him.|sd|2113
+B|Oh, yeah.|b|2113
+A|And then he, uh, the next day he looked out there and saw those buzzards, you know|sd|2113
+B|Uh-huh.|b|2113
+A|And that horse has been such a pal to him, when he was alone.|sd|2113
+B|Yeah.|b|2113
+A|You can tell I'm an animal lover,|sv|2113
+A|you can hear my dog|sv|2113
+B|Unfortunately we don't have any animals,|sd|2113
+B|so, uh.|%|2113
+A|Yeah.|b|2113
+A|It was a beautiful story,|sv|2113
+A|it really was.|sv|2113
+B|It,|%|2113
+B|there was a lot of pretty scenery, too, in that movie.|sv|2113
+A|Uh-huh,|b|2113
+A|uh-huh.|b|2113
+B|What did you think about the buffalo scenes.|qw^d|2113
+A|Oh, I thought it was awful, and so graphic,|sv|2113
+B|That was,|aa|2113
+B|Yeah.|b|2113
+A|I mean I hadn't even imagined it, you know.|sd|2113
+A|I think we all heard the story of the slaughter of the buffalo.|sv|2113
+B|Uh-huh.|b|2113
+A|Um, I had a friend who had fixed some, uh, chili, buffalo chili and, about a week before went to see the movie.|sd|2113
+B|Oh, oh.|b|2113
+A|Of course they raise them now, you know, to eat.|sd|2113
+B|Uh-huh,|b|2113
+B|yeah,|b|2113
+B|it's not,|%|2113
+A|But she, we were both feeling so guilty about enjoying this chili after seeing that.|sd|2113
+B|Uh-huh,|b|2113
+B|well at least you know that it wasn't same situation that the buffalo died in.|sd|2113
+A|No|aa|2113
+A|it wasn't|sd|2113
+B|Um, I thought the scenes when the buffalos running, though, were beautiful,|sv|2113
+B|like that was great.|sv|2113
+A|Oh, yeah.|aa|2113
+B|And there were so many of them.|sd|2113
+B|I didn't know that, that many buffaloes alive, much less in one place.|sd|2113
+A|Yeah,|b|2113
+A|really.|b|2113
+B|So that was pretty.|sv|2113
+A|And to think about how it just changed the whole landscape, you know, you could follow this, this beaten down path,|sd|2113
+B|Yeah.|b|2113
+A|and it sounded like thunder and earthquakes and that sort of thing.|sv|2113
+B|I wonder how they kept up with them, though,|sd|2113
+B|it seemed like the buffaloes were moving so fast.|sd|2113
+A|I know.|aa|2113
+B|I guess they graze, though,|sd|2113
+B|that wouldn't be a problem.|sv|2113
+A|Yeah,|b|2113
+A|yeah.|b|2113
+A|Uh, have you seen any of the behind the scenes, uh, of, of that movie.|qy^d|2113
+B|No,|nn|2113
+B|huh-uh.|nn|2113
+A|It was,|%|2113
+A|they tried to keep it, you know, as very close to real.|sv|2113
+B|Uh-huh.|b|2113
+A|I mean like Kevin Costner did all of his own scenes|sd|2113
+A|and, uh, they had to teach a wolf how to, to howl.|sd|2113
+B|Oh.|b|2113
+A|That's the, part they had trouble finding was wolves|sd|2113
+B|I guess they're just not domesticated,|sv|2113
+B|or, or,|%|2113
+A|Yeah,|b|2113
+A|what,|%|2113
+A|they just don't howl that much anymore.|sv|2113
+A|I could bring them in with my dogs and set a siren off|sd|2113
+A|and that's all they'd have to do|sd|2113
+A|Yeah.|b|2113
+B|Well that's funny.|ba|2113
+A|Well, I think we've made it.|sv|2113
+B|Oh is that five minutes,|qy^d|2113
+B|is that,|%|2113
+A|I don't know,|no|2113
+A|is it five or three.|qy|2113
+B|Okay, oh,|bk|2113
+B|I'm not sure.|no|2113
+A|I'm not either.|sd|2113
+B|Okay,|b|2113
+B|well I think we're, we're, we've done okay, though.|sv|2113
+A|Okay,|b|2113
+A|me too.|aa|2113
+B|Well thank you for calling.|fc|2113
+A|Well thank you.|fc|2113
+B|And I hope you enjoy some more good movies|fc|2113
+A|Yeah,|fc|2113
+A|you too.|fc|2113
+B|Bye, bye.|fc|2113
+A|Bye, bye.|fc|2113

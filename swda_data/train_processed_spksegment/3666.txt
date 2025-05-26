@@ -1,0 +1,217 @@
+A|Hello.|fp|3666|0
+B|Yes,|fp|3666|1
+B|I forgot we had to hit one|sd|3666|1
+B|Our time will be up.|sd|3666|1
+A|Well, I hit one and nothing happened.|sd|3666|0
+A|What's going on?|qw|3666|0
+B|Well, just go ahead and talk,|sd|3666|1
+B|that's all.|sd|3666|1
+A|Are you sure?|qy|3666|0
+B|Yeah.|ny|3666|1
+A|Don't they usually tell you to say something?|qy|3666|0
+B|I don't think so.|ng|3666|1
+A|Oh.|b|3666|0
+B|Uh-huh.|b|3666|1
+A|Okay,|b|3666|0
+A|we're supposed to talk about lawn and garden.|sd|3666|0
+B|Yes,|aa|3666|1
+B|I'm, I'm supposed to find out what you do for your lawn and garden.|sd|3666|1
+A|What do I do?|qy|3666|0
+B|Uh-huh.|ny|3666|1
+A|Well, I, uh, I cut it occasionally.|sd|3666|0
+B|Good.|b|3666|1
+B|Uh-huh,|b|3666|1
+B|you're ahead of me.|sd|3666|1
+A|Is, uh, is that good?|qy|3666|0
+A|Okay.|%|3666|0
+B|That's better.|na|3666|1
+A|And I edge it occasionally.|sd|3666|0
+B|Oh, that's really good.|ba|3666|1
+A|Yeah,|b|3666|0
+A|see, am I good, or what?|qh|3666|0
+B|Yeah.|b|3666|1
+A|And, uh, Uh, much beyond that I don't do|sd|3666|0
+B|I don't do any of that.|sd|3666|1
+B|Really,|b|3666|1
+B|well, I call my lawn man, Eric, whatever his name is, I can't remember. Who's going to come and build me a fence, too.|sd|3666|1
+A|Uh-huh.|b|3666|0
+A|Oh, he is going to build you a fence.|qy^d|3666|0
+B|Well, he's giving me an estimate.|no|3666|1
+A|Uh-huh.|b|3666|0
+B|And for ten dollars a week, I don't see any reason for me to be doing it.|sv|3666|1
+A|What, for a fence?|br|3666|0
+A|Oh, well, I thought, isn't he the same one?|qy|3666|0
+B|he is.|sd|3666|1
+A|Yeah.|b|3666|0
+B|Yeah,|b^m|3666|1
+B|but ten dollars, or what what does he charge, not even that.|sv|3666|1
+B|What does he charge me?|qw|3666|1
+A|Well, my,|%|3666|0
+A|I don't know.|sd|3666|0
+B|It's like next to nothing.|sv|3666|1
+B|it's ten because I,|sd|3666|1
+B|it's forty a month.|sd|3666|1
+A|Yeah.|b|3666|0
+B|But if there's five weeks, I still pay forty.|sd|3666|1
+A|Yeah,|b|3666|0
+A|but you know, you ought to get him to pull the weeds.|ad|3666|0
+B|Well, he won't pull weeds.|sd|3666|1
+B|He says he'll spray them,|sd|3666|1
+B|but he won't pull them.|sd|3666|1
+A|Oh.|b|3666|0
+B|Uh, he won't cut them is what he won't do. Because he said with the rocks that it's too dangerous for him to take the, the trimmer over the rocks|sd|3666|1
+A|Uh-huh.|b|3666|0
+A|Yeah.|b|3666|0
+A|Uh-huh.|b|3666|0
+B|and he's right.|sv|3666|1
+A|Yeah.|b|3666|0
+B|That's true.|sv|3666|1
+B|But he just says to keep spraying them so,|sd|3666|1
+A|Well so,|%|3666|0
+B|Anyway, Gene sprayed them once or twice for me|sd|3666|1
+B|so that was real,|sv|3666|1
+A|Yeah,|b|3666|0
+A|so you haven't, you haven't pulled any weeds lately?|qy^d|3666|0
+B|No.|nn|3666|1
+B|No.|nn|3666|1
+B|There are two out front|sd|3666|1
+B|I thought I'd grab one of these days,|sd|3666|1
+B|but I haven't bothered as I walk on by.|sd|3666|1
+A|Yeah.|b|3666|0
+B|I started to pull the weeds in the rocks out front|sd|3666|1
+A|Uh-huh.|b|3666|0
+B|and all of a sudden I came cross this big clump of weeds|sd|3666|1
+B|and there was dog dirt in it|sd|3666|1
+A|Oh, oh, goody.|ba|3666|0
+B|and I threw the gloves in the trash bag that was out there|sd|3666|1
+B|and I left the whole thing|sd|3666|1
+B|and  that was about a month ago.|sd|3666|1
+A|I thought you were going to say there  I thought you were going to say there was a snake in the weeds|sd|3666|0
+B|I would rather a snake,|sd|3666|1
+B|no|ar|3666|1
+A|Oh, God, oh|ba|3666|0
+B|I just left the whole thing.|sd|3666|1
+B|The bag is still out there because I haven't touched it.|sd|3666|1
+A|Yeah.|b|3666|0
+B|I haven't gone back over there.|sd|3666|1
+B|It really made me mad.|sd|3666|1
+A|Oh, God.|ba|3666|0
+B|So anyway but,|%|3666|1
+A|But, uh, how are your, your flowers, your little things you planted?|qw|3666|0
+A|Did they die or what?|qy|3666|0
+B|Oh, yeah,|ny|3666|1
+B|now they died.|sd|3666|1
+A|Oh, they're all,|%|3666|0
+A|so they, oh,|%|3666|0
+A|are they going to come back in the spring?|qy|3666|0
+B|I don't know.|no|3666|1
+A|Oh.|b|3666|0
+B|I don't know,|sd|3666|1
+B|and then I got some nice, uh, mums at Thanksgiving that I put in the pots out there|sd|3666|1
+A|Uh-huh.|b|3666|0
+B|and I thought they were supposed to live through all the cold weather.|sv|3666|1
+A|Yeah.|b|3666|0
+B|They looked real pretty until about a week before Christmas,|sv|3666|1
+B|then they started to die, too.|sd|3666|1
+A|Oh.|b|3666|0
+B|So, I don't think any of it comes back|sv|3666|1
+B|but I don't know,|h|3666|1
+A|Yeah.|b|3666|0
+B|maybe these,|sv|3666|1
+B|sometimes things do that aren't even supposed to.|sd|3666|1
+A|I don't know, uh,|sd|3666|0
+B|So,|%|3666|1
+A|Those flowers, remember those little ones you gave me?|qy|3666|0
+B|Yeah.|ny|3666|1
+A|Yeah,|b^m|3666|0
+A|well, they're, I know they were still blooming up until about a, a few weeks ago.|sd|3666|0
+B|Really?|bh|3666|1
+A|Yeah.|ny|3666|0
+B|Well, that's good.|ba|3666|1
+B|They're the best kind.|sv|3666|1
+A|Yeah|b|3666|0
+A|they, They're really pretty.|sv|3666|0
+B|They, they're like indestructible.|sv|3666|1
+B|They really grow nice|sv|3666|1
+B|and sometimes, they're not supposed to come back,|sd|3666|1
+B|but lots of times they do.|sd|3666|1
+A|Uh-huh.|b|3666|0
+B|So,|%|3666|1
+A|Yeah|b|3666|0
+B|We'll see.|sv|3666|1
+B|They're letting us have a lot of time on this aren't they?|qy|3666|1
+A|Yeah,|ny|3666|0
+A|I mean isn't it supposed to be five minutes?|qy|3666|0
+B|But that's because we didn't hit one for a long time.|sd|3666|1
+A|We didn't disconnect, did we|qy|3666|0
+B|I hope not|sv|3666|1
+B|Neither one of us is getting paid for this.|sv|3666|1
+A|Boy, I hate to think I hate to think I'd be talking to you without getting paid|sd|3666|0
+B|Yeah,|b|3666|1
+B|really,|ba|3666|1
+B|I know it.|sd|3666|1
+B|I can't believe this.|sd|3666|1
+B|I got somebody from Utah and somebody,|sd|3666|1
+A|What?|br|3666|0
+A|Uh-huh.|b|3666|0
+B|where was the person last night was from far away.|sd|3666|1
+A|You're kidding?|ba|3666|0
+A|Really?|bh|3666|0
+B|And we get each other down the street.|sd|3666|1
+B|This is so funny.|sv|3666|1
+A|Well, the, uh,|%|3666|0
+A|I, I talked to someone woman from Oklahoma City and some woman from Dallas|sd|3666|0
+A|and that was it.|sd|3666|0
+B|Yeah,|b|3666|1
+B|I've had Dallas, Arlington.|sd|3666|1
+B|I've had, uh, one Plano and then a lady from Brigham, Utah whose  son lives in Plano on Ranier someplace. And then, uh, another state,|sd|3666|1
+A|Uh-huh.|b|3666|0
+A|Wow.|ba|3666|0
+A|Really?|bh|3666|0
+B|I can't remember,|sd|3666|1
+B|but she told me about the Utah Jazz,|sd|3666|1
+B|we talked about basketball.|sd|3666|1
+A|Oh, really|bh|3666|0
+B|And I don't remember what, what the place was last night,|sd|3666|1
+B|but I'm thinking Colorado,|sd|3666|1
+A|Yeah.|b|3666|0
+B|but I'm not sure|sd|3666|1
+B|I'd know the place, anyway.|sd|3666|1
+A|Uh-huh.|b|3666|0
+B|So,|%|3666|1
+A|I don't know,|h|3666|0
+B|But mostly they're from the area.|sd|3666|1
+A|Yeah.|b|3666|0
+B|It,|%|3666|1
+A|Well, there isn't really much to talk about as far as lawn and garden goes.|sv|3666|0
+B|Not for me.|aa|3666|1
+A|Not for me either.|sd|3666|0
+B|You know, not not for me because all I have is rocks and weeds.|sd|3666|1
+A|What do I,|qw|3666|0
+A|Yeah,|b|3666|0
+A|but I don't, you know,|sd|3666|0
+A|I, what do I do, cut it one, you know, and, and edge it|sd|3666|0
+A|and that's about it.|sd|3666|0
+B|I know.|sd|3666|1
+A|What do I do with it?|qw|3666|0
+B|I know,|sd|3666|1
+B|we're not typical Texans.|sv|3666|1
+A|No.|aa|3666|0
+A|What's going on,|qw|3666|0
+A|are they going to tell us to stop or what|qy|3666|0
+B|I don't know,|no|3666|1
+B|I hope so.|sd|3666|1
+B|Come on,|ad|3666|1
+B|come on.|ad|3666|1
+A|Isn't it five minutes?|qy|3666|0
+B|I don't know.|no|3666|1
+A|I, I mean, I'm all talked out about gardens.|sd|3666|0
+B|I know.|sd|3666|1
+B|Well, we can talk about something else.|oo_co_cc|3666|1
+B|It's just a suggested topic.|sd|3666|1
+A|Oh, oh, it's just suggested?|qy^d|3666|0
+B|So, how's the baby, do you think|qo|3666|1
+A|What?|br|3666|0
+B|How's the,|qw|3666|1
+A|We could talk, Let's talk about the baby.|oo_co_cc|3666|0
+B|Let's talk about the baby.|ad|3666|1

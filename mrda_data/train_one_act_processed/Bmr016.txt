@@ -1,0 +1,2289 @@
+me011|and we already got the crash out of the way.|S|Bmr016
+me011|it did crash so i feel much better earlier.|S|Bmr016
+me013|yeah.|B|Bmr016
+fe008|interesting.|S|Bmr016
+me013|will you get the door?|Q|Bmr016
+fe008|huh.|D|Bmr016
+me013|and|F|Bmr016
+me013|okay|F|Bmr016
+me011|okay so um|F|Bmr016
+me013|you collected an agenda huh?|S|Bmr016
+me011|i did collect an agenda.|S|Bmr016
+me011|so i'm going to go first.|S|Bmr016
+me011|mwa-ha-ha!|S|Bmr016
+me011|it shouldn't take too long.|S|Bmr016
+fe008|yeah.|B|Bmr016
+me011|um so we're pretty much out of digits.|S|Bmr016
+me011|we've gone once through the set.|S|Bmr016
+me011|um so the only thing i have to do|D|Bmr016
+me013|no there's only ten.|S|Bmr016
+me011|yeah that's right.|S|Bmr016
+me011|so i i just have to go through them.|S|Bmr016
+me013|well okay.|S|Bmr016
+me011|and uh pick out the ones that have problems.|S|Bmr016
+me011|and either correct them or have them reread.|S|Bmr016
+me011|so we probably have like four or five more forms to be read to be once through the set.|S|Bmr016
+me011|i've also extracted out about an hour's worth.|S|Bmr016
+me011|we have about two hours worth.|S|Bmr016
+me011|i extracted out about an hour's worth.|S|Bmr016
+me011|which are the digits with for which whose speaker have speaker forms.|S|Bmr016
+me011|have filled out speaker forms.|S|Bmr016
+me011|not everyone's filled out a speaker form.|S|Bmr016
+me011|so i extracted one for speakers who have speaker forms.|S|Bmr016
+me011|and for meetings in which the key file and the transcript files are parsable.|S|Bmr016
+me011|some of the early key files it looks like were done by hand.|S|Bmr016
+me011|and so they're not automatically parsable.|S|Bmr016
+me011|and i have to go back and fix those.|S|Bmr016
+me011|so what that means is we have about an hour of transcribed digits that we can play with.|S|Bmr016
+me011|um|F|Bmr016
+me013|so you think two you think two hours is the is the total that we have.|S|Bmr016
+me011|liz|D|Bmr016
+me011|yep.|S|Bmr016
+me011|yeah.|S|Bmr016
+me013|and you think uh|D|Bmr016
+me013|i i didn't quite catch all these different things that are not quite right.|S|Bmr016
+me013|but you think we'll be able to retrieve the other hour reasonably?|Q|Bmr016
+me011|yes absolutely.|S|Bmr016
+me013|okay.|S|Bmr016
+me011|so it's just a question of a little hand editing of some files.|S|Bmr016
+me011|and then waiting for more people to turn in their speaker forms.|S|Bmr016
+me011|i have this web based speaker form.|S|Bmr016
+me011|and i sent mail to everyone who hadn't filled out a speaker form.|S|Bmr016
+me011|and they're slowly trickling in.|S|Bmr016
+me013|so the relevance of the speaker form here|D|Bmr016
+me011|it's for labeling the extracted audio files.|S|Bmr016
+me013|oh okay.|S|Bmr016
+me011|by speaker i.d. and microphone type.|S|Bmr016
+me013|wasn't like whether they were giving us permission to use their digits or something.|S|Bmr016
+me011|no i spoke with jane about that.|S|Bmr016
+me011|and we sort of decided that it's probably not an issue that|D|Bmr016
+me011|we edit out any of the errors anyway right?|S|Bmr016
+me013|yeah.|B|Bmr016
+me011|so there are no errors in the digits.|S|Bmr016
+me011|you'll always read the string correctly.|S|Bmr016
+me011|so i can't imagine why anyone would care.|S|Bmr016
+me011|so the other topic with digits is uh|D|Bmr016
+me011|liz would like to elicit different prosodics.|S|Bmr016
+me011|and so we tried last week with them written out in english.|S|Bmr016
+me011|and it just didn't work at all.|S|Bmr016
+me011|because no one grouped them together.|S|Bmr016
+me011|so it just sounded like many many more lines instead of anything else.|S|Bmr016
+me011|so in conversations with liz and uh jane we decided that if you wrote them out as numbers instead of words it would elicit more phone number social security number like readings.|S|Bmr016
+me011|the problem with that is it becomes numbers instead of digits.|S|Bmr016
+me011|when i look at this that first line is sixty one sixty two eighteen eighty six ten.|S|Bmr016
+me011|um and so the question is does anyone care?|Q|Bmr016
+me011|um i've already spoken with liz and she feels that correct me if i'm wrong that for her connected numbers is fine.|S|Bmr016
+fe008|uhhuh.|B|Bmr016
+me011|as opposed to connected digits.|S|Bmr016
+me011|um i think two hours is probably fine for a test set.|S|Bmr016
+me011|but it may be a little short if we actually want to do training and adaptation and all that other stuff.|S|Bmr016
+me013|yeah.|B|Bmr016
+me013|um do um|F|Bmr016
+me013|you want different prosodics.|S|Bmr016
+me013|so if you always had the same groupings you wouldn't like that?|Q|Bmr016
+me013|is that correct?|Q|Bmr016
+fe016|well we actually figured out a way to|D|Bmr016
+me011|yeah the the|D|Bmr016
+fe016|the the groupings are randomly generated.|S|Bmr016
+me013|no but i was asking if that was something you really cared about.|S|Bmr016
+me013|because if it wasn't it seems to me if you made it really specifically telephone groupings that maybe people wouldn't uh go and do numbers so much.|S|Bmr016
+me013|you know if if it's|D|Bmr016
+fe016|i think they may still do it.|S|Bmr016
+mn014|uh|D|Bmr016
+fe016|um|F|Bmr016
+me013|maybe some but probably not so much.|S|Bmr016
+me018|what about putting a hyphen between the numbers in the group?|Q|Bmr016
+fe016|and|D|Bmr016
+me013|right?|Q|Bmr016
+me013|so if you if if you have uh|D|Bmr016
+me011|six dash one you mean?|Q|Bmr016
+me013|if you go six six six uh dash uh two nine three one.|S|Bmr016
+fe016|i well okay i it might help|D|Bmr016
+fe016|i would like to get away from having only one specific grouping.|S|Bmr016
+me013|that's what i was asking yeah.|S|Bmr016
+fe016|um so if that's your question.|S|Bmr016
+me013|yeah.|B|Bmr016
+fe016|but i mean it seems to me that at least for us we can learn to read them as digits.|S|Bmr016
+fe016|if that's what people want.|S|Bmr016
+fe008|yeah.|S|Bmr016
+fe016|i i'm|D|Bmr016
+fe008|yeah.|B|Bmr016
+fe016|don't think that'd be that hard to read them as single digits.|S|Bmr016
+fe008|i agree.|S|Bmr016
+fe016|um|F|Bmr016
+fe016|and it seems like that might be better for you guys.|S|Bmr016
+fe016|since then you'll have just more digit data.|S|Bmr016
+me011|right.|S|Bmr016
+fe016|and that's always a good thing.|S|Bmr016
+fe016|it's a little bit better for me too.|S|Bmr016
+me011|yep.|B|Bmr016
+fe016|because the digits are easier to recognize.|S|Bmr016
+fe016|they're better trained than the numbers.|S|Bmr016
+me013|right.|B|Bmr016
+me011|so we could just uh put in the instructions read them as digits.|S|Bmr016
+fe016|right right read them as single digits.|S|Bmr016
+fe016|so sixty one is read as six one.|S|Bmr016
+fe008|uhhuh.|D|Bmr016
+fe016|and if people make a mistake we|D|Bmr016
+me011|how about o. versus zero?|Q|Bmr016
+me013|i mean the other thing is we could just bag it.|S|Bmr016
+me013|because it's it's|D|Bmr016
+me013|i'm not worrying about it.|S|Bmr016
+me013|i mean because we do have digits training data that we have from uh from o.g.i.|S|Bmr016
+me013|i'm sorry.|S|Bmr016
+me013|digits numbers training that we have from o.g.i.|S|Bmr016
+me013|we've done lots and lots of studies with that.|S|Bmr016
+me013|and um|F|Bmr016
+fe016|but it's nice to get it in this room with the|D|Bmr016
+me013|yeah.|S|Bmr016
+fe016|i mean for it's|D|Bmr016
+me013|no no i guess what i'm saying is that|D|Bmr016
+me011|just let them read it how they read it.|S|Bmr016
+me013|to some extent maybe we could just read them have them read how how they read it.|S|Bmr016
+me013|and it just means that we have to expand our our vocabulary out to stuff that we already have.|S|Bmr016
+fe016|right.|B|Bmr016
+fe016|well that's fine with me as long as it's just that i didn't want to cause the people who would have been collecting digits the other way to not have the digits.|S|Bmr016
+me013|yeah.|B|Bmr016
+fe016|so|F|Bmr016
+me013|we can go back to the other thing later.|S|Bmr016
+me013|i mean we we we've we can do this for awhile.|S|Bmr016
+fe016|okay.|S|Bmr016
+me013|and then go back to digits for awhile.|S|Bmr016
+me013|or um|F|Bmr016
+me013|do i mean do you want do you want this do you need training data or adaptation data out of this?|Q|Bmr016
+fe016|okay.|B|Bmr016
+me013|how much of this do you need?|Q|Bmr016
+me013|with uh the|D|Bmr016
+fe016|it's actually unclear right now.|S|Bmr016
+fe016|i just thought well we're if we're collecting digits and adam had said we were running out of the t.i. forms i thought it'd be nice to have them in groups.|S|Bmr016
+fe016|and probably all else being equal it'd be better for me to just have single digits.|S|Bmr016
+fe016|since it's you know a recognizer's going to do better on those anyway.|S|Bmr016
+me013|okay.|S|Bmr016
+fe016|um and it's more predictable.|S|Bmr016
+fe016|so we can know from the transcript what the person said and the transcriber in general.|S|Bmr016
+me013|okay well if you|D|Bmr016
+fe016|but if they make mistakes it's no big deal.|S|Bmr016
+fe016|if the people say a hundred instead of one o.o.|S|Bmr016
+fe016|and also maybe we can just let them choose zero versus o. as they as they like.|S|Bmr016
+fe016|because even the same person sometimes says o. and sometimes says zero in different context.|S|Bmr016
+me013|yeah.|B|Bmr016
+fe016|and that's sort of interesting.|S|Bmr016
+fe016|so i don't have a specific need.|S|Bmr016
+fe016|because if i did i'd probably try to collect it you know without bothering this group.|S|Bmr016
+fe016|but if we can try it|D|Bmr016
+me011|okay so so i can just add to the instructions to read it as digits.|S|Bmr016
+me011|not as connected numbers.|S|Bmr016
+fe016|right and you can give an example.|S|Bmr016
+fe008|uhhuh.|B|Bmr016
+fe016|like you know six sixty one would be read as six one.|S|Bmr016
+me011|right.|B|Bmr016
+fe016|and i think people will get it.|S|Bmr016
+fe008|uhhuh.|B|Bmr016
+fe008|and actually it's no more artificial than what we've been doing with words.|S|Bmr016
+fe008|i'm sure people can adapt to this.|S|Bmr016
+fe016|right right.|S|Bmr016
+fe008|read it single.|S|Bmr016
+fe016|it's just easier to read.|S|Bmr016
+fe008|the spaces already bias it toward being separated.|S|Bmr016
+fe016|right.|B|Bmr016
+fe008|and i know i'm going to find this easier than words.|S|Bmr016
+me011|oh yeah absolutely.|S|Bmr016
+me011|cognitively it's much easier.|S|Bmr016
+fe016|i also had a hard hard time with the words.|S|Bmr016
+fe016|but then we went back and forth on that.|S|Bmr016
+me013|yeah.|B|Bmr016
+fe016|okay so let's give that a try.|S|Bmr016
+me011|okay and is the spacing all right or do you think there should be more space between digits and groups?|S|Bmr016
+me013|okay.|B|Bmr016
+fe016|and|F|Bmr016
+fe016|i mean what do other people think?|Q|Bmr016
+me011|or is that all right?|Q|Bmr016
+fe016|because you guys are reading them.|S|Bmr016
+fe008|i think that it's fine.|S|Bmr016
+fe008|it it to me it looks like you've got the the idea of grouping and you have the the idea of separation.|S|Bmr016
+me011|okay.|S|Bmr016
+fe016|okay.|S|Bmr016
+fe008|and you know it's just a matter of the instructions that's all.|S|Bmr016
+fe016|great okay.|S|Bmr016
+fe016|well let's give it a try.|S|Bmr016
+me011|and i think there are about ten different gouping patterns.|S|Bmr016
+me013|let's try it.|S|Bmr016
+me011|isn't that right liz?|Q|Bmr016
+fe016|right and you just they're randomly generated and randomly assigned to digits.|S|Bmr016
+me011|that we did.|S|Bmr016
+fe008|i did|D|Bmr016
+me013|so we have|D|Bmr016
+fe008|uhhuh.|B|Bmr016
+me013|sorry.|S|Bmr016
+fe008|go ahead.|S|Bmr016
+me013|i i was just going to say so we have in the vicinity of forty hours of of recordings now.|S|Bmr016
+me013|and you're saying two hours uh is digits.|S|Bmr016
+me013|so that's roughly the ratio then.|S|Bmr016
+me013|something like twenty twenty to one.|S|Bmr016
+me011|yep.|S|Bmr016
+me013|which i guess makes makes sense.|S|Bmr016
+me013|so if we did another forty hours of recordings then we could get another couple hours of this.|S|Bmr016
+me011|right.|S|Bmr016
+me013|um yeah like you say i think a couple hours for a for a for a test test set's okay.|S|Bmr016
+me013|it'd be nice to get you know more later.|S|Bmr016
+me013|because we'll we might use use this up uh in some sense.|S|Bmr016
+fe008|uhhuh.|B|Bmr016
+me013|but but uh|F|Bmr016
+me011|right.|S|Bmr016
+fe008|yeah i also would like to argue for that.|S|Bmr016
+fe008|because it it seems to me that um there's a real strength in having the same test replicated in a whole bunch of times.|S|Bmr016
+fe008|and adding to that basic test bank.|S|Bmr016
+me011|right.|B|Bmr016
+fe008|huh.|D|Bmr016
+fe008|because then you have you know more and more chances to get away from random errors.|S|Bmr016
+fe008|and i think um the other thing too is that right now we have sort of a stratified sample with reference to dialect groups.|S|Bmr016
+fe008|and it might be there might be an argument to be made for having uh for replicating all of the digits that we've done.|S|Bmr016
+fe008|which were done by non native speakers.|S|Bmr016
+fe008|so that we have a core that totally replicates the original data set.|S|Bmr016
+fe008|which is totally american speakers.|S|Bmr016
+fe008|and then we have these stratified additional language groups overlapping certain aspects of the database.|S|Bmr016
+me011|right.|B|Bmr016
+me011|i think that uh trying to duplicate spending too much effort trying to duplicate the existing t.i. digits probably isn't too worthwhile.|S|Bmr016
+me011|because the recording situation is so different.|S|Bmr016
+me013|yeah.|S|Bmr016
+me011|it's going to be very hard to be comparable.|S|Bmr016
+fe008|except that if you have the stimuli comparable then it says something about the the contribution of setting.|S|Bmr016
+me013|no it's it's not the same.|S|Bmr016
+me013|a little bit.|S|Bmr016
+fe008|and|F|Bmr016
+me013|but the other differences are so major.|S|Bmr016
+fe008|okay.|S|Bmr016
+me013|they're such major sources of variance that it's it's it's uh|D|Bmr016
+me011|yeah i mean read versus not.|S|Bmr016
+fe008|what's an example of a of some of the other differences?|Q|Bmr016
+fe008|any other difference?|Q|Bmr016
+me013|well individual human glottis is going to be different for each one.|S|Bmr016
+fe008|okay.|S|Bmr016
+me013|you know it's just there's so many things.|S|Bmr016
+fe008|okay.|S|Bmr016
+me013|it's it and and enunciation.|S|Bmr016
+me011|well and not just that.|S|Bmr016
+me011|i mean the uh the corpus itself.|S|Bmr016
+me011|i mean we're collecting it in a read digit in a particular list.|S|Bmr016
+me011|and i'm sure that they're doing more specific stuff.|S|Bmr016
+me011|i mean if i remember correctly it was like postman reading zipcodes and things like that.|S|Bmr016
+me013|t.i. digits was?|Q|Bmr016
+me013|i thought i thought it was read.|S|Bmr016
+me011|i thought so.|S|Bmr016
+me011|was it read?|Q|Bmr016
+me013|yeah i think the reading zipcode stuff you're thinking of would be o.g.i.|S|Bmr016
+me011|oh i may well be.|S|Bmr016
+me013|yeah no t.i. digits was read in in read in the studio i believe.|S|Bmr016
+me011|i haven't ever listened to t.i. digits.|S|Bmr016
+me013|yeah.|B|Bmr016
+me011|so i don't really know how it compares.|S|Bmr016
+me013|yeah.|B|Bmr016
+me013|but it but|D|Bmr016
+me011|but but regardless it's going to it's hard to compare cross corpus.|S|Bmr016
+me013|it's different people is the is the core thing.|S|Bmr016
+me011|so|F|Bmr016
+me013|and they're different circumstances with different recording environment and so forth.|S|Bmr016
+fe008|okay fine.|S|Bmr016
+me013|so it's it's it's really pretty different.|S|Bmr016
+me013|but i think the idea of using a set thing was just to give you some sort of framework.|S|Bmr016
+me013|so that even though you couldn't do exact comparisons it wouldn't be valid scientifically at least it'd give you some kind of uh frame of reference.|S|Bmr016
+me013|uh you know it's not|D|Bmr016
+fe008|okay.|S|Bmr016
+me018|hey liz what what do the groupings represent?|Q|Bmr016
+me018|you said there's like ten different groupings.|S|Bmr016
+fe016|right just groupings in terms of number of groups in a line.|S|Bmr016
+fe016|and number of digits in a group.|S|Bmr016
+fe016|and the pattern of groupings.|S|Bmr016
+me018|uhhuh.|B|Bmr016
+me018|are the patterns like are they based on anything or|D|Bmr016
+fe016|um i i just roughly looked at what kinds of digit strings are out there.|S|Bmr016
+fe016|and they're usually grouped into either two three or four four digits at a time.|S|Bmr016
+me018|oh.|S|Bmr016
+fe016|and they can have|D|Bmr016
+fe016|i mean actually things are getting longer and longer.|S|Bmr016
+fe016|in the old days you probably only had three sequences and telephone numbers were less and so forth.|S|Bmr016
+fe016|so there's between um|D|Bmr016
+fe016|well if you look at it there are between like three and five groups.|S|Bmr016
+fe016|and each one has between two and four groupings.|S|Bmr016
+fe016|and|F|Bmr016
+fe016|i purposely didn't want them to look like they were in any kind of pattern.|S|Bmr016
+me018|huh.|B|Bmr016
+fe016|so|F|Bmr016
+me011|and which group appears is picked randomly and what the numbers are are picked randomly.|S|Bmr016
+me018|uhhuh.|B|Bmr016
+fe016|right.|S|Bmr016
+me011|so unlike the previous one which i simply replicated t.i. digits this is generated randomly.|S|Bmr016
+me018|huh oh okay.|S|Bmr016
+mn014|oh okay.|S|Bmr016
+fe016|but i think it'd be great to be able to compare digits.|S|Bmr016
+fe016|whether it's these digits or t.i. digits to speakers um and compare that to their spontaneous speech.|S|Bmr016
+fe016|and then we do need you know a fair amount of of digit data.|S|Bmr016
+fe016|because you might be wearing a different microphone.|S|Bmr016
+fe016|and i mean so it's it's nice to have the digits you know replicated many times.|S|Bmr016
+me011|uhhuh.|B|Bmr016
+fe016|especially for speakers that don't talk a lot.|S|Bmr016
+fe016|so um|F|Bmr016
+me011|yeah.|S|Bmr016
+fe016|for adaptation.|S|Bmr016
+fe016|no i'm serious.|S|Bmr016
+fe016|so we have a problem with acoustic adaptation.|S|Bmr016
+me013|yeah.|B|Bmr016
+me011|yeah all we have for some people is digits.|S|Bmr016
+mn014|yeah.|B|Bmr016
+fe016|and we're not using the digit data now.|S|Bmr016
+fe016|but you know|D|Bmr016
+me011|oh you're not.|S|Bmr016
+fe016|not for adaptation nope.|S|Bmr016
+fe016|we're not we were running adaptation only on the data that we ran recognition on.|S|Bmr016
+fe016|and i'd as soon as someone started to read transcript number that's read speech.|S|Bmr016
+fe016|and i thought well we're going to do better on that.|S|Bmr016
+me011|oh i see.|S|Bmr016
+fe016|that's not fair to use.|S|Bmr016
+me011|oh yeah that's true absolutely.|S|Bmr016
+fe016|but it might be fair to use the data for adaptation.|S|Bmr016
+mn014|okay.|D|Bmr016
+fe016|so|F|Bmr016
+fe016|so those speakers who are very quiet shy|D|Bmr016
+me011|that would be interesting to see whether that helps.|S|Bmr016
+fe016|right.|S|Bmr016
+me011|do you think that would help adapting on|D|Bmr016
+me018|like adam?|Q|Bmr016
+me011|yeah.|S|Bmr016
+me013|yeah.|S|Bmr016
+me011|yeah i have a real problem with that.|S|Bmr016
+fe016|well it i mean it's the same|D|Bmr016
+fe016|see the nice thing is we have that in the in the same meeting.|S|Bmr016
+me011|right.|S|Bmr016
+me013|yeah.|D|Bmr016
+fe016|and so you don't get|D|Bmr016
+me011|same same acoustics.|S|Bmr016
+me011|same microphone.|S|Bmr016
+me011|same channel.|S|Bmr016
+mn014|yeah.|B|Bmr016
+fe016|right and so i still like the idea of having some kind of digit data.|S|Bmr016
+me011|okay.|S|Bmr016
+me011|good.|S|Bmr016
+me013|yeah i mean for the for the um acoustic research|D|Bmr016
+me013|for the signal processing farfield stuff i see it as as as the place that we start.|S|Bmr016
+me013|but i mean it'd be nice to have twenty hours of digits data.|S|Bmr016
+me013|but but uh the truth is i'm hoping that we we through the the stuff that that you guys have been doing as you continue that we get uh the best we can do on the spontaneous stuff uh uh nearfield.|S|Bmr016
+me013|and then um we do a lot of the testing of the algorithms on the digits for the farfield.|S|Bmr016
+me013|and at some point when we feel it's mature and we understand what's going on with it then we we have to move on to the spontaneous data with the farfield.|S|Bmr016
+me013|so|F|Bmr016
+fe016|the only thing that we don't have|D|Bmr016
+fe008|great.|S|Bmr016
+fe016|i know this sounds weird.|S|Bmr016
+fe016|and maybe it's completely stupid.|S|Bmr016
+fe016|but we don't have any overlapping digits.|S|Bmr016
+me011|yeah we talked about that a couple times.|S|Bmr016
+fe016|i know it's weird.|S|Bmr016
+fe016|but um|D|Bmr016
+mn014|overlapping digits.|S|Bmr016
+me011|the the problem i see with trying to do overlapping digits is the cognitive load.|S|Bmr016
+fe016|all right everybody's laughing.|S|Bmr016
+fe016|okay.|S|Bmr016
+me001|dueling digits.|S|Bmr016
+me011|no it's it's not stupid.|S|Bmr016
+me011|it's just i mean try to do it.|S|Bmr016
+fe016|i'm just for the stuff that like dan ellis is going to try.|S|Bmr016
+me011|i mean here let's try it.|S|Bmr016
+fe016|you know cross talk cancellation.|S|Bmr016
+me013|let's try it.|S|Bmr016
+me011|you read the last line i'll read the first line.|S|Bmr016
+fe016|okay.|S|Bmr016
+mn014|oh.|D|Bmr016
+fe016|wait oh it these are all the same forms.|S|Bmr016
+me013|sixty one.|S|Bmr016
+fe016|okay so but|D|Bmr016
+me011|so so you read the last line i'll read the first line.|S|Bmr016
+fe016|so you you plug your ears.|S|Bmr016
+me013|no i'll|D|Bmr016
+me011|oh i guess if you plug you're ears you could do it.|S|Bmr016
+me011|but then you don't get the the same effects.|S|Bmr016
+mn014|yeah.|B|Bmr016
+fe016|well what i mean is actually not the overlaps that are well governed linguistically.|S|Bmr016
+fe016|but the actual fact that there is speech coming from two people.|S|Bmr016
+fe016|and the beam forming|D|Bmr016
+me011|yeah.|B|Bmr016
+fe016|all the acoustic stuff that like dan ellis and and company want to do.|S|Bmr016
+me011|oh i see.|S|Bmr016
+fe016|digits are nice and well behaved.|S|Bmr016
+fe016|i mean|F|Bmr016
+fe016|anyway it's just a thought.|S|Bmr016
+me011|i guess we could try.|S|Bmr016
+me011|we could try doing some.|S|Bmr016
+fe016|it it would go faster.|S|Bmr016
+me018|parallel.|S|Bmr016
+fe016|it would take one around amount of|D|Bmr016
+me018|it's the p. make of digit reading.|S|Bmr016
+me011|well well okay well let's try it.|S|Bmr016
+fe016|that's right.|S|Bmr016
+fe016|i i i'm i was sort of serious.|S|Bmr016
+fe016|but i really i mean i'm i don't feel strongly enough that it's a good idea.|S|Bmr016
+me013|see|D|Bmr016
+me011|you do the last line i'll do the first line.|S|Bmr016
+fe016|so|F|Bmr016
+me013|okay.|S|Bmr016
+me011|that's not bad.|S|Bmr016
+me013|no i can do it.|S|Bmr016
+fe016|and that prosody was great by the way.|S|Bmr016
+me018|i couldn't understand a single thing you guys were saying.|S|Bmr016
+fe008|i think it was numbers.|S|Bmr016
+fe008|but i'm not sure.|S|Bmr016
+fe016|it it sort of sounded like a duet or something.|S|Bmr016
+mn014|yeah.|B|Bmr016
+me018|performance art.|S|Bmr016
+me013|all right let's try three at once you you pick one in the middle.|S|Bmr016
+mn014|the aurora theater.|S|Bmr016
+fe016|okay.|S|Bmr016
+me013|go.|S|Bmr016
+fe016|i'm sorry.|S|Bmr016
+fe016|i'm mean i think it's doable.|S|Bmr016
+me011|the poor transcribers.|S|Bmr016
+fe016|i'm just|D|Bmr016
+me011|they're going to hate us.|S|Bmr016
+fe016|so we we could have a round like where you do two at a time.|S|Bmr016
+fe016|and then the next person picks up when the first guy's done or something.|S|Bmr016
+mn014|so pairwise.|S|Bmr016
+me013|oh like a round.|S|Bmr016
+me013|yeah like in a a|D|Bmr016
+fe016|like a|D|Bmr016
+mn014|yeah just pairwise.|S|Bmr016
+me013|yeah.|F|Bmr016
+fe016|what do you call it?|Q|Bmr016
+fe016|a like|D|Bmr016
+me011|a round.|S|Bmr016
+mn014|or|D|Bmr016
+me013|row row row your boat.|S|Bmr016
+me001|round.|S|Bmr016
+mn014|yeah.|B|Bmr016
+me011|uhhuh.|B|Bmr016
+me013|yeah.|S|Bmr016
+fe016|yeah like that.|S|Bmr016
+me013|okay.|S|Bmr016
+me018|it's going to require some coordination.|S|Bmr016
+fe016|then it would go like twice as fast or a third as fast.|S|Bmr016
+fe016|anyway it's just a thought.|S|Bmr016
+fe008|you have to have a similar pace.|S|Bmr016
+me013|yeah.|B|Bmr016
+fe016|i'm actually sort of serious if it would help people do that kind|D|Bmr016
+fe016|but the people who want to work on it we should talk to them.|S|Bmr016
+me013|i don't think we're going to collect vast amounts of data that way.|S|Bmr016
+fe016|so|F|Bmr016
+me011|huh.|D|Bmr016
+me013|but i think having a little bit might at least be fun for somebody like dan to play around with.|S|Bmr016
+fe016|okay.|S|Bmr016
+me011|i think maybe if we wanted to do that we would do it as a separate session.|S|Bmr016
+me013|yeah.|B|Bmr016
+fe016|yeah.|S|Bmr016
+me011|something like that.|S|Bmr016
+me011|rather than doing it during a real meeting.|S|Bmr016
+me011|and you know do two people at a time.|S|Bmr016
+me011|then three people at a time and things like that.|S|Bmr016
+me011|so|F|Bmr016
+fe016|can try it out.|S|Bmr016
+fe016|if we have nothing if we have no agenda we could do it some week.|S|Bmr016
+me011|see see what dan thinks.|S|Bmr016
+me011|yeah right.|S|Bmr016
+me013|yeah yeah.|S|Bmr016
+fe016|okay.|S|Bmr016
+me013|spend the whole time reading digits with different quantities.|S|Bmr016
+fe008|can can i have another another question about this?|Q|Bmr016
+me011|i thought this was going to be fast.|S|Bmr016
+me011|oh well.|S|Bmr016
+fe008|so um there are these digits.|S|Bmr016
+fe008|which are detached digits.|S|Bmr016
+fe008|but there are other words that contain the same general phoneme sequences.|S|Bmr016
+fe008|like wonderful has one in it.|S|Bmr016
+fe008|and and victor borge had a had a piece on this where he inflated the digits.|S|Bmr016
+fe008|well i wonder if there's um if there would be a value in having digits that are in essence embedded in real words to compare in terms of like the articulation of one in wonderful versus one as a digit being read.|S|Bmr016
+me013|that's two bad.|S|Bmr016
+me013|yeah.|B|Bmr016
+fe016|i'm all four it.|S|Bmr016
+fe008|there you go.|S|Bmr016
+me011|not after i eight though.|S|Bmr016
+me013|uh they don't all work as well do they?|S|Bmr016
+me013|huh.|B|Bmr016
+me013|what does nine work in?|Q|Bmr016
+me011|uh|F|Bmr016
+me013|uh|F|Bmr016
+me001|nein!|S|Bmr016
+me001|you scream it.|S|Bmr016
+me011|nein.|S|Bmr016
+me013|oh in german.|S|Bmr016
+me011|you have to be german.|S|Bmr016
+me018|it's great for the germans.|S|Bmr016
+me013|yeah.|S|Bmr016
+mn014|that's german yeah.|D|Bmr016
+fe016|oh oh.|S|Bmr016
+me011|yeah.|B|Bmr016
+fe008|nein.|S|Bmr016
+me013|that's right.|S|Bmr016
+mn014|yeah.|B|Bmr016
+me011|oh.|B|Bmr016
+me001|it only sounds good when you scream it though.|S|Bmr016
+me001|so|F|Bmr016
+me013|i think everybody's a little punchy here today.|S|Bmr016
+fe008|well i mean i just wanted to offer that as a possible task.|S|Bmr016
+me013|yes.|S|Bmr016
+fe008|because you know if we were to each read his embedded numbers words in in sentences.|S|Bmr016
+fe008|because it's like an entire sketch he does.|S|Bmr016
+fe008|and i wouldn't take the inflated version.|S|Bmr016
+fe008|so he talks about the woman being two-derful.|S|Bmr016
+fe008|and|F|Bmr016
+fe008|and but you know if it were to be deflated just the normal word it would be like a little story that we could read.|S|Bmr016
+me013|uhhuh.|B|Bmr016
+fe008|i don't know if it would be useful for comparison.|S|Bmr016
+fe008|but it's embedded numbers.|S|Bmr016
+me013|well i don't know.|S|Bmr016
+me011|i think for something like that we'd be better off doing like uh timit.|S|Bmr016
+me013|well i think the question is what the research is.|S|Bmr016
+me013|so i mean i presume that the reason that you wanted to have these digits this way is because you wanted to actually do some research looking at the prosodic form here.|S|Bmr016
+me011|huh.|B|Bmr016
+fe016|right yeah.|S|Bmr016
+me013|yeah okay.|S|Bmr016
+me013|so if somebody wanted to do that if they wanted to look at the the the difference of the uh phones in the digits in the context of a word versus uh the digits a a non digit word versus in digit word uh that would be a good thing to do.|S|Bmr016
+me013|but i think someone would have to express interest in that.|S|Bmr016
+fe008|i see.|S|Bmr016
+me013|i think to|D|Bmr016
+fe008|okay.|B|Bmr016
+me013|i mean if you were interested in it then we could do it for instance.|S|Bmr016
+fe008|okay thank you.|S|Bmr016
+fe008|huh.|B|Bmr016
+me011|okay are we done with digits?|Q|Bmr016
+me011|um|F|Bmr016
+me011|we have a.s.r. results from liz.|S|Bmr016
+me011|transcript status from jane.|S|Bmr016
+me011|and disk space and storage formats from don.|S|Bmr016
+me011|does do we have any preference on which way we want to we want to go?|Q|Bmr016
+fe016|well i was actually going to skip the a.s.r. results part in favor of getting the transcription stuff talked about.|S|Bmr016
+me011|uhhuh.|B|Bmr016
+fe016|since i think that's more important to moving forward.|S|Bmr016
+fe016|but i mean morgan has this paper copy.|S|Bmr016
+fe016|and if people have questions|D|Bmr016
+fe016|um it's pretty preliminary in terms of a.s.r. results.|S|Bmr016
+fe016|because we didn't do anything fancy.|S|Bmr016
+fe016|but i think just having the results there.|S|Bmr016
+fe016|and pointing out some main conclusions.|S|Bmr016
+fe016|like it's not the speaking style that differs.|S|Bmr016
+fe016|it's the fact that there's overlap that causes recognition errors.|S|Bmr016
+fe016|and then the fact that it's almost all insertion errors.|S|Bmr016
+fe016|which you would expect.|S|Bmr016
+fe016|but you might also think that in the overlapped regions you would get substitutions and so forth.|S|Bmr016
+fe016|um leads us to believe that doing a better segmentation like your channel based segmentation or some kind of uh echo cancellation to get basically back down to the individual speaker utterances would be probably all that we would need to be able to do good recognition on the on the close talking mikes.|S|Bmr016
+me011|um why don't you if you have a hard copy why don't you email it to the list?|Q|Bmr016
+mn014|so these|D|Bmr016
+fe016|so that's about the summary.|S|Bmr016
+fe016|but this is morgan has this paper.|S|Bmr016
+mn014|yeah yeah.|B|Bmr016
+fe016|i mean he he|D|Bmr016
+me013|yeah so it's the same thing?|S|Bmr016
+me011|oh it's in the paper.|S|Bmr016
+fe016|it it's that paper.|S|Bmr016
+me013|it's the same thing i mailed to everybody that where it was.|S|Bmr016
+me011|okay.|S|Bmr016
+fe016|yeah yeah.|S|Bmr016
+fe016|so we basically um did a lot of work on that.|S|Bmr016
+me011|okay then it's already been mailed.|S|Bmr016
+me013|yeah.|D|Bmr016
+fe016|and it's|D|Bmr016
+fe016|let's see|D|Bmr016
+fe016|i guess the other neat thing is it shows for sure that the lapel you know within speaker is bad.|S|Bmr016
+me011|horrible?|Q|Bmr016
+fe016|and it's bad because it picks up the overlapping speech.|S|Bmr016
+mn014|so your your a.s.r. results were run on the channels synchronized.|S|Bmr016
+fe016|yes because that's all that had been transcribed at the time.|S|Bmr016
+mn014|okay.|S|Bmr016
+mn014|okay.|S|Bmr016
+mn014|okay.|S|Bmr016
+fe016|um|F|Bmr016
+fe016|but as we i mean i wanted to here more about the transcription.|S|Bmr016
+fe016|if we can get the channel asynchronous or the|D|Bmr016
+mn014|yeah.|B|Bmr016
+fe016|the closer|D|Bmr016
+fe016|that would be very interesting for us.|S|Bmr016
+fe016|because we|D|Bmr016
+me018|so if|D|Bmr016
+me013|yeah that's that's why i only used the part from.|S|Bmr016
+mn014|yeah.|B|Bmr016
+me013|which we had uh about uh about the over all the channels.|S|Bmr016
+mn014|yeah.|B|Bmr016
+fe016|right.|B|Bmr016
+fe016|that's|D|Bmr016
+mn014|yeah sure.|S|Bmr016
+mn014|yeah.|B|Bmr016
+me013|or mixed channel.|S|Bmr016
+me013|rather mixed signal.|S|Bmr016
+mn014|yeah.|B|Bmr016
+me018|so if there was a segment of speech this long|D|Bmr016
+fe016|because|D|Bmr016
+mn014|yeah.|B|Bmr016
+me011|and someone said oh in the front in the middle.|S|Bmr016
+me018|and oh and someone said oh the whole thing was passed to the recognizer.|S|Bmr016
+mn014|there were several speakers in it.|S|Bmr016
+mn014|yeah.|B|Bmr016
+fe016|that's right in fact i i pulled out a couple classic examples in case you want to use them in your talk of|D|Bmr016
+me001|uhhuh.|B|Bmr016
+me018|that's why there's so many insertion errors.|S|Bmr016
+fe016|chuck on the lapel.|S|Bmr016
+fe016|so chuck wore the lapel three out of four times.|S|Bmr016
+me001|huh.|B|Bmr016
+me011|i noticed that chuck was wearing the lapel a lot.|S|Bmr016
+fe016|um yeah.|S|Bmr016
+me018|early on yeah.|S|Bmr016
+fe016|and i wore the lapel once.|S|Bmr016
+fe016|and for me the lapel was okay.|S|Bmr016
+fe016|i mean i still|D|Bmr016
+fe016|and i don't know why.|S|Bmr016
+fe016|i'm|D|Bmr016
+fe016|but um|F|Bmr016
+fe016|for you it was|D|Bmr016
+me011|probably how you wear it wore it i would guess.|S|Bmr016
+fe016|or who was next to me or something like that.|S|Bmr016
+me001|yeah where you were sitting probably affected it.|S|Bmr016
+mn014|yeah.|B|Bmr016
+fe016|right but when chuck wore the lapel and morgan was talking there're a couple really long utterances.|S|Bmr016
+fe016|where chuck is saying a few things inside.|S|Bmr016
+fe016|and it's picking up all of morgan's words pretty well.|S|Bmr016
+fe016|and so the you know there're error rates|D|Bmr016
+fe016|because of insertion|D|Bmr016
+fe016|insertions aren't bounded.|S|Bmr016
+fe016|so with a one word utterance and ten insertions you know you got huge error rate.|S|Bmr016
+me011|uhhuh.|B|Bmr016
+mn014|yeah.|B|Bmr016
+fe016|and that's that's where the problems come in.|S|Bmr016
+fe016|so this is sort of what we expected.|S|Bmr016
+fe016|but it's nice to be able to to show it.|S|Bmr016
+me011|right.|B|Bmr016
+fe016|and also i just wanted to mention briefly that um uh andreas and i called up dan ellis who's still stuck in switzerland.|S|Bmr016
+fe016|and we were going to ask him if if there're you know what's out there in terms of echo cancellation and things like that.|S|Bmr016
+fe016|not that we were going to do it.|S|Bmr016
+fe016|but we wanted to know what would need to be done.|S|Bmr016
+me011|and he said lots lots lots lots.|S|Bmr016
+fe016|and he we've given him the data we have so far.|S|Bmr016
+fe016|so these sychronous cases where there are overlap.|S|Bmr016
+mn014|yep.|B|Bmr016
+fe016|and he's going to look into trying to run some things that are out there.|S|Bmr016
+fe016|and see how well it can do.|S|Bmr016
+fe016|because right now we're not able to actually report on recognition in a real paper.|S|Bmr016
+me018|so|F|Bmr016
+fe016|like a eurospeech paper.|S|Bmr016
+fe016|because it would look sort of premature.|S|Bmr016
+me018|so|F|Bmr016
+me018|so the idea is that you would take this big hunk where somebody's only speaking a small amount in it.|S|Bmr016
+me018|and then try to figure out where they're speaking based on the other|D|Bmr016
+fe016|right or who's at any point in time who's the foreground speaker.|S|Bmr016
+fe016|who's the background speaker.|S|Bmr016
+me018|i thought we were just going to move the boundaries in.|S|Bmr016
+mn014|so yeah|D|Bmr016
+fe016|so|F|Bmr016
+mn014|yeah should it|D|Bmr016
+me011|well that's with the hand stuff.|S|Bmr016
+fe016|so there's like|D|Bmr016
+me011|but how would you do that automatically?|Q|Bmr016
+me018|right.|S|Bmr016
+mn014|uh i've actually done some experiments with cross correlation.|S|Bmr016
+fe016|well there's|D|Bmr016
+mn014|and it seems to work pretty well to to get rid of those those overlaps.|S|Bmr016
+me013|uhhuh.|B|Bmr016
+me011|i mean that's the sort of thing that you would do.|S|Bmr016
+fe016|yeah.|B|Bmr016
+fe016|yeah exactly so it's it's a|D|Bmr016
+me011|so|F|Bmr016
+mn014|yeah.|B|Bmr016
+me018|so why do you want to do echo cancellation?|Q|Bmr016
+fe016|um it would be techniques used from adaptive adaptive echo cancellation.|S|Bmr016
+fe016|which i don't know enough about to talk about.|S|Bmr016
+me018|uhhuh.|S|Bmr016
+me013|it just it just to to remove cross talk.|S|Bmr016
+fe016|um|F|Bmr016
+fe016|but|F|Bmr016
+me001|yeah.|B|Bmr016
+me013|yeah.|B|Bmr016
+fe016|right um and that would be similar to what you're also trying to do.|S|Bmr016
+fe016|but using um you know more than energy.|S|Bmr016
+fe016|i i don't know what exactly would go into it.|S|Bmr016
+mn014|yeah.|B|Bmr016
+mn014|yeah sure.|S|Bmr016
+fe016|so the idea is to basically run this on the whole meeting.|S|Bmr016
+me018|so it would be|D|Bmr016
+fe016|and get the locations which gives you also the time boundaries of the individual|D|Bmr016
+me018|okay.|S|Bmr016
+me018|so do sort of what he's already what he's trying to do.|S|Bmr016
+fe016|right except that there are many techniques for the kinds of cues um that you can use to do that.|S|Bmr016
+me018|okay i i see.|S|Bmr016
+mn014|yeah in another way.|S|Bmr016
+mn014|yeah.|S|Bmr016
+mn014|yeah.|B|Bmr016
+me018|yeah.|B|Bmr016
+me018|i see.|S|Bmr016
+me013|yeah dave dave uh is um also going to be playing around with echo cancellation for the nearfield farfield stuff.|S|Bmr016
+fe016|so|F|Bmr016
+me013|so we'll be|D|Bmr016
+fe016|and i guess espen.|S|Bmr016
+fe016|this is uh is he here too?|Q|Bmr016
+fe016|may also be working|D|Bmr016
+me013|yeah.|S|Bmr016
+fe016|so it would just be|D|Bmr016
+fe016|that's really the next step.|S|Bmr016
+fe016|because we can't do too much you know on in terms of recognition results knowing that this is a big problem.|S|Bmr016
+me018|uhhuh.|B|Bmr016
+fe016|um until we can do that kind of processing.|S|Bmr016
+fe016|and so once we have some some of yours.|S|Bmr016
+mn014|okay.|S|Bmr016
+mn014|yeah i'm working on it.|S|Bmr016
+fe016|and we'll move on.|S|Bmr016
+me018|i think this also ties into one of the things that jane is going to talk about too.|S|Bmr016
+me011|um|F|Bmr016
+fe016|okay.|S|Bmr016
+fe008|uhhuh uhhuh.|S|Bmr016
+me011|i also wanted to say i have done all this chopping up of digits.|S|Bmr016
+me011|so i have some naming conventions that we should try to agree on.|S|Bmr016
+fe016|oh right.|S|Bmr016
+me011|so let's do that off line.|S|Bmr016
+me011|we don't need to do it during the meeting.|S|Bmr016
+fe016|yeah.|S|Bmr016
+fe016|right.|S|Bmr016
+me001|okay.|S|Bmr016
+fe016|definitely|D|Bmr016
+fe016|uh and don should|D|Bmr016
+me011|and and i have scripts that will extract it out from key files.|S|Bmr016
+me011|and and do all the naming automatically.|S|Bmr016
+fe016|okay.|B|Bmr016
+me011|so you don't have to do it by hand.|S|Bmr016
+me001|all right.|S|Bmr016
+fe016|great.|S|Bmr016
+fe016|so that's it for the|D|Bmr016
+me001|you've compiled the list of uh speaker names.|S|Bmr016
+fe016|speakers and|D|Bmr016
+me011|uhhuh.|S|Bmr016
+fe016|okay.|S|Bmr016
+me001|not names.|S|Bmr016
+me001|but i.d.'s.|S|Bmr016
+me011|yep.|S|Bmr016
+me011|yeah names names in the names to i.d.'s.|S|Bmr016
+me011|so you|D|Bmr016
+me001|okay.|S|Bmr016
+fe016|great.|S|Bmr016
+me011|and it does all sorts of matches.|S|Bmr016
+me011|because the way people filled out names is different on every single file.|S|Bmr016
+me011|so it does a very fuzzy sort of match.|S|Bmr016
+fe016|right.|B|Bmr016
+me001|cool.|S|Bmr016
+fe016|so at this point we can sort of finalize the naming and so forth.|S|Bmr016
+me011|yep.|S|Bmr016
+fe016|and we're going to basically rewrite out these waveforms that we did.|S|Bmr016
+me001|uhhuh.|B|Bmr016
+fe016|because as you notice in the paper your m.o. four in one meeting.|S|Bmr016
+fe016|and m.o. two in another meeting.|S|Bmr016
+fe016|and it's we just need to standardize the|D|Bmr016
+me001|yeah.|S|Bmr016
+me001|that was my fault.|S|Bmr016
+fe016|um|F|Bmr016
+fe016|no it's it's|D|Bmr016
+me013|no i didn't notice that actually.|S|Bmr016
+fe016|um that's why those comments are are in there.|S|Bmr016
+me001|yeah.|B|Bmr016
+me011|yep.|B|Bmr016
+me001|then disregard it then.|S|Bmr016
+me011|so i now have a script that you can just say basically look up morgan.|S|Bmr016
+fe016|so|F|Bmr016
+fe016|right.|B|Bmr016
+me013|yeah.|B|Bmr016
+fe016|okay.|B|Bmr016
+me011|and it will give you his i.d.|S|Bmr016
+fe016|great great.|S|Bmr016
+me001|okay.|S|Bmr016
+me011|so|F|Bmr016
+fe016|terrific.|S|Bmr016
+me011|um|F|Bmr016
+me011|all right.|S|Bmr016
+me011|do we|D|Bmr016
+me011|don you had disk space and storage formats?|Q|Bmr016
+me011|is that something we need to talk about at the meeting?|Q|Bmr016
+me011|or should you just talk with chuck at some other time?|Q|Bmr016
+me001|um i had some general questions just about the compression algorithms of shortening waveforms.|S|Bmr016
+me001|and i don't know exactly who to ask.|S|Bmr016
+me001|i thought that maybe you would be the the person to talk to.|S|Bmr016
+me001|so is it a lossless compression when you compress|D|Bmr016
+me011|uhhuh.|B|Bmr016
+me001|so|D|Bmr016
+me011|entropy coding.|S|Bmr016
+me001|it just uses entropy coding?|Q|Bmr016
+me011|so|F|Bmr016
+me001|okay.|S|Bmr016
+me001|so i mean i guess my question would be is|D|Bmr016
+me001|i just got this new eighteen gig drive installed.|S|Bmr016
+me001|um yeah.|F|Bmr016
+me001|which is|D|Bmr016
+me011|and i assume half of it is scratch and half of it is|D|Bmr016
+me001|i'm not exactly sure how they partitioned it.|S|Bmr016
+me011|probably yeah.|S|Bmr016
+me001|but um|F|Bmr016
+me013|that's typical huh.|S|Bmr016
+me001|yeah i don't know what's typical here.|S|Bmr016
+me001|but um|F|Bmr016
+me001|it's local though.|S|Bmr016
+me001|so|F|Bmr016
+me011|that doesn't matter.|S|Bmr016
+me001|but|D|Bmr016
+me011|you can access it from anywhere in icsi.|S|Bmr016
+me001|okay.|S|Bmr016
+me013|in fact this is an eighteen gig drive or is it a thirty six gig drive with eighteen|D|Bmr016
+me001|all right.|S|Bmr016
+me001|how do you do that?|Q|Bmr016
+me011|n.|D|Bmr016
+me001|eighteen.|S|Bmr016
+fe016|eighteen.|S|Bmr016
+fe016|it was a spare that dave had around.|S|Bmr016
+me013|oh okay.|S|Bmr016
+me011|slash n. slash machine name slash x.a. in all likelihood.|S|Bmr016
+me001|oh i see.|S|Bmr016
+me001|okay.|S|Bmr016
+me001|all right i did know that.|S|Bmr016
+me011|um so the the only question is how much of it|D|Bmr016
+me011|the distinction between scratch and non scratch is whether it's backed up or not.|S|Bmr016
+me001|uhhuh.|B|Bmr016
+me001|right.|B|Bmr016
+me011|so what you want to do is use the scratch for stuff that you can regenerate.|S|Bmr016
+me001|okay.|S|Bmr016
+me011|so|F|Bmr016
+me011|the stuff that isn't backed up is not a big deal.|S|Bmr016
+me011|because disks don't crash very frequently.|S|Bmr016
+me001|right.|B|Bmr016
+me011|as long as you can regenerate it.|S|Bmr016
+me001|right.|B|Bmr016
+fe016|yeah it's|D|Bmr016
+me001|i mean all of this stuff can be regenerated.|S|Bmr016
+me001|it's just a question|D|Bmr016
+fe016|well the|D|Bmr016
+me011|then put it all on scratch.|S|Bmr016
+me011|because we're icsi is is bottlenecked by backup.|S|Bmr016
+fe016|yeah.|B|Bmr016
+fe008|uhhuh very good point.|S|Bmr016
+me001|okay.|S|Bmr016
+fe016|well i'd leave all the all the transcript stuff shouldn't should be backed up.|S|Bmr016
+me011|so we want to put|D|Bmr016
+fe008|uhhuh.|B|Bmr016
+fe016|but all the waveform sound files should not be backed up.|S|Bmr016
+me001|yeah i guess|D|Bmr016
+me001|right.|S|Bmr016
+fe016|the ones that you write out.|S|Bmr016
+me001|okay.|S|Bmr016
+me001|so i mean i guess the other question was then should we shorten them downsample them or keep them in their original form?|Q|Bmr016
+me001|um|F|Bmr016
+me011|it just depends on your tools.|S|Bmr016
+me011|i mean because it's not backed up and it's just on scratch if your tools can't take shortened format i would leave them expanded.|S|Bmr016
+me001|right.|B|Bmr016
+me011|so you don't have to unshorten them every single time you want to do anything.|S|Bmr016
+me001|okay.|S|Bmr016
+fe016|we can downsample them.|S|Bmr016
+me001|do you think that'd be okay?|Q|Bmr016
+fe016|so|F|Bmr016
+fe016|yeah.|S|Bmr016
+me001|to downsample them.|S|Bmr016
+fe016|yeah we get the same performance.|S|Bmr016
+me001|okay.|S|Bmr016
+fe016|i mean the the front end on the s.r.i. recognizer just downsamples them on the fly.|S|Bmr016
+me001|yeah i guess the only argument against downsampling is to preserve just the original files in case we want to experiment with different filtering techniques.|S|Bmr016
+fe016|so|F|Bmr016
+fe016|so that's|D|Bmr016
+me013|i i i'm sorry|F|Bmr016
+fe016|yeah if|D|Bmr016
+me013|yeah i mean over all our data we we want to not downsample.|S|Bmr016
+fe016|you'd you want to not|D|Bmr016
+fe016|okay.|S|Bmr016
+fe016|so we're what we're doing is we're writing out|D|Bmr016
+me013|yeah.|B|Bmr016
+fe016|i mean this is just a question.|S|Bmr016
+fe016|we're writing out these individual segments that wherever there's a time boundary from thilo or or jane's transcribers you know we we chop it there.|S|Bmr016
+me013|yeah.|B|Bmr016
+me013|uhhuh.|D|Bmr016
+fe016|and the reason is so that we can feed it to the recognizer.|S|Bmr016
+me013|uhhuh.|D|Bmr016
+fe016|and throw out ones that we're not using and so forth.|S|Bmr016
+me013|yeah.|B|Bmr016
+fe016|and those are the ones that we're storing.|S|Bmr016
+me011|yeah as i said since that's it's regeneratable what i would do is take downsample it.|S|Bmr016
+fe016|so|F|Bmr016
+fe016|yeah.|B|Bmr016
+me011|and compress it however you're the s.r.i. recognizer wants to take it in.|S|Bmr016
+fe016|yeah.|B|Bmr016
+fe016|so we can't shorten them.|S|Bmr016
+fe016|but we can downsample them.|S|Bmr016
+me001|right.|B|Bmr016
+me013|yeah i mean|D|Bmr016
+me013|yeah i'm sorry.|S|Bmr016
+fe016|so|F|Bmr016
+me013|as yeah as long as there is a a form that we can come from again that is not downsampled then|D|Bmr016
+me001|yeah.|B|Bmr016
+fe016|oh yeah|D|Bmr016
+me001|yeah those are going to be kept.|S|Bmr016
+fe016|yeah yeah.|S|Bmr016
+fe016|that that's why we need more disk space.|S|Bmr016
+me013|uuu|F|Bmr016
+fe016|because we're basically duplicating the originals um|D|Bmr016
+me013|yeah.|B|Bmr016
+me013|then it's fine.|S|Bmr016
+me011|right.|B|Bmr016
+me013|but for for future research we'll be doing it with different microphone positions and so on.|S|Bmr016
+fe016|oh yeah.|S|Bmr016
+fe016|no we always have the original long ones.|S|Bmr016
+me011|yep.|B|Bmr016
+me001|right.|B|Bmr016
+me013|we would like to|D|Bmr016
+me013|yeah.|B|Bmr016
+me018|so the s.r.i. front end won't take a uh an an a large audio file name and then a a list of segments to chop out from that large audio file?|Q|Bmr016
+me018|they actually have to be chopped out already.|S|Bmr016
+fe016|um it's better if they're chopped out.|S|Bmr016
+fe016|and and it it will be|D|Bmr016
+me018|uhhuh.|B|Bmr016
+fe016|yeah we could probably write something to do that.|S|Bmr016
+fe016|but it's actually convenient to have them chopped out.|S|Bmr016
+fe016|because you can run them you know in different orders.|S|Bmr016
+fe016|you you can actually move them around.|S|Bmr016
+me011|and that's the whole point about the naming conventions.|S|Bmr016
+fe016|uh you can get rid|D|Bmr016
+me011|is that you could run all the english speaking.|S|Bmr016
+fe016|yeah it's a lot faster.|S|Bmr016
+me011|all the native speakers.|S|Bmr016
+fe016|right you can grab everything with the word the in it.|S|Bmr016
+me011|and all the non native speakers.|S|Bmr016
+me011|and all the men and all the women.|S|Bmr016
+fe016|and it's|D|Bmr016
+me011|yeah.|B|Bmr016
+fe016|that's a lot quicker than actually trying to access the wavefile each time.|S|Bmr016
+fe016|find the time boundaries and|D|Bmr016
+fe016|so in principle yeah you could do that.|S|Bmr016
+me018|i don't i don't think that's really right.|S|Bmr016
+fe016|but it's|D|Bmr016
+fe016|but it's um|D|Bmr016
+me011|that's just not right man.|S|Bmr016
+fe016|these are long these are long|D|Bmr016
+me011|the the point|D|Bmr016
+me011|so so for example what if you wanted to run run all the native speakers?|Q|Bmr016
+fe016|you know|F|Bmr016
+fe016|this is an hour of speech.|S|Bmr016
+me011|right so if if you did it that way you would have to generate a program that looks in the database somewhere.|S|Bmr016
+me011|extracts out the language.|S|Bmr016
+me011|finds the time marks for that particular one.|S|Bmr016
+me011|do it that way.|S|Bmr016
+me011|the way they're doing it you have that already extracted.|S|Bmr016
+me011|and it's embedded in the file name.|S|Bmr016
+me011|and so you know you just say|D|Bmr016
+fe016|yeah that's so that's part of it.|S|Bmr016
+me011|so you just say you know asterisk e. asterisk dot wave and you get what you want.|S|Bmr016
+fe016|is|D|Bmr016
+fe016|right.|S|Bmr016
+fe016|and the other part is just that once they're written out it it is a lot faster to to process them.|S|Bmr016
+me011|rather than doing seeks through the file.|S|Bmr016
+fe016|so|F|Bmr016
+fe016|otherwise you're just accessing|D|Bmr016
+me011|this is all just temporary access.|S|Bmr016
+me011|so i don't i think it's all just|D|Bmr016
+me011|it's fine.|S|Bmr016
+me011|you know.|S|Bmr016
+me011|fine to do it however is convenient.|S|Bmr016
+fe016|right.|S|Bmr016
+me013|i mean it just depends how big the file is.|S|Bmr016
+me013|if the file sits in memory you can do extremely fast seeks.|S|Bmr016
+fe016|right.|B|Bmr016
+fe016|the other thing is that believe it or not i mean we have some|D|Bmr016
+me013|but|F|Bmr016
+me011|yeah and they don't.|S|Bmr016
+me011|two gig.|S|Bmr016
+fe016|so we're also looking at these in waves like for the alignments and so forth.|S|Bmr016
+fe016|you can't load an hour of speech into x. waves.|S|Bmr016
+me013|yeah.|B|Bmr016
+fe016|you need to have these small files.|S|Bmr016
+fe016|and in fact even for the transcriber program um|D|Bmr016
+me011|yes you can.|S|Bmr016
+me018|yeah you you can give waves a start and an end time.|S|Bmr016
+fe016|yeah if you try to load really long waveform into x. waves you'll be waiting there for|D|Bmr016
+me018|and middle.|S|Bmr016
+me018|no i i'm not suggesting you load a long wave file.|S|Bmr016
+fe016|oh.|S|Bmr016
+me018|i'm just saying you give it a start and an end time.|S|Bmr016
+me018|and it'll just go and pull out that section.|S|Bmr016
+me011|i|D|Bmr016
+me011|the transcribers didn't have any problem with that.|S|Bmr016
+me011|did they jane?|Q|Bmr016
+fe008|what's in what respect?|Q|Bmr016
+fe016|loading the long|D|Bmr016
+me011|they loaded they loaded the long long files into x. waves.|S|Bmr016
+mn014|no with the transcriber tool it's no problem.|S|Bmr016
+fe016|it takes a very long|D|Bmr016
+fe008|in the|D|Bmr016
+mn014|yeah just to load a transcription.|S|Bmr016
+fe008|uhhuh.|B|Bmr016
+fe016|right.|S|Bmr016
+fe016|it takes a very long time.|S|Bmr016
+mn014|takes a long time.|S|Bmr016
+mn014|but not for the wavefile.|S|Bmr016
+mn014|the wavefile is there immediately.|S|Bmr016
+fe008|uhhuh yeah.|S|Bmr016
+me011|are you talking about transcriber or x. waves?|Q|Bmr016
+fe016|huh.|D|Bmr016
+mn014|yeah.|S|Bmr016
+mn014|oh i'm talking about transcriber.|S|Bmr016
+fe016|actually you're talking about transcriber right?|S|Bmr016
+mn014|yeah.|S|Bmr016
+fe008|it was also true of the digits task which was x. waves.|S|Bmr016
+me011|because because we used x. waves to do the digits.|S|Bmr016
+fe008|yeah.|B|Bmr016
+me011|and they were loading the full mixed files then.|S|Bmr016
+fe008|very quickly.|S|Bmr016
+me011|and it didn't seem to be any problem.|S|Bmr016
+fe008|i agree.|S|Bmr016
+fe016|huh.|B|Bmr016
+fe016|well we we have a problem with that.|S|Bmr016
+fe016|you know time wise on a|D|Bmr016
+fe016|it's a lot slower to load in a long file.|S|Bmr016
+me011|huh.|B|Bmr016
+me011|seemed really fast.|S|Bmr016
+fe016|and also to check the file.|S|Bmr016
+fe016|so if you have a transcript um|D|Bmr016
+me011|well regardless it's|D|Bmr016
+fe016|i mean it's|D|Bmr016
+me013|yeah.|B|Bmr016
+fe016|i i think overall you could get everything to work by accessing the same waveform and trying to find two you know the begin and end times.|S|Bmr016
+fe016|um|F|Bmr016
+fe016|but i think it's more efficient if we have the storage space to have the small ones.|S|Bmr016
+me011|and it's no problem right?|S|Bmr016
+fe016|yeah it's|D|Bmr016
+me011|because it's not backed up.|S|Bmr016
+fe016|yeah.|S|Bmr016
+fe016|it's it's just|D|Bmr016
+me011|so we just|D|Bmr016
+me011|if we don't have a spare disk sitting around we go out and we buy ourselves an eighty gigabyte drive.|S|Bmr016
+me011|and make it all scratch space.|S|Bmr016
+me011|you know it's not a big deal.|S|Bmr016
+fe008|you're right about the backup being a bottleneck.|S|Bmr016
+fe016|right.|B|Bmr016
+fe008|it's good to think towards scratch.|S|Bmr016
+fe016|yeah so these wouldn't be backed up the|D|Bmr016
+fe008|yeah.|S|Bmr016
+me013|yep.|S|Bmr016
+fe016|right.|B|Bmr016
+me011|so remind me afterward.|S|Bmr016
+fe016|and|D|Bmr016
+me011|and i'll and we'll look at your disk and see where to put stuff.|S|Bmr016
+me001|okay all right.|S|Bmr016
+me001|i mean i could just do a d.u. on it right?|S|Bmr016
+me001|and just see which how much is on each.|S|Bmr016
+me011|yep.|S|Bmr016
+me001|so|F|Bmr016
+me011|each partition.|S|Bmr016
+me011|and you want to use either x.a. or scratch.|S|Bmr016
+me001|okay.|S|Bmr016
+me011|well x. question mark.|S|Bmr016
+me011|anything starting with x. is scratch.|S|Bmr016
+me001|okay.|S|Bmr016
+fe008|with two two digits.|S|Bmr016
+me011|two digits right.|S|Bmr016
+me011|x.a.x.b.x.c.|S|Bmr016
+me013|so|F|Bmr016
+me011|okay?|Q|Bmr016
+me011|jane?|Q|Bmr016
+fe008|okay so i got a little printout here.|S|Bmr016
+fe008|so three on this side.|S|Bmr016
+fe008|three on this side.|S|Bmr016
+fe008|and i stapled them.|S|Bmr016
+fe008|okay.|S|Bmr016
+fe008|all right so first of all um there was a an interest in the transcription uh checking procedures.|S|Bmr016
+fe008|and and i can tell you first uh to go through the steps.|S|Bmr016
+fe008|although you've probably seen them.|S|Bmr016
+fe008|um as you might imagine when you're dealing with um really a fair number of words and uh natural speech|D|Bmr016
+fe008|which means self repairs and all these other factors that there're lots of things to be um standardized and streamlined and checked on.|S|Bmr016
+fe008|and um so|F|Bmr016
+fe008|i did a bunch of checks.|S|Bmr016
+fe008|and the first thing i did was obviously a spell check.|S|Bmr016
+fe008|and at that point i discovered certain things.|S|Bmr016
+fe008|like um accommodate with one m. .|S|Bmr016
+fe008|that kind of thing.|S|Bmr016
+fe008|and then in addition to that i did an exhaustive listing of the forms in the data file.|S|Bmr016
+fe008|which included detecting things like faulty punctuation and things.|S|Bmr016
+me018|i'm i'm sorry to interrupt.|S|Bmr016
+fe008|yeah?|Q|Bmr016
+me018|you could could i just back up a little bit?|Q|Bmr016
+fe008|sure please.|S|Bmr016
+fe008|yeah please please.|S|Bmr016
+me018|and|D|Bmr016
+fe008|yeah yeah yeah.|S|Bmr016
+me018|so you're doing these so the whole process is that the transcribers get the conversation.|S|Bmr016
+me018|and they do their pass over it.|S|Bmr016
+fe008|yes.|S|Bmr016
+me018|and then when they're finished with it it comes to you.|S|Bmr016
+me018|and you begin these these quality checks.|S|Bmr016
+fe008|that's right.|S|Bmr016
+fe008|exactly.|S|Bmr016
+fe008|i do these checks.|S|Bmr016
+fe008|uhhuh.|S|Bmr016
+me018|okay.|S|Bmr016
+fe008|exactly.|S|Bmr016
+me018|okay.|S|Bmr016
+fe008|yeah.|B|Bmr016
+fe008|thank you.|S|Bmr016
+fe008|and so uh i do a an exhaustive listing of the forms|D|Bmr016
+fe008|actually i will go through this in in order.|S|Bmr016
+fe008|so if if we could maybe wait and stick keep that for a second.|S|Bmr016
+fe008|because we're not ready for that.|S|Bmr016
+me011|so on the fifth page seven down|D|Bmr016
+fe008|yeah yeah yeah yeah exactly exactly.|S|Bmr016
+fe008|all right so a spelling check first.|S|Bmr016
+fe008|then an exhaustive listing of the uh all the forms in the data with the punctuation attached.|S|Bmr016
+fe008|and at that point i pick up things like oh you know word followed by two commas.|S|Bmr016
+fe008|and and then another check involves uh being sure that every utterance has an identifiable speaker.|S|Bmr016
+fe008|and if not then that gets checked.|S|Bmr016
+fe008|then there's this issue of glossing so-called spoken forms.|S|Bmr016
+fe008|so there|D|Bmr016
+fe008|for the most part we're keeping it standard word level transcription.|S|Bmr016
+fe008|but there's|D|Bmr016
+fe008|and that's done with the assumption that pronunciation variants can be handled.|S|Bmr016
+fe008|so for things like and the fact that someone doesn't say the d. uh that's not important enough to capture in the transcription.|S|Bmr016
+fe008|because a a good pronunciation uh you know model would be able to handle that.|S|Bmr016
+fe008|however things like because where you're lacking an entire very prominent first syllable.|S|Bmr016
+fe008|and furthermore it's a form that's specific to spoken language.|S|Bmr016
+fe008|those are reasons for those reasons i i kept that separate.|S|Bmr016
+fe008|and used the convention of using c.u.z. for that form.|S|Bmr016
+fe008|however glossing it.|S|Bmr016
+fe008|so that it's possible with the script to plug in the full orthographic form for that one.|S|Bmr016
+fe008|and a couple of others.|S|Bmr016
+fe008|not many.|S|Bmr016
+fe008|so want to is another one.|S|Bmr016
+fe008|going uh going to is another one.|S|Bmr016
+fe008|with just the assumption again that this these are things which it's not really fair to consider expect that a pronunciation model to handle.|S|Bmr016
+fe008|and chuck you you indicated that because is is one of those that's handled in a different way also didn't you?|S|Bmr016
+fe008|did i|D|Bmr016
+me018|i don't remember.|S|Bmr016
+fe008|okay.|S|Bmr016
+fe008|so it might not have been it might not have been you.|S|Bmr016
+me018|huh.|B|Bmr016
+fe008|but someone told me that in fact because is treated differently in um in this context.|S|Bmr016
+fe008|because of that reason that um it's a little bit farther than a pronunciation variant.|S|Bmr016
+fe008|okay so after that|D|Bmr016
+fe008|let's see.|S|Bmr016
+fe008|um|F|Bmr016
+me018|so that was part of the spell check or was that that was after the spell check?|Q|Bmr016
+fe008|well so when i get the|D|Bmr016
+fe008|so the spell check picks up those words.|S|Bmr016
+fe008|because they're not in the dictionary.|S|Bmr016
+me018|uhhuh.|B|Bmr016
+fe008|so it gets because and want to and that|D|Bmr016
+me011|and then you gloss them?|Q|Bmr016
+fe008|yeah uhhuh.|S|Bmr016
+fe008|run it through|D|Bmr016
+fe008|i have a sed you know so i do sed script saying whenever you see going to you know convert it to going to you know gloss equals quote going to quote.|S|Bmr016
+fe008|you know.|S|Bmr016
+fe008|and with all these things being in curly brackets.|S|Bmr016
+fe008|so they're always distinctive.|S|Bmr016
+me011|uhhuh.|B|Bmr016
+fe008|okay i also wrote a script which will um retrieve anything in curly brackets or anything which i've classified as an acronym.|S|Bmr016
+fe008|and a pronounced acronym.|S|Bmr016
+fe008|and the way i tag pronounced acronyms is that i have underscores between the components.|S|Bmr016
+fe008|so if it's a.c.l. then it's a. underscore c. underscore l. .|S|Bmr016
+fe008|and the|D|Bmr016
+me011|and so so your list here are these ones that actually occurred in the meetings?|Q|Bmr016
+fe008|yes uhhuh yeah.|S|Bmr016
+me011|whew!|S|Bmr016
+fe008|okay so now uh and|D|Bmr016
+me011|we are acronym loaded.|S|Bmr016
+fe016|um can i ask a question about the glossing uh before we go on?|Q|Bmr016
+fe008|yeah.|S|Bmr016
+fe016|so for a word like because is it that it's always predictably because?|Q|Bmr016
+fe016|i mean is c.u.z. always meaning because?|Q|Bmr016
+fe008|yes but not the reverse.|S|Bmr016
+fe008|so sometimes people will say because in the meeting.|S|Bmr016
+fe008|and if if they actually said because then it's written as because with no|S|Bmr016
+fe008|because doesn't even figure into the equation.|S|Bmr016
+fe016|because|D|Bmr016
+me013|but but in our meetings people don't say hey because how you doing.|S|Bmr016
+fe016|right right.|S|Bmr016
+me011|except right there.|S|Bmr016
+fe008|yeah.|S|Bmr016
+me013|yeah.|S|Bmr016
+fe016|um so i guess so from the point of view of|D|Bmr016
+fe008|that's a good point.|S|Bmr016
+fe016|the the only problem is that with for the recognition we we map it to because.|S|Bmr016
+fe016|and so if we know that c.u.z.|S|Bmr016
+me011|well|D|Bmr016
+fe008|that's fine.|S|Bmr016
+fe008|well don has a script.|S|Bmr016
+me011|but they have the gloss.|S|Bmr016
+me001|yeah.|B|Bmr016
+fe016|but we don't|D|Bmr016
+me011|you have the gloss form.|S|Bmr016
+me011|so you always replace it.|S|Bmr016
+fe008|exactly.|S|Bmr016
+me011|if that's how what you want to do.|S|Bmr016
+fe008|uhhuh.|B|Bmr016
+fe008|and don knows this.|S|Bmr016
+fe008|and he's he has a he has a script that|D|Bmr016
+me001|yeah.|S|Bmr016
+me001|i replace the because with because if it's glossed.|S|Bmr016
+fe016|right.|S|Bmr016
+fe016|but if it's|D|Bmr016
+fe016|okay.|S|Bmr016
+fe016|but then there are other glosses that we don't replace right?|S|Bmr016
+me001|and|D|Bmr016
+fe016|because|D|Bmr016
+fe008|yes and that's why there're different tags on the glosses.|S|Bmr016
+fe016|okay so then it's fine.|S|Bmr016
+fe008|on the different on the different types of comments.|S|Bmr016
+fe008|which we'll which we'll see in just a second.|S|Bmr016
+me001|right.|S|Bmr016
+fe016|okay.|S|Bmr016
+fe008|so the pronounceable acronyms get underscores.|S|Bmr016
+fe008|the things in curly brackets are viewed as comments.|S|Bmr016
+fe008|there're comments of four types.|S|Bmr016
+fe008|so this is a good time to introduce that.|S|Bmr016
+fe008|the four types.|S|Bmr016
+fe008|and maybe we'll expand that.|S|Bmr016
+me011|um|D|Bmr016
+fe008|but the but the comments are um of four types mainly right now.|S|Bmr016
+fe008|one of them is um the gloss type we just mentioned.|S|Bmr016
+me011|can|D|Bmr016
+fe008|another type is um|D|Bmr016
+me011|so are we done with acronyms?|Q|Bmr016
+me011|because i had a question on what what this meant.|S|Bmr016
+fe008|i'm still doing the overview.|S|Bmr016
+fe008|i haven't actually gotten here yet.|S|Bmr016
+me011|oh i'm sorry.|S|Bmr016
+fe008|okay so gloss is things like replacing the full form with the um more abbreviated one to the left.|S|Bmr016
+fe008|uh then you have if it's uh there're a couple different types of elements that can happen that aren't really properly words.|S|Bmr016
+fe008|and some of them are laughs and breathes.|S|Bmr016
+fe008|so we have uh that's prepended with a a tag of v.o.c.|S|Bmr016
+mn014|whew.|S|Bmr016
+fe008|and the non vocal ones are like door-slams and tappings.|S|Bmr016
+fe008|and that's prepended with a non-vocalization.|S|Bmr016
+me018|so then it just an ending curly brace there?|Q|Bmr016
+me018|or is there something else in there?|Q|Bmr016
+fe008|oh yeah so this would|D|Bmr016
+fe008|let's just take one example.|S|Bmr016
+me011|a comment basically.|S|Bmr016
+me018|oh oh oh.|S|Bmr016
+fe008|and then the non-vocalization would be something like a door slam.|S|Bmr016
+fe008|they always end.|S|Bmr016
+fe008|so it's like they're paired curly brackets.|S|Bmr016
+fe008|and then the third type right now uh is things that fall in the category of comments about what's happening.|S|Bmr016
+fe008|so it could be something like you know referring to so-and-so.|S|Bmr016
+fe008|talking about such and such.|S|Bmr016
+fe008|uh you know looking at so-and-so.|S|Bmr016
+me018|so on the|D|Bmr016
+me018|on the middle so in the first case that gloss applies to the word to the left.|S|Bmr016
+fe008|yeah.|S|Bmr016
+fe008|yeah and this gets substituted here.|S|Bmr016
+me018|but in the middle two it's not applying to anything right?|S|Bmr016
+me011|they're impulsive.|S|Bmr016
+fe008|huh uh.|S|Bmr016
+me018|okay.|S|Bmr016
+fe008|no they're events.|S|Bmr016
+fe008|they're actually they have the status of events.|S|Bmr016
+me018|okay.|S|Bmr016
+me011|well the qual can be the qual is applying to the left.|S|Bmr016
+me018|right i just meant the middle two ones.|S|Bmr016
+me011|yep.|S|Bmr016
+me018|yeah.|S|Bmr016
+fe008|well and actually um it is true that with respect to laugh there's another one.|S|Bmr016
+fe008|which is while laughing.|S|Bmr016
+me011|while laughing.|S|Bmr016
+fe008|and that is uh an argument could be made for this turning that into a qualitative statement.|S|Bmr016
+fe008|because it's talking about the thing that preceded it.|S|Bmr016
+fe008|but at present we haven't been um uh coding the exact scope of laughing you know.|S|Bmr016
+fe008|and so to have while laughing you know that it happened somewhere in there.|S|Bmr016
+fe008|which could well mean that it occurred separately and following.|S|Bmr016
+fe008|or you know including some of the utterances to the left.|S|Bmr016
+fe008|haven't been awfully precise about that.|S|Bmr016
+fe008|but i have here|D|Bmr016
+fe008|now we're about to get to the to this now.|S|Bmr016
+fe008|i have frequencies.|S|Bmr016
+fe008|so you'll see how often these different things occur.|S|Bmr016
+fe008|but um uh the very front page deals with this uh final uh uh aspect of the standardization.|S|Bmr016
+fe008|which has to do with the spoken forms like uhhuh and uhhuh and ha and uhuh and all these different types.|S|Bmr016
+fe008|and um uh someone pointed out to me.|S|Bmr016
+fe008|this might have been chuck about um about how a recognizer if it's looking for uhhuh with three m. 's and it's transcribed with two m. 's that it might uh that it might increase the error rate.|S|Bmr016
+fe008|which is which would really be a shame.|S|Bmr016
+fe008|because um i i personally would not be able to make a claim that those are dramatically different items.|S|Bmr016
+fe008|so right now i've standardized across all the existing data with these spoken forms.|S|Bmr016
+me011|oh good.|S|Bmr016
+fe008|i i should say|D|Bmr016
+me011|so it's a small list.|S|Bmr016
+fe008|all existing data except thirty minutes which got found today.|S|Bmr016
+fe008|so i'm going to i'm going to i'm going to check|D|Bmr016
+me011|that that's known as found data.|S|Bmr016
+fe008|yeah yeah.|S|Bmr016
+fe008|actually yeah.|S|Bmr016
+fe008|i got it was stored in a place i didn't expect.|S|Bmr016
+me001|it's like the zapruder film.|S|Bmr016
+fe008|so and and um|F|Bmr016
+fe008|we uh reconstructed how that happened.|S|Bmr016
+me013|i want to work with lost data.|S|Bmr016
+me011|yeah it's much easier.|S|Bmr016
+fe008|and this is this'll be great.|S|Bmr016
+fe008|so i'll i'll be able to get through that tonight.|S|Bmr016
+fe008|and then well actually later today probably.|S|Bmr016
+me011|huh.|B|Bmr016
+fe008|and so then we'll have everything following these conventions.|S|Bmr016
+fe008|but you notice it's really rather a small set of these kinds of things.|S|Bmr016
+me011|yeah.|S|Bmr016
+fe008|and i made it so that these are um with a couple exceptions but things that you wouldn't find in the spell checker.|S|Bmr016
+fe008|so that they'll show up really easily.|S|Bmr016
+fe008|and um|F|Bmr016
+me001|jane can i ask you a question?|Q|Bmr016
+me001|what's that very last one correspond to?|Q|Bmr016
+fe008|sure.|S|Bmr016
+me001|i don't even know how to pronounce that.|S|Bmr016
+fe008|well yeah now that that only occurs once.|S|Bmr016
+fe016|yeah.|B|Bmr016
+fe008|and i'm thinking of changing that.|S|Bmr016
+fe016|right.|D|Bmr016
+fe008|i haven't listened to it.|S|Bmr016
+me001|uh is that like someone's like burning or some such thing?|Q|Bmr016
+fe008|so i don't know.|S|Bmr016
+fe008|i haven't heard it actually.|S|Bmr016
+me001|like their hair's on fire.|S|Bmr016
+fe008|i i need to listen to that one.|S|Bmr016
+me011|uh!|S|Bmr016
+fe016|actually we we gave this to our pronunciation person.|S|Bmr016
+mn014|it's the castle of uh.|S|Bmr016
+me001|uh it looks like that.|S|Bmr016
+fe016|she's like i don't know what that is either.|S|Bmr016
+fe016|so|F|Bmr016
+fe008|did she hear the did she actually hear it?|Q|Bmr016
+fe016|no we just gave her a list of words that you know weren't in our dictionary.|S|Bmr016
+fe008|because i haven't heard it.|S|Bmr016
+fe016|and so of course it picked up stuff like this.|S|Bmr016
+fe016|and she just didn't listen.|S|Bmr016
+fe016|so she didn't know.|S|Bmr016
+fe016|we just we're waiting on that just to do the alignments.|S|Bmr016
+fe008|yeah.|S|Bmr016
+fe008|yeah i'm curious to hear what it is.|S|Bmr016
+fe008|but i didn't know want to change it to something else until i knew.|S|Bmr016
+fe016|maybe it's argh.|S|Bmr016
+me001|right.|B|Bmr016
+fe008|well sss you know|D|Bmr016
+me001|but that's not really like|D|Bmr016
+fe008|hhh.|D|Bmr016
+fe016|yeah.|B|Bmr016
+me001|no one really says argh you know.|S|Bmr016
+fe016|right no one|D|Bmr016
+me013|well you just did.|S|Bmr016
+me001|it's not|D|Bmr016
+me001|well|D|Bmr016
+fe008|yeah.|B|Bmr016
+me001|there's another there's another word error.|S|Bmr016
+me018|except for now.|S|Bmr016
+fe008|that's right.|S|Bmr016
+me011|yes that's right.|S|Bmr016
+me011|we're going to have a big problem when we talk about that.|S|Bmr016
+me001|cha-ching!|S|Bmr016
+fe016|uh.|S|Bmr016
+me018|we're going to never recognize this meeting.|S|Bmr016
+fe008|okay.|D|Bmr016
+me011|in monty python you say argh a lot.|S|Bmr016
+me001|oh yeah?|Q|Bmr016
+me011|so|F|Bmr016
+me011|well or if you're a c. programmer.|S|Bmr016
+me001|huh.|B|Bmr016
+fe008|yeah that's right.|S|Bmr016
+me013|yeah.|S|Bmr016
+me011|you say arg c. and arg v. all the time.|S|Bmr016
+fe008|that's right.|S|Bmr016
+me013|yeah.|S|Bmr016
+me001|that's true.|S|Bmr016
+fe016|but it has a different prosody.|S|Bmr016
+fe008|yeah.|B|Bmr016
+me013|arg.|S|Bmr016
+me011|it does.|S|Bmr016
+me013|arg arg-max arg-min.|S|Bmr016
+me001|uhhuh.|B|Bmr016
+me013|yeah.|D|Bmr016
+me011|uh!|S|Bmr016
+fe008|uh|D|Bmr016
+fe016|so jane what's the|D|Bmr016
+me011|maybe he died while dictating.|S|Bmr016
+fe008|so|F|Bmr016
+fe016|i have one question about the the e.h. versus like the a.h. and the u.h.|S|Bmr016
+fe008|that's partly a nonnative-native thing.|S|Bmr016
+fe008|but i have found e.h. in native speakers too.|S|Bmr016
+fe016|okay.|S|Bmr016
+fe008|but it's mostly non native.|S|Bmr016
+fe016|okay.|S|Bmr016
+mn014|h.|D|Bmr016
+me018|that's uh versus uh?|Q|Bmr016
+fe008|uh.|S|Bmr016
+me011|uh.|S|Bmr016
+fe016|uh yeah right.|S|Bmr016
+fe016|because there were were some speakers that did definite uh's.|S|Bmr016
+fe008|uhhuh.|B|Bmr016
+fe016|but right now we|D|Bmr016
+me018|they were the canadians right?|S|Bmr016
+me013|canadians yeah yeah yeah.|S|Bmr016
+fe008|that's right.|S|Bmr016
+fe016|so it it's actually probably good for us to know the difference between the real uh and the one that's just like uh or transcribed ah.|S|Bmr016
+fe008|exactly.|S|Bmr016
+fe016|because in like in switchboard you would see all of these forms.|S|Bmr016
+fe016|but they all were like uh.|S|Bmr016
+me011|you mean just the single letter a as in the particle?|Q|Bmr016
+mn014|the transcription or|D|Bmr016
+fe016|no no i mean like the the u.h.|S|Bmr016
+me011|article.|S|Bmr016
+fe008|u.h.|S|Bmr016
+me011|oh.|S|Bmr016
+fe016|or the u.h.e.h.a.h. were all the same.|S|Bmr016
+fe016|and then we have this additional non native version of uh like eeh.|S|Bmr016
+me001|all the e.h.s. i've seen have been like that.|S|Bmr016
+me001|they've been like uh|S|Bmr016
+me001|like that have has been transcribed to e.h.|S|Bmr016
+fe008|uhhuh that's right.|S|Bmr016
+me001|and sometimes it's stronger.|S|Bmr016
+me001|like eeh which is like closer to e.h.|S|Bmr016
+fe008|huh.|B|Bmr016
+fe016|right.|B|Bmr016
+me001|but|F|Bmr016
+fe008|yeah.|B|Bmr016
+me011|i'm just these poor transcribers they're going to hate this meeting.|S|Bmr016
+me001|i know.|S|Bmr016
+me001|we should go off line.|S|Bmr016
+fe008|well we're not doing we're not doing length.|S|Bmr016
+me013|quick thilo do a do a filled pause for us.|S|Bmr016
+fe008|yeah that's right.|S|Bmr016
+mn014|ooo no.|S|Bmr016
+fe016|but you're a native german speaker.|S|Bmr016
+fe016|so it's not a not a issue for|D|Bmr016
+mn014|yeah.|S|Bmr016
+fe016|it's only|D|Bmr016
+me011|them canadians.|S|Bmr016
+fe016|yeah.|F|Bmr016
+fe016|no only if you don't have lax vowels i guess.|S|Bmr016
+fe016|right?|Q|Bmr016
+fe016|so it's like japanese and spanish.|S|Bmr016
+me011|oh.|B|Bmr016
+fe008|this makes sense.|S|Bmr016
+fe008|yeah i i think you've|D|Bmr016
+fe008|uhhuh yeah.|S|Bmr016
+fe016|and|F|Bmr016
+me013|uhhuh.|B|Bmr016
+me011|oh i see.|S|Bmr016
+fe008|that makes sense.|S|Bmr016
+me011|i didn't get that.|S|Bmr016
+me011|okay.|S|Bmr016
+fe008|yeah and so you know i mean i have there are some um americans who who are using this uh too.|S|Bmr016
+fe008|and i haven't listened to it systematically.|S|Bmr016
+fe008|maybe with some of them uh they'd end up being uh's.|S|Bmr016
+fe008|but uh my spot checking has made me think that we do have uh in also um american data represented here.|S|Bmr016
+fe008|but|F|Bmr016
+fe008|any case that's the this is reduced down from really quite a a much longer list.|S|Bmr016
+fe016|yeah this is great.|S|Bmr016
+fe008|and this is|D|Bmr016
+me001|uhhuh.|S|Bmr016
+me011|yeah it's good.|S|Bmr016
+fe016|this is really really helpful.|S|Bmr016
+me011|yeah.|B|Bmr016
+fe008|functionally pretty you know also|D|Bmr016
+fe008|it was fascinating i was listening to some of these uh i guess two nights ago.|S|Bmr016
+fe008|and it's just hilarious to to to do a search for the uhhuh's.|S|Bmr016
+fe008|and you get uhhuh.|S|Bmr016
+fe008|and everybody's doing it.|S|Bmr016
+me011|and just listen to them.|S|Bmr016
+me011|yeah.|B|Bmr016
+fe008|just i wanted to say i think it would be fun to make a montage of it.|S|Bmr016
+fe008|because there's a uhhuh.|S|Bmr016
+fe008|uhhuh.|S|Bmr016
+fe008|uhhuh.|S|Bmr016
+me011|performance art.|S|Bmr016
+me011|just extract them all.|S|Bmr016
+fe016|right.|S|Bmr016
+fe008|it's really it's really fun to listen to.|S|Bmr016
+me018|morgan can make a song out of it.|S|Bmr016
+fe008|all these different vocal tracts you know.|S|Bmr016
+fe008|but it's it's the same item.|S|Bmr016
+fe008|it's very interesting.|S|Bmr016
+fe008|okay.|S|Bmr016
+fe008|uh then the acronyms.|S|Bmr016
+fe008|and the ones in parentheses are ones which the transcriber wasn't sure of.|S|Bmr016
+fe008|and i haven't been able to listen to to to clarify.|S|Bmr016
+me011|oh i see.|S|Bmr016
+fe008|but you can see that the parenthesis convention makes it very easy to find them.|S|Bmr016
+fe008|because it's the only place where where they're used.|S|Bmr016
+me011|how about question mark?|Q|Bmr016
+mn014|the question marks yeah.|S|Bmr016
+fe008|question mark is punctuation.|S|Bmr016
+mn014|what are those?|Q|Bmr016
+fe008|so it they said that.|S|Bmr016
+me011|oh.|S|Bmr016
+me001|uhhuh.|B|Bmr016
+fe008|um d.c.|S|Bmr016
+me011|so they so it's p.l.p.|S|Bmr016
+mn014|uh.|S|Bmr016
+fe008|exactly.|S|Bmr016
+fe008|exactly.|S|Bmr016
+fe008|yeah so the only|D|Bmr016
+fe008|well and i do have a stress marker here.|S|Bmr016
+fe008|sometimes the contrastive stress is showing up.|S|Bmr016
+fe008|and um|D|Bmr016
+me013|i'm sorry i i got lost here.|S|Bmr016
+me013|what's the difference between the parenthesized acronym and the non-parenthesized?|Q|Bmr016
+fe008|the parenthesized is something that the transcriber thought was a.n.n. but wasn't entirely sure.|S|Bmr016
+fe008|so i'd need to go back or someone needs to go back and say you know yes or no.|S|Bmr016
+me013|uh.|B|Bmr016
+fe016|right.|B|Bmr016
+fe008|and then get rid of the parentheses.|S|Bmr016
+fe008|but the parentheses are used only in that context in the transcripts of of noticing that there's something uncertain.|S|Bmr016
+me011|yeah p. make is|D|Bmr016
+fe016|yeah i mean because they they have no idea.|S|Bmr016
+me011|that's a good one.|S|Bmr016
+me011|that's correct.|S|Bmr016
+fe016|right.|S|Bmr016
+fe016|if you hear c.t.p.d.i. mean they do pretty well.|S|Bmr016
+me013|yeah.|B|Bmr016
+me001|uhhuh.|B|Bmr016
+fe016|but it's|D|Bmr016
+me013|i i don't recognize a lot of these.|S|Bmr016
+fe016|you know how are how are they going to know?|Q|Bmr016
+me011|i know.|S|Bmr016
+me013|i|D|Bmr016
+me011|i i was saying that i think a lot of them are the networks meeting.|S|Bmr016
+me001|yeah.|B|Bmr016
+fe008|i think that's true.|S|Bmr016
+me013|maybe.|S|Bmr016
+fe008|yeah absolutely.|S|Bmr016
+fe016|yeah.|S|Bmr016
+fe008|n.s.a.|S|Bmr016
+me011|i see a few.|S|Bmr016
+fe008|a lot of these are are coming from them.|S|Bmr016
+fe008|i listened to some of that.|S|Bmr016
+me011|although i see i see plenty of uh|D|Bmr016
+me001|yeah we don't have that many acronyms comparatively in this meeting.|S|Bmr016
+fe008|yeah.|B|Bmr016
+fe008|yeah i agree.|S|Bmr016
+me001|it's not so bad.|S|Bmr016
+fe016|right.|B|Bmr016
+fe008|and robustness has a fair amount.|S|Bmr016
+fe008|but the n.s.a. group is just very very many.|S|Bmr016
+mn014|yeah.|B|Bmr016
+me001|huh.|B|Bmr016
+fe016|the recognizer it is funny.|S|Bmr016
+fe016|kept getting p.t.a. for p.d.a.|S|Bmr016
+fe016|this is close.|S|Bmr016
+me013|yeah.|B|Bmr016
+me011|yeah that's pretty close.|S|Bmr016
+fe016|right.|S|Bmr016
+fe016|and the p.t.a. was in these uh topics about children.|S|Bmr016
+me001|that's not bad.|S|Bmr016
+fe008|yeah.|B|Bmr016
+fe016|so anyway|F|Bmr016
+fe008|that's interesting.|S|Bmr016
+fe016|is the p. p.t.a. working.|S|Bmr016
+fe008|right and sometimes i mean you see a couple of these that are actually okay's.|S|Bmr016
+fe008|so it's it's may be that they got to the point where i mean it was low enough understandable|D|Bmr016
+fe008|understandability that they weren't entirely sure the person said okay.|S|Bmr016
+fe008|you know so it isn't really necessarily a an undecipherable acronym.|S|Bmr016
+fe008|but just needs to be double checked.|S|Bmr016
+me001|there's a lot of okay's.|S|Bmr016
+fe008|now we get to the comments.|S|Bmr016
+me013|the number to the left is the number of incidences?|Q|Bmr016
+fe008|this|D|Bmr016
+me011|count.|S|Bmr016
+fe008|number of times out of the entire database.|S|Bmr016
+me011|yep.|S|Bmr016
+me013|uhhuh.|D|Bmr016
+fe008|except for that last thirty minutes i haven't checked yet.|S|Bmr016
+me013|so c.t.s. is really big here.|S|Bmr016
+me011|yeah i wonder what it is.|S|Bmr016
+me013|yeah.|S|Bmr016
+me013|yeah.|S|Bmr016
+mn014|so what is the difference between papers rustling and rustling papers?|Q|Bmr016
+me013|i.p.|S|Bmr016
+me013|i know what i.p. is.|S|Bmr016
+fe008|i'd have to listen.|S|Bmr016
+fe008|i i agree.|S|Bmr016
+fe008|i i'd like to standardize these down farther.|S|Bmr016
+fe008|but um uh|F|Bmr016
+fe008|uh to me that sounds equivalent.|S|Bmr016
+mn014|yeah.|S|Bmr016
+fe008|but i i'm a little hesitant to to collapse across categories unless i actually listen to them.|S|Bmr016
+mn014|seems so.|S|Bmr016
+me013|okay.|S|Bmr016
+me011|oh i'm sure we've said x.m.l. more than five times.|S|Bmr016
+fe008|well then at least now.|S|Bmr016
+me013|six now yeah.|S|Bmr016
+mn014|now it's at least six times yeah.|S|Bmr016
+fe008|yeah.|B|Bmr016
+fe008|six.|S|Bmr016
+fe008|okay well|F|Bmr016
+me013|the self-referential aspect of these these|D|Bmr016
+fe016|i'm|D|Bmr016
+me011|yes it's very bad.|S|Bmr016
+me001|yeah.|S|Bmr016
+fe016|well this is exactly how people will prove that these meetings do differ because we're recording right?|S|Bmr016
+me011|yes.|S|Bmr016
+fe016|normally you don't go around saying now you've said it six times.|S|Bmr016
+me011|yeah that's right.|S|Bmr016
+fe016|now you've|D|Bmr016
+fe008|but did you notice that there were seven hundred and eighty five instances of okay?|Q|Bmr016
+fe008|and that's just without the without punctuation.|S|Bmr016
+me011|yep.|S|Bmr016
+me013|no i didn't.|S|Bmr016
+mn014|seven hundred eighty five instances.|S|Bmr016
+me001|yeah.|B|Bmr016
+me013|yeah.|B|Bmr016
+me011|and that's an underestimate.|S|Bmr016
+fe008|extra forty one if it's questioned.|S|Bmr016
+me011|because they're|D|Bmr016
+me018|where's that?|Q|Bmr016
+me013|so|D|Bmr016
+me011|yep.|S|Bmr016
+fe008|on the page two of acronyms.|S|Bmr016
+me013|yeah.|B|Bmr016
+me001|is this after like did you do some uh replacements for all the different form of okay to this?|Q|Bmr016
+me013|seven hundred eighty.|S|Bmr016
+fe008|yeah.|S|Bmr016
+fe008|of okay yes.|S|Bmr016
+me001|okay.|S|Bmr016
+fe008|uhhuh.|B|Bmr016
+fe008|so that's the single existing convention for okay.|S|Bmr016
+me018|wait a minute.|S|Bmr016
+me013|so now we're up to seven hundred and eighty eight.|S|Bmr016
+fe008|yeah that's|D|Bmr016
+me001|although what's there's one with a slash after it.|S|Bmr016
+me001|that's kind of disturbing.|S|Bmr016
+fe008|yeah.|S|Bmr016
+fe008|that's that's i looked for that one.|S|Bmr016
+me011|yeah we'll have to look at it you know.|S|Bmr016
+fe016|yeah.|B|Bmr016
+me001|anyway|F|Bmr016
+fe008|i actually explicitly looked for that one.|S|Bmr016
+me001|uhhuh.|B|Bmr016
+fe008|and i think that um|D|Bmr016
+fe008|i i'm not exactly sure about that.|S|Bmr016
+me018|was that somewhere where they were going to say new speaker or something?|Q|Bmr016
+fe008|no i looked for that.|S|Bmr016
+fe008|but that doesn't actually exist.|S|Bmr016
+fe008|and it may be|D|Bmr016
+fe008|i don't i can't explain that.|S|Bmr016
+me001|that's all right.|S|Bmr016
+me001|i'm just pointing that out.|S|Bmr016
+fe008|it's the only|D|Bmr016
+me001|there's|D|Bmr016
+fe008|it's the only pattern that has a slash after it.|S|Bmr016
+fe016|well there's not.|D|Bmr016
+fe008|and i think it's it's an epiphenomenon.|S|Bmr016
+me011|so i'll just i was just looking at the bottom of page three there.|S|Bmr016
+me011|is that to be or not to be?|Q|Bmr016
+fe008|yeah.|B|Bmr016
+fe008|oh that's cute.|S|Bmr016
+me018|there's no tilde in front of it.|S|Bmr016
+me018|so|F|Bmr016
+fe008|that's funny.|S|Bmr016
+fe008|yeah.|B|Bmr016
+fe008|okay.|S|Bmr016
+me011|okay anyways sorry.|S|Bmr016
+fe008|there is one|D|Bmr016
+me011|try to stay on topic adam.|S|Bmr016
+fe008|well no that's that's legitimate.|S|Bmr016
+fe008|so now uh comments you can see they're listed again.|S|Bmr016
+fe008|same deal with exhaustive listing of everything found in everything except for these final thirty minutes.|S|Bmr016
+me011|okay so um on some of these quals|D|Bmr016
+fe008|yeah.|B|Bmr016
+me011|are they really quals?|Q|Bmr016
+me011|or are they glosses?|Q|Bmr016
+me011|so like there's a qual t.c.l.|S|Bmr016
+fe008|t.c.l.|S|Bmr016
+fe008|where do you see that?|Q|Bmr016
+me011|uh|F|Bmr016
+fe008|oh oh.|S|Bmr016
+fe008|the reason is because it was said tickle.|S|Bmr016
+me013|what's a qual?|Q|Bmr016
+me011|oh i see i see.|S|Bmr016
+me001|huh.|B|Bmr016
+me011|so it's not gloss.|S|Bmr016
+me011|okay i see.|S|Bmr016
+fe008|yep.|S|Bmr016
+me011|it wasn't said t.c.l.|S|Bmr016
+me001|shouldn't it be qual t.i.c.k.l.e. or something?|Q|Bmr016
+me011|of course.|S|Bmr016
+me001|like it's not|D|Bmr016
+fe008|on the in the actual script in the actual transcript i i|D|Bmr016
+fe008|so this this happens in the very first one.|S|Bmr016
+me001|uhhuh.|B|Bmr016
+fe008|i actually wrote it as tickle.|S|Bmr016
+me001|okay.|S|Bmr016
+fe008|because we they didn't say t.c.l. they said tickle.|S|Bmr016
+me001|yeah.|B|Bmr016
+fe016|right.|B|Bmr016
+fe008|and then following that is qual t.c.l.|S|Bmr016
+me001|oh i see.|S|Bmr016
+me013|i i forget.|S|Bmr016
+me001|okay.|S|Bmr016
+me013|what's qual?|Q|Bmr016
+fe008|qualifier.|S|Bmr016
+me018|it's just comment about what they said.|S|Bmr016
+fe008|comment.|S|Bmr016
+me001|yeah.|B|Bmr016
+fe008|comment or contextual comment.|S|Bmr016
+me001|it's not something you want to replace with.|S|Bmr016
+me018|so they didn't mean tickle as in elmo.|S|Bmr016
+me001|but|F|Bmr016
+me013|yeah.|B|Bmr016
+mn014|tickle.|S|Bmr016
+me018|they meant tickle as in|D|Bmr016
+me011|yeah.|B|Bmr016
+fe016|huh.|B|Bmr016
+me013|right.|B|Bmr016
+fe016|but at some point i mean we probably|D|Bmr016
+me011|we'll probably add it to the language model.|S|Bmr016
+fe016|but we should add it to the|D|Bmr016
+fe016|no to the pronunciation model.|S|Bmr016
+me011|yeah.|B|Bmr016
+me011|what did i say?|Q|Bmr016
+fe016|language uh|D|Bmr016
+mn014|to the language model model.|S|Bmr016
+me011|well both.|S|Bmr016
+me011|we can go on add it to both dictionary and language model.|S|Bmr016
+fe016|oh oh|D|Bmr016
+me018|add what liz?|Q|Bmr016
+mn014|yeah.|B|Bmr016
+fe016|it's in the language model.|S|Bmr016
+fe016|yeah but so it's the pronunciation model that has to have a pronunciation of tickle.|S|Bmr016
+me011|well tickle was pronounced tickle.|S|Bmr016
+me011|right?|Q|Bmr016
+me018|what are you saying?|Q|Bmr016
+me011|it's pronounced the same it's pronounced the same as the verb.|S|Bmr016
+mn014|tickle is pronounced tickle?|Q|Bmr016
+fe016|i'm sorry.|S|Bmr016
+me011|so i think it's the language model that makes it different.|S|Bmr016
+fe016|oh sorry.|S|Bmr016
+fe016|what i meant is that there should be a pronunciation tickle for t.c.l. as a word.|S|Bmr016
+me011|oh i see.|S|Bmr016
+fe016|and that word in the in you know it stays in the language model wherever it was.|S|Bmr016
+mn014|yeah.|B|Bmr016
+me013|uhhuh.|B|Bmr016
+me011|right.|B|Bmr016
+me011|right.|B|Bmr016
+fe016|yeah you never would put tickle in the language model in that form.|S|Bmr016
+me013|right.|B|Bmr016
+fe016|yeah.|S|Bmr016
+me011|right.|B|Bmr016
+fe016|right.|B|Bmr016
+fe016|there's actually a bunch of cases like this with people's names and|D|Bmr016
+me018|so how there'd be a problem for doing the language modeling then with our transcripts the way they are.|S|Bmr016
+fe016|yes.|S|Bmr016
+fe016|yeah.|B|Bmr016
+fe016|yeah so there's a few cases like that where the um the word needs to be spelled out in in a consistent way as it would appear in the language.|S|Bmr016
+fe016|but there's not very many of these.|S|Bmr016
+fe016|tcl's one of them.|S|Bmr016
+me011|and and you'll you'll have to do it sychronously.|S|Bmr016
+fe016|um|D|Bmr016
+fe016|yeah.|B|Bmr016
+me011|right so so whoever's creating the new models will have to also go through the transcripts and change them synchronously.|S|Bmr016
+me001|it's just disturbing.|S|Bmr016
+fe016|right.|B|Bmr016
+fe016|right.|B|Bmr016
+fe016|we have this there is this thing i was going to talk to you about at some point about you know what do we do with the dictionary as we're updating the dictionary?|Q|Bmr016
+me018|huh.|B|Bmr016
+fe016|these changes have to be consistent with what's in the like spelling people's names and so forth.|S|Bmr016
+fe016|if we make a spelling correction to their name|D|Bmr016
+fe016|like someone had deborah tannen's name misspelled.|S|Bmr016
+fe016|and since we know who that is you know we could correct it.|S|Bmr016
+me011|you can correct it.|S|Bmr016
+fe016|but|F|Bmr016
+me011|yeah.|B|Bmr016
+fe016|but we need to make sure we have the|D|Bmr016
+fe016|if it doesn't get corrected we have to have a pronunciation as a misspelled word in the dictionary.|S|Bmr016
+fe016|things like that.|S|Bmr016
+fe008|uhhuh.|B|Bmr016
+me011|these are so funny to read.|S|Bmr016
+fe008|well of course now the the tannen the spelling change|D|Bmr016
+fe016|so|F|Bmr016
+fe008|uh that's what gets i i picked those up in the frequency check.|S|Bmr016
+fe016|right right.|S|Bmr016
+fe016|so if there's things that get corrected before we get them it's it's not an issue.|S|Bmr016
+fe016|but if there's things that um we change later then we always have to keep our the dictionary up to date.|S|Bmr016
+fe008|uhhuh.|B|Bmr016
+fe016|and then yeah in the case of tickle i guess we would just have a you know word t.c.l. which|S|Bmr016
+me018|uhhuh.|B|Bmr016
+me011|you add it to the dictionary.|S|Bmr016
+fe016|which normally would be an acronym.|S|Bmr016
+fe016|you know t.c.l.|S|Bmr016
+me011|right.|B|Bmr016
+fe016|but just has another pronunciation.|S|Bmr016
+me011|yep.|B|Bmr016
+fe008|icsi is is one of those that sometimes people pronounce and sometimes they say i.c.s.i.|S|Bmr016
+me011|uhhuh.|B|Bmr016
+fe008|so those that are are listed in the acronyms i actually know.|S|Bmr016
+fe016|oh yeah.|B|Bmr016
+fe008|they were said as letters.|S|Bmr016
+fe008|the others um those really do need to be listened to.|S|Bmr016
+fe008|because i haven't been able to go to all the icsi things.|S|Bmr016
+fe016|right exactly.|S|Bmr016
+fe008|and and until they've been listened to they stay as i.c.s.i.|S|Bmr016
+me011|uhhuh.|B|Bmr016
+fe016|right.|S|Bmr016
+me013|don and i were just noticing.|S|Bmr016
+me013|love this one over on page three.|S|Bmr016
+me013|vocal vocal gesture mimicking sound of screwing something into head to hold mike in place.|S|Bmr016
+me001|that's great.|S|Bmr016
+me011|it's this rrre-rrre-rrre.|S|Bmr016
+me011|it was me.|S|Bmr016
+fe008|it was.|S|Bmr016
+fe008|in fact it was.|S|Bmr016
+fe008|yeah.|S|Bmr016
+me011|a lot of these are me.|S|Bmr016
+fe008|he he he said he said get|D|Bmr016
+me011|the the beep is said with a high high pitch and lengthening.|S|Bmr016
+mn014|to head.|D|Bmr016
+fe008|yeah that's it.|S|Bmr016
+me011|that was the i was imitating uh beeping out.|S|Bmr016
+me013|beep.|S|Bmr016
+fe008|perfect.|S|Bmr016
+fe016|oh there is something spelled out b.e.e.e.e.e.e.p.|S|Bmr016
+me013|yeah.|B|Bmr016
+fe008|yeah that's it.|S|Bmr016
+me001|um|D|Bmr016
+fe008|that's it.|S|Bmr016
+fe008|yeah that's that's been changed.|S|Bmr016
+me001|yeah.|B|Bmr016
+fe016|in the old|D|Bmr016
+fe016|thank you.|S|Bmr016
+fe016|because he was saying how many e. 's do i have to allow for.|S|Bmr016
+me001|you need a lot of|D|Bmr016
+me011|what i meant was beep.|S|Bmr016
+me001|you need a lot of qualification adam.|S|Bmr016
+fe008|that's been changed.|S|Bmr016
+me011|i guess so.|S|Bmr016
+fe008|so exactly that's where the lengthening comment came in.|S|Bmr016
+me011|anyway|F|Bmr016
+fe016|right thanks.|S|Bmr016
+me001|subtext.|S|Bmr016
+fe008|brought it down.|S|Bmr016
+fe016|yeah.|S|Bmr016
+me011|so they're vocalization|D|Bmr016
+fe016|right.|B|Bmr016
+fe008|and those of course get get picked up in the frequency check.|S|Bmr016
+me011|glosses.|S|Bmr016
+fe008|because you see beep.|S|Bmr016
+fe016|right.|B|Bmr016
+fe008|and you know i mean it gets kicked out in the spelling.|S|Bmr016
+fe016|right.|B|Bmr016
+fe008|and it also gets kicked out in the uh frequency listing.|S|Bmr016
+fe016|right.|B|Bmr016
+fe008|i have the there're various things like breathe versus breath versus inhale and hhh.|S|Bmr016
+fe008|you know i don't know.|S|Bmr016
+fe008|i i think they don't have any implications for anything else.|S|Bmr016
+fe008|so it's like i'm tempted to leave them for now.|S|Bmr016
+fe008|and it's easy enough to find them when they're in curly brackets.|S|Bmr016
+fe008|we can always get an exhaustive listing of these things and find them and change them.|S|Bmr016
+fe016|yeah.|B|Bmr016
+me013|sings finale type song.|S|Bmr016
+fe016|yeah.|B|Bmr016
+me001|yeah that was in the first meeting.|S|Bmr016
+me013|that's that's good.|S|Bmr016
+me011|um|D|Bmr016
+fe008|yeah but i don't actually remember what it was.|S|Bmr016
+fe008|but that was eric did that.|S|Bmr016
+me013|yeah.|B|Bmr016
+fe008|yeah.|B|Bmr016
+me011|so on|D|Bmr016
+me013|tah-dah.|S|Bmr016
+me013|i don't know.|S|Bmr016
+fe008|i think maybe something like that.|S|Bmr016
+me013|something like that?|Q|Bmr016
+me013|maybe yeah.|S|Bmr016
+fe008|well that'd qualify.|S|Bmr016
+me011|on the glosses for numbers|D|Bmr016
+fe008|yeah.|B|Bmr016
+me011|it seems like there are lots of different ways it's being done.|S|Bmr016
+fe008|okay.|B|Bmr016
+fe008|interesting question.|S|Bmr016
+me011|there's a|D|Bmr016
+fe008|yes.|S|Bmr016
+fe008|okay now first of all|D|Bmr016
+fe008|ooo-ooo!|S|Bmr016
+fe008|very important.|S|Bmr016
+me011|ooo-ooo.|S|Bmr016
+fe008|uh chuck chuck led to a refinement here.|S|Bmr016
+fe008|which is to add nums if these are parts of the read numbers.|S|Bmr016
+fe008|now you already know that i had uh in places where they hadn't transcribed numbers i put numbers in place of any kind of numbers.|S|Bmr016
+fe008|but there are places where they|D|Bmr016
+fe008|um it this convention came later.|S|Bmr016
+fe008|and at the very first digits task in some transcripts they actually transcribed numbers.|S|Bmr016
+fe008|and um|F|Bmr016
+fe008|chuck pointed out that this is read speech.|S|Bmr016
+fe008|and it's nice to have the option of ignoring it for certain other uh uh things.|S|Bmr016
+fe008|and that's why there's this other tag here which occurs a hundred and five or three hundred and five times right now.|S|Bmr016
+fe008|which is just well nums by itself.|S|Bmr016
+me011|nums.|S|Bmr016
+me011|yeah.|B|Bmr016
+fe008|which means this is part of the numbers task.|S|Bmr016
+fe008|i may change it to digits.|S|Bmr016
+fe008|i mean with the sed command you can really just change it however you want.|S|Bmr016
+fe008|because it's systematically encoded you know?|S|Bmr016
+me011|yep.|S|Bmr016
+fe008|have to think about what's the best for for the overall purposes.|S|Bmr016
+fe008|but in any case um numbers and nums are a part of this digits task thing.|S|Bmr016
+fe008|um now then i have these numbers that have quotation marks around them.|S|Bmr016
+fe008|um i didn't want to put them in as gloss comments.|S|Bmr016
+fe008|because then you get the substitution.|S|Bmr016
+fe008|and actually um the reason i did it this way was because i initially started out with the other version.|S|Bmr016
+fe008|you have the numbers and you have the full form and the parentheses.|S|Bmr016
+fe008|however sometimes people stumble over these numbers they're saying.|S|Bmr016
+fe008|so you say seventy eight point two or whatever.|S|Bmr016
+fe008|and there's no way of capturing that if you're putting the numbers off to the side.|S|Bmr016
+fe008|you can't have the seven and|D|Bmr016
+me011|so what's to the left of these?|Q|Bmr016
+fe008|the left is|D|Bmr016
+fe008|so example the very first one|D|Bmr016
+fe008|it would be spelled out in words point five.|S|Bmr016
+me011|uhhuh.|B|Bmr016
+me011|okay that's what i was asking.|S|Bmr016
+me011|right.|S|Bmr016
+fe008|only it's spelled out in words.|S|Bmr016
+fe008|so this is also spelled out in in words.|S|Bmr016
+me011|point f.i.v.e. yeah.|S|Bmr016
+fe008|point five.|S|Bmr016
+me011|good.|S|Bmr016
+fe008|and then in here nums.|S|Bmr016
+fe008|so it's not going to be mistaken as a gloss.|S|Bmr016
+fe008|it comes out as nums quote dot five.|S|Bmr016
+me011|okay now the other example is in the glosses right there|D|Bmr016
+fe008|thank you.|D|Bmr016
+me011|gloss one one one dash one three zero.|S|Bmr016
+me001|right.|B|Bmr016
+fe008|well now|D|Bmr016
+me011|what what's to the left of that?|Q|Bmr016
+fe008|in that case it's people saying things like one one one dash so-and-so.|S|Bmr016
+fe008|or they're saying uh two i mean zero whatever.|S|Bmr016
+me011|okay.|B|Bmr016
+fe008|and in that case it's part of the numbers task.|S|Bmr016
+fe008|and it's not going to be included in the read digits anyway.|S|Bmr016
+fe008|so i in the uh|D|Bmr016
+me018|so there will be a nums tag on those lines?|Q|Bmr016
+fe008|there is.|S|Bmr016
+me018|yeah.|B|Bmr016
+fe008|yeah.|B|Bmr016
+fe008|i've added that all now too.|S|Bmr016
+me011|good.|S|Bmr016
+me001|there's a numbers tag|D|Bmr016
+fe016|wait.|S|Bmr016
+me001|i'm sorry i'm i didn't follow that last thing.|S|Bmr016
+fe008|so so gloss in the same line that would have gloss quote one one one dash one thirty you'd have a gloss at the end of the line saying uh curly bracket nums curly bracket.|S|Bmr016
+me001|right.|B|Bmr016
+fe008|so if you if you did a uh a grep minus v. nums.|S|Bmr016
+fe016|oh so you could do grep minus v. nums.|S|Bmr016
+fe016|so that's the|D|Bmr016
+fe008|and you get rid of anything that was read.|S|Bmr016
+fe016|yeah.|B|Bmr016
+fe016|so there wouldn't be something like|D|Bmr016
+me001|okay.|S|Bmr016
+fe016|if somebody said something like boy i'm really tired okay and then started reading that would be on a separate line.|S|Bmr016
+fe008|yes.|S|Bmr016
+fe016|okay great.|S|Bmr016
+fe016|because i was doing the grep minus v. quick and dirty.|S|Bmr016
+fe016|and looked like that was working okay.|S|Bmr016
+fe008|uhhuh.|B|Bmr016
+fe016|but|F|Bmr016
+fe008|good.|S|Bmr016
+fe016|great.|B|Bmr016
+fe008|yep.|B|Bmr016
+fe016|now why do we what's the reason for having like the point five have the nums on it?|Q|Bmr016
+fe016|is that just like when they're talking about their data or something?|Q|Bmr016
+fe008|this is more because|D|Bmr016
+fe016|or|D|Bmr016
+fe008|yeah.|S|Bmr016
+fe008|oh these are all these the nums point this all where they're saying point something or other.|S|Bmr016
+fe016|these are all like inside the spontaneous|D|Bmr016
+fe008|and the other thing too is for readability of the transcript.|S|Bmr016
+fe008|i mean if you're trying to follow this while you're reading it it's really hard to read you know|D|Bmr016
+fe008|uh so in the data column five has you know one point five compared to seventy nine point six.|S|Bmr016
+fe008|it's like when you see the words it's really hard to follow the argument.|S|Bmr016
+fe008|and this is just really a a way of someone who would handle the data in a more discourse y way to be able to follow what's being said.|S|Bmr016
+fe016|oh okay.|S|Bmr016
+me011|label it.|S|Bmr016
+fe016|i see.|S|Bmr016
+fe008|so this is where chuck's um overall architecture comes in.|S|Bmr016
+fe008|where we're going to have a master file of the channelized data.|S|Bmr016
+fe008|um there will be scripts that are written to convert it into these these main two uses.|S|Bmr016
+fe008|and some scripts will take it down into a a take it to a format that's usable for the recognizer.|S|Bmr016
+fe008|uh other scripts will take it to a form that's usable for the for linguistics and discourse analysis.|S|Bmr016
+fe008|and um the implication that that i have is that the master copy will stay unchanged.|S|Bmr016
+fe008|these will just be things that are generated.|S|Bmr016
+me011|right.|B|Bmr016
+fe008|and|F|Bmr016
+fe016|okay.|B|Bmr016
+fe008|by using scripts.|S|Bmr016
+me011|master copies of superset.|S|Bmr016
+fe008|when things change then the the script will change.|S|Bmr016
+fe008|but the but there won't be stored copies of in different versions of things.|S|Bmr016
+me011|good.|B|Bmr016
+fe016|so i guess i'd have one request here.|S|Bmr016
+fe016|which is just um maybe to make it more robust.|S|Bmr016
+fe016|that the tag whatever you would choose for this type of nums where it's inside the spontaneous speech is different than the tag that you use for the read speech.|S|Bmr016
+me018|right.|B|Bmr016
+me018|right that would argue for changing the other ones to be digits or something.|S|Bmr016
+fe016|um that way if we make a mistake parsing or something we don't see the point five.|S|Bmr016
+fe016|or or it's not there then we|D|Bmr016
+me018|uhhuh.|B|Bmr016
+fe016|just and actually for things like seven eighths or|D|Bmr016
+fe016|people do fractions too i guess.|S|Bmr016
+fe016|you maybe you want one overall tag for sort of that would be similar to that.|S|Bmr016
+fe008|except|D|Bmr016
+fe016|or|F|Bmr016
+fe016|as long as they're as they're different strings that we that'll make our sort of processing more robust.|S|Bmr016
+fe008|well|D|Bmr016
+fe016|because we really will get rid of everything that has the nums string in it.|S|Bmr016
+me018|i suppose what you could do is just make sure that you get rid of everything that has curly brace nums curly brace.|S|Bmr016
+fe008|well|D|Bmr016
+fe008|exactly.|S|Bmr016
+fe008|exactly.|S|Bmr016
+me018|i mean that would be the|D|Bmr016
+fe008|that was that was my motivation.|S|Bmr016
+fe016|yeah.|B|Bmr016
+fe008|and these can be changed like i said.|S|Bmr016
+fe008|you know i mean as i said i was considering changing it to digits.|S|Bmr016
+fe008|and it just you know it's just a matter of deciding on whatever it is and being sure the scripts know.|S|Bmr016
+me018|right.|S|Bmr016
+fe016|it would probably be safer if you're willing to have a separate tag.|S|Bmr016
+fe016|just because um then we know for sure.|S|Bmr016
+fe016|and we can also do counts on them without having to do the processing.|S|Bmr016
+fe016|but you're right.|S|Bmr016
+fe016|we could do it this way.|S|Bmr016
+fe016|it it should work.|S|Bmr016
+fe016|um|F|Bmr016
+me018|yeah and it makes it i guess the thing about|D|Bmr016
+fe016|but it's probably not hard for a person to tell the difference.|S|Bmr016
+fe016|because one's in the context of a you know a transcribed word string.|S|Bmr016
+me018|yeah.|B|Bmr016
+me018|right.|B|Bmr016
+fe008|the other thing is you can get really so minute with these things.|S|Bmr016
+fe016|and|F|Bmr016
+fe016|so|F|Bmr016
+fe008|and increase the size of the files and the and decrease the readability to such an extent by simply something like percent.|S|Bmr016
+fe008|now i i could have adopted a similar convention for percent.|S|Bmr016
+fe008|but somehow percent is not so hard you know?|S|Bmr016
+me011|huh.|B|Bmr016
+fe008|it's just when you have these points and you're trying to figure out where the decimal places are.|S|Bmr016
+fe008|and we could always add it later.|S|Bmr016
+fe008|percent's easy to detect.|S|Bmr016
+fe008|point however is is uh a word that has a couple different meanings.|S|Bmr016
+fe008|and you'll find both of those in one of these meetings.|S|Bmr016
+fe008|where he's saying well the first point i want to make is so-and-so.|S|Bmr016
+fe008|and he goes through four points.|S|Bmr016
+fe008|and also has all these decimals.|S|Bmr016
+me018|so liz what does the recognizer do|D|Bmr016
+fe008|so|F|Bmr016
+me018|uh|F|Bmr016
+me013|huh.|B|Bmr016
+me018|what does the s.r.i. recognizer output for things like that?|Q|Bmr016
+me018|seven point five.|S|Bmr016
+me018|does it output the word|D|Bmr016
+fe016|seven point five.|S|Bmr016
+me018|right.|S|Bmr016
+me011|well the numbers.|S|Bmr016
+me018|the word seven.|S|Bmr016
+me018|the number seven.|S|Bmr016
+fe016|the word.|S|Bmr016
+me018|the word seven okay.|S|Bmr016
+me013|yeah.|S|Bmr016
+fe016|yeah.|B|Bmr016
+me013|so i'd so i'd like i'd like to talk about point five.|S|Bmr016
+fe016|and and actually you know the language|D|Bmr016
+fe016|it's the same point actually.|S|Bmr016
+me013|yeah.|B|Bmr016
+fe016|the the you know the word to and the word going to and to go to|D|Bmr016
+fe016|those are two different to's.|S|Bmr016
+fe016|and so there's no distinction there.|S|Bmr016
+me018|uhhuh.|B|Bmr016
+fe016|it's just just the word point has|D|Bmr016
+fe016|yeah every word has only one yeah one version|D|Bmr016
+fe016|even if even if it's|D|Bmr016
+fe016|actually even like the word read and read.|S|Bmr016
+fe016|those are two different words.|S|Bmr016
+fe016|they're spelled the same way right?|S|Bmr016
+me018|uhhuh.|B|Bmr016
+fe016|and they're still going to be transcribed as r.e.a.d.|S|Bmr016
+me013|right.|B|Bmr016
+me018|uhhuh.|B|Bmr016
+fe016|so|F|Bmr016
+fe016|yeah i i like the idea of having this in there.|S|Bmr016
+fe016|i just i was a little bit worried that um the tag for removing the read speech.|S|Bmr016
+fe016|because what if we have like read letters?|Q|Bmr016
+fe016|or i don't know.|S|Bmr016
+me011|we might want to just a separate tag that says it's read.|S|Bmr016
+fe016|like read something.|S|Bmr016
+fe016|like read.|S|Bmr016
+fe016|yeah basically.|S|Bmr016
+me001|uhhuh.|B|Bmr016
+fe016|but other than that it sounds great.|S|Bmr016
+me011|yeah.|B|Bmr016
+me011|okay.|S|Bmr016
+me011|are we done?|Q|Bmr016
+fe008|well i wanted to say also regarding the channelized data.|S|Bmr016
+me011|oh i guess we're not done.|S|Bmr016
+fe008|that um thilo requested um that we get some segments done by hand to reduce the size of the time bins.|S|Bmr016
+me018|yeah.|S|Bmr016
+fe008|like was chuck was mentioning earlier.|S|Bmr016
+fe008|that um that um if you if you said oh and it was in part of a really long complex overlapping segment that the same start and end times would be held for that one.|S|Bmr016
+me011|well|D|Bmr016
+fe008|as for the longer utterances.|S|Bmr016
+me011|we did that for one meeting right?|S|Bmr016
+fe008|and|D|Bmr016
+me011|so you have that data don't you?|S|Bmr016
+mn014|yeah that's the training data.|S|Bmr016
+fe008|and he requested that there be uh similar uh samples done for five minute stretches involving a variety of speakers and overlapping sections.|S|Bmr016
+fe008|he gave me he did the very nice he he did some shopping through the data.|S|Bmr016
+mn014|yeah.|B|Bmr016
+fe008|and found segments that would be useful.|S|Bmr016
+fe008|and at this point all four of the ones that he specified have been done.|S|Bmr016
+fe008|in addition the i've i have the transcribers expanding the amount that they're doing actually.|S|Bmr016
+mn014|oh great.|S|Bmr016
+fe008|so right now um i know that as of today we got an extra fifteen minutes of that type.|S|Bmr016
+fe008|and i'm having them expand the realm on either side of these places where they've already started.|S|Bmr016
+mn014|oh great.|S|Bmr016
+mn014|okay.|S|Bmr016
+fe008|but if if you know and i and he's going to give me some more sections that that he thinks would be useful for this purpose.|S|Bmr016
+mn014|yeah.|B|Bmr016
+mn014|yeah.|B|Bmr016
+fe008|because it's true.|S|Bmr016
+fe008|i mean if we could do the the more fine grained tuning of this uh using an algorithm that would be so much more efficient.|S|Bmr016
+fe008|and um|F|Bmr016
+fe008|so this is going to be useful to expand this.|S|Bmr016
+mn014|so i i thought we we we perhaps we should try to to start with those channelized versions.|S|Bmr016
+mn014|just to just to try it.|S|Bmr016
+mn014|give it give one transcriber the the channelized version of of my speech-nonspeech detection.|S|Bmr016
+mn014|and look if if that's helpful for them.|S|Bmr016
+mn014|or just let them try if if that's better.|S|Bmr016
+mn014|or if they if they can|D|Bmr016
+fe008|you mean to start from scratch in a brand new transcript.|S|Bmr016
+mn014|yeah yeah.|S|Bmr016
+mn014|yeah.|B|Bmr016
+fe008|that'd be excellent.|S|Bmr016
+fe008|yeah that'd be really great.|S|Bmr016
+fe008|as it stands we're still in the phase of sort of um cleaning up the existing data.|S|Bmr016
+fe008|getting things uh in more tightly time uh aligned.|S|Bmr016
+fe008|i also want to tell um i also wanted to raise the issue that okay so there's this idea we're going to have this master copy of the transcript.|S|Bmr016
+fe008|it's going to be modified by scripts into these two different functions.|S|Bmr016
+fe008|and actually the master|D|Bmr016
+me018|two or more.|S|Bmr016
+me018|two or more different functions.|S|Bmr016
+fe008|two two or more.|S|Bmr016
+fe008|and that the master is going to be the channelized version.|S|Bmr016
+me018|right.|B|Bmr016
+fe008|so right now we've taken this initial one it was a single channel basically the way it was input.|S|Bmr016
+fe008|and now uh thanks to the advances made in the interface we can from now on use the channelized part.|S|Bmr016
+fe008|and um any changes that are made get made in the channelized version kind of thing.|S|Bmr016
+fe008|but i wanted to get all the finished all the checks.|S|Bmr016
+me018|yeah so that has implications for your script.|S|Bmr016
+me001|yeah.|S|Bmr016
+me001|so uh have those the the ten hours that have been transcribed already have those been channelized?|Q|Bmr016
+fe008|yes they have.|S|Bmr016
+me001|and i know i've seen i've seen they've been channelized.|S|Bmr016
+me011|all ten hours?|Q|Bmr016
+fe008|except for the missing thirty minutes.|S|Bmr016
+me001|but|D|Bmr016
+me011|great.|S|Bmr016
+me001|have they uh have they been has the time have the time markings been adjusted uh on a per channel|D|Bmr016
+fe008|uh for for a total of like twenty|D|Bmr016
+fe008|for a total of|D|Bmr016
+fe008|let's see four times|D|Bmr016
+fe008|total of about an thirty minutes.|S|Bmr016
+fe008|that's that's been the case.|S|Bmr016
+me001|so|D|Bmr016
+fe008|and plus the training whatever you have.|S|Bmr016
+me001|i guess i mean i don't know if we should talk about this now or not.|S|Bmr016
+me001|but|D|Bmr016
+me011|well it's just we're missing tea.|S|Bmr016
+me001|yeah i know.|S|Bmr016
+me011|so|F|Bmr016
+me001|no but i mean my question is like should i wait until all of those are processed and channelized?|S|Bmr016
+me001|like the time markings are adjusted before i do all the processing.|S|Bmr016
+me001|and we start like branching off into the into the our layer of uh transcripts.|S|Bmr016
+fe008|well you know the problem the problem is that some some of the adjustments that they're making are to bring are to combine bins that were time bins which were previously separate.|S|Bmr016
+fe008|and the reason they do that is sometimes there's a word that's cut off.|S|Bmr016
+me001|right.|B|Bmr016
+fe008|and so it's true that it's likely to be adjusted in the way that the words are more complete.|S|Bmr016
+fe008|and|F|Bmr016
+me001|okay.|S|Bmr016
+fe008|so i it's going to be a more reliable thing.|S|Bmr016
+me001|no i know i know that adjusting those things are going to is going to make it better.|S|Bmr016
+fe008|and i'm not sure|D|Bmr016
+fe008|yeah.|S|Bmr016
+me001|i mean i'm sure about that.|S|Bmr016
+me001|but do you have like a time frame when you can expect like all of it to be done?|Q|Bmr016
+me001|or when you expect them to finish it or|D|Bmr016
+fe008|well partly it depends on how um how effective it will be to apply an algorithm.|S|Bmr016
+fe008|because this takes time.|S|Bmr016
+me001|yeah.|B|Bmr016
+fe008|you know it takes a couple hours to do uh ten minutes.|S|Bmr016
+me001|yeah.|B|Bmr016
+me001|yeah i don't doubt it.|S|Bmr016
+me001|um so|F|Bmr016
+me018|so right now the what you're doing is you're taking the uh the original version.|S|Bmr016
+me018|and you're sort of channelizing yourself right?|S|Bmr016
+me001|yeah i'm doing it myself.|S|Bmr016
+me001|i mean if the time markings aren't different across channels.|S|Bmr016
+me001|like the channelized version really doesn't have any more information.|S|Bmr016
+me018|uhhuh.|B|Bmr016
+me001|so i was just i mean originally i had done before like the channelized versions were coming out.|S|Bmr016
+me018|right.|B|Bmr016
+me018|right.|B|Bmr016
+me001|um|F|Bmr016
+me001|and so it's a question of like what|D|Bmr016
+me018|so i i i think probably the way it'll go is that you know when we make this first general version and then start working on the script that script that will be you know primarily come from what you've done um we'll need to work on a channelized version of those originals.|S|Bmr016
+me001|uhhuh.|B|Bmr016
+fe008|uhhuh.|D|Bmr016
+me001|uhhuh.|D|Bmr016
+me018|and so it should be pretty much identical to what you have.|S|Bmr016
+fe008|yep.|S|Bmr016
+me018|except for the one that they've already tightened the boundaries on.|S|Bmr016
+fe008|uhhuh.|B|Bmr016
+me001|right.|S|Bmr016
+me018|um|F|Bmr016
+fe008|yeah i mean|D|Bmr016
+me018|so|F|Bmr016
+fe008|yeah.|B|Bmr016
+me018|uh and then probably what will happen is as the transcribers finish tightening more and more you know that original version will get updated.|S|Bmr016
+me018|and then we'll rerun the script and produce better uh versions.|S|Bmr016
+me001|okay.|S|Bmr016
+me018|but the i guess the the effect for you guys because you're pulling out the little wave forms into separate ones that would mean these boundaries are constantly changing.|S|Bmr016
+me018|you'd have to constantly rerun that.|S|Bmr016
+me001|i know.|S|Bmr016
+me018|so maybe|D|Bmr016
+me001|right.|S|Bmr016
+fe016|but that that's not hard.|S|Bmr016
+fe008|but that|D|Bmr016
+fe008|uhhuh.|B|Bmr016
+me001|no.|S|Bmr016
+fe016|i think the harder part is making sure that the the transcription|D|Bmr016
+me018|okay.|B|Bmr016
+fe016|so if you merge two things then you know that it's the sum of the transcripts.|S|Bmr016
+fe016|but if you split inside something you don't where the word which words moved.|S|Bmr016
+me018|uhhuh.|B|Bmr016
+me018|uhhuh.|B|Bmr016
+fe016|and that's that's where it becomes a little bit uh having to rerun the processing.|S|Bmr016
+me018|uhhuh.|B|Bmr016
+fe016|the cutting of the waveforms is pretty trivial.|S|Bmr016
+me001|yeah.|B|Bmr016
+me001|i mean as long as it can all be done automatically i mean then that's not a concern.|S|Bmr016
+me001|you know if i just have to run three scripts to extract it all and let it run on my computer for an hour and a half or however long it takes to parse and create all the reference file that's not a problem.|S|Bmr016
+fe016|right.|B|Bmr016
+me018|uhhuh.|B|Bmr016
+me018|yeah.|B|Bmr016
+me018|uhhuh.|B|Bmr016
+me018|uhhuh.|B|Bmr016
+me001|um|F|Bmr016
+me001|so yeah.|F|Bmr016
+me001|as long as we're at that point.|S|Bmr016
+me001|and i know exactly like what the steps will work what's going on in the editing process.|S|Bmr016
+me018|yeah.|B|Bmr016
+me001|so|F|Bmr016
+me001|okay.|S|Bmr016
+fe008|so that's i mean i could there were other checks that i did.|S|Bmr016
+fe008|but it's i think that we've unless you think there's anything else i think that i've covered it.|S|Bmr016
+me013|yeah.|B|Bmr016
+me018|i can't think of any of the other ones.|S|Bmr016
+fe008|okay.|S|Bmr016
+fe008|great.|S|Bmr016
+me013|okay.|S|Bmr016
+me011|oop!|S|Bmr016
+me011|man!|S|Bmr016

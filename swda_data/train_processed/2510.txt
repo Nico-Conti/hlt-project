@@ -1,0 +1,312 @@
+A|Okay,|fo_o_fw_"_by_bc|2510
+A|do you have any pets?|qy|2510
+B|Yeah,|ny|2510
+B|I have three cats and a dog.|sd|2510
+A|Oh, boy.|ba|2510
+A|Sound like us,|sd|2510
+A|we have,|%|2510
+B|Um,|b|2510
+A|go ahead.|ad|2510
+B|Um, we just got the, the dog less than a year ago|sd|2510
+B|so, he's still a puppy.|sd|2510
+A|Oh, what kind is it?|qw|2510
+B|He's a mixed breed,|sd|2510
+B|he's part Collie, part Shepherd, and part Chow.  More Collie and Shepherd than Chow,|sd|2510
+A|Oh, so you ,|%|2510
+B|the only Chow he's got is, is his tongue.|sd|2510
+A|Oh, he's got a blue tongue?|qy|2510
+B|Yeah.|ny|2510
+A|Oh.|bk|2510
+B|He's got little spots on them.|sd|2510
+A|We have two Chows and, a miniature Schnauzer, and recently added, a guinea pig, which wasn't by my choice,|sd|2510
+A|but I was out ruled,|sd|2510
+A|so, but the dogs are mainly mine and my|sd|2510
+A|but I just love them to death.|sd|2510
+B|Was the guinea pig for your, for your child?|qy|2510
+A|Daughter,|^2|2510
+A|yes.|ny|2510
+A|Yes,|ny|2510
+A|as if the dogs weren't enough, had to have, a guinea pig,|sd|2510
+A|so, anyway she's, she enjoys her though,|sd|2510
+A|so that's, that's what matters.|sd|2510
+A|But, um, our Chows, we've had them, I'd say, right around six maybe seven years|sd|2510
+A|and,|%|2510
+B|Really?|bh|2510
+A|they're, um, registered|sd|2510
+A|and we've been breeding them.|sd|2510
+A|She's had about four or five litters.|sd|2510
+B|Oh, my, my husband's always wanted a Chow|sd|2510
+B|but I'm kind of concerned about, um, with having cats, and how, how they socialize with cats. Um, which is one of the reasons why we got a mixed breed.|sd|2510
+A|Oh.|b|2510
+A|Right.|b|2510
+B|Um, because we thought they would socialize easier,|sd|2510
+A|Uh-huh.|b|2510
+B|um, my husband had originally wanted an|sd|2510
+B|and his brother has an|sd|2510
+B|and he, so far he's bitten ten people.|sd|2510
+A|Oh, man.|ba|2510
+B|So,|%|2510
+A|Goodness.|ba|2510
+B|And the people that he got the from, used to have cats|sd|2510
+B|and they no longer have any other cats.|sd|2510
+B|So,|%|2510
+A|It's telling, um, you know|%|2510
+A|when we had, um, we had a cat when we first married, no, took ,|sd|2510
+A|yeah,|%|2510
+A|we had the cat first,|sd|2510
+A|and then we got, uh, the Chow.|sd|2510
+A|And, bring, um, bringing them in as puppies they got along just fabulous with her.|sd|2510
+B|Uh-huh.|b|2510
+A|And, uh, you would think, you know, that they were all dogs the way she would prance around them and, and paw at their face|sd|2510
+A|and they'd just play|sd|2510
+A|and they were never, they never harmed her.|sd|2510
+A|So, uh, they got along great,|sd|2510
+A|now I don't know how, how it would be bringing in, uh, like cat to a full, full grown dog.|sd|2510
+B|Yeah,|b|2510
+B|I wouldn't want to bring a cat into a full grown dog,|sd|2510
+A|Yeah.|b|2510
+B|but I, I wouldn't feel, um, hesitant about bringing a puppy in, to adult cats,|sd|2510
+A|Right.|b|2510
+B|I think they would socialize easier.|sv|2510
+A|I think, so, too.|aa|2510
+B|Um, how, how old is your child?|qw|2510
+A|Five|sd|2510
+B|Five?|bh|2510
+A|She's a real .|%|2510
+B|So, you had the dogs before you had the baby?|qy|2510
+A|Right.|na|2510
+A|And I was, not really concerned about, um, them harming her, uh,|sd|2510
+A|I think, I think a lot of that, that, that we hear all the time is how you bring them up.|sv|2510
+B|Uh-huh.|b|2510
+A|And ours are real friendly,|sd|2510
+A|they're protective,|sd|2510
+A|but they're very friendly, and lovable,|sd|2510
+B|Uh-huh.|b|2510
+A|I mean, you think they're lapdogs. You know,|sd|2510
+A|they'll just come jump on your lap and want to be, have their bellies rubbed and everything|sd|2510
+A|and,|%|2510
+B|What color are they?|qw|2510
+A|Uh, the female's red|sd|2510
+A|and the male is black.|sd|2510
+B|Oh, I bet the black one's pretty.|qy^d|2510
+A|Yeah,|ny|2510
+A|he is, he's a big old thing.|sd|2510
+A|And, um, I was concerned about the female mainly,|sd|2510
+A|and as luck had it, uh, she had puppies the same week my daughter was born,|sd|2510
+A|so, it was kind of like, she had her babies and understood about, you know,|sd|2510
+B|About your baby.|qy^d|2510
+A|yeah,|ny|2510
+A|and that,|%|2510
+A|yeah,|ny|2510
+A|I think that really helped and, um, my daughter, you know, since, since she's little has been playing with them|sd|2510
+A|and they let her tug their hair and, and get on their back or whatever|sd|2510
+A|and she's, she's grown up with them and loves them to death|sd|2510
+A|and they love her,|sd|2510
+A|so.|%|2510
+B|Yeah,|b|2510
+B|I think it's good for kids to grow up around pets, as, as long as they don't have any allergies to them or anything.|sv|2510
+A|I do, too.|aa|2510
+A|Yeah.|b|2510
+B|But I think it really helps them to understand when, when they go to other people's houses|sv|2510
+B|and they have pets,|sv|2510
+B|I see so many times kids just, you know,|sd|2510
+B|they, mean to animals not really understanding that the animals have feelings.|sd|2510
+A|Yeah, exactly,|aa|2510
+A|that or, or, uh, the other extreme,|sv|2510
+A|they're, they're terrified of them|sv|2510
+A|and I hate that,|sd|2510
+B|Yeah,|aa|2510
+B|Yeah.|aa|2510
+A|and they shouldn't be,|sv|2510
+A|I mean, some maybe|%|2510
+A|but, but, um, like our miniature Schnauzer, she's just, she's just like, um, a little hyper thing and just prances around and jumps all over everybody acting silly,|sd|2510
+A|and a lot of kids are scared of that. And which I understand because she is, you know, a lot of movement and everything|sd|2510
+A|but when she calms down they're so scared of her|sd|2510
+A|it's,|%|2510
+B|Huh.|b|2510
+A|it, that bothers me because she's the friendliest thing,|sd|2510
+A|she wouldn't you know, harm them at all|sd|2510
+A|and, and, and that's mainly people that have never had pets around their children,|sd|2510
+A|so, I think, I think it's a good idea to have them.|sv|2510
+A|We've had, um, in the past, we've had birds, too, uh, like Cockatoos. And parrots and, The big white, birds with the, the orange crest on top.|sd|2510
+B|Uh-huh.|b|2510
+B|Now,|%|2510
+B|the, the Cockatoos, are those the big ones?|qy|2510
+B|Yeah.|b|2510
+B|Yeah.|b|2510
+A|We've had those,|sd|2510
+A|and those are neat,|sv|2510
+A|they're messy, very messy, yeah, and loud.|sv|2510
+B|Are they?|bh|2510
+A|Oh, a lot louder than a dog, you know,|sv|2510
+A|a dog you can tell, stop barking, you know, or whatever.|sv|2510
+B|Yeah.|b|2510
+A|But the birds, you, it's hard to keep them from squawking or whatever|sd|2510
+A|but, but they were neat, enjoyable animals to have.|sd|2510
+B|Well, we've thought about getting an aquarium, partly, partly for the cats,|sd|2510
+A|Uh-huh.|b|2510
+B|I think the cats would really enjoy it, um,|sd|2510
+A|Yeah,|aa|2510
+A|with a lid,|sv|2510
+B|yeah,|aa|2510
+B|yeah,|aa|2510
+B|of course, um,|ba|2510
+B|but so far we just|sd|2510
+B|and starting up an an aquarium,|sd|2510
+B|we, we're, thinking about getting a saltwater,|sd|2510
+A|Oh, yeah|b|2510
+A|they,|%|2510
+B|and they're so, expensive to start up.|sv|2510
+A|Yes,|aa|2510
+A|yes,|aa|2510
+A|they are,|aa|2510
+A|and in your, the luck of keeping them alive, through those first, you know, few days.|sv|2510
+B|Yeah.|b|2510
+B|Yeah.|b|2510
+B|The, the saltwater fish have so much more color|sv|2510
+B|and they're so, much more beautiful,|sv|2510
+A|I know they are.|aa|2510
+B|Um, the freshwater tank's just,|%|2510
+B|really to me they'll, there's,|%|2510
+B|most of them really aren't that pretty,|sv|2510
+A|no.|aa|2510
+B|you know, I really I really don't care much for them.|sd|2510
+A|Right,|aa|2510
+A|I don't blame you there,|ba|2510
+A|I think the saltwater are a lot more attractive than,|aa|2510
+A|I don't know,|h|2510
+A|those fish are just beautiful.|sv|2510
+A|Just so,|%|2510
+A|like you have a little bit of ocean with you or something|sv|2510
+B|Yeah,|aa|2510
+B|Yeah.|aa|2510
+A|Rather than just little fish.|sv|2510
+A|But I don't mind having,|sd|2510
+A|Wren|%|2510
+A|my daughter had a, like a little goldfish, a about a year or two ago|sd|2510
+B|Uh-huh.|b|2510
+A|and it finally died|sd|2510
+A|and that was neat,|sd|2510
+A|but and they're, you know,|%|2510
+A|she can't play with it,|sd|2510
+A|you can just look at it.|sv|2510
+B|Yeah,|aa|2510
+B|yeah.|aa|2510
+A|You know, you can't roll around and tussle around with it like you can a dog or a cat|sd|2510
+A|and,|%|2510
+B|Yeah,|aa|2510
+B|I wouldn't, I wouldn't dare have a, a goldfish here because, it would probably be in a small bowl|sd|2510
+B|and then my cats would knock it over.|sd|2510
+A|Yeah.|b|2510
+B|I have to be real careful about where I put things,|sd|2510
+A|Uh-huh.|b|2510
+B|if the cats will, will jump up on things and knock things over all the time,|sd|2510
+A|Oh, no.|ba|2510
+A|Oh, no.|ba|2510
+B|They're always up where they don't, where they're not supposed to be.|sd|2510
+A|Yes,|b|2510
+A|yeah,|b|2510
+A|and that's hard.|ba|2510
+B|that's just like kids, you know,|sv|2510
+B|they know that they're not supposed to do it,|sv|2510
+B|but they're going to do it anyway because they know they're not supposed to.|sv|2510
+A|That's right|aa|2510
+A|and they're so, independent.|sd|2510
+A|I love having them for that reason.|sd|2510
+B|Yeah,|b|2510
+B|yeah,|b|2510
+B|and until we got the dog, um, it was real easy to, to go to town for three three day weekend or whatever,|sd|2510
+A|Sure.|b|2510
+B|and now, it's like a major production, trying to find somebody to take care of the dog while you're gone.|sd|2510
+A|Uh-huh.|b|2510
+A|Uh-huh.|b|2510
+A|That's right,|aa|2510
+A|that is hard.|aa|2510
+B|And, I,|%|2510
+B|we knew it,|sd|2510
+B|but we never even thought that about when we got the dog|sd|2510
+B|we just saw him, oh,|sd|2510
+B|he's so, cute,|^q|2510
+A|Oh.|b|2510
+B|let's take him home.|^q|2510
+A|Yes.|b|2510
+B|You know, and then the first weekend we had him we had, we were in a apartment, in a two bedroom apartment,|sd|2510
+A|Uh-huh.|b|2510
+B|and my husband went out of town, and left me with, with the brand new puppy,|sd|2510
+A|Oh, fun.|ba|2510
+B|and I had to work twelve hours that day,|sd|2510
+A|Oh, no.|ba|2510
+B|and so, I left the dog locked in the bedroom|sd|2510
+B|and I put paper all over the floor.|sd|2510
+B|Well, when I came home, I opened the door|sd|2510
+B|and there were chunks of carpet, padding everything, all over the place|sd|2510
+A|Oh.|b|2510
+A|Oh, no.|ba|2510
+B|and he had tried to dig his way out from underneath the door,|sd|2510
+A|Oh, no.|ba|2510
+A|I guess you didn't get your deposit back, did you?|qy|2510
+B|Well, I had the carpet fixed,|arp_nd|2510
+A|Oh, good.|ba|2510
+B|um, I, yeah, I didn't even tell the apartment manager, who got it.|sd|2510
+A|Oh, okay.|bk|2510
+A|Oh, no.|ba|2510
+A|Bless your heart.|ba|2510
+B|But that, that was my first real experience with, with a puppy|sd|2510
+B|when, when we had our family dog growing up I was eleven or twelve, I think, when we first got him,|sd|2510
+A|Uh-huh.|b|2510
+B|and I wasn't really involved in the, the paper training, and, you know, teaching him commands and stuff|sd|2510
+A|Sure.|b|2510
+A|Yeah.|b|2510
+B|so, this was, and to me, a whole new experience.|sd|2510
+A|Yes|aa|2510
+A|it is.|aa|2510
+B|Only it wasn't like cats at all.|sd|2510
+A|No,|aa|2510
+A|no.|aa|2510
+A|I wish it was.|sd|2510
+A|I wish they were in that instinct.|sd|2510
+A|But they don't.|%|2510
+B|So,|%|2510
+A|Our only problem with our Schnauzer, she's an indoor dog most of the time|sd|2510
+B|Uh-huh.|b|2510
+A|and, uh, we found, she's right at a year|sd|2510
+A|and we finally got her, you know, house trained and everything, uh,|sd|2510
+A|her only problem is trash.|sd|2510
+A|If you do not pick the trash up, you know, the container, and put it on a table or chair or something, she'll knock it over,|sd|2510
+B|Uh-huh.|b|2510
+A|I don't care how full she is,|sd|2510
+A|so, it's not like she's hungry,|sd|2510
+A|it's just she wants to get into trouble.|sd|2510
+B|My cats do that it.|sd|2510
+B|If I through anything away that's any kind of meat or anything, like that,|sd|2510
+A|Uh-huh.|b|2510
+B|anything that, that they think is good,|sd|2510
+B|they'll get into the trash,|sd|2510
+A|Yeah.|b|2510
+B|and then it doesn't matter where you put it and where you hide it,|sd|2510
+A|Yeah.|b|2510
+B|and how, how tight you have the lid down on it,|sd|2510
+B|they'll get into it.|sd|2510
+B|I've come home many a days from work to find trash all over the kitchen floor.|sd|2510
+A|Oh, I hate that.|sd|2510
+B|And the cat's just looking at me like, sorry.|sd|2510
+A|Yeah,|aa|2510
+A|you shouldn't have left it there.|^q|2510
+B|I couldn't help myself.|^q|2510
+A|I just hate that when she does that,|sd|2510
+A|I just, oh,|%|2510
+A|and she knows it's wrong,|sd|2510
+A|you'll walk in the door|sd|2510
+A|and she'll cower and go hide under the table.|sd|2510
+B|Uh-huh.|b|2510
+A|So, you, she knows she does wrong.|sd|2510
+A|But she, uh, she continues to do it,|sd|2510
+A|so.|%|2510
+B|Yeah,|b|2510
+B|the problem that we're having with our puppy right now he's not|sd|2510
+B|he's actually not really a puppy anymore|sd|2510
+B|he's like sixteen months old,|sd|2510
+A|Uh-huh.|b|2510
+B|um, but he's still chewing.|sd|2510
+A|Oh, is he?|bh|2510
+B|Um, the last thing he chewed up was, uh, when we ...|sd|2510

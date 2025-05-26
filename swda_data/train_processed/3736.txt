@@ -1,0 +1,161 @@
+B|Um, are you from this area?|qy|3736
+A|I'm from Dallas.|sd|3736
+B|Okay,|bk|3736
+B|I'm in Garland,|sd|3736
+B|so.|%|3736
+A|Okay.|b|3736
+B|Well, I'm in Dallas right now,|sd|3736
+B|but I live in Garland.|sd|3736
+A|Uh-huh.|b|3736
+B|Um, well, I don't know if you know,|sd|3736
+B|but Garland has got a real big recycling center that, in fact, we went to it yesterday.|sd|3736
+B|You drive up|sd|3736
+B|and you take the stuff out of your trunk,|sd|3736
+B|and they have different bins for the different materials, like clear, glass and colored glass and plastics|sd|3736
+B|and, uh, they have all the different plastics separated by those little symbols on the bottom.|sd|3736
+B|That's pretty neat.|sd|3736
+B|My, my daughter is four,|sd|3736
+B|and she's real interested in recycling.|sd|3736
+A|Uh-huh.|b|3736
+B|So we're, we're trying to promote that, because she thought we just put them in a special trash can and threw them away,|sd|3736
+B|but, we went to the recycling center to show her what we actually did with them.|sd|3736
+B|Uh, does Dallas have a curbside recycling program yet?|qy|3736
+A|Um, well, I don't know Dallas,|no|3736
+A|in Richardson does.|sd|3736
+B|Oh, okay.|bk|3736
+A|Um, they started with newspapers and, uh, of course aluminum cans, and and bottles and plastic.|sd|3736
+B|Yeah.|b|3736
+A|I didn't know there were different types of plastic, though.|sd|3736
+B|Yeah,|aa|3736
+B|um, like soda bottles are one one type of plastic,|sd|3736
+B|and milk jugs are one type of plastic.|sd|3736
+B|You can|%|3736
+B|it's got little,|sd|3736
+B|most of the recyclable containers have the little symbol on the bottom with the, with the arrows around it that tells whether it's a one or a two or a three.|sd|3736
+A|Uh-huh.|b|3736
+A|Oh.|b|3736
+B|It's, it's just different kinds of plastics, like the clear plastic is different from that milky looking plastic.|sd|3736
+A|Oh, okay.|bk|3736
+B|And that's, that's what the different types are.|sd|3736
+A|Yeah.|b|3736
+B|Yeah.|b|3736
+A|It seems to be made out of something different.|sd|3736
+B|Yeah,|b|3736
+B|yes|b|3736
+A|Yeah.|b|3736
+B|I, I know there's a long scientific name|sd|3736
+B|but it's like polytechnochloride and all that fun stuff.|sd|3736
+A|Uh-huh.|b|3736
+B|Um, I, I don't know if they do it all over,|sd|3736
+B|but our Kroger does a newspaper recycling every Saturday.|sd|3736
+B|You can drive up,|sd|3736
+B|and they have one of the clerks up there, no, the bag boys out there, um, that will take the papers, newspaper out of your car,|sd|3736
+B|and they'll put it in their little bin,|sd|3736
+B|and they do the recycling,|sd|3736
+B|I mean, they collect the newspapers and their their plastic grocery bags which I think is pretty neat.|sd|3736
+A|Yeah.|b|3736
+A|.|%|3736
+B|That's something since we all seem to have an abundance of those plastic grocery bags|sv|3736
+A|That's right.|aa|3736
+A|Yeah.|aa|3736
+B|I know we use them for trash can liners and a lot of other things.|sv|3736
+A|Uh-huh.|b|3736
+A|Lunch bags.|bf|3736
+B|Yeah,|aa|3736
+B|in fact I have one today.|sd|3736
+A|Right.|b|3736
+B|The only problem with those is sometimes they get holes in the bottom.|sd|3736
+A|Yeah,|aa|3736
+A|they do.|sd|3736
+B|It's like, whoops, there goes my chips|sd|3736
+A|Yeah.|b|3736
+B|okay,|^q|3736
+B|fine.|^q|3736
+A|Uh-huh.|b|3736
+B|Now, I,|%|3736
+B|in fact did you happen to see TWENTY TWENTY the other night?|qy|3736
+A|Uh, no.|nn|3736
+B|They did a program,|sd|3736
+B|or one of their articles was on recycling,|sd|3736
+B|and, uh, it was actually on a town that has a dump that they charge other cities, or towns to come in and dump their trash there.|sd|3736
+B|They have made so much money from that, that they built, they bought a brand new fire engine,|sd|3736
+B|and when the fire engine was delivered the fire house wasn't big enough, so they bought a new, or built a new one and paid for it in cash with the money that they've earned from this landfill.|sd|3736
+A|.|%|3736
+A|Yeah.|b|3736
+B|They have built up one mountain.|sd|3736
+B|They call it Mount Trashmore|sd|3736
+A|Yeah.|b|3736
+B|They built up one mountain, covered it with grass, and put ski lifts on it,|sd|3736
+B|and in the winter they put snow on it,|sd|3736
+B|and they charge to ski on it.|sd|3736
+B|So the city gets the money from that,|sd|3736
+B|they built a golf course at the bottom,|sd|3736
+B|and they get the money from that.|sd|3736
+A|Wow.|ba|3736
+B|I's like,|%|3736
+B|that's,|%|3736
+B|it's a, it's, Riverview, Ohio or some place up there.|sd|3736
+A|Uh-huh.|b|3736
+B|But it was, I thought it was a pretty neat idea.|sd|3736
+B|They, I mean, their city hall looked better,|sd|3736
+B|it was nicer than Dallas',|sd|3736
+B|and they only have fourteen thousand people in the city.|sd|3736
+A|Um.|%|3736
+B|And they like the trash.|sd|3736
+B|So|%|3736
+B|Well, okay|%|3736
+B|But I thought it was pretty neat.|sd|3736
+B|It, it would be nice if more communities could do that,|sv|3736
+B|but, you have to know from beginning,|sv|3736
+B|and you have to have the space to do it|sv|3736
+B|and,|%|3736
+A|Yeah,|aa|3736
+A|they'll run out of space before long.|sv|3736
+B|Yeah,|aa|3736
+B|see, that's,|%|3736
+B|well they're already planning a second mountain.|sd|3736
+A|Uh-huh.|b|3736
+B|So, they're going to get, going to be called the Twin Peaks.|sd|3736
+B|I was like, uh-huh. Go back two T V shows.|sd|3736
+B|This, it would be nice if more communities could get really involved in recycling|sv|3736
+B|It,|%|3736
+B|I know, I've got a two year old and a four year old,|sd|3736
+B|and that's,|%|3736
+B|my daughter thinks that any time she sees newspapers bundled up, they're being recycled.|sd|3736
+A|Uh-huh.|b|3736
+B|So, it's like, well, no, Honey.|sd|3736
+B|So that, like,|%|3736
+B|so that was one reason we went to show her what people did with their, their stuff when they recycled it and try to explain well, yeah, you melt down the cans|sd|3736
+A|Right.|b|3736
+B|and you make them into new things,|^q|3736
+B|and you get the paper all wet|^q|3736
+B|and you make it into new paper,|^q|3736
+B|and, that's fun, trying to explain that to a four year old|sd|3736
+A|Right,|b|3736
+A|yeah.|b|3736
+B|Um, so do you all go ahead,|qy|3736
+A|They don't even know that paper comes from trees now,|sv|3736
+A|so.|%|3736
+B|Well, yeah,|aa|3736
+B|she,|%|3736
+B|that was her next question, was, how do you grow paper?|sd|3736
+A|How do you grow paper?|b^m|3736
+B|Was like, well, from trees um. That's why you have to cut down trees and why you have to plant more trees.|sd|3736
+A|Uh-huh.|b|3736
+A|And how do you grow aluminum?|^q|3736
+B|Yeah,|aa|3736
+B|exactly.|aa|3736
+A|Um.|%|3736
+B|Well, let's see, um,|^h|3736
+B|we really don't,|^q|3736
+B|but. And then she was like, well, what do you do with the glass?|sd|3736
+B|Well, you crunch it up real small|^q|3736
+B|and then you melt it down.|^q|3736
+B|Well, what if it breaks?|^q|3736
+B|Well, okay,|^q|3736
+B|It, it, it was an interesting weekend trying to explain all that fun stuff to her.|sd|3736
+A|Right.|b|3736
+B|But at least she knows that that is something that people need to be doing,|sd|3736
+B|and she got our baby-sitter to start recycling her newspapers and cans, because that's all she talked about.|sd|3736
+A|Uh-huh.|b|3736
+B|So, I guess what,|%|3736

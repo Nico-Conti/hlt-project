@@ -1,0 +1,171 @@
+A|Well, uh, it seems to me that, uh, that|sv|2962|0
+A|I do not know whether the jury system, uh,|sd|2962|0
+A|I, I should not say I do not know.|sd|2962|0
+A|I do not feel very, uh, stronger that the jury system should be changed.|sv|2962|0
+A|It seems to have worked, uh, time immemorial.|sv|2962|0
+A|And when, uh, difficult decisions, uh, are made, uh, uh, uh, they generally prove out to be right by things that occur later on.|sv|2962|0
+B|Uh-huh.|b|2962|1
+A|Uh, I know in some cases now in some states, depending on the criminal code, uh, a unanimous verdict is not required.|sd|2962|0
+A|And indeed some juries are no longer twelve people,|sd|2962|0
+A|they are down to as little, as small as six people in, I think, in petty, in, in, uh, in, uh, in minor felonies, and, uh, and misdemeanor trials.|sd|2962|0
+B|Uh-huh.|b|2962|1
+A|Uh, I think that the judges should be left to do most of the sentencing, simply because, uh, there is always, uh, there is, there is always a jury that might be swayed, uh, by the moment, uh, to either to be too lenient or too vengeful, I guess.|sv|2962|0
+B|Yeah.|b|2962|1
+B|On the other hand, uh, attorney, uh, uh, justices are more apt to, uh, understand, you know, the the prison crowding problems and things like that, and have that sway their decisions one way or the other. You know.|sv|2962|1
+A|Yeah.|b|2962|0
+A|But, I mean, is not that, uh, is that a reflection then of what is really happening in the real world?|qy|2962|0
+A|If, if, if they keep giving everybody hundred year sentences, and the people in various states, it does not seem that people want to be taxed to build more prisons. Or even in, for that matter, uh, repair the, uh, the lack of judges and, and, and other, uh,|sv|2962|0
+B|Yeah.|aa|2962|1
+B|I think that is what is happening.|sv|2962|1
+B|I think, uh, the judges are trying to save the people from having to, the cost of new prisons.|sv|2962|1
+A|Yeah,|aa|2962|0
+B|They,|%|2962|1
+A|yeah,|aa|2962|0
+A|you know, that might be it.|aa|2962|0
+A|I mean, they, they certainly,|%|2962|0
+B|they are saying, oh, well, you know, the, the people cannot afford it.|sv|2962|1
+A|I do not, I don't know how it is in Virginia,|sd|2962|0
+A|but in Florida now, uh, uh, uh, at eighteen years, someone was just sentenced to eighteen years, I heard it on TODAY, uh, without any specific recommendation for, uh, uh, uh, uh, uh, uh, waving the normal, uh, procedures.|sd|2962|0
+A|And the eighteen years will, uh, translate into something like, uh, four point seven, if every, if the, if the prisoner is a model prisoner,|sd|2962|0
+B|Yeah.|b|2962|1
+A|and indeed the present overcrowding conditions, uh, prevail.|sd|2962|0
+A|Plus, I guess, there was some credit for time this guy had already spent in jail waiting for trial.|sv|2962|0
+B|Right.|b|2962|1
+A|So, uh, yeah,|aa|2962|0
+A|you might be right about that.|sv|2962|0
+A|I, I, I do not know,|h|2962|0
+A|it just seems to me that only about, uh, from what I read, only about ninety percent of the only about ten percent of the cases come for trial anyway.|sv|2962|0
+B|Right.|b|2962|1
+A|And, uh, only about, uh, four or five percent of, uh,|sd|2962|0
+A|in the, in the very end|%|2962|0
+A|or less than, less than half the trials that go to, uh, less than half the cases that go to trial, uh, end up with, uh, with the jury actually making the verdict.|sv|2962|0
+B|With a conviction?|^2|2962|1
+B|Oh, okay.|b|2962|1
+A|That most of it is plea bargained, uh, half way through|sv|2962|0
+A|or, or most of the cases are plea bargained anyway.|sv|2962|0
+B|Right.|b|2962|1
+A|But, uh, uh, how do you feel about the, uh, about the jury system itself?|qo|2962|0
+A|Do you, do you think that should be changed?|qy|2962|0
+A|Or do you, do you know in Virginia whether it is, if they have smaller juries|qrr|2962|0
+A|or,|%|2962|0
+B|Uh, I do not know exactly what the size of the juries.|sd|2962|1
+B|I know one of my friends was, uh, uh, brought up for jury duty.|sd|2962|1
+A|Yeah.|b|2962|0
+B|For,|%|2962|1
+B|and he only heard very, you know, piddly type cases.|sd|2962|1
+B|Most of it was, uh, robberies or things like that, you know,|sd|2962|1
+B|it was not any serious crimes.|sd|2962|1
+B|So apparently even for the smallest crimes, they give the person the, you know, any felony anyways.|sv|2962|1
+A|Yeah.|b|2962|0
+A|Well, I guess we,|%|2962|0
+B|they give the person the option for a jury.|sd|2962|1
+A|Yeah.|b|2962|0
+A|I guess we always focus on criminal trials with with the jury.|sd|2962|0
+A|But I know you have a right to ask for a jury in, in any sort of a case that even where damages are, are, are, uh, are the result of some sort of a, uh, an action that you are bringing against someone else. You can ask for that to be heard before a jury.|sd|2962|0
+B|Uh-huh.|b|2962|1
+B|Uh-huh.|b|2962|1
+A|Takes a heck of a long time, I guess, to get there in some states.|sv|2962|0
+B|Uh-huh.|b|2962|1
+A|I, I, I do not know, uh,|h|2962|0
+A|I should imagine Virginia, from what I read, uh, uh, is like every other state.|sv|2962|0
+A|It, it is faced with, uh, uh, enormous costs to maintain the jury system and the prison system and the entire trial system.|sd|2962|0
+A|Because I guess, everywhere I read that there is a shortage of judges.|sd|2962|0
+B|Right.|b|2962|1
+B|Right.|b|2962|1
+A|Not that they won't appoint them|sd|2962|0
+A|but there is no budget for them, I guess.|sv|2962|0
+A|Or, and the courthouse that goes with them and the bailiffs and the clerk, uh, court clerks.|sd|2962|0
+B|Huh.|b|2962|1
+B|Yeah.|b|2962|1
+B|Whatever.|^2|2962|1
+A|So it seems, uh,|%|2962|0
+A|no,|fo_o_fw_"_by_bc|2962|0
+A|I, I, I do not think I would change it.|sv|2962|0
+A|The more I verbalize it, I, I do not think I would want to change the system.|sd|2962|0
+B|Right,|b|2962|1
+A|I do not know what we would replace it with|sd|2962|0
+B|uh, I do not think I would either.|sd|2962|1
+B|Yeah.|aa|2962|1
+B|I know,|aa|2962|1
+B|it, uh, does seem like the, the, the, the purpose of getting people in jail so that, you know, the, the,|sv|2962|1
+B|I cannot think of the word I am looking for.|sd|2962|1
+B|Anyway, the deterrent. For people to, to commit the uh, to not to commit the crime is sort of gone away.|sv|2962|1
+A|Yes.|b|2962|0
+B|People have,|%|2962|1
+B|I do not know,|h|2962|1
+B|they just do not care any more.|sv|2962|1
+B|The benefit, I guess, of crime outweighs what the deterrent is.|sv|2962|1
+A|Uh, and yet there are, there are so many, there are so many people in prison.|sv|2962|0
+B|You know, people that,|%|2962|1
+A|I mean the prison population, uh, as far as I, I, uh, you know,|sv|2962|0
+A|my impression of it is that it has, that it has doubled in the last ten years and tripled in the last twenty.|sd|2962|0
+B|Um.|%|2962|1
+A|I mean it,|sd|2962|0
+A|so has our, I guess our population has grown some too.|sd|2962|0
+A|But there, there definitely is, uh, uh, you know, to me the, one of the worst things that could ever happen, uh, from what I read and see and understand.|sd|2962|0
+A|I mean I do no think I could handle prison.|sd|2962|0
+B|Yeah.|b|2962|1
+A|I mean it would be very difficult,|sv|2962|0
+B|Well, I would be interested in finding out what the, uh, percentage of drug related type things are,|sd|2962|1
+A|Well, there must be a, a, a, a very great degree of that.|sv|2962|0
+B|and, uh,|%|2962|1
+B|Yeah.|b|2962|1
+A|But, but there again I, I do not know if the, the jury system itself, uh, comes in to play there.|sd|2962|0
+A|I would think that,|%|2962|0
+A|one of the things that sort of bothers me is the ability,|sv|2962|0
+A|of course it is a constitutional right that the press must have here, is the interviewing of jurors after the trial.|sd|2962|0
+A|I mean that, it seems to me that, that, that when a jury makes a decision, they should not be asked, uh, before television cameras and newspaper reporters how they reached that decision.|sv|2962|0
+A|I mean, I do not,|%|2962|0
+B|Yeah.|b|2962|1
+A|I imagine there is a certain, certain right of the press to have the ability to ask that.|sv|2962|0
+A|But I, I would think I, if I did anything, I would protect the juror from, from any sort of an inquisition after|sv|2962|0
+B|Well, I know, uh,|%|2962|1
+B|on the other hand though, when, after the Barry trial, up here, you know, the big local trial, as well as national.|sd|2962|1
+A|Yeah.|b|2962|0
+A|Yeah.|b|2962|0
+A|Oh, yeah.|b|2962|0
+A|Well, I do a lot of business up in Washington.|sd|2962|0
+A|I was there during the, during the trial actually,|sd|2962|0
+A|yeah.|%|2962|0
+B|Yeah.|b|2962|1
+B|And the opposite was true of me.|sd|2962|1
+B|Uh, after the case was over, I was like, somebody get ahold of these people and find out why in the world did they vote the way they did, you know|sd|2962|1
+A|Yeah,|b|2962|0
+A|yeah,|b|2962|0
+A|yeah.|b|2962|0
+B|It was like, well, a picture is not good enough.|sd|2962|1
+B|We want to see,|^q|2962|1
+B|I do not know what they wanted honestly|sd|2962|1
+B|Did they want the guy to, I do not know. *qy but its' abandoned|qy|2962|1
+B|I mean, just because you feel like he was being kicked on, which he certainly was, you know.|sv|2962|1
+B|I think, I,|%|2962|1
+B|no doubt in my mind the federal government picked him out and selected him to be prosecuted.|sv|2962|1
+A|Oh, I felt that way.|aa|2962|0
+A|I felt, I felt,|sd|2962|0
+B|But it does not matter.|sv|2962|1
+B|The guy was obviously guilty|sv|2962|1
+A|no,|b|2962|0
+A|but,|%|2962|0
+A|Yeah|b|2962|0
+A|I always balanced in the, in the situation.|sd|2962|0
+A|I remember the jurors, uh,|sd|2962|0
+A|I thought to myself, how did, how did|sd|2962|0
+A|they only, I think they only, uh, found him guilty on one count. Which was, uh, not even, which was a class something felony. Which was not even punishable, uh, uh, to the degree that they thought it.|sd|2962|0
+B|One, one count.|^2|2962|1
+B|Yeah.|b|2962|1
+A|But I do not know,|h|2962|0
+A|maybe when you are there in the in the courtroom yourself and you are sitting there and you have got to make a judgment on somebody.|sv|2962|0
+A|And the prosecutors do a lousy job,|sv|2962|0
+A|or maybe the evidence was not as sensational as the media presented it.|sv|2962|0
+A|I mean, I, I am not making excuses for|sd|2962|0
+B|Yeah.|b|2962|1
+A|That might be it.|sv|2962|0
+B|Well, yeah.|b|2962|1
+B|I think we are getting,|sv|2962|1
+A|I think I am getting a call coming in.|sd|2962|0
+B|Oh Okay.|b|2962|1
+A|All right, nice talking with you.|fc|2962|0
+B|Well, it has been nice talking to you.|fc|2962|1
+A|Thank you.|ft|2962|0
+B|Uh-huh.|fc|2962|1
+B|Bye-bye.|fc|2962|1

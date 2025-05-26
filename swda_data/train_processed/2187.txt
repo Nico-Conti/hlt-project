@@ -1,0 +1,290 @@
+A|okay.|fo_o_fw_"_by_bc|2187
+B|What, what is,|qw|2187
+B|do you have a favorite recipe?|qy|2187
+A|Um, yeah,|ny|2187
+A|that's what it said to discuss some maybe a recipe,|sd|2187
+A|well, it says, why would you, what you would have for a dinner party.|sd|2187
+A|Um, this is strange because I pressed one and I thought it said begin.|sd|2187
+B|Oh.|b|2187
+A|Okay,|b|2187
+A|maybe, maybe we're all set.|sv|2187
+A|Okay,|%|2187
+A|we'll talk for five minutes,|ad|2187
+A|they interrupt at the end.|sd|2187
+A|Um, yeah,|%|2187
+A|it says what you would have for a dinner party,|sd|2187
+A|I just happen to plan one out for Saturday|sd|2187
+A|I'll tell you, what I'm going to have. Um, if I can find it.|sd|2187
+B|Oh, that's wonderful.|ba|2187
+B|Okay.|b|2187
+A|Well, I have this new fondue pot|sd|2187
+A|and I was going to do basic cheese fondue,|sd|2187
+A|and I have two different kinds of breads and some ham|sd|2187
+A|and I was going to try something weird which, you know,|sd|2187
+A|when you have fish au gratin,|sd|2187
+A|I was going to make some, uh, like fish chunks and dip it in the fondue.|sd|2187
+A|I don't know if it will come out.|sd|2187
+B|That's,|%|2187
+B|what kind of fondue, the cheese dip or,|qy|2187
+A|Yeah,|ny|2187
+A|the cheese fondue I make,|sd|2187
+A|some people like swiss, um,|sd|2187
+A|I prefer cheddar.|sd|2187
+A|And I'll mix,|sd|2187
+A|I won't make, I won't have a sharp cheddar because it, for fondue I think it should be a little calmer than real sharp, cheddar.|sd|2187
+B|Right.|b|2187
+B|Yeah.|b|2187
+A|And then I was going to make other things like potato skins.|sd|2187
+B|Oh, that sounds good.|ba|2187
+A|see you don't necessarily have to dip this stuff.|sd|2187
+A|And, um, I was going to have broccoli and cauliflower for a, a vegetable.|sd|2187
+B|That's always a good thing.|sv|2187
+B|Vegetable trays always go over so well, because I think people get tired of eating junk.|sv|2187
+B|I mean, I think they like to have healthy stuff too,|sv|2187
+B|you know it's,|%|2187
+A|Oh, yeah,|aa|2187
+A|it's amazing how vegetables trays will go at a party.|sv|2187
+B|Oh, definitely.|aa|2187
+B|I think better even than, than other kinds of food|sv|2187
+A|Yeah,|aa|2187
+A|instead of something greasy or,|sd|2187
+B|Right,|aa|2187
+B|exactly.|aa|2187
+B|Yeah.|%|2187
+A|my, uh, girlfriends do catering|sd|2187
+A|and they always, about every party they do is they have a vegetable tray.|sd|2187
+A|I think they try and suggest it.|sd|2187
+B|Uh-huh.|b|2187
+A|What I've been doing when I get invited someplace and bring something, I make, uh, food kabobs.|sd|2187
+A|You take little toothpicks and cut up, uh, pineapple and strawberry, and even banana if you can do it just before you leave.|sd|2187
+B|Oh.|b|2187
+B|Yes.|b|2187
+B|Right.|b|2187
+A|It stays nice and fresh.|sd|2187
+B|Right,|aa|2187
+B|that's true.|sv|2187
+B|Or even have you ever seen where they, they'll take a watermelon and just cut the top out of it and then hollow that out, and then put the fruit in the watermelon that is really neat .|qy|2187
+A|Yeah.|ny|2187
+A|Yeah,|b|2187
+A|I like those|sd|2187
+B|Yep.|b|2187
+A|Um, they, they made a couple of those, uh,|sd|2187
+A|they made one for my, uh, bridal shower|sd|2187
+A|and I was pretty pleased.|sd|2187
+A|I never made one for myself though.|sd|2187
+A|But they look easy enough to make|sv|2187
+A|it's not,|%|2187
+B|Oh, I think it would, it would be a lot of work|sv|2187
+B|but, um, you know, because it's, you know,|h|2187
+A|Yeah.|b|2187
+B|you have to cut each thing or, you know, use the melon baller and stuff|sv|2187
+B|but, but I think they're really neat|sv|2187
+B|and, you know, I think they're worth the time, you know, because they,|sv|2187
+A|Yeah,|b|2187
+A|you probably get this, probably pretty sticky after you get done.|sv|2187
+B|Oh, yeah|b|2187
+A|Then you've got to drain the water out of the watermelon because, you know, when you scrape it, it makes the water.|sd|2187
+B|Right.|b|2187
+B|Yeah.|b|2187
+A|Yeah,|b|2187
+A|um, something I do is a fruit,|sd|2187
+A|is, I'll get, um, make chocolate sauce and dip strawberries and bananas in them.|sd|2187
+A|Yeah,|%|2187
+A|I have two nieces|sd|2187
+A|and they, they they go melt some chocolate chips,|sd|2187
+A|Go buy me some strawberries.|^q|2187
+B|Is that, is that good?|qy|2187
+B|You know, I've seen that so many times, strawberries dipped in chocolate|sd|2187
+B|but I've never tried it,|sd|2187
+B|are they really good?|qy|2187
+A|Yeah,|ny|2187
+A|you know, if you get a sweet strawberry they're much better,|sd|2187
+A|but if you get a sour strawberry,|sd|2187
+B|Oh, I bet it doesn't mix well, does it?|qy|2187
+A|Huh. Yeah,|ny|2187
+A|no,|nn|2187
+A|they, um, the strawberries are coming in season now from ,|sd|2187
+A|they're, they're coming up from Florida, of course.|sd|2187
+A|I live in Vermont,|sd|2187
+A|so. But they're really reasonably priced,|sd|2187
+A|they're coming up from Florida,|sd|2187
+A|so.|%|2187
+B|Oh, well, that's good|ba|2187
+B|because I know they've been really expensive lately. Because they weren't in season,|sd|2187
+A|Yeah.|b|2187
+B|of course, they had to be, be, uh, grown in greenhouses and stuff and in ,|sd|2187
+A|Yeah,|b|2187
+A|I think the, uh, actually I think they get, um, some of them from South America.|sv|2187
+B|Oh, is that right?|bh|2187
+A|Yep,|ny|2187
+A|they,|%|2187
+A|a lot of, um, of a, um, winter produce comes from South America.|sd|2187
+B|Oh, I .|%|2187
+A|Of course, their seasons are switched.|sd|2187
+B|Uh-huh.|b|2187
+B|Right.|b|2187
+A|So, um, do you want to discuss the recipe?|qy|2187
+B|Well,|arp_nd|2187
+A|I have a recipe if you want|oo_co_cc|2187
+B|Okay,|aa|2187
+B|sure,|aa|2187
+A|Um, it filled ,|%|2187
+A|a lot of people try to stay away from this|sv|2187
+A|but I make my own homemade pudding just because I don't like box pudding.|sd|2187
+B|Is that right?|bh|2187
+B|I've never heard of that.|sd|2187
+A|Yeah,|ny|2187
+A|it, and it if you, um, well,|%|2187
+A|first of all I take about a quarter and a half of milk|sd|2187
+A|and I put it in a two quart saucepan|sd|2187
+A|and you put it on a really low heat.|ad|2187
+B|Uh-huh.|b|2187
+A|And you want to use one of your good sauce pans that dissipate the heat because it, it ends up burning,|ad|2187
+A|I mean, no matter how careful you are you still might get a film on the bottom of the pot.|sd|2187
+B|Uh-huh.|b|2187
+A|I don't let that worry me.|sd|2187
+A|And I get the milk lukewarm|sd|2187
+A|and then I pour about a half a cup of cornstarch in it|sd|2187
+A|and I have this thing|sd|2187
+A|it's called the slender blender,|sd|2187
+A|it, it makes the, uh, it makes, uh, a whip topping out of milk if you get the milk cold enough.|sd|2187
+A|It's, uh, I don't know,|h|2187
+A|they're called moo goo leaves or something|sd|2187
+A|they're|%|2187
+B|I think I know what you're|sv|2187
+B|is it like a hand held?|qy|2187
+A|Yeah.|ny|2187
+A|They're real neat.|sv|2187
+B|The,|%|2187
+B|yeah,|bk|2187
+B|okay.|bk|2187
+A|I think they're real reasonably priced,|sv|2187
+A|some of them, they used to be a hundred dollars|sd|2187
+A|and they used to whip skim milk into a dessert|sd|2187
+A|but I didn't get that one,|sd|2187
+A|I got the Black and Decker kind.|sd|2187
+A|But, uh, it's real handy because it doesn't have a cord|sv|2187
+A|and you beat this cornstarch right into the the milk, you know,|ad|2187
+A|and it does an excellent job,|sv|2187
+A|or just hand beat it.|sd|2187
+A|I guess you could use a hand mixer|sd|2187
+A|but I don't think it I don't think it gets it good enough.|sv|2187
+B|Uh-huh. Huh.|b|2187
+A|And then before the milk gets too hot, um, I add two beaten eggs and I really mix them in good. And then about a half a cup of sugar|sd|2187
+A|and I let it pretty much,|sd|2187
+A|I beat it like every minute for about ten seconds|sd|2187
+A|and it's, it starts thickening,|sd|2187
+A|when it thickens the cornstarch might get a little, I don't know,|sd|2187
+A|it gets like little globs of this rubbery cornstarch,|sd|2187
+A|and you just keep beating it in.|ad|2187
+A|And it's the,|%|2187
+A|the trick is, is to have this blender,|sd|2187
+A|so, if you were,|%|2187
+A|you'd have to probably almost go out|sv|2187
+A|and someone who's just going to make it first time, it's,|sd|2187
+A|you'll have much better luck if you had one of these little blenders.|sd|2187
+A|And then you can add cocoa powder to it to make chocolate|sd|2187
+A|or after it's thickened I cook it for a good,|sd|2187
+A|once it starts boiling, I just, I cook it for a good seven minutes, seven to ten minutes|sd|2187
+B|Uh-huh.|b|2187
+A|and then you can make chocolate|sd|2187
+A|or you can take it off and let it cool|sd|2187
+A|you put, um, really good vanilla favoring in it and some butter|sd|2187
+A|and that makes french vanilla, um, custard.|sd|2187
+A|Yeah,|%|2187
+B|Oh, wow.|ba|2187
+B|That is really interesting.|sv|2187
+B|Are you saying to use like, um, for chocolate like, unsweetened,|br|2187
+A|A chocolate powder.|sd|2187
+B|unsweetened?|br|2187
+A|Yeah,|ny|2187
+A|that cocoa, yeah, the unsweetened.|sd|2187
+A|It comes in like a real dark can,|sd|2187
+B|Yeah.|b|2187
+A|our mothers used to use it.|sd|2187
+A|And then,|%|2187
+B|I have some|sd|2187
+A|Yeah,|b|2187
+A|we all used to,|sd|2187
+B|I just want to,|sd|2187
+A|yeah|b|2187
+A|, it's the unsweetened kind|sd|2187
+A|it's not like Nestles Quik.|sd|2187
+B|Right.|b|2187
+B|Okay.|bk|2187
+A|I suppose you could use that.|sv|2187
+B|Cooking chocolate.|bf|2187
+A|Yeah,|ny|2187
+A|but, um,|%|2187
+B|That's really interesting,|sv|2187
+B|I've never heard of anybody making their own pudding before that's really neat.|sd|2187
+A|Well, I used to make the regular pudding, the chocolate and put it in the pie shell|sd|2187
+A|and if it would sit in the refrigerator for a day, where you cut the pie, it would soak into the pie shell|sd|2187
+A|and it was like red,|sd|2187
+A|and I'm like, oh,|sd|2187
+A|this is kind of groedy .|^q|2187
+B|Well, how did you get a recipe for pudding on your own?|qw|2187
+A|Um, actually I found it in one of my mother's, um, homemade cookbooks,|sd|2187
+A|I mean, something she had collected out of WOMAN'S DAY or something.|sd|2187
+B|Is that right?|bh|2187
+B|Oh, neat,|ba|2187
+A|So,|%|2187
+B|that is just really neat.|sv|2187
+B|Because I,|%|2187
+A|I think you couldn't make it with a hand whisk or, or a regular beater|sv|2187
+A|but, um,|%|2187
+B|It would probably be a lot more work and probably not turn out as good.|bf|2187
+A|Yeah,|ny|2187
+A|but I still think a beater would do it good enough, um,|sv|2187
+A|the trick is to get the cornstarch,|sd|2187
+B|Uh-huh.|b|2187
+A|um, yeah|%|2187
+A|, right in the, in the lukewarm milk.|sd|2187
+A|Sometimes I put the cornstarch in a separate bowl|sd|2187
+A|and I would put it in the sink|sd|2187
+A|and I'll take my lukewarm milk and put it in the cornstarch and beat it good.|sd|2187
+A|It seems to be better than putting the, the cornstarch into the liquid|sv|2187
+A|it, once it hits the top of the liquid it seems to make little balls and stuff on the top.|sd|2187
+B|So you put the milk in the cornstarch?|qy^d|2187
+A|Yeah.|ny|2187
+A|And I'll do this, uh,|sd|2187
+A|sometimes I'll put my after I pour that into my, back into my saucepan.|sd|2187
+A|I'll put the eggs in the same dish and beat them up and then pour the cornstarch and the milk mixture in the egg.|sd|2187
+A|So,|%|2187
+B|And then put that back in the saucepan?|qy^d|2187
+A|Yep.|ny|2187
+A|And then, you know, if you can put your cocoa in with your cornstarch if you wanted to. The cocoa even seems to thicken it even more.|sd|2187
+B|Huh that's,|%|2187
+A|Because by the vanilla doesn't seem to thicken as well as the,|sd|2187
+A|sometimes the cocoa is|%|2187
+A|like, my husband really likes it thick|sd|2187
+A|he says, I can stick the spoon right in this.|sd|2187
+B|Oh.|b|2187
+A|Because I'm always worrying it won't firm up because it, when you take it out of the saucepan it's like, boy, I hope this thickens a little more because it's not like real package thick, you know,|sd|2187
+A|when you cook a package, it's, it's a little less,|sd|2187
+B|Uh-huh.|b|2187
+A|but I put it in a nice glass bowl|sd|2187
+A|and, um, some people don't like that, that, film on the pudding|sv|2187
+A|so you can put, uh, Saran Wrap over the top.|sd|2187
+B|Uh-huh.|b|2187
+A|And then once the pudding starts cooling it makes little balls of water on the Saran Wrap,|sd|2187
+A|so, when you pull the Saran Wrap back, you sort of should be a little careful, pull it back and shake the water off the Saran Wrap|sd|2187
+A|and I might put it back on.|sd|2187
+A|But, um,|%|2187
+B|Do do you put it in the refrigerator then|qy|2187
+B|or|%|2187
+A|Yeah,|ny|2187
+A|after, well when it starts steaming a lot, uh, I definitely, yeah, put it in the refrigerator,|sd|2187
+B|Uh-huh.|b|2187
+A|but, um, I,|%|2187
+A|my father always told me if you put hot food in your refrigerator you're going to make it work too hard.|sd|2187
+B|Right,|b|2187
+B|that's true.|sv|2187
+B|I knew that.|sd|2187
+A|That's ,|%|2187
+A|yeah,|b|2187
+B|Yeah.|b|2187
+A|so, that's why I do that.|sd|2187
+B|Yeah.|b|2187
+A|So, well, I don't know|h|2187
+A|that's my, my great hard recipe.|sd|2187

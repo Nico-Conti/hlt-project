@@ -1,0 +1,139 @@
+A|you've done.|fo_o_fw_"_by_bc|3565
+B|Our most recent series of projects I guess, was, inside was, uh, we remodeled a bathroom recently.|sd|3565
+A|Well, how did it go?|qo|3565
+B|Well, it went pretty well, uh, other than the fact that we encountered some, uh, problems that you run across in older homes with plumbing, which one thing led to another,|sd|3565
+B|and eventually we ended up replacing all the pipes from the sink clear back to the main drain.  Which meant you needed to take the wall out and start all over.|sd|3565
+A|Gee, like starting over, I guess.|ba|3565
+A|Uh.|%|3565
+B|It wasn't one of those,|sd|3565
+B|it started out as a Sunday project|sd|3565
+A|Uh-huh|b|3565
+B|and by, by the next Sunday it was done.|sd|3565
+B|It wasn't a one dayer.|sd|3565
+B|Believe me.|ad|3565
+A|Boy, that sounds like, uh,|%|3565
+A|course, uh, I don't know,|h|3565
+A|once you get it done, then you probably won't have that problem again.|sv|3565
+B|Yeah,|b|3565
+B|it's good for another thirty years.|sd|3565
+A|Um, you've got an older house?|qy^d|3565
+B|Yes.|ny|3565
+A|They are built a little bit more sturdy than|sv|3565
+B|Well, that's the thing that surprised me, because once I got into the plumbing everything in there was copper,|sd|3565
+A|Right.|b|3565
+B|and it was all soldered.|sd|3565
+A|Oh, is that right.|ba|3565
+B|That's what drove me bananas, because, you know, I'm going to the hardware store saying give me plastic pipe and and cement to fit them together|sd|3565
+A|Yes.|b|3565
+B|and nothing wanted to go,|sd|3565
+B|so it was like I had to go all the way back to the main drain and start all over.|sd|3565
+A|And just start at square one.|^2|3565
+B|Really.|b|3565
+A|Uh.|%|3565
+B|That was an all day job, just to get it plumbed.|sd|3565
+A|Well, and then if you do it wrong|sv|3565
+B|Fortunately, I was very fortunate, uh, in the fact that, uh, when I made the installation of the sink and everything bolted up and we turned the water on  nothing leaked,|sd|3565
+A|Everything went all right.|^2|3565
+B|everything worked.|sd|3565
+B|And I just said, that's marvelous.|sd|3565
+B|I appreciate it.|sd|3565
+A|That's the type of thing you cross your fingers and are glad when that happens.|sv|3565
+B|Well, I expected something to leak, you know left a fitting loose, or didn't use teflon tape on one of them or something like that.|sd|3565
+A|Right.|b|3565
+A|Yes.|b|3565
+A|Right.|b|3565
+B|But it all came together,|sd|3565
+B|so I, I felt pretty fortunate about that.|sd|3565
+A|All worked out all right, huh.|bf|3565
+B|How about you?|qo|3565
+A|Well, um, well probably the last thing I did was, uh, paint and wallpaper kids room|sd|3565
+B|Uh-huh.|b|3565
+A|and, uh, I learned to,|sd|3565
+A|I used the wrong kind of paint.|sd|3565
+A|This wasn't, must have not been a very good quality, because it just hasn't stood up very well.|sd|3565
+B|What kind of paint?|qw|3565
+A|It was a latex paint, paint,|sd|3565
+A|it was flat|sd|3565
+B|Uh-huh.|b|3565
+A|and I wonder if maybe I should have used a gloss.|sd|3565
+A|Uh, but they say you ought to use your gloss mainly in your kitchens, and things like that.|sd|3565
+B|Yeah,|b|3565
+B|that, and semigloss for trim work, and usually flat for walls.|^2|3565
+A|Yeah,|ny|3565
+A|but I think maybe, uh,|%|3565
+A|I don't know if it was just the.|sv|3565
+B|Was it not washable paint?|qy|3565
+A|Well, it, it is a latex paint,|no|3565
+A|but it just kind of is, is,|%|3565
+A|so, you know, so it's supposed to wash, you're supposed to be able to wash it|sd|3565
+B|Uh-huh.|b|3565
+A|but it, um, just looks dingy.|sd|3565
+A|I don't know how else to explain it.|sd|3565
+B|What color is it?|qw|3565
+A|It's pink.|sd|3565
+B|Pink,|b^m|3565
+B|okay.|bk|3565
+A|It's kind of got, uh, oh, just kind of a worn look to it.|sd|3565
+A|I don't know even how to say,|sd|3565
+A|just didn't turn out quite as nice as I would have liked|sd|3565
+A|but,|%|3565
+B|Did you, uh, require more than one can of paint?|qy|3565
+A|I, we put two coats on it,|sd|3565
+A|and it's a small room,|sd|3565
+A|but I think it only took one, uh, can.|sd|3565
+B|You didn't have to mix paint then, right.|qy|3565
+A|No.|nn|3565
+B|Okay.|bk|3565
+A|We did, uh, oh,|%|3565
+A|you do mix the color as far as you start with, uh, white|sd|3565
+A|and then they add the color.|sd|3565
+B|Uh-huh.|b|3565
+B|Yeah.|b|3565
+A|You know what I'm saying|qy^d|3565
+A|but,|%|3565
+B|Yeah.|ny|3565
+B|But you only had one can of paint that you did the entire room with.|qy^d|3565
+A|Yes.|ny|3565
+A|Right.|b|3565
+A|And then I wall papered a couple of walls,|sd|3565
+A|and, uh.|%|3565
+B|How'd that go?|qw|3565
+A|Well, that was the first time I've ever wallpapered,|sd|3565
+A|and, uh,|%|3565
+B|Kind of fun, isn't it.|qy|3565
+A|That's an education in itself.|no|3565
+B|Really.|b|3565
+A|But, uh, the dye lots, uh, must have been a little bit different from,|sd|3565
+A|first of all it takes quite a few rolls, even a small room, if you're trying to match a design.|sd|3565
+B|Repeating patterns is what you have to check for when you, when you buy your paper.|sd|3565
+A|Yes.|b|3565
+A|That's what I needed,|sd|3565
+A|and I didn't think about that.|sd|3565
+A|I got a Mickey Mouse print is what I got.|sd|3565
+B|Yeah.|b|3565
+A|And so a lot is wasted.|sd|3565
+B|Normally it will tell you on the roll how often a pattern repeats.|sd|3565
+A|So you know how.|sd|3565
+A|See, I didn't even think to look for that.|sd|3565
+B|Yeah.|b|3565
+A|And then the,|%|3565
+A|one of them was just a different color, different color pink, is what it ended up being.|sd|3565
+B|Um.|%|3565
+A|And .|%|3565
+B|When you did your papering did you start in the middle of the wall?|qy|3565
+A|No|nn|3565
+A|I didn't.|sd|3565
+B|Or did you start at the edge?|qrr|3565
+A|Is that how you're supposed to do?|qy|3565
+A|I started at one edge and went over,|sd|3565
+A|then you had to cut around the closet and cut around a window|sd|3565
+B|Uh-huh.|b|3565
+B|Uh-huh.|b|3565
+A|but, uh,|%|3565
+B|I've had my best luck in papering when I start in the middle of a wall,|sd|3565
+B|and I'll start with a plumb line. And start in the middle of the wall, and, and go from there, and go all the way around the room.|sd|3565
+A|And start right there.|bf|3565
+A|Do you seem to get it straighter,|qy|3565
+A|is that the advantage,|qy|3565
+A|or what's the,|qrr|3565
+B|Well, you, you,|%|3565

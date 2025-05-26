@@ -1,0 +1,82 @@
+A|Uh, let's see.|^h|4360|0
+A|How about, uh, let's see, about ten years ago,|%|4360|0
+A|uh, what do you think was different ten years ago from now?|qo|4360|0
+B|Well, I would say as, far as social changes go, uh, I think families were more together.|sv|4360|1
+B|They, they did more things together.|sv|4360|1
+A|Uh-huh|b|4360|0
+B|Uh, they ate dinner at the table together.|sv|4360|1
+B|Uh, the parents usually took out time, uh, you know, more time than they do now to come with the children and just spend the day doing a family activity.|sv|4360|1
+A|Uh-huh.|b|4360|0
+B|Uh, although I'm not a mother, I, I still think that, uh, a lot has changed since ten years ago.|sv|4360|1
+B|Uh, what do you  think about that?|qo|4360|1
+A|We,|%|4360|0
+A|Well, uh, actually ten years from today seems rather short.|sv|4360|0
+B|Yeah.|b|4360|1
+A|Uh, but I do agree that, uh, generally it's, society has sort of, uh, let's see, rushed everything ahead.|sv|4360|0
+B|Uh-huh.|b|4360|1
+A|And, uh, I don't know,|h|4360|0
+A|it leaves, leaves a lot of time out for family and things like that.|sv|4360|0
+A|In other words, they just prioritize their lives differently.|sv|4360|0
+A|But I think that has a lot to do with economic situation.|sv|4360|0
+B|Yes.|aa|4360|1
+B|What about like as far as, uh, social changes in the individual?|qo|4360|1
+B|Do  you think that the individual has as much time as they did, let's say, ten, twenty years ago?|qy|4360|1
+A|Uh,|%|4360|0
+A|Um. It depends.|h|4360|0
+A|Uh, it's hard to say because I think people were busy ten twenty years ago too.|sv|4360|0
+B|Uh-huh.|b|4360|1
+A|Uh, I just|%|4360|0
+B|Well, how, how old are you?|qw|4360|1
+A|I'm twenty-eight.|sd|4360|0
+B|Twenty-eight.|b^m|4360|1
+B|Okay,|bk|4360|1
+B|I'm twenty-three.|sd|4360|1
+A|Yeah.|b|4360|0
+B|So there's maybe a five year gap between us.|sd|4360|1
+A|Yeah.|b|4360|0
+B|So, uh.|%|4360|1
+A|I just, I think that things were a bit, were, have been busy all along.|sv|4360|0
+A|It's just  a matter where priorities are, at placed. And that, uh, usually as far as families are concerned, there used to be just one person working and usually the other parent was home.|sv|4360|0
+B|Huh|%|4360|1
+B|Yes.|aa|4360|1
+B|Uh-huh.|b|4360|1
+A|And now, uh, it's pretty much an economic necessity of, for most, in most places for both parents to work.|sv|4360|0
+B|Do you think it's an economic necessity|qy|4360|1
+B|or do you think that we're, we're, uh, all trying to keep up with a certain standard of living?|qrr|4360|1
+A|I think that's part of it too.|sv|4360|0
+A|But I do think,|sv|4360|0
+B|I mean do you think, people really need two cars and  a house in the suburbs or,|qy|4360|1
+A|No,|nn|4360|0
+A|no.|nn|4360|0
+A|I don't.|sd|4360|0
+A|No,|nn|4360|0
+A|I don't think that.|sd|4360|0
+A|But then there are a lot of people that, that don't have that. But, that really do need to work.|sv|4360|0
+B|Uh-huh.|b|4360|1
+B|Uh-huh.|b|4360|1
+A|I think maybe those people that really do need to work, both parents, just to survive.|sv|4360|0
+A|And  then there, is, is that other group that is  working to maintain a standard of living that, uh, they think is, is surviving which is really more luxuries.|sv|4360|0
+B|Yeah.|b|4360|1
+B|Uh-huh.|b|4360|1
+B|Okay.|bk|4360|1
+B|Uh-huh.|b|4360|1
+A|Uh, but I I tend to think that it's less those people that have the two cars and everything than it is the group that is just trying to survive.|sv|4360|0
+B|so you think it's,|qy^d|4360|1
+B|which group are you saying is the one trying?|qw|4360|1
+A|I'm saying that the, uh, the group that is just trying to survive from day to day, where both parents are working is more of the majority than the, than the people that have the higher standard of living.|sv|4360|0
+B|Uh-huh.|b|4360|1
+A|Because if you look at economics across this country and statistics on who has the money and who the decreasing, uh, middle class in this country I think that that's, in my opinion, the case.|sv|4360|0
+B|Uh-huh.|b|4360|1
+B|Okay.|bk|4360|1
+A|So.|%|4360|0
+A|I mean I have met people that, uh, both that, that just want to maintain a, the standard of living and those that, that really need the job.|sd|4360|0
+B|Okay.|b|4360|1
+B|And then, sometimes I, I often, uh, find that maybe there's so many different things available to us. a microwave, a V C R, a answering machine a, you know, a special, a dishwasher, uh, a refrigerator and some of those items, um, for the, for the, uh,|sd|4360|1
+A|Uh-huh.|b|4360|0
+B|well I guess we're sticking more to social changes|sv|4360|1
+B|but, uh people want all of that|sv|4360|1
+A|Uh-huh.|b|4360|0
+B|and not all of those are necessities.|sv|4360|1
+A|Right|b|4360|0
+B|So they're trying to,|sv|4360|1
+B|it has become a necessity|sv|4360|1

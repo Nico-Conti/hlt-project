@@ -1,0 +1,112 @@
+A|The way,|%|3447|0
+A|I'll go ahead and start|sd|3447|0
+A|the way I work, uh, the way I dress for work is, uh, this year, nineteen ninety-one has been really suit and tie,|sd|3447|0
+B|Uh-huh.|b|3447|1
+A|or I shouldn't say suit, but coat and tie every day.|sd|3447|0
+B|Uh-huh.|b|3447|1
+A|A, a year ago, I changed jobs from being a researcher to doing marketing for the research group.|sd|3447|0
+B|Uh-huh.|b|3447|1
+B|Uh-huh.|b|3447|1
+A|Which means kind of a, I guess it's a different set of standards, I guess.|sv|3447|0
+B|Yeah.|b|3447|1
+A|So, uh, I, I dress almost the same every day.|sd|3447|0
+A|I mean, pretty much it's a white shirt and slacks and shoes and a coat.|sd|3447|0
+B|Uh-huh.|b|3447|1
+B|Uh-huh.|b|3447|1
+A|But, it was very different before.|sd|3447|0
+A|How do you dress?|qo|3447|0
+B|Well, I'm a drafter,|^h|3447|1
+B|so I just wear blue jeans and tennis shoes|sd|3447|1
+B|and I have sweatshirt on today.|sd|3447|1
+A|Uh-huh.|b|3447|0
+B|And that's pretty much the norm for me.|sd|3447|1
+B|If I come in in a dress, everybody's shocked|sd|3447|1
+A|Yeah,|b|3447|0
+A|I understand.|b|3447|0
+B|They ask me, you know, what are you doing in a dress|sd|3447|1
+B|and it's usually I haven't done my laundry lately|sd|3447|1
+A|Right.|b|3447|0
+B|Ran out of jeans|^q|3447|1
+A|I understand,|b|3447|0
+A|that's funny|ba|3447|0
+A|So, does it change?|qy|3447|0
+B|No.|nn|3447|1
+A|Your dress,|b|3447|0
+A|no.|b^m|3447|0
+B|No,|nn|3447|1
+B|huh-uh.|nn|3447|1
+A|So, or, I guess, do you have things like presentations to do or anything like that?|qy|3447|0
+B|No,|nn|3447|1
+B|huh-uh.|nn|3447|1
+A|So, back in my old job, up until through nineteen eighty I would usually wear blue jeans and pullover shirts and the like,|sd|3447|0
+B|Uh-huh.|b|3447|1
+A|but, probably once a month or so, there was some reason that I would have to put on a suit. For a customer presentation or something.|sd|3447|0
+B|Yeah.|b|3447|1
+B|Yeah,|b|3447|1
+B|yeah.|b|3447|1
+B|Every now and then I'll get dressed up and come in,|sd|3447|1
+B|but that's for my husband's job and not mine|sd|3447|1
+A|Oh, I see,|b|3447|0
+A|I understand.|b|3447|0
+B|I have to go to a business meeting once a month with him,|sd|3447|1
+B|but So,|%|3447|1
+A|Oh. Well, that's interesting.|ba|3447|0
+A|Let's see, uh, what else about this, uh,|^h|3447|0
+A|it, it seems like T I is pretty cut and dried with two, like, two or three levels.|sv|3447|0
+B|Uh-huh.|b|3447|1
+A|That there's the upper management that always wears gray suits. And the people that don't, uh,|sv|3447|0
+B|Uh-huh.|b|3447|1
+A|I would, if you, if I want to say don't have power or don't have authority or whatever like I used to be in that research|sd|3447|0
+B|Uh-huh.|b|3447|1
+B|Uh-huh.|b|3447|1
+A|and I guess you are.|qy^d|3447|0
+B|Uh-huh.|ny|3447|1
+A|That we dress in the jeans|sd|3447|0
+A|and then there's kind of the, the branch manager level or marketing people that kind of do that middle thing.|sv|3447|0
+B|Uh-huh.|b|3447|1
+B|Yeah,|aa|3447|1
+B|yeah.|aa|3447|1
+A|But there's not much,|sv|3447|0
+B|middle of the road.|sv|3447|1
+A|It's nice that there's not a requirement for it.|sv|3447|0
+B|Uh-huh,|aa|3447|1
+B|uh-huh.|aa|3447|1
+B|Sometimes I think there should be.|sd|3447|1
+B|Some of these women around here look like they came off of Harry Hines.|sv|3447|1
+A|Oh, yeah,|aa|3447|0
+A|right|aa|3447|0
+A|Yeah,|b|3447|0
+A|I guess you see those once in a while.|sv|3447|0
+B|And you know the, they have the no shorts deal,|sd|3447|1
+B|and some of these mini skirts, you know, are worse than shorts ever thought about being.|sv|3447|1
+A|Sure.|aa|3447|0
+B|But, uh, You know, that's, I guess that's one of the things you got to put up with when you don't have a dress code.|sv|3447|1
+A|Yeah.|b|3447|0
+A|That's right,|aa|3447|0
+A|that's right.|aa|3447|0
+A|I guess they're, the, isn't there a dress code, something about spaghetti straps,|qy^d|3447|0
+A|I'm not even sure what they are.|sd|3447|0
+B|Supposedly and backless things|sv|3447|1
+A|Oh, backless,|b|3447|0
+A|all right.|aa|3447|0
+B|but, I've seen those, too,|sd|3447|1
+B|but,|%|3447|1
+A|Okay,|b|3447|0
+A|so this wasn't necessarily a big conversation,|sv|3447|0
+A|but, I think we, we did it|sv|3447|0
+B|Uh, yeah.|b|3447|1
+A|Okay,|b|3447|0
+A|and, and your name was Lisa.|qy^d|3447|0
+B|Lisa.|na|3447|1
+A|Great.|ba|3447|0
+B|Are you the Expressway sites?|qy|3447|1
+A|I am,|na|3447|0
+A|yes,|ny|3447|0
+A|and I work in the north building.|sd|3447|0
+B|Oh, okay.|bk|3447|1
+A|Uh, well, thank you.|ft|3447|0
+B|Thank you.|ft|3447|1
+A|All right,|fc|3447|0
+A|good day.|fc|3447|0
+B|Uh-huh,|fc|3447|1
+B|bye-bye.|fc|3447|1

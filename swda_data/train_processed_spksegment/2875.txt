@@ -1,0 +1,366 @@
+A|Okay,|fo_o_fw_"_by_bc|2875|0
+A|cars,|sd|2875|0
+A|you, you|%|2875|0
+A|maybe this is a fantasy we can to talk about any kind of car, we want here|ad|2875|0
+A|I want a Rolls Royce and a Cadillac|sd|2875|0
+B|Hey,|ba|2875|1
+B|that sounds like a great deal to me|sv|2875|1
+B|You have great aspirations|sv|2875|1
+B|Well, let's see|^h|2875|1
+B|I, we just bought, uh, a seventy-three Mercedes that we have restored|sd|2875|1
+A|Oh, that's great.|ba|2875|0
+A|I'm, I'm a hobbyist too,|sd|2875|0
+B|and it,|%|2875|1
+A|I like to work on cars too.|sd|2875|0
+B|Yeah,|b|2875|1
+B|it has really been a lot of fun.|sd|2875|1
+B|Uh, we found some guys that actually, you know, worked for a Mercedes dealership|sd|2875|1
+B|and, uh, they also repair them for other the people on their off time so have, we, we have redone that thing from stem to stern, I mean inside, outside, you know, we've redone the body, repainted it, detailed it, so, you know, I really haven't thought much past that it seems like, you know,|sd|2875|1
+A|Oh, that's good.|ba|2875|0
+B|I don't know if I'll ever want another new car again, you know.|sd|2875|1
+A|Was you,|%|2875|0
+A|why they, they didn't,|sd|2875|0
+A|say buy it|sd|2875|0
+A|they didn't necessarily say buy it new they just said, what would you buy, you know.|sd|2875|0
+B|Maybe not.|aap_am|2875|1
+B|Yeah,|aa|2875|1
+B|that's true.|aa|2875|1
+B|I, I don't know it just seems like, uh, you know, for what we've put into it I feel like that's something that might retain it's value a little bit more, than, you know,|sd|2875|1
+A|Oh, sure,|aa|2875|0
+A|a restored, vehicle is, is great, I think, certainly if it's an old Mercedes will be good.|sv|2875|0
+B|yeah,|b|2875|1
+B|yeah,|b|2875|1
+B|yeah,|b|2875|1
+B|yeah,|b|2875|1
+B|yeah,|b|2875|1
+B|right,|aa|2875|1
+B|we, the one thing that, uh, we did decide as, it's, it's,|sd|2875|1
+B|we wanted it to be as authentic as possible|sd|2875|1
+B|but we did break down and put a C D player in it,|sd|2875|1
+A|Well, that's great.|ba|2875|0
+B|that's not quite authentic,|sd|2875|1
+B|but at any rate that, that was one thing that I, one of the features that I did want,|sd|2875|1
+B|I'd passed up on one and put a sunroof in it,|sd|2875|1
+A|Oh, yeah,|ba|2875|0
+A|you all, done a lot more,|sv|2875|0
+B|I had to stop there.|sd|2875|1
+A|when I talk about working on cars I sure don't do that.|sd|2875|0
+B|Yeah,|b|2875|1
+B|well, of course, we do it ourselves|sd|2875|1
+B|but, like I said, we were just lucky to find these guys that do it, you know,|sd|2875|1
+A|Oh, okay.|bk|2875|0
+B|they're, they just weren't really expensive,|sd|2875|1
+A|Oh, that is good, acknowledgeable people.|ba|2875|0
+B|and, uh, yeah, you know,|aa|2875|1
+B|right,|aa|2875|1
+B|and they work on it,|sd|2875|1
+B|so, the things that can be done here they just come here to our home and, and work on it or work on it,|sd|2875|1
+B|so,|%|2875|1
+A|That's amazing.|ba|2875|0
+B|yeah,|aa|2875|1
+B|it's, you know, it's really, it's really been nice.|sd|2875|1
+B|We, uh,|%|2875|1
+A|I, I do all my own work, uh,|sd|2875|0
+A|so, I, I have Chevies, mostly,|sd|2875|0
+B|Uh-huh.|b|2875|1
+A|well, that's all I've got right now|sd|2875|0
+B|Uh-huh.|b|2875|1
+B|Yeah.|b|2875|1
+A|I've got three Chevy V Eights.|sd|2875|0
+A|I'm, uh, I'm, uh, a Chevy, I'm an American car person,|sd|2875|0
+B|You're an American car person.|b^m|2875|1
+A|but I do like Mercedes.|sd|2875|0
+B|Yeah,|b|2875|1
+B|yeah,|b|2875|1
+B|I, I have always had an American, American car|sd|2875|1
+B|and, uh, I had a real, real bad experience with the Cougar that I had,|sd|2875|1
+B|it was an eighty-two Cougar,|sd|2875|1
+A|Yeah.|b|2875|0
+B|and, uh, I don't know,|h|2875|1
+B|I think it just soured me on it for some reason because I had trouble with it starting,|sd|2875|1
+B|the engine blew up in it,|sd|2875|1
+B|I had to replace the engine when it was only two years old so, you know, I, I thought what the heck, you know,|sd|2875|1
+A|Yeah.|b|2875|0
+B|we'll try something different|^q|2875|1
+B|so.|%|2875|1
+A|Well, I'm not a Ford person and never have been as a kid,|sd|2875|0
+B|Yeah.|b|2875|1
+A|and, uh, I do like the V Eight engines|sd|2875|0
+A|and I think the,|sv|2875|0
+A|I went to the auto show with my daughter recently, down in Dallas|sd|2875|0
+B|Uh-huh.|b|2875|1
+A|and, I, to me the American cars are far superior to the Japanese in styling, engines, right now, I mean,|sd|2875|0
+B|Uh-huh.|b|2875|1
+B|Really.|b|2875|1
+B|Yeah,|b|2875|1
+B|right,|b|2875|1
+A|I'm not saying that they were, a couple of years ago.|sd|2875|0
+B|yeah.|b|2875|1
+B|Yeah.|aa|2875|1
+B|I would that that there's,|sd|2875|1
+B|I see a marked improvement, you know, as far as, uh, what I've heard about performance and such, you know, so, uh, uh, hopefully it'll stay that way, I mean, you know,|sd|2875|1
+A|Oh, yeah.|ba|2875|0
+B|I'd, I'd, I would hate to see the American car industry suffering more than it already has you know, even though right now I'm not driving an American car,|sd|2875|1
+A|Oh, yeah.|ba|2875|0
+B|but, uh, I think,|%|2875|1
+A|I,|%|2875|0
+A|uh, you know, they said, they said what do we want to buy,|sd|2875|0
+A|I, I'm, uh, not seriously thinking|sd|2875|0
+A|but I, I would like to, put it in that category, uh, by a Cadillac|sd|2875|0
+B|Uh-huh,|b|2875|1
+B|uh-huh.|b|2875|1
+A|but I wouldn't, buy a new one|sd|2875|0
+B|Yeah.|b|2875|1
+A|and, you know, of course, if I had the money I'd be happy to by a new one,|sd|2875|0
+B|Yeah,|b|2875|1
+B|yeah.|b|2875|1
+A|but, uh, I do look for a one year old vehicle, with twenty some odd miles or whatever twenty thousand miles, whatever.|sd|2875|0
+B|Uh-huh.|b|2875|1
+B|Yeah,|b|2875|1
+B|twenty thousand,|b^m|2875|1
+B|yeah,|b|2875|1
+B|yeah.|b|2875|1
+B|Well, that's what my parents are avid Cadillac freaks.|sd|2875|1
+B|They had, uh,|%|2875|1
+B|and I think my, my mother drives the SeVille now that's, uh, I guess it's a couple of years old,|sd|2875|1
+B|and, uh, she had a SeVille before that that had the odd backs that was, that was so, uh,|sd|2875|1
+A|Oh, yeah,|ba|2875|0
+A|I remember those.|sd|2875|0
+B|yeah,|%|2875|1
+B|yeah,|%|2875|1
+B|and she, it final just wore out|sd|2875|1
+B|they had, they had purchased it,|sd|2875|1
+B|I don't, can't remember how many years they had that car,|sd|2875|1
+B|but she loved the styling of it.|sd|2875|1
+A|That she may want to save, if she, she doesn't have it anymore.|sv|2875|0
+B|No,|ar|2875|1
+B|she sold it|sd|2875|1
+B|and she,|%|2875|1
+A|That,|%|2875|0
+A|since they don't make them anymore, she, that could be turned into a classic, in, in ten, fifteen years, uh.|sv|2875|0
+B|Yeah.|b|2875|1
+B|I know.|aa|2875|1
+B|Yeah,|aa|2875|1
+B|she kept telling herself that|sd|2875|1
+B|and it's sort of a bone of contention between she and my dad because my dad said well, just let me take it down there and find out what's wrong with it,|sd|2875|1
+B|I mean he came back with a new car|sd|2875|1
+A|No,|b|2875|0
+A|he wanted new one ,|bf|2875|0
+A|yeah,|b|2875|0
+A|right,|b|2875|0
+A|yeah.|b|2875|0
+B|Yeah,|aa|2875|1
+B|I think he had an ulterior motive|sd|2875|1
+B|he could just see, you know, dollar signs starting to flip by as far as repairs went|sd|2875|1
+B|but, uh, they, they really are nice cars, there, there,|sd|2875|1
+A|I'm still a full size person,|sd|2875|0
+B|Yeah.|b|2875|1
+A|and I like a full size Cadillac,|sd|2875|0
+A|I, I want one of those,|sd|2875|0
+A|I think they are, I don't know, a classic|sd|2875|0
+A|but they're, certainly not,|sv|2875|0
+B|Uh-huh.|b|2875|1
+A|they haven't changed in about, uh, twenty years,|sd|2875|0
+A|and, and they'll eventually phase them out|sv|2875|0
+B|Yeah,|b|2875|1
+B|yeah.|b|2875|1
+A|and I sure would like one ever those, uh, uh, within the next five years, or so.|sd|2875|0
+B|Yeah,|b|2875|1
+B|it seems funny you how within the last couple of years cars have gotten bigger again, you know,|sv|2875|1
+A|Right.|b|2875|0
+B|they had, they've scaled everything down so much|sd|2875|1
+B|and, uh, I have, I don't, I've never owned a really large car,|sd|2875|1
+B|I don't know,|h|2875|1
+B|I think that Cougar was the biggest thing I ever had|sd|2875|1
+B|and,|%|2875|1
+A|Well, even the Japanese cars are bigger too|sd|2875|0
+A|but, uh,|%|2875|0
+B|Yeah,|b|2875|1
+A|I've never had a|sd|2875|0
+B|now the Lexus are very nice looking cars, you know.|sv|2875|1
+A|I've never had, a Japanese car,|sd|2875|0
+A|I, I've had friends who had them,|sd|2875|0
+B|Uh-huh.|b|2875|1
+A|and I think they're a lot over|sv|2875|0
+A|and they're is just no styling to them,|sv|2875|0
+A|you can't tell one Japanese car from the other, because they all a like,|sv|2875|0
+B|That's true,|aa|2875|1
+B|that's true.|aa|2875|1
+A|you know, I don't mean that as a joke,|sd|2875|0
+A|I mean, they really all look a like,|sd|2875|0
+B|Yeah.|b|2875|1
+B|Yeah.|b|2875|1
+A|and the|%|2875|0
+A|I don't have any idea what, which car it is, until I look at it to see what it is,|sd|2875|0
+B|What is what,|bf|2875|1
+B|yeah.|b|2875|1
+B|Uh-huh,|b|2875|1
+B|uh-huh.|b|2875|1
+A|and I think they have not, uh, lead the field in styling,|sv|2875|0
+A|they do have sports cars|sd|2875|0
+B|Yeah.|b|2875|1
+A|but the price is way more,|sd|2875|0
+A|you can get a Cadillac for, the same price as you can get a small Japanese, car,|sd|2875|0
+B|Uh-huh,|b|2875|1
+B|uh-huh.|b|2875|1
+B|Yeah,|b|2875|1
+B|yeah.|b|2875|1
+A|it's ridiculous now.|sv|2875|0
+B|Yeah.|aa|2875|1
+B|I know that, uh,|sd|2875|1
+B|I've, I've sort of always felt like with Buicks it seems like all Buicks to me look alike you know,|sd|2875|1
+A|Uh-huh.|b|2875|0
+B|I guess it just, uh, it seems to me they're all the same shape.|sd|2875|1
+B|I have a very good friend that has a Buick Regal|sd|2875|1
+B|and she, she's had, she's got way offer a hundred thousand miles on it|sd|2875|1
+B|and that's what she's going to buy again|sd|2875|1
+B|and I'm like, oh, please, it looks exactly the same as this old one that you've got|sd|2875|1
+B|and, so I guess it's in the eyes of the beholder, I suppose.|sv|2875|1
+A|Yeah.|b|2875|0
+A|Oh, yeah.|aa|2875|0
+A|Yeah,|aa|2875|0
+A|well, if, if you're interested you ought to go to the next auto show.|ad|2875|0
+A|I, I look at the Cadillacs|sd|2875|0
+A|and boy there were some Cadillacs that I didn't even realize they made|sd|2875|0
+A|but they were, just styled so differently,|sd|2875|0
+B|Really.|b|2875|1
+B|Uh-huh,|b|2875|1
+B|uh-huh.|b|2875|1
+A|they were standard Cadillacs|sd|2875|0
+A|but they really looked beautiful.|sd|2875|0
+B|Are they still,|qy|2875|1
+B|are what they're,|qy|2875|1
+B|what they have out for like the next year, is everything still pretty square,|qy|2875|1
+B|it seems like the Cadillacs is one of the few makers that are still making really, I, I can't think of a car that they make are the than maybe the Alliance .|sv|2875|1
+A|Oh, no,|nn|2875|0
+A|they have, they have convertibles now in the Cadillac, field|sd|2875|0
+B|Yeah.|b|2875|1
+A|and they have that new, uh,|sd|2875|0
+A|it's not the big, uh, Fleetwood, the one I want, which is been the same in the last twenty years,|sd|2875|0
+B|Uh-huh.|b|2875|1
+B|Yeah.|b|2875|1
+A|there's another one that has came out in the last two year, not the Seville,|sd|2875|0
+A|the Seville is totally different,|sd|2875|0
+B|Uh-huh.|b|2875|1
+A|now at the auto show they had fantastic looking cars.|sd|2875|0
+B|Now when, when was this,|qw|2875|1
+B|was this recently?|qy|2875|1
+A|Oh, yeah,|ny|2875|0
+A|it was a month or so ago.|sd|2875|0
+B|Oh, okay,|bk|2875|1
+B|because I have,|%|2875|1
+A|Well, they have it every year.|sd|2875|0
+B|Yeah,|b|2875|1
+B|usually when I see the new cars it's during the fair when I go to the auto building at the State Fair|sd|2875|1
+B|and that's usually when I see anything, you know.|sd|2875|1
+A|Right,|b|2875|0
+A|now this was, uh, in it was downtown in the, uh, Convention Center|sd|2875|0
+A|and, they had all the cars|sd|2875|0
+B|Oh, I see.|bk|2875|1
+A|they had Japanese and German cars,|sd|2875|0
+B|Yeah.|b|2875|1
+A|they had the full range ,|sd|2875|0
+A|and they had some, they had some new cars that weren't even out|sd|2875|0
+A|they had, uh, a new Chevy Suburban, truck, you know,|sd|2875|0
+B|Oh, really.|b|2875|1
+A|that big, big one that was, uh,|sd|2875|0
+A|they didn't have a price on it, nor did they know had a it would cost,|sd|2875|0
+B|Uh-huh.|b|2875|1
+A|it had a microwave in it and everything,|sd|2875|0
+B|Oh, my word.|ba|2875|1
+A|it was,|%|2875|0
+A|they had several futuristic cars.|sd|2875|0
+B|That's wild, you know,|ba|2875|1
+A|Yeah.|b|2875|0
+B|you hear about things like that|sd|2875|1
+B|and you think that can't possibly be done,|sv|2875|1
+B|I mean, it just, that's just too weird.|sv|2875|1
+A|I know.|aa|2875|0
+A|And I like engines|sd|2875|0
+A|they had a lot of broken down not broken down, I mean, you know, cut, uh, displayed engines, you know.|sd|2875|0
+B|Uh-huh.|b|2875|1
+B|Right,|b|2875|1
+B|uh-huh,|b|2875|1
+B|so you could tell,|bf|2875|1
+B|see the inside of them or whatever.|bf|2875|1
+A|Yeah,|aa|2875|0
+B|Yeah.|b|2875|1
+A|but, uh, that, that sold me in buying a new car, you know,|sd|2875|0
+A|I mean, certainly interested in buying a new car|sd|2875|0
+A|but again the, yeah, the American cars were for superior in styling and, new engines,|sd|2875|0
+B|Yeah,|b|2875|1
+B|yeah,|b|2875|1
+B|well, maybe,|aap_am|2875|1
+A|and, uh, I thing so, because they've been making these four cylinder and six cylinder engines for a while * spelling "think"?|sv|2875|0
+B|somebody's finally woken up, you know.|sv|2875|1
+A|and, I think that, I, I would definitely buy,|sd|2875|0
+B|Yeah.|b|2875|1
+A|again there's the question are we in the market, uh,|sd|2875|0
+B|Yeah.|b|2875|1
+A|and I could buy anything, you know.|sd|2875|0
+B|Oh, yeah,|aa|2875|1
+B|you know, if I could fine, * spelling "find"?|sd|2875|1
+B|I, I was really crazy about Jags for a while|sd|2875|1
+B|and the convertible, had a is it X J S or something like that,|sd|2875|1
+B|and I, you know, thought that's a dream car,|sd|2875|1
+A|Yeah,|b|2875|0
+A|Yeah.|b|2875|0
+B|and, and you really would have to be a dream car because the repair bills are supposedly just constant, you know.|sv|2875|1
+A|Well, I haven't work on them myself so I don't, that, you know, my cars don't go to the shop, you know,|sd|2875|0
+B|Yeah,|b|2875|1
+A|so, uh,|%|2875|0
+B|yeah.|b|2875|1
+A|I am the kind of engineer|sd|2875|0
+A|and I've always done it myself|sd|2875|0
+A|and, uh I've got three of them|sd|2875|0
+B|Well, that's good that you can.|sv|2875|1
+A|and, uh, I can't remember one,|sd|2875|0
+A|I think I had one someone welded a muffler on for me, in a years time,|sd|2875|0
+B|Oh, really,|b|2875|1
+B|that,|%|2875|1
+B|oh, gosh,|ba|2875|1
+B|that's great.|ba|2875|1
+A|I think that's the only thing of the three vehicles that I've in it just the welding on|sd|2875|0
+A|like I said I don't do that you know.|sd|2875|0
+B|I think it takes a talent to do that, you know,|sv|2875|1
+B|my, my husband is, uh, engineer|sd|2875|1
+B|but he cannot, I mean,|sd|2875|1
+B|or maybe he's just doesn't want to mess with it|sd|2875|1
+B|that's might be part of it,|sd|2875|1
+B|but, uh, you know, we just, I just say forget it we'll just take it in, and get it taken care it.|sd|2875|1
+A|Yeah.|b|2875|0
+B|He drives, drives a Honda.|sd|2875|1
+A|I, I, noticed that when I was a kid, uh,|sd|2875|0
+A|I was wasn't a mechanical engineer|sd|2875|0
+A|but I worked my way through college as a mechanic|sd|2875|0
+A|so,|%|2875|0
+B|Uh-huh,|b|2875|1
+A|I learned early from, fifteen on, and dropped it for a long time when, when after I got out of college and, then picked it up again later on|sd|2875|0
+B|Right.|b|2875|1
+B|Yeah.|b|2875|1
+B|Uh-huh.|b|2875|1
+B|Yeah.|b|2875|1
+A|and now again, I've got three vehicles|sd|2875|0
+A|and I don't, I never get in them and just go to the shop at you will, you know.|sd|2875|0
+B|Well, that's to, that's one thing that when you would consider,|sv|2875|1
+B|see when I go out to think about a new car or buy another car, I don't think about, well, is this engine that I can work on or that, you know, my husband can work on or whatever, you know|sd|2875|1
+A|Uh-huh.|b|2875|0
+B|so, you're, you're pretty lucky in that respect that,|sv|2875|1
+A|Yeah,|aa|2875|0
+A|I'm keeping V eight, V eight Chevy engines, because that's what I know,|sd|2875|0
+B|Yeah.|b|2875|1
+B|That's when you know,|bf|2875|1
+B|yeah.|b|2875|1
+A|and, in fact, I stock the same part,|sd|2875|0
+A|I'm like a little stock,|sd|2875|0
+A|if you, brought your Chevy to me I could, I'd probably have some parts, for it right now, you knows|sd|2875|0
+B|Uh-huh.|b|2875|1
+B|That's pretty good,|ba|2875|1
+B|it's really been funny because we have like been you are own contractors kind of with this car|sd|2875|1
+B|and when I say we have redone everything I mean we have done everything,|sd|2875|1
+A|Oh, that's great,|ba|2875|0
+B|and it's, it's really been so interesting the people you meet because, uh, my husband Carl has called all over the country, you know,|sd|2875|1
+A|I've always wanted to that too.|sd|2875|0
+B|he's gotten these catalogs|sd|2875|1
+B|it's really more difficult to find these vintage parts when you might think this is for a seventy-three,|sd|2875|1
+A|Oh, I can imagination,|ba|2875|0

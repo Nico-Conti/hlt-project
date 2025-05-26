@@ -1,0 +1,97 @@
+A|Okay Brian.|fo_o_fw_"_by_bc|3518
+B|Hi,|fp|3518
+B|how you doing Kevin?|fp|3518
+A|Fine, thanks|fp|3518
+B|Good,|ba|3518
+B|good,|ba|3518
+B|glad to hear that.|sd|3518
+B|I understand,|%|3518
+A|Are you a total banner?|qy|3518
+B|Total banner?|qy|3518
+A|Yeah.|ny|3518
+B|No,|nn|3518
+B|I, I believe that, uh, the American public and I, as an individual and private citizen have a right to, to bear arms and to have a gun as long as I, uh, am responsible with it and protect the safety and welfare of my kids|sv|3518
+B|and, and so that they're not playing with it and so that they can't hurt themselves or anyone else playing with it.|sv|3518
+B|I think that education with a gun is, is critical and important.|sv|3518
+B|Uh, however, I do believe that, uh, guns ought to be maintained and, and controlled that you can't go out and just buy one off the corner and do whatever you want with it because people that are angry or have concerns or want to seek vengeance right away have easy access to guns|sv|3518
+B|and in the heat of the moment, they can go and do some damage that can hurt themselves and other people,|sv|3518
+B|so on a scale of one to ten, I, I think I would rate myself as a, in the six or seven or eight.|sd|3518
+A|Okay.|bk|3518
+B|But, I think that there ought to be some control,|sv|3518
+B|but I still think that, uh, individuals have a right.|sv|3518
+B|How do you feel about it?|qo|3518
+A|Well, so, let me make sure,|^h|3518
+A|so you think that, uh, maybe a five day waiting period for handguns or that stuff would be legitimate?|qy|3518
+B|Well, I don't know if a five day waiting period would be legitimate.|no|3518
+B|Uh, that, uh, that might cool down some tempers.|sv|3518
+B|I think a, a one day would be sufficient.|sv|3518
+B|The reason I say that is there is an awful lot of people who go to gun shows|sv|3518
+B|and if you see an awful lot of exhibits and things and if you would like to purchase a gun, if that five day waiting period were in effect, you wouldn't be able to purchase one at that gun show.|sv|3518
+A|Uh, you just, you would be able to buy it,|ar|3518
+A|but they'd just have to mail it to you, I suppose, huh.|sv|3518
+B|Well, I don't think you can mail thing, guns through the mail.|ar|3518
+B|I don't know.|h|3518
+A|Oh.|b|3518
+A|Okay.|b|3518
+B|I think that's a, against the law ever since Kennedy was assassinated|sd|3518
+A|Oh, yeah?|bh|3518
+B|So, how do you feel about guns?|qo|3518
+A|Let's see,|^h|3518
+A|I think that gun control has come up because there has been some crazies that killed people with guns|sv|3518
+A|and I think that's the problem that we need to address is why these people want to kill other people rather than the instrument they particularly used in the assault|sv|3518
+B|Uh-huh.|b|3518
+A|whether, you know,|%|3518
+B|Well, do you think that there will continue to always be crazies?|qy|3518
+A|Sure.|na|3518
+B|Then, uh, how do you propose that we prohibit those types of individuals from gaining access to guns?|qo|3518
+A|Well, we have some laws on the books that, uh, don't allow convicted felons to purchase guns, if I understand correctly.|sd|3518
+A|And, uh, I would agree,|sd|3518
+A|a, a short waiting period would be appropriate to, uh, take care of the heat of the moment type things,|sv|3518
+A|but uh, I think banning semiautomatic twenty-two rifles is a, a bit on the extreme side.|sv|3518
+B|Uh-huh.|b|3518
+B|Uh-huh.|b|3518
+A|And a total ban on guns would just leave guns in the hands of criminals who don't care what the rules are anyway.|sv|3518
+B|Okay.|bk|3518
+B|Do you, uh, do you feel there is a need in the world today to have a, an automatic handgun?|qy|3518
+A|The only purpose for handguns is to shoot people, in my opinion.|sv|3518
+A|or you could do it just for fun, you know, kind of like a game,|sv|3518
+A|but, uh,|%|3518
+B|Well, I think that the, the police, uh, or law enforcement have a need because of the tight quarters they might find themselves,|sv|3518
+B|but, the public, I don't know.|sv|3518
+A|I think that I should have a right to own a handgun.|sv|3518
+B|Uh-huh.|b|3518
+A|Not a automatic, semiautomatic.|sv|3518
+B|Yes,|aa|3518
+B|not an Uzi|sv|3518
+A|No,|aa|3518
+A|no.|aa|3518
+A|Uh, but I think a person needs a way of defending themselves.|sv|3518
+B|Uh-huh.|b|3518
+A|You saw Indiana Jones,|qy^d|3518
+A|the guy came after him with that big knife.|sd|3518
+B|Yes.|ny|3518
+A|And just, he took care of it,|sd|3518
+A|just one shot.|sd|3518
+B|Yes,|aa|3518
+B|that's true,|aa|3518
+B|and he, uh, saved himself in the, in the, in the process also.|sd|3518
+A|That's right.|aa|3518
+A|So how is work going?|qw|3518
+B|Very fine,|sd|3518
+B|very,|%|3518
+A|They don't let you take guns to work, do they?|qy|3518
+B|No,|nn|3518
+B|they, That's, uh, that's prohibited where we work.|sd|3518
+B|Although down here in Texas, uh you do have a right to, to wear and carry arms with you at all times.|sd|3518
+A|Uh-huh.|b|3518
+B|That's still that's still, you can still do that down here.|sd|3518
+A|Can they be, Is it concealed,|qy|3518
+A|or does it have to,|%|3518
+B|Oh, you can't,|ng|3518
+B|no,|nn|3518
+B|it should not be concealed.|sd|3518
+A|Has to be on the hip?|qy|3518
+B|It has to be on the hip|na|3518
+B|Has to be in sight so that, uh, you know, that you're not, uh, a menace or a problem to individuals.|sd|3518
+A|Can a|%|3518
+B|How about where you live there in Utah?|qo|3518

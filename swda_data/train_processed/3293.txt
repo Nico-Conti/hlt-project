@@ -1,0 +1,174 @@
+A|Okay,|fo_o_fw_"_by_bc|3293
+A|well, what, uh, what do you all do for camping?|qo|3293
+B|Well, we don't do so much now,|sd|3293
+B|but when, uh, I was, uh, a child, we went regular old camping, tents and and everything like that.|sd|3293
+A|Uh-huh.|b|3293
+B|And then with our children, we did, uh, we had a pop up tent camper.|sd|3293
+A|Uh-huh.|b|3293
+B|And we used that to go camping.|sd|3293
+A|Where do you go?|qw|3293
+B|We, uh, years ago we lived in Oklahoma|sd|3293
+B|and we went to, uh, Lake Ardmore, I mean Lake Murray all the time.|sd|3293
+A|Oh. Uh-huh.|b|3293
+B|But, when we did it with our children, we lived in, uh, Tennessee|sd|3293
+B|and we went up to the Smokeys. Which was just absolutely fantastic.|sd|3293
+A|Oh.|b|3293
+A|Oh, I bet it was.|ba|3293
+A|Around Gatlinburg, or somewhere up in there?|qy^d|3293
+B|Uh-huh.|ny|3293
+B|Uh-huh,|ny|3293
+B|uh-huh.|ny|3293
+B|And along the, uh,|%|3293
+B|there's a ridge that goes down from Tennessee through, uh, Georgia and into Alabama|sd|3293
+A|Well, now did you all sleep in sleeping bags|qy|3293
+A|and did it get real cold at night,|qy|3293
+A|or,|%|3293
+B|It got real cold,|na|3293
+B|but the, uh, camper had, uh, beds in it, you know when we had that one,|sd|3293
+A|Oh, yeah.|b|3293
+B|and, uh, so we just, you know, we had our bedding.|sd|3293
+B|We didn't have to go with sleeping bags.|sd|3293
+B|But the when I was a, a teenager and growing up, that was sleeping bags and joining blankets and sleeping on ledges or, you know ground|sd|3293
+A|Uh-huh.|b|3293
+A|Uh-huh.|b|3293
+B|And, uh, that got kind of rough sometimes|sd|3293
+A|Well, we only did that once.|sd|3293
+A|Now since we've been married, we just go, uh, we go real often to Colorado to the mountains,|sd|3293
+A|but we'll stay in cabins. And, you know, call that going camping,|sd|3293
+B|Oh, do you?|qy|3293
+B|Oh, uh-huh.|ny|3293
+A|but we're really not.|sd|3293
+A|But, the one time that I did go camping when I was about, I guess sixteen or seventeen with my family,|sd|3293
+B|Oh, uh-huh.|b|3293
+B|Oh.|b|3293
+A|And at night it was so cold, you thought you'd never feel your, feet again.|sd|3293
+A|And the smell,|sd|3293
+A|and the stars were just five feet above you.|sd|3293
+A|You know, they were just right there.|sd|3293
+B|Oh, just beautiful.|ba|3293
+A|And it was the most bonding, most wonderful time.|sd|3293
+A|We enjoyed it.|sd|3293
+A|But about the fourth day, I thought, if I don't get a hot tub and shave my legs, I'm going to die|sd|3293
+B|Yes.|b|3293
+A|And I had I, I got enough of it right then.|sd|3293
+B|Yes,|b|3293
+B|I understand that|ba|3293
+A|So, when we can go to a cabin as long as we've got running water I'm a little bit better off.|sd|3293
+B|But, yeah|b|3293
+B|my husband and I, his, he says his idea now of roughing it is the Regency Hyatt.|sd|3293
+A|I know that .|sd|3293
+B|And I, I agree with him.|sd|3293
+A|I agree with him, too.|sd|3293
+B|Our children are, are grown,|sd|3293
+B|but I know that we liked it when our kids were teenagers because we got away from the T V and the phone.|sd|3293
+A|Well, that's true.|ba|3293
+A|Uh-huh.|b|3293
+B|And we got just strictly by ourselves.|sd|3293
+B|We, uh,|%|3293
+B|some of the time we would not allow them to take friends along so that it was just the four of us.|sd|3293
+A|Uh-huh.|b|3293
+B|And, you know, and we could, you know, get back in touch with each other|sd|3293
+A|Well, that, that's,|%|3293
+A|And they can't believe that they could survive it.|sd|3293
+A|And then once they're there they, they think it's kind of cool.|sd|3293
+B|Oh, I know.|ba|3293
+B|I know.|ba|3293
+B|Oh, they just, you know, they just thoroughly enjoy it. You know.|sd|3293
+A|Yeah.|b|3293
+A|Yeah.|b|3293
+A|And we hike, we would hike all day.|sd|3293
+A|Mom did the whole, uh, pork and beans and, you know, the slice the potatoes and fry them outside and all the little stuff that we just were so amazed that she knew how to do|sd|3293
+B|Yes,|b|3293
+B|yes.|b|3293
+A|You know, couldn't believe,|sd|3293
+B|Yes,|b|3293
+B|like I, I know that, you know, breakfast, we would, you know, we'd have these big breakfasts cooked over this little Coleman stove|sd|3293
+A|Oh, yeah,|b|3293
+A|with bacon.|^2|3293
+B|and, Yes,|b|3293
+A|Oh, yeah.|b|3293
+B|and it would just absolutely taste wonderful.|sd|3293
+A|And, and daddy would always try to prove he could catch fish for breakfast|sd|3293
+B|Yes|b|3293
+A|so we usually had a bite apiece|sd|3293
+A|One.|sd|3293
+B|One,|sd|3293
+B|yes,|b|3293
+B|yes.|b|3293
+A|One.|sd|3293
+B|But, I know that we, you know, as a teenager growing up and going to Lake Murray, there would be oh, maybe twenty, twenty-five of us because it would be all of my mother's family, you know, and all my cousins.|sd|3293
+A|Oh, my goodness.|ba|3293
+B|And it,|%|3293
+A|Well, now, is that hot camping.|sd|3293
+A|Is that where you're, you're hot, like on a beach,|sd|3293
+A|I mean, is that,|%|3293
+B|Oh, no.|ba|3293
+A|Because a lot of our friends will,|sd|3293
+B|We were in the, we were in the woods, you know.|sd|3293
+A|Well, a lot of our friends in east, will go to east Texas in the summer and camp|sd|3293
+A|and I'm thinking, how could you stand it, you know|sd|3293
+A|you,|%|3293
+B|Well, we didn't notice it back then,|sd|3293
+B|but that was back before air-conditioning was so you know, prevalent and all.|sd|3293
+A|Yeah.|b|3293
+A|Yeah.|b|3293
+A|Yeah,|b|3293
+A|yeah,|b|3293
+A|that's true.|ba|3293
+A|We didn't,|%|3293
+B|And, uh, you know, it, it always rained on us.|sd|3293
+B|I don't care what weekend, we went and when it was, it always rained on us.|sd|3293
+A|But, I like that,|sd|3293
+A|and see, especially in the tent every afternoon it would rain|sd|3293
+B|Uh-huh.|b|3293
+B|Uh-huh.|b|3293
+A|and you would get your book and just kind of cuddle up.|sd|3293
+B|Cuddle up, uh-huh.|b|3293
+A|And I thought that was fun.|sd|3293
+B|Well, I don't know,|h|3293
+B|I remember one time, uh, some cousins were in a tent|sd|3293
+B|and, it was married cousins,|sd|3293
+B|and they, they had the tent|sd|3293
+B|and this, you know, frog strangler that we used to call them, came through|sd|3293
+B|and they had put their tent over kind of,|sd|3293
+B|I don't know what,|sd|3293
+B|it wasn't a creek bed,|sd|3293
+B|it was like, kind of like a little, little, uh, gully or trench or something,|sd|3293
+A|Uh-huh.|b|3293
+B|and the water rushed down|sd|3293
+B|and they said they looked down and there went Bud's boots|sd|3293
+A|Oh, no.|ba|3293
+B|and, you know There went several things floating down this water, you know.|sd|3293
+A|Oh, no|ba|3293
+B|We just used to have balls.|sd|3293
+A|Golly|ba|3293
+B|You know, it was, it was more fun.|sd|3293
+B|You know, and, as I said, it just rained every time.|sd|3293
+A|Well,|%|3293
+B|And then my folks had a cabin at one time at Lake Tenkiller|sd|3293
+B|and we went up there,|sd|3293
+B|but it was never quite the same thing. You know.|sd|3293
+A|Yeah.|b|3293
+A|Well, yeah,|aa|3293
+A|I understand that, too, because some of the places we,|sd|3293
+A|in fact, the, the more urban we get with the television and the cabin and the whole bit, it loses it's flavor.|sd|3293
+B|Yes,|aa|3293
+B|yes,|aa|3293
+B|it does.|sd|3293
+A|So,|%|3293
+B|It really does. Uh,|aa|3293
+A|Well, I've, I've gotten in the mood to go now|sd|3293
+B|Yeah|b|3293
+B|Yeah,|b|3293
+B|even I would kind of like to go.|sd|3293
+A|Yeah|b|3293
+B|And I know if I go home and say, oh, let's go camping, my husband says, you're crazy|sd|3293
+A|I,|%|3293
+A|You're crazy|b^m|3293
+A|Well, listen, I enjoyed talking with you.|fc|3293
+B|I enjoyed talking to you, too.|fc|3293
+A|Okay.|fc|3293
+A|Have a good day.|fc|3293
+B|Thank you.|fc|3293
+B|Bye-bye.|fc|3293
+A|Bye-bye.|fc|3293

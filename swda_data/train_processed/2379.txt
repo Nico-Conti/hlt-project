@@ -1,0 +1,185 @@
+A|So, uh, tell me about changes from say twenty years ago, since you were an adult, twenty years ago.|ad|2379
+B|Well, let's see, well, we assume I was an adult twenty years ago, Um,|sd|2379
+A|Well, you're, you're able to, you're able to, uh, vote and go to war and things like that|sd|2379
+A|so,|%|2379
+B|Yeah,|arp_nd|2379
+B|definitely able to go to war twenty years ago but not vote.|arp_nd|2379
+A|Oh, that's right,|sd|2379
+A|that's one of the changes|sd|2379
+B|Not vote.|sd|2379
+B|That was one of the changes that came about in the last twenty years.|sd|2379
+B|Um, yeah,|%|2379
+B|twenty years ago is nineteen seventy,|sd|2379
+B|uh, nineteen seventy I had been married two years.|sd|2379
+A|Uh-huh.|b|2379
+B|Um, we had all the great civil rights legislation of nineteen sixty-eight,|sd|2379
+A|Uh-huh.|b|2379
+B|And, uh, around here on the, uh, east coast, uh, we were heavy into affirmative action.|sd|2379
+A|Uh-huh.|b|2379
+A|Yes.|b|2379
+A|Uh-huh.|b|2379
+A|Uh-huh.|b|2379
+A|Uh-huh,|b|2379
+A|uh-huh.|b|2379
+A|Uh-huh.|b|2379
+A|Uh-huh.|b|2379
+B|Uh, the problem was that my hair was too long.|sd|2379
+A|Uh-huh.|b|2379
+B|and, uh, you weren't allowed to have a, uh, mustache or a beard, if you wanted to get ahead with the company,|sd|2379
+A|Uh-huh,|b|2379
+A|uh-huh.|b|2379
+A|Uh-huh.|b|2379
+A|Uh-huh.|b|2379
+B|well if you were a, uh, black female you were destined to be store manager in six to nine months,|sv|2379
+B|if you were white male you're talking six years.|sv|2379
+A|Huh.|b|2379
+B|And that's basically where I ended up.|sd|2379
+A|Uh-huh,|b|2379
+A|uh-huh.|b|2379
+A|And is the company now, uh, well represented, uh, demographically, at the higher echelons?|qy|2379
+B|Um,|%|2379
+A|Did it work?|qy|2379
+B|I think so,|na|2379
+B|I, I, I, I stopped working for them in, uh, seventy-eight, seventy-nine.|sd|2379
+A|Uh-huh.|b|2379
+B|And, uh, it's,|%|2379
+B|I think they're, they're like all companies, well represented.|sv|2379
+A|Uh-huh.|b|2379
+B|And, uh, you know, everything seems to be fine.|sv|2379
+A|Uh-huh.|b|2379
+B|I, I've kind of lost touch with the company,|sd|2379
+B|we had a falling out,|sd|2379
+A|Uh-huh,|b|2379
+A|uh-huh.|b|2379
+B|but, uh, as far as, uh, as their management goes, um, I'm not sure they're any, any better off than they were, were before management wise.|sv|2379
+A|Uh-huh.|b|2379
+B|But, uh, other changes, um, just people seem to be more outspoken now individually, rather than collectively.|sv|2379
+A|Uh-huh.|b|2379
+B|Um, back in the seventies we had, uh, a lot of, uh, protests against the war, and, uh, bring our troops home|sd|2379
+B|and things were, more organized.|sv|2379
+A|Uh-huh.|b|2379
+B|And, uh, I've noticed, that now, more and more individual people are speaking out for their own rights rather than massing together.|sv|2379
+A|Uh-huh,|b|2379
+A|uh-huh.|b|2379
+B|Um,|%|2379
+B|Yeah,|b|2379
+B|I'm not sure if that was because, you know, eighties was like the, uh, the me decade.|sv|2379
+A|The me decade.|b^m|2379
+A|Uh-huh.|b|2379
+B|And, uh, everybody was into me,|sv|2379
+B|and then we are getting back into us.|sv|2379
+B|But, um, it, it, it's|%|2379
+B|I've seen, uh, uh, a great deal of change as far as, um, corporate responsibility and things, um,|sd|2379
+A|Uh-huh,|b|2379
+A|uh-huh.|b|2379
+B|and, people's response to that, you know, at first not trusting and now, expecting more.|sv|2379
+A|Uh-huh,|b|2379
+A|uh-huh.|b|2379
+B|And what what about the last ten years that you've been aware.|qw^d|2379
+A|Well, that I've been aware of, I've,|sd|2379
+A|at least in my own circles I've been aware of an increasing from my generation,|sd|2379
+A|I don't know if I can quite call myself a distinct generation from you,|sd|2379
+A|but half generation off, I guess.|sd|2379
+A|Um, I've noticed, uh, a certain increase, um, pessimism with America no longer being sort of on top.|sv|2379
+A|I had the impression,|sd|2379
+A|well, I mean, there was the quote, unquote losing of the Vietnam war, which was a blow,|sd|2379
+A|and it was right around that time when I started becoming socially, you know, a socially conscious adult.|sd|2379
+A|And, I realize that people of my age have no, um, no major success in the sense that, uh, you saw the passage of the Civil Rights Act, and, um, major social change in that sense,|sd|2379
+A|and I,|%|2379
+A|and all the changes that have happened in the last, uh, even during my adulthood, have been more incremental.|sv|2379
+A|They've been continual perhaps and good gains have been made,|sv|2379
+A|but there hasn't been the same sort of fiery speeches of Martin Luther King or whatever, that has really, uh, galvanized the population.|sd|2379
+A|And there's just,|%|2379
+A|instead there's been sort of an increasing, oh, I don't know, Japan bashing and things like that.|sv|2379
+B|Uh-huh.|b|2379
+A|And, uh, a lot of,|%|2379
+A|I see among some of my friends and even more among some of my students, who are, you know, maybe twenty, a real sense of, you know, America's losing it.|sv|2379
+B|Yes.|aa|2379
+A|And losing it in the competitive market,|sv|2379
+A|and a real uh,|%|2379
+A|a lack of understanding how that could be. In the sense that how could America have gone from being number one, to possibly being number two,|qh|2379
+A|to,|%|2379
+A|you know, our former enemies and things like that|sd|2379
+A|and, uh, so I see, I see a lot of, uh, a lot of pessimism growing,|sv|2379
+A|um, and at the same time I think there's, there's, there's a growing environmentalist movement and sense of corporate increased corporate responsible towards, uh, you know, environmental safety and things like that.|sd|2379
+A|And that might potentially be sort of the civil right, the equivalent of the Civil Rights Act in, in the near future, in terms of, you know, some real landmark bills passing and things like that.|sv|2379
+A|Such that, you know, people.|%|2379
+A|The thing about civil rights is people take it for granted now.|sv|2379
+A|I mean my generation doesn't, can't rest on the, the glow of having achieved civil rights because we were born into an assumption that, you know, yes there's still some racism|sv|2379
+A|but, you know, basically things are,|sv|2379
+A|the assumption, things are basically kind of taken care of|sv|2379
+A|and there's a notion of fairness.|sv|2379
+B|Yes.|aa|2379
+A|That's, um,|%|2379
+A|while still far from perfect, is much more established, I think.|sv|2379
+B|But even, uh, I think, uh, along the line of the, uh, goals of civil rights, um, there always seems to be some prejudice to someone by anyone.|sv|2379
+A|Uh-huh.|b|2379
+A|Oh, of course|aa|2379
+B|I mean, you know|%|2379
+A|It's human nature|sv|2379
+B|You know, don't like the way you look, don't like the way you dress, don't like your hair, don't like, you know it's just something that always sets people off.|sv|2379
+B|You know, you either like someone or you don't like someone or you're just completely indifferent|sv|2379
+A|Yeah,|b|2379
+A|yeah|b|2379
+B|And the problem is that ideally you they, you know, the world would like you to be completely indifferent.|sv|2379
+B|So, um, but I, I, I understand what you say about the environmental movement,|sd|2379
+B|um, it's, it's been a long time coming,|sv|2379
+A|Uh-huh.|b|2379
+A|Yeah,|b|2379
+A|yeah.|b|2379
+B|And I, I just,|%|2379
+B|I've seen a lot of changes, I mean, from the original earth day|sd|2379
+A|Uh-huh.|b|2379
+B|and, um, I'm heavily involved in, you know, my own personal recycling.|sd|2379
+B|We recycle paper,  and cans here at work|sd|2379
+A|Uh-huh,|b|2379
+A|uh-huh.|b|2379
+B|and, you know, I do the newspaper and cardboard and paper and, you know, all that stuff at home|sd|2379
+A|Uh-huh,|b|2379
+A|uh-huh.|b|2379
+B|and I'm starting to see more and more recycling centers, cropping up all over the place here, on the, east coast,|sd|2379
+A|Uh-huh.|b|2379
+A|Right.|b|2379
+A|And that's a real change, except it sort of, brings back to the nineteen forties more than anything else|sd|2379
+B|Yeah,|b|2379
+B|like,|%|2379
+A|I mean, all this recycling used to be in tact, *typo in tact should be 'intact' or not all of it,|sv|2379
+B|Yeah.|b|2379
+A|but much of it did.|sv|2379
+A|I mean, recycling was a, was a wartime thing.|sd|2379
+B|And then they turned around and called them junkyards, and,  started making profits off,  them after the war.|sd|2379
+A|Yes.|aa|2379
+A|Yes|aa|2379
+B|And now we got to the point where the junkyards, you've got to pay them to take something there,|sd|2379
+A|Uh-huh.|b|2379
+B|so, things have really changed a lot.|sv|2379
+B|I think the, uh, the other part about, uh, America's decline I think has to do with,|sv|2379
+A|A perceived decline anyway, yeah.|aap_am|2379
+B|yeah,|b|2379
+B|the perceived decline, has to do with, uh, um, the attitudes and the educational system, uh,|sv|2379
+B|I have children in, in, I have three children in school right now,|sd|2379
+B|and I'm not impressed with the teachers that are teaching them.|sd|2379
+B|Uh, I had,|%|2379
+B|when I was down in Dallas for two years, I had, uh, my children come home from school with papers that were corrected by the teacher that had words spelled correctly marked wrong, and words spelled wrong not marked as such.|sd|2379
+A|Uh-huh.|b|2379
+A|Yeah.|b|2379
+B|And this person's teaching my children?|qy|2379
+A|Uh-huh.|b|2379
+B|You know, I had a real problem with that.|sd|2379
+A|Yeah.|b|2379
+A|Well, I'd, I'd say actually I mean as someone who's involved in education I'd say that maybe one of the changes is that the, role of the teacher has incrementally gotten lower and lower value and society.|sv|2379
+A|I mean, relative pay which is a major way we value people, has been poorer and poorer over the years.|sv|2379
+A|Uh, you know, that|%|2379
+A|there's been cost of living increases|sd|2379
+A|but not quite in proportion to cost of living|sd|2379
+A|and, you know it's just more and more, uh, a real low income sort of job and very low prestige.|sd|2379
+A|I mean, there's that, that old saying those who can do it and those who can't teach,|sd|2379
+A|this is the way of let's make fun of the teachers those are the people who can't do anything.|sv|2379
+B|Yeah.|b|2379
+A|And if you have that kind of social attitude it's hard to get sufficient numbers of people who are going to overlook all of that work for lower pay, work for low social prestige, just because they care about good education.|sv|2379
+B|Yeah.|b|2379
+A|And you get more and more people and up there because it's, uh, it's the safety net of those of, you know, average intelligence or something, they can always teach.|sv|2379
+B|Um, I'm not sure if your familiar with the movement they have here in Maryland,|qy^d|2379
+B|but they're trying to get a, uh, a, uh, a merit system here in Maryland rather than a, uh, tenure system,|sd|2379
+A|Uh-huh.|b|2379
+A|Uh-huh.|b|2379

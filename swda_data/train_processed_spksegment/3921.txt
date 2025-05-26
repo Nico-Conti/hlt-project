@@ -1,0 +1,123 @@
+A|Okay.|fo_o_fw_"_by_bc|3921|0
+B|Well, are you a fisher person, are you?|qy|3921|1
+A|Yes,|ny|3921|0
+A|I love to fish.|sd|3921|0
+B|Great.|ba|3921|1
+B|What kind of fishing do you do?|qw|3921|1
+A|Well, it's mostly from the rivers and lakes.|sd|3921|0
+B|In California?|qy|3921|1
+A|And, yes,|ny|3921|0
+A|and from the banks.|sd|3921|0
+A|I don't like to go out on boats.|sd|3921|0
+B|Oh.|b|3921|1
+B|Well, what kind of fish do they have in your neck of the woods?|qw|3921|1
+A|Well, it, uh,|%|3921|0
+B|Uh-huh.|b|3921|1
+B|Oh.|b|3921|1
+A|But, I like it all except, uh, really I don't, I don't really care that much for the trout.|sd|3921|0
+A|I think I had rather have a catfish than I would a trout|sd|3921|0
+B|Well, I, I don't blame you.|sd|3921|1
+B|I grew up in Nebraska and, uh, grew up fish, cat fishing in the Little Blue River|sd|3921|1
+B|and then, uh, we moved to, uh, South Dakota and, uh, did a lot of Walleye fishing on the Missouri River|sd|3921|1
+A|Uh-huh.|b|3921|0
+B|and, uh, now that we are down here, I think a lot of people do some, uh, bass fishing and strip bass fishing|sd|3921|1
+B|but, uh, I still, uh, I am sort of a catfish man at heart.|sd|3921|1
+A|See. Well, uh, like in, uh, Iowa and Nebraska, those little bullheads, they look just like catfish, huh?|qy|3921|0
+B|Yep.|ny|3921|1
+B|Yeah,|ny|3921|1
+B|they do.|sd|3921|1
+A|You know that's what I mean cause I am from Iowa.|sd|3921|0
+B|Oh.|b|3921|1
+A|And, uh, you know, we use to catch those little bullheads|sd|3921|0
+A|and that's,|%|3921|0
+A|they look just like baby catfish.|sd|3921|0
+B|Yeah.|b|3921|1
+A|You know, uh, did you get to go fishing very often?|qy|3921|0
+B|Oh yeah.|ny|3921|1
+B|I like to fish.|sd|3921|1
+B|The only problem is I just moved to Texas|sd|3921|1
+B|so it's been a little over a year now|sd|3921|1
+B|but, uh I, I am not quite sure what residency is for a fishing license here|sd|3921|1
+A|Uh-huh.|b|3921|0
+B|and I, so really I haven't gone fishing for about two years now|sd|3921|1
+A|Uh-huh.|b|3921|0
+B|and it's driving me crazy|sd|3921|1
+B|but, uh, one of these days, I will go over to, uh, Lake Lewisville or, uh, what is it, uh Ray Hubbard, Lake Ray Hubbard and get some fishing in and get it out of my system for a while|sd|3921|1
+A|Uh-huh.|b|3921|0
+A|Well, uh, you like to eat them after you catch them?|qy|3921|0
+B|Well, yeah,|ny|3921|1
+B|sure.|sd|3921|1
+A|Because there's are a lot of people that like to go fishing,|sv|3921|0
+B|Well|%|3921|1
+B|Yeah.|b|3921|1
+B|Most of the time, uh, if we catch something, we'll take it home and eat it.|sd|3921|1
+B|Uh, and you're right.|aa|3921|1
+B|I mean I like to fish for trout|sd|3921|1
+B|and they are really, uh, uh, good fighters|sd|3921|1
+B|but, uh, if I went to a restaurant that probably wouldn't be the first thing I would order if I had a choice of fish on the menu.|sd|3921|1
+A|Yeah,|b|3921|0
+A|I know.|ba|3921|0
+B|Yeah.|b|3921|1
+B|Well, uh, so, do you just, uh, uh, skin your catfish|qy|3921|1
+B|or do you fillet them out,|qrr|3921|1
+B|how do you, how do you,|qw|3921|1
+A|We, uh, skin them.|sd|3921|0
+B|Do you?|^g|3921|1
+A|Yeah.|ny|3921|0
+B|Okay.|bk|3921|1
+A|Yeah,|b|3921|0
+A|yeah.|b|3921|0
+A|Just cut their heads off and skin them|sd|3921|0
+A|and then I just, uh, flour them, salt and pepper them and cook them.|sd|3921|0
+B|Yeah.|b|3921|1
+A|I don't put that corn meal on them.|sd|3921|0
+B|No.|nn|3921|1
+A|You know, uh, that's the way my mother taught me to fry them|sd|3921|0
+A|so|%|3921|0
+B|Well, that's how we do it too.|sd|3921|1
+B|Uh, although we, uh, use to set some, uh, trout lines out|sd|3921|1
+B|and we've caught, you know, fourteen, fifteen pound catfish|sd|3921|1
+B|and sometimes those are good to, uh, do on a barbecue grill and just leave the skin on and, uh, do it with, uh, butter on, uh, on, on tin foil|sd|3921|1
+A|Uh-huh.|b|3921|0
+A|Uh-huh.|b|3921|0
+A|Uh-huh.|b|3921|0
+B|and then the skin just basically scrapes right off|sd|3921|1
+B|and, uh,|%|3921|1
+B|and it really tastes pretty good.|sd|3921|1
+A|Yeah.|b|3921|0
+A|Well you know, I don't think I've ever tried cooking those, uh, catfish quite that big.|sd|3921|0
+B|There, uh,|%|3921|1
+A|Uh, most of them are just the small, you know, pan frying ones.|sd|3921|0
+B|Yeah.|b|3921|1
+A|So, uh,|%|3921|0
+B|Well, I am hoping one of these days I'll have the opportunity to catch a big catfish like that on, uh, a rod and reel|sd|3921|1
+B|but, uh so far it's just been on, uh, on the trout lines|sd|3921|1
+A|Um.|b|3921|0
+B|so,|%|3921|1
+A|Wouldn't that be something?|qy|3921|0
+B|Yeah.|ny|3921|1
+B|Yeah.|ny|3921|1
+B|And, uh, well up in, uh, South Dakota on the, in the Missouri River there we've, uh, tied into a few northern pike|sd|3921|1
+B|and, uh, they really, uh,|%|3921|1
+B|in, in,|%|3921|1
+B|when the water is cold, they are very slow moving fish,|sd|3921|1
+B|but in the summer time, they'll, uh, give you a run for your money.|sd|3921|1
+A|Uh-huh.|b|3921|0
+A|So when you were,|sd|3921|0
+A|when you did go fishing where did you go?|qw|3921|0
+A|You moved there from where?|qw|3921|0
+A|Nebraska?|^g|3921|0
+B|Uh-huh.|ny|3921|1
+B|Yeah.|ny|3921|1
+A|So, it was just like the rivers and, uh, the lakes I suppose, huh?|qy^d|3921|0
+B|In, In Nebraska?|qy|3921|1
+A|Yeah.|ny|3921|0
+B|Uh, yeah.|ny|3921|1
+B|Most of the time, uh, we just fished, uh, in the river although there were a lot of sand pits and things like that, that we could fish in.|sd|3921|1
+A|Uh-huh.|b|3921|0
+A|Uh-huh.|b|3921|0
+B|And a lot of them ended up being close to the river,|sd|3921|1
+B|so if the river every, uh, flooded, you know, then obviously they would dump some catfish and bass and stuff into the into the ponds and the sand pits|sd|3921|1
+A|Uh-huh.|b|3921|0
+B|and so we would do a lot of fishing there too|sd|3921|1
+B|but, uh, South Dakota didn't really have much for,|sd|3921|1

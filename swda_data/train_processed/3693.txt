@@ -1,0 +1,122 @@
+A|Nancy, do you have any children?|qy|3693
+B|Yes,|ny|3693
+B|I have a twelve year old,|sd|3693
+B|and I've been very lucky.|sd|3693
+B|I haven't needed child care except for my mom.|sd|3693
+B|So I've been real lucky.|sd|3693
+A|Oh.|b|3693
+B|I'm a nurse,|sd|3693
+B|I go to school, I mean, I go to work early,|sd|3693
+B|so my mom comes over in the morning and gets her ready for her school or just hangs by while she gets ready|sd|3693
+A|Well, that's nice.|ba|3693
+B|drives her to school,|sd|3693
+B|then I'm home to pick her up.|sd|3693
+B|So I'm very, very lucky|sd|3693
+A|That is lucky.|ba|3693
+A|Well, how old, um, does a child have to be before you have to, you get to stop making arrangements for him, I wonder.|qw^d|3693
+B|Well, I could do it now.|sd|3693
+A|Uh-huh.|b|3693
+B|But she gets lonely in the morning,|sd|3693
+A|Uh-huh.|b|3693
+B|and I feel better.|sd|3693
+B|Um, she has a crazy father out there somewhere that I just don't let her out of my sight.|sd|3693
+B|So, um  you never know.|sd|3693
+A|Well, and, um, it's nice for them  not to be alone.|sv|3693
+B|Yeah,|aa|3693
+B|yeah,|aa|3693
+B|she feels that way, you know,|sd|3693
+B|and we have a neighbor on the next block that she could always walk over there and go to school with,|sd|3693
+A|Uh-huh.|b|3693
+B|but we just feel better doing it this way.|sd|3693
+B|So.  I don't know what day we'll stop.|sd|3693
+A|Not after|ba|3693
+B|We, we were about to stop one day this year,|sd|3693
+B|and then her father called the school and made all kinds of threats,|sd|3693
+B|and so we didn't stop.|sd|3693
+A|Oh, no.|ba|3693
+B|And so, so, um, you know, you realize that it only takes one second for something to happen.|sv|3693
+B|So even though she's twelve, she's still a kid,|sd|3693
+A|Yeah.|b|3693
+B|so you got to be careful|sv|3693
+A|She is.|ba|3693
+A|Well, I'm glad you have that, um, opportunity to have your mom.|ba|3693
+B|Yeah,|aa|3693
+B|I'm, I'm glad too|sd|3693
+A|Well, I, I have two kids and, uh, five and six, a girl and a boy,|sd|3693
+B|Uh-huh.|b|3693
+A|and, um, so far I haven't had to make a lot of child care arrangements for them because, um, I'm at home now full time.|sd|3693
+B|Uh-huh.|b|3693
+A|But, um, when I was going to school, I would go to school a time that my husband wasn't, you know, when he was at home|sd|3693
+B|Yeah.|b|3693
+A|so that we would just switch back and forth like that.|sd|3693
+A|But, um, it's really scary,|sv|3693
+A|and I would really hate to be in a position to have to find child care|sd|3693
+B|Well, I would, too, because even though a place can look pretty good on the outside, we're finding out now that it's not always on the inside|sd|3693
+A|Uh-huh.|b|3693
+B|and I, I just don't know what I would do if  I had to do that.|sd|3693
+A|No.|aa|3693
+B|I know the hospital that I work in is a big hospital|sd|3693
+B|and they provide child care,|sd|3693
+B|and of course they charge for it|sd|3693
+A|Uh-huh.|b|3693
+B|but at least all the nurses can leave their children,|sd|3693
+B|and they're always watching them,|sd|3693
+B|they can eat lunch with them,|sd|3693
+B|if they feel sick they can call them at work and they run over and check on them,|sd|3693
+B|and they feel a little better than if they dropped them off somewhere on the way. Yeah, *aa Well that's right. *aa|sd|3693
+A|Oh.|b|3693
+A|Well, that's nice.|ba|3693
+A|And I know that I have, um, done some babysitting myself,|sd|3693
+A|and, uh,|%|3693
+A|when I was in school and needed extra money.|sd|3693
+A|And I know how I feel, how I felt as a provider of child care that, even though you're, you're taking care of someone else's child and you're forcing yourself to, you know, treat them equally and, you know, better, usually, better than your own|sv|3693
+A|um, it's not the same,|sv|3693
+A|and it made me realize that, um, no one will love your child as much as you and your mother, your and, um, the family|sv|3693
+B|Yeah,|aa|3693
+B|right.|aa|3693
+A|and no one will look out, after them,|sv|3693
+A|and I just think, um, so far I think my preference would be rather than to have like a, oh, a big day care|sd|3693
+A|that, um, what is that like, child, Kinder Care and things like that,|sd|3693
+B|Right.|b|3693
+A|rather than having one where they would deliver the children to school in a van or something,|sd|3693
+A|I would prefer to have in home care, either my own home or a neighbor or something.|sd|3693
+B|Yeah.|b|3693
+B|Yeah.|aa|3693
+B|Just never know.|aa|3693
+B|I babysat for the little girl next door for a year or so when her parents first got divorced,|sd|3693
+B|and it was hard to treat her equally with my child.|sd|3693
+A|Uh-huh.|b|3693
+B|They were the same age,|sd|3693
+B|and they played together,|sd|3693
+B|and they were good friends,|sd|3693
+B|but like you said, you tend to go more for the other one's side just because you are responsible|sv|3693
+A|Right.|aa|3693
+B|and so it, it got hard,|sd|3693
+A|It is hard.|bf|3693
+B|my daughter got jealous|sd|3693
+B|and, um, it just wasn't the same as when they were just playing as friends, because she had to be there every day.|sd|3693
+A|No.|b|3693
+B|So I stopped that after a year, because it was difficult to balance it,|sd|3693
+A|No.|b|3693
+B|so.|%|3693
+A|And I know, um, when I pick my kids up from school they want to come home.|sd|3693
+A|And I  and I would hate for them to have, be picked up by a day care and be taken to another large group situation.|sd|3693
+B|They do.|ba|3693
+B|Uh-huh.|b|3693
+B|Uh-huh. Yeah. *b|b|3693
+A|So I think, uh, my preference would be a small, small, if I had to find day care would be a small, someone that I knew|sd|3693
+B|Yeah, and I know that some parents, they both do have to work, *sd|b|3693
+A|Uh-huh.|b|3693
+B|but a lot of people where I live are working just because they want bigger and better,|sd|3693
+B|and I would never do that.|sd|3693
+A|No.  in the day.|aa|3693
+B|I never have done it,|sd|3693
+B|and I just never would do it.|sd|3693
+B|I would rather do without some things that really aren't very important compared to being with my child when they're growing up.|sd|3693
+B|So.|%|3693
+B|No  there isn't,|aa|3693
+B|there isn't any time,|aa|3693
+B|that's true.|aa|3693
+A|And, uh, by the time they have to eat and have homework and they want some free time,|sv|3693
+A|and, there's just not enough to, time in the day to do anything good quality for them,|sv|3693
+A|but that's really,|%|3693

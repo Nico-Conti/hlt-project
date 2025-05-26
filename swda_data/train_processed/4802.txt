@@ -1,0 +1,112 @@
+A|Okay.|fo_o_fw_"_by_bc|4802
+A|Uh, read any good books lately?|qy|4802
+B|Uh, yes,|ny|4802
+B|I, I've read, uh, several good books lately.|sd|4802
+B|Uh, lot of them related to, uh, business and financial matters since that's what I do for a living.|sd|4802
+A|Oh, okay.|bk|4802
+A|Uh-huh.|b|4802
+B|How about yourself?|qo|4802
+A|Uh, well I'm in graduate school|^h|4802
+A|and so I read a lot of books|na|4802
+A|but I don't know if I consider very many of them good|sd|4802
+A|Uh, I haven't read a book for enjoyment since, I guess, around Christmas.|sd|4802
+A|Uh, I received, uh, uh, several books for Christmas|sd|4802
+A|and at Christmas break I read, uh, SARUM by, uh, uh, a fellow named Rutherford.|sd|4802
+B|Yes.|b|4802
+A|Uh, it's the history of, uh,|sd|4802
+A|well it's sort of the the historical fiction about, uh, the Salisbury area in, in England.|sd|4802
+B|Uh-huh.|b|4802
+A|And so, I, I really enjoyed that book a lot.|sd|4802
+A|Uh, he's not quite as good as, you know, Michener or some of, uh, some of the other historical writers.|sd|4802
+A|But he, he did this job well,|sd|4802
+A|so.|%|4802
+B|Well, that sounds good.|ba|4802
+A|Yeah.|b|4802
+A|Uh, do you find do you find you have much chance to read for, for just pleasure or mostly for business?|qy|4802
+B|No,|nn|4802
+B|I read for pleasure some also.|sd|4802
+B|I read a book recently called IRON JOHN.|sd|4802
+A|Uh-huh.|b|4802
+B|Have you seen that by Bly?|qy|4802
+A|I don't think I have seen it.|ng|4802
+B|Okay.|bk|4802
+B|Well it's a book about, uh, uh, Greek gods and, and Greek, uh, mythology as well as, uh, man and interacting with other men and a book about, uh, men and how they mature through life.|sd|4802
+A|Uh-huh.|b|4802
+A|Uh-huh.|b|4802
+A|Oh.|b|4802
+B|And how they deal with life itself|sd|4802
+A|Okay.|b|4802
+A|I think I have heard about that.|sd|4802
+A|Yeah.|%|4802
+A|Uh-huh.|b|4802
+A|Uh-huh.|b|4802
+A|Uh-huh.|b|4802
+A|Yeah,|b|4802
+A|that sounds great.|ba|4802
+A|Did, did it have something to mention about, uh, sort of, uh, cultural rituals of, of manhood?|qy|4802
+B|Yes.|ny|4802
+A|Okay.|b|4802
+A|Yeah,|b|4802
+A|I have heard of that.|sd|4802
+A|I have, uh, someone suggested that I read it.|sd|4802
+A|Is it IRON JOHN?|qy|4802
+B|Yes.|ny|4802
+A|Okay.|bk|4802
+A|Good.|ba|4802
+B|By Bly,|sd|4802
+B|B L Y, I believe it is.|sd|4802
+A|B L Y?|br|4802
+B|Uh-huh.|ny|4802
+A|Okay.|bk|4802
+A|Great.|ba|4802
+B|And, uh, it's a very interesting book.|sd|4802
+A|Uh-huh.|b|4802
+A|Uh, what are your favorite, uh,|qw|4802
+A|do you have a favorite subject to read, whether it be science fiction or, or history|qy|4802
+A|or,|%|4802
+B|Well, it depends again if we're talking about uh,|^h|4802
+A|Uh-huh.|b|4802
+A|Uh-huh.|b|4802
+B|And I read a lot of books in the area of, uh, uh, psychology and self-help type, uh, materials.|sd|4802
+A|Okay.|b|4802
+B|Uh, always trying to understand people better and understand myself in relation to other people and try to understand where the people are coming from because I'm in a people business.|sd|4802
+A|Uh-huh.|b|4802
+A|Okay.|b|4802
+B|And, uh, so that, that's,|%|4802
+B|my work is my hobby|sd|4802
+A|Uh-huh.|b|4802
+A|That  sounds great|sd|4802
+B|So I, I enjoy it.|sd|4802
+A|Uh, who is your, whose your favorite religious author?|qw|4802
+B|Well, I don't know if I have a favorite uh, religious author.|sd|4802
+A|Uh-huh.|b|4802
+B|I would have to say that, uh, some of the ones that consistently put out good materials, uh, you know,|sd|4802
+B|that, that's difficult because one person might write one book extremely well and some other ones might not write as well.|sv|4802
+A|Uh-huh.|b|4802
+B|Uh, I had to stop here and think a second.|^h|4802
+B|One of the ones that I've read recently that I've read several of his books|sd|4802
+B|and I thought that each one of his books were good.|sd|4802
+B|He's the man out of San Antonio.|sd|4802
+B|And, uh,|%|4802
+A|Max Lucado?|qy|4802
+B|Max Lucado.|sd|4802
+A|Yeah.|b|4802
+B|Max consistently writes good books.|sv|4802
+A|Yeah.|b|4802
+A|Uh, he's a great man.|sv|4802
+A|I've met him several times. Uh,|sd|4802
+B|Yes.|b|4802
+B|I know him,|sd|4802
+B|yeah.|%|4802
+A|Huh.|b|4802
+B|But  uh, there's other authors also that have uh, uh, that write good books from time to time, but not consistently put out the materials all the time|sv|4802
+B|Uh, I'd say another, which is a local writer here in Plano, uh, is, uh,|sv|4802
+B|I'm trying to think of his name.|^h|4802
+B|He's with the Bible church.|sd|4802
+B|And that is, uh,|%|4802
+B|I see his name|^h|4802
+B|but I can't,|%|4802
+B|I mean I see him|sd|4802
+B|but I can't see his name|sd|4802
+B|But he, uh, he talks about, uh, he talks about a lot of different topics|sd|4802
+B|and,|%|4802

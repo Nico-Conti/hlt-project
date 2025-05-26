@@ -1,0 +1,91 @@
+A|All right.|fo_o_fw_"_by_bc|3402|0
+A|I guess tonight's subject is to discuss current events and how we keep up on current events, and if we're satisfied with, with the, uh coverage that we receive.|sd|3402|0
+B|Right.|aa|3402|1
+B|That's,|%|3402|1
+B|Right.|aa|3402|1
+A|Um, thinking about it, some of the ways I try and keep up on current events is, uh, I enjoy reading the newspaper, but, uh, quite often don't have time to read all of the newspaper,|sd|3402|0
+A|and so, uh, I enjoy watching some of the T V highlights and also, uh, some of the news periodicals, uh, weekly magazines,|sd|3402|0
+A|and, uh, at work I also have, uh, management summary reports that, uh, give basically a lot of the current events.|sd|3402|0
+A|Uh, how about yourself?|qo|3402|0
+B|Well, I'm like you.|sd|3402|1
+B|I don't, I don't, I like to read the paper|sd|3402|1
+B|but I basically don't do it every day,|sd|3402|1
+B|and I, um, I usually watch, uh, either GOOD MORNING, AMERICA or the TODAY SHOW, every morning while I'm, you know,|sd|3402|1
+A|Uh-huh.|b|3402|0
+B|whatever I'm doing, I watch that.|sd|3402|1
+B|I usually watch the news, either at, you know, early evening or at ten o'clock|sd|3402|1
+A|Right,|b|3402|0
+A|right.|b|3402|0
+B|so I get it from T V a lot.|sd|3402|1
+B|I get TIME I read TIME MAGAZINE|sd|3402|1
+B|Um, that's one I read pretty regularly.|sd|3402|1
+A|Oh, yeah.|ba|3402|0
+A|Okay.|bk|3402|0
+B|And, uh.  The thing about it, you know, now that I've found, is that we get such good coverage on T V, or at least such, I don't know, attempted thoroughness of coverage, by the time you get the TIME MAGAZINE, there's nothing in it you don't know.|sd|3402|1
+A|You think that that's, uh, pretty adequate coverage|bf|3402|0
+A|and you get.|%|3402|0
+A|Uh-huh.|b|3402|0
+A|It's historic events, huh.|qy|3402|0
+B|Right.|na|3402|1
+B|Then you can just sort of have pictures to go along with it or something, because really, I've thought lately, there's nothing new in the TIME MAGAZINE.|sv|3402|1
+A|Oh, okay.|bk|3402|0
+B|You know, it's, it's, basically you've heard everything|sv|3402|1
+A|Yes.|aa|3402|0
+B|and, uh, you might, you might get a little more thorough, uh, account of something,|sv|3402|1
+B|but really, um, I don't know.|h|3402|1
+B|So I get most of mine from television|sd|3402|1
+A|Yeah.|b|3402|0
+B|I would say.|h|3402|1
+A|Um, I found out too, that, uh, quite often if I see something on television that I want more in-depth, uh, understanding or, or get, want to know more about it, that the, the newspaper or, uh, I read NEWSWEEK, can give you a better and more thorough coverage of what I've heard on T V,|sd|3402|0
+A|but, uh, um, I found out that also on, on T V that you can scan through a whole lot of different things on C N N|sd|3402|0
+A|and, and like you said, the, the news shows that are, that are happening,|sd|3402|0
+A|and you can read some more about it if you want to.|sv|3402|0
+A|Um, I found out, though that,|sd|3402|0
+A|or I feel that a lot of the stuff on T V and the newspapers is negative.|sv|3402|0
+A|There's an awful lot of negative news or bad news, or, or bad news.|sv|3402|0
+A|And it'd be refreshing once in a while to hear some good news.|sv|3402|0
+B|Right|b|3402|1
+A|And, uh.|%|3402|0
+B|and I, I think there's an attempt to do that.|sv|3402|1
+B|You know, I think people,|sv|3402|1
+B|there's a mild attempt for that,|sv|3402|1
+B|but I think basically, we basically associate news with bad news or, or catastrophes or problems or crises, or, uh, you know.|sv|3402|1
+A|Yes,|aa|3402|0
+A|we do.|sv|3402|0
+B|I think our concept of news isn't necessarily events that happen.|sv|3402|1
+B|It's more negative, like you said.|sv|3402|1
+A|True,|aa|3402|0
+A|true.|aa|3402|0
+B|But, I think people try to, on, on T V I think, they try to throw in good stuff,|sv|3402|1
+B|but it doesn't, uh, it doesn't sway the vote.|sv|3402|1
+A|Uh-huh.|b|3402|0
+A|I've heard an interesting comment also that, uh, with budget cuts and, uh, expenses the way they are that it's affected the news media, whereas before they would be able to have a in-depth analysis or, uh, investigative reporting, on certain topics and issues,|sd|3402|0
+A|but that takes time,|sv|3402|0
+A|that takes an awful lot of money and commitment,|sv|3402|0
+A|and, and quite often it's a lot easier to listen to the police scanners or what they call ambulance chasing|sv|3402|0
+B|Uh-huh.|b|3402|1
+A|and go after, you know, it's lot easy to go after and follow a fire department or a police officer, and, uh, find out news from that as opposed to going out and finding good things,|sv|3402|0
+A|so. I don't know,|h|3402|0
+A|I guess the economy is, is effecting also the news media|sv|3402|0
+B|Uh-huh.|b|3402|1
+A|and we have to pay that price,|sv|3402|0
+A|but, uh, I don't know,|h|3402|0
+A|I don't know.|h|3402|0
+A|It's interesting,|sv|3402|0
+A|and I think that nowadays with communications the way they are also, that we can see global events happening as, as they occur all over the world, like the,|sv|3402|0
+B|Right.|b|3402|1
+B|You know, the war last winter was certainly a good example of that  because we saw every single thing, practically.|sv|3402|1
+A|Exactly.|aa|3402|0
+A|We saw,|%|3402|0
+A|Yes,|aa|3402|0
+A|you know, twenty years ago, thirty years ago, we wouldn't have been able to have that privilege or, or luxury to, to view that.|sv|3402|0
+A|So.|%|3402|0
+B|I mean, you know, I remember, well, just the things that are covered.|sd|3402|1
+B|I remember watching the World Series during the earthquake, and just seeing that happen|sd|3402|1
+A|Oh, yes.|ba|3402|0
+B|I mean, you know, that was just so phenomenal to see this stadium shake and the, and the announcers, you know grabbing,|sd|3402|1
+A|Uh-huh.|b|3402|0
+B|I mean, it's like, that was just something because that was like live and real like you said,|sd|3402|1
+A|Oh, yeah.|ba|3402|0
+A|Yeah.|b|3402|0
+B|and then, of course, one thing I think, too, is with|sv|3402|1

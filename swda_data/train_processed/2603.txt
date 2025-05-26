@@ -1,0 +1,262 @@
+A|Okay.|fo_o_fw_"_by_bc|2603
+A|Um, I guess what, I guess my task.|sd|2603
+A|I usually ride my bike.|sd|2603
+A|I have, uh, a stationary bike and, uh, a regular bike.|sd|2603
+A|And when I can, I like to ride my regular bike outside, because it's so much nicer.|sd|2603
+A|The stationary bike is, is so, uh,  boring.|sv|2603
+B|Boring.|^2|2603
+A|But I have head phones,|sd|2603
+A|and I, plus I have it, uh, in the living room|sd|2603
+A|so I either watch T V, or we have a fish tank,|sd|2603
+A|so I watch the fish, you know. Whatever I can do to keep myself occupied.|sd|2603
+A|If, I like to have the T V on, because that usually keeps me, um, more occupied.|sd|2603
+A|It kind of takes the time away|sd|2603
+A|and I don't realize, really, that's really the only time I ever watch T V, is when I'm on the bike.|sd|2603
+A|But, and then usually after I'm done riding the bike, just to cool myself down, I usually take a walk, you know,|sd|2603
+A|and that just kind of gets myself, uh, gets me, you know, to where I'm not quite as tired I guess.|sd|2603
+A|But it's definitely a task.|sd|2603
+B|You think so?|bh|2603
+A|I can't say that I really enjoy it.|sd|2603
+A|I wish that I did enjoy it more,|sd|2603
+A|but I do it because I have to not because I want to|sd|2603
+B|I bought a stationary bike,|sd|2603
+B|but I find that if I sit on that seat too long, it hurts.|sd|2603
+A|Yeah,|aa|2603
+A|yeah.|aa|2603
+B|And I haven't figured how to get that soft,|sd|2603
+B|and I tried even tying a pillow to it.|sd|2603
+B|But two years ago, I joined, well, it's not quite two years, it's almost two years, I joined the Cosmopolitan Lady here in Plano.|sd|2603
+A|Uh-huh.|b|2603
+B|And I love it.|sd|2603
+A|Really?|bh|2603
+B|I just love it.|sd|2603
+A|So is it just women that go there?|qy|2603
+B|Yeah.|ny|2603
+B|It's totally women.|sd|2603
+A|See, I think that's what's my biggest problem with going to a place, uh, a, a health club.|sd|2603
+A|Because I don't feel like having a bunch of other people watch me exercise.|sd|2603
+A|You know, so I have tried to just do stuff at home|sd|2603
+A|and, uh, I just feel conscious about it.|sd|2603
+A|I mean, I'm not big, you know, or anything,|sd|2603
+A|but I still don't like other people watching me.|sd|2603
+B|I like to be able to sweat, have my hair a mess. Uh, feel that, okay fine, if my bathing suit slips a little bit I don't have to be conscious of it being a little bit too low.|sd|2603
+A|Yeah.|b|2603
+A|Right.|b|2603
+B|And I, my bathing suit's just one piece,|sd|2603
+B|so there's no big deal all the way around,|sv|2603
+B|but I don't have to be conscious of what I'm doing or how I'm doing it.|sv|2603
+A|Uh-huh.|b|2603
+B|And it's, uh, oh, it's just, I don't know, it's, it's a total free relaxation.|sv|2603
+B|Because, hey, you can do what you want.|sv|2603
+B|You're a female,|sv|2603
+B|and no one is staring at anybody else or worrying about what anything else is doing.|sv|2603
+A|That's what,|%|2603
+B|And they've got such fantastic equipment in there.|sd|2603
+A|Really?|bh|2603
+A|That's, that's great.|ba|2603
+B|Oh, yeah.|ny|2603
+A|How,|%|2603
+B|And I love the water aerobics.|sd|2603
+B|I love the water aerobics.|sd|2603
+A|Do they have a pool|qy|2603
+A|or what is,|%|2603
+B|Oh, yeah.|ny|2603
+B|They've got a nice one.|sd|2603
+A|Huh.|b|2603
+B|They have two types of water aerobics.|sd|2603
+B|They call it aqua exercise, I guess is what they call it.|sd|2603
+A|I've heard that that's really good for you to do.|sd|2603
+B|It pushes you because you're pushing against the water in itself.|sd|2603
+A|Uh-huh.|b|2603
+B|So it is like double strenuous.|sd|2603
+B|But you're not being double strenuous on your own body.|sd|2603
+B|Because you're pushing it yourself.|sd|2603
+A|Uh-huh.|b|2603
+B|So you're doing it yourself.|sd|2603
+A|So you don't really feel like you're really working that hard, do you?|qy|2603
+B|Huh-uh.|nn|2603
+A|When you're in the water?|qy|2603
+B|Huh-uh.|nn|2603
+B|The only thing that I ever felt was, every time I stop and start going again, because I end up getting two jobs once in a while.|sd|2603
+B|I end up having to quit for a while.|sd|2603
+B|But I get blisters on my toes on the bottom because,  I really jump a lot.|sd|2603
+A|Oh, wow.|ba|2603
+A|Well, that's funny,|ba|2603
+A|I never would have thought of that.|sd|2603
+B|Well, a lot of people wear those little, uh, terry cloth with rubber soles on the bottom. Especially around the pool.|sd|2603
+B|So they just  wear them right into the pool.|sd|2603
+A|Like  Are they water shoes?|qy|2603
+A|Is that,|%|2603
+B|Yeah.|ny|2603
+B|They're just little terry cloth things you wear for house slippers with rubber, you know, soles, so that, you know,|sd|2603
+A|Oh, okay,|bk|2603
+A|okay.|bk|2603
+A|Okay,|bk|2603
+A|okay.|bk|2603
+B|no big deal one way or the other.|sv|2603
+A|Huh, that's really funny|ba|2603
+B|But, I never think about it until after you go there for about a week, your toes, you start getting blisters anyway.|sd|2603
+B|So no big deal.|sv|2603
+A|Huh, that's,|%|2603
+B|But it's fun.|sd|2603
+A|So, how often do find yourself going?|qw|2603
+A|Um, on a, if you're doing it on a regular basis, how often do you go?|qw|2603
+B|I try to make it at least three times a week.|sd|2603
+A|Yeah.|b|2603
+A|That's really,|%|2603
+B|For a while I was doing it every day. Just, going, uh, five days a week.|sd|2603
+A|Really?|bh|2603
+A|I wish that I could make myself exercise every day.|sd|2603
+A|But I do force myself to do it at least three times a week. Which I don't feel like is enough,|sd|2603
+A|but it's, it's at least something.|sd|2603
+A|You know, it, it,|%|2603
+A|I just force, I have to force myself to do it, like I said, because to me, I really don't enjoy it.|sd|2603
+A|But I know that I have to do it.|sd|2603
+A|I mean it's just, it's, it's not a question of whether I want to, you know.|sd|2603
+B|Well,|%|2603
+A|But,|%|2603
+B|When I was working up at, uh, The Summit, here in Plano, I'd leave there,|sd|2603
+A|Uh-huh.|b|2603
+B|and I'd be at the swimming pool by four o'clock. Oh, actually about four thirty because they start at five to six,|sd|2603
+A|Oh, that's,|%|2603
+B|so I was there by four thirty, every night.|sd|2603
+B|And the only thing that ever bothered me was my hair getting wet.|sd|2603
+A|Uh-huh.|b|2603
+B|Because no matter what I did or how I did it, I invariably got myself wet.|sd|2603
+A|Uh-huh.|b|2603
+B|But the water only comes up basically to your, anywhere from your waist to your, oh, chest, I'd say.|sd|2603
+A|Yeah.|b|2603
+B|So I mean, it's your choice where you want to go,|sd|2603
+B|but,  I enjoyed it higher.|sd|2603
+A|Did you ever,|%|2603
+A|Well, I'm sorry|fa|2603
+B|That's okay.|bd|2603
+A|Uh, did you ever go to Texins at all when you were working for T I?|qy|2603
+A|Did you  ever try that?|qy|2603
+B|I have a,  I have a bad back,|ng|2603
+B|so I'm very limited what I do.|sd|2603
+A|Oh, okay.|bk|2603
+B|It's like I can walk,|sd|2603
+B|but if I walk for more than fifteen minutes it's going to bother me.|sd|2603
+A|Um.|b|2603
+B|Especially when you're on cement or anything that's hard,|sd|2603
+B|it will bother me.|sd|2603
+A|Then that would,|sv|2603
+A|yeah.|%|2603
+B|it will bother me.|aa|2603
+A|I guess then the water aerobics would be probably the best thing for you, wouldn't it?|qy|2603
+B|Well, that, what pushed me that way though, was basically was the fact that when I went in there, is wasn't for the water aerobics.|arp_nd|2603
+B|I went in there strictly to strengthen my back muscles.|sd|2603
+A|Oh.|bk|2603
+B|And, uh, she said, Hey, go for the swimming pool.|sd|2603
+B|She says you get just as much if you did the aerobics on the floor.|sd|2603
+B|She says in fact you get more.|sd|2603
+A|Wow.|ba|2603
+B|I said, okay, because I'm not a swimmer.|sd|2603
+A|Uh-huh.|b|2603
+B|I like water.|sd|2603
+B|I'm not scared of it.|sd|2603
+B|But I couldn't,|sd|2603
+B|I guess I could swim across the pool,|sd|2603
+B|but I'm no swimmer per se.|sd|2603
+A|Yeah.|b|2603
+B|But I found that this worked really well.|sd|2603
+B|And I came out of there|sd|2603
+B|and I saw my stomach going down well.|sd|2603
+A|Oh.|b|2603
+B|I dropped, oh, I'd say almost twenty pounds. Just by watching what I ate.|sd|2603
+A|Wow.|ba|2603
+B|And they fix you up with a diet, which worked real good.|sd|2603
+A|What if you're already on one?|qw|2603
+A|I mean,|%|2603
+B|What?|qw|2603
+B|A diet?|qy|2603
+A|Yeah.|ny|2603
+A|I mean, when you go in there, they wouldn't make you do theirs. Would they?|qy|2603
+B|Oh, no,|nn|2603
+B|they have nothing to do with that.|sd|2603
+A|Okay.|bk|2603
+B|See I joined, uh, when this one down here opened up, I joined as a V I P.|sd|2603
+B|And the V I P gives you, uh, oh, gives you a diet, a computerized diet.|sd|2603
+B|And they go over all your health and all your history,|sd|2603
+B|and they show you how, everything to do, and how to do it, and the whole nine yards.|sd|2603
+B|So it became part of the package,|sd|2603
+B|so I went through it.|sd|2603
+B|It worked out well.|sd|2603
+A|But they have packages where they just offer the exercise program.|qy^d|2603
+A|Is that what you're saying?|qy|2603
+B|Oh, yeah.|ny|2603
+B|You can just go in there and join just like anywhere else too.|sd|2603
+A|I see,|bk|2603
+A|okay.|bk|2603
+B|I just went and took the, because they were offering it as an opening benefit,|sd|2603
+B|so it was, it's less than what you pay now for going in there, after all this time.|sd|2603
+A|Um.|b|2603
+B|So it's like when I got laid off,|sd|2603
+B|I went back in there, and start all over again because it had been a while since I'd done it.|sd|2603
+A|Um.|b|2603
+B|So I get all the same treatment again.|sd|2603
+B|So it's kind of nice.|sd|2603
+A|Wow.|ba|2603
+A|That's,|%|2603
+B|Like I said, I like it.|sd|2603
+B|I like the heat.|sd|2603
+B|I like the,|%|2603
+B|I jump out of the swimming pool,|sd|2603
+B|and I go into the hot tub.|sd|2603
+A|Oh|b|2603
+B|And I love it.|sd|2603
+A|Yeah.|b|2603
+A|That would be really nice|sv|2603
+B|Because I have I have never,|%|2603
+B|let me reword that,|oo_co_cc|2603
+B|I think I have gone home maybe once or twice slightly sore.|sd|2603
+B|But that's because of my physical condition and nothing to do what they did.|sd|2603
+A|Uh-huh.|b|2603
+B|That's,|%|2603
+B|I knew I was pushing too far.|sd|2603
+A|Uh-huh.|b|2603
+B|But usually, when I go into the hot tub before I go swimming, or when I come out, I'm totally relaxed when I go home.|sd|2603
+B|It's no big deal.|sd|2603
+A|So you really do enjoy your exercise then, since your,|bf|2603
+B|It's fun.|aa|2603
+B|It's fun.|aa|2603
+B|Uh, I've gotten on the bike.|sd|2603
+B|And they've got, uh, the stepping bike, where you step.|sd|2603
+A|Uh-huh.|b|2603
+B|And I've enjoyed that, watching how well I can walk up and down stairs.|sd|2603
+A|That's, you know,|%|2603
+A|I wanted,  I wanted to get one of those steppers when I bought the bike,|sd|2603
+B|But most of the others to me are very dull.|sv|2603
+A|but I got talked into the bike instead.|sd|2603
+A|And I don't know,|h|2603
+A|I really wanted a stepper.|sd|2603
+A|I'm considering maybe even buying one of those too.|sd|2603
+A|But I'm not sure if I'll get benefit out of both of them.|sd|2603
+A|I mean, I don't know if it would really do any good having both of them.|sd|2603
+A|Which one do you feel is better, since you use them both?|qw|2603
+B|Um, I get bored very easily.|sd|2603
+B|Uh, the one nice thing about the bicycle is you just sit.|sv|2603
+B|Like you said, you can sit and do it, and watch the T V and not even really be conscious of what you are doing.|aa|2603
+A|Uh-huh.|b|2603
+B|With the stepper, you are conscious of what you are doing because you're basically watching each step as it gets harder and down.|sd|2603
+A|Huh.|b|2603
+B|So you have a little, you know, little,|%|2603
+B|you can program the one at Cosmopolitan Lady so, to what your gear is.|sd|2603
+A|Uh-huh.|b|2603
+B|Uh, I,|%|2603
+B|it would depend upon which one you want.|sd|2603
+B|I think now that I've had the bicycle,|sd|2603
+B|I would go to the stepper.|sd|2603
+B|But if I were you, I would go apply to either a health club or one of the others and use it for a while.|sd|2603
+B|Because you can buy a month's membership. And see what you feel is best for you.|sd|2603
+A|Oh, really?|bh|2603
+A|Um.|b|2603
+B|Because it all depends, you know, for everyone their own what they want to do.|sv|2603
+B|Because I jump on the bike here at home.|sd|2603
+B|Mine has its, see, the handle bars go up and down,|sd|2603
+A|Uh-hum.|b|2603
+B|so I can sit there and read and listen to music, like what you said,|aa|2603
+B|and it has no effect on me.|sd|2603
+B|So I mean, it's boring|sv|2603
+A|Uh-huh.|b|2603

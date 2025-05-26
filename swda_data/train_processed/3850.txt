@@ -1,0 +1,145 @@
+A|Okay.|fo_o_fw_"_by_bc|3850
+B|So, what are your favorite shows?|qw|3850
+A|Um, I like watching COLOMBO and, um, MATLOCK and QUANTUM LEAP,|sd|3850
+B|Oh, really?|bh|3850
+A|yeah.|ny|3850
+B|QUANTUM LEAP?|qy^d|3850
+A|Uh-huh.|ny|3850
+B|Did you see it the other night?|qy|3850
+A|Um, uh-huh.|ny|3850
+B|That was, that was pretty good.|sv|3850
+A|Yeah,|aa|3850
+A|that one was.|sv|3850
+A|What about,|qo|3850
+B|What do you,|qw|3850
+B|with the psychic and everything?|qy^d|3850
+A|Uh-huh,|ny|3850
+A|yeah.|ny|3850
+B|Okay.|bk|3850
+B|Yeah,|b|3850
+B|I like, uh, I like NORTHERN EXPOSURE and, uh, HOME IMPROVEMENT.|sd|3850
+A|Oh, I, well I haven't seen either of those|sd|3850
+B|You've never seen NORTHERN EXPOSURE?|qy^d|3850
+A|Huh-uh.|nn|3850
+B|Oh, it's a great show.|sv|3850
+A|Um, I also like to watch STAR TREK,|sd|3850
+A|but it's on so late here, that I don't always get to see it|sd|3850
+B|Really?|bh|3850
+B|Yeah,|b|3850
+B|we like it, too.|sd|3850
+B|Have you seen the movie?|qy|3850
+A|Uh, I haven't seen any of the movies because I just barely, just like in the last year or so got interested in it,|ng|3850
+A|and they're, you know, already out with number six by now,|sd|3850
+A|but. So I haven't seen any of the movies, yet,|sd|3850
+A|but I.|%|3850
+B|Oh, you haven't seen any of them.|qy^d|3850
+A|No.|nn|3850
+B|Oh, well, they're good,|sv|3850
+B|they're real good.|sv|3850
+B|They're, uh, they're getting rid of the old cast for the movies, though.|sd|3850
+A|Uh-huh.|b|3850
+B|Which ones are you watching, the new ones?|qy|3850
+A|Yeah,|ny|3850
+A|I've seen quite a few of the older ones.|sd|3850
+A|I haven't seen really the new generation that much.|sd|3850
+B|Oh, okay.|bk|3850
+B|Yeah.|b|3850
+A|Is there one you prefer better, the older one or the the newer one?|qy|3850
+B|Well, they're, they're a lot different.|sd|3850
+B|But, I like, I like the older ones because at that time, you know, they were really futuristic, you know.|sd|3850
+A|Oh, yeah.|b|3850
+B|And the newer ones are, I guess the newer ones are real futuristic, too,|sd|3850
+B|but I like, I like both of them.|sd|3850
+A|Yeah,|b|3850
+A|I do too.|sd|3850
+A|I have a brother-in-law who really likes the old ones a lot,|sd|3850
+A|I mean, he almost hates the new ones|sd|3850
+B|Really?|bh|3850
+A|Yeah,|ny|3850
+A|because he, he thinks the newer ones is like a soap opera and the other one isn't or something,|sd|3850
+A|but, I don't|sd|3850
+B|No.|aa|3850
+B|Not really.|sv|3850
+B|It's not really like   a soap  opera,|sv|3850
+A|Oh, I think,|%|3850
+A|Yeah.|b|3850
+B|but, but it's,|%|3850
+B|but that's true,|sv|3850
+B|I mean, you, you learn more about the characters and stuff,|sd|3850
+B|but that's the way all shows are now.|sv|3850
+A|Yeah,|b|3850
+A|sure.|b|3850
+A|Well, let's see.|^h|3850
+A|Um, I like to watch COLOMBO because it's like a mystery thing.|sd|3850
+B|Yeah.|b|3850
+A|That's sort of how Matlock is,|sd|3850
+A|but COLOMBO is way tricky|sd|3850
+B|Yeah.|b|3850
+A|I mean he doesn't even try to let the person know he's getting onto them.|sd|3850
+B|Well, it seems like they always  show COLOMBO, the same ones over and over, though you know what I'm saying, like that one where he goes to college,|sd|3850
+A|Well, did you see the one.|qy|3850
+A|Um.|%|3850
+B|or is this, is there a series on.|qrr|3850
+A|Um, yeah,|ny|3850
+A|there's like one on,|sd|3850
+A|well we see it Thursdays at seven,|sd|3850
+A|and  it was,|%|3850
+B|Okay.|b|3850
+A|this last time it was about this, um, movie director,|sd|3850
+A|did you|qy|3850
+B|Yeah,|ny|3850
+B|I saw that one.|sd|3850
+A|did you see that?|qy|3850
+B|See, that was a rerun.|sd|3850
+A|Really?|bh|3850
+A|Oh, I guess I|%|3850
+B|Yeah,|b|3850
+B|I wondered if that's|%|3850
+A|Huh.|%|3850
+B|see I don't know if that's a, the movie of the week or, or what,|sd|3850
+B|but it seems like there's only about four or five different ones,|sd|3850
+B|and then, then they keep showing them over and over.|sd|3850
+A|Oh, I guess I've, I haven't seen it before.|sd|3850
+B|He was a movie director,|sd|3850
+B|and he had that gal killed.|sd|3850
+A|Yeah|b|3850
+B|Okay.|b|3850
+A|yeah,|b|3850
+A|on the set or something.|sd|3850
+B|That was pretty good though|sv|3850
+A|Yeah,|b|3850
+A|it was.|sv|3850
+A|But, yeah,|%|3850
+A|I like COLOMBO probably the best of any of those mystery things.|sd|3850
+B|Uh-huh.|b|3850
+A|But, um, there's no, never anything good on Saturdays, though|sv|3850
+B|No kidding.|ba|3850
+A|I don't think so.|sv|3850
+A|Well, STAR TREK'S on at five,|sd|3850
+A|but I'm never home|sd|3850
+A|so,|%|3850
+B|What is it that,|%|3850
+B|there's something I watch, something I watch on Saturdays,|sd|3850
+B|and I can't remember what it is.|sd|3850
+B|Now I used to watch TWIN PEAKS.|sd|3850
+A|Oh.|b|3850
+B|You never saw that?|qy^d|3850
+A|I've heard of it a lot,|ng|3850
+A|I've heard of,|sd|3850
+A|a lot of people somehow or something|%|3850
+A|They'll say, so and so from TWIN PEAKS, or something, you know.|sd|3850
+B|Yeah,|b|3850
+B|yeah|b|3850
+B|that was a different soap opera.|sd|3850
+A|Oh.|b|3850
+B|But, it was, it was a different type of show.|sd|3850
+A|Uh-huh.|b|3850
+B|I didn't like the way it ended, though.|sd|3850
+A|Oh, did they end the whole series?|qy|3850
+B|Yeah.|ny|3850
+A|Oh.|bk|3850
+B|Yeah,|b|3850
+B|they didn't, they only did it for, I think, two years.|sd|3850
+A|Oh.|b|3850
+B|But it's all over now.|sd|3850
+A|Oh, another show I like to watch is MASH.|sd|3850

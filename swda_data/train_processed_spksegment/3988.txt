@@ -1,0 +1,154 @@
+A|favorite type of music or musician or any.|qo|3988|0
+B|I don't really have a favorite type.|sd|3988|1
+B|I like, uh, a lot of different types of music.|sd|3988|1
+A|Do you?|bh|3988|0
+B|Yeah,|ny|3988|1
+B|I have a, a tape collection that I like to listen to, uh, cassette tapes|sd|3988|1
+A|Uh-huh.|b|3988|0
+B|but it's pretty varied.|sd|3988|1
+A|Uh-huh.|b|3988|0
+B|Yeah.|b|3988|1
+B|How about you?|qo|3988|1
+A|Oh, I, I'm very, uh, I'm very varied as well.|sd|3988|0
+A|I, uh, I don't think I've ever met a type of music I don't like except for, uh, maybe, you know, heavy metal and that.|sd|3988|0
+B|That's exactly me.|sd|3988|1
+B|The acid rock or the heavy metal.|sd|3988|1
+A|Yeah.|b|3988|0
+B|Even some of that I like okay but not, mostly, as a general rule,|sd|3988|1
+A|Yeah.|b|3988|0
+B|I don't care for that at all.|sd|3988|1
+A|Yeah.|aa|3988|0
+A|I don't enjoy rap too much, either.|sd|3988|0
+A|That, that doesn't appeal to, uh, my ears.|sd|3988|0
+B|Well, as far as the rap goes, I think there are a few artists that appeal to me themselves|sd|3988|1
+A|Uh-huh.|b|3988|0
+A|Uh-huh.|b|3988|0
+B|and I like some of their songs.|sd|3988|1
+A|Oh.|bk|3988|0
+B|But as, as|%|3988|1
+B|I agree, with the general rule, I, I wouldn't choose rap either.|sd|3988|1
+A|Uh-huh.|b|3988|0
+B|But I, I like to listen to, uh, what you might call pop, easy listening country western, jazz uh, classical, um,|sd|3988|1
+A|Uh-huh.|b|3988|0
+A|Uh-huh.|b|3988|0
+B|I, I don't,|%|3988|1
+B|I like, uh, like I said, pretty varied, uh, music.|sd|3988|1
+A|Uh-huh.|b|3988|0
+B|I have a couple that my husband really hates that I listen to, like Billy Holiday|sd|3988|1
+A|Oh|b|3988|0
+B|I really love to listen to her,|sd|3988|1
+A|Uh-huh.|b|3988|0
+B|and, uh, I even have a, a tape of Lady Smith Blackman Bazo|sd|3988|1
+A|Oh, gosh.|ba|3988|0
+B|and, well, I mean, they're very harmonic|sv|3988|1
+A|Uh-huh|b|3988|0
+B|they really are.|sv|3988|1
+A|uh-huh,|b|3988|0
+A|yeah,|b|3988|0
+A|sure.|ba|3988|0
+B|So, they're interesting to listen to.|sv|3988|1
+B|You might try that.|ad|3988|1
+B|How about you?|qo|3988|1
+A|Well, um, I listen to, uh, specific,|sd|3988|0
+A|most, most likely I would be listen to, uh, jazz or classical music.|sd|3988|0
+A|Um I, in college I took, uh, four years of classical guitar,|sd|3988|0
+A|and I played in the, in the jazz combo all four years.|sd|3988|0
+A|I play guitar for the jazz combo.|sd|3988|0
+B|Oh, yeah?|bh|3988|1
+A|So, uh, that's where my two, my two listening enjoyments are,|sd|3988|0
+A|but, you know, jazz can get on my nerves after a while.|sd|3988|0
+A|Uh, you can't just listen to it, you know, to, uh, especially a lot of the deeper stuff, Yeah, unless, unless you're playing it, *sv|sv|3988|0
+B|It's too, um, uh,|%|3988|1
+B|you have to concentrate on it, it seems.|bf|3988|1
+A|it just, it just doesn't do anything.|sv|3988|0
+B|What about the blues or something like that?|qw|3988|1
+A|Uh, uh, blues are okay.|sv|3988|0
+A|I, I tell you, I do like, um,|sd|3988|0
+A|I grew up on blue grass music.|sd|3988|0
+A|My dad is a big blue grass fan,|sd|3988|0
+A|and so|%|3988|0
+B|Uh-huh.|b|3988|1
+A|um, I wouldn't have admitted it when I was in high school|sd|3988|0
+A|but, I really do like it a lot.|sd|3988|0
+A|So.|%|3988|0
+B|I, I like some of it, um,|sd|3988|1
+B|as far as like the what they now call country western, it doesn't sound like the old country music at all, does it? *two utts??|qy|3988|1
+A|No,|nn|3988|0
+A|it doesn't,|sd|3988|0
+A|it doesn't.|sd|3988|0
+B|Um, some of it sounds more like pop music.|sv|3988|1
+A|Yeah,|aa|3988|0
+A|uh they've all got, you know, the real screechy electric guitars now.|sv|3988|0
+B|Oh,|%|3988|1
+B|yeah, If I'm going to listen to today's country western, I have tapes of like Randy Travis and Clint Black|aa|3988|1
+A|Yeah.|b|3988|0
+B|and I even liked Jim Reeves you know|sd|3988|1
+A|Uh-huh.|b|3988|0
+A|Uh-huh.|b|3988|0
+A|Yeah,|b|3988|0
+A|I, I,|%|3988|0
+A|yeah, Uh-huh.|b|3988|0
+B|or, uh, what, what Merle Haggard and Faron Young|sd|3988|1
+A|Uh-huh.|b|3988|0
+B|that type of country western is what I, I like to listen to. Uh, Sons of the Pioneers, you know, stuff like that. *all caps for titles|sd|3988|1
+A|Sure.|b|3988|0
+A|Uh-huh.|b|3988|0
+A|Uh-huh.|b|3988|0
+A|Yeah.|b|3988|0
+B|Um, oh, I like sound tracks a lot.|sd|3988|1
+A|Oh, do you?|bh|3988|0
+B|Yeah,|ny|3988|1
+B|it seems like you get a lot of original music that way.|sv|3988|1
+A|Yeah,|aa|3988|0
+A|you sure do.|sv|3988|0
+B|I mean, you know, think about like the Twin Peaks and stuff like that that's just real recent|sd|3988|1
+A|Uh-huh,|b|3988|0
+A|uh-huh.|b|3988|0
+A|Yeah.|b|3988|0
+B|things like that I like to listen to.|sd|3988|1
+B|Um, I like instrumental things.|sd|3988|1
+A|Uh-huh.|b|3988|0
+B|Um, I have some Spiro Gyro tapes.|sd|3988|1
+A|Oh, they're great aren't they.|ba|3988|0
+B|Oh, they're wonderful.|aa|3988|1
+A|Yeah.|b|3988|0
+B|I love them.|sd|3988|1
+B|I have some dulcimer music.|sd|3988|1
+B|I mean, like I said, that, that's pretty varied.|sd|3988|1
+A|Yeah,|aa|3988|0
+A|it sure is,|sd|3988|0
+A|yeah.|aa|3988|0
+B|Al Jarreau, he's somebody I like.|sd|3988|1
+B|He's pretty, kind of jazz inspired but but still kind of pop, too.|sv|3988|1
+A|Uh-huh.|b|3988|0
+A|Yeah,|aa|3988|0
+A|I like his,|sd|3988|0
+A|he has a nice smooth voice.|sv|3988|0
+B|Oh, yeah,|aa|3988|1
+B|and, you know, what I like the most about him, is, I've gone to see him in concert, and he always, he looks like he's having fun.|sv|3988|1
+A|Yeah,|b|3988|0
+A|sure.|b|3988|0
+B|I mean, some people sing,|sv|3988|1
+B|and they have their faced all contorted, like it hurts them or something|sv|3988|1
+B|But he looks like he's having a good time.|sv|3988|1
+B|I mean, he's up there moving around and smiling like he's happy and, and like all he wants to do is, is make the audience enjoy it, too.|sd|3988|1
+A|Uh-huh.|b|3988|0
+A|Sure.|b|3988|0
+B|And he, he is real fun to listen to.|sd|3988|1
+A|Uh-huh.|b|3988|0
+B|Um, Bonnie Rait, I like her a lot.|sd|3988|1
+A|Uh-huh.|b|3988|0
+B|Um, in fact, whenever she won her big Grammy|sd|3988|1
+A|Uh-huh.|b|3988|0
+B|I think it was like five of them or something|sd|3988|1
+A|Uh-huh.|b|3988|0
+B|was, was it five,|qy|3988|1
+B|or.|fo_o_fw_"_by_bc|3988|1
+A|Yeah,|ny|3988|0
+A|something like that,|sd|3988|0
+A|it was last, last, last year wasn't it.|qy|3988|0
+B|Yeah,|ny|3988|1
+B|last year or the year before, I can't remember,|sd|3988|1
+B|but, um, I was listening to a particular radio station|sd|3988|1
+B|and, and the one D J said, who the heck is Bonnie Rait and why does she deserve five Grammies?|sd|3988|1
+B|Well, I vowed then that I was not going to listen to that radio station any more, if that D J can make such a|sd|3988|1

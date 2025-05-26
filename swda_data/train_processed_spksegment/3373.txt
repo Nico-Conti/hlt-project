@@ -1,0 +1,185 @@
+A|All right.|fo_o_fw_"_by_bc|3373|0
+A|What is your favorite show?|qw|3373|0
+B|Well, I was just trying to think.|^h|3373|1
+B|When they called, I didn't have as much time to prepare for this as I did some of the others.|sd|3373|1
+B|Um, I love watching some of the, uh, new, new shows basically.|sd|3373|1
+A|Uh-huh.|b|3373|0
+B|And we, uh, we subscribe to C N N|sd|3373|1
+B|and we took that,|sd|3373|1
+B|and we started watching a lot of those especially during the war or during anything kind of thing like the earthquake,|sd|3373|1
+B|and I have gotten stuck on a lot of this.|sd|3373|1
+B|The new shows and the stuff that comes on that, that it, you know,|sd|3373|1
+B|like the, uh, at night the discussion talk shows and things.|sd|3373|1
+A|Uh-huh.|b|3373|0
+B|And we really haven't gotten a lot into the sitcoms that are current, uh, especially with the kids here because we have to kind of filter it before they get here.|sd|3373|1
+A|Sure.|b|3373|0
+B|We have little ones.|sd|3373|1
+B|Uh, we do let them watch NINE ONE ONE,|sd|3373|1
+A|Uh-huh.|b|3373|0
+B|and we think that's kind of informative to teach them,  how to handle things in situations.|sv|3373|1
+A|It really is.|aa|3373|0
+A|Uh-huh.|b|3373|0
+B|What do you watch?|qw|3373|1
+A|I watch just about anything,  but not a lot of,  T V.|sd|3373|0
+B|Uh-huh.|b|3373|1
+B|Uh-huh.|b|3373|1
+A|I mean I'll watch, you know, maybe a little while when I first get home in the evening.|sd|3373|0
+B|Uh-huh.|b|3373|1
+A|And I usually watch, you know, the news|sd|3373|0
+A|and then I'll watch that HARD COPY or or that kind of thing, you know,|sd|3373|0
+B|Uh-huh.|b|3373|1
+B|That's the same thing we do.|sd|3373|1
+A|and I like the NINE ONE ONE,  and UNSOLVED MYSTERIES.|sd|3373|0
+B|Uh-huh.|b|3373|1
+B|Yeah,|b|3373|1
+B|that kind, that's the kind I like really more than,  the sitcoms.|sd|3373|1
+A|Uh-huh.|b|3373|0
+B|I haven't gotten,  into many of those.|sd|3373|1
+A|Now, I do,  like,|sd|3373|0
+A|my husband is really crazy about EVENING SHADE that comes on, on Monday evening.|sd|3373|0
+B|I have heard that's real good.|sd|3373|1
+A|And I,  uh,|%|3373|0
+B|That's,  Burt Reynolds, isn't it?|qy|3373|1
+A|Uh-huh.|ny|3373|0
+B|Yeah,|b|3373|1
+B|I've heard that.|sd|3373|1
+A|And I've got to where every Monday I rush around so I could sit and watch that with him because it's really funny.|sd|3373|0
+B|Now someone told me that|sd|3373|1
+B|and also, uh, I meant to be trying to pick up on MURPHY BROWN,  because they said that that was really good this season.|sd|3373|1
+A|Uh-huh.|b|3373|0
+A|Well, his favorite night is Monday night|sd|3373|0
+A|so we've got to where we will sit,  and watch it on Monday night,|sd|3373|0
+B|You've got to yeah,|bf|3373|1
+B|Uh-huh.|b|3373|1
+A|because that and then that, uh, oh,|%|3373|0
+A|I can't even think of the name of it.|sd|3373|0
+A|Like I say I'm not,|sd|3373|0
+B|DESIGNING WOMEN is on that night,  too.|sd|3373|1
+A|Yeah,|b|3373|0
+A|and the one with the, the sergeant that married the woman with the kids, Sergeant McGillis .|sd|3373|0
+B|Huh, I don't even know.|sd|3373|1
+A|Sergeant, uh, MAJOR DAD.|sd|3373|0
+B|Oh, okay.|b|3373|1
+B|Now I,  we've never even seen that.|sd|3373|1
+A|Yeah,|b|3373|0
+A|that comes on right after, uh, the EVENING SHADE and then MURPHY BROWN,  and DESIGNING WOMEN.|sd|3373|0
+B|Uh-huh.|b|3373|1
+A|So we always, he watches that|sd|3373|0
+A|and I kind of I watch the first one then kind of sit in on the others,  as I can.|sd|3373|0
+B|On the others.|b^m|3373|1
+B|Well, you know, on Friday nights especially, we like to watch TWENTY TWENTY.|sd|3373|1
+A|Uh-huh.|b|3373|0
+B|Or, um,|%|3373|1
+A|Uh-huh.|b|3373|0
+B|It's kind of a competition on Thursdays between PRIME TIME and KNOTS LANDING.|sd|3373|1
+A|Yeah.|b|3373|0
+B|But, uh, we used to like KNOTS LANDING a lot.|sd|3373|1
+B|Oh, excuse me just a minute to someone in the|ad|3373|1
+B|The money is right there on the thing and the coupon.|t3|3373|1
+A|Well, you can't hardly watch KNOTS LANDING with the little kids around though.|sv|3373|0
+B|Oh, I know.|aa|3373|1
+B|That's the thing.|sd|3373|1
+B|And so,  we,|%|3373|1
+A|Except they,   probably are in bed,  by nine.|sv|3373|0
+B|Uh-huh.|b|3373|1
+B|Well, they are.|sd|3373|1
+B|In fact, on weeknights they are in bed by eight,|sd|3373|1
+B|but we have just gotten any more that where we just keep it off.|sd|3373|1
+A|Did you get your pizza taken care of?|qy|3373|0
+B|Yeah,|ny|3373|1
+B|he has gone to get it.|sd|3373|1
+B|Thank you|ft|3373|1
+B|Um, but I was to say on Saturdays there is absolutely nothing|sv|3373|1
+B|and that's the day my husband,  wants to .|sd|3373|1
+A|Well, do you know,|qy|3373|0
+A|I have picked up a show lately on Saturday night that I've really liked|sd|3373|0
+A|and that's SISTERS.|sd|3373|0
+A|Have you watched that?|qy|3373|0
+B|No,|nn|3373|1
+B|but I saw that advertised today|sd|3373|1
+B|and it sounds like it's not fluff.|sv|3373|1
+B|It sounds like it's good.|sv|3373|1
+A|It's really, you know, it's really pretty good.|sv|3373|0
+B|Uh-huh.|b|3373|1
+A|I mean, it's kind of like, you know, um, soap opera I guess.|sv|3373|0
+B|Yeah,|b|3373|1
+B|that's what they said it was kind of,  a little more drama to it.|sd|3373|1
+A|But it's a,|%|3373|0
+A|So far it, I've watched it about three times now|sd|3373|0
+A|and it's really held my attention.|sd|3373|0
+A|It's been pretty good. Some,  pretty good acting.|sv|3373|0
+B|Well, and  and another one now that it's getting darker|sd|3373|1
+B|and you are wanting to cocoon more,|sv|3373|1
+B|that they said is excellent is the I'LL FLY AWAY and BROOKLYN BRIDGE.|sd|3373|1
+B|Some of these,  that are nostalgic.|sd|3373|1
+A|Now I watched,  BROOKLYN BRIDGE this week for the first time,|sd|3373|0
+B|Did you,  like it?|qy|3373|1
+A|but I haven't,|sd|3373|0
+A|I did.|na|3373|0
+A|I liked it.|sd|3373|0
+B|Did you?|bh|3373|1
+B|Well, they said that one and I'LL FLY AWAY are really quality, you know|sd|3373|1
+B|and,|%|3373|1
+A|Now I haven't seen I'LL FLY AWAY yet.|sd|3373|0
+B|I haven't seen it either.|sd|3373|1
+B|I think what I need to do is kind of read to see what is on these days because by the time we get the kids in bed at eight o'clock and then I get my bath it's, you know, it's almost too late to start,  something new.|sd|3373|1
+A|Uh-huh.|b|3373|0
+A|It's nearly,  too late for T V.|bf|3373|0
+B|Yeah.|aa|3373|1
+A|That's the way I am.|sd|3373|0
+A|I get in,  from work|sd|3373|0
+B|Yeah.|b|3373|1
+A|and I'm tired|sd|3373|0
+A|and I sit and watch for a few minutes|sd|3373|0
+A|so I have to get up and do dinner,  and everything.|sd|3373|0
+B|Uh-huh.|b|3373|1
+B|Yeah,|b|3373|1
+B|and then we've gotten to where we rent videos for weekend nights.|sd|3373|1
+A|Uh-huh.|b|3373|0
+B|So, it's like,  we are kind of,   tuned out of our T V.|sd|3373|1
+A|Yeah.|b|3373|0
+A|That's us.|sd|3373|0
+A|If we are home on the weekend, we always watch videos,|sd|3373|0
+A|so.|%|3373|0
+B|Yeah,|b|3373|1
+B|well, we do too.|sd|3373|1
+A|But there are some good shows on.|sv|3373|0
+A|I, I really probably should watch more of them than I do.|sv|3373|0
+B|Yeah.|b|3373|1
+A|But I like,|sd|3373|0
+A|I don't know|h|3373|0
+A|I, I'm always in to making things|sd|3373|0
+A|and,  And I don't just spend all my time,|sd|3373|0
+B|I don't know,|h|3373|1
+B|yeah.|%|3373|1
+B|There's a lot more to do with,  with your time when you get into it.|sv|3373|1
+A|and I, my husband, now he sits and watches T V constantly.|sd|3373|0
+B|Uh-huh.|b|3373|1
+B|Well, my, my sister and them and her husband do on weekends.|sd|3373|1
+B|They don't have children yet,|sd|3373|1
+B|and they just turn it on when they walk in,|sd|3373|1
+B|they turn it off when they leave.|sd|3373|1
+A|Uh-huh,|b|3373|0
+A|uh-huh.|b|3373|0
+B|So they are used to that too.|sd|3373|1
+A|I could be around here for hours by myself and never have it on.|sd|3373|0
+B|Yeah,|b|3373|1
+B|I understand.|ba|3373|1
+B|Same here.|sd|3373|1
+A|But, uh, but there are some really good new shows that I have enjoyed,|sd|3373|0
+A|and I'll have to watch that I'LL FLY AWAY this week.|sd|3373|0
+B|Yeah,|b|3373|1
+B|it's real good.|sv|3373|1
+B|And then of course, in the afternoons if I get in from work in time I watch OPRAH, some of those,  you know, talk shows.|sd|3373|1
+A|Yeah.|b|3373|0
+B|I like her.|sd|3373|1
+A|I never get in in time for any of those.|sd|3373|0
+B|Yeah.|b|3373|1
+A|Yeah.|b^m|3373|0
+B|Well, it's, it's nice talking to you.|fc|3373|1
+B|I guess we've kind of exhausted this one,|fc|3373|1
+B|but it's nice talking with you.|fc|3373|1
+A|Well, it's nice talking with you.|fc|3373|0
+B|Thank you.|fc|3373|1
+A|Bye.|fc|3373|0
+B|Bye-bye.|fc|3373|1

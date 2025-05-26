@@ -1,0 +1,262 @@
+A|Well, I was just looking around my house and thinking about the painting that I've done.|sd|2185|0
+B|Uh-huh.|b|2185|1
+A|And the last time that, um, we tackled it, I did the kitchen.|sd|2185|0
+A|And I had gone through a period of depression at one time and painted everything a dark,|sd|2185|0
+A|it was called a sassafras,|sd|2185|0
+A|it was kind of an orangish brown.|sd|2185|0
+B|Okay.|b|2185|1
+A|It was not real pretty.|sd|2185|0
+B|Yeah.|b|2185|1
+A|Anyway, so the kitchen was one of the rooms that got hit with that color.|sd|2185|0
+B|Uh-huh,|b|2185|1
+B|I see.|b|2185|1
+A|So I tried to cover it with white,|sd|2185|0
+A|and it was quite a, a feat getting that dark a color covered, and then just the hassles getting around the cabinets,|sd|2185|0
+A|and know if I look underneath my cabinets, I'm not satisfied with the jobs I, I did on it because there're splotches.|sd|2185|0
+B|Yeah.|b|2185|1
+A|But, I'm glad it's done, because it's brighter.|sd|2185|0
+B|Yeah,|aa|2185|1
+B|yeah,|aa|2185|1
+B|that's for sure.|aa|2185|1
+B|Well, we, uh,|%|2185|1
+B|I just got married about six months ago,|sd|2185|1
+B|and we bought a house at the same time.|sd|2185|1
+B|So we're,|%|2185|1
+B|I'm sitting here in my forty year old house,|sd|2185|1
+B|and we're about halfway through the painting process|sd|2185|1
+A|Oh, lord.|ba|2185|0
+B|So, uh, the only, uh,|%|2185|1
+B|I guess the, the big discussion, just kind of what you were mentioning, has been the color.|sd|2185|1
+B|We ended up with our, our living and dining room are now, uh, kind of a, a light peach color with, uh,|sd|2185|1
+B|and it's got all the old, original hardwood trim and stuff,|sd|2185|1
+B|so we've got the trim in kind of, uh, kind of an off-white.|sd|2185|1
+B|And this is really the first, uh, interior painting project that I've attacked.|sd|2185|1
+B|And, it's, it's been, uh, it's been something else, to say the least.|sd|2185|1
+B|We, we had the same type of situation.|sd|2185|1
+B|Uh, the walls were, uh, uh,|sd|2185|1
+B|well, they weren't,|sd|2185|1
+B|the color difference wasn't so bad,|sd|2185|1
+B|but, uh, there was semigloss underneath|sd|2185|1
+A|Uh-huh.|b|2185|0
+B|and we put a flat over the top,|sd|2185|1
+B|and everywhere you'd miss there'd be this little bright spot you could see|sd|2185|1
+B|It seems like you could see it through about three layers of paint.|sd|2185|1
+A|Oh yeah.|b|2185|0
+B|Every time the sun would come up in the morning I'd see another spot and have to drag out the paint can.|sd|2185|1
+B|But, uh, we've learned.|sd|2185|1
+B|We, we, uh, we worked, we've worked our way back into the hallway,|sd|2185|1
+B|and, and we're in the middle of the bathroom now.|sd|2185|1
+B|But, uh, it's, it's been quite an adventure.|sd|2185|1
+B|The other, the other thing that makes it, uh, a little more difficult, we've got all hardwood floors,|sd|2185|1
+B|and, uh, we, we've learned to be a little more careful about covering up the floors since the, since the first time we spent a lot of time on the floor with a tooth, toothbrush and what not cleaning up.|sd|2185|1
+A|So what are you going to get it off with if you get it on and it's dried?|qw|2185|0
+B|Well, it's, it's not too bad.|sd|2185|1
+B|It, it, uh,|%|2185|1
+B|the floors are finished with a polyurethane,|sd|2185|1
+A|Uh-huh.|b|2185|0
+B|and it's really not to bad to get off, *typo to too|sd|2185|1
+B|it,|%|2185|1
+B|it,|%|2185|1
+B|we're just using latex,|sd|2185|1
+B|and it's not too bad to get it off once it's dried even.|sd|2185|1
+B|It, it, it, uh, comes off with like a mild abrasive pad, like a scotch-brite pad or something like that and and soap and water.|sd|2185|1
+B|So, we got pretty lucky on that.|sd|2185|1
+A|And it's not scratching your floor, because it's so thick.|qy^d|2185|0
+B|No,|nn|2185|1
+B|not really.|ng|2185|1
+A|Oh, that's pretty good.|ba|2185|0
+B|But.|%|2185|1
+A|We painted every room in this house, some of them like two, three times.|sd|2185|0
+A|We have two children.|sd|2185|0
+B|Okay,|b|2185|1
+B|yeah.|b|2185|1
+A|And, they just,|sd|2185|0
+A|they ruin,|sd|2185|0
+A|it's just terrible what they do.|sd|2185|0
+B|Yeah.|b|2185|1
+A|And then I have been coloring my hair,|sd|2185|0
+A|and I'm real haphazard when I do it.|sd|2185|0
+A|So I've got dye on my bathroom door.|sd|2185|0
+B|Oh, gosh.|ba|2185|1
+A|And I haven't figured out how to get that off.|sd|2185|0
+A|I guess I'll have to take that door down and really get it good.|sd|2185|0
+B|Yeah,|aa|2185|1
+B|yeah,|aa|2185|1
+B|probably so.|aa|2185|1
+A|And then we have a two story.|sd|2185|0
+B|Okay.|b|2185|1
+A|We did the outside of it one summer.|sd|2185|0
+B|Yeah.|b|2185|1
+A|That was horrendous.|sd|2185|0
+A|I mean, I, I couldn't stand the back side going up that high on the ladder.|sd|2185|0
+A|I could get up on the roof and do that.|sd|2185|0
+B|Yeah.|b|2185|1
+A|But, I dread that the next time.|sd|2185|0
+B|Yeah,|b|2185|1
+B|I, uh,|%|2185|1
+B|Yeah,|aa|2185|1
+B|we, uh, our house was painted as part of the purchase contract,|sd|2185|1
+B|so we didn't have to mess with that this time.|sd|2185|1
+B|But I've, I, I grew up on a farm,|sd|2185|1
+B|so I, I've, I've messed with outdoor painting a little bit, uh,|sd|2185|1
+B|but most of that, it was done with a sprayer and, uh, up in the bucket of a loader tractor, or something like that,|sd|2185|1
+B|so, it took a lot of the hassle out.|sd|2185|1
+B|And then they're,|%|2185|1
+A|Uh-huh.|b|2185|0
+B|we're not, you know, you're not nearly as concerned with a barn or a grainery, or something like that as you would be with your own house.|sd|2185|1
+A|No,|aa|2185|0
+A|I wouldn't think so|sv|2185|0
+A|Have you guys tackled your ceilings yet?|qy|2185|0
+B|Uh, a little bit,|na|2185|1
+B|yeah,|ny|2185|1
+B|yeah.|ny|2185|1
+A|Oh, we got to do that this summer.|sd|2185|0
+A|We're dreading it.|sd|2185|0
+B|Yeah|b|2185|1
+A|It's like, they're dark.|sd|2185|0
+B|Yeah.|b|2185|1
+A|Everything else is white.|sd|2185|0
+B|Oh, gosh,|ba|2185|1
+B|yeah.|b|2185|1
+B|Just, just the opposite of what everybody's, uh, working towards now.|sv|2185|1
+A|Now have you thought about this? That wherever you buy your paint, you need to make sure that that store's not likely to go out of business.|qy|2185|0
+B|Yeah,|ny|2185|1
+B|yeah,|ny|2185|1
+B|absolutely|na|2185|1
+B|Yeah,|%|2185|1
+B|we, uh, we stocked up the first time around.|sd|2185|1
+B|But we've definitely got all the formulas on file,|sd|2185|1
+B|and, uh, we're, they'll be there for a while.|sd|2185|1
+B|We're, we're pretty comfortable with that.|sd|2185|1
+B|But, yeah, it,|%|2185|1
+B|it,|%|2185|1
+B|I'm, I'm real nervous every time I, I open a new can.|sd|2185|1
+B|I'm wondering if I shouldn't buy about twenty gallons at one time and keep it all in a, in a washtub or something somewhere because I'm I'm always afraid that the next coat is not going to match.|sd|2185|1
+A|Uh-huh.|b|2185|0
+B|But, uh. It's gone pretty well.|sd|2185|1
+B|It just,|%|2185|1
+B|it, it, takes, it takes some time.|sd|2185|1
+B|My problem is, while I,|sd|2185|1
+B|I'm not overly proud of it,|sd|2185|1
+B|but I'm a self-proclaimed, proclaimed perfectionist,|sd|2185|1
+B|and it, it takes me a long time to do trim and things like that.|sd|2185|1
+B|And I'll find, I'll find something as I'm going along, something not related,|sd|2185|1
+B|like, like, uh, I've gone about changing out all the outlets and switches because, they, they really didn't match.|sd|2185|1
+B|They were,|%|2185|1
+B|a few of them were broken and things like that.|sd|2185|1
+B|So, I always pick up these little extra tasks as I'm doing this,|sd|2185|1
+B|and, and the painting actually takes probably, uh, a fourth of the time,|sd|2185|1
+B|and I'm always doing all this other stuff,|sd|2185|1
+B|and my wife's hollering at me and wondering what else I've come home with from work this time to, to put in, a ceiling fan or something strange like that.|sd|2185|1
+B|So uh, it, it, it always,|%|2185|1
+B|it, it, it gets you to look at everything real hard when you start putting a coat of paint on everything,|sd|2185|1
+B|you start to notice where all the dents and scratches and things are everywhere.|sd|2185|1
+A|Oh, but I still feel good, the minute I put that paint on, even if it does got a dent in it|sd|2185|0
+B|Yeah.|b|2185|1
+A|I do.|sd|2185|0
+B|Yeah,|aa|2185|1
+B|it sure makes a difference.|sv|2185|1
+A|Oh, what else can I tell you about painting?|qh|2185|0
+A|Oh, and I get it all in my hair, too.|sd|2185|0
+A|Do you do that?|qy|2185|0
+B|Yeah.|ny|2185|1
+A|Spots in it.|qy^d|2185|0
+B|Yeah,|ny|2185|1
+B|it's, it's been, uh,|%|2185|1
+B|we, we bought this house with the idea that we were going to spend, you know, spend a lot of time working on it,|sd|2185|1
+B|and, uh, it was part, you know,|sd|2185|1
+B|part of the excitement was, was getting a good deal on an older house that just, it really hadn't been taken care of very well.|sd|2185|1
+B|It, it was actually,|sd|2185|1
+B|it was rented out for a couple of years and things like that.|sd|2185|1
+B|So, we uh, we ended up getting a fairly good deal on it.|sd|2185|1
+B|But, uh, there just isn't enough time,|sd|2185|1
+B|I, I, I find myself going to work knowing that, that there's a job about half done at home,|sd|2185|1
+B|and I really,|%|2185|1
+B|if I would, if I'd just stay home and finish it, I'd feel a lot better,|sd|2185|1
+B|but, uh, I'm, I'm starting to learn that there's always something else.|sd|2185|1
+B|Once you get done, you can always start over|sv|2185|1
+B|and, and you make up all kinds of excuses.|sv|2185|1
+A|Are you having to repair the walls at all?|qy|2185|0
+B|It,|%|2185|1
+B|they're, they're in pretty good condition, um, as far as, uh, major repairs. You know, a lot of little filling holes and nicks and things like that,|sd|2185|1
+B|but, uh, the only,|%|2185|1
+B|the most major things have been, uh, oh, I guess I, I moved a couple of outlets, and, er, uh, switches I should say.|sd|2185|1
+B|For some reason, they put a bathroom light switch in the hallway|sd|2185|1
+B|and, uh|%|2185|1
+A|Um, that's smart.|ba|2185|0
+B|yeah,|b|2185|1
+B|and I, I didn't like that very well,|sd|2185|1
+B|so I, I moved that,|sd|2185|1
+B|but, uh, most of it, most of it's in pretty good shape.|sd|2185|1
+A|So where do you live?|qw|2185|0
+B|Uh, live in Dallas.|sd|2185|1
+A|I'm in Garland.|sd|2185|0
+B|Okay,|bk|2185|1
+B|okay.|bk|2185|1
+A|Did you try to call this weekend?|qy|2185|0
+B|Uh.|%|2185|1
+A|To that switchboard,|qy|2185|0
+A|did you keep getting that it was down?|qy|2185|0
+B|No,|nn|2185|1
+B|no,|nn|2185|1
+B|I haven't,|ng|2185|1
+B|uh, I hadn't tried.|sd|2185|1
+A|You didn't?|bh|2185|0
+B|In fact, we were, we were planting flowers this weekend|sd|2185|1
+B|So, uh, I was pretty tied up,|sd|2185|1
+B|but.|%|2185|1
+A|Yeah,|b|2185|0
+A|well, I've never tried any other kinds of painting besides on a surface like the house like to paint a picture or anything.|sd|2185|0
+B|Uh-huh.|b|2185|1
+A|I don't know,|h|2185|0
+A|I can't think of anything else to say about painting.|sd|2185|0
+B|Yeah,|b|2185|1
+B|that, uh.|%|2185|1
+A|It hurts your back,|sv|2185|0
+A|and it hurts your arm.|sv|2185|0
+B|Yeah,|aa|2185|1
+B|you know it|aa|2185|1
+B|I get a I get a sore neck from looking up all the time, yeah, things like that|sd|2185|1
+A|Yeah.|b|2185|0
+B|but, uh, no,|fo_o_fw_"_by_bc|2185|1
+B|that pretty much covers my experiences.|sd|2185|1
+A|But you're glad you're doing it,|qy^d|2185|0
+A|right?|^g|2185|0
+B|Oh yeah,|ny|2185|1
+B|most definitely.|na|2185|1
+B|It, it just,|%|2185|1
+B|it makes such a difference.|sd|2185|1
+B|I,|%|2185|1
+B|like I say, the overall appearance of this house is what really devalued it so much.|sd|2185|1
+B|Uh, I, you know, I, I don't want to put a price on it,|sd|2185|1
+B|but I just feel like we're, every, every gallon of paint adds a tremendous amount of value to the house.|sd|2185|1
+B|You know, every time I do something, aside from that it just makes me feel a whole lot better to come home, an you know, the walls are clean,|sd|2185|1
+B|and they match, and all those kinds of things.|sd|2185|1
+A|Uh-huh.|b|2185|0
+A|Do you have one of those straightedge things to put underneath when you're doing the baseboards?|qy|2185|0
+B|Yeah,|ny|2185|1
+B|yeah,|ny|2185|1
+B|we do.|na|2185|1
+B|It, uh, it sometimes works|sd|2185|1
+B|and it sometimes doesn't.|sd|2185|1
+B|It's a, uh,|%|2185|1
+B|when I start doing trim, I, I've gotten to where I, I tend to freehand it because there's so many layers of paint on this house after forty years that, uh, it, it's so hard to tell where an edge is anymore,|sd|2185|1
+B|and uh.|%|2185|1
+A|On your baseboards?|qy|2185|0
+B|Yeah,|ny|2185|1
+B|yeah,|ny|2185|1
+B|they|%|2185|1
+A|You don't have any carpet down in your house?|qy^d|2185|0
+B|No|nn|2185|1
+B|there's no carpet in the house right now.|sd|2185|1
+A|See, we've got carpet,|sd|2185|0
+A|and, I haven't figured out how you're supposed to paint it, on down, so that you won't see where you stopped off and still not get it on the carpet.|sd|2185|0
+B|Um,|b|2185|1
+A|Because every time you move that edger then it gets the carpet into it.|sd|2185|0
+B|Well, you know, um.|%|2185|1
+A|You can't hold it there until it's dried.|sd|2185|0
+B|Yeah,|aa|2185|1
+B|I, I've I've seen, uh,|%|2185|1
+B|they're, they make some plastic edging stuff that comes in like three foot lengths.|sd|2185|1
+B|And, you can, uh, you can tape them together|sd|2185|1
+B|and, and, and put ...|%|2185|1

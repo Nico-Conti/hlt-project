@@ -1,0 +1,212 @@
+A|All right.|fo_o_fw_"_by_bc|3004|0
+B|Well, she lives in Utah,|sd|3004|1
+B|so.|%|3004|1
+A|Oh, uh-huh,|b|3004|0
+A|uh-huh.|b|3004|0
+A|That's the way we always were.|sd|3004|0
+A|We always lived away from our family and relatives while the kids were growing up.|sd|3004|0
+B|Yeah.|b|3004|1
+A|So, well, I guess we're going to talk about children today.|ad|3004|0
+B|Okay,|aa|3004|1
+B|let's do|ad|3004|1
+A|So, you ready?|qy|3004|0
+A|My children are all gone already.|sd|3004|0
+B|Uh-huh.|b|3004|1
+A|They're, they're all out on their own.|sd|3004|0
+A|So, uh, do you want to start first do you work?|ad|3004|0
+B|Okay.|aa|3004|1
+B|No,|nn|3004|1
+B|I don't,|sd|3004|1
+A|Uh-huh.|b|3004|0
+B|I stay home most of the time|sd|3004|1
+B|but I know that it's very difficult to, to find good help sometimes when and especially when your, when you want your children to be taken care of.|sd|3004|1
+A|Right.|b|3004|0
+B|Um, you know, there's a,|%|3004|1
+B|my neighbor she tends children though|sd|3004|1
+B|and, and, um, there's a big controversy whether they should have to, um, have a, a a law to have them certified or, or not.|sd|3004|1
+A|Uh-huh.|b|3004|0
+B|And, um, you know, there's pros and cons on both side of that|sv|3004|1
+A|Right.|b|3004|0
+B|because if they were, then you kind of know that they had to go through some kind of testing, or some kind of something to be on , get an okay seal.|sd|3004|1
+A|Uh-huh.|b|3004|0
+A|Yeah,|b|3004|0
+A|but yet most of the problems we hear,|sd|3004|0
+A|of course, maybe that's what we hear about is from organized and approved day care centers.|sv|3004|0
+B|That's right.|aa|3004|1
+B|That's right.|aa|3004|1
+A|But maybe we don't hear about the other ones though that could be.|sv|3004|0
+B|Yeah.|b|3004|1
+A|You know, the individual incidence or something.|sv|3004|0
+B|Uh-huh.|b|3004|1
+B|Uh, now, usually when I have someone tend, um,|sd|3004|1
+B|my oldest tends for me now if I go somewhere|sd|3004|1
+B|but,|%|3004|1
+A|Uh-huh,|b|3004|0
+A|how old, is your oldest?|qw|3004|0
+B|before,|%|3004|1
+B|He's almost a teenager|sd|3004|1
+A|Oh, well, he's plenty big enough then|sv|3004|0
+B|Yeah,|aa|3004|1
+B|he's, he's very good.|sd|3004|1
+B|Um, but, um, before that I would, I would use, uh, kids from our church,|sd|3004|1
+A|Uh-huh.|b|3004|0
+B|and they did a good job, for me.|sd|3004|1
+A|Uh-huh,|b|3004|0
+A|uh-huh.|b|3004|0
+B|Um, but I've never had to leave them like in a day care center, or anything,|sd|3004|1
+A|Uh-huh.|b|3004|0
+B|and I've been very lucky just be able to stay home.|sd|3004|1
+A|That's the way with me.|aa|3004|0
+A|I, I worked four years one time,|sd|3004|0
+A|but my last two children were, uh, both entering high school age.|sd|3004|0
+B|Uh-huh.|b|3004|1
+A|And, uh, they were, of course, gone while I was working|sd|3004|0
+A|so it wasn't a problem I saw,|sd|3004|0
+A|and I stayed home the rest of the time.|sd|3004|0
+B|Yeah.|b|3004|1
+A|I, so I didn't have that problem either.|sd|3004|0
+A|Now I have, I,|%|3004|0
+A|my oldest daughter she has two children|sd|3004|0
+A|and they've been in day care, uh,|sd|3004|0
+B|Uh-huh.|b|3004|1
+A|she works full time.|sd|3004|0
+B|Yeah,|b|3004|1
+B|that's hard.|bf|3004|1
+A|It, it's difficult|sd|3004|0
+A|but yet she's the type of person that, I don't know, if she'd be happy staying at home.|sd|3004|0
+B|Well, some people aren't.|ba|3004|1
+A|Uh-huh.|b|3004|0
+B|Yeah.|b|3004|1
+A|She, she surprised me though.|sd|3004|0
+A|She's done a lot of things that I never thought she would do, you know, with, with the family because she was the one that said she was never getting married and never going to have any children.|sd|3004|0
+B|Oh, is that, is that right?|bh|3004|1
+A|So, she is, she spends a lot of quality time I think when she is with, with the children.|sd|3004|0
+B|I think that's really important.|ba|3004|1
+A|And, uh, they've used the day care most of the time.|sd|3004|0
+A|They tried one once.|sd|3004|0
+A|They had a lady come in.|sd|3004|0
+B|Uh-huh.|b|3004|1
+A|And, uh, she, she also had a small child she brought with her.|sd|3004|0
+A|And it did not work out. Uh, at all|sd|3004|0
+B|Uh-huh.|b|3004|1
+A|It, she thought it was going to.|sd|3004|0
+A|She was real excited because it was so much easier than taking the children out, in the morning,|sd|3004|0
+B|Yeah,|aa|3004|1
+B|uh-huh.|b|3004|1
+A|but, uh, the lady called|sd|3004|0
+A|and her baby wasn't very old at the time and said she was having trouble.|sd|3004|0
+A|And this baby is the, is the most pleasant, uh, real pleasant baby easy to satisfy usually.|sd|3004|0
+A|And, and she was having problems with her,|sd|3004|0
+A|and so she called and said things were okay, settled down and was all right.|sd|3004|0
+B|Yeah,|b|3004|1
+B|yeah.|b|3004|1
+A|Well, my daughter decided to call them and check|sd|3004|0
+A|and things weren't okay|sd|3004|0
+B|Oh.|ba|3004|1
+A|Her, her one son was watching the soapies|sd|3004|0
+A|which she doesn't allow them to watch the soapies.|sd|3004|0
+B|Oh, uh-huh.|b|3004|1
+A|And the baby was in his crib with the door shut just screaming his heart out,|sd|3004|0
+B|Oh, dear.|ba|3004|1
+A|and the baby-sitter was in the kitchen with her baby.|sd|3004|0
+B|Oh.|ba|3004|1
+A|And so that ended that, episode,|sd|3004|0
+B|Yeah.|ba|3004|1
+A|and she was most upset, uh, over finding this.|sd|3004|0
+B|Yeah,|b|3004|1
+B|I bet.|ba|3004|1
+A|So, uh, she, they kind of had decided that the day care was better.|sd|3004|0
+A|There's, uh, more people involved,|sd|3004|0
+B|Uh-huh.|b|3004|1
+A|more than one adult they,|sd|3004|0
+A|and the age groups are separated Uh-huh.|sd|3004|0
+B|Well, nannies have been an option, uh,|sd|3004|1
+B|but I know that at day care they have more of a, a routine like maybe in, uh, preschool would have where they have lessons and, so forth, and so on.|sd|3004|1
+A|Yes,|b|3004|0
+A|story time, uh,|^2|3004|0
+B|Uh-huh.|b|3004|1
+A|and the, this one has been particularly nice.|sd|3004|0
+A|It, uh, it kept track of what they did,|sd|3004|0
+B|Uh-huh.|b|3004|1
+A|and they would tell the parents what they did that day.|sd|3004|0
+A|You know, if they said anything or did anything.|sd|3004|0
+A|So it kind of kept them,|sd|3004|0
+B|Gave you an idea of what your child, was progressing in or doing.|bf|3004|1
+A|Yeah.|aa|3004|0
+A|I I always thought that if you were checking into a day care, that you would be good to get references,  uh, on people that had been in that day care but was no longer there.|sv|3004|0
+B|Yeah.|aa|3004|1
+B|Yeah.|aa|3004|1
+B|Yeah.|aa|3004|1
+A|Because they wouldn't have nothing to worry about saying, you know,|sv|3004|0
+A|if there was a problem they, they would I think be more ready to tell you what it was.|sv|3004|0
+B|Oh, I think so, because if they were still there, you know they might not,|sv|3004|1
+A|They may not say anything.|sv|3004|0
+B|Right,|aa|3004|1
+B|right.|aa|3004|1
+A|And, uh, other than how else, how do you judge other than from what others have, uh, what you see, uh, the cleanliness and that type of thing.|sv|3004|0
+B|You can't really.|aa|3004|1
+B|You can't really unless your child would be old enough to say something,|sv|3004|1
+A|Uh-huh.|b|3004|0
+B|and usually they aren't at that age. Uh-huh.|sd|3004|1
+A|Uh-huh.|b|3004|0
+A|But it would be real difficult to pick you, you know, to find one and decide.|sv|3004|0
+B|Well, I know I, uh, about three years ago I, I tended some children. And, uh, you know, I, I wondered if I would have to be certified|sd|3004|1
+A|Uh-huh.|b|3004|0
+B|or whether they'd just bring them|sd|3004|1
+B|and and we got to where, well, we were just friends|sd|3004|1
+A|Uh-huh.|b|3004|0
+B|and so, they said, no, don't do that, we'll just bring them.|sd|3004|1
+A|Uh-huh.|b|3004|0
+A|Uh-huh,|b|3004|0
+A|uh-huh.|b|3004|0
+B|And then if there was a problem|sd|3004|1
+B|and then we'd sit down, and talk about it|sd|3004|1
+A|Uh-huh.|b|3004|0
+B|but it never happened, to be a problem,|sd|3004|1
+A|Yeah.|b|3004|0
+A|Yeah.|b|3004|0
+B|and, and so things worked out okay,|sd|3004|1
+B|and their kids played with my kids|sd|3004|1
+B|and it worked out well.|sd|3004|1
+A|it worked out good.|bf|3004|0
+A|I'm going to, I've decided I'm going to baby-sit my two granddaughters.|sd|3004|0
+B|Oh.|b|3004|1
+A|Since they'll be going back at the end of the month.|sd|3004|0
+A|And so, I'm going to give it a try.|sd|3004|0
+B|That's great.|ba|3004|1
+A|I, I, I sell Avon and Stanley products,|sd|3004|0
+B|Oh, uh-huh.|b|3004|1
+A|and I've got that worked out.|sd|3004|0
+A|My husband, he's retired|sd|3004|0
+A|so he's going to deliver my products|sd|3004|0
+A|so I'll do my orders and that by phone.|sd|3004|0
+B|Well, that will be great.|ba|3004|1
+A|So, um, I'll be able to keep that up a little bit.|sd|3004|0
+B|Yeah.|b|3004|1
+A|But I I think I'll enjoy doing ,|sv|3004|0
+B|Yeah.|b|3004|1
+B|I bet you'll have some great experiences with them.|sv|3004|1
+A|Yeah,|aa|3004|0
+A|I, I think I'll enjoy.|sv|3004|0
+B|Yeah.|aa|3004|1
+A|I, I guess I kind of miss having a baby around A kid around or something|sd|3004|0
+B|Sure,|ba|3004|1
+B|why not. That's right.|bh|3004|1
+A|Yeah.|aa|3004|0
+A|Right.|aa|3004|0
+A|That's right|aa|3004|0
+A|Well, they do say you enjoy them more,|sv|3004|0
+A|a some, somebody said if they knew grandchildren where so much fun, they would have had them first|sd|3004|0
+B|Well, uh, my husband's mother lives right over here,|sd|3004|1
+B|and she takes care of them sometimes, for me,|sd|3004|1
+A|Uh-huh.|b|3004|0
+B|and, and just is a lovely lady,|sd|3004|1
+A|Uh-huh.|b|3004|0
+B|and I've always appreciated when she's sat with them.|sd|3004|1
+A|Yeah.|b|3004|0
+A|My daughter, always said she would not let me baby-sit because you do hear grandparents complaining you know because they're stuck with their grandchildren so much.|sd|3004|0
+B|And,|%|3004|1
+B|Oh|b|3004|1
+B|Uh-huh.|b|3004|1
+B|Uh-huh.|b|3004|1
+A|But they're, the ones that complain a lot are the first|sv|3004|0

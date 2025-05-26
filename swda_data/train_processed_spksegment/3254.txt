@@ -1,0 +1,140 @@
+A|Okay.|fo_o_fw_"_by_bc|3254|0
+A|Where do you enjoy dining out?|qw|3254|0
+B|Oh, I generally go to the quickie places just because they're cheap.|sd|3254|1
+A|Yes,|b|3254|0
+A|do you have children?|qy|3254|0
+B|Uh, we have four,|na|3254|1
+B|but most of them are gone now|sd|3254|1
+A|Uh.|b|3254|0
+B|so there, there might be,|%|3254|1
+B|but we were taking, you know, uh, four, five and six people out|sd|3254|1
+A|Yeah,|b|3254|0
+A|that makes a difference, doesn't it.|qy|3254|0
+B|Yes.|ny|3254|1
+A|What area of the country do you live in?|qw|3254|0
+B|I'm in Texas.|sd|3254|1
+A|Yes,|b|3254|0
+A|I am, too.|sd|3254|0
+A|But,|%|3254|0
+B|And we we lived in Ohio prior to this.|sd|3254|1
+A|I did, too.|sd|3254|0
+A|I'm from the Dayton area.|sd|3254|0
+A|Oh.|b|3254|0
+B|Yeah,|b|3254|1
+B|uh, but I look for service even at the quickie places type things.|sd|3254|1
+A|Uh-huh.|b|3254|0
+B|Uh, I don't like to go to the drive-thrus because sometimes they get your order wrong|sv|3254|1
+A|That's right.|aa|3254|0
+B|and then you're stuck|sv|3254|1
+B|and it's a pain to have to stand there and see what it is before you leave|sv|3254|1
+A|Yes.|b|3254|0
+B|so I really don't like the drive-thrus that much.|sd|3254|1
+B|I, I like to go and eat there.|sd|3254|1
+B|But I would say service, uh, atmosphere, and whether the food is good,|sd|3254|1
+B|and on going out, I like steaks.|sd|3254|1
+B|So, we try to hit those places when we can.|sd|3254|1
+A|When we travel we look for Wendy's because we have kids,|sd|3254|0
+A|and my husband and I like getting the salads or the lighter meals|sd|3254|0
+B|Uh-huh.|b|3254|1
+A|and then that way they can get their burgers and fries|sd|3254|0
+A|and we can have a salad bar|sd|3254|0
+B|Yeah.|b|3254|1
+A|so sometimes we drive for a couple hundred miles until we find a Wendy's, because it's all either McDonald's or Dairy Queens,|sd|3254|0
+B|and, in, in, in the countries, unless it's a large city, I guess Dairy Queen and Wal-Mart are their main|sv|3254|1
+A|Right,|aa|3254|0
+A|that's right,|aa|3254|0
+B|That's what you find,|sv|3254|1
+B|right,|aa|3254|1
+A|I know.|aa|3254|0
+B|My husband likes, uh, Dairy Queens.|sd|3254|1
+B|He likes their milk shakes and their chili cheese dogs, I guess,|sd|3254|1
+A|Uh-huh.|b|3254|0
+B|so he's a fan of, of Dairy Queen,|sd|3254|1
+B|and, and we'll go even in town here at times, just as a, a change although I'm not that excited about it.|sd|3254|1
+A|Uh-huh.|b|3254|0
+B|But we've eat, we eat out so much it's gotten so I don't like to really eat any place|sd|3254|1
+B|but yet I hate to cook food at home|sd|3254|1
+A|Oh.|b|3254|0
+B|so that might be why I look for inexpensive places just because we're eating out probably five nights a week maybe.|sd|3254|1
+A|Uh-huh.|b|3254|0
+A|Um.|b|3254|0
+B|Or we eat junk food at home|sd|3254|1
+A|Yeah.|b|3254|0
+B|uh, now my|%|3254|1
+A|Well, what are some of your, your favorite inexpensive places?|qw|3254|0
+B|Oh, we'll go to them all.|sd|3254|1
+B|We sort of take turns.|sd|3254|1
+B|And we, uh|%|3254|1
+B|I sort of favor the ones,|%|3254|1
+B|if I have a coupon we can go there|sd|3254|1
+B|and if not we can't, because it's cheaper|sd|3254|1
+A|Uh-huh.|b|3254|0
+B|so mine is, monetarily, I guess strongly monetarily based.|sd|3254|1
+B|Uh, we'll go get pizza and, uh, at Little Caesar's, although the kids prefer Domino's.|sd|3254|1
+A|Oh, we are Little Caesar fans here|sd|3254|0
+B|Right.|b|3254|1
+A|that's where we always go,|sd|3254|0
+B|But it's just a lot cheaper than, than Domino's,|sv|3254|1
+B|so that's.|%|3254|1
+B|We go to Grandy's quite a bit I would say.|sd|3254|1
+A|Yes,|aa|3254|0
+A|we like Grandy's, too.|sd|3254|0
+B|McDonald's, uh, we've sort of been off of that for a while|sd|3254|1
+B|and no particular reason,|sd|3254|1
+B|and I,|%|3254|1
+B|maybe we avoided Wendy's the last few years because our daughter worked there|sd|3254|1
+B|and she never wanted us to show up there|sd|3254|1
+A|Oh.|b|3254|0
+B|so, I don't, we don't go there that much.|sd|3254|1
+A|Where do you go if you like to have a nice meal out, or a big meal?|qw|3254|0
+B|A nice meal, oh,|^h|3254|1
+A|Where do you go for steaks?|qw|3254|0
+B|It's usually when we're out of town|sd|3254|1
+A|Oh.|b|3254|0
+B|and I'll order steak or steak and lobster combined|sd|3254|1
+A|Uh-huh.|b|3254|0
+B|so it's really not in town.|sd|3254|1
+A|Oh.|b|3254|0
+A|You ever been to Houston's on Belt Line?|qy|3254|0
+B|No.|nn|3254|1
+A|That's where we go to get steaks|sd|3254|0
+B|Uh-huh.|b|3254|1
+A|they have a teriyaki steak there,|sd|3254|0
+A|and when we have something to celebrate, we head to Houston's.|sd|3254|0
+A|They don't take reservations,|sd|3254|0
+A|and you wind up waiting about an hour|sd|3254|0
+B|Uh-huh.|b|3254|1
+A|but the food is good,|sd|3254|0
+A|and they've got a nice patio area that you can wait and get something to drink, unless you get there at five o'clock,|sd|3254|0
+A|then you can go right through.|sd|3254|0
+B|Right.|b|3254|1
+A|But they have real good signature salads there and nice steaks,|sd|3254|0
+A|so, that's our nice place to go.|sd|3254|0
+A|We don't usually take the kids when we go there,|sd|3254|0
+B|But well, we don't go out that much,|sd|3254|1
+B|I well, I guess we do go out without kids.|sd|3254|1
+B|We're usually picking things up quickly,|sd|3254|1
+B|though we just don't dwell on food too much,|sd|3254|1
+A|Yeah.|b|3254|0
+B|and, uh, with my husband traveling he can get all he needs of that during the week going to those places|sd|3254|1
+A|Right,|b|3254|0
+A|That's right.|aa|3254|0
+B|so, it doesn't really matter to him.|sd|3254|1
+B|He'd probably just like to stay home. Well, I think, I, I never have liked to cook food,|sd|3254|1
+A|Yeah,|aa|3254|0
+A|that's the way with my husband.|sd|3254|0
+A|He's gone during the week and likes to eat at home on the weekends,|sd|3254|0
+A|and I've been eating at home all week long with the kids and would like to go out somewhere,|sd|3254|0
+A|so we have a conflict of interests on the weekend.|sd|3254|0
+B|but I think it all began eating out when we had, uh, the boys in, in different, uh, baseball on baseball|sd|3254|1
+A|Right.|b|3254|0
+B|it was mainly baseball teams|sd|3254|1
+A|Yes.|b|3254|0
+B|and my husband would coach,|sd|3254|1
+B|so we were never home at the same time.|sd|3254|1
+A|Uh-huh.|b|3254|0
+B|I'm not one that's going to fix, you know, the meal at two o'clock in the afternoon so they can eat it all day whenever they're there.|sd|3254|1
+A|Right.|b|3254|0
+B|or you go you know you fend for yourself.|sv|3254|1
+A|Yep.|aa|3254|0
+B|You go somewhere else.|sv|3254|1

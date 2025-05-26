@@ -1,0 +1,100 @@
+A|Uh, go ahead,|ad|3805
+A|tell me what you think.|ad|3805
+A|Do we get our money's worth?|qy|3805
+B|Hey, listen, if I had my way, I wouldn't pay my taxes.|sd|3805
+B|Not with the, not with some of the things that I hear that our tax money is going for some ludicrous things.|sv|3805
+A|Yeah,|b|3805
+A|did you see SIXTY MINUTES last night?|qy|3805
+B|No,|nn|3805
+B|I did not.|sd|3805
+B|I,|%|3805
+A|Well, they did a thing on the thirty-five billion dollars we waste every year just on storing stuff for the military we don't need.|sd|3805
+A|And, uh, it's staggering.|sv|3805
+B|Well, how does this grab you? How did this grab you?|qo|3805
+B|Uh, this,|%|3805
+B|I, I mean, I'm, I'm a lady,|h|3805
+B|but this, I heard this on a Christian program|sd|3805
+B|and it was, uh, about the N E A|sd|3805
+B|and, that's the National Endowment for Arts,|sd|3805
+B|and they fund, they funded this thing, this act on a stage and did a study on it between two lesbians and two homosexuals and wrote a report about that with our money.|sd|3805
+A|Well, there are a lot of things that people, I think general,|sv|3805
+B|And then it just frosts me terribly.|sd|3805
+A|Well, I think it's interesting to look at, uh, where the money goes,|sv|3805
+A|and it goes a lot of places where it probably ought not go|sv|3805
+A|and and I don't think generally, I think what's interesting is that we probably represent the majority of people in this country in terms of their feelings about the government|sv|3805
+B|Absolutely.|aa|3805
+A|and how it serves us given the extraordinarily large sum of money the government has to operate with.|sv|3805
+B|I believe that's true,|sv|3805
+B|yes.|aa|3805
+A|And that, what I think is going to be really interesting is what we do about it.|sv|3805
+A|I mean, we are going to have to change the people who represent us.|sv|3805
+B|That's correct.|aa|3805
+A|I mean, and I think it's going to be real interesting to see and, and then force upon them, uh,|sv|3805
+B|Heavy involvement from the public.|^2|3805
+A|Yeah,|aa|3805
+A|right that's I think that's the only thing that's going to change it.|sv|3805
+B|Uh-huh.|b|3805
+B|Yeah,|b|3805
+B|heavy involvement from the public.|sd|3805
+A|Our anger is going to have to, to give rise to, to more activity on our part.|sv|3805
+B|Yeah.|b|3805
+A|Uh, I've, I've said for years that there's full employment for the politically active|sd|3805
+A|and in our society, uh, there's very little full employment.|sv|3805
+A|Most people in this country are getting worse off, not better off.|sv|3805
+B|Absolutely.|aa|3805
+A|Eighty percent of the public, according to Bill Moyers', uh,|sd|3805
+A|recent, uh,|fo_o_fw_"_by_bc|3805
+A|piece for, uh,|fo_o_fw_"_by_bc|3805
+A|Public Broadcasting, which, by the way is a very good use of government money. I think P B S is wonderful.|sv|3805
+A|But this special focused on the fact that eighty percent of the people in this country are, are seeing their real incomes,|sd|3805
+A|and thus, standards of living, decline.|sd|3805
+A|And twenty percent are seeing theirs improve.|sd|3805
+A|That's not a formula for a better society.|sv|3805
+B|No,|aa|3805
+B|it is not.|sv|3805
+B|It's lopsided, very much|sv|3805
+B|so.|%|3805
+A|And the government really plays a role in this.|sv|3805
+B|Uh-huh,|b|3805
+B|that's right,|ba|3805
+B|they pull the strings.|sv|3805
+A|I mean, well, they are the people whose strings are pulled and by I guess powerful|ar|3805
+B|Right,|b|3805
+B|the,|%|3805
+B|yeah|%|3805
+A|You know, and it's really interesting to see how that affects people because essentially more and more people in this country are not likely to revolt in the way that people used to think of, of the voter revolting.|sv|3805
+A|But people are pretty much getting the picture that some people get taken care of and others don't|sv|3805
+A|and they think it's unfair,|sv|3805
+A|and when they recognize that it's their tax money, they're going to do more about it.|sv|3805
+A|I I'll tell you one quick, uh, one thing very interesting.|sv|3805
+A|C B S, after the State of the Union address is going to open up a telephone line, an eight hundred number|sd|3805
+A|and people can call in and say what they think about what's going on in this country.|sd|3805
+B|Uh-huh.|b|3805
+A|They expect, opening it for one hour, that they'll get three, hundred thousand telephone calls.|sd|3805
+B|I'm sure they will.|sv|3805
+A|And I've thought for years it would make a lot of sense to create an eight hundred number for voters to call and, and vent their frustration with government. Like one, eight hundred capitol or something like that. You know, just a number you could call from anywhere, anytime.|sv|3805
+B|Uh-huh.|b|3805
+B|Uh-huh.|b|3805
+A|I think that's coming|sv|3805
+A|and I think once, once people really start to communicate how they feel, things are going to change.|sv|3805
+A|Until then, I think, you know, it's going to be really painful.|sv|3805
+A|So the question is, how soon are we going to start to get our money's worth|qh|3805
+A|and, as you said, it's how soon we get involved,|sv|3805
+A|and I think we need to create mechanisms to allow us to get involved, like allowing us to call a toll free number and say, hey, look, do it this way, not that way, or I like this, or I don't like that, or this is how I feel about your spending my money on art that I don't think is art.|sv|3805
+B|Yes,|b|3805
+B|I understand that,|sd|3805
+B|but hopefully that the people that are listening to what our comments are take some action on it.|sd|3805
+A|Well, that's the good thing about what is happening because I think more and more the news media, which takes a heck of a beating and, and deserves some of it, is telling us, you know, about the problems.|sv|3805
+A|So the more we communicate, hey, look, we want a change here, because, you know, as it turns out, we've wasted a tremendous amount of money on our defense spending in this country.|sv|3805
+B|Oh, absolutely.|aa|3805
+A|Over a very long period of time.|sd|3805
+B|Right,|aa|3805
+B|absolutely.|aa|3805
+A|Uh, and, uh,|%|3805
+B|We only see the tip of the iceberg only.|sv|3805
+A|Right.|b|3805
+B|You know, there's so much of it going on that it would really, you know, uh, set us into a deeper depression if we knew the whole picture.|sv|3805
+A|Yeah.|b|3805
+A|Well, you may be right.|sv|3805
+A|What I think is really going to be interesting is to see how, uh, we as a society deal with it|sv|3805
+A|and I, and I think it is, what you say, it's, it's a,|sv|3805

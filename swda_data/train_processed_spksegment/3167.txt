@@ -1,0 +1,164 @@
+A|They suggested some sort of a recipe, uh, for, uh, company, for entertaining.|sd|3167|0
+A|Did you have anything in mind that, uh, you'd like to share?|qy|3167|0
+B|Well, I, uh, just had a Christmas Around The World party the other night and had some hors d'oeuvres.|sd|3167|1
+A|Ooh.|bk|3167|0
+A|Oh.|bk|3167|0
+B|And I fixed, uh, a crab meat spread that is real good and real easy.|sd|3167|1
+A|Ooh, that sounds good.|ba|3167|0
+A|What,|%|3167|0
+B|It's, uh, it's like, uh, eight ounces of cream cheese softened,|sd|3167|1
+A|Uh-huh.|b|3167|0
+B|and you mix it with one tablespoon onion juice and one tablespoon lemon juice, one tablespoon worcester sauce and mix it and spread it out onto a plate.|ad|3167|1
+B|And,|%|3167|1
+A|One tablespoon of worcester?|qy|3167|0
+B|Uh-huh.|ny|3167|1
+A|Okay.|bk|3167|0
+B|And then you take and, uh, cover that with drained crab meat mixed with one of the small bottles of chili sauce and spread it over the top and spread it on Triscuits crackers.|ad|3167|1
+A|Oh, that,|%|3167|0
+B|And that always goes over real well|sd|3167|1
+B|and it's real easy.|sd|3167|1
+A|How much chili sauce did you say?|qw|3167|0
+B|It's one of the small bottles.|sd|3167|1
+A|Like eight,|%|3167|0
+B|I don't think, uh,|%|3167|1
+A|Not eight ounces.|qy^d|3167|0
+A|That would be a lot.|sv|3167|0
+B|Well, it's about eight ounces.|arp_nd|3167|1
+A|Is it?|bh|3167|0
+B|It, it,|%|3167|1
+B|uh-huh.|ny|3167|1
+A|Okay,|bk|3167|0
+A|this would make a lot, right?|qy|3167|0
+B|Yeah,|ny|3167|1
+B|it would probably make,|sd|3167|1
+B|well, it doesn't make quite as much as you think,|sd|3167|1
+B|but, yeah,|%|3167|1
+B|spread it out because you keep the cream cheese kind of thin.|ad|3167|1
+A|And how much crab meat did you use?|qw|3167|0
+B|One tin. Of the flake.|sd|3167|1
+A|One, One can of flake.|b|3167|0
+B|Uh-huh.|%|3167|1
+B|And drain it real good.|ad|3167|1
+B|Uh-huh.|b|3167|1
+A|Oh, okay.|aa|3167|0
+A|Have you ever used the, uh, imitation, yet?|qy|3167|0
+B|Yes,|ny|3167|1
+B|I have.|sd|3167|1
+B|I used it, uh, last Christmastime.|sd|3167|1
+B|Uh, what did I put it in?|t1|3167|1
+B|I think I just served it by itself.|sd|3167|1
+B|There's like a little tidbit with the sauce to dip it into and stuff.|sd|3167|1
+A|Ooh, that sounds,|%|3167|0
+A|I've tried it|sd|3167|0
+A|and then I have it here on hand for about a week|sd|3167|0
+A|and then all of a sudden it dawned on me,|sd|3167|0
+A|wait, is this totally imitation|^q|3167|0
+A|and then I found out,|sd|3167|0
+A|I went back to the store|sd|3167|0
+A|and they said it is a fish product.|sd|3167|0
+B|Uh-huh,|b|3167|1
+B|uh-huh.|b|3167|1
+A|So, therefore, you really don't have a very long life, you know once you buy it.|sv|3167|0
+B|Right.|b|3167|1
+B|Right.|b|3167|1
+A|I thought, so, you know, they should put some directions on some of these new things they're making that you really don't know what the shelf life is.|sv|3167|0
+B|That's very true.|aa|3167|1
+A|You know.|b|3167|0
+B|Very true.|aa|3167|1
+B|I had bought a cheesecake, uh,|sd|3167|1
+B|and they very nicely put onto the box that it may be re frozen, which I felt was real nice.|sd|3167|1
+A|Oh, that's a good idea.|ba|3167|0
+B|Yeah.|b|3167|1
+A|Whose was that?|qw|3167|0
+B|It, uh, was, uh, Lawry's, I believe, or Lawler's.|sd|3167|1
+B|And I got it,|%|3167|1
+B|do you have a Sam's Wholesale Warehouse up there?|qy|3167|1
+B|It's real,|%|3167|1
+A|Uh, Sam's,|^h|3167|0
+A|right,|na|3167|0
+A|right.|na|3167|0
+B|Yeah,|bk|3167|1
+B|okay,|bk|3167|1
+B|that's where I picked it up.|sd|3167|1
+B|It comes out of Chicago|sd|3167|1
+B|and they're very good cheesecakes.|sd|3167|1
+A|Oh.|b|3167|0
+A|Oh, that sounds good|ba|3167|0
+B|Yeah.|b|3167|1
+A|because that's great.|ba|3167|0
+A|That must be the ones that look like they're packaged for a restaurant.|qy^d|3167|0
+B|Yes,|ny|3167|1
+B|yes.|ny|3167|1
+A|Okay,|bk|3167|0
+A|I, I've,|%|3167|0
+B|And they have, and they have the little papers between them.|sd|3167|1
+A|Right.|b|3167|0
+A|Oh, hey, that sounds,|%|3167|0
+B|And I think they're, what, about nine dollars and something.|sd|3167|1
+A|Right.|b|3167|0
+A|And it's something good to have on hand, too.|sv|3167|0
+A|It's frozen in the first place, right?|qy|3167|0
+B|Yes.|ny|3167|1
+B|Yes.|ny|3167|1
+B|Yes.|ny|3167|1
+A|So, you can, uh,|%|3167|0
+A|it is frozen, isn't it?|qy|3167|0
+B|Yes,|ny|3167|1
+B|it is frozen.|sd|3167|1
+A|And then you can re freeze.|qy^d|3167|0
+B|And I thaw it|arp_nd|3167|1
+B|and then you can re freeze it.|arp_nd|3167|1
+B|And,|%|3167|1
+A|Hey, that sounds great.|ba|3167|0
+B|Uh-huh.|b|3167|1
+A|That|%|3167|0
+B|It was, they're very good, very good.|sd|3167|1
+B|And that's the one thing that I hate to make is desserts.|sd|3167|1
+A|Oh, do you?|bh|3167|0
+A|And that's my favorite.|sd|3167|0
+B|Is it?|bh|3167|1
+A|And I really don't care for desserts that well other than one piece of it.|sd|3167|0
+B|Oh, I love to eat it,|sd|3167|1
+B|but I don't like to make it.|sd|3167|1
+B|It takes time|sv|3167|1
+B|and you have to rack your brain,|sv|3167|1
+B|and, time I don't have anymore|sd|3167|1
+A|That's the, that's the thing I hate most about entertaining is thinking of what I'm going to serve.|sd|3167|0
+B|Uh-huh.|aa|3167|1
+B|It is.|aa|3167|1
+A|I, I said I can make it no time.|sd|3167|0
+A|It's trying to think,|sd|3167|0
+A|and then we just, uh, built a new home|sd|3167|0
+A|and I have one of these kitchens that's the center of the house|sd|3167|0
+B|Uh-huh.|b|3167|1
+A|and so no matter where they're at, your company can see you cooking. Which is funny.|sd|3167|0
+B|That's right.|aa|3167|1
+B|And your mess|sv|3167|1
+A|This, well, this is what everyone has said.|sd|3167|0
+A|They said it's okay for you because you keep a real neat kitchen.|sd|3167|0
+A|And I said, yes,|sd|3167|0
+A|I decided it looks better in BETTER HOMES AND GARDENS than it does in practicality.|sv|3167|0
+B|Yeah|b|3167|1
+A|But, uh, what I have learned in the, uh, ten months we've lived here, is it that when I entertain, I have to have my foods all prepared and in the oven with all the, everything through, ready to serve. Because with the open area, you don't want someone from your dining room seeing your mess, like you said.|sd|3167|0
+B|Right.|b|3167|1
+B|Right.|b|3167|1
+B|That's, that's right.|aa|3167|1
+A|So you have to have the picturesque kitchen, you know, right out of the magazine.|sv|3167|0
+B|Well, I like to have mine all done anyway, because then I want to, I want to party, too.|sd|3167|1
+B|I don't want to sit in the kitchen and be putting an olive on something|sd|3167|1
+A|You're right.|aa|3167|0
+B|You know.|b|3167|1
+A|And you know the funny thing is, now that I have a large kitchen with a big island and that, I still have people trying to come, you know,|sd|3167|0
+A|they'll come in the kitchen|sd|3167|0
+A|and I said, out,|sd|3167|0
+A|we have the chairs on the other side of the counter for guests.|^q|3167|0
+B|Correct|b|3167|1
+A|You're not allowed to trespass into my kitchen|^q|3167|0
+B|Sounds,|%|3167|1
+A|And it, it has worked out.|sd|3167|0
+A|But at our point of life we know many of the people we're entertaining uh, well enough that they know, you know, it's very much at home type situation.|sd|3167|0
+B|Right.|b|3167|1
+B|Well, a lot of our entertaining anymore with the couples, again, that we've known a long time like you, they, uh, we all bring things|sd|3167|1
+B|and it sure makes it a whole lot easier. Anymore.|sd|3167|1
+A|Well, we even have a better one.|sv|3167|0
+A|Now we decided that we all meet, we have it worked,|sd|3167|0

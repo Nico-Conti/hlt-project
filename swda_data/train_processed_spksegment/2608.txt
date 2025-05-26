@@ -1,0 +1,327 @@
+A|Okay.|fo_o_fw_"_by_bc|2608|0
+B|Do you want to go first?|qy|2608|1
+A|You can go first,|oo_co_cc|2608|0
+A|or I will.|oo_co_cc|2608|0
+B|Well, you go ahead.|ad|2608|1
+A|Okay.|aa|2608|0
+A|Well, I'm going to tell you what I'd have|sd|2608|0
+A|Down in the south, we have a lot of shrimp,  okay?|sd|2608|0
+B|Oh,|b|2608|1
+B|yeah.|b|2608|1
+A|And I have, uh, shrimp that is steamed in beer, that I cook.|sd|2608|0
+B|Oh, yeah.|b|2608|1
+B|Uh-huh.|b|2608|1
+A|And then I have a cauliflower that I would cook, garlic bread, green salad, tea,|sd|2608|0
+A|and we'd have a lemon pie for dessert.|sd|2608|0
+B|Oh, it sounds fantastic.|ba|2608|1
+A|Yes.|aa|2608|0
+A|And what's really neat about it is, the shrimp is cooked in your, uh, like your rice steamer,  your rice cooker.|sd|2608|0
+B|Oh, yeah.|b|2608|1
+B|Uh-huh.|b|2608|1
+A|And, um, you place the shrimp in the, in the rice steamer,|ad|2608|0
+A|and you put a bay leaf and put some, uh, red pepper over it.|ad|2608|0
+B|Uh-huh.|b|2608|1
+A|Now, you can either use, you know, the kind that comes in the little can|ad|2608|0
+A|or you can just get some, you know, regular red peppers.|ad|2608|0
+B|Is it cayenne pepper, you mean?|qy|2608|1
+A|Cayenne?|qy|2608|0
+B|Yes.|ny|2608|1
+A|Uh-huh.|ny|2608|0
+B|Uh-huh.|b^m|2608|1
+A|And you put a little bit of that over it.|ad|2608|0
+A|Now if you use the dried kind? Then you would only use two of them.|ad|2608|0
+B|Yes.|b|2608|1
+A|And you put that in there,|ad|2608|0
+A|and then you pour two bottles of beer over it.|ad|2608|0
+B|And how much shrimp would you use?|qw|2608|1
+A|Two pounds.|sd|2608|0
+B|Two pounds,|b^m|2608|1
+B|okay.|bk|2608|1
+A|That's the jumbo shrimp in the shells.|sd|2608|0
+B|Oh, yeah.|b|2608|1
+A|Leave the shells on them so they won't just roll up.|ad|2608|0
+B|Uh-huh.|b|2608|1
+A|And you pour the beer over the top of it,|ad|2608|0
+A|and you cover it.|ad|2608|0
+B|Uh-huh.|b|2608|1
+A|And you only cook it until the mixture begins to boil,  and the shrimp turn pink.|ad|2608|0
+B|Okay.|aa|2608|1
+B|Uh-huh.|b|2608|1
+A|Then you remove it,|ad|2608|0
+A|and you put it on a platter.|ad|2608|0
+A|And then you serve it with melted butter.|ad|2608|0
+A|And, uh, I usually put garlic powder in mine.|sd|2608|0
+B|Oh, yeah.|b|2608|1
+A|And they can just dip it,|sd|2608|0
+A|and they shell it as they eat it.|sd|2608|0
+B|Sure.|b|2608|1
+A|But, uh, then the uh, the cauliflower, you,  cook that in the microwave.|ad|2608|0
+B|Uh-huh.|b|2608|1
+A|And what you do is, you just, uh, wash it,|ad|2608|0
+A|and you core it. And in a like a, oh, what do you call it? Like Pyrex or something like that, kind of bowl that would go in the microwave.|ad|2608|0
+B|Uh-huh.|b|2608|1
+B|Uh-huh.|b|2608|1
+B|A glass dish.|qy^d|2608|1
+A|Uh-huh.|ny|2608|0
+B|Uh-huh.|b^m|2608|1
+A|But it's got to have one that has a cover on it.|sd|2608|0
+B|Okay,|b|2608|1
+B|uh-huh.|b|2608|1
+A|And you, uh, put about two tablespoons of, uh, water into this bowl, and about an eighth a teaspoon of salt.|ad|2608|0
+B|Yeah.|b|2608|1
+A|And then you just set your cauliflower in there,|ad|2608|0
+B|Uh-huh.|b|2608|1
+A|and then you cook it for seven minutes on high.|ad|2608|0
+A|And you rotate it one time.|ad|2608|0
+B|And it's, are you cooking the whole head at one time?|qy|2608|1
+A|Uh-huh. Uh, when you core it, you be real careful so you won't knock your flowers off.|ny|2608|0
+B|Okay.|bk|2608|1
+B|I see.|aa|2608|1
+A|And, uh, you just set it in there,|ad|2608|0
+A|and you microwave it on high for seven minutes,|ad|2608|0
+A|and you turn it one time.|ad|2608|0
+B|Uh-huh.|b|2608|1
+A|And while that's cooking, I take mayonnaise, about a cup of mayonnaise, and a teaspoon of mustard, and some garlic powder,|sd|2608|0
+A|and I mix it all together.|sd|2608|0
+A|And I shred up some just regular white cheese.|sd|2608|0
+B|Uh-huh.|b|2608|1
+A|And after that's cooked, you take it out and pour this on top of it,|ad|2608|0
+A|and then you sprinkle the cheese on top of that.|ad|2608|0
+A|And you cook it for another three minutes on high, you know,  just mainly to melt the cheese and everything, and let all the seasoning melt into it.|ad|2608|0
+B|Uh-huh.|b|2608|1
+A|And,  it's done.|sd|2608|0
+B|Yeah.|b|2608|1
+B|Oh, that sounds fantastic.|ba|2608|1
+A|It is good.|sd|2608|0
+A|But it, it looks,|%|2608|0
+A|I mean, what you can do then, see is, like what I usually do is, I'll like sit the cauliflower in the middle,|sd|2608|0
+A|and then I put the, uh, shrimp around the outside of it,  you know, on my platter.|sd|2608|0
+B|Um, um.|b|2608|1
+B|Uh-huh.|b|2608|1
+A|And then I have a green salad that I put around the outside of that.|sd|2608|0
+A|And, you know, you have all the different seasonings and stuff,|sd|2608|0
+A|and then I just fix little individual cups for them.|sd|2608|0
+A|And they have the,  garlic bread,|sd|2608|0
+B|Sure.|b|2608|1
+A|and it makes it a real nice looking,  you know.|sd|2608|0
+B|And it's  not much work.|sv|2608|1
+A|Huh-uh,|aa|2608|0
+A|huh-uh.|aa|2608|0
+A|But it looks like it, you know|sv|2608|0
+B|That sounds,|%|2608|1
+B|Yeah,|aa|2608|1
+A|You look like you went to a whole bunch,|sd|2608|0
+B|I bet it tastes good too.|qy^d|2608|1
+A|Right.|na|2608|0
+A|And, uh, usually I cut those little cherry tomatoes up,  and put some color into it, you know,|sd|2608|0
+B|Oh, yeah.|b|2608|1
+A|and I'll lay those on top of my salad, you know, to make it look nice and things like that.|sd|2608|0
+B|Now, how many could you serve?|qw|2608|1
+A|Okay.|^h|2608|0
+A|Uh, it usually serves six.|sd|2608|0
+B|Yeah.|bk|2608|1
+B|okay.|bk|2608|1
+B|I figured about that.|sd|2608|1
+A|Yeah.|b|2608|0
+B|Oh, that's good.|ba|2608|1
+B|See out here, we have so many, uh, ethnic people.|sd|2608|1
+B|We have Italians,|sd|2608|1
+B|and we have Portuguese,|sd|2608|1
+B|and we have Russians and Polish.|sd|2608|1
+B|And it depends, out here, like the type of people you're going to entertain, you know?|sd|2608|1
+A|Uh-huh.|b|2608|0
+B|So it's hard, uh,|sv|2608|1
+B|you, you just have to pick something, for the, the group that you're going to entertain for that particular time.|sv|2608|1
+A|Yeah.|b|2608|0
+B|And, uh, they're big on finger food here, too. You know, chicken wings and, uh, ribs, and that kind of stuff. Uh, barbecue and, uh, cooking out in the yard, it, you know, when it's nice. Barbecue outside, chicken and that kind of stuff.|sd|2608|1
+A|Yeah.|b|2608|0
+A|Yeah.|b|2608|0
+A|Have you ever had crawfish?|qy|2608|0
+B|Uh, no,|nn|2608|1
+B|but I have had shrimp.|sd|2608|1
+A|Oh. You ought to try some crawfish.|ad|2608|0
+A|They are good.|sd|2608|0
+A|But see, that's one good thing about living down here is, usually anybody that comes over, you know, even if it's like, out of town guests and stuff, they want our cooking.|sv|2608|0
+B|Oh, of course.|ba|2608|1
+A|You know,  they want it from down here.|sv|2608|0
+B|That's,|%|2608|1
+B|Yeah.|b|2608|1
+A|Because, just like now, especially crawfish, it is starting to move out, you know,|sv|2608|0
+A|and more and more people are beginning to find out how good it is.|sv|2608|0
+B|Really?|bh|2608|1
+A|But,|%|2608|0
+B|Is it like shrimp?|qy|2608|1
+A|Uh, it's similar.|na|2608|0
+A|Uh-huh.|ny|2608|0
+B|It's similar.|b^m|2608|1
+A|Yeah.|ny|2608|0
+A|It's not exactly.|sd|2608|0
+A|I mean, it's got a taste of its own, you know,|sd|2608|0
+A|but it is,  it is similar to, because you only eat the,  tails of it.|sd|2608|0
+B|Oh, it does?|bh|2608|1
+B|Does,  it look like a lobster?|qy|2608|1
+A|Um, it looks more like a crab.|ng|2608|0
+B|Oh, it looks more like a crab.|bk|2608|1
+A|Uh-huh.|ny|2608|0
+B|Oh.|bk|2608|1
+A|But,|%|2608|0
+B|Are they thin, long or wide?|qy|2608|1
+A|No.|nn|2608|0
+A|Um, let me think of, I can't even think of what you,|^h|2608|0
+A|I guess if, it, uh, it looks like, more like a cross between, uh, a crab and, uh, and a lobster.|sd|2608|0
+B|Uh-huh.|b|2608|1
+A|Because it's small like that|sd|2608|0
+A|and it's got the pinchers like a crab.|sd|2608|0
+A|But,  you know, it's, it's similar to a lobster too, because the tail has got the little pleats in it, like a,  lobster would.|sd|2608|0
+B|Uh-huh.|b|2608|1
+B|Oh, yeah.|b|2608|1
+B|Yep.|b|2608|1
+A|And we call them mud bugs|sd|2608|0
+B|Oh|b|2608|1
+A|But, I mean, they're fantastic tasting.|sd|2608|0
+A|They are so good.|sd|2608|0
+A|Everybody,|%|2608|0
+A|it's, it's the season for them right now.|sd|2608|0
+B|And, and where did you say you were from?|qw|2608|1
+A|Louisiana.|sd|2608|0
+B|Louisiana.|b^m|2608|1
+B|Oh, well, do you do cajun cooking?|qy|2608|1
+A|Oh, yeah.|ny|2608|0
+B|Oh, I love, uh, blackened, you know, uh, the, the fish and the chicken and that kind of stuff.|sd|2608|1
+A|Uh-huh.|b|2608|0
+B|Oh! We have a few places up here that do that.|sd|2608|1
+A|Yeah.|b|2608|0
+B|And if ever I see it on the menu, I always get it.|sd|2608|1
+A|Yes.|b|2608|0
+B|It is so good|sv|2608|1
+A|You know,|b|2608|0
+B|Now how do they do the blackened?|qw|2608|1
+A|You buy it, you buy it as a seasoning.|ad|2608|0
+B|But, uh, do you have to have a certain skillet,  or something?|qy|2608|1
+A|Huh-uh.|b|2608|0
+A|Huh-uh.|nn|2608|0
+B|No?|bh|2608|1
+A|I cook mine, well, do you have a, uh, like a black iron skillet?|qy|2608|0
+B|I did have.|ng|2608|1
+B|I don't have it now.|sd|2608|1
+B|But I have mostly Teflon.|sd|2608|1
+A|Oh, okay.|bk|2608|0
+A|Well,  I guess you could cook it in, in that too,|sv|2608|0
+B|You now,|%|2608|1
+B|but,|%|2608|1
+A|but I don't know.|h|2608|0
+A|You know, I never have.|sd|2608|0
+A|I use, uh, uh, the black iron skillet to cook mine.|sd|2608|0
+B|does it have to get extremely hot?|qy|2608|1
+A|Uh-huh.|ny|2608|0
+B|Yeah.|b|2608|1
+A|But it really, it's not, it, it, it doesn't burn or anything like that.|sd|2608|0
+A|The blackening is really the seasoning.|sd|2608|0
+B|Uh-huh.|b|2608|1
+A|I mean, there is,  it's, it's,  a blackening seasoning.|sd|2608|0
+B|Oh, oh,  I see.|b|2608|1
+B|Yeah.|b|2608|1
+A|You know, I mean, that is a seasoning.|sd|2608|0
+A|That's really, it's not like you would have to cook it for an extreme amount of time, or something like that, to get it,|sd|2608|0
+B|Oh, I see.|b|2608|1
+A|Because, it's called, uh, what it's called is, Blackening Magic.|sd|2608|0
+A|And it, it comes in a bottle,|sd|2608|0
+A|and, uh, Well, I'm trying to see.|^h|2608|0
+B|Oh.|b|2608|1
+A|It's got a, a picture of Dom De Luise on it.|sd|2608|0
+B|Oh, really?|bh|2608|1
+A|Uh-huh.|ny|2608|0
+B|Oh.|bk|2608|1
+B|Now would, you would cook it for the same amount of time as you would, prepare it any other time?|qy|2608|1
+A|Right.|na|2608|0
+B|Is that what you're saying?|qy|2608|1
+A|Uh-huh.|ny|2608|0
+B|Oh, uh-huh.|b^m|2608|1
+B|Because,  I could have the, uh, chicken on the skewers, with, uh, uh, blackened seasoning.|sd|2608|1
+A|But,|%|2608|0
+A|Uh-huh.|b|2608|0
+B|And, oh, that is so good. Delicious.|sv|2608|1
+A|Yeah.|aa|2608|0
+A|But you do have to have it, you know, you do have to have it hot when you cook it. I mean,  your pan.|ad|2608|0
+B|Uh-huh.|b|2608|1
+B|Uh-huh.|b|2608|1
+A|It does have to be really hot, you know, when you put it in.|sd|2608|0
+A|But it's not like it's burned,|sd|2608|0
+A|and it, what it, what blackens it, is the seasoning.|sd|2608|0
+B|Oh.|b|2608|1
+A|And it is so good.|sv|2608|0
+A|Oh!|ba|2608|0
+B|It is.|aa|2608|1
+B|I, I love it.|sd|2608|1
+A|Yeah.|b|2608|0
+B|I, I, in fact I was in Texas for a little while.|sd|2608|1
+A|Uh-huh.|b|2608|0
+B|And I liked, uh, the barbecues and the Mexican food.|sd|2608|1
+A|Uh-huh.|b|2608|0
+B|I have a passion for all that type of different tastes.|sd|2608|1
+B|Because I have been brought up mostly Italian American food.|sd|2608|1
+B|Because my, uh, parents are Italian and Portuguese.|sd|2608|1
+B|So we cook a lot of pasta, and, uh, gravies, and pizzas, and, you know, roasts, and that kind of thing.|sd|2608|1
+A|Uh-huh.|b|2608|0
+B|That's why I enjoy going to restaurants and have, you know, trying different things.|sd|2608|1
+A|Well, have you ever thought about coming to Louisiana, you know, to visit?|qy|2608|0
+B|I would love to.|no|2608|1
+A|Yeah.|b|2608|0
+A|You ought,  to come down.|ad|2608|0
+B|I,|%|2608|1
+A|Um, you don't even have to go all the way to New Orleans, you know, if you want to really get some good food.|sv|2608|0
+B|Really?|bh|2608|1
+A|I mean, you don't have to go that far south.|sv|2608|0
+B|Uh-huh.|b|2608|1
+A|But, uh, of course, the further south you go, the better the food is, as far as I'm concerned.|sv|2608|0
+B|Is that right?|bh|2608|1
+A|And fact is, we're going to take a vacation this year.|sd|2608|0
+A|We're going to go to New Orleans, again.|sd|2608|0
+B|Uh-huh.|b|2608|1
+A|And, uh, we're only going down there for the food, though|sd|2608|0
+B|Now, where do you go when you go there? Uh, right on Basin Street and those places?|qy|2608|1
+A|Uh, yeah.|ny|2608|0
+A|We go to the, the French Quarters and stuff like that.|sd|2608|0
+B|Uh-huh.|b|2608|1
+A|And, uh, I have some friends that live down there.|sd|2608|0
+A|And so, usually we go to, we don't go to the tourist ones.|sd|2608|0
+B|Oh.|b|2608|1
+A|We go to the ones that they tell us to go to, you know.|sd|2608|0
+B|Oh, I see.|b|2608|1
+A|And we went to this one,|sd|2608|0
+A|it was called The Back Porch.|sd|2608|0
+A|And, uh, they were cooking the stuff, you know, while we were, we went on this boat ride.|sd|2608|0
+A|And then we came back and ate, out on this, it was like a back porch|sd|2608|0
+A|And, uh,  usually if you can find somebody,|%|2608|0
+B|Oh, that's nice.|ba|2608|1
+A|in Of course now, when you go down there, you know, I mean, they've got just,|sd|2608|0
+A|there's no where you can miss.|sd|2608|0
+B|Uh-huh.|b|2608|1
+A|I have never gone to a restaurant, and not just been so full,|sd|2608|0
+A|it's unreal.|sd|2608|0
+B|Really?|bh|2608|1
+A|I mean, it's so good.|sd|2608|0
+A|The seasoning they, it's just unreal.|sd|2608|0
+B|And don't they make a lot of, um,|%|2608|1
+B|I'm trying to think what they call their soup.|sd|2608|1
+B|I don't know.|h|2608|1
+A|Gumbo.|qy^d|2608|0
+B|Yeah,|ny|2608|1
+B|jumbo.|sd|2608|1
+A|No, gumbo.|ar|2608|0
+B|Gumbo,|b^m|2608|1
+A|Uh-huh.|ny|2608|0
+B|right.|b|2608|1
+A|Right.|b^m|2608|0
+B|Is, is, is that with seafood?|qy|2608|1
+A|Uh-huh.|ny|2608|0
+A|You can even make it with chicken or you can make it with seafood.|sd|2608|0
+B|Oh, you can?|bh|2608|1
+A|Uh-huh.|ny|2608|0
+B|That looks good too.|ba|2608|1
+B|I've seen them the chefs on T V do that?|sd|2608|1
+A|Uh-huh.|b|2608|0
+B|And oh, it looks delicious.|sv|2608|1
+A|And I'll tell you what.|^h|2608|0
+B|See we do, um, uh, a thing, we call it a sea bake.|sd|2608|1
+B|You, uh, you take clams,|ad|2608|1

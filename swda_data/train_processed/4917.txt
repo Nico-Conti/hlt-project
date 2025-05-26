@@ -1,0 +1,160 @@
+A|an interesting topic.|sv|4917
+B|Yes.|aa|4917
+B|The, uh, type of cars that I was, uh, I would be most interested in if I was going to buy another car now would probably be something like a, uh, Mazda Miata.|sd|4917
+A|Uh-huh.|b|4917
+B|Uh, the, uh,|%|4917
+B|I'm very much a, a fan of sports cars.|sd|4917
+A|Ah.|ba|4917
+A|Boy,  you and my husband would have a whole lot in common|sv|4917
+B|The,|%|4917
+B|The, uh,|%|4917
+B|uh, uh, though, actually, in|%|4917
+B|actually if I|%|4917
+B|I have|%|4917
+B|I've avoided buying a new car for quite some time.|sd|4917
+B|I'd rather put my money into, uh, restoring my old cars.|sd|4917
+B|I have a old Triumph T R Six.|sd|4917
+A|Uh-huh.|b|4917
+B|And, uh, uh, so, uh,|%|4917
+B|but if I was to buy one, probably something like a Miata.|sd|4917
+B|It's certainly,|%|4917
+B|I wouldn't have to worry about it breaking down all the time|sd|4917
+A|Oh, really.|bh|4917
+B|Yeah|ny|4917
+A|What's the,|%|4917
+A|how old is your car?|qw|4917
+B|Uh, well I have a, I have a nineteen eighty, uh, eighty-five C R X.|sd|4917
+A|Oh.|b|4917
+B|Uh, which is, you know, it's,|sd|4917
+B|it still works fine|sd|4917
+A|Yeah.|b|4917
+A|Right.|b|4917
+B|But it's, it's actually, it's kind of annoying cause I've got no reason to replace it|sd|4917
+A|Oh.|b|4917
+B|But, uh, Oh, those are,|%|4917
+A|Yeah.|b|4917
+A|So what do the Miatas run?|qw|4917
+B|they're about, uh, uh, thirteen to fourteen thousand dollars and, you know, a bit more if you add some some options and so on|sd|4917
+B|but  the,|%|4917
+A|Well, that's not too bad.|sv|4917
+B|uh, yeah,|aa|4917
+B|that's a pretty good price|sv|4917
+B|and  they're, they're, they're, they're so nice to drive.|sd|4917
+A|Yeah.|b|4917
+A|Really?|bh|4917
+A|I've never driven one.|sd|4917
+B|Uh, uh, it's, it's, it's nice.|sd|4917
+B|They're,|%|4917
+B|I've been down to a dealer and driven them.|sd|4917
+B|And I've also driven one at a, something Mazda put on where, uh, they went to, uh, autocross events across the country. Uh, which is where you race in, uh, you race on, in a parking lot or something like that with a bunch of, uh, cones to see who can get through the fastest.|sd|4917
+A|Huh?|br|4917
+B|Uh, you know, about a minute or so. And, uh, very twisty stuff.|sd|4917
+A|Uh-huh.|b|4917
+B|And oh, it handles so nicely.|sd|4917
+A|And so you've done this?|qy^d|4917
+B|Yeah.|ny|4917
+A|Oh.|b|4917
+A|Okay.|bk|4917
+B|Yeah.|b|4917
+A|Oh|b|4917
+B|It was just,|%|4917
+B|it, it's just so smooth|sd|4917
+B|and.|%|4917
+A|Really?|bh|4917
+A|Yeah|%|4917
+B|Yeah.|aa|4917
+B|Nice car.|sv|4917
+B|What are you interested in?|qw|4917
+A|Whatever my husband buys|sd|4917
+B|Yeah.|b|4917
+B|You you don't get involved in, uh, car decisions?|qy^d|4917
+A|Oh, not too much.|ng|4917
+A|No.|nn|4917
+A|We, uh, we just got rid of a full conversion van that, that I, I, that wasn't me.|sd|4917
+A|That was my husband.|sd|4917
+A|He wanted a van|sd|4917
+A|and he wanted to drive that van and travel and wanted everything in there. T V, you know, the whole bit.|sd|4917
+A|But I never drove it|sd|4917
+A|so it just, it wasn't me, you know.|sd|4917
+B|Yeah.|b|4917
+B|I can understand.|ba|4917
+A|And then,  Oh, I'd want a minivan|sd|4917
+B|yeah.|b|4917
+B|They're nice.|sv|4917
+A|Because I'm with the kids all the time.|sd|4917
+B|Oh, yeah.|aa|4917
+B|That's  perfect for that.|sv|4917
+A|Yeah.|b|4917
+A|Yeah.|b|4917
+A|And,|%|4917
+B|It's not,|%|4917
+B|it, it's small enough that it's easy to drive.|sv|4917
+A|Yeah.|aa|4917
+A|You pick up  I pick up my little one from preschool|sd|4917
+B|Holds a lot.|sv|4917
+A|and the whole parking lot's full of minivans.|sd|4917
+B|Yeah.|b|4917
+A|But, you know, I, I drive a little Subaru.|sd|4917
+B|Yeah.|b|4917
+A|And, uh, we, I love that.|sd|4917
+A|I,|%|4917
+A|we were going to trade that in for the van|sd|4917
+A|but I just wanted to hold on to it cause I just really enjoy that.|sd|4917
+B|Right.|b|4917
+A|And, uh, that's really all I needed was for something just to go here and there and back.|sd|4917
+B|Yeah.|b|4917
+B|Minivans are nice.|sv|4917
+B|I have a friend who has a minivan.|sd|4917
+A|Uh-huh.|b|4917
+B|And, uh, I've driven it a few times|sd|4917
+B|and, uh, it's nice,|sd|4917
+B|it's nice.|sd|4917
+B|Of course, you know, my my family has always had cars like that. Uh, in that, you know, my father's had a, had a, always had a V W bus every since, uh nine, about nineteen sixty or so.|sd|4917
+A|Oh, really|b|4917
+A|Oh, really.|b|4917
+B|Uh, uh,|%|4917
+B|they, well,|%|4917
+B|he, he used it,|sd|4917
+B|he often has to transport plants or, uh, things  like that cause he's, he goes to orchid shows and, and, you know, fills the car with plants. And so on|sd|4917
+A|Yeah.|b|4917
+B|or .|%|4917
+A|Yeah.|b|4917
+A|It's amazing what a minivan can do.|sv|4917
+A|We went camping this past weekend with some friends that had a minivan. And pulled the, uh, the little trailer behind.|sd|4917
+B|Uh-huh.|b|4917
+B|Uh-huh.|b|4917
+A|The pop-up trailer?|qy|4917
+B|Uh-huh.|ny|4917
+A|And, uh, it's,|%|4917
+A|so it's really amazing how much a minivan you know, what it can do.|sv|4917
+B|Yeah.|aa|4917
+B|And they're not that expensive.|sv|4917
+A|No,|aa|4917
+A|they're not.|sv|4917
+B|Yeah.|b|4917
+A|They're probably .|%|4917
+B|Mainly because everyone makes them, you know|sv|4917
+A|Yeah.|b|4917
+B|You can take your choice of how expensive you want it to be.|sv|4917
+A|Yeah.|aa|4917
+A|And we, we do a lot of, uh, driving.|sd|4917
+A|We do a lot of traveling. By car.|sd|4917
+B|Uh-huh|b|4917
+A|And so that's the only time that the, that the, uh, conversion van came in handy.|sd|4917
+A|But it really didn't cause our, our kids are still little.|sd|4917
+B|Uh-huh.|b|4917
+A|So, uh, that was the only time we really needed it.|sd|4917
+A|Other than that, it got terrible mileage|sd|4917
+A|and.|%|4917
+B|Yeah|b|4917
+B|Yeah.|b|4917
+B|Minivans do pretty well. You know, twenty, twenty, twenty-five miles per gallon or more.|sv|4917
+A|Yeah.|b|4917
+A|Yeah.|b|4917
+B|Some of them probably even do thirty.|sd|4917
+A|Yeah.|b|4917
+B|The, uh,|%|4917
+B|yeah.|%|4917
+B|There, there's some other cars I'd like|sd|4917
+B|but I, I would never be willing to send quite that much money for, uh, like, uh, uh,|sd|4917
+B|I'll drool over them.|sd|4917

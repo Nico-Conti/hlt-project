@@ -1,0 +1,153 @@
+A|All Right.|fo_o_fw_"_by_bc|2266|0
+A|Ladies, first.|ad|2266|0
+B|Oh, no.|ba|2266|1
+B|Well, I don't find a lot of time to watch T V.|sd|2266|1
+B|And a lot of time, I find it during the day when, when I'm rocking my little girl to sleep,|sd|2266|1
+B|so I watch a lot of reruns, old shows, Like DICK VAN DYKE, all those old crazy shows.|sd|2266|1
+B|Yeah|aa|2266|1
+B|I really enjoy watching ANDY GRIFFITH.|sd|2266|1
+A|Well,|%|2266|0
+A|so your a homemaker?|qy|2266|0
+B|Yeah.|ny|2266|1
+A|I guess, that's, the right term nowadays.|sv|2266|0
+B|Yeah.|aa|2266|1
+B|I guess so.|aap_am|2266|1
+B|Yeah,|ny|2266|1
+B|I am.|sd|2266|1
+B|I stay home with two kids.|sd|2266|1
+A|Yeah.|b|2266|0
+A|My wife,|%|2266|0
+A|we have a new one in the house|sd|2266|0
+A|and she stays home, too, also.|sd|2266|0
+B|Huh-uh.|b|2266|1
+A|Um, I guess, I have a wide variety.|sd|2266|0
+A|I like watching the T V for things that are interesting,|sd|2266|0
+A|not so much the things that aren't,|%|2266|0
+A|for example, like the COSBY SHOW to me is just kind of like a waste of my time, and DIFFERENT STROKES.|sv|2266|0
+B|Huh-uh.|b|2266|1
+A|But I like SIXTY MINUTES, PRIME TIME LIVE.|sd|2266|0
+B|Huh-uh.|b|2266|1
+A|Of course, I have to watch cartoons on Saturday morning, but not the NINJA TURTLES.|sd|2266|0
+A|I like the old-timey ones, TOM AND JERRY.|sd|2266|0
+B|You sound like my husband.|sd|2266|1
+A|There you go.|fo_o_fw_"_by_bc|2266|0
+B|He likes TOM AND JERRY and, uh, BUGS BUNNY AND ALL HIS FRIENDS. And all those guys.|sd|2266|1
+A|Right.|b|2266|0
+A|JOHNNIE QUEST. the good ones.|sd|2266|0
+B|Yeah. Yeah.|b|2266|1
+A|Um, now if I'm ever home during the, during the day on a vacation day, I have to catch at twelve o'clock the ANDY GRIFFITH SHOW, because I usually, because he's just, he's one of my idles.|sd|2266|0
+A|And then, uh, but I don't know,|h|2266|0
+A|it seems like nowadays everything is so electronic, you know, magnified and animated, that you can grab from the old style movies and old style shows a little bit more insight to family groupings.|sv|2266|0
+B|Huh-uh.|b|2266|1
+B|Huh-uh.|b|2266|1
+A|And so, uh, now I do, with the COSBY SHOW,|%|2266|0
+A|I have seen it a couple of times|sd|2266|0
+A|and, I do,|%|2266|0
+A|I like the show.|sd|2266|0
+A|I just don't watch it. Because of the timing,|sd|2266|0
+B|Yeah.|b|2266|1
+A|but, uh, some of the crap that's on T V nowadays, it's about .|sv|2266|0
+B|Yeah.|b|2266|1
+A|I do watch the special shows that they come out with, the NOVA stuff. And, and, the nature shows.|sd|2266|0
+B|Yeah.|b|2266|1
+B|Yeah.|b|2266|1
+B|Yeah.|b|2266|1
+A|But, I think there's enough out there to pick from.|sv|2266|0
+A|I'm not,|%|2266|0
+A|we don't have cable to the point of, of the H B O or any of that stuff.|sd|2266|0
+B|Yeah.|b|2266|1
+A|Yeah.|b|2266|0
+A|But, uh,|%|2266|0
+B|Well, I find myself watching just a whole lot of whatever is geared for children. Because, *two utts with two kids|sd|2266|1
+A|Huh-uh.|b|2266|0
+B|and, you know, I don't want them watching something that I don't think they should watch|sd|2266|1
+B|or, I used to be really hooked on ALL MY CHILDREN,|sd|2266|1
+A|Sure.|b|2266|0
+A|Oh, me.|ba|2266|0
+B|And I watched that for like, oh, ten or fifteen straight years,|sd|2266|1
+A|Oh, no.|ba|2266|0
+B|and then I had, well, you know, I'd eat|%|2266|1
+B|like at work, we'd have a T V or whatever.|sd|2266|1
+B|And then, um, as my kids got older and started, you know, recognizing what was going on, I thought, this isn't really very good|sd|2266|1
+B|So I gave it up.|sd|2266|1
+A|Fifteen years.|bf|2266|0
+B|Yeah.|b|2266|1
+A|Bet they hated that.|bf|2266|0
+B|I watched, I had watched it since it started.|sd|2266|1
+B|So,|%|2266|1
+A|Oh, goodness.|ba|2266|0
+B|Uh, now I, I don't know who the characters are,|sd|2266|1
+B|and, um, I'll turn it on every once in awhile|sd|2266|1
+B|and I don't recognize anybody,|sd|2266|1
+B|so I guess that's a good sign|sv|2266|1
+A|Yeah.|aa|2266|0
+A|Really.|aa|2266|0
+A|I used to watch, uh,|%|2266|0
+A|I can recall,|%|2266|0
+A|this might age me, date me here, uh,|h|2266|0
+A|I can remember staying home, when I was five and six, and my mother watching the EDGE OF NIGHT.|sd|2266|0
+B|Huh-uh.|b|2266|1
+B|Oh, yeah.|b|2266|1
+B|Well, see, you're probably about the same age as me because my mom watched the SECRET STORM, and the EDGE OF NIGHT.|sd|2266|1
+A|SECRET STORM.|b^m|2266|0
+A|Well, I think they were back to back, and black and white.|sd|2266|0
+B|Huh-uh.|b|2266|1
+B|Huh-uh.|b|2266|1
+A|I was just a youngster|sd|2266|0
+A|and I was like, oh, my gosh.|sd|2266|0
+B|Yeah,|b|2266|1
+B|we used to,|%|2266|1
+B|my mother watched all that stuff, too.|sd|2266|1
+B|And AS THE WORLD TURNS. I think AS THE WORLD TURNS may, still on or not.|sd|2266|1
+A|Still be on.|^2|2266|0
+B|It was not too long ago.|sd|2266|1
+A|Yeah.|b|2266|0
+A|Now they got a lot of other crap involved.|sv|2266|0
+A|And so,|%|2266|0
+B|Yeah.|b|2266|1
+A|You're right.|aa|2266|0
+A|I think some of the tones of the, the daily prime time is questionable,|sv|2266|0
+B|Yeah.|b|2266|1
+A|And that could be, uh,|%|2266|0
+A|I have to agree with you.|aa|2266|0
+B|Yeah.|b|2266|1
+A|You know keep them on the channel eleven, channel twenty one. The nature stuff, you know|sv|2266|0
+B|Right.|b|2266|1
+B|Yeah.|aa|2266|1
+B|We do,|sd|2266|1
+B|and it's real interesting, too, the difference in my kids,|sd|2266|1
+B|like um, my oldest loved SESAME STREET, And those kind of shows.|sd|2266|1
+A|Huh-uh.|b|2266|0
+B|My younger one doesn't.|sd|2266|1
+B|She's more into WALT DISNEY kind, you know,|sd|2266|1
+B|we watch a lot of movies that we've got on V C, on tapes, and stuff.|sd|2266|1
+A|Huh-uh.|b|2266|0
+B|She's more into the animated stuff, where my other daughter liked puppets and that kind of thing|sd|2266|1
+B|so, But, um, we do a lot of kid watching.|sd|2266|1
+A|Huh-uh.|b|2266|0
+A|Well, sounds like you got your hands full there,|sv|2266|0
+A|and I do appreciate speaking with you.|sv|2266|0
+B|Sure.|ba|2266|1
+B|It was fun.|bf|2266|1
+A|Have you gotten your catalog yet?|qy|2266|0
+B|No,|nn|2266|1
+B|I don't think so.|sd|2266|1
+A|Yeah.|b|2266|0
+A|I just spoke with Jim.|sd|2266|0
+A|I just got my in the mail *sp? mine|sd|2266|0
+A|and it inspired me to make more phone calls|sd|2266|0
+B|Oh, well, see I don't really.|%|2266|1
+B|I've had a few people call me,|sd|2266|1
+B|but, I've never made one.|sd|2266|1
+A|Oh, really.|bh|2266|0
+B|Yeah.|ny|2266|1
+B|I need to get brave|sd|2266|1
+A|Yeah.|b|2266|0
+A|Give them your pen number. *sp: pin|ad|2266|0
+B|Yeah.|aa|2266|1
+B|Yeah.|aa|2266|1
+B|That's what I need to do.|sd|2266|1
+A|Have a good day.|fc|2266|0
+B|Thanks.|fc|2266|1
+A|Bye-bye.|fc|2266|0
+A|Bye-bye.|fc|2266|0

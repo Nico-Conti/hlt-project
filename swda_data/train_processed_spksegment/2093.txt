@@ -1,0 +1,155 @@
+A|I guess, um, I'm going to school while I'm working at T I,|sd|2093|0
+A|so there's not a whole a lot of time that I've got, uh, for hobbies it seems like lately.|sd|2093|0
+A|But one of the things that I do when I've got some spare time is I do some woodworking.|sd|2093|0
+A|And that, oh, I guess, ranges anywhere from, uh, carpentry work to, um, um, some types of furniture and, um, oh, I don't know what you would call them, knickknacks, I guess, stuff you hang on the wall to put a mirror on|sd|2093|0
+A|and I made some, um, candle sconces that you hang on the ...|sd|2093|0
+B|Yeah,|b|2093|1
+B|I have quite a few of those that my uncle made.|sd|2093|1
+A|There's something about working with wood that, that I enjoy, that,|sd|2093|0
+A|I don't know if it's the saw dust or the mess you make or the smell of the wood|sd|2093|0
+A|but,|%|2093|0
+B|As you know, I think it's more like the mess you make, isn't it?|sv|2093|1
+B|You don't have to worry about cleaning it up.|sd|2093|1
+A|Yeah,|aa|2093|0
+A|because it's, it's out there.|sd|2093|0
+A|You know I don't have to worry about getting stuff on the carpet except when I track in saw dust,|sd|2093|0
+A|and the wife gets kind of aggravated about that,|sd|2093|0
+A|but then, I get the opportunity to vacuum,|sd|2093|0
+A|so I guess I get some of both.|sd|2093|0
+A|What are some of your things you like to do?|qw|2093|0
+B|Well, when I have time I do like to sew,|sd|2093|1
+B|um, I had been doing a lot of crocheting.|sd|2093|1
+B|I make a lot of afghans or used to make a lot of them.|sd|2093|1
+A|Yeah.|b|2093|0
+B|My mother was real heavy into crafts,|sd|2093|1
+B|and I would help her with whatever she happened to be doing,|sd|2093|1
+B|and then, she would go to these, uh, arts and crafts shows and sell her needlework.|sd|2093|1
+A|Oh, yeah.|b|2093|0
+B|So, a lot of times I'd help her with that.|sd|2093|1
+B|I haven't had much opportunity to work on any other craft stuff lately|sd|2093|1
+B|we've been trying to start up a business and then trying to get my garden going.|sd|2093|1
+A|Yeah,|b|2093|0
+A|it's a good time for gardening.|sv|2093|0
+B|Oh, yeah,|aa|2093|1
+B|it's been beautiful this last week|sd|2093|1
+B|but,|%|2093|1
+A|I could do with a little less wind,|sd|2093|0
+A|but I think the, the temperature has been pretty good so far for working outside.|sd|2093|0
+B|Yeah.|b|2093|1
+A|Do you find you do most of your, your, uh, crocheting or your knit work around Christmas time?|qy|2093|0
+B|I usually start in the fall.|sd|2093|1
+A|Yeah.|b|2093|0
+B|And my husband says I do it, you know, make afghans so I can keep my lap warm.|sd|2093|1
+A|Well, that's kind of what my wife says.|sd|2093|0
+A|She enjoys doing it during the cold weather because she's always got something to cover her, her legs and feet with while she is working on it.|sd|2093|0
+B|Yeah.|b|2093|1
+A|I know it seems like, she,|sd|2093|0
+A|I think she made three this year one for, uh, my father-in-law and then a couple of brothers and sisters.|sd|2093|0
+A|So, those things they take some time to make.|sv|2093|0
+B|Yeah,|aa|2093|1
+B|I found one that's real easy,|sd|2093|1
+B|it's, it's, um, um, um,|%|2093|1
+B|shoot, I can't even remember the name of it now,|sd|2093|1
+B|but you make it in strips.|sd|2093|1
+B|And it's real easy to do,|sd|2093|1
+B|and it's just that it doesn't keep your feet quite as warm because you do it in strips like that|sd|2093|1
+B|but it's,|%|2093|1
+A|Well, that's kind of like quilting.|bf|2093|0
+B|Yeah,|b|2093|1
+B|yeah.|b|2093|1
+A|I think|%|2093|0
+B|Mile a Minute.|sd|2093|1
+B|That's the name of it.|sd|2093|1
+A|Mile a Minute.|b^m|2093|0
+B|Mile a Minute.|sd|2093|1
+A|Well, I'm not sure what she does|sd|2093|0
+A|I, I,|%|2093|0
+A|first thing that comes to mind is some kind of chain stitch because she starts and goes all the way across, you know, back and forth until she winds up with this big piece of, of afghan.|sd|2093|0
+A|I guess that is your standard knitting, isn't it?|qy|2093|0
+B|Yeah,|ny|2093|1
+B|yeah.|ny|2093|1
+B|Usually single crochet would, is, is always starts it off.|sd|2093|1
+A|Yeah,|aa|2093|0
+A|I know,|sd|2093|0
+B|If we have a problem with our connection and get disconnected some time or other, don't worry about it.|ad|2093|1
+B|We have a, a very small phone company down here.|sd|2093|1
+A|Oh, okay.|bk|2093|0
+B|And my husband says that's called rinky-dink|sd|2093|1
+A|Instead of call waiting or call anything else.|bf|2093|0
+B|No,|ar|2093|1
+B|no.|ar|2093|1
+B|We can't have that down here.|sd|2093|1
+B|We get disconnected all the time.|sd|2093|1
+A|Well, I guess that's, that's one way to end a conversation.|sv|2093|0
+B|Yeah,|aa|2093|1
+B|well, it gets a little aggravating.|sd|2093|1
+B|I've got kids all over the United States|sd|2093|1
+B|and, and, you know, sometimes they get disconnected when I'm talking to them.|sd|2093|1
+A|Yeah.|b|2093|0
+A|What,|%|2093|0
+A|have you started your garden yet?|qy|2093|0
+B|Yes.|ny|2093|1
+B|We planted, um, potatoes and onions and bell peppers.|sd|2093|1
+A|Um, boy.|ba|2093|0
+B|Uh, what else did I get in there,|t1|2093|1
+B|and jalapeno peppers.|sd|2093|1
+A|Oh, yeah,|ba|2093|0
+A|always got to have those.|sv|2093|0
+B|Yeah.|b|2093|1
+A|I think I had four, uh, jalapeno plants last year.|sd|2093|0
+A|I think one of them died,|sd|2093|0
+A|but I, I've got, I've put them, I chop them up and put them in jars and usually give them away because I, there is no way that I can eat all of those|sd|2093|0
+A|nobody else in the family likes them,|sd|2093|0
+A|but always got to the keep those planted.|sd|2093|0
+B|Yeah,|b|2093|1
+B|oh, my husband doesn't like them either,|sd|2093|1
+B|but I can always give them away.|sd|2093|1
+A|Well, that's kind of the way I am, um.|sd|2093|0
+B|Besides they're fun to grow.|sv|2093|1
+A|I planted, uh, zucchini last year.|sd|2093|0
+A|Uh, I planted four hills of them.|sd|2093|0
+A|I think I had three or four seeds in each one of them,|sd|2093|0
+A|and those things just flat took over.|sd|2093|0
+A|Um, it wasn't until late, I guess in the summer,|sd|2093|0
+A|maybe it was because it was too dry,|sd|2093|0
+A|they finally started making zucchini,|sd|2093|0
+A|and I'm not sure when a good time to plant those is, if they should be planted early or later.|sd|2093|0
+A|It seems like all I got was,|sd|2093|0
+B|Supposedly after the soil warms up.|sd|2093|1
+A|I would think so, um,|aa|2093|0
+A|seems like these all, they all went to, uh, to leaf,|sd|2093|0
+A|and it wasn't until late in the summer they started making fruit.|sd|2093|0
+A|So, I don't know if I,|sd|2093|0
+A|Mom would say you planted them in the wrong sign of the moon. You know,|sd|2093|0
+B|Uh-huh.|b|2093|1
+A|but I don't, I hadn't looked at a farmers almanac to find out when a good time for zucchini is.|sd|2093|0
+B|I, I doubt if zucchini is in there.|sd|2093|1
+A|It may not be,|aap_am|2093|0
+A|it may not be.|aap_am|2093|0
+B|Probably the same time the, the other squash is though.|sv|2093|1
+A|You think they're later in the year?|qy|2093|0
+B|Yeah.|ny|2093|1
+A|Uh.|%|2093|0
+B|About the same time that you plant okra because it's supposed to be warm.|sd|2093|1
+A|Well, that's true.|aa|2093|0
+A|Most of the okra that is growing around higher is, is, uh, later okra.|sd|2093|0
+B|Yeah.|b|2093|1
+A|Well that's about, um,|sd|2093|0
+B|We decided this year,|sd|2093|1
+A|Go ahead.|ad|2093|0
+B|I'm sorry,|fa|2093|1
+B|go ahead.|ad|2093|1
+A|Well, I was just going to say, it's a little over six or seven minutes.|sd|2093|0
+A|So whenever you feel comfortable about concluding, well, I'm,|ad|2093|0
+A|that would be fine.|ad|2093|0
+B|Oh, just any time.|sd|2093|1
+A|Well, all right.|aa|2093|0
+A|I guess we'll call this one quits|sd|2093|0
+A|an, and thanks for participating.|ft|2093|0
+B|All right.|aa|2093|1
+B|Well, I've enjoyed talking to you.|fc|2093|1
+A|All right,|fc|2093|0
+A|have a good time.|fc|2093|0
+B|Okay.|fc|2093|1
+B|Bye.|fc|2093|1
+A|Bye.|fc|2093|0

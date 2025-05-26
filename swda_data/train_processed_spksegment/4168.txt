@@ -1,0 +1,203 @@
+A|Well, what were you saying?|br|4168|0
+B|Okay.|b|4168|1
+B|I, I think we're started now.|sd|4168|1
+A|Oh, okay.|b|4168|0
+B|Uh, do you want to go ahead and start?|ad|4168|1
+A|Uh, well, I haven't really been up to date on a lot of music.|sv|4168|0
+A|I've been in school|sd|4168|0
+A|and I haven't really gone out, and bought any or listened to much on the, on the radio except for classical|sd|4168|0
+A|and, uh,|%|4168|0
+B|Well, you like classical music?|qy|4168|1
+A|Yes.|ny|4168|0
+B|Uh, I like classical music.|sd|4168|1
+B|I like rock and roll.|sd|4168|1
+A|Uh-huh.|b|4168|0
+B|I like country and western|sd|4168|1
+A|Okay.|b|4168|0
+B|Uh, I, I like all kinds|sd|4168|1
+B|I like, I like different things about each one of them.|sd|4168|1
+A|Well, I like most of them except for country music.|sd|4168|0
+B|Oh you don't like country?|qy^d|4168|1
+A|No.|nn|4168|0
+A|I think I, I might like dancing to it|sv|4168|0
+A|but I don't like listening to it.|sd|4168|0
+B|The, the kind of country I like is kind of the older country music. Not the, not the kind like Kenny Rodgers and stuff like that.|sd|4168|1
+A|Oh.|b|4168|0
+B|That's, uh, that's a little bit to, uh,|sv|4168|1
+B|they're trying to make it too much of a crossover thing,|sv|4168|1
+B|you know what I mean?|qy|4168|1
+A|Uh-huh.|ny|4168|0
+A|what's the old country music like?|qw|4168|0
+B|Oh, like, like Hank Williams.|sd|4168|1
+B|Like the old Hank Williams.|sd|4168|1
+B|Even, even Hank  Williams, Junior is real good stuff.|sv|4168|1
+A|Uh-huh.|b|4168|0
+B|The kind that|%|4168|1
+A|Oh, okay.|bk|4168|0
+B|uh, this stuff, makes you cry it sounds so sad|sv|4168|1
+B|I mean you|%|4168|1
+A|That's the kind you like you mean?|qy|4168|0
+B|Yeah.|ny|4168|1
+B|sometimes I do.|sd|4168|1
+B|I mean, not all the time.|sd|4168|1
+A|Oh.|b|4168|0
+A|Oh, okay.|bk|4168|0
+A|Well, I guess I, I like the blues a lot|sd|4168|0
+A|and I guess you could say it's similar as far as  the kind of the way they do it.|sv|4168|0
+B|Yes.|aa|4168|1
+B|And I  I, I do too.|sd|4168|1
+B|I also like jazz.|sd|4168|1
+A|Yeah.|aa|4168|0
+A|Me too, too.|aa|4168|0
+A|I guess I like|sd|4168|0
+A|except heavy metal|sd|4168|0
+A|and, uh, most rap I don't like.|sd|4168|0
+A|Yeah.|%|4168|0
+B|Yeah.|b^m|4168|1
+B|You're, you're about like I am|sv|4168|1
+B|I, I can't, watch M T V anymore.|sd|4168|1
+B|I used to love M T V.|sd|4168|1
+A|Oh, okay.|b|4168|0
+B|And I can, I can barely watch anymore because, uh, they have this heavy metal stuff on there|sd|4168|1
+B|and, and I can't even, you know, I can't like that.|sd|4168|1
+A|Yeah.|b|4168|0
+B|And, and I liked, uh, Aerosmith and Led Zepplin and, uh you know, and, uh, jeez who else is there. Van Halen.|sd|4168|1
+A|Uh-huh.|b|4168|0
+A|Okay.|b|4168|0
+A|Okay.|b|4168|0
+A|Yeah.|b|4168|0
+B|Now I like, I like groups like that.|sd|4168|1
+B|But when you get, uh,|%|4168|1
+B|I, I even like Guns and Roses, some of their stuff.|sd|4168|1
+A|Uh-huh.|b|4168|0
+B|But, uh, some of these groups now like Slaughter|sd|4168|1
+A|Oh, I, I really haven't listened to that|sd|4168|0
+B|Some of them are just really rough.|sv|4168|1
+B|So, so you went to school then in,|qy^d|4168|1
+B|I'm surprised you didn't go to, to any parties or anything where they were playing a lot of music or stuff|sv|4168|1
+B|or,|%|4168|1
+A|Well, uh, I used to a long time ago|sd|4168|0
+A|but since I've started back into school now, I haven't really done that much.|sd|4168|0
+A|I've been pretty busy. Uh|sd|4168|0
+B|Okay.|b|4168|1
+A|but, uh,|%|4168|0
+A|so no|fo_o_fw_"_by_bc|4168|0
+A|I haven't.|sd|4168|0
+A|I, you know, I used to go out and dance a lot|sd|4168|0
+A|but I don't do that anymore either|sd|4168|0
+A|So.|%|4168|0
+B|Oh, I see.|b|4168|1
+B|Are you married at all?|qy|4168|1
+A|No|nn|4168|0
+B|Okay|bk|4168|1
+A|I've just been real busy with, with lots of other things.|sd|4168|0
+B|Well, how old are you?|qw|4168|1
+A|Twenty-eight.|sd|4168|0
+B|Okay.|bk|4168|1
+B|So, you, you were out of you went to school for awhile and quit. Then went back.|bf|4168|1
+A|Well, no.|nn|4168|0
+A|I, I went to school and got a degree|sd|4168|0
+A|and then I worked for awhile.|sd|4168|0
+A|And then I just started, I started back a year and a half ago.|sd|4168|0
+A|Changed directions.|sd|4168|0
+B|Oh, okay.|bk|4168|1
+A|Yeah.|b|4168|0
+A|How old are you?|qw|4168|0
+B|Oh, I'm, uh, twenty-eight|sd|4168|1
+B|I was born in sixty-three|sd|4168|1
+B|I guess we're  the same age then.|sd|4168|1
+A|Oh, okay|bk|4168|0
+A|All right.|b|4168|0
+A|Yeah.|b|4168|0
+A|And, uh, I didn't really start getting into music until I went to college because, uh, my parents didn't really have music in the house.|sd|4168|0
+A|Put it that way.|h|4168|0
+B|Oh,|b|4168|1
+B|Were they religious?|qy|4168|1
+A|Yes.|ny|4168|0
+B|uh, I see.|b|4168|1
+B|I,|%|4168|1
+A|So, I'm always behind.|sd|4168|0
+A|I'm, I'm not, I'm never really up to date on all that stuff.|sd|4168|0
+A|But I know what I like when it's, uh, when I like a sound. A certain kind of sound,|sd|4168|0
+A|yeah.|%|4168|0
+B|My parents were very musical.|sd|4168|1
+B|My mother had a piano in the, in the house.|sd|4168|1
+A|Uh,|%|4168|0
+A|Uh-huh.|b|4168|0
+B|My father likes, uh, country western music.|sd|4168|1
+A|Okay.|b|4168|0
+B|He's from, uh, West Virginia.|sd|4168|1
+B|So that's what he grew up listening to.|sd|4168|1
+A|Uh-huh.|b|4168|0
+B|And he's always liked it|sd|4168|1
+B|and, and, you know, he's probably about fifty-three years old now,|sd|4168|1
+B|so he grew up like in the late fifties|sd|4168|1
+B|and you know, when they had that, the Elvis Presley music and stuff like that.  And that kind of rock and roll|sd|4168|1
+A|Huh.|b|4168|0
+A|Yeah,|b|4168|0
+A|yeah.|b|4168|0
+B|so he likes that.|sd|4168|1
+B|And my mom always liked that kind of stuff.|sd|4168|1
+B|My mom likes like, uh, Doris Day, you know.|sd|4168|1
+A|Oh, really.|b|4168|0
+B|She always had those, these old Doris Day records and stuff like that, though.|sd|4168|1
+A|Oh, well.|b|4168|0
+B|So, you know, I grew up listening to that stuff.|sd|4168|1
+A|Yeah.|b|4168|0
+B|But, uh, I could see why you went, uh, you know, I could see why you were kind of sheltered  I guess from, from music.|sv|4168|1
+A|Yeah.|b|4168|0
+A|Well, I, I do play the piano, you know|sd|4168|0
+B|Oh, okay.|b|4168|1
+A|But, uh, I, I like the, uh, early seventies, late sixties rock. Kind of stuff, the old stuff.|sd|4168|0
+B|Oh, okay.|b|4168|1
+A|And, uh,|%|4168|0
+B|Yeah,|aa|4168|1
+B|so do I.|aa|4168|1
+A|Uh,|%|4168|0
+B|Do you like, uh, like Van Halen or anything like that?|qy|4168|1
+B|Or how about Brian Adams?|qrr|4168|1
+A|what kind of music is, does what  songs does he play?|qw|4168|0
+B|It, it,|%|4168|1
+B|THIS LOVE CUTS LIKE A KNIFE. Uh, SUMMER OF SIXTY-NINE.|sd|4168|1
+A|Uh-huh.|b|4168|0
+A|I think I've heard SUMMER OF SIXTY-NINE.|sd|4168|0
+B|Yeah.|b|4168|1
+B|He sings that.|sd|4168|1
+A|Yeah.|b|4168|0
+B|He's, he's from Canada.|sd|4168|1
+A|Okay.|b|4168|0
+A|I'm not, I'm not very good at remembering the, uh titles,|sd|4168|0
+B|The titles and artists.|^2|4168|1
+A|yeah,|aa|4168|0
+A|but I can remember this, the song.|sd|4168|0
+A|Yeah.|b|4168|0
+B|Well, do do you watch music television, M T V at all? Or V H One?|qy|4168|1
+A|Yeah|b|4168|0
+A|No,|nn|4168|0
+A|I don't watch T V much at all.|sd|4168|0
+B|Okay.|bk|4168|1
+A|So.|%|4168|0
+B|do, do you get cable?|qy|4168|1
+A|No.|nn|4168|0
+B|Oh,|b|4168|1
+B|okay.|bk|4168|1
+B|That's, that's|%|4168|1
+A|No.|nn|4168|0
+B|you have to get cable to get those stations anyhow.|sd|4168|1
+A|Yeah.|b|4168|0
+A|So.|%|4168|0
+B|But, uh, yeah.|b|4168|1
+B|I like to watch rock and roll videos and any kind of videos.|sd|4168|1
+A|Uh-huh.|b|4168|0
+B|I like watching that kind of thing.|sd|4168|1
+B|It's,|%|4168|1
+A|Do you like, uh, like someone recent? Like Enya?|qy|4168|0
+A|Have you ever head of her.|qy|4168|0
+A|She's not rock|sd|4168|0
+A|but she, she's from Ireland.|sd|4168|0
+B|No,|nn|4168|1
+B|I haven't heard her.|sd|4168|1
+B|Oh, okay.|b|4168|1
+A|And, uh, she's gotten some, uh, she's been on like the top ten, I guess, or whatever.|sd|4168|0
+B|Oh, really.|b|4168|1
+A|She, she did|sd|4168|0

@@ -1,0 +1,127 @@
+A|Okay,|fo_o_fw_"_by_bc|2071|0
+A|Ellen what kind of a car do you think you're going to buy? and background|qw|2071|0
+B|Well, as a matter of fact, I was thinking about that the other day,|sd|2071|1
+B|and, uh, I really don't know the answer,|sd|2071|1
+B|uh, I would sort of like to, uh, think about something in the way of, uh, uh, sort of a sporty car but not any, not, you know, a luxury type sporty one.|sd|2071|1
+A|Yeah.|b|2071|0
+B|But, um, something that still has a lots of amenities and, you know, gadgets and things.|sd|2071|1
+A|Oh, you do want a lot of that stuff?|qy^d|2071|0
+B|Yeah,|ny|2071|1
+B|well, yeah|ny|2071|1
+B|I like, I like some of those things.|sd|2071|1
+B|They come in really handy sounds in|sd|2071|1
+A|What kind of, uh, things are you going to consider,|qw|2071|0
+A|you know, what, uh, you said something about the, about the,|sd|2071|0
+A|well, what do you call them,|t1|2071|0
+A|you said amenities, that they have,|sd|2071|0
+B|Amenities.|b^m|2071|1
+A|but what about, um, their reputation of the company or the price.|qw|2071|0
+B|Yeah,|b|2071|1
+B|well, of course, I guess, uh, price is always the big consideration,|sv|2071|1
+B|but,|%|2071|1
+A|It is for me,|sd|2071|0
+A|other people, don't seem to have the same problem|sv|2071|0
+B|yeah.|b|2071|1
+B|Well, that's, that's a big one in my book,|sd|2071|1
+A|Yeah.|b|2071|0
+B|but, uh, um, I have preferences for, uh, for some, uh, makers over others, um,|sd|2071|1
+B|and I would sort of like to buy American,|sd|2071|1
+A|Yeah.|b|2071|0
+B|but, you know, I'm not so totally hung up on that, that I wouldn't buy something else,|sd|2071|1
+B|how about you?|qo|2071|1
+A|Well, um, the last car we bought was American because of, because of that reason,|sd|2071|0
+A|but have not been entirely happy with, uh, several things about the car,|sd|2071|0
+A|it doesn't seem like the quality is quite as high as I expected it to be.|sd|2071|0
+B|Oh, really?|bh|2071|1
+A|Because several things, minor things sort of,|sd|2071|0
+A|but still they cost us money, um, that we didn't feel like we should have had to pay, on a car that, that was that new, you know,|sd|2071|0
+B|Uh-huh.|b|2071|1
+A|we bought the car new|sd|2071|0
+A|and after,|%|2071|0
+A|um, well, well, well under two years we had to replace the clutch.|sd|2071|0
+B|Oh.|b|2071|1
+A|And, they just said, well, you know, clutches are disposable ,|sd|2071|0
+A|and I said, since when?|sd|2071|0
+B|Yeah.|b|2071|1
+A|Brake pads are disposable , you know,|sd|2071|0
+B|Yeah.|b|2071|1
+A|we know that,|sd|2071|0
+A|but I never thought a clutch was disposable.|sd|2071|0
+B|Yeah,|aa|2071|1
+B|I wouldn't have thought so either.|sd|2071|1
+A|Yeah,|aa|2071|0
+A|so that was, that was kind of a shock|sd|2071|0
+B|Oh.|b|2071|1
+B|Yeah,|b|2071|1
+B|I, I guess there's a lot to, to think about when you're trying to make that decision.|sv|2071|1
+A|Yeah,|aa|2071|0
+A|you know, the less actually, the less you spend on a car it seems like luxury cars,|sv|2071|0
+A|they're called luxury cars even though they're much more expensive like, like, uh, uh, a Mercedes Benz,|sd|2071|0
+A|they don't have the history of breaking down or things like that, that would go wrong would definitely not be considered disposable.|sd|2071|0
+B|Right.|b|2071|1
+A|You would never think of having to replace the clutch in a Mercedes, especially not after two years.|sv|2071|0
+B|No|aa|2071|1
+B|but then,|%|2071|1
+B|No,|aa|2071|1
+B|but on the other hand, I guess, too, uh, whenever you do have to have some major work done on one of those it costs a fortune.|sd|2071|1
+A|Really?|bh|2071|0
+A|Oh I don't know.|h|2071|0
+B|Yeah,|b|2071|1
+B|I've, uh, worked with a couple of people who have owned, uh, various years, uh, Mercedes|sd|2071|1
+A|Uh-huh.|b|2071|0
+B|and, even though they do a lot of the work themself then just buying the parts and everything is, is pretty expensive.|sd|2071|1
+B|But for them it's, it's sort of a hobby, too, to own them .|sd|2071|1
+A|Yeah.|b|2071|0
+A|What kind of,|qw|2071|0
+A|what brand of car are you thinking about buying|qw|2071|0
+A|or like what things are you looking at?|qw|2071|0
+B|Well, I haven't really gotten that far with it, um,|sd|2071|1
+B|I've always sort of liked General Motors, a little bit better than some of the others|sd|2071|1
+A|Uh-huh.|b|2071|0
+B|but, uh, oh, I guess, I really don't know.|h|2071|1
+A|How come|%|2071|0
+A|I've been kind of, um,|sd|2071|0
+A|I guess the commercials are getting to me, the Toyota commercials,|sd|2071|0
+B|Yeah.|b|2071|1
+A|and I know that a lot of people I've, I've known that have had Toyotas have been just extremely happy with them, that hardly had any problems at all.|sd|2071|0
+B|Yeah,|b|2071|1
+B|that,|%|2071|1
+B|I think that's,|%|2071|1
+A|I think they have a really good, uh, quality.|sv|2071|0
+B|Uh-huh.|aa|2071|1
+B|My, uh, daughter has owned two different ones,|sd|2071|1
+B|and, uh, you know, we've had some work done on them|sd|2071|1
+B|but it's not too bad,|sd|2071|1
+B|and the reason,|%|2071|1
+B|one of the reasons we, um, bought the first one was because a friend of ours had a Toyota that he just really drove for years and years and years|sd|2071|1
+B|and he lived way out in the country|sd|2071|1
+B|so he put a lot of miles on it,|sd|2071|1
+A|Uh-huh.|b|2071|0
+B|and, you knew it had, had been through a whole lot,|sd|2071|1
+A|Uh-huh.|b|2071|0
+B|and yet, you know, it, it held up pretty doggone good,|sd|2071|1
+B|so, I thought they would|sd|2071|1
+A|Yeah.|b|2071|0
+A|They seem to be really durable.|sv|2071|0
+B|Yeah.|b|2071|1
+A|So, I don't know,|h|2071|0
+A|I'm, I'm not ready to buy a new car yet,|sd|2071|0
+A|but I don't know, if, if the next time I'm going to try to, to stay with buying something American or if I'm going to go for a little more, what I would consider to be a long-term investment|sd|2071|0
+B|Yeah.|b|2071|1
+B|Well,|%|2071|1
+B|and I guess, you know, you always have to think about things like, your gas mileage and stuff like that, you know,|sv|2071|1
+B|you ...|%|2071|1
+A|Oh, it's easy to get gas mileage in this car,|sd|2071|0
+B|Yeah|b|2071|1
+A|it gets excellent gas mileage.|sd|2071|0
+B|Yeah,|aa|2071|1
+B|that's one of the big throwing cards for, some of the foreign ones like one music|sd|2071|1
+A|Uh-huh.|b|2071|0
+B|Well, we talked long enough|ad|2071|1
+A|I think so.|aa|2071|0
+B|Okay,|b|2071|1
+B|well, enjoyed it.|fc|2071|1
+A|All righty,|fc|2071|0
+A|thanks and background|ft|2071|0
+B|Bye-bye.|fc|2071|1
+A|Bye-bye.|fc|2071|0

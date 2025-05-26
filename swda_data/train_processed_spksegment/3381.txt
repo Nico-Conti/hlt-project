@@ -1,0 +1,103 @@
+A|Uh, I guess it's, uh,|%|3381|0
+A|watching the the T V today there had a lot of stuff on, on, uh, crime.|sd|3381|0
+A|In our state right now, uh, recently they've had a lot of, uh, uh, the rapists, uh, murder type, uh, killers going around|sd|3381|0
+A|and well, I, I,|%|3381|0
+B|Oh, gracious.|ba|3381|1
+A|they've caught them|sd|3381|0
+A|and they, they're in there.|sd|3381|0
+B|Uh-huh.|b|3381|1
+B|Wasn't it your state that had the, uh, guy that committed all those murders?|qy|3381|1
+B|There was that, uh,|sd|3381|1
+A|Well, yeah,|ny|3381|0
+A|Wisconsin, uh, and Milwaukee area, you know.|sd|3381|0
+B|Yeah.|b|3381|1
+B|Yeah,|b|3381|1
+B|that was really on the national news a lot.|sd|3381|1
+B|We heard a lot about that in Texas.|sd|3381|1
+A|Yeah.|b|3381|0
+A|So that's,|%|3381|0
+A|well, I, I live right on the border of Minnesota and Wisconsin|sd|3381|0
+A|so I kind of get both, both news|sd|3381|0
+A|and, I know, in Minnesota, uh, they had, uh, the one that just, uh, got out and went after a, uh, college student and raped, and killed her|sd|3381|0
+B|Oh.|b|3381|1
+A|and they are not too happy about that now, I guess,|sv|3381|0
+A|so.|%|3381|0
+B|Well, I can imagine.|ba|3381|1
+A|There .|%|3381|0
+B|It seems like the violent crimes are increasing a lot to me.|sv|3381|1
+B|I, I don't know.|h|3381|1
+B|I don't know if statistically they are|sd|3381|1
+B|but it seems like you sure hear a, maybe you just hear a lot more about them on the news|sv|3381|1
+B|I don't know.|h|3381|1
+A|Yeah,|b|3381|0
+A|uh, that's hard to say for sure.|sd|3381|0
+A|I, uh, sometimes I wonder if these people aren't don't it just for the publicity|sv|3381|0
+A|and, They, they get their names in the, in the paper|sd|3381|0
+B|You wonder about that sometimes.|sd|3381|1
+A|and they become big celebrities.|sd|3381|0
+A|But,|%|3381|0
+B|Uh-huh.|b|3381|1
+B|That's kind of scary.|sv|3381|1
+B|I, I wish there was some way that we could change the news media so they didn't feature these way out stories.|sv|3381|1
+B|Maybe it wouldn't give other people ideas.|sv|3381|1
+A|Well, uh, I know one I, I think Texas has the death penalty, right?|qy|3381|0
+B|Yes,|ny|3381|1
+B|we do.|sd|3381|1
+A|Yeah.|b|3381|0
+B|Do you have it up there?|qy|3381|1
+A|No,|nn|3381|0
+A|no.|nn|3381|0
+B|I see.|bk|3381|1
+A|See I, I|%|3381|0
+B|Do you think that's a deterrent?|qy|3381|1
+A|Yeah,|ny|3381|0
+A|well, it's, it's, it's not going to prevent any people from doing it|sd|3381|0
+A|but, the person that's caught, he'll never do it again if he gets the death penalty.|sd|3381|0
+B|Yeah.|b|3381|1
+A|And that's,|%|3381|0
+A|and there are a lot of repeaters. Uh,|sv|3381|0
+B|Uh-huh.|b|3381|1
+B|I guess that's another thing that to me is a, a real problem,|sv|3381|1
+B|and I know we have got so many people in our prison system now, at least here in Texas|sd|3381|1
+A|Yeah.|b|3381|0
+B|I mean, they are really in a crisis.|sd|3381|1
+B|There has been times they have had to just close off the prisons and leave them in county jails or whatever because there just wasn't enough room for all of them.|sd|3381|1
+A|Yeah.|b|3381|0
+B|And a lot of them they put out on parole|sd|3381|1
+B|and then some of the ones that they put out early, you know, do repeat offenses|sd|3381|1
+B|and, the crime rate is the worst than ever before.|sd|3381|1
+A|Huh.|%|3381|0
+A|Yeah.|b|3381|0
+A|Well, some, I'm just wondering a lot of times they will put, uh, people, lesser crimes in, uh, with, uh, people that did more severe crimes|sv|3381|0
+A|than they, maybe they just tend to learn from these people|sv|3381|0
+A|and they, and when they get back out, they just go into worse crimes.|sv|3381|0
+B|I think that could be true too.|sv|3381|1
+A|Maybe they should try and separate them a little bit more. Uh,|sv|3381|0
+B|I think the whole parole thing, you know, if somebody is convicted of second-degree murder or something gets fifteen years, well, they are out in six or seven. You know, outbound on the streets again|sv|3381|1
+A|Yeah.|b|3381|0
+B|And to me that's really scary.|sv|3381|1
+B|Some of these crimes that they commit, you know, seems like the punishment is not really equal to the crime.|sv|3381|1
+A|Uh-huh.|b|3381|0
+A|Well, uh, I don't know with, with my limited, uh, psychology background I do have, I don't, I don't even feel that prisons and stuff are, are the answer.|sv|3381|0
+A|If you want to stop the crime, I think you've got to get, uh, the people when they are kids.|sv|3381|0
+B|Oh, yeah.|b|3381|1
+A|A lot of this probably just starts with, from the, from the homes. Also from the, the, the media, the T V the, uh,|sv|3381|0
+B|Uh-huh.|b|3381|1
+A|all these, uh, gory movies on there becomes, uh, just a natural fact of life.|sv|3381|0
+B|Uh-huh.|b|3381|1
+B|They think it's okay thing to do.|bf|3381|1
+A|Yeah.|aa|3381|0
+B|Yeah,|b^m|3381|1
+B|I think that's a very good point.|sv|3381|1
+B|You know, I,|%|3381|1
+B|there's a lot more working mothers, a lot more kids in day care centers all that kind of thing.|sd|3381|1
+B|Morality is being taught more by the schools a lot of times than in the home anymore.|sv|3381|1
+B|And,|%|3381|1
+A|Uh-huh.|b|3381|0
+A|Well, a lot of the European countries, uh, they tend to sensor,|sd|3381|0
+A|well, they probably won't sensor so much the sexual stuff as much as the violent.|sd|3381|0
+B|Uh-huh.|b|3381|1
+A|And they have a lot less crime.|sd|3381|0
+B|Huh.|%|3381|1
+A|Some of, some of those European countries are, are, you can leave your, your, uh, doors open and, and, and be safe.|sv|3381|0
+A|Uh, even, uh, I think New Zealand is one of, one of the places, uh, that,|sv|3381|0

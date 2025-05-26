@@ -1,0 +1,159 @@
+A|So have you done any painting projects lately?|qy|3188|0
+B|Yeah,|ny|3188|1
+B|this is a great topic for me, because I just did my first two painting projects ever.|sd|3188|1
+A|Oh, really?|bh|3188|0
+B|Was not, not a big deal|sd|3188|1
+A|What kind of painting was it?|qw|3188|0
+B|two little deals,|sd|3188|1
+B|The first one, um,|sd|3188|1
+B|I helped someone repaint an apartment,|sd|3188|1
+B|and it was very easy.|sd|3188|1
+A|Uh-huh,|b|3188|0
+A|it, was it?|bh|3188|0
+B|Yeah,|ny|3188|1
+B|and I've never painted|sd|3188|1
+B|I always thought it would be,|sd|3188|1
+B|so, you know, you'd have to hire someone if you needed to paint inside your house or something|sd|3188|1
+A|Yeah,|b|3188|0
+B|but I know I can do it.|sd|3188|1
+A|Oh, uh-huh.|b|3188|0
+B|And the second one was I bought some toys at a, um, at a craft fair.|sd|3188|1
+A|Uh-huh.|b|3188|0
+B|They're unfinished wooden book ends and stuff for a little girl for Christmas,|sd|3188|1
+B|and so I decided to paint them,|sd|3188|1
+B|and that wasn't as easy as painting the apartment|sd|3188|1
+A|Oh, well, what kind of paint did you use for the, um, bookends?|qw|3188|0
+B|Well, it's, uh, it, that's half the problem right there is that it wasn't, it was a oil base,|sd|3188|1
+B|so I had to get,|sd|3188|1
+B|and when I painted them, I didn't realize that we didn't have any turpentine or paint thinner or anything in the house.|sd|3188|1
+B|So I had it, had it all over my hands.|sd|3188|1
+B|At first I didn't realize, you know,|sd|3188|1
+B|I had never painted anything,|sd|3188|1
+B|so I didn't realize that I needed that.|sd|3188|1
+A|Uh-huh.|b|3188|0
+B|I mean, I kind of knew, in the back of my mind,|sd|3188|1
+A|So you can't use oil on wood?|qy^d|3188|0
+B|Well, no,|nn|3188|1
+B|you can use it on wood,|sd|3188|1
+B|but I just had it all over my hands,|sd|3188|1
+B|and I went to wash the brushes out, and, uh, wash my hands,|sd|3188|1
+B|and you can't wash it off with water.|sd|3188|1
+B|You have to get the, uh, a solution|sd|3188|1
+B|and,|%|3188|1
+A|Oh, so you had to go around with paint all over you,  temporarily, anyway.|bf|3188|0
+B|Yeah,|aa|3188|1
+B|I had to drive to the store|sd|3188|1
+B|yeah,|aa|3188|1
+B|I had to drive to the store with paper towels all over my hands to go buy some paint thinner, and and everything like that,|sd|3188|1
+A|Oh,|b|3188|0
+B|and then, um, downstairs in the apartment, I just we just used a latex base,|sd|3188|1
+B|and so you can drip it on, you know|sd|3188|1
+B|if you dripped it on something, as long as you wiped it up, it was real easy to clean.|sd|3188|1
+A|Oh, is, is that what you usually use in the house, is latex?|qy|3188|0
+B|Yeah,|ny|3188|1
+B|and, and it, it just like|sd|3188|1
+A|Um.|%|3188|0
+B|the same with the toys,|sd|3188|1
+B|it's just important to look for one that doesn't have lead in it, you know,|sv|3188|1
+B|it says Safe for Children, and all that.|sd|3188|1
+A|Uh-huh,|b|3188|0
+A|yeah,|b|3188|0
+A|I heard about that.|sd|3188|0
+A|I guess a friend of mine had a, uh, well,|sd|3188|0
+A|she, she just started up a day care center,|sd|3188|0
+A|and uh, the, one of the real strict, uh, restrictions, was the fact that she had to have a special kind of paint that was fire proof and lead free and all that other good stuff|sd|3188|0
+B|Yeah.|b|3188|1
+A|so, uh, she had that done.|sd|3188|0
+A|But, uh, that you keep some, um, farm equipment in|%|3188|0
+B|Have you painted anything recently.|qy|3188|1
+B|Wow, was it huge?|qy|3188|1
+B|Uh-huh.|ny|3188|1
+A|and, um, what I had to do is just coat this bare wood with a sealer,|sd|3188|0
+A|and, uh, I had this big five gallon jug,|sd|3188|0
+A|and it was like paint thinner.|sd|3188|0
+A|I mean I, you know, it looked just like, it was the viscosity of paint thinner|sd|3188|0
+B|Yeah.|b|3188|1
+A|but, uh, you just took a roller and put it on there,|sd|3188|0
+A|and, uh, if you saw that the wood was getting wet, you know, that was, that was all you needed.|sd|3188|0
+A|So.|%|3188|0
+B|Wow.|ba|3188|1
+A|Yeah,|b|3188|0
+A|it was,|sd|3188|0
+A|it used all of it.|sd|3188|0
+A|I guess it was about three hundred yards worth.|sd|3188|0
+A|So. Well, I guess it worked out.|sd|3188|0
+A|It was pretty easy, actually.|sd|3188|0
+B|Yeah,|b|3188|1
+B|I think though, um, we're lucky that we didn't have to do any detail work, because I don't know if I could, you know,|sd|3188|1
+B|I don't know,|h|3188|1
+B|I don't know,|h|3188|1
+B|must be difficult,|sv|3188|1
+A|Well what about the trim in your house?|qo|3188|0
+A|Did you have to do that?|qy|3188|0
+B|No,|nn|3188|1
+B|it was it was really easy,|sd|3188|1
+B|I just, like, what,|sd|3188|1
+B|we had a couple of different size brushes you know, real easy,|sd|3188|1
+A|Uh-huh.|b|3188|0
+B|I went around the trim,|sd|3188|1
+B|and if it,|%|3188|1
+B|and there was wall paper,|sd|3188|1
+B|like I was do, just doing just the trim outs that, around the doors and windows|sd|3188|1
+B|and there was wall paper|sd|3188|1
+B|and if we got it on the wall paper a little bit, we just wipe it right away before it dried,|sd|3188|1
+A|Uh-huh.|b|3188|0
+B|it came right off|sd|3188|1
+A|Oh, yeah,|b|3188|0
+B|so there was no major mistakes,|sd|3188|1
+B|there was,|%|3188|1
+A|Did you have, uh, one coat or two?|qy|3188|0
+B|Uh, two, actually|sd|3188|1
+A|Uh-huh.|b|3188|0
+B|um, and it,|%|3188|1
+B|there was, um,|%|3188|1
+B|you know, around the windows, if you got it on the glass, we let it dry and scraped it after that|sd|3188|1
+B|but that,|%|3188|1
+A|Yeah,|b|3188|0
+A|that would be really time, uh, a time saver.|sv|3188|0
+B|Well, yeah,|aa|3188|1
+B|if you just, you know|sd|3188|1
+B|we didn't tape anything,|sd|3188|1
+B|we weren't that careful,|sd|3188|1
+B|but it wasn't, you know,|sd|3188|1
+B|I don't know, it's, it's funny,|h|3188|1
+B|it's like, if you just go slow, you don't get, or at least I didn't get that many mistakes|sd|3188|1
+A|Uh-huh.|b|3188|0
+B|I didn't make that many mistakes,|sd|3188|1
+A|Oh, me, I would have had to have taped the whole thing, and then brushed around the edges,|sd|3188|0
+A|and, and then I'd have probably rolled it on.|sd|3188|0
+A|I'd, it would have taken me forever.|sd|3188|0
+B|Why?|qw|3188|1
+B|Just because you'd be afraid to do it, or have you done it before.|qrr|3188|1
+A|Yeah,|b|3188|0
+A|well, the first time it'd probably would have taken me forever,|sd|3188|0
+A|so|%|3188|0
+B|Well, it wasn't,|sd|3188|1
+B|if it was my own I would have,|sd|3188|1
+B|but my friend said, oh just go ahead, you just go ahead, it's easy.|sd|3188|1
+B|I said, Okay, it's your place,|sd|3188|1
+A|Well, how long did it take you all?|qw|3188|0
+B|Well, a couple of week ends|sd|3188|1
+B|we would go down two or three hours on the weekends,|sd|3188|1
+A|Uh-huh.|b|3188|0
+B|and,|%|3188|1
+A|So there was two of you all?|qy^d|3188|0
+B|No,|nn|3188|1
+B|there was, they were doing all sorts of repairs,|sd|3188|1
+B|and there was, I was just painting because I don't know how to do anything else|sd|3188|1
+A|Well, that's easy enough.|sv|3188|0
+B|So, there's a whole bunch of people.|sd|3188|1
+A|Um.|%|3188|0
+B|So now I feel like if I ever buy a house, I can probably paint, if nothing else.|sd|3188|1
+A|I think I could probably do it uh, as long as the hardware store told me what to buy, then I could do it.|sd|3188|0
+B|Yeah.|b|3188|1
+B|But you know, I went in to a hardware store to get paint for those toys,|sd|3188|1
+B|and the guy said, Oh, get this, it's a nice shiny gloss, which was true,|sd|3188|1
+B|but I didn't realize what, you know, pain it is to clean the brushes and everything, if you don't have latex|sd|3188|1
+B|I don't if|sd|3188|1
+B|it's worth the shine,|sd|3188|1
+A|Uh-huh.|b|3188|0

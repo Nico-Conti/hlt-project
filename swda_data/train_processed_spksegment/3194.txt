@@ -1,0 +1,108 @@
+B|All set.|fo_o_fw_"_by_bc|3194|0
+A|Uh-huh.|b|3194|1
+B|Actually I'm in Plano, too|sd|3194|0
+A|That's okay.|bd|3194|1
+B|I say Dallas area when I'm talking to people elsewhere.|sd|3194|0
+A|That's okay,|bd|3194|1
+A|it's more, uh, concentrated, so they know where you are.|sd|3194|1
+B|Yeah.|b|3194|0
+A|Uh, anyway, I know here in, here in Plano some of the things that we do are, um, Kroger|sd|3194|1
+A|and some of the other stores, too, have said, If you bring your bags back to, to the store to recycle, then they'll pay you a certain amount of money,|sd|3194|1
+A|and that's one thing that started in the community.|sd|3194|1
+B|They actually pay you money for that?|qy|3194|0
+A|Uh-huh.|ny|3194|1
+B|Um, um, Brookshires up in uh, Allen, uh, you bring your bags back, you know, they, uh, the plastic bags back or the paper bags, you put them in the receptacles there,|sd|3194|0
+B|but I didn't realize some people are actually paying you for that. Um.|sd|3194|0
+A|Uh-huh,|b|3194|1
+A|yeah,|b|3194|1
+A|I know Kroger will do it,|sd|3194|1
+A|and I think Albertson's does it sometimes,|sd|3194|1
+A|I'm not sure.|sd|3194|1
+A|Um, and, and yet, I know that, uh, some of the stores will actually help the community, not pay you the money back, but will pay the, the, uh, community, like through the schools or things like that.|sd|3194|1
+B|Uh-huh.|b|3194|0
+B|Interesting.|sv|3194|0
+A|So, um, that's always helpful,|sv|3194|1
+A|and I know that we we have the, the can, the can, different can banks around the city that you can go to and do that.|sd|3194|1
+B|Right.|b|3194|0
+A|Um, one of the ways,|%|3194|1
+A|I don't know, uh, if this would be helpful.|h|3194|1
+A|It said on the, the computer, what do I think would be helpful.|sd|3194|1
+A|And I don't know if it would be helpful or not,|h|3194|1
+A|but I know on Monday, the, the garbage men pick up like just, um, any limbs or any extra trash that you might have,|sd|3194|1
+B|Right.|b|3194|0
+A|And that might be an extra day to put out things that might be recycled if we had a, a certain colored can to put them in or something in the city to put, like either glass or newspapers or whatever.|sv|3194|1
+B|Yeah,|b|3194|0
+B|I think they already do that out East.|sd|3194|0
+B|Um, they have to, it's a little bit more difficult, because people have to remember, Okay, today's glass okay tomorrow's plastic, and all that|sv|3194|0
+A|Yeah.|b|3194|1
+A|Yeah.|b|3194|1
+B|but I think that's the way we need to go.|sv|3194|0
+B|It's, uh, it's pretty bad.|sv|3194|0
+B|All these years we've|%|3194|0
+B|been, especially in this country, all the, uh, the plastic and the paper and everything, we just used to throw out.|sd|3194|0
+A|Yeah,|b|3194|1
+A|uh, I know getting a newspaper everyday, I know I could just, you know, do that because I have to pick it up,|sd|3194|1
+B|Uh-huh.|b|3194|0
+A|and it just goes out with our trash,|sd|3194|1
+A|and I guess I'm not as, um, recycling minded as I should be|sv|3194|1
+A|but that goes out with the trash,|sd|3194|1
+A|and it really could be recycled.|sv|3194|1
+B|Yeah,|b|3194|0
+B|about six months ago I started|sd|3194|0
+A|Did you?|qy^d|3194|1
+B|yeah,|ny|3194|0
+B|and, uh so what I do is, uh,|sd|3194|0
+A|Tell me.|ad|3194|1
+B|it's not bad,|sv|3194|0
+B|you just have to have a place to keep everything,|sv|3194|0
+B|but, uh, it, you'll be amazed if you ever start doing it.|sv|3194|0
+B|Just put your paper in the same place every day,|ad|3194|0
+B|and it'll start stacking up.|sd|3194|0
+B|Take your glass, um, you know, pickle jars, or, or whatever, uh, liquid jars, you know,|ad|3194|0
+B|just rinse them out a little bit|ad|3194|0
+B|and put them all in a place,|ad|3194|0
+B|and, uh plastics,|%|3194|0
+A|Don't you have to take like labels off of those jars?|qy|3194|1
+B|No,|nn|3194|0
+B|from what I understand, uh, you can leave the labels on, um, although I rip, rip them off.|sd|3194|0
+A|Yeah.|b|3194|1
+B|I don't, I don't scrub them or anything,|sd|3194|0
+B|I just tear them off|sd|3194|0
+A|Take them off,|sd|3194|1
+A|yeah.|%|3194|1
+B|throw the lids and everything out,|ad|3194|0
+B|but, uh, put all the glass in one place, and plastics, like milk jugs, uh, orange juice jugs, things like that.|ad|3194|0
+A|Soda,|^2|3194|1
+A|both liter sodas|^2|3194|1
+B|Yes|aa|3194|0
+A|can you do that.|qy|3194|1
+B|those also.|na|3194|0
+A|Okay.|bk|3194|1
+B|Um, and then, of course, uh, cans, coke cans, whatever.|sd|3194|0
+A|Right,|b|3194|1
+A|right.|b|3194|1
+B|But, uh, I haven't been down to the recycling center yet to find out exactly what they need or what they take, and all that,|sd|3194|0
+B|I've just read a lot about it,|sd|3194|0
+B|and I'm keeping these big piles of it right now|sd|3194|0
+B|I going to try to dump it out this weekend in fact.|sd|3194|0
+B|But, uh, you'd be amazed how quickly it all stacks up.|sv|3194|0
+B|There's a lot that we throw out.|sv|3194|0
+A|I, I know with our family that we could really be helpful if we could find a way to just, um, get it into different categories like that,|sv|3194|1
+A|and I, I don't know what it would take to, to get my children to start working on it.|sd|3194|1
+B|Uh-huh.|b|3194|0
+A|I have two older ones that probably would go along with the, if I had it arranged so that it wasn't a big project, you know.|sv|3194|1
+B|It's, yeah, it's not a big deal.|sv|3194|0
+B|You get used to it.|sv|3194|0
+B|One,|%|3194|0
+B|let me tell you one interesting thing|oo_co_cc|3194|0
+A|Okay,|aa|3194|1
+B|when I went back to the store, and I said, Hey, um, I understand you all are taking these bags back, uh, you know, what do you do with them.|sd|3194|0
+B|And they told me, they look through them all and throw out the ones that don't belong there and then, you know, go and recycle the rest.|sd|3194|0
+B|And I said, What do you mean the ones that don't belong there?|sd|3194|0
+A|Yeah.|b|3194|1
+B|And they said, Well, people come in and put anything in the receptacles.|sd|3194|0
+B|And what I found out is, if you look at the bottom of those bags, Kroger or whatever the plastic ones, they've got numbers on them.|sd|3194|0
+A|Uh-huh.|b|3194|1
+A|Oh.|b|3194|1
+B|Yeah,|b|3194|0
+B|and if it's got the little recycle symbol and inside it it's got a number, like bags from Drug Emporium have a ...|sd|3194|0

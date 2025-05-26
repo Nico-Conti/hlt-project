@@ -1,0 +1,131 @@
+A|Okay,|fo_o_fw_"_by_bc|3255|0
+A|for as far as, um, I would think the, probably the, uh, worst substance that's probably, um,|sv|3255|0
+A|or, started to say the, uh,|%|3255|0
+A|what causes the most air pollution is probably the car|sv|3255|0
+B|Probably so,|ba|3255|1
+A|and, uh, whether or not, um, they'll ever get into like huge transit systems into big cities where people would all travel on a high speed, uh, train or, or something like that|sv|3255|0
+A|or,|%|3255|0
+B|Yeah,|aa|3255|1
+B|it'll be hard to get people to give up their mobility.|sv|3255|1
+A|Yeah,|aa|3255|0
+A|that's exactly it,|ba|3255|0
+A|and that's what we're finding, um, here, where we're at, in Minneapolis area, is that people don't want to carpool that there are inconveniences to that,|sd|3255|0
+B|Uh-huh.|b|3255|1
+A|or maybe you don't like the person you have to, you would want to carpool with, that kind of thing,|sv|3255|0
+A|so it's, it's kind of a thing where, uh, I think the majority of the people do not carpool.|sv|3255|0
+B|I think so too.|aa|3255|1
+B|I'm in Texas|sd|3255|1
+A|Uh-huh.|b|3255|0
+B|and very few people carpool|sd|3255|1
+A|Yeah.|b|3255|0
+B|uh, the people that I know don't want to because, uh, they never know for sure what time they're going to leave their job|sd|3255|1
+A|Exactly.|aa|3255|0
+B|they never know when they want to run out and do an errand at noon, you know, they just feel they need their car.|sd|3255|1
+A|Uh-huh,|b|3255|0
+A|or if somebody gets sick.|^2|3255|0
+A|Yeah,|b|3255|0
+A|or if somebody gets sick, and it's not the other person and they want to go home, and that one person's got the car then they're, they're stuck,|sv|3255|0
+B|Uh-huh.|b|3255|1
+B|Uh-huh.|b|3255|1
+A|you're definitely right,|sv|3255|0
+B|That's right.|ba|3255|1
+B|And people don't want to give it up|sv|3255|1
+B|but now I think we've made great strides in changing a lot of that by going to the unleaded gasoline and and to change the car itself|sv|3255|1
+A|Uh-huh.|b|3255|0
+A|Sure.|b|3255|0
+A|Sure,|aa|3255|0
+A|that happens quite a bit,|sd|3255|0
+B|but, uh, you know, I, I don't guess we can get away from it a hundred percent|sv|3255|1
+A|Yes,|b|3255|0
+A|yeah|b|3255|0
+B|but|%|3255|1
+A|that's very true.|ba|3255|0
+A|Uh, other than that, uh, I don't know,|sd|3255|0
+B|Well, my other line is ringing|sd|3255|1
+A|Okay.|b|3255|0
+B|but we're going to ignore it|ad|3255|1
+A|Oh, okay,|aa|3255|0
+A|we'll try to be real quick here.|ad|3255|0
+B|I'm sorry for these beeps,|fa|3255|1
+A|The other thing then is, because I don't know how long they want us to talk,|qw|3255|0
+B|Oh, close to five minutes, I believe.|sd|3255|1
+A|Five minutes, oh, okay.|b^m|3255|0
+B|And you're in Minneapolis,|qy^d|3255|1
+A|Minneapolis area,|na|3255|0
+B|Well, is the pollution really bad up there?|qy|3255|1
+A|Uh, actually no.|ng|3255|0
+A|We have, uh, quite a bit, uh,|sd|3255|0
+A|the only problem that we have and that's all over the whole world is ozone and of course hay fever season|sv|3255|0
+B|Uh-huh.|b|3255|1
+B|Uh-huh.|b|3255|1
+A|you get some pollutants such as those,|sd|3255|0
+A|but those are natural|sv|3255|0
+B|Yeah|b|3255|1
+A|um, but there is starting to,|%|3255|0
+A|in Minneapolis itself, because of so many people on the highway, there is becoming a problem of pollution,|sd|3255|0
+A|and they just put in a strict law that as of every year when you get your license tabs you have to have your car inspected to see if it's releasing any, uh, lead into the air or other pollutants,|sd|3255|0
+B|Uh-huh.|b|3255|1
+B|Uh-huh.|b|3255|1
+B|Uh-huh.|b|3255|1
+B|Uh-huh.|b|3255|1
+A|and if that's the case, then you have to get your car fixed,|sd|3255|0
+B|Well that's the way it has gotten here.|sd|3255|1
+A|at least where you .|%|3255|0
+B|We have just had that law, I think, about a year, maybe a year and a half here in Texas|sd|3255|1
+A|Sure,|b|3255|0
+A|yeah,|b|3255|0
+B|but, uh, I think it's a good idea because a lot of people still want to drive the older cars which you can't blame them for that|sv|3255|1
+A|Yeah,|aa|3255|0
+A|it's not a bad idea.|sv|3255|0
+A|Uh-huh.|b|3255|0
+A|Sure,|b|3255|0
+A|sure,|b|3255|0
+B|and, uh, but if they are polluting the air, they need, do need to have them fixed|sv|3255|1
+A|Exactly,|aa|3255|0
+B|and you know, there's a big move, especially in the industrial part in Texas right now of controlling the C F C that the big manufacturing companies are producing into the air they're having to change the type of products they use|sd|3255|1
+A|Uh-huh.|b|3255|0
+A|Sure.|b|3255|0
+A|Uh-huh.|b|3255|0
+B|uh, they can't use,|%|3255|1
+B|like, I have a friend that's in the air conditioning heating business|sd|3255|1
+A|Uh-huh.|b|3255|0
+B|and they have to pay a penalty for every ounce or pound of this certain type of freon that they use in the air conditioning systems|sd|3255|1
+A|Sure.|b|3255|0
+B|therefore, the individual, every time they have a service call, if they have an old unit that's still using this twenty-two freon or whatever it is, it costs them three times as much to get it fixed|sd|3255|1
+A|Uh-huh.|b|3255|0
+A|Sure.|b|3255|0
+B|and, uh, if you have a new high efficiency system that uses the new type of freons that do not release as many C F C into the atmosphere it doesn't cost as much so eventually people are going to have to go to newer systems, you know,|sd|3255|1
+A|Uh-huh.|b|3255|0
+A|Yeah.|b|3255|0
+A|Sure|b|3255|0
+B|But,|%|3255|1
+A|uh, the other thing when you're talking about freon with cars, uh, air conditioning, I'm sure over there it's a necessity versus something up here we can live without it|sv|3255|0
+B|Uh-huh.|b|3255|1
+B|Right.|b|3255|1
+A|but it's uncomfortable|sv|3255|0
+B|Uh-huh.|b|3255|1
+A|but, uh, this year my husband recharged our freon because it was, needed to be done,|sd|3255|0
+A|and one of the cans released entire amount of freon into the, uh, into the air because he opened it,|sd|3255|0
+B|Um.|%|3255|1
+A|and, I don't know if there was something wrong with it, or it, his directions weren't quite fully instructed onto that,|sd|3255|0
+B|Uh-huh.|b|3255|1
+A|and I was thinking how many other people|sd|3255|0
+B|It's probably happened to millions of people,|sv|3255|1
+A|oh, sure,|ba|3255|0
+A|because if you take it into a service station, they want to charge you forty dollars just for, uh, freon, which only costs you about three dollars|sv|3255|0
+B|Uh-huh.|b|3255|1
+B|Uh-huh.|b|3255|1
+A|so I have this feeling that freon probably will increase in price because it is something that people will have to take into consideration and say, Hey, that's that's right there.|sv|3255|0
+B|Uh-huh|b|3255|1
+A|I think it's like three or four dollars a, a can|sd|3255|0
+B|Yeah.|b|3255|1
+A|and it takes about four to five cans to fill up a air conditioning unit in a car,|sd|3255|0
+A|and I, I thought about that,|sd|3255|0
+A|and my husband even was kind of woozy after that because I'm sure he breathed it|sd|3255|0
+B|Inhaled so much of it,|^2|3255|1
+B|uh-huh.|b|3255|1
+A|but, uh, you think about that, all the people that are using freon and things like that|sd|3255|0
+B|Yeah,|b|3255|1
+B|well, of course in the, uh,|%|3255|1
+B|I think you probably noticed in the discount stores and places, in the hair sprays we're not seeing as many aerosol cans down here nearly everything is in the pump squirt,|sv|3255|1
+A|Exactly.|aa|3255|0

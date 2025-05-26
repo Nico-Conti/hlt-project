@@ -1,0 +1,103 @@
+A|Uh, what what is your practice as far as budgeting?|qo|3195
+A|Do you manage the money?|qy|3195
+B|Well, I, we talk about it,|sd|3195
+B|but I'm usually the one that sits down and puts the pencil to the paper and, and tries to somehow make the ends meet, which, uh,|sd|3195
+A|Oh, I see.|bk|3195
+A|That's how kind of I am, too.|sd|3195
+A|Are you married?|qy|3195
+B|Um, yes.|ny|3195
+A|You are.|bf|3195
+B|Yes.|aa|3195
+A|I think the women for the most part end up managing the money.|sv|3195
+A|My husband always says he earns it, and I have to spend only what he earns|sd|3195
+A|It,|%|3195
+B|I don't mind the spending,|sd|3195
+B|it's just that trying to, trying to get what you need out of, out of what you have.|sd|3195
+B|That seems to be our challenge.|sd|3195
+A|Well, I don't work outside of the home,|sd|3195
+A|and he always threatens that when I spend more than, what's coming in, I have to go back to work|sd|3195
+B|I see.|b|3195
+A|so I, I manage it|sd|3195
+B|Well, I'm, I'm at home also,|sd|3195
+B|so, it does get rather interesting trying to survive on one salary, uh,|sd|3195
+A|Now, do you actually follow a budget?|qy|3195
+B|Well, we pretty well do.|sd|3195
+B|Um, several years we didn't,|sd|3195
+B|and we found that we just weren't making the most of what we had,|sd|3195
+B|and so we, we, um, set aside a certain amount each week that goes for things that have to be paid for, you know,|sd|3195
+B|just our bills.|sd|3195
+B|And then what's left we divvy up.|sd|3195
+B|We try to save a little bit, although we're not always successful,|sd|3195
+B|and then the rest of it just goes for normal weekly needs.|sd|3195
+A|Well, that's pretty much the way we do, um, or we did in the past,|sd|3195
+A|I would say. Uh,|sd|3195
+A|at this point our children are grown,|sd|3195
+A|and so I really don't have the obligations there any more that we have to balance to you know, get things together for them,|sd|3195
+B|Yeah.|b|3195
+B|Right.|b|3195
+A|and I really just keep very good records,|sd|3195
+A|and most of our expenses are fairly the same every month with the exception of utilities and things like that,|sd|3195
+A|and I try to keep my MasterCards and things paid currently|sd|3195
+B|Right.|b|3195
+B|Uh-huh.|b|3195
+A|uh, I don't always succeed at that.|sd|3195
+A|I usually keep one with a low interest rate,|sd|3195
+A|and I put things on there that I think I'm not going to get to|sd|3195
+B|Right.|b|3195
+A|and then I have another one,|sd|3195
+A|but for the most part, our mortgage and our utilities at this point, we're in a new home, and, uh, they take a pretty big chunk compared to what they used to|sd|3195
+B|Yeah.|b|3195
+A|so I'm still getting used to that,|sd|3195
+A|but we make sure that we just do not buy unless we really can see how we're going to pay for it ahead|sd|3195
+B|Right.|b|3195
+A|and we do not buy us, new cars.|sd|3195
+A|Uh, do you get into car,|qy|3195
+B|Well, we had new cars, um, always until about four years ago,|na|3195
+B|my husband, um, owned his own company and it went under,|sd|3195
+B|and so we could no longer afford that monthly payment,|sd|3195
+B|and now it just seems just such a large amount of money to spend that, that we do have a used car,|sd|3195
+B|well, he has a company car also,|sd|3195
+B|but for our personal car we have a used car.|sd|3195
+B|Um, do you think that it's wiser to buy used?|qy|3195
+A|We do for us very much so.|na|3195
+A|In fact, we are in a position that most of our friends why, wonder why we just don't go to a new car, you know, whatever,|sd|3195
+A|and I said look, you guys are all into car payments,|sd|3195
+B|Right.|b|3195
+A|we haven't had car payments for so many years,|sd|3195
+A|I love it this way,|sd|3195
+A|and recently we just created the laugh among everyone because we had a car that we really liked|sd|3195
+A|and it has eighty-two thousand miles on it|sd|3195
+B|Uh-huh.|b|3195
+A|and we were, kept saying, wouldn't it be great if we could find another one just like it.|sd|3195
+A|Believe it or not, we did, we found one, one newer|sd|3195
+B|Oh, no,|ba|3195
+A|the worst part is, it's the same color|sd|3195
+B|Uh-huh.|b|3195
+A|and so everybody's saying, you're kidding, you have two cars the same,|sd|3195
+A|and I said, you know how when you have a bad one, you say, never again|sd|3195
+B|That's right|ba|3195
+A|I said, well, we had one, and we found one with just seventeen thousand miles on it|sd|3195
+B|Wow.|ba|3195
+A|and it's an eighty-five,|sd|3195
+A|and so I said, Hey, this was a cinch,|sd|3195
+A|we paid for the car,|sd|3195
+A|and we still know now that we have this car to put all the miles on.|sd|3195
+B|Right.|b|3195
+A|This is for all the long running back and forth on, you know interstate driving and things,|sd|3195
+A|and we intend to replace our other one with a much newer car in the next couple of years, or next year probably.|sd|3195
+B|Do you, um, buy from dealers or from individuals?|qy|3195
+A|Generally from dealers,|sd|3195
+A|and uh, it depends, because I don't like to sell what we're trading in to an individual uh, unless we, we have done that when we had a really good one that we wanted to sell|sd|3195
+B|Right.|b|3195
+B|Right.|b|3195
+A|you know, we were going up to a larger one,|sd|3195
+A|but we have found that by trading in and going through a dealer, and we always make a deal.|sd|3195
+A|I mean, we have walked out of more dealerships saying, don't bring us the manager, and all of that unless you want to bring him right away.|sd|3195
+A|You're going to get one shot at us|^q|3195
+B|Yeah.|b|3195
+A|we will, you know,|sd|3195
+A|and they say, Well, you're kidding, you know.|sd|3195
+A|I|%|3195
+A|no,|^q|3195
+A|this is the price we're going to give you out the door.|^q|3195
+A|We don't want to hear about taxes,|^q|3195

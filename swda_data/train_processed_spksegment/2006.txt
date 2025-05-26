@@ -1,0 +1,141 @@
+A|All righty.|fo_o_fw_"_by_bc|2006|0
+A|Uh, I guess our topic today is air pollution.|sd|2006|0
+A|And we are to just discuss what substances do you think that contribute most to air pollution, as well as what society can do to improve the air quality of the atmosphere around us.|sd|2006|0
+B|Right.|aa|2006|1
+A|Um, does your work entitle, uh, anything of environmental along these lines?|qy|2006|0
+B|Me, I'm in the legal department|sd|2006|1
+B|and, um, we do have, uh, a group of attorneys who handle our environmental issues.|sd|2006|1
+A|Uh-huh.|b|2006|0
+B|And I don't know too much about the air pollution thing.|sd|2006|1
+B|I do know for other types of pollution like the toxic waste and such that T I has to dispose of that we normally put in the ground, you know, we're coming up with a, uh, a new solution.|sd|2006|1
+B|We have been finding a lot of toxic places to dump|sd|2006|1
+B|and we just transport to these places.|sd|2006|1
+B|But after awhile it always seems that the, um, oh, the site starts to leak|sd|2006|1
+B|and then you have to clean it up and such.|sd|2006|1
+B|But the new idea is to take everything up to Sherman,|sd|2006|1
+B|and we're going have that, you know, incineration place up there and, dump everything there.|sd|2006|1
+A|Right.|b|2006|0
+B|And supposedly that facility will not generate air pollutants from what I've heard, that everything would be in, in, you know, a confined kind of incinerator and just burn it all up.|sd|2006|1
+B|And that we won't be polluting the air.|sd|2006|1
+B|I'm sure we have to have, uh, permits, you know, for that place. And that there's, you know, limits as to what we can, uh, let, you know, go into the air.|sd|2006|1
+A|Yeah.|b|2006|0
+A|It's, uh, uh, uh, well,|%|2006|0
+A|I work in , I work in environmentals, uh, projects right now.|sd|2006|0
+B|Oh, okay.|bk|2006|1
+A|And so the Sherman deal is, um, uh, lost a lot of hair over that project.|sd|2006|0
+B|Oh|b|2006|1
+A|Uh, what we run into, um, is we have the Texas Air Control Board, T A C B, that send out, uh, jurisdictions under which we have to, uh, uh, reply to.|sd|2006|0
+B|Uh-huh.|b|2006|1
+A|And a lot of their rules and regulation aren't real clear, so we have our manager of environmental, who assist the T A C B, which is located in Austin, in writing|sd|2006|0
+A|and, hey,|fo_o_fw_"_by_bc|2006|0
+A|look what we've done here at T I.|ad|2006|0
+B|Uh-huh.|b|2006|1
+A|And, uh, we are presently, uh, in receipt of a site permit, which will allow us to, um, uh,|sd|2006|0
+A|this is our side allow to have certain emissions up to a certain tonnage.|sd|2006|0
+B|Uh-huh.|b|2006|1
+A|It's in, in, in tons per year. Um,|sd|2006|0
+B|Okay.|b|2006|1
+A|and so, you know, what we do to make contributions so that, basically, we go and do things like put in high-tech scrubber systems, uh, that, uh, scrub out the, N O X and, uh, V O C's and, and ammonia compounds, uh, like all the acids, to a certain level.|sd|2006|0
+A|We, are very, um, aware of the opacity, which is the thickness of a stack emissions.|sd|2006|0
+B|Uh-huh.|b|2006|1
+A|So if you don't see anything coming out of a stack the opacity is zero or twenty or thereabouts.|sd|2006|0
+A|And so what we go through is, uh, if you see it smoking there's a problem.|sd|2006|0
+A|And having worked with some of the legal folks very closely, uh, it becomes a real issue, especially, when it's smoking|sd|2006|0
+A|and you have to get it fixed el pronto.|sd|2006|0
+B|Um.|%|2006|1
+A|As you know, they, they're allowed to come on site, the federaldes, anytime they want, drive through, and see, and inspect.|sd|2006|0
+B|Um.|%|2006|1
+A|So it's a full time, uh, everybody has their home phone number type of job. Um,|sd|2006|0
+B|Now is that place built|qy|2006|1
+B|or you're still on the makings of it?|qrr|2006|1
+A|The Sherman facility, we are still in the, closer too, but still have a little bit of, um, finalization to do.|sd|2006|0
+A|Right.|%|2006|0
+A|It's been pitched to the Sherman City Council with, um, open arms, as well as the public.|sd|2006|0
+B|Uh-huh.|b|2006|1
+A|We had open forum|sd|2006|0
+A|and, and, uh, uh, Tom Jones, our environmental, corporate environmental guys handle the project.|sd|2006|0
+B|Uh-huh.|b|2006|1
+A|And, uh, its real, uh, going real well.|sd|2006|0
+A|I think it's matter, just a matter of fund, funds right now as I understand it. Uh,|sd|2006|0
+B|Uh-huh.|b|2006|1
+A|but it's, uh, it's something else.|sd|2006|0
+A|Yeah.|%|2006|0
+A|they're, they're, they're in the same issue.|sd|2006|0
+A|We were hoping on burning a lot of the effluent up there.|sd|2006|0
+A|Uh, because the, the system is setup where it won't have any emissions.|sd|2006|0
+A|You're correct.|sd|2006|0
+A|It will have something coming out of the stackhouse it was, it was human nature.|sd|2006|0
+B|Right.|b|2006|1
+A|But it won't have can any, uh, any bad stuff.|sd|2006|0
+A|So, uh, I think T I, we spend, of all the major semiconductor firms, we probably put safety and environmental on the utmost, foremost, uh, uh, first thing we always look at.|sd|2006|0
+A|And we probably put more money into the systems and engineering behind the system of any other firm I know of.|sd|2006|0
+A|We eat and sleep the stuff, everything we do over here.|sd|2006|0
+A|and, uh, it's an interesting job.|sd|2006|0
+A|But um,|%|2006|0
+B|Well, I know from some of the sites that we've had, uh, quite a list of cites that have gone bad|sd|2006|1
+B|and you have to clean up.|sd|2006|1
+B|And, you know the law now is the super fund|sd|2006|1
+B|and anybody who's contributed toxic waste, no matter if you were somebody that eventually, you know, uh, damaged the ground or not.|sd|2006|1
+B|Uh, everybody has to contribute|sd|2006|1
+B|and it's been a lot of big bucks when we've gotten, uh, gotten pulled into these super fund deals to clean it up and, you know, mega bucks to, uh, you know take everything out and redo it and, you know, fill in some other area|sd|2006|1
+B|and, um, certainly, it would to have a better solution, like the Sherman facility than, um, just letting it go in the ground.|sd|2006|1
+B|Because eventually, you know, it, it seems that no matter what they do, if they put it in oil drums and then seal it in some kind of cement lined, uh, dump area.|sd|2006|1
+B|It still only in time starts to leak out.|sd|2006|1
+A|Possibly.|aap_am|2006|0
+B|Yeah.|b|2006|1
+A|Uh-huh.|b|2006|0
+B|There, there was one site that they cleaned up|sd|2006|1
+B|and then the new place leaked again. .|sd|2006|1
+A|Yeah.|aa|2006|0
+A|I'm familiar with that one.|sd|2006|0
+A|We have, we have stuff that's very interesting, uh,|sd|2006|0
+A|we have hoods,|sd|2006|0
+A|we have duckwork and all those type of interesting pieces of equipment where, um, they have, um, that we sample|sd|2006|0
+B|Uh-huh.|sd|2006|1
+A|and it may have over, uh, a certain emission levels,|sd|2006|0
+A|this is on the solid side ,|sd|2006|0
+A|and so we take it|sd|2006|0
+A|and, uh, we can't deep well inject something like that because it's a solid.|sd|2006|0
+A|And we mix it with concrete and actually, um, potash, per se, and concrete and then actually put it in the ground. But not so, not in a hazardous waste location because it's, basically, a concrete slab.|sd|2006|0
+B|Uh-huh.|b|2006|1
+B|Um.|%|2006|1
+A|It was totally legal.|sd|2006|0
+A|But the cost of doing this is astronomical, they actually show you what duckwork and things.|sd|2006|0
+B|Um,|%|2006|1
+A|And so we were, uh, very, very, uh, cognizance of, and aware of all these types of, uh, expenditures because it could get very expensive.|sd|2006|0
+A|But I think we, uh, you know, we do all kinds of things to make the, the world a better place to live, you know,|sd|2006|0
+A|I think some of the folks that aren't aware of it will be surprised at how much effort and energy is put into doing that.|sd|2006|0
+A|I really would.|sd|2006|0
+A|Um, I've enjoyed speaking with you,|sd|2006|0
+B|Yeah.|b|2006|1
+A|This has been an interesting topic.|sv|2006|0
+A|Uh, I was one of the,|sd|2006|0
+A|I was responsible for all the planning and engineering over the corporate, or in the north building|sd|2006|0
+B|Oh, you were?|bh|2006|1
+A|Yeah.|ny|2006|0
+B|Oh, okay.|bk|2006|1
+A|So, uh, I hope you like your office.|fo_o_fw_"_by_bc|2006|0
+B|Yes.|aa|2006|1
+B|Yes.|aa|2006|1
+B|It's a heck of a lot different.|sd|2006|1
+B|And we used to be really embarrassed about the gray metal desk.|sd|2006|1
+B|We were about the only, place in, you know, T I that had the gray metal desk.|sd|2006|1
+A|Yeah.|b|2006|0
+B|People used to come and laugh and go, gee, I hadn't seen one of those ten, fifteen years.|sd|2006|1
+A|Yeah.|b|2006|0
+A|Glad to see y'all taken care of.|fo_o_fw_"_by_bc|2006|0
+A|Well, the, uh, I think what changed everything and, uh, is, uh, y'all were, y'all were the only ones that make any money for TI, here in the last ten years,|sv|2006|0
+B|We, finally got a little respect.|sd|2006|1
+B|Nobody thought of us as a profit center before.|sv|2006|1
+A|Exactly.|aa|2006|0
+A|And that's, um, when, when you start, when you start paying your way, uh, you know, Jerry takes a different outlook towards you guys.|sv|2006|0
+B|Right.|aa|2006|1
+B|Right.|aa|2006|1
+A|I was just,|%|2006|0
+B|Not just overhead.|sv|2006|1
+A|Exactly.|aa|2006|0
+A|I've enjoyed speaking with you.|fc|2006|0
+B|You too.|fc|2006|1
+A|See you later.|fc|2006|0
+A|Bye-bye.|fc|2006|0
+B|Bye.|fc|2006|1

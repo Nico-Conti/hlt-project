@@ -1,0 +1,119 @@
+B|Okay,|fo_o_fw_"_by_bc|3458|0
+B|you ready?|qy|3458|0
+A|Yeah,|ny|3458|1
+A|is that it?|qy|3458|1
+B|That's it.|na|3458|0
+A|Okay,|bk|3458|1
+A|Uh, well, we, I guess we have to talk about magazines|sd|3458|1
+A|and, uh, what, what,|%|3458|1
+B|What, what kind do you subscribe to or do you?|qy|3458|0
+A|Well, I subscribe to well, I did subscribe to PEOPLE for a long time.|sd|3458|1
+A|I do, you know,|%|3458|1
+A|I enjoy PEOPLE.|sd|3458|1
+A|And now I'm, uh, I, uh, subscribe to, uh, LADIES HOME JOURNAL.|sd|3458|1
+B|I, uh, take a computer magazine. And, uh, also, uh, BETTER HOMES AND GARDENS.|sd|3458|0
+A|Uh-huh.|b|3458|1
+A|Okay,|b|3458|1
+A|are you interested in, in computers?|qy|3458|1
+B|And my pet peeve with magazines is all the little cards inside. And the cardboard pages|sd|3458|0
+A|Yeah.|b|3458|1
+A|Uh-huh,|b|3458|1
+A|yeah,|aa|3458|1
+A|well, that, that would be one of my peeves.|sd|3458|1
+A|My pet peeves with magazines, the woman's magazines especially,|sd|3458|1
+A|I mean, it's, it's really geared to,|%|3458|1
+A|all they have,|%|3458|1
+A|you have too many recipes first of all.|sv|3458|1
+A|I just don't, you know,|%|3458|1
+A|that's what I don't like about LADIES HOME JOURNAL magazines.|sd|3458|1
+A|Too many recipes, too many, uh, can this marriage with saved nonsense.|sv|3458|1
+A|I, you know, I like to read articles about things that matter.|sd|3458|1
+A|Well, of course, PEOPLE magazine is not, you know, one of your, uh, your more intellectual magazines,|sd|3458|1
+A|but it's nice, light reading|sv|3458|1
+A|You know, if I want something intellectual, I usually read a book.|sd|3458|1
+B|Well, that's true.|aa|3458|0
+B|I, uh, I like it when they have short stories.|sd|3458|0
+B|Like REDBOOK used to always have a good short story in it.|sd|3458|0
+A|Well, that's true,|aa|3458|1
+A|yeah,|aa|3458|1
+A|they did.|aa|3458|1
+B|And I haven't bought a REDBOOK in a while|sd|3458|0
+B|so I guess|%|3458|0
+A|Yeah.|b|3458|1
+B|I, I really very rarely ever pick up a magazine anymore|sd|3458|0
+A|Well, is REDBOOK still in existence?|qy|3458|1
+A|I don't know if they're, if they're around anymore.|sd|3458|1
+B|Yeah|ny|3458|0
+B|I think it is.|sd|3458|0
+B|it's an institution,|sv|3458|0
+B|surely it would have to be.|sv|3458|0
+A|Yeah.|b|3458|1
+B|But,|%|3458|0
+A|Well, I'll tell you, the only reason I bought the, uh, I subscribe to the JOURNAL is because of,|sd|3458|1
+A|which I think it was either,|%|3458|1
+A|yeah,|%|3458|1
+A|it was Publisher's Clearinghouse|sd|3458|1
+B|Right|b|3458|0
+A|They told me, you know, if I didn't subscribe they were going to take me off their, their winning, you know, their list|sd|3458|1
+A|So,|%|3458|1
+B|Mine, too|aa|3458|0
+B|This was it, my last chance|sd|3458|0
+A|Yeah,|b|3458|1
+A|my last, right, my last chance to win ten million dollars,|sd|3458|1
+A|so I figured, hey, look For twelve dollars, you know,|sd|3458|1
+B|Well, I, I, I went ahead and sent in my subscription because of that uh, to, uh, ENTERTAINMENT.|sd|3458|0
+A|That's it.|aa|3458|1
+A|Oh, yeah,|b|3458|1
+A|oh, uh-huh.|b|3458|1
+B|And I was real disappointed with it.|sd|3458|0
+A|Yeah.|b|3458|1
+B|I, I don't know,|h|3458|0
+B|it just,|%|3458|0
+B|not enough stories with some substance that you can really get into.|sv|3458|0
+A|Right.|b|3458|1
+B|It's little short articles more than anything else.|sv|3458|0
+A|Uh-huh.|b|3458|1
+B|And that's one thing I don't like about PEOPLE.|sd|3458|0
+B|Uh, it 's just, you know, doesn't seem to have enough story to it.|sv|3458|0
+A|Well, I don't know,|h|3458|1
+A|I just think, uh, you know, it's,  It's light reading.|sv|3458|1
+B|If you've only got a short time to read|%|3458|0
+A|You know, you don't have, well, you don't have to concentrate, you know you know.|sv|3458|1
+B|No,|aa|3458|0
+B|that's true|aa|3458|0
+A|It's entertaining, you know,|sv|3458|1
+A|and, uh, that's,|%|3458|1
+A|I just, I enjoy it,|sd|3458|1
+A|I, you know, I, uh|%|3458|1
+A|Well, that ENTERTAINMENT is, is very,|sv|3458|1
+A|wasn't that similar, or isn't it similar to, to the TV GUIDE?|qy|3458|1
+B|Uh, no,|nn|3458|0
+B|not really.|sd|3458|0
+B|I mean, not the one I take now.|sd|3458|0
+B|It's a, it's a magazine|sd|3458|0
+B|and it goes into all the movies, previewing the movies that are going to be released or behind the scenes.|sd|3458|0
+A|Oh, uh-huh.|b|3458|1
+A|Oh, I see.|bk|3458|1
+B|And, uh, I'm a real movie buff,|sd|3458|0
+B|so that's why I thought I might be interested in it,|sd|3458|0
+B|but it just hasn't been what I thought it would be.|sv|3458|0
+A|Oh, uh-huh.|b|3458|1
+B|And, uh, my mother has subscribed to, is the reason I get, uh, the HOME JOURNAL and the, uh, computer book is because mother got a subscription for it and sent it to me.|sd|3458|0
+A|Oh.|b|3458|1
+B|Otherwise, if, if I really want to take the time to read a magazine and I see one on the grocery shelf, I'll pick it up then. Rather than having them delivered and think, oh, I really need to read this|sd|3458|0
+A|Right,|aa|3458|1
+A|right.|aa|3458|1
+A|Well, I'll tell you, since I've been getting the JOURNAL, like maybe, maybe I'll read two, maybe three,|sd|3458|1
+A|if I read three articles in, in, you know, one of the JOURNALs, I figure, you know, I did really well.|sd|3458|1
+B|Yeah,|b|3458|0
+A|Because there's just nothing in there that interests me.|sd|3458|1
+A|I don't, you know, I don't, I'm not into, you know, recipes|sd|3458|1
+A|and|%|3458|1
+B|Well, I, I do like recipes and crafts.|sd|3458|0
+A|See, now, and I'm not into crafts,|sd|3458|1
+A|so, you know, that, that eliminates, like three quarters of the magazine You know.|sd|3458|1
+B|That's true.|aa|3458|0
+A|Well, I just got the new issue,|sd|3458|1
+A|they have Bette Midler on the cover,|sd|3458|1
+A|so that should be one article that I'll read anyway|sd|3458|1
+B|Do you, uh,|%|3458|0

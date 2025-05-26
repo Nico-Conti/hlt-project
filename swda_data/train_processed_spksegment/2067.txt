@@ -1,0 +1,128 @@
+B|Well, um, with credit cards is, me, I, uh, I try to get maybe just one or two,|fo_o_fw_"_by_bc|2067|0
+B|I don't, I don't like having credit cards for every store.|sd|2067|0
+B|I, I, uh, I just don't like them|sd|2067|0
+A|What are you afraid of with them?|qw|2067|1
+B|What am I afraid of?|qy|2067|0
+A|Yes.|ny|2067|1
+B|Um, I don't know if I'm really afraid of spending too much.|sd|2067|0
+B|I just, uh, don't think that I need them, you know.|sv|2067|0
+B|I,|%|2067|0
+B|uh, they are tempting at times,|sv|2067|0
+B|but I, I just, you know, sometimes I just don't like everybody knowing everything about me, you know,|sd|2067|0
+B|so,|%|2067|0
+A|Well, that's very, can be very, very true.|aa|2067|1
+B|So, and you know, everybody just gives you a credit card just so you'll spend money|sv|2067|0
+B|so,|%|2067|0
+A|Well, that's the idea.|sv|2067|1
+A|They figure that, if they give you card, at no charge for a whole year that you will use it|sv|2067|1
+B|Yeah.|b|2067|0
+B|Uh-huh.|b|2067|0
+A|and,|%|2067|1
+B|That's right.|aa|2067|0
+B|See they make money off of it, whether you use it or not.|sv|2067|0
+A|Absolutely.|aa|2067|1
+A|Well, the other thing, of course, is the fact that they hope, you will not pay your bill at the end of the month,  so that you would be paying interest.|sv|2067|1
+B|That's right.|aa|2067|0
+B|Uh-huh.|b|2067|0
+A|I use mine a great deal, um, for groceries, for everything that I can and, then just write one check at the end of the month,  for the entire thing,|sd|2067|1
+B|Uh-huh.|b|2067|0
+B|That's what I do.|sd|2067|0
+A|right.|%|2067|1
+B|That's what I do.|sd|2067|0
+B|Just a second. to child in|ad|2067|0
+B|Sorry|fa|2067|0
+A|That's all right.|bd|2067|1
+A|Sounds like you have a little one there.|bf|2067|1
+B|I have two little ones.|sd|2067|0
+B|Yes.|aa|2067|0
+A|Oh, you have.|bh|2067|1
+B|Yeah.|ny|2067|0
+B|So|%|2067|0
+A|Great.|ba|2067|1
+A|How old are they?|qw|2067|1
+B|um, four and two and half.|sd|2067|0
+A|Oh, boy. Those are two very active ages|sv|2067|1
+B|Yes.|aa|2067|0
+B|So, yeah,|aa|2067|0
+B|um, I'm, I'm like you|sv|2067|0
+B|I, I use my, only use my credit card for, um, you know, when I, you know,|sd|2067|0
+B|I just use it whenever I feel like I don't want to write a check,|sd|2067|0
+B|and then, but I don't charge anything that I can't payoff at the end of the month.|sd|2067|0
+A|Uh-huh.|b|2067|1
+B|So,|%|2067|0
+A|Well, uh, do you, uh, do you ever use the A T M machines?|qy|2067|1
+B|No,|nn|2067|0
+B|I never do.|sd|2067|0
+B|My husband does at work just to get cash out,|sd|2067|0
+B|but, uh, I take the checkbook|sd|2067|0
+B|so I, you know, I, just, if I need cash, I just tell him|sd|2067|0
+B|and he gets it out|sd|2067|0
+B|and I don't even think I know my number|sd|2067|0
+A|Well, I find it a great use from the standpoint that you don't have to continue to write checks, in order to get cash.|sv|2067|1
+B|Uh-huh.|b|2067|0
+B|That's right.|aa|2067|0
+B|See we, he couldn't do without it, but, you know, since he can just do it right there at work,  for nothing .|sd|2067|0
+A|Oh, that helps.|^2|2067|1
+A|Right.|b|2067|1
+B|Yeah.|b|2067|0
+A|Well the, the other thing some people are not aware of, is they will use their A, their credit card like their Visa or their MasterCard for cash|sv|2067|1
+B|Uh-huh.|b|2067|0
+A|and when they do that, they begin paying interest right from that very day on.|sv|2067|1
+B|You're right.|aa|2067|0
+B|And that's kind of silly.|sv|2067|0
+A|Yeah right.|aa|2067|1
+A|Absolutely.|aa|2067|1
+B|Yeah.|b|2067|0
+A|Because they, they figure that, that's correct|sv|2067|1
+B|You're defeating the purpose.|sv|2067|0
+A|The idea is to use their money|sv|2067|1
+B|Yeah.|b|2067|0
+A|And, uh, during that whole month and, then pay it at the end of the month.|sv|2067|1
+B|Yeah.|b|2067|0
+B|Yeah,|aa|2067|0
+B|I mean, I get, I get at least one or two a week. People, you know, sending me a credit card or calling me on the phone and I just say I don't want it.|sd|2067|0
+A|Uh-huh.|b|2067|1
+A|Right.|b|2067|1
+B|Because I,|%|2067|0
+A|Well, I think that's the only thing you can do, is just say no and mean no and,  not be tempted.|sv|2067|1
+B|Yeah.|aa|2067|0
+B|It's like,  I'd like to know where they determine that I'm such a good credit risk that they can go and say, you get this much credit line. You know.|sd|2067|0
+A|Well,|%|2067|1
+B|You've already been preapproved.|^q|2067|0
+A|oh, absolutely,|aa|2067|1
+A|preapproved.|aa|2067|1
+A|That's their favorite word.|sv|2067|1
+B|Yes.|aa|2067|0
+B|Everybody in the country is preapproved, I think.|sv|2067|0
+A|I think so, you're right.|aa|2067|1
+B|So,|%|2067|0
+A|Well, it's interesting, uh, that, uh, people have the, generally the same view. of credit cards, no matter where you go.|sv|2067|1
+B|Yeah.|b|2067|0
+B|Uh-huh.|b|2067|0
+B|Yeah.|b|2067|0
+B|And, then, some people they get so wrapped up in them that they find, you know, one day they find, wow, I didn't realize I had this much, you know, I'd spent this much money.|sv|2067|0
+A|That much stuff.|^2|2067|1
+A|Right.|b|2067|1
+B|And, then they can't meet the minimum monthly payments on it.|sv|2067|0
+A|Well, and some people use one credit card to pay for another credit card they own,|sv|2067|1
+B|Uh-huh.|b|2067|0
+A|and, I mean, that does nothing, but exacerbate the entire problem.|sv|2067|1
+B|Yeah,|aa|2067|0
+B|it does because you're, you know, you, you're, you know, you're just costing yourself more money because you, if you can't make the monthly, the minimum payment, you're paying interest, again|sv|2067|0
+A|That's right.|ba|2067|1
+B|so,|%|2067|0
+A|That's right.|ba|2067|1
+B|Yeah|b|2067|0
+B|so,|%|2067|0
+A|Well it's been enjoyable talking with you.|fc|2067|1
+B|Yeah.|fc|2067|0
+B|It's enjoyable talking with, seeing that somebody feels the same way,|fc|2067|0
+B|so, well,|%|2067|0
+A|Right.|fc|2067|1
+A|Well take good care.|fc|2067|1
+A|Take care of your little ones.|fc|2067|1
+B|You, you too.|fc|2067|0
+B|Good luck.|fc|2067|0
+A|Uh-huh.|fc|2067|1
+B|Bye-bye.|fc|2067|0
+A|Bye-bye.|fc|2067|1

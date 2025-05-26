@@ -1,0 +1,157 @@
+B|Okay,|fo_o_fw_"_by_bc|3876|0
+B|so now what are your opinions on recycling?|qo|3876|0
+A|Well, I definitely think that we need to start recycling.|sv|3876|1
+A|I think it has got to be an individual responsibility until,|sv|3876|1
+A|I think if we wait, uh, which is happening until somebody says we have to do it it is going to be to late.|sv|3876|1
+B|Yeah.|b|3876|0
+A|I have heard reports around here that the landfills will be full by the year two thousand.|sd|3876|1
+B|Yeah,|b|3876|0
+B|I have heard that too.|sd|3876|0
+A|And that is not too far away,|sv|3876|1
+A|but I don't know how it is there.|sd|3876|1
+A|It is very difficult here even if you care like I do to do much.|sv|3876|1
+A|I take, my paper,|sd|3876|1
+A|I can take plastic and paper bags back to the grocery store|sd|3876|1
+B|Uh-huh.|b|3876|0
+A|and I can take plastic like milk cartons or if they have water in them|sd|3876|1
+A|and there are some fire stations I can take newspapers to|sd|3876|1
+A|and that is very inconvenient cause I have to wait until I have enough of them to make the trip worthwhile.|sv|3876|1
+B|Well see, I started saving newspapers|sd|3876|0
+B|and I would take a ton of them|sd|3876|0
+A|Uh-huh.|b|3876|1
+B|and, uh, that's, I can't remember where I went to take them,|sd|3876|0
+B|but they wouldn't take them.|sd|3876|0
+A|Yeah.|b|3876|1
+A|It is real hard to find a spot|sv|3876|1
+A|and then, I don't know if you note, even doing that, the amount of trash we throw away is incredible|sv|3876|1
+A|bottles|sd|3876|1
+B|Oh I know.|aa|3876|0
+A|glass|sd|3876|1
+A|that cannot be, it could be recycled,|sd|3876|1
+A|but there is no place to,|sd|3876|1
+B|There is no really recycling facilities.|^2|3876|0
+A|No.|aa|3876|1
+A|We have a pilot program in Arlington going on I think in the north part of the city where they are have people people separate the garbage as, the trash as they put it out.|sd|3876|1
+B|I think that is a good idea.|sv|3876|0
+A|And I think that is what it is going to have to come to. Where we are just forced to.|sv|3876|1
+B|Besides, well like a law or whatever.|bf|3876|0
+B|that's how it is in New York isn't it.|qy|3876|0
+A|Yeah.|b|3876|1
+A|I think so,|sv|3876|1
+A|just because they have to. You know,|sv|3876|1
+B|Uh-huh.|b|3876|0
+B|And you get ticketed if you don't do it right.|sv|3876|0
+A|Right,|aa|3876|1
+A|uh-huh.|aa|3876|1
+A|And I think it is going to come to that because some people will just not go to the,|sv|3876|1
+A|it's, It's trouble for me to do what I do|sd|3876|1
+B|Yeah.|b|3876|0
+A|I mean, I am willing to do it|sd|3876|1
+A|but,|%|3876|1
+B|Plus you have to have a place to store all of it|sd|3876|0
+A|Yeah.|b|3876|1
+B|and see I live in an apartment.|sd|3876|0
+A|Yeah.|b|3876|1
+A|It is very difficult.|sv|3876|1
+A|Like our garage is always full of sacks of newspapers|sd|3876|1
+A|and, so, I don't know.|h|3876|1
+A|I think there needs to be more places|sv|3876|1
+A|and also I have a real strong opinion.|sd|3876|1
+A|In Iowa, the state I am from uh, I believe it has gone up to a dollar now.|sd|3876|1
+B|Uh-huh.|b|3876|0
+A|Every time you buy a container, no matter what it is, whether it is glass, whether it's a beer can or a fifth of whiskey or a pop or whatever, you pay ten cents for it|sd|3876|1
+B|Yeah.|b|3876|0
+A|and then you take it back to the store|sd|3876|1
+A|and you get it back.|sd|3876|1
+B|Uh, so that way it kind of forces you to recycle.|bf|3876|0
+A|You are forced to.|aa|3876|1
+A|And, uh, you also don't see the litter there.|sd|3876|1
+A|People just,|%|3876|1
+B|Yeah,|aa|3876|0
+B|that's true.|aa|3876|0
+A|It makes it worthwhile to take it back|sv|3876|1
+A|and I've just started drinking a new water called Clearly Canadian,|sd|3876|1
+A|I don't know if you've tried it|qy^d|3876|1
+B|Yeah,|ny|3876|0
+B|I have seen them.|sd|3876|0
+A|and they have on the it's five cents, that they pay five cents|sd|3876|1
+B|Uh-huh.|b|3876|0
+A|and it even shows the states that,|sd|3876|1
+B|That take them back.|^2|3876|0
+A|Yeah.|aa|3876|1
+A|Well, some of them are five, some are ten cents.|sd|3876|1
+A|I am looking at it right now.|sd|3876|1
+B|Is Texas one of them?|qy|3876|0
+A|Texas is not one of them see.|ng|3876|1
+A|So, I have to throw them away cause there is no place to take glass.|sd|3876|1
+B|Yeah.|b|3876|0
+B|No,|aa|3876|0
+B|I don't think that there is enough being done.|sv|3876|0
+B|Now, I work at J C PENNY at their corporate headquarters.|sd|3876|0
+A|Uh-huh.|b|3876|1
+B|And we have a paper recycling program that, uh, is company wide|sd|3876|0
+B|and I do the recycling for that.|sd|3876|0
+A|Do they save like the paper they they use at the office paper.|qy|3876|1
+B|Yeah.|ny|3876|0
+A|Good.|ba|3876|1
+A|Because there is a lot of waste there isn't there.|qy|3876|1
+B|Yeah.|ny|3876|0
+B|And I know there is a lot of computer paper that you can't use.|sd|3876|0
+A|Right.|b|3876|1
+A|Right.|b|3876|1
+B|But, uh, we use to have, uh,|sd|3876|0
+B|I mean, I don't even remember how much money that they've, uh, I mean, the money that they've made from the recycling program.|sd|3876|0
+B|They have donated it to charities.|sd|3876|0
+A|Right.|b|3876|1
+B|I mean they have made a substantial amount of money from it.|sd|3876|0
+A|Yeah.|b|3876|1
+A|Something else I think we do can do is support companies that encourage|sv|3876|1
+A|like, I have decided Downy Fabric Softener now has where you can buy a little carton|sd|3876|1
+B|Yeah.|b|3876|0
+A|you add|sd|3876|1
+A|well, I image everybody else will start doing that sooner or later,|sv|3876|1
+A|but I am going to stick with Downey because they were first.|sd|3876|1
+B|Yeah.|b|3876|0
+A|And I want them to have my business.|sd|3876|1
+A|And I think packaging could be done much better.|sv|3876|1
+A|There is so much plastic.|sv|3876|1
+A|But,|%|3876|1
+B|Well I know,|aa|3876|0
+B|you see some of the stuff|sd|3876|0
+B|and then when they come out with the new things, you are like, well why didn't you think of that before.|sd|3876|0
+A|Yeah.|aa|3876|1
+A|Yeah.|aa|3876|1
+A|And I think that it's just people have got to be aware.|sv|3876|1
+A|Unfortunately, there are a lot of people that just don't care|sv|3876|1
+A|and they don't want to think about it.|sv|3876|1
+B|Yeah,|aa|3876|0
+B|that's true.|aa|3876|0
+A|And, uh, I just look at it, I don't want my grandchildren looking at me and saying why didn't you do something.|sd|3876|1
+A|You know, I want to feel like I at least tried.|sd|3876|1
+B|Yeah.|b|3876|0
+A|And I don't know.|h|3876|1
+A|It just may overwhelm us here when we run out of places to put it.|sv|3876|1
+A|Then we will be forced to.|sv|3876|1
+A|It may be too late.|sv|3876|1
+B|Do they not ever, I mean, I don't know that much. Do they not ever burn trash or anything like,|qy|3876|0
+A|Very little.|ng|3876|1
+A|That's another thing that,|%|3876|1
+A|see there were no,|%|3876|1
+B|Then, that's pollution.|sd|3876|0
+A|I know Amway.|sd|3876|1
+A|I use a couple of things from Amway that it says this is burnable material.|sd|3876|1
+A|Well, that doesn't do me any good because I don't have any place to burn it.|sd|3876|1
+B|Yeah,|b|3876|0
+B|I know.|sd|3876|0
+B|I guess you run into the pollution factor.|sv|3876|0
+A|Yeah.|b|3876|1
+A|And then just like the glass bottles, that it says on the bottle I can get ten cents, but not in Texas.|sd|3876|1
+B|Yeah.|b|3876|0
+A|And there is no place I can take glass to.|sd|3876|1
+B|Uh,|%|3876|0
+A|So, I still throw away a lot of glass.|sd|3876|1
+B|It is really sad.|sv|3876|0
+A|Yeah.|b|3876|1
+A|And then the packaging thing really grips me.|sd|3876|1
+A|You buy some|sd|3876|1
+A|and it's got a great big piece of cardboard and a great big piece of plastic,|sd|3876|1

@@ -1,0 +1,152 @@
+B|Okay,|fo_o_fw_"_by_bc|3052
+B|well the topic is selecting care for the elderly.|sd|3052
+A|Uh-huh.|b|3052
+B|And I don't have elderly parents, yet but not that far in the distant future.|sd|3052
+B|What about yourself?|qo|3052
+A|Well, my parents are both in their seventies.|sd|3052
+A|My, my mother and stepfather, and my father and stepmother are all in their seventies.|sd|3052
+A|And, my, uh, uh, father and stepmother are not in very good health.|sd|3052
+A|So this is something that is,|sd|3052
+B|A concern of yours right now.|qy^d|3052
+A|Yes,|ny|3052
+A|it is.|sd|3052
+B|Are, are they living independently, right now?|qy|3052
+A|Yes,|ny|3052
+A|they are.|sd|3052
+B|Oh.|bk|3052
+A|They are.|sd|3052
+B|Have you looked at any homes for them or talked to them about that?|qy|3052
+A|Not for them, my, my mother and stepfather have, have, uh, set up an arrangement where they have a large home and, uh, two of my sisters and, and their families, one of them's husband and then all the children are living in this home.|ng|3052
+A|Its got a lot of bedrooms and bathrooms|sd|3052
+A|and, and, uh, they all share the same kitchen and dining room and den and kitchen.|sd|3052
+A|And, and, uh, my father bought this, uh, my stepfather bought this thinking of a time when one or the other of them might need care|sd|3052
+A|and they felt like that would be their alternative to a nursing home.|sd|3052
+B|Oh, that sounds the ultimate.|ba|3052
+A|Unless, unless they were so ill that they needed nursing care that could not be given in the home.|sd|3052
+B|Well, even at that point, most care can be given at, in the home.|sv|3052
+B|That sound like just an excellent solution.|ba|3052
+B|You must feel real good about that.|qy^d|3052
+A|Well, I, I felt good about it because that's my personal feeling also.|arp_nd|3052
+A|I, uh, I read a lot|sd|3052
+A|and then I know people then have visited nursing homes and, uh, have had great, grandparents in the nursing homes|sd|3052
+A|and it was not a happy situation for, for any of them.|sd|3052
+A|And, and, uh, we have a very active nursing home here in Plano that, that has, uh, activities going all the time|sd|3052
+A|and they have, uh,|%|3052
+A|even the people that are wheelchair bound and, and really are, are incapacitated. Go and, uh, participate in olympics|sd|3052
+B|Uh-huh.|b|3052
+A|and they make their crafts and sell them at a big fair that's held annually at a big mall here|sd|3052
+B|Right.|b|3052
+A|You know, so there are a lot of, a lot of activities going on all the time|sd|3052
+A|and this is a nursing home,|sd|3052
+A|it's not a senior citizens home.|sd|3052
+A|So that the people are really, uh,|sd|3052
+B|Really in need of a nursing home.|^2|3052
+A|Right.|aa|3052
+A|They need,  the nursing care,|sd|3052
+B|Right,|b|3052
+B|uh-huh.|b|3052
+A|and, and, but it's a very expensive solution.|sv|3052
+B|Well, it's, you know,|aa|3052
+B|I think we just, you know, listen to, is the fact that there are good solutions both inside and outside of nursing homes.|sv|3052
+B|It's just a matter of finding, a good home.|sv|3052
+A|Right.|b|3052
+A|Right.|b|3052
+B|And, and then, of course, there is always the problem of being able, able to afford either of those solutions.|sv|3052
+A|Right.|aa|3052
+A|Uh-huh.|aa|3052
+B|And that, I think is what is scary,|sv|3052
+B|and I also feel that that's where some of the bad images of nursing homes come from. Is when people have to put people in a nursing homes|sv|3052
+B|and they really can not afford the best.|sv|3052
+A|Right.|aa|3052
+A|And that's right, I, well I took my husband one night to an emergency room when he was in an emergency situation|sd|3052
+A|and, uh, they brought in a very elderly man from a nursing home who had, had, uh, apparently inhaled some chicken he was eating.|sd|3052
+B|Oh.|b|3052
+A|And, uh, he had apparently had not been in the home too long, just a week or so,|sd|3052
+A|but when they, the family came in to see him, they had not been made aware,|sd|3052
+A|I was in the room when the emergency technicians brought him in from the ambulance|sd|3052
+A|and I overheard their conversation.|sd|3052
+A|And when the family walked in, his wife and daughter and son-in-law, they were not even aware of what had happened.|sd|3052
+B|Oh, goodness.|ba|3052
+A|So, I told them he strangled on some chicken|sd|3052
+A|and, uh, they said, the, the woman, the wife said he was not even supposed to be eating any food like that that would require chewing or, so, you know,|sd|3052
+B|Oh.|b|3052
+A|and I thought|%|3052
+B|What a shame,|ba|3052
+B|they put him in the home so that he could be cared for|sv|3052
+A|Right.|aa|3052
+A|Right.|aa|3052
+B|and then they could have done that well at home.|sv|3052
+A|And then she was upset,|sd|3052
+A|he had on two different shoes, one of which was not even his.|sd|3052
+A|He had on a pair, of slacks,|sd|3052
+B|Oh.|b|3052
+A|and the wife said "these are not his slacks"|sd|3052
+A|and she said "I just took two pair over yesterday for him that were clean."|sd|3052
+A|And,|%|3052
+B|You hear these stories, all the time.|sv|3052
+A|Right.|b|3052
+A|Right.|aa|3052
+A|Well, I, this was just something that I was,  I witnessed to.|sd|3052
+B|You happened,|%|3052
+B|Right.|b|3052
+A|And, and, uh, at no point did anybody from the nursing home come in.|sd|3052
+A|And we were there in the same room with the man for a half hour|sd|3052
+B|Oh.|b|3052
+A|And, with just a curtain, of course, between us and, and, uh,|sd|3052
+B|Right.|b|3052
+A|they revived the man and cleared out his airway and so forth,|sd|3052
+A|and he was definitely,|sd|3052
+A|just by looking at him and the way he acted, you could tell he was in need of, of nursing home care,|sd|3052
+A|but the family were all talking about, uh, putting him in another home.|sd|3052
+A|They said he will not go back to that one.|sd|3052
+B|Well, good.|ba|3052
+B|Good,|ba|3052
+B|I'm glad they have a solution. To do that,|sd|3052
+A|I'm glad they the option.|sd|3052
+B|yes.|aa|3052
+B|I know.|aa|3052
+A|I, I would hate to be in a position where that was all I could afford|sd|3052
+A|and there were not, there was no choice.|sd|3052
+B|Exactly.|aa|3052
+B|My, uh, my ex-husband's grandmother had been in a nursing home now for, oh, it must be seven, eight years,|sd|3052
+B|and, uh, and, uh,  It's just her, her condition deteriorated, deteriorated instantly upon getting into that home.|sd|3052
+A|Oh, my.|ba|3052
+A|Um.|b|3052
+B|As the situation is so sad because it just takes all the dignity away from,  from people who have been independent all their lives.|sv|3052
+A|Uh-huh.|aa|3052
+A|Uh-huh.|aa|3052
+B|Like this was a really neat vital woman|sd|3052
+B|and you get in a nursing home|sv|3052
+B|and the first thing that happens you have to share your, your whole living space, with someone that you have never known before in your life.|sv|3052
+A|Right.|b|3052
+A|Right.|b|3052
+B|And oh I, I do not know what the answer is,|sd|3052
+B|but I do know that there are some wonderful places out there|sv|3052
+B|and it, I think it does,|%|3052
+B|a lot of it goes down to just money. And family support,|sv|3052
+A|That's right.|aa|3052
+B|uh, if you, you know, have family that, uh, you can live with.|sv|3052
+A|Visits everyday.|sv|3052
+B|Right.|aa|3052
+A|Right.|aa|3052
+B|Right.|aa|3052
+B|I, I really,|%|3052
+B|I think the way of selecting a nursing home would be similar to the way you would select child care, you know.|sv|3052
+B|You would do your research|sv|3052
+B|and you would go visit.|sv|3052
+A|Visit,|b^m|3052
+A|right.|aa|3052
+B|And, uh, hopefully, they would have, they would have it so that you could go there anytime.|sv|3052
+A|Right.|b|3052
+B|Because if you could not go there anytime, then that would make you, a little bit|sv|3052
+A|Suspicious.|^2|3052
+B|right.|aa|3052
+A|You know, I, I, my, I remember my, my grandmother many years ago when she was in a nursing home before she died|sd|3052
+A|and I guess there was not a name for what she had at that time,|sd|3052
+A|but I guess Alzheimer's would come as close as anything,|sd|3052
+A|she really was not aware of what she was doing.|sd|3052
+B|Uh-huh.|b|3052
+A|And, uh, I I can remember she had several strokes|sd|3052
+A|and the nursing home was right next to a hospital|sd|3052
+A|and they would rush her to the hospital and revive her and just bring her back to the nursing home in a couple of days.|sd|3052
+A|And it was, she was, it was just like keeping something.|sd|3052

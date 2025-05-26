@@ -1,0 +1,155 @@
+A|Okay,|fo_o_fw_"_by_bc|2125|0
+A|uh, you want to start by telling me what camping is to you.|ad|2125|0
+A|Do you backpack or hike|qy|2125|0
+A|or,|%|2125|0
+B|Well, uh, a little bit, uh,|na|2125|1
+B|nothing overly strenuous.|sd|2125|1
+B|No,|nn|2125|1
+B|the majority of my camping experience is, uh, a tent by the lake type situation or, uh, maybe a canoe trip or something like that.|sd|2125|1
+A|No,|nn|2125|0
+A|I've never done a canoe trip.|sd|2125|0
+A|That sounds interesting.|sd|2125|0
+B|Oh, it, it's,|%|2125|1
+B|we've had a lot of fun, uh,|sd|2125|1
+B|I, I moved to Dallas about five years ago|sd|2125|1
+B|and we've made three different trips since I've been here. The group of friends that I run around with, of varying degrees, uh, of difficulty.|sd|2125|1
+B|The, the last one we did, and we haven't had a chance to duplicate was, uh, was a canoe trip in Arkansas|sd|2125|1
+B|and the river was, it was up about three feet|sd|2125|1
+B|so it was, uh, it was it was pretty challenging.|sd|2125|1
+A|Oh, man, I imagine.|ba|2125|0
+B|But, uh, and then we, uh,|%|2125|1
+B|as far as the camping part of that, we just drag along all our tents and sleeping bags and, uh, find, uh, find a clearing in the woods and go for it.|sd|2125|1
+A|So they'll actually fit in the canoe|bf|2125|0
+A|and then you go for days at a time.|bf|2125|0
+B|Well, yeah,|aa|2125|1
+B|yeah,|aa|2125|1
+B|it's the,|%|2125|1
+B|that, that particular one was a two day trip|sd|2125|1
+B|so what, uh,|%|2125|1
+B|there's, uh, there's a outfitter|sd|2125|1
+B|and, uh, they haul you up to the headwaters, come down about halfway and then you get to, you spend the night|sd|2125|1
+B|and then, uh, the second day head on down to the, to the pool at the end of the river.|sd|2125|1
+A|God, that sounds like fun|sv|2125|0
+B|Yeah|aa|2125|1
+B|it, it really is.|aa|2125|1
+A|Well the camping I grew up with was like tents and Coleman stove type.|sd|2125|0
+A|And, uh, you know, that just either out in the woods, or|sd|2125|0
+A|actually I, I grew up water skiing.|sd|2125|0
+A|I was, uh, from California,|sd|2125|0
+B|Okay.|b|2125|1
+A|and so we would go up to the Sacramento, uh, river sloughs, the delta there,|sd|2125|0
+B|Okay.|b|2125|1
+A|and you just pick a campground on the river,|sd|2125|0
+B|Right,|b|2125|1
+B|right.|b|2125|1
+A|cooled off,|sd|2125|0
+A|but, uh, when I got married, my husband had always backpacked.|sd|2125|0
+B|Okay.|b|2125|1
+A|And so we did that, uh,|sd|2125|0
+A|I guess we haven't done it since my kids were born so about three years ago.|sd|2125|0
+A|And that was a new experience for me|sd|2125|0
+A|but I enjoyed it.|sd|2125|0
+A|I like being able to go back into the mountains, or, you know, where the trail didn't necessarily lead, and where you couldn't necessarily, pitch a tent|sd|2125|0
+B|Boy, I bet,|ba|2125|1
+B|yeah.|%|2125|1
+B|Uh-huh.|b|2125|1
+A|But, uh, that, that was interesting.|ba|2125|0
+A|I, I have always wanted to do some white water rafting|sd|2125|0
+A|and so your canoeing kind of made me think of that.|sd|2125|0
+B|Yeah,|b|2125|1
+B|that's, that was, uh, that's always been our next step.|sd|2125|1
+B|Our, our little group of friends here, we've been kind of getting married off and what not|sd|2125|1
+B|but, uh,|%|2125|1
+A|Don't let that stop you|ad|2125|0
+B|Yeah,|aa|2125|1
+B|that,|%|2125|1
+B|well, it, it just puts a damper on things for a little while.|sv|2125|1
+A|I know.|ba|2125|0
+B|But we're, we're starting to get everybody back together.|sd|2125|1
+B|Yeah,|%|2125|1
+B|we'd like to do a float trip down, uh, oh, like Big Bend area or something like that.|sd|2125|1
+A|Yeah,|b|2125|0
+A|so you haven't done that before.|qy^d|2125|0
+B|No,|nn|2125|1
+B|no,|nn|2125|1
+B|we haven't made that trip yet.|sd|2125|1
+A|My parents, uh, were sailing, uh, this last year down off, uh, Costa Rica|sd|2125|0
+A|and they took about two weeks and went into,|sd|2125|0
+A|I don't even know the name of the river there,|sd|2125|0
+A|but they went white water rafting|sd|2125|0
+A|and Mom said it was absolutely just a wonderful experience.|sd|2125|0
+A|She said it was truly incredible.|sd|2125|0
+B|I'll bet,|ba|2125|1
+B|yeah.|%|2125|1
+A|And, you know, I,|%|2125|0
+A|there's that sense of it, you know, you're kind of scared, that risk of like gosh, what could happen and then the thrill of, you know, the excitement of doing it,|sv|2125|0
+A|so.|%|2125|0
+B|Uh-huh,|aa|2125|1
+B|yeah,|aa|2125|1
+B|exactly.|aa|2125|1
+A|Well, do you have anything planned for this summer?|qy|2125|0
+B|Um, not really just yet.|ng|2125|1
+B|We've, uh,|%|2125|1
+B|well I, I do have, uh, a little bit of property,|sd|2125|1
+B|I grew up in South Dakota,|sd|2125|1
+A|Oh, okay.|bk|2125|0
+B|and I've got a piece of property in Minnesota that is completely undeveloped as of yet.|sd|2125|1
+B|There's, uh, there's a little lake up there|sd|2125|1
+B|and, uh, a group of friends that I, I went to college with, um, got together|sd|2125|1
+B|and we basically own all the land around this little lake, there,|sd|2125|1
+B|it's divided up into ten lots.|sd|2125|1
+A|Oh, I imagine.|ba|2125|0
+B|So, we've got a private lake,|sd|2125|1
+B|and it's completely undeveloped at this point,|sd|2125|1
+B|so, that's a possibility.|sd|2125|1
+B|And the weather is typically always nice up there in the summertime.|sd|2125|1
+B|It, it's, it's about two hours north of Minneapolis.|sd|2125|1
+A|Oh that doesn't, that sounds good.|ba|2125|0
+B|So, uh, yeah,|b|2125|1
+B|in fact, uh, uh,|%|2125|1
+B|well I got married last summer|sd|2125|1
+B|and, uh, that's, that's,|%|2125|1
+B|we ended up there for a couple days, uh, on our honeymoon.|sd|2125|1
+B|We kind of took, uh, a tour of the United States for about a week, and, uh, up through that area.|sd|2125|1
+A|That sounds,|%|2125|0
+B|But, uh, my wife's real excited about it,|sd|2125|1
+B|so, we're, uh, we're going to hope to get up there sometime early|sd|2125|1
+B|last year it was the end of July|sd|2125|1
+B|and it was a little too late for the fish|sd|2125|1
+B|but, uh, hopefully get up there early enough to, to get into some of the, some of the fish and, uh, the, the good weather and what not.|sd|2125|1
+A|We've been wanting to start camping again this year too.|sd|2125|0
+A|Uh, my oldest child is a girl, was born three years ago, three and a half.|sd|2125|0
+B|Uh-huh.|b|2125|1
+A|And then I have a little one that just turned two|sd|2125|0
+A|and we are in the process of potty training.|sd|2125|0
+A|I didn't want to go camping with diapers, you know.|sd|2125|0
+B|Oh gosh,|ba|2125|1
+B|yeah,|b|2125|1
+B|yeah.|b|2125|1
+A|I,|%|2125|0
+A|and, and, you know at a time when they're afraid of their shadow all they need is, you know, some skunk or something to rub up the outside of the tent,|sv|2125|0
+A|they'd be awake all night.|sv|2125|0
+B|That's right.|aa|2125|1
+A|So, but I think with him almost potty trained and, you know, she's not afraid of her shadow anymore, that I'm, I'm hoping and crossing my fingers that we'll be able to go, uh, this summer, you know, even if it's like over to Rio Dosa for a couple of days, or something to get them used to it and get them started, uh, with little back packs of their own, and, you know, things like that.|sd|2125|0
+B|Sure.|b|2125|1
+B|Right.|b|2125|1
+B|You bet,|ba|2125|1
+B|yeah,|%|2125|1
+B|we'll that, you know|%|2125|1
+B|and there's a lot of places with, uh, like nature trails, things like that where they could learn a lot, too.|sv|2125|1
+A|Uh-huh.|b|2125|0
+A|Well that's true.|aa|2125|0
+B|You know, it's like, okay, this, this is, this is what, uh, a pheasant looks like, you know,|sd|2125|1
+B|and okay, now we'll go look for one.|sd|2125|1
+A|Ugh, I would need that before I could teach them|sv|2125|0
+B|Well, yeah,|b|2125|1
+B|that's,|%|2125|1
+B|everybody might learn something that way,|sv|2125|1
+B|but, uh, but yeah|%|2125|1
+B|that's,|%|2125|1
+B|there is, there's an awful lot of things set up, you know, just any, anything you want to do.|sv|2125|1
+B|Like, like you say it can be, uh, a water ski trip, or fishing trip or just a sightseeing, bird watching, you know, hunt, hunt with a camera type of thing|sv|2125|1
+B|or, there's a lot of different opportunities for things like that.|sv|2125|1
+B|It's a lot of fun,|sd|2125|1
+B|it really is.|sd|2125|1
+B|Hello.|fp|2125|1

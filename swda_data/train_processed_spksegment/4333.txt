@@ -1,0 +1,86 @@
+A|Steve, uh, with the election year and whatnot coming up, do you think we ought to cut taxes, raise them,|qy|4333|0
+A|or, or, or what do you think?|qo|4333|0
+B|Well, that's, that's a really hard question.|^h|4333|1
+B|I do know that, uh, politicians always talking out of both sides of their mouths.|sv|4333|1
+B|Uh, I|%|4333|1
+B|let's example, uh,|ad|4333|1
+B|our friend, the President, right now, says no new taxes,|sd|4333|1
+B|we should and especially, if anything, be cutting taxes now because of the recession|sv|4333|1
+B|and at the same time, the budget he sent to Congress has tax and fee increases,|sd|4333|1
+B|so, uh, I know the politicians, uh, aren't, aren't straightforward.|sv|4333|1
+B|Now, in terms of economics I'm not,|sd|4333|1
+B|it's hard, hard to call.|h|4333|1
+B|It really is.|h|4333|1
+A|Uh-huh.|b|4333|0
+A|See, I never thought really, it's, uh, I never really thought that, that the, the question really had to do whether or not we're paying too much or too little.|sv|4333|0
+A|I, I always that the, the real question was is, are we getting a reasonable return on, on investment.|sv|4333|0
+A|For instance, like Social Security tax or uh,|sd|4333|0
+A|I mean, that's, that's tax|sv|4333|0
+A|we're paying money|sd|4333|0
+A|and, and supposedly this money is going into some kind of fund so that when it comes our turn to retire, the money will be there for us.|sd|4333|0
+B|Right.|b|4333|1
+A|So that's,|%|4333|0
+A|yeah, you know,|%|4333|0
+A|when I, when I see that money taken out of my paycheck each, each week, I, or each, every other week, I, I really think that money's history|sv|4333|0
+A|and you know, so as far as return investment, that's not, that's nothing|sv|4333|0
+B|Yes, uh,|aa|4333|1
+A|and we're not even going to get the exact same number of dollars back.|sv|4333|0
+A|Uh, someone was telling me that there is a, uh, uh, there's still an office in, uh, you know, staffed with, with people there and, in D C that are researching to find a cure for polio, which,|sd|4333|0
+A|I may be wrong,|sd|4333|0
+A|but I believe that the cure for polio is already founded,|sd|4333|0
+A|but, but supposedly once you have an office in D C, or, you know, and, and staff it with people, it's really tough to close it down|sv|4333|0
+A|and, and they just haven't yet.|sd|4333|0
+B|Well, yeah,|b|4333|1
+B|I'm not exactly sure, uh, about polio in particular.|h|4333|1
+B|I know we have a polio vaccine come will prevent somebody from getting polio|sd|4333|1
+A|Uh-huh.|b|4333|0
+B|I'm not sure if we know what to do in terms of curing some who has already gotten polio.|sd|4333|1
+A|Well, that might be the difference.|sd|4333|0
+A|I don't know.|sd|4333|0
+A|Uh, the other thing that, uh, I remember seeing on T V lately is, uh, had to do with,|sd|4333|0
+A|it's like seventy-five percent of the historical sites in America are in the home districts of very powerful people politically|sd|4333|0
+B|Right.|b|4333|1
+A|that, that for some reason, historical sites with, you know, the, the full federal money and everything seem to appear as, as almost as like political favors to, to very strong politicians.|sd|4333|0
+B|Yeah,|b|4333|1
+B|it's, it's, it's funny because, uh, it was one of the things that Bush is trying really hard to get ahold of is the line item veto where, uh, you know, Congress is able to attach all kinds of, uh, funny amendments for individual, uh, congressional districts to the, to the main budget proposals|sd|4333|1
+A|Uh-huh.|b|4333|0
+B|and the poor President has, has to, uh, either accept or reject the whole thing.|sd|4333|1
+A|So, it sounds like you, uh, you think that, that we'd be able to save some money by, uh passing the line item veto.|bf|4333|0
+B|Oh.|b|4333|1
+B|I, I think the line item veto is not, not, is not necessarily a bad thing, assuming that the, uh, the, the President, uh, uses it to get rid of, uh, this kind of waste.|aap_am|4333|1
+B|On the other hand, uh, it, it assumes that you have lots of confidence in your President not to veto important things. Uh, and just to get rid of the unimportant things.|sd|4333|1
+A|Yeah.|b|4333|0
+B|And whenever there's that kind of subjective judgment, there's always going to be a dispute as to, uh, where the where the boundary between waste and, and necessity is.|sv|4333|1
+A|Uh-huh.|b|4333|0
+B|So I'm not, I'm not sure that, that that will help solve our problems,|sd|4333|1
+B|but there definitely is, is a problem with,|sv|4333|1
+B|uh, I forgot,|sd|4333|1
+B|there's a political term for this stuff, pork barrel or something.|sd|4333|1
+A|Yeah.|b|4333|0
+B|Uh,|%|4333|1
+A|Pork barrel politics.|bf|4333|0
+B|Pork barrel politics.|b^m|4333|1
+B|there has to be some way to do it.|sv|4333|1
+B|I know state governors usually have line item vetos|sd|4333|1
+B|and, uh, I lived in Massachusetts for a while|sd|4333|1
+B|and, uh, when Dukakis vetoed certain things, there was a big uproar and wasn't necessarily so popular.|sd|4333|1
+A|Yeah,|b|4333|0
+A|but Massachusetts wasn't, when Dukakis was there, anyway, wasn't in that great shape financially.|sv|4333|0
+B|at least at the end.|sv|4333|1
+A|Uh-huh.|b|4333|0
+A|I mean, I don't know,|h|4333|0
+A|I,|%|4333|0
+B|Yeah,|b|4333|1
+B|they were very good at first,|sv|4333|1
+B|they were in very good financials at first|sv|4333|1
+B|and, uh, that's part of the reason he became a nominee is because things went so well.|sv|4333|1
+B|And then, of course, the bottom fell out.|sv|4333|1
+A|It's, uh, I mean, it's, it's tough.|sv|4333|0
+A|I mean, there's, there's two ways you can kind of go to get out of tough financial situations.|sv|4333|0
+A|I guess you can like raise taxes and then create like job programs and whatnot|sv|4333|0
+A|or you can hope that if people keep their money that they'll spend more and create jobs and, and whatnot.|sv|4333|0
+B|And spare the economy.|^2|4333|1
+B|Yeah,|%|4333|1
+B|it's really, it's a hard balance. It, it definitely is.|sv|4333|1
+B|Even not for government, even just, say, for a small business.|sv|4333|1
+B|Uh, I know some,|sd|4333|1

@@ -1,0 +1,110 @@
+A|Do you have any hobbies?|qy|3182
+B|Yes,|ny|3182
+B|I do.|sd|3182
+A|What are yours?|qw|3182
+B|China painting and ceramics.|sd|3182
+A|Ooh, how great.|ba|3182
+B|I enjoy it.|sd|3182
+B|Uh-huh|b|3182
+A|Oh, uh, ceramic painting.|fo_o_fw_"_by_bc|3182
+B|I enjoy the china more.|sd|3182
+A|The china more.|b^m|3182
+B|And now that I have my eyes, corrected to the point that I can see the delicate part of china painting, I do enjoy it.|sd|3182
+A|How did you ever get into that?|qw|3182
+A|That sounds so interesting.|sv|3182
+B|My husband kept begging me,|sd|3182
+B|and he's been dead now for twenty years,|sd|3182
+B|so you understand that this was a long time ago.|sd|3182
+B|But he finally brought me the china, the book, the brushes and he said I have made arrangements for your lessons.|sd|3182
+A|How|ba|3182
+A|I,|%|3182
+B|And I said I'll do it for three months|sd|3182
+B|and if I don't like it, that's it.|sd|3182
+B|Well, I painted an awful lot until his death, which was several years.|sd|3182
+B|And it has just been the most relaxing, enjoyable self-satisfying thing I've had.|sd|3182
+B|I,|%|3182
+A|Now, do you do it just for yourself,|qy|3182
+A|or do you do it to give as gifts,|qrr|3182
+A|or do you actually sell it?|qrr|3182
+B|I have sold quite a bit.|sd|3182
+B|I give a lot to our two daughters that are grown and have their home|sd|3182
+B|and then I just have the rest of my house with lot of hand painting in it.|sd|3182
+B|Uh-huh.|b|3182
+A|Oh, that sounds|ba|3182
+A|now, do you work outside of the home?|qy|3182
+B|I have just retired.|sd|3182
+A|You've just retired.|bf|3182
+B|Yes.|aa|3182
+A|Oh, oh, what a great hobby|sv|3182
+B|No,|arp_nd|3182
+B|it's not,|sd|3182
+A|I,|%|3182
+B|It's a great hobby,|sd|3182
+B|but don't retire|ad|3182
+A|Don't retire.|b^m|3182
+B|Oh,|b|3182
+A|Well, see, I don't,|sd|3182
+A|I never, uh, returned to work for the|sd|3182
+A|I have stayed home for about the last nine years.|sd|3182
+B|Oh, have, well,|%|3182
+A|We've transferred around,|sd|3182
+A|and our last area was in a rural section right on the lake, uh, on Lake Erie.|sd|3182
+A|So the lake life appealed to me,|sd|3182
+A|and my husband's working|sd|3182
+A|and he left it up to me if I worked or not.|sd|3182
+B|Wow.|ba|3182
+A|So, in my spare time, I love to sew.|sd|3182
+A|There aren't too many people around anymore that really enjoy sewing,|sd|3182
+A|but I do make all my own clothes|sd|3182
+A|and we recently purchased a new home,|sd|3182
+A|so I enjoy doing my, uh, toppers for my window applications and things like that.|sd|3182
+B|Oh, uh-huh.|b|3182
+A|But, uh, just when I thought I really enjoyed my hobby, yours sounds great|sd|3182
+B|Well, my sister is the seamstress of the two of us.|sd|3182
+B|And, but she doesn't china paint|sd|3182
+B|so we both have our expertise side.|sd|3182
+A|That is excellent.|ba|3182
+B|What part of Ohio are you in?|qw|3182
+A|We're in the I'm in the suburb of Cleveland|sd|3182
+A|and I'm about, uh, fifteen miles, probably, from downtown Cleveland, something like that.|sd|3182
+A|And Cleveland is located right on Lake Erie|sd|3182
+A|and prior to this, we were fifty miles west from here.|sd|3182
+A|So we were right on the lake.|sd|3182
+A|And Cleveland isn't all as bad as what you've heard|sd|3182
+B|Oh, what's that,|%|3182
+A|And you do find people, uh, into the crafts and the things that, uh, various things for spare time,|sd|3182
+A|but, I have never heard and I have actually never run into anyone into the china painting|sd|3182
+A|and I'm just intrigued with it.|sd|3182
+B|If you ever start, be sure and start with a large piece that you can, I mean a large flat plate.|sd|3182
+B|Um, that way you can get the feel of,|sd|3182
+B|you're not cramped on these smaller objects.|sd|3182
+A|Right,|b|3182
+A|where you're getting into the delicate work.|sd|3182
+B|That's right.|ba|3182
+A|Now, do you, where did you first get your lessons from?|qw|3182
+B|In Abilene, Texas.|sd|3182
+A|Through a, uh, an adult ed, or strictly a china type,|qy^d|3182
+B|She just taught china painting.|sd|3182
+B|Uh-huh,|b|3182
+B|and,|%|3182
+A|Oh, how marvelous.|ba|3182
+B|Then, then we had so much fun there,|sd|3182
+B|I had a friend from Albany, which is about thirty-six miles away,|sd|3182
+B|and we would meet every Thursday morning at our instructor's home, because she did our firing for us,|sd|3182
+B|and she would help us|sd|3182
+B|and we bought lots of equipment from her, supplies|sd|3182
+B|and it was just such a delightful time.|sd|3182
+B|And then after I,|%|3182
+A|Oh, and it's so nice,|ba|3182
+B|Beg pardon?|br|3182
+A|It must be so nice for you, now that you're retired.|sv|3182
+B|I have been a little bit negligent about it because I was so tired when I had to go to work after my husband's death.|sd|3182
+B|So I have put it aside for a little while,|sd|3182
+B|but I'm, I have just found me an instructor to get started again,|sd|3182
+B|uh-huh.|b|3182
+A|Oh, isn't that great.|ba|3182
+A|And you'll probably really, uh, regain your enthusiasm for it once you get into a, a class again.|sd|3182
+B|Uh-huh.|b|3182
+B|Of course, I just have one beautiful with peonies, uh, umbrella stand,|sd|3182
+B|and I have two daughters|sd|3182
+B|and they're both,|%|3182

@@ -1,0 +1,135 @@
+B|All right,|fo_o_fw_"_by_bc|3300|0
+B|so, we started recording already?|qy|3300|0
+A|Uh, I guess,|no|3300|1
+A|I don't know.|no|3300|1
+A|It's the first time I've made a phone call on it.|sd|3300|1
+B|Oh, so you pressed one?|qy|3300|0
+A|Right.|na|3300|1
+B|Okay.|bk|3300|0
+B|So, I guess we're supposed to start talking.|sv|3300|0
+B|Uh what kind of books do you read?|qw|3300|0
+A|I read, uh, a lot of Steven King, Dean R Koontz, uh some Danielle Steel.|sd|3300|1
+B|Uh-huh.|b|3300|0
+A|My aunt got me hooked on those|sd|3300|1
+B|Uh-huh.|b|3300|0
+A|So I,|%|3300|1
+B|So it's mostly all novels?|qy|3300|0
+A|Yeah,|ny|3300|1
+A|they're all novels.|sd|3300|1
+B|Okay.|bk|3300|0
+A|I'll read some, uh, classic, too.|sd|3300|1
+B|Oh, like what?|qw|3300|0
+A|Uh, like THE GRADUATE by Steinbeck.|sd|3300|1
+A|I'll, uh,|%|3300|1
+B|Yeah,|b|3300|0
+B|I like that.|sd|3300|0
+B|I like Steinbeck a lot.|sd|3300|0
+A|A, A ROSE FAMILY by Faulkner. That's one of my favorites.|sd|3300|1
+B|I have never read a lot of Faulkner.|sd|3300|0
+A|Oh, and this, this is more of a play or something that, that it was from, that, that I saw|sd|3300|1
+A|and I read the book from that.|sd|3300|1
+B|Oh, cool|ba|3300|0
+A|And, by the way, my name's Bill.|sd|3300|1
+A|I'm from North Carolina|sd|3300|1
+B|I'm Doug,|sd|3300|0
+B|I'm from Pennsylvania.|sd|3300|0
+A|Uh, I,|%|3300|1
+A|let's see.|^h|3300|1
+A|What kind of books do you like to read?|qw|3300|1
+B|Uh, well, a bunch of stuff, I guess, uh, fair number of novels, but mostly shorter ones.|arp_nd|3300|0
+B|And, like, I don't really like the, you know, six hundred page long Stephen King novels and all that.|sd|3300|0
+A|I really have to be in the mood.|sd|3300|1
+B|Right?|qy|3300|0
+A|I, I read one, like maybe once a year.|sd|3300|1
+B|Uh-huh.|b|3300|0
+A|I'm not as,|%|3300|1
+B|No,|b|3300|0
+B|like, I like, say, uh, Richard Broudigan a lot. Uh,|sd|3300|0
+A|I've never read anything by him.|sd|3300|1
+B|Okay.|b|3300|0
+B|He's, uh, he's dead now,|sd|3300|0
+B|but he was really a pretty amazing writer.|sd|3300|0
+B|He wrote books that were, like, pretty short and pretty easy to read, you know, like written at a third grade level or whatever.|sd|3300|0
+A|Yeah.|b|3300|1
+B|But they were still very heavy and philosophical, also very funny.|sd|3300|0
+B|Like, He wrote TROUT FISHING IN AMERICA.|sd|3300|0
+A|Okay.|b|3300|1
+B|So that's, anyway,|%|3300|0
+B|and, uh, I read a lot of non fiction books, too.|sd|3300|0
+B|Uh, let's see,|^h|3300|0
+A|I like to read a lot of non fiction history when Civil War era and, and that kind of thing.|sd|3300|1
+B|Uh-huh.|b|3300|0
+B|Uh-huh.|b|3300|0
+A|I found that real interesting.|sd|3300|1
+A|I'm reading THE LION AND THE WIND right now.|sd|3300|1
+A|And that was on T V.|sd|3300|1
+B|Now what's that?|qw|3300|0
+A|It was, uh, during Teddy Roosevelt's time. And, uh, about a American woman that got kidnapped in, uh, Morocco.|sd|3300|1
+B|Uh-huh.|b|3300|0
+B|Yeah.|b|3300|0
+A|Uh, this is when they were having their revolution or whatever|sd|3300|1
+B|Uh-huh.|b|3300|0
+A|and Teddy Roosevelt sent troops over and really portrays him as a, kind of a crazy man, you know.|sd|3300|1
+B|Yeah|b|3300|0
+A|Surprised me.|sd|3300|1
+A|I had no idea that he was like that.|sd|3300|1
+B|Uh-huh.|b|3300|0
+B|What, how crazy?|qw|3300|0
+A|Well, just like some, one quote that he had was that he thought the America's emblem was stupid because it was an eagle,|sd|3300|1
+A|and it should be a grizzly bear because|sd|3300|1
+B|Oh,|bk|3300|0
+A|you, you know, like the grizzly and stuff like that.|sd|3300|1
+A|So it's,|%|3300|1
+A|I saw the movie|sd|3300|1
+A|and that's what made me want to read the book.|sd|3300|1
+B|Uh-huh.|b|3300|0
+A|Candice Bergen was in the movie.|sd|3300|1
+A|I'm a real big fan of hers|sd|3300|1
+A|so,|%|3300|1
+B|Yeah.|b|3300|0
+B|Cool,|ba|3300|0
+B|see, I also read a lot of books about music because I'm interested in that and fair number of stuff about science and also philosophy things.|sd|3300|0
+A|Uh-huh.|b|3300|1
+A|I like, I like to read some of the philosophy stuff.|sd|3300|1
+B|Like,|%|3300|0
+B|Uh-huh.|b|3300|0
+B|Like, let's see,|^h|3300|0
+B|and even like reading some new age things, things that I don't quite believe in,|sd|3300|0
+B|like here on my shelf I have a book called JOURNEYS OUT OF THE BODY.|sd|3300|0
+A|Yeah,|b|3300|1
+A|I think that,|%|3300|1
+B|It's all about how to have out of body experiences and all that.|sd|3300|0
+A|I'm fascinated by that.|sd|3300|1
+A|Yeah,|b|3300|1
+A|I'm fascinated by that.|sd|3300|1
+B|Uh-huh,|b|3300|0
+B|yep.|b|3300|0
+A|That,|%|3300|1
+A|and, and, uh, even stuff about, not like ghost stories, but real encounters with ghosts and supposedly haunted houses.|sd|3300|1
+B|Uh-huh.|b|3300|0
+A|I like,|%|3300|1
+A|I'm kind of a doubting Thomas|sd|3300|1
+A|and I like to read stuff like that.|sd|3300|1
+A|Some of it really freaks me out|sd|3300|1
+B|Yeah.|b|3300|0
+B|Uh-huh|aa|3300|0
+B|Right,|aa|3300|0
+B|definitely|aa|3300|0
+B|Uh,|%|3300|0
+A|And I like to read, uh, I like to read some self help books like, uh,|sd|3300|1
+A|I read DIANETICS once, once I got past all the gibberish on it.|sd|3300|1
+B|Uh, did you like it?|qy|3300|0
+A|It was okay.|no|3300|1
+A|It, it, it, it took me a while to really get into it.|sd|3300|1
+A|It, it didn't help me that much|sd|3300|1
+B|Uh-huh.|bk|3300|0
+B|I see.|bk|3300|0
+A|But, uh, I think once you're set in your ways, you're set in your ways.|sv|3300|1
+B|Yeah|b|3300|0
+A|Uh, then I,|%|3300|1
+A|one real interesting book I read recently was, when I was looking for a job,|sd|3300|1
+A|I read, HOW TO GET THE JOB THAT YOU WANTED|sd|3300|1
+A|and, it, it had real good tips|sd|3300|1
+A|and it,|%|3300|1
+A|and I got the job that I wanted by applying the, the methods that, that,|sd|3300|1
+B|Uh-huh.|b|3300|0

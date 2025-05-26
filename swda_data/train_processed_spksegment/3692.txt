@@ -1,0 +1,95 @@
+A|They're talking about, uh, federal government, aren't they?|qy|3692|0
+B|I'm sure,|na|3692|1
+B|well, actually probably any government,|arp_nd|3692|1
+B|but the federal one's the big one|sv|3692|1
+A|Yeah.|b|3692|0
+B|So, uh, so what do you, what do you think in the short term we should be doing to, to improve it?|qo|3692|1
+A|Well, I saw a program on, uh, recently,|sd|3692|0
+A|and, and it said every time they cut, you know, like fifty-five million dollars on a certain thing, then they brag about how much money they cut,|sd|3692|0
+A|and then they go and spend that money somewhere else|sd|3692|0
+B|Right.|b|3692|1
+A|and that's why the budget is never balanced.|sd|3692|0
+B|Right.|b|3692|1
+A|The Gramm Rudman Act didn't solve the problem.|sv|3692|0
+A|They just take all the money that they say they cut|sv|3692|0
+A|and they spend it somewhere else|sv|3692|0
+B|Yeah.|b|3692|1
+A|or they, you know, they pad out their staff, or, you know, spend it in bounced checks at the, commissary,|sv|3692|0
+A|or.|%|3692|0
+B|Uh, yeah,|b|3692|1
+B|I'm getting pretty, kind of disgusted with the, uh, uh, you know, the fact that they're counting a reduced deficit as being some big step.|sv|3692|1
+B|Right.|%|3692|1
+B|I mean, first of all, we were, we've already hit the largest deficit, this proposed budget has the largest deficit ever,|sv|3692|1
+B|and, two, a deficit is, I mean, the deficit is only, uh, is, is as far from a balanced budget,|sv|3692|1
+B|you reduce the deficit,|sv|3692|1
+B|you, you're still not, you're still not, you're still overspending.|sv|3692|1
+A|Uh-huh.|b|3692|0
+B|Right.|b|3692|1
+B|I mean, it's just the amount that you're overspending,|sv|3692|1
+B|and this is, you know, for some reason, the way that the reporting is going on now,|sv|3692|1
+B|it seems like, like the goal is to reduce the deficit to some, you know, still outrageous amount, um,|sv|3692|1
+B|Yeah,|%|3692|1
+B|I, I, I think in the long term something is going to have to be done with, uh, sort of the, the, uh,|sv|3692|1
+B|well I mean, it seems to be kind of inherent in the political process, right, that you've got, uh, people, you know, trying to, trying to corner money for their state or for their constituents so that they can get reelected.|sv|3692|1
+A|Uh-huh.|b|3692|0
+B|And, uh, there isn't any sort of overall accountability,|sv|3692|1
+B|and, and, uh, I don't know,|h|3692|1
+B|I, I suppose that, that, that the only kind of solution ultimately that we're going to have, is, is, is exposure and information.|sv|3692|1
+B|And I don't know that in general the American people are that interested, you know, to listen to, to as much, uh, uh, you know,|sv|3692|1
+B|I mean, you're going to have to know what people are doing, and, uh, you know, and how, and how, how partisan and how and how self-interested their, their motives are and, and take it to task for it, because it's not going to get solved, you know, if people are still trying, you know,|sv|3692|1
+A|Uh-huh.|b|3692|0
+B|like you were saying you say, you know, hey, we just, you know, we just cut defense,|sv|3692|1
+B|let me grab some of this money for my state now,|^q|3692|1
+B|and then we can throw in some highway bill,|^q|3692|1
+B|or you can throw in some, you know, some other kind of thing,|sv|3692|1
+B|and, uh, it's a pretty vicious, uh, vicious cycle.|sv|3692|1
+B|I don't know.|h|3692|1
+A|Well, I think they should, they should limit the Senate to one term, one six year term.|sv|3692|0
+B|That's,|%|3692|1
+B|yeah,|%|3692|1
+B|that's being batted around.|sd|3692|1
+B|I, uh, my, my dad was always a proponent of that.|sd|3692|1
+B|He, uh he felt that that would get people involved who were, who were interested in being public servants as opposed to personal servants.|sd|3692|1
+A|Uh-huh.|b|3692|0
+A|Right,|aa|3692|0
+A|and, and don't let them come back,|sv|3692|0
+A|and, and, uh, keep Congress to, um, two terms of two years a piece|sv|3692|0
+B|Uh-huh.|b|3692|1
+A|and then it'll be overturning|sv|3692|0
+A|and they won't have the same people there all the time|sv|3692|0
+B|Right.|b|3692|1
+A|and then, all the special interest groups will have to renegotiate all of their their payoffs and kickbacks|sv|3692|0
+B|Right.|b|3692|1
+A|and that'll keep them busy enough so that they won't have as much influence.|sv|3692|0
+B|Uh-huh.|b|3692|1
+A|Because that's one of the things, one of the biggest things is that, uh, the fact that they're always trying to lean somebody toward one way or another, whether it's the oil companies, or the automotive companies, and like the air bag thing.|sv|3692|0
+A|The air bag came out, what, twenty years ago.|sd|3692|0
+B|Right|b|3692|1
+A|And only now they're getting that put in cars.|sd|3692|0
+B|Uh-huh,|aa|3692|1
+B|yeah.|aa|3692|1
+A|And the oil companies are, really aren't responsible, you know.|sv|3692|0
+A|The Valdez proved that,|sv|3692|0
+A|and then the government doesn't jump on them hard enough to make them do anything.|sv|3692|0
+B|Right.|b|3692|1
+A|It should have been done immediately.|sv|3692|0
+B|Yeah,|aa|3692|1
+B|yeah,|aa|3692|1
+B|I think, I think that that's probably right,|aa|3692|1
+B|because in terms of long term, you just got to get people, um,|sv|3692|1
+B|I mean, uh, at one point, at least on a local level, um, going into politics is, you know, what you're doing is, is really trying to serve the community right,|sv|3692|1
+A|Uh-huh.|b|3692|0
+B|I mean, you don't expect to make any money out of it.|sv|3692|1
+B|You know, maybe you gain a little bit of local fame,|sv|3692|1
+B|but, but it's, uh, you put in a lot of work in exchange for that.|sv|3692|1
+A|Right.|b|3692|0
+B|And I don't have the feeling that national level politicians are, are at all like that.|sv|3692|1
+A|No.|aa|3692|0
+A|They listen to wherever the money is.|sv|3692|0
+B|Yeah.|aa|3692|1
+B|And, uh, you know, I think that, that, that the problem with having, you know, junior people coming in all the time is that you end up kind of wasting a lot of time with, uh, you know, with inept politicians or people who don't know how to deal with it.|sv|3692|1
+A|Right.|b|3692|0
+A|Yeah,|aa|3692|0
+A|they're not as efficient,|sv|3692|0
+A|that's for sure.|ba|3692|0
+B|But on the other hand, maybe that's,|sv|3692|1

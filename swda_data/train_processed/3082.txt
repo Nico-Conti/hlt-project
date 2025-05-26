@@ -1,0 +1,185 @@
+A|Okay?|qy|3082
+B|Yes.|ny|3082
+A|Well, this is a very timely topic inasmuch as we're going to a family reunion this weekend.|sd|3082
+B|Oh are you really?|bh|3082
+A|Yeah.|ny|3082
+B|Where is it going to be?|qw|3082
+A|Down at Lake Texoma lodge.|sd|3082
+B|Oh.|bk|3082
+A|Yes,|b|3082
+A|this is one that's, uh, the Baker family reunion|sd|3082
+B|Uh-huh.|b|3082
+A|and this has been going on at least, uh, I would say, at least twenty-five years or thirty,  something like that.|sd|3082
+B|Oh, that's  marvelous.|ba|3082
+A|Maybe longer than that, I'm going to get back into the fifties sometime.|sd|3082
+B|Uh-huh.|b|3082
+A|First time, I, I married into the family,|sd|3082
+A|and the first time I went was about fifty-seven, I think.|sd|3082
+B|Uh-huh.|b|3082
+A|But, uh, this one has been well organized|sd|3082
+A|and in fact it used to be at Lake Brownwood,|sd|3082
+A|and now it's Lake Texoma, because that's more central location for people from Oklahoma and Texas to come to.|sd|3082
+B|Uh-huh.|b|3082
+B|I'm sure location's really important as far as figuring out where one ought to be.|sv|3082
+A|Very important, because, uh, you'll start losing people if it's too far to go.|aa|3082
+B|Uh-huh.|aa|3082
+B|We have factions, when it's one part,|sd|3082
+B|we, I have one reunion on my mother's side,|sd|3082
+B|and we found that if it's in a certain part of Texas, some people come,|sd|3082
+B|and if it's elsewhere, other people come|sd|3082
+A|Yeah.|b|3082
+B|we never get them at both of them|sd|3082
+A|Never get them at both places,|bf|3082
+B|it seems like,|aa|3082
+B|so I think we need to find a new place|sv|3082
+A|Right.|aa|3082
+A|Well, listen, they've, uh, they've had this one,|ad|3082
+A|well it just,|%|3082
+A|of course, over the years it has, uh, built up as far as the organization is concerned|sd|3082
+B|Uh-huh.|b|3082
+A|but now they, uh, have a golf tournament on the Saturday.|sd|3082
+B|Um.|b|3082
+A|And then they have generally a show or an auction or something on Saturday night to help raise funds to cover the costs of such.|sd|3082
+B|Oh, that's a neat idea.|ba|3082
+A|Yeah,|aa|3082
+A|and, uh, everyone, uh, they get the community building there at Lake Texoma lodge,|sd|3082
+A|and everyone brings in food|sd|3082
+B|Uh-huh.|b|3082
+A|and then for the Saturday night dinner they bring in like Kentucky Fried Chicken from Durant,|sd|3082
+A|and uh it really, uh, has worked out.|sd|3082
+B|Uh-huh.|b|3082
+B|How many people, Jim, are involved?|qw|3082
+A|Uh, generally, uh, I think it's been as high as about a hundred and twenty people.|sd|3082
+B|Wow.|ba|3082
+A|I think normal's about sixty or seventy.|sd|3082
+B|Yeah,|b|3082
+B|well, I guess, um, ours probably isn't that big.|sv|3082
+B|Our family is dwindling, for one thing.|sd|3082
+A|Oh|b|3082
+B|And I often feel funny because I'm in a branch that's all but died|sd|3082
+A|Oh.|b|3082
+B|I just have one aunt and my family.|sd|3082
+B|So sometimes when these other families get together, they're really pulling in aunts and uncles and grandkids,|sd|3082
+A|Yeah.|b|3082
+B|and we're kind of off on the sidelines.|sd|3082
+B|But it does remind us that we have family and roots.|sd|3082
+A|Right.|b|3082
+B|So we keep going even though we're not a real big part of it.|sd|3082
+A|Yeah,|b|3082
+A|well, our family reunion started out my wife|sd|3082
+A|and I were the kids, the newlyweds, so to speak|sd|3082
+B|Uh-huh.|b|3082
+A|and now we go, our children go,|sd|3082
+A|and our grandchildren are going now.|sd|3082
+B|Oh that's great.|ba|3082
+A|So it's, uh, wound up that, uh, we're the old folks now.|sd|3082
+B|Uh-huh,|b|3082
+B|uh-huh.|b|3082
+A|But, um, they have various organized,|sd|3082
+A|they have generally a volleyball net set up and horseshoes, uh, to pitch,|sd|3082
+A|and they organize a baseball game for the kids|sd|3082
+B|Uh-huh.|b|3082
+A|and several people bring boats,|sd|3082
+A|and there's a place they, they take the kids up to the lodge and go swimming up there in the afternoon,|sd|3082
+A|so it it's a full day.|sd|3082
+B|So there's lots to do.|bf|3082
+A|Some of the people come down on Friday afternoon and spend the whole weekend,|sd|3082
+B|Uh-huh.|b|3082
+A|and some just come in for Saturday|sd|3082
+B|Uh-huh.|b|3082
+A|so, it, uh, has worked out quite well,|sd|3082
+A|and it's a chance to see some of the relatives you don't see all year long except that once a year.|sd|3082
+B|Uh-huh|b|3082
+B|that's true.|aa|3082
+B|Well, that's neat.|ba|3082
+B|I think, think they're really fun.|sv|3082
+B|We go to mine regularly,|sd|3082
+B|and then we go to my husband's occasionally down in Temple,|sd|3082
+B|and he has a large family,|sd|3082
+B|so it's, it's fun when we go to that one.|sd|3082
+A|Yeah,|b|3082
+A|my side of the family is from back in Ohio and West Virginia,|sd|3082
+A|and I think we've been to one in thirty-five years or something like that,|sd|3082
+A|so, That's just too far away.|sd|3082
+B|Oh.|b|3082
+B|Yeah,|b|3082
+B|yeah|b|3082
+B|that, that is a problem with the distance.|sv|3082
+B|The people that we have that don't come are out El Paso way|sd|3082
+A|Yeah.|b|3082
+B|and it's just too much for all of them,  all of that group to travel.|sd|3082
+A|It's an,  all day drive just to get to this area.|sv|3082
+B|Right.|aa|3082
+B|But then we have the same attitude when it's out, there, although this year we're going out.|sd|3082
+B|They're going to have it at Fort Davis|sd|3082
+A|Yeah.|b|3082
+B|and we thought that would be fun to kind of tie it in as a vacation time as well as reunion.|sd|3082
+A|Yeah.|b|3082
+A|Yeah,|b|3082
+A|we have,|%|3082
+A|each year, of course, they elect officers of the family reunion|sd|3082
+B|Uh-huh.|b|3082
+A|and a number of years ago, back in the early eighties, my wife was president.|sd|3082
+A|We discovered how much work it is just to organize and get it together. And it takes a lot of planning,  and assembling of stuff.|sd|3082
+B|Uh-huh.|b|3082
+B|And choose,  some place that everybody's going to like as far as food and all that|sv|3082
+A|Right.|b|3082
+A|That's correct.|ba|3082
+B|That's a heavy burden.|sv|3082
+A|Yes,|aa|3082
+A|it is,|aa|3082
+A|I tell you.|aa|3082
+A|I don't really care for her to be president again.|sd|3082
+B|No|b|3082
+A|But that is, uh, it's, it's a lot of work,|sd|3082
+A|but it's a lot of fun.|sd|3082
+B|Uh-huh.|b|3082
+A|We've enjoyed it,|sd|3082
+A|and the grandkids really enjoy it because it's the only time of the year they see all their cousins from Oklahoma.|sd|3082
+B|Well, I think,|%|3082
+B|Yeah,|b|3082
+B|and it's, it's good for kids to know that they have other family.|sv|3082
+A|Yeah,|aa|3082
+A|and this year they're all excited.|sd|3082
+A|The show this weekend,|%|3082
+A|this weekend's going to be a rock and roll show|sd|3082
+B|Oh, boy.|ba|3082
+A|my two grandsons and one of their cousins are, are going to dress up and lip sing to a rock song you know, in jeans and t-shirts and such.|sd|3082
+B|Oh, what fun.|ba|3082
+B|Uh-huh.|b|3082
+A|So, it's, uh, it's going to be exciting for them, and for us too.|sv|3082
+B|Uh-huh.|aa|3082
+B|Probably lots of laughs.|sv|3082
+A|Oh, yes,|aa|3082
+A|there have been some really wild shows put on there.|sd|3082
+A|They, uh, really get, uh, into it.|sd|3082
+B|Uh-huh.|b|3082
+B|Well, it sounds like you really have a good structure and have it going along.|sv|3082
+B|Ours, ours is still kind of loosely organized,|sd|3082
+B|and the same people usually get stuck with doing it.|sd|3082
+A|Yeah,|b|3082
+A|well,  Oh, that generally happens.|sv|3082
+B|And,  they do it as a labor of love.|sd|3082
+A|Yeah.|b|3082
+B|So, the officer idea is a good idea.|sv|3082
+A|Yeah,|aa|3082
+A|well we've, uh, had various things over the years, uh, to raise funds for it|sd|3082
+B|Uh-huh.|b|3082
+A|and again, it's not, it's not cheap to rent the lodge up there or the meeting room down in the cabins and such,|sd|3082
+B|Yeah.|b|3082
+A|but, uh they've come up with,|sd|3082
+B|Uh-huh|b|3082
+A|they've tried passing the hat,|sd|3082
+A|and they've had auctions and various things to raise funds,|sd|3082
+A|and, uh some people do|sd|3082
+B|Uh-huh.|b|3082
+A|and some people don't|sd|3082
+B|Yeah,|b|3082
+B|and it's not fair that everybody not contribute,|sv|3082
+A|Excuse me. But, um, anyway, that's the family reunion story.|fc|3082
+B|Uh-huh.|fc|3082
+A|Okay.|fc|3082
+B|Well, thanks a lot I enjoyed talking to you.|fc|3082
+B|Bye.|fc|3082
+A|Been nice talking to you.|fc|3082
+A|Bye.|fc|3082

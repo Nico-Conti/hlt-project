@@ -1,0 +1,186 @@
+A|Okay,|fo_o_fw_"_by_bc|3624|0
+A|all set.|sd|3624|0
+B|Good morning|fp|3624|1
+A|Good morning.|fp|3624|0
+A|Let's see,|^h|3624|0
+A|music, um,|^h|3624|0
+A|well, I play a couple of instruments.|sd|3624|0
+B|Uh-huh.|b|3624|1
+A|I try to.|sd|3624|0
+B|What do you play?|qw|3624|1
+A|Um, clarinet is my primary instrument,|sd|3624|0
+A|and I also play a little bit of saxophone, flute and piano when I get the opportunity, which isn't very often.|sd|3624|0
+B|Uh-huh.|b|3624|1
+B|Really,|b|3624|1
+B|that's too bad|ba|3624|1
+A|How about yourself?|qo|3624|0
+B|I play, uh, the violin and play trumpet|sd|3624|1
+A|Uh-huh.|b|3624|0
+A|Uh.|b|3624|0
+B|and I run a municipal band|sd|3624|1
+B|and I sometimes conduct.|sd|3624|1
+A|Oh, wow.|ba|3624|0
+B|So, I'm pretty busy too.|sd|3624|1
+B|I play in three different symphony orchestras.|sd|3624|1
+A|Wow.|ba|3624|0
+B|We have a nice big one here in State College, called the Nitny Valley Symphony.|sd|3624|1
+A|That's great.|ba|3624|0
+A|Uh-huh.|b|3624|0
+B|I play in the Altoona Symphony,|sd|3624|1
+B|was about forty-five miles away|sd|3624|1
+A|Uh-huh.|b|3624|0
+B|and I play in a slightly smaller one called the Lockhaven Symphony and Community Orchestra.|sd|3624|1
+A|Uh-huh.|b|3624|0
+A|Uh-huh.|b|3624|0
+A|So are you a professional musician?|qy|3624|0
+B|No,|nn|3624|1
+B|I'm, uh, just retiring from Penn State University|sd|3624|1
+A|Uh-huh.|b|3624|0
+B|only I, I should, should have been.|sd|3624|1
+B|I spend about half my time playing music or preparing for it somewhere.|sd|3624|1
+A|Uh-huh.|b|3624|0
+B|But, uh, I've been working at, uh, Penn State and using up all my nighttimes, and weekends uh, going to these orchestra rehearsals and, and concerts and so forth.|sd|3624|1
+A|Uh-huh.|b|3624|0
+A|Uh-huh.|b|3624|0
+A|Uh-huh,|b|3624|0
+A|I understand,|ba|3624|0
+A|yeah.|%|3624|0
+A|I'm in one community band here,|sd|3624|0
+A|and that's just,|%|3624|0
+A|well, we rehearse once a week.|sd|3624|0
+A|We generally have a concert every other week|sd|3624|0
+A|and,|%|3624|0
+B|You have one that often.|qy^d|3624|1
+A|Yeah|ny|3624|0
+B|That's amazing because I, I, I have it set up here that we have at least six to seven rehearsals per concert.|sd|3624|1
+A|That's a lot.|sv|3624|0
+A|No,|nn|3624|0
+A|we sure don't.|sd|3624|0
+B|Wow.|ba|3624|1
+A|Well, one thing is, we have a summer summer series,|sd|3624|0
+A|and every single Sunday night we play at the library to have a little out, outdoor stage set up|sd|3624|0
+B|Uh-huh.|b|3624|1
+B|Oh.|b|3624|1
+A|and so we do that every Sunday night during the summer,|sd|3624|0
+B|You are busy.|sv|3624|1
+A|yeah,|aa|3624|0
+A|and then, I don't know. We just have an awful lot of engagements,|sd|3624|0
+A|and we're just having to turn a lot of people down, um, because, you know, uh, we don't want to do things like have a concert back to back or even two days in a row.|sd|3624|0
+B|Where do you get all this music,|qw|3624|1
+B|I mean, you, you must back up and play some of the music twice.|qy^d|3624|1
+A|Oh yes,|qy|3624|0
+A|definitely, we really do.|sd|3624|0
+A|You know, you get your little Sousa book|sd|3624|0
+A|and you just flip through it, and that sort of thing.|sd|3624|0
+B|Oh, okay.|bk|3624|1
+B|So your, you don't play pretty well a full concert band music most of the time then.|qy^d|3624|1
+A|It really depends on who shows up.|no|3624|0
+B|Uh-huh.|b|3624|1
+A|Um, and it's always a mystery,|sd|3624|0
+A|because it actually doesn't matter who shows up,|sd|3624|0
+A|it matters what instruments they brought,|sd|3624|0
+A|because so many people switch instruments so often.|sd|3624|0
+B|Right.|b|3624|1
+B|Uh-huh.|b|3624|1
+A|But, um, yeah,|b|3624|0
+A|in the winter we do more concert stuff|sd|3624|0
+A|and,|%|3624|0
+B|How many people in your band?|qw|3624|1
+A|Um, I think there's about seventy.|sd|3624|0
+B|Seventy.|b^m|3624|1
+A|Yeah,|b|3624|0
+A|there's a lot.|sd|3624|0
+B|Holy mackerel,|ba|3624|1
+B|that's.|%|3624|1
+A|But, on any given night there's not seventy you know,|sd|3624|0
+B|Uh-huh.|b|3624|1
+A|it alternates quite a lot.|sd|3624|0
+B|Boy,|ba|3624|1
+B|that is a huge organization,|sv|3624|1
+B|that's great.|ba|3624|1
+A|Yeah,|aa|3624|0
+A|it really is.|aa|3624|0
+B|Because about the best I can normally hope for is about fifty in, in the band I have here.|sd|3624|1
+A|Oh.|b|3624|0
+A|Yeah,|b|3624|0
+A|well.|%|3624|0
+B|But that fills a stage and keeps us busy,|sd|3624|1
+B|but they were, half have been professionals from, uh, a lot of them are from, uh, faculty at Penn State here.|sd|3624|1
+A|Oh, okay.|b|3624|0
+B|And so they want to play things that, uh, push them to do.|sd|3624|1
+B|So that's why we have to work real hard when we get a concert together.|sd|3624|1
+A|Uh-huh.|b|3624|0
+B|We have about four concerts per year indoors and two or three that we play outside.|sd|3624|1
+A|Uh-huh.|b|3624|0
+A|Uh-huh.|b|3624|0
+B|And the last one we did was in a large, uh, mall close here,|sd|3624|1
+B|we played Christmas about an hour out in this mall.|sd|3624|1
+A|Uh-huh,|b|3624|0
+A|uh-huh.|b|3624|0
+B|So that worked out very nicely.|sd|3624|1
+A|Yeah,|b|3624|0
+A|that's fun.|ba|3624|0
+B|Yeah.|b|3624|1
+A|Well, let's see.|^h|3624|0
+A|Well, there's another band around here.|sd|3624|0
+A|Someone at work is trying to get me to join that one, because they need clarinet players|sd|3624|0
+B|Uh-huh.|b|3624|1
+A|and their concert schedule isn't as heavy,|sd|3624|0
+A|but they have more in the summer,|sd|3624|0
+A|I think they have ten in the summer, you know, one, one week after the other.|sd|3624|0
+A|I think they're like Monday nights and they don't have rehearsals during that time period.|sd|3624|0
+B|Wow,|ba|3624|1
+B|that.|%|3624|1
+B|Are you just saying you, you sight read every concert?|qy|3624|1
+A|Uh, well, it's not really sight reading when you've done it, you know, again and again and again,|arp_nd|3624|0
+A|but some people are,|sd|3624|0
+B|Okay.|bk|3624|1
+A|yeah|%|3624|0
+B|Uh-huh.|b|3624|1
+A|some of them are.|sd|3624|0
+B|And where, where does this happen, Laurie,|qw|3624|1
+B|is this in Dallas?|qy|3624|1
+A|Well, they're in the suburbs of Dallas, in Richardson and Plano.|arp_nd|3624|0
+B|Uh-huh.|b|3624|1
+A|We're real close to Dallas.|sd|3624|0
+B|Well, I declare.|ba|3624|1
+A|Yeah.|b|3624|0
+B|That's amazing.|ba|3624|1
+A|Yeah,|b|3624|0
+A|well, it's more of a, I think it's very much more of a social group than anything else, you know.|sd|3624|0
+B|Okay.|b|3624|1
+A|And, and people always bring refreshments for after rehearsal and hang around for an hour or so|sd|3624|0
+B|Okay.|b|3624|1
+A|and, That's probably why we get so many people.|sv|3624|0
+B|Uh-huh.|b|3624|1
+B|Do any of your, you, in your group get paid for any of this?|qy|3624|1
+A|Um, well, the conductor gets paid a little bit, you know,|na|3624|0
+A|we do get some money from the city because we do play at a lot of city events.|sd|3624|0
+B|Uh-huh.|b|3624|1
+B|Uh-huh.|b|3624|1
+A|Um, I think he's the only one that gets paid.|sd|3624|0
+B|Uh-huh.|b|3624|1
+B|And you do have to buy your music.|qy^d|3624|1
+B|Who, who sponsors you basically, the city?|qy|3624|1
+A|The city,|na|3624|0
+A|uh-huh.|ny|3624|0
+B|Yeah, uh,|b|3624|1
+B|my band is sponsored through what they call Parks and Recreation.|sd|3624|1
+A|Yeah,|b|3624|0
+A|it's a similar thing.|sd|3624|0
+B|Yeah.|b|3624|1
+A|I can't remember what they call it,|sd|3624|0
+A|but the same type of thing.|sd|3624|0
+B|Uh-huh.|b|3624|1
+A|Um, but we do get an awful lot of music, you know,|sd|3624|0
+A|we can borrow music from any of the area colleges|sd|3624|0
+B|Yes.|b|3624|1
+A|or, you know, if some, some group just isn't going to play any more, they'll just give us their music, and that type of thing.|sd|3624|0
+B|Uh-huh.|b|3624|1
+A|And we do an awful lot of, you know,|sd|3624|0
+A|we don't charge for any of our performances,|sd|3624|0
+A|but we get a lot of donations.|sd|3624|0
+B|Well, I, I work the same way|sd|3624|1
+A|Yeah|b|3624|0
+B|Well, I'll be darned.|ba|3624|1
+B|It's amazing.|ba|3624|1

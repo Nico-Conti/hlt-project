@@ -1,0 +1,143 @@
+B|How many children do you have now?|qw|4633|0
+A|Well I have five.|sd|4633|1
+B|You have five?|br|4633|0
+A|Right.|aa|4633|1
+B|Well you do have a hard time finding time then don't you?|qy|4633|0
+A|Well, five are, I mean four of them are grown,|sd|4633|1
+A|they're in college or just out of college|sd|4633|1
+A|so I really have just a thirteen year old at home.|sd|4633|1
+B|Uh-huh.|b|4633|0
+B|You sound so young.|sv|4633|0
+A|Well, I work at it|sd|4633|1
+B|All right|bk|4633|0
+B|To have them, uh,|%|4633|0
+A|I try to fool everybody|sd|4633|1
+B|I think you're doing a good job.|sv|4633|0
+B|I just have one child.|sd|4633|0
+A|Uh-huh.|b|4633|1
+B|And, uh, I don't think, uh,|%|4633|0
+B|well there's not much I can do about it.|sd|4633|0
+B|My, my wife and I are, in our forties, you know,|sd|4633|0
+B|so, uh|%|4633|0
+A|Uh-huh.|b|4633|1
+B|but it's hard to raise one child without them thinking they're the, they're the pivot point of the universe.|sv|4633|0
+A|I think you are right|aa|4633|1
+A|because I was an only child too.|sd|4633|1
+A|And that's one reason I have so many because I really, I enjoy the big family.|sd|4633|1
+B|Yeah.|b|4633|0
+A|And my thirteen year old is pretty separate from her brother and sisters|sd|4633|1
+A|and so she is sort of like an only child|sd|4633|1
+A|and it's the same type of thing, uh,|sv|4633|1
+B|Uh-huh.|b|4633|0
+B|I have a younger brother like that.|sd|4633|0
+B|I'm in my forties, like I say|sd|4633|0
+B|and I have a brother in his twenties.|sd|4633|0
+A|Uh-huh.|b|4633|1
+B|And I was, I was the youngest.|sd|4633|0
+A|Yeah.|b|4633|1
+B|So I understand how that worked.|sd|4633|0
+B|And he was treated like he had five fathers or something.|sd|4633|0
+A|Right.|aa|4633|1
+A|That's exactly how it is, you know.|sd|4633|1
+A|She's got all these sisters and her brother to take care of her.|sd|4633|1
+A|When things don't go right, she just calls one of them, you know.|sd|4633|1
+B|Yeah.|b|4633|0
+A|But, uh, yeah,|%|4633|1
+A|it, it's a little bit difficult, though.|sd|4633|1
+A|I think it was easier when they all had each other and could entertain each other and I was home more.|sd|4633|1
+A|And,|%|4633|1
+B|Did you all do a lot of organized things like, uh, Little League, uh, soccer?|qy|4633|0
+A|We, we really did not.|ng|4633|1
+A|My next oldest daughter that's in college in California is a world twirling champion.|sd|4633|1
+A|She twirls a baton|sd|4633|1
+A|and we did a lot of things together.|sd|4633|1
+B|Uh-huh.|b|4633|0
+A|She and I did a lot of things together and flew,|sd|4633|1
+A|we have flown all over the world for her to compete and to perform.|sd|4633|1
+B|Uh-huh.|b|4633|0
+A|And that was a lot of fun.|sd|4633|1
+A|But that, that, I guess you could consider that organized.|sv|4633|1
+A|I mean, there is a competition all the time.|sv|4633|1
+B|Yeah.|b|4633|0
+A|We were very heavy into that.|sd|4633|1
+A|Other than that, they were pretty much,|sd|4633|1
+A|and maybe dancing school for a while or mainly school sports and things like that.|sd|4633|1
+B|You know, I think that's probably true. The,|sv|4633|0
+B|if you have one child or fewer, you get involved in organized events or activities|sv|4633|0
+A|Uh-huh.|b|4633|1
+B|and if you have a large number of children or, then you don't.|sv|4633|0
+A|Well, you can't afford to.|sv|4633|1
+B|No,|aa|4633|0
+B|you|%|4633|0
+B|and there's not enough time, uh|sv|4633|0
+A|Right.|aa|4633|1
+B|like my son is in, uh, Little League this year.|sd|4633|0
+B|He's ten.|sd|4633|0
+B|And they practice three times a week|sd|4633|0
+B|and they have a game|sd|4633|0
+B|and it's just, uh, if there were more than one child, I don't know, there would be no way to do it.|sv|4633|0
+A|Right.|aa|4633|1
+A|That's right.|aa|4633|1
+B|You know, one parent go one direction|sv|4633|0
+B|and I'd have to go in the other|sv|4633|0
+B|and we could only cover two at that.|sv|4633|0
+A|Uh-huh.|b|4633|1
+A|Yeah.|b|4633|1
+A|Well I know I spent hours in the gym every day with my daughter|sd|4633|1
+A|and my little one also competed because really she had no choice.|sd|4633|1
+A|She had to go with me.|sd|4633|1
+B|Uh-huh.|b|4633|0
+A|So the three of us just spent a lot of time traveling and, and competing|sd|4633|1
+A|and, of course, the competing itself, really didn't matter what it was,|sv|4633|1
+A|it was making the friends and going all the places|sv|4633|1
+A|and it was a really neat experience,|sd|4633|1
+A|but it took our total time.|sd|4633|1
+A|I did not work, uh, when I did this.|sd|4633|1
+A|Now I do work full-time.|sd|4633|1
+B|Uh-huh.|b|4633|0
+A|And it's just, my thirteen year old and myself|sd|4633|1
+A|and so we really have to keep it together to get just her activities in and still have time to spend with each other.|sd|4633|1
+A|So ,|%|4633|1
+B|I don't think, although|sv|4633|0
+B|I think a, a, more than one child, probably three children is probably the ideal to me|sv|4633|0
+B|but I'm not sure I could afford three.|sv|4633|0
+B|I most certainly couldn't educate three.|sv|4633|0
+B|I don't know how my, my parents did it.|sd|4633|0
+A|Yeah.|b|4633|1
+B|I mean, there were five of us|sd|4633|0
+B|and I don't recall, you know, wanting anything in particular.|sd|4633|0
+B|Uh, but I don't know how my father did it.|sd|4633|0
+B|He worked at a truck line|sd|4633|0
+B|and he just didn't make that kind of money with five children.|sd|4633|0
+B|But we did okay.|sd|4633|0
+B|We had a house and a home and,|sd|4633|0
+B|but now, my wife and I both work|sd|4633|0
+B|and we don't, I don't believe we have as much as my parents did|sd|4633|0
+B|and we only have one child.|sd|4633|0
+A|Really?|bh|4633|1
+B|Uh-huh.|b|4633|0
+A|Well, things cost a lot more.|sv|4633|1
+A|I don't know how it is in Georgia|sd|4633|1
+B|Huh.|b|4633|0
+A|and I don't think our part of the country is particularly bad compared to some.|sv|4633|1
+B|Atlanta is horrible.|sd|4633|0
+A|Is it?|qy|4633|1
+B|Yes.|ny|4633|0
+B|we have a lot of people moving here from Boston and, and different areas|sd|4633|0
+B|and from talking to them, they're shocked.|sd|4633|0
+A|Really?|bh|4633|1
+B|and they, you know,|%|4633|0
+B|the housing is so cheap in comparison to Boston  that they jump on it.|sd|4633|0
+A|Right.|b|4633|1
+A|That's what I've heard.|aa|4633|1
+B|They sell their house,|sd|4633|0
+B|they stash away a good bit of money and come down here|sd|4633|0
+B|and I work with a lot of them,|sd|4633|0
+B|they, they think they, they have really done something.|sd|4633|0
+B|Then when they get down here, they realize the cost of living is outrageous compared to, to where they came from.|sd|4633|0
+A|Huh.|b|4633|1
+A|Yeah.|b|4633|1
+B|The housing is cheaper,|sd|4633|0
+B|but that's about it.|sd|4633|0
+A|I'm surprised to hear that.|arp_nd|4633|1
+A|I've heard very positive things about Atlanta,|sv|4633|1

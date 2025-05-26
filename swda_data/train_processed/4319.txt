@@ -1,0 +1,134 @@
+A|Uh, so, uh, what are your benefits like at your job,|qw|4319
+A|and how do you feel about them?|qo|4319
+B|Uh, pretty good, actually.|sd|4319
+B|I work for Hewlett Packard|sd|4319
+B|and they have, uh, a pretty good, uh, benefits package.|sv|4319
+B|In fact, they're, they're kind of known, uh, for having good benefits.|sd|4319
+B|The pay isn't fabulous,|sv|4319
+B|although I saw a survey recently|sd|4319
+B|and I'm actually making just about as much as, you know, I'm making actually over average, over the average for my career, my experience and all that stuff which kind of surprised me.|sd|4319
+A|Oh, that's good.|ba|4319
+A|Uh-huh.|b|4319
+A|What kind of a degree have you got?|qw|4319
+B|I've got a Bachelor's in electrical engineering|sd|4319
+B|so,|%|4319
+A|Oh.|b|4319
+B|And I'm not, like, a hugely advanced degree or any that|sd|4319
+A|Uh-huh.|b|4319
+B|Uh, anyway, the, our benefits are pretty good.|sv|4319
+B|We've got stock purchase program and a,|sd|4319
+B|that, that's pretty generous, although you have to hold the stock for two years before you get the company contribution which is, kind of a, a pain,|sv|4319
+A|Uh-huh.|b|4319
+B|but, uh, there's a four O one K plan uh, for, uh, sheltering some taxable income.|sd|4319
+A|Uh-huh.|b|4319
+A|Uh-huh.|b|4319
+B|Uh, there's,|%|4319
+A|How long have you been with them?|qw|4319
+B|I've been with them for seven years.|sd|4319
+A|Uh.|%|4319
+B|Yeah.|b|4319
+A|That's good.|ba|4319
+B|And, the best thing, and a lot of the stuff, the best thing is like four years or five years, it's pretty soon, you're completely vested in the retirement plan and everything,|sv|4319
+A|Uh-huh.|b|4319
+B|so, uh, it's not|%|4319
+B|but there's full, uh, there's several medical plans to choose from, uh, that cover pretty much everything.|sd|4319
+B|I don't get sick that often,|sd|4319
+B|so I don't pay much of it,|sd|4319
+B|and I pay five dollars every time I visit the, the hospital that, you know, for a checkup or whatever.|sd|4319
+A|Uh-huh.|b|4319
+A|Uh-huh.|b|4319
+B|Uh, they don't cover eyes though,|sd|4319
+B|and I, I have contact lenses,|sd|4319
+B|so that's kind of a pain.|sv|4319
+A|Uh-huh.|b|4319
+B|But, you know, I  I can live,|sd|4319
+A|But, for all  practical purpose, you are almost a hundred percent covered.|bf|4319
+B|Oh, yeah,|aa|4319
+B|yeah.|aa|4319
+A|So that you've got small, small things to gripe about.|sv|4319
+B|Right.|b|4319
+A|Wow.|ba|4319
+B|And,|%|4319
+A|Well, that sounds like you must feel really good about it.|bf|4319
+B|Yeah,|ny|4319
+B|yeah,|ny|4319
+B|and, and the dental plan is|sv|4319
+B|The dental plan, I pay absolutely nothing because, uh|sd|4319
+A|Wow.|ba|4319
+B|I, I guess they would charge a little bit if there was some orthodontia or something for one of my dependents or something like that|sv|4319
+A|Uh-huh.|b|4319
+B|but that's not the case,|sd|4319
+A|Uh-huh.|b|4319
+B|so, I guess nothing.|sd|4319
+B|It's fabulous.|sv|4319
+A|Wow.|ba|4319
+B|Uh, the,|%|4319
+B|what about you?|qo|4319
+A|Well, I, uh, work in Washington at the Naval Research Laboratory.|sd|4319
+A|I also have a part time job at a law firm|sd|4319
+A|and I get no benefits from them, to the part time work although, they pay better per hour than my, my sort of, quote, real job does.|sd|4319
+B|Uh-huh.|b|4319
+A|Uh, and benefits, through the government are, uh, really,|sd|4319
+A|uh, they just, uh, they're not the greatest.|sv|4319
+A|Uh, I, before I, I, uh, uh, got my degree|sd|4319
+A|I'm, uh, a computer scientist|sd|4319
+B|Uh-huh.|b|4319
+A|and before I got my degree, I had, uh, done paralegal work for law firms here in Washington|sd|4319
+B|Uh-huh.|b|4319
+A|and, uh, at that time, I was in gravy city.|sd|4319
+A|Uh, the law firms in this town are not, you know,|sd|4319
+A|for a long time were just rolling in the dough in the early eighties|sd|4319
+B|Yeah.|b|4319
+A|and, uh, benefits were just amazing|sv|4319
+B|Uh-huh.|b|4319
+A|and we had everything paid for,|sd|4319
+A|and, uh, anyway, with the government, it's not, uh, quite that nice a deal.|sv|4319
+A|Uh, but it's, you know, it's, it's okay.|sv|4319
+A|What we have to do is, we have to pay, uh, about twenty percent of our, uh, uh, our costs|sd|4319
+A|and it's deducted from our check each month and that sort of thing,|sd|4319
+A|and the plans that are available to us, uh, range from kind of mediocre to really sweet|sd|4319
+A|and, uh, so I, I think I'm actually involved in a relatively good plan at this point.|sv|4319
+A|Uh, but, uh, it could be better,|sv|4319
+A|that's for sure,|sv|4319
+A|and, uh, but, you know there are other things that you get when you work for the government uh, in, in terms of, uh, more relaxed atmosphere.|sv|4319
+B|Yeah.|b|4319
+A|It's really nice to be, for me, anyway, to be able to work in, uh, a research atmosphere, uh, where I don't have to, uh, uh, you know, worry about, uh, academics or anything like that,|sd|4319
+A|and, so I'm, I'm really kind of happy about that end of, of things.|sd|4319
+A|It's, uh,|%|4319
+B|Yeah,|b|4319
+B|one of the things with my company is that they've, uh, got a reputation for a lot of job security|sd|4319
+B|and, uh there's a lot of different things that they do, lot of different divisions even this area, in the San Francisco Bay Area that they do,|sd|4319
+A|Uh-huh.|b|4319
+B|so there's,|%|4319
+B|I, myself have moved around quite a bit within the company|sd|4319
+A|Uh-huh.|b|4319
+B|and it's, and I, and I haven't had to move my residence to do that.|sd|4319
+B|You know, I still live in San Jose|sd|4319
+B|and,|%|4319
+A|Wow,|ba|4319
+A|that's fabulous.|sv|4319
+B|Yeah|b|4319
+B|it,|%|4319
+A|You see, now that's, that's interesting,|sv|4319
+A|because I have a cousin whose husband works for Hewlett Packard up in the Massachusetts area.|sd|4319
+B|Oh, yeah?|bh|4319
+B|Yeah.|b|4319
+A|He, he lives in Andover|sd|4319
+B|Uh-huh.|b|4319
+A|and, uh, the work that he,|sd|4319
+A|he's, uh, specifically an engineer and, and does work with, uh, the Hewlett Packard machines that do, uh, uh, sonographic imagining|sd|4319
+B|Right,|b|4319
+B|right.|b|4319
+A|and, uh, I've been over to see his complex over there|sd|4319
+A|and it's amazing.|sv|4319
+B|Uh-huh.|b|4319
+A|It's, it's all ecologically designed|sd|4319
+A|and, and, uh, he seems really, really happy with the, the set up.|sd|4319
+B|Yeah,|b|4319
+B|yeah.|b|4319
+A|And,|%|4319
+B|In fact, I know a guy who works at Andover who used to work, who I used to work with out here|sd|4319
+A|Uh-huh.|b|4319
+B|and he moved his family back east a few years ago to, to take that position.|sd|4319
+B|Kind of interesting.|sv|4319
+B|Uh, anyhow,|%|4319

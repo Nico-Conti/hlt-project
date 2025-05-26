@@ -1,0 +1,111 @@
+A|Well, have you seen a new movie lately?|qy|3369|0
+B|Well, uh, I am a student|sd|3369|1
+B|and I have, uh, been actually watching more movies on video, than being able to go out to see, uh, movies at the store, or at the theater.|sd|3369|1
+A|Uh-huh.|b|3369|0
+B|Uh, I I want to see the FISHER KING and, and, uh, catch ROBIN HOOD.|sd|3369|1
+A|Okay.|b|3369|0
+A|I, uh, I haven't seen either one of those.|sd|3369|0
+A|Uh, what, what are some of the shows that you have been able to rent though?|qw|3369|0
+B|Uh, let's see.|^h|3369|1
+B|Uh, I'm trying to just think of the ones that have come on.|sd|3369|1
+B|Uh, WHITE PALACE which I thought was over rated, over hyped, um, recently.|sd|3369|1
+B|Well, you're catching me at, it, uh, uh, at mind's end here.|sd|3369|1
+B|What have you seen recently?|qw|3369|1
+A|Well, maybe you, uh, you have seen DANCES WITH WOLVES.|qy^d|3369|0
+B|Yes.|ny|3369|1
+A|Okay.|b|3369|0
+B|Yes.|b|3369|1
+A|What did you think of that one?|qo|3369|0
+B|Enjoyed that quite a bit.|sd|3369|1
+B|Um, I thought the, uh, the the cinematography was excellent.|sd|3369|1
+A|Uh-huh.|b|3369|0
+B|Uh, the story was,|sd|3369|1
+B|uh, though it tended to be a little one sided uh, it was good.|sd|3369|1
+A|Yeah.|b|3369|0
+B|Uh, it was, it was believable.|sd|3369|1
+A|I, uh, I just moved down, in fact, from South Dakota in, in June,|sd|3369|0
+A|and that's when the movie was filmed,|sd|3369|0
+B|Uh-huh.|b|3369|1
+A|and, uh, we, when, when the movie came out, we went,|sd|3369|0
+A|uh, my dad lives in the state capital, which is Pierre|sd|3369|0
+B|Uh-huh.|b|3369|1
+A|and it was filmed right outside of Pierre.|sd|3369|0
+A|In fact, the buffalo, the scene, the big buffalo herd scene, that was, that was a live scene.|sd|3369|0
+B|Wow.|ba|3369|1
+A|Uh, there's a guy that has got a, a buffalo farm,|sd|3369|0
+A|and he has got over ten thousand head of buffalo and, and, uh, we, my dad has got a little plane, we flew over it all looked at the buffalo,|sd|3369|0
+A|it was really neat.|sd|3369|0
+A|But, uh, so we are watching the, the movie in the movie theater in Pierre|sd|3369|0
+B|Uh-huh.|b|3369|1
+A|and, uh, just every time I would start to get into the movie, and it was getting good someone in the crowd would yell, hey, there's John Red Eagle, you know|sd|3369|0
+B|Uh-huh.|b|3369|1
+A|or, you know, they'd start recognizing people.|sd|3369|0
+B|They knew, they knew the extras or the,|bf|3369|1
+A|Yeah.|aa|3369|0
+A|So, I kind of, I think I enjoyed it more when I, when I watched it on video cassette than I did, uh, in the movie theater because my attention would get diverted every time they'd say that.|sd|3369|0
+A|I'd go now, now which one could that be you know,|sd|3369|0
+B|Uh-huh.|b|3369|1
+A|and I'd, I'd start trying to focus in on people instead of, of picking up the overall,|sd|3369|0
+B|Scope.|^2|3369|1
+A|Right.|aa|3369|0
+A|Exactly.|aa|3369|0
+B|Uh-huh.|b|3369|1
+A|So, but I, I thought it was a good film.|sd|3369|0
+A|But you are right,|sv|3369|0
+A|I think, I think it was very one sided.|sv|3369|0
+B|It, it was,|sv|3369|1
+B|but it's a side that hasn't been told. Uh, as far as, you know, telling it from, you know, the Indians as the good guys and the, the white men as the bad guys.|sv|3369|1
+B|I, I really thought about, uh, all the, the westerns that we have seen for years and years,|sd|3369|1
+A|Sure.|b|3369|0
+B|and it's just, shoot the Indians,|sd|3369|1
+B|and they are always the savages.|sd|3369|1
+A|Right.|b|3369|0
+B|So,|%|3369|1
+A|In fact, I was watching WILD WILD WEST last night|sd|3369|0
+A|and, it was a similar, uh, situation with the Iroquois Indians attacking a, an army fort.|sd|3369|0
+B|Uh-huh.|b|3369|1
+A|Um, but it was an interesting movie.|sd|3369|0
+A|Uh, have you seen PRETTY WOMAN?|qy|3369|0
+B|Yes.|ny|3369|1
+A|Now I thought that was a good show.|sd|3369|0
+B|Yeah.|aa|3369|1
+B|That was, that was a good movie.|sv|3369|1
+B|Um, it was just kind of a get away movie.|sv|3369|1
+A|Yeah.|b|3369|0
+B|Kind of,|%|3369|1
+A|It didn't, uh, it didn't have any real social bearing|sv|3369|0
+A|or, uh, and it wasn't really a comedy,|sv|3369|0
+A|but it was an enjoyable movie.|sd|3369|0
+A|It was, it was kind of like the STAR WARS series, you know, just something a little different,  yet believable.|sv|3369|0
+B|Uh-huh.|b|3369|1
+B|Right.|b|3369|1
+B|Yes.|aa|3369|1
+B|You're bringing it,|sd|3369|1
+B|I don't know,|h|3369|1
+B|I had a, I sure did have a mind lock about the movies I've seen.|sd|3369|1
+B|But, yeah,|%|3369|1
+B|I've seen PRETTY WOMAN and DANCES WITH WOLVES,|sd|3369|1
+B|and, uh,|%|3369|1
+A|Uh, now are you, are you going to see, or do you, are you much of a STAR TREK fan,|qy|3369|0
+A|are you going to see this next one that's coming out?|qy|3369|0
+B|Oh, definitely.|na|3369|1
+A|Have you seen the rest?|qy|3369|0
+B|Yes.|ny|3369|1
+A|I think I've missed one.|sd|3369|0
+A|I'm not sure,|h|3369|0
+A|but I think I've missed one.|sd|3369|0
+B|I actually went to the STAR TREK twenty fifth anniversary marathon that happened about a month ago,|sd|3369|1
+B|and they showed all five in a row.|sd|3369|1
+A|Was that here in Dallas?|qy|3369|0
+B|Oh, they had it everywhere,|sd|3369|1
+B|uh, every major city had one theater that did it|sd|3369|1
+B|and,|%|3369|1
+A|Okay.|b|3369|0
+A|Because we had one here in Dallas.|sd|3369|0
+B|Right,|aa|3369|1
+B|and they did it in Houston,|sd|3369|1
+B|they did it, well, they did it everywhere.|sd|3369|1
+B|And it was, it was really good to see all the movies and how the story developed,|sd|3369|1
+B|and the thing that I didn't realize is that if you watch the movies in a row, uh, time wise they happen one after another and just no, no time between them,|sd|3369|1
+A|Uh-huh.|b|3369|0
+B|but you can watch the characters develop,|sv|3369|1

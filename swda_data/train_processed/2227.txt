@@ -1,0 +1,266 @@
+A|Okay,|fo_o_fw_"_by_bc|2227
+A|so you watch DAVID LETTERMAN?|qy|2227
+B|Yeah.|ny|2227
+A|Well, see our favorite T V show,|sd|2227
+A|I, I, I live in a dorm|sd|2227
+B|Uh-huh.|b|2227
+A|and our favorite T V show is CHEERS.|sd|2227
+B|Oh, really,|b|2227
+B|yeah|b|2227
+B|that's pretty awesome, too.|ba|2227
+B|I watch it every now and then.|sd|2227
+A|Okay,|b|2227
+B|That's hilarious.|ba|2227
+A|well, we try,|%|2227
+A|like here they show it, like, every day.|sd|2227
+B|Oh, serious|b|2227
+A|And then, like, on Thursdays is the night where the new ones come on.|sd|2227
+B|Oh, that's cool.|ba|2227
+A|But we watch it like every day.|sd|2227
+A|But I, like, late night, we don't watch, uh,|sd|2227
+A|what we do is, we stay up till around one thirty,|sd|2227
+B|Uh-huh.|b|2227
+A|and then they show the TWILIGHT ZONE at one thirty,|sd|2227
+A|and so we just stay and watch that.|sd|2227
+B|TWILIGHT ZONE rules, man.|sv|2227
+A|The what?|br|2227
+B|TWILIGHT ZONE rules.|sv|2227
+A|Yeah,|b|2227
+B|That's all.|sd|2227
+A|I used, I used to live in the house that the guy owned.|sd|2227
+B|Are you serious?|qy|2227
+A|Yeah,|ny|2227
+A|it was really, it was really, oh, well, it was all full with, uh, shelves everywhere|sd|2227
+A|and we didn't have enough books to fill it up|sd|2227
+A|but, But, uh, so what, what do you like, why do you like DAVID LETTERMAN?|qw|2227
+B|That's psychedelic.|ba|2227
+B|Oh, he just, like, totally sarcastic and hilarious|sv|2227
+B|and, I don't know,|h|2227
+B|I'm a lot like him in a way,|sd|2227
+B|so and he's got curly hair|sd|2227
+A|So the,|%|2227
+B|and so do I|sd|2227
+B|so,|%|2227
+A|Oh, do you watch SATURDAY NIGHT LIVE?|qy|2227
+A|What?|qw|2227
+A|He's got what?|br|2227
+B|Curly hair|sd|2227
+B|and so do I,|sd|2227
+B|so hey|ba|2227
+A|Hey I got long hair,|sd|2227
+A|wait,|ad|2227
+A|wait|ad|2227
+B|Cool,|ba|2227
+B|how long is it?|qw|2227
+A|Uh, I don't know,|no|2227
+A|but people,|%|2227
+A|the other day I went into a bar|sd|2227
+A|and this guy asked me to dance.|sd|2227
+A|All he saw was my hair|sd|2227
+A|and he goes, do you want to dance.|sd|2227
+A|I turn around and go, what!|sd|2227
+A|He goes do you want to dance.|sd|2227
+A|I go no,|sd|2227
+A|no,|^q|2227
+A|he goes oh, oh, I'm sorry.|sd|2227
+A|I go, yeah,|sd|2227
+A|you better be.|^q|2227
+A|I go, you better be|sd|2227
+B|That's hilarious.|ba|2227
+A|so, But, okay, so wait|%|2227
+A|do you watch SATURDAY NIGHT LIVE yesterday?|qy|2227
+B|No,|nn|2227
+B|it,|%|2227
+B|with the, uh,|%|2227
+B|who was on, the music people,|qw|2227
+B|wasn't that Fishbone.|qy|2227
+A|Yeah.|ny|2227
+B|Yeah|b^m|2227
+B|I saw that,|sd|2227
+B|it was awesome.|sv|2227
+B|But I didn't see the rest of it.|sd|2227
+A|No,|b|2227
+A|oh, you missed WAYNE'S WORLD.|sd|2227
+B|Are you serious?|bh|2227
+A|WAYNE'S WORLD was pretty cool.|sv|2227
+B|They're awesome.|aa|2227
+A|So, uh, let's see,|^h|2227
+A|what else.|^h|2227
+A|Uh, see, like, all we do here is, like, every time we walk in the room we turn on the T V because we don't want to do anything like study or anything,|sd|2227
+B|Oh, really?|bh|2227
+B|Yeah,|b|2227
+B|that sucks.|ba|2227
+A|so all the, all we do is turn,|sd|2227
+A|like, like, when I was in high school I used to do, like, my homework in front of the T V set, you know.|sd|2227
+B|Really?|bh|2227
+B|Uh, kind of annoying|sv|2227
+B|but that's cool.|ba|2227
+A|What?|br|2227
+B|Kind of annoying to, like, in front of T V, like trying to do homework, you know.|sv|2227
+A|Yeah.|b|2227
+B|Trying to write an essay, you start talking about, you know, like, IN LIVING COLOR or something,|sv|2227
+B|I don't know.|h|2227
+A|Well, I like, I, I just, I just bogused on all my homework|sd|2227
+A|so it really didn't matter|sd|2227
+B|Cool,|ba|2227
+B|yeah,|%|2227
+B|B S|sv|2227
+B|that's the way to do it.|sv|2227
+A|Yeah,|aa|2227
+A|I know,|aa|2227
+A|and I did that all through college|sd|2227
+A|and it worked|sd|2227
+B|Cool,|ba|2227
+B|yeah,|%|2227
+B|works for me.|sd|2227
+A|So, uh, let's see,|^h|2227
+A|what else.|^h|2227
+A|Like, the news we don't watch, because they're boring.|sv|2227
+B|No,|aa|2227
+B|unless,|%|2227
+B|I watched through the war, you know,|sd|2227
+B|there's only one.|sd|2227
+A|Yeah,|b|2227
+A|especially the war,|sd|2227
+A|I mean it was like, I, haven't I seen this episode before, you know.|sd|2227
+B|I know,|aa|2227
+B|I guess they think that people don't watch T V,|sv|2227
+B|but I mean if you watch it for, like, five minutes, then it repeats everything over and over and over.|sv|2227
+A|Yeah,|aa|2227
+A|I know.|aa|2227
+B|It's, like, oh, man.|sv|2227
+A|And, and in North|%|2227
+A|see the, the thing is, like here they just, they just give you like local news, okay.|sd|2227
+B|Yeah.|b|2227
+A|Like, a house burned down in this little town.|sd|2227
+B|Oh.|b|2227
+A|And were here,|sd|2227
+A|and I go, so what happened worldwide, you know.|sd|2227
+A|It's like, you know, even though two hundred and fifty thousand people died somewhere else, they're not going to tell you, you know,|sd|2227
+A|they're going to spend more time on doing a, a thing on a, on a cross guard who's a hundred and five years old, than they are on anything else, you know.|sd|2227
+B|Yeah.|b|2227
+A|So, but, uh, let's see,|^h|2227
+A|what else.|^h|2227
+A|Oh, we watch, like for example, uh,|sd|2227
+A|okay,|%|2227
+A|do you watch STAR TREK?|qy|2227
+B|Uh, I haven't seen it in years,|ng|2227
+B|but I used to.|sd|2227
+A|Okay,|bk|2227
+A|well I used to hate STAR TREK.|sv|2227
+B|Yeah?|bh|2227
+A|I thought, I thought,|%|2227
+A|like, when it, like, when I was, like, in high school and junior high school, I used to hate it|sd|2227
+B|Uh-huh.|b|2227
+A|but then we started watching it.|sd|2227
+A|And, and, like, the new ones are pretty cool because, because they got like, uh, like special, like especially things, that, like, fuck with your mind.|sd|2227
+B|Really?|bh|2227
+B|Oh, really,|b|2227
+B|that's cool.|ba|2227
+A|Because what happened is, like they have this hologram right, where you walk in|sd|2227
+B|Uh-huh.|b|2227
+A|and you can program|sd|2227
+A|and everything looks real|sd|2227
+A|and you can touch everything and stuff.|sd|2227
+B|Are you serious?|bh|2227
+B|Oh, man.|ba|2227
+A|But it's only a program|sd|2227
+A|and it's really great because sometimes it's like the hologram makes up all these things|sd|2227
+A|and, uh, I mean sometimes it, sometimes it's funny,|sd|2227
+A|sometimes it's not,|sd|2227
+A|but, uh, you know, it's something to pass the time, till we do|sd|2227
+B|That's cool.|ba|2227
+B|Sound like .|%|2227
+A|and then, and then we watch football.|sd|2227
+B|Uh, yeah,|b|2227
+B|basketball's cool,|sv|2227
+B|but football kind of after a while,|sv|2227
+A|Which basketball?|qw|2227
+B|Which basketball?|qw|2227
+A|College or,|qy|2227
+B|Yeah,|ny|2227
+B|I kind of like college better,|sd|2227
+B|it's more spirited .|sv|2227
+A|We got, we got two teams of the A C C going there.|sd|2227
+B|Oh, yeah?|bh|2227
+A|We got Duke and North Carolina.|sd|2227
+B|Cool.|ba|2227
+A|But, I mean the, I mean there's nothing to do,|sd|2227
+A|like for example yesterday uh, they go, some girl goes, do you dares want to go to a picnic, right.|sd|2227
+B|Uh-huh.|b|2227
+A|I hear no, *looks mistranscribed|sd|2227
+A|we're just, you know, it's like we just woke up,|sd|2227
+A|we had a hangover and everything, you know.|sd|2227
+A|And so we just woke up|sd|2227
+A|and, uh, we're watching T V,|sd|2227
+A|and I go, no,|sd|2227
+A|today we're just going to dedicate ourself to watching golf and bowling, you know,|^q|2227
+B|golf,|b|2227
+B|yay.|b|2227
+A|and everybody, it was, like, oh, God, do you guys really watch that?|sd|2227
+A|No,|b|2227
+A|you know, I was,|%|2227
+A|like, a whole golf tournament, it's,|%|2227
+A|like, for example, baseball,|%|2227
+A|I hate baseball,|sd|2227
+A|I mean, Somebody told me, like, that, like, you can watch baseball,|sd|2227
+B|Oh, me, too.|sd|2227
+A|and the actual play time that there is is five minutes.|sv|2227
+B|Uh-huh.|b|2227
+A|Because by, the play time is when the person, when the pitcher pitches the ball and it goes to the catcher or when the, when the pitcher pitches and it's hit.|sv|2227
+B|Yeah.|b|2227
+B|Yeah.|b|2227
+A|Okay,|b|2227
+B|That's true.|aa|2227
+A|and that's, like, you know, five seconds for the whole play|sv|2227
+B|Yeah,|aa|2227
+B|that's true.|aa|2227
+A|and that's it.|sv|2227
+A|I mean, maybe a home run could last a little bit longer because the guy has to run around all the bases, you know.|sv|2227
+A|But I mean, it's, it's like that,|%|2227
+A|I mean it's was, it's just,|%|2227
+A|but when I went home that's all, like, they had on T V|sd|2227
+B|Ooh, really?|bh|2227
+A|so I I watched entire games of baseball|sd|2227
+A|and they're going oh, my God.|sd|2227
+A|And T V in Argentina's really bad.|sd|2227
+B|Oh, really.|b|2227
+B|So, so why from Argentina, why'd you come over here?|qw|2227
+A|Uh, because, uh, I wanted to go to school here.|sd|2227
+B|Oh, that's cool.|ba|2227
+A|Yeah,|b|2227
+B|How long did you live there?|qw|2227
+A|they have better computer science up here than they, than they do down there.|sv|2227
+B|Oh|bk|2227
+A|So, and I also, uh, my father works for I B M,|sd|2227
+B|Uh-huh.|b|2227
+A|and we came up here,|sd|2227
+A|we, well, we came to the United States in nineteen seventy-six, seventy-seven and, uh, we lived here for about seven years|sd|2227
+B|Uh.|b|2227
+B|Yeah.|b|2227
+A|then we moved back.|sd|2227
+B|Huh.|b|2227
+A|And so then I said, I'm going to move back up there to go to college.|sd|2227
+B|That's cool.|ba|2227
+A|He goes, okay.|sd|2227
+A|So he goes, but do it fast,|sd|2227
+A|so I did my undergraduate in two years.|sd|2227
+B|Oh, really?|bh|2227
+B|Awesome.|ba|2227
+A|Yeah.|ny|2227
+A|So, but it's, a, it's just, you know,|%|2227
+A|oh, well, we've been talking for five minutes.|sd|2227
+B|That's cool.|ba|2227
+A|That's the only obligation we have.|sd|2227
+B|Groovy.|ba|2227
+A|And, uh, well, tell your dad that now he owes you five bucks.|ad|2227
+B|Yeah,|aa|2227
+B|no doubt.|aa|2227
+A|Okay.|fc|2227
+B|Okay.|fc|2227
+A|All right,|fc|2227
+A|nice talking to you.|fc|2227
+B|Yeah,|fc|2227
+B|you, too.|fc|2227
+A|Bye-bye.|fc|2227
+B|Bye.|fc|2227

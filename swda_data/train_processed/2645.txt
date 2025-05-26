@@ -1,0 +1,210 @@
+A|So the general topic is hobbies.|sd|2645
+B|Yes.|aa|2645
+A|Let's hear about your hobbies.|ad|2645
+B|Well, let's see,|^h|2645
+B|what kind of hobbies do I have?|qw|2645
+B|I guess, uh, I, it's more not so much a hobby but things I enjoy doing.|sd|2645
+B|I enjoy playing basketball and, and basically all kinds of sports.|sd|2645
+B|And, uh,|%|2645
+A|Any handicrafts?|qy|2645
+B|Excuse me.|br|2645
+A|Any handicrafts?|qy|2645
+B|No,|nn|2645
+B|not, not really, um,|sd|2645
+B|no,|nn|2645
+B|I'm really not too creative|sd|2645
+B|well, I, uh, you know, around with my hands and things like that|sd|2645
+B|I leave that more up to my Mom|sd|2645
+A|So, um, I think I'm in handicraft.|sd|2645
+B|Oh, yeah.|b|2645
+A|I think it will become resume writing.|sd|2645
+B|Oh, well, let's hope that you, you aren't employed by that craft for too long.|ba|2645
+A|Uh, yeah,|aa|2645
+A|I, I hate to think about it|sd|2645
+A|and, and I'm getting rather good at reading want ads.|sd|2645
+B|Uh-huh.|b|2645
+A|Yeah,|b|2645
+A|it, it,|%|2645
+B|what kind of time frame is it, uh, looking for the, uh, different shifts up there?|qw|2645
+A|I|%|2645
+A|who knows.|qh|2645
+B|Is it, uh,|%|2645
+B|basically, I had read that they're just looking at relocating them all to McKinney is it, Texas,|sd|2645
+A|No,|ar|2645
+A|all means about fifteen to twenty percent,  of, of, oh,|sd|2645
+B|Oh, wow.|ba|2645
+A|I'm sure the number's somewhere classified|sd|2645
+A|but some of the internal news and the news services,|sd|2645
+A|so, it's approximately six fifty,|sd|2645
+B|Uh-huh.|b|2645
+A|so ten percent of six fifty, is sixty-five|sd|2645
+A|and twenty percent would be one thirty.|sd|2645
+B|Wow,|ba|2645
+B|how about that.|bh|2645
+B|Yeah,|b|2645
+B|that's what it did report was a hundred and thirty relocating down to McKinney.|sd|2645
+A|Yeah,|aa|2645
+A|that's possible.|aap_am|2645
+B|How about that.|bh|2645
+B|Well, that's, uh, that's unfortunate|ba|2645
+B|is there many other,|%|2645
+B|are you in the defense?|qy|2645
+A|Oh, yes, .|ny|2645
+B|Is it, uh, many other corporations in the area?|qy|2645
+A|Uh, I saw Seven Eleven that was hiring.|no|2645
+B|Well, I'm sure with the new, uh, contract awarding|%|2645
+B|I, I think it went to Lockheed, didn't it?|qy|2645
+A|Yes.|ny|2645
+B|That, uh, I hear they're hiring all over the place for that.|sd|2645
+A|Yeah, uh,|aa|2645
+A|no,|ar|2645
+A|Apple's coming to town|sd|2645
+A|and,  and that has some opportunities|sd|2645
+B|Oh, really?|bh|2645
+A|and, uh, and,|%|2645
+B|Now is that ad good just to Colorado or to Colorado Springs?|qy|2645
+A|Colorado Springs specifically,|sd|2645
+A|yes.|ny|2645
+B|How about that.|bh|2645
+A|And, uh, and, uh, M C I coming if, if, telemarketing is your bag.|sd|2645
+B|Uh-huh.|b|2645
+A|Personally I'd rather die a slow painful death|sd|2645
+A|but,|%|2645
+B|Well, you in the, uh, computer operations or in the actual, uh, manufacturing?|qy|2645
+A|Uh, I'm a defense worker.|sd|2645
+A|I'm, government tool control specialist.|sd|2645
+B|Right,|b|2645
+B|yeah,|b|2645
+B|that's why I was in the Deseg down here in Plano also.|sd|2645
+A|Are you still employed?|qy|2645
+B|Am I still employed by T I,|qy|2645
+B|no,|nn|2645
+B|I took a leave of, of T I back in November.|sd|2645
+A|Oh.|b|2645
+B|Actually, December was my first month away from them.|sd|2645
+A|Exempt or ?|qy|2645
+B|Exempt.|sd|2645
+A|Oh, yes.|bk|2645
+B|It, uh, unfortunately I guess for myself it wasn't, uh, it was purely by my own choice.|sd|2645
+B|It wasn't, uh, there was no incentive for myself to leave,|sd|2645
+B|but it was just an opportunity arose|sd|2645
+B|and decided to take it.|sd|2645
+A|Oh, so, you didn't even get the severance package.|qy^d|2645
+B|No.|nn|2645
+B|I should have taken the, the, the, you know, uh, option when that was there,|sd|2645
+B|but it was just, I missed it by a couple months.|sd|2645
+B|But, you know, what can one do.|qh|2645
+B|I'm just happy still to have a job.|sd|2645
+A|So, are you happy with what you are doing now?|qy|2645
+B|Yeah,|ny|2645
+B|I am kind of happy with it,|sd|2645
+B|it's getting better all the time,|sd|2645
+B|I knew it would be different from the very beginning,|sd|2645
+B|but, you know, as you get to know more of the people that work there and more of what's going on with the system,|sd|2645
+B|so I was in the computer operations|sd|2645
+B|it's, uh, you know, it all starts to become similar|sd|2645
+B|there's, you know, there's benefits|sd|2645
+B|and there's things that weren't as good,|sd|2645
+A|Yeah.|b|2645
+B|but as an overall package, I'd say I'm pretty happy so far with the way it's turned out.|sd|2645
+A|Good,|ba|2645
+A|good.|ba|2645
+A|Well, it hasn't been a long time T I|sd|2645
+A|or I,  I'm significantly shaken by the situation,  but not devastated.|sd|2645
+B|Uh-huh.|b|2645
+B|Right.|b|2645
+B|Uh-huh.|b|2645
+B|Well, the one thing I guess at least in your favor is the, the fact that, that is more in the support of the manufacturing|sv|2645
+B|and there's lots and lots of companies that have maybe not in the the defense area but manufacturing in general.|sv|2645
+A|To tell you the truth, I'm, I'm, I'm not really worried.|sd|2645
+B|Uh-huh.|b|2645
+B|That's great.|ba|2645
+B|That's good.|ba|2645
+A|And, and I seem rather happy about it most of the time,  just, just to know, what's, possibilities are,  you know, what might happen.|sd|2645
+B|Uh-huh.|b|2645
+B|Sure,|b|2645
+B|yeah.|b|2645
+B|Sometimes it's good just to have everything out on the table.|ba|2645
+A|But still in all,  it feels funny.|sd|2645
+B|It may be a blessing in disguise.|sv|2645
+B|I know a number of people who are, uh, surplused|sd|2645
+B|and they're just,|%|2645
+B|actually, what the positions that they found outside of the company were much, much better than the ones that they currently had inside.|sv|2645
+A|So, despite the fact that I should be tying flies or fly fishing or, or going for walks in the mountains,  I can't seem to get into it right now.|sd|2645
+B|Exactly.|ba|2645
+B|Uh-huh,|b|2645
+B|well, I'm sure it's just with the, the, the, the way that things are so topsy-turvy right now as soon as you decide on a pass ,|sv|2645
+A|Uh, situational.|%|2645
+A|I've, I doubt I'll be here in six months.|sd|2645
+B|Uh-huh.|b|2645
+B|Well, would you like to be there?|qy|2645
+A|I,|%|2645
+A|all things being equal, yes.|na|2645
+B|Uh-huh.|b|2645
+A|But, or, or even somewhere better,|sd|2645
+B|Sure.|ba|2645
+A|but, God this is much better than west Texas.|sv|2645
+B|Uh-huh|b|2645
+B|Well, just take the day,|%|2645
+A|But then they, they tell me Hell is much better than west Texas.|sd|2645
+B|Well, actually, uh, the, the Plano, Dallas, Houston, you know, Austin that whole area is, is actually quite, quite nice.|sv|2645
+A|I, my little brother lives in Austin right now.|sd|2645
+B|Oh, that's a beautiful place.|sd|2645
+A|Goes to U T.|sd|2645
+B|Uh-huh.|b|2645
+B|That's just fantastic down there.|sd|2645
+B|Take it more as a,|%|2645
+B|this is your opportunity to do whatever you want,|sv|2645
+B|pick out where you want to live,|ad|2645
+B|and then once you pick that spot out, pick out what you want to do.|ad|2645
+A|I see that's the problem.|sd|2645
+A|For the last many years I've more or less let them direct what I want to do,  and where I want to go. And just kind of go with the punches.|sd|2645
+B|Uh-huh.|b|2645
+B|Uh-huh.|b|2645
+B|Sure.|ba|2645
+A|And now I feel lost.|sd|2645
+B|Uh-huh.|b|2645
+B|Yeah,|b|2645
+B|that's a,|%|2645
+B|it, it takes a bit of a shift doesn't it.|qy|2645
+A|Oh, I had job offers.|no|2645
+B|Uh-huh.|b|2645
+A|But, I never found the one that was worth it for me to leave.|sd|2645
+A|And that,|%|2645
+B|Uh-huh.|b|2645
+B|Well, the best thing about it is that you can, uh, try something|sv|2645
+B|if you don't like it, shoot, move on to something else.|ad|2645
+B|That's the way I would have looked at the whole thing here,|sd|2645
+B|I'll take a chance,|sd|2645
+B|if I don't like it, I'll go someplace else, do something different.|sd|2645
+A|Oh so, had you been with T I long when you changed?|qy|2645
+B|Five years.|no|2645
+B|Yeah.|b|2645
+A|I've been with them sixteen.|sd|2645
+B|Yeah,|b|2645
+B|I can imagine, you know, the longer and longer it goes,|sv|2645
+A|Actually, seventeen now,|sd|2645
+A|and, oh, yeah,|aa|2645
+A|momentum is, uh, driving force in our lives.|sv|2645
+B|Uh-huh.|b|2645
+A|But so, yeah,|%|2645
+A|I'm looking as, as a opportunity.|sd|2645
+B|Well, that's good,|ba|2645
+B|you've got a good attitude about it.|sv|2645
+A|And, and I'm looking at it as a change.|sd|2645
+B|Uh-huh.|b|2645
+A|And I'm looking at it as, as an adventure.|sd|2645
+B|Right,|ba|2645
+B|there you go.|ba|2645
+B|That's the way to do it.|ba|2645
+A|And maybe I'll wet a fly line this year and do some camping if I don't get laid off between now and then.|sd|2645
+B|There you go,|ba|2645
+B|that's the thing to do.|ba|2645
+B|That's much funner than doing any kind of job.|ba|2645
+A|Ha, how about we end this?|qy|2645
+B|That will work out just fine.|no|2645
+A|Nice talking to you.|fc|2645
+B|All right,|fc|2645
+B|nice talking to you.|fc|2645
+A|Bye.|fc|2645
+B|Good-bye.|fc|2645

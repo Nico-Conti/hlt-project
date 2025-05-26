@@ -1,0 +1,195 @@
+A|What are your favorite shows?|qo|3606
+B|Well, I, it's doesn't seem like I get enough time to watch much T V,|sd|3606
+B|but the ones that are out now.|sd|3606
+A|Uh-huh.|b|3606
+B|I, I've watched that SISTERS a couple of times.|sd|3606
+B|I think that's kind of a good show.|sv|3606
+A|I've never seen that.|sd|3606
+B|Haven't you?|qy|3606
+A|Huh-uh.|nn|3606
+B|Oh. I like that one,|sd|3606
+B|and, um, I'm trying to think.|^h|3606
+B|I, I don't even know if I have any other real regular ones that I watch.|sd|3606
+B|How about you?|qo|3606
+A|Um, I like L A LAW not because it's realistic, but it's entertaining.|sd|3606
+B|Oh, uh-huh,|b|3606
+B|uh-huh.|b|3606
+B|I do like that.|sd|3606
+A|Um.|b|3606
+B|Yeah,|%|3606
+B|occasionally I'll see that one.|sd|3606
+A|Let's see.|^h|3606
+A|I watch CHEERS sometimes. And, mostly just movies, when there's a good movie on.|sd|3606
+B|Do you?|bh|3606
+B|Uh-huh.|b|3606
+A|Actually when there isn't a good movie on, too.|sd|3606
+B|Oh.|b|3606
+A|I just like to have the T V on if, you know, if I'm home alone or something|sd|3606
+B|Oh, uh-huh.|b|3606
+A|have,|%|3606
+A|either the radio or the T V got to be on the whole time.|sd|3606
+B|Yeah,|b|3606
+B|uh, oh, I do,|%|3606
+B|I kind of have gotten into a couple of soaps lately.|sd|3606
+A|Oh, really.|b|3606
+B|I've, well, I've been home with a, um,|sd|3606
+B|I have a baby,|sd|3606
+B|and and so I've haven't seemed to have gotten out as much,|sd|3606
+A|Uh-huh.|b|3606
+B|and so I'll, I'll watch a soap occasionally.|sd|3606
+A|Uh-huh.|b|3606
+A|Uh-huh.|b|3606
+B|Do you watch any of those?|qy|3606
+A|I, well, I don't, because I work all day.|ng|3606
+B|Uh-huh.|b|3606
+A|But, um, I|%|3606
+A|I usually do if I'm home for a couple of days, like, you know, around Christmas or whatever,|sd|3606
+A|after a while I'll start watching it|sd|3606
+B|Uh-huh.|b|3606
+A|and then on,|%|3606
+A|for a while I'll ask people if they know what happened|sd|3606
+B|Oh|b|3606
+A|and then I'll just forget it.|sd|3606
+B|what, what ones do you get into?|qw|3606
+A|Uh, I don't even remember|sd|3606
+A|the last time I watched was back in college.|sd|3606
+A|It was like GENERAL HOSPITAL or something|sd|3606
+B|Oh, uh-huh.|b|3606
+A|and I maybe watched it for a week|sd|3606
+B|Oh.|b|3606
+A|but, um, I know that people used to arrange their whole schedules around the, you know,|sd|3606
+A|they wouldn't take a class that was in the middle of their soap opera.|sd|3606
+B|How funny,|ba|3606
+B|oh, yeah.|b|3606
+A|It was a,|%|3606
+B|Oh, I don't get into them that much.|sd|3606
+B|When I'm home, sometimes in the day I'll I'll watch them|sd|3606
+A|Uh-huh.|b|3606
+A|Uh-huh.|b|3606
+B|but, yeah, oh, I was really trying to think.|sd|3606
+B|I don't even know if there's any other shows that I watch or else.|sd|3606
+A|Well, you said you have kids.|sd|3606
+A|How old?|qw|3606
+B|Oh, I have a six year old,|sd|3606
+B|and I have a, um,|sd|3606
+B|he'll be a year old in January.|sd|3606
+A|So, you're, you aren't a SESAME STREET fan?|qy^d|3606
+B|Well, they do, they watch it.|sd|3606
+B|My six year old's kind of,|sd|3606
+B|he's outgrown that one a little bit,|sd|3606
+B|but but, I've started to turn it on a little bit for the baby,|sd|3606
+A|Uh-huh.|b|3606
+B|and he's kind of, he's entertained by it.|sd|3606
+A|Uh-huh.|b|3606
+B|So, yes,|ny|3606
+B|I, I do watch that one.|sd|3606
+A|Supposed to be a great babysitter|sv|3606
+B|Yeah,|aa|3606
+B|well, they're not entertained for too long with it.|arp_nd|3606
+B|He's, he's still too little,|sd|3606
+B|but yeah,|%|3606
+A|Yeah.|b|3606
+B|I do turn that on.|sd|3606
+A|Um.|b|3606
+B|And I, I do like, um, DONAHUE.|sd|3606
+A|Uh-huh.|b|3606
+B|Sometimes I watch that.|sd|3606
+B|I think he has some interesting things on it.|sv|3606
+A|I know,|aa|3606
+A|what time is that on, *listen; strange ? placement|qw|3606
+A|I never see it?|sd|3606
+B|Um, that's on at, let's see, it's on at four.|sd|3606
+A|Oh, okay.|bk|3606
+A|I'm not home then,|sd|3606
+A|that's why I don't see it.|sd|3606
+B|Yeah,|b|3606
+B|I'll watch that occasionally.|sd|3606
+B|He's got some real,|sv|3606
+B|I don't know,|fo_o_fw_"_by_bc|3606
+B|there's some real weird people that, he seems to come up with.|sv|3606
+A|Isn't it strange how people are fascinated by other people that they think are strange|qy|3606
+B|Yes.|ny|3606
+B|Yeah,|ny|3606
+B|oh, yeah.|ny|3606
+B|. He does have some real bizarre things, I think.|sv|3606
+A|Uh-huh,|b|3606
+A|uh-huh.|b|3606
+B|So, other than that, I don't know.|sd|3606
+A|What's that?|br|3606
+B|Guess I'm not much of a T V person really.|sd|3606
+A|Yeah,|b|3606
+A|well, I guess it wasn't a real good topic for us,|sv|3606
+A|but Well, tell me,|ad|3606
+A|is it snowing up there?|qy|3606
+B|Um, no.|nn|3606
+A|No.|b^m|3606
+B|It snowed a little bit, um, probably about four days ago|sd|3606
+A|Uh-huh.|b|3606
+B|and they said we weren't going to get any more for Christmas.|sd|3606
+B|Yeah|ny|3606
+A|Oh.|b|3606
+B|there is snow on the ground.|sd|3606
+A|Well, that's nice.|ba|3606
+B|I, I wish it would snow a little bit more.|sd|3606
+B|I've heard it's raining there.|sv|3606
+A|Oh, gosh,|ba|3606
+A|we've broken all sorts of records.|sd|3606
+B|Oh really.|ba|3606
+A|They've got,|%|3606
+A|I mean, we still have some highways closed,|sd|3606
+A|and it stopped raining almost twenty-four hours ago.|sd|3606
+B|Oh, my goodness.|ba|3606
+A|But, um, oh, just phenomenal,|sd|3606
+A|I mean, I, you know,|%|3606
+A|you see it on the news all the time,|sv|3606
+A|but until you've really seen it, it it doesn't really hit you.|sv|3606
+B|Yeah.|b|3606
+A|But I was driving home from work Friday,|sd|3606
+A|and I saw, there were some stop signs, I mean, submerged up to the writing on the stop sign,|sd|3606
+A|and that was just|sd|3606
+B|Oh, goodness.|ba|3606
+A|it was amazing to me.|sd|3606
+B|Oh, gee|ba|3606
+B|so.|%|3606
+A|So.|%|3606
+B|So there has been some flooding|bf|3606
+B|and,|%|3606
+A|Oh, there's been a lot,|sd|3606
+A|yeah.|%|3606
+A|It's, it's too bad|sv|3606
+A|but you know, the thing is that this happens,|sd|3606
+A|in the last three years it's happened at least once a year, if not twice. But the people continue to move back in the flood zones.|sd|3606
+B|Uh-huh.|b|3606
+B|Oh, gee.|ba|3606
+A|So, I don't know.|h|3606
+A|I mean, you got to wonder how long they're going to keep doing that for.|sv|3606
+B|Yeah.|b|3606
+A|I don't think I would.|sv|3606
+B|Oh, boy.|ba|3606
+A|Because they just finished cleaning up from the last flood.|sd|3606
+B|Yeah,|b|3606
+B|oh, what a mess.|ba|3606
+A|Yeah.|aa|3606
+B|Well, now, do you work for T I?|qy|3606
+A|Yeah,|ny|3606
+A|I do,|sd|3606
+A|yeah.|ny|3606
+B|oh, uh-huh.|b|3606
+B|Huh. Well, this has been an interesting thing to do.|sv|3606
+A|Have you made a lot of calls|qy|3606
+A|or,|%|3606
+B|Um, I've, I've probably talked maybe to five people.|na|3606
+A|Uh-huh.|b|3606
+B|My husband is doing it too,|sd|3606
+B|and he's talked to a few more than me,|sd|3606
+A|Oh.|b|3606
+B|and, but it's been real interesting and kind of fun.|sv|3606
+A|Do you get paid for these?|qy|3606
+B|Um, five dollars.|sd|3606
+A|Five dollars a call?|br|3606
+B|Uh-huh.|ny|3606
+A|Gosh,|ba|3606
+A|I wish I could do that|sd|3606
+B|Uh, don't you have to do it as part of its,|qy|3606
+A|We can't get paid for it.|no|3606
+B|Don't you have to do it,|%|3606

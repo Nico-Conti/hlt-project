@@ -1,0 +1,88 @@
+A|How would you feel about sending an elderly family member to a nursing home?|qo|3187|0
+B|Well, I don't feel very good about it,|sd|3187|1
+B|but I think that at some times it can be the right thing to do.|sv|3187|1
+B|We sent my grandfather to a nursing home at the point when he was really incapable of caring for himself anymore.|sd|3187|1
+A|Uh-huh.|b|3187|0
+B|He actually died a few months after that,|sd|3187|1
+B|and so as,|%|3187|1
+B|at least in retrospect, it was the right thing to do|sd|3187|1
+B|because he was either in a nursing home or a hospital or something else that he would have been spending most of his time in those days.|sd|3187|1
+A|Right.|b|3187|0
+A|And what type of recommendations did you have when you decided where to place him?|qw|3187|0
+B|Um, well, the, see, uh, well,|%|3187|1
+B|we, he wanted to get into a Mennonite nursing home which is very popular and hard to get into and had like a ten year waiting list|sd|3187|1
+A|Oh, my.|ba|3187|0
+B|right,|aa|3187|1
+B|we wound up just choosing a, another Mennonite nursing home that was easier to get into.|sd|3187|1
+B|Or but naturally,|%|3187|1
+B|no,|ar|3187|1
+B|it was even Mennonite related,|sd|3187|1
+B|I'm sorry, it was actually not a particularly great nursing home.|sd|3187|1
+B|Mostly the thing was that it was available when we needed it, because he suddenly got sick  and needed to be put in.|sd|3187|1
+A|Yeah,|b|3187|0
+A|so the convenience,|bf|3187|0
+A|Right.|aa|3187|0
+B|Uh, what do you think?|qo|3187|1
+A|My grandmother lived with us, um, until August, um,|sd|3187|0
+A|and we made the decision to put her in a nursing home.|sd|3187|0
+A|She has leukemia|sd|3187|0
+B|Uh-huh.|b|3187|1
+A|and her, the rest of her family and her regular doctors and everybody she trusted and knew was in Dayton, and were several thousand miles away|sd|3187|0
+B|Yeah.|b|3187|1
+A|so I made the decision to put her in a nursing home,|sd|3187|0
+A|and my sister being on the other end found one that she could have what was called an independent living facility.|sd|3187|0
+A|She had her own little room and didn't have to share it with anyone and could bring in her own chair and T V set|sd|3187|0
+B|Yeah|b|3187|1
+A|so.|%|3187|0
+B|yeah,|b|3187|1
+B|that's important I would say.|ba|3187|1
+A|Yes.|aa|3187|0
+A|And that, the other major factor is that she needs blood transfusions every week to ten days, and would have to be hospitalized a day or two,|sd|3187|0
+A|so in this facility they can do it right there from her own room|sd|3187|0
+B|Okay.|b|3187|1
+A|so she didn't have to be transported back and forth.|sd|3187|0
+A|So, she's been there since August the thirteenth and seems to have adjusted pretty well.|sd|3187|0
+A|It's not her favorite place to be in.|sd|3187|0
+A|She'd much rather be here with me.|sd|3187|0
+A|But when it got to the point I was spending more time at the hospital with her,|sd|3187|0
+B|Yeah.|b|3187|1
+A|and I've got little children here who needed me here|sd|3187|0
+A|she needed somebody to watch her twenty-four hours a day.|sd|3187|0
+B|Right,|aa|3187|1
+B|and that becomes difficult then.|sv|3187|1
+A|So.|%|3187|0
+A|She was falling down and hemorrhaging|sd|3187|0
+A|and, you know, all kinds of physical problems,|sd|3187|0
+A|so it just became too much for me to handle,|sd|3187|0
+A|even though I would have liked to have had her stay, with her health being what it was she couldn't anymore.|sd|3187|0
+B|Uh-huh.|b|3187|1
+B|Yep,|aa|3187|1
+B|we tried to convince my grandfather to live with us at several points during the last few years of his life,|sd|3187|1
+B|but he was essentially too proud and too independent so that even though his heart was getting incredibly weak and his knees were going bad he lived in his own house as long as he could|sd|3187|1
+A|Yeah.|b|3187|0
+A|Uh-huh.|b|3187|0
+A|Yeah.|b|3187|0
+B|but he was living alone, had an upstairs apartment, could barely make it up the steps to the top without a great deal of pain,|sd|3187|1
+A|Oh.|b|3187|0
+B|and this,|%|3187|1
+B|eventually things just went too far|sd|3187|1
+A|Yeah.|b|3187|0
+B|and he allowed himself to be put into a nursing home.|sd|3187|1
+A|Yes,|b|3187|0
+A|well, I think sometimes when people get to be a certain age, other people have to kind of help them make decisions.|sv|3187|0
+A|It sure wouldn't have been Granny's decision to leave us and go back to a nursing home,|sd|3187|0
+A|but she's accepted it real well now|sd|3187|0
+B|Right|b|3187|1
+A|so.|%|3187|0
+B|well that's, yeah, that's right that the children have some responsibility, too, to their parents and such, to help decide what's the right thing.|sv|3187|1
+A|Well, we enjoyed having her here,|sd|3187|0
+B|And.|%|3187|1
+A|but we feel she's much safer where she is now.|sd|3187|0
+A|She still continues to fall,|sd|3187|0
+A|but when she does there, a nurse is right there to help her|sd|3187|0
+B|Uh-huh.|b|3187|1
+A|and I know she's eating the right things,|sd|3187|0
+A|and her doctor's right there where he can come in and check on her,|sd|3187|0
+A|so. It became dangerous for us to keep transporting her back and forth in the car because she was so wobbly and needed a walker or a wheel chair|sd|3187|0
+B|Yep.|b|3187|1
+A|so, I think she'll adjust,|sd|3187|0

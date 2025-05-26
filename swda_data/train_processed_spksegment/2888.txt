@@ -1,0 +1,242 @@
+A|in Okay.|fo_o_fw_"_by_bc|2888|0
+B|Okay.|fo_o_fw_"_by_bc|2888|1
+B|I guess we're set.|sv|2888|1
+A|Um,|b|2888|0
+B|Current events.|sd|2888|1
+A|I get my current events basically from news, uh, just because I watch,  pretty much a lot of television, um,|sd|2888|0
+B|Television news?|^2|2888|1
+B|Is it, uh, C N N or HEADLINE NEWS or just local,  news|qy|2888|1
+A|Uh,|b|2888|0
+B|or,|%|2888|1
+A|I watch a little bit of everything.|sd|2888|0
+A|I like to tune into, to C N N because, uh, you know, you can tune in like any time of day and pretty much get the update on,  everything,   in about five or ten minutes.|sd|2888|0
+B|Right.|b|2888|1
+B|Right.|b|2888|1
+A|I think news today, um, it's kind of losing its importance.|sv|2888|0
+A|Like on, in, on radio, if you hear any news at all, it's like two seconds.|sd|2888|0
+B|Right.|b|2888|1
+A|You know, really quickly,  on regular stations.|sd|2888|0
+B|Well,|%|2888|1
+B|on commercial radio, I guess, I, I tend to get more of my news from national public radio of the morning on the way to work,  or evening on the way to school|sd|2888|1
+A|Yeah,|b|2888|0
+A|that's good, too,|ba|2888|0
+A|uh-huh.|b|2888|0
+B|so, So, I don't, uh, I don't see much T V mostly when I'm in school,|sd|2888|1
+A|I like K R L D.|sd|2888|0
+A|Uh-huh.|b|2888|0
+B|but I do here.|sd|2888|1
+A|Yeah,|b|2888|0
+A|where do you go to school?|qw|2888|0
+B|Uh, University of Texas at Dallas.|sd|2888|1
+A|Oh, Okay.|bk|2888|0
+A|I went to U T at Austin.|sd|2888|0
+B|Right.|b|2888|1
+A|But, uh, I'm a news reporter|sd|2888|0
+A|so I, I should get all I can , my news from the from the T V.|sd|2888|0
+B|Really.|b|2888|1
+A|But, um,|%|2888|0
+B|I do tend to throw on HEADLINE NEWS when I'm doing things around the house and just let it play,  and listen,|sd|2888|1
+A|Yeah,|b|2888|0
+B|but, uh,|%|2888|1
+A|I usually don't intentionally. Although I should, I don't intentionally turn on the television to watch news.|sd|2888|0
+B|Right.|b|2888|1
+A|Or I don't intentionally turn on the radio to listen to the news.|sd|2888|0
+A|If it comes on, I just happen to hear it.|sd|2888|0
+A|Now, I will intentionally buy a newspaper to to, in to look at the news.|sd|2888|0
+A|But other,|%|2888|0
+B|Yeah,|b|2888|1
+B|all I ever get out of the paper is a Sunday paper|sd|2888|1
+A|Yeah,|aa|2888|0
+A|that's true.|aa|2888|0
+A|That's about it.|sd|2888|0
+B|That's about it,|sd|2888|1
+B|yeah.|%|2888|1
+A|The Sunday paper, it's so full of stuff,|sd|2888|0
+A|but you pick your favorite section,|sv|2888|0
+A|and the rest,  you throw away.|sv|2888|0
+B|Right.|b|2888|1
+B|Right.|b|2888|1
+A|Although you paid, what, almost two dollars now to get it|sd|2888|0
+A|but,|%|2888|0
+B|I like to listen to, uh, national public radio on the way to work because it's, I don't know, it's variety,|sd|2888|1
+A|Uh-huh.|b|2888|0
+B|It tends to get like HEADLINE NEWS if you listen to it for an hour .|sd|2888|1
+A|Yeah.|b|2888|0
+A|Is it, is it pretty good coverage on there?|qy|2888|0
+B|Yeah,|ny|2888|1
+B|it usually is.|sd|2888|1
+B|They throw in a lot of, you know, a lot of interviews and commentaries.|sd|2888|1
+B|It's kind of like getting a newspaper.|sv|2888|1
+B|There's a lot of sections to it|sd|2888|1
+A|Yeah,|b|2888|0
+A|yeah.|b|2888|0
+B|and they, they present different sides of things.|sd|2888|1
+A|Um.|b|2888|0
+A|Because I find like on K R L D,|sd|2888|0
+A|I like to listen to that,|sd|2888|0
+A|but each story is like no more than two or three lines, you know.|sd|2888|0
+B|Oh, well they spend a little more time, you know,|sd|2888|1
+B|they cover the headlines,|sd|2888|1
+A|Yeah.|b|2888|0
+B|and then they go into a lot of the issues and things where they, they spend five or ten minutes discussing something and,  interviewing people.|sd|2888|1
+A|Uh-huh.|b|2888|0
+A|Yeah,|b|2888|0
+A|that would probably be better.|sd|2888|0
+B|And it's,|%|2888|1
+A|Especially when you look for the, like, popular radio stations like mostly the music stations, news is, is pretty much nonexistent.|sv|2888|0
+B|Yeah.|b|2888|1
+A|They have little, little, teeny-weeny news, breaks, you know.|sv|2888|0
+B|Yeah,|b|2888|1
+B|and only in the morning, I guess, there's a little bit.|sd|2888|1
+A|Yeah,|b|2888|0
+A|yeah,|b|2888|0
+A|basically.|sd|2888|0
+B|I haven't listened to a top forty radio station in so long I wouldn't know.|sd|2888|1
+A|Yeah.|b|2888|0
+B|So,|%|2888|1
+A|So let's see, um,|^h|2888|0
+B|And I guess I get some kinds of other, you know, business related news through trade journals and things|sd|2888|1
+B|but,|%|2888|1
+A|Uh-huh.|b|2888|0
+B|Uh,|b|2888|1
+B|Right|b|2888|1
+B|Yeah,|b|2888|1
+A|But, um,|%|2888|0
+B|a lot of people are.|sv|2888|1
+A|Yeah,|b|2888|0
+A|trying to get out of wherever they are|sv|2888|0
+A|but, um, I think, I think news is,|sv|2888|0
+A|I'm wondering where it's going.|sd|2888|0
+A|You know how,|%|2888|0
+A|I think it will be pretty much nonexistent except maybe through the paper.|sv|2888|0
+A|I know the newspaper used to be kind of the only source for news.|sd|2888|0
+A|And now, it's, it's kind of your final choice.|sv|2888|0
+A|You watch,|sv|2888|0
+A|first you go to C N N, then you go to radio or something like that.|sv|2888|0
+B|Yeah,|b|2888|1
+B|where nobody wants,  to sit down and read.|sv|2888|1
+A|And I think it,|%|2888|0
+A|Yeah,|b|2888|0
+A|yeah.|b|2888|0
+B|It's, it takes a lot more time to read something,|sd|2888|1
+A|Yeah.|b|2888|0
+B|and you've got news,  bombarding you from everywhere now.|sd|2888|1
+A|So much more effort.|sv|2888|0
+A|Yeah.|b|2888|0
+B|You know you,  turn on the T V, turn on the radio.|sd|2888|1
+A|Yeah.|b|2888|0
+A|But I think that soon the paper may be kind of the only source again.|sv|2888|0
+B|Why is that?|qw|2888|1
+A|I don't,|%|2888|0
+A|well, just because I'm, I'm thinking that it, it's getting so short on radio.|sv|2888|0
+A|You still, you have two or three,|sd|2888|0
+A|I know in Dallas you can probably get two, two all news radio stations out of I don't how many popular radio stations.|sd|2888|0
+A|And then on television, you have just the news at six and ten.|sd|2888|0
+B|Yeah,|b|2888|1
+B|I just,|%|2888|1
+A|And I just, I just see that dwindling in, in,|sv|2888|0
+B|I find it hard to believe that people will go back to reading over television, I mean, just given the way society is.|sv|2888|1
+B|And I enjoy reading,|sd|2888|1
+B|but most people would rather turn on the tube and, and, and,  flip through the channels, you know, and get the headline news at thirty minutes of,|sv|2888|1
+A|True,|aa|2888|0
+A|yeah.|aa|2888|0
+A|True.|aa|2888|0
+A|That's true, too,|aa|2888|0
+A|yeah.|aa|2888|0
+A|Than sit down and take the effort to read the paper.|^2|2888|0
+B|Right.|aa|2888|1
+B|And they don't have to go get one, you know.|sv|2888|1
+A|One thing I like about the paper, um, as opposed in to television is that, uh, when I, like when I report, because I'm in television, I have to get the basic, the main facts and that's it.|sv|2888|0
+A|That's all you have time for.|sv|2888|0
+B|Right.|b|2888|1
+B|Right.|b|2888|1
+A|Whereas in the paper, I like to read the articles because they get every side, every single side,|sv|2888|0
+B|Right.|b|2888|1
+B|Well, that's why I like, uh, national public radio because they get on one of these little things,|sd|2888|1
+A|Uh-huh.|b|2888|0
+B|they give you headlines that are brief,|sd|2888|1
+B|just,|%|2888|1
+B|they touch on what's going on.|sd|2888|1
+B|And then they'll get into something and really explore it.|sd|2888|1
+A|Uh-huh,|b|2888|0
+A|uh-huh.|b|2888|0
+B|And it's, it's informative.|sv|2888|1
+B|It's a lot more informative than, you know, quick, half hour news shows that they tell you what they want you to hear.|sv|2888|1
+A|Yeah.|b|2888|0
+A|Yeah,|b|2888|0
+A|because that's what we do.|sd|2888|0
+A|I mean it's like each story is thirty seconds, you know.|sd|2888|0
+B|Right.|b|2888|1
+A|So it's like you really have to tell as much as you can which is not much in that amount of time.|sd|2888|0
+A|So, and it will probably get shorter and shorter as the years go by I think.|sv|2888|0
+A|I don't know.|h|2888|0
+B|Yeah,|b|2888|1
+B|there's so much going on in the world.|sd|2888|1
+A|Uh-huh.|b|2888|0
+B|Communication, you know, expands the world now.|sv|2888|1
+A|Oh, yeah.|b|2888|0
+B|There's too much going on.|sv|2888|1
+B|You can't afford to give more than a couple of seconds here and there.|sv|2888|1
+A|I think that is one good thing, one great thing, about news,|sv|2888|0
+A|and we saw it during the war just now, is that we got all the information within minutes, you know.|sd|2888|0
+B|Yeah.|b|2888|1
+A|Whatever happened, we knew about it about the same time that they knew about it.|sd|2888|0
+B|And the question is, how much of it or how, some of it,|qh|2888|1
+B|I guess, there's a lot of debate about censorship and and what we're really seeing.|sv|2888|1
+A|Yeah,|b|2888|0
+A|yeah.|b|2888|0
+A|Uh-huh.|b|2888|0
+B|Is it, is it the true story|qh|2888|1
+B|or is it a little bit biased.|qrr|2888|1
+A|Yeah.|b|2888|0
+A|Because even though we do get the story right away, they were censored as to what they could tell us.|sv|2888|0
+B|Right.|b|2888|1
+A|So all we had to sit here and, and ask is well, what aren't they telling us, you know.|qh|2888|0
+A|So that, that was pretty scary.|sd|2888|0
+A|But we,|%|2888|0
+A|I talked to one woman,|sd|2888|0
+A|and she said that she didn't want to know what was going on because if she had a son over in Saudi Arabia, she wouldn't want to know, you know, that they're bombing or, or this and that's going on.|sd|2888|0
+A|And at the same time, I talked to another woman,|sd|2888|0
+A|and she was so happy to know because she lived through Vietnam.|sd|2888|0
+A|And she didn't know what was happening at that time.|sd|2888|0
+B|Right.|b|2888|1
+A|And she was so happy to get the information, you know.|sd|2888|0
+A|So there's just a lot of different opinions on that.|sd|2888|0
+A|But,|%|2888|0
+B|I, I, you know, I like to, to know what's going on.|sd|2888|1
+B|Sometimes I think there's just a little bit too much.|sv|2888|1
+A|Yeah.|b|2888|0
+B|You know you get in the habit of, like I say, turn on Headline News|sv|2888|1
+B|and it will play over and over|sd|2888|1
+B|and you just tune it out because it's the same thing|sv|2888|1
+B|but,|%|2888|1
+A|And then, too, a lot of times I think, uh, especially on television they blow things completely out of proportion.|sv|2888|0
+B|Yeah,|aa|2888|1
+B|they tend to,  dramatize things.|sv|2888|1
+A|Like,|%|2888|0
+A|You know, like this Kennedy thing.|sd|2888|0
+B|Yeah.|b|2888|1
+A|like a It's just, I mean, everywhere you turn.|sv|2888|0
+A|Kennedy,|sd|2888|0
+A|Kennedy,|sd|2888|0
+A|Kennedy.|sd|2888|0
+A|You know, what kind of shoes did he wear on the night?|sd|2888|0
+A|And you know, it's just like, okay, this is ridiculous.|sd|2888|0
+B|Like who cares?|qh|2888|1
+B|Really.|b|2888|1
+A|So,|%|2888|0
+B|Well,|%|2888|1
+A|But what are you doing?|qw|2888|0
+A|Sitting on a computer?|qy|2888|0
+B|Yeah.|ny|2888|1
+A|I heard the little clicking.|sd|2888|0
+B|Trying to do some C programming.|sd|2888|1
+A|Oh, okay.|bk|2888|0
+A|Well, it was nice talking to you.|fc|2888|0
+B|Okay|fc|2888|1
+A|Okay.|fc|2888|0
+B|Take care.|fc|2888|1
+A|Take care.|fc|2888|0
+B|Bye-bye.|fc|2888|1
+A|Uh-huh,|fc|2888|0
+A|bye.|fc|2888|0

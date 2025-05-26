@@ -1,0 +1,133 @@
+A|Say you did, uh, starters and bendix springs such as that on an old one.|qy^d|3686|0
+B|Yeah,|ny|3686|1
+B|and, uh, helped my wife replace some carburetors.|sd|3686|1
+A|Yeah.|b|3686|0
+B|Some that, she had to, uh, label everything|sd|3686|1
+A|She had to label everything.|qy^d|3686|0
+B|Yeah|ny|3686|1
+B|because,|%|3686|1
+A|What was she driving?|qw|3686|0
+B|It was a Cadillac.|sd|3686|1
+A|Uh-huh.|b|3686|0
+B|And they, uh, well, they quit making those, the quieter jet carburetor|sd|3686|1
+B|and they quit making it.|sd|3686|1
+A|Yeah.|b|3686|0
+B|They rebuilt it|sd|3686|1
+B|and it never did, never did run right again.|sd|3686|1
+A|Yeah,|b|3686|0
+A|quad not really easy to get rebuilt just right.|sd|3686|0
+B|Yeah.|b|3686|1
+A|Uh, and like, what were you replacing the starters and bendix on?|qw|3686|0
+B|Uh, a Maverick and also, uh, a Chrysler station wagon before that.|sd|3686|1
+A|Yeah.|b|3686|0
+A|Did you replace just the, uh, bendix on the Chrysler station wagon or the whole starter?|qy|3686|0
+B|Uh, the,|%|3686|1
+B|I'm replacing the, two or three starters on the Chrysler.|sd|3686|1
+A|Yeah.|b|3686|0
+B|They,|%|3686|1
+A|The starters are kind of fragile.|sd|3686|0
+B|Yeah|b|3686|1
+B|and the,|%|3686|1
+A|Especially if you need a tune-up.|sd|3686|0
+B|Uh-huh.|b|3686|1
+B|They kept saying that the that's what Chryslers did, is they wore out starters.|sd|3686|1
+A|Yeah,|b|3686|0
+A|well, if they start real easy, you know, you just hit the key|sd|3686|0
+A|and it starts up|sd|3686|0
+B|Yeah.|b|3686|1
+A|and when it's properly tuned up, that starter will last for a long time.|sd|3686|0
+B|Uh-huh.|b|3686|1
+A|See, they built that starter so it would fit every V eight and all the slant sixes that they've built in like thirty-five years.|sd|3686|0
+B|Right.|b|3686|1
+A|They all take the exact same starter.|sd|3686|0
+A|They'll interchange completely.|sd|3686|0
+A|I mean completely.|sd|3686|0
+A|One starter will fit all of them.|sd|3686|0
+A|So they've got a whole lot of torque,|sd|3686|0
+A|but to do that, they did it,|sd|3686|0
+A|use an underdrive system,|sd|3686|0
+A|but they geared it down so the motor spins really fast so it's got, to spin for very long,|sd|3686|0
+B|Uh-huh.|b|3686|1
+A|it's kind of tough on the bushings.|sd|3686|0
+B|Yeah.|b|3686|1
+A|Usually what goes is the bushings.|sd|3686|0
+B|Right.|b|3686|1
+A|You take a little time, replace the bushings, you still got a perfectly good starter.|sd|3686|0
+A|But, uh, most places don't put, don't rebuild them with, with with good enough bushings.|sd|3686|0
+B|Uh-huh.|b|3686|1
+A|So it's, you know,|%|3686|0
+A|after you get rebuilt one, you have a tendency to go through them pretty quickly, especially if you need a tune-up.|sd|3686|0
+B|Yeah.|b|3686|1
+A|Anyway, what are you driving now?|qw|3686|0
+B|Uh, my Chrysler van|sd|3686|1
+B|and it's, it's pretty maintenance free, you know,|sd|3686|1
+B|and, uh, at the beginning of the year last year and drove a Chevrolet Cavalier station wagon|sd|3686|1
+B|and it didn't give me any trouble at all.|sd|3686|1
+A|That's good.|ba|3686|0
+B|Yeah.|b|3686|1
+A|It was a late model,|qy^d|3686|0
+A|is that Chrysler van?|qy|3686|0
+B|It's a eighty-seven.|na|3686|1
+A|Yeah,|b|3686|0
+A|one of the little mini vans?|qy|3686|0
+B|Uh-huh,|b|3686|1
+B|yeah.|b|3686|1
+B|Is a,|%|3686|1
+A|Do you like the way it rides and stuff?|sd|3686|0
+B|Uh, rides or runs?|qy|3686|1
+A|Rides rough?|qy^d|3686|0
+B|It,|%|3686|1
+B|yeah,|ny|3686|1
+B|well, yeah,|ny|3686|1
+B|it rides, rides rough,|sd|3686|1
+B|it runs good.|sd|3686|1
+A|Yeah.|b|3686|0
+B|You know, I kind of,|%|3686|1
+B|it took me a while to get used to a four cylinder engine.|sd|3686|1
+A|Yeah.|b|3686|0
+B|You have to kind of wait for it, especially when you get on the highway.|sd|3686|1
+A|Yeah,|b|3686|0
+A|right now, without getting some of the sportier models, uh, the four cylinders aren't real peppy.|sd|3686|0
+B|Yeah.|b|3686|1
+A|But, uh, they're starting to change that out in the last couple of years, too.|sd|3686|0
+B|You driven American cars all,|qy^d|3686|1
+A|Uh, yeah,|ny|3686|0
+A|I've driven one uh,|sd|3686|0
+A|I drove a Volkswagen Beetle for a while, about a month.|sd|3686|0
+A|Uh, in a month I think I put, uh, three oil coolers on it.|sd|3686|0
+A|Uh, every time I turned around I was having trouble with it.|sd|3686|0
+B|Uh-huh.|b|3686|1
+A|Everything else I ever owned was American built. Uh, mostly older cars.|sd|3686|0
+A|Uh, I've been a mechanic,|sd|3686|0
+A|well, I worked, starting working my father's service station when I was about, uh, twelve.|sd|3686|0
+B|Uh-huh.|b|3686|1
+A|So, I've been around cars a lot, but, uh, driven a lot of old Pontiacs.|sd|3686|0
+A|My first three cars were, uh, seventy model Pontiacs. A G T O and a Bonneville and a station wagon.|sd|3686|0
+A|I had a couple of Chryslers.|sd|3686|0
+A|Had a super B for a while with a four forty in it.|sd|3686|0
+B|Uh-huh.|b|3686|1
+A|It was a lot of fun.|sd|3686|0
+A|But, uh,|%|3686|0
+B|Not much gas mileage, though.|sd|3686|1
+A|I don't know,|h|3686|0
+A|gas mileage wasn't too bad.|sd|3686|0
+A|It got about seventeen.|sd|3686|0
+B|Oh, wow.|ba|3686|1
+A|Well, till you got crazy with it.|sd|3686|0
+A|You know, you get the four barrel all worked up|sd|3686|0
+A|and suddenly it, it, it drops off fast,|sd|3686|0
+A|but long as you didn't spin the tires too much or, or spend too much time with the secondaries kicked in it, it didn't do too bad on gas.|sd|3686|0
+B|Yeah.|b|3686|1
+A|Didn't have to work too hard to move the car around.|sd|3686|0
+B|Now, do you think since they started with electronic ignition that it improves the way the car runs?|qy|3686|1
+A|Oh, yeah,|ny|3686|0
+A|yeah,|ny|3686|0
+A|definitely.|sd|3686|0
+B|Uh-huh.|b|3686|1
+A|Yeah,|b|3686|0
+A|the,|%|3686|0
+A|my last G M car was a seventy Chevy station wagon|sd|3686|0
+A|and it still had the points and condenser in it.|sd|3686|0
+A|When I rebuilt the engine on that, about a hundred and thirty thousand on the car.|sd|3686|0
+B|Yeah.|b|3686|1
+A|I, uh, pulled that old points distributor out and got, an H E I distributor, electronic distributor put into it.|sd|3686|0

@@ -1,0 +1,111 @@
+A|Okay,|fo_o_fw_"_by_bc|3327|0
+A|is it Mike?|qy|3327|0
+B|Yes.|ny|3327|1
+A|Do you repair your own car?|qy|3327|0
+B|I try to, whenever I can.|na|3327|1
+B|I've always been a, a I guess a product of a handyman father.|sd|3327|1
+A|Well, I tell you what, that's, count your blessings because uh, it really is good when someone can do some things to a car themselves.|sv|3327|0
+B|Yeah.|b|3327|1
+B|Yeah.|aa|3327|1
+B|There's,|%|3327|1
+B|although I'll tell you, you know, over the years the cars get more complicated.|sv|3327|1
+A|Well, that's why I don't do as much as I'd like.|sd|3327|0
+B|Right,|b|3327|1
+B|yeah.|b|3327|1
+A|Because they are, I mean they've got, they've gotten complicated haven't they?|qy|3327|0
+B|Yes.|ny|3327|1
+B|One of my first cars was a fifty-six Buick. Which, after awhile I could, you know, take it apart in my sleep if I needed to.|sd|3327|1
+A|Uh-huh.|b|3327|0
+A|Is that right?|bh|3327|0
+B|Yeah.|ny|3327|1
+B|It, it got to be pretty straightforward to understand|sd|3327|1
+B|and, now since then, you know, the closer a car is to a fifty-six Buick, the, the more I know about it.|sd|3327|1
+B|And then start getting into these Nissans and the like|sd|3327|1
+B|and I just can't keep up.|sd|3327|1
+A|Yeah,|aa|3327|0
+A|I, I agree.|aa|3327|0
+A|About all I ever,|sd|3327|0
+A|I never was too mechanically inclined,|sd|3327|0
+A|but I used to always change my own oil and do the points and plugs and,|sd|3327|0
+B|Yeah.|b|3327|1
+A|Course, they don't use, uh, points anymore.|sd|3327|0
+B|That's right|aa|3327|1
+A|But, Uh, they do still use plugs.|sd|3327|0
+B|Yeah.|b|3327|1
+B|Yeah.|b|3327|1
+A|And, uh, now brakes, I've always done a lot of, you know, changing brakes.|sd|3327|0
+B|Uh-huh.|b|3327|1
+A|And I used to do, I could always do the alternator, you know, and starter.|sd|3327|0
+B|Yes.|b|3327|1
+A|I don't anymore,|sd|3327|0
+A|but I have on a lot, a lot of times.|sd|3327|0
+B|Yes,|b|3327|1
+B|I understand.|ba|3327|1
+B|My last car repair actually had to do with brakes|sd|3327|1
+B|and it's one I did not do myself.|sd|3327|1
+B|I took the car, my,|sd|3327|1
+B|I have a seventy-nine El Dorado, took it to be inspected|sd|3327|1
+A|Uh-huh.|b|3327|0
+B|and the parking brake failed.|sd|3327|1
+B|So I got under there and messed with the, the that, uh, that adjustment to make, to tighten it up|sd|3327|1
+A|Uh-huh.|b|3327|0
+B|and that didn't do the trick|sd|3327|1
+A|Uh-huh.|b|3327|0
+B|and then I got there and tried to,|sd|3327|1
+A|It probably slipped loose, didn't it?|qy|3327|0
+B|Well, actually that wasn't even eventually the problem.|arp_nd|3327|1
+B|I, I did a lot of things that I, I did everything that I could think to do.|sd|3327|1
+A|Uh-huh.|b|3327|0
+B|And, eventually I brought it up to a, a place called Just Brakes|sd|3327|1
+A|Uh-huh.|b|3327|0
+B|and it turns out that there's a,|sd|3327|1
+B|the parking brake in the rear,|sd|3327|1
+B|there's a, there's disc brakes|sd|3327|1
+B|and the parking brake is a piston deal.|sd|3327|1
+A|Um.|%|3327|0
+B|And because the parking brake hadn't been used in so many years, the piston froze up.|sd|3327|1
+A|Oh.|%|3327|0
+B|So they ended up having to pound it out.|sd|3327|1
+B|And one of them, they, were able to get running, uh, kind of oiling it and playing with it|sd|3327|1
+B|and the other one they just, it was just frozen solid,|sd|3327|1
+B|so I ended up having to buy one|sd|3327|1
+B|and all total, it was just under two hundred dollars, believe it or not, to get all that done|sd|3327|1
+A|well, it really wasn't quite, as bad as you thought, was it, was it?|qy|3327|0
+B|yeah,|ny|3327|1
+B|actually, I, I think it was a lot of money,|sd|3327|1
+B|but I, I don't, like I|sd|3327|1
+A|Well, it was a lot of money,|bf|3327|0
+A|but,|%|3327|0
+B|Yeah,|aa|3327|1
+B|but, I,|%|3327|1
+B|it got to the point where I didn't know what was going on|sd|3327|1
+B|so,|%|3327|1
+A|You had to have the help, didn't you?|qy|3327|0
+B|That's right,|na|3327|1
+B|that's right.|na|3327|1
+A|Yeah.|b|3327|0
+A|Well, do you still do much work on them, then?|qy|3327|0
+B|I do.|na|3327|1
+B|actually that was just a, at, at the beginning of September|sd|3327|1
+B|and, whenever I can, I do try.|sd|3327|1
+B|I|%|3327|1
+B|actually, I'd say this.|h|3327|1
+B|I, I've gotten to the point where I don't change the oil anymore. Only because,|sd|3327|1
+A|Disposal is a problem.|^2|3327|0
+B|Well, that is one problem,|aap_am|3327|1
+B|but also these, uh, these fast oil change places, you just can't beat them.|sv|3327|1
+A|That's true.|aa|3327|0
+B|For sixteen bucks they'll not only will they change the oil in ten minutes, and do a you know, as good a job as I can do, but they'll, uh, lube, too|sd|3327|1
+A|That's true.|aa|3327|0
+A|Right,|aa|3327|0
+A|that, that,|%|3327|0
+A|I've, I've quit doing that myself.|sd|3327|0
+B|Yeah.|b|3327|1
+A|And, but one of the main reasons was the disposal of the oil, you know.|sd|3327|0
+B|Yep,|aa|3327|1
+B|that's right.|aa|3327|1
+A|And, uh, but, it,|%|3327|0
+A|but, no,|ar|3327|0
+A|I guess,|%|3327|0
+A|that,|%|3327|0
+A|and the main reason that it's, it's quick.|sd|3327|0

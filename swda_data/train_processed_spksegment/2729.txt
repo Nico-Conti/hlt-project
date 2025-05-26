@@ -1,0 +1,289 @@
+B|Okay,|fo_o_fw_"_by_bc|2729|0
+B|what kind of puppy you got?|qw|2729|0
+A|Well, uh, I think she's mostly German Shepherd.|sd|2729|1
+A|Uh, she was, uh, uh,|%|2729|1
+A|a person lives across the street from me, uh, brought her home from work because a coworker of hers, uh, had this dog appear on its front doorstep,|sd|2729|1
+B|Uh.|%|2729|0
+A|somebody, somebody abandoned her|sd|2729|1
+A|and, she's only about, oh, between six and eight, six to eight weeks old|sd|2729|1
+B|Uh-huh.|b|2729|0
+A|and, uh, uh, I can't understand why anyone would abandon this dog, though.|sd|2729|1
+B|Oh.|b|2729|0
+A|She's, I mean she's that, this young|sd|2729|1
+A|and she's almost housebroken.|sd|2729|1
+B|Wow.|ba|2729|0
+A|I mean she actually asks to go out.|sd|2729|1
+B|That's great.|ba|2729|0
+A|And, uh, yeah|aa|2729|1
+A|I was amazed.|sd|2729|1
+A|Really good temperament and very playful and affectionate, good personality.|sd|2729|1
+A|I don't know,|h|2729|1
+A|I can't imagine what, uh, would have been wrong with this dog,|sd|2729|1
+A|so.|%|2729|1
+B|Yeah,|b|2729|0
+B|well I, I have a dog that God gave us too,|sd|2729|0
+A|Uh-huh.|b|2729|1
+B|Yeah,|b|2729|0
+B|she just appeared.|sd|2729|0
+A|Oh, really.|bh|2729|1
+B|Yeah,|ny|2729|0
+B|my husband calls her street dog,|sd|2729|0
+B|but we've had her now for about three years,|sd|2729|0
+A|Uh-huh.|b|2729|1
+B|and I just,|%|2729|0
+B|you get so attached to them.|sv|2729|0
+A|Oh, yeah.|aa|2729|1
+A|I had a, uh,|sd|2729|1
+A|last year I had I had another German Shepherd,|sd|2729|1
+A|now this one was purebred|sd|2729|1
+A|and, uh, he, when he was about seven months old got a gastrointestinal virus and was just about on death's door|sd|2729|1
+A|but, uh, managed to get him to a veterinarian in time,|sd|2729|1
+B|Uh-huh.|b|2729|0
+A|and, uh, and on huge doses of antibiotics, and he actually got over it with, seven hundred dollars in vet bills,|sd|2729|1
+B|Um.|%|2729|0
+B|Wow.|ba|2729|0
+A|um, but he had actually was able to get him over that.|sd|2729|1
+B|Uh-huh.|b|2729|0
+A|And then he was gaining weight again, was just getting healthy,|sd|2729|1
+A|and, uh, he put on about fifteen to twenty pounds after the thing|sd|2729|1
+A|and then he got hit by a Cadillac.|sd|2729|1
+B|Oh no.|ba|2729|0
+A|So, I couldn't believe it.|sd|2729|1
+A|That was, that was really hard.|sd|2729|1
+B|Oh, gee.|ba|2729|0
+A|And that was even harder for,|sd|2729|1
+A|I was on a business trip at the time|sd|2729|1
+A|and the dog was being house sit, or dog sit, whatever, by some friends of mine down the street,|sd|2729|1
+B|Uh-huh.|b|2729|0
+A|so they just felt absolutely awful.|sd|2729|1
+B|Oh, I bet.|ba|2729|0
+A|And I felt, felt probably worse for them than, than for me|sd|2729|1
+A|because, oh gosh they, the, uh, this fellow's wife who was, uh, watching the dog, she, I think she loved that dog more than I did|sd|2729|1
+A|and, uh. She was really attached to it,|sd|2729|1
+B|Oh gosh.|ba|2729|0
+A|but, uh, it's unfortunate,|sd|2729|1
+A|but now, I've got another one,|sd|2729|1
+A|so.|%|2729|1
+B|Yeah,|b|2729|0
+B|yeah.|b|2729|0
+B|How long has it been since the first one?|qw|2729|0
+A|Uh, see, he, it, it was just over a year.|sd|2729|1
+B|Uh, yeah,|b|2729|0
+A|Uh, it was in March of last year.|sd|2729|1
+A|So, uh, yeah,|%|2729|1
+A|it'd been, didn't, didn't have one for a whole year.|sd|2729|1
+B|Yeah.|b|2729|0
+B|Well I had, I had a German Shepherd before this one|sd|2729|0
+B|and when she died it just, it just absolutely destroyed me.|sd|2729|0
+B|I mean I was just, you know,|sd|2729|0
+A|Yeah.|b|2729|1
+B|I couldn't even talk about it for months|sd|2729|0
+B|and so I decided well that's it,|sd|2729|0
+B|I'm not going to do this anymore|^q|2729|0
+A|Right.|b|2729|1
+B|And then God gave me this dog,|sd|2729|0
+B|so|%|2729|0
+A|My dad's like that,|sd|2729|1
+A|he, uh, he had a beagle that he loved|sd|2729|1
+A|and, uh, when that beagle passed away, uh, he didn't want, he wasn't going to have another dog,|sd|2729|1
+A|there's no way,|^q|2729|1
+B|Uh-huh.|b|2729|0
+A|no|%|2729|1
+A|how, and then, uh, the, he the beagle died in I guess about October|sd|2729|1
+A|and by Christmas time we went down to the pound and got him, uh, I or, I Humane Society and got, uh, got another one, a stray.|sd|2729|1
+B|Yeah.|b|2729|0
+A|And she, she turned out to be a great dog|sd|2729|1
+A|and we had her for six years until she just passed away recently|sd|2729|1
+A|and again dad went through the whole thing,|sd|2729|1
+A|but, mom went an,|sd|2729|1
+B|Okay,|b|2729|0
+B|yeah.|b|2729|0
+B|Well you just do,|sv|2729|0
+A|Yeah.|b|2729|1
+B|you can't help|sv|2729|0
+B|it's like, it's like a kid.|sv|2729|0
+A|Yeah,|aa|2729|1
+A|it is.|aa|2729|1
+A|Well hopefully this one here, Cocoa will live a full life|sd|2729|1
+B|Yeah,|b|2729|0
+B|well when, uh,|%|2729|0
+B|my, my doggie, uh, that we have now, uh, she's, she's mostly Golden Retriever.|sd|2729|0
+A|Uh-huh.|b|2729|1
+B|The vet called her, uh, a golden mix|sd|2729|0
+A|Yeah.|b|2729|1
+B|like who knows, you know.|h|2729|0
+A|Right.|b|2729|1
+B|But she's, uh, she's that sort of strawberry blonde reddish color, you know.|sd|2729|0
+A|Oh.|b|2729|1
+B|And, uh, and her nose is that pink, you know,|sd|2729|0
+A|Uh-huh.|b|2729|1
+B|she doesn't have a brown nose,|sd|2729|0
+B|and her she's sort of unicolor, you know, eyes are the same color and everything,|sd|2729|0
+A|Yeah.|b|2729|1
+B|so. I named her Rosebud,|sd|2729|0
+B|and, uh, a friend of mine said, she, that she|sd|2729|0
+B|this friend of mine grew up on a farm and said that she had, uh, a pet cow named Rosebud|sd|2729|0
+B|and she said there's a lot of longevity in that name,|sd|2729|0
+B|said my cow lived seventeen years|sd|2729|0
+A|That's not too bad.|sv|2729|1
+A|Golly the Golden Retrievers are good dogs too,|sv|2729|1
+A|they're kind of like, get that permanent smile to them,|sv|2729|1
+B|Yeah,|aa|2729|0
+B|right.|aa|2729|0
+A|they're always, always happy.|sv|2729|1
+A|I don't think I've ever seen them not look happy.|sd|2729|1
+B|And she's so easy going and so sociable,|sd|2729|0
+A|Yeah.|b|2729|1
+B|You know, she loves everybody.|sd|2729|0
+B|And little kids can just, you know, maul all over her,|sd|2729|0
+A|Right.|b|2729|1
+B|and she just, you know, thinks it's great.|sd|2729|0
+A|This, this friend of mine has, well|sd|2729|1
+A|it's the same guy that was watching, uh, my German Shepherd when he got hit,|sd|2729|1
+A|but, uh, went fishing with him on Friday and took,|sd|2729|1
+A|he's got a full, a pure bred Golden Retriever|sd|2729|1
+A|and then I had, uh, the puppy, a little tiny puppy|sd|2729|1
+A|and we went and took the two dogs up fishing.|sd|2729|1
+A|And this,|%|2729|1
+A|they just, they had a ball romping around,|sd|2729|1
+B|Uh-huh.|b|2729|0
+A|and, you know, you can't get a Golden Retriever near water without it jumping in.|sd|2729|1
+B|Getting in,|bf|2729|0
+B|yeah.|b|2729|0
+A|And, uh, this Golden Retriever jumped in the, the, really fast moving, uh, river current,|sd|2729|1
+A|and, uh.|%|2729|1
+B|Oh, no.|ba|2729|0
+A|Well no,|ar|2729|1
+A|actually he had no trouble at all.|sd|2729|1
+A|He first jumped in|sd|2729|1
+A|and I,|%|2729|1
+A|he's, he's just about a year old himself and never had really,|sd|2729|1
+A|I don't think he'd swum before.|sd|2729|1
+B|Really.|b|2729|0
+A|But he jumped in, in the, the river.|sd|2729|1
+B|Did puppy go to?|qy|2729|0
+A|Well the puppy jumped in the, into some of the pools but not into the,|sd|2729|1
+A|I was careful to keep her away from the, the fast moving water,|sd|2729|1
+B|Oh, that's good,|ba|2729|0
+B|yeah.|b|2729|0
+A|'cause if she fell in then I'd of been, had to go in after her.|sd|2729|1
+A|And up here the water's probably about forty degrees right now.|sd|2729|1
+B|Ugh,|ba|2729|0
+B|ugh.|ba|2729|0
+A|And I would not have been fun trying to retrieve her,|sd|2729|1
+A|but, uh, this dog, Dennis jumped in and got this look on his face like what do I do now, as he's floating down the river then finally discovered that he could swim and, uh, actually paddled up against the current and, uh, made it back to the shore and climbed up|sd|2729|1
+A|and then, he, he jumped in again,|sd|2729|1
+A|and he was swimming for quite a bit, all afternoon.|sd|2729|1
+A|He loved it.|sd|2729|1
+B|Yeah,|b|2729|0
+A|Cocoa didn't think too much of it, though.|sd|2729|1
+A|She jumped in and then started screaming and made me pull her back out.|sd|2729|1
+A|I pulled her out and, uh, then had to wrap her up in a sweatshirt because she was shivering so bad,|sd|2729|1
+B|Yeah.|b|2729|0
+A|and so, but, uh, she got over it,|sd|2729|1
+A|so.|%|2729|1
+B|Well the German Shepherd that I had before,|sd|2729|0
+B|we, we had a little pool,|sd|2729|0
+A|Uh-huh.|b|2729|1
+B|and, uh, she was, she did not want any part of swimming|sd|2729|0
+B|but she liked to, to get in the pool on the first step.|sd|2729|0
+B|She'd just get on the first step and lay down. You know in the summertime when it's really, really hot.|sd|2729|0
+A|Uh-huh.|b|2729|1
+A|Yeah.|b|2729|1
+B|And she'd just lay there on that step and just, you know, cool off|sd|2729|0
+A|Yeah,|b|2729|1
+A|I've, I live right across the street from a, a big lake here, um,|sd|2729|1
+A|it's on Oneida lake|sd|2729|1
+A|and I'm wondering if, uh, if she'll want to go out there and go swimming next year.|sd|2729|1
+A|I mean, I've got,|sd|2729|1
+A|the yard's all fenced in|sd|2729|1
+A|so she doesn't run loose,|sd|2729|1
+A|but, uh, she could go in sometime when, if I'm watching her,|sd|2729|1
+B|Uh-huh.|b|2729|0
+A|so.|%|2729|1
+B|Yeah|b|2729|0
+B|Well the one that we had just didn't want any part of that.|sd|2729|0
+A|Oh really.|bh|2729|1
+B|Yeah,|ny|2729|0
+B|and she,|sd|2729|0
+B|oh baths.|sd|2729|0
+B|Oh gee, she hated baths worse than anything.|sd|2729|0
+B|It was, it was just really a fight to, you know, get her clean.|sd|2729|0
+A|Yeah.|b|2729|1
+B|Have you seen, uh, CANINE. The movie, oh,|qy|2729|0
+A|No,|nn|2729|1
+A|no.|nn|2729|1
+B|you've got to see it. Especially since you have a German,|ad|2729|0
+B|it is so cute.|sd|2729|0
+A|Oh really.|bh|2729|1
+B|Yeah,|ny|2729|0
+B|and, uh, an part of the, the movie is where he's trying to clean this dog up|sd|2729|0
+B|and it's, it's just hysterical.|sd|2729|0
+A|Oh, okay,|bk|2729|1
+A|my my dog, last German Shepherd, it was a real chore trying to give him a bath too.|sd|2729|1
+A|And that was the thing I couldn't figure out|sd|2729|1
+A|because he would go in the lake,|sd|2729|1
+A|it wasn't like he didn't|sd|2729|1
+B|Uh-huh.|b|2729|0
+A|normally, I mean he didn't seem to have a problem with getting wet,|sd|2729|1
+A|but if you wanted to get him wet, forget it.|sd|2729|1
+B|Yeah,|aa|2729|0
+B|well that's how Cleo, you know,|sd|2729|0
+B|she'd lay on her step,|sd|2729|0
+A|Yeah.|b|2729|1
+B|but that was, that was the only time she wanted to get wet|sd|2729|0
+B|and she didn't want you getting her wet|sd|2729|0
+A|Right,|aa|2729|1
+A|right,|aa|2729|1
+A|obstinate,|sv|2729|1
+A|obstinate.|sv|2729|1
+B|Yeah,|aa|2729|0
+B|but you really need to see that movie.|ad|2729|0
+B|I, I we bought the movie|sd|2729|0
+B|and I I don't know how many times I've seen it.|sd|2729|0
+A|Uh-huh.|b|2729|1
+B|And it came on T V the other night|sd|2729|0
+B|and I was watching it again,|sd|2729|0
+B|and my husband heard me laughing|sd|2729|0
+B|and he said I can't believe that you're still getting such a kick out of that movie|sd|2729|0
+A|I'll have to check it out.|oo_co_cc|2729|1
+A|I saw the, the, uh, previews for it and all|sd|2729|1
+A|and it did look like it'd be a good movie,|sd|2729|1
+A|but,|%|2729|1
+B|It is great.|sd|2729|0
+A|uh, really haven't had a whole lot of time to get out to see the movies lately.|sd|2729|1
+B|Yeah.|b|2729|0
+A|But, I got to do more, more fun things.|sd|2729|1
+B|Well we always wait until we can rent them, you know|sd|2729|0
+A|Yeah,|b|2729|1
+A|yeah.|b|2729|1
+A|Well I'm, uh, I'm a second lieutenant in the Air Force|sd|2729|1
+A|and so I travel a lot.|sd|2729|1
+B|Oh really.|bh|2729|0
+A|And yeah,|ny|2729|1
+A|I'm a engineer at, uh at the laboratory, Rolm Laboratory, Griffis Air Force Base, up here,|sd|2729|1
+A|so.|%|2729|1
+B|Oh.|b|2729|0
+A|That's how I got into, uh, into the switchboard project and all that,|sd|2729|1
+A|so.|%|2729|1
+B|Uh-huh.|b|2729|0
+A|But it's nice having a dog here, uh,|sd|2729|1
+A|the,|%|2729|1
+B|Oh, yeah,|aa|2729|0
+B|there's just,|sd|2729|0
+A|uh,|%|2729|1
+A|what's the, what's the word I'm looking for, uh, lots of affection, no unconditional affection from the, from the dog.|sv|2729|1
+B|Right,|aa|2729|0
+B|that's it.|aa|2729|0
+A|Yeah,|b|2729|1
+A|yeah.|b|2729|1
+B|Really,|aa|2729|0
+B|not critical at all.|sv|2729|0
+A|No,|aa|2729|1
+A|no.|aa|2729|1
+B|Yeah,|aa|2729|0
+B|they're really wonderful.|sv|2729|0
+A|Yeah,|b|2729|1
+A|well, it's been nice talking to you,|fc|2729|1
+A|we seem to be degenerating here,|sv|2729|1
+A|so|%|2729|1

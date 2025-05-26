@@ -1,0 +1,128 @@
+A|Okay.|fo_o_fw_"_by_bc|3393|0
+B|So what do you guys having up there?|qo|3393|1
+B|I haven't been up there since, oh, Lord, forty-eight, I guess|sd|3393|1
+A|Forty-eight.|b^m|3393|0
+A|That's a long time. Uh.|sv|3393|0
+B|Well, no,|ar|3393|1
+B|it wasn't forty-eight,|ar|3393|1
+B|it was, it was, uh, let's see, yeah, it was forty-eight.|sd|3393|1
+B|I was in the Air Force.|sd|3393|1
+A|Uh-huh.|b|3393|0
+B|We did an air show out at, uh, out at, uh, Boone Greene, no out at, uh Andrews,|sd|3393|1
+A|Andrews?|qy|3393|0
+B|yeah.|ny|3393|1
+B|So what's it been like up there?|qw|3393|1
+A|Well, for the past week or two it's been cold and wet|sd|3393|0
+B|Uh-huh.|b|3393|1
+A|but before that, for most of the year, it's been hot and dry.|sd|3393|0
+B|Yeah.|b|3393|1
+B|Uh, like September was hot and dry,|sd|3393|1
+B|October.|%|3393|1
+A|Um, September really was,|aa|3393|0
+A|I'm not sure about October.|sd|3393|0
+A|I think for about twelve months through September the, the average temperature has been higher than normal each month. Um, lots of ninety degree days during the summer.|sd|3393|0
+B|Really?|bh|3393|1
+B|Huh.|b|3393|1
+B|It really has been strange here this year,|sd|3393|1
+B|I mean, this whole course this whole year has been a different year in more ways than one.|sd|3393|1
+A|Uh-huh.|b|3393|0
+B|But, uh, we had, uh, you know, all these, we have all these, uh,|sd|3393|1
+B|somebody said, you know, you're either a stranger or a fool to try to predict Texas weather,|sd|3393|1
+B|but. Well, always, they were saying it was going to be the hottest summer ever,|sd|3393|1
+A|Uh-huh.|b|3393|0
+B|and we had all this rain,|sd|3393|1
+B|and it really is not a bad summer at all, really cool.|sd|3393|1
+B|But all of a sudden, in, in, uh, in October, uh, September, October it got real hot and dry and just stayed that way for a long time.|sd|3393|1
+B|And, uh, then the end of October it started rain almost a week without stopping, just pouring down, you know.|sd|3393|1
+B|There were flash floods everywhere, that kind of deal,|sd|3393|1
+B|and then uh, into of November, the first, like the second week, uh, you know, the first week actually, we had, we had a freeze,|sd|3393|1
+A|Uh-huh.|b|3393|0
+B|and the average, you know, the average, uh, first frost is like the fifteenth of November here|sd|3393|1
+A|Oh, if you had it early.|qy^d|3393|0
+B|but usually it's not until later|sd|3393|1
+B|It's really strange.|sd|3393|1
+A|Yeah,|b|3393|0
+A|I think we usually have a frost in October.|sd|3393|0
+B|Yeah.|b|3393|1
+A|Uh, but, you know. We really need the rain that we've been getting,|sd|3393|0
+A|and it has not today,|sd|3393|0
+A|but the last few days it's been, been pouring most of the day.|sd|3393|0
+B|Is it, is it, is it flooding anywhere?|qy|3393|1
+A|Flooding anywhere.|^h|3393|0
+A|I have not heard of it, any problems of it flooding anywhere,|ng|3393|0
+A|I mean, that's occurred certainly at times in the past,|sd|3393|0
+A|but, uh, no,|nn|3393|0
+A|I've not heard of any particular problems this time.|sd|3393|0
+B|It's just kind of, uh,|%|3393|1
+B|we're supposed to have a chance to get some rain the next couple of days here, uh, which will be, you know, a little bit more typical, uh, autumn weather. But really it's strange.|sd|3393|1
+B|We haven't really had an autumn.|sd|3393|1
+B|It's like we went into winter|sd|3393|1
+A|Yes.|b|3393|0
+B|you know, the poor trees, said what|sv|3393|1
+A|Yes,|b|3393|0
+A|yeah,|b|3393|0
+A|we had summer lasting long|sd|3393|0
+A|and then it, then it, then it became winter like, uh today it's, today it's sort of change to warmer to sort of more typical autumn day.|sd|3393|0
+B|Yeah,|b|3393|1
+B|uh, it's,|%|3393|1
+B|Yeah,|b|3393|1
+B|there, you, you know,|%|3393|1
+B|usually there's, uh,|%|3393|1
+B|I have a farm a hundred miles east of here in East Texas,|sd|3393|1
+B|and you know, all these huge trees just like the eastern hard wood belt all the way up to Maine, you know,|sd|3393|1
+B|it's that same trees, pines and, and hard woods, you know hickories and oaks and stuff,|sd|3393|1
+A|Yeah.|b|3393|0
+B|and, uh, I was up there last weekend,|sd|3393|1
+B|and there are trees that, that still have their leaves on,|sd|3393|1
+B|and they're green,|sd|3393|1
+B|but they're dead|sd|3393|1
+B|You know, the, the freeze just got them.|sd|3393|1
+B|They, they weren't ready for it at all apparently,|sv|3393|1
+B|and, and we haven't had a typical fall at all.|sd|3393|1
+B|Not much color, you know, changes have occurred at all.|sd|3393|1
+B|Really weird this year.|sd|3393|1
+B|I'm not sure what that, what that means.|sd|3393|1
+A|I don't know.|h|3393|0
+A|Yeah,|%|3393|0
+A|our leaves are, are all on, on the ground now.|sd|3393|0
+A|I think it was an especially good winter for fall colors.|sd|3393|0
+B|So you, you all actually had some color, huh?|qy|3393|1
+A|Oh, yeah,|ny|3393|0
+A|yeah.|ny|3393|0
+B|It kind of crept in|qy^d|3393|1
+B|and,|%|3393|1
+A|Yeah,|ny|3393|0
+A|we, we did, for a time.|sd|3393|0
+B|Yeah,|b|3393|1
+B|it's usually beautiful up there isn't it?|qy|3393|1
+A|Uh-huh.|ny|3393|0
+B|Gorgeous.|ba|3393|1
+B|That's, you know,|%|3393|1
+B|I think you could drive along in Maryland and look at the sweet gum trees on each side and the, and the pines and what not,|sv|3393|1
+B|and you could, you know, you could be driving along in East Texas and looks just the same.|sv|3393|1
+B|It's almost, you know, identical kind of country.|sv|3393|1
+A|Uh-huh.|b|3393|0
+B|Beautiful.|ba|3393|1
+A|Been that this year for the trees for the leaves.|sd|3393|0
+B|Yeah.|b|3393|1
+B|Oh.|b|3393|1
+B|Yeah,|b|3393|1
+B|I was up, I was up there cutting some firewood this weekend,|sd|3393|1
+B|so.|%|3393|1
+A|Um.|b|3393|0
+B|Little, little oak tree that was dead, and cut it up and split it .|sd|3393|1
+A|Yeah,|b|3393|0
+A|that's because it, it can't tolerate a freeze this early.|sv|3393|0
+A|Is that right?|bh|3393|0
+B|Well.|%|3393|1
+A|If it would came later it would be all right?|qy|3393|0
+B|Uh, it, there's some trees|%|3393|1
+B|like the oaks, like the white oaks seem to be pretty hardy.|sv|3393|1
+B|There's,|%|3393|1
+B|nothing bothers them.|sv|3393|1
+B|Their leaves are still green,|sv|3393|1
+B|and some of the other oaks. There are a few oaks that have lost their leaves.|sv|3393|1
+B|Um, what I notice mostly is the red maples, that the leaves are just dead, the dogwoods still look, still look, you know, they got, uh, bit on the ends of the leaves a little bit,|sd|3393|1
+B|but they still look pretty good.|sv|3393|1
+A|Um.|b|3393|0
+B|It just depends on the, on the, uh, on the tree.|sv|3393|1

@@ -1,0 +1,120 @@
+B|Okay.|fo_o_fw_"_by_bc|4108|0
+A|Uh, so, what do you think, uh, about putting the elderly in a nursing home?|qo|4108|1
+B|Well, I think that it, it varies on on the individual basis.|sv|4108|0
+A|Huh.|%|4108|1
+B|Uh, sometimes it is, there is no alternative.|sv|4108|0
+A|Uh-huh|b|4108|1
+B|Uh, you do not have, uh, uh, family available or family that's, uh,|sd|4108|0
+B|you may not even have family that is, uh, uh, in, you know, who are around.|sd|4108|0
+A|That's true.|sv|4108|1
+A|Yeah.|aa|4108|1
+B|So, sometimes it's not an alternative.|sv|4108|0
+A|Huh|%|4108|1
+B|And I think, uh, but I think also, sometimes it can be, uh, a benefit if it's for a short time.|sv|4108|0
+B|Sometimes in a nursing home|%|4108|0
+A|Uh-huh.|b|4108|1
+B|uh, especially if, if it's after an acute illness.|sv|4108|0
+B|To get over a,|%|4108|0
+B|or to rehab after, uh, an illness.|sv|4108|0
+A|That's true.|aa|4108|1
+A|I never thought of that.|sd|4108|1
+A|Yeah.|%|4108|1
+B|Sometimes you know, sometimes the nursing homes are good for, uh, just short periods of time.|sv|4108|0
+A|That's true,|aa|4108|1
+A|until they get over that hump of whatever it is they're dealing with.|bf|4108|1
+B|Uh-huh.|aa|4108|0
+B|Because too often the acute hospitals will, are sending them out much faster than what they're really able to.|sv|4108|0
+A|Yes.|aa|4108|1
+A|They really are.|sv|4108|1
+A|They don't like to keep them longer than a week.|sv|4108|1
+B|So so there is some good to it.|sv|4108|0
+A|Yeah.|b|4108|1
+B|Uh, sometimes too, it's used as a dumb job.|sv|4108|0
+B|You know the well the families do not necessarily uh, know what to do with them|sv|4108|0
+A|What do you mean?|br|4108|1
+B|and they don't want to take the responsibility|sv|4108|0
+B|so they will put them in a nursing home.|sv|4108|0
+A|Yeah,|aa|4108|1
+A|that's true.|sv|4108|1
+B|So you see, uh,|fo_o_fw_"_by_bc|4108|0
+B|there's both sides to it too.|sv|4108|0
+B|What do you think?|qo|4108|0
+A|Yeah|b|4108|1
+A|and it depends on how, how sick the person is too. What you're capable of, like if you have a family to take care of, you know, of your own|sv|4108|1
+B|Yeah.|b|4108|0
+A|Yeah,|b^m|4108|1
+A|uh, I would personally like it|sd|4108|1
+A|if my parents were to get ill, I would like to take care of them at home and if I had the money with some help.|sd|4108|1
+A|That's not always possible.|sv|4108|1
+B|That's true.|aa|4108|0
+A|But, uh, to the best of my ability, I'd like to do it until it gets impossible|sd|4108|1
+B|I think that's also where you're going to have a lot of people who are going to,|sv|4108|0
+B|it's there's not a choice, it's  because, it's not economically feasible even to  put them in a nursing home.|sv|4108|0
+A|Right.|b|4108|1
+A|Uh-huh|b|4108|1
+A|Yeah.|b|4108|1
+B|So that, that option sometimes is not available if they do not have the, uh, either Medicare or insurance to cover it.|sd|4108|0
+A|That's true.|sv|4108|1
+A|Yeah.|aa|4108|1
+B|So,|%|4108|0
+A|But I think nursing homes can be good.|sv|4108|1
+A|It just depends on what kind they are.|sd|4108|1
+A|You know, you need to check them out ahead of time.|sv|4108|1
+B|Yeah,|b|4108|0
+B|and then there's also some that are set up for specialties|sd|4108|0
+A|Uh-huh.|b|4108|1
+B|uh, I know some.|sd|4108|0
+B|Unfortunately, some elderly have to go to or have, I guess it's Alzheimer's or where  they wonder or, or, uh, confused or have some mental problem|sd|4108|0
+A|Uh-huh.|b|4108|1
+A|Yeah,|b|4108|1
+A|that they're|%|4108|1
+B|And you need a special nursing home for that.|sv|4108|0
+B|You need one that has a unit that's locked where they are not able to get out and roam around|sv|4108|0
+A|Yeah.|b|4108|1
+B|and you need people who are trained for that type  of problem.|sv|4108|0
+A|Right.|aa|4108|1
+A|Who know what they're doing with that.|bf|4108|1
+B|Yeah|aa|4108|0
+B|so, so there's different types of nursing homes I think.|sv|4108|0
+A|Yeah|b|4108|1
+A|well, my, uh, grandmother's not really in a nursing home, but a retirement home that also has a nursing home sort of attached to it.|sd|4108|1
+A|And she really liked the idea of, of moving there.|sd|4108|1
+A|She's not ill yet|sd|4108|1
+B|Uh-huh.|b|4108|0
+A|but, uh, she worked there as a volunteer for about ten years|sd|4108|1
+A|and then she decided that, uh, she's eighty five years old, that eventually, you know, she she doesn't want her family taking care of her and being a burden.|sd|4108|1
+A|She's very independent.|sd|4108|1
+A|So she's in this nursing home.|sd|4108|1
+A|It's out in the country|sd|4108|1
+A|and, uh, she really enjoys it right now because she doesn't have to wash dishes or cook|sd|4108|1
+B|Gives her a little bit of her own independence|bf|4108|0
+A|Uh-huh.|aa|4108|1
+B|but she still has, uh, a security there.|bf|4108|0
+A|Right.|aa|4108|1
+A|Some support.|bf|4108|1
+A|And then there's also, uh, sort of a wing for those people that do get sick|sd|4108|1
+A|and, what I like about it and I think she likes about it is that she knows everybody there now|sd|4108|1
+A|and then, so if she ever does become ill, uh, it will be like family around her.|sd|4108|1
+B|That's right|ba|4108|0
+B|and I  I've seen some of them like that too|sd|4108|0
+A|Yeah.|b|4108|1
+B|and also they have a lot of, uh, activities going on for the ones  who are more active.|sd|4108|0
+A|Uh-huh|b|4108|1
+A|Yeah.|b|4108|1
+B|So it's not sort of like, uh, uh  a sick place.|sv|4108|0
+A|Uh-huh|b|4108|1
+A|No,|aa|4108|1
+A|she loves it.|sd|4108|1
+A|She has a great social life|sd|4108|1
+A|and she travels|sd|4108|1
+A|and, uh, it's in, in the in the mountains|sd|4108|1
+A|and it's beautiful|sv|4108|1
+A|and, uh, I, I hope that I have something like that when I get older|sd|4108|1
+B|Yeah|b|4108|0
+B|I, I think, I think the, uh I think that the decision that needs to be made though on nursing home has to be a joint one between the, uh, elderly uh, person who's going in and the family that's going to be, uh, effected by it|sv|4108|0
+A|Uh-huh|b|4108|1
+A|Uh-huh.|b|4108|1
+A|Oh definitely it's,|aa|4108|1
+B|and, uh, you know, sometimes it can, those those choices can be made in advance|sd|4108|0
+B|and sometimes  the choices because of the nature of the illness when they're,|sv|4108|0
+A|Right.|b|4108|1

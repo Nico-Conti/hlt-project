@@ -1,0 +1,82 @@
+B|I guess we're ready to talk.|sd|3797|0
+A|How you doing, Howard?|fp|3797|1
+A|This is a, a subject that I'm not real well versed on,|sd|3797|1
+A|but.|%|3797|1
+B|Well, let's talk about air pollution.|ad|3797|0
+A|Okay.|aa|3797|1
+B|What do you think causes air pollution in Dallas?|qw|3797|0
+B|Or where are you from?|qw|3797|0
+A|No.|fo_o_fw_"_by_bc|3797|1
+B|Maybe you're not in Dallas.|qy^d|3797|0
+A|Okay,|fo_o_fw_"_by_bc|3797|1
+A|I'm from the, uh,|sd|3797|1
+A|I'm from Dallas.|sd|3797|1
+A|I'm in Richardson.|sd|3797|1
+B|Okay. Uh,|bk|3797|0
+A|What do you think as far as air pollution in the Dallas area?|qo|3797|1
+B|Well, I have some small experience in this area.|sd|3797|0
+B|The brown haze that you see if you look down Central towards downtown a lot of that is, uh, tied up with the oxides or nitrogen although some of the kind of bluish gray stuff we see sometimes is tied up with particulates.|sd|3797|0
+A|Right.|b|3797|1
+B|But, uh, the, one of the major problems that Dallas has is oxides and nitrogen.|sd|3797|0
+B|That's because of all the equipment that's being operated. But at the same time, uh, because we don't have, we don't burn a lot of coal and solid materials we, don't get a lot of particulates.|sd|3797|0
+B|Now particulates would come from trash burning or incineration or something like that here in Dallas.|sd|3797|0
+A|Right.|b|3797|1
+B|Uh, power plants since,|sd|3797|0
+B|many of our local power plants, uh, are natural gas most of the time, uh, the things that come off of those plants are carbon dioxide, and N O X.|sd|3797|0
+B|There's no particulates in natural gas, of course.|sd|3797|0
+B|And we pick up a little bit of sulphur off some of these products.|sd|3797|0
+B|We're burning fuel oil and a few other things,|sd|3797|0
+B|but gasoline, of course, now the lead's out, at least theoretically, uh, I guess you could say we're picking up some sulphur because a lot of the fuels does have sulphur.|sd|3797|0
+B|That's why we get that rotten egg smell sometime off the catalytic converter the sulphur, yes.|sd|3797|0
+A|Oh, really?|bh|3797|1
+B|And that's, uh, course hydrogen sulfide, which is when you burn gasoline, you also produce some water vapor and that goes back in with your sulphur|sd|3797|0
+A|Sure.|b|3797|1
+B|and under the right condition you get H two S.|sd|3797|0
+B|But, anyway, uh,|%|3797|0
+A|Well, you are, you are well versed on the subject, I tell you.|sv|3797|1
+B|Well, I don't know.|bd|3797|0
+A|This is not one of my better ones.|sd|3797|1
+A|I guess, I guess I notice it the most just, uh, in driving around Dallas with all the, the highway equipment that's working on the on, six thirty-five and seventy-five, just the cars in general.|sd|3797|1
+B|Uh-huh.|b|3797|0
+A|That's where I see most of it.|sd|3797|1
+B|uh, Ron a lot of this is caused by the fact that cars sitting in traffic tend to run rich because the way the pollution is.|sd|3797|0
+A|Right.|b|3797|1
+B|And when they run rich they, they spit out a lot of hydrocarbons,|sd|3797|0
+B|and that's another part of the problem.|sd|3797|0
+B|The gas is not being burned completely.|sd|3797|0
+B|But, uh, hopefully, if we ever get our road system fixed up, this will get a lot better.|sd|3797|0
+A|Oh, I don't know, I've lived here since seventy-four, Howard,|sd|3797|1
+A|and, I I think, I think they been working on the highways around here since I've been here,|sd|3797|1
+A|and I think, I think they'll be working on them long after my wife and I are gone.|sv|3797|1
+B|Well, I guess, I, not trying to top you, but I grew up in Dallas county and I can remember when they built the north part of North Central which was built after the south part of Central|sd|3797|0
+A|Right|b|3797|1
+B|and, uh, I can remember coming over the hill down there long about, uh, I don't know, little bit north of Mockingbird on up in, over those hills|sd|3797|0
+B|and I said I wonder if they'll ever need this road.|sd|3797|0
+B|Course, it was designed for most of us to go about forty-five miles an hour because the short on ramps and are, off ramps,|sd|3797|0
+B|but, gosh,|ba|3797|0
+B|seems like, uh, those ramps might kill us yet.|sv|3797|0
+B|I,|%|3797|0
+B|hopefully the new ones will be a lot better.|sd|3797|0
+A|I understand.|ba|3797|1
+A|I sure hope so, I tell you.|sd|3797|1
+A|You know, you get out on the, uh, interstate highways versus,|sd|3797|1
+A|I travel quite a bit|sd|3797|1
+A|and traveling from, like, Dallas to Austin to San Antonio it's the same thing as far as the pollution created by the automobiles in the, in the stalled traffic and the busy highways, you, you, you're at your best|sd|3797|1
+A|and, I guess when you're out on the interstate, heading north or south and you're just cruising right along and there's no build up of cars|sd|3797|1
+A|and,|%|3797|1
+B|Yeah,|b|3797|0
+B|Ron, have you noticed when you're driving south on thirty-five, I guess towards Waxahachie, Hillsborough on down to Austin, you hit a point down there about, I think where they call Bear Creek exit on just this side of the county line|qy|3797|0
+A|Yes.|ny|3797|1
+B|Right along in there somewhere, suddenly the air feels cleaner.|sd|3797|0
+B|Have you noticed that?|qy|3797|0
+A|I tell you what, I, I don't think I really have,|ng|3797|1
+A|but I'm going that way Tuesday|sd|3797|1
+A|and I'm going to make it a point to.|oo_co_cc|3797|1
+B|Well, sometimes it depends on which way the winds blowing|sd|3797|0
+A|Sure.|b|3797|1
+B|but, uh, I also travel a little bit|sd|3797|0
+B|and, uh, I don't know, it just seems like there's a certain point down there where you can breathe easier.|sd|3797|0
+B|It may be all in my mind.|sd|3797|0
+A|Oh, I know.|aa|3797|1
+A|I know going to, uh, uh,|sd|3797|1
+A|I detest going to Houston because it's such a,|sd|3797|1

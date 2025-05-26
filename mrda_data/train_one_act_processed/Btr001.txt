@@ -1,0 +1,2764 @@
+fe008|so|F|Btr001
+fe008|thanks very much for coming.|S|Btr001
+fe008|okay.|F|Btr001
+fe008|so um|F|Btr001
+fe008|let's see.|S|Btr001
+fe008|so um as you know the meeting today is to um benefit from your involvement in the data.|S|Btr001
+fe008|all the things that that you've been exposed to in these many months.|S|Btr001
+fe008|and um i just i just put down some ideas.|S|Btr001
+fe008|you've seen some of this in the email that i sent out earlier.|S|Btr001
+fe008|and um|F|Btr001
+fe068|huh.|B|Btr001
+fe008|none of these these are not obligatory topics.|S|Btr001
+fe008|but they're just things that i thought might be useful to discuss.|S|Btr001
+fe008|just as a way of organizing the discussion.|S|Btr001
+fe008|but if there are other topics you'd like to discuss that'd be great too.|S|Btr001
+fe008|all right.|F|Btr001
+fe008|so um|F|Btr001
+fe008|it struck me that um you know we could start out with some sort of general thing about um things that you found easier or more difficult with respect to transcribing or checking or using the interface or uh dealing with the time bins or any aspect of that type.|S|Btr001
+fe008|and then maybe talk about specifics specifics of the data.|S|Btr001
+fe008|and then maybe talk about um aspects of the conventions.|S|Btr001
+fe008|and then the technical set up regarding the um auditory image and the interface.|S|Btr001
+fe008|okay.|F|Btr001
+fe008|so|F|Btr001
+fe008|maybe we could just um start with issues of the the up there at the top of|D|Btr001
+fe008|what what did you find easiest or more most difficult about transcribing the data?|Q|Btr001
+fe069|okay.|S|Btr001
+fe008|yeah.|B|Btr001
+fe069|one thing that i remember being really difficult at the beginning and it got easier as we went along was um acronyms and technical terms.|S|Btr001
+fe069|um because there are so many.|S|Btr001
+fe066|uhhuh.|B|Btr001
+fe069|and it's a field that i'm not really very|D|Btr001
+fe069|i don't know.|F|Btr001
+fe069|i don't know very much about this kind of stuff.|S|Btr001
+fe069|computers and speech recognition.|S|Btr001
+fe069|i've never taken classes on it or anything.|S|Btr001
+fe069|so i found that really hard.|S|Btr001
+fe069|and i remember transcribing and having a bunch of|D|Btr001
+fe069|you know every five words there'd be something i'd put in parentheses because i didn't know what it was.|S|Btr001
+fe069|so|F|Btr001
+fe008|parentheses meaning uncertainty.|S|Btr001
+fe069|yeah.|S|Btr001
+fe069|yeah.|S|Btr001
+fe068|uhhuh.|S|Btr001
+fe069|but it's definitely gotten easier because the same things keep getting repeated.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|once you learn what it is and you can say okay i know what they meant by that.|S|Btr001
+fe069|or i know how to spell that now.|S|Btr001
+fe069|or something like that.|S|Btr001
+fe069|and the cast of characters that you put up on the web was helpful.|S|Btr001
+fe008|is|D|Btr001
+fe068|yeah.|S|Btr001
+fe069|also.|S|Btr001
+me070|yeah.|B|Btr001
+fe008|okay.|S|Btr001
+fe008|good.|S|Btr001
+fe008|it's sort of like a foreign language isn't it?|S|Btr001
+fe008|it's basically you have these specialized terms for things that i didn't know needed specialized terms.|S|Btr001
+fe069|yeah.|S|Btr001
+fe008|yeah.|F|Btr001
+fe069|especially when describing like the set up in this room also and the different types of mikes.|S|Btr001
+fe008|yeah.|B|Btr001
+fe069|i don't know.|F|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|and it's hard to tell when people are talking relatively quickly.|S|Btr001
+fe069|they just glide over some of the letters.|S|Btr001
+fe069|they don't fully pronounce them.|S|Btr001
+fe069|so you can't really tell even if you listen to it ten times what it is.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe067|huh.|B|Btr001
+fe068|uhhuh.|B|Btr001
+me070|yeah.|S|Btr001
+me070|i usually put most of the acronyms in parentheses.|S|Btr001
+me070|because i think it's sort of safe.|S|Btr001
+me070|because people can people can say their acronyms really fast.|S|Btr001
+fe069|uhhuh.|B|Btr001
+me070|and i figure that even if i think i know exactly what letters they said it's probably best to put them in parentheses.|S|Btr001
+me070|because i probably don't.|S|Btr001
+fe008|that's not a bad strategy.|S|Btr001
+fe008|i mean it's it's true that i i always check the parentheses at the last stage.|S|Btr001
+fe008|and those are pretty easy to clear in terms of when they're in context.|S|Btr001
+me070|uhhuh.|B|Btr001
+me070|right.|B|Btr001
+fe067|huh.|B|Btr001
+fe008|not a bad strategy.|S|Btr001
+fe068|uhhuh.|B|Btr001
+fe008|yeah.|F|Btr001
+fe068|some of them just occurred over and over the again.|S|Btr001
+fe068|so like p d a like that got got easy.|S|Btr001
+fe008|yes.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe068|there there was a a bunch of them that uh|D|Btr001
+fe008|i suspect in context|D|Btr001
+fe068|they just kept getting repeated often and often.|S|Btr001
+fe068|you know over and over.|S|Btr001
+fe068|so|F|Btr001
+fe069|uhhuh.|B|Btr001
+me070|yeah.|B|Btr001
+fe068|just got better.|S|Btr001
+fe008|and also when you have the the juxtaposition of p d a and p z m then you know you in context you can tell which one it's is probably likely to be the one that you had.|S|Btr001
+fe068|but|D|Btr001
+fe068|uhhuh.|S|Btr001
+fe069|yeah.|S|Btr001
+fe069|even though i still don't know what they are.|S|Btr001
+fe069|i mean i assume they're microphones of some sort.|S|Btr001
+fe069|but that's all.|S|Btr001
+fe008|well these here are the p z m's.|S|Btr001
+fe008|that right there.|S|Btr001
+fe069|oh.|S|Btr001
+me070|oh.|S|Btr001
+fe066|is anybody wearing one of those awful quote crown microphones that people used to be|D|Btr001
+fe068|no.|S|Btr001
+fe008|uh you've heard the crown of pain.|S|Btr001
+fe066|yeah.|S|Btr001
+fe008|no he was telling us uh before the meeting that um that they're not in circulation right now.|S|Btr001
+fe008|that they're they were unpopular.|S|Btr001
+fe008|i liked them.|S|Btr001
+fe066|huh.|B|Btr001
+fe008|and adam liked them.|S|Btr001
+fe066|oh oh okay.|S|Btr001
+fe008|i thought the quality was good.|S|Btr001
+me070|huh.|B|Btr001
+fe066|just curious.|S|Btr001
+fe008|what|D|Btr001
+fe008|yeah what did he say|D|Btr001
+fe008|he said some more things about that.|S|Btr001
+fe008|but i was i was working on something else.|S|Btr001
+fe069|about the microphone?|Q|Btr001
+fe008|uhhuh.|S|Btr001
+fe069|i can't remember.|S|Btr001
+fe069|i mean he's|D|Btr001
+fe069|he he said that they were designed for a specific sized head?|Q|Btr001
+fe008|uh yeah.|S|Btr001
+fe008|yeah that's right.|S|Btr001
+fe069|right?|Q|Btr001
+me070|yeah.|B|Btr001
+fe069|and so if if your head happened to be that size then you were fine.|S|Btr001
+fe008|that's right.|S|Btr001
+fe066|oh.|S|Btr001
+fe069|and if it was bigger then it was like torture.|S|Btr001
+fe066|oh.|S|Btr001
+fe068|right.|S|Btr001
+fe008|yeah.|B|Btr001
+fe069|or i don't know.|S|Btr001
+fe008|it's|D|Btr001
+fe069|i don't know.|F|Btr001
+fe008|i liked them.|S|Btr001
+fe008|and there's the actually there's the picture of the of the crown adjustment on the wall right there.|S|Btr001
+me070|huh.|B|Btr001
+fe008|so it sort of hooks over your ears from the back.|S|Btr001
+fe068|right.|S|Btr001
+fe069|oh yeah.|S|Btr001
+fe066|oh okay.|S|Btr001
+fe008|yeah good|D|Btr001
+fe069|oh it doesn't look so bad.|S|Btr001
+fe069|but i guess it depends really.|S|Btr001
+fe008|okay.|F|Btr001
+fe008|so now what about accents?|Q|Btr001
+fe008|do you have uh did you find any|D|Btr001
+fe066|they're tough sometimes.|S|Btr001
+fe008|uhhuh.|B|Btr001
+me070|yeah.|B|Btr001
+fe066|sometimes the german accents can get a little bit daunting.|S|Btr001
+fe066|i mean|F|Btr001
+fe066|um|F|Btr001
+fe066|i forget who it was that i was transcribing.|S|Btr001
+fe066|but it was tough to figure out what he was saying uh at any given point in time.|S|Btr001
+fe066|and i would i would just listen to it over and over and over again going oh my god my head's going to explode.|S|Btr001
+fe066|like not really understanding|D|Btr001
+me070|yeah.|B|Btr001
+fe066|you know?|Q|Btr001
+fe066|and so|F|Btr001
+fe066|i was getting a little frustrated.|S|Btr001
+fe066|because i would put a lot of things into parentheses.|S|Btr001
+fe066|and then go back over it.|S|Btr001
+fe066|and go back over it again.|S|Btr001
+fe066|and still|D|Btr001
+fe066|you know?|Q|Btr001
+fe066|i i like to try to clear as much up as i possibly can.|S|Btr001
+fe066|and i i just felt like you know with the german accents just for me personally those were probably the toughest to get around.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe066|um they weren't impossible.|S|Btr001
+fe066|but just like they the they took the most time too.|S|Btr001
+fe066|i mean i would take maybe twice as long on a a given channel with a speaker who has a german accent than somebody who's you know a native english speaker.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe069|huh huh.|B|Btr001
+fe066|or even asian.|S|Btr001
+fe066|like uh speaks an asian language.|S|Btr001
+fe066|i found that easier.|S|Btr001
+fe066|uh|F|Btr001
+fe066|you know.|F|Btr001
+fe066|uh somebody who speaks like chinese or something.|S|Btr001
+fe008|what's|D|Btr001
+fe008|you've studied some languages.|S|Btr001
+fe068|uhhuh.|B|Btr001
+fe008|which which ones do you are you studying?|Q|Btr001
+fe008|it's more of a romance direction?|Q|Btr001
+fe008|or|D|Btr001
+fe066|um yeah.|S|Btr001
+fe066|well i studied i mean i studied old english for a while.|S|Btr001
+fe008|uhhuh.|S|Btr001
+fe066|um|F|Btr001
+fe066|and then i've worked with larry hyman on like some of the bantu languages.|S|Btr001
+fe066|um|F|Btr001
+fe008|uhhuh.|B|Btr001
+fe066|and you know i'm also working with ian maddieson.|S|Btr001
+fe066|and he's been doing work on the uh like also some african languages.|S|Btr001
+fe066|so i've like learned a little bit.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe008|so it's not really you're not really exposed to german very much.|S|Btr001
+fe066|no.|S|Btr001
+fe066|i mean i sing in german.|S|Btr001
+fe008|uh interesting.|S|Btr001
+fe008|interesting.|S|Btr001
+fe066|but|D|Btr001
+fe066|i mean i can i can pronounce it.|S|Btr001
+fe008|huh.|B|Btr001
+fe066|but i don't know any.|S|Btr001
+fe008|okay.|B|Btr001
+fe069|that's interesting.|S|Btr001
+fe068|huh huh.|B|Btr001
+fe068|uhhuh.|B|Btr001
+fe066|i can do i can pronounce a lot of languages and not actually speak them.|S|Btr001
+fe069|yeah.|B|Btr001
+fe066|because of singing.|S|Btr001
+fe069|yeah.|B|Btr001
+fe067|huh.|B|Btr001
+me070|huh.|B|Btr001
+fe069|for me i found the spanish speakers to be the hardest.|S|Btr001
+fe069|and the german speakers i found a little bit easier.|S|Btr001
+fe068|yeah.|S|Btr001
+fe069|and i thought maybe that was because i had i took german for a semester and i've had exposure to german.|S|Btr001
+fe066|oh.|S|Btr001
+fe069|um because i had a lot of friends who were really into germany and german language.|S|Btr001
+fe069|and|F|Btr001
+fe069|but|D|Btr001
+fe069|and i found that i could|D|Btr001
+fe069|if they were pronouncing something in a certain way i could say oh well that's just the german way of pronouncing this.|S|Btr001
+fe069|and then i figured out what they were saying.|S|Btr001
+fe066|uhhuh.|B|Btr001
+fe069|um but with the spanish speakers it was|D|Btr001
+fe069|i've never taken spanish.|S|Btr001
+fe069|and even though i've taken french and i speak french fairly well um i found the spanish to be much harder.|S|Btr001
+fe069|and maybe also because the level of fluency for the spanish speakers was a little bit less than the level of fluency of the german speakers that are here.|S|Btr001
+fe066|oh.|S|Btr001
+me070|if you're talking about who i think you're talking about.|S|Btr001
+fe069|i think.|S|Btr001
+me070|are you talking about|D|Btr001
+me070|um|F|Btr001
+fe069|there was a couple of different spanish speakers.|S|Btr001
+fe068|can we give names?|Q|Btr001
+me070|can|D|Btr001
+me070|yeah.|S|Btr001
+fe068|we we probably shouldn't right?|S|Btr001
+me070|is that|D|Btr001
+fe008|it's a good question.|S|Btr001
+fe008|um|F|Btr001
+fe008|and i can't really answer that.|S|Btr001
+me070|okay.|S|Btr001
+me070|well there's one in particular who i find the hardest to transcribe of all.|S|Btr001
+me070|and it's she's spanish.|S|Btr001
+fe008|oh.|S|Btr001
+me070|so|F|Btr001
+fe068|oh yeah.|S|Btr001
+fe068|okay.|S|Btr001
+me070|and um|F|Btr001
+me070|and i've taken lots|D|Btr001
+me070|i'm fluent in spanish.|S|Btr001
+me070|and so|F|Btr001
+me070|um when i when i correct it i can i can tell that the person who um transcribed it before me probably didn't speak spanish.|S|Btr001
+me070|because i can catch a lot of things.|S|Btr001
+me070|like like no that's not what she said.|S|Btr001
+me070|i can tell she's pronouncing pronouncing it the way that if you read it from a you know a spanish speaker's mind that you would you know pronounce it the way that you would pronounce it in spanish.|S|Btr001
+me070|but the same time uh i can't get most of it.|S|Btr001
+me070|because i|D|Btr001
+fe069|huh that's really interesting.|S|Btr001
+fe008|oh that's fascinating.|S|Btr001
+fe066|huh.|B|Btr001
+me070|i find it one of one of the hardest ones to transcribe.|S|Btr001
+fe008|well what you can see is that it's it's her lack of of english fluency that's being|D|Btr001
+me070|yeah.|B|Btr001
+fe066|oh okay.|B|Btr001
+fe069|i think so.|S|Btr001
+fe069|yeah.|S|Btr001
+fe008|yeah that's that's really interesting.|S|Btr001
+fe008|i do find that the german tends to be easier for me than than the others.|S|Btr001
+fe068|uhhuh.|B|Btr001
+fe068|uhhuh.|B|Btr001
+fe008|because of my exposure and interest in german.|S|Btr001
+fe066|uhhuh.|B|Btr001
+fe069|yeah.|B|Btr001
+fe008|but um|F|Btr001
+me070|right.|B|Btr001
+fe066|maybe i haven't transcribed this spanish woman.|S|Btr001
+fe066|i don't know if i have.|S|Btr001
+fe008|i suspect you haven't.|S|Btr001
+fe008|because this was uh earlier on that we had a lot of|D|Btr001
+fe069|uhhuh.|S|Btr001
+fe008|actually she she was in the middle phase i would say.|S|Btr001
+fe008|we had another spanish speaker who was earlier who was also difficult.|S|Btr001
+me070|huh.|B|Btr001
+fe069|uhhuh.|B|Btr001
+fe069|yeah.|B|Btr001
+me070|uhhuh.|B|Btr001
+fe069|yeah he was hard.|S|Btr001
+fe068|yeah.|S|Btr001
+fe008|but that's really interesting.|S|Btr001
+fe068|he got easier though.|S|Btr001
+fe068|because he started like he would say certain words over and over.|S|Btr001
+fe069|yeah.|S|Btr001
+fe068|and|D|Btr001
+fe069|and you got to know his pronunciation of them.|S|Btr001
+fe068|yeah.|S|Btr001
+fe068|so when he said sign yah and it sounds like sign he was saying signal.|S|Btr001
+fe069|i remember yeah.|S|Btr001
+fe008|yes yes yes yes.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|yeah i remember that.|S|Btr001
+fe068|and so i would transcribe it as signal.|S|Btr001
+fe008|exactly.|D|Btr001
+fe066|huh.|D|Btr001
+me070|oh wow!|S|Btr001
+fe069|and and uh the way he said mixed was really strange too.|S|Btr001
+fe067|uh|D|Btr001
+fe008|miss ed.|S|Btr001
+fe068|meexe meese mees uh or something.|S|Btr001
+fe069|miss ed or|D|Btr001
+fe069|yeah.|F|Btr001
+fe008|uhhuh.|B|Btr001
+me070|huh.|B|Btr001
+fe068|right.|S|Btr001
+fe069|yeah.|B|Btr001
+fe008|which was you know you could predict it.|S|Btr001
+fe069|he|D|Btr001
+fe008|i mean if you knew looked back at it.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe066|that's kind of cool.|S|Btr001
+fe069|especially because also in the beginning meetings i mean he'd say something and no one in the meeting would understand.|S|Btr001
+fe008|they|D|Btr001
+fe069|and then everyone would say what was that again.|S|Btr001
+fe068|oh uh|D|Btr001
+fe069|and then they'd pronounce it in english.|S|Btr001
+fe068|yeah.|S|Btr001
+fe069|and so i could figure out what it was.|S|Btr001
+fe068|yeah.|B|Btr001
+fe069|that way.|S|Btr001
+fe008|yeah.|S|Btr001
+fe008|interesting.|S|Btr001
+fe069|yeah.|B|Btr001
+fe008|okay.|S|Btr001
+fe068|yeah i mean he was never like|D|Btr001
+fe068|it was never up to like a native speaker.|S|Btr001
+fe068|but like that it got a little easier.|S|Btr001
+fe068|um|F|Btr001
+fe069|like his english fluency got better?|Q|Btr001
+fe068|i remember in the beginning you had and you were just sort of like you were beating your head against the wall.|S|Btr001
+fe069|oh i went crazy.|S|Btr001
+fe068|but i it but it got better it got better.|S|Btr001
+fe069|i i would skip doing that portion for as long as i could.|S|Btr001
+fe068|yeah i know yeah i remember.|S|Btr001
+fe069|because i just couldn't deal with it.|S|Btr001
+fe068|yeah.|B|Btr001
+fe069|and|F|Btr001
+fe008|yeah i had the same experience.|S|Btr001
+fe069|yeah.|B|Btr001
+fe008|sometimes|D|Btr001
+fe008|and actually|D|Btr001
+fe008|sometimes when people lack a certain level of fluency you can ask them themselves what did you say there.|S|Btr001
+fe008|and they can't tell you.|S|Btr001
+fe069|and they won't know.|S|Btr001
+fe008|i think it's it's sort of a general variability when it's not when you're learning a language and you haven't gotten to a certain level.|S|Btr001
+me070|huh.|B|Btr001
+fe067|uhhuh.|B|Btr001
+fe066|oh.|B|Btr001
+fe069|huh.|B|Btr001
+fe069|uhhuh.|B|Btr001
+me070|uhhuh.|B|Btr001
+fe069|uhhuh.|B|Btr001
+fe069|yeah.|B|Btr001
+me070|yeah.|B|Btr001
+fe008|i also wonder if if it's partly that spanish has different pronunciations in different regions.|S|Btr001
+fe008|i mean do you think that um that uh maybe|D|Btr001
+fe008|i mean being|D|Btr001
+fe008|i mean not that i would know that.|S|Btr001
+me070|huh.|B|Btr001
+fe008|but i just wondered if|D|Btr001
+fe008|um|F|Btr001
+fe008|you know she was from probably continental spain versus you know other spanish.|S|Btr001
+fe008|i wonder if that would have a a contributing factor.|S|Btr001
+me070|i don't know.|S|Btr001
+fe066|oh like the region?|Q|Btr001
+fe069|i have no idea about spain.|S|Btr001
+fe008|yeah.|B|Btr001
+fe069|but i know that in france for example parisian french is much easier for me to understand.|S|Btr001
+fe069|because i learned it.|S|Btr001
+fe069|versus france in like marseilles or in the south or in like the like the villages in the south.|S|Btr001
+fe066|sure.|B|Btr001
+fe066|right.|B|Btr001
+fe069|it's really hard to understand.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe066|menton.|S|Btr001
+fe068|or in quebec.|S|Btr001
+fe008|that's right.|B|Btr001
+fe068|right?|Q|Btr001
+fe068|in canada it'd be|D|Btr001
+fe069|yeah.|S|Btr001
+fe066|right.|B|Btr001
+fe068|it's different.|S|Btr001
+fe069|much different.|S|Btr001
+fe068|a lot of the pronunciations are different.|S|Btr001
+fe069|yeah.|B|Btr001
+fe069|yeah.|B|Btr001
+fe068|yeah.|F|Btr001
+fe008|and in my case with with uh german i a certain region that i do well in.|S|Btr001
+fe008|and then get farther away from that region.|S|Btr001
+me070|yeah.|B|Btr001
+fe069|yeah.|B|Btr001
+fe008|and i notice it's more and more difficult.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe066|there's another language that's spoken in spain too that's um|D|Btr001
+fe008|yeah.|F|Btr001
+fe066|what am i thinking of?|Q|Btr001
+fe068|castillian?|Q|Btr001
+fe066|castillian.|S|Btr001
+fe066|yeah.|S|Btr001
+fe066|and uh|F|Btr001
+fe069|and|D|Btr001
+fe066|um|F|Btr001
+fe069|isn't it catalan?|Q|Btr001
+fe066|catalan.|S|Btr001
+fe069|yeah.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe066|so maybe i mean depending on where she is like maybe|D|Btr001
+fe008|but she was also very low volume.|S|Btr001
+fe008|and um and didn't say a lot.|S|Btr001
+fe069|yeah.|B|Btr001
+fe067|uhhuh.|B|Btr001
+fe008|i mean i i i i totally agree.|S|Btr001
+fe008|this was a a difficult person to to understand.|S|Btr001
+me070|yeah.|B|Btr001
+me070|yeah.|B|Btr001
+me070|well the last one i did she actually said a lot.|S|Btr001
+fe069|yeah.|B|Btr001
+fe008|but|F|Btr001
+me070|and it was kind of it was very hard to transcribe.|S|Btr001
+me070|you|D|Btr001
+me070|it was i just think that um her fluency in english wasn't um wasn't very very high up there.|S|Btr001
+me070|so it was really difficult.|S|Btr001
+fe069|yeah.|B|Btr001
+me070|but i mean i did find that knowing spanish helped me a lot.|S|Btr001
+fe008|i can imagine that.|S|Btr001
+me070|i could tell that a lot of things that the other transcriber had put in parentheses i was like i can see how you how you couldn't understand that.|S|Btr001
+fe068|huh.|B|Btr001
+fe008|yeah.|S|Btr001
+fe066|uhhuh.|B|Btr001
+me070|but i i i think i know what she's doing.|S|Btr001
+fe008|yeah yeah yeah.|S|Btr001
+me070|i mean i think i know the mistake she's making.|S|Btr001
+me070|and|F|Btr001
+fe066|uhhuh.|B|Btr001
+fe069|that's really good.|S|Btr001
+fe008|yeah yeah.|S|Btr001
+fe069|yeah.|F|Btr001
+fe069|because that's definitely something that i wouldn't have be able to do.|S|Btr001
+me070|yeah.|B|Btr001
+fe008|yeah i couldn't do it in spanish.|S|Btr001
+fe008|i've i found myself doing that somewhat in in german.|S|Btr001
+fe069|yeah.|B|Btr001
+fe066|german.|S|Btr001
+me070|in german.|S|Btr001
+me070|yeah.|B|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|there were problems even with um english speakers though.|S|Btr001
+fe069|i mean not in their level of fluency obviously.|S|Btr001
+fe068|uhhuh.|B|Btr001
+fe069|but in|D|Btr001
+me070|uhhuh.|B|Btr001
+fe069|some people tend to mumble.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe067|huh.|B|Btr001
+fe066|yeah.|B|Btr001
+fe008|that's right.|S|Btr001
+fe069|and|D|Btr001
+fe069|and it's hard to catch what it is.|S|Btr001
+fe069|is because it goes by really quickly.|S|Btr001
+fe069|and you can't really tell.|S|Btr001
+fe068|uhhuh.|B|Btr001
+fe069|and|F|Btr001
+fe008|or they're laughing when they're talking.|S|Btr001
+fe069|that too.|S|Btr001
+fe008|or they're|D|Btr001
+me070|uhhuh.|B|Btr001
+fe067|uhhuh.|B|Btr001
+fe069|that too.|S|Btr001
+fe069|yeah.|F|Btr001
+fe069|or just|D|Btr001
+fe069|i don't know.|S|Btr001
+fe069|and some people tend to get interrupted more.|S|Btr001
+fe069|i know that's not something that the person themselves can control.|S|Btr001
+fe066|yeah.|B|Btr001
+fe069|but|D|Btr001
+me070|huh.|B|Btr001
+fe066|if when people talk over one another like constantly like there's this whole barrage of voices coming from everywhere.|S|Btr001
+fe069|um|F|Btr001
+fe069|uhhuh.|B|Btr001
+fe066|it's like oh my god.|S|Btr001
+fe066|what's going on right now.|S|Btr001
+fe069|especially when they're when you were using the the mikes that weren't headmounted mikes.|S|Btr001
+fe066|it's kind of|D|Btr001
+fe008|oh.|S|Btr001
+fe008|yeah.|S|Btr001
+fe069|and there was input from other people on the same channel as the person who was talking.|S|Btr001
+fe066|yeah.|B|Btr001
+fe008|yeah.|S|Btr001
+fe069|and that was really hard to deal with.|S|Btr001
+fe008|we had lapels for|D|Btr001
+fe008|and then sometimes people would wear these around their necks.|S|Btr001
+me070|huh.|B|Btr001
+fe008|which would mean really basically uh a problem that you're saying of getting input from others.|S|Btr001
+fe067|uhhuh.|B|Btr001
+fe069|oh yeah.|S|Btr001
+me070|huh.|B|Btr001
+fe068|right.|B|Btr001
+fe008|and also um it varying when they change their head position.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe069|yeah.|B|Btr001
+fe008|yeah.|F|Btr001
+fe068|right.|S|Btr001
+fe008|but|D|Btr001
+fe068|a big|D|Btr001
+fe068|i i think the transcriptions improved immensely.|S|Btr001
+fe068|like exponentially.|S|Btr001
+fe068|um after it was able to sort of isolate a single person onto a single channel.|S|Btr001
+fe069|yeah.|S|Btr001
+fe008|oh excellent.|S|Btr001
+fe069|absolutely.|S|Btr001
+fe068|um|F|Btr001
+fe008|oh good to know.|S|Btr001
+fe069|yeah.|B|Btr001
+fe068|oh there's no question.|S|Btr001
+fe069|yeah.|B|Btr001
+fe067|oh yeah.|B|Btr001
+fe068|um|F|Btr001
+fe008|so that was you're talking about early on the change into channeltrans.|S|Btr001
+fe068|yeah.|S|Btr001
+fe069|yeah.|S|Btr001
+me070|you guys didn't have one channel per person before?|Q|Btr001
+fe008|uhhuh.|B|Btr001
+fe068|no.|S|Btr001
+fe069|no it was one like one ribbon for everybody.|S|Btr001
+fe068|no.|S|Btr001
+fe066|oh wow.|S|Btr001
+fe067|euh.|B|Btr001
+fe069|and you had to kind of|D|Btr001
+fe069|you could switch signals.|S|Btr001
+fe069|like you could listen to a different one.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|but you couldn't really|D|Btr001
+fe069|well could you?|Q|Btr001
+fe069|did we didn't do that very much.|S|Btr001
+fe066|you couldn't visually isolate it?|Q|Btr001
+me070|what?|Q|Btr001
+fe069|you couldn't visually do it.|S|Btr001
+fe069|no.|S|Btr001
+fe066|huh.|S|Btr001
+fe067|euh.|B|Btr001
+fe068|no.|S|Btr001
+fe069|and|D|Btr001
+fe069|yeah.|F|Btr001
+fe068|and you had to mark interruptions by a slash.|S|Btr001
+fe008|uhhuh.|S|Btr001
+fe008|that's right.|S|Btr001
+fe068|right?|Q|Btr001
+fe069|and it was very hard to be precise about it.|S|Btr001
+fe068|um|F|Btr001
+fe008|overlaps.|S|Btr001
+fe069|and it was very hard to tell.|S|Btr001
+fe069|i had so much trouble at the very beginning trying to figure out who was who.|S|Btr001
+me070|huh.|B|Btr001
+fe068|yeah.|B|Btr001
+fe069|because there's so many men and so few women.|S|Btr001
+fe067|huh.|B|Btr001
+fe069|the women were easy to figure out who was who.|S|Btr001
+fe069|and then the men all their voices sounded the same.|S|Btr001
+fe069|except i think there was one british english speaker.|S|Btr001
+fe069|and that was easy.|S|Btr001
+fe069|but|F|Btr001
+me070|wow that's difficult.|S|Btr001
+fe069|uh yeah.|S|Btr001
+fe068|you know what?|Q|Btr001
+fe068|there might be a gender thing there though too.|S|Btr001
+fe067|yeah.|B|Btr001
+fe068|because i think i think as women it might be easier to differentiate|D|Btr001
+fe068|well there were fewer women too.|S|Btr001
+fe068|but i i wonder if a man transcribing all the guys would have had|D|Btr001
+fe069|yeah.|S|Btr001
+fe069|an easier time?|Q|Btr001
+fe068|like if you had transcribed it you would have had an easier time differentiating them.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe068|i don't know why that would be true.|S|Btr001
+fe008|that's interesting.|S|Btr001
+fe066|that's possible.|S|Btr001
+fe068|but|F|Btr001
+fe069|that's possible.|S|Btr001
+fe068|you wonder if there'd be like a gender difference there?|Q|Btr001
+fe068|i don't know.|S|Btr001
+fe068|i'm thinking about it as like a psychologist i suppose.|S|Btr001
+fe069|i don't know.|S|Btr001
+fe008|it's possible.|S|Btr001
+fe068|anyway.|F|Btr001
+fe066|well it's|D|Btr001
+fe008|huh.|B|Btr001
+fe066|oh yeah.|S|Btr001
+fe066|yeah that's possible.|S|Btr001
+fe008|huh.|B|Btr001
+fe069|yeah.|B|Btr001
+fe066|i was just going to say something.|S|Btr001
+fe066|i was going to say that|D|Btr001
+fe066|i mean it's easier for people to mimic like the timbre of somebody's voice if it's the same if uh that person's voice is the same.|S|Btr001
+fe066|if that person is the same sex as you so maybe like implicitly people pay attention more closely to uh speakers of the same sex.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe068|huh?|Q|Btr001
+fe066|i don't know.|S|Btr001
+fe066|i don't know if that's actually true.|S|Btr001
+fe066|but i'm just throwing that out there.|S|Btr001
+fe008|huh.|B|Btr001
+fe069|it's interesting.|S|Btr001
+fe068|huh.|B|Btr001
+fe069|i don't know.|F|Btr001
+fe008|huh.|B|Btr001
+fe066|kind of an interesting research project.|S|Btr001
+fe008|yeah.|S|Btr001
+fe008|it seems like it's it's related to this production idea.|S|Btr001
+fe008|how you you internalize what you're externalizing in a way.|S|Btr001
+fe008|but|F|Btr001
+fe069|yeah.|B|Btr001
+fe008|yeah.|B|Btr001
+fe069|yeah but it definitely got much better when that change happened.|S|Btr001
+fe068|oh yeah.|S|Btr001
+fe068|it was so it it became much easier.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe068|um|F|Btr001
+fe068|you know.|F|Btr001
+fe008|in the|D|Btr001
+fe008|you've also gone through|D|Btr001
+fe008|they've been here since the beginning.|S|Btr001
+fe008|you've also gone through the use the introduction of the pre segmentation and that kind of thing.|S|Btr001
+fe069|oh yeah.|S|Btr001
+fe068|right.|S|Btr001
+fe008|so initially they had to actually mark all the time bins themselves as well.|S|Btr001
+fe067|wow.|S|Btr001
+fe066|oh.|S|Btr001
+me070|oh wow.|S|Btr001
+fe068|right.|S|Btr001
+fe069|that took a|D|Btr001
+fe068|which wasn't as hard.|S|Btr001
+fe008|yeah.|B|Btr001
+fe068|i mean it took time.|S|Btr001
+fe069|no it just took time yeah.|S|Btr001
+fe068|it took time.|S|Btr001
+me070|yeah.|B|Btr001
+fe008|uhhuh.|B|Btr001
+fe067|huh.|B|Btr001
+fe068|um i find that i have to adjust the time bins a lot anyway.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|me too.|S|Btr001
+fe066|me too.|S|Btr001
+fe069|yeah yeah.|S|Btr001
+me070|yeah.|S|Btr001
+fe068|um|F|Btr001
+me070|i always adjust the time bins.|S|Btr001
+fe067|yeah.|B|Btr001
+fe068|um not for the end of the utterance but for the beginning.|S|Btr001
+fe069|yeah.|B|Btr001
+fe068|sometimes the beginning the person started to say something.|S|Btr001
+fe066|yeah.|S|Btr001
+fe008|i see.|S|Btr001
+fe067|really?|Q|Btr001
+fe068|it's a very slight difference.|S|Btr001
+fe068|and then the time bin starts.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|yeah that happens a lot.|S|Btr001
+me070|yeah right.|B|Btr001
+fe067|huh.|B|Btr001
+fe066|right.|B|Btr001
+fe068|um so you have to just move it back a little bit.|S|Btr001
+fe068|and and i think you mentioned at some point that you wanted a little pad of time anyway.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe008|it doesn't hurt to have a pad.|S|Btr001
+fe008|it's it's nicer to have a pad than not.|S|Btr001
+fe068|yeah.|B|Btr001
+fe069|then to have it be cut off.|S|Btr001
+fe008|but don't have to be really yeah don't doesn't have to be|D|Btr001
+me070|yeah.|B|Btr001
+fe068|don't have it just start.|S|Btr001
+fe068|yeah.|S|Btr001
+me070|i always wonder about the um time bins.|S|Btr001
+fe069|i thought|D|Btr001
+fe068|um so.|F|Btr001
+me070|i mean i usually ended adjusting them a little bit.|S|Btr001
+fe008|yeah.|B|Btr001
+me070|i mean|F|Btr001
+me070|definitely when something's cut off at the beginning or the end.|S|Btr001
+me070|but also sometimes there's just like huge pads of you know air before and or after um that i don't really feel is necessary for that segment.|S|Btr001
+fe008|uhhuh.|B|Btr001
+me070|and i usually um you know shrink it a bit.|S|Btr001
+fe067|huh.|B|Btr001
+fe069|shrink in them or whatever.|S|Btr001
+fe068|uhhuh.|B|Btr001
+fe069|yeah.|B|Btr001
+fe008|nice.|S|Btr001
+me070|and make it a little bit|D|Btr001
+fe067|seems like i always have to cut off pads at the end.|S|Btr001
+fe008|nice.|S|Btr001
+fe067|i don't have so much problem at the beginning.|S|Btr001
+fe067|but|F|Btr001
+fe069|of breath or of uh nothing?|Q|Btr001
+fe067|no of just nothing.|S|Btr001
+me070|just nothing.|S|Btr001
+fe067|yeah.|S|Btr001
+fe069|huh yeah.|B|Btr001
+me070|yeah.|S|Btr001
+fe068|yeah there's nothing going on.|S|Btr001
+fe066|at the beginning it seems to happen when um voicing occurs later.|S|Btr001
+fe069|yeah.|S|Btr001
+fe069|yeah.|S|Btr001
+fe066|you know like|D|Btr001
+fe069|with fricatives a lot.|S|Btr001
+fe066|yeah with fricatives and with like uh|D|Btr001
+fe067|huh.|B|Btr001
+fe066|i mean like it doesn't happen with uh like buh so much.|S|Btr001
+fe066|because you've got the pre voicing before the consonant actually begins.|S|Btr001
+fe069|although i found one in actually i was just working right before this meeting one where someone said great.|S|Btr001
+fe069|and|F|Btr001
+fe069|the the g it was pronounced as a k.|S|Btr001
+fe069|so it was unvoiced.|S|Btr001
+fe069|and then part of the r was cut off in the beginning.|S|Btr001
+fe066|oh.|S|Btr001
+fe069|and then|D|Btr001
+fe069|you it sounded like great.|S|Btr001
+fe069|if you just listened to that time bin it still sounded like great.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe069|but if you listened to right before it you could hear a little the the k or whatever and a little bit of the r.|S|Btr001
+fe066|uhhuh.|B|Btr001
+fe069|so|D|Btr001
+fe069|i don't know.|F|Btr001
+fe066|that's kind of interesting.|S|Btr001
+fe069|usually it's not|D|Btr001
+fe069|usually that doesn't happen.|S|Btr001
+fe069|but this time it did.|S|Btr001
+fe068|so for the non linguists what's a fricative?|Q|Btr001
+fe008|i|D|Btr001
+fe008|uh|D|Btr001
+fe066|oh.|S|Btr001
+fe066|uh it's like fff sss.|S|Btr001
+fe069|or sss.|S|Btr001
+fe069|or|F|Btr001
+me070|yeah.|B|Btr001
+fe068|oh okay.|S|Btr001
+me070|or thh.|D|Btr001
+fe066|shh.|S|Btr001
+me070|it's a sound that|D|Btr001
+fe066|it's like the noisy uh um like airflow ones where you've got like a a stoppage in your mouth.|S|Btr001
+fe066|like uh like your tongue|D|Btr001
+fe069|but it's not completely blocking the airflow.|S|Btr001
+fe068|oh i see.|S|Btr001
+me070|yeah.|S|Btr001
+me070|and you can sort of you can sort of keep it going a little bit.|S|Btr001
+fe066|right.|S|Btr001
+fe068|oh i see.|S|Btr001
+fe068|oh okay.|S|Btr001
+fe067|unlike like a tuh or a kuh that just stops.|S|Btr001
+fe069|yeah.|B|Btr001
+fe069|yeah.|S|Btr001
+fe068|right.|S|Btr001
+fe068|got it.|S|Btr001
+fe066|sorry.|S|Btr001
+fe008|have you|D|Btr001
+fe068|i guess i'm the only non linguist.|S|Btr001
+fe008|well i'm i'm sort of a hybrid.|S|Btr001
+fe008|so i i you know i i appreciate having them do this.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe068|oh right.|S|Btr001
+fe068|yeah oh you|D|Btr001
+fe008|yeah.|S|Btr001
+fe068|yeah.|S|Btr001
+fe008|so um in did you have you run into places|D|Btr001
+fe008|i've run into a couple where actually the word was totally different when you adjusted the time bin.|S|Btr001
+fe008|have you had that happen?|Q|Btr001
+fe069|huh yeah.|S|Btr001
+me070|oh yeah.|S|Btr001
+fe066|yeah.|S|Btr001
+fe008|that's fascinating.|S|Btr001
+me070|yeah.|F|Btr001
+me070|i like that.|S|Btr001
+fe066|yeah.|B|Btr001
+fe008|oh it's really a kick.|S|Btr001
+me070|i think that's fun.|S|Btr001
+fe068|yeah.|B|Btr001
+fe066|and it sometimes changes the entire utterance too.|S|Btr001
+fe069|oh it does.|S|Btr001
+me070|yeah.|S|Btr001
+fe008|yeah.|B|Btr001
+fe069|completely.|S|Btr001
+fe069|yeah.|F|Btr001
+fe069|i i don't remember the words exactly.|S|Btr001
+fe069|it's a shame.|S|Btr001
+fe069|there was one that was a whole sentence was broken up in the middle and there was a little like millisecond of break in the middle.|S|Btr001
+fe069|and|F|Btr001
+fe069|if you connected it all together it completely changed what was right before it and what was right after it.|S|Btr001
+fe069|it was written as something else.|S|Btr001
+fe069|and then it became a word together from what was before and after.|S|Btr001
+fe069|and then with this little tiny millisecond pause.|S|Btr001
+fe069|so i guess i don't know i mean i guess when we talk in between different segments of the word maybe there's pauses somehow.|S|Btr001
+fe069|i guess|D|Btr001
+fe068|huh.|B|Btr001
+fe069|or the you can|D|Btr001
+fe066|we stop voicing sometimes.|S|Btr001
+fe069|yeah.|S|Btr001
+fe069|or something like that.|S|Btr001
+fe069|it's probably like inaudible for us.|S|Btr001
+fe069|but|F|Btr001
+fe069|and maybe the pause was just so short that it made up a pause.|S|Btr001
+fe069|i don't is it that doesn't make any sense.|S|Btr001
+fe069|but|F|Btr001
+fe008|there are some times when there have been words that they just pause right in the middle of.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|you're|D|Btr001
+fe008|it's|D|Btr001
+fe069|on purpose though.|S|Btr001
+fe069|or not.|S|Btr001
+fe008|well|F|Btr001
+fe008|it i'm sure sometimes on purpose.|S|Btr001
+fe008|but sometimes it'd just be saying something and especially people who have really elongation in their style.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|and they say that's really fascinating.|S|Btr001
+fe067|uhhuh.|B|Btr001
+fe008|it's not a great example.|S|Btr001
+fe008|but you know|F|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|and|D|Btr001
+fe008|yeah.|F|Btr001
+fe008|uh there's|D|Btr001
+fe008|it's it's funny how um|D|Btr001
+fe008|it's funny to me that something like that you just change one little boundary and suddenly the whole meaning changes.|S|Btr001
+fe008|and i've run across that also.|S|Btr001
+fe068|uhhuh.|B|Btr001
+me070|uhhuh.|B|Btr001
+fe068|yeah.|B|Btr001
+fe069|yeah that is true.|S|Btr001
+me070|huh would you want um uh a transcription of something like that?|Q|Btr001
+me070|of a big pause in between in the middle of a word.|S|Btr001
+me070|or just leave it as fascinating?|Q|Btr001
+fe008|what i've done i've|D|Btr001
+fe008|it's very rare i mean when i've run across it.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe008|and you know maybe there are times i haven't detected it.|S|Btr001
+fe008|and i'm not you know i haven't looked at everything.|S|Btr001
+fe008|i've looked at i've probably looked at uh at least eighty percent of the data.|S|Btr001
+fe008|you know all the way through every meeting for about eighty percent of the stuff that i've cleared so far.|S|Btr001
+me070|oh!|S|Btr001
+fe008|and um|F|Btr001
+fe008|it you guys are getting so good that it's like i'm i i i can get through them faster and i'm getting to the point where i maybe don't have to go through them all the way.|S|Btr001
+fe008|you know?|Q|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|so it's like it's just we've gotten to a level it's just really great of um of of precision that um it takes a lot of a load off of me.|S|Btr001
+me070|huh.|B|Btr001
+fe008|and um|F|Btr001
+fe008|and so i'm not going to be checking them all i don't think in the for throughout the whole rest of the project.|S|Btr001
+fe008|but um|F|Btr001
+fe008|certainly have spot checking.|S|Btr001
+fe008|but um hhh those that i have found that way to me i think the most sensible way to handle it from my perspective was to treat it as a pronunciation situation.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|so just do a you know a mark then fascinating and then put p r n and uh interrupted by a pause or you know some kind of other gloss like that you know.|S|Btr001
+fe066|uhhuh.|B|Btr001
+fe066|uhhuh.|B|Btr001
+fe066|p r n.|S|Btr001
+fe069|how it was really pronounced.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe069|uhhuh.|B|Btr001
+me070|right.|B|Btr001
+fe068|huh oh right.|S|Btr001
+fe068|uhhuh.|S|Btr001
+fe008|you know p r dot dot fascinating whatever it is.|S|Btr001
+fe069|i always get confused with the pronunciation convention.|S|Btr001
+fe008|sorry what was this?|S|Btr001
+fe069|i get confused with pronunciation like when there's a strange pronunciation that i want to mark.|S|Btr001
+fe008|okay.|B|Btr001
+fe069|because i think|D|Btr001
+fe069|in the beginning did we do the strange pronunciation and then write p r n and what it really was meant to be?|Q|Btr001
+fe069|and now we're doing the normal word and then inside the brackets what it sounded like?|Q|Btr001
+fe068|right.|S|Btr001
+fe069|we did a switch right?|S|Btr001
+fe069|or not.|S|Btr001
+fe069|i don't know if it's just me that's confused or if it was|D|Btr001
+fe008|well i've|D|Btr001
+fe068|uhhuh.|B|Btr001
+fe068|i it it never occurred to me but now that you're mentioning it yeah yeah possibly.|S|Btr001
+fe008|there was an adjustment.|S|Btr001
+fe008|and i and i've switched them all all the way at this point so that|D|Btr001
+fe069|okay.|B|Btr001
+fe069|okay.|S|Btr001
+fe069|so the convention as it stands now is write the word as it is normally conventionally spelled in english with the little apostrophe or whatever you call it.|S|Btr001
+fe008|yeah.|B|Btr001
+fe008|yep.|S|Btr001
+fe008|uhhuh that's right.|S|Btr001
+fe069|and then p r n.|S|Btr001
+fe008|and then in the brackets what it|D|Btr001
+fe069|how it's pronounced.|S|Btr001
+fe008|uhhuh.|S|Btr001
+fe008|so you know okay is a very easy example.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|a person says huh kay.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|then|D|Btr001
+fe067|oh.|B|Btr001
+fe008|it's okay with a a little hatch.|S|Btr001
+fe008|and then p r n and then huh kay or whatever it is in quotes.|S|Btr001
+fe068|oh right.|S|Btr001
+fe069|okay.|S|Btr001
+fe066|oh right.|S|Btr001
+fe068|i think nelson's the only one who uh|D|Btr001
+fe068|oh morgan.|S|Btr001
+fe068|you guys call him morgan.|S|Btr001
+fe008|yeah yeah.|S|Btr001
+fe068|he's the only one who ever did that i think.|S|Btr001
+fe068|huh kay.|S|Btr001
+fe069|he does it a lot.|S|Btr001
+me070|huh kay.|S|Btr001
+me070|i|D|Btr001
+fe068|he does it a|D|Btr001
+fe066|okay.|B|Btr001
+fe068|yeah.|S|Btr001
+me070|yeah.|F|Btr001
+me070|and some people just say kay.|S|Btr001
+fe068|um|F|Btr001
+fe069|yeah.|S|Btr001
+fe068|kay.|S|Btr001
+fe068|yeah that's true.|S|Btr001
+fe008|yeah that's right.|S|Btr001
+fe066|yeah.|B|Btr001
+fe008|and of course you know i mean there's also this other reduction that that we've done in terms of like not capturing every time a person says and versus nnn versus you know nd whatever.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|all the different ways of reducing and.|S|Btr001
+fe068|that's true.|S|Btr001
+fe008|because you can assume that the speech recognition um uh pronunciation models will handle a certain amount of reductions of these types.|S|Btr001
+fe008|and the same thing for um well the the versus the.|S|Btr001
+fe008|that there are those known variants and|D|Btr001
+fe069|uhhuh.|B|Btr001
+me070|uhhuh.|B|Btr001
+fe069|or a versus a.|S|Btr001
+fe008|exactly.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe068|uhhuh.|B|Btr001
+fe008|and that they should be able to handle themselves.|S|Btr001
+fe008|and and that we assume also that for discourse purposes those distinctions are not really the focus right now.|S|Btr001
+fe008|and those distinctions could be added later if needed.|S|Btr001
+fe008|but it's unlikely that they would be.|S|Btr001
+fe008|and it's so time consuming.|S|Btr001
+fe066|uhhuh.|B|Btr001
+fe008|so we've made these these simplifying assumptions with that.|S|Btr001
+fe008|and so then you begin to think well what about okay.|S|Btr001
+fe008|i mean maybe huh kay is an appropriate variant for okay.|S|Btr001
+fe008|and it wouldn't be necessary to mark those either.|S|Btr001
+fe008|so it's it's definitely there's a uh choice of how far you go with that and whether kay is is enough of a variant.|S|Btr001
+fe068|uhhuh.|B|Btr001
+fe067|huh.|B|Btr001
+fe008|you know it's this is a case where um i appreciate it when people mark those kinds of things.|S|Btr001
+fe008|but i i sort of figure that that that's not as far away from okay as huh kay is.|S|Btr001
+fe008|so it's not quite so|D|Btr001
+me070|uhhuh.|B|Btr001
+fe069|huh.|B|Btr001
+fe008|but i don't change it back if it's there.|S|Btr001
+fe068|uhhuh.|B|Btr001
+fe066|i think with like some of them like you know with uh the difference between the and the you can you can distinguished very uh definitively like what context they're going to be used in.|S|Btr001
+fe008|you know?|Q|Btr001
+fe008|yes.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|uhhuh.|B|Btr001
+fe066|like um like you would say the apple.|S|Btr001
+fe066|because it's the plus then the next word starts with a vowel.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe066|or the cat because it's next word starts with a|D|Btr001
+fe069|yeah.|B|Btr001
+fe069|there's a study done on when people say uh and when people say um.|S|Btr001
+fe066|yeah i'm sure it's|D|Btr001
+fe069|also there's in contextual variation.|S|Btr001
+me070|oh really?|Q|Btr001
+fe069|and it's predictable apparently.|S|Btr001
+fe067|huh.|B|Btr001
+fe066|uhhuh.|B|Btr001
+fe069|i haven't read the|D|Btr001
+me070|i was trying to figure that out myself a couple times.|S|Btr001
+fe069|it's really interesting.|S|Btr001
+fe066|but something like|D|Btr001
+me070|and i couldn't get anything.|S|Btr001
+fe066|yeah.|B|Btr001
+fe069|yeah.|B|Btr001
+fe008|uhhuh.|B|Btr001
+fe008|interesting.|S|Btr001
+me070|i kept looking at all the uh's and um's and i was like oh this would be hard to do.|S|Btr001
+fe069|yeah.|B|Btr001
+fe008|oh that's interesting.|S|Btr001
+fe069|you know what's on that sort of similar topic i just thought of something that's been hard for me sometimes is you can have a pronunciation of of the word a as a.|S|Btr001
+fe008|huh?|Q|Btr001
+fe008|yeah.|B|Btr001
+fe069|and then you can have uh like a pause or whatever as uh.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe069|and sometimes it's hard to tell what the person meant.|S|Btr001
+fe069|are did they mean uh like they're pausing?|Q|Btr001
+fe066|huh yeah.|B|Btr001
+fe069|or did they mean a like a person?|Q|Btr001
+fe066|yeah.|B|Btr001
+fe008|yeah.|B|Btr001
+fe066|i've run into that.|S|Btr001
+me070|really?|Q|Btr001
+fe008|yeah.|S|Btr001
+fe066|yeah.|S|Btr001
+fe069|yeah.|F|Btr001
+fe068|right.|S|Btr001
+fe067|huh?|Q|Btr001
+fe008|once in a while.|S|Btr001
+fe069|and|F|Btr001
+me070|i don't usually get|D|Btr001
+fe069|you can kind of tell from the context.|S|Btr001
+fe069|but sometimes it's hard.|S|Btr001
+fe008|yes.|S|Btr001
+me070|right.|B|Btr001
+fe069|yeah.|F|Btr001
+fe068|yeah that came up a couple of times.|S|Btr001
+fe008|yeah i|F|Btr001
+fe069|yeah.|B|Btr001
+me070|huh.|B|Btr001
+fe068|yeah.|F|Btr001
+fe008|i agree.|S|Btr001
+fe008|and and when i when i'm totally in doubt if there's a case where it really could be either and i could flip a coin i'll choose the one that would make syntactically the most sense.|S|Btr001
+fe069|uhhuh.|B|Btr001
+me070|uhhuh.|B|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|give them the benefit of the doubt that they're being fluent about it.|S|Btr001
+fe069|uhhuh.|B|Btr001
+me070|uhhuh.|B|Btr001
+fe066|sometimes i'll put in like a bracket like uh you know the orthographic a slash u h like if i'm really confused.|S|Btr001
+fe069|like you can't tell.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|uhhuh.|B|Btr001
+fe066|yeah.|S|Btr001
+fe066|kind of go well there's two.|S|Btr001
+fe066|so here.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|it must be really rare though.|S|Btr001
+fe008|i haven't run across that often.|S|Btr001
+fe008|is it rare?|Q|Btr001
+fe068|huh huh.|B|Btr001
+fe066|a few times.|S|Btr001
+fe069|a few.|S|Btr001
+fe069|it's really|D|Btr001
+fe069|yeah.|D|Btr001
+fe008|okay.|D|Btr001
+fe068|it's rare.|S|Btr001
+fe069|relatively rare.|S|Btr001
+fe067|i don't think i ever have.|S|Btr001
+fe069|yeah.|B|Btr001
+fe069|yeah.|F|Btr001
+fe069|i mean i can only think of like two or three occasions where i sat and thought about it for a while.|S|Btr001
+me070|huh.|B|Btr001
+fe069|other times just you figure you look at it and what's the context.|S|Btr001
+fe069|yeah.|F|Btr001
+fe069|it's okay.|S|Btr001
+fe069|i don't know.|S|Btr001
+fe066|right.|B|Btr001
+fe008|okay well let's see now.|S|Btr001
+fe008|there's another another|D|Btr001
+fe008|what i i want to ask you at some point it just occurred to me i'd like to ask you the following question maybe you can have this in the back of your minds something like um you know what sorts of hypothesis your hypothesis about the you know trying to find the distributional explanations for some of these things.|S|Btr001
+fe068|huh?|Q|Btr001
+me070|right.|B|Btr001
+fe008|what kind of uh hypotheses have has this caused you|D|Btr001
+fe008|uh i mean don't want to have you give away a paper topic that you want to explore.|S|Btr001
+fe008|but|F|Btr001
+fe008|you know if there's interesting uh hypotheses that the that have been suggested to you by looking at the data.|S|Btr001
+fe008|that kind of thing maybe uh at some point.|S|Btr001
+fe008|so|F|Btr001
+fe068|hnh.|B|Btr001
+fe008|and oh and i also want to say that um i'd like to meet again also next week.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|um and i don't know if this is a good time frame.|S|Btr001
+fe008|uh maybe it'd be good to have it an hour later.|S|Btr001
+fe008|or i don't know i mean could do anything.|S|Btr001
+fe066|this is fine.|S|Btr001
+fe069|this time is fine for me.|S|Btr001
+fe008|about|D|Btr001
+me070|yeah this is a good time for me.|S|Btr001
+fe008|good time for you?|Q|Btr001
+fe068|it should be.|S|Btr001
+fe008|okay.|S|Btr001
+fe068|um i know i have something in the morning which i don't normally have.|S|Btr001
+fe068|i don't remember off the top of my head when it ends.|S|Btr001
+fe068|um i'll let you know if it's it'll be a problem.|S|Btr001
+fe068|but it should be okay.|S|Btr001
+fe008|okay.|S|Btr001
+fe068|two thirty should be late enough.|S|Btr001
+fe068|so|F|Btr001
+fe008|okay.|S|Btr001
+fe008|excellent.|S|Btr001
+fe008|because we could probably move it one hour later.|S|Btr001
+fe066|in|D|Btr001
+fe008|i mean i think unless|D|Btr001
+fe066|i was just going to say maybe fifteen minutes later would help me a little bit.|S|Btr001
+fe066|just because i have a class up at dwinelle just before this.|S|Btr001
+fe008|oh i see.|S|Btr001
+fe066|that's why i was a little late today.|S|Btr001
+fe008|wow!|S|Btr001
+fe008|you did really well.|S|Btr001
+fe066|because|D|Btr001
+fe008|yeah.|F|Btr001
+fe066|thanks.|S|Btr001
+fe066|well i took the bus for part of the way.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|oh did you?|Q|Btr001
+fe008|okay okay.|S|Btr001
+fe066|but um that might help me just a little bit.|S|Btr001
+fe066|because then it i you know i'm going to going to be hobbling a little slowly.|S|Btr001
+fe069|then you don't have to rush.|S|Btr001
+fe008|would anybody be constrained by having it be a full half hour later?|Q|Btr001
+fe069|hnh nn.|S|Btr001
+fe068|no.|S|Btr001
+me070|no.|S|Btr001
+fe008|okay.|S|Btr001
+fe008|and the final question|D|Btr001
+fe066|no.|S|Btr001
+fe068|except we'll miss treat time.|S|Btr001
+me070|oh!|S|Btr001
+fe066|tea!|S|Btr001
+fe008|oh that's right.|S|Btr001
+fe008|oh i thought she said mistreat time.|S|Btr001
+fe066|oh no!|S|Btr001
+fe068|maybe we could have like a like a half hour then take a little break.|S|Btr001
+me070|yeah.|B|Btr001
+fe069|mistreat oh!|S|Btr001
+me070|yeah.|B|Btr001
+fe068|then come back and finish the|D|Btr001
+me070|well that's that's some good motivation to not start a half hour later.|S|Btr001
+fe069|you know what we could do?|Q|Btr001
+fe008|yeah you know that's that's that's an interesting|D|Btr001
+fe069|we could just ask the someone like the front desk person or lila to like set aside a little bit for us.|S|Btr001
+fe066|that's so funny.|S|Btr001
+fe068|little bit of treats.|S|Btr001
+fe008|hey they would.|S|Btr001
+fe066|oh that's true.|S|Btr001
+fe067|uhhuh.|B|Btr001
+fe008|yeah they would.|S|Btr001
+me070|yeah.|B|Btr001
+fe008|that's that's not a bad solution.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe068|it's not going to be birthday cake.|S|Btr001
+fe068|so|F|Btr001
+fe069|yeah so we'll survive.|S|Btr001
+fe068|yeah.|B|Btr001
+fe008|yeah that's right.|S|Btr001
+fe066|this is very important.|S|Btr001
+fe008|it's already done.|S|Btr001
+fe008|it's good to good to have these things all scheduled.|S|Btr001
+fe008|okay.|F|Btr001
+fe008|so um|F|Btr001
+fe008|oh.|S|Btr001
+fe008|uh uh then i was going to ask you what about an hour later?|Q|Btr001
+fe008|i mean if we had those things an hour later.|S|Btr001
+fe008|like would people|D|Btr001
+fe066|this is fine with me.|S|Btr001
+fe008|okay.|S|Btr001
+fe069|that's fine too.|S|Btr001
+fe068|yeah.|S|Btr001
+fe008|okay good.|S|Btr001
+fe067|huh.|B|Btr001
+me070|yeah that's fine.|S|Btr001
+fe008|all right so i'll i'll settle on that.|S|Btr001
+fe069|yeah.|B|Btr001
+fe008|okay now i wanted to say you've been through a couple of different uh improvements in the methods the pre segmentation.|S|Btr001
+fe008|there was another another improvement in that|D|Btr001
+fe008|well let's ask if it was an improvement from your standpoint.|S|Btr001
+fe008|uh the tigerfish um approach.|S|Btr001
+fe008|so|F|Btr001
+fe008|uh moving from having the first transcription done by an external service and then you correcting that versus doing the initial transcription yourselves.|S|Btr001
+fe008|how have you|D|Btr001
+fe066|oh.|S|Btr001
+fe008|and so i think you yeah i think you did you|D|Btr001
+me070|i don't think i have ever done one from an external|D|Btr001
+fe008|has there already been|D|Btr001
+fe066|i have.|S|Btr001
+me070|i i feel like they've all been done probably by another transcriber here.|S|Btr001
+fe066|you talking about the i b m ones?|Q|Btr001
+fe008|yeah i b m or if if it was dash t f.|S|Btr001
+fe008|that's the tigerfish.|S|Btr001
+fe068|right.|S|Btr001
+fe066|right.|S|Btr001
+fe066|yeah.|S|Btr001
+fe066|oh yeah yeah.|S|Btr001
+me070|oh yeah then i guess i have.|S|Btr001
+me070|maybe the one i'm working on now.|S|Btr001
+fe066|i could tell you something that i thought.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|so|D|Btr001
+me070|they have different definitely a different style right?|S|Btr001
+me070|do they end all them all in dots?|Q|Btr001
+fe066|yeah.|S|Btr001
+me070|like dot dot.|S|Btr001
+fe008|there's a lot of that.|S|Btr001
+fe068|yes.|S|Btr001
+fe069|yeah.|S|Btr001
+fe067|they used to.|S|Btr001
+fe069|uhhuh.|B|Btr001
+me070|and they and they capitalize like every single first|D|Btr001
+fe066|i really|D|Btr001
+fe008|yeah.|S|Btr001
+fe069|and they put|D|Btr001
+fe069|um not parentheses.|S|Btr001
+fe069|what's it called?|Q|Btr001
+fe069|punctuation after brackets.|S|Btr001
+fe008|yeah.|S|Btr001
+fe008|that's right too.|S|Btr001
+fe066|yep.|S|Btr001
+me070|oh okay.|S|Btr001
+me070|yeah then i'm doing that right now.|S|Btr001
+fe068|right.|S|Btr001
+fe068|oh right.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|yeah.|B|Btr001
+fe068|laugh period.|S|Btr001
+fe069|yeah.|S|Btr001
+me070|yeah.|S|Btr001
+fe068|something like that right?|D|Btr001
+fe066|right.|B|Btr001
+fe069|yeah.|B|Btr001
+me070|which makes no sense to me.|S|Btr001
+fe069|no it doesn't to me either.|S|Btr001
+me070|like that's not a syntactic part of that sentence.|S|Btr001
+fe008|yeah.|B|Btr001
+fe066|if|D|Btr001
+fe069|but|F|Btr001
+fe069|no.|S|Btr001
+fe008|exactly.|S|Btr001
+fe008|exactly.|S|Btr001
+fe008|i'm glad you|D|Btr001
+fe068|yeah.|B|Btr001
+fe008|yeah exactly.|S|Btr001
+fe068|well they're not linguists.|S|Btr001
+fe066|if|D|Btr001
+me070|uhhuh.|B|Btr001
+fe068|so|F|Btr001
+fe069|no.|S|Btr001
+fe066|if i could be completely frank i really didn't like the i b m ones.|S|Btr001
+fe008|yeah.|B|Btr001
+fe008|oh good to know.|S|Btr001
+fe066|yeah|F|Btr001
+fe069|i didn't either.|S|Btr001
+fe008|oh that's helpful.|S|Btr001
+fe066|i found them to be just|D|Btr001
+fe066|i just i i ended up basically redoing them.|S|Btr001
+fe008|okay.|S|Btr001
+fe067|huh.|B|Btr001
+fe066|um like from start to finish.|S|Btr001
+fe068|i don't know if i did one.|S|Btr001
+fe066|so when i was checking them like it would take me basically as long as it would have taken me to just to transcribe it by myself.|S|Btr001
+fe008|wow.|S|Btr001
+fe068|huh.|B|Btr001
+me070|huh.|B|Btr001
+fe008|wow!|S|Btr001
+fe069|i think it was a little bit faster than just transcribing it.|S|Btr001
+fe008|wow.|S|Btr001
+fe008|okay.|S|Btr001
+me070|yeah.|B|Btr001
+fe069|but i definitely saw a lot of|D|Btr001
+fe066|i'm really picky.|S|Btr001
+fe069|there was a lot of errors that are not in the tigerfish ones.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe066|yeah tigerfish are better.|S|Btr001
+fe069|yeah.|B|Btr001
+fe069|and they just have better intuitions or i don't know what but about what's said.|S|Btr001
+me070|which are what are the two differences?|Q|Btr001
+me070|i'm not sure.|S|Btr001
+fe008|i'm not sure if you had an i b m one.|S|Btr001
+fe008|so this was earlier on.|S|Btr001
+me070|so do i have a tigerfish one right now?|Q|Btr001
+fe067|huh.|B|Btr001
+fe069|if it says t f.|S|Btr001
+fe066|if it says t f.|S|Btr001
+fe008|you probably do.|S|Btr001
+me070|uhhuh.|S|Btr001
+me070|okay.|S|Btr001
+fe066|yeah.|F|Btr001
+fe066|the ones that say i b m are like they actually say i b m.|S|Btr001
+me070|so i don't think i've ever|D|Btr001
+me070|the i b m ones were the ones that came in huge huge paragraphs huh?|S|Btr001
+fe066|yes.|S|Btr001
+fe069|yeah and we had to split them up.|S|Btr001
+me070|see i never got one of those.|S|Btr001
+fe066|yeah and you have to parse them all down.|S|Btr001
+me070|right.|S|Btr001
+fe066|yeah yeah yeah yeah.|S|Btr001
+me070|okay.|S|Btr001
+me070|yeah.|S|Btr001
+me070|uhhuh yeah i didn't ever get one of those.|S|Btr001
+fe008|so you didn't get one.|S|Btr001
+fe008|oh interesting.|S|Btr001
+me070|no i'm glad i didn't.|S|Btr001
+fe066|okay.|S|Btr001
+fe067|i didn't get one either.|S|Btr001
+fe068|i think those show up in tigerfish too.|S|Btr001
+fe068|because i think i've had a couple of tigerfish where i've had to break them up.|S|Btr001
+fe069|where they have|D|Btr001
+fe069|yeah but they're not like|D|Btr001
+me070|they're not|D|Btr001
+me070|yeah i can remember i used to see|D|Btr001
+fe069|they're not huge huge though.|S|Btr001
+fe068|a couple were.|S|Btr001
+fe069|really?|Q|Btr001
+fe068|yeah.|S|Btr001
+fe069|oh.|S|Btr001
+fe068|and i had to sort of break them down.|S|Btr001
+fe069|oh.|S|Btr001
+me070|do they get them um|D|Btr001
+fe069|i don't know.|F|Btr001
+me070|is|D|Btr001
+me070|they don't have like an interface right?|S|Btr001
+me070|they just|D|Btr001
+fe008|no.|S|Btr001
+fe008|in neither case.|S|Btr001
+fe008|and i'm and i'm thinking i'm thinking you're causing me to think back over what the differences were in the what they got.|S|Btr001
+me070|yeah.|S|Btr001
+fe008|and i b m didn't|D|Btr001
+me070|yeah.|B|Btr001
+me070|they just have they just have it segmented.|S|Btr001
+fe008|yeah.|B|Btr001
+me070|you can tell because sometimes they have it so wrong.|S|Btr001
+me070|and it's like well if you had just listened to what was before.|S|Btr001
+fe069|yeah.|S|Btr001
+fe066|yeah.|S|Btr001
+fe069|but they don't have that option.|S|Btr001
+me070|yeah but they don't have that.|S|Btr001
+me070|yeah i figured that they didn't.|S|Btr001
+fe066|right.|S|Btr001
+fe069|yeah.|B|Btr001
+fe068|right.|B|Btr001
+fe008|there's also some iffiness about how if|D|Btr001
+fe008|we're not sure really how tigerfish does it.|S|Btr001
+fe008|you know the methodology.|S|Btr001
+fe008|how do they do this?|Q|Btr001
+me070|huh.|B|Btr001
+fe008|because sometimes you'll have the the same word|D|Btr001
+fe008|and i've seen this like within|D|Btr001
+fe008|well within a single turn it'll be spelled in three different ways.|S|Btr001
+fe008|and it's like you know is this the same person who's kind of forgetful.|S|Btr001
+fe066|huh.|B|Btr001
+me070|uhhuh.|B|Btr001
+fe008|or is it that they have several people doing it together?|Q|Btr001
+fe008|you know maybe it's parallel.|S|Btr001
+fe068|right.|B|Btr001
+me070|right.|B|Btr001
+fe008|maybe they're all doing it in parallel.|S|Btr001
+fe008|and one falls behind and the other one.|S|Btr001
+me070|yeah.|B|Btr001
+fe066|oh that's interesting.|S|Btr001
+fe008|but who knows?|Q|Btr001
+fe069|and they don't|D|Btr001
+fe069|one person doesn't listen to all the channels of one meeting.|S|Btr001
+fe069|right?|Q|Btr001
+fe069|so they can't get clues from the other channels?|Q|Btr001
+fe008|well you know the the way they're listening to it is they they get a they get|D|Btr001
+fe069|or can they?|Q|Btr001
+fe069|i don't know.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|it's linearized.|S|Btr001
+fe008|so if you picture what we have on the screen.|S|Btr001
+fe008|um you know there's this block and it goes over|D|Btr001
+fe008|i'm doing it from my perspective.|S|Btr001
+fe008|you have this block.|S|Btr001
+fe008|and it goes over to here and stops.|S|Btr001
+fe008|and this person starts to talk.|S|Btr001
+fe008|and he goes over to here.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|and then you have an overlap over here.|S|Btr001
+fe008|and so what they would get is this block from the first guy.|S|Btr001
+fe008|this block from the second guy.|S|Btr001
+fe008|and then the top of the overlap.|S|Btr001
+fe008|and then the second guy in the overlap.|S|Btr001
+fe069|oh.|S|Btr001
+me070|oh wow.|S|Btr001
+fe068|huh.|S|Btr001
+fe008|and then it would move on.|S|Btr001
+fe067|huh.|B|Btr001
+fe008|so it's sort of like this you know you go this way as much as you can.|S|Btr001
+fe008|then you cycle through there.|S|Btr001
+fe008|and then you go up to this next level.|S|Btr001
+me070|so they hear all the channels at once like you guys were saying you first did?|Q|Btr001
+fe008|and|F|Btr001
+fe069|oh okay.|S|Btr001
+fe008|um|F|Btr001
+fe008|let's see.|F|Btr001
+fe008|they hear them|D|Btr001
+fe008|oh.|S|Btr001
+fe008|uh they hear them separately in two chunks.|S|Btr001
+fe008|but then sometimes they get confused about who the foreground speaker is because they're not being told who the foreground speaker is.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|you know.|F|Btr001
+fe008|and especially you can see if you have like four speakers it be you can maybe find a way of doing that.|S|Btr001
+fe008|but with nine speakers|D|Btr001
+fe066|eee yeah.|S|Btr001
+fe008|so what they get is they get a beep that tells them when there's something that they think that the pre segmenter thought there should be transcribed in there.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe066|uhhuh.|B|Btr001
+fe067|huh.|B|Btr001
+fe008|and so they'll get|D|Btr001
+fe008|and it's numbered so that we end up with the same number of of transcribed slots.|S|Btr001
+fe069|as there are slots in the pre segmentation.|S|Btr001
+fe008|exactly.|S|Btr001
+fe069|uhhuh.|S|Btr001
+fe008|because the first time when we didn't have them numbered we ended up with a couple extra segments that were transcribed.|S|Btr001
+fe008|and it was hard to patch the whole thing back together.|S|Btr001
+fe069|uhhuh.|B|Btr001
+me070|huh.|B|Btr001
+fe008|because when it comes back to our end um it's just this long string of things that they've uh partitioned according to the tape that they were given.|S|Btr001
+fe066|uhhuh.|B|Btr001
+fe008|because they don't they actually don't have digital interface either.|S|Btr001
+fe008|so it's it's audiotape.|S|Btr001
+fe067|oh wow.|S|Btr001
+fe069|oh wow.|S|Btr001
+fe068|huh?|Q|Btr001
+fe066|oh.|S|Btr001
+me070|huh wow.|S|Btr001
+fe008|and they type it on.|S|Btr001
+fe068|makes it really hard.|S|Btr001
+fe008|and then then it comes back to us.|S|Btr001
+me070|wow.|S|Btr001
+fe008|and adam and thilo have a program they put it back together into our interface format.|S|Btr001
+fe008|and then we can use it.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe008|but|F|Btr001
+fe008|um|F|Btr001
+fe008|um there are cases where you'll get a segment and it's someone else's utterance.|S|Btr001
+fe008|and that's because that was overlapping with someone else and this is the weaker speaker of the two.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|and you'll have like two totally parallel renditions of the same thing.|S|Btr001
+fe069|yeah.|B|Btr001
+fe008|because it's just|D|Btr001
+fe068|right.|B|Btr001
+fe008|so what they get is like is they get something like beep one.|S|Btr001
+fe008|and then then they get beep two beep three.|S|Btr001
+fe008|chuck wooters does the numbers.|S|Btr001
+fe008|and um it cycles through.|S|Btr001
+fe068|wow.|S|Btr001
+fe068|oh so they don't|D|Btr001
+fe068|do they know the names of the speakers?|Q|Btr001
+fe008|no.|S|Btr001
+fe068|oh okay.|S|Btr001
+fe008|and they don't know which channel is supposed to be together.|S|Btr001
+fe068|because|D|Btr001
+fe068|okay.|S|Btr001
+fe066|huh.|B|Btr001
+fe068|because sometimes there'd just be interesting things where there'd be a misunderstanding about like|D|Btr001
+fe068|like|D|Btr001
+fe068|morgan would be speaking but it'd be on your channel.|S|Btr001
+fe068|and it'd be like this is clearly not a woman speaking.|S|Btr001
+fe008|yes.|S|Btr001
+fe008|exactly.|S|Btr001
+me070|huh.|B|Btr001
+fe069|yeah.|B|Btr001
+fe008|yeah that's quite right.|S|Btr001
+fe068|it's like how could they do that.|S|Btr001
+fe008|and that's why.|S|Btr001
+fe068|it's like well now it's it seems more reasonable that they'd make a mistake like that if they had no idea.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|exactly right.|S|Btr001
+fe066|okay.|B|Btr001
+fe069|yeah.|B|Btr001
+fe067|huh.|B|Btr001
+fe069|god it must take them a really long time to do these.|S|Btr001
+me070|huh.|B|Btr001
+fe008|yeah.|B|Btr001
+fe068|um|F|Btr001
+fe008|they're very fast.|S|Btr001
+fe069|that's amazing.|S|Btr001
+fe008|is|D|Btr001
+fe008|yeah.|S|Btr001
+fe069|it sounds so hard.|S|Btr001
+fe008|yeah.|S|Btr001
+fe008|it it turns out that they're really much faster than the other approaches we've used.|S|Btr001
+fe008|and we don't know exactly how they do it.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|and i think that that's by intention that not just me who thinks that it's that proprietarily it's a very competitive business.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|and they probably don't want to uh say too much about it.|S|Btr001
+fe067|huh.|B|Btr001
+me070|huh.|B|Btr001
+fe066|right.|B|Btr001
+fe069|leak their secrets?|Q|Btr001
+fe008|yeah.|S|Btr001
+fe008|yeah.|S|Btr001
+fe008|but they're very fast.|S|Btr001
+fe008|it's uh|D|Btr001
+fe069|well i|D|Btr001
+fe069|i definitely prefer not doing the transcript.|S|Btr001
+fe069|i mean i liked transcribing because i felt like i was much closer to the data.|S|Btr001
+fe008|yeah.|S|Btr001
+fe069|and i had a lot more ideas like you were saying hypotheses of what's going on.|S|Btr001
+fe008|huh.|B|Btr001
+fe069|and|F|Btr001
+me070|uhhuh.|B|Btr001
+fe067|huh.|B|Btr001
+fe069|but it took a really long time and i'd get frustrated with it.|S|Btr001
+fe069|and i think that i would lose my|D|Btr001
+fe066|yeah.|B|Btr001
+fe069|i don't know.|F|Btr001
+fe069|i would not be as thorough.|S|Btr001
+fe069|not be as careful.|S|Btr001
+me070|i kind of miss it.|S|Btr001
+fe008|excellent.|S|Btr001
+fe008|uhhuh.|B|Btr001
+me070|i liked|D|Btr001
+fe008|you miss|D|Btr001
+me070|yeah.|S|Btr001
+fe008|oh i see.|S|Btr001
+me070|i liked transcribing.|S|Btr001
+fe067|i kind of did too.|S|Btr001
+fe068|yeah i liked transcribing.|S|Btr001
+fe008|oh interesting.|S|Btr001
+fe069|uhhuh.|B|Btr001
+me070|i you know i feel i feel like it was um more personal.|S|Btr001
+me070|i was|D|Btr001
+fe069|it was more personal.|S|Btr001
+me070|you know the this is sort of just you know correcting other|D|Btr001
+fe069|yeah.|S|Btr001
+me070|i feel like i'm just sort of like correcting a test or something now.|S|Btr001
+fe069|uhhuh.|B|Btr001
+me070|you know?|Q|Btr001
+me070|that somebody's already done.|S|Btr001
+fe008|oh how interesting.|S|Btr001
+me070|and|F|Btr001
+me070|but i mean it's still it's still cool.|S|Btr001
+fe008|yeah.|S|Btr001
+fe069|yeah.|B|Btr001
+me070|but um|F|Btr001
+me070|yeah i did i did like actually doing the transcribing a little bit more.|S|Btr001
+fe069|you don't tend to notice as much i don't think at checking as you do transcribing.|S|Btr001
+fe069|because it's already there.|S|Btr001
+fe069|so you don't have to pay as much attention.|S|Btr001
+fe066|that's true.|S|Btr001
+me070|yeah.|S|Btr001
+fe008|yeah.|B|Btr001
+fe008|okay.|B|Btr001
+me070|yeah.|F|Btr001
+me070|and when you're when you're um just checking you're you're usually just looking for certain things that you know are going to come up.|S|Btr001
+fe067|huh.|B|Btr001
+me070|and i usually assume that um the words are mostly right.|S|Btr001
+me070|although i you know i go through and i look and make sure all the words are right.|S|Btr001
+me070|but usually it's like punctuation and capitalization and other things that i'm end up changing.|S|Btr001
+fe069|and time bin corrections and things.|S|Btr001
+me070|and time bins.|S|Btr001
+fe069|yeah.|B|Btr001
+me070|yeah.|S|Btr001
+fe069|yeah.|B|Btr001
+fe066|i guess i'm such a perfectionist that i sort of combine the two when i'm checking.|S|Btr001
+fe066|like i act as though i'm transcribing it.|S|Btr001
+fe069|huh.|B|Btr001
+me070|really?|Q|Btr001
+fe066|and so|F|Btr001
+fe066|yeah i really do.|S|Btr001
+fe066|like i'm i tend to take a little longer maybe than other people doing checking.|S|Btr001
+fe066|but like i i'm like ultra careful.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe066|i that's just how i am.|S|Btr001
+fe066|but like i|D|Btr001
+fe066|i think i really like think of it in terms of re transcribing it almost.|S|Btr001
+me070|yeah.|B|Btr001
+fe066|and i only you know|D|Btr001
+fe067|huh.|B|Btr001
+fe066|so|F|Btr001
+fe066|like i i change time bins a lot.|S|Btr001
+fe066|and i like will change what people write like for whatever words they write a lot.|S|Btr001
+fe069|uhhuh.|B|Btr001
+me070|right.|B|Btr001
+me070|uhhuh.|B|Btr001
+fe066|like|F|Btr001
+fe066|so i guess i don't see too much of a difference.|S|Btr001
+fe066|but that's just because it's me.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe066|like i think i like checking more for that reason.|S|Btr001
+fe066|because then it's sort of it's like it's a it's a little helpful.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe066|it's like kind of you know somebody's helping me a little bit.|S|Btr001
+fe066|but i'm actually doing the work anyway.|S|Btr001
+fe069|uhhuh.|B|Btr001
+me070|right.|B|Btr001
+fe066|is kind of how i see it.|S|Btr001
+fe069|huh.|B|Btr001
+fe067|huh.|B|Btr001
+me070|huh.|B|Btr001
+fe008|yeah.|B|Btr001
+fe069|one thing that's annoying i think with checking is that a lot of times in the meetings you tend to have one or two people who talk a lot and the rest of the people just sit there until it's their turn to give their little report or whatever.|S|Btr001
+fe068|uhhuh.|B|Btr001
+fe067|huh.|B|Btr001
+fe066|right.|S|Btr001
+fe069|and yet you have to check the channels for if they did backchannels or if they did other things that you need to encode that weren't on the pre segmenter.|S|Btr001
+fe069|but sometimes it's not visually easy.|S|Btr001
+me070|yeah.|B|Btr001
+fe069|and so|F|Btr001
+fe069|i'm|D|Btr001
+fe069|sometime i debate with myself whether it's really worth it to sit there and listen to the whole thing or risk missing a little bit and doing it visually.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|it's hard to decide sometimes.|S|Btr001
+fe008|and this is when you crank up the visual.|S|Btr001
+fe068|uhhuh.|B|Btr001
+fe008|i mean you've still got the maximum|D|Btr001
+fe069|yeah.|S|Btr001
+fe069|uhhuh.|S|Btr001
+me070|yeah.|S|Btr001
+fe008|yeah okay.|B|Btr001
+fe069|yeah.|S|Btr001
+me070|well sometimes when you crank up the visual all it gives you is the background speakers.|S|Btr001
+fe066|yeah.|B|Btr001
+fe069|and|D|Btr001
+fe069|yeah.|S|Btr001
+fe008|yeah it's true.|S|Btr001
+fe067|yeah.|S|Btr001
+fe069|that's the thing.|S|Btr001
+fe008|it's true.|S|Btr001
+fe069|that's the thing that makes it harder sometimes.|S|Btr001
+fe066|yeah.|B|Btr001
+fe008|it's just a big mess.|S|Btr001
+fe067|or if they're breathing loudly.|S|Btr001
+me070|so|D|Btr001
+fe008|yeah.|B|Btr001
+me070|yeah.|B|Btr001
+fe069|yeah.|B|Btr001
+fe008|yeah that's right.|S|Btr001
+fe008|well it's a judgment call.|S|Btr001
+fe008|and you can also say well you know if the backchannels were so so low on volume that they weren't visually obvious then you can say well it's reasonable not to worry about them.|S|Btr001
+fe069|yeah.|B|Btr001
+me070|yeah.|B|Btr001
+me070|the i mean|D|Btr001
+me070|but also if they have it all pre segmented and they can only hear the segments they often miss what's in between.|S|Btr001
+me070|because they didn't even have the option of listening to what's in between.|S|Btr001
+fe069|you mean the transcribers?|Q|Btr001
+fe066|right.|B|Btr001
+fe069|yeah.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe067|yeah.|B|Btr001
+me070|so and you know the the segmenter usually misses little things like uhhuh and yeah.|S|Btr001
+fe008|yeah that's right that's quite right.|S|Btr001
+me070|and|F|Btr001
+fe008|yeah that's right.|S|Btr001
+fe069|and even bigger things.|S|Btr001
+me070|yeah.|S|Btr001
+me070|sometimes the segmenter will|D|Btr001
+fe069|i mean you've said things that weren't caught on the pre segmenter.|S|Btr001
+fe069|like whispers kind of.|S|Btr001
+fe066|yeah.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe069|just like oh that's interesting.|S|Btr001
+fe008|okay.|B|Btr001
+fe069|or something like that.|S|Btr001
+fe066|well like little sighs.|S|Btr001
+fe066|or like inbreaths.|S|Btr001
+fe066|like as though you're going to start speaking.|S|Btr001
+fe069|yeah.|S|Btr001
+fe069|you're about to speak.|S|Btr001
+fe066|which i feel is important.|S|Btr001
+fe068|uh|D|Btr001
+fe008|yes.|S|Btr001
+fe008|i agree.|S|Btr001
+fe067|huh.|B|Btr001
+fe066|because it means that somebody's about to interject something.|S|Btr001
+fe066|but then they decide for whatever reason that they're not going to.|S|Btr001
+fe069|but then they don't.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|yeah.|B|Btr001
+fe066|and oftentimes i find that the segmenter will miss those kind of things.|S|Btr001
+fe066|those kind of vocal cues.|S|Btr001
+fe069|and sometimes even laughs.|S|Btr001
+fe066|yeah breath laughs especially.|S|Btr001
+fe068|oh yeah.|S|Btr001
+me070|yeah.|B|Btr001
+fe069|uhhuh.|B|Btr001
+fe069|uhhuh.|B|Btr001
+fe067|oh yeah.|S|Btr001
+me070|huh.|B|Btr001
+me070|i usually take out|D|Btr001
+me070|um i usually don't put in any of the breaths unless they're laughs.|S|Btr001
+me070|i usually don't transcribe the the inbreaths or things like that.|S|Btr001
+fe069|i don't either.|S|Btr001
+fe069|but i mean i don't take them out if they're already there.|S|Btr001
+me070|you know.|D|Btr001
+fe069|i don't|D|Btr001
+fe008|yeah it's it's good to|D|Btr001
+fe068|if it sounds like a yawn|D|Btr001
+fe068|i've transcribed yawns.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe008|yeah.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe066|yeah.|B|Btr001
+fe068|um|F|Btr001
+fe068|you can hear there's like.|S|Btr001
+fe068|you know?|Q|Btr001
+fe068|it like something like that.|S|Btr001
+fe069|yeah.|S|Btr001
+me070|yeah.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|it well it's communicative.|S|Btr001
+fe068|uh|F|Btr001
+fe008|yeah.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe068|yeah.|B|Btr001
+fe068|or when it's a laugh.|S|Btr001
+me070|yeah.|B|Btr001
+fe068|i mean often in the tigerfish there'd it would say breath.|S|Btr001
+fe068|but it it it actually seemed more like a laugh.|S|Btr001
+fe008|yeah.|S|Btr001
+fe067|it's really a laugh.|S|Btr001
+me070|it's a laugh yeah.|S|Btr001
+fe069|but it's a laugh.|S|Btr001
+fe066|it's actually a breath laugh.|S|Btr001
+fe069|yeah.|S|Btr001
+fe069|and you can|D|Btr001
+fe068|um|F|Btr001
+fe068|because everyone's laughing.|S|Btr001
+fe068|someone has just said something funny.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe068|and everyone's like uh ha ha ha ha.|S|Btr001
+fe069|and everyone else is laughing.|S|Btr001
+fe069|and then the other person is like ha ha.|S|Btr001
+fe066|right.|S|Btr001
+fe068|yeah.|B|Btr001
+fe069|but it's not a actual laugh.|S|Btr001
+fe068|right.|S|Btr001
+fe069|but like|D|Btr001
+fe068|it's it's not a very committed laugh.|S|Btr001
+fe069|i don't know how you do it.|S|Btr001
+me070|right.|B|Btr001
+fe066|right.|S|Btr001
+fe068|but it's still a laugh.|S|Btr001
+fe069|you know?|Q|Btr001
+fe066|it's no like.|S|Btr001
+fe066|yeah it's like.|S|Btr001
+fe066|yeah.|B|Btr001
+fe068|yeah i guess i'll laugh because everyone else is laughing.|S|Btr001
+fe068|but yeah.|F|Btr001
+fe008|have you noticed that|D|Btr001
+fe008|i've noticed that tigerfish uses cough a lot where it isn't really a cough.|S|Btr001
+fe068|it should be clear throat or something.|S|Btr001
+fe008|you notice that?|Q|Btr001
+fe008|yeah.|F|Btr001
+me070|yeah yeah.|S|Btr001
+fe066|oh yeah.|S|Btr001
+fe067|huh.|B|Btr001
+fe069|oh yeah.|S|Btr001
+fe069|uhhuh.|S|Btr001
+fe068|yeah i i just fix that.|S|Btr001
+fe069|uhhuh.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|yeah.|S|Btr001
+me070|i'd fix that too.|S|Btr001
+fe008|yeah.|B|Btr001
+fe008|do you find|D|Btr001
+fe008|you've|D|Btr001
+fe008|this has caused me to wonder.|S|Btr001
+fe008|so in tigerfish ones do you find that where they've where they have like dot dot's because it's segments they didn't hear that that you add|D|Btr001
+fe008|you probably do add things in those places where it's where nothing is transcribed really because they didn't even hear it.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe069|you mean in between the segments that they did transcribe?|Q|Btr001
+fe008|yeah.|S|Btr001
+me070|oh yeah.|S|Btr001
+fe069|yeah.|S|Btr001
+fe069|that's where you tend to find|D|Btr001
+me070|uhhuh.|S|Btr001
+fe008|interesting.|S|Btr001
+fe008|oh interesting.|S|Btr001
+me070|yeah you find little lost lost words in the middle.|S|Btr001
+fe069|yeah.|B|Btr001
+fe069|yeah.|B|Btr001
+me070|huh.|B|Btr001
+fe008|huh.|B|Btr001
+fe069|it's it depends on the person.|S|Btr001
+fe069|i mean some people don't tend to do aren't that involved in the meeting or something.|S|Btr001
+fe069|and they don't tend to say as much.|S|Btr001
+fe068|huh.|B|Btr001
+me070|uhhuh.|B|Btr001
+fe069|um backchannels or whatever.|S|Btr001
+fe069|and some people|D|Btr001
+fe069|i mean|F|Btr001
+fe069|i remember transcribing one person.|S|Btr001
+fe069|all they did was clear their throat and breathe.|S|Btr001
+fe066|yeah.|S|Btr001
+fe069|and then read digits.|S|Btr001
+fe069|and then it was like the end of the meeting.|S|Btr001
+fe066|yo.|F|Btr001
+fe068|i think i know who you're talking about.|S|Btr001
+fe068|but|D|Btr001
+fe069|so|F|Btr001
+fe069|but then some people tend to|D|Btr001
+fe066|there's one guy in particular who does that.|S|Btr001
+fe066|it's really cute actually.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe068|uh|D|Btr001
+fe069|uhhuh.|B|Btr001
+fe069|but then there are some people who are even if they're not actually speaking you can tell they're more involved or interested or something.|S|Btr001
+fe008|yeah.|B|Btr001
+fe069|because they're always uhhuh oh yeah really uhhuh um reacting yeah.|S|Btr001
+fe066|reacting.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe066|yeah.|B|Btr001
+fe008|it just occurred to me|D|Btr001
+fe008|this is a a different kind of question.|S|Btr001
+fe008|but i|D|Btr001
+fe008|from having listened to all these people|D|Btr001
+fe008|is kind of abnormal to be listening to them as if you're they're talking into your ear really.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|you know it's this really unusual acoustic circumstances.|S|Btr001
+fe067|huh.|B|Btr001
+fe066|right.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe008|um|F|Btr001
+fe008|i sort of end up feeling like i know these people better than i really do.|S|Btr001
+fe008|and it's like you go out to tea and there they are.|S|Btr001
+fe066|yeah.|B|Btr001
+fe008|and oh you were so funny in that meeting.|S|Btr001
+fe008|and it it has this sort of unusual dynamic.|S|Btr001
+fe008|because you know i i'm privy to information which really by all rights i shouldn't be.|S|Btr001
+fe067|huh.|B|Btr001
+fe008|except of course they they agreed.|S|Btr001
+fe069|yeah.|B|Btr001
+fe008|they signed.|S|Btr001
+fe008|they were there.|S|Btr001
+fe008|they agreed.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe069|right.|B|Btr001
+fe067|huh.|B|Btr001
+fe069|yeah.|B|Btr001
+fe008|but but it but it's sort of an unusual relationship to say|D|Btr001
+fe008|you know you know|F|Btr001
+fe008|if you're in the meeting yourself then you of course you'd have access to all this information and all your inferences about you know whether they're funny or not funny or whatever.|S|Btr001
+fe069|i remember from the very beginning i would go to tea and start recognizing voices.|S|Btr001
+fe008|but it|D|Btr001
+fe008|oh that'd be interesting.|S|Btr001
+fe069|and like turn around and be like wait that person doesn't look anything like i imagined them.|S|Btr001
+fe068|yeah.|S|Btr001
+fe066|yep.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe066|yeah yeah.|S|Btr001
+fe008|yes.|S|Btr001
+fe069|uh|D|Btr001
+fe066|you know who i kept wanting to meet was bhaskara.|S|Btr001
+fe069|nnn.|S|Btr001
+fe008|he's he's on campus.|S|Btr001
+fe008|i found this out.|S|Btr001
+fe066|is he really?|Q|Btr001
+fe008|yeah yeah yeah yeah.|S|Btr001
+fe066|he has such a nice voice.|S|Btr001
+fe066|i really like his voice.|S|Btr001
+fe008|yeah.|S|Btr001
+fe008|nice guy.|S|Btr001
+fe008|nice guy.|S|Btr001
+fe066|so i kept wanting to meet him.|S|Btr001
+fe066|and then john told me that he's not around anymore.|S|Btr001
+fe008|oh but he is.|S|Btr001
+fe068|huh.|B|Btr001
+fe066|or something.|S|Btr001
+fe008|i went on i actually went on a hike with him two weeks three weeks ago.|S|Btr001
+fe066|so|F|Btr001
+fe066|neat.|S|Btr001
+fe068|oh cool.|S|Btr001
+fe066|just curious.|S|Btr001
+fe008|yeah.|F|Btr001
+fe008|yeah yeah yeah.|F|Btr001
+fe008|nice guy.|S|Btr001
+fe068|i just wanted to know what liz looked like.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe068|i've never gotten to see her.|S|Btr001
+fe069|nn huh.|B|Btr001
+fe008|oh she's here.|S|Btr001
+me070|i haven't seen most of them.|S|Btr001
+fe066|i haven't either.|S|Btr001
+fe068|she's got a nice voice.|S|Btr001
+fe068|i know she's here.|S|Btr001
+fe068|i know she's a big part of the institute right?|S|Btr001
+fe068|so|F|Btr001
+fe008|yeah i'm sure you've seen her.|S|Btr001
+fe068|um|F|Btr001
+fe008|uh but|F|Btr001
+fe068|i must have.|S|Btr001
+fe068|i just don't know who you know what she looks like.|S|Btr001
+fe069|yeah.|B|Btr001
+fe068|um|F|Btr001
+fe068|yeah i think she's got a nice voice.|S|Btr001
+fe008|uhhuh.|S|Btr001
+fe068|but anyway.|F|Btr001
+fe008|yeah.|B|Btr001
+fe069|she always tends to get interrupted.|S|Btr001
+me070|huh.|B|Btr001
+fe068|it's okay if we say nice things about these people.|S|Btr001
+fe066|yeah.|B|Btr001
+fe068|right?|Q|Btr001
+fe008|yeah yeah that's no problem.|S|Btr001
+fe008|i also find that some of the|D|Btr001
+fe008|you know if someone sits there and and|D|Btr001
+fe008|it there's this one who doesn't say much.|S|Btr001
+fe008|but she just is always pleasant.|S|Btr001
+fe008|you know?|Q|Btr001
+fe008|and it's kind of a smiling voice and she laughs.|S|Btr001
+fe066|yes.|S|Btr001
+fe008|and|D|Btr001
+fe066|i i think i know who you're talking about.|S|Btr001
+fe008|what a difference.|S|Btr001
+fe008|yeah.|F|Btr001
+fe008|i mean it's like|D|Btr001
+fe008|actually it's|D|Btr001
+fe008|um she's she's just so pleasant.|S|Btr001
+fe008|and and you know adds a lot just by virtue of that.|S|Btr001
+me070|yeah.|B|Btr001
+fe008|you know can people will talk on all these technical things.|S|Btr001
+fe008|but she'll she'll say something technical and then laugh.|S|Btr001
+fe008|and|F|Btr001
+fe008|it's it's very interesting the ambience that you can get through these these little things.|S|Btr001
+fe066|yeah.|B|Btr001
+fe069|it's really makes it a lot nicer to transcribe.|S|Btr001
+fe069|because there can be a lot of heated discussions about these very technical issues.|S|Btr001
+fe066|yeah.|B|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|and people will have their opinions.|S|Btr001
+fe069|and you know|F|Btr001
+fe069|and then you can|D|Btr001
+fe069|it's really nice to have a little bit of humor.|S|Btr001
+fe069|a little bit of break away from that.|S|Btr001
+fe066|uhhuh.|B|Btr001
+fe067|huh.|B|Btr001
+fe069|because it's hard to sit there and see like but don't you see you're being rude to this person you're cutting off this person.|S|Btr001
+fe066|i know.|S|Btr001
+fe069|and it's not nice.|S|Btr001
+fe066|i started like kind of making mental friends.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe066|i'm just like i really like that person.|S|Btr001
+fe066|you know what.|S|Btr001
+fe066|i'm going to be his or her friend.|S|Btr001
+fe008|i agree with you.|S|Btr001
+fe066|and then|D|Btr001
+fe008|i agree.|S|Btr001
+fe069|yeah.|B|Btr001
+fe008|it's it's really interesting also.|S|Btr001
+fe067|huh.|B|Btr001
+fe008|it's a persona.|S|Btr001
+fe008|you get this|D|Btr001
+fe067|huh.|B|Btr001
+fe069|yeah.|S|Btr001
+fe008|there's definitely a sense of persona.|S|Btr001
+fe069|you definitely get an image of|D|Btr001
+fe069|uh especially if you can relate it to what the person or what you assume the person is uh interested in academically.|S|Btr001
+fe008|yeah.|S|Btr001
+fe066|yeah.|B|Btr001
+me070|yeah.|B|Btr001
+fe008|yeah.|B|Btr001
+fe069|it's really|D|Btr001
+fe066|some of that computer stuff i just|D|Btr001
+fe066|oh my god.|S|Btr001
+fe066|i'll just sit there like going oh fff.|S|Btr001
+fe066|it's going right over my head.|S|Btr001
+fe069|yeah.|B|Btr001
+fe066|yeah.|F|Btr001
+fe066|i just i start zoning out sometimes.|S|Btr001
+fe066|like i don't mean to.|S|Btr001
+fe066|but i'm just kind of going i don't know what any of these acronyms are.|S|Btr001
+fe069|yeah.|S|Btr001
+fe066|and no idea what you're talking about.|S|Btr001
+fe069|and there was a whole set of meetings that are like that.|S|Btr001
+fe068|uhhuh.|B|Btr001
+fe008|that's right.|S|Btr001
+fe069|it wasn't there?|Q|Btr001
+fe066|yeah.|S|Btr001
+fe069|yeah.|S|Btr001
+fe069|those were really hard.|S|Btr001
+me070|oh yeah.|B|Btr001
+fe066|and they're writing stuff on boards and stuff that we can't see.|S|Btr001
+fe069|really hard.|D|Btr001
+fe069|yeah.|S|Btr001
+fe069|and it's hard.|S|Btr001
+fe066|and so we don't know what they're referring to.|S|Btr001
+fe068|right.|S|Btr001
+fe068|yeah all you hear is the squeaky pen.|S|Btr001
+fe066|and so|F|Btr001
+fe069|yeah.|S|Btr001
+fe068|and you're like oh no.|S|Btr001
+fe066|right.|B|Btr001
+fe068|something something's going on that i don't know.|S|Btr001
+fe066|yeah they're referring to this or that and the other thing.|S|Btr001
+fe066|and you're just going no.|S|Btr001
+fe069|yeah.|B|Btr001
+fe066|i don't understand.|S|Btr001
+fe069|no.|B|Btr001
+fe008|yeah it's difficult.|S|Btr001
+fe068|yeah you guys talked about doing a videotape.|S|Btr001
+fe008|yes.|S|Btr001
+fe008|um it's mainly a matter of two things.|S|Btr001
+fe068|sort of|D|Btr001
+fe008|first is the storage it'd be so huge that uh you'd want to be sure that it was of interest to someone.|S|Btr001
+fe008|that it would be worthwhile doing.|S|Btr001
+fe069|uhhuh.|S|Btr001
+fe008|and that's the other thing that we don't have.|S|Btr001
+fe008|someone currently doing the video thing.|S|Btr001
+fe008|it would really be interesting.|S|Btr001
+fe068|yeah.|S|Btr001
+fe068|because i know it was mentioned.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe068|also having a meeting where you all wore blindfolds.|S|Btr001
+fe008|yeah.|B|Btr001
+me070|oh?|Q|Btr001
+fe066|really?|Q|Btr001
+fe068|it was liz's idea.|S|Btr001
+fe068|wasn't it?|Q|Btr001
+fe008|that was liz's idea.|S|Btr001
+fe068|yeah.|S|Btr001
+fe069|what would be the point of that?|Q|Btr001
+fe008|oh well it's a question of feedback and being able to give feedback.|S|Btr001
+fe069|oh.|S|Btr001
+me070|oh wow.|S|Btr001
+fe069|i think that would be really interesting.|S|Btr001
+fe066|oh i see.|S|Btr001
+me070|that would be interesting.|S|Btr001
+fe066|so you have to do it vocally as opposed to visually?|Q|Btr001
+fe066|like you can't use gesture.|S|Btr001
+fe008|yeah.|S|Btr001
+fe008|exactly.|S|Btr001
+fe067|oh.|S|Btr001
+fe066|uh.|S|Btr001
+fe008|yeah.|F|Btr001
+me070|wow.|S|Btr001
+fe008|and you know i mean that was the meeting where um you know the the partitions wouldn't work.|S|Btr001
+fe008|another possibility is partitions wouldn't work.|S|Btr001
+fe008|because then it would cut off the p z m's from having the indirect.|S|Btr001
+fe069|right.|B|Btr001
+me070|huh.|B|Btr001
+fe008|so it's like you have these unusual configuration problems that that you wouldn't normally have.|S|Btr001
+fe066|right.|B|Btr001
+fe008|yeah blindfolds.|S|Btr001
+fe008|you know and someone else said well maybe you could just turn the light out.|S|Btr001
+fe068|there you go.|S|Btr001
+fe069|that'd be kind of creepy.|S|Btr001
+fe008|but then someone else said no.|S|Btr001
+fe066|cute.|D|Btr001
+fe008|because there are these special lights that have to stay on all the time.|S|Btr001
+fe069|oh.|S|Btr001
+fe067|oh.|S|Btr001
+fe066|oh.|S|Btr001
+fe008|for the fire code or whatever it is.|S|Btr001
+me070|oh wow.|S|Btr001
+fe069|oh.|S|Btr001
+fe008|but then|D|Btr001
+fe068|i would just be so worried that someone would cheat.|S|Btr001
+fe068|you know?|Q|Btr001
+fe068|it's sort of like a prisoners' prisoners' dilemnas game where you know everyone's wearing their blindfold but someone could just cheat and look see what's see what's going on.|S|Btr001
+fe008|that's right.|B|Btr001
+fe066|are you raising your hand?|Q|Btr001
+fe068|yeah.|B|Btr001
+fe066|totally.|S|Btr001
+fe068|you know someone just leaves.|S|Btr001
+fe068|you know.|F|Btr001
+fe068|gets coffee.|S|Btr001
+fe066|right right right.|D|Btr001
+fe068|comes back.|S|Btr001
+fe068|and no one knows.|S|Btr001
+fe066|gets bored.|S|Btr001
+fe008|yeah.|S|Btr001
+fe008|i mean there are other things we could expand on and with in terms of the methodology.|S|Btr001
+fe008|it's nice to have a core set of data though.|S|Btr001
+fe008|and they've actually done some they've had some good results in terms of the digits.|S|Btr001
+fe008|which they do in terms of having a a nice broad set of speakers doing the same thing meeting after meeting after meeting.|S|Btr001
+fe066|uhhuh.|B|Btr001
+fe067|huh.|B|Btr001
+fe008|so um|F|Btr001
+fe069|that's good.|S|Btr001
+fe008|i'm wondering|D|Btr001
+fe008|um|F|Btr001
+fe008|so we still technically|D|Btr001
+fe008|uh you know i mean what should we do in terms of tea?|Q|Btr001
+fe008|technically|D|Btr001
+fe068|uhhuh.|B|Btr001
+fe008|if we could hang on for fifteen more minutes and have tea?|Q|Btr001
+fe066|yeah.|S|Btr001
+fe069|that's okay.|S|Btr001
+fe008|and then continue with this this next next week?|Q|Btr001
+fe068|yeah sure.|S|Btr001
+fe069|uhhuh.|S|Btr001
+me070|okay.|S|Btr001
+fe068|oh yeah.|S|Btr001
+fe069|it's okay.|S|Btr001
+fe008|that'd be great.|S|Btr001
+fe008|okay.|F|Btr001
+fe008|so um|F|Btr001
+fe008|let's see.|F|Btr001
+fe069|i had something that i could bring up.|S|Btr001
+fe008|yes.|S|Btr001
+fe069|um|F|Btr001
+fe069|as far as ideas about looking at the data and getting ideas about whatever you said hypotheses about how to figure it out.|S|Btr001
+fe008|yes.|S|Btr001
+fe008|yeah.|S|Btr001
+fe069|one thing that i i'm you probably don't remember this that i was really interested in is the use of so and the use of or.|S|Btr001
+fe069|because the way people use it in these meetings i found was|D|Btr001
+fe069|i don't know if it was it if it's different than other people.|S|Btr001
+fe069|i don't know if it's a computer speech thing.|S|Btr001
+fe069|i mean computer people speech thing.|S|Btr001
+fe069|but um|F|Btr001
+me070|huh.|B|Btr001
+fe069|people tend to end utterances quite often with so or or and trailing off.|S|Btr001
+fe066|oh yes.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe067|huh.|B|Btr001
+fe066|a couple people in particular do that.|S|Btr001
+fe069|yeah.|S|Btr001
+fe008|uhhuh.|S|Btr001
+fe066|yeah.|S|Btr001
+fe069|uhhuh.|S|Btr001
+fe008|that's right.|S|Btr001
+fe069|and i found that really interesting.|S|Btr001
+fe069|and i was curious to to figure out when that happened.|S|Btr001
+fe069|if it happened in certain occasions and whatever.|S|Btr001
+fe069|and i never really got around to it.|S|Btr001
+fe069|but|F|Btr001
+fe008|do you people|D|Btr001
+fe068|uhhuh.|B|Btr001
+fe008|i mean does everyone agree with that|D|Btr001
+fe008|i mean i i share her intuition that's it's it is sort of unusual to have so used as a final uh part of a person's turn.|S|Btr001
+me070|oh yeah.|S|Btr001
+fe008|i mean it's|D|Btr001
+fe069|it didn't sound|D|Btr001
+me070|huh.|B|Btr001
+fe068|uhhuh.|B|Btr001
+fe069|i mean it doesn't sound like bizarre enough that i don't understand.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe069|but i don't think it's something that happens in just everyday speech really.|S|Btr001
+fe066|i don't|D|Btr001
+me070|i don't|D|Btr001
+fe066|no i don't agree necessarily.|S|Btr001
+fe069|really?|Q|Btr001
+fe008|i was wondering|D|Btr001
+fe066|i do it.|S|Btr001
+fe069|really?|Q|Btr001
+fe066|yeah.|S|Btr001
+fe066|i trail off with so.|S|Btr001
+fe069|huh?|Q|Btr001
+fe066|um|F|Btr001
+fe066|i don't necessarily do it as often as the one speaker i'm thinking of.|S|Btr001
+fe066|um|F|Btr001
+fe066|but i do do that because|D|Btr001
+fe066|i think partly because i want to make sure that people know that my my thought my utterance is finished.|S|Btr001
+fe069|yeah.|S|Btr001
+me070|right.|B|Btr001
+fe066|but that it's not necessarily final.|S|Btr001
+fe069|like that you're flexible?|Q|Btr001
+fe066|like you can|D|Btr001
+fe066|right.|S|Btr001
+fe066|or you can build on it.|S|Btr001
+me070|right.|S|Btr001
+fe066|or expound on it.|S|Btr001
+fe069|uhhuh.|B|Btr001
+me070|i think it's sort of a like you guys can take from here.|S|Btr001
+me070|you know?|Q|Btr001
+me070|somebody somebody build on my thought.|S|Btr001
+fe066|yeah.|S|Btr001
+fe067|yeah.|B|Btr001
+me070|it's are you people also do it with but.|S|Btr001
+fe066|it's kind of like a shrug.|S|Btr001
+fe069|yeah but it tends to happen|D|Btr001
+fe066|it's like a it's like a|D|Btr001
+me070|you know?|Q|Btr001
+fe069|i mean so tends to happen when the person brings up a new idea that kind of goes against what the other people is saying.|S|Btr001
+fe066|so|D|Btr001
+fe069|or at least that's what i found.|S|Btr001
+fe066|what do you mean?|Q|Btr001
+fe069|like if someone in a meeting is talking about a certain thing and someone kind of interrupts or doesn't necessarily interrupt and says something either a new topic or a different take on the same topic will tend to use will trail off with so.|S|Btr001
+fe067|oh.|S|Btr001
+fe066|oh oh oh yeah okay.|D|Btr001
+fe067|huh.|B|Btr001
+fe066|uhhuh.|B|Btr001
+fe067|uh like|D|Btr001
+fe067|so you can see you might be wrong.|S|Btr001
+fe067|but i don't want to actually say that.|S|Btr001
+fe008|yes that's possible.|S|Btr001
+fe069|yeah.|S|Btr001
+fe067|uhhuh.|B|Btr001
+fe069|kind of.|S|Btr001
+fe069|yeah yeah.|S|Btr001
+fe008|yeah.|S|Btr001
+fe068|huh?|Q|Btr001
+fe008|yeah.|S|Btr001
+fe008|interesting.|S|Btr001
+fe069|yeah.|B|Btr001
+fe069|and or tends to be used with questions more than so.|S|Btr001
+fe068|yeah.|B|Btr001
+fe067|huh.|B|Btr001
+me070|that's true.|S|Btr001
+fe069|but.|D|Btr001
+fe069|i thought that was really interesting.|S|Btr001
+fe066|or|D|Btr001
+fe066|i've heard you say so in that sort of sense.|S|Btr001
+fe066|like uh um so in other words blah blah blah blah.|S|Btr001
+fe008|uhhuh.|S|Btr001
+fe066|like a sort of an|D|Btr001
+fe008|of course|D|Btr001
+fe066|uh uh|F|Btr001
+fe008|but that's not really an example of this.|S|Btr001
+fe008|because they don't just say so.|S|Btr001
+fe066|right.|S|Btr001
+me070|nnn.|B|Btr001
+fe066|but|D|Btr001
+fe066|that's true.|S|Btr001
+fe008|is that right?|Q|Btr001
+me070|ending with so.|S|Btr001
+fe008|i mean i just want to be sure.|S|Btr001
+fe066|or i maybe i'm misunderstanding what you were|D|Btr001
+me070|when you end with so.|S|Btr001
+fe069|when you end the utterance.|S|Btr001
+fe066|when|D|Btr001
+me070|when you say something|D|Btr001
+fe066|oh just just ending with so.|S|Btr001
+fe008|yeah.|B|Btr001
+me070|right.|S|Btr001
+me070|and you say so.|S|Btr001
+fe069|yeah.|B|Btr001
+fe066|okay.|S|Btr001
+fe008|yeah.|S|Btr001
+fe008|i i could get all those extra signatures.|S|Btr001
+me070|it|D|Btr001
+fe008|but i don't know.|S|Btr001
+fe008|so.|S|Btr001
+me070|yeah.|B|Btr001
+fe069|right.|B|Btr001
+fe066|yeah to me it's like a vocal shrug.|S|Btr001
+me070|it's|D|Btr001
+fe069|yeah.|S|Btr001
+fe008|that's a very nice characterization.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|interesting.|S|Btr001
+fe069|i'd definitely like to look more at that if i can.|S|Btr001
+fe069|but|F|Btr001
+fe066|that's cool.|S|Btr001
+fe067|huh huh.|B|Btr001
+me070|i think people end in but a lot too.|S|Btr001
+me070|and i feel that that means that they want somebody else to take it up.|S|Btr001
+fe066|uhhuh.|B|Btr001
+me070|or somebody just sort of like you know take it from here.|S|Btr001
+fe069|oh yeah.|S|Btr001
+fe069|uhhuh.|B|Btr001
+me070|so you know blah blah blah blah blah.|S|Btr001
+me070|but.|S|Btr001
+fe069|but i'm not really sure.|S|Btr001
+fe008|once again a|D|Btr001
+fe069|so you can you could finish my thought.|S|Btr001
+me070|yeah so|F|Btr001
+fe008|is it a shrug?|Q|Btr001
+fe008|would you say it's another shrug?|Q|Btr001
+me070|um|F|Btr001
+fe008|or|D|Btr001
+fe069|it's a different kind of shrug though.|S|Btr001
+me070|i feel like it i feel like it sort of um asks for somebody else to uh put input in now.|S|Btr001
+fe008|okay.|B|Btr001
+fe066|yeah.|B|Btr001
+fe066|i could see that.|S|Btr001
+fe069|i think it shows less of confident like less confidence in what they just said.|S|Btr001
+fe067|uhhuh.|B|Btr001
+fe008|okay.|B|Btr001
+fe068|or giving permission?|Q|Btr001
+me070|yeah.|B|Btr001
+fe008|okay.|B|Btr001
+me070|yeah.|B|Btr001
+fe069|in a way.|S|Btr001
+fe066|same with i don't know.|S|Btr001
+fe069|yeah.|S|Btr001
+fe066|you can also end an utterance with uh blah blah blah.|S|Btr001
+fe066|but i don't know.|S|Btr001
+fe067|huh.|B|Btr001
+fe069|yeah.|B|Btr001
+fe066|like that.|S|Btr001
+fe068|uhhuh.|B|Btr001
+fe069|yeah.|B|Btr001
+fe066|like i feel like maybe that's similar to but.|S|Btr001
+fe069|yeah.|S|Btr001
+me070|uhhuh.|B|Btr001
+fe069|more similar than to so i think.|S|Btr001
+fe008|yeah that's interesting.|S|Btr001
+fe066|to so.|S|Btr001
+fe066|yeah.|S|Btr001
+fe066|i think so too.|S|Btr001
+fe008|huh?|Q|Btr001
+fe008|huh?|Q|Btr001
+fe008|interesting.|S|Btr001
+fe008|what about um the way people treat when they give a joke?|Q|Btr001
+fe008|i mean and and they're like they laugh.|S|Btr001
+fe008|and then after the laugh they say uh.|S|Btr001
+fe008|i mean|F|Btr001
+fe008|if you|D|Btr001
+fe008|so it's like ha ha ha.|S|Btr001
+fe008|uh.|S|Btr001
+fe008|i mean|F|Btr001
+fe008|do you have you run across this?|Q|Btr001
+fe069|yeah.|S|Btr001
+fe066|yeah.|S|Btr001
+fe067|huh.|B|Btr001
+fe008|and it's like to me i i think i've heard comedians do that.|S|Btr001
+fe008|there's there's something there about|D|Btr001
+fe008|you know you you make a joke.|S|Btr001
+fe008|and then you have an uh in there somehow.|S|Btr001
+fe008|which i don't really understand the function of.|S|Btr001
+fe066|maybe it's like saying like this is funny.|S|Btr001
+fe008|do you|D|Btr001
+fe066|but maybe it shouldn't be funny.|S|Btr001
+fe066|or this is funny.|S|Btr001
+fe066|but maybe it's funny for some sort of perverse reason.|S|Btr001
+fe069|or maybe it's just a link to get back to the conversation or something.|S|Btr001
+fe068|huh.|B|Btr001
+fe069|like to connect it with what is going on elsewhere.|S|Btr001
+fe067|huh.|B|Btr001
+fe066|well.|F|Btr001
+fe066|so the one i'm thinking of is like if like ha ha.|S|Btr001
+fe066|uh you say you would say like um.|S|Btr001
+fe066|uh like|D|Btr001
+fe066|okay.|F|Btr001
+fe066|so he's laughing.|S|Btr001
+fe066|ha ha.|S|Btr001
+fe066|and then he'd go uh.|S|Btr001
+fe069|oh like kind of kind of laughing with it.|S|Btr001
+fe066|and|D|Btr001
+fe066|yeah.|S|Btr001
+fe066|kind of.|S|Btr001
+fe069|in a way.|S|Btr001
+fe066|yeah.|S|Btr001
+fe069|yeah.|F|Btr001
+fe066|kind of like uh.|S|Btr001
+fe066|you know?|Q|Btr001
+fe069|yeah.|S|Btr001
+fe066|and to me that's more of like the maybe this shouldn't be funny.|S|Btr001
+fe066|but it is.|S|Btr001
+fe066|maybe this is funny because it's kind of disgusting or perverse in some way.|S|Btr001
+fe069|huh.|B|Btr001
+fe068|huh.|B|Btr001
+fe068|yeah.|B|Btr001
+fe008|it's possible.|S|Btr001
+fe008|now what i'm thinking|D|Btr001
+fe008|i didn't have the extra the extra um what do you say nuances in the uh which you just which you just did.|S|Btr001
+fe066|wi|D|Btr001
+fe066|oh okay.|S|Btr001
+fe008|however the context fits.|S|Btr001
+fe008|i mean that's an interesting take on it i think.|S|Btr001
+fe069|huh.|B|Btr001
+fe008|it's possible.|S|Btr001
+fe008|it's possible.|S|Btr001
+fe066|so you meant just sort of like a just a normal uh?|Q|Btr001
+fe008|it's just a normal uh.|S|Btr001
+fe008|uhhuh.|S|Btr001
+fe069|yeah.|B|Btr001
+fe008|but it's stuck in|D|Btr001
+fe008|maybe it's a little louder than usual.|S|Btr001
+fe008|it's not any of the extra um you know glottal thing.|S|Btr001
+fe067|huh.|B|Btr001
+fe066|meaning let's keep going?|Q|Btr001
+fe069|maybe it means that.|S|Btr001
+fe008|well|F|Btr001
+fe008|but it just seems like it's more prominent than|D|Btr001
+fe008|you know it really is like a placeholder of some sort.|S|Btr001
+fe069|uh.|S|Btr001
+fe008|like|D|Btr001
+fe008|which i think is self reflexive in in the sort of brings focus back onto the jokemaker.|S|Btr001
+fe066|that's|D|Btr001
+fe066|yeah.|S|Btr001
+fe069|maybe if maybe it's when people don't laugh enough or something.|S|Btr001
+fe008|but|D|Btr001
+fe066|yeah.|S|Btr001
+fe008|yeah that's possible.|S|Btr001
+fe069|i don't know.|F|Btr001
+fe066|yeah like let's come back to the original subject.|S|Btr001
+fe008|okay.|F|Btr001
+fe066|and i will take it from there.|S|Btr001
+fe008|oh it could be.|S|Btr001
+fe008|yes that's possible.|S|Btr001
+fe066|maybe.|S|Btr001
+fe008|it's possible.|S|Btr001
+fe066|because i've heard um morgan do that.|S|Btr001
+fe008|exactly who i was thinking of actually.|S|Btr001
+fe066|yeah.|S|Btr001
+fe066|he does that a lot.|S|Btr001
+fe008|uhhuh.|S|Btr001
+fe008|yeah exactly.|S|Btr001
+fe008|yeah.|S|Btr001
+fe066|for obvious reasons probably.|S|Btr001
+fe066|if that's the way he uses it.|S|Btr001
+fe008|that's true.|S|Btr001
+fe008|that would the|D|Btr001
+fe008|and he does continue after that.|S|Btr001
+fe008|but it's just you know to say uh you to say uh while you're laughing it's just to me it's an interesting category.|S|Btr001
+me070|right.|B|Btr001
+me070|i think it may almost have to do with like okay.|S|Btr001
+me070|i told a joke.|S|Btr001
+me070|now everyone's laughing.|S|Btr001
+me070|and now it's common courtesy i'll sort of tell everyone to stop laughing.|S|Btr001
+me070|you know.|F|Btr001
+me070|so you don't offend me about how good my joke was.|S|Btr001
+me070|you know.|F|Btr001
+me070|it's almost like okay.|S|Btr001
+me070|uh.|S|Btr001
+me070|okay.|S|Btr001
+me070|my joke's over.|S|Btr001
+me070|you know you can stop laughing now.|S|Btr001
+fe069|right.|S|Btr001
+fe008|that's possible.|S|Btr001
+fe067|huh.|B|Btr001
+fe069|giving them permission to|D|Btr001
+me070|yeah.|S|Btr001
+me070|you know.|F|Btr001
+me070|because it's like how do you you know how much do you laugh after someone's joke?|Q|Btr001
+fe068|huh?|Q|Btr001
+fe069|i don't know about permission.|S|Btr001
+fe066|yeah.|B|Btr001
+fe066|yeah yeah yeah.|S|Btr001
+me070|to tell them how much you enjoyed it.|S|Btr001
+fe066|be polite or whatever.|S|Btr001
+me070|or|F|Btr001
+me070|yeah.|S|Btr001
+me070|or how long do you wait after the joke|D|Btr001
+fe069|to keep going with the meeting.|S|Btr001
+me070|to|D|Btr001
+me070|right.|S|Btr001
+fe069|yeah.|S|Btr001
+fe008|very interesting.|S|Btr001
+fe008|interesting.|S|Btr001
+fe069|because sometimes you can get on digressions that just last for like minutes at a time.|S|Btr001
+fe066|right.|S|Btr001
+fe008|yes.|S|Btr001
+fe069|and people are just hysterical.|S|Btr001
+fe069|and they're like what were we talking about.|S|Btr001
+fe069|i don't know.|S|Btr001
+fe008|yeah.|B|Btr001
+fe008|that's that's|D|Btr001
+fe008|huh okay.|B|Btr001
+fe069|it's hard when people get really really like into their laughing and start talking at the same time.|S|Btr001
+me070|yeah.|S|Btr001
+fe069|it's hard to figure out what they're what they're talking about.|S|Btr001
+fe069|and also they don't tend to talk very|D|Btr001
+fe069|there's a lot of disfluencies when they're laughing and talking.|S|Btr001
+fe068|yeah.|S|Btr001
+me070|definitely.|S|Btr001
+fe067|huh.|B|Btr001
+fe069|it's hard to|D|Btr001
+me070|sometimes they make me laugh so hard.|S|Btr001
+me070|because they'll just be talking about something technical.|S|Btr001
+fe069|yeah.|B|Btr001
+me070|and i'll be so bored.|S|Btr001
+me070|and then suddenly they'll say something that they only just sort of chuckle at.|S|Btr001
+me070|and then i laugh at for the next like twenty minutes.|S|Btr001
+me070|because i think it's so funny.|S|Btr001
+me070|like one time everybody was doing the um digits.|S|Btr001
+me070|and they were all doing it at the same time.|S|Btr001
+me070|and they started off kind of shaky.|S|Btr001
+fe068|oh right.|S|Btr001
+me070|they were like oh do we want to do this at the same time.|S|Btr001
+me070|you know that's you know let's not all start laughing.|S|Btr001
+me070|and then they all did it at the same time.|S|Btr001
+me070|and one person ended up at the very end doing the digits.|S|Btr001
+me070|and everybody had finished.|S|Btr001
+fe068|yeah!|S|Btr001
+me070|and he had like two more lines to go.|S|Btr001
+fe066|go|D|Btr001
+me070|and when he ended somebody turned to him and went you lose.|S|Btr001
+fe008|oh|D|Btr001
+me070|and i just kept laughing and laughing and laughing.|S|Btr001
+fe066|johno keeps making comments about the transcribers.|S|Btr001
+fe008|yes.|S|Btr001
+fe069|yeah.|B|Btr001
+fe066|it's the funniest thing.|S|Btr001
+fe008|yes.|S|Btr001
+fe066|he he'll like|D|Btr001
+fe068|what does he say?|Q|Btr001
+fe008|he's very funny.|S|Btr001
+fe066|say he'll say like mean things about the transcribers.|S|Btr001
+fe066|he'll be like|D|Btr001
+fe068|why?|Q|Btr001
+fe069|oh but i don't mean the transcribers we have here of course.|S|Btr001
+me070|oh.|B|Btr001
+fe066|like well sometimes he'll do that.|S|Btr001
+fe066|yeah.|S|Btr001
+fe066|but sometimes he doesn't.|S|Btr001
+fe066|and sometimes he'll just be like uh you know um here transcribers.|S|Btr001
+fe066|try transcribing this.|S|Btr001
+fe069|yeah.|B|Btr001
+fe069|yeah like when they do random sounds that you have no idea|D|Btr001
+fe066|like thanks.|S|Btr001
+fe008|he's very funny.|S|Btr001
+fe066|right.|B|Btr001
+fe069|yeah.|B|Btr001
+fe008|i i started laughing with something he said the other day.|S|Btr001
+fe008|it was it was the beginning of a meeting.|S|Btr001
+fe008|and it hadn't gotten far into it.|S|Btr001
+fe008|and|D|Btr001
+fe008|and he's he's doing this one of these mock fights with nancy.|S|Btr001
+fe008|which he does.|S|Btr001
+fe008|have you run across these mock fights?|Q|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|and he he says um something like|D|Btr001
+fe008|uh|F|Btr001
+fe008|i and he's they they have this nice mutual condescending joking thing going on.|S|Btr001
+fe008|and he says well i could explain this to you.|S|Btr001
+fe008|i have a better laugh than you do.|S|Btr001
+fe008|the transcribers told me so.|S|Btr001
+fe008|and it went on a little longer.|S|Btr001
+fe008|but it's it's like this really|D|Btr001
+fe008|yeah.|F|Btr001
+fe008|and then at one point she you know at another meeting she she was not sure which channel she was on.|S|Btr001
+fe008|and he said well i think you're on channel so-and-so.|S|Btr001
+fe008|and then she said well no.|S|Btr001
+fe008|shouldn't it be channel so-and-so.|S|Btr001
+fe008|and he says well no.|S|Btr001
+fe008|it should be channel so-and-so.|S|Btr001
+fe008|and then it turned out it was channel so-and-so.|S|Btr001
+fe008|which he said.|S|Btr001
+fe008|and and she said he he said i bested you again nancy.|S|Btr001
+fe008|and she said yes.|S|Btr001
+fe008|that's my recollection of all of our meetings together.|S|Btr001
+fe069|oh my god!|D|Btr001
+fe068|oh no.|S|Btr001
+fe008|they have this really nice|D|Btr001
+fe008|you know it's really|D|Btr001
+fe008|those sorts of things it's true.|S|Btr001
+fe008|you know it's like it really does liven things up to have the uh the nice interrelationships.|S|Btr001
+me070|yeah.|B|Btr001
+fe069|uhhuh.|B|Btr001
+fe066|yeah.|B|Btr001
+fe067|huh.|B|Btr001
+fe008|i think|D|Btr001
+fe008|i i found that's a nice aspect of a lot of these meetings.|S|Btr001
+fe008|the uh the uh uh little periods of humor like that.|S|Btr001
+fe069|yeah.|B|Btr001
+fe008|all right.|F|Btr001
+fe008|well so do we would would we could do digits if we so desired.|S|Btr001
+fe008|if if we wanted to do that.|S|Btr001
+fe068|woo hoo!|S|Btr001
+fe066|uh the digits task.|S|Btr001
+fe068|let's do simultaneous digits.|S|Btr001
+fe068|no let's let's not.|S|Btr001
+fe008|let's do simultaneous digits.|S|Btr001
+fe066|we|D|Btr001
+fe066|can somebody explain to me why you do digits?|Q|Btr001
+fe068|no no let's not.|S|Btr001
+fe008|no you don't?|Q|Btr001
+fe066|i still don't really know.|S|Btr001
+fe008|okay the idea is that you have then um you have ground truth.|S|Btr001
+fe008|you know exactly what they're supposed to have said.|S|Btr001
+fe008|and then of course sometimes we go through and actually um people do double check that they read them correctly and all.|S|Btr001
+fe067|huh.|B|Btr001
+me070|huh.|B|Btr001
+fe068|yeah.|S|Btr001
+fe008|so that we're sure.|S|Btr001
+fe008|as you've done.|S|Btr001
+fe068|i remember i did that a little bit.|S|Btr001
+fe069|yeah i did that once too.|S|Btr001
+fe008|yeah.|B|Btr001
+fe068|and yeah you must have too.|S|Btr001
+fe069|yeah yeah.|B|Btr001
+fe008|and you did also?|Q|Btr001
+fe067|we we are meant to be transcribing if they're just left in the the curly brackets?|Q|Btr001
+fe068|kind of early on.|D|Btr001
+fe008|no.|S|Btr001
+fe008|because it's it's it should be able to be taken care of efficiently with this interface.|S|Btr001
+fe008|i mean if the tigerfish people do it then you know leave it.|S|Btr001
+fe068|yeah they do write the numbers in.|S|Btr001
+fe069|the|D|Btr001
+fe069|yeah.|S|Btr001
+fe008|that's fine.|S|Btr001
+fe069|yeah i've been just leaving it.|S|Btr001
+fe067|and sometimes they don't.|S|Btr001
+fe008|yeah.|F|Btr001
+fe068|yeah.|B|Btr001
+fe066|oh i've been writing the numbers just because i wasn't sure what to do.|S|Btr001
+fe008|sometimes they don't.|S|Btr001
+fe008|well if you do that's that's all right as well.|S|Btr001
+me070|oh really?|Q|Btr001
+fe066|you don't have to?|Q|Btr001
+fe008|you don't have to.|S|Btr001
+fe066|oh okay.|S|Btr001
+fe067|huh.|B|Btr001
+fe008|because uh we're we have the assumption that we'll take care of it this in this other way.|S|Btr001
+fe008|but in any case the idea is that you have ground truth.|S|Btr001
+fe067|oh.|B|Btr001
+fe008|you know exactly what the person should have said.|S|Btr001
+fe008|and you check to be sure.|S|Btr001
+fe008|and usually there aren't many errors uh when they were checked.|S|Btr001
+fe008|um and then you have this multiplicity of voices uh reading these things.|S|Btr001
+fe008|and you can do really good speech recognition that way.|S|Btr001
+fe008|so they have some papers out that they've done this.|S|Btr001
+fe008|it's really it's been very fruitful in terms of the analyses.|S|Btr001
+me070|huh.|B|Btr001
+fe067|huh.|B|Btr001
+fe008|it's nice to have you know a standard.|S|Btr001
+fe008|uh you know it's like uh psychological approach also that you like to have some standard stimulus here.|S|Btr001
+fe066|uhhuh.|B|Btr001
+fe068|oh yeah.|S|Btr001
+fe008|and then you can|D|Btr001
+fe068|no i totally agree.|S|Btr001
+fe008|yeah.|S|Btr001
+fe066|uhhuh.|B|Btr001
+fe008|i i agree.|S|Btr001
+fe008|i think it's a nice it's a nice design feature.|S|Btr001
+fe066|where's the little things that's supposed to say transcript l dash blah blah blah?|Q|Btr001
+fe068|oh it's at the top.|S|Btr001
+fe008|yes you run across that.|S|Btr001
+fe008|let's see.|F|Btr001
+fe008|i guess it would be|D|Btr001
+fe008|it's up there.|S|Btr001
+me070|it's right here.|S|Btr001
+fe067|oh i see.|S|Btr001
+me070|yeah i looked for that too.|S|Btr001
+fe008|uhhuh.|B|Btr001
+fe008|up there at the top.|S|Btr001
+fe066|uh oh.|S|Btr001
+fe066|okay.|S|Btr001
+fe069|okay.|B|Btr001
+fe068|so i have a question.|S|Btr001
+fe008|yeah.|S|Btr001
+fe068|because now i'm looking at this and i realize i don't know the answer.|S|Btr001
+fe068|is|D|Btr001
+fe068|um|F|Btr001
+fe068|sometimes when people are reading zero they say o.|S|Btr001
+fe008|yeah.|B|Btr001
+fe008|yes.|B|Btr001
+fe067|yeah.|B|Btr001
+fe068|and sometimes they say zero.|S|Btr001
+fe066|uhhuh.|B|Btr001
+fe068|but|D|Btr001
+fe068|and i thought that there must be an indication here.|S|Btr001
+fe008|used to be.|S|Btr001
+fe069|that's what i thought too.|S|Btr001
+fe008|used to be.|S|Btr001
+fe068|oh.|S|Btr001
+me070|huh.|B|Btr001
+fe068|that read o or read zero.|S|Btr001
+fe066|oh.|S|Btr001
+fe008|this they changed them.|S|Btr001
+fe008|initially it was words all spelled out.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|so o n e.|S|Btr001
+fe066|oh.|S|Btr001
+fe067|huh.|B|Btr001
+fe068|oh my!|S|Btr001
+fe008|yes.|S|Btr001
+me070|oh wow.|S|Btr001
+fe068|yeah.|S|Btr001
+fe008|and that was like a stroop test in some ways.|S|Btr001
+fe008|it took a lot of|D|Btr001
+fe008|when i was doing those i had to really concentrate.|S|Btr001
+fe068|yeah.|B|Btr001
+fe008|it was like one seven.|S|Btr001
+fe008|you know it was like you really had to let's see the words and the numbers.|S|Btr001
+fe068|yeah you're not used to seeing the numbers like that.|S|Btr001
+fe008|and|D|Btr001
+fe069|yeah.|B|Btr001
+fe008|and then you'd have an o h periodically.|S|Btr001
+fe008|and um they were initially spelled out that way.|S|Btr001
+me070|huh.|B|Btr001
+fe066|huh.|B|Btr001
+fe008|one or the other.|S|Btr001
+fe068|i see.|S|Btr001
+fe068|so that's why.|S|Btr001
+fe008|but we converted them to this format.|S|Btr001
+fe008|and then the idea|D|Btr001
+fe008|i mean you could conceivably put an o h or a zero for the o s and still have this benefit.|S|Btr001
+fe008|but i think that the idea is that people can choose what they think is most natural for them to say in those those locations.|S|Btr001
+me070|right.|B|Btr001
+fe008|and you know maybe there'd be|D|Btr001
+fe066|uhhuh.|B|Btr001
+fe068|so it's optional?|Q|Btr001
+fe067|huh.|B|Btr001
+fe068|you can say one or the other?|Q|Btr001
+fe008|yes.|S|Btr001
+fe008|uhhuh.|S|Btr001
+fe068|okay.|S|Btr001
+fe067|huh.|B|Btr001
+fe008|so um|F|Btr001
+fe067|oh can i ask also?|Q|Btr001
+fe008|sure.|S|Btr001
+fe067|um it says it looks like the groupings are important.|S|Btr001
+fe067|but some of the transcripts i've seen they don't have any commas or breaks.|S|Btr001
+fe067|it's just a string of numbers.|S|Btr001
+fe067|so we should be adding the breaks if|D|Btr001
+fe008|yes.|S|Btr001
+fe008|well see uh also this has been a a change in the procedure that used to be that they were like uh one long string.|S|Btr001
+fe067|oh okay.|S|Btr001
+fe008|different sized strings.|S|Btr001
+fe008|but to have them broken up like this it's it's been about uh maybe half a year that that this or maybe maybe seven months i don't know maybe longer that they've gotten actually broken up within the line.|S|Btr001
+fe067|huh.|B|Btr001
+fe008|so the idea is to pause when you see that.|S|Btr001
+fe069|but in the transcriptions i mean we don't have to deal with that.|S|Btr001
+fe069|because when the other interface deals with it then they break it up or whatever.|S|Btr001
+fe008|no.|S|Btr001
+fe008|that's right.|S|Btr001
+fe008|break it up more finely.|S|Btr001
+fe069|yeah.|B|Btr001
+fe067|but if you can clearly hear pauses and there've not been transcribed we should be adding the commas or not?|Q|Btr001
+fe067|though the one i'm working on now is like that.|S|Btr001
+fe008|well|F|Btr001
+fe008|i would say don't worry about that.|S|Btr001
+fe008|because um this is|D|Btr001
+fe067|okay.|B|Btr001
+fe008|again you know it it'd be nice to get the words right.|S|Btr001
+fe008|but um|F|Btr001
+fe008|the uh the interface that these guys used uh allows you to set the time boundaries really accurately.|S|Btr001
+fe069|uhhuh.|B|Btr001
+fe008|so it's not so important.|S|Btr001
+fe008|it's more important to focus on the words.|S|Btr001
+fe008|because there we don't know the ground truth.|S|Btr001
+fe068|uhhuh.|B|Btr001
+fe008|so|F|Btr001
+fe008|okay so|F|Btr001
+fe069|are we going to do them together then?|Q|Btr001
+fe069|or no?|Q|Btr001
+fe008|well i don't know.|S|Btr001
+fe008|how do you feel?|Q|Btr001
+fe068|yeah i don't care.|S|Btr001
+fe008|i mean|D|Btr001
+fe008|what we could do is we could do it together one week.|S|Btr001
+fe068|whatever.|S|Btr001
+fe008|and then separate the next.|S|Btr001
+fe008|or something like that.|S|Btr001
+fe068|sure.|S|Btr001
+fe008|to give the variety.|S|Btr001
+fe066|sure.|S|Btr001
+fe069|whatever.|S|Btr001
+fe008|we|D|Btr001
+me070|sure.|D|Btr001
+fe008|why don't we do them together this time?|Q|Btr001
+fe008|just because in the interest of time to get you out in time.|S|Btr001
+fe069|okay.|S|Btr001
+me070|okay.|S|Btr001
+fe066|okay.|S|Btr001
+fe008|okay.|S|Btr001
+fe008|so um|F|Btr001
+fe008|we just start out we and you you say transcript l whatever it is.|S|Btr001
+fe008|and then launch into the numbers.|S|Btr001
+fe008|and then pause between the the gaps.|S|Btr001
+fe068|sure.|B|Btr001
+fe008|and then|D|Btr001
+fe008|i guess you're supposed to treat|D|Btr001
+me070|pause after each line?|Q|Btr001
+fe008|yeah.|S|Btr001
+fe008|you well you're supposed to treat each line as kind of like a little sentence.|S|Btr001
+fe008|what do they say?|Q|Btr001
+me070|okay.|S|Btr001
+fe008|each line into smaller groups.|S|Btr001
+fe008|please read each string as if you were giving it to someone over the telephone using the groupings indicated.|S|Btr001
+me070|huh.|B|Btr001
+fe068|uhhuh.|B|Btr001
+fe069|pause briefly between lines.|S|Btr001
+fe008|yes.|S|Btr001
+fe068|right.|S|Btr001
+fe008|there you go.|S|Btr001
+fe069|okay.|S|Btr001
+fe008|okay.|S|Btr001
+fe008|so here we go.|S|Btr001
+fe066|okay.|B|Btr001
+me070|all right.|B|Btr001
+fe008|ready.|S|Btr001
+fe008|set.|S|Btr001
+fe008|go.|S|Btr001

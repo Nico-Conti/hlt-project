@@ -1,0 +1,195 @@
+A|Okay,|fo_o_fw_"_by_bc|3455
+A|uh, I guess our topic is about movies|sd|3455
+B|Uh-huh.|b|3455
+A|and, uh, what is coincidence,|sd|3455
+A|we got a baby-sitter|sd|3455
+A|and we went to the movies that past weekend.|sd|3455
+B|Oh, so did I|sd|3455
+A|And we saw CAPE FEAR.|sd|3455
+B|Oh, I heard that was excellent.|sd|3455
+A|It is.|aa|3455
+B|Is it?|bh|3455
+A|It's really good.|na|3455
+B|Uh, I wanted to see that|sd|3455
+B|I was deciding between that and, uh, MY GIRL|sd|3455
+B|and, uh, my boyfriend and I went to see MY GIRL.|sd|3455
+A|Oh, how was that?|qw|3455
+B|Oh, it was excellent.|sd|3455
+B|It was a really, really good movie.|sd|3455
+B|I'd recommend it.|sd|3455
+A|I heard that's, a movie that, uh, you really can't take children.|sd|3455
+A|Is that true?|qy|3455
+B|Uh, I heard the opposite that, uh, you should take children to see it.|arp_nd|3455
+A|Oh.|bk|3455
+B|Uh, there were quite a few, uh, kids in there with their parents.|sd|3455
+A|Oh.|bk|3455
+B|Yeah.|b|3455
+B|Uh, I don't know, though,|h|3455
+B|I, I've heard that, and then what you just told me|sd|3455
+B|so,|%|3455
+A|Yeah,|b|3455
+A|yeah,|b|3455
+A|because, uh, the little boy dies.|sd|3455
+B|Right,|aa|3455
+B|yeah.|aa|3455
+A|Yeah.|b^m|3455
+B|It was sad.|sd|3455
+B|It was really sad.|sd|3455
+A|Oh.|b|3455
+B|But, uh, his, it kind of shows how his, uh, best friend, this little girl, deals with his death and how, I think, maybe, how children should deal with death.|sd|3455
+A|Oh.|b|3455
+A|Oh.|b|3455
+B|Maybe.|b|3455
+A|Uh-huh.|b|3455
+B|But, it was really good.|sd|3455
+B|It was sad, very sad.|sd|3455
+A|Oh, I want to see that one.|sd|3455
+A|Well, CAPE FEAR was, was more suspenseful.|sd|3455
+B|Yeah.|b|3455
+A|It was really suspenseful.|sd|3455
+A|So that, that's, that's a real good movie to see.|sd|3455
+B|I heard it was, uh, sort of like, uh, not, uh, too violent,|sd|3455
+B|but it was kind of like, uh, gross, kind of like, uh, SILENCE OF THE LAMBS, like.|sd|3455
+A|Uh, no,|ar|3455
+A|and it, uh, it was kind of,|%|3455
+A|I don't know,|h|3455
+A|it's kind of both, I guess,|sv|3455
+A|but it's not, it's not as bad as SILENCE OF THE LAMBS.|sv|3455
+B|Oh, really?|bh|3455
+A|But, uh, it's just as suspenseful, I think.|sv|3455
+B|Oh.|b|3455
+A|And it, it was a real good movie.|sd|3455
+A|And then we saw BEAUTY AND THE BEAST Because we have two kids. And FIEVEL GOES WEST|sd|3455
+B|Oh, yeah.|b|3455
+B|Uh.|b|3455
+B|Oh, I've seen, uh, previews for them on T V,|sd|3455
+B|but I,|%|3455
+A|But, uh, those were, those were okay,|sd|3455
+A|so, And then, oh, boy, it's been, it's been so long since we've been to the movies,|sd|3455
+B|Yeah.|b|3455
+A|but I, we've rented some videos.|sd|3455
+B|Oh, yeah,|b|3455
+B|I like to rent movies, too.|sd|3455
+A|And I think the last one I rented was, uh, MORTAL THOUGHTS with Demi Moore.|sd|3455
+B|Oh.|b|3455
+B|Oh, I, I didn't see that.|sd|3455
+A|And, uh, that, that, that's okay.|sd|3455
+A|That's pretty good.|sd|3455
+B|Yeah.|b|3455
+A|Oh, and, uh, WHAT ABOUT BOB?|sd|3455
+B|I have seen that at the theatres,|sd|3455
+A|Yeah.|b|3455
+B|yeah.|%|3455
+A|Yeah,|b^m|3455
+A|we rented that one.|sd|3455
+B|That, that was cute.|sv|3455
+A|And, uh, uh, I guess that's about it.|sd|3455
+A|Have you rented any movies lately?|qy|3455
+B|Uh, the last movie I rented was THE HARD WAY with Michael J. Fox|na|3455
+B|and, uh,|%|3455
+A|Oh, yeah,|b|3455
+A|that was good.|sv|3455
+A|We rented that one, too.|sd|3455
+B|Yeah,|b|3455
+B|I liked that.|sd|3455
+B|I like Michael J. Fox a lot.|sd|3455
+A|Uh-huh.|b|3455
+A|Yeah.|b|3455
+B|He's one of my favorites.|sd|3455
+A|Yeah.|b|3455
+B|I like his movies.|sd|3455
+A|So, do you go to the movies often,|qy|3455
+A|or,|%|3455
+B|No,|nn|3455
+B|not too often.|sd|3455
+B|I, I hadn't been to the movies for a really long time since last weekend.|sd|3455
+A|Uh-huh.|b|3455
+B|But, uh, there's been movies out that I've been wanting to see.|sd|3455
+B|I just, you know, don't get a chance to get out and see them.|sd|3455
+A|Yeah,|b|3455
+A|yeah,|b|3455
+A|well, we have two little kids,|sd|3455
+A|so it's hard for us to get out and go to the movies.|sd|3455
+A|We have to dig up a baby-sitter|sd|3455
+A|and And that's only the only time we can go out,|sd|3455
+B|Oh I see.|b|3455
+A|so our time is scarce.|sd|3455
+B|Yeah.|b|3455
+B|Oh.|b|3455
+A|But, uh, we, we, we we, you know, we're, we're big movie people|sd|3455
+A|and we try and do|sd|3455
+B|Yeah.|b|3455
+A|and I don't, I don't know about the last movie I've seen on T V that was real good. Uh,|sd|3455
+B|Oh, I watched that movie with, uh, Barbara, uh, uh,|sd|3455
+B|what was her name.|t1|3455
+B|Oh,|%|3455
+B|that, uh, her sister got killed|sd|3455
+B|and, uh, she had a baby.|sd|3455
+B|The husband was a dentist|sd|3455
+B|and he had murdered her.|sd|3455
+A|Oh, yeah,|b|3455
+A|uh, Bertinelli, or what's her name.|sd|3455
+B|That was, that was pretty good.|sv|3455
+B|Yeah,|aa|3455
+B|uh-huh,|aa|3455
+B|oh, Valerie Bertinelli.|sd|3455
+A|I can't,|%|3455
+B|That's it,|ba|3455
+B|yeah.|aa|3455
+A|Yeah,|b^m|3455
+A|yeah,|b|3455
+A|yeah,|b|3455
+A|yeah|b|3455
+A|Yeah,|b|3455
+A|that was real good,|aa|3455
+A|I saw that one, uh, two part series,|sd|3455
+A|and I heard it was a true story.|sd|3455
+B|Yeah,|aa|3455
+B|uh-huh.|aa|3455
+A|Yeah,|b|3455
+A|I think that was probably the last movie I've seen, too.|sd|3455
+B|Yeah.|b|3455
+A|And, and then I saw that other movie about, uh, MOTHER, MOTHER, WIFE, MURDERER.|sd|3455
+A|Did you see that one?|qy|3455
+B|Oh, uh, with, uh, Judith Light?|qy|3455
+A|Yeah.|ny|3455
+B|Uh,|b|3455
+A|Did you see that one,|qy|3455
+A|that was, was really good.|sv|3455
+A|That was supposed to be a true story, too.|sd|3455
+B|Yeah,|ny|3455
+B|I did see that.|sd|3455
+B|Yeah,|ny|3455
+B|I did.|sd|3455
+B|That was on a while ago, wasn't it?|qy|3455
+A|Yeah.|ny|3455
+B|Yeah,|ny|3455
+B|I saw that.|sd|3455
+A|Guess a couple weeks ago or something like that.|sd|3455
+B|Yeah,|aa|3455
+B|that was pretty good.|aa|3455
+A|Boy we have we, we see all the same movies.|sv|3455
+B|I,|%|3455
+B|Yeah.|aa|3455
+B|I like, uh, the true stories.|sd|3455
+A|Yeah.|b|3455
+B|They're more interesting.|sv|3455
+A|Uh-huh.|b|3455
+B|And it's hard to believe that, you know, this really happened.|sv|3455
+A|I know.|aa|3455
+B|Some of them are pretty bad.|sv|3455
+A|Yeah,|aa|3455
+A|yeah.|aa|3455
+B|But,|%|3455
+A|Huh. Well We sure do have a lot in common.|sv|3455
+B|Yeah.|b|3455
+A|If you're ever in town, we'll go see a movie|ad|3455
+B|Okay|aa|3455
+A|But, and we don't really,|%|3455
+A|do you all have, do you all still have drive-ins up there|qy|3455
+A|or,|%|3455
+B|Yeah,|ny|3455
+B|uh-huh.|ny|3455
+B|Yeah,|ny|3455
+B|do you have them there?|qy|3455
+A|Um, well, we may have just a couple over here.|na|3455

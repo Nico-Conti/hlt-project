@@ -1,0 +1,186 @@
+A|Okay.|fo_o_fw_"_by_bc|2589|0
+B|The public school systems, well everybody's has known they've needed renovation for years, but never really had a clear direction on which way to go with it.|sv|2589|1
+A|Uh-huh.|b|2589|0
+B|The first direction that I can see, or I wish, I would love to see them go with.|sv|2589|1
+B|Kids learn at different rates|sv|2589|1
+B|and for too long they've kind of lumped everybody together.|sv|2589|1
+B|You'd learn at this rate|^q|2589|1
+B|and that's the only way it's going to happen.|^q|2589|1
+A|Yeah.|aa|2589|0
+A|That's true|aa|2589|0
+B|You've got some kids that'll pick up on it in the first three minutes you're talking about it,|sv|2589|1
+B|and the the other fifty-seven minutes you've been talking about a subject, you've bored them.|sv|2589|1
+A|Yeah,|aa|2589|0
+A|yeah,|aa|2589|0
+A|that's, that's very true.|aa|2589|0
+A|Um, I guess I can relate to that, because I have two kids that are opposites like that.|sd|2589|0
+A|Uh, one picks up real quick|sd|2589|0
+A|and the other one doesn't.|sd|2589|0
+A|And you're right, they do get bored, uh, really fast, if they already know what you're talking about.|aa|2589|0
+A|What do you propose that they do?|qo|2589|0
+A|What, what is your suggestions?|qw|2589|0
+B|The educators need to be a little bit more open minded as well as innovative in dealing with, uh, the various students to get the maximum potential out of the person.|sv|2589|1
+A|Uh-huh.|b|2589|0
+A|Out of each child.|b|2589|0
+B|Out of each child.|b^m|2589|1
+A|Each individual child.|b|2589|0
+B|Some kids are going to be great with mechanical stuff.|sv|2589|1
+B|Other kids are going to be really into math,|sv|2589|1
+B|some are really going to be heavy into reading.|sv|2589|1
+A|Right.|b|2589|0
+B|Instead of pushing the scales too far either direction, I mean it's great to be well rounded and be exposed to all this stuff.|sv|2589|1
+A|Yeah.|aa|2589|0
+A|That's,|%|2589|0
+B|But why not hit the points the kid's really interested in?|qh|2589|1
+B|Because if he's interested, he's going to study it,|sv|2589|1
+B|and he's going to learn it,|sv|2589|1
+B|and he's going to remember it.|sv|2589|1
+A|That's true.|aa|2589|0
+A|The only, I think the only thing that they would argue about that, is that, you know, every child needs to learn every subject.|sv|2589|0
+A|I mean, that's, that might be the only thing.|sv|2589|0
+A|But, I mean, I, I definitely agree with you. Uh,|aa|2589|0
+B|They need exposure to every subject.|sv|2589|1
+B|They don't need to be masters of it,|sv|2589|1
+A|Right,|aa|2589|0
+A|right.|aa|2589|0
+A|That's true. Uh,|aa|2589|0
+B|Everything I learned about ancient Rome has not helped me anywhere in, my adult life.|sv|2589|1
+A|Yes,|aa|2589|0
+A|I definitely agree.|aa|2589|0
+A|There's no doubt about that.|aa|2589|0
+A|I, uh, I, I mean, I can relate to that because I'm, I'm going to college right now,|sd|2589|0
+A|and I feel like, I mean, I'm taking this history class.|sd|2589|0
+A|And, I mean, it's so boring,|sd|2589|0
+A|and I just hate it.|sd|2589|0
+A|And I think, why do they make us take this stuff?|sd|2589|0
+A|I mean, what does this have to do with getting, you know, a computer science degree or whatever, you know?|qh|2589|0
+B|What, what type of history class is it that you're having to take?|qw|2589|1
+A|Uh, American History.|sd|2589|0
+A|We have to take, um, like this is like early seventeen hundreds through, I don't know, I think like mid eighteen hundreds.|sd|2589|0
+A|And then we have to take another one that's mid eighteen hundreds on up, to basically present.|sd|2589|0
+B|Well, the early ones they could actually combine two, two, levels of it, the one from seventeen hundred til say, the end of the Civil War.|sv|2589|1
+A|Yeah.|b|2589|0
+B|Combine that into one. And then from eighteen sixty-five to present,|sv|2589|1
+B|and make that your second step because, To a point, to a point the bottom, you know, the early parts of it, you're giving the foundations of the nation|sv|2589|1
+A|Yeah.|b|2589|0
+A|That's, well that's, basically what they're doing.|sd|2589|0
+B|and, but even then they're skimming over,|sv|2589|1
+B|they're very, almost trivial with it.|sv|2589|1
+A|Yeah,|aa|2589|0
+A|oh, yes.|aa|2589|0
+A|Definitely,|aa|2589|0
+A|I agree.|aa|2589|0
+A|Yeah,|aa|2589|0
+A|there's,|%|2589|0
+B|You know, I mean, if they really wanted to get to the meat of the matter, I mean, there's, they make all these people out to be, oh,|sv|2589|1
+B|they were great men,|sv|2589|1
+B|and they're the father of the country and all this.|sv|2589|1
+B|He had just as much dirt on him as anybody else.|sv|2589|1
+B|If not more.|sv|2589|1
+B|The man was not a saint.|sv|2589|1
+A|Yeah.|aa|2589|0
+A|That's true,|aa|2589|0
+A|yeah.|aa|2589|0
+A|Any way, this, this, um, school system thing,|%|2589|0
+A|I, I tell you, I saw something on the news, oh, I don't know, maybe two weeks ago.|sd|2589|0
+A|And they were talking about,|sd|2589|0
+A|I don't know where you're from,|qw^d|2589|0
+A|but I'm from the Dallas area.|sd|2589|0
+A|And they were talking about the Plano school system, that, they had one school that, uh, if the students did something wrong, I mean, whether it was behavioral or, uh, you know, they weren't learning properly or something. They took these students and put them basically in a closet. With no windows.|sd|2589|0
+A|They had, a, a table, or not a table, but a desk in this closet,|sd|2589|0
+A|and they had to sit in there by themselves.|sd|2589|0
+A|Well, parents were getting really angry about this, because they said, Why is my child being put in this closet.|sd|2589|0
+A|Well, how is that helping my child, you know.|^q|2589|0
+A|And, uh, the, the thing, you know,|%|2589|0
+A|they said, Well, we're giving them isolation time|sd|2589|0
+A|and this helps them to think.|^q|2589|0
+A|But a lot of kids,|%|2589|0
+A|I mean, if a child has, uh, claustrophobia, I mean, that's just going to terrify him, you know|sv|2589|0
+A|and,|%|2589|0
+B|If, if the isolation concept really works that good, why are our prisons overcrowded?|qh|2589|1
+A|Uh, that's true.|aa|2589|0
+A|That's true.|aa|2589|0
+A|But, no,|%|2589|0
+A|I mean, they were, uh, I mean,|%|2589|0
+A|I definitely agree with parents.|sd|2589|0
+A|I think that is a very wrong way to handle, uh, disciplining a child.|sv|2589|0
+A|Putting them in, I mean, they were, they were they called them their quiet rooms or their isolation rooms.|sd|2589|0
+A|They didn't call them closets.|sd|2589|0
+A|But they showed these rooms on, uh, you know, on the news|sd|2589|0
+A|and, I mean, they looked like a closet to me. You know, with a desk in it, a real small.|sd|2589|0
+A|But they said that one of the solutions they came up with was to take the doors off of these isolation rooms.|sd|2589|0
+A|I said, now what good does I mean, how is this helping?|sd|2589|0
+A|I mean, either way. You know, I, I definitely had to disagree with that.|sd|2589|0
+A|I think that is, that's not the way to handle a child, you know, discipline a child by putting him in a closet|sv|2589|0
+B|the as a part of the revamping of the entire education system on that the public school system I want to see changed too.|sd|2589|1
+B|When I was brought up, if you crossed the line and you broke a rule bad enough, you were going to get spanked.|sd|2589|1
+A|Right.|b|2589|0
+B|Well, then the extreme came in,|sv|2589|1
+B|and now we can no longer, spank them,|sv|2589|1
+A|Right.|b|2589|0
+B|so we now isolate them.|sv|2589|1
+A|Yep.|b|2589|0
+A|Uh|b|2589|0
+B|Okay,|b|2589|1
+B|we've swung the pendulum both ways.|sv|2589|1
+B|Let's find a middle ground.|sv|2589|1
+B|Instead of, there has to be some sort of discipline,|sv|2589|1
+B|and there has to be some sort of punishment. Short of physically isolating the child, and short of physically hitting the child.|sv|2589|1
+A|Right.|b|2589|0
+A|Well,|%|2589|0
+B|Let's put him into a situation where, okay, you crossed the line, you broke the rule, you're going to have to pay for it.|sv|2589|1
+A|Right.|b|2589|0
+B|But, it's going to tax you physically.|sv|2589|1
+A|Uh-huh.|b|2589|0
+A|I, I don't,|%|2589|0
+B|Have I mean, instead have them pick up around the school yard, have them weed a flower bed somewhere on the school Do something to beautify the school property.|sv|2589|1
+A|Yeah,|aa|2589|0
+A|that's true.|aa|2589|0
+B|But you cut, you know,|%|2589|1
+B|the, the kid's having to give up his, quote, play time to pay his debt for what he did wrong.|sv|2589|1
+A|Well,|%|2589|0
+B|But he's seeing something constructive come out of it.|sv|2589|1
+A|um, I have to,|%|2589|0
+A|I think one of the positive things, I mean, one of the things that can come out of, uh, is not just discipline, okay?|sv|2589|0
+A|But, okay,|%|2589|0
+A|for instance, one of the things they do at, uh, my kids school, uh, they have what they call, uh, caught being good slips.|sd|2589|0
+A|And when the kids are in halls and stuff, and if they're being really good, I mean, just being excellent, they're not, you know, cutting up and so on.|sd|2589|0
+A|They're just standing in line, doing whatever they are supposed to,|sd|2589|0
+A|they get one of these caught being good slips.|sd|2589|0
+A|And then, when they collect them at the end of each week, they get to go to this little, what they call their caught being good store,|sd|2589|0
+A|and then they get to spend these like money.|sd|2589|0
+A|Well, see, to me, that's positive reinforcement, is much better, much better than trying to find ways to discipline kids, because they're going to be good and try and earn those things, you know, to get the positive part of it.|sv|2589|0
+A|I mean, they'd much rather go in the store and buy something than be spanked.|sv|2589|0
+A|So, they're definitely going to work towards being good, you know, rather than trying to act up and be bad, you know.|sv|2589|0
+B|I think that not only applies inside the public school system, but in society itself.|sv|2589|1
+B|We've been too long, there's been too much negative reinforcement.|sv|2589|1
+B|How much, like, the caught being good slips.|%|2589|1
+B|How about, just the John Q citizen out there on the street?|qh|2589|1
+A|Yeah,|aa|2589|0
+A|well that's true. I think, I think, really though,|aa|2589|0
+A|I mean, that's one thing that, I mean, my kids definitely get spanked when they need they need to be spanked.|sd|2589|0
+A|But I really do try to use positive, uh, reinforcement with them at home, also.|sd|2589|0
+A|And it really helps.|sd|2589|0
+A|And I mean, they, they don't get spanked very often,|sd|2589|0
+A|but they, they do when they deserve it, you know.|sd|2589|0
+A|But, uh, I don't think any kid should be exempt from being spanked.|sv|2589|0
+A|I mean, I, I think I wouldn't mind if a teacher spanked my child.|sd|2589|0
+A|But, you know, that's just my personal opinion,|sd|2589|0
+A|and that's not going to,|%|2589|0
+A|I mean, I don't think that law will ever change.|sv|2589|0
+A|They are never going to let a, a teacher spank a child again.|sv|2589|0
+A|But I don't think,|%|2589|0
+A|I mean, some kids don't get don't get spanked at home|sv|2589|0
+A|and some kids need to be spanked at home.|sv|2589|0
+A|I mean, don't you think?|qy|2589|0
+B|I, most wholeheartedly agree.|na|2589|1
+A|But I don't know.|h|2589|0
+B|I mean, there's a point of over kill,|sv|2589|1
+B|but somewhere in, you've got to find an even line.|sv|2589|1
+A|Right,|aa|2589|0
+A|right.|aa|2589|0
+A|Well, there's so many parents that say, you can deal with a child without spanking them. Which is true, you can.|sv|2589|0
+A|But there are times when a child needs to be spanked.|sv|2589|0
+A|I mean, they do things that they need that.|sv|2589|0
+B|Need that shock effect, where they equate the shock of being spanked with the actions they did to get spanked.|sv|2589|1
+A|Right. ends with no further|b|2589|0

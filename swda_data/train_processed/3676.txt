@@ -1,0 +1,109 @@
+A|What kind of movies have you been seeing lately?|qw|3676
+B|Uh, it's been probably a month or so since I've been to the movies.|sd|3676
+B|Course, my, my favorite now is, is DANCES WITH WOLVES.|sd|3676
+A|Oh, it's an excellent movie.|sd|3676
+B|Uh, SILENCE OF THE uh, of the LAMBS was good.|sd|3676
+A|SILENCE OF THE LAMBS?|b^m|3676
+B|Uh-huh.|ny|3676
+A|What was that anyway?|qw|3676
+B|Oh, it's a, I guess it's a mystery, you'd call it.|sd|3676
+B|It's with, uh, Jodie Foster.|sd|3676
+A|Okay.|bk|3676
+B|And it, uh, it's pretty good.|sd|3676
+B|Another one that I think I really liked was, uh, THE FISHER KING.|sd|3676
+A|Uh-huh.|b|3676
+A|Let's see,|^h|3676
+A|who was in FISHER KING?|t1|3676
+A|That was, um, Robin Williams|sd|3676
+A|and, uh and, uh, I can't the last name.|sd|3676
+B|Right.|b|3676
+B|How about you?|qo|3676
+B|What are you?|qw|3676
+A|Uh, we've not been having many opportunities to see movies lately.|sd|3676
+A|Um, we really enjoyed, um, DEAD POETS' SOCIETY.|sd|3676
+B|Yes.|b|3676
+A|Um, several years back one we saw, we saw we really, really enjoyed was, uh, ORDINARY PEOPLE, with, uh, Timothy Hutton and, uh, Mary Tyler Moore,|sd|3676
+A|and, uh, uh, who played the father, anyway|t1|3676
+B|Right.|b|3676
+A|excellent movie.|sd|3676
+B|That was, that was an excellent movie.|sd|3676
+B|Have you seen DANCES WITH WOLVES?|qy|3676
+A|Yes|ny|3676
+A|we have.|sd|3676
+B|What'd you think of it?|qw|3676
+A|Oh, we loved it.|sd|3676
+B|I don't think I can see it enough times.|sd|3676
+A|I know what you mean.|ba|3676
+A|I know what you mean.|ba|3676
+B|Course I'm a Kevin Costner fan.|sd|3676
+A|Yeah,|b|3676
+A|I'm pretty impressed with stuff he's done.|sd|3676
+A|Uh, he made kind of an odd sounding ROBIN HOOD,|sd|3676
+A|but, uh, I mean, you know, basic thick western U S accent for a ROBIN HOOD just doesn't seem to fit.|sv|3676
+B|No,|aa|3676
+B|but you know, it wasn't a bad movie.|sd|3676
+A|Oh, no.|aa|3676
+A|It's a good movie.|sd|3676
+B|It got such bad reviews,|sd|3676
+B|really, and, and I thoroughly enjoyed it.|sd|3676
+B|But I, then I wasn't expecting any classic either.|sd|3676
+A|Well, um, they did a real good job with it.|sv|3676
+B|I thought so.|aa|3676
+A|Um, they didn't try to make him super human or, you know, invincible.|sd|3676
+A|They just, just,|sd|3676
+A|he worked hard at it.|sd|3676
+B|Have you seen THE FISHER KING?|qy|3676
+A|No|nn|3676
+A|I haven't, not an opportunity to see that, uh,|sd|3676
+B|Uh, it,|%|3676
+B|you, you know,|%|3676
+B|I guess it, it really isn't for everybody.|sv|3676
+B|It's, it's pretty deep and, uh, uh, philosophical.|sd|3676
+A|Yeah.|b|3676
+B|But I thought it had a wonderful message to it. It's the kind you came out and looked at somebody and said, You know, I think I liked that|sv|3676
+A|Yeah.|b|3676
+B|And then the more you got to thinking about it, the more you thought, You know, I did like it|sd|3676
+A|Yeah.|b|3676
+B|But when you first came out, you weren't real sure.|sv|3676
+A|It sounds kind of like one, uh, we saw at home here on the, rented it, um, CLARA'S HEART.|sd|3676
+B|Haven't seen that.|sd|3676
+A|Um, Whoopi Goldberg.|sd|3676
+B|Oh, yes,|ny|3676
+B|I did,|sd|3676
+B|yes,|ny|3676
+B|I did.|sd|3676
+A|And she played a, uh,|sd|3676
+A|the, uh,|%|3676
+A|she's a housekeeper.|sd|3676
+B|Uh, the nanny type.|bf|3676
+A|Yeah,|aa|3676
+A|she's a housekeeper|sd|3676
+A|she. She was a, oh, now I can't say it, a Haitian.|sd|3676
+B|Housekeeper, uh-huh.|b^m|3676
+A|Anyway, she, uh, she seemed to be that sort of person that seems half crazy,|sd|3676
+A|but then again, she's got a whole lot on the ball,|sd|3676
+A|and the movie had the whole, lot of philosophical content, more than, more than, you know,|sd|3676
+A|it wasn't a mystery,|sd|3676
+A|it wasn't, you know, blood and guts and violence and, and car chases type thing.|sd|3676
+A|It was just a good movie.|sd|3676
+B|I saw one the other day that was A KISS BEFORE DYING.|sd|3676
+A|A KISS BEFORE DYING.|b^m|3676
+B|Uh-huh.|ny|3676
+B|I had not heard about it when it was on the movies, but was out on video.|sd|3676
+A|And.|%|3676
+B|And it's with Sean Young.|sd|3676
+A|Yeah.|b|3676
+B|And it's a, it's a mystery.|sd|3676
+B|It was very predictable,|sd|3676
+B|I mean, you knew, you knew when the murder was going to happen or something,|sd|3676
+B|but it was still so well done that it was enjoyable.|sd|3676
+A|Yeah.|b|3676
+A|That, that takes a good bit to make one that's predictable that's still worth watching.|sv|3676
+B|That's right.|aa|3676
+B|I had, uh, uh,|%|3676
+B|I like the, I think it's called the, uh, RAZOR'S EDGE,|sd|3676
+B|but, no|nn|3676
+B|no,|nn|3676
+B|the JAGGED EDGE,|sd|3676
+B|the JAGGED EDGE  with, uh,|sd|3676
+A|Oh, okay .|b|3676

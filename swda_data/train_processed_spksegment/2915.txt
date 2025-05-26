@@ -1,0 +1,124 @@
+A|Well, I think we pay too much in taxes.|sv|2915|0
+B|Yeah.|b|2915|1
+A|How about you?|qo|2915|0
+B|Well, I think they waste what we pay.|sv|2915|1
+A|Excuse me?|br|2915|0
+B|I think they waste what, all the money that we pay|sv|2915|1
+A|Yeah,|aa|2915|0
+A|that's what I think too.|sd|2915|0
+A|I don't know how you feel, um,|h|2915|0
+A|we moved here from another state.|sd|2915|0
+A|We lived here before, went out and came back,|sd|2915|0
+A|and that particular state had an occupational income tax, but no sales tax.|sd|2915|0
+B|Uh-huh.|b|2915|1
+A|And what you find out is, there's, one evil is the same as the other.|sv|2915|0
+A|Here you don't, there's no occupational tax|sd|2915|0
+A|but it's a heavy sales tax.|sd|2915|0
+B|Uh-huh.|b|2915|1
+A|So they get you coming and going.|sv|2915|0
+B|Now it's even, it's even higher in Dallas County,|sd|2915|1
+B|so.|%|2915|1
+B|Was it. *listen|qy|2915|1
+A|Yeah,|ny|2915|0
+A|it's really, I know, it's just, um.|%|2915|0
+B|It's eight and a quarter I think.|qy^d|2915|1
+A|Yeah,|ny|2915|0
+A|it is.|sd|2915|0
+A|I was shocked.|sd|2915|0
+A|I went,|sd|2915|0
+A|we bought a new washer|sd|2915|0
+A|and the man said, and that's eight percent.|sd|2915|0
+A|I said, eight percent. What|sd|2915|0
+B|Uh-huh.|b|2915|1
+A|So it's really kind of sad,|sv|2915|0
+A|yeah.|%|2915|0
+A|And then I don't know how, you know, in terms of when you all do your federal,|h|2915|0
+A|but it just seems like, if you're strictly middle income, it seems like you get hit the worst.|sv|2915|0
+B|Yeah.|b|2915|1
+A|Is that what you think?|qy|2915|0
+B|Yeah,|ny|2915|1
+B|because it's, at some point it goes up to thirty-three percent|sd|2915|1
+B|and then the people that make, you know, five hundred thousand dollars and, and, and higher than that, they don't have to pay,|sd|2915|1
+B|and sometimes they have to pay even less taxes.|sd|2915|1
+A|Doesn't seem quite fair, does it?|qy|2915|0
+B|No,|nn|2915|1
+B|it isn't.|sd|2915|1
+A|Because they have the money to shelter things|sd|2915|0
+A|and, I don't know, somehow get a, huh|%|2915|0
+B|What?|br|2915|1
+A|Oh, I thought you were going to say something.|qy^d|2915|0
+B|Huh-uh.|nn|2915|1
+A|They somehow seem to get around these,|sd|2915|0
+A|the things that we can't, you know,|%|2915|0
+A|that make, don't make that kind of money.|sd|2915|0
+B|Right.|b|2915|1
+A|I don't know.|h|2915|0
+B|I mean, if they're in business, and, and they're making money,|sd|2915|1
+B|I could see if they're losing money,|sd|2915|1
+B|but they're making money|sv|2915|1
+A|Uh-huh.|b|2915|0
+B|then they should pay taxes then.|sv|2915|1
+A|I know,|aa|2915|0
+A|and just somehow it doesn't seem, you know,|sv|2915|0
+A|and then, I, you|%|2915|0
+A|mean you look at like, uh, that country singer, uh, what's his name, Willie Nelson.|sd|2915|0
+B|Uh-huh.|b|2915|1
+A|Some, he didn't look that stupid.|^q|2915|0
+A|Why didn't he pay his taxes? You know. *listen|^q|2915|0
+B|Right.|aa|2915|1
+B|Uh-huh.|b|2915|1
+A|In a way, it's almost like he had so much debt that, uh, filing bankruptcy was a way to get out of all of it you know.|sv|2915|0
+B|Right.|b|2915|1
+A|So. Do you file federal or joint income tax, And do you feel like you get hit by, you know, too much?|qy|2915|0
+B|I just file federal income tax every year.|sd|2915|1
+B|Yeah,|ny|2915|1
+B|I just got divorced,|sd|2915|1
+B|so I'm single again.|sd|2915|1
+B|So, and you know, it's, it's a lot worse for single people, because they pay the same amount as, as the people that make the same amount of money and they're married.|sd|2915|1
+A|Uh-huh.|b|2915|0
+A|And we, right now, we don't own any property.|sd|2915|0
+A|We lease.|sd|2915|0
+A|So we're in the same,|sd|2915|0
+A|we don't have children,|sd|2915|0
+A|so we're in the same kind of,|sd|2915|0
+B|Uh-huh.|b|2915|1
+A|it's not as bad as being single and divorced,|sv|2915|0
+A|but it's sort of like, if you have like X point five children and earn, you know, you kind of get hit with, you know,|sv|2915|0
+A|I, I mean, it doesn't even pay for me to earn a good wage, because,|sv|2915|0
+A|doesn't that sound stupid.|qy^d|2915|0
+B|Uh-huh.|ny|2915|1
+A|But, I mean, there's actually less tax implication if I don't work full time compared to what my husband does, you know. *are the final "you knows" tags?|sd|2915|0
+B|Right.|b|2915|1
+A|So it's kind of hard.|sd|2915|0
+B|Whoever works less, they can get a tax credit for that.|sd|2915|1
+A|Excuse me.|br|2915|0
+B|If both of the, both of the spouses work, then you get a tax credit for that.|sd|2915|1
+A|Uh-huh.|b|2915|0
+A|Right.|aa|2915|0
+A|Yeah|aa|2915|0
+B|Uh-huh.|b|2915|1
+A|otherwise you're just, you know,|b|2915|0
+A|and if you have kids, you get like seven hundred fifty dollars or something|sd|2915|0
+B|Well, it's two thousand now.|sd|2915|1
+A|Oh, it is.|bh|2915|0
+B|Yeah,|ny|2915|1
+B|for everybody.|sd|2915|1
+A|Oh, my.|ba|2915|0
+B|Uh-huh.|b|2915|1
+A|Well that's not too bad.|sv|2915|0
+B|Then you get a, you get a child care exemption,|sd|2915|1
+B|but it's not enough, you know.|sv|2915|1
+B|I mean, you pay from fifty to a hundred dollars a week in child care|sd|2915|1
+A|Uh-huh.|b|2915|0
+B|and, and they only give you like, I think it's about five or ten percent of that.|sd|2915|1
+A|Oh, my goodness.|ba|2915|0
+B|You know, it doesn't even, it's not even,|sv|2915|1
+A|Yeah.|b|2915|0
+A|I guess that's my call.|sd|2915|0
+A|I guess I better go|fc|2915|0
+B|Oh, okay.|fc|2915|1
+A|Okay,|fc|2915|0
+A|well it was nice talking to you.|fc|2915|0
+B|Nice talking to you.|fc|2915|1
+A|Uh-huh,|fc|2915|0
+A|bye-bye.|fc|2915|0

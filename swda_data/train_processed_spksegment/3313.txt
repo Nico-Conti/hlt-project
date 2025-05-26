@@ -1,0 +1,105 @@
+A|Jeri?|fo_o_fw_"_by_bc|3313|0
+B|Yes.|ny|3313|1
+A|We're supposed to discuss crime in the United States and what can be done with it.|sd|3313|0
+B|That's a rather, rather broad topic|sv|3313|1
+A|They're usually pretty broad anyway.|sv|3313|0
+B|Yeah.|b|3313|1
+A|Where do you live?|qw|3313|0
+B|Uh, we live in Plano.|sd|3313|1
+A|Okay,|bk|3313|0
+A|so, that's a,|%|3313|0
+B|Uh, and where you are?|qw|3313|1
+A|I'm in Richardson,|sd|3313|0
+A|so when I heard the topic I was thinking of the thing down at, uh, Maceo High School in Dallas.|sd|3313|0
+B|Uh-huh.|b|3313|1
+B|Right.|b|3313|1
+B|Right,|b|3313|1
+B|that is so frightening.|ba|3313|1
+A|It is, you know,|aa|3313|0
+B|Uh, do you have children in school?|qy|3313|1
+A|No,|nn|3313|0
+A|mine are already in college now,|sd|3313|0
+A|so I don't have to,|%|3313|0
+B|Yeah.|b|3313|1
+A|at least when they were in high school, it was beginning but not like the rampages.|sd|3313|0
+B|Well, I have,|%|3313|1
+B|my oldest is his first year in high school|sd|3313|1
+B|so we have all this to, to look forward to,|sd|3313|1
+B|and it is really frightening, uh, to think that you can't even send them to school in safety.|sv|3313|1
+B|I mean, certainly, you know, you can't just turn them loose in the middle of Dallas,|sv|3313|1
+B|but, you know, when you can't even, send them on their normal activities in safety, it, it's really frightening.|sv|3313|1
+A|That's true.|aa|3313|0
+B|And, uh, I really, you know,|%|3313|1
+B|they're coming down on the principal,|sd|3313|1
+B|but I really don't know what they can do.|sd|3313|1
+B|I mean, it's just in so much of society with the violence|sv|3313|1
+B|and the kids having access to weapons and drugs|sv|3313|1
+B|and I, I really don't know what, what can be done.|sd|3313|1
+A|Yeah,|b|3313|0
+A|well, I just, I just don't understand how, of course, in my little world, how guns could be so available.|sd|3313|0
+B|Well I don't either,|sd|3313|1
+B|but apparently they just really are.|sv|3313|1
+B|Uh I mean, to me, in Plano you would think that would be about, you know, about as innocent as you could get for for being in a, a large area.|sv|3313|1
+B|But, you know, my son comes home and tells me that, you know, he hears kids talk about having guns|sd|3313|1
+B|and uh, someone came to his football practice about two weeks ago with a gun.|sd|3313|1
+A|Oh, my heavens.|ba|3313|0
+B|And, I mean, it just scared me to death|sd|3313|1
+B|and, you know, they called the police|sd|3313|1
+B|and, and nothing happened,|sd|3313|1
+B|but my goodness you know, it, it could have easily.|sv|3313|1
+A|Well, maybe that's the answer to crime is getting more prosecution.|sv|3313|0
+B|Maybe so.|aa|3313|1
+A|You know, because I don't,|%|3313|0
+A|now I, somehow I feel we're living in an impartial society as far as people seeing something happen, you know, across the street, or seeing someone get mugged, or unfortunately, raped,|sv|3313|0
+A|and people don't do anything.|sv|3313|0
+B|Yeah.|b|3313|1
+A|A woman was raped in Richardson, I read in the paper oh, about a two weeks ago now.|sd|3313|0
+A|And all the neighbors said they heard her yelling for help.|sd|3313|0
+B|Oh, no.|ba|3313|1
+A|But nobody, nobody did anything.|sd|3313|0
+B|I just can't imagine that.|sd|3313|1
+A|You know, I mean they heard someone calling for help.|sd|3313|0
+A|Nobody even called the police to say, you know, I hear a strange screaming|sd|3313|0
+B|Right.|b|3313|1
+A|I'm afraid, you know, if you,|%|3313|0
+A|I don't blame people with today's society about going out to help themselves.|sd|3313|0
+B|Right,|aa|3313|1
+B|well, I can see, you know, especially if you heard screams from a house or something, not going over there maybe, because, you know, it could be dangerous,|sv|3313|1
+B|but certainly I can't understand not calling the police.|sd|3313|1
+A|Yeah.|b|3313|0
+B|I,|%|3313|1
+A|I just, you know,|%|3313|0
+A|it's, it's really frightening that we're not, we're trying to live in our own little cocoons|sv|3313|0
+A|and probably one of the best things we could do for crime is to participate ourselves in its prevention.|sv|3313|0
+B|Right.|aa|3313|1
+B|Well I, I think you're right there.|aa|3313|1
+B|I guess people just kind of keep their noses pointed in their own business,|sv|3313|1
+B|but I think that's real dangerous|sv|3313|1
+B|and, uh, I don't know.|h|3313|1
+B|I try to tell my kids just, just kind of be aware of what's around them, you know|sd|3313|1
+B|and if you see a situation that looks like it could be trouble, just get out of it or call for help, whichever.|sd|3313|1
+A|Yes.|b|3313|0
+B|But, uh,|%|3313|1
+A|Yeah,|b|3313|0
+A|well, you know, the call for help is what scares me now because it, it just,|sd|3313|0
+A|I don't know,|h|3313|0
+A|people just don't,|%|3313|0
+A|I don't know,|h|3313|0
+A|I can't say they don't care, because people just have to care about another person.|sv|3313|0
+B|Yeah.|b|3313|1
+A|But it's that not getting involved, that impersonal society, I think we live in today.|sv|3313|0
+B|Well, maybe this thing with with the child at school, maybe that will make people think a bit more and, you know, take some steps to, to correct it.|sv|3313|1
+B|I don't know,|h|3313|1
+B|it's, it really is, is frightening.|sv|3313|1
+A|Yeah|b|3313|0
+B|I, uh,|%|3313|1
+A|Let me ask you,|oo_co_cc|3313|0
+A|getting back to your son's football practice because it really sort of astonished me that police aren't doing,|sd|3313|0
+A|he didn't have a license for the gun, correct?|qy|3313|0
+B|I don't know.|no|3313|1
+B|I mean, I don't know the details.|sd|3313|1
+B|This was not a child that was on the team.|sd|3313|1
+B|It was someone that, uh, you know, just kind of showed up at the field.|sd|3313|1
+A|Uh-huh.|b|3313|0
+B|Uh, it was a, a student age person,|sd|3313|1
+B|but I'm not even,|%|3313|1

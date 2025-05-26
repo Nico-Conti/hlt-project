@@ -1,0 +1,290 @@
+A|Okay,|fo_o_fw_"_by_bc|3050
+A|there we go.|sd|3050
+B|Okay,|b|3050
+B|great.|ba|3050
+A|So, do you play golf at all?|qy|3050
+B|Yeah,|ny|3050
+B|I do,|sd|3050
+B|I'm a player.|sd|3050
+B|I'm kind of embarrassed I'm talking to a man, cause I'm sure that you are, you play a lot more than I do.|sd|3050
+A|Actually, I don't.|sd|3050
+B|Oh, really.|bh|3050
+A|No,|nn|3050
+A|uh, I, uh, when I was younger, I played a little bit|sd|3050
+A|and I was horrible,|sd|3050
+A|so I just stopped playing.|sd|3050
+B|Oh, well, my husband is, is a very good golfer.|sd|3050
+B|He has got, like a six handicap.|sd|3050
+A|Wow,|ba|3050
+A|that is real good.|sv|3050
+B|So, uh,|%|3050
+B|and he has been playing since we have been married for twenty two years.|sd|3050
+B|So, I had to start playing because, he was, you know, such an avid golfer.|sd|3050
+B|So, I have been playing now,|sd|3050
+B|well I have had clubs for twenty years, you know.|sd|3050
+A|Wow,|ba|3050
+A|so you have been playing,|bf|3050
+B|But, but, I really enjoy it.|sd|3050
+B|So, I had to check that and, and, uh, talk about it.|sd|3050
+B|Well, have you played recently?|qy|3050
+A|No,|nn|3050
+A|actually, I don't even know if I checked that or not, to be perfectly honest. Um|sd|3050
+B|Oh|b|3050
+A|That seems to have been a mistake,|sd|3050
+A|I don't know. Um.|h|3050
+B|Oh, that's okay.|bd|3050
+A|Yeah,|aa|3050
+A|I have not played in a long time.|sd|3050
+A|Um, when I was,|sd|3050
+A|about five or six years ago, my dad , who plays every now and then took me out with him|sd|3050
+A|and, and I basically, um, I had a horrible slice or hook,|sd|3050
+A|I forget which one it was.|sd|3050
+B|Yeah.|b|3050
+A|It wound up tossing the ball into the trees, virtually every time.|sd|3050
+B|Yeah.|b|3050
+B|Yeah,|b|3050
+B|the slice goes to the right|sd|3050
+B|and the hook goes to the left,|sd|3050
+B|I think.|h|3050
+A|Yes,|aa|3050
+A|I was slicing, actually.|sd|3050
+B|Yeah.|b|3050
+A|And, as it turns out, uh, I went and took some lessons for awhile, because I just, I would lose so many balls, and, uh, make it a horrible time for everybody.|sd|3050
+B|Yeah.|b|3050
+B|Yeah.|b|3050
+A|I went and took some lessons,|sd|3050
+A|and a I got a little bit better,|sd|3050
+A|but I but then I sort of, you know, went, went back to school and did not have time and this and that,|sd|3050
+A|and, and the only thing I do now is I occasionally go out to a driving range and hit a couple of balls and see what I can do.|sd|3050
+A|And I, And I still have this slice ,|sd|3050
+B|Yeah,|b|3050
+B|I think that's really a good thing to do.|sv|3050
+B|So, where, are you in your life,|qw|3050
+B|I mean, are you in school?|qy|3050
+A|I'm a graduate student,|sd|3050
+A|yeah.|%|3050
+B|Oh, okay,|bk|3050
+B|at the University of Rochester?|qy|3050
+A|Yes.|ny|3050
+B|Oh, great.|ba|3050
+A|As a matter of fact, um, so I don't have time to do much else, except for graduate work.|sd|3050
+B|Yeah.|b|3050
+B|Yeah.|b|3050
+A|Right,|b|3050
+A|so I hang around this way,|sd|3050
+A|and I,|%|3050
+B|Sure.|b|3050
+A|Occasionally, uh, uh,|%|3050
+A|a bunch of us were pretty avid golfers. Golfers, so we will go out|sd|3050
+B|Uh-huh.|b|3050
+A|and we will, we will, we will play, you know.|sd|3050
+B|And you don't, you don't have the length of the playing time that we do.|qy^d|3050
+A|I have, I have very at the moment I have very little playing time.|sd|3050
+A|When I, when I go on vacation, my father and I, uh play a little bit.|sd|3050
+B|Yes.|b|3050
+A|But, I don't, you know,|sd|3050
+A|we play a par, a par three, nine hole course.|sd|3050
+A|Because, .|%|3050
+B|Oh, that's my favorite kind to play.|sd|3050
+B|Because, for a woman, it's really nice to play a par three course because, that's my, I can't hit a driver very far|sd|3050
+A|Yeah.|b|3050
+B|and, in fact, I don't even like to use a driver,|sd|3050
+B|I use a three iron off the tee because, I have more control over it.|sd|3050
+A|Um.|%|3050
+A|Uh-huh.|b|3050
+B|And, I can, I can just have better contact with the ball that way.|sd|3050
+B|So, I'm still using a three iron|sd|3050
+B|and my husband is trying to get me into using a, you, know, like a high number wood instead.|sd|3050
+A|Right.|b|3050
+A|But, those are, uh, still not you favorite, huh?|qy|3050
+B|No,|nn|3050
+B|it's not my favorite,|sd|3050
+B|but, I, I, uh, I enjoy,|sd|3050
+B|I, I really do,|sd|3050
+B|I think I'm going to like golf the older I get, and the more time I have to play.|sd|3050
+B|I, we have three teenage daughters.|sd|3050
+A|Uh, wow, .|ba|3050
+B|One is,|sd|3050
+A|You must be very busy.|sv|3050
+B|Yeah,|aa|3050
+B|I'm very busy,|sd|3050
+B|I have a part time job|sd|3050
+B|and, and during the year, I don't play much golf|sd|3050
+B|but, but, when I'm, we are on vacation, I love to play. Just like you said.|sd|3050
+A|Um.|%|3050
+B|And, we got to play in Monterrey in California, right, you know, along the Pacific Ocean, this past spring.|sd|3050
+B|And that was, I told my husband, that was the way to play, you know,|sd|3050
+B|that was,|sd|3050
+B|if I could play there every time I want, it was, it was great.|sd|3050
+B|A neat experience|sd|3050
+A|Miniature golf, there's my game. Uh.|sd|3050
+B|Miniature golf is great,|sv|3050
+B|yes.|aa|3050
+A|Miniature golf, there you go, putt, putt.|sd|3050
+B|Well, that's the thing my kids like to do that with, you know, on dates and stuff.|sd|3050
+A|Uh.|%|3050
+B|But, golf is um,|sd|3050
+B|we, we probably are talking about golf because I did check it You know .|sv|3050
+A|I don't, I don't, I don't|%|3050
+A|I may have, actually, I may have just checked random things.|sd|3050
+A|I don't, I don't recall anymore.|sd|3050
+B|Well, yeah,|b|3050
+B|if you ever played,|sd|3050
+B|I mean, I feel like anybody that's ever played golf can talk about it|sv|3050
+B|and maybe if you can even talk about it, if you, if you have, uh, watched it on T V.|sv|3050
+A|Right.|aa|3050
+A|Yeah,|aa|3050
+A|actually, we have a very very, um,|sd|3050
+A|we had the, uh,|sd|3050
+B|Yeah,|b|3050
+B|tell me about your clubs up there.|ad|3050
+B|What,|%|3050
+A|Well, we had,|sd|3050
+A|I haven't played around here too much.|sd|3050
+A|We have a very good one called Locust Hill though.|sd|3050
+A|There, uh, the|%|3050
+B|Locust Hill?|br|3050
+A|Yeah,|aa|3050
+A|the L P G A comes here every year the Rochester International.|sd|3050
+B|Uh-huh,|b|3050
+B|right.|b|3050
+A|And then we had a P G A, actually, a very big P G A, uh, tour stop here, last year.|sd|3050
+B|Oh, great.|ba|3050
+A|And, actually, um, they say the, the,|sd|3050
+A|I have not played the course,|sd|3050
+A|but, they say the course is very, is, is, is pretty tough, pretty challenging.|sd|3050
+B|Uh-huh.|b|3050
+A|And it's, um, not only that,|sd|3050
+A|but, it's exceedingly well kept, apparently.|sd|3050
+B|Oh, yeah.|ba|3050
+A|Because, those are the comments I kept hearing from the pros, you know,|sd|3050
+A|they kept saying, we hear, you know, on, on television I,|sd|3050
+A|but, they keep saying it's just wonderful, uh,|sd|3050
+A|the course is so well maintained|sd|3050
+A|and, you know, it, it, it rained through half the um, tournament, so people had to ,|sd|3050
+A|but, they still,|sd|3050
+A|the grounds keepers were absolutely wonderful about, getting things back up again.|sd|3050
+B|Oh, yeah.|ba|3050
+A|And this,|%|3050
+A|actually, when, when the, um, when the L P G A came here I guess that was about a week and a half ago, it was just, it, it takes over the whole town.|sd|3050
+B|Uh-huh.|b|3050
+B|Oh, sure.|aa|3050
+A|You know. It's all over the news,|sd|3050
+A|and lots and lots of people take off work, to go to go an watch the, the, uh, ladies like some loss of words play.|sd|3050
+B|Yes.|b|3050
+B|Yeah.|b|3050
+B|To watch them,|^2|3050
+B|yeah.|%|3050
+B|The ladies,|^2|3050
+A|So, I mean, I think it's actually, it's absolutely wonderful to see.|sd|3050
+B|Yeah,|aa|3050
+B|I'm sure the people love golf up there like they do down here.|sv|3050
+A|Yeah,|b|3050
+A|uh.|%|3050
+B|People are just|sv|3050
+B|golf is just,|sv|3050
+B|it's just the coming thing,|sv|3050
+B|I mean a lot of people are just crazy about it.|sv|3050
+A|It seems to be.|aa|3050
+A|It seems a lot of people are really, you know,|sv|3050
+A|either, um, either you have not played it, or, or you, you have played it|sv|3050
+A|and you sort of stink, like me,|sd|3050
+B|Well, it's, it's just such a difficult thing.|sv|3050
+A|and you sort of play every now and then.|sv|3050
+B|I mean it's, I just, I watch my husband|sd|3050
+B|and he's, he was a professional athlete,|sd|3050
+B|he, he's a very good athlete|sd|3050
+B|and he's got the coordination, that God given coordination,|sd|3050
+B|and he just struggles, you know, all the time, to um, to master this game.|sd|3050
+A|Yeah.|b|3050
+A|Yeah,|b|3050
+A|well, same here, I mean, I'm a brown belt in Karate at this point in time.|sd|3050
+A|And, uh, And, and I can not, and I can not hit a golf ball|sd|3050
+B|Oh my, really!|ba|3050
+B|Yeah.|b|3050
+A|You know I,|%|3050
+B|Because it,|%|3050
+B|well, I watch my husband swing|sd|3050
+B|and his swing, you know, like compared to the pros, is so, it's ridged.|sd|3050
+B|It's like he's trying so hard, it's not that flowing movement. You know.|sd|3050
+A|Right.|b|3050
+A|That's because he's probably doing what I do, worrying about, is my head straight, is my arm right,|sd|3050
+B|Yeah.|b|3050
+B|Yeah.|b|3050
+B|Or, how far he's going to hit it, I think, you know.|bf|3050
+A|oh yeah.|aa|3050
+B|And I worry about that.|sd|3050
+A|Oh, yeah.|aa|3050
+B|I have just got to get this drive, you know, really far,|sd|3050
+B|I have got to hit it.|sd|3050
+A|Yeah.|b|3050
+B|So.|%|3050
+A|Yeah.|b|3050
+B|Yeah.|b|3050
+A|I have this nasty habit of of turning my head at the last second, or, or just keeping my arm wrong.|sd|3050
+B|Yep,|b|3050
+B|or,|%|3050
+B|Yeah,|aa|3050
+B|turning your head is probably the most common thing for women, they say.|sd|3050
+A|Is it?|qy|3050
+B|And you are always so anxious to see where it goes.|sv|3050
+A|Right,|aa|3050
+A|exactly.|aa|3050
+B|Uh-huh.|b|3050
+A|Exactly,|aa|3050
+A|It's just like I, I don't watch the ball die,|sd|3050
+A|I have .|sd|3050
+A|It took me a long time to learn to wait until the ball was in the air before I looked up.|sd|3050
+B|Yeah,|aa|3050
+B|yeah,|aa|3050
+B|I have to that, especially, even more so, with a short iron than a long you know, than with a driver or something.|sd|3050
+A|Oh, driver.|^2|3050
+B|Because, those short irons, it's just, you want to look up cause you are getting close to the green|sv|3050
+A|Yeah.|b|3050
+B|and you want to see it hit the green.|sv|3050
+B|And you know that's why,|sv|3050
+A|Watch where it's going.|bf|3050
+B|Yeah,|b|3050
+B|so. I I don't know what I'm supposed to ask questions about,|sd|3050
+A|That, that is certainly true|aa|3050
+A|thank you .|ft|3050
+B|am I supposed to ask questions about this whole procedure,|qy|3050
+B|I know that.|sd|3050
+A|That's okay,|aa|3050
+A|go ahead,|ad|3050
+A|it's no big deal.|bd|3050
+B|Well, uh, when I,|sd|3050
+B|do you get, get, um, reimbursed for the calls you make or the calls you talk on too?|qy|3050
+A|Both.|sd|3050
+B|Both.|b|3050
+B|Okay.|bk|3050
+A|I believe so.|sd|3050
+B|Okay,|b|3050
+B|well I really did not know so I,|sd|3050
+A|I, I, I actually don't know,|sd|3050
+A|I get a random reimbursement every now and then and don't really don't really figure it out,  until afterward|sd|3050
+B|Yeah.|b|3050
+B|Okay.|b|3050
+B|Cause this is only my second day doing it|sd|3050
+B|and I just did not, I did not know|sd|3050
+B|and that was .  the details,|sd|3050
+A|Oh, really.|b|3050
+B|we, I just started yesterday.|sd|3050
+A|I have been doing this for awhile, actually.|sd|3050
+B|Have you?|bh|3050
+A|It seems like it's been a while.|na|3050
+B|Yeah.|b|3050
+A|And they just, I just,  get these random checks in the mail every now and then|sd|3050
+B|I had a ,|sd|3050
+A|and,|%|3050
+B|I see.|bk|3050
+A|My wife and I both do it, as a matter of fact.|sd|3050
+B|I see.|bk|3050
+A|And we both just, sort of, get these random checks in the mail|sd|3050
+A|and, To be honest, I, I really have not been accounting,|sd|3050
+B|Yeah.|b|3050
+A|I just sort of figured, well, it's going to work.|sd|3050
+B|Uh-huh.|b|3050
+A|You know, if it works, it works.|sd|3050
+A|So ,|%|3050
+B|Well, my, uh,|%|3050

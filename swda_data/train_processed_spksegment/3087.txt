@@ -1,0 +1,254 @@
+A|Okay.|fo_o_fw_"_by_bc|3087|0
+B|Okay,|b|3087|1
+B|now, now we're supposed to talk about music?|qy|3087|1
+A|Right.|na|3087|0
+B|Why, why did you check music?|qw|3087|1
+A|Why did I pick music?|br|3087|0
+B|Uh-huh.|aa|3087|1
+A|Oh, because I know a little bit about music, you know,|sd|3087|0
+A|so I thought that I would put that,|sd|3087|0
+A|plus I, I like, uh, to listen to music.|sd|3087|0
+B|Uh-huh.|b|3087|1
+B|What kind of music do you enjoy?|qw|3087|1
+A|Um, I really enjoy the oldies,|sd|3087|0
+A|is what I really listen to most of the time.|sd|3087|0
+B|Like what, what kind of oldies?|qw|3087|1
+A|Uh,|%|3087|0
+B|Like the fifties oldies, or older oldies?|qy|3087|1
+A|Usually in the fifties.|sd|3087|0
+B|Uh-huh.|b|3087|1
+A|I'm not really sure,|h|3087|0
+A|I think it's, it's a fifties, sixties, and seventies station that I listen to.|sd|3087|0
+B|Uh-huh,|b|3087|1
+B|uh-huh.|b|3087|1
+B|They have the same kind of station down here,|sd|3087|1
+B|and when I listen to music most of the time that's what I listen to.|sd|3087|1
+A|Oh, really.|bh|3087|0
+B|Uh-huh.|ny|3087|1
+A|I don't know a lot of the, um, uh, musicians' names or the singers' names,|sd|3087|0
+A|but I know a lot of the old songs.|sd|3087|0
+B|Uh-huh,|b|3087|1
+B|uh-huh,|b|3087|1
+B|we just got a disk the other day that was a, um, disk of Nat, Nat King Cole's greatest hits|sd|3087|1
+A|Oh, yeah.|ba|3087|0
+B|and it is excellent.|sd|3087|1
+B|It, it's about twenty of his greatest hits on it.|sd|3087|1
+B|It's really an excellent, excellent C D.|sd|3087|1
+B|We are, we were really quite pleased with it.|sd|3087|1
+B|It was good.|sd|3087|1
+A|Uh-huh.|b|3087|0
+B|Have you, um, do you listen,|qy|3087|1
+B|have you heard of Nat, heard of Nat King Cole?|qy|3087|1
+A|Yes,|ny|3087|0
+A|I have.|sd|3087|0
+B|Okay.|b|3087|1
+B|Well, um, um, do you play any musical instruments or anything. At, at the same time, or, *slash error should be qy|qy|3087|1
+A|Um, I played the accordion for seven years|sd|3087|0
+A|and I played the clarinet for seven years also.|sd|3087|0
+A|No,|nn|3087|0
+A|I played the accordion until I got into about sixth or seventh grade,|sd|3087|0
+A|and then in fourth grade I started the clarinet,|sd|3087|0
+A|and I played that all through high school.|sd|3087|0
+B|Uh-huh.|b|3087|1
+B|Like, so you're in the marching band and stuff in high school.|qy^d|3087|1
+A|I was,|na|3087|0
+A|yes.|ny|3087|0
+B|Yeah,|b|3087|1
+B|I, I played the baritone horn in high school band and in college.|sd|3087|1
+A|Oh, okay.|bk|3087|0
+B|So, and, my wife played flute in high school.|sd|3087|1
+A|Uh-huh.|b|3087|0
+B|So.|%|3087|1
+A|And then in concert band I played the bass clarinet.|sd|3087|0
+B|Really|b|3087|1
+A|Yeah.|b|3087|0
+B|really.|b|3087|1
+A|Uh-huh.|b|3087|0
+B|Actually that's exactly the same thing my ex-wife did|sd|3087|1
+B|She played the clarinet|sd|3087|1
+B|and then she played bass clarinet during concert band.|sd|3087|1
+A|Oh, really.|bh|3087|0
+B|Yes,|ny|3087|1
+B|yeah,|ny|3087|1
+B|so.|%|3087|1
+A|I like the low notes better than the high notes.|sd|3087|0
+A|So.|%|3087|0
+A|We didn't have any bass clarinet players|sd|3087|0
+A|so I asked him if I could play it, because I was first clarinet,|sd|3087|0
+A|and they end up playing a lot of the high notes,|sd|3087|0
+A|and I don't, I don't care for the sound of the high notes.|sd|3087|0
+A|So I asked him if I could play the bass clarinet,|sd|3087|0
+A|and he said, Sure, you know,|sd|3087|0
+A|he didn't have anyone to play it.|sd|3087|0
+A|So I played it,|sd|3087|0
+A|and I really enjoyed it.|sd|3087|0
+B|Um. Well, I like it,|sd|3087|1
+B|I, I like the low instruments better, too.|sd|3087|1
+A|Uh-huh.|b|3087|0
+B|Um, do you go to, do you go to listen to much live music?|qy|3087|1
+A|Pardon me?|br|3087|0
+B|Do you listen to much live music, like concerts or things there?|qy|3087|1
+A|No,|nn|3087|0
+A|I really don't go to very many concerts.|sd|3087|0
+B|Uh-huh.|b|3087|1
+B|We're, we're going to one here in a couple of weeks.|sd|3087|1
+B|The,|%|3087|1
+B|um, um, I don't know if you follow Broadway, much,|sd|3087|1
+B|but, uh, Michael Crawford was in PHANTOM OF THE OPERA on Broadway.|sd|3087|1
+A|Uh-huh.|b|3087|0
+B|You know, you know whom I'm talking about?|qy|3087|1
+A|Yes.|ny|3087|0
+B|And he's coming to Dallas on the twenty-ninth,|sd|3087|1
+B|and we got a big group going down to hear him sing a bunch of, uh, Andrew Lloyd Webber's music.|sd|3087|1
+B|So that'll be good.|sd|3087|1
+A|Oh, wow.|ba|3087|0
+B|My sons are kind of into Broadway.|sd|3087|1
+B|They, they, my, my older son is at Columbia in New York City,|sd|3087|1
+B|and he's been to see PHANTOM, and LES MISERABLES and bunch of other things up there,|sd|3087|1
+B|so,|%|3087|1
+A|I would love to be able to go see LES MISERABLES.|sd|3087|0
+B|And he does it,|sd|3087|1
+B|he can go if they get sixteen dollar tickets to that thing,|sd|3087|1
+A|Oh, my gosh.|ba|3087|0
+B|yeah,|%|3087|1
+B|yeah,|%|3087|1
+B|and one of the, uh,|sd|3087|1
+B|the last time they went up, a friend of his wanted to go,|sd|3087|1
+B|and Chris didn't want to go,|sd|3087|1
+B|so the friend David went,|sd|3087|1
+B|and he went and bought one of the low priced student tickets,|sd|3087|1
+B|and they, they gave him the seat that normally belongs to John Bel John|sd|3087|1
+B|It's his house seat.|sd|3087|1
+B|That's under his control,|sd|3087|1
+B|and he said it was a great seat.|sd|3087|1
+A|Holy smoke.|ba|3087|0
+B|So, he, he's been to, they've been to see it several times.|sd|3087|1
+A|Oh, I would love to go see that, and CATS CHORUS LINE|sd|3087|0
+B|Yeah.|b|3087|1
+B|Yeah.|b|3087|1
+A|I would love to be able to go see those.|sd|3087|0
+B|Would they,|%|3087|1
+B|do, don't any of those ever come to Pittsburgh?|qy|3087|1
+A|They do,|na|3087|0
+A|but I work,|sd|3087|0
+A|and I went to, I go to college,|sd|3087|0
+A|I had just gotten,|sd|3087|0
+A|I just graduated from college in May,|sd|3087|0
+A|and so I really didn't have the chance or the money to go see them.|sd|3087|0
+B|Sure.|b|3087|1
+B|Well, we're kind of, you know,|sd|3087|1
+B|they,|%|3087|1
+B|well, I saw two, two road shows of LES|sd|3087|1
+B|and they were both excellent.|sd|3087|1
+A|Uh-huh.|b|3087|0
+B|So if it comes to Pittsburgh in the road shows, and I think they have three different companies that tour the U S, um, you should go see it, because it's really, it's really outstanding.|ad|3087|1
+A|Yeah.|b|3087|0
+A|My brother doesn't even like that kind of stuff,|sd|3087|0
+A|and he went to New York,|sd|3087|0
+A|a bunch of,|%|3087|0
+A|there was like twenty students from high school that went,|sd|3087|0
+A|and he went to New York with them,|sd|3087|0
+A|and he saw it,|sd|3087|0
+A|and he said it was the best thing he'd ever seen|sd|3087|0
+B|Right.|b|3087|1
+A|and he doesn't even like that type of stuff.|sd|3087|0
+B|Well, I think it's just incredible.|sv|3087|1
+B|I,|%|3087|1
+B|and then, you know, those, um, two guys who wrote LES MIS wrote a new show call MISS SAIGON|sd|3087|1
+A|Oh really.|bh|3087|0
+B|Yeah,|ny|3087|1
+B|it just opened in New York this spring,|sd|3087|1
+B|and my son and his friend were in a lottery to get tickets to it,|sd|3087|1
+B|and they got tickets for the opening night.|sd|3087|1
+A|Oh.|b|3087|0
+B|And they went to it,|sd|3087|1
+B|and they said it was, it was great, it was great.|sd|3087|1
+A|Oh, see now, I like that type of stuff.|sd|3087|0
+A|But my fiancee doesn't really like it.|sd|3087|0
+A|He's more into the New Wave music,|sd|3087|0
+B|Yeah,|b|3087|1
+B|like Depressed Mode,|sd|3087|1
+B|and,|%|3087|1
+A|Yeah,|aa|3087|0
+A|I guess, I don't know either, you know,|sd|3087|0
+B|Yeah,|b|3087|1
+B|I don't too much,|sd|3087|1
+B|but my younger son listens to some of that kind of stuff.|sd|3087|1
+A|Oh, I don't know, uh,|h|3087|0
+A|really weird names, like The Dead Milkman,|sd|3087|0
+A|or I don't know.|h|3087|0
+A|Oh, it's you know, really weird stuff, he likes,|sd|3087|0
+A|and I thought, Oh my gosh,|sd|3087|0
+B|So he listens to New Wave|bf|3087|1
+B|and you listen to the oldies.|bf|3087|1
+A|Yeah|aa|3087|0
+B|That's kind of different.|sv|3087|1
+A|Well,|%|3087|0
+B|Well, that's good though, you know.|sv|3087|1
+B|It's good to cover all the bases there.|sv|3087|1
+A|I pretty, I'll listen to anything basically, except I don't like the real hard metal rock.|sd|3087|0
+B|Uh-huh.|b|3087|1
+A|I just refuse to listen to that at all.|sd|3087|0
+A|I'll even listen to country.|sd|3087|0
+A|I don't, I like some country.|sd|3087|0
+B|Well, we don't, now we don't listen to much country,|sd|3087|1
+B|but we just,|%|3087|1
+B|at the same night we bought that Nat King Cole album, we bought Garth Brooks' album, No Fences.|sd|3087|1
+A|Uh-huh.|b|3087|0
+B|That is excellent.|sd|3087|1
+B|We, Well, we, I've never, never listened.|ng|3087|1
+A|Do you like Randy Travis?|qy|3087|0
+B|I mean, I've, I've probably heard him,|sd|3087|1
+B|but I've never bought any of his music.|sd|3087|1
+A|Uh-huh.|b|3087|0
+B|Garth Brooks is probably the only country album we have,|sd|3087|1
+B|or, no wait, my wife bought an album of Hank Williams' greatest hits.|sd|3087|1
+A|Oh, Hank Williams Junior?|qy|3087|0
+B|Nope,|nn|3087|1
+B|this is Hank Williams senior,|sd|3087|1
+A|Oh.|b|3087|0
+B|so these are a bunch of old recordings.|sd|3087|1
+A|Uh-huh.|b|3087|0
+B|She bought that the same night we bought the Nat King Cole and the Garth Brooks.|sd|3087|1
+A|Oh, yeah,|ba|3087|0
+A|well, those should be good albums.|sv|3087|0
+B|It is pretty good.|sd|3087|1
+B|She likes it.|sd|3087|1
+A|If you have the chance,|sd|3087|0
+B|It's a little, it's a little too country for me,|sd|3087|1
+B|it's a little too, uh, ronky tonk or something.|sd|3087|1
+A|Yeah,|b|3087|0
+A|uh-huh.|b|3087|0
+B|I like, I like the Garth Brooks album a lot.|sd|3087|1
+A|Uh-huh.|b|3087|0
+B|It's pretty good,|sd|3087|1
+B|it's pretty good.|sd|3087|1
+A|Um, I don't know,|h|3087|0
+A|maybe you wouldn't like Randy Travis.|sv|3087|0
+A|He's really country himself|sd|3087|0
+B|Uh-huh.|b|3087|1
+A|but, uh, I, you know, I, I really enjoy listening to his music.|sd|3087|0
+B|Which album, which of his albums do you think is the best?|qw|3087|1
+A|Oh, I don't know.|no|3087|0
+A|If I were you, I would get the Greatest Hits album if he had one, because you know, that would have a mixture of all his, you know, top songs on it.|ad|3087|0
+B|Okay.|b|3087|1
+B|Uh-huh.|b|3087|1
+A|But, um, we have, I think, four records of his.|sd|3087|0
+A|I can't, you know, name the names of them off hand|sd|3087|0
+B|Uh-huh.|b|3087|1
+A|but we have, I think, all his records so far,|sd|3087|0
+A|and all my brothers and sisters listen to them, even the ones that like the heavy metal they really enjoy listening to him,|sd|3087|0
+B|Uh-huh.|b|3087|1
+A|so.|%|3087|0
+B|Uh-huh.|b|3087|1
+A|You know, maybe if you did like Hank Williams and Garth, you know, maybe you would enjoy uh, Randy Travis.|sv|3087|0
+B|Well, I, I think we'll probably get one, one of his albums, because we do kind of like it,|sd|3087|1
+B|but you know, it's kind of different.|sv|3087|1
+A|Uh-huh.|b|3087|0
+A|Yeah,|b|3087|0
+B|So, so it's good.|sv|3087|1
+A|Um, do you know any, oh,|qy|3087|0
+A|I was going to say do you know any other country singers that you would, you know, I mean, the women, do you like the ,|qy|3087|0
+B|Yeah,|ny|3087|1
+B|we do like the ,|sd|3087|1
+B|in fact we have a album ...|sd|3087|1

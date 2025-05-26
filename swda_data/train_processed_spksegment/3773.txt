@@ -1,0 +1,148 @@
+A|Did you hear our topic?|qy|3773|0
+A|It's in regards to discussing homes.|sd|3773|0
+B|Homes,|b^m|3773|1
+B|yes, sir,|ny|3773|1
+B|uh-huh.|%|3773|1
+B|What are, are you settled in a place?|qy|3773|1
+A|Yeah,|ny|3773|0
+A|I'm settled in a place.|sd|3773|0
+A|I've been in it for twelve years, since nineteen, uh, actually thirteen years, since nineteen seventy-eight|sd|3773|0
+A|and it's in Richardson, Texas, which is north Texas or north Dallas.|sd|3773|0
+B|Right|b|3773|1
+B|Uh-huh.|b|3773|1
+A|And we've lived in two houses in Richardson.|sd|3773|0
+A|We moved here in seventy-four and, uh, changed locations in seventy-eight.|sd|3773|0
+B|Okay.|bk|3773|1
+A|How about yourself?|qo|3773|0
+B|Well, we, uh, left here in seventy-six.|sd|3773|1
+B|Uh, we were here for a few years,|sd|3773|1
+B|then we, uh, have come back just this summer.|sd|3773|1
+B|Right now we're looking for housing, uh, somewhere down in the Duncanville and Cedar Hill area.|sd|3773|1
+B|Are you familiar with that?|qy|3773|1
+A|Yeah,|ny|3773|0
+A|it's a nice area.|sv|3773|0
+B|Yeah,|aa|3773|1
+B|it is.|aa|3773|1
+B|The kids are in school here in Duncanville.|sd|3773|1
+B|We're in a temporary place right now|sd|3773|1
+B|and, uh, so they've enjoyed the school,|sd|3773|1
+B|so we're kind of trying to stay here|sd|3773|1
+B|but,|%|3773|1
+A|Are you finding it tough trying to find what you want|qy|3773|0
+A|or,|%|3773|0
+B|Well, what, the problem we got is that we've got five children|sd|3773|1
+A|Oh, boy.|ba|3773|0
+B|and so, uh, we really want four or five bedroom house|sd|3773|1
+B|and, uh, you know, everybody says, you know, how many houses are on the market and all that kind of thing|sd|3773|1
+A|right.|b|3773|0
+B|so we, uh, we look at the paper,|sd|3773|1
+B|we look at our, talk to our realtor|sd|3773|1
+B|and you can cut, you know, the listings, uh, in about a third when you go from three to four bedrooms you know, or five.|sd|3773|1
+A|Sure.|b|3773|0
+B|Are you looking|qy|3773|1
+B|or you settled,|qrr|3773|1
+B|I mean,|%|3773|1
+A|No,|nn|3773|0
+A|we're settled|sd|3773|0
+A|and, uh we're, uh,|sd|3773|0
+B|having,|%|3773|1
+A|I'm probably older than you,|sv|3773|0
+A|I'm fifty-two,|sd|3773|0
+A|but anyway, I, my youngest is getting married this year graduating college,|sd|3773|0
+B|Oh, great.|ba|3773|1
+A|so I can board up their rooms, and look forward to retirement maybe.|sd|3773|0
+B|That empty nest syndrome is going to set in, I guess.|sv|3773|1
+A|Oh, gosh,|ba|3773|0
+A|so, we're looking forward to retiring in about three years and maybe relocating to Florida or somewhere. Closer, closer to our families.|sd|3773|0
+B|Great.|ba|3773|1
+B|Okay.|b|3773|1
+B|Okay,|b|3773|1
+B|you, are you from Florida originally?|qy|3773|1
+A|No,|nn|3773|0
+A|from West Virginia|sd|3773|0
+A|but everyone's, uh, my wife's parents are from the New York, New Jersey area|sd|3773|0
+B|Yeah|b|3773|1
+A|so, but everyone seems, uh, has seem to relocated down that area.|sd|3773|0
+B|Oh, yeah.|b|3773|1
+A|Seems like a nice place to go|sv|3773|0
+B|Yeah,|b|3773|1
+B|yeah.|b|3773|1
+B|We've got five|sd|3773|1
+B|and the oldest is, uh, ninth grade|sd|3773|1
+B|and the youngest is second grade|sd|3773|1
+B|and I think they're going to be, uh, with us forever.|sv|3773|1
+B|I don't know if that's true,|sv|3773|1
+B|but it's sure, you know, we're not anywhere near looking to, uh, uh, cut down in size.|sd|3773|1
+B|We're, we're trying to find,|sd|3773|1
+A|Oh, I understand.|b|3773|0
+A|You need very minimum four and probably five.|bf|3773|0
+B|Oh, yeah.|aa|3773|1
+B|In fact, six would be real good.|sd|3773|1
+A|Right.|b|3773|0
+B|My wife and I can share a bedroom|sd|3773|1
+A|It's tough to find a five and six room, bedroom house, isn't it?|qy|3773|0
+B|Either,|%|3773|1
+B|Oh, I don't think it's possible unless you, you know, multimillionaire, something like that.|sv|3773|1
+A|Oh, I know.|aa|3773|0
+B|Uh,|%|3773|1
+A|Seems like you get in that category, you're in the three hundred thousand dollar homes or whatever|sv|3773|0
+A|and it's that's an awful lot, you know|sv|3773|0
+B|Oh, yeah.|aa|3773|1
+B|Yeah,|aa|3773|1
+B|it is,|sv|3773|1
+B|yeah.|%|3773|1
+B|Uh, we're having,|sd|3773|1
+B|actually, if we find something for, uh, I'd say less than a hundred and twenty thousand, we'll be doing all right, you know.|sv|3773|1
+A|Right.|b|3773|0
+B|That's, uh,|%|3773|1
+B|but I think the thing's out there,|sv|3773|1
+B|it's just a matter of, uh you know, looking you know finding the right place, uh,|sv|3773|1
+A|Just, Matter of looking,|^2|3773|0
+A|right.|aa|3773|0
+A|Lot of people will buy, in your situation will buy a four bedroom house and convert maybe the garage or something or the, or do something.|sv|3773|0
+A|I had a young lady used to work for me at my office from the high school|sd|3773|0
+A|and she had, uh, there were seven kids in her family.|sd|3773|0
+B|Wow.|ba|3773|1
+A|And they converted the dining room and, did this and that,|sd|3773|0
+A|but they always seemed to get along fine, you know.|sd|3773|0
+B|Oh, yeah,|b|3773|1
+B|yeah.|b|3773|1
+B|I think once we get into a place, it will be just fine,|sd|3773|1
+B|but you know, it's until then, it's, uh, oh, a little stressful, you know, just looking all the time and that sort of thing.|sd|3773|1
+A|Oh, sure.|ba|3773|0
+A|Oh, I know|aa|3773|0
+A|and it's, there's nothing harder than that.|sv|3773|0
+A|I always just sort of a, assign my wife that chore,|sd|3773|0
+A|then I would let her narrow it down to three or four,|sd|3773|0
+A|then I'd go look because women seem to like to look a lot more than men do.|sv|3773|0
+B|Oh, yeah.|aa|3773|1
+B|Maybe that's the case.|aap_am|3773|1
+B|At least she's got more opinions, you know,|sv|3773|1
+B|there's, uh, seems like there's more constraints more things that she thinks about. You know, openness, uh, the size of the kitchen and all this kind of stuff that I would probably gloss over and, maybe even ignore, you know.|sv|3773|1
+A|Yes.|aa|3773|0
+A|Why, certainly.|aa|3773|0
+A|I  understand that.|b|3773|0
+B|So.  What kind of business are you in?|qw|3773|1
+A|I'm in the, uh, sporting goods business.|sd|3773|0
+A|I'm a manufacturer's rep.|sd|3773|0
+A|I represent fourteen different hunting and shooting type companies.|sd|3773|0
+B|Oh, yeah,|b|3773|1
+B|great.|ba|3773|1
+A|What, who are you with?|qw|3773|0
+B|Uh, we're with an organization called, uh, Wycliff Bible Translators.|sd|3773|1
+A|Uh-huh.|b|3773|0
+B|It's a, a missions organization and, uh, doing, uh, translation, linguistics, that sort of thing.|sd|3773|1
+A|Well, great.|ba|3773|0
+B|Uh, it's got an office down here in, uh, in, near Duncanville|sd|3773|1
+B|and we just moved down to be on staff down here|sd|3773|1
+B|so.|%|3773|1
+A|How, how was the, uh,|qw|3773|0
+A|you say you lived in the Denver area before?|qy^d|3773|0
+B|Right.|na|3773|1
+A|How did that compare with this area as far as housing prices?|qw|3773|0
+B|Uh, we were, uh, really surprised to find that they're higher here. Uh,|sd|3773|1
+A|No kidding.|ba|3773|0
+B|When we moved from Louisiana to Denver, it was astounding, you know, to find that prices were, oh, I guess almost two or three times as high as we'd expected.|sd|3773|1
+B|And then, uh, to come down here, we thought things would be lower,|sd|3773|1
+B|and they're not.|sd|3773|1
+B|I guess, uh, really, prices for housing are just,|sv|3773|1

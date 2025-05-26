@@ -1,0 +1,401 @@
+A|Okay,|fo_o_fw_"_by_bc|2479|0
+A|do you have|qy|2479|0
+B|Are you there?|qy|2479|1
+A|Yeah.|ny|2479|0
+B|Okay|bk|2479|1
+A|There, okay.|fo_o_fw_"_by_bc|2479|0
+B|Okay.|b|2479|1
+A|Had to mess with my phone here.|sd|2479|0
+A|Um, do you have children?|qy|2479|0
+B|Yes,|ny|2479|1
+B|I have one.|sd|2479|1
+A|Oh, okay.|bk|2479|0
+B|How about you?|qo|2479|1
+A|I have three.|sd|2479|0
+B|Oh, my goodness|ba|2479|1
+A|Yeah|b|2479|0
+A|Yeah,|b|2479|0
+A|uh, do you work?|qy|2479|0
+B|Yeah,|ny|2479|1
+B|I do.|sd|2479|1
+A|Okay.|bk|2479|0
+B|I do,|sd|2479|1
+B|I work|sd|2479|1
+B|and, and, uh, Brian's in a day care center.|sd|2479|1
+B|He's uh, he was two in December,|sd|2479|1
+A|Oh.|b|2479|0
+B|so he's not quite two and a half yet.|sd|2479|1
+A|Uh-huh.|b|2479|0
+B|He,|%|2479|1
+B|uh, I put him,|sd|2479|1
+B|I'm kind of had different, different ideas from what probably the majority of people have,|sd|2479|1
+A|Uh-huh.|b|2479|0
+B|I put him in a day care center from the very beginning.|sd|2479|1
+B|He started in day care when he was eight weeks old.|sd|2479|1
+A|Oh, no kidding.|ba|2479|0
+B|And I just,|%|2479|1
+B|I don't know,|h|2479|1
+B|I have kind of the opposite opinion of most people,|sd|2479|1
+A|Really.|b|2479|0
+B|I have had this real problem with a, a private individual.|sd|2479|1
+B|I mean I, I kind of looked at it like if you take him to a home with a, with private individual, when the door shuts,  that one person has total control,|sd|2479|1
+A|Yeah.|b|2479|0
+A|Yeah.|b|2479|0
+B|and I always figured at least in a day care center there are other people around,|sd|2479|1
+A|Yeah.|b|2479|0
+B|and if you get one bad apple, there's are at least other people that can see it.|sd|2479|1
+A|Yeah.|b|2479|0
+B|They can watch,|sd|2479|1
+B|and I just kind of always felt that the chances of something happening were less.|sv|2479|1
+A|Yeah,|b|2479|0
+A|yeah.|b|2479|0
+A|Uh-huh.|b|2479|0
+A|Because there's,|%|2479|0
+B|You know, how can you help depending on the day care center, you know,|qy^d|2479|1
+A|Yeah.|ny|2479|0
+B|you got to when you hear about all the horrible things that happen in day care centers,|sv|2479|1
+B|have you ever noticed they're always like a family owned center where the mother and the daughter and the son run it, you know, kind of thing.|qy^d|2479|1
+A|It's like a family thing.|^2|2479|0
+B|Yeah,|aa|2479|1
+B|yeah.|aa|2479|1
+B|You never hear about it really in the big ones.|sd|2479|1
+A|Yeah.|b|2479|0
+B|So, that's what I did|sd|2479|1
+B|and I have had just excellent luck.|sd|2479|1
+A|Oh, good.|ba|2479|0
+B|I have been just so happy.|sd|2479|1
+B|He's,|%|2479|1
+A|Oh, good.|ba|2479|0
+A|I was just going to ask you how it, you know, if you liked the, the,|sd|2479|0
+A|but obviously you do or you wouldn't have him there, I know,|sd|2479|0
+A|but,|%|2479|0
+B|Right.|b|2479|1
+B|Right.|b|2479|1
+B|Well he was in, he was in the same center for two years, for the first two years,|sd|2479|1
+A|Uh-huh.|b|2479|0
+B|and, uh, it was wonderful,|sd|2479|1
+B|and I loved it,|sd|2479|1
+B|and I was so happy there|sd|2479|1
+B|and the woman who owned it sold it.|sd|2479|1
+A|Oh, gosh.|ba|2479|0
+B|But, I thought okay, I'm going to keep an open mind here,|sd|2479|1
+A|Right.|b|2479|0
+B|and the people who came in, it just wasn't, it,  just wasn't the same|sd|2479|1
+A|Wasn't the same.|^2|2479|0
+B|and their, their attitude and philosophy was just completely, opposite from mine,|sd|2479|1
+A|Uh-huh.|b|2479|0
+A|Uh-huh.|b|2479|0
+B|and I left him there for about a month and just decided I can't do this anymore,|sd|2479|1
+B|and I, moved him, which was an extremely traumatic experience|sd|2479|1
+A|Yeah.|b|2479|0
+B|but. but, he's done well,|sd|2479|1
+A|Was it?|bh|2479|0
+A|Yeah.|b|2479|0
+B|he's been there,  a couple of months now,|sd|2479|1
+A|Good.|ba|2479|0
+B|and I just feel so lucky.|sd|2479|1
+A|Oh, good.|ba|2479|0
+B|Yeah.|b|2479|1
+A|That's great,|ba|2479|0
+A|that's good.|ba|2479|0
+B|How about you?|qo|2479|1
+B|Do you work|qy|2479|1
+B|or do you get to stay home with them?|qrr|2479|1
+A|Well, I got to stay home with my kids for the first ten years.|sd|2479|0
+A|My oldest one is ten and a half now,  or she's, I guess,|sd|2479|0
+B|Wonderful.|ba|2479|1
+A|yeah,|b|2479|0
+A|it's,|%|2479|0
+A|was about ten years.|sd|2479|0
+A|So I, yeah, I, I was really happy that I was able to do that.|sd|2479|0
+A|But, I,|%|2479|0
+A|that's what I wanted to, because I, uh, you know I just couldn't wait to have kids|sd|2479|0
+A|and so, if I was,|%|2479|0
+A|I was so anxious to have them|sd|2479|0
+A|and I couldn't wait to have them it would be kind of silly, you know, to go back to work as soon as I had them,|sd|2479|0
+A|so,|%|2479|0
+B|Right.|b|2479|1
+B|Right.|b|2479|1
+A|so, it, it, it, it was really great.|sd|2479|0
+A|By the end of the ten years I was really ready to go back to work,|sd|2479|0
+B|Yeah.|b|2479|1
+B|I bet|ba|2479|1
+A|and my youngest was only, uh, two and a half|sd|2479|0
+B|Uh-huh.|b|2479|1
+A|I mean she was already two and a half,|sd|2479|0
+B|Uh-huh.|b|2479|1
+A|so it wasn't, you know, she wasn't an infant.|sd|2479|0
+B|A baby.|^2|2479|1
+A|Yeah.|aa|2479|0
+B|Yeah|b|2479|1
+A|Yeah.|b|2479|0
+A|Yeah,|b|2479|0
+A|so, I felt real good about that,|sd|2479|0
+A|but, uh, boy, I tell you with summer coming up I'm just pulling my hair out, in terms of what I'm going to do,|sd|2479|0
+A|I, I guess I, went back to work about a year and a half ago|sd|2479|0
+A|and, uh, I worked full time all last year|sd|2479|0
+A|and now I'm going to school part time and, uh, graduate school,|sd|2479|0
+A|and I'm working part time|sd|2479|0
+A|And, so I'm still,|%|2479|0
+B|I know how that goes|sd|2479|1
+A|Yeah.|b|2479|0
+A|I'm still going full time,|sd|2479|0
+A|but I only have half time salary,|sd|2479|0
+B|Yeah.|b|2479|1
+A|and, uh, when school lets out, I just don't, I haven't, I have no idea what I'm going to do, because I certainly can't afford what we did last year which was,|sd|2479|0
+B|Right,|b|2479|1
+B|right.|b|2479|1
+B|Did you have them in a center or something last summer?|qy|2479|1
+A|Well, we did,|na|2479|0
+A|we tried, we had all different things,|sd|2479|0
+A|we sent them to camp.|sd|2479|0
+A|One,|%|2479|0
+A|first month, in June, they went to summer school, then the second month they,|sd|2479|0
+A|uh, one,|%|2479|0
+A|my daughter went home to visit my Mom for a while and my son, uh, went to camp|sd|2479|0
+A|and there we had, uh, I don't know some,|sd|2479|0
+A|forget what else we did|^h|2479|0
+A|but it was all, uh, really expensive|sd|2479|0
+B|Yeah,|b|2479|1
+B|that stuff is expensive.|sd|2479|1
+B|It really is.|sd|2479|1
+A|So, now they're a year older,|sd|2479|0
+A|and I,|%|2479|0
+A|my daughter's eleven, going to be eleven this summer|sd|2479|0
+A|and my son will be, nine and a half.|sd|2479|0
+A|And so, I'm not,|%|2479|0
+A|I think I can leave them home,|sd|2479|0
+A|for a,|%|2479|0
+A|if I can work part of the day, you know, I'm going to leave them home.|sd|2479|0
+B|Yeah,|b|2479|1
+B|yeah.|b|2479|1
+B|I was going to say they're getting to the age where, you should be able to trust that a little bit,|sd|2479|1
+A|Right.|b|2479|0
+B|yeah.|b|2479|1
+A|Yeah.|b|2479|0
+A|Yes,|b|2479|0
+A|in fact I'm doing that right now with their afternoons, when they get home before I do. You know,|sd|2479|0
+A|that's okay.|sd|2479|0
+A|But, the four year old now I I have had her since I went back to work, or before I went back to work really, in a home day care situation,|sd|2479|0
+B|Uh-huh.|b|2479|1
+A|and, uh, we've just been really thrilled, with it too.|sd|2479|0
+A|We were what,|sd|2479|0
+A|actually we,|%|2479|0
+A|it took us two or three different people to find,|sd|2479|0
+B|To find the right one,|^2|2479|1
+A|Yeah.|aa|2479|0
+B|that's what we have to do though.|sd|2479|1
+A|Right.|b|2479|0
+A|But, I wasn't embarrassed to shop around you know,|sd|2479|0
+B|No.|aa|2479|1
+A|so, the, the person we found it through the,|sd|2479|0
+A|there's an association here in town of professional home, care providers or something like that.|sd|2479|0
+B|Where do, where do you live?|qw|2479|1
+A|In Plano.|sd|2479|0
+B|Plano?|qy^d|2479|1
+A|Yeah,|ny|2479|0
+A|and they have a number you can call|sd|2479|0
+A|and all these people are registered with their association|sd|2479|0
+A|and, you know, go like our, our, uh,|sd|2479|0
+A|I don't want to call her a baby-sitter,|sd|2479|0
+A|she's doesn't like, to be called that,|sd|2479|0
+A|care provider.|sd|2479|0
+B|Care provider.|b^m|2479|1
+A|Right.|aa|2479|0
+A|She goes to seminars|sd|2479|0
+A|and, uh,|%|2479|0
+B|Oh, that's wonderful.|ba|2479|1
+A|she gets home visitations by the I don't know, the state boards, I guess, some of them and then some by the association,|sd|2479|0
+A|and they have weekly meetings and everything|sd|2479|0
+A|and, so it's just really, really well regulated.|sd|2479|0
+B|That's great.|ba|2479|1
+A|And, she's just great.|sd|2479|0
+A|In fact, uh, she's all upset because Galen is going to go to kindergarten next fall|sd|2479|0
+A|and she says this is it,|sd|2479|0
+A|you know, I'm not going to have her anymore|^q|2479|0
+A|and I said, Oh, no, don't count on that|sd|2479|0
+A|After noon classes she's going to be here because she's going to morning kindergarten.|sd|2479|0
+B|Right,|b|2479|1
+B|right.|b|2479|1
+A|So, but, we, we've tried, we've tried everything|sd|2479|0
+A|and one year, I guess last year when I went back to work I had|sd|2479|0
+A|my son was eight at the time, just barely eight,|sd|2479|0
+A|and, uh, we put him in Amrein's Day Care, after. After,|sd|2479|0
+B|Uh-huh,|b|2479|1
+B|I've heard that, they were very good.|sd|2479|1
+A|Well, that's why we picked it, because they were, were supposed to be real great,|sd|2479|0
+A|and, you know, I think they were fine,|sd|2479|0
+A|but the thing is he was in school all day, in second grade,|sd|2479|0
+B|Uh-huh.|b|2479|1
+A|in, in Plano, it's open classroom situation where they don't have walls,|sd|2479|0
+B|Uh-huh.|b|2479|1
+A|so there is like a hundred and twenty second graders in the same area with no walls.|sd|2479|0
+B|Oh.|b|2479|1
+A|And, uh, and then he'd get on the Amrein's Bus to go to Amrein's|sd|2479|0
+A|and then there would be a whole ton of other kids, all in the same room, you know,|sd|2479|0
+B|Yeah.|b|2479|1
+A|you know what fun they had with these computer games|sd|2479|0
+A|and then they'd go outside for awhile,|sd|2479|0
+A|they had snacks and story time and everything.|sd|2479|0
+A|But, it was just like going to school until five thirty at night instead of being able to get home at two thirty.|sd|2479|0
+B|Poor kid was in school all day.|bf|2479|1
+B|Yeah.|b|2479|1
+A|Yeah.|aa|2479|0
+B|Yeah.|b|2479|1
+A|Because he was always around with a crowd of kids and he just really missed being able to be by himself,  and having some peace and quiet|sd|2479|0
+B|Uh-huh.|b|2479|1
+A|or, you know.|%|2479|0
+B|Uh-huh.|b|2479|1
+B|Even at that age they need that time,|sv|2479|1
+A|Yes.|b|2479|0
+B|we all need that time, just some quiet time to wind down from the day.|sv|2479|1
+A|Yeah.|b|2479|0
+A|Right.|b|2479|0
+A|That's exactly it.|aa|2479|0
+A|So, another thing that we tried to do,|sd|2479|0
+A|I, I know your son's too young right now,|sd|2479|0
+A|but we're trying, we tried to sign him up for after school scouts and, stuff like that|sd|2479|0
+B|Yeah,|b|2479|1
+B|yeah.|b|2479|1
+A|and,|%|2479|0
+B|I think that's really important,|sv|2479|1
+A|Yeah.|b|2479|0
+B|and we've already started about,|sd|2479|1
+B|you know, I mean, how young can they start T-Ball and soccer?|qh|2479|1
+A|Right|b|2479|0
+B|You know, I mean, I just,|%|2479|1
+B|you know, we both think of that that as just so important,  to get him involved in stuff like that|sd|2479|1
+A|It is.|aa|2479|0
+B|and,  you could hardly wait,|sd|2479|1
+A|It is.|aa|2479|0
+A|And,|%|2479|0
+B|I mean, he's, he's so much fun now,|sd|2479|1
+A|Yeah.|b|2479|0
+B|he's really, he's really starting to get lots of fun|sd|2479|1
+B|and I can't wait until stuff like that starts happening|sd|2479|1
+A|I bet,|ba|2479|0
+A|yeah.|b|2479|0
+B|you know, and, you know, we did the Easter egg hunts, which was really the first year he was really able to|sd|2479|1
+A|Uh-huh.|b|2479|0
+A|understand.|%|2479|0
+B|and to know what we know what he was doing you know, and enjoy it,|sd|2479|1
+A|Yeah.|b|2479|0
+B|and it was so much fun|sd|2479|1
+B|and gosh he went a couple of weekends ago and rode an elephant|sd|2479|1
+B|and, God  he got up on this elephant all by himself|sd|2479|1
+A|Oh, my gosh.|ba|2479|0
+A|You're kidding.|ba|2479|0
+B|and Lord, I couldn't believe it.|sd|2479|1
+A|You're kidding.|ba|2479|0
+B|They had so much fun.|sd|2479|1
+A|Oh, that's great.|ba|2479|0
+B|I bought us tickets and stood there in line|sd|2479|1
+B|and I thought, I'm going to end up on this elephant with him you know,|sd|2479|1
+B|He did it by himself,|sd|2479|1
+A|Well, good for him.|ba|2479|0
+B|so stuff like that is starting to come along where it's really, getting fun,  you know.|sd|2479|1
+A|Uh-huh.|b|2479|0
+A|Uh-huh.|b|2479|0
+A|Yeah.|b|2479|0
+B|Day care has just done just incredible stuff with him|sd|2479|1
+B|and he like comes home with something new everyday, you know|sd|2479|1
+B|and so,   I know, I know they're working with him|sd|2479|1
+A|Well, that's great.|ba|2479|0
+A|That's so good.|ba|2479|0
+B|and he's excited to get there in the morning, and just doesn't even want to kiss me good-bye.|sd|2479|1
+A|Uh-huh.|b|2479|0
+B|It's just like bye,|sd|2479|1
+B|and he goes running,  you know,|sd|2479|1
+A|He's out of there.|^2|2479|0
+B|and he's always having fun when I pick him up|sd|2479|1
+B|so, you know. Yeah,|%|2479|1
+B|this, this day care is, is,|sd|2479|1
+A|Uh-huh.|b|2479|0
+B|it's Bright Steps in Lewisville.|sd|2479|1
+B|And,|%|2479|1
+A|Uh-huh.|b|2479|0
+B|whenever you say Bright Steps, everybody goes, oh, I've heard that's the best day care in town, you know,|sd|2479|1
+A|Yeah?|bh|2479|0
+A|Good.|ba|2479|0
+B|and it's, it's one of those that's very hard to get into.|sd|2479|1
+A|Uh-huh.|b|2479|0
+B|and they have, this, this, this woman owns three day cares, two in Lewisville and one in Irving.|sd|2479|1
+A|Uh-huh.|b|2479|0
+B|and she had to open the second one up in Lewisville because, her waiting list was just like, you know, like a year old,|sd|2479|1
+A|Uh-huh.|b|2479|0
+B|it was ridiculous.|sd|2479|1
+A|Oh, my gosh.|ba|2479|0
+B|And, she's got two day cares within like three blocks of each other.|sd|2479|1
+A|No kidding.|ba|2479|0
+B|Yes,|b|2479|1
+B|so its,|%|2479|1
+A|She knows something right, that she|sd|2479|0
+A|and,|%|2479|0
+B|She knows what she's doing,|sd|2479|1
+B|all the teachers, like about half the teachers are degreed teachers.|sd|2479|1
+A|Yeah,|b|2479|0
+A|that makes such a difference.|sv|2479|0
+B|Oh, it makes a huge difference.|sv|2479|1
+A|That's the way it is at my daughter's nursery school too.|sd|2479|0
+B|Uh-huh.|b|2479|1
+A|And I think that really makes a difference.|sv|2479|0
+B|Yeah.|b|2479|1
+A|They're in it because it's a profession,  not because it's a job they could get because they didn't qualify for anything else, you know .|sd|2479|0
+B|That's right.|ba|2479|1
+B|That's right.|ba|2479|1
+B|That's right.|ba|2479|1
+B|And, his old day care as much as I loved it, you know,|sd|2479|1
+A|Uh-huh.|b|2479|0
+B|and the owner, I really liked her|sd|2479|1
+B|and she worked really hard to get good people,|sd|2479|1
+B|but the people that she got were there because they weren't qualified to do anything else you know.|sd|2479|1
+A|Uh-huh.|b|2479|0
+A|Uh-huh.|b|2479|0
+A|Right.|b|2479|0
+B|And, and I got lucky|sd|2479|1
+B|and all of his teachers were, very good.|sd|2479|1
+A|Because, because,|%|2479|0
+A|Right.|b|2479|0
+A|Some, sometimes that's fine,|sv|2479|0
+A|that's great, you know.|ba|2479|0
+B|Yeah,|b|2479|1
+B|but then sometimes, you know,|%|2479|1
+A|Sometimes it isn't.|^2|2479|0
+A|You just have to.|%|2479|0
+B|Yeah.|b|2479|1
+A|Well, is it real expensive then?|qy|2479|0
+B|Um, it just went up the first of this month.|no|2479|1
+B|I'm paying, uh, seventy nine dollars a week for now.|sd|2479|1
+A|Uh-huh.|b|2479|0
+B|So,|%|2479|1
+A|Wow.|ba|2479|0
+B|It's a little high,|sd|2479|1
+A|Yeah.|b|2479|0
+B|but, but it's, you know, it's like where he was before I was only paying sixty three,|sd|2479|1
+B|so there's quite a little jump there,|sd|2479|1
+A|Right.|b|2479|0
+A|Right.|b|2479|0
+B|but, I looked all over Lewisville,|sd|2479|1
+B|I looked in every day care there was in Lewisville,|sd|2479|1
+A|Uh-huh.|b|2479|0
+B|and, you know, and there were places that were cheaper,|sd|2479|1
+A|Uh-huh.|b|2479|0
+B|but is it,|%|2479|1
+A|No.|aa|2479|0
+B|you know, your peace of mind is worth a little bit of money,  you know,|sv|2479|1
+A|Yeah.|b|2479|0
+B|and I have peace of mind, where he is|sd|2479|1
+A|Uh-huh.|b|2479|0
+B|and some of those other places I wouldn't have.|sd|2479|1
+A|That's exactly it.|ba|2479|0
+A|See, we do the same thing,|sd|2479|0
+A|since Galen goes to nursery school, we pay our, our home care provider, for our day care provider, full time for a whole week,|sd|2479|0
+A|but she, she's gone three mornings.|sd|2479|0
+A|Galen just doesn't go there three mornings a week.|sd|2479|0
+B|Yeah,|b|2479|1
+B|yeah.|b|2479|1
+A|But, I said to her, I said, you know, it doesn't matter if for whatever|sd|2479|0
+A|when school holidays come around, I used to have such a problem with that.|sd|2479|0
+B|Uh-huh.|b|2479|1
+A|They wouldn't have anything to do.|sd|2479|0
+A|I'd either have to|sd|2479|0

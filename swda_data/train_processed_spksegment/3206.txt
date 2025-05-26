@@ -1,0 +1,97 @@
+A|Yeah,|fo_o_fw_"_by_bc|3206|0
+A|are you there?|qy|3206|0
+B|Yes.|ny|3206|1
+A|Okay.|bk|3206|0
+A|Do you know the question for today?|qy|3206|0
+B|Uh, yes.|ny|3206|1
+B|It's about why there aren't more people that are voting and participating in ...|sd|3206|1
+A|And what is your feeling?|qw|3206|0
+A|Do you think this is vital important?|qy|3206|0
+B|Oh, absolutely.|na|3206|1
+A|Okay.|bk|3206|0
+A|Do you,|bh|3206|0
+B|Um, I think that, uh, it's kind of discouraging to, uh,|sv|3206|1
+B|I have been involved in some political campaigns and that kind of thing,|sd|3206|1
+B|and it's really discouraging to be in a phone bank and call people and not,|sv|3206|1
+B|a lot of them are so ill informed they have no idea, you know, even that there's an election|sv|3206|1
+B|or, and these are people that are registered.|sv|3206|1
+A|I, It, I have worked in some campaigns|sd|3206|0
+A|and it's the most discouraging thing in the world.|aa|3206|0
+A|I'm originally from Oklahoma,|sd|3206|0
+A|and up there if they miss three elections, then they have to reregister.|sd|3206|0
+A|And I have often wondered if, if maybe that would help the situation.|sd|3206|0
+A|I don't know.|sd|3206|0
+B|Well, that's a thought.|ba|3206|1
+A|Well, can you come up with anything else that maybe we could do to these people?|qy|3206|0
+B|Huh|^h|3206|1
+B|I don't know|no|3206|1
+B|I, I like that idea.|sd|3206|1
+B|Um, oh, I had a thought just a second ago|sd|3206|1
+B|but it slipped my mind.|sd|3206|1
+A|Oh, that's all right.|bd|3206|0
+B|Um, one thing that that I think probably one of the reasons that people don't vote more is because they don't know the candidates.|sv|3206|1
+B|And I think sometimes, you know,|%|3206|1
+B|that's one thing that I have learned in working in elections and things is, you know, sometimes even when you work for someone you don't really know what they're like.|sv|3206|1
+B|I know there's been a couple of people that we voted for and worked for|sd|3206|1
+B|and when they got in office it was just a disaster|sd|3206|1
+A|Well,|%|3206|0
+B|Uh, and, and I'm not sure how you go about really finding out what people are really like before you vote for them.|sd|3206|1
+A|I'm, I'm not|%|3206|0
+A|the only thing is if they don't vote, they have no right to complain.|sv|3206|0
+B|Absolutely.|aa|3206|1
+A|It is, um,|%|3206|0
+A|I don't know why we are so complacent,|sv|3206|0
+A|but I'm going to vote each time.|sd|3206|0
+A|Right or wrong I'm going to cast a ballot|sd|3206|0
+A|and then if I'm unhappy with it, I have the right to express my opinion.|sv|3206|0
+B|That's right.|aa|3206|1
+A|So, uh, there was something else I was going to,|sd|3206|0
+A|and I'm like you.|sv|3206|0
+A|I've just lost a train of thought that I had.|sd|3206|0
+A|But they have been more, little more effective in Oklahoma with having this program that you vote or you lose it.|sd|3206|0
+B|Now if you just lose, if you just skip one election?|qy|3206|1
+A|No,|nn|3206|0
+A|three.|sd|3206|0
+B|Three.|b^m|3206|1
+A|You have to you have to skip three.|sd|3206|0
+B|Uh-huh.|b|3206|1
+A|And, uh, of course, those can be, they can be, oh, a long time apart|sd|3206|0
+A|but, um ...|%|3206|0
+B|I think that's an excellent idea because then people really have to think about it.|sv|3206|1
+A|Of course,|aa|3206|0
+A|what do you think and this is not one of our questions but what do you think of this no excuse absentee balloting?|qo|3206|0
+B|No excuse.|^h|3206|1
+B|Uh, I'm not sure if I'm familiar with that, or not.|qw^d|3206|1
+A|Okay.|bk|3206|0
+A|I'm sure all over the State of Texas now you have three weeks to go for absentee balloting.|qy^d|3206|0
+B|Uh-huh.|ny|3206|1
+A|And you don't have to be sick, out of town or anything.|sd|3206|0
+A|They, there is no excuse.|sd|3206|0
+A|Anyone can go and vote.|sd|3206|0
+B|Oh, I think that's great.|sv|3206|1
+B|Um,|%|3206|1
+A|Do you?|qy|3206|0
+B|Actually, you know, my husband has run for office before|arp_nd|3206|1
+B|and sometimes it's nice to be able to go ahead of time and vote because, you know, if you're going to be tied up that day, uh, campaigning or whatever it might be. Um, that kind of, just kind of takes that load off, you know,|sv|3206|1
+B|you can just go ahead and get that taken care of|sd|3206|1
+B|and ...|%|3206|1
+A|But that is an excuse and that would, I could live with.|sd|3206|0
+B|Uh-huh.|b|3206|1
+A|But this idea of anyone|%|3206|0
+A|I I am so bitterly opposed to this.|sd|3206|0
+A|If you're busy, that has always been a legitimate excuse. If you are incapacitated, ill health,|sv|3206|0
+B|Uh-huh.|b|3206|1
+A|but to have the expense of,|%|3206|0
+A|let's see.|^h|3206|0
+A|They have five, six people at my polling place.|sd|3206|0
+A|They can come from all over the city,|sd|3206|0
+A|and I don't know why we couldn't have duplicate voting on some of this.|sd|3206|0
+B|Well, hopefully once they have, uh, you know, once they've checked them off the list|%|3206|1
+B|they, they do have to check them off a list when they vote|sd|3206|1
+A|Yes,|aa|3206|0
+A|I know.|aa|3206|0
+B|so hopefully they couldn't.|sv|3206|1
+A|But is there, is every list checked as thoroughly as a,|qh|3206|0
+A|you know. We,|%|3206|0
+A|back in,|%|3206|0
+A|when I lived ...|%|3206|0

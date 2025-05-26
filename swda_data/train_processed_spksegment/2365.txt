@@ -1,0 +1,246 @@
+A|Hi.|fp|2365|0
+B|Hi, uh,|fp|2365|1
+B|as a matter of fact this past weekend, since we had a long weekend, I, uh, took on a painting project in my bathroom|sd|2365|1
+B|and I had wallpaper up,|sd|2365|1
+B|I had to completely strip the wallpaper off and then spackle holes and then paint that|sd|2365|1
+B|and it took me all weekend|sd|2365|1
+B|because, uh, the wallpaper, getting it off, I had to wet the walls down|sd|2365|1
+B|and that had to dry.|sd|2365|1
+B|And then the spackling had to dry a day|sd|2365|1
+B|and then the painting took another day.|sd|2365|1
+A|You didn't try rewallpapering?|qy|2365|0
+A|You just, uh,|%|2365|0
+B|No.|nn|2365|1
+B|I, I just painted.|sd|2365|1
+A|Did you use a textured paint|qy|2365|0
+A|or,|%|2365|0
+B|Uh, no.|nn|2365|1
+B|Actually, the wall behind the paper was smooth|sd|2365|1
+B|so, I just used a, like a semigloss.|sd|2365|1
+A|Um.|b|2365|0
+B|And,|%|2365|1
+A|Well, did you get good results?|qy|2365|0
+B|Well, no,|nn|2365|1
+B|not really.|ng|2365|1
+B|I need to,|sd|2365|1
+B|it, it looks so, bad you can see where those spackling marks were.|sd|2365|1
+A|Yeah.|b|2365|0
+B|I need to, uh, either paper back over it or do something|sd|2365|1
+A|But it just didn't, it didn't, it didn't cover it?|qy|2365|0
+B|Yeah.|ny|2365|1
+B|It covered the spots pretty good|sd|2365|1
+B|but it didn't, excuse me, it didn't, uh, uh, it just didn't look as smooth as I wanted it to.|sd|2365|1
+A|Well, we did a, uh,|sd|2365|0
+A|we moved, oh, last August|sd|2365|0
+A|and we're getting a house,|sd|2365|0
+A|my house had this dark wood paneling at the end of the den|sd|2365|0
+A|and we decided,|%|2365|0
+A|we went to, I've forgotten , one of the paint stores|sd|2365|0
+A|and they just said, oh, you can get by,|sd|2365|0
+A|and I forgotten what it was you put down, and then you can just paint right over the dark.|sd|2365|0
+B|Uh-huh.|b|2365|1
+A|Well, more or less.|arp_nd|2365|0
+A|After about, uh, half dozen coats it looks reasonable|sv|2365|0
+A|but it kept,|%|2365|0
+A|the, the dark|%|2365|0
+A|it was, uh, just a real dark, uh, wood grain type paneling|sd|2365|0
+B|Uh-huh.|b|2365|1
+A|and it was smooth|sd|2365|0
+A|and, uh, and we would, we put this stuff on|sd|2365|0
+A|and, and it supposedly textured it or did something to it|sd|2365|0
+A|and, but because of the dark behind it, it was really hard to cover|sd|2365|0
+A|and like pages|%|2365|0
+B|Was it like a primer?|qy|2365|1
+A|Yeah.|ny|2365|0
+A|It was something like that, although, we sort of, when we got through I wished we hadn't done it|sd|2365|0
+A|because we were, you know, we were trying to make the house look nice to sell it|sd|2365|0
+A|and we were painting it and trying to do, uh, you know, make it,|sd|2365|0
+A|and it, it really was, you know,|sd|2365|0
+A|the advice they give you is, uh,|%|2365|0
+A|the job was considerably tougher than we thought.|sd|2365|0
+B|Yeah.|b|2365|1
+A|Uh, particularly when you try to,|%|2365|0
+A|I was talking to somebody else who, who had a lot of wood panelling|sd|2365|0
+A|and, uh, they had gotten somebody to come in with an estimate|sd|2365|0
+A|and it seemed like there was, it was a good sized den with a lot panelling|sd|2365|0
+A|and the people quoted thirty thousand dollars to paint it or something.|sd|2365|0
+B|Oh, my goodness,|ba|2365|1
+B|that's an awful lot.|ba|2365|1
+A|Have you, have you tried getting outside estimates to see what it costs to have something painted?|qy|2365|0
+B|Not inside.|ng|2365|1
+B|Now, uh, when we bought the house that we live in right now we had a company that came out and painted it.|sd|2365|1
+B|That was one of the requirements from, you know, F H A that the house be painted before we bought it|sd|2365|1
+A|Yeah.|b|2365|0
+B|and it was fairly reasonable.|sd|2365|1
+B|We have a brick house|sd|2365|1
+B|but all the trim around the house was, uh,|sd|2365|1
+A|Yeah.|b|2365|0
+B|if I remember right, it was like five hundred dollars.|sd|2365|1
+A|Oh, that's quite reasonable.|ba|2365|0
+B|Yeah.|aa|2365|1
+B|Yeah.|aa|2365|1
+B|so that wasn't too bad.|sd|2365|1
+A|Um, problem|%|2365|0
+A|have you, have you tried matching paint lately?|qy|2365|0
+B|No,|nn|2365|1
+B|I haven't.|sd|2365|1
+A|My wife,|%|2365|0
+A|we, we built a shed over the long way ,|sd|2365|0
+A|actually, it took,|sd|2365|0
+A|this is not on the topic|sd|2365|0
+A|but I did finish it.|sd|2365|0
+A|But my wife went to the, uh, Home Depot, I think it was, and, and took a, uh, a copy, took a piece of brick|sd|2365|0
+B|Uh-huh.|b|2365|1
+A|and she wanted to paint the shed|sd|2365|0
+A|it's, it's a wooden shed, uh,|sd|2365|0
+A|and she took it|sd|2365|0
+A|and they've got this machine that matches the color of paint.|sd|2365|0
+B|Uh-huh.|b|2365|1
+A|And, uh, they got,|sd|2365|0
+A|and, uh, and, in fact she put some right|sd|2365|0
+A|she got,|sd|2365|0
+A|they mixed, uh, a gallon of it|sd|2365|0
+A|and, uh, it's just remarkable how close it will match the paint, uh,|sd|2365|0
+A|and it does it, uh, oh, electronically some, something,  magic.|sd|2365|0
+B|Oh,|b|2365|1
+B|so,  they did do a good job?|qy^d|2365|1
+A|Yeah,|ny|2365|0
+A|you know, they,|sd|2365|0
+A|but it's electronic.|sd|2365|0
+B|Yeah.|b|2365|1
+A|Uh, you put your sample under this thing|sd|2365|0
+A|and it looks at it and, uh, and determines the,|sd|2365|0
+A|and it, it's really remarkable.|sd|2365|0
+A|Uh, the problem they had|sd|2365|0
+A|and then they wanted some gray to do the, to do the trim.|sd|2365|0
+B|Uh-huh.|b|2365|1
+A|And, uh, but they didn't, didn't occur to them that, um, that they could have taken a sample um, from,|sd|2365|0
+B|Uh-huh.|b|2365|1
+A|I forgotten, *listen|sd|2365|0
+A|this is Sherwin Williams Paint or something|sd|2365|0
+A|but anyway. It's, it's remarkable.|sd|2365|0
+A|That's one of the problems though when you start painting to try to get the, you know,|sd|2365|0
+A|you want this, you want this to look like this|sd|2365|0
+A|and you want that to look like that|sd|2365|0
+A|and, of course, if it's all white you're all right|sv|2365|0
+B|Uh-huh.|b|2365|1
+A|but when you start getting into colors,|sv|2365|0
+A|have you had problems getting colors to match?|qy|2365|0
+B|Yeah.|ny|2365|1
+B|Yeah.|ny|2365|1
+B|As a matter of fact, uh, what we've got ours painted now is kind of a light creamy color and a, uh, a blue|sd|2365|1
+B|and the blue, even so many years, two years later or so it doesn't match, you know,|sd|2365|1
+A|Um.|b|2365|0
+A|So,|%|2365|0
+B|it's the very same type of paint and everything,|sd|2365|1
+A|Gosh.|ba|2365|0
+B|So,|%|2365|1
+A|So you,|%|2365|0
+A|so what's your,|qw|2365|0
+A|what's the solution then?|qw|2365|0
+B|Oh, I have no idea.|no|2365|1
+B|I repainted the whole thing.|sd|2365|1
+A|Oh, my|ba|2365|0
+A|Well, at least you'll get very good at it, right?|qy|2365|0
+B|Yeah.|ny|2365|1
+A|You could go back and, and paint, the whole thing over|sv|2365|0
+B|Yeah.|aa|2365|1
+A|that's, uh, this is an interesting topic that they would bring up painting|sv|2365|0
+A|because it, uh, it seems like everybody has a, you know, to go in and do,|sv|2365|0
+A|I'll just do a little bit here and a little there .|sd|2365|0
+B|Yeah.|b|2365|1
+A|Although, the, uh,|%|2365|0
+A|it's uh, it,|%|2365|0
+A|we almost one day,|%|2365|0
+A|we painted the house to, uh,|sd|2365|0
+A|we painted, we painted the whole inside|sd|2365|0
+A|and it had all this dark trim.|sd|2365|0
+A|We thought, uh, you know,|sd|2365|0
+A|we did the one wall but the other trim,|sd|2365|0
+A|I'm trying to think,|^h|2365|0
+A|I think, I think we left most of it because it gets to be, uh,|sd|2365|0
+A|they don't do that in the newer houses now|sd|2365|0
+A|we don't,|%|2365|0
+B|Yeah.|b|2365|1
+A|the mold , everything is white .|sd|2365|0
+A|In a new house everything is white.|sd|2365|0
+B|White,|aa|2365|1
+B|yeah.|aa|2365|1
+B|That's what we're trying to get ours to look like.|sd|2365|1
+A|Oh, good luck|ba|2365|0
+A|We wound up selling the house.|sd|2365|0
+B|Yeah.|b|2365|1
+A|Actually, I, I don't know whether it made,|sd|2365|0
+A|actually it does,|sv|2365|0
+A|it's interesting that the white, um, makes the rooms look bigger.|sv|2365|0
+A|One of the,|%|2365|0
+A|in our down stairs in our dining room we have a formal dining room, it has molding, uh, like picture frames, I don't know what you call that that actually, that are along the walls, you know, up a couple of feet.|sd|2365|0
+B|Uh-huh.|b|2365|1
+B|Uh-huh.|b|2365|1
+A|And my wife painted those, the insides of those dark blue.|sd|2365|0
+B|Oh, I see.|ba|2365|1
+A|And, uh, it makes the room look remarkably smaller.|sd|2365|0
+B|Huh. She painted the insides dark blue and then the trim, what color ?|qw^d|2365|1
+A|The trim, is still white.|sd|2365|0
+B|Okay.|bk|2365|1
+A|The, the molding|%|2365|0
+B|White.|b^m|2365|1
+B|Uh-huh.|b|2365|1
+A|but by,|%|2365|0
+A|and she did that all the way around the room which makes it look very attractive,|sd|2365|0
+B|Yeah.|b|2365|1
+A|but it makes the room look smaller which is, uh uh, which is,|sd|2365|0
+B|Yeah.|b|2365|1
+A|it explains why they, why they have everything white|sv|2365|0
+A|but I, you wouldn't think that I,|sv|2365|0
+B|Yeah.|b|2365|1
+A|well, maybe, maybe that understands colors would know all of that stuff|sv|2365|0
+B|Yeah.|b|2365|1
+A|but,|%|2365|0
+B|Well, uh, what about the lighting?|qw|2365|1
+B|Did it make a big difference?|qy|2365|1
+A|Uh, not particularly|ng|2365|0
+A|because the house has so many windows|sd|2365|0
+B|Oh, uh-huh.|bk|2365|1
+A|uh, it has|%|2365|0
+A|the, the, the living room has four, uh, good size windows|sd|2365|0
+A|and, uh, well, of course, at night|sd|2365|0
+A|but with the,|%|2365|0
+A|we have, we have a soccer field that's, um, oh, about a hundred yards from our house|sd|2365|0
+B|Uh-huh.|b|2365|1
+A|and the lights shine right at our house.|sd|2365|0
+A|It's kind of,|%|2365|0
+A|we didn't know that when we bought the house|sd|2365|0
+A|but,|%|2365|0
+B|So that, uh,|%|2365|1
+B|you get some,|%|2365|1
+B|the color doesn't really matter for, because you have that light.|qy^d|2365|1
+A|Yeah.|ny|2365|0
+A|We have a lot of light,|sd|2365|0
+A|yeah.|ny|2365|0
+A|And, well, it, it, it, um, well, it's just, uh, I think it's just the, the, the dark blue to about three feet|sd|2365|0
+A|and then above that we left it white|sd|2365|0
+A|so. Anyway, it didn't, it didn't change|sd|2365|0
+B|I see .|ba|2365|1
+A|but the, the interesting thing is that paint we wound up having to go back and scrape some of that away|sd|2365|0
+A|it didn't,|%|2365|0
+A|it kind of bled under the masking tape which, I guess, is probably the topic we're we're really on to that, that the masking is,|sd|2365|0
+B|Uh-huh.|b|2365|1
+A|you have to do that very, very carefully.|sd|2365|0
+B|And it takes a long time,|sd|2365|1
+A|That's right.|aa|2365|0
+A|You can work yourself to death.|sv|2365|0
+A|Well, I'm sorry to hear your color didn't come out so good over the weekend.|fo_o_fw_"_by_bc|2365|0
+B|Yeah.|aa|2365|1
+B|Really,|aa|2365|1
+B|no kidding.|aa|2365|1
+A|It's kind of frustrating.|sv|2365|0
+B|It is.|aa|2365|1
+B|A lot of work,|sv|2365|1
+B|a lot of work.|sv|2365|1
+A|Well, I've got to go to a meeting.|sd|2365|0
+A|It's been good talking to you.|fc|2365|0
+B|Nice talking to you.|fc|2365|1
+A|Okay.|fc|2365|0
+A|Good-bye.|fc|2365|0
+B|Bye sounds in|fc|2365|1

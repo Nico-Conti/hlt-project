@@ -1,0 +1,258 @@
+A|Hi Pat.|fp|3097
+B|Hi.|fp|3097
+B|One of the interesting things that I have considered about the role change for women is that women of my age, my generation, were trained and taught and brought up to be the LEAVE IT TO BEAVER housewives.|sd|3097
+A|Uh-huh.|b|3097
+B|But we are not living in that world.|sv|3097
+A|We are certainly not,|aa|3097
+A|our families have changed.|sv|3097
+B|Uh-huh,|b|3097
+B|families,|b^m|3097
+B|uh-huh.|b|3097
+A|Society has changed.|sv|3097
+B|Oh, yeah,|aa|3097
+B|sure.|aa|3097
+A|Everything has changed.|sv|3097
+A|Yeah,|%|3097
+A|yeah.|%|3097
+B|Uh-huh|b|3097
+B|That's one of the,|%|3097
+B|and it makes you really concerned.|sv|3097
+B|I am glad I raised guys.|sd|3097
+A|Uh-huh.|b|3097
+B|You know, let the world train them what to do|ad|3097
+B|But characteristically, you know, the women are trained, or have been in the past trained in the home.|sv|3097
+A|Uh-huh.|b|3097
+B|And I really would be at a loss to, to raise and train a girl.|sd|3097
+B|I think I would.|sv|3097
+A|Yeah,|b|3097
+A|it's,|%|3097
+A|well even, even raising boys today is different though, because, they are expected to do so much more than they used to.|sv|3097
+B|Oh, sure.|aa|3097
+B|Uh-huh.|b|3097
+A|You know, used to be they would just go off to work and come home,|sd|3097
+A|and you know, everything was done.|sv|3097
+A|And it, it's a different world.|sv|3097
+A|It's, some good, some bad, uh,|sv|3097
+B|Oh, sure.|aa|3097
+B|Uh-huh.|b|3097
+A|it's nice that there's a choice.|sv|3097
+A|I, I have chosen to stay at home, and raise my children.|sd|3097
+B|Uh-huh.|b|3097
+B|Uh-huh.|b|3097
+A|And I have a ten year old and a twelve year old.|sd|3097
+B|Uh-huh.|b|3097
+A|And I was a single parent for awhile and worked.|sd|3097
+B|Uh-huh.|b|3097
+A|And that was great,|sv|3097
+A|I was able to and I was able to provide for my children|sd|3097
+A|and, and you know, that was wonderful.|sd|3097
+B|Uh-huh.|b|3097
+B|Uh-huh.|b|3097
+A|But I, I thank God everyday now that I have that choice. And that I am able to do things at home|sd|3097
+B|Sure.|b|3097
+A|and, and uh, I volunteer a whole lot.|sd|3097
+B|Uh-huh.|b|3097
+A|And, uh, that's my job right now.|sd|3097
+B|Uh-huh.|b|3097
+A|And I, I love it.|sd|3097
+B|Oh, yeah.|b|3097
+A|I really love it.|sd|3097
+B|I did very much the same thing until my boys got into high school and said Mom, please do not be involved.|sd|3097
+A|Right,|aa|3097
+A|right.|aa|3097
+B|Then I went back to work.|sd|3097
+A|Right,|aa|3097
+A|and that will come.|sd|3097
+B|Yeah.|b|3097
+A|I know that day will come,|sd|3097
+B|Sure.|b|3097
+A|and I am looking forward to that too.|sd|3097
+B|Right.|b|3097
+A|But that's a different phase in my life,|sd|3097
+B|Right.|b|3097
+A|and I am, I am glad that I am able to do what I want to do right now.|sd|3097
+B|Well, you know, there's a lot of things that have happened, actually,|sv|3097
+B|and, and it's, it's like the, it's like oil on top of water,|sv|3097
+B|it changes|sv|3097
+B|but it's never different in a lot of ways.|sv|3097
+A|Uh-huh.|b|3097
+A|Uh-huh.|b|3097
+B|Uh, women at one time did very heavy physical labor and, were expected to maintain a household.|sd|3097
+A|Uh-huh.|b|3097
+A|Uh-huh.|b|3097
+B|Then as times changed, uh, as it is today, we do not do a lot of physical labor, even in even in housekeeping, and homemaking,|sv|3097
+A|Uh-huh.|b|3097
+A|Right,|b|3097
+A|Right.|b|3097
+B|there's not a lot of physical labor, because, there are,|sv|3097
+A|Right.|aa|3097
+A|You are not beating rugs,|bf|3097
+B|Uh-huh.|aa|3097
+A|you are not, right, doing laundry by hand and that kind of thing.|bf|3097
+B|Right.|aa|3097
+B|And in that respect, we have to make ourselves become involved in physical exertion,|sv|3097
+A|Uh-huh.|b|3097
+B|or we really do develop some health problems.|sv|3097
+A|Uh-huh.|b|3097
+B|So, in, in that, in that respect I am not so sure that the hard work of years past was not better for us than we are willing to admit.|sd|3097
+A|Yeah,|b|3097
+A|yeah.|b|3097
+B|And, uh,|%|3097
+A|But don't you think it's that way with men too?|qy|3097
+A|I mean, you know, men are sitting behind desks a whole lot more, than they used to.|sv|3097
+B|Oh, absolutely true|aa|3097
+B|it's, that's true with society, in general,|sv|3097
+A|Yeah,|b|3097
+A|yeah.|b|3097
+B|but specifically the woman's role, in society has changed.|sv|3097
+A|Uh-huh.|b|3097
+B|And, you know, medical reports tell us that women are developing diseases now that used to be predominately male diseases.|sd|3097
+A|Right,|b|3097
+A|right.|b|3097
+B|Heart disease was characteristic of men,|sd|3097
+A|Right.|b|3097
+B|now there's almost equally predominant in women.|sd|3097
+A|Right.|b|3097
+B|And I,|%|3097
+A|And stress disorders and things like that.|bf|3097
+B|Uh-huh.|b|3097
+A|Uh-huh.|b^m|3097
+B|Uh-huh.|b|3097
+A|Uh-huh.|b|3097
+B|Right,|b|3097
+B|and, I think that that's a, that's a symptom of our society,|sv|3097
+B|it's a symptom that there's, there's a general illness that needs to be healed.|sv|3097
+A|Uh-huh.|b|3097
+B|I do not know what the healing process would be or what was causing the problem,|sd|3097
+B|I am not, I am not God.|h|3097
+A|Yeah,|b|3097
+A|yeah.|b|3097
+B|But, I, I do know that in raising my boys, I really did meet a lot of pressures saying, you know, you need to get them into music lessons,|sd|3097
+B|you need to get them, into sports|^q|3097
+A|Uh-huh,|b|3097
+A|uh-huh.|b|3097
+B|you need to get them into this,|^q|3097
+B|they need to be busy|^q|3097
+B|and they need to be active.|^q|3097
+B|And I fought all of those things,|sd|3097
+B|I said if those boys want to be involved in that they will come to me|sd|3097
+B|and they will say Mom this is important to me,|sd|3097
+B|I want to do it,|^q|3097
+A|Right,|b|3097
+A|right.|b|3097
+B|otherwise, I will guard their ability to have quiet time.|sd|3097
+A|You know, it's funny,|sv|3097
+B|I refused to cram their lives full.|sd|3097
+A|Yeah,|b|3097
+A|yeah.|b|3097
+A|It's funny,|sv|3097
+A|it's funny|sv|3097
+A|I was  I was really looking forward to summer, thinking oh, we are going to have some time off.|sd|3097
+B|And that's the way it is with a woman too.|sv|3097
+B|Uh-huh.|b|3097
+A|And it's been real busy.|sd|3097
+A|And actually, today is really the first, as far as I am concerned, the first day of summer Because we have had so much going on the past few weeks.|sd|3097
+B|Uh-huh.|b|3097
+B|Uh-huh.|b|3097
+A|And, uh, you are right,|aa|3097
+B|Uh-huh.|b|3097
+A|uh, well that's how society has changed, uh, you know, uh,|sv|3097
+B|Uh-huh,|b|3097
+B|uh-huh.|b|3097
+A|the family has changed,|sv|3097
+A|we, you know, we find ourselves doing things that, we never did as kids.|sv|3097
+B|Uh-huh.|b|3097
+A|You know, I do not remember, being involved in things like this.|sd|3097
+B|Well,|%|3097
+B|Uh-huh.|b|3097
+A|It's, it's different,|sv|3097
+B|Uh-huh.|b|3097
+A|it's just,|sv|3097
+A|I do not know,|h|3097
+A|only time will tell whether it's better or worse, than the way we grew up.|sv|3097
+B|Uh-huh.|b|3097
+A|But, uh, it's, it's just very different.|sv|3097
+B|Of course.|aa|3097
+B|Uh-huh.|b|3097
+A|Um,|%|3097
+B|Well, I just am very much a believer in quiet personal time.|sd|3097
+B|If you do not have the time to talk to yourself, who are you going to talk to.|qh|3097
+B|Right.|^g|3097
+A|Yeah,|aa|3097
+A|yeah,|aa|3097
+A|yeah.|aa|3097
+B|And I guarded my children's rights for that|sd|3097
+B|and I think that that's one of the things that women are sacrificing that they should not do.|sv|3097
+A|Uh-huh.|b|3097
+B|They are sacrificing their time with themselves.|sv|3097
+B|There's nothing wrong with sitting and being bored, if you thinking internally, and you are, working on your own self.|sv|3097
+A|Right.|b|3097
+A|Right.|b|3097
+A|Right.|b|3097
+B|You are finding out who you are.|sv|3097
+A|But is not that difficult to do when you are working full time and have to come home and prepare a meal and, get homework done,|qh|3097
+B|Well, I think,|sv|3097
+A|and, you know, where do you find the time.|qh|3097
+B|Um. Well, in the first place it's not your homework,|sv|3097
+B|it's your children's homework.|sv|3097
+A|Uh-huh.|b|3097
+B|And I was always very careful to be there only when they came to me and asked me for help,|sd|3097
+A|Uh-huh.|b|3097
+B|I helped them with exactly what they asked for|sd|3097
+B|and that's all.|sd|3097
+A|Yeah.|b|3097
+B|That's a part of the problem that women have always had|sv|3097
+B|and that is accepting responsibility for things that really are other people's responsibilities.|sv|3097
+A|That's very true.|aa|3097
+B|They, They,|%|3097
+A|And then that way, we have not changed in, hundreds of years, have we.|qy|3097
+B|That's right.|aa|3097
+A|Yeah.|b|3097
+B|That way husbands are crippled,|sv|3097
+A|Yeah.|b|3097
+B|they are intellectual cripples,|sv|3097
+A|Uh-huh.|b|3097
+B|and so are children.|sv|3097
+A|Uh-huh.|b|3097
+B|They do not know how to think for themselves and be responsible, for themselves.|sv|3097
+A|Uh-huh.|b|3097
+B|I do not know why God made women brilliant|sd|3097
+B|I,|%|3097
+A|Didn't he though|bf|3097
+B|Yes,|aa|3097
+B|but I do not know|h|3097
+B|they tend to look at the mother as the one who solves all problems.|sv|3097
+B|They, are all things to all people,|sv|3097
+A|That's very true.|aa|3097
+B|and that's never changed.|sv|3097
+A|That's, that's very true.|aa|3097
+A|I, as a matter of fact I was talking to a friend yesterday, who said she has a new policy in her home|sd|3097
+A|and when her, her family comes to her and says, fix this, you know,|sd|3097
+A|I am having a problem with, you know, another member of the family,|^q|3097
+B|Uh-huh.|b|3097
+B|Uh-huh.|b|3097
+A|she said I have taken a new stance,|sd|3097
+A|and I say, no,|^q|3097
+A|I will not.|^q|3097
+B|Uh-huh.|b|3097
+A|You know, you work it out for yourself.|^q|3097
+B|Uh-huh.|b|3097
+A|And she said, it's amazing, she said, you know,|sd|3097
+B|Uh-huh.|b|3097
+A|every single person in this family expects me to get,|^q|3097
+A|and they suck me into these arguments and, these conversations|^q|3097
+B|That's right.|b|3097
+A|and I I am supposed to be the one who is going to fix it all and, and soothe everybody.|^q|3097
+A|And she said I am not doing it anymore.|sd|3097
+A|I, I just,|%|3097
+B|You know I think that's one of the things that we have today that is very useful,|sv|3097
+B|and I think every woman ought to deal with it or, ought to at least be exposed to it,|sv|3097
+B|and that is mediation training.|sd|3097
+A|Um, uh-huh.|b|3097
+B|Uh, we are not talking about strikes or things|sd|3097
+B|we are talking about mediators who get involved in family crises, parents and children, husbands and wives, uh, you know, boss and employee. Those kinds of things. Interpersonal mediation,|sd|3097
+A|Uh-huh.|b|3097
+A|Uh-huh.|b|3097
+A|Yeah,|b|3097
+A|yeah.|b|3097
+B|because, the mediator is an unbiased bystander who,|sd|3097

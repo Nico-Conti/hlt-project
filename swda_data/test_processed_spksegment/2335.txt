@@ -1,0 +1,294 @@
+B|So what do you think?|qo|2335|0
+A|Uh, the causes of crime?|br|2335|1
+A|Um, I think it was imbalance of power in the United States.|sv|2335|1
+A|It's causing the lower class to rebel.|sv|2335|1
+A|That's why there's such high crime,|sv|2335|1
+A|and, uh, there's crime in, uh, young people because they don't have role models|sv|2335|1
+B|Yeah.|b|2335|0
+A|see too much crime on T V|sv|2335|1
+A|and they think it's the way to go.|sv|2335|1
+A|I don't know.|h|2335|1
+A|What do you think?|qo|2335|1
+B|What about,|qw|2335|0
+B|I agree with the upper and lower level, you know|aa|2335|0
+A|Uh-huh.|b|2335|1
+B|because that's the lowest thing for themselves,|sv|2335|0
+B|plus there's nobody for them to look up to.|sv|2335|0
+A|Yeah.|b|2335|1
+B|But I also blame some of it on parents|sv|2335|0
+A|Okay.|b|2335|1
+B|because parents aren't parents.|sv|2335|0
+A|Yeah.|b|2335|1
+B|Because I remember even when I was growing up,|sd|2335|0
+B|I'm thirty-five|sd|2335|0
+A|Okay.|b|2335|1
+B|I remember when I was growing up,|sd|2335|0
+B|and I had friends,|sd|2335|0
+B|they used to do stuff like, you know, go over to a store and steal stuff.|sd|2335|0
+B|My mother warned us, it's like, I don't care what your friends do.|sd|2335|0
+B|If you do it, then that was it.|sd|2335|0
+A|Yeah.|b|2335|1
+B|And I knew that I would get in more trouble from my mother than from from anybody else.|sd|2335|0
+A|From anybody else.|^2|2335|1
+B|And I think that's the basic, is they have no morals any more,|sv|2335|0
+A|Yeah.|b|2335|1
+B|so they don't care.|sv|2335|0
+A|Yeah.|b|2335|1
+B|So.|%|2335|0
+A|Yeah,|aa|2335|1
+A|I think I can agree with that too.|aa|2335|1
+B|But now, as far as what they can do about it, I don't know.|sd|2335|0
+B|You can't make parents be parents|sv|2335|0
+A|That's true.|aa|2335|1
+A|You got to kind of make people want to do the right thing.|sv|2335|1
+B|You know.|%|2335|0
+A|I don't know how you do that.|sd|2335|1
+B|I guess if you gave the, gave them jobs,|sv|2335|0
+B|that's another problem with the United States,|sv|2335|0
+B|there's no jobs any more.|sv|2335|0
+A|Yeah.|b|2335|1
+B|But.|%|2335|0
+A|Well, I've heard this one theory, that if, that if a kid commits a crime, that, uh, instead of the, prosecuting the kid, they prosecute the parent.|sd|2335|1
+A|Or both of them.|sd|2335|1
+B|That would work to a point,|sv|2335|0
+A|Now, to put the blame on the parent.|sd|2335|1
+B|Well, that'd work to a point because some kids are just bad anyway.|sv|2335|0
+B|I don't care what you do to them.|sv|2335|0
+A|Yeah.|b|2335|1
+B|You know,|%|2335|0
+B|so I think it depends on how much trouble that kid has been in, you know.|sv|2335|0
+A|Yeah.|b|2335|1
+B|Because a, a, a child can get into anything|sv|2335|0
+A|Yeah.|b|2335|1
+B|I don't care how good you, they are.|sd|2335|0
+A|Yeah.|b|2335|1
+B|at least one time,|%|2335|0
+B|but now if this is a repeated thing,|sd|2335|0
+B|here with this child in juvenile,|sd|2335|0
+B|and or, to me, yeah, both of them.|%|2335|0
+A|Yeah.|b|2335|1
+B|Because that means she's still not doing what she's supposed to do.|sv|2335|0
+B|Because I just watched it on T V one night on one of them, um, Twenty Twenty, Forty-eight hours, one of them shows where this boy had been stealing cars.|sd|2335|0
+A|Uh-huh.|b|2335|1
+A|Yeah.|b|2335|1
+B|I don't know if you seen this.|qy^d|2335|0
+A|Um.|b|2335|1
+B|it was a little, it was a little gang of them stealing cars, you know,|sd|2335|0
+A|No,|nn|2335|1
+A|I didn't see it.|sd|2335|1
+A|I understand.|b|2335|1
+B|And then when they caught him, you know, his mother sitting there,|sd|2335|0
+B|now they going to take me away from you.|^q|2335|0
+B|That meaned she was warned.|sv|2335|0
+A|Yeah.|b|2335|1
+B|But see, by that, I think sometimes it's a little late.|sv|2335|0
+A|Yeah.|b|2335|1
+B|You know,|%|2335|0
+B|but I'm sure there's something can be done.|sv|2335|0
+A|Yeah.|b|2335|1
+A|What about with adults?|qo|2335|1
+A|Anything do any about adult crime.|qy^d|2335|1
+B|Yeah,|ny|2335|0
+B|start prosecuting they|ad|2335|0
+B|but really good instead of having a revolving door on the damn court system.|sd|2335|0
+A|Yeah.|b|2335|1
+A|Well, for one, a major problem with that is the jails are overcrowded.|sv|2335|1
+B|Well, they should start with, the,|sv|2335|0
+B|if they would get rid of.|sv|2335|0
+B|Seems to me, I know there's a lot about court that people don't understand.|sv|2335|0
+B|There's more people in jail right now for child support, okay then there are for people doing drugs.|sv|2335|0
+A|Uh-huh.|b|2335|1
+A|Um.|b|2335|1
+B|You ought to take all them little misdemeanor people|sv|2335|0
+A|Yeah.|b|2335|1
+B|let them go,|ad|2335|0
+B|let them go|ad|2335|0
+A|Yeah.|b|2335|1
+B|you know, give them a fine, whatever,|ad|2335|0
+B|make them do civic duty whatever,|ad|2335|0
+A|Yeah,|aa|2335|1
+A|I mean seriously,|sv|2335|1
+B|Put them fools in there,|ad|2335|0
+A|they ought to put those people to work.|sv|2335|1
+B|I call them all fools, idiots, whatever.|sd|2335|0
+A|Yeah.|b|2335|1
+B|Little rock stars, put all them in there.|ad|2335|0
+A|Um.|b|2335|1
+B|You know, the murderers, the drug dealers, the user, put them all in|ad|2335|0
+B|jail you know,|%|2335|0
+A|Yeah.|b|2335|1
+B|and let all the normal people go|ad|2335|0
+A|Yeah.|b|2335|1
+B|you know, because, okay,|%|2335|0
+B|if you write a bad check, you go to jail, right.|qy|2335|0
+A|Yeah.|ny|2335|1
+B|Let them people go.|ad|2335|0
+A|Well.|arp_nd|2335|1
+B|Not let them go and get out of it.|sd|2335|0
+A|Yeah,|b|2335|1
+A|they, you still have to punish them.|sv|2335|1
+B|Let them go and pay their crime or their time doing something else you know, like cleaning up the city or however they do their community time, you know, whatever that is|ad|2335|0
+A|Yeah.|b|2335|1
+A|Yeah,|b|2335|1
+A|that's,|%|2335|1
+B|But don't put them in jail because they're not hardened criminals.|sv|2335|0
+A|Yeah,|aa|2335|1
+A|and they're, they're still, they can provide for society,|sv|2335|1
+A|whereas some of them are so far gone that they can't do anything good for society.|sv|2335|1
+B|Uh-huh.|b|2335|0
+B|So.|%|2335|0
+B|I don't know,|h|2335|0
+B|some people, boy, they got,|%|2335|0
+B|I think the United States has got too many problems to be worrying about everybody else.|sv|2335|0
+A|Yeah,|aa|2335|1
+A|that's true.|sv|2335|1
+B|Now how they going to fix it, I don't know.|sd|2335|0
+B|I don't think there is a ready solution.|sv|2335|0
+A|No,|aa|2335|1
+A|I don't think so either.|sv|2335|1
+A|Uh.|%|2335|1
+B|Because the economy is down, people, you know, the, the, the low man on the pole is getting more of the, I guess, the bulk of it.|sv|2335|0
+A|Yeah.|b|2335|1
+B|And he's got to work extra hard just to make ends meet.|sv|2335|0
+A|And they keep taking more money from us|sv|2335|1
+B|Uh-huh.|b|2335|0
+A|and people are get,|%|2335|1
+A|and they don't have any incentive to work if we're just going to take fifty percent of it.|sv|2335|1
+B|Yeah.|b|2335|0
+A|Might as well steal,|sv|2335|1
+A|then they don't have to pay taxes on it|sd|2335|1
+B|That's it.|aa|2335|0
+A|Yeah.|b|2335|1
+B|So, you know, they, I, I, I know that's bad, but, you know, just like Texas now.|sd|2335|0
+A|Uh-huh.|b|2335|1
+B|They could have had a lottery.|sd|2335|0
+B|They don't want a lottery.|sd|2335|0
+B|Why not?|qh|2335|0
+B|I would rather pay for a lottery a dollar, two, three dollars, whatever I'm paying, you know a week or whatever, and never see any of that money, than to have them take a portion of my paycheck.|sv|2335|0
+A|They'd have a,|%|2335|1
+A|Yeah.|b|2335|1
+A|Yeah.|b|2335|1
+B|Because, you know, they take,|sd|2335|0
+B|and Uncle Sam takes his,|sd|2335|0
+B|the Social Security which probably won't be here when I get that old you know.|sv|2335|0
+A|Um.|b|2335|1
+B|Because we're paying for Social Security they using now.|sd|2335|0
+A|Yeah.|b|2335|1
+B|Who's going to pay for mine?|qw|2335|0
+A|I don't know|no|2335|1
+B|But it's, it's|%|2335|0
+A|I'm not counting on it.|sd|2335|1
+B|No,|aa|2335|0
+B|you don't count on Social Security.|sv|2335|0
+A|Yeah.|b|2335|1
+B|But, it's, it's,|%|2335|0
+B|that's what I'm saying,|sd|2335|0
+B|they need to do something else.|sv|2335|0
+A|Um.|b|2335|1
+B|But.|%|2335|0
+B|Crime is going to go up as long as the economy stays down.|sv|2335|0
+A|Yeah.|b|2335|1
+B|And it's going to get worse.|sv|2335|0
+A|Yeah.|b|2335|1
+B|That's just like last night they killed them people in that store.|sd|2335|0
+B|Where you at?|qw|2335|0
+A|I'm in Raleigh, North Carolina.|sd|2335|1
+B|Oh|bk|2335|0
+B|No wonder you don't know that.|sd|2335|0
+A|Well, where are you from?|qw|2335|1
+B|I'm in Dallas.|sd|2335|0
+A|Okay.|bk|2335|1
+B|But last night, they killed, uh, uh, four people in a chain food.|sd|2335|0
+A|Oh, man.|ba|2335|1
+B|And killed them,|sd|2335|0
+B|well, it was two stores side by side.|sd|2335|0
+A|Uh-huh.|b|2335|1
+B|One was a store and one was like a, a fast food place,|sd|2335|0
+B|chicken or something, I don't know.|sd|2335|0
+A|Yeah.|b|2335|1
+B|Anyway, they raped the women, beat them all up, including the women,|sd|2335|0
+B|I mean, they just beat them.|sd|2335|0
+B|Stuck them in the freezer and then shot them all.|sd|2335|0
+A|Ow.|ba|2335|1
+B|Why was, you know, why|qw|2335|0
+A|Why did they do in the freezer?|^2|2335|1
+B|you know, why didn't they just,|qw|2335|0
+B|if they was going to lock them, just lock them in the freezer, take the money, you know.|sv|2335|0
+A|Yeah.|b|2335|1
+B|They didn't have to kill them or rape them, or anything.|sv|2335|0
+A|Um.|b|2335|1
+A|Um.|b|2335|1
+A|That's awful.|sv|2335|1
+A|Yeah,|%|2335|1
+A|we still get some in Raleigh.|sd|2335|1
+A|I mean, not not too often real bad ones,|sd|2335|1
+B|Uh-huh.|b|2335|0
+A|but.|%|2335|1
+B|It's just getting really ridiculous down here.|sv|2335|0
+B|I wish I could move somewhere where, this, you know, you got to like in the country.|sv|2335|0
+A|I don't think there's anywhere where there isn't going to be crimes.|sv|2335|1
+B|Well, I think, if it's,|sv|2335|0
+B|the town is smaller|sd|2335|0
+A|Uh-huh.|b|2335|1
+B|and everybody knows everybody|sd|2335|0
+A|Yeah.|b|2335|1
+B|it's harder to come in there and do something.|sv|2335|0
+A|Yeah.|b|2335|1
+B|Where is,|%|2335|0
+B|and, and, and see that's another thing.|sv|2335|0
+B|Neighborhoods aren't neighborhoods any more.|sv|2335|0
+A|Yeah.|b|2335|1
+B|There's nobody is next door to you,|sv|2335|0
+B|you don't know your neighbors, and stuff like that.|sv|2335|0
+A|Yeah.|b|2335|1
+B|It's just, huh-uh, you know,|%|2335|0
+B|because I moved out some apartments before because they were loaded with drug dealers.|sd|2335|0
+A|Um.|b|2335|1
+B|And you didn't even,|%|2335|0
+B|and what the manager, the manager won't even do anything.|sd|2335|0
+A|He's probably a drug dealer himself|sv|2335|1
+B|Uh-huh.|b|2335|0
+A|You never know.|sv|2335|1
+B|You don't.|aa|2335|0
+B|And so I moved,|sd|2335|0
+B|because I moved the day probably a week after one of the apartments blew up you know,|sd|2335|0
+A|Wow.|ba|2335|1
+B|and this is like across the street.|sd|2335|0
+B|This was a nice part of town|sd|2335|0
+A|Um.|b|2335|1
+B|and there across the street one of the apartments blew up because they were having that, making that, um, crack stuff|sd|2335|0
+A|Um.|b|2335|1
+B|and then, the other time I saw the cops break down somebody's apartment around the corner.|sd|2335|0
+B|I say, See, this is it.|sd|2335|0
+A|Time to go.|bf|2335|1
+B|That's it,|aa|2335|0
+B|and I moved.|sd|2335|0
+A|Yeah.|b|2335|1
+B|And, you know, now I live in like a a neighborhood in a town house,|sd|2335|0
+B|but it's nice.|sv|2335|0
+B|I don't, you know.|h|2335|0
+A|Yeah.|b|2335|1
+A|I'm kind of in the same, same kind of deal, town house in a neighborhood.|sd|2335|1
+B|But,|%|2335|0
+A|It's pretty nice.|sv|2335|1
+B|I don't know how they can live, a neighborhood or apartment complex.|sv|2335|0
+B|That's what happen, that's what wrong, you know.|sv|2335|0
+B|I don't think, don't rent to them|sv|2335|0
+A|Yeah.|b|2335|1
+B|Or rent to them and evict them because they drug dealers.|sv|2335|0
+B|Put it on the lease.|ad|2335|0
+A|Yeah.|b|2335|1
+B|If you deal drugs, you can't live here.|^q|2335|0
+A|Yeah.|b|2335|1
+A|Most of them are too scared to do anything about it.|sv|2335|1
+B|Uh-huh.|aa|2335|0
+B|That's it.|aa|2335|0
+A|Yeah.|b|2335|1
+A|All right.|fc|2335|1
+A|Well listen, I got to go.|fc|2335|1
+B|All righty.|fc|2335|0
+A|Nice talking to you.|fc|2335|1
+B|And I thank you.|ft|2335|0
+A|All right.|fc|2335|1
+B|Bye-bye.|fc|2335|0
+A|Bye-bye.|fc|2335|1

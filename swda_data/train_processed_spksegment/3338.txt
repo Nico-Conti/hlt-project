@@ -1,0 +1,176 @@
+A|Tell me what you like to do.|ad|3338|0
+B|Well, I, I collect antique tools, uh, for one thing, I well, I'm sort of in an antique business,|sd|3338|1
+B|but it's a little sideline, part time thing.|sd|3338|1
+A|Oh.|b|3338|0
+A|Uh-huh,|b|3338|0
+A|wonderful.|ba|3338|0
+B|And, uh, I'm building a, a log house at a farm that I have in East Texas, which is a hundred miles from here.|sd|3338|1
+A|Oh.|b|3338|0
+A|Wonderful.|ba|3338|0
+B|Yeah,|b|3338|1
+B|it's really neat.|ba|3338|1
+B|And, uh, uh, course I've been working on it for five years,|sd|3338|1
+B|but, you know,|%|3338|1
+A|Oh, but how wonderful.|ba|3338|0
+A|Are you close to getting it done?|qy|3338|0
+B|Yeah,|ny|3338|1
+B|yeah,|ny|3338|1
+B|it's getting real close to|sd|3338|1
+A|Oh.|b|3338|0
+B|you know, of course there's still a lot of work to be done,|sd|3338|1
+B|and then when you get it completely, you know, the shell finished, uh, you still have a lot of stuff to do inside,|sd|3338|1
+B|but, uh,|%|3338|1
+A|Are you going to move your whole family over there then?|qy|3338|0
+B|No,|nn|3338|1
+B|actually, uh, I'm not even sure,|sd|3338|1
+B|I may,|aap_am|3338|1
+B|I'll probably always have a place here in Richardson or Dallas|sd|3338|1
+A|Uh-huh,|b|3338|0
+A|kind of your getaway place.|sv|3338|0
+B|Yeah,|aa|3338|1
+B|escape.|sd|3338|1
+B|But it's beautiful,|sd|3338|1
+B|it's, you know, it's Eastern Hardwood, uh, forest,|sd|3338|1
+B|there are a lot of pine trees,|sd|3338|1
+B|but it's mostly oaks|sd|3338|1
+B|and .|%|3338|1
+A|Oh, how beautiful,|ba|3338|0
+A|and it's pretty flat there?|qy|3338|0
+B|Well, it's kind of, hilly,|ng|3338|1
+B|but, it's, you know, low hills,|sd|3338|1
+B|it's not, uh,|%|3338|1
+A|See, I've only been to Texas once.|sd|3338|0
+A|I have two sisters in Texas now, um, one in Austin, one in Dallas,|sd|3338|0
+A|and the one in Dallas is the one that got me to doing this|sd|3338|0
+B|Yeah.|b|3338|1
+A|and, uh, I thought Austin was beautiful|sd|3338|0
+B|You,|%|3338|1
+A|I liked the hills and the trees,|sd|3338|0
+B|Yeah,|b|3338|1
+B|in|%|3338|1
+B|Yeah,|b|3338|1
+B|it's really different because that's kind of the, you know, that's the chalk hills down there,  limestone hills,|sv|3338|1
+A|Oh, and you've always,  lived in Texas, have you?|qy|3338|0
+B|Yeah,|ny|3338|1
+B|except for time in service.|sd|3338|1
+A|Uh-huh.|b|3338|0
+A|Born and raised Texan, huh.|bf|3338|0
+B|Yeah. At, at which one?|aa|3338|1
+A|Well, I had never been there,|sd|3338|0
+A|that's pretty neat.|ba|3338|0
+A|My sisters both seem to like it pretty well.|sd|3338|0
+A|My brother-in-law works for the University, um, in Dallas.|sd|3338|0
+A|He's admissions director.|sd|3338|0
+A|Uh. University of Texas in Dallas.|sd|3338|0
+B|Oh, okay|bk|3338|1
+A|Yeah.|b|3338|0
+B|it's just north of me here.|sd|3338|1
+A|Yeah,|b|3338|0
+A|well that's, he's got a job there|sd|3338|0
+A|and this is his first year,|sd|3338|0
+A|so, it's been a real interesting thing for them|sd|3338|0
+B|That's great.|ba|3338|1
+A|But they seem to like it okay.|sd|3338|0
+A|I think they're too far away from me,|sv|3338|0
+A|but maybe some day they can get closer,|sv|3338|0
+B|Well, yeah,|b|3338|1
+A|we'll see.|sd|3338|0
+B|Pretty good trip.|sv|3338|1
+B|So what do you, what kind of hobbies are you in?|qw|3338|1
+A|Well, I'm mother of four,|sd|3338|0
+A|so basically I'm just, real busy with my kids right now in sports,|sd|3338|0
+A|and we have a little Halloween talent show tonight,|sd|3338|0
+A|and, I substitute at the schools part-time.|sd|3338|0
+B|Oh, that's great.|ba|3338|1
+A|Well, I am a travel agent at heart,|sd|3338|0
+A|and my hobby is just,|%|3338|0
+A|I love traveling and, and being involved of that and finding out more, uh,|sd|3338|0
+A|but, it's real hard to work in the summers and holidays and weekends when you have four children and a husband,|sv|3338|0
+A|so I reluctantly gave that career up and am just substituting at the school,|sd|3338|0
+B|No, kidding.|aa|3338|1
+A|so I've been librarian all this week, which has been real interesting,|sd|3338|0
+A|and I'm enjoying it.|sd|3338|0
+A|I'm around my kids|sd|3338|0
+B|That's pretty easy substituting isn't it?|qy|3338|1
+A|yeah,|ny|3338|0
+A|it's great,|ba|3338|0
+A|it's great,|ba|3338|0
+A|and what else do I do,|t1|3338|0
+A|I do lots of cross stitching when I have time|sd|3338|0
+B|Ooh.|b|3338|1
+A|and I enter things in our little state fair,|sd|3338|0
+A|and that's pretty fun.|ba|3338|0
+B|That's great.|ba|3338|1
+A|Well, but, actually my hobbies is mostly is my sports. Tennis,|sd|3338|0
+A|I play tennis.|sd|3338|0
+B|Ooh, I love tennis too|sd|3338|1
+A|Ooh,|b|3338|0
+A|do you?|bh|3338|0
+B|and I ski, ski,|sd|3338|1
+B|do you ski?|bh|3338|1
+A|Yes,|ny|3338|0
+A|we snow ski.|sd|3338|0
+A|We snow ski at Mount Bachelor mostly in Oregon,|sd|3338|0
+B|Uh, that's great.|ba|3338|1
+A|have you ever been there?|qy|3338|0
+B|No, uh,|nn|3338|1
+A|Wonderful place.|ba|3338|0
+B|I've skied in Colorado|sd|3338|1
+B|and we usually go to New Mexico because it's a little cheaper, you know.|sd|3338|1
+A|Ooh.|b|3338|0
+A|Uh-huh.|b|3338|0
+A|Where in Colorado?|qw|3338|0
+B|I've been to Telluride which is on the west side and, uh, Copper,|sd|3338|1
+A|Yes,|b|3338|0
+A|yes.|b|3338|0
+B|Copper is kind of my favorite up there. Breckenridge and Keystone.|sd|3338|1
+A|Really.|b|3338|0
+A|Uh-huh.|b|3338|0
+B|I guess those are the only places I've skied up there.|sd|3338|1
+A|I would love,|%|3338|0
+A|I can hardly wait to get up there.|sd|3338|0
+B|Me, too.|sd|3338|1
+B|You guys, are you guys getting snow?|qy|3338|1
+A|We,|%|3338|0
+A|it is snowing right now.|na|3338|0
+A|We're to get one to three inches tonight.|sd|3338|0
+B|Oh, gee,|ba|3338|1
+B|I heard Aspen got three feet.|sd|3338|1
+A|Oh, yeah,|b|3338|0
+A|well we're, we are on the dry side of the mountains.|sd|3338|0
+A|Seattle is only about two and a half hours,|sd|3338|0
+A|so of course I'm a real Seahawks fan|sd|3338|0
+B|Yeah.|b|3338|1
+A|and, um, going over that pass is just a real nightmare.|sv|3338|0
+B|I can imagine, my lord.|ba|3338|1
+A|And, um, so, and we're on the colder side,|sd|3338|0
+A|they're on the rainy side,|sd|3338|0
+A|we're on the snowy side|sd|3338|0
+A|and, um, we, we ski.|sd|3338|0
+A|My, my children all ski|sd|3338|0
+B|Oh, super.|ba|3338|1
+A|and we've, we have been to Whistler in Canada, which is just a marvelous place,|sd|3338|0
+A|Whistler and Black Home is in Canada,|sd|3338|0
+A|and then we've gone to Sun Valley several times,|sd|3338|0
+A|that's a, just a great place. But no not in Colorado|sd|3338|0
+A|since I was in college, since I went to school,|sd|3338|0
+B|What about Utah?|qo|3338|1
+A|Haven't been there,|sd|3338|0
+A|I keep hearing these marvelous things about Deer Valley and,|sd|3338|0
+B|Yeah,|b|3338|1
+B|haven't either.|sd|3338|1
+A|um, to don't, Adam, talking to um City,|t3|3338|0
+B|Always want to go to Canada Canada to Banff or somewhere like that|sd|3338|1
+A|Ooh, yes.|b|3338|0
+A|And your kids all ski?|qy|3338|0
+B|Uh, not all of them|ng|3338|1
+A|Uh-huh.|b|3338|0
+B|My, my kids are all grown.|sd|3338|1
+A|Uh-huh.|b|3338|0
+B|But my youngest son is a skier.|sd|3338|1
+A|Really,|b|3338|0
+A|that's great.|ba|3338|0
+A|Well, my boys are at the point where they scare their mommy to death.|sd|3338|0
+B|Uh-huh.|b|3338|1
+A|When they're skiing they're fearless,|sd|3338|0
+A|and they go off,|sd|3338|0

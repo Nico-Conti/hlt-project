@@ -1,0 +1,155 @@
+A|I guess we're recorded.|sv|3304|0
+B|Okay.|b|3304|1
+A|What,|%|3304|0
+A|do you have any hobbies that you like to do?|qy|3304|0
+B|Oh, yes.|ny|3304|1
+B|Cycling, computers, uh, backpacking, just about everything.|sd|3304|1
+A|Oh|%|3304|0
+B|Oh, I generically have, you know, millions of hobbies.|sd|3304|1
+A|All right,|b|3304|0
+A|that's an interesting assortment.|sv|3304|0
+A|My husband is into cycling.|sd|3304|0
+A|In fact, he's out there right now before it gets dark trying to get in his miles for the, the time.|sd|3304|0
+B|Uh-huh.|b|3304|1
+B|I'm not quite that bad.|sd|3304|1
+B|I'm just a weekend cyclist.|sd|3304|1
+A|Uh, do you have any, do you do any handicraft type things, I think was the question.|sd|3304|0
+B|Handicraft type things.|b^m|3304|1
+A|Yeah,|aa|3304|0
+A|whittling or|sd|3304|0
+B|Yeah,|aa|3304|1
+B|just whittle away my life.|sd|3304|1
+B|Uh, no,|ar|3304|1
+B|no,|ar|3304|1
+B|I|%|3304|1
+A|Nothing like that.|bf|3304|0
+B|Uh, uh,|%|3304|1
+A|I, I do some things.|sd|3304|0
+A|I've gotten into,|sd|3304|0
+A|uh, oh, I, I like to decorate things|sd|3304|0
+A|and I do sweatshirts and T-shirts|sd|3304|0
+A|and I've gotten to where I start, have started selling them at craft shows and things.|sd|3304|0
+B|Oh, that's pretty good.|ba|3304|1
+A|Uh, and I have, have done fairly well at them.|sd|3304|0
+A|I've had|%|3304|0
+A|a, a few of my little hobby projects have totally bombed,|sd|3304|0
+A|but most of them have worked out pretty good|sd|3304|0
+B|Yeah,|b|3304|1
+B|they,|%|3304|1
+B|my only craft work is kind of like computers and, you know, go off to the little computer club meetings,|sd|3304|1
+B|and, it's kind of nice because I've made money at it, too.|sd|3304|1
+B|Considering I, I work for it a living,|sd|3304|1
+B|but I, you know, I, I've got a couple of articles published.|sd|3304|1
+A|Oh!|ba|3304|0
+B|It's kind of, kind of neat.|sd|3304|1
+A|Yeah,|b|3304|0
+A|what, what does a computer club do.|qy|3304|0
+A|I didn't know there were such things.|sd|3304|0
+B|Oh, yeah,|aa|3304|1
+B|just all over the place.|sd|3304|1
+B|They just get around and, and talk techy or, or else, uh, uh, you know,|sd|3304|1
+B|like half the members are really expert|sd|3304|1
+B|and the other half are like really not.|sd|3304|1
+A|Uh-huh.|b|3304|0
+B|And, uh, we kind of help out the people who are really not|sd|3304|1
+A|You don't, uh, you're not into hacking or whatever|qy^d|3304|0
+B|Oh, I, I think I'm, I think I'm a hacker,|arp_nd|3304|1
+B|but I'm not, not kind, not the, uh, the, you know, dial around randomly trying to break into computers type hackers,|sd|3304|1
+A|Uh-huh.|b|3304|0
+B|no,|nn|3304|1
+B|that's one of those sports I don't go for.|sd|3304|1
+A|Well, that's kind of interesting hobby.|sv|3304|0
+A|What else, did you,|qw|3304|0
+A|you said you did cycling?|qy^d|3304|0
+B|Yeah.|ny|3304|1
+A|What was the other thing?|qw|3304|0
+B|Backpacking.|sd|3304|1
+A|Backpacking.|b^m|3304|0
+A|We,|%|3304|0
+B|Yeah,|aa|3304|1
+B|I belong to a, a Boy Scout troop.|sd|3304|1
+B|It beats paying United Way.|sd|3304|1
+B|I just, you know donate a whole bunch of my time to the Boy Scouts and have fun.|sd|3304|1
+A|Uh-huh.|b|3304|0
+A|Well, that's, we have done that.|sd|3304|0
+A|Uh, our two older boys were in Boy Scouts|sd|3304|0
+A|and my daughter was in Girl Scouts until just about a year ago|sd|3304|0
+B|Uh-huh.|b|3304|1
+A|so we've uh, done a fair amount of that in our spare time, also|sd|3304|0
+A|But, it,|%|3304|0
+A|I,|%|3304|0
+A|that's a great thing to do, you know, really.|sv|3304|0
+A|Have you been backpacking anyplace exciting?|qy|3304|0
+B|Uh, well, just last weekend went to Davy Crockett forest which is kind of out in east Texas.|sd|3304|1
+A|Oh.|%|3304|0
+A|Uh-huh.|b|3304|0
+B|And we go to, uh, places out in,|sd|3304|1
+B|uh, uh, let's see|^h|3304|1
+B|what's that, what's that state north of us,|t1|3304|1
+B|that state|t1|3304|1
+A|Oh, that one.|bf|3304|0
+B|yeah.|aa|3304|1
+B|Yeah,|aa|3304|1
+B|that one.|b^m|3304|1
+B|That one.|b|3304|1
+A|Okay|b|3304|0
+B|Yeah,|b|3304|1
+B|yeah.|b|3304|1
+B|And,|%|3304|1
+A|To the,|%|3304|0
+A|uh, oh, by Fort Sill there?|qy^d|3304|0
+B|Uh, no,|nn|3304|1
+B|to another a, uh, old Indian fort that's out there.|sd|3304|1
+B|Trying to think of the name of it.|^h|3304|1
+B|Durn.|ba|3304|1
+B|Well, yeah,|%|3304|1
+B|no,|%|3304|1
+B|sorry,|fa|3304|1
+B|no memory.|sd|3304|1
+A|Uh-huh.|b|3304|0
+A|Have you gone, like to Fillmont with the Boy Scouts?|qy|3304|0
+B|No,|nn|3304|1
+B|I missed out this last year.|sd|3304|1
+B|I wasn't able to get the time off, but maybe next year.|sd|3304|1
+B|It's a good possibility.|sd|3304|1
+A|I've always thought that would be a real fun thing to do.|sd|3304|0
+B|Oh, yeah,|aa|3304|1
+B|yeah.|aa|3304|1
+B|When I was a kid, uh, we'd do the equivalent thing in the High Sierras.|sd|3304|1
+B|That was loads of fun.|sd|3304|1
+A|Uh-huh.|b|3304|0
+A|Does, does your whole family like to do it,|qy|3304|0
+A|like you, you know, for a vacation you'd go backpacking?|qy^d|3304|0
+B|Uh, no,|nn|3304|1
+B|not quite because I'm not a whole family.|sd|3304|1
+B|I'm just me|sd|3304|1
+A|Oh, okay.|bk|3304|0
+A|You just, oh,|%|3304|0
+A|and, and you volunteer for the Boy Scouts, huh?|qy|3304|0
+B|Oh, yeah,|ny|3304|1
+B|I rent my kids|sd|3304|1
+A|Uh-huh|b|3304|0
+A|Well, sometimes, uh,|%|3304|0
+B|It's better than, you know, owning on them and making payments on them, and, you know, things like that.|sv|3304|1
+A|Sometimes I think that might not be a bad idea|sv|3304|0
+A|Have,|%|3304|0
+A|uh, you said you did it in the High Sierras.|sd|3304|0
+A|Uh, do you ever, you know, just vacation someplace where you strictly backpack?|qy|3304|0
+B|Oh, yeah,|ny|3304|1
+B|yeah.|ny|3304|1
+B|Uh, not recently because, you know, like the Boy Scouts makes it so that I go like once a month, you know. Someplace.|sd|3304|1
+A|Uh-huh.|b|3304|0
+B|But, uh, there's, uh, some, some stuff that I want to do with like Sierra Club and go down to Grand Canyon or something like that.|sd|3304|1
+B|So, you know, they have lots of tours where they get a bunch of people together and off you go.|sd|3304|1
+A|Uh-huh.|b|3304|0
+B|Which seems kind of reasonable because that means you don't have to take twenty thirteen year olds with you, which seems a, a, just a tad more relaxing|sv|3304|1
+A|Well, I,|%|3304|0
+A|probably,|aa|3304|0
+A|probably.|aa|3304|0
+A|That's,|%|3304|0
+A|uh, well, my, my other things that I like to do in my spare time, I'm, I like swimming.|sd|3304|0
+B|Uh-huh.|b|3304|1
+A|Which is in now.|sd|3304|0
+A|I've done that|sd|3304|0
+A|and I, I also,|%|3304|0
+A|when I like something, I usually try to figure out how to make money off of it.|sd|3304|0

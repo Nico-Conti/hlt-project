@@ -1,0 +1,1301 @@
+me011|okay.|S|Bmr002
+me025|well we're we're so ahead of the game now.|S|Bmr002
+me025|because we've got built in downsampling now.|S|Bmr002
+fe008|we have what what do we have?|Q|Bmr002
+me025|we've got built in downsampling.|S|Bmr002
+me025|and so it's only recording sixteen kilohertz data.|S|Bmr002
+me025|and we've got|D|Bmr002
+me022|wait a second.|S|Bmr002
+me025|we're not we're not recording the empty channels.|S|Bmr002
+me011|the ones that aren't filled out are the ones you want to hand out.|S|Bmr002
+me025|what about the ones that we didn't record?|Q|Bmr002
+me022|no i was looking for the ones|D|Bmr002
+me011|i threw the ones out that we already recorded.|S|Bmr002
+me011|but we didn't record.|S|Bmr002
+me022|oh okay.|S|Bmr002
+me025|okay.|S|Bmr002
+me022|well then fine.|S|Bmr002
+me025|fine.|S|Bmr002
+me025|then it doesn't matter.|S|Bmr002
+fe008|well done.|S|Bmr002
+me022|see if we care.|S|Bmr002
+me025|does it?|Q|Bmr002
+fe008|well done.|S|Bmr002
+me022|okay.|B|Bmr002
+fe008|you're probably wondering why i brought you all here today.|S|Bmr002
+me022|right.|S|Bmr002
+me022|but before before we|D|Bmr002
+me025|before that.|S|Bmr002
+me011|right so the first task is to read some digits.|S|Bmr002
+me022|before that|D|Bmr002
+fe008|yeah.|S|Bmr002
+me011|so i'll go ahead and start.|S|Bmr002
+me011|and this is adam on mike number two.|S|Bmr002
+me011|so if you could just fill out the form.|S|Bmr002
+me011|and then later on we'll read it with pauses between.|S|Bmr002
+fe008|good.|S|Bmr002
+me011|and we're session two.|S|Bmr002
+me022|do you want to read next?|Q|Bmr002
+fe008|shall i|D|Bmr002
+me022|or|D|Bmr002
+fe008|i'd like to hear one|D|Bmr002
+me011|let her fill it out and go ahead and read.|S|Bmr002
+fe008|yeah i'd like to hear one more.|S|Bmr002
+me022|uh|F|Bmr002
+me022|okay.|F|Bmr002
+me022|um this is eric on mike one.|S|Bmr002
+me022|the wireless lapel.|S|Bmr002
+me022|channel zero.|S|Bmr002
+me022|um|F|Bmr002
+fe008|could i hear you next?|Q|Bmr002
+fe008|okay.|F|Bmr002
+fe008|so basically they're kind of like sentences but with numbers instead of words.|S|Bmr002
+fe008|okay.|S|Bmr002
+fe008|so i'm i'm on uh number four with the microphone around my neck.|S|Bmr002
+fe008|and i will read these.|S|Bmr002
+me011|so you want to pause briefly between each one.|S|Bmr002
+me011|so that the person transcribing can tell where one ends and one begins.|S|Bmr002
+fe008|okay.|S|Bmr002
+me025|and|F|Bmr002
+me011|so a short sentence between each line.|S|Bmr002
+fe008|it really sounds like sentences.|S|Bmr002
+fe008|your intonation sounds like somewhat like sentence intonation.|S|Bmr002
+me011|well you can intone it however you want.|S|Bmr002
+me011|imagine that you're reading a number phone number to someone.|S|Bmr002
+fe008|okay.|S|Bmr002
+fe008|yeah?|Q|Bmr002
+me011|yep.|S|Bmr002
+fe008|um|F|Bmr002
+fe008|okay.|B|Bmr002
+me011|okay good.|F|Bmr002
+me011|thanks.|S|Bmr002
+me025|great.|S|Bmr002
+me011|so we'll probably do another one at the end of the meeting.|S|Bmr002
+me011|just to get some more digits.|S|Bmr002
+me022|right.|S|Bmr002
+me011|and uh|F|Bmr002
+me022|okay.|S|Bmr002
+me011|thank you.|S|Bmr002
+fe008|if i were to be dictating a phone number i would have done that more slowly.|S|Bmr002
+fe008|but uh which would have been easier for the of course for the machine.|S|Bmr002
+fe008|but was that an okay pace?|Q|Bmr002
+me022|sure.|S|Bmr002
+me025|it's kind of weird.|S|Bmr002
+me022|yeah.|S|Bmr002
+me022|it's fine.|S|Bmr002
+me025|that was great what you did.|S|Bmr002
+me025|um|F|Bmr002
+fe008|okay.|S|Bmr002
+fe008|just as long as it's with you know uh within the constraints.|S|Bmr002
+me011|what what's your mike number jane?|Q|Bmr002
+fe008|number four.|S|Bmr002
+fe008|oh sorry.|S|Bmr002
+me011|dan doesn't remember what sex he is?|Q|Bmr002
+me025|yeah because i figure no one's going to be able to figure it out.|S|Bmr002
+me025|from the from my name.|S|Bmr002
+me011|that's true it's it's really difficult.|S|Bmr002
+me025|so|F|Bmr002
+me025|yeah.|S|Bmr002
+fe008|and the voice.|S|Bmr002
+fe008|just no way.|S|Bmr002
+me011|well don't you|D|Bmr002
+me011|i i wrote a scanner program that scans these forms in.|S|Bmr002
+me025|oh right right right.|S|Bmr002
+me011|anyway so why did i call you all here?|Q|Bmr002
+fe008|yes.|S|Bmr002
+me011|um what i'd like to talk about is um the transcription.|S|Bmr002
+fe008|oh you did.|S|Bmr002
+me011|so as part of this um project we need to transcribe these meetings.|S|Bmr002
+me011|um to do training and test and so on.|S|Bmr002
+me011|and uh so we need word transcripts and uh speaker change identification.|S|Bmr002
+me011|so speaker i d.|S|Bmr002
+me011|and uh so i'd sort of like to know who's going to do that.|S|Bmr002
+me011|hi jane.|S|Bmr002
+me011|and uh what tools to use.|S|Bmr002
+me011|what other resources you might need.|S|Bmr002
+me011|and also what we|D|Bmr002
+me011|things like just the data format and how we're going to do it.|S|Bmr002
+me022|so i'm just curious how how how exactly you got roped into this.|S|Bmr002
+me022|i mean|F|Bmr002
+fe008|oh.|F|Bmr002
+fe008|um because my name was was mentioned when i wasn't around.|S|Bmr002
+fe008|but i'm most happy.|S|Bmr002
+me022|okay.|S|Bmr002
+me011|oh really?|Q|Bmr002
+me022|good.|S|Bmr002
+me011|because morgan said he asked you.|S|Bmr002
+fe008|oh uh he did.|S|Bmr002
+fe008|and and i approved.|S|Bmr002
+me011|uhhuh.|B|Bmr002
+fe008|but i think that i was uh proposed before i was asked.|S|Bmr002
+fe008|and that doesn't matter.|S|Bmr002
+fe008|because i think there was probably an uh an indication that that i was interested in advance.|S|Bmr002
+me022|oh.|S|Bmr002
+me022|yeah that would be that would be my fault.|S|Bmr002
+fe008|and in which case i thank you.|S|Bmr002
+me022|right.|S|Bmr002
+fe008|yeah.|B|Bmr002
+me022|uh right.|S|Bmr002
+me011|and so one of the first questions is do you need help.|S|Bmr002
+me022|okay.|B|Bmr002
+me025|well hang on.|S|Bmr002
+me022|oh.|S|Bmr002
+me011|that's not the first question.|S|Bmr002
+me025|well well i guess.|S|Bmr002
+me022|okay.|B|Bmr002
+me025|do you so do you|D|Bmr002
+me025|what are what are we talking about?|Q|Bmr002
+me025|that you're going to you're going to do transcriptions?|Q|Bmr002
+me025|you're going to listen to these things and|D|Bmr002
+fe008|i'm going to provide i'm going to be|D|Bmr002
+fe008|once i'm given the data i will provide word level transcripts with uh indication of speakers.|S|Bmr002
+me025|okay.|S|Bmr002
+fe008|and um|F|Bmr002
+fe008|i guess speaker change in any case.|S|Bmr002
+fe008|so speaker i d.|S|Bmr002
+fe008|and words.|S|Bmr002
+me022|okay so you're going to do the actual transcription yourself?|S|Bmr002
+fe008|yeah.|S|Bmr002
+me022|okay.|S|Bmr002
+me025|and do you have a clear i mean is that|D|Bmr002
+me025|do you sort of|D|Bmr002
+me025|are you going to have to make up what you do?|Q|Bmr002
+me025|or do you have a very clear idea of what you're going to do?|Q|Bmr002
+me025|so i mean is it is it is this is it like something you've done before?|Q|Bmr002
+fe008|well.|F|Bmr002
+me025|or|D|Bmr002
+fe008|i've transcribed a lot.|S|Bmr002
+me025|yeah.|S|Bmr002
+fe008|but um you know the i mean there are always ways of doing things more efficiently or more uh in a more technically sophisticated way.|S|Bmr002
+me025|and|F|Bmr002
+me025|yeah.|S|Bmr002
+fe008|do you have to speak true english sentences when you do this?|Q|Bmr002
+me025|yeah.|S|Bmr002
+me025|because people are going to be listening to it afterwards.|S|Bmr002
+me025|and saying oh listen to her.|S|Bmr002
+me025|she couldn't even speak true english sentences.|S|Bmr002
+fe008|she can't speak.|S|Bmr002
+fe008|it's terrible.|S|Bmr002
+fe008|okay so um|F|Bmr002
+me025|oh you're meant you're meant to speak naturally.|S|Bmr002
+me025|you're meant to say oh i didn't realize we were being recorded.|S|Bmr002
+me011|uh right.|S|Bmr002
+fe008|yeah.|S|Bmr002
+fe008|no one told me that.|S|Bmr002
+fe008|this microphone what's this doing around my neck?|Q|Bmr002
+me011|uh that's|D|Bmr002
+me011|i i was saying before we don't really have to worry about people being surprised by it.|S|Bmr002
+me025|it's just it's just jewelry.|S|Bmr002
+fe008|okay so um typically what i you know i in uh what i've done before is i have a uh tape recorder with a reverse button.|S|Bmr002
+me025|yeah.|S|Bmr002
+fe008|and you just you know if it's word level you know you do a a i just hit the the rewind button every couple of words.|S|Bmr002
+me011|play.|S|Bmr002
+fe008|and type what i know.|S|Bmr002
+me025|yeah.|S|Bmr002
+fe008|and then and then at the end do a breeze through to be sure that everything's correct.|S|Bmr002
+me025|yeah.|B|Bmr002
+fe008|however they do have software these days which with a digitized uh record you can have control over replay through some sort of an interface.|S|Bmr002
+me025|yeah.|B|Bmr002
+fe008|um i've never used one of those.|S|Bmr002
+fe008|i know it would be an a wonderful idea.|S|Bmr002
+fe008|it's just i haven't transcribed in in awhile.|S|Bmr002
+me025|the problem is the nice thing about transcribers is they have foot pedals.|S|Bmr002
+fe008|i mean|F|Bmr002
+me022|right.|B|Bmr002
+fe008|foot pedals i've used transcribing machines.|S|Bmr002
+fe008|that's fine.|S|Bmr002
+fe008|um but i frankly didn't find it any more use to me than my hand held taperecorder.|S|Bmr002
+me025|oh.|B|Bmr002
+me025|i see.|S|Bmr002
+fe008|however if we have a transcribing machine i would accept it.|S|Bmr002
+fe008|the other thing is you know having getting hold of a transcriber.|S|Bmr002
+fe008|i think that cogsci has one.|S|Bmr002
+me011|uhhuh.|B|Bmr002
+me022|yeah.|B|Bmr002
+fe008|and i could probably borrow one.|S|Bmr002
+me022|well one|D|Bmr002
+me025|i i i actually have one.|S|Bmr002
+fe008|you have one yourself?|Q|Bmr002
+me025|well sarah has one.|S|Bmr002
+fe008|oh i see.|S|Bmr002
+me025|because she does a lot of transcribing of interviews.|S|Bmr002
+fe008|oh super.|S|Bmr002
+me025|but the crazy thing is we'd have to convert the we'd have to dump the audio files onto cassette to use it.|S|Bmr002
+me022|the other thing is is that we might be|D|Bmr002
+me022|oh.|B|Bmr002
+fe008|oh i see.|S|Bmr002
+fe008|okay.|S|Bmr002
+me025|i mean given that we've already got them digitally it would be|D|Bmr002
+me025|you know it's quite tempting to use some kind of uh software thing.|S|Bmr002
+fe008|oh okay.|S|Bmr002
+me025|but but then there's the question of the ergonomic interface that|D|Bmr002
+fe008|i|D|Bmr002
+me011|oh i actually have some foot pedals for the p c.|S|Bmr002
+me022|well that's what i was going to say is that adam has foot pedals that we could probably try and rig something up to.|S|Bmr002
+me025|okay.|B|Bmr002
+fe008|oh that'd be super.|S|Bmr002
+me025|what do they connect to?|Q|Bmr002
+me011|uh keyboard.|S|Bmr002
+me011|and they generate keystrokes.|S|Bmr002
+me025|oh that's totally cool.|S|Bmr002
+me025|now how how do you how do you decide which keystrokes they generate?|Q|Bmr002
+me011|um there's a little program that downloads into it.|S|Bmr002
+me011|um|F|Bmr002
+me025|huh.|B|Bmr002
+fe008|this is great.|S|Bmr002
+me025|and this is windows?|Q|Bmr002
+me011|but the program probably only runs in windows.|S|Bmr002
+me011|although i bet we could program it once.|S|Bmr002
+me025|uhhuh.|B|Bmr002
+me011|and and then put it on another machine and it would work.|S|Bmr002
+me022|except for the fact that we would have to unplug it and and change it|D|Bmr002
+me011|i haven't used them.|S|Bmr002
+me022|does it lose the memory once you've unpowered it?|Q|Bmr002
+me011|i don't know.|S|Bmr002
+me011|i don't think it does.|S|Bmr002
+me025|so hang on.|S|Bmr002
+me025|you have you have these foot pedals but you you're not using them.|S|Bmr002
+me011|i'm not using them anymore.|S|Bmr002
+me011|i used to use them.|S|Bmr002
+me011|so they're currently set up for shift control and alt.|S|Bmr002
+me025|yeah.|S|Bmr002
+me011|but i i don't use them.|S|Bmr002
+me011|they're not even plugged in.|S|Bmr002
+me025|wow!|S|Bmr002
+me025|that's so cool.|S|Bmr002
+me025|okay|F|Bmr002
+fe008|this sounds wonderful.|S|Bmr002
+me011|and so uh if that would help uh i'm certainly willing to donate them.|S|Bmr002
+me025|well|F|Bmr002
+fe008|i'm i'm open to|D|Bmr002
+me025|the the well the uh the part that's not wonderful is someone has to write the software.|S|Bmr002
+me022|right.|S|Bmr002
+fe008|yeah that's true.|S|Bmr002
+me011|and it it is a p c connection.|S|Bmr002
+fe008|well you know|D|Bmr002
+me011|so it would have to go on a p c somewhere.|S|Bmr002
+me025|yeah.|S|Bmr002
+fe008|now we're at a pilot phase right now.|S|Bmr002
+me011|uhhuh.|B|Bmr002
+fe008|and what i was told is that beginning|D|Bmr002
+fe008|you know that the the pilot data would be something like half hour of uh or you know half hour to forty minutes of running text.|S|Bmr002
+fe008|and so for the pilot thing you know of course this would be useful.|S|Bmr002
+me022|right this is the pilot data.|S|Bmr002
+fe008|and i i i'm i'm assuming that i would not be uh you know uh uh transcribing all of it.|S|Bmr002
+me011|yeah yeah you are generating it.|S|Bmr002
+me011|well that that was part of the question.|S|Bmr002
+me011|is that if for if we're doing this regularly|D|Bmr002
+me025|right.|B|Bmr002
+me011|imagine we're doing a couple of hours a week of transcripts.|S|Bmr002
+fe008|yeah.|B|Bmr002
+me011|um of recording.|S|Bmr002
+me011|uh i wouldn't expect you to do it all.|S|Bmr002
+fe008|no.|S|Bmr002
+fe008|no no.|S|Bmr002
+me011|so the question is do you know of resources that we could use?|Q|Bmr002
+me011|so are there grad students or undergrads or just commercial services?|Q|Bmr002
+fe008|yes.|S|Bmr002
+fe008|uhhuh yeah okay so now i've i've been involved with some of that at at cogsci.|S|Bmr002
+fe008|um so susan susan ervin tripp who you know um would typically and i've done this too supervise undergrads to do this kind of thing.|S|Bmr002
+me022|huh.|B|Bmr002
+fe008|and they you know you can give them like|D|Bmr002
+fe008|if you give them a little bit of instruction and and make it interesting for them they can do it as a two ninety eight or|D|Bmr002
+fe008|or not two ninety eight what is it one whatever undergraduate research credit.|S|Bmr002
+fe008|because what you do is you can you know build it into some sort of a|D|Bmr002
+me025|uhhuh.|B|Bmr002
+me011|oh really?|D|Bmr002
+me011|so we only have to give them credits.|S|Bmr002
+me011|we don't have to give them money?|Q|Bmr002
+fe008|well uh you have to be sure you give them compensation for you know of some of some sort.|S|Bmr002
+me011|oh you do have to pay them.|S|Bmr002
+me022|awesome.|S|Bmr002
+fe008|what i mean is it's not necessarily monetary.|S|Bmr002
+fe008|but if they feel like they're getting something out of it sometimes you can do it that way.|S|Bmr002
+me011|uhhuh.|B|Bmr002
+me011|uhhuh.|B|Bmr002
+fe008|and otherwise as part of a grant you can you can do it.|S|Bmr002
+fe008|some sort of minimal wage.|S|Bmr002
+me025|yeah.|S|Bmr002
+me011|well we we need to we need to find out how much that will cost so i can pass that on to morgan.|S|Bmr002
+fe008|yeah.|S|Bmr002
+me011|because right now we have almost no money.|S|Bmr002
+fe008|yeah.|S|Bmr002
+fe008|okay.|S|Bmr002
+me011|so so the cheaper we can do it the better.|S|Bmr002
+me025|well|F|Bmr002
+fe008|okay well you also want to get quality.|S|Bmr002
+fe008|i mean someone's going to have to pass through either a higher level person will have to pass through or you have to be sure you get good quality to begin with.|S|Bmr002
+me025|yeah absolutely.|S|Bmr002
+me011|uhhuh.|B|Bmr002
+me011|right.|S|Bmr002
+fe008|but um yeah that's quite you know we've that's been done.|S|Bmr002
+fe008|i can ask susan ervin tripp what she would recommend on that.|S|Bmr002
+me025|yeah.|B|Bmr002
+fe008|she's really she's done of the people that i know she's the one who's supervised the most of those things locally.|S|Bmr002
+me011|uhhuh.|B|Bmr002
+me025|what's her name?|Q|Bmr002
+fe008|uh uh doctor susan ervin tripp.|S|Bmr002
+me025|okay.|S|Bmr002
+fe008|faculty member in psychology recently retired.|S|Bmr002
+me025|uhhuh.|S|Bmr002
+me025|so|F|Bmr002
+fe008|and very well known in discourse analysis.|S|Bmr002
+me025|oh okay.|S|Bmr002
+me025|so the i mean what i'm hearing is that the problem of starting off with some recordings and trying to get word transcripts is kind of i mean it's not a it's not an unfamiliar problem.|S|Bmr002
+me025|so that|D|Bmr002
+fe008|oh it's very common.|S|Bmr002
+me025|so that i mean that basically there are standard solutions and we should just adopt adopt them.|S|Bmr002
+fe008|yeah.|S|Bmr002
+me025|and it's going to cost however much it's going to cost.|S|Bmr002
+me025|i mean there's we're we're probably not going to have a lot of flexibility in bringing down the cost.|S|Bmr002
+me025|because probably the low cost solution's already been established.|S|Bmr002
+me025|and so that's just whatever it is.|S|Bmr002
+me011|uhhuh.|B|Bmr002
+me025|that's how we'll do it.|S|Bmr002
+me025|see what i mean?|Q|Bmr002
+fe008|i think there's always this question of the trade off between uh paying more for the first pass and then and then editing less later.|S|Bmr002
+me025|uhhuh.|B|Bmr002
+me025|uhhuh.|B|Bmr002
+fe008|or paying less the first pass and editing more later.|S|Bmr002
+fe008|so|F|Bmr002
+me025|yeah.|S|Bmr002
+me025|well whatever they people who have had to do this|D|Bmr002
+me025|i mean the only thing is i wonder if our requirements are different from um i mean there's than than what's been done in the past.|S|Bmr002
+me025|than discourse analyzers.|S|Bmr002
+me025|because maybe we have different requirements in terms of time you know how much time aligned detail we need and uh how much detail in terms of people.|S|Bmr002
+fe008|oh but that's a|D|Bmr002
+fe008|uhhuh.|B|Bmr002
+fe008|okay.|S|Bmr002
+me025|i i don't know how much i don't think we do need any time aligned detail.|S|Bmr002
+me025|i think we just have basically one text file which runs from beginning to end.|S|Bmr002
+me025|but|D|Bmr002
+me011|well if in terms of transcripts sure.|S|Bmr002
+me011|but in terms of speaker change it might be nice to get the actual time.|S|Bmr002
+me025|sure.|S|Bmr002
+me025|but not if it costs more.|S|Bmr002
+me011|right.|S|Bmr002
+me022|well okay so what happened with switchboard was at least i mean the output was that they had speaker turns.|S|Bmr002
+me022|and they um analyzed it in terms of you know this is where this speaker change came in.|S|Bmr002
+me022|and of course that gets really difficult when you're talking about|D|Bmr002
+me022|i mean this is some of the stuff that you were talking about in uh your lunch talk.|S|Bmr002
+me025|uhhuh.|B|Bmr002
+me022|is that is that you know you get backchannels and stuff like that that that you know disrupt the um the segment you know the segmentation.|S|Bmr002
+me025|right.|B|Bmr002
+me025|yeah.|F|Bmr002
+me025|right i mean the it's sort of it's a little in some sense it's a little bit easier with it with switchboard.|S|Bmr002
+me025|because the telephone is so actually people are less flexible in what they do.|S|Bmr002
+me025|in this kind of situation where we've got nonverbal channels then there's a lot of overlap.|S|Bmr002
+me025|and there's just that it's not a very good model.|S|Bmr002
+me022|right.|S|Bmr002
+me011|oh in terms of data format what are we going to do about that?|Q|Bmr002
+me011|i mean you have the s t m format where you have you know every every utterance is is a single speaker.|S|Bmr002
+me011|i mean is that the right way to do it?|Q|Bmr002
+me011|or|D|Bmr002
+me025|well every utterance is a single speaker.|S|Bmr002
+me025|right?|Q|Bmr002
+me025|it's just that utterances can overlap.|S|Bmr002
+me025|i mean|D|Bmr002
+me011|is that the right way to do it?|Q|Bmr002
+me025|i think so.|S|Bmr002
+me011|okay.|S|Bmr002
+me025|i think i think i mean i think when i'm when|D|Bmr002
+me025|like so eric made a made a sentence and that should be like one utterance.|S|Bmr002
+me025|and then i had a couple of backchannels in there.|S|Bmr002
+me025|and they should be just overlapping things that|D|Bmr002
+me025|i don't think that we should break eric's sentences for those i think.|S|Bmr002
+me011|okay so that means that for each utterance we'll need the time marks.|S|Bmr002
+me022|right.|S|Bmr002
+me011|the start and end of each utterance.|S|Bmr002
+fe008|yeah.|S|Bmr002
+me022|so so|F|Bmr002
+me025|well we'll have to go in from somewhere.|S|Bmr002
+me025|but we can't necessarily i mean we we may be able to get the transcriber to give them to us if we give them software.|S|Bmr002
+me025|but we may not.|S|Bmr002
+me025|in which case we'll have to get them some other way.|S|Bmr002
+me025|like with forced alignment later.|S|Bmr002
+me025|i mean you know all this can be done.|S|Bmr002
+me011|uhhuh.|S|Bmr002
+me022|so we maybe we should look at the um the tools that mississippi state has.|S|Bmr002
+me025|yeah.|S|Bmr002
+me022|because i i i know that they published um annotation tools.|S|Bmr002
+me022|you know for their|D|Bmr002
+me011|well x waves have some as well.|S|Bmr002
+me011|but they're pretty low level.|S|Bmr002
+me011|they're designed for um for phoneme level.|S|Bmr002
+me022|yeah.|S|Bmr002
+me025|phoneme phoneme phoneme transcriptions.|S|Bmr002
+me025|yeah.|B|Bmr002
+fe008|i should've|D|Bmr002
+me011|although they actually have a nice tool for that could be used for speaker change marking.|S|Bmr002
+me025|there's a there are there's a whole bunch of tools.|S|Bmr002
+me025|there's a some web page where they have a list of like ten of them or something.|S|Bmr002
+fe008|yes.|S|Bmr002
+fe008|are you speaking about mississippi state per se?|Q|Bmr002
+me022|okay.|S|Bmr002
+fe008|or are|D|Bmr002
+me025|no no no there's some i mean i just there are there are a lot of a lot of these things.|S|Bmr002
+fe008|yeah.|B|Bmr002
+fe008|actually i wanted to mention there are two projects which are international huge projects focused on this kind of thing actually.|S|Bmr002
+fe008|one of them's mate.|S|Bmr002
+fe008|one of them's eagles.|S|Bmr002
+fe008|and um and both of them have|D|Bmr002
+me025|oh eagles.|S|Bmr002
+me025|yeah that's the european one.|S|Bmr002
+me025|yeah.|B|Bmr002
+fe008|you know i i know you know about the big book.|S|Bmr002
+me022|yeah.|S|Bmr002
+fe008|i think you got it as a prize or something.|S|Bmr002
+me025|huh.|B|Bmr002
+me022|yeah.|S|Bmr002
+fe008|got a surprise.|S|Bmr002
+fe008|and um and they have you know a lot of|D|Bmr002
+fe008|and mate is a project which is being run out of denmark.|S|Bmr002
+fe008|and um they have a lot uh big uh|D|Bmr002
+fe008|you know they're trying to set up a a work bench or something or other.|S|Bmr002
+fe008|and they have a whole bunch of tools that are associated with them.|S|Bmr002
+me025|uhhuh.|B|Bmr002
+fe008|so i mean there are things that in terms of like the time alignment issue|D|Bmr002
+me025|uhhuh.|B|Bmr002
+fe008|i mean you guys are more expert on that i mean than i am.|S|Bmr002
+fe008|but i want to say that i know for a fact i keep running across these.|S|Bmr002
+fe008|and those would be my first two choices of looking at eagles and mate.|S|Bmr002
+fe008|and i have the documentation downstairs.|S|Bmr002
+me011|okay.|S|Bmr002
+fe008|i didn't think to bring it.|S|Bmr002
+me011|have you looked at it already?|Q|Bmr002
+fe008|oh i have.|S|Bmr002
+fe008|but i wasn't interested in that particular issue.|S|Bmr002
+me011|uhhuh.|B|Bmr002
+me011|is this|D|Bmr002
+fe008|so we're talking now once you have words you know how do you time align it.|S|Bmr002
+fe008|and that's|D|Bmr002
+me011|oh so these are particularly for time alignment?|Q|Bmr002
+fe008|well these are uh tools|D|Bmr002
+fe008|so mate and eagles are both within the so called uh language engineering branch.|S|Bmr002
+fe008|and um so they're intended for this kind of a computer science application type of approach.|S|Bmr002
+me025|yeah.|B|Bmr002
+fe008|these are not discourse types of tools.|S|Bmr002
+me025|right.|B|Bmr002
+fe008|so they|D|Bmr002
+me011|right are they just for time alignment or are they for transcription as well?|Q|Bmr002
+fe008|can i be excused?|Q|Bmr002
+fe008|and i'll go down and get my stuff.|S|Bmr002
+fe008|because um i i do think|D|Bmr002
+me025|you don't|D|Bmr002
+me025|just take the thing with you.|S|Bmr002
+me011|it's wireless.|S|Bmr002
+fe008|are you serious?|Q|Bmr002
+me011|i mean it won't|D|Bmr002
+me025|well i don't know what will happen.|S|Bmr002
+me025|but you may as well.|S|Bmr002
+fe008|i but but|D|Bmr002
+fe008|what uh i mean can you spare like a minute or two of a|D|Bmr002
+me025|sure sure sure.|S|Bmr002
+me011|sure.|S|Bmr002
+me022|sure.|S|Bmr002
+fe008|okay.|S|Bmr002
+fe008|and i go get my books and i'll be right back.|S|Bmr002
+fe008|i didn't think of bringing this.|S|Bmr002
+fe008|do i need this?|Q|Bmr002
+fe008|i need my keys.|S|Bmr002
+fe008|okay.|F|Bmr002
+me025|my uh my|D|Bmr002
+fe008|oops!|S|Bmr002
+fe008|i need my card key.|S|Bmr002
+me022|we can hear all your conversations along the way.|S|Bmr002
+me025|yeah so be just|D|Bmr002
+fe008|i'll try not to say so oh dear boy that's itching there.|S|Bmr002
+me011|yeah don't talk to yourself too much.|S|Bmr002
+me025|yeah.|B|Bmr002
+fe008|so|F|Bmr002
+me025|yeah.|S|Bmr002
+me025|that's true.|S|Bmr002
+me025|you can leave it behind as well if you want.|S|Bmr002
+me011|so for the digits for the|D|Bmr002
+me025|i i assume that these are projects where they do the whole thing.|S|Bmr002
+me025|right?|Q|Bmr002
+me011|right.|S|Bmr002
+me025|so they probably will have tools to address the actual the the the transcriber support.|S|Bmr002
+fe008|oops!|S|Bmr002
+me025|and then automated alignment of what the transcribers give you.|S|Bmr002
+me025|which is you know exactly the problem we have|D|Bmr002
+me011|uhhuh.|B|Bmr002
+me022|right but we can do automated alignment.|S|Bmr002
+me022|that's not a problem.|S|Bmr002
+fe008|okay.|S|Bmr002
+me025|right.|S|Bmr002
+me022|i think.|S|Bmr002
+me025|right.|S|Bmr002
+me025|but then again we don't have to do it.|S|Bmr002
+me011|well i'm not sure if we can do automated alignment or not.|S|Bmr002
+me025|and|F|Bmr002
+me011|i mean especially in with speaker change in a meeting like this where we're overlapping so much.|S|Bmr002
+me022|i|F|Bmr002
+me011|i don't think we're going to have a a prayer.|S|Bmr002
+me025|oh sure we are.|S|Bmr002
+me025|we've got individual microphones.|S|Bmr002
+me022|well to get to get the to get the actual transcript i think we'll do okay.|S|Bmr002
+me022|because of because of the separate channels.|S|Bmr002
+me011|oh that's true.|S|Bmr002
+me011|right.|S|Bmr002
+me011|we could just do it through these.|S|Bmr002
+me025|yeah.|S|Bmr002
+me022|right.|S|Bmr002
+me011|i hadn't even thought about that.|S|Bmr002
+me011|sure.|S|Bmr002
+me011|um in terms of data formats uh what i did for the digits stuff was just to hand rolled my own that looks like this form.|S|Bmr002
+me011|you know it's just uh something that's easy to parse in perl.|S|Bmr002
+me011|um probably for the full one we'll want to do something like s t m.|S|Bmr002
+me011|i mean some format that our tools already work with.|S|Bmr002
+me025|yeah.|B|Bmr002
+me025|well|F|Bmr002
+me025|yes.|S|Bmr002
+me025|although that might presumably we'll have one we'll have several formats that you can interconvert between.|S|Bmr002
+me022|right.|S|Bmr002
+me011|yeah presumably.|S|Bmr002
+me025|when we want to do recognition we'll do s t m.|S|Bmr002
+me025|but if we're rather than rather than designing our own format we'll just take whatever comes out of the tools that we can find to use i think.|S|Bmr002
+me011|yeah i guess that's true.|S|Bmr002
+me011|yeah.|B|Bmr002
+me025|i i i've got no idea what that'll look like.|S|Bmr002
+me022|right.|B|Bmr002
+me025|but|F|Bmr002
+me022|well i know that i know that um the mississippi state tools at least what the produce does not come out in s t m format.|S|Bmr002
+me025|on our speaker phones.|S|Bmr002
+me025|right.|B|Bmr002
+me022|they they basically give|D|Bmr002
+me022|um they subdivide into wave files.|S|Bmr002
+me022|and then they give for each they give a one oh you know a wave file that indicates where the start and stop times are.|S|Bmr002
+me025|uhhuh.|B|Bmr002
+me022|and then um and then give the uh whatever the sentence information.|S|Bmr002
+me025|yeah.|B|Bmr002
+me022|but i mean it as you said it was easy to convert back and forth between um that file and s t m format.|S|Bmr002
+me022|in fact what i did is i took the mississippi state data and just made s t m files out of it.|S|Bmr002
+me025|uhhuh.|S|Bmr002
+me025|okay.|S|Bmr002
+me025|good.|S|Bmr002
+me011|okay mate mark up framework.|S|Bmr002
+me011|okay.|S|Bmr002
+me025|right.|S|Bmr002
+fe008|specification of uh coding workbench.|S|Bmr002
+me022|uhhuh.|B|Bmr002
+fe008|that's one thing.|S|Bmr002
+fe008|and then back in here|D|Bmr002
+me011|oh no!|S|Bmr002
+me011|it has the word x m l in it.|S|Bmr002
+me025|oh good.|S|Bmr002
+me025|it must be it must be fundable then.|S|Bmr002
+fe008|k c m file formats.|S|Bmr002
+me022|oh looks like looks like uh work packages.|S|Bmr002
+fe008|this is the|D|Bmr002
+me022|must be a european project.|S|Bmr002
+me025|yeah.|B|Bmr002
+me025|oh yeah.|S|Bmr002
+fe008|yeah it is european.|S|Bmr002
+fe008|both of these are european.|S|Bmr002
+fe008|but they have you know american contributions and stuff.|S|Bmr002
+me022|oh so they're using the alembic workbench from mitre.|S|Bmr002
+me025|alembic?|Q|Bmr002
+me022|i guess.|S|Bmr002
+fe008|yeah.|B|Bmr002
+me011|is that free?|Q|Bmr002
+me022|i don't know.|S|Bmr002
+fe008|well but you see they have a whole bunch of things.|S|Bmr002
+fe008|what they're doing is trying to bring together.|S|Bmr002
+fe008|and they rate things.|S|Bmr002
+fe008|i wasn't focused on that.|S|Bmr002
+fe008|so i didn't|D|Bmr002
+fe008|let me show|D|Bmr002
+fe008|have you seen this one dan?|Q|Bmr002
+me025|no.|S|Bmr002
+fe008|and i'll try to get one for you too.|S|Bmr002
+fe008|oh you've got one.|S|Bmr002
+fe008|what are you looking at here?|Q|Bmr002
+fe008|he's got the mark up framework.|S|Bmr002
+fe008|oh yeah.|S|Bmr002
+fe008|different coding schemes.|S|Bmr002
+me011|but it doesn't have enough pictures.|S|Bmr002
+me011|so i think it will require too much reading to understand whether this is anything that we can easily use.|S|Bmr002
+fe008|okay.|S|Bmr002
+me022|oh!|S|Bmr002
+me022|this is|D|Bmr002
+me022|i see.|S|Bmr002
+me022|they're reviewing and|D|Bmr002
+fe008|what they're doing is they're comparing all these existing things that have been submitted.|S|Bmr002
+fe008|and and it includes this one includes the t e i.|S|Bmr002
+me022|i see.|S|Bmr002
+fe008|and uh|F|Bmr002
+fe008|so it's it's um pretty broad based.|S|Bmr002
+me011|t e i is|D|Bmr002
+fe008|these things do seem to be.|S|Bmr002
+me022|mitre.|S|Bmr002
+fe008|that's the text encoding initiative.|S|Bmr002
+me011|oh.|S|Bmr002
+fe008|that's a way of markup.|S|Bmr002
+fe008|so you know but focus on tools to do this stuff.|S|Bmr002
+fe008|um i do have a file also in addition to those things.|S|Bmr002
+fe008|but|F|Bmr002
+fe008|it'll take me just a second here.|S|Bmr002
+me011|well i guess x m l makes some amount of sense.|S|Bmr002
+me011|i'm not actually familiar with it.|S|Bmr002
+me011|but it seems to be the sort of thing that this would be good for.|S|Bmr002
+me011|but|F|Bmr002
+fe008|well yeah.|S|Bmr002
+fe008|i mean if you start with a a basic transcription and a good filter you can|D|Bmr002
+me011|uhhuh.|B|Bmr002
+fe008|i mean that's sort of my feeling about it.|S|Bmr002
+fe008|that you should be you should be able to translate between an x m l and non x m l version.|S|Bmr002
+fe008|because most at least you know with a focus on discourse mostly.|S|Bmr002
+me011|right.|S|Bmr002
+fe008|oh i wanted to|D|Bmr002
+fe008|this this approach here this is uli heid from stuttgart.|S|Bmr002
+fe008|is um a query language for research in phonetics where he wants to build in tobi tags.|S|Bmr002
+fe008|and so you can determine|D|Bmr002
+fe008|um i wanted to mention this to you.|S|Bmr002
+fe008|i was going to come by and ask you about this.|S|Bmr002
+me025|uhhuh.|B|Bmr002
+fe008|do you know about the stuttgart um people?|Q|Bmr002
+fe008|because he's saying if you represent|D|Bmr002
+me025|i don't think so.|S|Bmr002
+fe008|he says that uh in german selbst is used in two different ways.|S|Bmr002
+fe008|so you have it either means uh himself or it means even.|S|Bmr002
+fe008|and you can tell the difference in terms of uh intonation.|S|Bmr002
+me025|uhhuh.|S|Bmr002
+fe008|so they have the recordings such that they can locate things uh with by searching for part of speech and also intonational tags.|S|Bmr002
+me025|huh.|S|Bmr002
+me025|uhhuh.|B|Bmr002
+fe008|anyway that's that.|S|Bmr002
+me025|because the transcriber's put in intonational tags?|Q|Bmr002
+fe008|this is true.|S|Bmr002
+fe008|this is true.|S|Bmr002
+fe008|which of course is another issue.|S|Bmr002
+me025|or maybe not.|S|Bmr002
+fe008|exactly so.|S|Bmr002
+fe008|and then i have one more thing i need to find.|S|Bmr002
+me025|well.|B|Bmr002
+me022|but that kind of thing i think we would probably want to extract automatically.|S|Bmr002
+fe008|and then i'll be|D|Bmr002
+me022|i mean this is the this is a conversation that we should have with liz.|S|Bmr002
+fe008|yeah.|S|Bmr002
+fe008|yes.|S|Bmr002
+fe008|oh okay.|S|Bmr002
+me022|right.|S|Bmr002
+me022|i think.|S|Bmr002
+me022|because she's going to be she's going to be the one who's the most concerned about this kind of thing.|S|Bmr002
+fe008|okay.|S|Bmr002
+me022|and so she may have some ideas on on that particular issue.|S|Bmr002
+me025|uhhuh.|B|Bmr002
+me011|right but it's i think for the initial task just getting the word transcripts and speaker change is highest on my list.|S|Bmr002
+fe008|yeah.|F|Bmr002
+fe008|i i|D|Bmr002
+fe008|yeah.|S|Bmr002
+fe008|well that's what morgan mentioned to me too.|S|Bmr002
+me011|so|F|Bmr002
+fe008|i mean if in terms of the the type.|S|Bmr002
+me022|yeah.|B|Bmr002
+fe008|but you asked me about uh tools and things.|S|Bmr002
+fe008|and um there's this one.|S|Bmr002
+me025|yeah.|S|Bmr002
+fe008|um this is called transcriber.|S|Bmr002
+fe008|um binary distribution for for uh linux and solaris and s g i and windows.|S|Bmr002
+me011|uhhuh.|B|Bmr002
+me025|uhhuh.|B|Bmr002
+fe008|transcriber is a tool for assisting creation of speech corpora.|S|Bmr002
+me025|who's it from?|Q|Bmr002
+me025|right.|S|Bmr002
+fe008|it allows to manually segment label and transcribe speech signals.|S|Bmr002
+fe008|and|F|Bmr002
+me025|is it the french one?|Q|Bmr002
+fe008|uh let's see.|S|Bmr002
+fe008|where did i get this?|Q|Bmr002
+fe008|i got this from u penn.|S|Bmr002
+me025|u penn.|S|Bmr002
+me025|i think that i've heard of this one.|S|Bmr002
+fe008|but|F|Bmr002
+me025|it was the one that steve renals mentioned.|S|Bmr002
+fe008|it is possible.|S|Bmr002
+fe008|it could be french.|S|Bmr002
+fe008|i can't really tell.|S|Bmr002
+me011|well i think that uh|D|Bmr002
+me022|can i see that?|Q|Bmr002
+me011|it sounds like you're at least a little familiar with these tools jane.|S|Bmr002
+me011|so are do you feel comfortable just picking one?|Q|Bmr002
+me011|um because|D|Bmr002
+fe008|i've never used any of them.|S|Bmr002
+me011|okay.|S|Bmr002
+fe008|and so um i think it would be something that we should work uh together with in terms of uh seeing how this|D|Bmr002
+me025|sure.|S|Bmr002
+me022|right.|S|Bmr002
+fe008|here's another thing i got.|S|Bmr002
+me022|oh so this would this is probably what the l d c uses.|S|Bmr002
+me022|i mean they do a lot of transcription at the l d c.|S|Bmr002
+fe008|okay.|S|Bmr002
+me022|i could ask my contacts at the l d c what what it is they actually use.|S|Bmr002
+fe008|oh!|S|Bmr002
+me022|i mean i know i mean i've got i've got contacts up there.|S|Bmr002
+fe008|good idea.|S|Bmr002
+fe008|great idea.|S|Bmr002
+me011|signed language is interesting.|S|Bmr002
+me022|so|F|Bmr002
+fe008|excellent idea.|S|Bmr002
+me022|so|F|Bmr002
+fe008|automatic annotation of prosody in verbmobil.|S|Bmr002
+me025|can i see?|Q|Bmr002
+me022|yeah.|B|Bmr002
+fe008|this is the other think that um this is part of eagles.|S|Bmr002
+fe008|but um|F|Bmr002
+fe008|but here again it's focusing on representation rather than the tools to do this.|S|Bmr002
+fe008|why do i feel like i'm whispering?|Q|Bmr002
+me011|well so how should we proceed on picking a tool?|Q|Bmr002
+me011|jane do you want to pick a few?|Q|Bmr002
+me011|and we'll download them and try them out.|S|Bmr002
+me011|is that the right thing to do?|Q|Bmr002
+fe008|oh!|S|Bmr002
+fe008|i think that would be lovely.|S|Bmr002
+fe008|now so are we talking about the stage of uh simply the word stage?|Q|Bmr002
+fe008|or are you talking about tools that would allow the time alignment as well?|Q|Bmr002
+me011|no we're not going to do time alignment.|S|Bmr002
+me022|no.|S|Bmr002
+me025|well well we are going to do time alignment.|S|Bmr002
+fe008|okay.|S|Bmr002
+me025|but we'll probably do it ourselves.|S|Bmr002
+me025|right?|Q|Bmr002
+me025|so we're not we're not concerned about getting getting about buying and or bringing in tools.|S|Bmr002
+me022|right.|S|Bmr002
+me022|we're very good at time alignments.|S|Bmr002
+me025|we're not very good.|S|Bmr002
+fe008|okay.|S|Bmr002
+me025|but we're proud of ourselves.|S|Bmr002
+me022|right.|S|Bmr002
+me022|okay.|S|Bmr002
+me025|we're very proud of our time alignment.|S|Bmr002
+fe008|absolutely.|S|Bmr002
+fe008|yeah.|B|Bmr002
+fe008|okay.|B|Bmr002
+me011|right and so but in terms of what the transcriber needs to do they're not going to have to do time alignment.|S|Bmr002
+fe008|good.|B|Bmr002
+fe008|oh good okay.|S|Bmr002
+me011|except maybe for word speaker change.|S|Bmr002
+fe008|fine.|D|Bmr002
+me011|but|F|Bmr002
+me025|right.|S|Bmr002
+me025|i mean it's not a bad|D|Bmr002
+me025|oh look!|S|Bmr002
+me025|it uses snack!|S|Bmr002
+me025|um|F|Bmr002
+me022|uses what?|Q|Bmr002
+me025|it uses snack.|S|Bmr002
+me025|that's a t c l audio thing that i had some involvement with.|S|Bmr002
+me011|okay then we'll have to use it.|S|Bmr002
+fe008|oh cool.|S|Bmr002
+fe008|very cool.|B|Bmr002
+me011|no no question.|S|Bmr002
+me025|yeah.|S|Bmr002
+me025|if i have to use it.|S|Bmr002
+me025|i'm sure i'm sure it's a t c l based thing.|S|Bmr002
+me025|i'm sure it's just wonderful.|S|Bmr002
+fe008|cool.|B|Bmr002
+fe008|cool.|B|Bmr002
+me025|yes t transcriber was developed with the scripting language t c l t k and c extensions.|S|Bmr002
+fe008|yeah.|B|Bmr002
+me025|it relies on the snack sound extension which allows support for most common audio formats.|S|Bmr002
+fe008|cool.|S|Bmr002
+me011|boy the recognition on what you just mumbled is going to be really horrible.|S|Bmr002
+me025|yeah.|B|Bmr002
+me025|it's the french one.|S|Bmr002
+fe008|oh cool.|S|Bmr002
+me011|yeah.|B|Bmr002
+fe008|okay.|S|Bmr002
+fe008|there.|S|Bmr002
+fe008|there you go.|S|Bmr002
+me025|i mean no i i|D|Bmr002
+fe008|i i love it when they|D|Bmr002
+me025|but i've never downloaded it.|S|Bmr002
+me025|someone mentioned it to me.|S|Bmr002
+me025|and that's probably why they mentioned it to me.|S|Bmr002
+me025|because they thought i would be excited because it's t c l based.|S|Bmr002
+fe008|did you see this one?|Q|Bmr002
+fe008|did you see this one here?|Q|Bmr002
+me025|oh deliverable d three point one.|S|Bmr002
+me025|oh yeah.|S|Bmr002
+me011|okay so so it's called transcriber you said?|Q|Bmr002
+fe008|okay.|B|Bmr002
+me011|gacks.|S|Bmr002
+me025|transcriber.|S|Bmr002
+fe008|whoa!|S|Bmr002
+me022|so it's very i mean it's interesting that one of the coordinators on that is mark liberman from the l d c.|S|Bmr002
+me011|uhhuh.|S|Bmr002
+fe008|yeah.|S|Bmr002
+me022|which means that i don't know what coordinator means in in terms of that.|S|Bmr002
+me022|i mean|D|Bmr002
+me011|well i think|D|Bmr002
+me022|what what is what is what is this web page from?|Q|Bmr002
+fe008|well i apparently|D|Bmr002
+fe008|you know i roam around on on topics like this.|S|Bmr002
+me022|sure.|S|Bmr002
+fe008|and i think i got this off the u penn.|S|Bmr002
+fe008|and it does in fact cite a french site.|S|Bmr002
+fe008|so um they have some sort of an arrangement.|S|Bmr002
+me011|well i just wrote down the french site.|S|Bmr002
+me022|i see.|S|Bmr002
+me011|and i will check it and try to download it.|S|Bmr002
+me022|right.|S|Bmr002
+me011|and uh see what it looks like.|S|Bmr002
+fe008|good.|B|Bmr002
+fe008|you you can access it through um through the uh whatever|D|Bmr002
+fe008|i can't remember which aspect of of u penn i was following.|S|Bmr002
+me022|right.|B|Bmr002
+fe008|but it must have been the l d c.|S|Bmr002
+fe008|i i i bet you anything.|S|Bmr002
+me022|yeah.|B|Bmr002
+me011|yeah they have a|D|Bmr002
+me011|i vaguely recall that they have a pages uh tools page somewhere.|S|Bmr002
+fe008|uhhuh.|B|Bmr002
+fe008|okay.|S|Bmr002
+me011|with like lists and lists and lists of uh various and assorted tools.|S|Bmr002
+me022|okay.|S|Bmr002
+fe008|yes.|S|Bmr002
+fe008|well there's they have a special project as i'm remembering.|S|Bmr002
+fe008|and um usually it doesn't deal with much that has to do with discourse.|S|Bmr002
+me011|uhhuh.|D|Bmr002
+fe008|but they uh they show up in resources.|S|Bmr002
+me011|so um we'll start with transcriber.|S|Bmr002
+me011|and if it looks like that's not going to do what we need we'll move on to the mississippi state.|S|Bmr002
+me011|and if it doesn't look like that's going to work we'll look at something else.|S|Bmr002
+fe008|i like that very much.|S|Bmr002
+fe008|and and i like the idea of also doing one that's tied in with these larger corpus projects.|S|Bmr002
+me011|okay.|S|Bmr002
+fe008|so that you know the fact that yeah it's u penn and all that.|S|Bmr002
+me011|uhhuh.|B|Bmr002
+me025|huh.|S|Bmr002
+me022|yeah.|B|Bmr002
+fe008|yeah.|F|Bmr002
+me022|right.|S|Bmr002
+me011|also i wanted to mention just in passing that uh another thing that we're going to want to start collecting is queries for the meetings.|S|Bmr002
+me011|so if over the next couple of days you find yourself wondering what we talked about in the meeting write down the sort of query you'd like to make.|S|Bmr002
+fe008|oh good idea.|S|Bmr002
+me011|do you understand what i mean?|Q|Bmr002
+fe008|it's like the p d a thing.|S|Bmr002
+me025|uhhuh.|S|Bmr002
+me011|so imagine that we had meeting recorder all done and you had one.|S|Bmr002
+me011|what might you do with it?|Q|Bmr002
+me011|so|F|Bmr002
+me011|if they occur to you.|S|Bmr002
+fe008|so like did the french system use tcl.|S|Bmr002
+me011|right.|S|Bmr002
+me011|that's a good one.|S|Bmr002
+me022|actually what i would have come up with was what was the web address of that thing.|S|Bmr002
+me011|send so if you could just email me them.|S|Bmr002
+me022|which we didn't|D|Bmr002
+me011|yeah except we didn't record.|S|Bmr002
+me022|we didn't record that.|S|Bmr002
+me011|so|F|Bmr002
+me022|right.|S|Bmr002
+me011|it's w w w dot e t c a dot f r.|S|Bmr002
+me025|that's a fine question.|S|Bmr002
+fe008|if anyone wants to know.|S|Bmr002
+me025|wow!|S|Bmr002
+fe008|but you could get it through the u penn|D|Bmr002
+me022|slash slash capital c t a slash|D|Bmr002
+me011|slash lots of other stuff yeah.|S|Bmr002
+me022|yeah.|S|Bmr002
+me022|yeah.|S|Bmr002
+me025|so this thing this uh deliverable d three point one of the mate project is a review of a lot of different tools.|S|Bmr002
+me022|right.|B|Bmr002
+fe008|yes.|S|Bmr002
+fe008|yeah there you go.|S|Bmr002
+fe008|exactly.|S|Bmr002
+me025|they're actually they seem to be more|D|Bmr002
+me025|the the main focus of the tools is you've already got a transcription but you're trying to tag the different turns transcriptions with uh discourse roles.|S|Bmr002
+me025|and things like that.|S|Bmr002
+me022|i see.|S|Bmr002
+me025|but i mean a lot them are tools that will also do transcription as well.|S|Bmr002
+me025|and i could be wrong.|S|Bmr002
+fe008|well my my impression|D|Bmr002
+fe008|i i i really thought of these resources in the context of you you asking about time aligning the|D|Bmr002
+fe008|you know what would you need to indicate.|S|Bmr002
+me025|right.|B|Bmr002
+fe008|and were there tools for that.|S|Bmr002
+fe008|because um i suspect that would be uh pretty time intensive.|S|Bmr002
+fe008|i also wanted to say in terms of like you know if there are discussions about intonation contours i do have a certain amount of background in that.|S|Bmr002
+fe008|and i really would be i'd like to be involved in that.|S|Bmr002
+me022|right.|S|Bmr002
+me022|no right i didn't mean to imply that that we that that we shouldn't discuss this now.|S|Bmr002
+fe008|yeah.|B|Bmr002
+me022|but i'm i'm just saying that|D|Bmr002
+fe008|oh not right now.|S|Bmr002
+fe008|but i mean in the future.|S|Bmr002
+me022|right.|S|Bmr002
+fe008|so at this meeting with liz i you know i mean|D|Bmr002
+fe008|i i do i'd like to i like that stuff.|S|Bmr002
+me022|sure sure.|S|Bmr002
+me011|so when is she showing up?|Q|Bmr002
+me022|well i mean they're coming in april.|S|Bmr002
+me011|april.|S|Bmr002
+me011|okay.|S|Bmr002
+me022|right.|S|Bmr002
+me022|but um|F|Bmr002
+me022|you know we we may or may not talk before then on that.|S|Bmr002
+me011|uhhuh.|S|Bmr002
+me022|um i i think we won't probably talk until we have more data.|S|Bmr002
+me022|i would think.|S|Bmr002
+me022|right?|Q|Bmr002
+me011|right since we have almost none right now let's|D|Bmr002
+me022|yeah.|B|Bmr002
+me011|we need to move forward from there.|S|Bmr002
+me011|but uh yeah i guess it's okay.|S|Bmr002
+me011|and then uh there's also just the general question of will it handle multiple channels or should we just|D|Bmr002
+me011|dan and i spoke about this briefly.|S|Bmr002
+me011|do we want to try to combine channels somehow to make the transcriber's job easier?|Q|Bmr002
+me011|i was listening to some of it.|S|Bmr002
+me011|and uh|F|Bmr002
+me011|like if you just listen to the far p z m the person sitting at this end of the table you can hardly hear at all.|S|Bmr002
+me011|on on the transcript.|S|Bmr002
+me011|so there may be|D|Bmr002
+me011|it may be worthwhile to at least try a little bit to combine the channels.|S|Bmr002
+me022|right.|S|Bmr002
+me025|i uh the stuff i did i combined pairs of these into stereo pairs.|S|Bmr002
+me025|listened to them in stereo.|S|Bmr002
+me011|huh.|B|Bmr002
+me025|and i was very impressed by how well you could hear separate speakers.|S|Bmr002
+me011|neat.|B|Bmr002
+me025|but i haven't i haven't done very extensive tests.|S|Bmr002
+me011|oh so that would be interesting as well to do that.|S|Bmr002
+me022|oh!|S|Bmr002
+me022|yeah because you'd get you get|D|Bmr002
+me025|you get a certain amount of spatial information.|S|Bmr002
+me022|right.|S|Bmr002
+me025|it's not it's not consistent.|S|Bmr002
+me025|but it's gives you some noise.|S|Bmr002
+me022|wow!|S|Bmr002
+me011|well i bet if you used this one the two most separated p z m's|D|Bmr002
+me011|well maybe maybe not.|S|Bmr002
+me025|yeah yeah.|S|Bmr002
+me025|you'd get get wide coverage.|S|Bmr002
+me022|well you would you would sound like you'd have like in this big big head.|S|Bmr002
+me011|big ears.|S|Bmr002
+me025|right.|B|Bmr002
+me025|right.|B|Bmr002
+me025|but i mean but you would you would you know you'd get good you'd get good pick up at both ends of the table.|S|Bmr002
+me022|right.|S|Bmr002
+me025|so|F|Bmr002
+me011|right.|S|Bmr002
+me022|right.|B|Bmr002
+me011|okay.|S|Bmr002
+me011|do we have anything else to talk about with transcribes?|Q|Bmr002
+me025|well what is what is the goal?|Q|Bmr002
+me025|again?|Q|Bmr002
+me025|we're going to end up with some i mean ultimately we're going to end up with transcriptions of these meetings.|S|Bmr002
+me011|and we'll run a train a neural net.|S|Bmr002
+me011|and create a recognizer.|S|Bmr002
+me011|and do information retrieval.|S|Bmr002
+me025|what?|Q|Bmr002
+me025|and then then then we'll be done?|Q|Bmr002
+me011|and|F|Bmr002
+me025|huh?|Q|Bmr002
+me011|well that's my interest.|S|Bmr002
+me011|i mean other people have different interests.|S|Bmr002
+me025|um|F|Bmr002
+me011|so|F|Bmr002
+me011|that's what i want.|S|Bmr002
+me025|of course there are different kinds of|D|Bmr002
+me025|so we're going to actually train a recognizer based on these uh far field mikes.|S|Bmr002
+me011|right.|S|Bmr002
+me025|because what we that's the problem we're trying to solve.|S|Bmr002
+me011|right.|S|Bmr002
+me025|okay.|S|Bmr002
+me025|we need a lot of i mean|D|Bmr002
+me011|well what the so the reason we're doing near field as well is if that doesn't work we want to we want some something that will work.|S|Bmr002
+me025|well and also the near field will allow us to do the time alignment accurately.|S|Bmr002
+me011|right.|S|Bmr002
+me011|right.|B|Bmr002
+me025|um|F|Bmr002
+fe008|so these are near near field?|Q|Bmr002
+me011|uhhuh.|B|Bmr002
+me025|yeah.|S|Bmr002
+fe008|there|D|Bmr002
+fe008|okay.|S|Bmr002
+me025|yeah.|B|Bmr002
+me025|close mikes.|S|Bmr002
+me025|i mean i|D|Bmr002
+me025|yeah i feel like that what we're actually going to do with these data is very unclear to me.|S|Bmr002
+me011|why?|Q|Bmr002
+me025|well because i don't think that's a that's not going to work.|S|Bmr002
+me025|right?|Q|Bmr002
+me025|okay we're going to get horrible performance on that.|S|Bmr002
+me011|the question is is it will it work well enough to do information retrieval.|S|Bmr002
+me025|uhhuh.|B|Bmr002
+me011|so will the application the meeting recorder application work?|Q|Bmr002
+me025|yeah.|B|Bmr002
+me011|so is part of the research is um is fifty percent accuracy enough to do useful information retrieval.|S|Bmr002
+me022|well part|D|Bmr002
+me011|it might be.|S|Bmr002
+me025|well we know the answer to that but unfortunately will we get fifty percent accuracy.|S|Bmr002
+me011|that's right.|S|Bmr002
+me011|well but you know we have to try.|S|Bmr002
+me025|yeah.|S|Bmr002
+me011|we we we could simply not do the project.|S|Bmr002
+me011|but i think that's a bad solution.|S|Bmr002
+me022|we also need to do this in terms of smartkom.|S|Bmr002
+me022|i mean we're collecting this as to build general english acoustic models.|S|Bmr002
+me022|that can be that they can say okay here's the vocabulary.|S|Bmr002
+me022|and here's the you know here are the pronunciations and go to it.|S|Bmr002
+me025|and are they specifically far field mikes?|Q|Bmr002
+me022|yeah.|S|Bmr002
+me022|yeah.|S|Bmr002
+me011|oh i didn't know that.|S|Bmr002
+me025|okay.|S|Bmr002
+fe008|you know if if we were to add in addition and i'm offering this um to the word level also the uh so stressed words within utterances.|S|Bmr002
+me025|yeah.|B|Bmr002
+fe008|i do think that that would help the information retrieval.|S|Bmr002
+me025|well i mean that would be tremendously useful information.|S|Bmr002
+fe008|okay.|S|Bmr002
+me025|assuming that we actually pursue it.|S|Bmr002
+me025|but um we've got a huge problem.|S|Bmr002
+me025|because if we if we want train a recognizer we need tens of hours of labelled data.|S|Bmr002
+fe008|oh good point.|S|Bmr002
+me025|and um it's just uh it's very frightening.|S|Bmr002
+me011|yep.|S|Bmr002
+fe008|do you think|D|Bmr002
+fe008|so are are you familiar with this the the marsec project?|Q|Bmr002
+me025|uhuh.|B|Bmr002
+fe008|um so i'll put this over here.|S|Bmr002
+fe008|because he seems to be the chairman.|S|Bmr002
+fe008|um|F|Bmr002
+me025|who eric?|Q|Bmr002
+fe008|oh he's not?|S|Bmr002
+me022|no.|S|Bmr002
+me011|he has he has the open piece of paper.|S|Bmr002
+fe008|well|F|Bmr002
+fe008|uhhuh.|B|Bmr002
+me011|so open notebook.|S|Bmr002
+fe008|he|D|Bmr002
+fe008|yeah.|F|Bmr002
+fe008|well he can|D|Bmr002
+me022|well dan's got an open notebook too.|S|Bmr002
+fe008|discuss discuss among yourselves.|S|Bmr002
+me025|outrageous!|S|Bmr002
+me025|laying out his folders.|S|Bmr002
+me011|i have one.|S|Bmr002
+me011|but i've carefully covered it so that it doesn't|D|Bmr002
+me022|right.|B|Bmr002
+fe008|so this is a project that um has time aligned spoken data.|S|Bmr002
+fe008|which is um i see it as sort of in between um these fields.|S|Bmr002
+fe008|because a lot of the time when people do rich um intonational and and stress oriented transcription they don't have the digital record at the same time.|S|Bmr002
+fe008|and the don't have it time aligned.|S|Bmr002
+me025|uhhuh.|B|Bmr002
+fe008|i don't know how large this is actually.|S|Bmr002
+fe008|but i just was sort of thinking that um i'm i'm|D|Bmr002
+fe008|and it's british.|S|Bmr002
+me025|uhhuh.|B|Bmr002
+fe008|and you know|D|Bmr002
+me011|well i think to some extent with things like the stress and the other prosodic things.|S|Bmr002
+fe008|so|F|Bmr002
+fe008|uhhuh.|B|Bmr002
+me011|and tighter time alignments that we can do.|S|Bmr002
+me011|i think we should probably do those.|S|Bmr002
+me011|but only once we have a consumer of that data.|S|Bmr002
+fe008|uhhuh.|B|Bmr002
+fe008|okay.|S|Bmr002
+me011|you know so right now we have a consumer of the word transcripts and the speaker change.|S|Bmr002
+fe008|uhhuh.|B|Bmr002
+me011|me.|S|Bmr002
+me011|i want those things to work.|S|Bmr002
+me011|and so i would like to get that done as quickly as possible.|S|Bmr002
+fe008|uhhuh.|B|Bmr002
+me011|and so if if liz or someone else wants to do some work on uh prosody and on stress and so on then we can go back to the data and generate the uh the transcripts that we need.|S|Bmr002
+fe008|i'm|D|Bmr002
+fe008|uhhuh.|B|Bmr002
+fe008|okay.|S|Bmr002
+fe008|one thing about that is that is that um in the process of of doing the word level it really is just as easy to put the stress in at that point.|S|Bmr002
+me011|even for an undergrad?|Q|Bmr002
+fe008|simply the stressed|D|Bmr002
+fe008|oh oh!|S|Bmr002
+fe008|well see in my pilot stuff|D|Bmr002
+fe008|so in the half hour or so that i'm doing i'd just as soon put it in.|S|Bmr002
+fe008|because i do think that you'd find that those would be words|D|Bmr002
+me011|uhhuh.|B|Bmr002
+me025|okay.|S|Bmr002
+fe008|i mean you know of course rosaria's pursuing this this area.|S|Bmr002
+me011|uhhuh.|B|Bmr002
+fe008|but i really do think from everything that i've run across that um you you should get gain in terms of the uh uh what you were saying.|S|Bmr002
+fe008|the information retrieval aspects from that.|S|Bmr002
+me011|right.|B|Bmr002
+fe008|and i wouldn't be too surprised.|S|Bmr002
+fe008|i mean it's it's like uh|D|Bmr002
+fe008|i mean i don't know how how reliable lea is.|S|Bmr002
+fe008|but if this idea of islands of of um for whatever they are.|S|Bmr002
+fe008|islands of reliability or whatever it is.|S|Bmr002
+me011|accuracy?|Q|Bmr002
+fe008|the stressed stressed words.|S|Bmr002
+me011|certainty.|S|Bmr002
+me011|islands of certainty.|S|Bmr002
+fe008|is that it?|Q|Bmr002
+fe008|okay.|B|Bmr002
+me011|yeah.|S|Bmr002
+fe008|i mean|D|Bmr002
+me022|are you certain?|Q|Bmr002
+me025|lea?|Q|Bmr002
+me011|no.|S|Bmr002
+fe008|the claim that uh words that get stressed are easier to recognize.|S|Bmr002
+me025|i see.|S|Bmr002
+fe008|so i mean i i think it there's be sort of a benefit with very minimal input.|S|Bmr002
+me025|yeah.|B|Bmr002
+fe008|because when you listen to a sentence you can tell if it's contrastive stress.|S|Bmr002
+fe008|you say oh that word was stressed.|S|Bmr002
+fe008|and why the heck not put it in at the word level?|Q|Bmr002
+fe008|so so i mean the part that i'm doing i'm really happy to supply that without any|D|Bmr002
+fe008|because it it's just it's there.|S|Bmr002
+me011|uhhuh.|B|Bmr002
+me025|okay if you think it won't slow you down at all.|S|Bmr002
+fe008|it's not it doesn't take any thinking.|S|Bmr002
+me025|yeah.|B|Bmr002
+fe008|i'm not going to talk about you know uh trying grade them in any kind of careful way.|S|Bmr002
+fe008|but just indicate if if there's a prominent word to indicate it.|S|Bmr002
+me011|sure.|S|Bmr002
+me025|yeah that's great.|S|Bmr002
+me011|all caps.|S|Bmr002
+me025|no well presumably there's a an annotation standard for prefix characters or something like that.|S|Bmr002
+fe008|whatever.|S|Bmr002
+fe008|whatever.|S|Bmr002
+fe008|people|D|Bmr002
+me025|that's what they're using here.|S|Bmr002
+fe008|yeah people do different different ways.|S|Bmr002
+me025|okay.|S|Bmr002
+fe008|a and so just as long as it's systematic in my view you can always filter it into some other format.|S|Bmr002
+me025|yeah exactly.|S|Bmr002
+me025|exactly.|S|Bmr002
+me025|exactly.|S|Bmr002
+me011|anything else?|Q|Bmr002
+me025|well so um|F|Bmr002
+me025|what is the plan?|Q|Bmr002
+me025|we're going to|D|Bmr002
+me025|i mean how many how many how many meetings?|Q|Bmr002
+me011|i'm going to go download transcriber.|S|Bmr002
+me011|and jane and i will look at it.|S|Bmr002
+me025|what about our recording schedule?|Q|Bmr002
+me011|oh!|S|Bmr002
+me025|how many meetings are we going to record?|Q|Bmr002
+me025|um|F|Bmr002
+me025|which ones are we going to transcribe?|Q|Bmr002
+me025|um|F|Bmr002
+me025|do we|D|Bmr002
+me011|well i think the answer is we need to record as many as we can.|S|Bmr002
+me025|okay.|S|Bmr002
+me011|right i don't see any reason not to try to record a meeting or two a week.|S|Bmr002
+me025|absolutely.|S|Bmr002
+me011|um|F|Bmr002
+me011|i mean more if we can.|S|Bmr002
+me011|and uh so i want to um i want to start by in the next couple weeks just doing the speech group.|S|Bmr002
+me011|until we get to the point where we're fairly comfortable with the hardware and the software and everything works.|S|Bmr002
+me025|yeah.|B|Bmr002
+me011|and then i think i'll|D|Bmr002
+me011|also uh jerry volunteered to have his group do a few.|S|Bmr002
+me011|so i'll uh try to get those as well.|S|Bmr002
+fe008|how many of these do you have?|Q|Bmr002
+me025|okay.|B|Bmr002
+fe008|these near mikes.|S|Bmr002
+me025|five.|S|Bmr002
+me011|we have five of the wireless.|S|Bmr002
+fe008|oh okay.|S|Bmr002
+fe008|okay.|B|Bmr002
+me011|and then we were going to be getting a bunch of wired ones as well.|S|Bmr002
+me011|i mean notice that|D|Bmr002
+me025|well.|B|Bmr002
+me011|your you you stood up and walked around.|S|Bmr002
+me011|none of the rest of us have.|S|Bmr002
+me011|and so we could have wired mikes and i wouldn't be a big deal.|S|Bmr002
+fe008|oh.|B|Bmr002
+fe008|oh i see.|S|Bmr002
+me011|for bigger meetings.|S|Bmr002
+fe008|okay.|B|Bmr002
+fe008|i see.|S|Bmr002
+me011|so|F|Bmr002
+fe008|interesting.|B|Bmr002
+fe008|very interesting.|B|Bmr002
+fe008|wow!|S|Bmr002
+fe008|i'm just really impressed by this.|S|Bmr002
+fe008|um yeah.|F|Bmr002
+me011|it really makes you feel like you're doing real work.|S|Bmr002
+me011|when you get all this hardware.|S|Bmr002
+fe008|well this is i mean compared to the way people normally do like discourse stuff.|S|Bmr002
+fe008|you know it's like you got your|D|Bmr002
+fe008|i mean they've gotten away from reel to reel tapes.|S|Bmr002
+me025|uhhuh.|S|Bmr002
+fe008|but|F|Bmr002
+fe008|and they do have dat recorders.|S|Bmr002
+fe008|i mean you do have that.|S|Bmr002
+me025|uhhuh.|B|Bmr002
+fe008|but i mean this is just wonderful the uh added level of yeah compactness in the channels.|S|Bmr002
+me025|if we can do anything with it yeah.|S|Bmr002
+me011|yep.|S|Bmr002
+fe008|i do find myself whispering.|S|Bmr002
+fe008|i mean i suspect my normal|D|Bmr002
+me011|why?|Q|Bmr002
+fe008|i don't know why.|S|Bmr002
+me011|i had noticed that you were talking quietly.|S|Bmr002
+fe008|it's bizarre.|S|Bmr002
+me011|and i was actually going to ask you.|S|Bmr002
+fe008|yeah this is not really my normal pattern.|S|Bmr002
+me011|i was going to ask you to speak up.|S|Bmr002
+me011|but i didn't want you to feel self conscious.|S|Bmr002
+fe008|i think the problem is that i'm afraid that i'm talking into someone's ear.|S|Bmr002
+me011|oh.|S|Bmr002
+fe008|i really do.|S|Bmr002
+fe008|so it's so it's like|D|Bmr002
+fe008|and i realize now that you have volume uh control.|S|Bmr002
+fe008|but uh|F|Bmr002
+fe008|yeah.|B|Bmr002
+me025|i don't feel like you're speaking unnaturally quietly.|S|Bmr002
+fe008|oh good.|S|Bmr002
+me025|i mean i feel like it's all quite normal.|S|Bmr002
+fe008|okay.|S|Bmr002
+fe008|good.|B|Bmr002
+me022|well i hear what you're saying.|S|Bmr002
+fe008|i'm glad.|S|Bmr002
+me025|yeah.|B|Bmr002
+fe008|good.|B|Bmr002
+me025|eric's really got it easy because he's got the lapel mike which is so unobtrusive.|S|Bmr002
+fe008|that's great.|S|Bmr002
+me022|i asked if somebody else wanted the lapel mike.|S|Bmr002
+me022|somebody else can take it next time.|S|Bmr002
+me011|i've been trying to rotate it through.|S|Bmr002
+me011|so dan will get it next time.|S|Bmr002
+fe008|are these more expensive or less expensive than this kind?|Q|Bmr002
+me025|they're much more expensive.|S|Bmr002
+fe008|okay.|S|Bmr002
+me025|i i which i don't understand.|S|Bmr002
+me025|but there it is.|S|Bmr002
+fe008|it would be like the television effect or something maybe.|S|Bmr002
+me025|right it's because they make people feel like television stars.|S|Bmr002
+me011|do you feel like a television star?|Q|Bmr002
+me025|so you can charge more for it.|S|Bmr002
+fe008|that's probably why i thought he was the chairman.|S|Bmr002
+me025|yeah that's it.|S|Bmr002
+me025|that must be it.|S|Bmr002
+me011|that that makes sense.|S|Bmr002
+me022|that's it.|S|Bmr002
+me011|right?|Q|Bmr002
+me011|because he's not heavily encumbered with this.|S|Bmr002
+me025|yeah.|B|Bmr002
+me022|right.|B|Bmr002
+me011|you should have run it under your sweater though.|S|Bmr002
+me022|right.|S|Bmr002
+me022|yes.|S|Bmr002
+me025|okay.|F|Bmr002
+me025|well i don't mind.|S|Bmr002
+me025|oh we should read some more numbers then.|S|Bmr002
+me025|are we are we are we there?|Q|Bmr002
+fe008|oh good.|S|Bmr002
+me022|yeah.|S|Bmr002
+me025|are we at that point?|Q|Bmr002
+me011|i think we're there.|S|Bmr002
+fe008|good.|B|Bmr002
+me022|how much space do we have left?|Q|Bmr002
+fe008|good.|B|Bmr002
+me025|more space than you can|D|Bmr002
+me011|uh|F|Bmr002
+me025|we've got two hours of space now.|S|Bmr002
+me011|he he he changed the downsampling.|S|Bmr002
+me022|oh really.|S|Bmr002
+me025|yeah.|B|Bmr002

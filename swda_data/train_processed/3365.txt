@@ -1,0 +1,139 @@
+B|Hi,|fp|3365
+B|this is Donna Donahue.|fp|3365
+A|Hi, Donna.|fp|3365
+B|Hi.|fp|3365
+A|Ready to get started?|qy|3365
+B|Uh, yeah,|ny|3365
+B|I think so.|sd|3365
+A|Okay.|fo_o_fw_"_by_bc|3365
+A|Sort of an interesting topic since I just got back from lunch here|sd|3365
+B|Okay.|b|3365
+B|Well, what did you have for lunch?|qw|3365
+A|Oh, it was, uh, it was,|%|3365
+A|I'm an officer in the Air Force, Yeah.|sd|3365
+B|Oh.|b|3365
+B|Oh.|b|3365
+B|Well, that's interesting.|ba|3365
+B|Okay.|b|3365
+B|So our topic is, is food today,|sd|3365
+B|is that,|%|3365
+A|Yeah.|b|3365
+B|Okay.|b|3365
+A|If you're having a dinner party, what, what would you serve?|qw|3365
+B|Okay, uh,|^h|3365
+B|do you want me to go first?|qy|3365
+A|Sure.|na|3365
+B|Okay.|^h|3365
+B|If I was having a dinner party I would probably, um, have some, um, some, uh, um, some fruit to start with with some apples sliced up and maybe some cheddar cheese and crackers and grapes and, um, probably serve maybe some wine and beer and maybe have some, uh, uh, salsa and chips around and peanuts.|sd|3365
+B|And then I would have, um, let's see. I usually have like a little theme when I have a dinner party Um, I would have maybe, um, say if it was like Greek night or something *sd um, maybe, um, on the barbecue we'd put, uh, cubes of lamb or I guess lamb used for Greek. And, um, like a shish kabob, and, um, mushrooms and tomatoes and onions|sd|3365
+A|Uh-huh.|b|3365
+A|Uh-huh.|b|3365
+A|Uh-huh.|b|3365
+B|and then we'd have, um, like a big Greek tossed salad kind of like a Caesar salad.|sd|3365
+A|Uh-huh.|b|3365
+B|And, um, let's see what else.|t1|3365
+B|Um, maybe some rolls and, um, I guess some, uh, some rice or something like that.|sd|3365
+B|How does that sound?|qw|3365
+A|Jeez,|ba|3365
+A|well, well, when is the party here?|qh|3365
+B|Yeah.|b|3365
+B|Um, yeah,|%|3365
+B|that would take some planning|sd|3365
+B|but,|%|3365
+A|I don't know|h|3365
+A|being a, being the bachelor here that I am, I, I don't think I'd, I'd be|sd|3365
+A|I mean it, it's not a question of capability here to do something like that.|sd|3365
+A|It's just there's, there's no motivation.|sd|3365
+B|That's right.|aa|3365
+A|You know, I want to, I want to throw some charcoal on the grill and, and throw a steak on there and some baked potatoes and stuff like that|sd|3365
+A|but, um,|%|3365
+B|Well, that sounds good too.|ba|3365
+B|I have, um, I have three kids|sd|3365
+A|Uh-huh.|b|3365
+B|so, um, when we have friends over I have my oldest kind of baby-sit for the little two younger ones upstairs|sd|3365
+B|and, um, usually we just have very plain kind of, you know, interesting, not very interesting meals. Pizza and that all|sd|3365
+A|Uh-huh.|b|3365
+B|so once in a while when we do something like that it's kind of fun,|sd|3365
+B|but it's not a, not a regular thing. Now are we supposed to talk for about five minutes,|sd|3365
+A|Yeah.|b|3365
+A|Yeah.|b|3365
+B|it?|qy|3365
+A|Yeah,|ny|3365
+A|that's what they, they are shooting for here.|sd|3365
+B|Okay.|bk|3365
+B|Um, let's see now|^h|3365
+B|okay,|%|3365
+B|so you would have a barbecue|qy|3365
+A|Well, I live on a, I live on a lake here,|no|3365
+B|Uh-huh.|b|3365
+A|and, uh, so it,|%|3365
+A|and then during the summertime it's real nice to be able to entertain outdoors,|sd|3365
+B|Oh, sure.|ba|3365
+A|like that's a little more a casual thing.|sd|3365
+A|But in mine the wintertime it's not bad too because then I've got a, a fireplace and a nice, nice house and all that|sd|3365
+A|so we, really good place to do entertaining like that.|sd|3365
+B|Uh-huh.|b|3365
+B|Oh, that sounds wonderful.|ba|3365
+A|I just haven't, uh, really tried a whole lot|sd|3365
+A|but, uh I don't know,|h|3365
+B|Uh-huh.|b|3365
+A|let's see.|^h|3365
+A|I have had, well, one time I did have a dinner party.|sd|3365
+A|I served a, uh, uh,|%|3365
+A|I had a gang of people over and kind of made a fried chicken thing and biscuits, and kind of southern, uh, southern food even though I'm up here in New York,|sd|3365
+B|Uh-huh.|b|3365
+A|so|%|3365
+B|Oh, you are in New York right now?|qy^d|3365
+A|Yeah.|ny|3365
+B|Oh.|b|3365
+B|I'm, I'm in Texas.|sd|3365
+B|I didn't know this was all, from all over the whole country.|sd|3365
+A|Oh, yeah.|aa|3365
+A|Yeah,|aa|3365
+B|Oh, I see.|bk|3365
+A|it is.|sd|3365
+A|It's,|%|3365
+B|And I'm originally from Long Island.|sd|3365
+A|Oh, no kidding?|qy|3365
+B|Yes,|ny|3365
+B|and now where are you in New York?|qw|3365
+A|Upstate.|sd|3365
+B|Oh, upstate.|b^m|3365
+A|Rome.|sd|3365
+A|In, uh, Griffins Air Force Base.|sd|3365
+B|Oh, okay.|bk|3365
+B|Oh, okay.|bk|3365
+B|Is that where you, you are originally from around there?|qy|3365
+B|Oh, okay.|bk|3365
+A|and, uh, been all over the place.|sd|3365
+B|Oh, wow.|ba|3365
+B|That's interesting.|ba|3365
+B|Okay,|^h|3365
+B|let's see.|^h|3365
+B|Um, well, I like to have, um, sometimes when I have a dinner party I'll have, um, everybody bring something,|sd|3365
+A|Yeah.|b|3365
+B|and that's real interesting because then you get different, um, different kinds of foods and new recipes|sd|3365
+B|and, um, uh, sometimes somebody will be bring something that you really like,|sd|3365
+A|Right.|b|3365
+B|and get the recipe from them or whatever.|sd|3365
+B|And we are just getting interested in, in Mexican food|sd|3365
+B|because here in Texas they have lots of, really good Mexican restaurants|sd|3365
+A|Uh-huh.|b|3365
+B|and, um, we're, we're just getting into the fajitas and all that stuff that you could,|sd|3365
+A|Sure.|ba|3365
+B|do you know what a fajita is?|qy|3365
+A|Yeah.|ny|3365
+A|Yeah,|ny|3365
+B|Yeah.|b|3365
+A|I've been down to Texas a few times, and, uh, had, uh, the pleasure of their good Mexican, cuisine down there.|sd|3365
+B|Okay.|bk|3365
+B|Yes.|b|3365
+B|They have some delicious, delicious things,|sv|3365
+B|and I, um,|%|3365
+B|since I always make chicken burritos and just take chicken breasts|sd|3365
+A|Uh-huh.|b|3365
+B|and you boil them, maybe like four chicken breasts,|sd|3365
+B|and you boil them until they are cooked. Maybe like thirty minutes|sd|3365
+A|Uh-huh.|b|3365
+B|and then you debone them and, and kind of shred them up into the meat that has gotten cooled|sd|3365
+B|and you take, um, little bit, maybe two tablespoons of butter and a in a big frying pan. And chop up some onion and put in oregano and salt,|sd|3365

@@ -1,0 +1,176 @@
+A|Arlington, Texas|fo_o_fw_"_by_bc|3595|0
+A|now since I got somebody from Arlington, Virginia one day|sd|3595|0
+B|Is that right?|bh|3595|1
+A|Yeah.|ny|3595|0
+B|Well, I never thought about that,|sd|3595|1
+B|but there is an Arlington,|sd|3595|1
+B|like I had a call the other day from Birmingham, Michigan you know,|sd|3595|1
+A|Oh|b|3595|0
+B|and I was thinking yeah, and I was thinking|sd|3595|1
+A|Birmingham.|b^m|3595|0
+B|the only Birmingham I could think of was Alabama.|sd|3595|1
+A|Right.|aa|3595|0
+A|It's funny how many names have been used, uh, all over the country.|sv|3595|0
+B|Yeah,|aa|3595|1
+B|well, tell me what kind of books have you read?|qw|3595|1
+A|Well, to tell you the truth, I've been going to college for the last four years|sd|3595|0
+A|so mainly, text books.|sd|3595|0
+B|I was going to say, not fun kind, right?|qy|3595|1
+A|No, um,|nn|3595|0
+A|but, I, I really tend to like biographies a lot, not necessarily always heavy ones|sd|3595|0
+B|Uh-huh.|b|3595|1
+A|but, you know, sometimes|sd|3595|0
+A|I just read one about Grace Kelley.|sd|3595|0
+A|I love to read about real people.|sd|3595|0
+A|To me, half the time it's more fascinating than some of these made up stories|sd|3595|0
+B|Yeah,|aa|3595|1
+B|it is,|sd|3595|1
+B|because you know that's it's really and truly a true thing.|sd|3595|1
+A|Yeah,|aa|3595|0
+A|it happened.|sd|3595|0
+B|You know, I read one about Bob Hope that I liked.|sd|3595|1
+A|Really?|bh|3595|0
+B|Yeah,|ny|3595|1
+B|that was real good.|sd|3595|1
+B|I'm like you,|sd|3595|1
+B|if it's not a heavy biography, you know I enjoy it.|sd|3595|1
+A|Right.|b|3595|0
+A|I used to like to read about royalty a lot.|sd|3595|0
+A|I, when I was younger I read about every king and queen that lived, I think, in Europe.|sd|3595|0
+A|That was my thing for a while.|sd|3595|0
+B|I was trying to think, uh,|^h|3595|1
+B|I read a, uh, a novel that used the names of like Princess Di and Prince Phillip coming over here to be entertained and all,|sd|3595|1
+B|and there was a murder.|sd|3595|1
+A|Oh, really.|bh|3595|0
+B|Yeah,|ny|3595|1
+B|it was some time ago.|sd|3595|1
+B|Seems like it was THE SPY WENT DANCING, or something like that.|sd|3595|1
+A|Oh, it sounds like fun.|ba|3595|0
+B|It was a lot of fun because they used these real names, you know.|sd|3595|1
+A|Wonder if it was by one of those famous writers, you know|sd|3595|0
+A|Margaret Truman Daniels writes a lot those.|sd|3595|0
+B|Yeah,|aa|3595|1
+B|in fact I believe it was|sd|3595|1
+B|because,|%|3595|1
+A|Really?|bh|3595|0
+B|Uh-huh.|ny|3595|1
+B|I believe.|sd|3595|1
+A|Sounds like something she would write.|sv|3595|0
+B|Yeah,|aa|3595|1
+B|I think it was by her, now that you mention it, because someone had given it to me,|sd|3595|1
+B|and I thought, well, this will be great,|sd|3595|1
+B|and it was.|sd|3595|1
+A|Yeah,|b|3595|0
+A|I've heard that she's done you know, her books are really interesting,|sd|3595|0
+A|and they always sell well.|sd|3595|0
+B|Uh-huh.|b|3595|1
+A|And, uh,|%|3595|0
+B|Well, when you use real people like that, I think royalty, especially, you know.|sv|3595|1
+A|Yeah,|aa|3595|0
+A|brings it to life.|sv|3595|0
+A|I know, uh, the some of the British people laugh at us because we're so enthralled with their royalty.|sd|3595|0
+B|Yeah,|aa|3595|1
+B|but you know, that's like them being enthralled with our football and so forth, you know.|sv|3595|1
+A|I know,|aa|3595|0
+A|our movie stars.|sv|3595|0
+B|Our movie stars,|b^m|3595|1
+B|because it's totally different concept to us.|sv|3595|1
+A|Oh, right.|aa|3595|0
+B|I haven't, I haven't had a chance to read a lot lately either.|sd|3595|1
+B|I have read, uh, mostly novels.|sd|3595|1
+B|I went to visit my daughter in Florida|sd|3595|1
+A|Um.|%|3595|0
+B|and I took a novel with me, uh, and read it at Thanksgiving time,|sd|3595|1
+B|and, uh, it was, uh, one of those generation novels, you know|sd|3595|1
+A|Oh, yes.|aa|3595|0
+B|starts out when they're small and continues through generations|sd|3595|1
+A|Oh, I always like those.|sd|3595|0
+B|and I like that.|sd|3595|1
+A|Have you ever read anything by Susan Howatch?|qy|3595|0
+B|Yes,|ny|3595|1
+B|I have.|sd|3595|1
+A|Isn't she fabulous?|qy|3595|0
+B|Oh, she is wonderful.|na|3595|1
+A|Oh, once you|sd|3595|0
+A|I don't like to get one of her books|sd|3595|0
+A|because, I, I just live to read.|sd|3595|0
+A|I'll, I'll skip everything just to get back to the book|sd|3595|0
+B|I stayed up one night, I think until two in the morning finishing one of hers because I I could not put it down.|sd|3595|1
+A|Oh, yeah.|ba|3595|0
+A|She's just a,|sv|3595|0
+A|I don't know,|h|3595|0
+A|does she, how often does she come out with them.|qw|3595|0
+A|I probably have missed the last few since I've been back in school.|sd|3595|0
+B|Well, no,|ar|3595|1
+B|it seems like she doesn't write as often as, oh, well, like Danielle Steele and those silly things.|sd|3595|1
+B|She writes the same thing.|sv|3595|1
+A|Well, she can, she can turn them out overnight, I swear.|sv|3595|0
+B|Yeah,|aa|3595|1
+B|and, and they're the same silly things,|sv|3595|1
+B|I mean, if you've read one, I mean it's, It, it's practically the same thing over and over, you know.|sv|3595|1
+A|Yeah,|aa|3595|0
+A|I've never read a whole one of hers, I don't think.|sd|3595|0
+A|And think how rich she is.|ad|3595|0
+B|Yeah,|aa|3595|1
+B|wouldn't I, you know,|qh|3595|1
+B|I'm criticizing her,|sd|3595|1
+B|and wouldn't I like to have her money|qh|3595|1
+A|Oh, yeah.|aa|3595|0
+B|because they go from hardback to paperback|sd|3595|1
+B|and she has millions of them.|sd|3595|1
+A|And then make movies out of some of them.|sd|3595|0
+B|Uh-huh.|b|3595|1
+B|You know, mini series and so forth,|sd|3595|1
+B|and it seems to me like Susan Howatch does not write as often.|sd|3595|1
+B|I have not seen as many of hers.|sd|3595|1
+A|Well, hers are so involved,|sv|3595|0
+A|and they're so such a higher intellectual level, because she quotes a lot, you know.|sv|3595|0
+B|Uh-huh.|b|3595|1
+B|I think she does a lot of research, too.|sv|3595|1
+A|I do too,|aa|3595|0
+A|so she couldn't possibly turn them out like some of these popular writers,|sv|3595|0
+B|Huh-uh.|aa|3595|1
+A|but oh, her books are just incredible.|sv|3595|0
+A|I don't think they've ever made a movie, do you?|qy|3595|0
+B|No,|nn|3595|1
+B|I don't think so,|sd|3595|1
+B|and I've often wondered why, haven't you?|qy|3595|1
+A|Yes|ny|3595|0
+B|You know, I,|%|3595|1
+A|well, no, uh,|ar|3595|0
+A|I really just thought about it now|sd|3595|0
+A|but there's just,|%|3595|0
+B|Yeah.|b|3595|1
+A|Maybe it's because they take so much in.|sd|3595|0
+A|I don't know.|h|3595|0
+B|Uh-huh.|b|3595|1
+B|Maybe they're just too involved for the average person to go and sit through them, you know.|sd|3595|1
+A|They're so big|sv|3595|0
+B|Uh-huh.|b|3595|1
+A|they're such, you know,|sd|3595|0
+A|it would be like another GONE WITH THE WIND, I guess another three hour movie|sv|3595|0
+B|Yeah.|b|3595|1
+B|And maybe that turns people off,|sd|3595|1
+B|but look at GONE WITH THE WIND, you know.|ad|3595|1
+A|Oh, I know.|aa|3595|0
+A|It's about one of my favorite movies.|sd|3595|0
+B|Uh, have you, uh, gotten into SCARLETT yet?|qy|3595|1
+A|No,|nn|3595|0
+A|it had such a bad press,|sd|3595|0
+A|I wasn't too .|sd|3595|0
+B|Yeah,|aa|3595|1
+B|that's exactly what I was going to say.|sd|3595|1
+B|I was amazed,|sd|3595|1
+B|because I,|%|3595|1
+B|in the beginning when it was on, you know, on route coming out I heard mixed publicity kind of good and bad,|sd|3595|1
+A|Uh-huh.|b|3595|0
+A|Right.|b|3595|0
+B|and then when it came out, all I heard was just, oh, how bad it was, that I didn't even want to get it.|sd|3595|1
+A|Me, either.|aa|3595|0
+A|Do you know anyone that's read it?|qy|3595|0
+B|Huh-uh.|nn|3595|1
+A|No,|aa|3595|0
+A|I haven't heard of anybody that's read it, either.|sd|3595|0
+B|No.|b|3595|1
+A|I think it was on the best-seller list, though for a while.|sd|3595|0
+B|Well it wouldn't surprise me,|sd|3595|1

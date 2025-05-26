@@ -1,0 +1,139 @@
+A|Okay,|fo_o_fw_"_by_bc|4013
+A|so you have eight children.|bf|4013
+A|Um, what type of things do you do as a family to spend time together.|qo|4013
+B|Oh, we spend a lot of time outdoors jogging, bicycling, uh, going to the park, um, some time watching V C R movies um, generally cheap things|sd|4013
+A|Uh-huh.|b|4013
+A|Uh-huh.|b|4013
+A|Uh-huh.|b|4013
+A|Yeah,|b|4013
+A|we know how that goes.|ba|4013
+A|Uh, with lots of kids you don't have lots of money for recreation.|sv|4013
+B|That's right.|aa|4013
+A|Well, that's fun.|ba|4013
+A|So, um, let's see, uh,|^h|4013
+A|some of the things we do together as a family, we like to play games a lot,|sd|4013
+A|and you may think this is funny,|sv|4013
+A|but one of our funnest games we like to play together is hide and seek,|sd|4013
+A|and we just have a hoot playing hide and seek when it's dark in our house,|sd|4013
+B|Yeah.|b|4013
+A|and that is so fun.|sd|4013
+A|The kids just get a crack out of that.|sd|4013
+A|Um, we like, we do like to go to the park, too you, uh, like your family.|sd|4013
+A|Um, we don't do a lot of vacationing.|sd|4013
+A|Have you taken a lot of vacations together|qy|4013
+A|or,|%|4013
+B|Most of our vacations are to go and see Grandma and Grandpa.|no|4013
+A|Uh-huh,|b|4013
+A|and|%|4013
+B|We get an occasional one or two day thing|sd|4013
+A|Oh.|bk|4013
+B|but most of them are going and seeing Grandma and Grandpa.|sd|4013
+A|Oh, now where do they live?|qw|4013
+B|In Arizona.|sd|4013
+A|Oh, so that's a bit of a drive for you there.|qy^d|4013
+B|Yes.|ny|4013
+A|Oh, so you like to go there for the holidays|qy^d|4013
+A|and.|%|4013
+B|Oh, we don't go very often for holidays.|arp_nd|4013
+B|Generally we try to get all of our kids back home for the holidays and let Grandma and Grandpa come and visit us.|arp_nd|4013
+A|Uh-huh.|b|4013
+A|Oh, uh-huh.|b|4013
+A|Uh, what are the ages of your kids then?|qw|4013
+B|They range from twenty-four to five.|sd|4013
+A|Oh, yeah.|b|4013
+A|So you have some in the nest and some out, huh.|qy|4013
+B|That's right.|na|4013
+B|How old are your children?|qw|4013
+A|We have,|%|4013
+A|ours start at twelve|sd|4013
+A|and then they go down to four.|sd|4013
+B|I think the hardest thing for us has been, is to find you know, leisure time activities that all of our kids can enjoy together with the age span that we have, you know,|sd|4013
+A|I bet,|ba|4013
+A|yeah.|%|4013
+B|like the older kids love playing board games and that kind of thing|sd|4013
+A|Uh-huh.|b|4013
+B|but the young kids don't understand it|sd|4013
+A|Yes,|b|4013
+A|uh-huh.|b|4013
+B|and so they get real frustrated when we try to do that,|sd|4013
+B|and.|%|4013
+A|Yes,|b|4013
+A|and then if you want to play something on the little kids' level, then the older kids get real bored,|sv|4013
+A|and they want to do something else.|sv|4013
+A|So.|%|4013
+B|Yeah.|b|4013
+A|Yeah,|b|4013
+A|I can, I can relate to that.|ba|4013
+A|Um, do you feel that the current trend in families spending time together is a positive one or a negative one?|qy|4013
+B|I think it's improving, actually.|sv|4013
+A|Uh-huh.|b|4013
+B|We had an interesting experience the other day.|sd|4013
+B|We, we have pretty much a, a routine that we spend,|sd|4013
+B|we don't have our kids play with other kids on Sunday|sd|4013
+A|Uh-huh.|b|4013
+B|and we just kind of keep them at home|sd|4013
+A|Uh-huh.|b|4013
+B|and our next door neighbor, uh,|sd|4013
+B|we were at a soccer game Saturday,|sd|4013
+B|and our next door neighbor was there,|sd|4013
+B|and somebody came up and asked if their daughter could spend Saturday night at their house|sd|4013
+A|Uh-huh.|b|4013
+B|and she said, no, Sunday's our family day|sd|4013
+A|Uh-huh|b|4013
+B|and we keep our kids at home so we can spend time with them.|^q|4013
+A|That's good.|ba|4013
+B|And I think those kinds of things are happening a lot where we are right now.|sv|4013
+A|Oh, good.|ba|4013
+B|I think it's gone to one extreme where the families were just running all different direction|sv|4013
+A|Uh-huh.|b|4013
+B|and I think more people are interested in spending time with their kids now.|sv|4013
+A|I think so,|aa|4013
+A|and I feel like, you know, like President Bush, Bush has mentioned quite often, that we are trying to become a kinder and gentler nation,|sd|4013
+A|and it does begin with the families at home|sv|4013
+B|Yeah.|b|4013
+A|and so I, I'm a firm believer in that, too.|sd|4013
+B|I think a lot of people are panicked, how kids are turning out and how things are going for kids and realizing they've got to start doing something.|sv|4013
+B|So.|%|4013
+A|Yes,|aa|4013
+A|that's, that's true.|aa|4013
+A|Well, we see that a lot out here in Utah,|sd|4013
+A|and, um, hopefully, hopefully it's going to spread, huh. .|sd|4013
+B|Utah's a lot better than Texas.|sv|4013
+A|Oh.|b|4013
+A|Um, do you have a lot of large families out there in Texas,|qy|4013
+A|or.|%|4013
+B|Very few.|ng|4013
+A|Very few.|b^m|4013
+A|You feel like you're in the minority?|qy|4013
+B|Oh, definitely.|na|4013
+B|When we tell people how many kids we have they look at us like we didn't have good sense.|sd|4013
+A|Oh, dear|ba|4013
+B|But, uh.|%|4013
+A|Well, out here in Utah, five is about the the average,|sd|4013
+B|Average.|^2|4013
+A|yeah.|%|4013
+B|My wife and I were in Utah until I guess we were about twenty-four.|sd|4013
+A|Oh.|b|4013
+A|Uh-huh.|b|4013
+B|Never been back, since then,|sd|4013
+B|but, We have kids up there now,|sd|4013
+A|Oh.|b|4013
+B|so we get up occasionally.|sd|4013
+A|Oh.|b|4013
+A|Oh, I have some relatives out there in Texas,|sd|4013
+A|in fact my mom's out there in Texas right now, in Dallas, spending a month with her cousins, on their ranch,|sd|4013
+A|and.|%|4013
+B|Where, where in Dallas?|qw|4013
+A|Well, uh, no,|ar|4013
+A|I'm trying, Aberdeen?|t1|4013
+B|Huh.|br|4013
+A|Is, is that close to Dallas?|qy|4013
+B|I don't have any idea.|no|4013
+B|I've never heard of it.|sd|4013
+A|Oh.|bk|4013
+B|Must be a little town.|sv|4013
+A|Don't you.|%|4013
+A|It's, I guess it's out there, clear out.|sd|4013
+A|They have a ranch that has like five hundred acres,|sd|4013
+A|and,|%|4013
+B|Yeah.|b|4013

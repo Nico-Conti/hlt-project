@@ -1,0 +1,74 @@
+A|Well, have you ever served on a jury?|qy|4321|0
+B|No,|nn|4321|1
+B|I've not.|sd|4321|1
+B|I've been called,|sd|4321|1
+B|but I had to beg off from the duty.|sd|4321|1
+B|And you?|qy|4321|1
+A|Well, I was called|na|4321|0
+A|and then I was not chosen.|sd|4321|0
+B|Um.|%|4321|1
+B|Well, I was, I was, uh, originally chosen primarily, I think, because I was a young fellow|sv|4321|1
+B|and they tend to view the younger fellows as more likely to hand down a guilty verdict.|sv|4321|1
+B|I don't know why.|sd|4321|1
+B|Something I picked up in a psychology class some time ago.|sd|4321|1
+A|Oh, really?|bh|4321|0
+B|Yeah,|ny|4321|1
+B|it's that the younger they are, they tend to be more conservative for some statistical oddball reason,|sd|4321|1
+B|and they kind of liked me.|sd|4321|1
+B|I looked and all that stuff|sd|4321|1
+B|and they,|%|4321|1
+B|I don't know what they saw in me,|sd|4321|1
+B|but they saw it.|sd|4321|1
+B|But, uh, back to the issue, is, uh,|sd|4321|1
+B|I don't know,|h|4321|1
+B|at times I feel that a unanimous decision is warranted, especially in cases in which there's no smoking gun.|sv|4321|1
+B|But, there, too, there are also cases in which I feel a majority rule might be acceptable, particularly, I think in civil cases.|sv|4321|1
+B|In criminal cases, I'd like to see the unanimity remain,|sv|4321|1
+B|but in civil cases, I think a majority rule by, by jury would be sufficient.|sv|4321|1
+A|Well, uh, could you give me an example of a case where you think that?|qo|4321|0
+B|Well, in a criminal case, say one in which, you know, there is, like, say assault or some such. I think there ought to be a unanimous, uh, vote because by law and by constitution there must be proven beyond a shadow of a reasonable doubt that the person in question did this.|sv|4321|1
+B|And in civil law there, you know, is such a thing as like, let's say, uh, misappropriations or misuse of financial instruments or something like that.|sd|4321|1
+B|A majority rule, I think, would be more in line as there is no real smoking gun in the civil cases.|sv|4321|1
+B|I don't know if I'm making any sense or not.|h|4321|1
+A|Well, I mean, I think,|sv|4321|0
+A|are you just trying to say that criminal cases are more, uh, tangible|qy|4321|0
+A|or,|%|4321|0
+B|Yeah,|ny|4321|1
+B|often there's more incriminating evidence.|sv|4321|1
+B|Like, for instance, say, uh,|ad|4321|1
+B|and also, too, I think I'm, I'm tempering this and the fact that the consequences are much more, uh, serious in a criminal case.|sv|4321|1
+A|Well, do you think that, that in a civil case, if there was majority rule, that it would be easy for someone to be set up?|qy|4321|0
+B|Um, well, I really can't say for certain, truth be known.|^h|4321|1
+B|Uh, as it stands, there's, there's many ways and means by which a person can be set up, both, uh, in a uh, civil and criminal case.|sv|4321|1
+B|I mean, the, uh, documentary, the THIN BLUE LINE pretty much demonstrated that.|sv|4321|1
+B|You know, I don't know for, if you're familiar with that or not.|qy^d|4321|1
+A|No,|nn|4321|0
+A|I'm not.|sd|4321|0
+B|A, uh, fellow when he was much younger, uh, was tried and convicted and sentenced to death.|sd|4321|1
+B|Fortunately, in his case, the death penalty was revoked|sd|4321|1
+B|and, uh, so he served out his, his sentence until it was discovered by a fellow who was making a documentary called the THIN BLUE LINE that this guy had basically gotten railroaded through the judicial system.|sd|4321|1
+B|The case was reopened|sd|4321|1
+B|and he was exonerated.|sd|4321|1
+A|Well, I mean, I think that there are many cases in our judicial system where justice is not served.|sv|4321|0
+B|Yeah,|aa|4321|1
+B|many laws, but little justice.|sv|4321|1
+A|Say,|%|4321|0
+A|but, uh,|%|4321|0
+A|and I also think, just like you were talking about before, why you were chosen to be on a jury that, uh, the, just, the process of picking jurors is not always objective.|sv|4321|0
+B|Oh, certainly not,|aa|4321|1
+B|certainly not.|aa|4321|1
+B|And you know, they like to think that they're getting someone who's objective in all this,|sv|4321|1
+B|but they're really looking for someone who will pretty much fulfill the lawyers' desires.|sv|4321|1
+B|You know, the,|%|4321|1
+B|because you get up|sd|4321|1
+B|and, and they ask you a few questions,|sd|4321|1
+B|both sides do,|sd|4321|1
+B|and then you, you're either challenged which is,|sd|4321|1
+B|you know, each attorney can use that as much as they like|sd|4321|1
+B|or, I think it's a limit now,|sd|4321|1
+B|they probably have a limit now,|sv|4321|1
+B|but, they pretty much go through that,|sd|4321|1
+B|and then you have to give a reason to the court why you can't serve.|sd|4321|1
+B|For me, it was financial hardship,|sd|4321|1
+B|so. But, onto the thing, uh, I was never aware that juries had any say on recommending sentencing.|sd|4321|1
+B|It was always my impression that the Justice himself, or herself, had the final say.|sd|4321|1

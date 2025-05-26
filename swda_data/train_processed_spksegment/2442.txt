@@ -1,0 +1,161 @@
+A|All right.|fo_o_fw_"_by_bc|2442|0
+B|Okay,|b|2442|1
+B|are you on an exercise program now|qy|2442|1
+B|or,|%|2442|1
+A|Yeah,|ny|2442|0
+A|I exercise pretty regularly.|sd|2442|0
+B|Uh-huh.|bk|2442|1
+A|I lift weights quite a bit.|sd|2442|0
+B|Uh-huh.|bk|2442|1
+A|Um, I run occasionally.|sd|2442|0
+A|Let's see what else do I do. Play golf some,|sd|2442|0
+A|and I work out on a, on a hanging bag.|sd|2442|0
+A|I'm brown belt in karate,|sd|2442|0
+A|so I keep up with that a little bit.|sd|2442|0
+B|Uh-huh.|bk|2442|1
+B|Oh, yeah.|bk|2442|1
+A|How about you.|qo|2442|0
+B|Um, the only exercise program I'm doing right now is walking.|sd|2442|1
+A|Uh-huh.|bk|2442|0
+B|I've got a nine month old,|sd|2442|1
+B|and I'm four months pregnant with my second,|sd|2442|1
+B|and so, at the time, walking seems to be the best.|sv|2442|1
+B|It's something I can do with her, plus, um, doesn't tax me too physically.|sd|2442|1
+A|Uh-huh.|bk|2442|0
+B|I have enjoyed aerobics in the past,|sd|2442|1
+B|and I enjoy that because I like the group association, you know, like exercising with other people.|sd|2442|1
+A|Yeah.|bk|2442|0
+B|And, um, and that's my favorite way to exercise.|sd|2442|1
+A|Well, that's neat.|ba|2442|0
+A|Yeah,|%|2442|0
+A|I do walk some too.|sd|2442|0
+A|My wife's about five months along|sd|2442|0
+B|Oh.|b|2442|1
+A|so she's been walking quite a bit,|sd|2442|0
+A|so that is a good exercise for that.|aa|2442|0
+B|Yeah,|aa|2442|1
+B|it's nice to do it together, too, I guess.|sv|2442|1
+A|Uh-huh.|b|2442|0
+B|My husband and I use to walk together,|sd|2442|1
+B|but our schedules don't coincide as well as they used to,|sd|2442|1
+B|and so, we very seldom get together to walk|sd|2442|1
+B|but, when you, when you work out, do you pretty much do it on your own schedule,|qy|2442|1
+B|or do you go to groups|qrr|2442|1
+B|or,|%|2442|1
+A|I, I do it on my own schedule.|sd|2442|0
+B|Uh-huh.|b|2442|1
+A|We used to try and belong to clubs or the Y, stuff like that,|sd|2442|0
+A|but it was so difficult to go on a regular basis, to drive the distance you have to go.|sd|2442|0
+B|Uh-huh.|b|2442|1
+A|Save the fees,|%|2442|0
+A|we've, uh, just save the fees and buy some of our own equipment.|sd|2442|0
+A|So,|%|2442|0
+B|And then you can do it whenever you want I guess.|sv|2442|1
+A|Yeah,|aa|2442|0
+A|I've got a weight bench,|sd|2442|0
+A|and we got my wife an exercise bike,|sd|2442|0
+A|and I use that sometimes too.|sd|2442|0
+B|Uh-huh.|b|2442|1
+A|It's a little more convenient,|sv|2442|0
+A|but, you're, I guess you're not as dedicated if you don't drive over to do it.|sv|2442|0
+B|I guess it depends on the person, depends on how motivated you are.|sv|2442|1
+A|Uh-huh.|b|2442|0
+B|Because my husband used to work out three days a week with, uh, at the Texas Instruments gym.|sd|2442|1
+A|Uh-huh.|b|2442|0
+B|And then I would just go on Saturdays.|sd|2442|1
+B|But, since the first of the year neither one of us have been going.|sd|2442|1
+A|Yeah.|b|2442|0
+B|So, I guess, like I say, we've been paying these fees and not going,|sd|2442|1
+B|so it's kind of a waste of money if you don't take advantage of it.|sv|2442|1
+A|Yeah,|aa|2442|0
+A|I think you really have to be disciplined.|sv|2442|0
+B|Yeah.|b|2442|1
+A|I, uh, I try to work out at least a couple of times a week,|sd|2442|0
+A|and I think you really have to, at least twice a week, just to maintain the shape that you're in.|sv|2442|0
+B|Yeah.|aa|2442|1
+B|With the walking, I think they said you need to walk at least twelve miles a week for it to be aerobically beneficial.|sd|2442|1
+A|Uh-huh.|b|2442|0
+B|And we, I have two friends, that we walk.|sd|2442|1
+B|They have babies that are about the same ages as, as mine,|sd|2442|1
+B|and we've been walking every morning at, going|sd|2442|1
+B|when it was cold we would go to the mall because you can't take the babies out very easily.|sd|2442|1
+A|Yeah.|b|2442|0
+B|So we, when we go, we have about, do about fifteen miles a week,|sd|2442|1
+B|but the last little while, for one reason or another, we haven't been real consistent.|sd|2442|1
+B|So it's a little harder when you're depending on other people to do it with you because you have to meet their schedules as well,|sv|2442|1
+A|Uh-huh.|b|2442|0
+B|but but I enjoy doing it more when I've got other people with me.|sd|2442|1
+A|Sure.|aa|2442|0
+B|You know, I usually do it because I want to, because I know it's good for me, not because, I don't feel obligated to do it.|sd|2442|1
+B|I enjoy it.|sd|2442|1
+B|If I feel too obligated to do it,|sd|2442|1
+B|I start to rebel,|sd|2442|1
+B|and I won't be as consistent with it.|sd|2442|1
+A|Yeah,|aa|2442|0
+A|I understand.|ba|2442|0
+A|Did you exercise between your first child and your second?|qy|2442|0
+B|I exercised pretty well up until I found, uh, until I was pregnant,|na|2442|1
+B|and I started having pains.|sd|2442|1
+B|So I've calmed down everything except, I was working out doing aerobic exercises as well as the, um, walking,|sd|2442|1
+A|Yeah.|b|2442|0
+B|And I had to stop the aerobics because it was just kind of painful.|sd|2442|1
+B|But the T I rec center has an aerobics program for, for, um, prenatal and postnatal aerobic type thing.|sd|2442|1
+A|Um.|b|2442|0
+B|And I was going to wait until, um, about my sixth month and then start that.|sd|2442|1
+B|I did that with the second baby,|sd|2442|1
+B|and, um, I went to my exercise class one day,|sd|2442|1
+B|and then she was delivered the next day.|sd|2442|1
+A|Gosh.|ba|2442|0
+B|So, it would seem to be real beneficial.|sv|2442|1
+A|Uh-huh,|aa|2442|0
+A|yeah.|aa|2442|0
+A|Maybe it, maybe it speeded up the process and all that.|qy^d|2442|0
+B|Well I think it made parts of it a lot easier.|arp_nd|2442|1
+B|And, and is this your first that you're having?|qy|2442|1
+A|Uh-huh.|ny|2442|0
+B|Oh, okay,|bk|2442|1
+B|well, then I don't know how much you've been through it,|qw^d|2442|1
+B|but I think parts of it made a lot easier.|sv|2442|1
+B|And, I've talked to a lot of ladies that exercise with one pregnancy and didn't with the other,|sd|2442|1
+B|and they said that they had that the one they had exercised with was three or four times easier.|sd|2442|1
+A|Really.|b|2442|0
+B|And we've, I had,|%|2442|1
+B|having both of them natural, the first one was natural and going natural the second,|sd|2442|1
+B|and, and it's, it's rough|sv|2442|1
+B|but it's not as bad as I thought it would be,|sd|2442|1
+B|and I think the exercise helped.|sv|2442|1
+A|Well, that's good.|ba|2442|0
+B|So, do you work with T I?|qy|2442|1
+A|No,|nn|2442|0
+A|I don't.|sd|2442|0
+A|My, my wife has been working with them.|sd|2442|0
+B|Oh, okay,|bk|2442|1
+B|well then she could go if she were interested.|sd|2442|1
+A|Uh-huh.|b|2442|0
+B|I think, that's what the class that meets on Saturday mornings.|sd|2442|1
+B|So she could find out if she wanted to go.|sd|2442|1
+B|It's kind of fun because with the first pregnancy all the other ladies except one were on their first pregnancy,|sd|2442|1
+B|and they would talk about exercise and just general things relating to the birthing process.|sd|2442|1
+B|And so for us it was educational as well as exercise beneficial.|sd|2442|1
+B|So,|%|2442|1
+A|At least its something you enjoy.|sd|2442|0
+A|I know a lot of people that talk about exercise and say, Well, I don't want to exercise, it's too much work.|sd|2442|0
+A|But there's a lot of different things you can do that are enjoyable that you don't have to strain yourself or sweat or be real sore afterwards.|sv|2442|0
+B|That's right.|aa|2442|1
+B|Yeah.|aa|2442|1
+B|And sometimes if you get a little soreness you feel like, Well I've done a good job because I got, worked myself to that point.|sv|2442|1
+B|But I guess that you don't want to overdo.|sv|2442|1
+B|But well have we reached our limit?|qy|2442|1
+B|I'm not sure how long we've been talking|sd|2442|1
+B|but,|%|2442|1
+A|Yeah,|ny|2442|0
+A|I think we've talked about six minutes or so.|sd|2442|0
+B|Okay,|fc|2442|1
+B|well it's been good talking to you.|fc|2442|1
+A|Been good talking to you as well.|fc|2442|0
+B|Okay,|fc|2442|1
+B|I hope your baby goes well comes out well.|fc|2442|1
+A|Thanks.|fc|2442|0
+A|Yours too.|fc|2442|0
+B|Bye-bye.|fc|2442|1
+A|Bye-bye.|fc|2442|0

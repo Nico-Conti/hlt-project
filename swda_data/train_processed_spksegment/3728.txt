@@ -1,0 +1,176 @@
+B|Okay,|fo_o_fw_"_by_bc|3728|0
+B|what, um,|%|3728|0
+B|do you watch much T V|qy|3728|0
+B|or, you know.|%|3728|0
+A|Um, no,|nn|3728|1
+A|I don't watch much T V.|sd|3728|1
+A|Sometimes, um, usually the reason I will turn it on is to hear the news.|sd|3728|1
+B|The news,|b^m|3728|0
+B|yeah.|b|3728|0
+A|But I don't think of that every day, even.|sd|3728|1
+B|Uh-huh.|b|3728|0
+A|Um, I think I get most of my current events,|sd|3728|1
+A|well, I get them from everywhere.|sd|3728|1
+A|I sometimes watch T V if I,|sd|3728|1
+A|I guess I watch T V if I haven't read the paper that day.|sd|3728|1
+A|We don't get a paper|sd|3728|1
+A|but I work, um, at a,|sd|3728|1
+A|I teach a college class|sd|3728|1
+A|and, uh|%|3728|1
+B|Oh, uh-huh.|b|3728|0
+A|there's a,|%|3728|1
+A|the library has a paper.|sd|3728|1
+A|And so I often drop in on a break and and read it.|sd|3728|1
+B|Yeah.|b|3728|0
+A|And I keep the radio on quite a bit when I'm home.|sd|3728|1
+B|Uh-huh.|b|3728|0
+A|And then I, I figure if there's big, big news, I'll hear it from my husband when he gets home or, someone else, you know.|sd|3728|1
+B|Yeah,|b|3728|0
+B|yeah.|b|3728|0
+B|Now I also,|sd|3728|0
+B|I get it from all over.|sd|3728|0
+B|I watch the news every day,|sd|3728|0
+B|and I we have a news,|sd|3728|0
+B|you know, we get the newspaper, and, uh um, magazines, anything.|sd|3728|0
+A|Uh-huh.|b|3728|1
+B|You know, I'm,|%|3728|0
+B|I read a lot,|sd|3728|0
+B|so I get,|%|3728|0
+B|um, you know, I'm, I'm really up on, uh, current affairs.|sd|3728|0
+B|I get, you know the news and, and everything.|sd|3728|0
+A|Uh-huh.|b|3728|1
+A|Yeah,|b|3728|1
+A|what's your favorite news,|qw|3728|1
+A|do you get a news magazine|qy|3728|1
+A|or,|%|3728|1
+B|Um, well, I'm not getting|ng|3728|0
+B|no,|nn|3728|0
+B|I'm not getting any news magazines|ng|3728|0
+A|Uh-huh.|b|3728|1
+B|but, um, you know, as, as I said, I do,|sd|3728|0
+B|it's, uh, it's easy to keep up on current you know on you know, especially when you, um you know, you get a paper every day.|sv|3728|0
+A|Yeah.|b|3728|1
+A|Yeah,|b|3728|1
+A|we've got.|%|3728|1
+A|Uh-huh.|b|3728|1
+A|Yeah,|b|3728|1
+A|yeah,|b|3728|1
+A|exactly.|aa|3728|1
+B|And, uh.|%|3728|0
+A|Are you satisfied with the quality of coverage?|qy|3728|1
+B|Uh, I don't know|no|3728|0
+B|Is there anything missing?|bh|3728|0
+B|I, you know,|%|3728|0
+A|Yeah,|aa|3728|1
+A|it's kind of hard to know.|sv|3728|1
+B|And I don't know, you know, what, what's, I mean, what are we supposed to, uh, compare it to you know, I mean, the quality, uh,|sd|3728|0
+A|Uh-huh.|b|3728|1
+B|whatever they tell you,|sv|3728|0
+B|you know, I, uh, I guess I, I, you know, I'm satisfied.|sd|3728|0
+B|I mean, I,|%|3728|0
+B|uh, you know, they, they're supposedly covering everything that happens,|sd|3728|0
+B|so|%|3728|0
+A|Yeah,|b|3728|1
+A|yeah.|b|3728|1
+B|you know.|%|3728|0
+A|Well, I do feel like, a little bit like,|sv|3728|1
+A|being from California and wanting to hear like|sd|3728|1
+A|I've heard through the grapevine sometimes that there's been an earthquake or sliding or something,|sd|3728|1
+A|and|%|3728|1
+B|Oh, really?|bh|3728|0
+A|I don't ever hear it in the news here.|sd|3728|1
+B|Oh.|b|3728|0
+A|Um.|%|3728|1
+B|Well, uh, sometimes it's such a,|%|3728|0
+B|you know, it's, it's so, um, slight, you know like the tremors are so slight that they don't even bother putting it in the paper.|sv|3728|0
+A|Yeah.|b|3728|1
+A|Yeah.|b|3728|1
+B|But most of the the times I find that even if there are, you know, they do have like tremors out there, you know, there'll be a small article in the paper about it.|sd|3728|0
+A|Yeah|b|3728|1
+B|But, uh.|%|3728|0
+A|yeah,|b|3728|1
+A|yeah.|b|3728|1
+A|I sometimes feel like, um, the Dallas paper and the DALLAS NEWS, um, the top headlines are always a murder, you know.|sv|3728|1
+B|Oh, well.  That's what sells papers.|sv|3728|0
+A|That  that's because there's a high crime rate.|sv|3728|1
+A|Yeah.|b|3728|1
+A|Yeah.|b|3728|1
+B|That's, um, that's been like that since they, the first newspaper, you know|sv|3728|0
+A|Yeah,|b|3728|1
+A|yeah,|b|3728|1
+A|I'm sure.|ba|3728|1
+B|You know, but, um, I don't know.|h|3728|0
+B|I, I guess I'm satisfied,|sv|3728|0
+B|I don't, uh.|%|3728|0
+A|Uh-huh.|b|3728|1
+B|I mean, what basis, you know, of comparison do we have really?|bh|3728|0
+A|Yeah,|aa|3728|1
+A|really.|b|3728|1
+B|We don't get a, you know.|%|3728|0
+A|That's true.|ba|3728|1
+A|We certainly get enough coverage.|sv|3728|1
+A|I mean, we, we can get news,|sd|3728|1
+A|you know, I mean, there's even the C N N channel where we can get world news twenty-four hours a day.|sd|3728|1
+B|Oh, yeah,|b|3728|0
+B|I was going to.|%|3728|0
+B|Sure,|b|3728|0
+B|yeah.|b|3728|0
+B|Sometimes you don't even want to be bothered with the news because it's all so bad|sv|3728|0
+A|Yeah|b|3728|1
+B|It's all so negative, you know.|sv|3728|0
+A|Yeah,|b|3728|1
+A|often times.|sv|3728|1
+B|But.|%|3728|0
+A|So. Yeah.|b|3728|1
+B|Well, we have to keep talking, I guess|sv|3728|0
+A|Well, no,|ar|3728|1
+A|I guess we can end.|sv|3728|1
+B|Oh.|b|3728|0
+A|Yeah,|b|3728|1
+A|it's just whenever we're, um.|sv|3728|1
+B|Oh, is it really?|bh|3728|0
+A|Yeah.|ny|3728|1
+A|Have you always gone until the recording?|qy|3728|1
+B|Well, yeah,|ny|3728|0
+B|I don't, I don't, uh,|%|3728|0
+A|Uh-huh.|b|3728|1
+A|I guess we're not supposed to|sv|3728|1
+B|I don't know,|h|3728|0
+B|we're I guess we're supposed to wait|sv|3728|0
+B|or I don't know.|h|3728|0
+A|Yeah.|b|3728|1
+A|Uh-huh.|b|3728|1
+B|I,|%|3728|0
+B|you know, like one, uh, well,|%|3728|0
+B|was it last week, we were supposed to talk about gardening|sd|3728|0
+A|Uh-huh.|b|3728|1
+B|uh, and it was really funny,|sd|3728|0
+B|I, I, I mixed it, made the call,|sd|3728|0
+B|and it happened to be my friend who lives a few blocks away.|sd|3728|0
+A|Oh, really.|b|3728|1
+B|Yeah,|b|3728|0
+B|and it was really.|%|3728|0
+B|We were laughing,|sd|3728|0
+B|I mean. But, you know, we don't really do any gardening,|sd|3728|0
+B|so like, that took like a minute|sd|3728|0
+A|Uh-huh.|b|3728|1
+B|and then we just talked about, you know, whatever, I mean.|sd|3728|0
+A|Uh-huh.|b|3728|1
+A|Interesting.|ba|3728|1
+A|Yeah.|b|3728|1
+B|You know, I mean, some topics,|%|3728|0
+B|really now, you know, now, this topic, this is, I mean,|%|3728|0
+B|there really isn't much to say after you know, you, uh, you know, you, you tell the person what, uh, news there, uh, you know, where their, where they find their sources of information from|sv|3728|0
+A|Uh-huh.|b|3728|1
+A|Yeah.|b|3728|1
+B|and then, you know, if it's, uh, if they're satisfied,|sv|3728|0
+B|and that's about it, really.|sv|3728|0
+A|Uh-huh.|b|3728|1
+B|It's hard to talk for five minutes on this|sv|3728|0
+A|Yeah|b|3728|1
+B|So, um.|%|3728|0
+A|Yeah.|b|3728|1
+A|Well, I guess I can just say I, it bothers me that I hear a lot about, um, you know, on the news that,|sv|3728|1
+A|well, it seems like, I don't know, some things are sensationalized or some things are, um,|sv|3728|1
+A|you know, you'll hear one report|sd|3728|1
+A|and then you'll hear that it, you know, they didn't, um.|sd|3728|1

@@ -1,0 +1,237 @@
+A|Okay,|fo_o_fw_"_by_bc|3065|0
+A|do you, uh, think we should go metric?|qy|3065|0
+B|Well, I, I, oh, I don't know.|no|3065|1
+B|It's kind of a tricky question, because I think it's, it's a practical system,|sv|3065|1
+A|Yeah.|b|3065|0
+B|obviously, if it's all compatible and it, you know, tens|sv|3065|1
+B|and things make sense.|sv|3065|1
+B|Um, it's, it's a switch.|sv|3065|1
+B|The problem would just be the switch over.|sv|3065|1
+A|Yeah.|aa|3065|0
+A|I think that the, I think what,|sv|3065|0
+A|I mean, I don't know what happened last time.|sd|3065|0
+A|I remember they tried it in the seventies at one point or something|sd|3065|0
+A|and,|%|3065|0
+B|Right.|aa|3065|1
+B|That's when I was in the elementary school years|sd|3065|1
+B|and we all, We all learned that metric|sd|3065|1
+A|Yeah,|aa|3065|0
+A|me too.|sd|3065|0
+B|and they were ready,|sd|3065|1
+B|we were going to be metric|sd|3065|1
+B|and,|%|3065|1
+A|Right,|aa|3065|0
+A|and, and I don't quite know why it failed.|sd|3065|0
+A|Um, I would bet the push, I, it, I bet the push just wasn't big enough.|sv|3065|0
+B|Right.|b|3065|1
+A|You know, they didn't sort of encourage, I mean businesses and things to use it,|sd|3065|0
+A|so, you know, what, what I think they'd have to do would be to have both things on there for a while, and then, and then start phasing things out|sv|3065|0
+A|so,|%|3065|0
+B|So I think that's what they did at first, was that they had metric|sd|3065|1
+A|Yeah.|b|3065|0
+B|and, and I mean, and there's things that we've gone metric.|sd|3065|1
+B|We have metric cola now,|sd|3065|1
+A|Right,|aa|3065|0
+A|I was just thinking, two liter bottles are what you buy and one liter bottles.|sd|3065|0
+B|you can buy that|sd|3065|1
+B|and you can,|sd|3065|1
+A|You don't buy quarts and gallons anymore of soda.|sd|3065|0
+B|So that, you know, so that, we have little things that are metric,|sd|3065|1
+B|but no one talks about, you know, uh,|sd|3065|1
+B|you buy nine by twelve frames,|sd|3065|1
+B|you don't buy centimeter length frames, and cooking pans.|sd|3065|1
+A|Right.|b|3065|0
+A|And, and, and even though the car says miles and kilometers,|sd|3065|0
+A|you don't say,|sd|3065|0
+A|I went, a hundred kilometers. You know.|^q|3065|0
+B|Uh-huh .|b|3065|1
+B|Right,|b|3065|1
+B|fifty-nine kilometers per gallon.|sd|3065|1
+A|Yeah.|aa|3065|0
+A|I would, I would be total loss.|sd|3065|0
+B|Yeah.|b|3065|1
+B|That's,|%|3065|1
+A|I think, I think, though, if there were some, you know, sort of government incentive program or something people would begin to switch over, you know,|sv|3065|0
+B|Right.|b|3065|1
+A|and I think there would be the hard core older people who would get really pissed|sv|3065|0
+A|and, pardon my expression there, but, uh, who would get really, you know, upset and start to complain and get all cranky and stuff.|sv|3065|0
+B|Uh-huh.|b|3065|1
+A|But I think in the end it would make life a lot easier for people coming up.|sv|3065|0
+B|Yeah,|aa|3065|1
+B|it really would.|sv|3065|1
+B|It's, I, I, it's, because I think they had a good try there when they started with us in the elementary schools, trying to, you know, get that in our minds, so that we could I mean|sv|3065|1
+B|because I think our generation could make a change.|sv|3065|1
+A|Yeah.|b|3065|0
+B|It would be difficult,|sv|3065|1
+B|but it would not be as difficult for people, say, fifty years old now who are, have never been exposed to the metric system other than, you know, buying a two liter Coke.|sv|3065|1
+A|Right.|b|3065|0
+B|That's|%|3065|1
+A|Well, what I think, I think the difference between now and then might be, this is just a might, is we were the first generation that was in elementary school.|sv|3065|0
+B|Right.|b|3065|1
+A|And if they kept it up,|sv|3065|0
+A|so let's say, imagine they had kept going,|sd|3065|0
+A|you'd have, you know, two or three more generations that all now are, are familiar with the metric system.|sd|3065|0
+B|Right.|b|3065|1
+A|Not like could use it comfortably right now,|sv|3065|0
+A|but I could convert, you know,|sd|3065|0
+A|I could carry around a little conversion card or something|sd|3065|0
+A|and, I could handle it for a while, and then, and then eventually I'd learn,|sd|3065|0
+B|Right|b|3065|1
+A|and I think that before, it was just, you know, just a bunch of little kids using it.|sv|3065|0
+B|Right.|b|3065|1
+A|And now I think there are enough people,|sv|3065|0
+A|you know, sort of as we get older, I think others that will bring more generations in on it, eventually they'll be able to make the switch,|sv|3065|0
+A|and we're not going to start going crazy and yelling and saying, what are you, crazy, we can't understand you.|sv|3065|0
+A|We'll say oh, it's a pain in the neck,|sv|3065|0
+A|but it's for the better|^q|3065|0
+A|and we'll sort of deal with it, I think.|sv|3065|0
+B|That's true.|aa|3065|1
+B|That makes sense.|sv|3065|1
+A|I don't know.|h|3065|0
+A|I, I, I would hope it would, uh,|sd|3065|0
+A|it seems like it's a reasonable system.|sv|3065|0
+A|I mean, everything seems to be based on the same thing.|sv|3065|0
+B|Well, I was trying to think of what kind of things you'd have to change,|sd|3065|1
+B|and you'd have to change your height on your driver's license.|sd|3065|1
+A|Right|b|3065|0
+B|When you wouldn't be five foot eight anymore, uh, you'd be a hundred and seventy centimeters,|sd|3065|1
+A|Centimeters.|b^m|3065|0
+B|and then you'd be lighter in kilograms than you were in in pounds.|sd|3065|1
+A|Yeah.|b|3065|0
+A|But I wonder if, if,|sd|3065|0
+B|So all the dieters would be happy|sv|3065|1
+A|But yeah|b|3065|0
+A|right|b|3065|0
+B|I only weigh sixteen today.|^q|3065|1
+B|That's,|%|3065|1
+A|Yeah.|b|3065|0
+A|But I wonder if that's even something that, you know, they, they have to change immediately.|sd|3065|0
+A|They could just, you know, sort of phase that in,|sv|3065|0
+A|so start, you know, from now,|sv|3065|0
+A|like from now on all licenses would have that, rather than going back and changing everything, you know, all new licenses as of nineteen ninety-two would have it or something.|sv|3065|0
+B|Right.|b|3065|1
+B|And they'd have to change that little ruler that's on the door of the seven eleven that, tells you how tall the robbers are when they, to hold it up.|sv|3065|1
+A|That's right.|aa|3065|0
+A|I know the,|sd|3065|0
+A|and, oh, yeah,|%|3065|0
+A|I know, though, at the, uh, at the amusement parks, they say if you're under forty-two, inches or something. You can't walk in here.|sd|3065|0
+B|Right.|b|3065|1
+A|You have to be under.|^q|3065|0
+A|Well, I guess what, what, I bet what they do in that case, they, uh,|sd|3065|0
+A|see, what some of them is like, you know, they say if you're not taller than this line.|sd|3065|0
+B|Right.|aa|3065|1
+B|this line, which is seventy-three centimeters.|^q|3065|1
+A|That's right.|aa|3065|0
+B|Just so you'll know,|^q|3065|1
+A|It would be a neat case where like, where kids taught the parents, I think, you know.|sv|3065|0
+B|Right.|aa|3065|1
+B|Because isn't it pretty much everywhere in the world?|qy|3065|1
+B|I know England is not metric.|sd|3065|1
+A|But I don't know.|no|3065|0
+B|I, I don't think they are, because our, um, our measurements started in England,|sd|3065|1
+A|England is not?|qy^d|3065|0
+A|Oh.|b|3065|0
+B|all that began back there,|sd|3065|1
+B|and I think they're the only part of the continent that hasn't changed over to metric.|sd|3065|1
+A|Yeah,|b|3065|0
+A|but I mean,|%|3065|0
+A|but, but virtually the rest of the world is.|sd|3065|0
+A|I mean, it seems like like, like, like sort of stupid.|sv|3065|0
+B|Right.|b|3065|1
+A|I mean, we are, of course, we are Americans|sd|3065|0
+A|and we're supposed to be, you know,|sv|3065|0
+B|We're the trend setters in the world.|^2|3065|1
+B|I don't know why we, We haven't changed to the sensible system.|sd|3065|1
+A|That's right,|aa|3065|0
+A|and, and now we're backwards.|sv|3065|0
+B|I don't know.|h|3065|1
+A|No,|fo_o_fw_"_by_bc|3065|0
+A|I, I, I would think, I mean, a, a, a base ten system as compared to a base twelve system makes a lot more sense.|sv|3065|0
+B|Right.|b|3065|1
+B|Well, and it's not even base twelve for everything,|sd|3065|1
+B|is it?|^g|3065|1
+B|It,|%|3065|1
+A|No,|nn|3065|0
+A|actually, no.|nn|3065|0
+A|Um, let's see,|^h|3065|0
+A|it's,|%|3065|0
+B|Well, pounds,|sd|3065|1
+B|I don't even know what that,|sd|3065|1
+A|I don't know.|h|3065|0
+A|Oh, yeah,|fo_o_fw_"_by_bc|3065|0
+A|I, I always forget.|sd|3065|0
+A|I don't even know how many ounces are in a pound.|sd|3065|0
+A|I just sort of make it up.|sd|3065|0
+B|See, and I don't understand liquid ounces and fluid ounces.|sd|3065|1
+B|It's,|%|3065|1
+B|I mean, I don't know that I have that much concrete knowledge in the current measuring system that would prevent me from,|sd|3065|1
+A|Right|b|3065|0
+A|Those, those wouldn't be a problem.|sv|3065|0
+B|It's not like it's really entrenched other, you know.|sv|3065|1
+B|A lot of stuff,|sv|3065|1
+A|Let's see,|^h|3065|0
+A|how many cups equal that?|qh|3065|0
+A|I, I have no idea.|sd|3065|0
+A|I just, uh,|%|3065|0
+A|I know things like, you know, a pint is a pound the world around or something.|sd|3065|0
+B|Right|b|3065|1
+B|I don't, I didn't even know that|sd|3065|1
+A|That's all I know.|sd|3065|0
+A|I, I learned that because, uh, a friend of mine,|sd|3065|0
+A|I, I had two friends,|sd|3065|0
+A|and, I had more friends than that,|sd|3065|0
+A|but two friends of mine in college,|sd|3065|0
+A|I had a lot more than two,|sd|3065|0
+A|I promise.|fo_o_fw_"_by_bc|3065|0
+B|Well, that's good.|ba|3065|1
+A|Um, we opened a jelly bean business.|sd|3065|0
+B|Oh.|b|3065|1
+A|And we sold jelly beans,|sd|3065|0
+A|and we had, uh, no idea how many, you know,|sd|3065|0
+A|we, we didn't we didn't bother buying a scale.|sd|3065|0
+B|Right.|b|3065|1
+A|We'd go out and just buy, you know, five pound bags of sixteen different flavors, put it in plastic shoe boxes and, and, and then sell them for x amount per pound or quarter pound or something.|sd|3065|0
+B|Right.|b|3065|1
+A|And we, we didn't bother buying a scale,|sd|3065|0
+A|and one of my friends was a physics, one of these guys was a physics major|sd|3065|0
+A|and he said, well, just remember a pint is a pound the world around,|sd|3065|0
+A|and he got the measuring cup and just measured, I think a cup or two cup, whatever is a pint.|sd|3065|0
+B|Did you ever check it to see if it really was, a pint?|qy|3065|1
+A|Gee, I think, I think he the calculation at home,|sd|3065|0
+A|and it turns out that he was actually pretty close.|sd|3065|0
+B|Um.|%|3065|1
+A|If anything, we were actually in favor of the consumer.|sd|3065|0
+B|Right.|b|3065|1
+A|So, so we were giving them a little too much,|sd|3065|0
+A|but that was our general tendency anyway.|sd|3065|0
+B|Well, that's,|%|3065|1
+B|you all are nice business|sv|3065|1
+A|Yeah,|aa|3065|0
+A|well, we were, you know, we were in,|sd|3065|0
+A|it was, it was almost like we did it for the hell of it in school,|sd|3065|0
+A|we really didn't, make, you know,|sd|3065|0
+B|Right.|b|3065|1
+A|I think we were only making seventy-five dollars each profit at the end of the year. You know, after, after an entire semester,|sd|3065|0
+B|Right|b|3065|1
+A|but we had a hell of a lot of fun doing it.|sd|3065|0
+B|Probably ate all your merchandise too.|sv|3065|1
+A|Yeah,|aa|3065|0
+A|we, we, we tended to eat a lot,|sd|3065|0
+A|and our friends would just sort of walk by and just put their hands in it,|sd|3065|0
+A|and we had another friend, um, the physics major again, he wasn't he wasn't aware of jelly bean physiology, I guess,|sd|3065|0
+B|Uh-huh.|b|3065|1
+A|and he got into a snowball fight, with the jelly beans nearby,|sd|3065|0
+A|and he just,|sd|3065|0
+A|and, and some snow fell into one of the cartons.|sd|3065|0
+B|Oh.|b|3065|1
+A|So he brought them into the bathroom to wash them off|sd|3065|0
+A|And basically what we had, sort of non coated beans at that point.|sd|3065|0
+B|Yeah,|aa|3065|1
+B|it's a little problem.|sv|3065|1
+B|What's inside the jelly bean?|qw|3065|1
+A|Uh, it's just, uh, it's just the, the same,|sd|3065|0
+A|they're like an outer coating,|sd|3065|0
+A|and there's just sort of this stuff you see, you know, it's sort of like glorified sugar.|sd|3065|0
+A|I don't know.|h|3065|0
+B|Uh, oh.|b|3065|1
+A|But when you rinse them off, all you get is, uh, is, uh, the coating,|sd|3065|0

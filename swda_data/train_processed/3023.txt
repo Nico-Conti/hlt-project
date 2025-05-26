@@ -1,0 +1,161 @@
+A|I have, uh,|%|3023
+A|I, well, I used to have the opinion that there that there really was not any more crime in America, in the cities, anyway, than there was in previous centuries, uh, before, uh,|sd|3023
+A|simply because.|%|3023
+A|The reason there seems to be so much was the fact that the police now had advanced, uh, reporting methods, with computers and other devices.|sv|3023
+B|Compile more statistics.|bf|3023
+A|That's right,|aa|3023
+A|and those statistics in turn got them bigger budgets.|sv|3023
+B|Uh-huh.|b|3023
+A|However, I have been persuaded, lately, I guess, simply by the, uh, overwhelming data that seems to be available that there is indeed a lot more violent crime.|sv|3023
+B|More especially where you are.|aa|3023
+B|Are you, in Washington D C or Washington state?|qy|3023
+A|Well, yeah.|b|3023
+A|No,|nn|3023
+A|I am in, I am in Washington D C.|sd|3023
+B|Yeah,|b|3023
+B|yeah,|b|3023
+B|I was going to say,|%|3023
+A|Actually it,|%|3023
+A|you know, I do a lot of business here,|sd|3023
+A|and I come here quite often|sd|3023
+A|and, and that again is a, is a sort of media perception there's some absolutely lovely and marvelous and peaceful areas in Washington. Regardless of the racial makeup,|sd|3023
+B|Oh, yeah.|b|3023
+A|but it's, it's real, uh,|%|3023
+A|there's pockets of violence that is so violent that they, uh,|sd|3023
+B|It just really grabs your attention.|ba|3023
+A|Yeah.|aa|3023
+B|It just makes the whole place seem like that.|sv|3023
+A|Right.|b|3023
+A|Now just to focus on that a minute, I guess, uh, uh,|sd|3023
+A|when, uh, previous secretary of, uh, Bennett, I think his name was, became the drug czar, uh, for, uh, President Bush, he was going to focus on it, on this area and do something about it|sd|3023
+B|Yeah.|b|3023
+A|and I see that even he was met without, with, with little success, even though the entire, I guess a, a quite a bit of money and other, uh, planning efforts went into that.|sd|3023
+B|What do you, what do you think is causing all this,|qo|3023
+A|Well,|%|3023
+B|because, it seems that there|%|3023
+B|even though|%|3023
+B|crime, though I think it is increasing in number, it sure does seem to be increasing in intensity, and violence too.|sv|3023
+A|Yes.|aa|3023
+A|Well, I, I have three theories about it, you know, three things.|sd|3023
+A|I have one theory,|sd|3023
+A|and it's brought to us by two things.|sd|3023
+A|One I, I believe that this is a function of, uh, the violence that young people see on television and the movies.|sv|3023
+B|Uh-huh.|b|3023
+A|And, I am not just talking about, you know, uh, role models of of tough guys and gangsters and things like that,|sd|3023
+A|I am not even, I am not even convinced that maybe things like football, hockey and, the, you know, the, and even baseball games now where the, everything is settled with a fight. You know, the, the immediate need to show some sort of violence to settle the argument.|sv|3023
+A|And, and then I, I am an advocate of hand gun control to some degree,|sd|3023
+A|so I think that particularly|%|3023
+A|I, I was reading the other day about, uh, Corpus Christi, Texas which has the the highest,|sd|3023
+A|I think it's Corpus Christi, that had the highest rates per hand gun death in America uh, per capita.|sd|3023
+B|Yeah,|b|3023
+B|I was, I have not seen that,|sd|3023
+B|but, uh,|%|3023
+A|I mean the Saturday night special stuff|sd|3023
+A|so,|%|3023
+B|Yeah.|b|3023
+A|That, that's what I think about it,|sd|3023
+A|that's some of the things I think about it,|sd|3023
+A|plus like drop I do not know,|sd|3023
+A|what are your views?|qo|3023
+B|Well, yeah,|b|3023
+B|I tend to agree with you with, you know,|aa|3023
+B|it seems anymore, uh, a movie can not be considered good unless there's just some, some sort of violence, or something in it.|sv|3023
+A|Yes.|aa|3023
+B|And, and along with that, you know,|%|3023
+B|and then you start making a movie and it has no, there's no call for something violent,|sv|3023
+B|but, so they just throw something in there just to say they have it|sv|3023
+A|well that's, that's, that's the impression I get, you know.|aa|3023
+B|Yeah.|b|3023
+A|And I, and I imagine that it's, you know, it just feeds upon itself when we have this sort of violence in society,|sv|3023
+A|people want to,|%|3023
+A|it conditions people to it|sv|3023
+A|and, uh, you have to|%|3023
+A|it has to be even, uh, magnified to to attract people's attention. I guess, to have them spend money on something like that.|sv|3023
+B|Yeah,|aa|3023
+B|you become callous.|bf|3023
+B|Yeah.|b|3023
+A|And I am sure that it does form role models for young, for young men and young women|sv|3023
+A|and,|%|3023
+B|Yeah.|b|3023
+A|uh, I mean I, I, read now where we are, you know,|sd|3023
+A|women are young women are arrested fighting with knives over, over whatever. whatever reason, which is kind of unheard of when I was young.|sd|3023
+B|Um.|b|3023
+A|Now, I do not want to sound like an old fart,|arp_nd|3023
+A|but, that's what|%|3023
+A|seems that those things happened did not happen in that manner before television.|sv|3023
+A|And I, I, I, I have to think that, that it has some influence on it.|sv|3023
+A|But,|%|3023
+B|I listened to a radio talk show today at lunch time|sd|3023
+A|Yeah.|b|3023
+B|I do not know if you listen to him or not,|qy^d|3023
+A|No.|nn|3023
+B|he's on A M,|sd|3023
+B|but, there's a fellow that had called in and was lamenting about the,|sd|3023
+B|there was an interview done on the assistant chief of police for Los Angeles, the guy under Gates,|sd|3023
+A|Oh, yes.|ny|3023
+B|and they were just really coming down on him because of some of the things he was, just some of the things that he believed in, some of his morals.|sd|3023
+B|For instance, uh, they asked him if he spanked his kids,|sd|3023
+B|and he said "You bet, I believe in discipline".|sd|3023
+B|And people, I, I, I, I guess they confused discipline with punishment.|sd|3023
+A|Yeah.|b|3023
+B|You know.|%|3023
+A|Yeah.|b|3023
+B|And, just,|%|3023
+B|it seems anymore that, uh, if, if you have, you know, this type of a moral stance, that people come down on you.|sv|3023
+B|It's like, you know, hey, everybody has to be free to do their own thing.|sv|3023
+B|And I disagree,|ar|3023
+B|and I think that's really contributing to this high rate of crime.|sv|3023
+A|Yes,|aa|3023
+A|yes.|aa|3023
+A|Well, I mean, I, I guess what I wanted to say and I stopped, uh, I do not know, I got diverted, was that, that, uh, there's so there's so much of a return from to prison that the rehabilitation programs seem to be a failure.|sv|3023
+A|And, and that is not emphasized.|sv|3023
+A|I recognize there's, there's over crowding problems|sd|3023
+A|and, and since we have decided to put everybody in jail that commits a crime now, that that's complicated the entire process.|sv|3023
+B|Yeah.|b|3023
+A|What I also think that,|%|3023
+A|I guess it's the reflection of the society where, where we have so much more mobility and less attachment to, uh,|sv|3023
+A|you know, it does not seem to be any responsibility to the community where you, where you live|sv|3023
+A|or. I do not mean attachment and responsibility,|sd|3023
+A|I guess I mean any sort of,|%|3023
+B|Well, nobody feels responsibility to do something.|sv|3023
+B|It's like, oh boy, I wish they would stop doing that.|sv|3023
+A|Yes,|aa|3023
+A|that's right.|aa|3023
+B|Yeah.|b|3023
+A|Yeah|b|3023
+A|I, I do not know how that's,|h|3023
+A|I do not think it's done by, uh,|h|3023
+A|the changes come simply by statutory nature.|sv|3023
+A|I do not know what it really will take|sd|3023
+B|Um.|b|3023
+A|And, I do not know if I have solutions, except, except to,|sd|3023
+A|you know, I am sort of a, a, an advocate of, of, uh, of letting people, of having free speech|sd|3023
+A|and I guess to curb, uh,|%|3023
+A|television, uh, the violence on television and in the movies would be contrary to my beliefs in that.|sv|3023
+B|Yeah.|b|3023
+A|However, there does seem to be a,|%|3023
+A|right now in verbalizing,|%|3023
+A|it does seem to be a higher need for something of that sort.|sv|3023
+B|Yeah,|b|3023
+B|and then how many,|%|3023
+A|And the sacrifice is not that great.|sv|3023
+B|How many studies have to be done to show that there is a link between, you know, what you see and how|qh|3023
+A|Yeah.|b|3023
+B|I mean, what you see affects how you think and therefore what you do.|sv|3023
+A|Yes,|aa|3023
+A|yes,|aa|3023
+A|I think, I think that's correct.|aa|3023
+B|And, yes|%|3023
+B|but, you know, as soon as you start, uh,|%|3023
+A|Well, Texas has, uh, Texas has, uh, has always struck me,|sd|3023
+A|I mean I, I, I have lived in and out of Texas, both in the service and, uh, uh, short business stints.|sd|3023
+A|And it seems to me they are a pretty, pretty tough law and order state,|sv|3023
+A|but that's a,|%|3023
+A|but yet that does not seem to have effected the amount of violent right in the state.|sv|3023
+A|Just citing that, you know.|%|3023
+B|Yeah,|b|3023
+B|uh, unfortunately you have got a lot of the, uh,|%|3023
+B|some, well a lot of it can be contributed to the racial differences, I mean, just that we are so close, to the border with Mexico,|sv|3023
+A|Yeah.|b|3023
+B|we have got a lot of that influence.|sv|3023
+A|Yeah.|b|3023

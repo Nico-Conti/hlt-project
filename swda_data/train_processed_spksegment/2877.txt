@@ -1,0 +1,280 @@
+A|Do you have any pets now?|qy|2877|0
+B|Oh, I sure do,|na|2877|1
+B|I have a cat and a dog named Joey.|sd|2877|1
+A|Joey,|b^m|2877|0
+A|the dog is Joey?|qy|2877|0
+B|Uh-huh,|ny|2877|1
+A|The cat is,|sd|2877|0
+B|he's the little boy Pomeranian.|sd|2877|1
+A|Oh, my goodness.|ba|2877|0
+B|And we just got a new addition to the family, so to speak,|sd|2877|1
+B|we also have a fish.|sd|2877|1
+A|Oh, my|ba|2877|0
+B|It's a mud dog.|sd|2877|1
+A|I beg your pardon.|br|2877|0
+B|It's a mud dog.|sd|2877|1
+B|It's, uh, a cross between a catfish and, uh, I don't know what, a salamander.|sd|2877|1
+A|Oh.|b|2877|0
+A|Well did you all catch it,|qy^d|2877|0
+A|or, uh,|%|2877|0
+B|Uh-huh,|ny|2877|1
+B|we have a cat, Stripper.|sd|2877|1
+A|Uh-huh.|b|2877|0
+B|Oh, the mud dog.|sd|2877|1
+A|No,|ar|2877|0
+A|did,|%|2877|0
+A|no|ar|2877|0
+A|did you catch the fish?|qy|2877|0
+B|Uh, we had a friend give it to us.|ng|2877|1
+A|Uh-huh,|b|2877|0
+A|and it's all alone in that aquarium.|sd|2877|0
+B|Yeah,|b|2877|1
+B|we'd like to get him a friend|sd|2877|1
+B|but um, uh, we haven't found one yet.|sd|2877|1
+B|So how about you,|qo|2877|1
+B|do you have any pets?|qy|2877|1
+A|Well at the present time I have two dogs.|sd|2877|0
+B|Oh really,|b|2877|1
+B|what kind?|qw|2877|1
+A|An English setter, you know,|sd|2877|0
+A|that's the white dog with the feathers|sd|2877|0
+A|and it has, uh, yellow spots on it which they call, I think, uh, liver spots.|sd|2877|0
+B|Uh-huh.|b|2877|1
+B|Uh-huh.|b|2877|1
+A|And that's a male.|sd|2877|0
+A|And I have a wonderful female lab, black lab.|sd|2877|0
+B|Uh-huh,|b|2877|1
+B|how long have you had them.|qw^d|2877|1
+A|Quite a long time, uh, probably five or six years|sd|2877|0
+A|and unfortunately the black lab that's a female, it, it's, it's the most wonderful animal we've ever had,|sd|2877|0
+A|an,|%|2877|0
+A|when she was about three years old we noticed that she was having uh, problems limping and so forth|sd|2877|0
+A|and, she has hip dysplasia.|sd|2877|0
+B|Uh-huh.|b|2877|1
+B|Oh no.|ba|2877|1
+A|And it's in that breed.|sd|2877|0
+B|Uh-huh.|b|2877|1
+A|But now I think there are tests that can be conducted, uh, to tell whether or not the puppies have the, have it.|sd|2877|0
+B|Uh-huh.|b|2877|1
+A|But I think,|%|2877|0
+A|I don't know,|h|2877|0
+A|apparently they've been so in, well I don't know inbred, or what,|sd|2877|0
+A|but,|%|2877|0
+B|Oh, is that right?|bh|2877|1
+A|Well|%|2877|0
+A|I'm not sure that's the situation,|h|2877|0
+A|but, it, um,|%|2877|0
+A|for those dogs that are registered|sd|2877|0
+A|and if, if you should have one, uh, that also has hip dysplasia you cannot breed it, uh.|sd|2877|0
+B|Huh,|b|2877|1
+B|I had no idea,|sd|2877|1
+B|I hadn't, didn't even know that.|sd|2877|1
+A|Uh-huh,|b|2877|0
+A|but she's wonderful.|sd|2877|0
+B|Um, our dog, Joey, has, uh, a back problem.|sd|2877|1
+A|Um, like|%|2877|0
+A|what are the what are the symptoms?|qw|2877|0
+B|Uh, he, he's got a bad back|sd|2877|1
+B|but he's seven, uh,|sd|2877|1
+B|I guess he's almost eight years old.|sd|2877|1
+B|Um, he just, uh,|%|2877|1
+B|he doesn't,|%|2877|1
+B|he, uh, he rolls|%|2877|1
+B|he doesn't like to roll over.|sd|2877|1
+A|Uh-huh.|b|2877|0
+B|Um,|%|2877|1
+B|you just,|%|2877|1
+B|when you touch him a certain way on the back,|sd|2877|1
+A|Yes.|b|2877|0
+B|but otherwise, he can jump, uh, you know, just as long as he doesn't bend a certain way.|sd|2877|1
+A|Um. Well, uh, I have had just wonderful luck with this lab, uh,|sd|2877|0
+A|when|%|2877|0
+A|uh, let's see, winter before last we would bring her in, and, uh, when it was cold.|sd|2877|0
+B|Uh-huh.|b|2877|1
+A|And she wouldn't,|sd|2877|0
+A|I, you know,|%|2877|0
+A|the next morning you want to take them out,|sd|2877|0
+A|and she wouldn't,|sd|2877|0
+A|I couldn't get her up without picking her up and which it was pretty hard to do at eighty pounds.|sd|2877|0
+B|I bet.|ba|2877|1
+A|Um, until,|%|2877|0
+A|if I allowed her to not get up on her own, it'd be two o'clock in the afternoon.|sd|2877|0
+B|Uh-huh.|b|2877|1
+A|Anyway, I, uh, met my son's, uh, college roommate, is a vet|sd|2877|0
+A|and he said, um, let's give her some race horse shots.|sd|2877|0
+A|And you know in,|%|2877|0
+A|I'm, I'm kind of glad to be able to tell people about this, but you, because you all the time, you know, run into people with problems.|sd|2877|0
+B|Oh, yeah.|b|2877|1
+A|Anyway, that's when we lived in Oklahoma,|sd|2877|0
+A|and, uh, so he gave this dog a series of ,|sd|2877|0
+A|it's,|%|2877|0
+A|they give it to race horses, uh, to get rid of, uh cartilage,|sd|2877|0
+B|Uh-huh.|b|2877|1
+A|and it's called .|sd|2877|0
+A|Anyway, it's a series of six shots, once a week,|sd|2877|0
+A|and then I noticed after two shots she was,|sd|2877|0
+B|Do you have to give those?|qy|2877|1
+A|Well I could have,|na|2877|0
+A|but I can't give a shot.|sd|2877|0
+B|Oh, I|%|2877|1
+B|believe me, I understand.|ba|2877|1
+A|I took her from Enid, Oklahoma to Oklahoma City every week for six weeks.|sd|2877|0
+B|Uh.|b|2877|1
+A|And, uh, after the, the second shot she was significantly better.|sd|2877|0
+A|Then I didn't notice any improvement till the, after the sixth one.|sd|2877|0
+B|Uh-huh.|b|2877|1
+A|And ever since,|%|2877|0
+A|and he said, uh, a booster, uh, every year or two, I mean, maybe every six months or, or something like that|sd|2877|0
+B|Uh-huh.|b|2877|1
+A|and when I notice in the winter, when it's worse, you know, it's cold weather and so forth then I have, uh, gotten a booster for her.|sd|2877|0
+A|But not many people in this part of the country know anything about .|sd|2877|0
+B|Um.|%|2877|1
+A|I've had to get it from Oklahoma.|sd|2877|0
+A|They've heard about it|sd|2877|0
+A|but they've really never used it.|sd|2877|0
+B|Uh-huh,|b|2877|1
+B|yeah,|b|2877|1
+B|I've never heard anything about it either.|sd|2877|1
+A|So dogs that get down in the hips,|sd|2877|0
+A|like I think German Shepherds do it, and probably large dogs.|sd|2877|0
+B|Uh-huh.|b|2877|1
+A|And, uh, it's just wonderful.|sd|2877|0
+B|Does he get,|qy|2877|1
+B|is he an inside dog also,|qy|2877|1
+A|Uh.|%|2877|0
+B|or does he just run out in the backyard?|qrr|2877|1
+B|Is he fenced in?|qy|2877|1
+A|Um, um, well we're living now in an area where we, we, we're in the woods|sd|2877|0
+A|and we take walks.|sd|2877|0
+A|I just don't let them, uh, uh, go away from me,|sd|2877|0
+B|Oh, yeah,|b|2877|1
+B|uh-huh.|b|2877|1
+A|but we take walks through the woods twice a day.|sd|2877|0
+B|Oh, that's nice.|ba|2877|1
+A|And, uh, I can over do it on her.|sd|2877|0
+B|Oh, yeah.|b|2877|1
+A|But anyway, at least she can go|sd|2877|0
+A|and she's not limping along and all that.|sd|2877|0
+B|Uh-huh.|b|2877|1
+A|Tell me about your cat.|ad|2877|0
+B|Oh, Stripper, well he started out being a little orphan,|sd|2877|1
+B|and we, we took him in|sd|2877|1
+B|and, uh, he's about two years old now|sd|2877|1
+B|and he loves his treats,|sd|2877|1
+B|uh, both, uh, Joey and, uh, Stripper get treats|sd|2877|1
+B|And, uh, let's see,|^h|2877|1
+A|And is, um, Stripper an inside cat, or outside?|qy|2877|0
+B|Oh, well he's outside|sd|2877|1
+B|and, uh, he's got a way to get in,|sd|2877|1
+A|Uh-huh.|b|2877|0
+B|he's got free access of a window we like to keep open.|sd|2877|1
+A|Yes.|b|2877|0
+B|So, he gets to go in and out whenever he wants to.|sd|2877|1
+A|Well of course.|ba|2877|0
+A|That's nice,|ba|2877|0
+A|they, they,|%|2877|0
+B|Joey, on the other hand is a little different.|sd|2877|1
+B|He has to go out whenever, uh, we ask him|sd|2877|1
+B|and when he, when we ask him, he, uh, he barks.|sd|2877|1
+B|He'll either bark for food, or he'll bark to go out|sd|2877|1
+B|and he'll tell you which one he wants.|sd|2877|1
+B|He's been through obedience school.|sd|2877|1
+A|Well he just can,|sd|2877|0
+A|well he has been trained|sd|2877|0
+A|and you've you've kept it up, haven't you.|qy|2877|0
+B|Oh, definitely.|na|2877|1
+A|Yeah,|b|2877|0
+A|it is wonderful,|sd|2877|0
+A|I, I have some neighbors across the field,|sd|2877|0
+A|and, um, they|%|2877|0
+A|when we first moved here, uh, when the dogs and I didn't|sd|2877|0
+A|we have a very nice kennel and everything|sd|2877|0
+A|but, but since I, I didn't want to,|sd|2877|0
+A|I, I just wanted to let them be able to be free for a while.|sd|2877|0
+B|Uh-huh.|b|2877|1
+A|So I kept watch and never let them get away,|sd|2877|0
+A|but now every couple weeks, they one would slip away|sd|2877|0
+A|and my neighbor said to me, oh, I noticed those dogs, dogs are so well trained,|sd|2877|0
+A|anytime they hear your voice, they come.|sd|2877|0
+A|So that made me very proud|sd|2877|0
+B|Oh, yeah|b|2877|1
+A|Well, have we been talking five minutes?|qy|2877|0
+B|I'm not for sure.|no|2877|1
+A|I'm not either,|sd|2877|0
+A|but,|%|2877|0
+B|I think maybe we have,|sv|2877|1
+B|but,|%|2877|1
+A|Yeah.|b|2877|0
+A|Well, um, so it sounds like you keep your pets for pleasure.|sv|2877|0
+B|Oh, definitely.|ba|2877|1
+B|Have you ever done this before?|qy|2877|1
+A|Yes.|ny|2877|0
+B|Oh, okay, um,|bk|2877|1
+B|I haven't ever called.|sd|2877|1
+B|I've put in the paper work, I just never made the call.|sd|2877|1
+A|Oh really,|b|2877|0
+A|uh-huh.|b|2877|0
+B|Yeah,|b|2877|1
+B|so I didn't know if they stop you when the time is up|qy^d|2877|1
+B|or,|%|2877|1
+A|No,|nn|2877|0
+A|they don't,|sd|2877|0
+A|no.|nn|2877|0
+A|I, I glanced at the clock when, um, we started|sd|2877|0
+A|and I think it's been probably about five and a half minutes or something.|sd|2877|0
+A|But one day I was talking to a lady about gardening|sd|2877|0
+A|and I'm, I love gardening|sd|2877|0
+A|and she did too,|sd|2877|0
+A|an, and, after, after about twelve minutes or something, the recording came on and said that was the end of the tape|sd|2877|0
+B|Uh-huh.|b|2877|1
+B|Oh, well, at least you know you did your part.|sv|2877|1
+A|Uh-huh,|b|2877|0
+A|but it's been so much fun too, uh, talk.|sd|2877|0
+B|How did you get into this.|qo|2877|1
+A|Well, my best friend in Virginia's daughter, is a part of this project in Texas.|sd|2877|0
+B|Oh, I see.|bk|2877|1
+A|And so she knew that I had the time and would be, would enjoy it.|sd|2877|0
+B|Uh-huh,|b|2877|1
+B|that's true.|ba|2877|1
+A|Um, so.|%|2877|0
+B|I mean, I,|%|2877|1
+A|But I have a hard time getting anybody, because I guess,|sd|2877|0
+A|do you work.|qy|2877|0
+B|Um, yes|ny|2877|1
+B|I do.|sd|2877|1
+A|Yeah,|b|2877|0
+A|and probably just got home.|qy^d|2877|0
+B|Uh-huh.|ny|2877|1
+A|So, um, during the day, I|sd|2877|0
+A|I|%|2877|0
+A|and I understand also they want men.|sd|2877|0
+B|Right,|aa|2877|1
+B|I was going to tell you the same thing.|sd|2877|1
+B|They're really looking for a lot more men to participate.|sd|2877|1
+A|Yeah,|b|2877|0
+A|my husband does.|sd|2877|0
+B|Does he.|b|2877|1
+B|Yeah,|b|2877|1
+B|I need to,|%|2877|1
+A|Yes.|b|2877|0
+B|I've got some applications,|sd|2877|1
+B|I need to hand them out.|sd|2877|1
+B|But, uh, this is a great project, that they're working on|sv|2877|1
+B|and it's really going to lead the way, uh, for a lot of um, applications and, and development in the voice area.|sd|2877|1
+A|Yes,|aa|2877|0
+A|I think so too,|sv|2877|0
+A|and I haven't helped them out on the on men particularly,|sd|2877|0
+A|but my husband had been in fact, he's been, probably has made a few more calls than I have because I tend to not make them around dinner time,|sd|2877|0
+B|Uh-huh.|b|2877|1
+A|I try to, you know, make them do, during the day,|sd|2877|0
+A|but nobody's home.|sd|2877|0
+B|Well this is the perfect time for me.|sd|2877|1
+A|Well good.|ba|2877|0
+B|Well maybe I'll get you next time.|sv|2877|1
+A|Yeah|b|2877|0
+A|it so much fun to talk to you.|fc|2877|0
+B|All right,|fc|2877|1
+B|have a good one.|fc|2877|1
+A|You too,|fc|2877|0
+A|bye.|fc|2877|0
+B|Bye.|fc|2877|1

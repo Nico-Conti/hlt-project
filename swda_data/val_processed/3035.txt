@@ -1,0 +1,188 @@
+A|Uh, our children are both, uh, basically adults.|sd|3035
+A|They, we've, we've got two.|sd|3035
+A|Uh, one is twenty-one,|sd|3035
+A|and one is twenty-five.|sd|3035
+B|Uh-huh.|b|3035
+A|And they, they still live at home.|sd|3035
+B|Uh-huh.|b|3035
+A|Well, that's, that's a little unusual for, uh, for children of that age, to have both of them that age at home.|sv|3035
+A|But, uh, I guess the activities that, uh, we have with them are, uh, pretty few and far between.|sv|3035
+A|Actually the, they're both going on their own most of the time.|sd|3035
+B|Uh-huh.|b|3035
+A|So, uh, most of our activities are, you know, just discussion type things about what's going on in the family and what they're doing and that kind of thing.|sd|3035
+B|Uh-huh|b|3035
+B|Well, we have a, uh, three year old and a one year old.|sd|3035
+B|And, uh, so you know it keeps us pretty busy as you know.|sd|3035
+A|Sure it does.|aa|3035
+B|And, uh, most of the time with a three year old we're trying to, to get him, uh,|sd|3035
+B|well, we play usually in the evening when, when I get home, you know, about five o'clock or so until about eight, you know, with the exception of dinner.|sd|3035
+B|Out in the front or backyard playing like, uh, tee ball off the, you know, off the ball and let him hit a lot of baseball.|sd|3035
+B|Uh, since we just got here we got the, uh, uh, new two wheel bike with training wheels on it for him,|sd|3035
+B|and he really likes riding that around.|sd|3035
+A|Uh-huh.|b|3035
+A|Oh, yeah.|b|3035
+A|I,|%|3035
+B|So, you know,|%|3035
+B|and trying to supervisor him with that and everything and, uh, playing squirt guns and all that,|sd|3035
+B|he really likes that.|sd|3035
+A|Yeah.|b|3035
+B|And, uh, the one year old just kind of follows along and does everything,|sd|3035
+B|trying to do everything he does.|sd|3035
+A|Yeah,|b|3035
+A|is the one year old a boy?|qy|3035
+B|No,|nn|3035
+B|it's a girl.|sd|3035
+A|A girl?|b^m|3035
+B|Yeah.|ny|3035
+A|ours, uh, the older one is a girl,|sd|3035
+A|so.|%|3035
+A|And the, and the younger one is a boy,|sd|3035
+A|so.|%|3035
+B|Yeah.|b|3035
+A|Uh, I guess, uh, what I see is so far as, uh, the trends, uh, uh, for children, uh,|sv|3035
+A|I don't know what kind of a area Virginia Beach is,|sd|3035
+A|but, of course, uh, Richardson is in the Dallas area.|sd|3035
+B|Uh-huh.|b|3035
+A|And I think, uh, the big city, uh,|sv|3035
+A|activities for, for children now are,|sd|3035
+A|they're good|sv|3035
+A|but there's so much, uh, potential danger, you know,|sv|3035
+A|that you really have to watch your children so closely now|sv|3035
+A|that, you can't let them grow up the way, the way I grew up, you know.|sv|3035
+B|Uh-huh.|b|3035
+A|I, I'm from a smaller town in east Texas.|sd|3035
+A|And I could, you know, go and do whatever, pretty much whatever I wanted to do, uh, my whole life.|sd|3035
+B|Uh-huh.|b|3035
+A|Uh, you know, I never, never had to worry about the bad guys being out there.|sd|3035
+B|Uh-huh.|b|3035
+A|And, uh, you know, I find it's, it's quite a bit different now|sv|3035
+A|that, uh, you know, you have to watch your children so closely and, uh, keep up with them.|sv|3035
+A|I, I feel like, uh,|sv|3035
+A|that it's, it's really a sad commentary on, uh, you know, a life in general,|sv|3035
+B|Uh-huh.|b|3035
+A|that, uh, you know that children can't, cannot be allowed to grow up, uh, you know, without really close supervision.|sv|3035
+B|Well, I, I agree with that,|aa|3035
+B|and I seem, I seem to feel the same way, you know,|sv|3035
+B|even just when I grew up and everything.|sd|3035
+B|And, and, the way it is now you get a lot of supervision is, is at hand and everything.|sv|3035
+A|Uh-huh.|b|3035
+B|Uh, the only other thing I have noticed though is that, uh, it seems that there's been a lot of or more emphasis at least in what we've been dealing with|sv|3035
+B|and, and the looking, you know,|%|3035
+B|just start not even,|sd|3035
+B|not really looking for a school for him but, uh, like a preschool or something that where he would go maybe a couple hours a couple days a week or something.|sd|3035
+A|Uh-huh.|b|3035
+B|For, for a three year old it's that, uh,|sd|3035
+B|there's a lot of emphasis on, on, on, on education and what these children should know before they reach kindergarten.|sv|3035
+A|Right.|b|3035
+B|And, and it seems like it's a lot more than they need to know and be able to do than when we are the, when I had to go in kindergarten.|sv|3035
+A|Yeah.|b|3035
+B|And it seems like it's more, uh,|sv|3035
+B|you know, I don't know.|h|3035
+B|They're expecting more or, uh, or just, uh, you know,|sv|3035
+B|kids just because of the computer age or whatever, it just, know more when they get, you know, to be five or six or something.|sv|3035
+A|Yeah.|b|3035
+B|But,|%|3035
+A|Um, I guess looking at, uh, back at, at what our children did compared to what, uh, you know, what I had to go through in school.|sd|3035
+A|The, uh, there there does seem to be a lot more in the curriculum.|sv|3035
+A|It's a lot more complicated.|sv|3035
+A|A lot more available, of course.|sv|3035
+B|Uh-huh.|b|3035
+A|But, uh, this,|%|3035
+A|so much more to learn now that it really makes it more difficult, I would think.|sv|3035
+A|I, I would probably have a hard time getting through school myself.|sv|3035
+B|Uh-huh.|b|3035
+A|Uh, you know, just,|%|3035
+A|or at least it would be a lot harder than it was when I went to school.|sv|3035
+B|Uh-huh.|b|3035
+B|One thing is I got a home computer too|sd|3035
+B|and, uh, I play, uh, with the three year old|sd|3035
+B|I play some computer games and stuff with him.|sd|3035
+A|Uh-huh.|b|3035
+B|Educational games like, you know, concentration type games, the matching, things like that.|sd|3035
+A|Right.|b|3035
+A|Yeah.|b|3035
+B|And, uh, he's, he really likes it|sd|3035
+B|and, uh, and I think it's important because I think that, uh, you know, it gives him the interaction with the computer|sv|3035
+B|because it sure looks like that's going to be you know, the big thing for a long time.|sv|3035
+A|Huh,|b|3035
+B|And given, given that knowledge and stuff with it|sd|3035
+A|yeah,|b|3035
+A|I think, uh,|%|3035
+B|and he seems to enjoy it.|sv|3035
+A|ery faint Oh.|b|3035
+B|And, uh, of course, the one year old hasn't, hasn't gotten there yet|sd|3035
+B|but, uh,|%|3035
+B|and the other thing we try to do is, uh, since the here is, uh, sign him up for, and her, for, uh, different activities at like the rec center or something like swimming,|sd|3035
+A|Right.|b|3035
+B|you know, uh,|%|3035
+B|or,|%|3035
+B|there's a little soccer thing that he's going to do for a week or so|sd|3035
+B|and, uh, you know,|%|3035
+B|where they go for an hour or so.|sd|3035
+A|Yeah.|b|3035
+B|And, uh,|%|3035
+B|because, uh, when he was a baby that we did the swimming too|sd|3035
+B|and he really liked it|sd|3035
+B|so we're going to do that with our daughter too.|sd|3035
+A|Yeah.|b|3035
+A|That, uh, uh, watching a little, little boys play soccer is, is more fun.|sv|3035
+A|I can't imagine them having as much fun as the parents, had watching them|sv|3035
+B|I know.|aa|3035
+B|Well, we were just talking about that too.|sd|3035
+B|And I guess it's not really soccer it's just kind of a, well, kick the ball around for a while, see what happens|sv|3035
+A|Right,|b|3035
+A|yeah|b|3035
+A|The, the disorganized play really what it was,|bf|3035
+A|but, but, uh,|%|3035
+B|Yeah.|aa|3035
+A|yeah,|b|3035
+A|when ours was a,|sd|3035
+A|he,|%|3035
+A|I guess he was probably five or six, you know, when he first started playing soccer.|sd|3035
+B|Uh-huh.|b|3035
+A|And, uh, and that was, that was more fun to watch those boys trying to, trying to kick the ball up and down the field.|sv|3035
+B|Uh-huh.|b|3035
+A|But, uh,|%|3035
+A|and it's,|%|3035
+A|I guess, that was, you know, as important, uh, as much important to the parents as it was to the children that, uh, you know, to get out and watch the kids play,|sv|3035
+A|so.|%|3035
+B|Uh-huh.|b|3035
+A|I guess one of the things that I think about is a, talking about education, uh, I kind of feel like, uh, that, uh, the, the school systems in this, particularly in this area, the systems are not under enough control.|sv|3035
+A|The, the students have a little too much, uh, too much leeway.|sv|3035
+B|Uh-huh.|b|3035
+A|Excuse me.|fa|3035
+A|Um, and the, and that's kind of contradictory to what I said|sv|3035
+A|but, you know, you,|%|3035
+A|the,|%|3035
+A|you have to be under control so much when they're out|sv|3035
+A|but when they're in school they, they don't have quite, quite as much control, over them as, uh, as what I would liked to have seen.|sv|3035
+B|Right,|b|3035
+B|right.|b|3035
+B|Right.|b|3035
+B|Uh-huh.|b|3035
+A|Uh, uh, I kind of feel like there's, there's too much allowed to go on in at, at school.|sv|3035
+B|Uh-huh.|b|3035
+A|And, uh, you know, it tends to, uh, to encourage students to not be as, you know, to not concentrate as much on the education.|sv|3035
+B|Uh-huh.|b|3035
+A|You know, they're, they're there for a good time.|sv|3035
+B|Right.|b|3035
+A|And, you know, to, to see how little they can get by with.|sv|3035
+B|Uh-huh.|b|3035
+B|Well, I know of number of people that are in the, in the, uh, school district down in, in, uh, San Antonio.|sd|3035
+B|And, uh, it seems like it's,|sv|3035
+B|a lot of the problem is to, you know,|sv|3035
+B|you always have the lack of funds|sd|3035
+B|but it seems to be getting worse and worse|sv|3035
+B|and so they don't settle the resources to draw on to give as much supervision as, as, as, kids need.|sv|3035
+A|Right.|b|3035
+B|And, uh, you know, that's just a problem that who knows how that's going to, that's going to come out or anything.|sv|3035
+A|But, uh,|%|3035
+B|But,|%|3035
+A|ery faint Yeah.|b|3035
+A|But, uh, I, I don't, I don't know|h|3035
+A|I think, uh, you know, some of the thing has to do with, uh, with the civil rights program.|sv|3035
+A|Not that the civil rights program is bad|sv|3035
+A|but that there's,|%|3035
+A|it carried over, into, you know, individual rights|sv|3035
+B|Uh-huh.|b|3035
+A|and it, you know, trickled|%|3035

@@ -1,0 +1,198 @@
+B|Well, Hal, what's, uh, what's crime like in Dallas?|qw|3111
+A|Well, it depends where in Dallas you are.|sd|3111
+B|Uh-huh.|b|3111
+A|There are certainly parts of town I would not want to live in.|sd|3111
+B|Yeah.|b|3111
+A|Because it's the situation|sd|3111
+A|it is very location dependent|sd|3111
+B|Uh-huh.|b|3111
+A|and there are parts of town here where, when they talk about the nightly gunfire.|sd|3111
+B|Oh, yeah.|aa|3111
+B|Yeah,|aa|3111
+B|in Baltimore we have similar.|sd|3111
+B|Uh, I live on the outskirts of Baltimore|sd|3111
+B|and, uh, we live right outside the city|sd|3111
+B|and our neighborhood is pretty much working class people, though I'm in graduate school, uh,|sd|3111
+B|I live here because it's close to the university.|sd|3111
+A|Uh-huh.|b|3111
+B|But, you know, we have, uh,|%|3111
+B|it, it's really funny,|sd|3111
+B|the only crime we really see is, uh, just the kids being malicious.|sd|3111
+A|Uh-huh.|b|3111
+B|You know, and I think most of that is because their parents aren't around.|sv|3111
+B|That make sense?|fo_o_fw_"_by_bc|3111
+A|Yeah.|aa|3111
+B|Yeah.|b|3111
+A|That, uh, the, what they call the latchkey children.|bf|3111
+B|Yeah,|b|3111
+B|something like that.|h|3111
+B|No one's, you know,|%|3111
+B|or, or fathers are just missing, you know,|sv|3111
+B|so there's no, uh, no consistency there in the home or whatever.|sv|3111
+B|There's no one to tell them what's right and what's wrong, you know.|sv|3111
+A|Yeah.|b|3111
+A|The sort of on my end is more of the upper middle class|sd|3111
+A|so I think our, uh,|sv|3111
+B|Uh-huh.|b|3111
+A|not that we don't have a certain amount of local problems|sd|3111
+B|Uh-huh|b|3111
+A|but on the other hand, uh, we get the, uh, affect of the, uh, the city|sd|3111
+A|and, uh, the main crimes within the suburb here are the, the theft crimes. A small number of assaults,|sd|3111
+B|Uh-huh.|b|3111
+A|uh, well, if we have one murder a year that's probably as many,|sd|3111
+B|Yeah.|b|3111
+A|but then, you know, you go into Dallas and they are, unfortunately uh, having murders at a rate greater than one a day.|sd|3111
+B|Uh-huh.|b|3111
+B|Yeah.|b|3111
+B|Yeah,|b|3111
+B|I think that's, we're about the same in Baltimore.|sd|3111
+B|Though, uh, Washington, I think is, uh, close by|sd|3111
+B|and, you know, they experience a lot more.|sd|3111
+A|Uh-huh.|b|3111
+B|I think they definitely have more problems that, uh, in, in the area.|sd|3111
+B|What, what do you think can prevent crime?|qw|3111
+A|Well, the thing is, I don't,|%|3111
+A|it's one of those things where, if you're a grad student you can appreciate the statistics on|sd|3111
+B|Uh-huh.|b|3111
+A|Unfortunately there are often these correlations that are inverse of what they should be like, uh, wherever there are more, uh, criminals, there are more policemen|sd|3111
+B|Yeah.|b|3111
+A|but that's which came first.|sd|3111
+B|Yeah|b|3111
+A|But, on the other side of it is|%|3111
+A|it's, it's basically the, the problem is within the, in the society and the society's views|sv|3111
+B|Uh-huh.|b|3111
+A|and, well, uh, since now I'm in my mid-forties, when I was in grad school or when I was an undergraduate growing up in a more rural area I thought, you know, crime was, was reasonably unknown and just the situation that's developed with the, the drug *new slash unit? aspect of, uh uh, the pushers, the dealers and the addicts, uh,|sd|3111
+B|Uh-huh.|b|3111
+B|Yeah.|b|3111
+B|Yeah, Uh-huh.|b|3111
+B|Yeah,|aa|3111
+B|I, I, I think, I agree with you there.|aa|3111
+A|Because it just was not, uh, something back in the sixties that uh, I even had to worry about.|sd|3111
+B|Uh-huh.|b|3111
+A|But I think, you know, that there is a lot in the society where things have changed,|sv|3111
+A|uh, so it's effected all of us.|sv|3111
+B|Uh-huh.|b|3111
+B|Yeah,|b|3111
+B|I think they, the drug culture definitely has, uh, is one of the main problems.|sv|3111
+B|Yeah, Because it would eliminate the, uh, the violence and the, uh, the the, the market, I guess, the, the hidden market of the drugs and everything that goes along with it. *sv|%|3111
+A|Uh-huh.|b|3111
+A|Uh-huh.|b|3111
+B|That make sense?|fo_o_fw_"_by_bc|3111
+B|He's one of the big proponents of that.|sd|3111
+B|He gets on national television and, and says that, you know.|sd|3111
+B|So it's, uh|%|3111
+B|and he was a a District Attorney before, and a prosecutor before becoming, becoming mayor.|sd|3111
+B|So that's a really|sv|3111
+B|you know, it's a different viewpoint.|sv|3111
+B|I, uh,|%|3111
+A|You know, in a sense I don't, I'm I have real mixed feelings on that|sd|3111
+B|Yeah.|b|3111
+A|because it comes a bit from the angle that the, uh, uh,|%|3111
+A|it would certainly be an interesting test|sd|3111
+B|Uh-huh.|b|3111
+A|but the other side of it, to me,|%|3111
+B|What happens if we lose worse.|qh|3111
+A|Uh,|%|3111
+A|well, the other side is that unfortunately some of the down side,|%|3111
+A|and I think if I look back fifty or a hundred years I'd say, you know, back then there were the opium dens|sd|3111
+B|Right.|b|3111
+A|but the thing is, if somebody ruined their life, uh, society didn't try to then save themselves from it,|sd|3111
+A|they let this person who had ruined it uh, become, well, die or whatever.|sd|3111
+B|Uh-huh.|b|3111
+A|I mean they probably became weakened physically and other things to the point that their life expectancy was real short,|sd|3111
+B|Right,|b|3111
+B|yeah.|b|3111
+A|but now we tend to believe somewhere in the health care system otherwise,|sv|3111
+A|we need to take care of people even if they have, you know, physically ruined themselves.|sv|3111
+B|Yeah,|aa|3111
+B|they have induced it themselves.|sv|3111
+A|Yeah|b|3111
+B|Yeah,|aa|3111
+B|that's true.|aa|3111
+A|and so, to me that's,|%|3111
+A|I, uh, I would certainly like to see a real test of, of making drugs real cheap to see if when you make them available people then don't use them. Uh-huh.|sd|3111
+B|Uh-huh.|b|3111
+B|Uh-huh.|b|3111
+B|Well I think you know, they did that in Alaska. That, that actually, Alaska just recently legalized marijuana. *two utts|sd|3111
+B|But I never, I never heard results or anything like that,|sd|3111
+B|so I never, you know,|%|3111
+B|plus, that's such a, that's not a true, uh, you know, it really couldn't be a good test because Alaska's so different than every other part of the country.|sv|3111
+A|Uh-huh.|b|3111
+B|You know, so that, but that was interesting, you know,|sd|3111
+B|I, I don't,|%|3111
+B|crime is one of those things that's, uh,|%|3111
+B|I, I don't know, you know,|h|3111
+B|the drug culture,|%|3111
+B|the, uh, the, uh, you know,|%|3111
+B|I, I see it with the kids in the neighborhood just stealing things, not thinking anything wrong with it.|sd|3111
+A|Yeah,|b|3111
+A|well, some of that,|%|3111
+A|and, of course, I'm a baby of the old school|sd|3111
+B|Yeah.|b|3111
+A|but, it, it bothers me from the fifties on,|sd|3111
+A|not that I'd remember that much from the fifties|h|3111
+B|Uh-huh.|b|3111
+A|but, but basically we have so much more of the something for nothing mentality.|sv|3111
+B|Yeah,|aa|3111
+B|that's true.|aa|3111
+B|That's true.|aa|3111
+B|We worked hard for everything.|sd|3111
+B|That's very true.|aa|3111
+A|And so they|%|3111
+B|Uh-huh.|b|3111
+A|in the,|%|3111
+A|there were the sixty-four thousand dollar question shows in the fifties,|sd|3111
+A|but nowadays, there's so much on TV where, where people seem to have the idea they can get something for nothing.|sd|3111
+A|Of course uh, I work for lawyers a lot|sd|3111
+B|Uh-huh.|b|3111
+A|and I see, unfortunately, we have this whole mentality that somehow there are these pots of money out there that you can sue somebody and, you know, there's a million dollars you can have uh, for mental duress or whatever.|sd|3111
+B|Uh-huh.|b|3111
+B|Yeah|b|3111
+A|But, you know, the other thing that bothers me in the crime is the, uh,|sd|3111
+A|in Europe, they seem to have mentality,|%|3111
+A|and drunk driving is a good one,|%|3111
+A|is that people are well indoctrinated in their society that drunken driving is unacceptable.|sd|3111
+B|Right.|aa|3111
+A|And, yeah,|%|3111
+A|if you're going to drink, and you may drink, you better have your designated driver. And we mean it.|sv|3111
+B|Uh-huh.|b|3111
+B|Yeah.|b|3111
+B|Yeah.|b|3111
+B|That, I think that, uh, the drunk driving has just actually, just caught on.|sv|3111
+B|Uh, and I, I, I really, uh,|%|3111
+A|Uh-huh.|b|3111
+B|my father was hit by a drunk driver when I was in high school|sd|3111
+A|Uh-huh.|b|3111
+B|and, uh, that was a very, uh, that, that was an awful three years afterwards. You know, of recovery and the difficulties and, uh, everything we did|sd|3111
+A|Uh-huh.|b|3111
+B|and, you know, the guy went free because this was twelve years ago thirteen years ago,|sd|3111
+A|Uh-huh.|b|3111
+B|there was no,|%|3111
+B|his father was even, the, uh, police chief of the town.|sd|3111
+A|Uh-huh.|b|3111
+B|So there was no repercussion at all. You know, other than insurance,|sd|3111
+B|but he was uninsured.|sd|3111
+A|Yeah.|b|3111
+B|So, uh, our insurance paid for everything,|sd|3111
+B|but it was a very difficult time|sd|3111
+B|and, and then later, this was actually funny, my brother and I were picked up by the police for questioning because this fellow had bought a, a new car|sd|3111
+B|and somebody had taken like a baseball bat to it and broke all his windows and his lights and his, dented it everywhere,|sd|3111
+A|Uh-huh.|b|3111
+B|and they came and questioned us.|sd|3111
+A|Yeah.|b|3111
+B|You know, and,|%|3111
+A|But, that kind of shows how our attitude toward drinking and driving was, uh, misplaced for years|sv|3111
+B|Right.|b|3111
+B|Uh-huh. Uh-huh.|b|3111
+A|that, you know, it was an acceptable social behavior.|sd|3111
+B|Yeah,|aa|3111
+B|very much so.|aa|3111
+B|Yeah,|aa|3111
+B|that, those are some important points.|sv|3111
+B|Yeah,|%|3111
+B|I,|%|3111
+B|that's, those are,|%|3111
+A|What are, what does your city have for gun control if anything?|qw|3111
+B|Well, see Maryland is one of the most,|%|3111
+B|we just voted in, uh, gun control, strong gun control here in the state of Maryland.|sd|3111
+B|I, I think,|%|3111

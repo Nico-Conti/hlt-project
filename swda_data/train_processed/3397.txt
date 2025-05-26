@@ -1,0 +1,150 @@
+A|Okay.|fo_o_fw_"_by_bc|3397
+B|Well, it's not often you get, uh, many women interested in football|sv|3397
+A|Oh well|%|3397
+B|Do you follow football very much?|qy|3397
+A|I'm sorry, what?|br|3397
+B|Do you follow football very much?|qy|3397
+A|I don't,|na|3397
+A|no,|nn|3397
+A|I haven't recently, um.|sd|3397
+B|Well we can talk about something else.|sd|3397
+B|Do you have any, uh,|qy|3397
+B|you married?|qy|3397
+A|No,|nn|3397
+A|I'm not,|sd|3397
+A|no.|nn|3397
+B|No,|b^m|3397
+B|well, I guess kids are out.|qy^d|3397
+A|What's that?|br|3397
+B|Kids are out.|qy^d|3397
+A|Yep|ny|3397
+A|Are you married?|qy|3397
+B|Yeah,|ny|3397
+B|I, I'm married.|sd|3397
+B|Got two boys.|sd|3397
+A|Oh, really.|bh|3397
+B|Yeah.|ny|3397
+A|Wow.|ba|3397
+A|So do you like football?|qy|3397
+B|Oh, I follow the, uh, the Cowboys|no|3397
+B|but that's about it, uh.|sd|3397
+A|The, the same here|sd|3397
+B|Yeah.|b|3397
+A|Do you live in Dallas?|qy|3397
+B|Yeah,|ny|3397
+B|I, I, I am a pretty big Dallas fan, been for a long time|sd|3397
+A|Yeah.|b|3397
+B|but I haven't been to any games recently.|sd|3397
+B|But, uh, I try to catch the game every weekend that I can.|sd|3397
+A|Really?|bh|3397
+B|Yeah.|ny|3397
+B|Have you ever been to a Cowboy's game?|qy|3397
+A|I haven't,|ng|3397
+A|huh-uh.|nn|3397
+B|Um, it's pretty nice.|sd|3397
+A|We we decided just to watch them at home|sd|3397
+A|But.|%|3397
+B|That's good.|ba|3397
+B|At least you, uh, follow the game a little bit.|qy^d|3397
+A|Yeah.|ny|3397
+B|Um, yeah,|b^m|3397
+B|I'm not a fanatic about it.|sd|3397
+B|I don't know who played when and who does what like some guys are.|sd|3397
+B|I just like to watch,|sd|3397
+B|and, and hopefully they win|sd|3397
+A|Uh-huh.|b|3397
+B|That's about the extent of it.|sd|3397
+A|Yeah.|b|3397
+A|Right now I'm in, um, college,|sd|3397
+A|so I'm more into college football than professional, I think.|sd|3397
+B|Oh, I see.|b|3397
+B|What, uh, school are you going to?|qw|3397
+A|Um, I'm at B Y U.|sd|3397
+B|B Y U,|bk|3397
+B|okay.|bk|3397
+A|Yeah,|b|3397
+A|so.|%|3397
+B|Leslie, what are you studying?|qw|3397
+A|Nursing.|sd|3397
+B|Nursing.|b^m|3397
+B|Great.|ba|3397
+A|Yeah.|b|3397
+B|My mom's an L V N.|sd|3397
+A|Oh, really.|bh|3397
+B|Yeah.|ny|3397
+B|So, what are you planning to go into?|qw|3397
+B|Do you want to be an R N|qy|3397
+B|or,|%|3397
+A|Yeah,|b|3397
+A|yeah.|b|3397
+A|Um, I haven't really picked a field.|sd|3397
+A|I haven't, I, I don't know, I've thought a lot about labor and delivery|sd|3397
+A|but I don't know.|no|3397
+B|Uh-huh.|b|3397
+B|Try that.|ad|3397
+B|That's what my mom does, labor and delivery.|sd|3397
+A|Oh, really.|bh|3397
+A|Wow.|ba|3397
+B|Yeah,|ny|3397
+B|she loves it.|sd|3397
+B|She, she really, uh, enjoys.|sd|3397
+A|Is she a nurse in Dallas?|qy|3397
+B|No,|nn|3397
+B|she's a nurse in San Antonio|sd|3397
+A|Oh.|bk|3397
+B|but, uh, she's been, she's been working a, uh, on a late shift.|sd|3397
+B|She works the, uh, I guess the graveyard's what you'd call it.|sd|3397
+A|Uh-huh.|b|3397
+B|She works the graveyard shift.|sd|3397
+B|And she's worked that for, oh, years, when I was small.|sd|3397
+A|Um.|b|3397
+B|Uh, I guess probably going on twenty years now.|sd|3397
+A|Wow.|ba|3397
+B|And she really enjoys it.|sd|3397
+B|She likes the quiet that you have at that time of the night|sd|3397
+B|and, uh, and, uh, she's, uh, she just started a new job at a different hospital, closer to where she lives|sd|3397
+A|Uh-huh.|b|3397
+B|and she's really enjoying herself.|sd|3397
+B|She really likes it.|sd|3397
+A|Well, that's great.|ba|3397
+B|Well, good luck to you in pursuing your nursing degree.|ba|3397
+A|Oh thanks|ft|3397
+B|Hope you'll like it.|sd|3397
+A|Yeah.|b|3397
+B|Do you plan on staying in, in the Dallas area?|qy|3397
+A|Um, I'd like to come back to Dallas.|arp_nd|3397
+A|Right now I'm in Utah, of course.|sd|3397
+B|Oh, uh-huh|b|3397
+A|So, um,|%|3397
+A|but, my family's there,|sd|3397
+A|so,|%|3397
+A|yeah,|%|3397
+A|I'd like to go back.|sd|3397
+B|Yeah,|b|3397
+B|uh, I think Texas, San Antonio in particular, has got a large, uh, base of hospitals.|sd|3397
+B|Uh, I don't know about Dallas.|sd|3397
+B|I think Dallas is pretty scattered.|sd|3397
+A|Are you in San Antonio?|qy|3397
+B|No,|nn|3397
+B|I'm, I'm in Dallas|sd|3397
+A|Oh, okay.|bk|3397
+B|but I'm originally from San Antonio|sd|3397
+A|Um.|b|3397
+B|and they've got large medical, uh, center down there.|sd|3397
+B|They've got the U T Health Science Center out there also.|sd|3397
+A|Right.|b|3397
+B|So if ever wanted, you know, pursue anything more than your nursing degree, that, that'd be the place to do it.|sv|3397
+A|Yeah,|aa|3397
+A|my brother-in-law, um, is in the medical profession, I mean, he's at medical school in San Antonio right now.|sd|3397
+B|Oh, great.|ba|3397
+A|So.|%|3397
+B|Great.|ba|3397
+A|Yeah.|b|3397
+B|Well, like I said, good luck to you.|fc|3397
+A|Thanks.|fc|3397
+B|All right,|fc|3397
+B|well, um, take care,|fc|3397
+B|and maybe we'll meet up again some time.|fc|3397
+A|All right.|fc|3397
+B|Okay.|fc|3397
+B|Bye-bye.|fc|3397

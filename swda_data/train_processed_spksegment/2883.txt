@@ -1,0 +1,94 @@
+A|Well, what are your,|qw|2883|0
+A|did you like, do you use credit cards?|qy|2883|0
+B|Uh, not very often.|ng|2883|1
+B|I usually, uh,|sd|2883|1
+B|the ones we use is like Visa|sd|2883|1
+B|and we always try to pay it back at the end of the month.|sd|2883|1
+A|Huh-uh.|b|2883|0
+B|I have, uh, uh, .|%|2883|1
+A|So it doesn't get , uh, uh, the credit, uh,|bf|2883|0
+B|Right.|aa|2883|1
+A|the interest rate is so high that you're really,|sv|2883|0
+A|if you're going to use credit cards you need to use that policy, I think, don't you?|qy|2883|0
+B|Yeah.|ny|2883|1
+A|Otherwise, you end up paying so much more for your merchandise that it's hardly, uh, it's not a very good idea.|sv|2883|0
+B|That's right.|aa|2883|1
+B|Do you have a lot of credit cards?|qy|2883|1
+A|Well, I have a lot of them|na|2883|0
+A|but I don't use them very much, though.|sd|2883|0
+B|Right.|b|2883|1
+A|I use them mostly for big things, like maybe, sometimes, uh, tuition if it's, you know, if I'm short, to go ahead and get it and then try to get it saved back as quick as I can.|sd|2883|0
+A|The other thing, I, I think if you do get overextended a little bit, you need to be sure and pay it off, uh, more than one at a time, because I think you could run forever paying what they require.|sv|2883|0
+B|Oh, yeah.|b|2883|1
+A|Just goes on and on.|sv|2883|0
+B|Which is what they want.|sv|2883|1
+A|Yeah.|b|2883|0
+B|I think a lot of people go in debt because they think, oh, you know, I can just charge it,|sd|2883|1
+B|but really, I mean, if they don't have the money then, they aren't going to have it in a month,|sv|2883|1
+B|so,|%|2883|1
+A|Yeah,|aa|2883|0
+A|that's true.|aa|2883|0
+B|they, uh, make the mistake of,  pushing all their cards .|sv|2883|1
+A|There are times,  when it's, when it's very useful,  like, uh, emergency trip, or something.|sv|2883|0
+B|Yeah.|b|2883|1
+B|Yeah.|b|2883|1
+A|Sometimes when you, when you,|%|2883|0
+A|the money will be available,|sd|2883|0
+A|but it's, you know, not immediately handy.|sd|2883|0
+A|I think, uh, they're very helpful, plus the fact that it's helpful not to have to carry a lot of money sometimes.|sv|2883|0
+B|Right.|b|2883|1
+A|But, uh, I, you really do need to be very, um, oh, responsible about it|sv|2883|0
+A|or you end up in deep trouble.|sv|2883|0
+B|Yeah.|b|2883|1
+B|I made that mistake when I first got a job|sd|2883|1
+B|and that's kind of like,|%|2883|1
+B|it took me quite a while to pay them off,|sd|2883|1
+A|Uh-huh.|b|2883|0
+B|so after that I decided, well, I'm not going to use them at all, and just try to pay cash for everything|sd|2883|1
+B|and that worked for a while|sd|2883|1
+B|and then we got married|sd|2883|1
+B|so we decided to, you know, if we used them we would pay them off as we go.|sd|2883|1
+A|Right.|b|2883|0
+B|So,|%|2883|1
+A|Right.|b|2883|0
+A|That can be very handy under those kind of circumstances.|sv|2883|0
+A|The other thing about them is too, if you really don't, you really need to get some and use them because if you have never used them and developed, and haven't developed a credit thing. It stops you from doing a lot of things.|sv|2883|0
+A|If you, if you pay for everything by cash, uh, there is a lot of things that a lot of people who will not give you credit when you need something like a house or, a car.|sd|2883|0
+B|Right.|b|2883|1
+B|That's true,|aa|2883|1
+B|yeah.|aa|2883|1
+A|So, so they, they have become a very vital part of our, of our monetary system  over the last few years.|sv|2883|0
+B|Uh-huh.|b|2883|1
+A|But, uh, it's true,|sv|2883|0
+A|you have to be very careful or you end up, uh, going in the deep end|sv|2883|0
+A|and, uh, and an awful lot of people are in trouble.|sv|2883|0
+B|Uh-huh.|b|2883|1
+A|We have a boy living with us who works for a credit card, uh, company that,|sd|2883|0
+A|and he makes calls to people who have problems, you know, credit problems, that are trying to work out|sd|2883|0
+B|Huh-uh.|b|2883|1
+A|and, uh, Poor thing he comes home very depressed every night because the world has so many problems of that sort,|sd|2883|0
+B|Oh.|b|2883|1
+A|so it's, it's, uh, it's, uh, it's a really big problem I think, and, um, takes mature people to, to treat it, uh,|sv|2883|0
+B|Yeah.|b|2883|1
+A|so that it's, so that it's a real advantage to you, instead of a disadvantage.|sv|2883|0
+B|Right.|b|2883|1
+B|I think, um, the way the tax system was, they encouraged people to use credit cards, you know, with a big write off at the end of the year.|sv|2883|1
+A|Yeah.|b|2883|0
+B|But now, it's like, it's punch money, because|sd|2883|1
+A|Right.|b|2883|0
+A|It didn't do you any good now, does it?|bf|2883|0
+B|you cannot,|%|2883|1
+B|right.|na|2883|1
+B|You cannot write off your interest.|sd|2883|1
+A|Even before it probably wasn't, though, because you didn't get anywhere near as much as what it, you didn't get to claim anywhere near what you ended up paying.|sv|2883|0
+B|Yeah.|b|2883|1
+A|So, well, I'm not,|sd|2883|0
+A|other than that, I don't have too much on credit cards|sd|2883|0
+A|but,|%|2883|0
+A|It's good to talk to you.|fc|2883|0
+B|Yeah.|fc|2883|1
+B|You, too.|fc|2883|1
+B|Thanks for calling.|fc|2883|1
+A|Uh-huh,|fc|2883|0
+A|bye now|fc|2883|0
+B|Bye.|fc|2883|1

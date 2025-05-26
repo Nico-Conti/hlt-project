@@ -1,0 +1,230 @@
+A|Okay,|fo_o_fw_"_by_bc|2382
+A|do you want to go first?|ad|2382
+B|Well, I could barely hear what the switchboard operator was saying as what was the topic.|sd|2382
+A|Fitness and exercise.|sd|2382
+B|Oh, God|ba|2382
+B|No,|ar|2382
+B|why don't you go first.|ad|2382
+A|Okay,|aa|2382
+A|um, I like to do, uh, weight training and, and cycling. And just walking, uh, swimming.|sd|2382
+A|I used to do a lot of basketball and running and volleyball until I had some knee surgery last fall.|sd|2382
+A|And the doctor said that running and jumping isn't real good for my knee anymore,|sd|2382
+A|so I had to kind of change my life-style a little bit|sd|2382
+B|Well, let me ask a personal question,|oo_co_cc|2382
+B|how old are you?|qw|2382
+A|Thirty-eight.|sd|2382
+B|Oh, well then you should|sv|2382
+B|see over thirty-five everything goes downhill flop .|sv|2382
+A|Well, the rest of me is in pretty good shape|sd|2382
+A|it's just that left knee that just doesn't want to do everything it used to.|sd|2382
+B|Oh, you're lucky then|sv|2382
+B|because I've battled arthritis all my life,|sd|2382
+A|Really?|bh|2382
+B|I mean even since I was like about two or three.|sd|2382
+A|Oh.|b|2382
+B|Then they diagnosed it,|sd|2382
+B|and usually most people are just absolutely crippled,|sd|2382
+B|and, uh, I do water aerobics. Religiously do water aerobics,|sd|2382
+A|Oh, I bet that helps.|ba|2382
+A|Uh-huh.|b|2382
+B|I used to do it about six times a week|sd|2382
+B|and now I'm down to about four|sd|2382
+B|but it's about the only thing that keeps my mobility in in there,|sd|2382
+B|uh, I tried weight training|sd|2382
+B|and I'm telling you, you just, I just can't lift the things.|sd|2382
+A|Yeah.|b|2382
+B|And the shock on the system is, is just too much,|sd|2382
+B|so I have stuck to water aerobics basically, you know, the weightless thing and, trying to keep this shape that way|sd|2382
+A|Yeah.|b|2382
+B|but, you know, it's hard to find.|sd|2382
+B|I mean it's really hard to find a place that's going to offer water aerobics because what I'm finding is that if they do offer it, you get the crowd of women that are,|sd|2382
+B|I think they feel this is going to be an effortless sweatless way, to get in shape, without having to spend anything|sd|2382
+A|That's right.|ba|2382
+A|That's right.|ba|2382
+B|or it's the geriatric crowd.|sd|2382
+A|That's right.|ba|2382
+B|So, I've considered even becoming licensed to teach it.|sd|2382
+A|Well, I mean, if, if you know what your routine is, you can do that by yourself,|sv|2382
+A|and you probably do.|sv|2382
+B|Yeah,|aa|2382
+B|but you have to have an indoor pool.|sd|2382
+A|This is true.|ba|2382
+B|So, to find an indoor pool where either you can do this by yourself without, you know, drawing a lot of looks, means you're really going to do a strenuous workout activity|sd|2382
+B|you look very odd in the water,|sd|2382
+A|Well, that,|%|2382
+B|that was the one place where I was also able to do weight training,|sd|2382
+B|and that does look very odd in the water.|sd|2382
+A|I can believe that.|ba|2382
+A|Have you tried the, uh, the pool at the Spring Creek Fitness Center?|qy|2382
+B|No,|nn|2382
+B|and you know, that's the only place I haven't tried|sd|2382
+B|and people have told me.|sd|2382
+B|Now that's the Texins facility?|qy^d|2382
+A|Yes.|ny|2382
+B|I have been told that thing is just lovely.|sd|2382
+A|It is.|sd|2382
+A|They keep it at eighty-one degrees year-round.|sd|2382
+B|Huh.|b|2382
+B|do you use that facility a lot?|qy|2382
+A|Um, a fairly, a fairly good amount, uh, more on the weekends,|na|2382
+A|uh, I try to beat the traffic in the mornings when I workout in the mornings, I try to come down to the Dallas Fitness Center.|sd|2382
+B|Huh.|b|2382
+B|Do you know if they have child care there?|qy|2382
+A|Um, have you done your attitude survey for this year yet?|qy|2382
+A|You need to put that on there, seriously.|ad|2382
+B|They don't,|%|2382
+B|I don't, I don't work at T I.|sd|2382
+A|Oh, you don't?|bh|2382
+B|No,|nn|2382
+B|I used to work at T I,|sd|2382
+A|Oh.|b|2382
+B|as matter of fact I was the only woman that they had in the field in a management position|sd|2382
+B|actually when I was working there I was the only woman that was pretty much in the industry|sd|2382
+B|and I used to fill out those attitude surveys,|sd|2382
+A|Yeah.|b|2382
+B|and, uh, uh, me and the insurance adjusters are, are very familiar with each other|sd|2382
+B|and my husband still works there,|sd|2382
+A|Yeah.|b|2382
+B|and, um, I get my attitude expressed through them,|sd|2382
+B|but I find it to be very|sd|2382
+B|sometimes it's kind of shoot yourself in the foot mentality to save a few bucks.|sd|2382
+A|This is true.|ba|2382
+B|Uh, and never having lived in Texas before I starting working for T I|sd|2382
+B|and I came down here|sd|2382
+B|and, you know, they did an attitude survey like six weeks after I had been working here|sd|2382
+B|and I asked about, you know, day care for the shift workers,|sd|2382
+A|Yeah.|b|2382
+B|and boy I was pulled in by my manager and told that you just don't say that, you know,|sd|2382
+A|Well, it's not,|%|2382
+B|it was not applicable to me|sd|2382
+B|and I was kind of horrified.|sd|2382
+A|Now what year are we talking about?|qw|2382
+B|We're talking nineteen seventy-eight.|sd|2382
+A|Okay,|bk|2382
+A|uh, things have become much more enlightened since then.|sd|2382
+B|They couldn't have gotten anymore in the dark ages|sd|2382
+A|Yeah,|b|2382
+A|you know, we still don't have a day care facility|sd|2382
+A|but people are more sympathetic to it.|sd|2382
+B|I understand, I understand that they're now covering women's preventative health care,|sd|2382
+A|Yes.|aa|2382
+A|Yes.|aa|2382
+B|and, uh, the reason I'm at home is when I had my kids, and I was scheduled to go back and I tell you how much in the dark ages it was. Um, I had been rated number one in the field|sd|2382
+B|and then I took, uh,|%|2382
+B|when I became pregnant I also got meningitis, and then delivered the first baby three months early,|sd|2382
+A|Oh.|b|2382
+A|My gosh.|ba|2382
+B|and they put the baby on a heart lung monitor when I took her home,|sd|2382
+B|and the insurance carrier was not going to cover this because it was considered preventative treatment.|sd|2382
+A|Could you hold the phone for one second,|ad|2382
+B|Sure.|aa|2382
+A|Thanks.|fa|2382
+A|Okay,|fo_o_fw_"_by_bc|2382
+A|I'm back.|sd|2382
+B|And then they used to, uh,|%|2382
+B|and then I had a second one eighteen months later,|sd|2382
+B|they told me to put them back to back|sd|2382
+B|and, of course, to maintain|%|2382
+B|and I was flat on my back for the last five months with the second one, because that's when I go into labor four and a half months|sd|2382
+A|Wow.|ba|2382
+B|and I don't even know it.|sd|2382
+A|Of course it's real easy to take care of the first one when you're on your back.|sv|2382
+B|Oh, yeah,|aa|2382
+B|very easy,|aa|2382
+B|very easy|aa|2382
+B|and they, they put me on twenty-four hour fetal monitoring then to, to try to control the labor and see how far it was going,|sd|2382
+B|and after the baby was born, since it wasn't premature, then they said they wouldn't cover the cost of the monitor.|sd|2382
+B|I think that's kind of when my husband hit the roof, because it was a, uh, thirteen thousand dollar bill,|sd|2382
+A|Really.|b|2382
+B|but after the second baby was born I was going to go back to work,|sd|2382
+A|Yeah.|b|2382
+B|and that was when they had,|sd|2382
+B|God it would have been the eighty-five layoff,|sd|2382
+A|Yeah.|b|2382
+B|and I'll tell you how they handled this|sd|2382
+B|and I was just outraged,|sd|2382
+B|I did not know that since I was on personal leave of absence that I had been, uh, terminated until I filed my insurance claims about four months later|sd|2382
+B|and they didn't have any coverage under my name|sd|2382
+B|and I went back|sd|2382
+B|and I said what the hell is going on here, you know.|sd|2382
+A|Yeah,|b|2382
+A|really.|b|2382
+B|And they told me that, uh, oh, well, you know, you know, your husband works here|sd|2382
+B|and he's got a good salary|^q|2382
+B|we didn't think that you'd be coming back anyway,|^q|2382
+B|and, uh, you know, we've got people here that really, you know, need to be working|^q|2382
+B|and so that we had just,|%|2382
+B|you know, it was, this way we didn't have to layoff an active person|sd|2382
+B|and we'd just let you go.|^q|2382
+B|And it took me about a year of arguing,|sd|2382
+B|I said, you know, I've got to put this in writing to me, and because until they put it in writing, I couldn't get my insurance benefits|sd|2382
+A|Yeah.|b|2382
+B|and I couldn't get my, uh, termination benefits either.|sd|2382
+A|There you go.|ba|2382
+B|I was just pissed as hell that they could do that.|sd|2382
+A|I, I can believe that.|sd|2382
+B|But I, I guess things have gotten better,|sd|2382
+B|I've been told that this flex hour and those kind of things ,|sd|2382
+A|Oh, yeah,|ba|2382
+A|flex time is great.|sv|2382
+B|I still don't think that, they after my experiences that they could, you know, get me to go back, ever again|sv|2382
+A|I, I can understand.|ba|2382
+A|I can understand.|ba|2382
+A|Well, it's been good talking with you.|fc|2382
+B|But let me ask you this, since you use Texans,|oo_co_cc|2382
+B|how much is it a month?|qw|2382
+A|Oh, shoot it's only about ten bucks a month.|sd|2382
+B|Now that's for individual.|qy^d|2382
+A|Yeah,|ny|2382
+A|I mean, uh, to add dependents is, is you know, maybe another dollar or something|sd|2382
+A|it's no big deal.|sd|2382
+B|That's it?|qy^d|2382
+A|Yeah.|ny|2382
+B|Now if you, if you pay your monthly charge, do you then pay separately for classes your taking?|qy|2382
+A|Uh, you do for classes, for classes,|na|2382
+A|but to, I mean to use any of the facilities is, is no extra charge.|na|2382
+B|God, that's cheap.|ba|2382
+A|Yeah,|aa|2382
+A|it is.|sd|2382
+B|That's really cheap.|sd|2382
+B|Do you have to be an active T I employee to join Texans or, Or a|qy|2382
+A|Or, or a|^2|2382
+A|or a dependent of one.|^2|2382
+B|God, I am so dependent these days.|sd|2382
+A|Really.|b|2382
+B|It's a sense|%|2382
+B|Oh, seen that my, my co-dependents have turned on the hose and are getting my neighbor's fence.|sd|2382
+A|Wonderful.|ba|2382
+B|Yeah|b|2382
+B|So my position for management to domestic goddess has been an adjustment|sd|2382
+B|but boy, I think I'm going to go contact Texans.|oo_co_cc|2382
+B|I really think I am,|oo_co_cc|2382
+A|Yeah.|b|2382
+B|I mean, that beats any offer I've heard in a long time.|sd|2382
+A|Oh, yeah,|aa|2382
+A|it's great.|sd|2382
+B|Huh.|b|2382
+B|All righty.|%|2382
+B|When you're there on weekends is it crowded as hell?|qy|2382
+A|Uh, well, it would depend on when you go|no|2382
+A|it's not, it's not excessively crowded on the weekends.|sd|2382
+B|See I'd want to be there in the mornings like from nine thirty to ten thirty|sd|2382
+A|Oh, I don't think that would be bad at all.|sd|2382
+A|If you're in Richardson you'd probably wanted to come to the, to the Dallas site.|sd|2382
+B|Oh, I'm actually right on the Plano line.|sd|2382
+A|Oh, well, then you could go either one,|sd|2382
+B|Yeah.|b|2382
+A|the Spring Creek one is a lot more modern, has a lot more niceties, amenities|sd|2382
+A|and you'd probably like the pool there.|sd|2382
+B|Oh, God it sounds like I would.|ba|2382
+B|I might do that then.|sd|2382
+B|Okay,|%|2382
+B|I learned something here.|sd|2382
+A|Well, good.|ba|2382
+A|I'm glad.|sd|2382
+B|You can go back to work now.|ad|2382
+A|Well, thank you.|fc|2382
+B|Thank you.|fc|2382
+A|You have a good day.|fc|2382
+B|Bye-bye.|fc|2382
+A|Bye-bye.|fc|2382

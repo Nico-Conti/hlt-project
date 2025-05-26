@@ -1,0 +1,133 @@
+A|Okay, Jerry,|fo_o_fw_"_by_bc|3489|0
+A|I guess tonight's topic is about recycling.|sd|3489|0
+B|Uh-huh.|b|3489|1
+A|And I'd like to tell you first of all what's happening in our community here in Plano.|sd|3489|0
+B|All right.|b|3489|1
+A|Right now we have a pretty nice recycling program where a lot of the recyclable materials can be picked up by the, by the collection agency or the, the city along with your garbage can.|sd|3489|0
+A|Uh, you can put out newspaper,|sd|3489|0
+A|you can put out glass,|sd|3489|0
+A|you can put out aluminum cans,|sd|3489|0
+A|you can put, put out certain types of plastic material|sd|3489|0
+A|and that is on a roll out effort right now.|sd|3489|0
+A|Not all the citizens and the people in Plano can go ahead and, uh, participate right now,|sd|3489|0
+A|but, uh, that will be rolled out to everyone, I hope, in the next year or so.|sd|3489|0
+A|And those that aren't participating, they have the specific drop off sites where you can take glass and newspaper and aluminum.|sd|3489|0
+A|And I think, uh, overall that's an, an excellent opportunity|sv|3489|0
+A|because I hate to see our landfills being filled up and, uh, growing bigger and bigger and bigger where they are becoming a big problem for not only the people that are living today, but for the future also.|sd|3489|0
+A|So,|%|3489|0
+B|Yeah,|b|3489|1
+B|uh, I was|%|3489|1
+A|How about your community?|qo|3489|0
+B|My community,|b|3489|1
+B|that's cute.|ba|3489|1
+B|I live in a place called Dye Mound.|sd|3489|1
+A|Dye Mound?|br|3489|0
+B|Or Dye Community.|sd|3489|1
+A|Uh-huh.|b|3489|0
+B|And it's not a city, not incorporated,|sd|3489|1
+B|my nearest neighbor's about a half a mile at least,|sd|3489|1
+B|I can't even see their house|sd|3489|1
+B|and, uh,|%|3489|1
+A|Sounds like a place where I grew up|sd|3489|0
+B|Yeah,|b|3489|1
+B|I mean, uh, I'm out in, I'm out in the wilderness. Literally.|sd|3489|1
+A|Well, I like it.|sd|3489|0
+B|And, uh, well, give you an idea,|sd|3489|1
+B|it's three and a half miles of dirt road to the concrete, I mean, to the asphalt,|sd|3489|1
+B|we're out there.|sd|3489|1
+A|Uh-huh.|b|3489|0
+B|And, uh, we, I do some interesting recycling things.|sd|3489|1
+A|Well, good.|ba|3489|0
+B|I'm building our house right now|sd|3489|1
+B|and I'm going to incorporate into my, uh, garage area a weight activated, uh, crusher.|sd|3489|1
+A|Oh, okay.|b|3489|0
+B|So when I drive the car in the, in the driveway in the afternoon, it, it will just drive it up on a ramp that actually puts me on top of the, the, uh, pressure side of a, uh, hydraulic cylinder.|sd|3489|1
+A|Uh-huh.|b|3489|0
+B|And the weight of the car will crush, what's ever in the disposer.|sd|3489|1
+A|Oh.|b|3489|0
+B|hopefully, it's not my wife.|sd|3489|1
+A|Well, let's hope not.|ad|3489|0
+A|You can be, uh, get in trouble for that.|sv|3489|0
+B|Well, I thought I'd, you know, I'd use it as a, an escapement type thing.|sd|3489|1
+B|I don't know if you're familiar with that operation,|qy^d|3489|1
+B|but, what you do is you just build up the pressure|sd|3489|1
+A|Uh-huh.|b|3489|0
+B|and then you go over and release it|sd|3489|1
+B|and then it just, it just drops, you know.|sd|3489|1
+A|Well, it's quite similar to a hydraulic jack, isn't it?|qy|3489|0
+B|Very similar,|na|3489|1
+B|yeah.|ny|3489|1
+A|Okay,|bk|3489|0
+A|okay.|bk|3489|0
+B|Well, what, what it will be, you just, you drive up on the jack,|sd|3489|1
+B|but you, it won't go down.|sd|3489|1
+A|Yes,|b|3489|0
+A|until you release it.|qy^d|3489|0
+B|Until you pull the pin,|arp_nd|3489|1
+B|yeah.|%|3489|1
+A|All right.|b|3489|0
+B|Anyway I have another, uh, recycling method I use.|sd|3489|1
+A|I think,|%|3489|0
+A|Yes.|b|3489|0
+B|You know all that junk mail you get?|qy|3489|1
+A|Oh, yes,|ny|3489|0
+A|I sure do.|sd|3489|0
+B|The glossy paper that says, buy this, and send off for that and you have won and all that.|sd|3489|1
+A|Uh-huh.|b|3489|0
+B|Well, anytime they send me a return envelope I put all that stuff back in the envelope plus the other stuff that I, you know, happen to gather up.|sd|3489|1
+A|Uh-huh.|b|3489|0
+A|Oh.|b|3489|0
+B|Because, uh, well, like I say, we live a way|sd|3489|1
+B|and when you throw trash away, you throw it in my yard.|sd|3489|1
+A|Yes.|b|3489|0
+B|And I don't like that|sd|3489|1
+A|No.|b|3489|0
+B|so I don't do that.|sd|3489|1
+B|So I take it|sd|3489|1
+B|and I send, and I mail it back to them.|sd|3489|1
+A|Well, great.|ba|3489|0
+A|That's excellent.|ba|3489|0
+B|I've had four companies actually stop mailing me stuff.|sd|3489|1
+A|Well, uh, if a lot of people did that, then we wouldn't have a lot of this junk mail.|sv|3489|0
+A|That's a great idea.|ba|3489|0
+A|I hadn't thought about that|sd|3489|0
+A|and we might be able to incorporate some of that.|sv|3489|0
+A|One thing,|%|3489|0
+B|Yeah.|b|3489|1
+B|Well, I think one of the, the best ways to eliminate, uh, or help the recycling problem is to eliminate non reusable items.|sv|3489|1
+A|Right.|b|3489|0
+B|For instance, uh, I saw a thing on, uh, NOVA, I think it was the other day.|sd|3489|1
+A|Uh-huh.|b|3489|0
+B|This guy has designed recyclable materials, I mean recyclable items.|sd|3489|1
+A|Right.|b|3489|0
+B|Whatever he makes, it's all out of the same thing.|sd|3489|1
+A|Oh.|b|3489|0
+B|See, so, plastic, it's all out of plastic.|sd|3489|1
+A|Yes.|b|3489|0
+B|If it's metal, it's all out of metal.|sd|3489|1
+B|It's, he's a design, he's a engineer, designing stuff.|sd|3489|1
+A|Well, that's a great idea,|ba|3489|0
+A|that's a great idea.|ba|3489|0
+B|And, and, incorporating, you know, reusable materials into your, uh, you know, your assembly line into your actual scheme of product operations is is the only way to really do it on a, on a broad scale.|sv|3489|1
+A|Products.|^2|3489|0
+A|Yes.|aa|3489|0
+B|Make it financially, uh, attractive to recycle|sv|3489|1
+A|Uh-huh.|b|3489|0
+B|and somebody will find a way to make money at it.|sv|3489|1
+A|Yes,|aa|3489|0
+A|they will.|aa|3489|0
+B|And,|%|3489|1
+A|Exactly.|aa|3489|0
+B|Well, there is a guy in Dallas,|sd|3489|1
+B|that's all he does.|sd|3489|1
+A|Huh.|b|3489|0
+B|He collects trash. You know,|sd|3489|1
+B|and,|%|3489|1
+A|Well, that's a full time job.|sv|3489|0
+B|Yeah,|aa|3489|1
+B|well, he's, he's out for cardboard.|sv|3489|1
+A|Yes,|aa|3489|0
+A|well, I've found out, too, that, uh, you know, a couple years ago,|sd|3489|0
+A|we've always been recycling newspaper for the last twelve years,|sd|3489|0
+A|and at one time we could get a pretty good return, uh, with the Boy Scouts.|sd|3489|0
+A|We could take and collect the newspaper,|sd|3489|0

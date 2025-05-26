@@ -1,0 +1,268 @@
+A|I, I, I, assume you have kids in|qy^d|2362|0
+B|Uh, we have one.|na|2362|1
+B|She's only nine months old.|sd|2362|1
+A|Oh, well she, she doesn't have to worry about public schools yet.|sd|2362|0
+B|Right.|b|2362|1
+B|Well, my degree is in teaching,|sd|2362|1
+B|so.|%|2362|1
+A|Yeah.|b|2362|0
+A|Well, we have a little bit of a basis for conversation.|sv|2362|0
+A|I was a substitute teacher for about a year.|sd|2362|0
+B|Oh, really.|b|2362|1
+A|Yeah.|b|2362|0
+A|I, uh, thought I wanted to be a teacher|sd|2362|0
+A|so, but before I went through all of that I wanted to see how I was going to like it.|sd|2362|0
+B|Uh-huh.|b|2362|1
+A|And, and they, uh,|%|2362|0
+A|in Alabama, where I came from they, they allow you to substitute if you got a four year degree.|sd|2362|0
+A|So I went out and played substitute for a while and decided, nope, not for me.|sd|2362|0
+B|Did you teach in all subjects or in all grade levels|qy^d|2362|1
+B|or,|%|2362|1
+A|Yeah.|ny|2362|0
+A|It was,|%|2362|0
+A|I just took grades one through six.|sd|2362|0
+B|Uh-huh.|b|2362|1
+A|I thought I was going to be smart and get the good kids, wrong.|sd|2362|0
+B|Well, my degree was in fourth through seventh grade|sd|2362|1
+B|but I taught junior high.|sd|2362|1
+B|And I expected it to be a lot of trouble|sd|2362|1
+B|but it wasn't that bad,|sd|2362|1
+B|I taught remedial reading kids.|sd|2362|1
+A|Um.|%|2362|0
+B|And, well, they don't call it remedial reading these days, they call it something else.|sd|2362|1
+A|Yeah.|b|2362|0
+B|But, but, anyway, at the time that's what I taught.|sd|2362|1
+B|And, um, you kind of group your behavioral problems together that way, when you have your slow readers|sd|2362|1
+A|Uh-huh and clicking noises in|b|2362|0
+B|but it, it wasn't too bad.|sd|2362|1
+B|We, we got long real well.|sd|2362|1
+A|Well, I, I sometimes wonder if I didn't mess up.|sd|2362|0
+A|I maybe should have taken the higher grades because at least you can, if you have to you can get mean with them.|sd|2362|0
+A|Those little kids don't understand it.|sd|2362|0
+B|Yeah.|b|2362|1
+B|I,|%|2362|1
+B|especially with the real young ones.|sd|2362|1
+B|I started out wanting to teach lower, like primary and then top primary and thought, well, no, I don't like this as much and ended up moving up and got up until about the sixth|sd|2362|1
+B|and so that's what I got my certification in.|sd|2362|1
+A|Uh-huh.|b|2362|0
+B|But I had decided long before I was even married that I wanted to, if possible, teach my kids at home and not put them in the public schools.|sd|2362|1
+A|Yeah.|b|2362|0
+B|Um, and my reason for that was I don't like the, uh, what's the right word. The varied inappropriate influences that you find so much in the public schools.|sd|2362|1
+A|Well, that's a nice way of putting it.|ba|2362|0
+B|You can find a lot of good public schools if you, if you look real hard|sv|2362|1
+B|but I don't think they could cover everything that you could teach, your children on an individual basis.|sv|2362|1
+A|exactly,|ba|2362|0
+A|And too, most people don't have that option.|^2|2362|0
+B|Yeah.|b|2362|1
+A|You know. And plus it also depends on the district your in as, I mean, on the,|sv|2362|0
+A|I've seen some districts where all the schools are lousy it doesn't matter what you do. Uh, accept for the private ones, of course, we're talking about public.|sd|2362|0
+B|Uh-huh.|b|2362|1
+B|Right.|b|2362|1
+A|I don't know|h|2362|0
+A|Back when I was going to school uh, you just didn't get away with the things these kids get away with now.|sd|2362|0
+B|Uh-huh.|b|2362|1
+A|I mean you, you pulled stunts like that and you were down at the principal's office and, uh, usually bending over to get five of the best,|sd|2362|0
+B|Yeah|b|2362|1
+A|Um, but now, nowadays they can't even, they can barely scold the children for something, you know, without getting sued.|sv|2362|0
+B|And the, the, um, the crime is just escalated and the drugs and, even in the, in the the, the lower, the lower schools.|sd|2362|1
+A|Oh, yeah.|b|2362|0
+A|Well, the thing that really did it for me, I was subbing in a fifth grade class|sd|2362|0
+A|and, uh, this kid comes to school with his lunch box|sd|2362|0
+A|and inside this lunch box he, he's got easily two, I'd say two hundred to two hundred and fifty dollars in one dollar bills.|sd|2362|0
+B|Um.|%|2362|1
+A|And I asked him, uh, what are you doing with that?|sd|2362|0
+A|And he says, "My father gave it to me."|sd|2362|0
+A|And I didn't believe it for a minute.|sd|2362|0
+B|Uh-huh|b|2362|1
+A|Um, so, uh, but, uh, you know, the,|%|2362|0
+A|not a lot I could do about it.|sd|2362|0
+B|Right.|b|2362|1
+A|Can't stop the kid from bringing money to school if he wants.|sd|2362|0
+B|Crazy for him to|sv|2362|1
+B|but,|%|2362|1
+A|Well, I have,|%|2362|0
+A|I, I, I've|%|2362|0
+A|I think I understood what the, what the kid was doing he was a, uh,|sd|2362|0
+A|well let's just say he was one of those types that you wouldn't doubt that he was selling something.|sd|2362|0
+B|Uh-huh.|b|2362|1
+B|Yeah.|b|2362|1
+A|But not a lot I could do about it.|sd|2362|0
+B|Well, we had the problem when I was in,|sd|2362|1
+B|with teaching, um,|sd|2362|1
+B|I was eighth and ninth graders that I worked with|sd|2362|1
+B|and if we did have a, a student come in and they were drunk or they were on something you had the option of calling the police and have them taken out of the schools or trying to teach them something while they were there.|sd|2362|1
+A|Uh-huh.|b|2362|0
+B|And you don't know if you were reaching them or not|sd|2362|1
+B|but we felt like, you know, maybe just going ahead and try to teaching them was trying to teach them was better than have them taken out.|sd|2362|1
+A|Yeah.|b|2362|0
+A|Because, uh, uh, that just,|%|2362|0
+A|that doesn't do a lot for them.|sd|2362|0
+A|I mean it, alleviates your problem|sd|2362|0
+B|Yeah.|b|2362|1
+A|but it doesn't do anything for them.|sd|2362|0
+B|Right.|b|2362|1
+B|Uh, most the time if they were, they were,|sd|2362|1
+B|some of them were even better behaved.|sd|2362|1
+B|I've only had two instances where I it was really noticeable|sd|2362|1
+B|but they were better behaved when they were, um,|sd|2362|1
+B|I don't know if was alcohol or something else that they were on|sd|2362|1
+B|but it ended up better|sd|2362|1
+B|but,|%|2362|1
+A|Uh, I don't know,|h|2362|0
+A|guns and,|%|2362|0
+A|I don't know|h|2362|0
+A|it's something.|sv|2362|0
+B|I think there's a problem too with teachers trying to, um, to be so versatile that they do loose sight of the basics, you know,|sv|2362|1
+B|they've been a big drive in, especially in the seventies to return back to the basics.|sd|2362|1
+A|Uh-huh.|b|2362|0
+B|And, uh, and I'm not completely just, you know, just teach the basics in schools|sd|2362|1
+B|but I think there does need to be a reemphasis of those because, of our, our lower grades in the standardized test and such.|sv|2362|1
+A|Oh, yeah.|b|2362|0
+A|Oh, sure.|ba|2362|0
+A|I mean, it's indicative across the board that we, we've done something wrong.|sv|2362|0
+B|Right.|b|2362|1
+A|And when you see, uh, Koreans and Chinese and Japanese who are taking all the, uh, science jobs, all the engineering jobs, all the mathematical jobs|sv|2362|0
+A|and, you know, here we are|sv|2362|0
+A|we can't, we can't balance a checkbook without a calculator.|sv|2362|0
+B|Uh-huh.|b|2362|1
+A|Um, I don't know.|h|2362|0
+B|Well, I spent a year and a half in Japan also|sd|2362|1
+B|and I've seen how their school system works|sd|2362|1
+B|and I,|%|2362|1
+B|they go by a complete rote system,|sd|2362|1
+B|you just memorize everything.|sd|2362|1
+A|Uh-huh.|b|2362|0
+B|And then at the end of the, of a certain time period you spitted everything back out|sd|2362|1
+B|and the better the memorizer you are the better your grades are going to be.|sd|2362|1
+A|Yeah.|b|2362|0
+B|So I don't completely agree with that either.|sd|2362|1
+A|No.|aa|2362|0
+B|But there, there definitely needs to be a balance somewhere.|sd|2362|1
+A|Yeah.|b|2362|0
+A|That's, that's a great deal what law school's like|sd|2362|0
+B|Oh, is it?|bh|2362|1
+A|Yeah.|ny|2362|0
+B|Is that what you ended up going into?|qy|2362|1
+A|Yeah.|ny|2362|0
+B|Oh.|bk|2362|1
+A|And, uh, I did the same sort of thing,|sd|2362|0
+A|they just,|%|2362|0
+A|you sit there and read hundreds and hundreds of cases|sd|2362|0
+A|and then you get one examine for the whole semester|sd|2362|0
+B|Uh-huh.|b|2362|1
+A|and it's how well you can remember it all.|sd|2362|0
+B|How, how much can you stuff in your brain.|sd|2362|1
+A|Yeah.|b|2362|0
+A|And I found that a particularly useless way of studying.|sd|2362|0
+B|Yeah.|b|2362|1
+A|I never did.|sd|2362|0
+A|I always tried to understand things, not tried to memorize.|sd|2362|0
+B|Uh-huh.|b|2362|1
+A|And consequently some of the very best students were, had excellent memories|sd|2362|0
+A|but they couldn't put two and two together as far as the law was concerned.|sv|2362|0
+B|Yeah.|b|2362|1
+A|So,|%|2362|0
+B|Yeah.|b|2362|1
+A|It didn't show me anything.|sd|2362|0
+A|A year and a half, I gave it up.|sd|2362|0
+A|I wasn't really|%|2362|0
+A|I didn't want to be a lawyer anyway, just wanted the degree.|sd|2362|0
+B|Uh-huh.|b|2362|1
+B|Yeah.|b|2362|1
+A|So,|%|2362|0
+B|Yeah.|b|2362|1
+A|Well,|%|2362|0
+B|Well,|%|2362|1
+A|I don't know.|h|2362|0
+A|What can we do about it?|bh|2362|0
+B|good question|ba|2362|1
+B|Probably,|%|2362|1
+A|Money, Money is not the answer.|sv|2362|0
+B|Taking,|%|2362|1
+B|No.|aa|2362|1
+B|There's plenty of money in the system,|sv|2362|1
+A|Yeah.|b|2362|0
+B|it's just,|%|2362|1
+A|Yeah.|b|2362|0
+A|I mean, they're throwing more money at it now than ever before|sv|2362|0
+A|and things are getting worse.|sv|2362|0
+B|I think it's like a lot of things in the, in the United States.|sv|2362|1
+B|We've got so much built up in, um, in the, in the, uh, bureaucracy and in the politics of it,|sv|2362|1
+A|Uh-huh.|b|2362|0
+B|and in the, the power plays that it needs to be pulled down and started over again|sv|2362|1
+B|and there's no way that, that can be done.|sv|2362|1
+A|Uh-huh.|b|2362|0
+B|Not without wiping out a whole generation of, of kids in the school system,|sv|2362|1
+A|Yeah.|b|2362|0
+B|so.|%|2362|1
+A|Yeah.|b|2362|0
+B|Maybe on smaller, smaller scales.|sd|2362|1
+A|Well, I don't know|h|2362|0
+A|I, uh,|%|2362|0
+A|as much as I didn't like school when I was going through it, from my perspective now I can see that it's a lot better than what we have now.|sv|2362|0
+B|Uh-huh.|b|2362|1
+A|And I think part of it is that they've got to give authority back to the local school.|sv|2362|0
+B|Yeah.|b|2362|1
+A|You know, I mean, it's, it's silly that these, that these people are handcuffed when it comes to discipline.|sv|2362|0
+B|Uh-huh.|b|2362|1
+B|Right into the classroom it needs to be be able to be enforced.|sv|2362|1
+A|Yeah.|b|2362|0
+A|Exactly,|ba|2362|0
+A|I mean, I, I mean teachers are so afraid now of even saying something, to students because they're going get, they're going to get complaints or they're going to get sued or something.|sv|2362|0
+B|Uh-huh.|b|2362|1
+B|It's like doctors in lawsuits,|sv|2362|1
+A|Oh yeah.|ba|2362|0
+B|you know, they're kind of fearful of, everything.|sv|2362|1
+A|Well, lawyers help create that|sv|2362|0
+B|That's, that's,|%|2362|1
+B|well, at least I've heard that|sd|2362|1
+B|I, I, I haven't fortunately been in a situation where it's, been applicable to me|sd|2362|1
+A|Well, I think, I think, I, I mean what we've turned the school schools into now are just day-care centers|sv|2362|0
+A|you know, somebody,|%|2362|0
+A|okay,|b|2362|0
+A|we're going to send our kid here for seven or eight hours a day|sd|2362|0
+A|and he's out of our hair.|sv|2362|0
+B|Right.|b|2362|1
+A|And the other part of it is parents have quit becoming parents.|sv|2362|0
+B|Uh-huh.|b|2362|1
+A|You know, they're just,|%|2362|0
+B|Oh, yeah|ba|2362|1
+B|it has to be reinforced in the home.|sv|2362|1
+A|Oh, sure.|ba|2362|0
+A|I, I|%|2362|0
+A|you, you can, you can have the best school system in the world if you don't get anything at home then it's, it's not going to help either.|sv|2362|0
+B|Yeah.|b|2362|1
+B|Right.|b|2362|1
+A|So, I don't know,|h|2362|0
+A|I don't know,|h|2362|0
+A|I don't know what the answer is.|sd|2362|0
+B|Uh-huh.|b|2362|1
+A|It's an interesting, interesting thing you want to do.|sv|2362|0
+A|I,|%|2362|0
+A|how is Texas about keeping your children out of public schools,|qo|2362|0
+A|do they allow it?|qy|2362|0
+B|Yeah.|ny|2362|1
+B|They allow it under certain circumstances.|sd|2362|1
+B|You have to, to prove that you're teaching them something.|sd|2362|1
+B|You have to follow, a preferred curriculum,|sd|2362|1
+A|Uh-huh.|b|2362|0
+B|um, they try to encourage you to follow a specific curriculum, although you don't have to.|sd|2362|1
+A|Uh-huh.|b|2362|0
+B|And then if you have particular religious beliefs they have to be, they're kind of monitored.|sd|2362|1
+B|You know, they, they will allow you to,|sd|2362|1
+B|I can't think of any examples|sd|2362|1
+B|but certain religious groups don't want their children in public schools because the influence.|sd|2362|1
+B|And maybe they were a group of Mennonites or something like that.|sd|2362|1
+A|Uh-huh.|b|2362|0
+B|I don't think they're were in this area|sd|2362|1
+B|but, um, they, they are monitored by the, um, by the State School Board.|sd|2362|1
+A|Um.|%|2362|0
+B|So.|%|2362|1
+A|That's interesting.|ba|2362|0
+A|I remembering reading a few cases about that when it, when some people first tried that and they got sued. Got taken to court by the school system.|sd|2362|0
+B|Uh-huh.|b|2362|1
+A|I'm glad the parents won.|sd|2362|0
+A|I mean, it seems silly that, um, we started|sv|2362|0
+A|that's, that's the way you got your education in this country.|sd|2362|0
+B|Uh-huh.|b|2362|1
+A|And then, um,|%|2362|0

@@ -1,0 +1,129 @@
+A|Laurie?|qy|3439|0
+B|Yes.|ny|3439|1
+A|Okay.|fo_o_fw_"_by_bc|3439|0
+A|I'm supposed to ask you, how do you make use of your credit cards|sd|3439|0
+A|and I'm supposed to compare those with my, my habits.|sd|3439|0
+B|Okay.|b|3439|1
+B|How do I make use of credit cards?|b^m|3439|1
+A|Yes.|ny|3439|0
+B|Um, let's see.|^h|3439|1
+B|I carry a lot of credit cards with me mostly because I don't ever have cash.|sd|3439|1
+A|Right.|b|3439|0
+B|And I I,|%|3439|1
+B|do you work for Texas Instruments?|qy|3439|1
+A|No,|nn|3439|0
+A|I do not.|sd|3439|0
+B|Okay.|bk|3439|1
+B|Well, at T I we have to use what's called a tex teller if we want to get cash out|sd|3439|1
+A|Uh-huh.|b|3439|0
+B|and those are only available at T I.|sd|3439|1
+A|Oh, okay.|b|3439|0
+B|So if I'm in a mall or something I can't get cash out without paying extra money|sd|3439|1
+B|so I'm always using credit cards.|sd|3439|1
+A|Sure.|b|3439|0
+A|Well, myself I always,|%|3439|0
+A|I'm, I'm a traveling person|sd|3439|0
+B|Uh-huh.|b|3439|1
+A|and I'm out of town quite a bit|sd|3439|0
+A|so I use credit cards quite a lot also as far as everything from service work and gasoline in my car to my lounging, entertainment and for everything.|sd|3439|0
+B|Uh-huh.|aa|3439|1
+B|Yeah,|aa|3439|1
+B|me too.|aa|3439|1
+A|So that's, uh,|%|3439|0
+A|as far as using them outside that I'm not, I don't use them too much|sd|3439|0
+A|but I, I think my wife is sort of like you|sd|3439|0
+A|she uses a credit card,  most of the time.|sd|3439|0
+B|Yeah|b|3439|1
+A|So she does most of the shopping for our household|sd|3439|0
+A|so she'll use them more than I will.|sd|3439|0
+B|Uh-huh.|b|3439|1
+B|But do you get to pay the bills?|qy|3439|1
+A|Yes.|ny|3439|0
+B|Same at my house|sd|3439|1
+A|So it's me I'm always, I'm the guy that always goes to like Dillard's|sd|3439|0
+A|and I'll go in and charge something|sd|3439|0
+A|and I'll have to give them my driver's license.|sd|3439|0
+A|They'll have to look up the number because I'm never carrying a credit card.|sd|3439|0
+B|Uh-huh.|b|3439|1
+B|Yeah.|b|3439|1
+A|But I do carry like my American Express and my Visa which I use for, you know, primarily work type things.|sd|3439|0
+B|Uh-huh.|b|3439|1
+B|Yeah.|b|3439|1
+A|This is my first call by the way,|sd|3439|0
+A|so|%|3439|0
+B|Oh, it's mine too.|sd|3439|1
+A|Oh, is it really?|bh|3439|0
+B|Yes.|ny|3439|1
+A|All right|ba|3439|0
+A|so we're both beginners then.|sv|3439|0
+B|Yeah.|b|3439|1
+A|I've had this for a couple weeks|sd|3439|0
+A|and I've been out of town|sd|3439|0
+A|so this is my first time to,  to use it.|sd|3439|0
+B|Oh, okay.|b|3439|1
+B|Okay.|b|3439|1
+A|So,|%|3439|0
+B|Now, did you pick this topic|qy|3439|1
+B|or were you given?|qrr|3439|1
+A|No,|nn|3439|0
+A|I was given this topic.|sd|3439|0
+B|I see.|bk|3439|1
+B|Okay.|b|3439|1
+A|Yeah,|b|3439|0
+A|they give you, they assign you a topic,|sd|3439|0
+A|you call the eight hundred number,|sd|3439|0
+B|Right.|b|3439|1
+A|Have you tried it yet?|qy|3439|0
+B|No|nn|3439|1
+A|Okay.|b|3439|0
+A|When you call the eight hundred number, they assign you a topic and, uh, pretty, uh, cut and dried|sd|3439|0
+B|Huh,|b|3439|1
+B|okay.|b|3439|1
+B|Um, let's see.|^h|3439|1
+B|So how long are we supposed to talk for?|qw|3439|1
+A|I'm not sure.|h|3439|0
+A|A couple,|sv|3439|0
+A|about two three minutes I think.|sv|3439|0
+B|Okay.|bk|3439|1
+A|But I really don't have too much more to say in regards to credit cards.|sd|3439|0
+A|I,|%|3439|0
+A|one thing I've always tried to do is when I get my credit cards, I always try to pay them off because I just sort of detest paying interest.|sd|3439|0
+B|Oh, yes.|ba|3439|1
+A|And, uh,|%|3439|0
+B|Definitely.|aa|3439|1
+A|like years ago my wife and I got married|sd|3439|0
+B|Uh-huh.|b|3439|1
+A|she was the one with a little bit than I was because I had my credit cards, I think, up to the limit|sd|3439|0
+A|and I was giving everyone ten dollars a month and everything like that.|sd|3439|0
+B|Oh.|b|3439|1
+B|That will cost you a fortune.|sv|3439|1
+A|That was like thirty years ago|sd|3439|0
+A|so now it's a little different.|sd|3439|0
+A|We,|%|3439|0
+A|I get a bill|sd|3439|0
+A|and I'll pay it the same day it comes|sd|3439|0
+B|Yes,|b|3439|1
+B|yes.|b|3439|1
+A|and I just kind of tell my kids how much I hate paying interest|sd|3439|0
+A|so they should follow the same rule.|sd|3439|0
+B|That's right.|b|3439|1
+B|Well, yeah,|b|3439|1
+A|Oh, you bet it's|ba|3439|0
+A|it's an absolute savings.|sd|3439|0
+B|Or if you travel for work and you get your reimbursement before the bill comes in,  you get to keep the money.|sd|3439|1
+A|You bet.|ba|3439|0
+A|That's, that's very handy.|sd|3439|0
+B|Yeah.|aa|3439|1
+B|It works great.|aa|3439|1
+A|Well, I think that's all I have.|sd|3439|0
+B|Okay.|b|3439|1
+B|Well, it was nice to meet you.|fc|3439|1
+A|Nice to meet you|fc|3439|0
+A|and, uh, give it a try.|fc|3439|0
+A|I think you'll enjoy it.|fc|3439|0
+B|Okay.|fc|3439|1
+A|Okay.|fc|3439|0
+B|Thanks.|fc|3439|1
+A|Thank you.|fc|3439|0
+B|Bye-bye.|fc|3439|1
+A|Bye.|fc|3439|0

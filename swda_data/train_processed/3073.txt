@@ -1,0 +1,223 @@
+A|Okay,|fo_o_fw_"_by_bc|3073
+A|I'm back on.|sd|3073
+B|Okay.|b|3073
+A|Um, you say you watch evenings mostly?|qy|3073
+B|I watch evenings because I work all day.|sd|3073
+B|I used to watch daytimes.|sd|3073
+A|Uh-huh.|b|3073
+B|Um, mainly like ALL MY CHILDREN, that kind of thing.|sd|3073
+A|Oh, so ...|%|3073
+B|And then sometimes OPRAH and sometimes DONAHUE,|sd|3073
+B|but now it's mainly evenings.|sd|3073
+A|Do you have any that you like well enough that you tape them when you're not going to be there?|qy|3073
+B|Yes.|ny|3073
+A|Which ones?|qw|3073
+B|I tape THIRTY SOMETHING, and L A LAW.|sd|3073
+A|Oh.|b|3073
+B|Those are the two I like the best.|sd|3073
+A|Oh, two they're going to change.|sd|3073
+A|Well, one they're taking,   off.|sd|3073
+B|I know.|sd|3073
+B|It's going to be history, I know.|sd|3073
+A|I don't know what's going to|sd|3073
+A|yeah,|%|3073
+A|we like L A LAW.|sd|3073
+B|Uh-huh.|b|3073
+A|We don't watch THIRTY SOMETHING,|sd|3073
+A|but that's kind of young for us.|sd|3073
+A|My husband and I are grandparents.|sd|3073
+B|Oh, well. Well ...|%|3073
+A|So we don't watch, uh, that type of show,|sd|3073
+A|but we like L A LAW.|sd|3073
+A|We like, that.|sd|3073
+B|Uh-huh.|b|3073
+A|We're just,|%|3073
+A|I'm sorry they're breaking the team up, because we liked all the ones that were on there.|sd|3073
+B|I know.|aa|3073
+B|I'm amazed.|sv|3073
+A|I'm not sure I like the new ones too much.|sd|3073
+B|Huh-uh.|b|3073
+B|I'm surprised that, I was surprised at the ending of, you know, with all the funny things happening and different things.|sd|3073
+A|I just wonder if, if, uh, they just want to go on to other projects and not be stuck in this show, since it's gone on for so long,|sv|3073
+A|it looks like, it looks like it might be one of these seven or eight year run things. Where you kind of can spend your whole career on one show.|sv|3073
+B|Uh-huh.|b|3073
+B|Uh-huh.|b|3073
+B|I know.|aa|3073
+A|Of course, I guess that's not bad.|sv|3073
+A|Alan Alda did it on MASH.|sd|3073
+B|I know.|aa|3073
+B|Isn't that funny?|qy|3073
+A|It hasn't hurt him at all.|sv|3073
+A|So do you, do you mostly like this type of like a story type of thing that lasts an hour?|qy|3073
+B|Oh, I don't usually like stuff that continues.|ng|3073
+B|That's why I'm surprised I like those two shows, because usually I like, you know, stuff that just ends sort of, that you just, you don't have to, have watched, you know.|sd|3073
+A|In one hour, like QUANTUM LEAP.|^2|3073
+B|Yeah.|aa|3073
+B|I mean, you don't have to ...|%|3073
+A|That's one of our favorites|sd|3073
+B|Yeah.|b|3073
+B|You don't have to have watched it last week in order to follow,|sd|3073
+B|so, you know, I usually don't like that.|sd|3073
+A|Right,|aa|3073
+A|which they do at the beginning of the season, to grab your attention. You know,|sd|3073
+B|Uh-huh.|b|3073
+A|that's always a bummer too.|sv|3073
+B|I know.|aa|3073
+A|Sometimes it's better just to tape record both of them and then watch it all in one.|sv|3073
+B|Uh-huh.|b|3073
+A|We, we do that sometimes.|sd|3073
+A|I, I guess I'm, I'm not into real heavy stuff.|sd|3073
+A|L A LAW is about the heaviest thing I watch.|sd|3073
+A|I, I'll, mostly I'm into it for relaxation,|sd|3073
+B|Yeah.|b|3073
+A|so I like things like GOLDEN GIRLS or CHEERS|sd|3073
+A|or, uh, Monday night is real good with me, you know, MAJOR DAD and, and, uh, NORTHERN EXPOSURE and, and, uh,|sd|3073
+A|oh, what's that one with Burt Reynolds?|qy|3073
+A|That type of show is what we what, uh, we watch.|sd|3073
+B|Uh-huh.|b|3073
+A|We generally just stay on one channel all, for all of Monday night, just to watch those.|sd|3073
+A|Just some of the times they're continued,|sd|3073
+A|but mostly they're just little vignettes.|sd|3073
+A|A new one we found we really like is that DINOSAURS.|sd|3073
+A|Have you seen that?|qy|3073
+B|Huh-uh.|nn|3073
+A|That is, it's, it's really funny.|sv|3073
+A|They use like animated,|sd|3073
+A|it's not like a cartoon,|sd|3073
+A|but it's like dummies and things, that are used,|sd|3073
+B|Uh-huh.|b|3073
+A|and, uh, it's really, um,|%|3073
+A|and robots probably.|sd|3073
+A|But there's always a, a moral to each story.|sd|3073
+B|And what night is it on?|qw|3073
+A|Well, we watched it,|^h|3073
+A|the times we've seen it, it's been like on or, excuse me, Friday night.|sd|3073
+A|Uh, but it's,|%|3073
+A|we've only seen it a couple of times.|h|3073
+A|But it, it's real,|sv|3073
+A|the first one we saw, um, they were, it, it involved a tradition of when a person reaches seventy-five,|sd|3073
+A|and I can't remember what day they call it,|sd|3073
+A|but, but, uh, the son-in-laws get to throw the mother-in-laws when they're seventy five over a cliff|sd|3073
+B|Oh, great.|ba|3073
+A|Anyway Anyway, it, it goes on, you know,|sd|3073
+A|and the son-in-law and mother-in-law are sniping at each other and all,|sd|3073
+A|and then when it comes time for him to throw her over, well, the, the teenaged son the night before tried to save her by hiding her.|sd|3073
+B|Oh.|b|3073
+A|And she said no,|sd|3073
+A|you can't do, you know,|^q|3073
+A|he ran her out, was running to in a wheelchair to hide her,|sd|3073
+A|and she said, "You can't do that."|sd|3073
+B|Huh.|%|3073
+A|"This is tradition.|^q|3073
+A|This is what old people are supposed to be, thrown over the, the cliff."|^q|3073
+A|And, uh, he said, "I don't understand."|sd|3073
+A|It's, it's real funny that they give the teenagers the, as the one that questions, uh, the, what's going on.|sv|3073
+B|Uh-huh.|b|3073
+A|And, uh, in the end of, uh, the son-in-law, when he did get the mother-in-law up to the cliff, uh, the the teenaged son throws himself in the way and says, "No, you can't do it," and then, and then, uh, "Oh, well, we've got to do it. It's tradition,"|sd|3073
+A|and the son was, you know, "Why?"|sd|3073
+A|And so, in, in the end he doesn't throw her over,|sd|3073
+B|Uh-huh.|b|3073
+B|Oh, he doesn't.|bf|3073
+A|and, of course, the town thinks he's just terrible, because that has been tradition for hundreds of years and he's broken it.|sd|3073
+A|And then we saw one where this, there was a teenage, when a teenage boy comes into his manhood,|sd|3073
+A|they call it the night of the howling, or something like that,|sd|3073
+B|Uh-huh.|b|3073
+A|and they all go out and howl, you know|sd|3073
+A|And, and the son refused to do it.|sd|3073
+A|He, he did,|sd|3073
+A|he thought it was not ...|sd|3073
+B|So he didn't go howl?|br|3073
+A|No,|nn|3073
+A|he wouldn't go howl,|sd|3073
+A|so all the, all the people that worked with the father ostracized him|sd|3073
+B|Oh, how funny.|ba|3073
+A|It is.|aa|3073
+A|It, it, it's, it's real interesting to watch the show,|sv|3073
+A|and, and the relationship between the family is, is really now, now the mother-in-law lives in the house with them.|sd|3073
+B|Huh.|%|3073
+A|So it's,|%|3073
+A|our, our grandson, our oldest grandson is the one that, that got us to watching it.|sd|3073
+A|But it really is, it moves real fast.|sv|3073
+A|It's a real short,|sd|3073
+A|and there's always, like I say, a moral to it|sd|3073
+A|and,|%|3073
+B|It's just a half hour,|qy^d|3073
+B|or is it hour?|qrr|3073
+A|Well, half hour.|sd|3073
+B|Oh.|b|3073
+A|That, that's all there is to it.|sd|3073
+A|And, and, uh, they ...|%|3073
+B|There's not many half hour shows,|sv|3073
+B|it seems like that,|sv|3073
+A|Yeah,|b|3073
+A|it, it, they, they're trying to liken the, the father in there of the teenage son to like JACKIE GLEASON SHOW. Uh, the way he talks to his mother-in-law and so forth,|sd|3073
+B|Uh-huh.|b|3073
+A|and I guess maybe there are some parts of that,|sv|3073
+A|but I didn't really see that in there.|sd|3073
+A|But what I've read about it, they talk about that.|sd|3073
+A|But anyway, we've, we've enjoyed that,|sd|3073
+A|and, and, uh, I guess mostly I, I like the news shows too, the news magazines, like SIXTY MINUTES or TWENTY, TWENTY or PRIME TIME LIVE or something like that, you know, all, all of those shows, if I can do it,|sd|3073
+B|Yeah,|b|3073
+B|no,|b|3073
+B|I watch those if I,|sd|3073
+A|but my husband likes to watch, um, old movies, especially war movies, or, or, uh, sports, which I'm not,|sd|3073
+B|Oh, see, I like sports.|sd|3073
+A|No,|ar|3073
+A|I don't.|sd|3073
+A|Well, I, I do, I like ice skating|sd|3073
+A|and I like, uh, gymnastics, and some track and field,|sd|3073
+B|Uh-huh.|b|3073
+A|but I, I,|%|3073
+A|and I'll watch snippets of baseball games|sd|3073
+A|and I, I just don't have that much time to sit and watch the whole thing.|sd|3073
+B|Uh-huh.|b|3073
+A|And I don't ever, no matter what's on, I don't ever just sit and watch T V.|sd|3073
+A|I'm usually either doing dishes,|sd|3073
+A|or I may be sewing,|sd|3073
+A|or, you know, I always have, or letter writing,|sd|3073
+B|I know.|b|3073
+A|or I may be working around in the room somehow,|sd|3073
+A|but I don't, I don't ever just sit and,|sd|3073
+A|I, that's something that comes from your old age, you know.|sv|3073
+B|No,|b|3073
+B|I don't sit.|sd|3073
+A|Idle hands are the devil's workshop|^q|3073
+B|I know.|aa|3073
+B|Who has time?|qh|3073
+B|I don't have time to sit, I know.|sd|3073
+A|No.|b|3073
+A|It's, it's, uh,|%|3073
+B|That's why I don't get to watch that much.|sd|3073
+B|I mean, I, watch nine o'clock|sd|3073
+A|Right.|b|3073
+B|I do okay, because the kids are all in bed,|sd|3073
+B|but before that, I really, there's not much time.|sd|3073
+A|Right.|b|3073
+B|Or like at six thirty I'll watch WHEEL OF FORTUNE or something like that.|sd|3073
+A|Right,|b|3073
+A|well, our,|%|3073
+A|yeah,|%|3073
+A|if our if our grandchildren are with us, that's, they have to watch that.|sd|3073
+A|We don't watch it unless they're here|sd|3073
+B|Uh-huh.|b|3073
+B|No,|%|3073
+B|I like that.|sd|3073
+B|No,|%|3073
+B|I'll watch, game show kind of stuff|sd|3073
+A|But they, uh,|%|3073
+B|but, Yeah.|b|3073
+A|It's, it's, um, oh,|%|3073
+A|and, you know, the, the kids will get you started on stuff like AMERICA'S FUNNIEST HOME VIDEOS.|sd|3073
+A|We've wound up sending in one.|sd|3073
+A|That's something I didn't think that we'd ever do|sv|3073
+B|Did you send one?|qy|3073
+A|Yeah.|ny|3073
+A|My oldest grandson pulling his tooth.|sd|3073
+A|He's, he's, he wouldn't let us pull it,|sd|3073
+B|How funny.|ba|3073
+A|and I mean, it, it got to the point he was eating a pear here,|sd|3073
+A|and he bit into it,|sd|3073
+A|and it was just hanging by a thread.|sd|3073
+A|And I, and I'd tell him, you know, it's getting ready to fall out,|sd|3073
+A|and he walked around the house with his face down toward the floor and his mouth open, hoping it would because he wouldn't let anybody pull it.|sd|3073
+A|And he he wound up pull,|sd|3073

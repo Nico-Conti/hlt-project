@@ -1,0 +1,330 @@
+A|Okay,|fo_o_fw_"_by_bc|2641|0
+A|well, you,|%|2641|0
+B|Do you have any pets?|qy|2641|1
+A|Um, we got two cats.|na|2641|0
+B|Two cats.|b^m|2641|1
+A|Yeah,|b|2641|0
+A|and, uh, um,|%|2641|0
+A|yeah,|%|2641|0
+A|we had cat, you know, my family had cats when we were growing up the whole time until my Mom developed an allergies,|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|so, I mean, I'm used, I'm used to having cats around,|sd|2641|0
+A|I like them.|sd|2641|0
+B|Yeah,|b|2641|1
+B|I like having cats around or pets around in general|sd|2641|1
+B|I, I favor dogs over cats actually|sd|2641|1
+B|but,|%|2641|1
+A|Oh, see, I'm not, uh, I'm not a dog person at all|sd|2641|0
+B|Oh, I'm, I'm a dog person.|sd|2641|1
+B|I had,|%|2641|1
+B|I guess it depends on what you had when he were a kid, right?|sv|2641|1
+A|Yeah,|aa|2641|0
+A|probably,|aa|2641|0
+A|I was allergic to dogs when I was a kid, in fact,|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|I may still be,|sd|2641|0
+A|um, we,|%|2641|0
+B|But not cats.|qy^d|2641|1
+A|That , um,|%|2641|0
+A|I wonder sometimes|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|Um, but we, um, we house sat for a, um, my, um, my wife's boss a couple weeks ago|sd|2641|0
+A|and, um, uh, he has a dog and everything,|sd|2641|0
+A|we were, you know, we were sitting the dog and everything|sd|2641|0
+A|and, uh, I felt like just miserable all weekend|sd|2641|0
+A|and it really didn't dawn on me until Sunday,|sd|2641|0
+A|it was like, hey, maybe you're still allergic to the dog.|sd|2641|0
+A|It was like, oh, that could be it.|sd|2641|0
+B|The thing I don't like about dogs sometimes is that the house will just reek, of the dogs, and constantly .|sv|2641|1
+A|Yeah.|b|2641|0
+A|Well, dogs are real high maintenances,|sv|2641|0
+A|you got to take them for walks|sv|2641|0
+A|and you've got to pay a lot, you know,|sv|2641|0
+A|you need to pay attention to cats and everything|sv|2641|0
+A|but it's not quite the same thing.|sv|2641|0
+B|Yeah,|aa|2641|1
+B|that's true.|aa|2641|1
+A|Um, and, um, um, you know, it's, it's just nice that cats, you know, cats, yeah, you don't have to let them outside, you know,|sv|2641|0
+A|all cats are indoor cats,|sv|2641|0
+B|Uh-huh.|b|2641|1
+A|so, you know, they're not, you're not worried about them running all-around the neighborhood|sv|2641|0
+A|and, you know, they, you know, they, they make their mess in the cat pan which is,|sv|2641|0
+B|Limited.|^2|2641|1
+A|yeah,|aa|2641|0
+A|it's, you know, it's a pain to clean|sv|2641|0
+A|but, you know, we used to,|%|2641|0
+A|I mean, they got great stuff out now for cleaning cats' pans .|sv|2641|0
+A|They didn't,|%|2641|0
+B|Oh, really?|bh|2641|1
+A|Well, when I was, you know, when I was growing up I had a clean the cat pan all the time,|sd|2641|0
+A|and I hated it because I had to carry everything upstairs and, you know, and use this thing to, you know, scoop the, take the stuff out and put it in the toilet and everything|sd|2641|0
+A|it was really terrible.|sd|2641|0
+A|But now they have like this, you get these liners, that is garbage bags, you know,|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|and you, and you, you know the,|%|2641|0
+B|Oh, that sounds so easy, what I did,|ba|2641|1
+A|Yeah,|aa|2641|0
+A|the cats do it in there,|sd|2641|0
+A|you pull it and take it out and throw it away,|sd|2641|0
+A|and that's it,|sd|2641|0
+B|Yeah,|b|2641|1
+B|I housesat from cats for a friend of mine which she was finishing up her thesis,|sd|2641|1
+A|Uh-huh.|b|2641|0
+B|and what we used to do was just put, um, newspaper on the bottom and then put cat litter|sd|2641|1
+B|and then I would just take the whole thing to the garbage can and dump the whole thing.|sd|2641|1
+A|Same idea|sv|2641|0
+B|Then I would do it, you know, everyday or two days so I would clean that pan very, very rarely,|sd|2641|1
+A|Everyday?|qy|2641|0
+B|and so it wasn't so bad.|sd|2641|1
+A|Oh, okay,|b|2641|0
+A|I see.|b|2641|0
+B|two cats and just as easy|%|2641|1
+B|it just never started smelling,|sd|2641|1
+B|I would put just a little bit of cat litter in there, because if I put a lot, one of the cats would have been,|sd|2641|1
+A|Uh-huh.|b|2641|0
+B|all of her animals that she ever had were adopted.|sd|2641|1
+A|Uh-huh.|b|2641|0
+B|I that true,|aa|2641|1
+B|yeah.|aa|2641|1
+B|Yeah,|aa|2641|1
+B|she's even got, she's got one dog now and the two cats|sd|2641|1
+B|and her dog there is, is basically a reject,|sd|2641|1
+B|somebody had bought him, and wanted him.|sd|2641|1
+A|Uh-huh.|b|2641|0
+B|It was her ex boyfriend and, you know, just was not mature enough to keep the dog, didn't realize how much work it was|sd|2641|1
+B|and now, she's stuck with it.|sd|2641|1
+A|Uh-huh.|b|2641|0
+B|And she's just so kindhearted that she just takes all the animals|sd|2641|1
+B|but I think that for me, well, my husband just has completely nixed the idea of having a dog or a cat|sd|2641|1
+B|because that's all there is to it.|sd|2641|1
+B|So, you know,|%|2641|1
+A|So, you don't have anything right now?|qy|2641|0
+B|No,|nn|2641|1
+B|we don't have anything right now.|sd|2641|1
+A|Oh, except the kid,|qy^d|2641|0
+A|huh, that's ,|%|2641|0
+B|Oh, right,|na|2641|1
+B|now we have a kid|sd|2641|1
+B|but he was, no, completely against having a dog or cat,|sd|2641|1
+B|he said, they're much, they're as much work as a kid,|sd|2641|1
+B|and they're harder to get rid of for the weekend,|^q|2641|1
+B|And,|%|2641|1
+A|Uh, I don't, I don't know because the cats pretty much, um,|sv|2641|0
+A|yeah,|%|2641|0
+A|we can leave them for a weekend as long as we put plenty of food out,|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|and, um, uh, it's not a big deal really,|sd|2641|0
+A|I mean they're, they're happier when we're around|sd|2641|0
+A|but, you know, they, they're pretty much okay by themselves,|sd|2641|0
+A|um, and I don't, you know, we couldn't do that with a dog.|sv|2641|0
+B|That's, uh, yeah, really true.|aa|2641|1
+B|But like the friends, other friends of mine have cats,|sd|2641|1
+B|they have four of them,|sd|2641|1
+B|and if they go away, they have, they hire a pet sitter to come in twice a day and pet them and things like that|sd|2641|1
+B|and their cats, you know, they're so used to the attention, that if they don't get it, they get really upset,|sd|2641|1
+A|Well , that's, That's, um, pampering the, the petals|sv|2641|0
+B|and, you know, they sort of cause trouble around the house and things like that.|sd|2641|1
+B|I, I tried to have, um, figured something having,|sd|2641|1
+B|so I tried to have a goldfish,|sd|2641|1
+A|Uh-huh.|b|2641|0
+B|and, um, I killed that one within a very short amount of time.|sd|2641|1
+A|But they're not that much fun, you know,|sv|2641|0
+A|you can't take them for a walk,|sv|2641|0
+A|you can't, you know,|sv|2641|0
+A|they, they don't, they can't fetch, you know,|sv|2641|0
+B|Right.|b|2641|1
+A|they they can't do anything,|sv|2641|0
+A|so I've never,|%|2641|0
+A|I think we had fish when I was a kid|sd|2641|0
+A|but I don't,|%|2641|0
+B|My brother had fish when I was a kid|sd|2641|1
+B|I remember that,|sd|2641|1
+B|and one of his fish jumped out of the, um, gosh, what do you call it, fish tank. And fried itself, on the radiator behind the dresser.|sd|2641|1
+B|I'll never forget that|sd|2641|1
+B|because I remember my brother, he came home and he counted the fish|sd|2641|1
+A|Oh.|b|2641|0
+B|and one of the fish was missing|sd|2641|1
+B|and they couldn't find it anyplace,|sd|2641|1
+B|they couldn't figure out what had happened|sd|2641|1
+B|and then they found it fried on, the radiator behind.|sd|2641|1
+A|Oh.|b|2641|0
+B|it was not gross,|sd|2641|1
+B|I didn't see it|sd|2641|1
+B|but, um, got them.|%|2641|1
+A|Oh.|b|2641|0
+B|Trying to remember we had a dog for a while,|sd|2641|1
+B|and I don't know if we got rid of the dog|sd|2641|1
+B|because my brother was allergic to it,|sd|2641|1
+B|my brother had asthma and some allergies which I think he's outgrown now,|sd|2641|1
+A|Uh-huh.|b|2641|0
+B|but because of that we didn't have very many pets afterwards|sd|2641|1
+B|and then he had fish.|sd|2641|1
+A|Uh-huh.|b|2641|0
+B|And you,|%|2641|1
+B|they're, like you say, they're not the most exciting pet to have.|aa|2641|1
+A|No,|aa|2641|0
+A|it's like,|%|2641|0
+A|I just, I don't know,|h|2641|0
+A|I, I just never understood why, what the attraction,|sd|2641|0
+A|I mean, they're, you know, they're pretty and everything|sd|2641|0
+A|but I've just never seen the attraction of having fish.|sd|2641|0
+A|It's not as much fun.|sv|2641|0
+B|Well, a friend of mine had, um, an eel,|sd|2641|1
+A|an eel?|bh|2641|0
+B|and then he had a, um,|%|2641|1
+B|I forget what type of fish it was,|^h|2641|1
+B|it was one of these fish that it would eat, it ate a big other fish and things like that.|sd|2641|1
+B|There would be sort of moby fish in a tank.|sd|2641|1
+A|Oh, now we really get sick|sv|2641|0
+B|Yeah,|b|2641|1
+B|and it,|%|2641|1
+B|I, I couldn't see having fish like that.|sd|2641|1
+A|Yeah.|b|2641|0
+B|I could see some having, maybe some of the tropical fish, that are really, really pretty|sd|2641|1
+B|but,|%|2641|1
+A|Like, I remember a friend of mine at work telling me that at his frat in college that they had a tank of piranha, and, uh, you know, used to drop mice in|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|this is not, these aren't cats, you know,|sd|2641|0
+B|Yeah.|b|2641|1
+A|this is gross.|sv|2641|0
+B|Yeah,|aa|2641|1
+B|no,|ar|2641|1
+B|that would be,|%|2641|1
+B|what did they do, everyone come around and watch them.|qy|2641|1
+A|Yep.|ny|2641|0
+B|I mean, I guess that's fine if you have a mouse problem at your frat house, and your things destroyed the mice.|sv|2641|1
+A|Yeah,|aa|2641|0
+A|well,|%|2641|0
+B|But,|%|2641|1
+A|Yeah,|b|2641|0
+A|well, a cat will do the same trick|sv|2641|0
+B|Let's see ,|^h|2641|1
+B|I had a pet rat, for a while,|sd|2641|1
+B|and it was a live rat,|sd|2641|1
+B|and, um, this woman just offered it to me while I was in, in graduate school|sd|2641|1
+B|and, she was actually a very fun pet.|sd|2641|1
+A|I had a friend in I had a friend in college who had a, um, had a pet rat for a while.|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|Um, I forget how she got it,|sd|2641|0
+A|but it was, um, it was the same kind of a deal|sd|2641|0
+A|I think she got it,|sd|2641|0
+A|I think she was a psych major|sd|2641|0
+A|and she got it from the psych department.|sd|2641|0
+B|Yeah ,|b|2641|1
+B|mine had been a, a, a|sd|2641|1
+B|how did this work,|t1|2641|1
+B|a mill rat had been bought|sd|2641|1
+B|and the people in the lab one day called in my friend and said, you know, this rat is acting really strange I think he's sick,|sd|2641|1
+B|and she said, I don't think he's sick, I think she's pregnant,|sd|2641|1
+A|Whoops|ba|2641|0
+B|And they had misclassed the sex of back there|sd|2641|1
+B|and so, um, she asked me if I want to, one of those babies,|sd|2641|1
+B|and I took the baby|sd|2641|1
+B|and I got her when she was, you know, just this tiniest little thing like, half the price of a mouse,|sd|2641|1
+A|Uh-huh.|b|2641|0
+B|and then she grew to be, you know,|sd|2641|1
+B|I had pictures of her when she would sit on my hand|sd|2641|1
+B|and then she grew to be pretty big, you know, like a pound or something|sd|2641|1
+A|Uh-huh.|b|2641|0
+B|I don't know how much,|sd|2641|1
+B|and I had her for over two years|sd|2641|1
+B|and she was very affectionate.|sd|2641|1
+B|She would, you know, crawl on me|sd|2641|1
+B|and she would sit like on my neck or my shoulder while I was working, and things like that. Yeah, much more than you would think.|sd|2641|1
+A|Uh-huh.|b|2641|0
+A|Oh, yeah,|b|2641|0
+A|I mean, you know, if you get them young and everything before they go, kind of nuts,|sv|2641|0
+A|so .|%|2641|0
+B|Yeah|b|2641|1
+B|and,|%|2641|1
+A|Yeah,|b|2641|0
+A|rats are not my favorite animals in the world,|sd|2641|0
+A|but I could see getting one from birth and everything.|sd|2641|0
+B|Yeah,|b|2641|1
+B|I, sort of weird for me to have had one too|sd|2641|1
+B|but there,|%|2641|1
+B|it was a convenient little pet to have because it stayed in its cage|sd|2641|1
+B|and, you know, it was easy. Easy to take care of|sd|2641|1
+A|Yeah.|b|2641|0
+B|and but,|%|2641|1
+A|Yeah,|aa|2641|0
+A|I, I, I have friends with hamsters and gerbils|sd|2641|0
+A|and they, they tell me the same thing.|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|I just,|%|2641|0
+A|again it gets into vivant much fun, you know what, I guess they can be.|sv|2641|0
+A|I,|%|2641|0
+B|Actually it was more fun than you would think. Yeah, starting from the beginning|sv|2641|1
+B|but, um,|%|2641|1
+B|yeah,|%|2641|1
+B|we live, also live in the city now, actually in Manhattan.|sd|2641|1
+A|Okay.|b|2641|0
+B|And so it's almost impossible to,|sd|2641|1
+B|it's not fair to a pet to have a pet here, or certainly, certainly not a dog,|sv|2641|1
+A|Right.|b|2641|0
+B|I mean, people do,|sd|2641|1
+A|Oh people,|%|2641|0
+B|but it's not,|%|2641|1
+A|I don't, oh,|sd|2641|0
+A|plus, I mean, the pooper scooper one New York,|sv|2641|0
+A|so, you know .|%|2641|0
+B|Oh, yeah,|aa|2641|1
+B|you see all these people, yeah, these stately people, and well dressed people out walking their dogs with their plastic bag or their piece of paper for them,|sd|2641|1
+B|it's really kind of funny.|sd|2641|1
+A|Yeah, uh ,|b|2641|0
+A|I was living in northern Jersey when that law came through, remember hearing all about it,|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|we were wondering if they, uh, they had any special law for the horses in Central Park.|qy^d|2641|0
+B|Right,|^h|2641|1
+B|no,|nn|2641|1
+B|they don't.|sd|2641|1
+B|I should make you ,|%|2641|1
+A|Of course, not.|aa|2641|0
+B|they have, um, the bags behind them|sd|2641|1
+B|but I think they're actually supposed to, keep them, yeah, keep them clean|sv|2641|1
+A|Hit the bags.|b|2641|0
+B|but, oh, gosh, I can't even walk by Central Park yeah when summertime,|sd|2641|1
+B|just the smell is so bad of the horses.|sd|2641|1
+A|Oh, God, I can't, Haven't been up there,|sd|2641|0
+A|last time I was there was fall so probably wasn't that bad|sd|2641|0
+B|Oh, well, it's not that long ago.|sv|2641|1
+B|It was , Oh, twelve times, of the year.|sd|2641|1
+A|Not this past fall|ar|2641|0
+A|but I mean fall, a few years,|sd|2641|0
+A|I mean, it it was in the, yeah, it was almost like October of eighty-five,|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|I think was the last time I was up, up there and at Center Park.|sd|2641|0
+B|Yeah.|b|2641|1
+A|Um, I had a friend who went to Colombia|sd|2641|0
+A|and I used to go up and visit her.|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|Um, so,|%|2641|0
+B|Yeah,|b|2641|1
+B|that's not too far from were we live,|sd|2641|1
+B|do you have, you said you had two cats,|sd|2641|1
+B|are they, um, just what you call it, are they breed cats or anything|qy|2641|1
+B|or are they just,|%|2641|1
+A|No,|nn|2641|0
+A|they're just mutts,|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|yeah,|b|2641|0
+A|my wife got them from, uh, um, friend of hers at work and everything, you know, you know, as kittens,|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|and it was before, I mean, this was before we even met.|sd|2641|0
+A|Um, she's had them for a couple years.|sd|2641|0
+A|And um, you know, they're really cute,|sd|2641|0
+A|they're, they're sisters,|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|one of them is a lot bigger than the other one|sd|2641|0
+A|and, she pushes the other one away from the food.|sd|2641|0
+A|Apparently I don't know all the details|sd|2641|0
+A|but they were born around Christmas because one of them is named Tinsel|sd|2641|0
+A|and the other one is named Holly.|sd|2641|0
+B|Uh-huh.|b|2641|1
+A|You know, the|%|2641|0
+B|They're both females?|qy|2641|1
+A|both, yeah, both females, they're both spayed, um, or whatever it is, neutered, you know, um,|na|2641|0
+B|Uh-huh.|b|2641|1
+B|Uh-huh.|b|2641|1
+A|and they're, they're both declawed at least on the, the front claws.|sd|2641|0
+B|Uh-huh.|b|2641|1

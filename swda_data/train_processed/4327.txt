@@ -1,0 +1,100 @@
+A|Right,|fo_o_fw_"_by_bc|4327
+A|uh, actually I lived over in Europe for a couple of years,|sd|4327
+A|I lived in Germany|sd|4327
+A|and in Germany they don't have the jury system.|sd|4327
+A|What they do is they have, uh, three judges, basically.|sd|4327
+A|And you get up there|sd|4327
+A|and the prosecuting attorney presents his evidence|sd|4327
+A|and your defense attorney presents their evidence|sd|4327
+A|and those three guys take the evidence, go off, figure it out and then come back and say whether you're guilty or not.|sd|4327
+B|our judicial system is in such total chaos.|sv|4327
+B|I think what they need to do is, they need to somehow take the money out of it.|sv|4327
+B|I mean, when you have a man that's signed a, a, a statement saying he's guilty,|sd|4327
+B|we have a, a family called All day family.|sd|4327
+B|They were all murdered.|sd|4327
+A|Uh-huh.|b|4327
+B|All the people signed confessions,|sd|4327
+B|they went to a trial by jury.|sd|4327
+B|They been trying these people now for twenty-two years, ever since I was a child.|sd|4327
+A|Wow.|ba|4327
+B|And what they've done is they've bought Mercedes after Mercedes after Mercedes is what they've done,|sd|4327
+B|has nothing to do with justice whatsoever.|sv|4327
+A|Well, you know, it's, it's one of those things,|h|4327
+A|I mean, uh, uh, I would have to look at it.|sd|4327
+A|if they did it with the, uh, just the judges, the police have to do a lot better job of making sure that their evidence is airtight|sv|4327
+A|because the judges sitting in that kind of stuff day after day, they know all the procedures,|sd|4327
+A|they know what's good and what isn't,|sd|4327
+A|they'd be able to say, I'm sorry,|sd|4327
+A|you can't use this as, uh, evidence, you know, because it was either illegally obtained or whatever|^q|4327
+A|and, you know, you wouldn't have this, uh, uh, theatrics where the lawyer jumps up and presents it to the, to the jury|sd|4327
+A|and then the judge says, oh, no,|sd|4327
+A|disregard that.|^q|4327
+A|Come on,|fo_o_fw_"_by_bc|4327
+A|any jury's not going to disregard the evidence, you know|sv|4327
+B|Uh, that's true.|aa|4327
+B|I, I, I think our judicial system is attorney welfare myself.|sv|4327
+A|That may very well be.|sd|4327
+B|I, I hold it in the utmost contempt.|sd|4327
+A|Uh,|%|4327
+B|The, uh, my favorite is the police department,|sd|4327
+B|they're not aimed at the criminal.|sv|4327
+B|The judicial system is aimed at the citizens|sv|4327
+B|because you and I, we have work schedules,|sd|4327
+B|we can be called at work,|sd|4327
+B|we have Social Security numbers,|sd|4327
+B|they can trace us down,|sd|4327
+B|we have telephones,|sd|4327
+B|then we have checkbooks.|sd|4327
+B|Criminals have none of these things.|sv|4327
+B|They're real difficult to catch,|sv|4327
+B|and if they do catch them, they don't get any monetary gain out of it, whereas us, we write a check.|sv|4327
+A|Yeah.|b|4327
+B|So where do you think they target their efforts?|qh|4327
+A|That's true.|aa|4327
+B|They target their efforts toward the citizens not the criminals.|sv|4327
+A|Well, How would you go about changing it?|qo|4327
+B|You know, that's a,|%|4327
+B|I've nailed the problem down|sv|4327
+B|but I,|%|4327
+A|Leave the details up to somebody else, huh.|^2|4327
+B|Yeah,|aa|4327
+B|I'm going to have to leave those details like, what would you do about,|sd|4327
+B|I think, to begin with, you would you would have,|sv|4327
+B|like, here in Atlanta area, our crime rate is just astronomical,|sv|4327
+B|yet, you go out on the streets|sd|4327
+B|and they're giving speeding tickets.|sd|4327
+A|Yeah.|b|4327
+B|I think somehow you have to separate the revenues from,|sv|4327
+A|Well, you know, uh, talking about the lawyers, you know what might very well do, uh, cause a, uh, a drop in the number of lawyers and things like that, is to set the fees for cases.|sv|4327
+A|It's kind of like do it, do it in the similar vein similar, like, uh, V C R or television repair.|sv|4327
+A|If you take your T V in, a lot of these T V repair places will say, well, I'll repair your T V for a hundred dollars,|sd|4327
+A|and if he gets in there and starts rooting around and finds something in there that's really tremendously wrong with it, then he eats it.|sd|4327
+A|He, he repairs it, gives it back to you, and takes your hundred dollars.|sd|4327
+A|Now, if he comes in and says, you know, I'll repair your, your V C R, or somebody else's V C R, for a hundred dollars, gets in there,|sd|4327
+A|maybe it's a blown fuse,|sd|4327
+A|takes him two minutes,|sd|4327
+A|he fixes it,|sd|4327
+A|he still charges you that hundred dollars.|sd|4327
+A|So, maybe if we did that with the lawyers, so that, you know, whether it's a murder case or a, you know, a civil, uh, somebody suing somebody else, you get X dollars for that case|sv|4327
+A|and that's it.|sd|4327
+B|Now, I firmly believe in that|aa|4327
+A|None of this,|%|4327
+B|because when you get the most heinous of crimes, have you ever noticed you always get the most renowned defense attorney?|qy|4327
+A|Oh, yeah.|ny|4327
+B|And here's this bum that didn't have a job|sd|4327
+A|Yeah.|b|4327
+B|and he's got a attorney that you and I could never afford.|sd|4327
+A|That's true.|aa|4327
+B|Who's paying for that?|qh|4327
+A|Yeah.|b|4327
+A|Um, well, you, you know, you're talking to part of them that's paying for that|sv|4327
+B|Yeah,|b|4327
+B|and you're talking to the other half that's paying for it|sv|4327
+A|That's right.|aa|4327
+A|You know that's, it, it's, it's amazing|sv|4327
+A|and, and when you stop and look at it, I mean, the judges, they're all former lawyers.|sv|4327
+B|Yeah,|b|4327
+B|well, that's another problem.|sv|4327
+B|I think to really correct the judicial system, you have to get the lawyers out of it|sv|4327
+B|I mean, they're, they're totally and morally bankrupt without any ethics whatsoever,|sv|4327
+B|and with that type person running it, I mean, you, you could expect that you,|sv|4327

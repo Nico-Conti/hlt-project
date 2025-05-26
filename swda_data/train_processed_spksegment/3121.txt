@@ -1,0 +1,236 @@
+A|Uh, do you want to give a start on it?|qy|3121|0
+B|Well, I think for me,|sd|3121|1
+B|I, I'm from Alabama.|sd|3121|1
+A|Uh-huh.|b|3121|0
+B|South Alabama,|sd|3121|1
+B|and so I grew up in the midst of civil rights movement. Uh, in a pretty liberal family for, for that area at the time.|sd|3121|1
+A|Uh-huh.|b|3121|0
+A|Uh-huh.|b|3121|0
+B|And so I was very much a part of all the, uh you know, what was going on there.|sd|3121|1
+A|Uh-uh.|b|3121|0
+B|Uh, my parents are pretty active|sd|3121|1
+B|and, uh, it was very scary|sd|3121|1
+B|and, but now we've seen, you know, uh, black people have a lot more civil rights in that area and I guess all over than they did, you know, twenty years ago.|sd|3121|1
+A|Oh, definitely.|ba|3121|0
+B|There's still a lot to be you know, to be accomplished,|sv|3121|1
+B|but for me, when I think about social change, that's what I first think of|sd|3121|1
+A|Uh-huh.|b|3121|0
+B|because I can remember, you know, separate public restrooms and separate water fountains and sitting in the back of the bus and everything.|sd|3121|1
+A|Uh-huh.|b|3121|0
+A|You can relate to that.|bf|3121|0
+A|Now see, we didn't, we don't have any of that because, well, like, we live in the country in Clarion County|sd|3121|0
+B|Uh-huh.|b|3121|1
+A|and, uh, we really didn't have things like that going on that we, you know, uh, ran into.|sd|3121|0
+B|Uh-huh.|b|3121|1
+A|So we kind of, uh,|%|3121|0
+A|I guess when I think of social changes, I think, think more of, uh uh, visiting habits of families and such.|sd|3121|0
+B|Yeah.|b|3121|1
+B|Well, that's true.|aa|3121|1
+A|Uh,|b|3121|0
+B|That's a good one right there.|ba|3121|1
+A|Yeah,|b|3121|0
+A|that there's less visiting done, I think, on a whole than there used to be.|sv|3121|0
+A|Used to be that you took the family whether the kids wanted to go or not,|sv|3121|0
+A|you went visiting|sv|3121|0
+A|And, uh, today, you know, people, they do visit,|sv|3121|0
+A|but it's not quite the same as, uh, what it was, say, twenty years ago, thirty years ago.|sv|3121|0
+B|Right.|aa|3121|1
+B|And I grew up in, out in the country, too, basically, in a rural area and with lots of family.|sd|3121|1
+A|Uh-huh.|b|3121|0
+A|Uh-huh,|b|3121|0
+A|uh-huh.|b|3121|0
+B|And so we were always at family in different family members' homes.|sd|3121|1
+A|Right.|b|3121|0
+A|Uh-huh.|b|3121|0
+B|But even now, you know, they don't even do that.|sv|3121|1
+A|Well, they're so spread out,|sv|3121|0
+A|I think has a lot to do with it.|sv|3121|0
+B|Well, and they're so busy.|sv|3121|1
+A|Uh-huh,|aa|3121|0
+A|uh-huh.|aa|3121|0
+B|People, people's personal schedules are so busy.|sv|3121|1
+A|Uh-huh,|aa|3121|0
+A|uh-huh.|aa|3121|0
+B|Mainly because, I, a lot of it has to do, I think with more women working|sv|3121|1
+A|Right,|aa|3121|0
+A|right.|aa|3121|0
+B|in our family, you know, twenty years ago, not that many of the women worked.|sd|3121|1
+A|That's right,|aa|3121|0
+A|yeah.|aa|3121|0
+B|And now, uh, almost all the women work.|sv|3121|1
+A|The majority,|aa|3121|0
+A|yeah.|aa|3121|0
+B|And, so that means, you know, a lot of a lot of the social visiting and all was, I think, probably instigated by women at that time.|sv|3121|1
+A|Probably,|aa|3121|0
+A|because when you work you don't really care to go out and visit as much.|sv|3121|0
+B|Right.|aa|3121|1
+B|And now,|%|3121|1
+B|That's right.|aa|3121|1
+A|And, uh,|%|3121|0
+B|And now, uh,|%|3121|1
+B|I mean my mother does not work|sd|3121|1
+B|and, and she, you know, she's finds herself pretty alone a lot because most of her friends are working women.|sd|3121|1
+A|Uh-huh,|b|3121|0
+A|uh-huh.|b|3121|0
+A|Uh-huh.|b|3121|0
+B|But even just social visits, people don't do that anymore.|sv|3121|1
+B|You're right.|aa|3121|1
+A|No,|nn|3121|0
+A|huh-uh,|nn|3121|0
+A|they don't do as much.|sv|3121|0
+B|And people don't feel comfortable just to drop in on people anymore.|sv|3121|1
+A|Uh-huh.|b|3121|0
+B|There's a real,|%|3121|1
+A|You have to make arrangements or have an invitation or,|sv|3121|0
+B|Right,|aa|3121|1
+B|you know, you don't want to, You want to make sure it's okay|sv|3121|1
+B|or,|%|3121|1
+A|Yeah,|aa|3121|0
+A|yeah.|aa|3121|0
+B|I guess we don't not to make, invade people's privacy or whatever.|sv|3121|1
+A|Well, that could be part of it.|aa|3121|0
+A|I don't know for sure what it is.|sd|3121|0
+A|I know our children mostly are scattered out at a distance, so we really don't have that even.|sd|3121|0
+A|We don't,|%|3121|0
+B|Well, out of, out of fifteen grandchildren in my family, only two of us don't live within fifty miles.|sd|3121|1
+A|Oh, really?|bh|3121|0
+B|And and most live within ten or, or twenty.|sd|3121|1
+A|Oh, that's pretty good.|ba|3121|0
+B|So, but that's, you know, that is rural, it's a rural family|sv|3121|1
+B|and most people didn't go away.|sd|3121|1
+A|Uh-huh,|b|3121|0
+A|uh-huh.|b|3121|0
+B|I'm just one of the two out of fifteen that don't live in the, you know, even in the same state.|sd|3121|1
+A|Uh-huh.|b|3121|0
+A|Uh-huh.|b|3121|0
+A|Well, apparently there must be work available, for those that are,|qy^d|3121|0
+B|Yeah.|ny|3121|1
+B|There is in that area.|sd|3121|1
+A|Uh-huh.|b|3121|0
+A|Because around here, there's really nothing for the young people,|sd|3121|0
+A|no good, I mean there's jobs.|sd|3121|0
+A|There's minimum wage jobs,|sd|3121|0
+A|but, uh, to make a good living, there really, around here, there just isn't too much.|sd|3121|0
+B|Uh-huh.|b|3121|1
+B|And I guess, you know, that would greatly affect social i. e., social change.|sv|3121|1
+A|Uh-huh,|aa|3121|0
+A|uh-huh.|aa|3121|0
+B|Probably the job market has and the, the economy has always affected, uh, social change.|sv|3121|1
+A|Uh-huh.|b|3121|0
+A|Uh-huh.|b|3121|0
+B|Probably.|sv|3121|1
+A|So, well, there's the main things I can think of.|sd|3121|0
+A|I really tried to think of some other things|sd|3121|0
+A|and I couldn't really,|sd|3121|0
+B|Well, I think just, also, you know, the women's movement, too, has affected a lot of social change.|sv|3121|1
+A|Yeah,|aa|3121|0
+A|definitely.|aa|3121|0
+B|Uh, people marry,|sv|3121|1
+A|Some good and some bad|sv|3121|0
+B|Yeah.|b|3121|1
+B|People marry later.|sv|3121|1
+A|Uh-huh.|b|3121|0
+B|I mean basically, I think,|%|3121|1
+B|now, again, where I'm from in, in Alabama that's not necessarily true because people do still get married right out of high school.|sd|3121|1
+A|Uh-huh.|b|3121|0
+A|Uh-huh,|b|3121|0
+A|uh-huh.|b|3121|0
+B|But now out here in Texas where I am now, that's very unusual.|sd|3121|1
+A|They'd rather get their life started first before,|sv|3121|0
+B|Most people get I mean get, go to college or at least get a job|sv|3121|1
+B|and even, you know, people are, seem to, a lot of people seem to be engaged for a long time before they get married because they do want to be financially set up.|sv|3121|1
+A|Uh-huh.|b|3121|0
+A|Yeah,|aa|3121|0
+A|well, even to get school finished, I think,|sv|3121|0
+A|a lot of times it's better if they do finish their schooling before they settle in.|sv|3121|0
+A|Because a marriage takes a lot of effort and concentration|sv|3121|0
+A|and if you're busy with school it's, I think it's really difficult for a family.|sv|3121|0
+B|Right.|aa|3121|1
+B|But probably, uh, you know, more women being in, in the work force also greatly, greatly affects social change.|sv|3121|1
+A|Uh-huh,|aa|3121|0
+A|uh-huh.|aa|3121|0
+B|Because it affects child care|sv|3121|1
+B|and,|%|3121|1
+A|Right,|aa|3121|0
+A|right.|aa|3121|0
+B|Uh|%|3121|1
+A|Yeah,|b|3121|0
+A|I know my, my daughter that lives in Pittsburgh, she has two little boys|sd|3121|0
+A|and they, they've been in day care since, you know,|sd|3121|0
+A|one's four|b|3121|0
+A|and one's one|sd|3121|0
+B|Right.|b|3121|1
+A|and they've done well|sd|3121|0
+A|Now, I wouldn't want to do it that way,|sd|3121|0
+A|but, uh, she's quite happy|sd|3121|0
+A|and the children seem quite adjusted.|sd|3121|0
+B|Well, and they're, you know, they're, they're saying right now, we don't know what, we just now are seeing the effects of day care on the generation that's just now coming into the work force and in their twenties.|sd|3121|1
+A|Uh-huh.|b|3121|0
+A|That's right,|aa|3121|0
+A|yeah.|aa|3121|0
+A|Yes,|aa|3121|0
+A|uh-huh.|aa|3121|0
+B|They are the first generation that basically grew up with day care.|sv|3121|1
+A|That's right,|aa|3121|0
+A|yeah.|aa|3121|0
+B|And so, you know, it remained to be seen exactly what that, what that does.|sv|3121|1
+A|Uh-huh.|aa|3121|0
+A|Now, I'm going to baby-sit my granddaughter.|sd|3121|0
+A|She's just eight weeks old,|sd|3121|0
+A|so this will be new for me|sd|3121|0
+B|Uh-huh.|b|3121|1
+A|So, uh, but the others I'm too far away to help them out at all.|sd|3121|0
+B|Where do they live?|qw|3121|1
+A|Uh, well, I have a son and daughter that live in Pittsburgh. One in Maryland and one in Connecticut.|sd|3121|0
+A|A son in Connecticut.|sd|3121|0
+B|Well, they're not too far, though.|sv|3121|1
+A|No,|aa|3121|0
+A|but like Connecticut takes eight hours to drive home|sd|3121|0
+A|and, uh, it's too far to, you know, really go too often.|sv|3121|0
+B|Uh-huh.|b|3121|1
+A|Pittsburgh's not quite so bad.|sv|3121|0
+A|It's just a couple hours.|sd|3121|0
+A|Maryland, maybe five hour drive.|sd|3121|0
+B|Well, I live like fourteen hours from home.|sd|3121|1
+A|Uh-huh.|b|3121|0
+A|That's worse yet.|sv|3121|0
+B|In fact I'm, I'm driving I'm, I'm driving home tomorrow, so,|sd|3121|1
+A|Oh, are you really?|bh|3121|0
+B|To go be there for the Fourth of July.|sd|3121|1
+A|Do you, uh, stay overnight on the way,|qy|3121|0
+A|or you,|%|3121|0
+B|No,|nn|3121|1
+B|I can drive it all.|sd|3121|1
+B|It's just me,|sd|3121|1
+A|You're young.|sv|3121|0
+B|So I can make it.|sd|3121|1
+A|How old are you?|qw|3121|0
+B|I'm thirty-five.|sd|3121|1
+A|Okay,|bk|3121|0
+A|well you're young enough yet to|sv|3121|0
+B|Although it's, it's, it is pretty,|%|3121|1
+B|I don't know,|h|3121|1
+B|I don't enjoy it that much.|sd|3121|1
+A|Uh-huh.|b|3121|0
+B|It's pretty much like get there|sd|3121|1
+B|and,|%|3121|1
+A|It's work to get there.|sv|3121|0
+A|Yeah.|%|3121|0
+B|It's just not that pleasant.|sd|3121|1
+A|Yeah.|b|3121|0
+B|Even with other people, I basically just don't like to drive that far.|sd|3121|1
+A|Uh-huh.|b|3121|0
+A|Now my son,|%|3121|0
+A|they, they, flew,|%|3121|0
+A|he rebuilt a Aranca Chief, airplane,|sd|3121|0
+A|and they flew down last weekend.|sd|3121|0
+A|They came down in it.|sd|3121|0
+A|And it still took a long time because it's not a fast, it's not a high-speed airplane.|sd|3121|0
+B|Uh-huh.|b|3121|1
+A|But they enjoyed in thoroughly.|sd|3121|0
+A|So,|%|3121|0
+B|When you say you're in the second phase of this project, what is the second phase of it?|qw|3121|1
+A|I'm not sure,|no|3121|0
+A|but you have to change phones.|sd|3121|0
+A|You have to call from another, a different,|sd|3121|0
+B|Oh.|bk|3121|1

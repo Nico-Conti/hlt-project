@@ -1,0 +1,2269 @@
+me011|headphones that aren't so uncomfortable.|S|Buw001
+me013|huh.|B|Buw001
+fe016|i think well this should be off the record.|S|Buw001
+fe016|but i think|D|Buw001
+me013|uh okay.|S|Buw001
+fe041|we're not recording yet are we?|S|Buw001
+me011|well i don't think|D|Buw001
+me011|no.|S|Buw001
+me022|no uh that that wasn't recorded.|S|Buw001
+me011|um i don't think they're designed to be over your ears.|S|Buw001
+fe016|yeah i know.|S|Buw001
+fe016|it just it really hurts.|S|Buw001
+fe016|it gives you a headache.|S|Buw001
+fe016|like if you|D|Buw001
+me022|temple squeezers.|S|Buw001
+fe016|on your temple|D|Buw001
+me011|yep.|S|Buw001
+fe016|yeah.|S|Buw001
+fe016|yeah.|D|Buw001
+me013|uhhuh.|D|Buw001
+me011|but i definitely haven't figured it out.|S|Buw001
+fe041|um meeting recorder meeting.|S|Buw001
+me022|i guess i have to stop doing this sigh of contentment you know after sipping cappuccino or something.|S|Buw001
+fe016|yeah with the we i know.|S|Buw001
+me011|sip sigh.|S|Buw001
+me022|i was just noticing a big|D|Buw001
+fe016|we know exactly how much you have left in your cup.|S|Buw001
+me013|so are we recording now?|Q|Buw001
+me013|is this|D|Buw001
+me025|yeah.|S|Buw001
+me013|oh we're we're we're live.|S|Buw001
+me013|okay.|S|Buw001
+me025|yeah.|B|Buw001
+me013|so uh what were we going to talk about again?|Q|Buw001
+me013|so we said we said data collection which we're doing.|S|Buw001
+fe016|were we going to do digits?|Q|Buw001
+fe041|okay do we do do you go around the room and do names or anything?|Q|Buw001
+me011|i think that|D|Buw001
+me025|it's a good idea.|S|Buw001
+me011|usually we've done that.|S|Buw001
+me011|and also we've done digits as well.|S|Buw001
+me011|but i forgot to print any out.|S|Buw001
+me011|so|F|Buw001
+me011|besides with this big a group.|S|Buw001
+me011|it would take too much time.|D|Buw001
+me013|no it'd be even better with this big|D|Buw001
+fe016|you can write them on the board if you want.|S|Buw001
+me025|which way is|D|Buw001
+me011|yeah but it takes too much time.|S|Buw001
+me025|mari.|D|Buw001
+fe008|what|D|Buw001
+fe041|what?|Q|Buw001
+me025|i think your your your thing may be pointing in a funny direction.|S|Buw001
+me013|it's not that long.|S|Buw001
+me025|sort of it's it helps if it points sort of upwards.|S|Buw001
+fe041|whoops!|S|Buw001
+me025|sort of it|D|Buw001
+me025|you know.|S|Buw001
+me025|yeah.|B|Buw001
+fe041|would it|D|Buw001
+me025|so that thing the little that part should be pointing upwards.|S|Buw001
+fe041|so|D|Buw001
+fe041|oh this thing.|S|Buw001
+me025|that's it.|S|Buw001
+me025|yeah.|B|Buw001
+fe008|otherwise you just get a heartbeats.|S|Buw001
+fe041|yeah.|B|Buw001
+fe041|it's kind of|D|Buw001
+me013|oh yeah the element.|S|Buw001
+me013|yeah should be as close to you your mouth as possible.|S|Buw001
+fe041|yeah.|B|Buw001
+me025|that's good.|S|Buw001
+fe041|okay.|S|Buw001
+me025|that kind of thing is good.|S|Buw001
+fe008|it's a|D|Buw001
+fe041|this|D|Buw001
+fe041|all right.|S|Buw001
+me025|yeah.|B|Buw001
+me025|oh yeah.|B|Buw001
+me013|yeah.|B|Buw001
+fe041|how's that working?|Q|Buw001
+me025|it's a|D|Buw001
+me025|it's working.|S|Buw001
+fe041|okay.|S|Buw001
+me013|all right.|S|Buw001
+me013|so what we had was that we were going to talk about data collection.|S|Buw001
+me013|and um uh you you put up there data format.|S|Buw001
+fe041|um|D|Buw001
+me013|and other tasks during data collection.|S|Buw001
+fe041|so i think the goal the goal was what can we do how can you do the data collection differently to get|D|Buw001
+me013|and|F|Buw001
+fe041|what can you add to it to get um some information that would be helpful for the user interface design?|Q|Buw001
+fe041|like|D|Buw001
+me011|uh especially for querying.|S|Buw001
+fe041|especially for querying.|S|Buw001
+fe041|so getting people to do queries afterwards.|S|Buw001
+fe041|getting people to do summaries afterwards.|S|Buw001
+fe041|um|F|Buw001
+fe008|well one thing that came up in the morning in the morning was the um|D|Buw001
+fe008|uh if he i um|D|Buw001
+fe008|if he has|D|Buw001
+fe008|i i don't remember.|S|Buw001
+fe008|mister doctor landry?|Q|Buw001
+fe008|landay.|S|Buw001
+me011|landay james.|S|Buw001
+fe008|so he has um these uh um tsk note-taking things.|S|Buw001
+fe008|then that would sort of be a summary which you wouldn't have to solicit.|S|Buw001
+fe041|uhhuh.|B|Buw001
+fe008|if if we were able to to do that.|S|Buw001
+fe041|well if if you actually take notes as a summary as opposed to take notes in the sense of taking advantage of the time stamps.|S|Buw001
+fe041|so action item or uh reminder to send this to so-and-so blah blah blah.|S|Buw001
+fe008|uhhuh.|B|Buw001
+fe041|so that wouldn't be a summary.|S|Buw001
+fe041|that would just be that would relate to the query side.|S|Buw001
+fe008|uhhuh.|B|Buw001
+me011|but if we had the crosspads we could ask people you know if if something comes up write it down and mark it somehow.|S|Buw001
+me011|you know.|S|Buw001
+me025|right i mean we because you'd have several people with these pads you could collect different things.|S|Buw001
+me025|i mean because i tend to take notes which are summaries.|S|Buw001
+fe041|right.|S|Buw001
+me025|and so you know|D|Buw001
+me022|i mean the downside to that is that he sort of indicated that the uh quality of the handwriting recognition was quite poor.|S|Buw001
+fe041|well|D|Buw001
+me011|but that's all right.|S|Buw001
+me011|i don't think there'd be so many that you couldn't have someone clean it up.|S|Buw001
+fe041|so|F|Buw001
+me011|pretty easily.|S|Buw001
+fe041|yeah we also could come up with some code for things that people want to do so that for frequent things.|S|Buw001
+me022|yeah.|B|Buw001
+fe041|and the other things people can write whatever they want.|S|Buw001
+fe041|i mean it's to some extent uh for his benefit.|S|Buw001
+fe041|so|F|Buw001
+fe041|if that you know if if we just keep it simple then maybe it's still useful.|S|Buw001
+me022|right.|S|Buw001
+me011|yeah.|S|Buw001
+me013|i just realized we skipped the part that we were saying we were going to do at the front where we each said who we were.|S|Buw001
+fe008|the roll call.|S|Buw001
+fe041|right.|S|Buw001
+me013|roll call.|S|Buw001
+fe041|i thought you did that on purpose.|S|Buw001
+fe041|but anyway shall we do the roll call?|Q|Buw001
+me013|no not|D|Buw001
+me013|no i just my mind went elsewhere.|S|Buw001
+me013|so|F|Buw001
+me013|uh yeah i'm morgan.|S|Buw001
+me013|and|F|Buw001
+me013|where am i?|Q|Buw001
+me013|i'm on channel three.|S|Buw001
+me011|and i'm adam janin on channel a. .|S|Buw001
+fe008|i'm jane edwards i think on channel b. .|S|Buw001
+me025|i'm dan ellis.|S|Buw001
+me022|eric on channel nine.|S|Buw001
+fe016|liz on channel one.|S|Buw001
+fe041|mari on channel zero.|S|Buw001
+fn043|katrin on channel two.|S|Buw001
+fe008|should we have used pseudo names?|Q|Buw001
+fe008|should we do it a second time with pseudo|D|Buw001
+fe008|no no.|S|Buw001
+me013|i'm rocky raccoon on channel|D|Buw001
+me011|and uh do you want to do the p.d.a.'s and the p.z.m.'s?|Q|Buw001
+me025|let me uh turn that off.|S|Buw001
+me025|oh p.z.m. nearest nearest next nearest.|S|Buw001
+me025|next one.|S|Buw001
+fe008|next nearest.|S|Buw001
+me011|far.|S|Buw001
+me025|furthest.|S|Buw001
+me025|p.d.m. right.|S|Buw001
+me025|p.z.a. right.|S|Buw001
+me025|p.d.a. right.|S|Buw001
+me025|p.d.a. left.|S|Buw001
+fe008|okay.|S|Buw001
+me025|thanks.|D|Buw001
+me011|yeah and eventually once this room gets a little more organized the jimlets will be mounted under the table.|S|Buw001
+me011|and these guys will be permanently mounted somehow.|S|Buw001
+me011|you know probably with double sided tape.|S|Buw001
+me011|but so|F|Buw001
+me011|you so we won't have to go through that.|S|Buw001
+fe041|huh.|B|Buw001
+fe008|i have a question on protocol in these meetings.|S|Buw001
+fe008|which is when you say jimlet and the person listening won't know what that is how how do we get is that important information?|Q|Buw001
+fe008|you know the jimlet|D|Buw001
+fe008|i mean the box that contains the|D|Buw001
+me013|well i mean suppose we broaden out and go to a range of meetings besides just these internal ones.|S|Buw001
+me013|there's going to be lots of things that any group of people who know each other have in column common that we will not know.|S|Buw001
+fe008|uhhuh.|B|Buw001
+fe041|right.|S|Buw001
+fe008|okay.|S|Buw001
+fe041|right.|S|Buw001
+fe041|so there will be jargon that we there'll be transcription errors.|S|Buw001
+fe008|good.|S|Buw001
+me013|yeah.|D|Buw001
+fe008|okay.|S|Buw001
+me013|i mean we we were originally going to do this with v.l.s.i. design.|S|Buw001
+me013|and and and the reason we didn't go straight to that was because immediately ninety percent of what we heard would be jargon to to us.|S|Buw001
+me013|so|F|Buw001
+me011|well that was just one of the reasons.|S|Buw001
+me011|but yeah definitely.|S|Buw001
+me013|yeah.|S|Buw001
+fe008|okay good.|S|Buw001
+me013|that that's right.|S|Buw001
+me013|there were others of course.|S|Buw001
+me013|yeah.|D|Buw001
+fe008|okay so we were on the data collection and the summary issue.|S|Buw001
+me013|right.|B|Buw001
+me013|we can go back.|D|Buw001
+fe041|so|F|Buw001
+fe041|uh|D|Buw001
+fe041|so actually there's kind of three issues.|S|Buw001
+fe041|there's the crosspad issue.|S|Buw001
+fe041|should we do it and if so what'll we have them do?|Q|Buw001
+fe041|um do we have people write summaries?|Q|Buw001
+fe041|everybody or one person?|Q|Buw001
+fe041|and then do we ask people for how they would query things?|Q|Buw001
+me022|there's there're sub problems in that.|S|Buw001
+fe041|is that|D|Buw001
+me022|in that where or when do you actually ask them about that?|Q|Buw001
+me022|i mean that was one thing i was thinking about was is that dan said earlier that you know maybe two weeks later which is when you would want to query these things you might ask them then.|S|Buw001
+fe041|right.|S|Buw001
+fe041|right.|B|Buw001
+me022|but there's a problem with that in that if you're not|D|Buw001
+me022|if you don't have an interactive system it's going to be hard to go beyond sort of the first level of question.|S|Buw001
+fe041|right.|S|Buw001
+me022|right?|Q|Buw001
+me022|and explore the data further.|S|Buw001
+fe041|right.|B|Buw001
+me022|so|F|Buw001
+me011|and|D|Buw001
+me013|there's there's another problem.|S|Buw001
+me013|which is um we certainly do want to branch out beyond uh uh recording meetings about meeting recorder.|S|Buw001
+me013|and uh once we get out beyond our little group the people's motivation factor uh reduces enormously.|S|Buw001
+me013|and if we start giving them a bunch of other things to do|D|Buw001
+me013|how you know we we did you know another meeting here for another group.|S|Buw001
+me013|and and uh they were fine with it.|S|Buw001
+me013|but if we'd said okay now all eight of you have to have to come up with uh the|D|Buw001
+me011|well i asked them to.|S|Buw001
+me011|and none of them did.|S|Buw001
+me013|see?|Q|Buw001
+fe008|uhhuh.|B|Buw001
+me011|so i i asked them to send me ideas for queries after the meeting.|S|Buw001
+me013|there we go.|S|Buw001
+fe041|they|D|Buw001
+me011|and no one ever did.|S|Buw001
+me025|uhhuh.|B|Buw001
+me011|i didn't follow up either.|S|Buw001
+me011|so i didn't track them down and say please do do it now.|S|Buw001
+fe041|yeah.|B|Buw001
+me011|but uh no one spontaneously provided anything.|S|Buw001
+me013|i'm worried that if you did even if you did push them into it it it it might be semi random.|S|Buw001
+fe041|right.|S|Buw001
+me013|uh as opposed to what you'd really want to know if you were going to use this thing.|S|Buw001
+me025|right.|S|Buw001
+me011|i just don't know how else to generate the queries other than getting an expert to actually listen to the meeting and say that's important.|S|Buw001
+fe041|okay.|B|Buw001
+me011|that might be a query.|S|Buw001
+fe008|tsk.|D|Buw001
+fe008|well there is this other thing which which you were alluding to earlier which is um there are certain key words like you know action item and things like that.|S|Buw001
+fe008|which could be used in uh to some degree finding the structure.|S|Buw001
+me025|although|D|Buw001
+fe041|yeah.|S|Buw001
+fe008|and and i also um was thinking with reference to the uh note-taking.|S|Buw001
+fe008|the advantage there is that you get structure without the person having to do something artificial later.|S|Buw001
+fe008|and the third thing i wanted to say is the summaries afterwards.|S|Buw001
+fe008|um i think they should be recorded instead of written.|S|Buw001
+fe008|because i think that um it would take so long for people to write that i think you wouldn't get as good a summary.|S|Buw001
+fe041|how about this idea?|Q|Buw001
+fe041|that normally at most meetings somebody is delegated to be a note taker.|S|Buw001
+fe008|yeah good.|S|Buw001
+fe008|good point.|S|Buw001
+fe008|yeah.|B|Buw001
+fe041|and so why don't we just use the notes that somebody takes?|Q|Buw001
+me011|i mean that gives you a summary.|S|Buw001
+me011|but it doesn't really|D|Buw001
+me011|how do you generate queries from that?|Q|Buw001
+me025|well but i mean maybe a summary is one of the things we'd want from the output of the system.|S|Buw001
+fe008|yeah.|B|Buw001
+me025|right?|Q|Buw001
+fe041|right.|S|Buw001
+me025|i mean they're something.|S|Buw001
+me025|it's a a kind of output you'd like.|S|Buw001
+fe016|actually|D|Buw001
+me011|uh james and i were talking about this during one of the breaks.|S|Buw001
+fe016|and so|D|Buw001
+me011|and the problem with that is i'm definitely going to do something with information retrieval.|S|Buw001
+me011|even if it's sort of not full bore what i'm going to do for my thesis.|S|Buw001
+fe041|right.|B|Buw001
+me011|i'm going to do something.|S|Buw001
+me011|i'm not going to do anything with summarization.|S|Buw001
+me011|and so if someone wants to do that that's fine.|S|Buw001
+me011|but it's not going to be me.|S|Buw001
+me013|well i think that we i mean the the the core thing is that you know once we get some of these issues nailed down we need to do a bunch of recordings.|S|Buw001
+fe041|well|D|Buw001
+me013|and send them off to i.b.m.|S|Buw001
+me013|and get a bunch of transcriptions.|S|Buw001
+me013|even if they're slightly flawed.|S|Buw001
+me011|yep.|S|Buw001
+me013|or need some other|D|Buw001
+me013|and then we'll have some data there.|S|Buw001
+me013|and then we can start looking and thinking what do we want to know about these things.|S|Buw001
+fe041|yeah.|B|Buw001
+me013|and at the very least.|S|Buw001
+me025|uhhuh.|B|Buw001
+fe016|i actually want to say something about the note pad.|S|Buw001
+fe041|yeah.|B|Buw001
+fe016|so if you could sense just when people are writing and you tell them not to doodle or try not to be using that for other purposes and each person has a note pad they just get it when they come in the room then you you can just have a fff plot of you know who's writing when.|S|Buw001
+me013|huh.|B|Buw001
+me025|activity.|S|Buw001
+fe016|that's all you|D|Buw001
+me025|yeah.|S|Buw001
+fe016|and you can also have notes of the meeting.|S|Buw001
+fe016|but i bet that's that will allow you to go into the sort of the hot places where people are writing things down.|S|Buw001
+me013|uhhuh.|B|Buw001
+me011|oh i see.|S|Buw001
+fe016|i mean you can tell when you're in a meeting when everybody stops to write something down that something was just said.|S|Buw001
+fe041|uhhuh.|B|Buw001
+fe016|it may not be kept in the later summary.|S|Buw001
+fe016|but at that point in time is was something that was important.|S|Buw001
+fe008|uhhuh.|B|Buw001
+fe016|and that wouldn't take any extra|D|Buw001
+fe008|that's a nice idea.|S|Buw001
+fe016|or someone could just you could just put your hand on the pad.|S|Buw001
+me013|it|D|Buw001
+fe041|uhhuh.|B|Buw001
+fn043|uhhuh.|B|Buw001
+fe016|and go like that if you want to.|S|Buw001
+me013|that's a good idea.|S|Buw001
+fe016|it's|D|Buw001
+me013|but that doesn't|D|Buw001
+me013|maybe i'm missing something.|S|Buw001
+me013|but that doesn't get to the question of how we come up with queries right?|S|Buw001
+fe016|well then you can go to the points where the you could actually go to those points in time.|S|Buw001
+fe041|well what it does|D|Buw001
+fe016|and find out what they were talking about.|S|Buw001
+fe016|and you|D|Buw001
+me013|yeah.|S|Buw001
+fe041|well what it does is provide a different|D|Buw001
+fe016|and|D|Buw001
+me011|uh|D|Buw001
+fe041|i i think it's an interesting thing.|S|Buw001
+fe041|i don't think it gets at the the queries per se.|S|Buw001
+fe041|but it does give us an information fusion sort of thing that you know you want to say what were the hot points of the meeting.|S|Buw001
+fe016|yeah.|B|Buw001
+me013|that that's what i mean is that i think it gets at something interesting.|S|Buw001
+me013|but if we were asking the question which i thought we were of of of um how do we figure out what's the nature of the queries that people are going to want to ask of such a system knowing what's important doesn't tell you what people are going to be asking.|S|Buw001
+fe016|but i bet it's a good superset of it.|S|Buw001
+me013|does it?|Q|Buw001
+me025|well see there are|D|Buw001
+fe041|well yeah.|S|Buw001
+fe041|i think you could say they're going to ask about uh when uh when did so-and-so talk about blah.|S|Buw001
+fe041|and at least that gives you the word that they might run a query on.|S|Buw001
+fe016|at least you can find the locations where there are maybe keywords.|S|Buw001
+me011|i mean this would tell you what the hit is.|S|Buw001
+me013|maybe.|S|Buw001
+fe016|and|D|Buw001
+me011|not what the query is.|S|Buw001
+me011|what|D|Buw001
+fe016|right right.|S|Buw001
+fe041|right.|S|Buw001
+fe041|it'll tell you the hit but not the query.|S|Buw001
+fe016|but i think i think thinking about queries is a little bit dangerous right now.|S|Buw001
+me011|and so you could you can generate a query from the hits.|S|Buw001
+me011|but|F|Buw001
+fe041|right.|B|Buw001
+fe016|we don't even know what|D|Buw001
+fe016|i mean if you want to find out what any user will use that might be true for one domain and one user.|S|Buw001
+me013|uhhuh.|B|Buw001
+fe016|but i mean a different domain and a different user|D|Buw001
+fe008|uhhuh.|B|Buw001
+me013|yeah but we're just looking for a place to start with that.|S|Buw001
+fe016|um|F|Buw001
+me013|because you know what what what james is going to be doing is looking at the user interface.|S|Buw001
+me013|and he's looking at the query in in|D|Buw001
+me013|we we have five hours of pilot data of the other stuff.|S|Buw001
+me013|but we have zero hours of of of queries.|S|Buw001
+me013|so he's just sort of going where where do i where do i start.|S|Buw001
+fe041|well you could do|D|Buw001
+fe041|i think the summaries actually may help get us there.|S|Buw001
+me013|okay.|B|Buw001
+fe041|for a couple reasons.|S|Buw001
+fe041|one if you have a summary if you have a bunch of summaries you can do a word frequency count and see what words come up in different types of meetings.|S|Buw001
+me013|uhhuh.|D|Buw001
+fe041|so action item is going to come up whether it's a v.l.s.i. meeting or speech meeting or whatever.|S|Buw001
+fe041|so words that come up in different types of meetings may be something that you would want to query about.|S|Buw001
+me011|uhhuh.|B|Buw001
+fe041|um the second thing you could possibly do with it is just run a little pilot experiment with somebody saying here's a summary of a meeting what questions might you want to ask about it to go back.|S|Buw001
+me011|yeah i think that's difficult.|S|Buw001
+me011|because then they're not going to ask the questions that are in the summary.|S|Buw001
+fe041|well|D|Buw001
+me011|but i think it would give|D|Buw001
+fe041|that's one one possible scenario though is you have the summary.|S|Buw001
+me011|uhhuh.|B|Buw001
+fe041|and you want to ask questions to get more detail.|S|Buw001
+me011|yeah i think it has to be a participant.|S|Buw001
+me011|well it doesn't have to be.|S|Buw001
+me011|okay so that that is another use of meeting recorder that we haven't really talked about.|S|Buw001
+me011|which is for someone else.|S|Buw001
+me011|as opposed to as a remembrance agent.|S|Buw001
+me011|which is what had been my primary thought in the information retrieval part of it would be.|S|Buw001
+me011|but uh|F|Buw001
+me011|i guess if you had a meeting participant they could use the summary to refresh themselves about the meeting and then make up queries.|S|Buw001
+me011|but it's not|D|Buw001
+me013|uhhuh.|B|Buw001
+me011|i don't know how to do it if until you have a system.|S|Buw001
+fe016|the summary is actually going to drive the queries then.|S|Buw001
+me025|yeah.|B|Buw001
+fe041|huh.|B|Buw001
+fe016|i mean your research is going to be very circular.|S|Buw001
+me011|yeah that that's what i was saying.|S|Buw001
+fe041|yeah.|B|Buw001
+me025|but there is this um there is this class of queries which are the things that you didn't realize were important at the time.|S|Buw001
+me025|but in retrospect you think oh hang on didn't we talk about that.|S|Buw001
+me025|and it's something that didn't appear in the summary but you|D|Buw001
+fe041|uhhuh.|B|Buw001
+me025|and that's kind of what this kind of uh complete data capture is kind of nicest for.|S|Buw001
+fe041|right.|S|Buw001
+fe016|right.|S|Buw001
+me025|because it's the things that you wouldn't have bothered to make an effort to record but they get recorded.|S|Buw001
+fe041|right.|B|Buw001
+me025|so i mean and there's no way of generating those until we just until they actually occur.|S|Buw001
+me025|you know it's like|D|Buw001
+fe016|but you could always post hoc label them.|S|Buw001
+me025|right right exactly.|S|Buw001
+fe016|yeah.|B|Buw001
+me025|but i mean it's difficult to sort of say and if i was going to ask four questions about this what would they be.|S|Buw001
+fe016|yeah.|B|Buw001
+me025|those aren't the kind of things that come up.|S|Buw001
+me011|but at least it would get us started.|S|Buw001
+me025|oh yeah.|S|Buw001
+me025|yeah sure.|S|Buw001
+fe008|i also think that if if you can use the summaries as an indication of the important points of the of the meeting then you might get something like|D|Buw001
+fe008|so if if the obscure item you want to know more about was some form of data collection.|S|Buw001
+fe008|you know maybe the summary would say you know we discussed types of data collection.|S|Buw001
+fe008|and you know and and maybe you could get to it by that.|S|Buw001
+fe008|if you if you had the the larger structure of the of the discourse then if you can categorize what it is that you're looking for with reference to those those larger headings then you can find it.|S|Buw001
+fe008|even if you don't have a direct route to that.|S|Buw001
+me011|huh.|D|Buw001
+fe008|i think that|D|Buw001
+me011|although it seems like that's um a high burden on the note taker.|S|Buw001
+me011|that's a pretty fine grain that the note taker will have to take.|S|Buw001
+fe016|maybe landay can put a student in to be a note taker.|S|Buw001
+fe041|i|D|Buw001
+fe041|no.|S|Buw001
+fe041|i think you got to have somebody who knows the knows the topic or you know whose job it is delegated to be the note taker.|S|Buw001
+fe016|no?|Q|Buw001
+me013|uhhuh.|B|Buw001
+fe041|somebody who's part of the meeting.|S|Buw001
+fe016|no i mean but someone who can come sit in on the meetings and then takes the notes with them that the real note taker|D|Buw001
+me011|but they|D|Buw001
+fe016|and that way that one student has you know a rough idea of what was going on.|S|Buw001
+fe016|and they can use it for their research.|S|Buw001
+fe016|i mean this isn't really necessarily what you would do in a real system.|S|Buw001
+me011|uhhuh.|B|Buw001
+fe016|because that's a lot of trouble.|S|Buw001
+me013|uhhuh.|B|Buw001
+fe016|and maybe it's not the best way to do it.|S|Buw001
+me013|uhhuh.|B|Buw001
+fe016|but if he has some students that want to study that then they should sort of get to know the people and attend those meetings.|S|Buw001
+fe016|and get the notes from the note taker or something.|S|Buw001
+me011|right.|B|Buw001
+me013|huh.|D|Buw001
+me011|well i think that's a little bit of a problem.|S|Buw001
+me011|their sort of note-taking application stuff.|S|Buw001
+me011|they've been doing for the last couple of years.|S|Buw001
+me011|and i don't think anyone is still working on it.|S|Buw001
+me011|i think they're done.|S|Buw001
+me013|yeah.|B|Buw001
+me011|um so i'm not sure that they have anyone currently working on notes.|S|Buw001
+me011|so what we'd have to interest someone in is the combination of note and speech.|S|Buw001
+fe016|uhhuh.|B|Buw001
+me011|and so the question is is there such a person?|Q|Buw001
+me011|and i think right now the answer is no.|S|Buw001
+me013|i've been thinking.|S|Buw001
+me011|we'll just have to see.|S|Buw001
+me013|i've been thinking about it a little bit here about the uh this um|D|Buw001
+me013|i think that the|D|Buw001
+me013|now i'm thinking that the summary a summary uh is actually a reasonable uh bootstrap into this into what we'd like to get at.|S|Buw001
+me013|it's it's not ideal.|S|Buw001
+me013|but we you know we we have to get started someplace.|S|Buw001
+me013|so i was i was just thinking about um suppose we wanted to get|D|Buw001
+me013|we have this collection of meeting.|S|Buw001
+me013|we have five hours of stuff.|S|Buw001
+me013|uh we get that transcribed.|S|Buw001
+me013|so now we have five hours of meetings.|S|Buw001
+me013|and uh you ask me uh uh morgan what you know what kind of questions do you want to ask.|S|Buw001
+me013|uh i wouldn't have any idea what kind of questions i want to ask.|S|Buw001
+me013|i'd have to get started someplace.|S|Buw001
+me013|so in fact if i looked at summary of it i'd go oh yeah i was in that meeting.|S|Buw001
+me013|i remember that.|S|Buw001
+me013|um what was the part that|D|Buw001
+me013|and and i think that might then help me to think of things even things that aren't listed in the summary but just as a as a as a refresh of what the general thing was going on in the meeting.|S|Buw001
+me011|uhhuh.|B|Buw001
+fe041|i think it serves two purposes.|S|Buw001
+fe041|one as sort of a refresh to help bootstrap queries.|S|Buw001
+me013|uhhuh.|B|Buw001
+me013|yeah.|B|Buw001
+fe041|but also i mean maybe we do want to generate summaries.|S|Buw001
+me013|well yeah that's true too.|S|Buw001
+fe041|and then it's you know it's kind of a key.|S|Buw001
+me025|huh.|B|Buw001
+me011|yeah absolutely then you want to have it.|S|Buw001
+fe016|so how does the summary get generated?|Q|Buw001
+fe041|uh|F|Buw001
+fe016|i'm not against the idea of a summary.|S|Buw001
+fe041|well|D|Buw001
+me011|by hand.|S|Buw001
+fe016|but i wanted to think carefully about who's generating it.|S|Buw001
+fe041|or|D|Buw001
+fe016|and how|D|Buw001
+fe016|because the summary will drive the queries.|S|Buw001
+fe016|so|F|Buw001
+fe041|what i i think you know in most meetings.|S|Buw001
+fe041|this one being different.|S|Buw001
+fe041|but in most meetings that i attend there's somebody explicitly taking notes frequently on a laptop.|S|Buw001
+fe041|um you can just make it be on a laptop.|S|Buw001
+fe016|uhhuh.|B|Buw001
+fe041|so then you're dealing with ascii.|S|Buw001
+fe041|and not somebody|D|Buw001
+fe041|you don't have to go through handwriting recognition.|S|Buw001
+fe041|um and then they post edit it into uh a summary.|S|Buw001
+fe041|and they email it out for minutes.|S|Buw001
+fe041|i mean that happens in most meetings.|S|Buw001
+fe008|i i think that um there's we're using summary in two different ways.|S|Buw001
+fe008|so what you just described i would describe as minutes.|S|Buw001
+me011|minutes.|S|Buw001
+me025|yeah.|D|Buw001
+fe041|right.|S|Buw001
+fe008|and what i originally thought was um if you asked someone what was the meeting about|S|Buw001
+fe016|yeah.|S|Buw001
+fe016|okay.|B|Buw001
+fe008|and then they would say well we talked about this.|S|Buw001
+fe041|huh.|B|Buw001
+fe008|and then we talked about that.|S|Buw001
+fe008|and so-and-so talked about.|S|Buw001
+fe008|and then you'd have like|D|Buw001
+fe008|i my thought was to have multiple people summarize it on recording rather than writing.|S|Buw001
+fe008|because writing takes time.|S|Buw001
+fe008|and you get irrelevant other things that take time that|D|Buw001
+fe041|uhhuh.|B|Buw001
+fe008|whereas if you just say it immediately after the meeting|D|Buw001
+fe008|you know a two minute summary of what the meeting was about i think you would get.|S|Buw001
+fe008|uh with|D|Buw001
+fe008|see i i also worry about having a single note taker.|S|Buw001
+fe008|because that's just one person's perception.|S|Buw001
+fe008|and um|F|Buw001
+fe008|you know it it's it's relative to what you're focus was on that meeting.|S|Buw001
+me013|uhhuh.|B|Buw001
+fe008|and and people have different major topics that they're interested in.|S|Buw001
+fe008|so my proposal would be that it may be worth considering both of those types you know the note-taking and a spontaneous oral summary afterwards.|S|Buw001
+fe041|okay.|S|Buw001
+me025|yeah.|B|Buw001
+fe008|no longer than two minutes.|S|Buw001
+me013|adam you can|D|Buw001
+fe008|from multiple people.|S|Buw001
+fe008|yeah.|S|Buw001
+me013|you can correct me on this.|S|Buw001
+me013|but but uh my impression was that uh pretty much uh true that the meetings here nobody sits with a uh with a laptop.|S|Buw001
+me011|never.|S|Buw001
+me013|and|F|Buw001
+me011|never i've never seen it at icsi.|S|Buw001
+me011|does anyone|D|Buw001
+me011|i mean dan is the one who who most frequently would take notes.|S|Buw001
+fe016|dan.|S|Buw001
+me025|yeah.|S|Buw001
+me011|and|F|Buw001
+me025|i've when we when we have other meetings.|S|Buw001
+me025|when i have meetings on the european projects we have someone taking notes.|S|Buw001
+me011|oh really?|Q|Buw001
+me025|in fact i often do it.|S|Buw001
+me013|yeah but those are bigger deal things.|S|Buw001
+me013|right?|Q|Buw001
+me025|yeah.|S|Buw001
+me013|where you've got fifteen|D|Buw001
+me013|i mean most|D|Buw001
+me013|this is one of the larger meetings.|S|Buw001
+me013|most of the meetings we have are four or five people.|S|Buw001
+me011|that's true are four or five people.|S|Buw001
+me013|and you're not you don't have somebody sitting and taking minutes for it.|S|Buw001
+fe041|yeah.|S|Buw001
+me013|you just get together and talk about where you are.|S|Buw001
+fe041|right.|B|Buw001
+fe041|so i think it depends on whether it's a business meeting or a technical discussion.|S|Buw001
+me011|culture.|S|Buw001
+me013|yeah.|B|Buw001
+me013|yeah.|B|Buw001
+fe041|and i agree.|S|Buw001
+fe041|technical discussions you don't usually have somebody taking notes.|S|Buw001
+me013|yeah.|B|Buw001
+me011|the i. ram meeting they they take notes every|D|Buw001
+me013|yeah.|B|Buw001
+me013|do they?|Q|Buw001
+me011|there's uh a person with a laptop at each meeting.|S|Buw001
+me025|how many people are those meetings?|Q|Buw001
+me011|there are more.|S|Buw001
+me011|i mean there are ten-ish.|S|Buw001
+me025|yeah.|S|Buw001
+me013|yeah.|B|Buw001
+fe016|you should also have a record of what's on the board.|S|Buw001
+me011|they're very sparse.|S|Buw001
+fe016|i mean i find it very hard to reconstruct what's going on.|S|Buw001
+fe016|i i don't know how.|S|Buw001
+me011|yeah this is something early in the project we talked a lot about.|S|Buw001
+fe016|i don't know how.|S|Buw001
+fe016|but for instance i mean the outline is sort of up here.|S|Buw001
+fe016|and that's what people are seeing.|S|Buw001
+fe016|and if you have a|D|Buw001
+fe016|or you could tell people not to to use the boards.|S|Buw001
+fe016|but there's sort of this missing information otherwise.|S|Buw001
+fe008|i agree.|S|Buw001
+me025|we we should|D|Buw001
+me011|i agree but but you you just you end up with video.|S|Buw001
+me025|well i don't know.|S|Buw001
+me011|and and instrumented rooms.|S|Buw001
+me011|and that's a different project i think.|S|Buw001
+me025|i think for this data capture it would be nice to have a digital camera.|S|Buw001
+me011|yeah different|D|Buw001
+fe016|uh|D|Buw001
+me025|just to take pictures of who's there.|S|Buw001
+me025|where the microphones are.|S|Buw001
+me025|and then we could also put in what's on the board.|S|Buw001
+me025|you know like three or four snaps for every|D|Buw001
+fe016|right.|B|Buw001
+fe008|i agree.|S|Buw001
+fe016|yeah.|S|Buw001
+fe008|that's wonderful.|S|Buw001
+me025|for every meeting.|S|Buw001
+fe016|people who were never at the meeting will have a very hard time understanding it otherwise.|S|Buw001
+fn043|uhhuh.|B|Buw001
+me011|but don't you think that's|D|Buw001
+fe008|i agree.|S|Buw001
+me011|don't you think that but|D|Buw001
+fn043|uhhuh.|B|Buw001
+me025|well no i mean i i just think i mean i think that right now we don't make a record of where people are sitting on the tables.|S|Buw001
+fe016|even people who were at the meeting.|S|Buw001
+fe041|right.|B|Buw001
+me011|huh.|B|Buw001
+me011|right.|B|Buw001
+me025|and that the at some point that might be awfully useful.|S|Buw001
+me011|but i think adding photographs adds a whole nother level of problems.|S|Buw001
+fe008|uhhuh.|D|Buw001
+fe041|huh.|D|Buw001
+me025|yeah.|B|Buw001
+fe008|it's just a digital record.|S|Buw001
+me025|uh|D|Buw001
+me025|not not as part of the not as a part of the data that you have to recover.|S|Buw001
+fe016|i don't mean that you model it.|S|Buw001
+me025|just just in terms of|D|Buw001
+fe016|we should just|D|Buw001
+fe016|like archiving it or storing it.|S|Buw001
+me025|yeah.|S|Buw001
+fe008|yes i agree.|S|Buw001
+fe008|i agree.|S|Buw001
+fe008|it's because discourse is about things.|S|Buw001
+fe041|uhhuh.|B|Buw001
+fe016|because someone|D|Buw001
+fe008|and then you have the things that are about and it's recoverable.|S|Buw001
+fe016|someone later might be able to take these and say okay they you know at least these are the people who were there.|S|Buw001
+me025|so|F|Buw001
+fe016|and here's sort of what they started talking about.|S|Buw001
+fe016|and|F|Buw001
+fe016|and just|D|Buw001
+fe008|yes.|B|Buw001
+fe008|and it's so simple.|S|Buw001
+fe008|like you said three snapshots.|S|Buw001
+me013|uh|D|Buw001
+fe008|and|F|Buw001
+me013|liz you|D|Buw001
+fe008|just to archive.|S|Buw001
+me013|uh liz you you sat in on the uh subcommittee meeting or whatever|D|Buw001
+me025|actually|D|Buw001
+me013|uh on you on the subcommittee meeting for for at the uh that workshop we were at that uh uh mark liberman was was having.|S|Buw001
+me013|so i i wasn't there.|S|Buw001
+me013|they they they they must have had some discussion about video and the visual aspect and all that.|S|Buw001
+fe016|big big interest.|S|Buw001
+me013|yeah.|S|Buw001
+fe016|huge.|S|Buw001
+fe016|i mean it personally i don't i would never want to deal with it.|S|Buw001
+fe016|but i'm just saying first of all there's a whole bunch of fusion issues that darpa's interested in.|S|Buw001
+me013|yeah.|S|Buw001
+me013|yeah.|B|Buw001
+fe016|you know fusing gesture and face recognition.|S|Buw001
+me013|yeah.|D|Buw001
+fe016|even lip movement and things like that.|S|Buw001
+fe016|for this kind of task.|S|Buw001
+fe016|and there's also i think a personal interest on the part of mark liberman in this kind of in storing these images in any data we collect.|S|Buw001
+me013|uhhuh.|D|Buw001
+fe016|so that later we can do other things with it.|S|Buw001
+me013|yeah.|B|Buw001
+me013|so so to address what what adam's saying|D|Buw001
+fe008|huh.|B|Buw001
+fe008|uhhuh.|B|Buw001
+me013|i mean i think you uh that|D|Buw001
+fe016|and|F|Buw001
+me013|the key thing there is that this is a description of database collection effort that they're talking about doing.|S|Buw001
+me011|uhhuh.|B|Buw001
+me013|and if the database exists and includes some visual information that doesn't mean that an individual researcher is going to make any use of it.|S|Buw001
+me013|right?|Q|Buw001
+fe008|uhhuh.|B|Buw001
+me013|so uh|F|Buw001
+me011|but that it's going to be a lot of effort on our part to create it and store it.|S|Buw001
+me011|and get all the standards and to do anything with it.|S|Buw001
+me013|right.|S|Buw001
+me013|so we're going to|D|Buw001
+me013|so we're going to do what we're going to do.|S|Buw001
+me013|whatever's reasonable for us.|S|Buw001
+me011|yeah.|B|Buw001
+fe016|i think even doing something very crude|D|Buw001
+me013|but having|D|Buw001
+fe016|like i know with atis we just had a tape recorder running all the time.|S|Buw001
+me011|uhhuh.|B|Buw001
+fe016|and later on it turned out it was really good that you had a tape recorder of what was happening.|S|Buw001
+fe016|even though you you just got the speech from the machine.|S|Buw001
+fe016|so if you can find some really you know low uh perplexity|D|Buw001
+me011|low fidelity.|S|Buw001
+me011|yeah.|B|Buw001
+fe016|yeah way of of doing that i think it would be worthwhile.|S|Buw001
+fe008|i agree.|S|Buw001
+fe008|and if it's simple as i mean as simple as just the digital|D|Buw001
+fe016|otherwise you'd you lose it.|S|Buw001
+fe008|yeah.|S|Buw001
+me013|well minimally i mean what what dan is referring to at least having some representation of the the spatial position of the people.|S|Buw001
+me013|because we are interested in some spatial processing.|S|Buw001
+fe008|uhhuh.|S|Buw001
+me013|and so|F|Buw001
+me011|right.|S|Buw001
+fe041|uhhuh.|B|Buw001
+me013|so um|F|Buw001
+me011|well once the room is a little more fixed that's a little easier.|S|Buw001
+me013|yeah.|B|Buw001
+me011|because you'll|D|Buw001
+me011|well the wireless.|S|Buw001
+me013|yeah.|D|Buw001
+me013|yeah.|S|Buw001
+me011|but|F|Buw001
+fe016|also c.m.u. has been doing this.|S|Buw001
+fe016|and they were the most vocal at this meeting.|S|Buw001
+fe016|alex waibel's group.|S|Buw001
+fe016|and they have said i talked to the student who had done this that with two fairly inexpensive cameras they they just recorded all the time.|S|Buw001
+me013|uhhuh.|B|Buw001
+fe016|and were able to get all the information from or maybe it was three from all the parts of the room.|S|Buw001
+fe016|so i think we would be we might lose the chance to use this data for somebody later who wants to do some kind of processing on it if we don't collect it at all.|S|Buw001
+me011|yeah.|S|Buw001
+me011|i i i don't disagree.|S|Buw001
+me011|the problem with it is you'll have more people who don't want to be filmed than who don't want to be recorded.|S|Buw001
+fe008|well she's not making|D|Buw001
+me011|so that there's going to be another group of people who are going to say i won't participate.|S|Buw001
+fn043|huh.|B|Buw001
+fn043|that's true.|S|Buw001
+fe041|uhhuh.|B|Buw001
+fe016|or you could put a paper bag over everybody's head.|S|Buw001
+me011|um|F|Buw001
+fe016|and not look at each other.|S|Buw001
+fe016|and not look at boards.|S|Buw001
+fe016|and just all be sitting talking.|S|Buw001
+me013|uhhuh.|B|Buw001
+fe008|well|D|Buw001
+fe016|that would be an|D|Buw001
+fe008|well there's that'd be the the parallel yeah.|S|Buw001
+me013|great idea.|S|Buw001
+fe008|but i think she's we're just proposing a minimal preservation of things on boards|D|Buw001
+fe016|yeah i definitely won't participate if there's a camera.|S|Buw001
+fe008|spatial organization.|S|Buw001
+fe008|and you could anonymize the faces for that matter.|S|Buw001
+fe008|you know i mean this is|D|Buw001
+fe008|we can talk about the|D|Buw001
+me011|but you know that's a lot of infrastructure and work.|S|Buw001
+fe008|it's just one snapshot.|S|Buw001
+me011|to set it up and then anonymize it.|S|Buw001
+fe016|no it not um|D|Buw001
+fe008|we're not talking about a movie.|S|Buw001
+fe041|no no no no.|S|Buw001
+fe008|we're talking about a snapshot.|S|Buw001
+fe016|not for not for c.m.u.|S|Buw001
+fe041|so|D|Buw001
+me011|uhhuh.|D|Buw001
+fe016|they have a pretty crude set-up.|S|Buw001
+fe008|yeah.|B|Buw001
+me011|uhhuh.|B|Buw001
+fe016|and they had|D|Buw001
+fe016|they just turn on these cameras.|S|Buw001
+fe016|they were they were not moving or anything.|S|Buw001
+me011|couldn't find it?|Q|Buw001
+fe016|and stored it on analog media.|S|Buw001
+me011|huh?|Q|Buw001
+fe008|huh.|B|Buw001
+fe016|and they they didn't actually align it or anything.|S|Buw001
+fe016|they just they have it though.|S|Buw001
+fe008|yeah.|S|Buw001
+fe008|well it's worth considering.|S|Buw001
+fe008|maybe we don't want to spend that much more time discussing it.|S|Buw001
+me022|did they store it digitally?|Q|Buw001
+fe008|but|F|Buw001
+me022|or|D|Buw001
+fe016|huh huh.|S|Buw001
+fe016|i think they just|D|Buw001
+me022|or just put it on videotape?|Q|Buw001
+fe016|i think they just had the videotapes with a you know a counter or something.|S|Buw001
+fe016|um|F|Buw001
+me013|uhhuh.|B|Buw001
+me013|well i think for i mean for our purposes we probably will|D|Buw001
+fe016|i'm not sure.|S|Buw001
+me013|we we might try that some.|S|Buw001
+me013|and and we certainly already have some recordings that don't have that.|S|Buw001
+me013|uh which you know we'll we'll get other value out of i think.|S|Buw001
+fe008|yeah.|B|Buw001
+fe016|yeah.|B|Buw001
+fe008|the thing is if it's easy to collect it it then i think it's a wise thing to do.|S|Buw001
+fe008|because once it's gone it's gone.|S|Buw001
+fe008|and|D|Buw001
+fe016|i'm just the community|D|Buw001
+fe016|if l.d.c. collects this data i mean and l. if mark liberman is a strong proponent of how they collect it and what they collect there will probably be some video data in there.|S|Buw001
+me013|there you go.|S|Buw001
+fe016|and so that could argue for us not doing it.|S|Buw001
+fe016|or it could argue for us doing it.|S|Buw001
+fe016|the only place where it sort of overlaps is when some of the summarization issues are actually could be um easier made easier if you had the video.|S|Buw001
+fe008|uhhuh.|B|Buw001
+me013|i think at the moment we should be determining this on the basis of our own uh interests and needs rather than hypothetical ones from a community thing.|S|Buw001
+me013|as you say if they if they decide it's really critical then they will collect a lot more data than we can afford to.|S|Buw001
+me013|uh and and will include all that.|S|Buw001
+fe016|huh.|B|Buw001
+me013|um|F|Buw001
+me013|i i i'm not worried about the cost of setting it up.|S|Buw001
+me013|i'm worried about the cost of people looking at it.|S|Buw001
+me013|in other words it's it it'd be kind of silly to collect it all and not look at it at all.|S|Buw001
+me013|and so i i i think that we do have to do some picking and choosing of the stuff that we're doing.|S|Buw001
+me013|but i i am i do think that we minimally want something we might want to look at at some some uh subsets of that.|S|Buw001
+me013|like for a meeting like this at least uh take a polaroid of the of the of the boards.|S|Buw001
+fe016|of the board.|S|Buw001
+fe008|yeah.|D|Buw001
+fe016|or at least make sure that the note taker takes a you know a snapshot of the board.|S|Buw001
+fe008|exactly.|D|Buw001
+me013|and|F|Buw001
+me013|and know the position of the people.|S|Buw001
+fe016|that'll make it a lot easier for meetings that are structured.|S|Buw001
+fe008|exactly.|S|Buw001
+fe041|uhhuh.|B|Buw001
+fe016|i mean otherwise later on if nobody wrote this stuff on the board down we'd have a harder time summarizing it or agreeing on a summary.|S|Buw001
+fe008|we and it|D|Buw001
+fe008|especially since this is common knowledge.|S|Buw001
+fe008|i mean this is shared knowledge among all the participants.|S|Buw001
+fe008|and it's a shame to keep it off the recording.|S|Buw001
+me011|uh except in|D|Buw001
+me011|uh if we weren't recording this this this would get lost right?|S|Buw001
+fe008|well i don't understand that point.|S|Buw001
+me013|yeah.|B|Buw001
+fe008|i mean i just think that the|D|Buw001
+me011|the point is that we're not saving it anyway.|S|Buw001
+me011|right?|Q|Buw001
+fe008|well|D|Buw001
+me011|in in our real life setting.|S|Buw001
+fe041|what do you mean we're not saving it anyway?|Q|Buw001
+fe041|i've written all of this down and it's getting emailed to you.|S|Buw001
+fn043|and you're going to send it out by email too.|S|Buw001
+me011|well uh in that case we don't need to take pictures of it.|S|Buw001
+fe016|right that would be the other alternative to make sure that anything that was on the board um is in the record.|S|Buw001
+fe041|yeah.|S|Buw001
+fn043|yeah.|B|Buw001
+fe008|well|D|Buw001
+fe041|well that's why that's why i'm saying that i think the note-taking would be.|S|Buw001
+fe041|i think in many for many meetings there will be some sort of note-taking.|S|Buw001
+fe041|in which case that's a useful thing to have.|S|Buw001
+fe041|uh i mean we uh we don't need to require it.|S|Buw001
+me011|uhhuh.|B|Buw001
+fe041|just like the|D|Buw001
+fe041|i mean i think it would be great if we try to get a picture with every meeting.|S|Buw001
+fe041|um|F|Buw001
+fe008|i agree.|D|Buw001
+fe041|so so we won't worry about requiring these things.|S|Buw001
+fe041|but the more things that we can get it for the more useful it will be for various applications.|S|Buw001
+me013|so|F|Buw001
+fe041|so|F|Buw001
+me013|so i mean departing for the moment from the data collection question but actually talking about you know this group and what we actually want to do.|S|Buw001
+me013|uh so i guess that's the way what you were figuring on doing was was was uh putting together some notes and sending them to to everybody.|S|Buw001
+me013|from from today.|S|Buw001
+me013|okay.|S|Buw001
+me013|so|F|Buw001
+me013|um|F|Buw001
+fe008|that's great.|S|Buw001
+me013|so so the question that that we started with was whether there was anything else we should do during during during the collection.|S|Buw001
+fe016|ow.|D|Buw001
+me013|and i guess the crosspads was certainly one idea.|S|Buw001
+me013|uh and we'll get them from him and we'll just do that.|S|Buw001
+me013|right?|Q|Buw001
+me013|and then the next thing we talked about was the was the summaries.|S|Buw001
+me013|and are we going to do anything about that?|Q|Buw001
+fe041|well before we leave the crosspads and and call it done.|S|Buw001
+me013|oh okay.|S|Buw001
+fe041|so if i'm collecting data then there is this question of do i use crosspads.|D|Buw001
+me013|yeah.|B|Buw001
+fe041|so i think that if we really seriously have me collect data and i can't use crosspads it's probably less useful for you guys to go to the trouble of using it.|S|Buw001
+fe041|um unless you think that the crosspads are going to|D|Buw001
+fe041|i'm not i'm not sure what they're going to do.|S|Buw001
+fe041|but but having a small percentage of the data with it|D|Buw001
+fe041|i'm not sure whether that's useful or not.|S|Buw001
+me013|what|D|Buw001
+fe041|maybe maybe it's no big deal.|S|Buw001
+fe041|maybe we just do it and see what happens.|S|Buw001
+me013|i guess the point was to try again to try to collect more information that could be useful later for for the u.i. stuff.|S|Buw001
+fe041|uhhuh.|B|Buw001
+me013|so it's sort of landay supplying it.|S|Buw001
+me013|so that landay's stuff can be easier to do.|S|Buw001
+fe041|right.|B|Buw001
+me013|so it it right now he's operating from zero.|S|Buw001
+fe041|nothing.|S|Buw001
+me013|and so even if we didn't get it done from u.w. it seems like that would could still you|D|Buw001
+fe041|okay.|S|Buw001
+me013|i mean at least try it.|S|Buw001
+fe016|i think it'd be useful to have a small amount of it just as a proof of concept.|S|Buw001
+me013|yeah.|B|Buw001
+fe016|it will|D|Buw001
+fe041|right.|B|Buw001
+me011|and and they seem to not be able to give enough of them away.|S|Buw001
+fe016|you know what you can do with things.|S|Buw001
+fe041|okay.|S|Buw001
+me011|so we could probably get more as well.|S|Buw001
+fe016|yeah but not not to rely on them for basic modeling.|S|Buw001
+fe041|that's true.|S|Buw001
+fe041|so if it if it seems to be really useful to you guys we could probably get a donation to me.|S|Buw001
+me011|yeah i'm not sure.|S|Buw001
+me011|i think it it will again depend on landay.|S|Buw001
+me011|and if he has a student who's interested.|S|Buw001
+me011|and how much infrastructure we'll need.|S|Buw001
+me011|i mean if it's easy we can just do it.|S|Buw001
+me013|yeah.|B|Buw001
+me011|um but if it requires a lot of our time we probably won't do it.|S|Buw001
+fe041|right.|S|Buw001
+me013|i guess a lot of the stuff we're doing now really is pilot.|S|Buw001
+me013|in one sense or another.|S|Buw001
+me011|yeah yeah we have to sort of figure out what we're going to do.|S|Buw001
+me013|and so we try it out and see how it works.|S|Buw001
+me011|right?|Q|Buw001
+fe041|yeah.|S|Buw001
+fe016|i just wouldn't base any of the modeling on having those.|S|Buw001
+me011|right i i think i agree with that.|S|Buw001
+fe041|right.|S|Buw001
+fe016|yeah.|S|Buw001
+fe016|it's just|D|Buw001
+fe041|right.|S|Buw001
+fe041|okay.|S|Buw001
+me011|i think though the importance marking is a good idea though.|S|Buw001
+me011|that if if people have something in front of them.|S|Buw001
+fe016|i'd be sort of cool.|S|Buw001
+fe016|i mean it would|D|Buw001
+fe016|yeah.|S|Buw001
+fe016|that shouldn't be hard for|D|Buw001
+me011|yeah.|S|Buw001
+me011|do it on pilots or laptops or something.|S|Buw001
+me011|okay if something's important everyone clap.|S|Buw001
+fe041|okay so crosspads we're just going to try it and see what happens.|S|Buw001
+me013|okay.|S|Buw001
+me011|yeah um i think that's right.|S|Buw001
+me013|okay.|S|Buw001
+fe041|okay.|D|Buw001
+fe041|the note-taking|D|Buw001
+fe041|so i i think that this is going to be useful.|S|Buw001
+fe041|so if we record data i will definitely ask for it.|S|Buw001
+fe041|so i i think we should just say this is not we don't want to put any extra burden on people but if they happen to generate minutes could could they send it to us.|S|Buw001
+me011|yeah.|B|Buw001
+me011|oh okay that's fine.|S|Buw001
+me011|absolutely.|S|Buw001
+me013|uhhuh.|B|Buw001
+fn043|uhhuh.|B|Buw001
+fe041|and then|D|Buw001
+me011|yeah what i was going to say is that i don't want to ask people to do something they wouldn't normally do in a meeting.|S|Buw001
+me011|it's i just want to keep away from the artificiality.|S|Buw001
+me011|but i think it definitely|D|Buw001
+me013|uhhuh.|B|Buw001
+me011|if they exist.|S|Buw001
+me011|and then jane's idea of summarization afterward i think is not a bad one.|S|Buw001
+me011|um|F|Buw001
+me011|picking out basically to let you pick out keywords.|S|Buw001
+me011|um and uh construct queries.|S|Buw001
+me013|so who who does this summarization?|Q|Buw001
+fe008|yeah i'm thinking that|D|Buw001
+me011|people in the meeting.|S|Buw001
+fe008|yeah.|B|Buw001
+me011|you know just at at the end of the meeting before you go.|S|Buw001
+fe008|uhhuh.|B|Buw001
+fe016|without hearing each other though probably.|S|Buw001
+me011|go around the table.|S|Buw001
+me025|yeah.|S|Buw001
+me013|yeah.|S|Buw001
+me011|yeah.|S|Buw001
+me022|or even just have one or two people stay behind.|S|Buw001
+me011|ugh.|S|Buw001
+me011|yeah.|S|Buw001
+me013|yeah.|S|Buw001
+me025|people with radio mikes can go into separate rooms and continue recording without hearing each other.|S|Buw001
+me025|that's the nice thing.|S|Buw001
+fe016|well then you should try them a few weeks later.|S|Buw001
+fe008|how fascinating.|S|Buw001
+fe016|and|F|Buw001
+me011|and see score them.|S|Buw001
+fe016|they have all these memory experiments about how little you actually retain.|S|Buw001
+me025|that's right.|S|Buw001
+me025|well that's the interesting thing though.|S|Buw001
+fe016|and wasn't|D|Buw001
+me025|if we do if we collect four different summaries you know we're going to get all this weird data about how people perceive things differently.|S|Buw001
+me011|oh.|D|Buw001
+me011|huh.|D|Buw001
+me025|it's like this is not what we meant to research.|S|Buw001
+fe016|right right.|S|Buw001
+me013|oh.|S|Buw001
+fe008|that could be very interesting.|S|Buw001
+me013|yeah.|B|Buw001
+fe041|uhhuh.|D|Buw001
+me022|huh.|D|Buw001
+fe008|yeah.|B|Buw001
+fe041|but but again like the crosspads i don't think i would base a lot of stuff on it.|S|Buw001
+me011|i|D|Buw001
+me011|yeah i don't know how you would do it though.|S|Buw001
+me011|uhhuh.|B|Buw001
+fe041|because i think i know when i see the the clock coming near the end of the meeting i'm like inching towards the door.|S|Buw001
+me011|running to|D|Buw001
+me011|yeah.|S|Buw001
+me011|fff.|D|Buw001
+fe041|so|F|Buw001
+me025|huh.|B|Buw001
+fe041|you're probably not going to get a lot of people wanting to do this.|S|Buw001
+fe008|well i think if|D|Buw001
+me011|maybe is email easier?|Q|Buw001
+me011|i mean i when you first said do do it um spoken what i was thinking is oh then people have to come up.|S|Buw001
+fe008|uhhuh.|B|Buw001
+me011|and you have to hook them up to the recorder.|S|Buw001
+me011|so if they're already here i think that's good.|S|Buw001
+me011|but if they're not already here for i'd rather do email.|S|Buw001
+fe041|right.|B|Buw001
+fe008|yeah i'd just try well however the least intrusive and and quickest way is.|S|Buw001
+me011|i'm much faster typing than anything else.|S|Buw001
+fe008|and and closest to the meeting time too.|S|Buw001
+fe008|because people will start to forget it as soon as they leave.|S|Buw001
+me011|yeah.|S|Buw001
+fe041|yeah i think that i think doing it orally at the end of the meeting is the best time.|S|Buw001
+me011|i don't know.|S|Buw001
+me011|at|D|Buw001
+fe008|uhhuh.|B|Buw001
+fe041|i just don't|D|Buw001
+fe041|because they're kind of a captive audience.|S|Buw001
+me011|uhhuh.|B|Buw001
+fe041|once they leave.|S|Buw001
+fe041|you know forget it.|S|Buw001
+fe041|but but|D|Buw001
+me011|yeah read the digits.|S|Buw001
+me011|do the summary.|S|Buw001
+fe041|right.|S|Buw001
+fe041|but uh i don't think that they'll necessarily you'll you'll get many people willing to stay.|S|Buw001
+me013|huh.|B|Buw001
+fe041|but you know if you get even one|D|Buw001
+fe008|i would|D|Buw001
+me013|well i think it's like the note-taking thing.|S|Buw001
+fe008|yeah.|B|Buw001
+me013|that that that you can't certainly can't require it.|S|Buw001
+me013|or people aren't going to want to do this.|S|Buw001
+me013|but but if there's some cases where they will then it would be helpful.|S|Buw001
+fe008|and i'm also wondering couldn't that be included in the data sample?|Q|Buw001
+me022|huh.|B|Buw001
+fe008|so that you could increase the you know the words that are uh recognized by a particular individual.|S|Buw001
+fe008|if you could include the person's meeting stuff and also the person's summary stuff maybe that would be uh|D|Buw001
+me025|yeah.|S|Buw001
+fe008|an addition to their database.|S|Buw001
+me025|it's kind of nice.|S|Buw001
+me025|yeah.|S|Buw001
+me013|huh.|B|Buw001
+fe008|under the same acoustic circumstance.|S|Buw001
+fe008|because if they just walk next door with their set-up nothing's changed.|S|Buw001
+me025|right.|S|Buw001
+fe008|just|D|Buw001
+me022|so i have a question about queries.|S|Buw001
+me011|god that's bugging me.|S|Buw001
+me022|which is um|D|Buw001
+fe008|you turn|D|Buw001
+me011|can we turn that light off?|Q|Buw001
+me022|uh|F|Buw001
+me011|if can we turn that just that that let|D|Buw001
+fe008|uh let the record show the light is flickering.|S|Buw001
+me013|the the fluorescent light is flickering.|S|Buw001
+me022|i don't know.|D|Buw001
+fe041|yeah.|B|Buw001
+me011|yeah there's a|D|Buw001
+me013|yeah.|B|Buw001
+fe016|oh it is it is like okay.|S|Buw001
+me011|very annoying.|S|Buw001
+fe041|yeah.|B|Buw001
+me022|there you go.|S|Buw001
+me011|oh much better.|S|Buw001
+me022|okay.|S|Buw001
+fn043|oh yeah.|S|Buw001
+me013|yeah.|S|Buw001
+me022|good.|S|Buw001
+fe041|for a little while i thought it was just that i was really tired.|S|Buw001
+fn043|that's better.|S|Buw001
+me011|too much caffeine.|S|Buw001
+fe041|that and too much caffeine and really tired.|S|Buw001
+fe041|but then i thought no maybe that's real.|S|Buw001
+me013|okay.|S|Buw001
+me022|so|F|Buw001
+me011|i thought it was the projector for a moment.|S|Buw001
+me011|it was like what's going on.|S|Buw001
+me013|yeah.|S|Buw001
+me022|the question i had about queries was um so what we're planning to do is have people look at the summaries and then generate queries?|Q|Buw001
+me011|we we've just been talking how do we generate queries.|S|Buw001
+me022|are are we going to try and|D|Buw001
+me022|yeah.|S|Buw001
+me011|and so that was one suggestion.|S|Buw001
+me022|well i mean|D|Buw001
+me022|so the question i had is is have we given any thought to how we would generate queries automatically given a summary?|Q|Buw001
+me022|i mean i think that's a whole research topic unto itself.|S|Buw001
+me013|huh.|B|Buw001
+me022|so that it may not be a feasible thing.|S|Buw001
+me022|but|F|Buw001
+me025|hello.|S|Buw001
+me025|dan here.|S|Buw001
+me013|yeah.|B|Buw001
+fe016|shouldn't landay and his group be in charge of figuring out how to do this?|Q|Buw001
+fe016|i mean this is an issue that goes a little bit beyond where we are right now.|S|Buw001
+me025|okay.|S|Buw001
+fe016|they're the|D|Buw001
+me025|mari.|S|Buw001
+fe041|yeah?|Q|Buw001
+me025|someone wants to know when you're getting picked up.|S|Buw001
+me025|is someone picking you up?|Q|Buw001
+fe041|um what's our schedule?|Q|Buw001
+me013|well you still wanted to talk with liz.|S|Buw001
+fe041|let's see.|S|Buw001
+fe041|you and i need uh|D|Buw001
+me013|and you and i need|D|Buw001
+fe041|no we did the liz talk.|S|Buw001
+me013|oh oh you already did the liz talk.|S|Buw001
+fe041|yeah.|S|Buw001
+me013|okay.|S|Buw001
+fe041|so so that was the prosody thing.|S|Buw001
+fe016|i don't remember it.|S|Buw001
+fe041|um we need to finish the|D|Buw001
+me013|oh okay.|S|Buw001
+fe041|it's already four fifteen.|S|Buw001
+fe016|i have like no recall memory.|S|Buw001
+me013|yeah.|S|Buw001
+fe041|uh after.|S|Buw001
+fe041|we need to finish this discussion and you.|S|Buw001
+fe041|and i need a little time for wrap up and quad chart.|S|Buw001
+fe041|so|F|Buw001
+me011|and what?|Q|Buw001
+me013|i'm at your disposal.|S|Buw001
+fe041|um|F|Buw001
+me013|so up to you.|S|Buw001
+fe041|um what what's the plan for this discussion?|Q|Buw001
+fe041|we should|D|Buw001
+me013|um i think we should be able to wind up in another half-hour or something.|S|Buw001
+me011|at least yeah.|S|Buw001
+me013|you think?|Q|Buw001
+me011|even if that much.|S|Buw001
+fe041|uh less.|S|Buw001
+me011|less.|S|Buw001
+fe041|yeah.|S|Buw001
+me013|less?|Q|Buw001
+fe041|so i think|D|Buw001
+fe016|it's interesting that he's got like this discussion free.|S|Buw001
+me013|well i mean we still haven't talked about the action items from here and so on.|S|Buw001
+fe041|action|D|Buw001
+fe041|yeah.|S|Buw001
+fe041|yeah.|S|Buw001
+fe041|so|F|Buw001
+fe016|yet it's separate.|S|Buw001
+me013|and|F|Buw001
+fe041|why don't you say five-thirty?|Q|Buw001
+me025|okay five-thirty.|S|Buw001
+fe041|i don't|D|Buw001
+fe041|is that okay?|Q|Buw001
+fe041|we'll probably hit horrible traffic.|S|Buw001
+me025|sounds|D|Buw001
+me025|okay.|S|Buw001
+me025|thanks bye.|S|Buw001
+fe041|that's not a lot of time.|S|Buw001
+me025|that's that.|S|Buw001
+fe041|but|F|Buw001
+me013|yeah.|S|Buw001
+me011|well in answer to is it landay's problem.|S|Buw001
+me011|um he doesn't have a student who's interested right now in doing anything.|S|Buw001
+me011|so he has very little manpower.|S|Buw001
+me011|um there's very little allocated for him.|S|Buw001
+me011|and also he's pretty focused on user interface.|S|Buw001
+me011|so i don't think he wants to do information retrieval.|S|Buw001
+me011|that sort of stuff.|S|Buw001
+me013|yeah well there's going to be these student projects that can do some things.|S|Buw001
+me013|but it can't be yeah very deep.|S|Buw001
+me013|i i actually think that that uh again just as a bootstrap if we do have something like summaries then having the people who are involved in the meetings themselves who are cooperative and willing to do yet more come up with with with queries uh could at least give give landay an idea of the kind of things that people might want to know.|S|Buw001
+me013|i mean|D|Buw001
+me013|right?|Q|Buw001
+me013|if he doesn't know anything about the area and the people are talking about and and uh|D|Buw001
+fe016|but the people will just look at the summaries or the minutes and and sort of back generate the queries.|S|Buw001
+fe016|that's what i'm worried about.|S|Buw001
+fe016|so you might as well just give him the summaries.|S|Buw001
+me013|uhhuh.|B|Buw001
+fe016|and|F|Buw001
+me013|maybe.|S|Buw001
+me022|well i'm not sure i'm not sure that's a solved problem.|S|Buw001
+me011|well but i think|D|Buw001
+me022|right?|Q|Buw001
+fe016|oh okay.|S|Buw001
+me022|of how to how to generate queries from a|D|Buw001
+fe016|how to do this|D|Buw001
+me011|i uh|D|Buw001
+me013|yeah.|B|Buw001
+fe016|from the summary.|S|Buw001
+me022|that was sort of what my question was aimed towards.|S|Buw001
+fe016|so what you want to to do is people who were there who later see uh minutes and put in summary form which is not going to be at the same time as the meeting there's no way that can happen are we going to later go over it|D|Buw001
+fe041|huh.|D|Buw001
+me011|right.|B|Buw001
+me013|right.|B|Buw001
+fe016|and like make up some stuff to which these notes would be an answer.|S|Buw001
+fe016|or or a deeper.|S|Buw001
+fe016|yeah.|S|Buw001
+me011|or or just a memory refresher.|S|Buw001
+fe016|i mean|D|Buw001
+fe016|but that's done off they have to do that off line.|S|Buw001
+me011|yep i agree.|S|Buw001
+fe008|i'm also wondering if we could ask the the people a a question.|S|Buw001
+fe008|which would be what was the most interesting thing you got out of this meeting.|S|Buw001
+fe008|in terms of like informativeness.|S|Buw001
+fe016|that's a good one.|S|Buw001
+fe008|it might be you know that the summary would would not even include what the person thought was the most interesting fact.|S|Buw001
+me013|i would think that would be the most likely thing.|S|Buw001
+fe016|dan doesn't know what sex he is.|S|Buw001
+me025|yeah really.|S|Buw001
+fe041|but actually i would say that's a better thing to ask than have them summarize the meeting.|S|Buw001
+fe008|i think you get two different types of information.|S|Buw001
+fe041|you get two|D|Buw001
+fe041|yeah that's true.|S|Buw001
+me025|yeah.|B|Buw001
+fe008|because you get like the general structure of important points and what the what the meeting was about.|S|Buw001
+me013|hey.|S|Buw001
+me013|yeah.|S|Buw001
+me011|we're still here.|S|Buw001
+fe008|so you get the general structure the important points of what the meeting was about with the summary.|S|Buw001
+fe008|but with the what's the most interesting thing you learned?|Q|Buw001
+fe008|uh so the fact that uh i know that transcriber uses snack is something that i thought was interesting.|S|Buw001
+fe016|going to see the kids.|S|Buw001
+me025|you you can keep it on.|S|Buw001
+fe008|and that and that dan worked on on that.|S|Buw001
+fe008|so i thought that was really|D|Buw001
+fe008|you know.|S|Buw001
+fe008|so i mean you could pick up some of the micro items that wouldn't even occur as major headings.|S|Buw001
+fe041|uhhuh.|B|Buw001
+fe008|but could be very informative.|S|Buw001
+fe041|yeah that's actually a really good idea.|S|Buw001
+fe008|i think it wouldn't be too uh uh cost intensive either.|S|Buw001
+fe008|you know i mean it's like something someone can do pretty easily on the spur of the moment.|S|Buw001
+fn043|are you thinking about just asking one participant or all of them?|Q|Buw001
+me011|as many are willing to do it.|S|Buw001
+fn043|make it a voluntary thing.|S|Buw001
+me025|yeah.|S|Buw001
+me025|because you'll get because you'll get very different answers from everybody right?|S|Buw001
+fn043|and then|D|Buw001
+fn043|yeah that's why i was wondering.|S|Buw001
+me025|so|F|Buw001
+me011|well maybe one thing we could do is for the meetings we've already done|D|Buw001
+me011|i mean i we didn't take minutes and we don't have summaries.|S|Buw001
+me011|but uh people could like listen to them a little bit and generate some queries.|S|Buw001
+fe008|yeah.|S|Buw001
+me011|of course jane doesn't need to.|S|Buw001
+me011|i'm sure you have that meeting memorized by now.|S|Buw001
+me025|yeah.|S|Buw001
+fe041|but actually it would be an easy thing to just go around the room and say what was the most interesting thing you learned.|S|Buw001
+me011|huh.|B|Buw001
+fe008|yeah.|D|Buw001
+fe008|yeah.|D|Buw001
+fe041|for those people willing to stay.|S|Buw001
+fe008|and that i think it would pick up the micro structure the|D|Buw001
+fe008|some some of the little things that would be hidden.|S|Buw001
+fe041|and and that might be something people are willing to stay for.|S|Buw001
+me013|boy i i don't know how we get at this|D|Buw001
+fe008|that would be interesting.|S|Buw001
+me011|or want to get up and leave.|S|Buw001
+fn043|yeah but when you go around the room you might just get the effect that somebody says something.|S|Buw001
+fn043|and then you go around the room and they say yeah me too i agree.|S|Buw001
+me011|me too me too me too.|S|Buw001
+me013|yeah.|S|Buw001
+me025|on the other hand people might try and come up with different ones right?|S|Buw001
+fe041|that's fine.|S|Buw001
+fn043|so|F|Buw001
+me013|well|D|Buw001
+me025|they might say oh i was going to say that one.|S|Buw001
+me011|well|D|Buw001
+me025|but now i have to think of something else.|S|Buw001
+me011|you have the other thing that that they know why we're doing it.|S|Buw001
+me011|we'll i mean we'll we'll be telling them that the reason we're trying to do this is is to generate queries in the future.|S|Buw001
+me011|so try to pick things that other people didn't say.|S|Buw001
+me013|it's going to take some thought.|S|Buw001
+me013|i mean|D|Buw001
+me013|it seemed the kind of uh interest that i had in this thing initially was uh that basically the form that you're doing something else later.|S|Buw001
+fe041|uhhuh.|B|Buw001
+me013|and you want to pick up something from this meeting related to the something else.|S|Buw001
+me013|so it's really the the the list of what's important's in the something else.|S|Buw001
+me025|huh.|B|Buw001
+fe041|right.|S|Buw001
+me013|rather than the|D|Buw001
+me013|and it might be something minor of minor importance to the meeting.|S|Buw001
+me011|right.|S|Buw001
+fn043|uhhuh.|B|Buw001
+me013|uh in fact if if it was really major if it's the thing that really stuck in your head then you might not need to go back and and and check on it even.|S|Buw001
+me013|so it's it's that you're trying to find you're you've now|D|Buw001
+me013|you weren't interested|D|Buw001
+me013|say i i said well i wasn't that much interested in dialogue.|S|Buw001
+me013|i'm more of an acoustics person.|S|Buw001
+me025|right.|B|Buw001
+me013|but but three months from now if for some reason i get really interested in dialogue and i'm well what is what was that part that that that uh mari was saying.|S|Buw001
+me011|yeah like jim bass says add a few lines on dialogue in your next|D|Buw001
+fe041|uh|D|Buw001
+me013|yeah.|B|Buw001
+me013|yeah.|S|Buw001
+fe041|yeah.|B|Buw001
+me013|didn't really stick in my head the first time around.|S|Buw001
+me013|and but for some new reason i'm i'm i'm interested in in in the old stuff.|S|Buw001
+me011|but that that's going to be very hard to generate.|S|Buw001
+me013|so i don't i don't know.|S|Buw001
+fe041|well i that's hard to generate.|S|Buw001
+me022|do we|D|Buw001
+fn043|uhhuh.|B|Buw001
+fe041|and and i think that's half of what i would use it for.|S|Buw001
+fe041|but i also a lot of times um make you know think to myself this is interesting.|S|Buw001
+me013|uhhuh.|B|Buw001
+fe041|i've got to come back and follow up on it.|S|Buw001
+me013|uhhuh.|B|Buw001
+me013|uhhuh.|B|Buw001
+fe041|so things that i think are interesting um i would be uh wanting to do a query about.|S|Buw001
+fe041|and also i like the idea of going around the room.|S|Buw001
+fe041|because if somebody else thought something was interesting i'd kind of want to know about it.|S|Buw001
+fe041|and then i'd want to follow up on it.|S|Buw001
+me025|huh.|D|Buw001
+me013|yeah that that might get at some of what i was|D|Buw001
+me013|i was concerned about uh being interested in something later that uh i didn't consider to be important the first time.|S|Buw001
+me013|which for me is actually the dominant thing.|S|Buw001
+me013|because if i thought it was really important it tends to stick more than if i didn't.|S|Buw001
+me013|but some new task comes along that makes me want to look up.|S|Buw001
+me011|but|D|Buw001
+me011|but what's interesting to me may not have been interesting to you.|S|Buw001
+me013|yeah so having multiple people might get at some of that.|S|Buw001
+me011|by so by going around|D|Buw001
+me011|yeah.|B|Buw001
+me013|yeah.|S|Buw001
+me011|yeah i i think you can't get at all of it.|S|Buw001
+me011|right?|Q|Buw001
+me013|yeah.|S|Buw001
+me011|we just need to start somewhere.|S|Buw001
+me013|yeah and this is a starting point.|S|Buw001
+me022|the question the question then is how much bias do we introduce by you know introduce by saying you know this was important now?|Q|Buw001
+fe008|uhhuh.|B|Buw001
+me022|and you know maybe something else is important later.|S|Buw001
+me013|uhhuh.|B|Buw001
+me022|i mean does it does the bias matter?|Q|Buw001
+me022|i i don't know.|S|Buw001
+me022|i mean uh that's i guess a question for you guys.|S|Buw001
+me022|but|F|Buw001
+fe008|well and and one thing we we're saying important and we're saying interesting.|S|Buw001
+fe008|and and those those can be two different things.|S|Buw001
+me022|uh yeah yeah.|S|Buw001
+me022|sure sure.|S|Buw001
+fe041|uhhuh.|B|Buw001
+me022|but i i i guess that's the question really is that i mean|D|Buw001
+fe008|uhhuh.|B|Buw001
+me022|does building queries based on what's important now introduce an irreversible bias on being able to do what morgan wants to do later?|Q|Buw001
+fe008|okay good.|S|Buw001
+me013|well irreversible.|S|Buw001
+me022|that's that's|D|Buw001
+fe008|yeah.|B|Buw001
+me013|i i i mean i guess what what i i keep coming back to in my own mind is that um the soonest we can do it we need to get up some kind of system.|S|Buw001
+me022|right.|B|Buw001
+me013|so that people who've been involved in the meeting can go back later.|S|Buw001
+me013|even if it's a poor system in some ways.|S|Buw001
+me013|and uh and ask the questions that they actually want to know.|S|Buw001
+me013|if you know if uh as soon as we can get that going at any kind of level then i think we'll have a much better handle on what kind of questions people want to ask than in any anything we do before that.|S|Buw001
+me013|but obviously we have to bootstrap somehow.|S|Buw001
+me022|sure.|S|Buw001
+fe041|right.|S|Buw001
+me013|and|F|Buw001
+fe008|uhhuh.|B|Buw001
+me022|i agree.|S|Buw001
+fe041|right.|S|Buw001
+fe008|i will say that that i i chose interesting.|S|Buw001
+fe008|because i think it includes also important.|S|Buw001
+fe008|in some cases.|S|Buw001
+fe008|but um i i i feel like the summary gets at a different type of information.|S|Buw001
+me022|i think important can often be uninteresting.|S|Buw001
+me025|huh.|B|Buw001
+fe041|huh.|B|Buw001
+fe008|well and and also|D|Buw001
+me011|huh.|B|Buw001
+me025|and interesting is more interesting than important.|S|Buw001
+fe008|it puts a lot of burden on the person to to evaluate.|S|Buw001
+fe008|you know i think interesting is is non threatening in|D|Buw001
+fe041|okay.|F|Buw001
+fe008|yeah.|B|Buw001
+fe041|in the interest of um|D|Buw001
+fe008|yeah.|B|Buw001
+me011|importance?|Q|Buw001
+fe041|generating an interesting summary um|D|Buw001
+fe008|uhhuh.|B|Buw001
+fe008|yeah.|D|Buw001
+fe041|no in the interest of generating some minutes here|D|Buw001
+fe041|uh and also moving on to action items and other things.|S|Buw001
+fe041|let me just go through the things that i wrote down as being important.|S|Buw001
+fe041|um that we at least decided on.|S|Buw001
+fe041|crosspads we were going to try.|S|Buw001
+fe041|um if landay can get the uh get them to to you guys.|S|Buw001
+fe041|um and see if they're interesting.|S|Buw001
+fe041|and if they are then we'll try to get do it more.|S|Buw001
+fe041|um|F|Buw001
+fe041|getting electronic summary from a note-taking person if they happen to do it anyway.|S|Buw001
+me013|uhhuh.|B|Buw001
+fe041|um|F|Buw001
+fe041|getting just uh digital pictures.|S|Buw001
+fe041|a couple digital pictures of the the table and boards to set the context of the meeting.|S|Buw001
+fe041|uh and then going around the room at the end to just say ask people to mention something interesting that they learned.|S|Buw001
+fe041|so rather than say the most interesting thing something interesting.|S|Buw001
+fe008|sure.|B|Buw001
+fe041|and that way you'll get more variety.|S|Buw001
+me013|uhhuh.|B|Buw001
+fe008|that's good.|S|Buw001
+me011|i wouldn't even say that that they learned.|S|Buw001
+fe008|i like that.|S|Buw001
+fe008|i like that.|S|Buw001
+fe041|okay.|S|Buw001
+me025|yeah.|S|Buw001
+me011|uh you might want to mention something that that you brought up.|S|Buw001
+fe041|thing that was discussed.|S|Buw001
+fe041|and then the last thing would be for those people who are willing to stay afterwards and give an oral summary.|S|Buw001
+fe008|uhhuh.|B|Buw001
+fe041|okay?|Q|Buw001
+fe041|does that pretty much cover everything we talked about?|Q|Buw001
+fe008|uhhuh.|B|Buw001
+fe041|that well that we want to do.|S|Buw001
+fe008|and one and one qualification on on the oral summaries.|S|Buw001
+fe008|they'd be they'd be separate.|S|Buw001
+fe008|they wouldn't be hearing each other's summaries.|S|Buw001
+fe041|okay.|S|Buw001
+me011|yeah that's like|D|Buw001
+me011|i think that's going to predominantly end up being whoever takes down the equipment then.|S|Buw001
+fe008|and and that would also be that the data would be included in the database.|S|Buw001
+me011|yeah that would be let's see me.|S|Buw001
+fe041|uhhuh.|S|Buw001
+fe008|uhhuh.|B|Buw001
+me025|i mean there is still this hope that people might actually think of real queries they really want to ask at some point.|S|Buw001
+fe008|okay.|B|Buw001
+me025|and that if if that ever should happen then we should try and write them down.|S|Buw001
+fe008|uhhuh.|D|Buw001
+me013|right.|S|Buw001
+me011|give them a reward.|S|Buw001
+fn043|uhhuh.|B|Buw001
+me011|a dollar a query?|Q|Buw001
+me025|yeah really.|S|Buw001
+me013|yeah.|S|Buw001
+me025|if they're real queries.|S|Buw001
+fe008|yeah.|B|Buw001
+fe041|okay so|F|Buw001
+me013|well and again if we can figure out a way to jimmy a a a a very rough system say in a year then uh so that in the second and third years we we actually have something to.|S|Buw001
+me011|yeah.|B|Buw001
+fe041|play with and generate real queries from.|S|Buw001
+me013|ask queries.|S|Buw001
+me011|yeah.|D|Buw001
+fe041|right.|S|Buw001
+me025|yeah.|B|Buw001
+fe041|okay.|S|Buw001
+me013|uh|F|Buw001
+fe041|so yeah|F|Buw001
+fe016|i think i just wanted to say one thing about queries.|S|Buw001
+fe016|i mean the level of the query could be you know very low level or very high-level.|S|Buw001
+fe016|and it gets fuzzier and fuzzier as you go up right?|S|Buw001
+me011|well we're going to|D|Buw001
+fe016|so you need to have some sort of|D|Buw001
+fe016|if you start working with queries some way of identifying what the|D|Buw001
+fe016|you know if this is something that requires a a one word answer or it's one place in the recording versus was there general agreement on this issue of all the people who|D|Buw001
+me025|huh.|B|Buw001
+fe016|you know you can you can ask queries that are meaningful for people.|S|Buw001
+me011|yep.|D|Buw001
+fe016|in fact they're very meaningful.|S|Buw001
+fe016|because they're very high-level.|S|Buw001
+fe016|but they won't exist anywhere in the you know|D|Buw001
+me011|absolutely so i think we're going to have to start with keywords.|S|Buw001
+fe008|uhhuh.|B|Buw001
+me011|and and if someone becomes more interested we could work our way up.|S|Buw001
+me013|i'm|D|Buw001
+me013|i'm not so sure i agree with that.|S|Buw001
+me011|but|F|Buw001
+fe016|it but it may well|D|Buw001
+me011|really?|Q|Buw001
+me013|because uh because it depends on uh what our goal is.|S|Buw001
+me013|if our goal is wizard of oz-ish|D|Buw001
+me011|oh that's true.|S|Buw001
+me013|we might want to know what is it that people would really like to know about this data.|S|Buw001
+me025|yeah.|B|Buw001
+me013|and if it's if if it's something that we don't know how to do yet great.|S|Buw001
+me025|yeah.|B|Buw001
+fe041|right.|S|Buw001
+me013|that's you know research project for year four or something.|S|Buw001
+me025|research yeah.|S|Buw001
+fe041|uhhuh.|S|Buw001
+me013|you know.|S|Buw001
+fe041|uhhuh.|B|Buw001
+me011|yeah i was thinking about wizard of oz.|S|Buw001
+me011|but it requires the wizard to know all about the meetings.|S|Buw001
+me025|we'd have to listen to all the data.|S|Buw001
+me013|um|F|Buw001
+me013|well not maybe not true wizard of oz.|S|Buw001
+me011|so|F|Buw001
+me011|oh yeah i i understand.|S|Buw001
+me013|because people are too|D|Buw001
+me025|well just imagine if|D|Buw001
+me013|uh aware of what's going on.|S|Buw001
+me013|but but just|D|Buw001
+me025|get people to ask questions that they the machine definitely can't answer at the moment.|S|Buw001
+me011|yep.|S|Buw001
+me025|but|F|Buw001
+me013|yeah.|S|Buw001
+me013|just what would you like to know.|S|Buw001
+me025|yeah.|S|Buw001
+me011|but that neither could anyone else though is what uh my point is.|S|Buw001
+me025|yes.|S|Buw001
+fe008|i was wondering if if there might be one more source of queries.|S|Buw001
+fe008|which is indicator phrases like action item.|S|Buw001
+fe041|okay.|S|Buw001
+fe008|which could be obtained from the text from the transcript.|S|Buw001
+me011|right since we have the transcript.|S|Buw001
+fe008|yeah.|S|Buw001
+me011|dates maybe.|S|Buw001
+me011|i don't know.|S|Buw001
+me011|that's something i always forget.|S|Buw001
+fe008|yeah that's something to be determined something to be specified.|S|Buw001
+fe016|well probably if you have to sit there at the end of a meeting and say one thing you remember it's probably whatever action item was assigned to you.|S|Buw001
+fe008|but text oriented.|S|Buw001
+fe016|i mean in that's all i remember from most meetings.|S|Buw001
+fe008|i think you'd remember that yeah.|S|Buw001
+me011|that that's all i wrote down.|S|Buw001
+fe016|so in general i mean that could be something you could say right?|S|Buw001
+fe016|i'm supposed to do this.|S|Buw001
+fe008|yeah that's true.|S|Buw001
+fe016|it it doesn't|D|Buw001
+fe008|well but then you could you could prompt them to say you know other than your action item|D|Buw001
+fe008|you know whatever.|S|Buw001
+fe008|but but the action item would be a way to get uh maybe an additional query.|S|Buw001
+me025|well|D|Buw001
+fe016|i mean that's realistically what people might well be remembering.|S|Buw001
+fe008|so|F|Buw001
+fe016|so|F|Buw001
+me013|huh.|B|Buw001
+fe008|yeah.|S|Buw001
+fe008|well but you know but you could get again.|S|Buw001
+fe041|well we're piloting.|S|Buw001
+fe041|we'll just do it and see what happens.|S|Buw001
+fe016|yeah.|S|Buw001
+fe016|yeah.|S|Buw001
+fe008|yeah.|D|Buw001
+me013|yeah.|S|Buw001
+me013|i usually don't remember my action items.|S|Buw001
+me013|but i'd i|D|Buw001
+fe041|okay speaking of action items can we move on to action items?|Q|Buw001
+me013|yeah.|B|Buw001
+me013|uhhuh.|B|Buw001
+fe008|yeah yeah.|S|Buw001
+me011|sure can you hand me my note pad?|S|Buw001
+fe041|um|F|Buw001
+fe041|or maybe we should wait until the summary of this until this meeting is transcribed.|S|Buw001
+fe041|and then we will|D|Buw001
+me025|yeah then we'll know.|S|Buw001
+me013|we we had i mean|D|Buw001
+me011|thanks.|S|Buw001
+me013|somewhere up there we had milestones.|S|Buw001
+me013|but i guess did did you get enough milestone uh from the description things?|Q|Buw001
+fe041|i got|D|Buw001
+fe041|yeah in fact why don't you hand me those transparencies so that i remember to take them?|S|Buw001
+fe041|eee|D|Buw001
+me013|okay.|S|Buw001
+fe041|okay.|S|Buw001
+me013|and you know there's obviously detail behind each of those as much as is needed.|S|Buw001
+me013|so you just have to let us know.|S|Buw001
+fe041|okay.|S|Buw001
+fe041|what i have down for action items is we're supposed to find out about our human subject um requirements.|S|Buw001
+fe008|good.|S|Buw001
+me011|yep.|S|Buw001
+fe041|uh|F|Buw001
+fe041|people are supposed to send me u.r.l.'s.|S|Buw001
+fe041|for their for web pages.|S|Buw001
+fe041|to and i'll put together an overall cover.|S|Buw001
+fe041|and you're|D|Buw001
+me025|right we|D|Buw001
+fe041|huh?|Q|Buw001
+me025|we need to look at our web page.|S|Buw001
+me025|and make one that's|D|Buw001
+fe041|and and you also need to look at your web page.|S|Buw001
+me025|that's|D|Buw001
+me011|right.|B|Buw001
+fe041|and clean it up by mid july.|S|Buw001
+me025|p.d.a. free.|S|Buw001
+me025|yeah.|S|Buw001
+fe041|um|F|Buw001
+me013|right.|B|Buw001
+fe041|let's see.|S|Buw001
+fe041|choo choo choo.|S|Buw001
+me011|mailing lists.|S|Buw001
+fe041|we|D|Buw001
+fe041|mailing list.|S|Buw001
+fe041|uh you need to put together a mailing list.|S|Buw001
+me013|three of them.|S|Buw001
+me013|well i mean|D|Buw001
+fe041|uh i think|D|Buw001
+fe041|yeah.|S|Buw001
+me013|uh|F|Buw001
+fe041|um|F|Buw001
+me013|mostly together.|S|Buw001
+fe041|uh i need to email adam or jane.|S|Buw001
+fe041|um about getting the data.|S|Buw001
+fe041|who should i email?|Q|Buw001
+me011|uh how quickly do you want it?|Q|Buw001
+fe041|um|F|Buw001
+me011|my july is really very crowded.|S|Buw001
+me011|and so uh|D|Buw001
+fe041|how about if i just|D|Buw001
+fe041|uh right now all i want|D|Buw001
+fe041|i personally only want text data.|S|Buw001
+fe041|i think the only thing jeff would do anything with right now|D|Buw001
+fe041|but i'm just speaking based on a conversation with him two weeks ago i had in turkey.|S|Buw001
+fe041|but i think all he would want is the digits.|S|Buw001
+fe041|um but i'll just speak for myself.|S|Buw001
+fe041|i'm interested in getting the language model data.|S|Buw001
+fe041|uh so i'm just interested in getting transcriptions.|S|Buw001
+me011|uhhuh.|B|Buw001
+fe008|okay.|S|Buw001
+fe041|so then just email you?|Q|Buw001
+fe008|so|D|Buw001
+fe008|sure sure sure.|S|Buw001
+fe041|okay.|S|Buw001
+fe008|you could email to both of us uh just i mean if you wanted to.|S|Buw001
+me013|uhhuh.|B|Buw001
+fe008|i mean i don't think either of us would mind|D|Buw001
+fe041|okay.|S|Buw001
+fe008|but but in any case i'd be happy to send you the|D|Buw001
+me011|that's right.|S|Buw001
+fe041|and your email is?|Q|Buw001
+fe008|edwards at|D|Buw001
+fe008|icsi.|S|Buw001
+fe041|okay.|S|Buw001
+me011|dot berkeley dot e.d.u. of course.|S|Buw001
+me013|in in our phone call uh before we we uh it turns out the way we're going to send the data is by uh c.d. roms.|S|Buw001
+fe041|and then|D|Buw001
+me013|and uh|F|Buw001
+me013|and then what they're going to do is take the c.d. rom and transfer it to analog tape.|S|Buw001
+me013|and give it to a transcription service uh that will|D|Buw001
+me011|oh is this i.b. m?|S|Buw001
+me013|yeah.|S|Buw001
+fe008|yeah using foot pedals.|S|Buw001
+fe008|and|F|Buw001
+me013|yeah foot foot pedals.|S|Buw001
+me013|and|F|Buw001
+me011|uh so do they how are they going to do the multi channel?|Q|Buw001
+me013|see that's a good question.|S|Buw001
+fe008|yeah they they don't have a way.|S|Buw001
+me011|i thought so.|S|Buw001
+fe008|but they have a verification.|S|Buw001
+me013|no i mean it'll be|D|Buw001
+me011|mix?|Q|Buw001
+me013|probably about like you did.|S|Buw001
+me013|and then there will be some things you know many things that don't work out well.|S|Buw001
+me013|and that'll go back to i.b.m.|S|Buw001
+me013|and they'll they'll uh they run their aligner on it.|S|Buw001
+me013|and it kicks out things that don't work well.|S|Buw001
+me013|which you know the overlaps will certainly be examples of that.|S|Buw001
+me013|and uh|F|Buw001
+me013|i mean what we will give them all of it right?|S|Buw001
+me013|we'll give them all the the multi channel stuff.|S|Buw001
+me011|okay that's uh my question.|S|Buw001
+me011|so we'll give them all sixteen channels.|S|Buw001
+me013|and|D|Buw001
+me011|and they'll do whatever they want with it.|S|Buw001
+me013|yeah.|S|Buw001
+fe016|but you also should probably give them the mixed you know equal sound level.|S|Buw001
+me013|yeah good idea.|S|Buw001
+fe041|uhhuh.|B|Buw001
+fe016|i mean they're not going to easily be able to do that probably.|S|Buw001
+me011|it's not hard.|S|Buw001
+me013|well|D|Buw001
+fe016|uh yeah.|S|Buw001
+me011|so|F|Buw001
+me013|it's also won't be adding much to the data to give them the mixed.|S|Buw001
+me022|but|D|Buw001
+fe016|uhhuh.|B|Buw001
+me022|it's not|D|Buw001
+me011|yep absolutely.|S|Buw001
+me022|right it doesn't it isn't difficult for us to do.|S|Buw001
+fe041|right.|B|Buw001
+fe016|you should|D|Buw001
+me022|so we might as well just do it.|S|Buw001
+me011|absolutely.|S|Buw001
+fe016|yeah.|S|Buw001
+fe016|you should that may be all that they want to send off to their transcribers.|S|Buw001
+me011|so sure.|S|Buw001
+fe041|okay related to to the conversation with picheny.|S|Buw001
+fe041|i need to email him uh my shipping address.|S|Buw001
+fe041|and you need to email them something which you already did.|S|Buw001
+fe008|i did.|S|Buw001
+fe008|i i emailed them the transcriber u.r.l.|S|Buw001
+fe008|um the online uh data that adam set up.|S|Buw001
+fe008|the u.r.l.|S|Buw001
+fe008|so they can click on an utterance and hear it.|S|Buw001
+fe008|and i emailed them the streamlined conventions.|S|Buw001
+fe008|which you got a copy of today.|S|Buw001
+me013|right and i was going to email them the which i haven't yet a pointer to to the web pages that we that we currently have.|S|Buw001
+me013|because in particular they want to see the one with the the way the recording room is set up.|S|Buw001
+fe008|good.|S|Buw001
+me013|and so on your your page on that.|S|Buw001
+fe008|oh excellent good.|S|Buw001
+me011|and then possibly|D|Buw001
+fe008|i c. i c.c.'ed morgan.|S|Buw001
+fe008|i should have sent i should have c.c.'ed you as well.|S|Buw001
+fe041|okay.|S|Buw001
+me011|not an immediate action item but something we do have to worry about is data formats for for higher level information.|S|Buw001
+fe041|okay.|S|Buw001
+me013|oh yeah.|S|Buw001
+me011|well or or not even higher level.|S|Buw001
+me013|we were going to|D|Buw001
+me011|different level prosody and all that sort of stuff.|S|Buw001
+me011|we're going to have to figure out how we're going to annotate that.|S|Buw001
+me013|yeah we|D|Buw001
+fe041|yeah we never had our data format discussion.|S|Buw001
+fe008|oh i thought we did.|S|Buw001
+me013|right.|B|Buw001
+fe008|we discussed uh musical score notation.|S|Buw001
+me011|but that's not that's display.|S|Buw001
+fe008|and|F|Buw001
+fe041|oh okay.|S|Buw001
+fe008|and its x.m.l.|D|Buw001
+me011|that's different than format.|S|Buw001
+fe041|that's|D|Buw001
+fe008|well um|D|Buw001
+fe041|my my feeling right now on format is you guys have been doing all the work.|S|Buw001
+me025|well|D|Buw001
+me025|uh yeah.|B|Buw001
+fe008|yeah.|B|Buw001
+fe041|and whatever you want we're happy to live with.|S|Buw001
+fe008|okay excellent.|S|Buw001
+fe041|um|F|Buw001
+me013|okay.|S|Buw001
+fe041|other people may not agree with that.|S|Buw001
+me013|so what|D|Buw001
+me013|important thing|D|Buw001
+fe008|well it|D|Buw001
+fe041|but because i'm not actually touching the data.|S|Buw001
+me025|right.|D|Buw001
+fe041|so i shouldn't be the one to talk.|S|Buw001
+fe041|but|F|Buw001
+fn043|no i think that's fine.|S|Buw001
+me013|so a key thing will be that you we tell you.|S|Buw001
+fe008|great.|B|Buw001
+fe041|yeah.|S|Buw001
+me013|what it is.|S|Buw001
+me022|here's a mysterious file.|S|Buw001
+me013|uh we also had|D|Buw001
+me022|and|F|Buw001
+me025|yeah.|S|Buw001
+me013|we also had the uh uh that we were uh that you were going to get us the eight hundred number.|S|Buw001
+me013|and we're all going to|D|Buw001
+fe041|oh yeah.|S|Buw001
+me013|we're going to call up your communicator thing.|S|Buw001
+me013|and and we're going to be good slash bad.|S|Buw001
+me013|depending on how you define it uh users.|S|Buw001
+fn043|now something that i mentioned earlier to mari and liz is that it's probably important to get as many non technical and non speech people as possible.|S|Buw001
+fn043|in order to get some realistic users.|S|Buw001
+fn043|so if you could ask other people to call and use our system that'd be good.|S|Buw001
+fn043|because we don't want people who already know how to deal with dialogue systems.|S|Buw001
+fe041|yeah.|S|Buw001
+fn043|who know that|D|Buw001
+fe041|or like if you have a|D|Buw001
+fn043|you shouldn't hyper articulate for instance and things like that.|S|Buw001
+fe041|or like if you have somebody who makes your your plane reservations for you.|S|Buw001
+fn043|so|F|Buw001
+me013|yeah.|S|Buw001
+fe041|um which is|D|Buw001
+me013|yeah we can do that.|S|Buw001
+fe041|the|D|Buw001
+me011|get my parents to do it.|S|Buw001
+fn043|yeah for instance.|S|Buw001
+fe041|yeah yeah seriously.|S|Buw001
+me013|yeah.|B|Buw001
+fn043|your grandmother.|S|Buw001
+me013|huh.|B|Buw001
+fe041|yeah.|B|Buw001
+fe041|you know it could result in some good bloopers.|S|Buw001
+fe041|which is always good for presentations.|S|Buw001
+fe041|so|F|Buw001
+me013|yeah.|B|Buw001
+fe041|um anyway|F|Buw001
+me011|i think my father would last through the second prompt before he hang hung up.|S|Buw001
+me013|my mother would have a very interesting conversation with it.|S|Buw001
+fe041|huh.|B|Buw001
+me011|he would never use it.|S|Buw001
+me013|but it wouldn't have anything to do with the travel.|S|Buw001
+fe041|okay.|F|Buw001
+me013|okay.|B|Buw001
+fe041|um other|D|Buw001
+fe041|let's see.|S|Buw001
+fe041|other action items.|S|Buw001
+fe041|so i have the|D|Buw001
+me013|we talked about that we're getting the recording equipment running at u.w.|S|Buw001
+me013|and so it depends|D|Buw001
+me013|they're you know they're|D|Buw001
+me013|if that comes together within the next month there at least will be uh uh major communications between dan and u.w. folks.|S|Buw001
+me025|yeah.|S|Buw001
+me025|i mean|D|Buw001
+fe041|i'm i'm shooting to try to get it done get it put together by the beginning of august.|S|Buw001
+me013|as to|D|Buw001
+me025|we should talk about it.|S|Buw001
+me025|but|F|Buw001
+fe008|huh.|B|Buw001
+fe041|so um|F|Buw001
+me013|but we have it it's it's pretty|D|Buw001
+fe041|you know|D|Buw001
+me013|we don't know.|S|Buw001
+me013|i mean he he uh he said that it was sitting in some room collecting dust.|S|Buw001
+fe041|we don't know.|S|Buw001
+me013|and and so we don't know|D|Buw001
+fe041|it's probably unlikely that we'll pull this off.|S|Buw001
+fe041|but at least it's worth trying.|S|Buw001
+me011|uhhuh.|B|Buw001
+me011|what is it?|Q|Buw001
+me013|we don't know.|S|Buw001
+me011|oh okay.|S|Buw001
+me013|recording equipment.|S|Buw001
+me025|yeah.|B|Buw001
+me011|it's a tape recorder.|S|Buw001
+me013|we know it's eight channels.|S|Buw001
+me013|uh we know it's digital.|S|Buw001
+me011|it's eight tape recorders.|S|Buw001
+me013|we don't even know if there're microphones.|S|Buw001
+me013|so|F|Buw001
+me013|we'll find out.|S|Buw001
+fe041|okay.|F|Buw001
+fe041|um and i will email these notes.|S|Buw001
+fe041|um i'm not sure what to do about action items for the data stuff.|S|Buw001
+fe041|although then somebody i guess somebody needs to tell landay that you want the pads.|S|Buw001
+me013|yeah okay.|S|Buw001
+me013|i'll do that.|S|Buw001
+fe041|okay.|S|Buw001
+me013|um and he also said something about outside there that came up about the outside text sources that he he may have.|S|Buw001
+me011|uhhuh.|B|Buw001
+fe041|oh.|S|Buw001
+me013|some text sources that are close enough to the sort of thing that we can play with them for a language model.|S|Buw001
+fn043|huh.|B|Buw001
+me025|yeah that was uh that was what he was saying was this he this thing that uh jason had been working on finds web pages that are thematically related to what you're talking about.|S|Buw001
+me025|well that's the idea.|S|Buw001
+me025|so that that that would be a source of text which is supposedly got the right vocabulary.|S|Buw001
+me013|uhhuh.|B|Buw001
+fe041|right.|S|Buw001
+me025|but it's obviously very different material.|S|Buw001
+me025|it's not spoken material for instance.|S|Buw001
+me013|yeah.|S|Buw001
+me025|so|F|Buw001
+me013|but it's it might be|D|Buw001
+fe041|but but that's actually what i want to do.|S|Buw001
+me025|okay.|S|Buw001
+fe041|that's that's what i want to work with.|S|Buw001
+fe041|is is things that the wrong material but the right the right source.|S|Buw001
+me025|yeah.|S|Buw001
+me011|yeah.|B|Buw001
+me025|yeah.|B|Buw001
+me011|unfortunately landay told me that jason is not going to be working on that anymore.|S|Buw001
+fe041|yeah.|B|Buw001
+me011|he's switching to other stuff again.|S|Buw001
+fe041|yeah he seemed when i asked him if he could actually supply data he seemed a little bit more reluctant.|S|Buw001
+fe041|so i'll i'll send him email.|S|Buw001
+fe041|i'll put it in an action item that i send him email about it.|S|Buw001
+fe041|and if i get something great.|S|Buw001
+fe041|if i don't get something|D|Buw001
+me011|who?|Q|Buw001
+me011|landay or jason?|Q|Buw001
+fe041|landay.|S|Buw001
+me011|okay.|S|Buw001
+me013|okay.|S|Buw001
+fe041|and uh um|F|Buw001
+fe041|you know otherwise if you guys have any papers|D|Buw001
+fe041|or|F|Buw001
+fe041|i could i could use uh i could use your web pages.|S|Buw001
+fe041|that's what we could do.|S|Buw001
+fe041|you've got all the web pages on the meeting|D|Buw001
+me013|yeah why search for them?|S|Buw001
+me011|true.|S|Buw001
+me013|they're we know where they are.|S|Buw001
+fe041|yeah!|S|Buw001
+me011|absolutely.|S|Buw001
+me013|yeah that's true.|S|Buw001
+me025|sure.|S|Buw001
+fe041|oh forget this.|S|Buw001
+me011|well but that's not very much.|S|Buw001
+fe041|i one less action item.|S|Buw001
+fe041|i can use what web pages there are out there on meeting recorders.|S|Buw001
+me011|yep.|S|Buw001
+me025|right.|B|Buw001
+me011|i mean that that's|D|Buw001
+me011|yeah basically what his software does is it picks out keywords and does a google-like search.|S|Buw001
+fe041|yeah.|B|Buw001
+me025|yeah.|B|Buw001
+me025|yeah.|B|Buw001
+me013|yeah.|B|Buw001
+me013|so we can we can we can do better than that.|S|Buw001
+me025|we can do that yeah.|S|Buw001
+me011|so you could|D|Buw001
+me011|yeah.|S|Buw001
+me013|yeah.|S|Buw001
+fn043|uhhuh.|B|Buw001
+me013|there's there's some uh carnegie mellon stuff right?|S|Buw001
+me013|on on meeting recording.|S|Buw001
+me011|yep.|S|Buw001
+fe016|and xerox.|S|Buw001
+me013|and|D|Buw001
+fe041|so there's there's icsi xerox.|S|Buw001
+me013|and xerox.|S|Buw001
+fe016|and there's you should look under like intelligent environments.|S|Buw001
+me013|yeah.|B|Buw001
+fe016|smart rooms.|S|Buw001
+me011|um the georgia tech classroom two thousand is a good one.|S|Buw001
+fe016|um|F|Buw001
+fe041|c.m.u.|S|Buw001
+fe016|right and then|D|Buw001
+fe016|right.|S|Buw001
+fe016|there's|D|Buw001
+fe016|that's where i thought you would want to eventually be able to have a board or a camera.|S|Buw001
+fe016|because of all these classroom|D|Buw001
+fe041|uhhuh.|B|Buw001
+me011|well georgia tech did a very elaborate instrumented room.|S|Buw001
+me011|and i want to try to stay away from that.|S|Buw001
+fe016|yeah.|B|Buw001
+fe041|uhhuh.|B|Buw001
+me011|so|F|Buw001
+fe041|okay.|S|Buw001
+fe041|great that solves that problem.|S|Buw001
+fe041|one less action item.|S|Buw001
+fe041|um|F|Buw001
+fe041|okay i think that's good that's that's pretty much all i can think of.|S|Buw001
+fe008|can i ask uh one thing?|Q|Buw001
+fe008|it relates to data data collection.|S|Buw001
+fe008|and i and i'd and we mentioned earlier today this question of|D|Buw001
+fe008|um so|F|Buw001
+fe008|um i i know that from with the near field mikes some of the problems that come with overlapping speech uh are lessened.|S|Buw001
+fe008|but i wonder if uh is that sufficient or should we consider maybe getting some data gathered in such a way that um we would uh have a meeting with less overlap than would otherwise be the case?|Q|Buw001
+fe008|so either by rules of participation or whatever.|S|Buw001
+fe041|oh yeah.|S|Buw001
+fe008|now i mean you know it's true.|S|Buw001
+fe008|i mean we were discussing this earlier.|S|Buw001
+fe008|that depending on the task|D|Buw001
+fe008|so if you've got someone giving a report you're not going to have as much overlap.|S|Buw001
+me022|adam.|S|Buw001
+fe008|but um|F|Buw001
+fe008|uh so we're going to have you know non overlapping samples anyway.|S|Buw001
+fe008|but um in a meeting which would otherwise be highly overlapping is the near field mike enough or should we have some rules of participation for some of our samples to lessen the overlap?|Q|Buw001
+me013|huh.|B|Buw001
+me025|turn off.|D|Buw001
+fe041|i don't think we should have rules of participation.|S|Buw001
+fe041|but i think we should try to get a variety of meetings.|S|Buw001
+fe041|that's something that if we get the the meeting stuff going at u.w. that i probably can do more than you guys.|S|Buw001
+fe008|okay.|S|Buw001
+fe041|because you guys are probably mostly going to get icsi people here.|S|Buw001
+me013|uhhuh.|B|Buw001
+fe041|but we can get anybody in e.e. uh over.|S|Buw001
+fe041|and and possibly also some c.s. people uh over at u.w.|S|Buw001
+fe041|so i think that that there's a good chance we could get more variety.|S|Buw001
+fe008|okay.|B|Buw001
+fe008|just want to be sure there's enough data to|D|Buw001
+fe008|okay good.|S|Buw001
+fe016|they're still going to overlap.|S|Buw001
+fe041|um|F|Buw001
+fe016|but mark and others have said that there's quite a lot of found data from the discourse community that has this characteristic.|S|Buw001
+fe016|and also the political|D|Buw001
+fe016|you know anything that was televised for a third party has the characteristic of not very much overlap.|S|Buw001
+me013|uhhuh.|B|Buw001
+me013|but i think we were saying before also that the natural language group here had less overlap.|S|Buw001
+fe008|uhhuh.|B|Buw001
+fe041|uhhuh.|B|Buw001
+fe016|so|F|Buw001
+me013|so it also depends on the style of the group of people.|S|Buw001
+fe016|like the um dominance relations of the people in the meeting.|S|Buw001
+fe041|right.|S|Buw001
+fe008|uhhuh.|B|Buw001
+fe008|on the task and the task.|S|Buw001
+fe008|it's just|D|Buw001
+fe008|i just wanted to uh|D|Buw001
+me011|uhhuh.|B|Buw001
+me013|yeah.|B|Buw001
+fe008|because you know it is true people can modify the amount of overlap that they do if if they're asked to.|S|Buw001
+me013|yeah.|B|Buw001
+fe008|not not entirely modify it.|S|Buw001
+fe008|but lessen it if if it's desired.|S|Buw001
+fe008|but if if that's sufficient data|D|Buw001
+fe008|i just wanted to be sure that we will not be having a lot of data which can't be processed.|S|Buw001
+fe041|okay.|S|Buw001
+fe041|so i'm just writing here we're not going to try to specify rules of interaction.|S|Buw001
+fe041|but we're going to try to get more variety by using different groups of people.|S|Buw001
+fe008|time.|S|Buw001
+fe041|and different sizes.|S|Buw001
+fe008|fine and i you know i i know that the near near field mikes will take care of also the problems to to a certain degree.|S|Buw001
+fe041|yeah.|B|Buw001
+fe008|i just wanted to be sure.|S|Buw001
+fe041|and then the other thing might be um uh technical versus administrative.|S|Buw001
+fe041|because if i recorded some administrative meetings then that may have less overlap.|S|Buw001
+fe041|because you might have more overlap when you're doing something technical and disagreeing or whatever.|S|Buw001
+fe008|uhhuh.|B|Buw001
+fe008|uhhuh.|B|Buw001
+fe008|well i just as as as a contributary|D|Buw001
+fe008|uh so i i know that in in legal depositions people are are prevented from overlapping.|S|Buw001
+fe008|they'll just say you know you know wait till each person is finished before you say something.|S|Buw001
+fe008|so it is possible to lessen if we wanted to.|S|Buw001
+fe008|but but these other factors are fine.|S|Buw001
+fe008|i just wanted to raise the issue.|S|Buw001
+fe041|well the reason why i didn't want to is why i personally didn't want to is because i wanted it to be as uh unintrusive as|D|Buw001
+fe008|uhhuh.|B|Buw001
+fe008|uhhuh.|B|Buw001
+fe041|as you could be with these things hanging on you.|S|Buw001
+fe008|oh yeah.|S|Buw001
+fe008|yeah i think that's always desired.|S|Buw001
+fe008|i just want to be sure we don't that we're able to process uh you know as much data as we can.|S|Buw001
+fe008|yeah.|B|Buw001
+me013|yeah.|B|Buw001
+me013|did they discuss any of that in the the meeting they had with liberman?|Q|Buw001
+me013|what|D|Buw001
+fe016|uhhuh.|S|Buw001
+me013|what what do they|D|Buw001
+fe016|and there was a big division.|S|Buw001
+fe016|so liberman and others were interested in a lot of found data.|S|Buw001
+me013|yeah.|B|Buw001
+fe016|so there's lots of recordings that|D|Buw001
+me013|yeah.|B|Buw001
+fe016|they're not close talk mike.|S|Buw001
+fe016|but|D|Buw001
+fe016|and and there's lots of television you know stuff on um political debates and things like that.|S|Buw001
+fe016|congressional hearings.|S|Buw001
+fe016|boring stuff like that.|S|Buw001
+fe016|um|F|Buw001
+fe016|and then the c.m.u. folks and i were sort of on the other side in|D|Buw001
+fe016|because they had collected a lot of meetings that were sort of like this.|S|Buw001
+fe016|and said that those are nothing like these meetings.|S|Buw001
+fe016|um so there're really two different kinds of data.|S|Buw001
+fe016|and i guess we just left it as that if there's found data that can be transformed for use in speech recognition easily then of course we would do it.|S|Buw001
+me013|uhhuh.|D|Buw001
+fe016|but newly collected data would would be natural meetings.|S|Buw001
+me013|actually the c.m.u. folk have collected a lot of data.|S|Buw001
+fe016|so|F|Buw001
+me013|is that is that going to be publicly available?|Q|Buw001
+fe016|as far as i know they have not.|S|Buw001
+me013|or|D|Buw001
+me013|okay.|S|Buw001
+fe016|um but|D|Buw001
+me011|it's also it's not it's not near far right?|S|Buw001
+fe016|i'm not sure.|S|Buw001
+fe016|um|F|Buw001
+fe016|if people were interested they could talk to them.|S|Buw001
+fe016|but i i got the feeling there was some politics involved.|S|Buw001
+me011|i think going to add that to one of my action items.|S|Buw001
+fe016|no|D|Buw001
+me013|just to check.|S|Buw001
+me013|yeah we should know what's out there certainly.|S|Buw001
+fe016|i i don't know.|S|Buw001
+me011|yeah.|S|Buw001
+fe016|i mean the|D|Buw001
+me013|yeah.|B|Buw001
+me011|because i had thought they'd only done far field.|S|Buw001
+fe016|i think you need to talk to waibel.|S|Buw001
+fe016|and|F|Buw001
+me011|intelligent room sorts of things.|S|Buw001
+me025|oh really?|Q|Buw001
+me025|it's those guys.|S|Buw001
+me011|i hadn't known that then they'd done any more than that.|S|Buw001
+me013|oh they only did the far field.|S|Buw001
+me011|yeah.|S|Buw001
+me013|i see.|S|Buw001
+fe016|but they had multiple mikes.|S|Buw001
+fe016|and they did do recognition.|S|Buw001
+fe016|and they did do real conversations.|S|Buw001
+fe016|but as far as i know they didn't offer that data to the community at this meeting.|S|Buw001
+me011|uhhuh.|B|Buw001
+fe016|but that could change.|S|Buw001
+fe016|because mark you know mark's really into this.|S|Buw001
+fe016|we should keep in touch with him.|S|Buw001
+me013|yeah.|S|Buw001
+fe008|yeah i think|D|Buw001
+me013|well once we send out|D|Buw001
+me013|i mean we still haven't sent out the first note saying hey this list exists.|S|Buw001
+me013|but but uh once we do that|D|Buw001
+fe041|is that an action item?|Q|Buw001
+me013|yeah it's on i already added that one on my board to do that.|S|Buw001
+me013|so uh|F|Buw001
+me013|uh|F|Buw001
+me013|hopefully everybody here is on that list.|S|Buw001
+me013|we should at least check that everybody here|D|Buw001
+me011|i think everyone here is on the list.|S|Buw001
+me013|yeah.|S|Buw001
+me022|i'm not.|S|Buw001
+me011|i think you are.|S|Buw001
+me013|we haven't sent anything to the list yet.|S|Buw001
+me022|oh.|S|Buw001
+fe008|yeah.|B|Buw001
+me022|okay.|S|Buw001
+me013|we're just compiling the list.|S|Buw001
+me022|i see.|S|Buw001
+me011|i i added a few people who didn't who i knew had to be on it even though they didn't tell me.|S|Buw001
+me025|who specifically ask not to be.|S|Buw001
+me011|like jane for example.|S|Buw001
+me013|uhhuh.|B|Buw001
+me013|yeah.|B|Buw001
+me011|you are on it aren't you?|S|Buw001
+fe008|yeah i am.|S|Buw001
+me013|yeah.|S|Buw001
+fe008|so i uh just just for clarification.|S|Buw001
+fe008|so found data.|S|Buw001
+fe008|they mean like established corpora of linguistics and and other fields right?|S|Buw001
+fe016|what they mean is stuff they don't have to fund to collect.|S|Buw001
+fe008|it sounds like such a|D|Buw001
+fe016|and especially good|D|Buw001
+fe008|yeah okay.|S|Buw001
+fe016|well i mean found has uh also the meaning that's it very natural.|S|Buw001
+fe016|it's things occur without any|D|Buw001
+fe016|you know the these people weren't wearing close talking mikes.|S|Buw001
+fe016|but they were recorded anyway like the congressional hearings and you know for legal purposes or whatever.|S|Buw001
+fe008|okay.|S|Buw001
+fe008|but it includes like standard corpora that have been used for years in linguistics and other fields.|S|Buw001
+fe016|mark's aware of those too.|S|Buw001
+me025|hey look what we found.|S|Buw001
+fe008|okay.|S|Buw001
+fe016|that would be found data.|S|Buw001
+me011|huh.|B|Buw001
+fe008|exactly.|S|Buw001
+fe016|because they found it and it exists.|S|Buw001
+me025|i found this great corpora.|S|Buw001
+me025|yeah.|B|Buw001
+fe016|they didn't have to collect it.|S|Buw001
+me011|psst want to buy a corpora.|S|Buw001
+fe016|of course it's not found in the sense that at the time it was collected for the purpose.|S|Buw001
+fe008|yeah okay okay.|S|Buw001
+fe016|but what he means is that you know mark was really a fan of getting as much data as possible from you know reams and reams of stuff of broadcast stuff.|S|Buw001
+fe008|that's interesting.|S|Buw001
+fe016|web stuff.|S|Buw001
+fe008|uhhuh.|B|Buw001
+fe016|t.v. stuff.|S|Buw001
+fe016|radio stuff.|S|Buw001
+fe016|but he well understands that that's very different than these this type of meeting.|S|Buw001
+me011|it's not the same.|S|Buw001
+fe016|but so what?|Q|Buw001
+fe016|it's still it's interesting for other reasons.|S|Buw001
+fe008|okay.|S|Buw001
+fe008|yeah.|D|Buw001
+fe008|just wanted to know.|S|Buw001
+me013|so seems like we're winding down.|S|Buw001
+me013|right?|Q|Buw001
+fe041|uhhuh.|S|Buw001
+me013|many ways.|S|Buw001
+me025|so we should go go around and|D|Buw001
+fe016|you can tell by the prosody.|S|Buw001
+fe041|yeah.|S|Buw001
+me025|we should go around and say something interesting that happened at the meeting?|Q|Buw001
+fe041|oh.|S|Buw001
+fe041|yes we should do that.|S|Buw001
+fe016|rrrh!|S|Buw001
+me011|now i was already thinking about it.|S|Buw001
+me011|so|F|Buw001
+me013|oh good man!|S|Buw001
+fe016|this is painful task.|S|Buw001
+fn043|huh.|B|Buw001
+me011|so um|F|Buw001
+fe016|i|D|Buw001
+me011|i really liked the idea of|D|Buw001
+me011|what i thought was interesting was the combination of the crosspad and the speech.|S|Buw001
+me011|especially um the interaction of them rather than just note-taking.|S|Buw001
+me011|so can you determine the interesting points by who's writing?|Q|Buw001
+me011|can you do special gestures and so on that that have uh special meaning to the corpora?|Q|Buw001
+me011|i really liked that.|S|Buw001
+fe008|well i i just realized there's another category of interesting things.|S|Buw001
+fe008|which is that um|D|Buw001
+fe008|i i found this discussion very uh this this question of how you get at queries really interesting.|S|Buw001
+fe008|and and the and i and the fact that it's sort of uh nebulous what what that what kind of query it would be.|S|Buw001
+fe008|because it depends on what your purpose is.|S|Buw001
+fe008|so i actually found that whole process of of trying to think of what that would involve to be interesting.|S|Buw001
+fe008|but that's not really a specific fact.|S|Buw001
+fe008|i just sort of thought we we went around a nice discussion of the factors involved there.|S|Buw001
+fe008|which i thought was worthwhile.|S|Buw001
+me025|i had a real revelation about taking pictures.|S|Buw001
+me025|i don't know why.|S|Buw001
+me025|i didn't do this before and i regret it.|S|Buw001
+me025|so that was very interesting for me.|S|Buw001
+fe008|uhhuh.|B|Buw001
+me011|did you take pictures of the boards?|Q|Buw001
+fe008|yeah.|S|Buw001
+me025|not that i|D|Buw001
+me025|the boards aren't really related to this meeting.|S|Buw001
+me025|i mean i will take pictures of them.|S|Buw001
+me025|but|F|Buw001
+fe008|that's a good point.|S|Buw001
+fe041|they're related to this morning's meeting.|S|Buw001
+me025|but|D|Buw001
+fe008|yeah.|B|Buw001
+me011|to the previous meeting that's right.|S|Buw001
+me025|okay.|S|Buw001
+me025|well that's why i'll take pictures of them then.|S|Buw001
+me022|i'm going to pass.|S|Buw001
+me022|because i can't|D|Buw001
+me022|i mean of the jane took my answer.|S|Buw001
+me011|uh.|S|Buw001
+fe008|oh.|S|Buw001
+me022|so|F|Buw001
+me022|um|F|Buw001
+me022|so i'm going to pass for the moment.|S|Buw001
+me022|but come come back to me.|S|Buw001
+me025|for the moment.|S|Buw001
+fe016|pass.|S|Buw001
+fe041|i think i think pass is socially acceptable.|S|Buw001
+fe041|but i will say uh i will actually|D|Buw001
+fe041|uh a spin on different slightly different spin on what you said.|S|Buw001
+fe041|this issue of uh realizing that we could take minutes|D|Buw001
+fe041|and that actually may be a goal.|S|Buw001
+fe041|so that that may be kind of the test in a sense test data.|S|Buw001
+fe041|uh the the template of what we want to test against generating a summary.|S|Buw001
+fe041|so that's an interesting new twist on what we can do with this data.|S|Buw001
+fn043|i agree with jane and eric.|S|Buw001
+fn043|i think the question of how to generate queries automatically was the most interesting question that came up.|S|Buw001
+fn043|and it's something that as you said is a whole research topic in itself.|S|Buw001
+fn043|so i don't think we'll be able to do anything on it.|S|Buw001
+fn043|because we don't have funding on it uh in this project.|S|Buw001
+fn043|but um it's definitely something i would want to do something on.|S|Buw001
+me011|i wonder if work's already been done on it.|S|Buw001
+fe008|like expert systems and stuff?|Q|Buw001
+fe008|or|D|Buw001
+me013|huh.|D|Buw001
+fe008|uhhuh.|B|Buw001
+me013|well being more management lately than than research i think the thing that impressed me most was the people dynamics.|S|Buw001
+me013|and not any of the facts.|S|Buw001
+me013|that is i i really enjoyed hanging out with this group of people today.|S|Buw001
+me013|so that's what really impressed me.|S|Buw001
+me025|how are we going to find that in the data?|Q|Buw001
+me011|well if we had people wearing the wireless mikes all the time|D|Buw001
+me025|oh yeah.|S|Buw001
+me011|yeah i think|D|Buw001
+me022|well i mean one thing you could search for is were people laughing a lot.|S|Buw001
+me022|right?|Q|Buw001
+me025|right.|S|Buw001
+me022|so|F|Buw001
+me025|how happy were they?|Q|Buw001
+me013|yeah.|S|Buw001
+me013|i'd probably search for something like that.|S|Buw001
+me011|that actually has come up a couple times in queries.|S|Buw001
+me011|i was talking to landay.|S|Buw001
+me011|and that was one of his examples.|S|Buw001
+me013|yeah.|B|Buw001
+me013|yeah.|B|Buw001
+me011|when when did people laugh.|S|Buw001
+me025|that's great.|S|Buw001
+me013|find me a funny thing that jeff said.|S|Buw001
+me011|so we need a laugh detector.|S|Buw001
+me013|yeah.|S|Buw001
+me025|yeah.|S|Buw001
+fe041|uhhuh.|B|Buw001
+fe008|yeah.|D|Buw001
+me025|perfect.|S|Buw001
+me011|because that seems to be pretty common.|S|Buw001
+me011|not in the congressional hearings.|S|Buw001
+me022|no.|S|Buw001
+me011|quiet sobbing.|S|Buw001
+me013|so i think we're done.|S|Buw001
+me025|okay.|S|Buw001
+fe041|okay.|S|Buw001
+me011|i think we're done.|S|Buw001
+me022|okay.|S|Buw001
+me025|great.|S|Buw001
+fe041|great.|S|Buw001
+me013|great.|S|Buw001
+fe008|do we need do i need to turn something off here or i do unplug this or|D|Buw001
+me013|now these we turn off.|S|Buw001
+me013|right?|Q|Buw001

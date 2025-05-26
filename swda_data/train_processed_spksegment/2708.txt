@@ -1,0 +1,155 @@
+A|Anyway, what are your, what are your first comments on that pauses and subject?|qw|2708|0
+B|Uh, my first comments on the budget.|b^m|2708|1
+B|I would say there has,|sd|2708|1
+A|What would you start cutting|qw|2708|0
+A|what would be the first thing you'd cut?|qw|2708|0
+A|Defense?|qy^d|2708|0
+B|Surprisingly, no.|nn|2708|1
+B|I would, I would cut the prison systems and let them self-support.|sd|2708|1
+A|Mean private enterprise?|qy|2708|0
+B|Huh?|br|2708|1
+A|Have private enterprise do it?|qy|2708|0
+B|You mean the prisons?|br|2708|1
+A|Uh-huh.|aa|2708|0
+A|They're already talking about it.|sd|2708|0
+A|I mean, they're talking about, uh, having it, uh, as a, you know, business. Uh, to, uh, you know, to, so, the, you know, the government doesn't have to deal with it.|sd|2708|0
+B|I hadn't heard that.|sd|2708|1
+A|But, uh, yeah,|b|2708|0
+A|because I think it's all funded, either state or federally funded|sd|2708|0
+A|so,  or, uh, obviously.|sd|2708|0
+B|Right.|b|2708|1
+A|So, but, uh,  But see they're, they don't have enough, uh, uh, you know, there's, there's not enough room in these prisons and that, and that, uh, to continue funding it.|sd|2708|0
+B|But to me it,|sd|2708|1
+A|They think they need to, maybe have, uh, you know, private, you know, business, private enterprise come in.|sd|2708|0
+A|So,|%|2708|0
+B|Well, see the other way I'm thinking about is they should be self-supporting, like, uh, the prisoners make license plates or farm or small industry inside the prisons. Anything to where they can be self-supporting within themselves.|sv|2708|1
+B|In other words, they're in there for a purpose,|sv|2708|1
+B|put them to work rather than sitting there.|ad|2708|1
+A|Uh-huh.|b|2708|0
+B|It's the same thing like the whole criminal, I shouldn't say criminal, but the whole police department of the United States.|sv|2708|1
+B|I feel the same way.|sd|2708|1
+B|Uh, someone gets picked up for drunk driving,|sv|2708|1
+B|he should put enough in there that goes back into paying for that policeman being out there.|sv|2708|1
+A|Uh-huh.|b|2708|0
+B|So it's self you know, self-defense on that point.|sv|2708|1
+B|Uh, as far as my defense budget, uh, they're cutting it back now, what, twenty-five percent?|qh|2708|1
+B|I wouldn't want to see it cut any more than that.|sd|2708|1
+A|Yeah.|b|2708|0
+B|But again I'd like to see something on the other end back into education. But not in the education we have today.|sd|2708|1
+B|So I'm lost on that one.|sd|2708|1
+B|I would like to be a little more into investigating some of the other countries in the world and their educational problems. And to come up with something a little better than what we've got.|sd|2708|1
+A|Uh-huh.|b|2708|0
+A|Yeah,|b|2708|0
+A|its tough to, to say what, uh, you know, what, uh,|sv|2708|0
+A|as far as this, that good or bad or what.|sv|2708|0
+A|But, uh, I was just talking to somebody else,|sd|2708|0
+A|and all those European countries, they pay all the way through college and stuff like that.|sd|2708|0
+A|They,|%|2708|0
+A|so, uh,|%|2708|0
+B|Well, not so much pay.|ar|2708|1
+B|I'm not trying to see the government put out any more.|sd|2708|1
+A|No.|aa|2708|0
+A|Yeah,|aa|2708|0
+A|I know what you are saying.|sd|2708|0
+A|But I'm just saying that even the differences, uh, is that, you know, some countries pay for students to go to, through college and etcetera.|sd|2708|0
+A|But here, it, you know, it's just up to high school.|sd|2708|0
+B|Yeah.|b|2708|1
+B|But see, we don't even push the fact to the high school kids that there's other means of education out there rather than college. To go either as an apprentice, which they, they do in other countries. Just doing it, which I think would bring the education back up. You know,|sd|2708|1
+A|Uh-huh.|b|2708|0
+B|why not an apprentice out to a, a company and learn from down on the bottom as a wood worker or, you know, just a technician?|qh|2708|1
+B|You can learn on the job. Which, of course, again, which would mean, again,|sv|2708|1
+A|Uh-huh.|b|2708|0
+B|our education budget will go down if this is,|sv|2708|1
+B|in a few years, I mean it's not going to be overnight.|sv|2708|1
+A|Yeah.|b|2708|0
+B|But that would come down.|sv|2708|1
+A|I think the you know, that's one reason, uh, you know, we do have the education is that what it takes for these companies to bring somebody on board. Uh,|sv|2708|0
+A|they're not willing to, you know, to put that, you know, the training for only a certain amount.|sv|2708|0
+A|So, uh, it's, you know, as far as the technical side.|sd|2708|0
+A|But, uh, even like|%|2708|0
+A|one, one of the biggest things now is like paralegals and stuff.|sd|2708|0
+A|I mean they, they're trying to get more people into that field.|sd|2708|0
+A|But they can't just bring somebody in without even having gone to, you know, school in that area before they can work, you know, for a lawyer as a paralegal.|sv|2708|0
+B|Excuse me. I see it being done|sd|2708|1
+B|I know of a friend that works for my lawyer that has had no training whatsoever|sd|2708|1
+B|and she's training her.|sd|2708|1
+A|Uh-huh.|b|2708|0
+A|Well, yeah,|b|2708|0
+A|I, I'm, well I, you know, I'm assuming that it can be done. Uh,|sd|2708|0
+A|my perspective is that, you know, I've been with a couple of big companies now.|sd|2708|0
+A|And it's like they'd, are unwilling to put the time in.|sd|2708|0
+A|You know, they want somebody, you know, when they then, when they bring them off, bring them in, that they have something, you know, a certain amount to contribute.|sd|2708|0
+A|Obviously, there's, uh, you know, there's a lot to learn, uh, after that.|sd|2708|0
+A|But, but, uh, that's true.|sv|2708|0
+A|I'm, I'm sure there's a lot of, uh,|sv|2708|0
+A|you know, businesses are small, you know, small businesses that could, uh.|sd|2708|0
+A|Let me change my channel,|oo_co_cc|2708|0
+A|I've got a cordless phone.|sd|2708|0
+A|Let me see if that clears this up.|oo_co_cc|2708|0
+A|phone Is that better?|qy|2708|0
+B|Yes.|ny|2708|1
+A|Okay.|bk|2708|0
+B|Wow!|ba|2708|1
+A|Yeah,|b|2708|0
+A|it was a cordless phone,|sd|2708|0
+A|and all of a sudden we had a bad, uh, frequency there or something.|sd|2708|0
+A|So we had some interference,|sd|2708|0
+A|so I changed that.|sd|2708|0
+B|Yeah.|b|2708|1
+B|It sounded you were calling from around the world somewhere|sd|2708|1
+A|Anyway, so, uh,|%|2708|0
+B|Well,|%|2708|1
+A|but, uh, you know, I think, uh, they, maybe they need to, uh, help promote that more. Give incentives like, uh, if they do bring somebody on, they will pay some of their costs or give tax breaks or whatever it is, you know, for them to train people,  you know, stuff like that. Programs like that, you know.|sv|2708|0
+B|Uh-huh.|b|2708|1
+A|I don't know, you know, what kind of options they've got.|sd|2708|0
+B|Well, that's something about what Germany's supposed to be doing. Something similar to that right now.|sv|2708|1
+B|And, uh, they have jobs out on, you know, bulletin boards so people know what is open for an apprentices in different fields.|sd|2708|1
+B|But see, that again would cut some of our budget down for education but build up our education with the people. At people, per, at high school level,  which I would like to see. Rather than so many kids getting out of school.|sv|2708|1
+A|Uh-huh.|b|2708|0
+B|They're, they go on the unemployment list before we have turn around. Because they don't have any education.|sv|2708|1
+A|Uh-huh.|b|2708|0
+B|I don't mean college.|sd|2708|1
+B|And I'm for college.|sd|2708|1
+B|But there's a lot of people that don't want their higher education as far as quote, quote college is concerned.|sv|2708|1
+B|They've had it.|sv|2708|1
+A|Yeah.|b|2708|0
+A|I think, I just heard something the other day,|sd|2708|0
+A|it was like only, it was either sixty percent or forty percent, go to college.|sd|2708|0
+A|And then out of that percentage, only so many can get their degree.|sd|2708|0
+B|Uh-huh.|b|2708|1
+A|So, I thought that was interesting.|sd|2708|0
+A|But, uh, you know, most people I knew have gone and got their degree.|sd|2708|0
+A|So,|%|2708|0
+B|Oh, yeah.|aa|2708|1
+B|But there's a lot of them out there that haven't.|sd|2708|1
+A|Yeah.|b|2708|0
+A|Well, I you know, I,  uh, was basic, in a, you know, middle, upper middle class area,|sd|2708|0
+B|That's,|%|2708|1
+A|and yeah,|%|2708|0
+A|so I think, uh, that demographic area there, you know, a lot of them do go on.|sd|2708|0
+A|And they go to college, etcetera.|sd|2708|0
+B|Because you can get just as far as being a journeyman, carpenter or an electrician or plumber or anything else like that. Make as much money|sv|2708|1
+B|and if they enjoy it more, they'll make a happier life for themselves.|sv|2708|1
+A|Yeah.|b|2708|0
+B|Question.|fo_o_fw_"_by_bc|2708|1
+B|You threw that question on me about the deficit,|sd|2708|1
+B|put it on your shoe now.|ad|2708|1
+B|What would you do?|qw|2708|1
+A|Well, as as far as the, you know, the deficit, that's a whole nother, uh, my perception of the budget, you know, the government.|sd|2708|0
+A|And they have so much to spend|sd|2708|0
+A|and there's not enough money to spread around.|sv|2708|0
+A|But the deficit basically is that the trade surplus between the other countries, and that we have more money or you know, more money going out and too many goods coming into this country, you know.|sv|2708|0
+A|And, uh, you know, part of that problem, I think, is still, you know, uh,|sv|2708|0
+A|like Japan still does not let us compete fairly in their country.|sv|2708|0
+A|And, and obviously the, the demand for their goods is quite high here,|sv|2708|0
+A|so they can get their goods in here.|sd|2708|0
+A|And, uh, you know, to start even that out we need to continue to, you know, at least threaten that, you know,|sv|2708|0
+A|we're going to give them higher tariffs, etcetera to raise their prices to, you know, ours.|sv|2708|0
+A|But, uh, it's just that, uh, they're, eh,|sv|2708|0
+A|I think you're, you're going to find that just because the United States, you know, there is such a demand here, the market, you know.|sv|2708|0
+A|And, uh, uh, the you know, money being spent and the goods flow in and we don't sell, you know, we don't, uh, sell products abroad as much as we bring in.|sv|2708|0
+A|So,|%|2708|0
+B|Were you watching,|qy|2708|1
+B|I think, uh,|%|2708|1
+B|one of the news stations. I couldn't even tell you which one I watched. But they had on there, where the, the output from the United States was basically from smaller businesses rather than the larger ones are exporting.|sd|2708|1
+A|Uh-huh.|b|2708|0

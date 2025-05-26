@@ -1,0 +1,268 @@
+A|Okay|fo_o_fw_"_by_bc|2950|0
+A|You want to get a start?|ad|2950|0
+B|Certainly.|aa|2950|1
+B|Uh, the weather here is warm.|sd|2950|1
+A|Uh-huh.|b|2950|0
+B|And it has been sort of raining on and off.|sd|2950|1
+A|Uh-huh.|b|2950|0
+B|And, uh, I am an avid gardener|sd|2950|1
+B|so I measure the rain in our rain gauge on a, on a regular basis.|sd|2950|1
+B|So I can, can avoid wasting money on watering.|sd|2950|1
+A|Oh, great,|ba|2950|0
+A|great.|ba|2950|0
+A|Uh-huh.|b|2950|0
+B|And, uh, but it has been threatening to rain for the last couple of days,|sd|2950|1
+B|and it has not, really. Which is a bit of a disappointment.|sd|2950|1
+B|But it is very warm here, which is typical for this part of the, time of the year.|sd|2950|1
+A|Uh-huh.|b|2950|0
+A|Yeah.|b|2950|0
+B|How about|qo|2950|1
+A|I think you are, I think you are earlier than we are, as a rule, aren't you?|qy|2950|0
+A|Your, your, your growing Summer starts a lot earlier than ours.|qy^d|2950|0
+B|It starts in, uh, March as a rule.|na|2950|1
+A|Uh-huh.|b|2950|0
+A|See that is quite a bit,|sv|2950|0
+A|we are just beginning.|sd|2950|0
+A|People are, have got their gardens in, a lot of them now.|sd|2950|0
+A|We could still have a frost.|sd|2950|0
+B|Really,|bh|2950|1
+B|this late?|qy|2950|1
+A|Uh-huh.|ny|2950|0
+B|Could you have snow?|qy|2950|1
+A|Uh, probably not.|nn|2950|0
+A|But we have had, we have had a frost as late as, as in June.|sd|2950|0
+B|Oh, well, we do not have that problem|sd|2950|1
+A|Early June.|sd|2950|0
+A|So, but we have also had nice weather. An unusually, uh, nice Spring.|sd|2950|0
+A|It is almost like an early Summer for us.|sd|2950|0
+B|Oh, that is nice.|ba|2950|1
+A|Uh-huh.|aa|2950|0
+A|We could use a little more rain, I believe.|sd|2950|0
+B|Uh, well, we will be glad, I will be glad to give you some of ours|sd|2950|1
+A|Uh|b|2950|0
+B|Usually we get it in, in great quantities in April and May.|sd|2950|1
+A|Uh-huh.|b|2950|0
+A|Uh-huh.|b|2950|0
+B|And then it stops for three months.|sd|2950|1
+A|Yeah.|b|2950|0
+A|If it could just be spread out a little bit.|sv|2950|0
+B|Right.|b|2950|1
+A|Uh-huh,|b|2950|0
+A|uh-huh.|b|2950|0
+A|Yeah.|b|2950|0
+A|It has really been nice here, uh,|sd|2950|0
+A|we are supposed to have some rain this weekend,|sd|2950|0
+A|but I don't know if we'll get it or not.|sd|2950|0
+A|A lot of times in our area the weather forecast has missed us.|sd|2950|0
+A|The, the weather they forecast for our area seems to go right past us and misses us. Just by, well not too many miles.|sd|2950|0
+B|Uh-huh.|b|2950|1
+B|Are you in an agricultural area?|qy|2950|1
+A|Yes,|ny|2950|0
+A|uh-huh.|ny|2950|0
+A|We have,|%|2950|0
+B|Well, I know the I know the weather is very important for people who make their living off of, off of the land.|sv|2950|1
+A|Uh-huh,|aa|2950|0
+A|uh-huh.|aa|2950|0
+A|Yeah.|aa|2950|0
+A|We have quite a few farmers.|sd|2950|0
+A|We, we live out in the country.|sd|2950|0
+A|We are on a farm,|sd|2950|0
+A|but we are not a farming person|sd|2950|0
+B|Uh-huh.|b|2950|1
+A|Uh, we have a garden.|sd|2950|0
+B|Uh-huh.|b|2950|1
+A|But, uh, but we are not farmers.|sd|2950|0
+B|Huh.|b|2950|1
+B|Well, you know there are some disadvantages to being down south.|sv|2950|1
+A|Uh-huh.|b|2950|0
+B|And that is, it gets so hot that, you know, a lot of things die during the Summer from the heat.|sv|2950|1
+A|Oh, yeah.|aa|2950|0
+A|They get burnt off.|sv|2950|0
+B|They, they really do,|aa|2950|1
+A|Uh-huh.|b|2950|0
+B|and you have to be very careful to make sure you keep everything watered.|sv|2950|1
+A|Uh-huh.|aa|2950|0
+A|Yeah.|aa|2950|0
+A|Well, and that makes it bad too, because, uh, when more, with water being at a premium.|sv|2950|0
+A|I know our aunt in California,|sd|2950|0
+A|they, they have really been rationed on their water.|sd|2950|0
+A|And it makes it real hard to have a yard or, uh, or anything like that, a their garden, their farms.|sv|2950|0
+A|Their farmers, I guess, are hurting because of that also.|sv|2950|0
+B|Yeah.|aa|2950|1
+B|Well, my parents are now in San Diego,|sd|2950|1
+B|and, and they've got pebbles in their yard because they can't, almost nobody there has, has lawns.|sd|2950|1
+A|Yeah.|b|2950|0
+A|Yeah.|b|2950|0
+A|Well, they are not allowed to water,|sd|2950|0
+A|so what do you do?|qh|2950|0
+B|Yeah.|b|2950|1
+A|Yeah.|b^m|2950|0
+B|Uh, it is very, it is very rough on them|sd|2950|1
+B|so,|%|2950|1
+A|Uh-huh.|b|2950|0
+B|Actually I think, I think it is pretty moderate here in Dallas.|sd|2950|1
+B|Because the, the Summers are extremely hot.|sd|2950|1
+A|Uh-huh.|b|2950|0
+A|But your humidity is different though than ours I think,|sd|2950|0
+A|and it makes a, a bit of a difference, too.|sv|2950|0
+B|Um, what is your humidity like?|qw|2950|1
+A|Oh, I don't know.|no|2950|0
+A|I think our humidity is higher normally than what it is in Texas.|sd|2950|0
+A|I could be wrong.|sd|2950|0
+B|Uh, I do not know what, what it is percentage wise|sd|2950|1
+B|but I,|%|2950|1
+A|I do not know for sure either.|sd|2950|0
+A|But it always seems well, it just felt different like when we were in Texas.|sd|2950|0
+A|It had a different feel to it.|sd|2950|0
+B|Yeah.|b|2950|1
+B|It is, it is drier in Dallas than it is in Houston or San Antonio or even Austin, which is further south.|sd|2950|1
+A|Uh.|b|2950|0
+A|Uh-huh.|b|2950|0
+A|Uh-huh.|b|2950|0
+B|But it is not dry.|sd|2950|1
+B|And, and I have lived here for many years,|sd|2950|1
+B|and I think it has gotten more humid over the years.|sd|2950|1
+B|Where the water is coming from, I don't know.|sd|2950|1
+A|Uh-huh.|b|2950|0
+A|Well, it could be.|sv|2950|0
+A|I know my brother's home has been flooded a couple of times, uh,|sd|2950|0
+B|Oh, does he live near the lake?|qy|2950|1
+A|Well, there is a lake not far|arp_nd|2950|0
+A|but it is more run off from surrounding, you know, areas and that.|sd|2950|0
+B|Uh-huh.|b|2950|1
+B|Uh.|b|2950|1
+A|And, uh, he is just in an area where it is just low enough that it's, you know, it, it collects there.|sd|2950|0
+B|Uh-huh.|b|2950|1
+A|And, uh, he has had a couple of inches in his house several times.|sd|2950|0
+B|That is, that is a problem, uh,|ba|2950|1
+B|they tell you when you are looking for a house or, or, or buying land to build on, to be very careful and check the drainage because, uh, it is, it is deceptive.|sd|2950|1
+A|Uh-huh.|b|2950|0
+A|Uh-huh,|aa|2950|0
+A|uh-huh.|aa|2950|0
+A|Because of that.|^2|2950|0
+A|Uh-huh.|b|2950|0
+B|And, uh, I know exactly what you mean.|sd|2950|1
+A|We are fortunate or, uh, we are on a, where we are we get flooded, it floods below us behind us.|sd|2950|0
+B|Uh-huh.|b|2950|1
+A|But we are, uh, we are high enough that our house itself we never, you know, have had any problem like that.|sd|2950|0
+B|Oh, well, that is fortunate.|ba|2950|1
+A|Yeah.|aa|2950|0
+A|It is an old farm house|sd|2950|0
+A|and, uh, we really like it here.|sd|2950|0
+B|Uh-huh.|b|2950|1
+B|Well, I, I like it, I like it here.|sd|2950|1
+B|Uh, I, I grew up here.|sd|2950|1
+B|I have lived other places|sd|2950|1
+B|and, and, but I, I did grow up here|sd|2950|1
+A|Uh-huh.|b|2950|0
+B|and this is very much home for me.|sd|2950|1
+A|Uh-huh.|b|2950|0
+B|And,|%|2950|1
+A|It is nice down there.|sv|2950|0
+A|I, I, I liked it when we visited there.|sd|2950|0
+B|I hope you visited during the winter.|qy^d|2950|1
+A|Uh-huh.|ny|2950|0
+B|One of my, one of my theories is that you always go to warm places during the winter|sv|2950|1
+B|and you go to cold, cool places, that, well, I go to cool places during the Summer if I can anyway.|sv|2950|1
+A|Right.|b|2950|0
+A|Right.|aa|2950|0
+A|That is the best time to go.|aa|2950|0
+A|Yeah.|%|2950|0
+A|and usually it has been when we have gone, it has been nice.|sd|2950|0
+A|It has been hot,|sd|2950|0
+A|but it is, it is hot to me in the wintertime down there.|sd|2950|0
+B|Oh, sure.|b|2950|1
+B|I mean|%|2950|1
+A|You know|qh|2950|0
+A|But it is nice,|sv|2950|0
+A|it is a, it is really a nice area.|sv|2950|0
+B|I, I had a friend from England visit once at Christmas,|sd|2950|1
+B|and we could not get her out of the what she called the English back garden. Because she wanted to go back with a sunburn.|sd|2950|1
+A|Oh, really?|bh|2950|0
+A|Oh.|b|2950|0
+B|And she went back to the north of England with a sunburn|sd|2950|1
+A|Oh, good heavens|ba|2950|0
+A|Not me|sd|2950|0
+A|I avoid the sun|sd|2950|0
+B|Well, yeah,|b|2950|1
+B|basically I do, too.|sd|2950|1
+A|Yeah,|b|2950|0
+A|it takes me about four and a half hours to do, to mow our grass.|sd|2950|0
+A|And I try to cover up when I do the lawn|sd|2950|0
+B|Well, I, that, that is really healthier, frankly.|sv|2950|1
+A|Yeah,|aa|2950|0
+A|well, I have had a little, a couple of problems|sd|2950|0
+A|and, uh, I decided it is not worth it.|sd|2950|0
+B|Uh-huh.|b|2950|1
+B|That,|%|2950|1
+A|I, I like to get tan in the Summer time because I think you look healthier.|sv|2950|0
+A|And, uh, we are just crazy|sv|2950|0
+B|But you, you know, it is interesting because you get out in that sun an awful lot.|sv|2950|1
+B|Now my sister is a, a sun fiend.|sd|2950|1
+A|Uh-huh.|b|2950|0
+B|And, uh, she is five years younger than me,|sd|2950|1
+B|she is more wrinkled.|sd|2950|1
+A|Is that right?|bh|2950|0
+B|Yeah,|ny|2950|1
+A|It, it just makes your skin more leathery.|sv|2950|0
+B|and I think that is why.|sv|2950|1
+A|It, uh, it,|%|2950|0
+B|Exactly.|aa|2950|1
+A|yeah.|%|2950|0
+A|So,|%|2950|0
+B|I think it burns off the,|sv|2950|1
+B|I don't know the, the, the theory, the scientific principle.|sd|2950|1
+B|But it burns something off, the natural oils or something like that.|sd|2950|1
+A|Uh-huh.|b|2950|0
+A|Well, the elasticity of your skin, the collagen or whatever they call it.|sd|2950|0
+A|They say it destroys a lot of that.|sd|2950|0
+B|Yes.|aa|2950|1
+A|And you lose a lot of that.|sd|2950|0
+A|So, uh,|%|2950|0
+B|Yes,|aa|2950|1
+B|uh, that sounds like a good, that sounds like the right theory.|ba|2950|1
+A|Yeah,|b|2950|0
+A|but, uh, but we have really had nice,|sd|2950|0
+A|the weather,|sd|2950|0
+A|I can't complain.|sd|2950|0
+A|We have really had really good weather of late.|sd|2950|0
+B|Good.|ba|2950|1
+A|And when it has rained, it it's been a good soaking rain|sd|2950|0
+A|and, uh, it has just been a really nice Spring.|sd|2950|0
+B|Well, that is great.|ba|2950|1
+B|It has been, it has been very nice here too.|sd|2950|1
+B|And I hope it continues because my parents are coming to visit this evening|sd|2950|1
+B|and I want them to have nice weather for their visit instead of driving around in the rain.|sd|2950|1
+A|Oh.|b|2950|0
+A|Oh, that is great.|ba|2950|0
+A|How long will they be there?|qw|2950|0
+B|Uh, probably four or five days.|sd|2950|1
+A|Uh-huh.|b|2950|0
+A|Well, that is great.|ba|2950|0
+A|Well, I hope the weather stays real good for them. And, and, uh, that you have a good visit and everything.|sd|2950|0
+B|Well, thank you|ft|2950|1
+B|Thanks.|ft|2950|1
+A|And I hope your garden does good.|sd|2950|0
+B|Yeah.|b|2950|1
+B|And the same to you.|sd|2950|1
+A|And, so. Okay.|b|2950|0
+A|Well, it was really nice talking to you.|fc|2950|0
+B|A pleasure.|fc|2950|1
+A|And, uh, good luck in your, this venture.|fc|2950|0
+A|It is, uh, like I said,|fc|2950|0
+A|it has been real interesting.|fc|2950|0
+A|So I hope you enjoy it as much as I have been enjoying it|fc|2950|0
+B|I am sure I will.|fc|2950|1
+B|In, in fact, if I had not been preparing for this, the out of town visitors, I probably would have been making some phone calls in the last couple of days.|fc|2950|1
+A|Yeah,|fc|2950|0
+A|I forget to.|fc|2950|0
+A|The day goes by,|fc|2950|0
+A|and I forget to make a call usually.|fc|2950|0
+B|Well, I am glad you have broken the ice with me because now, I will, I will start doing it|fc|2950|1
+A|Great,|fc|2950|0
+A|great.|fc|2950|0
+B|Okay.|fc|2950|1
+A|Okay.|fc|2950|0
+B|Well, thanks, Jean.|fc|2950|1
+A|Uh. Bye-bye.|fc|2950|0
+B|Bye-bye.|fc|2950|1

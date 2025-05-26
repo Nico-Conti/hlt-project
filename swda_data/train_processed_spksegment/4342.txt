@@ -1,0 +1,109 @@
+A|So how do you, uh,|qw|4342|0
+A|so, so, it sounds like you've got a television going on there,|sd|4342|0
+A|so I can assume that you probably watch the T V news.|sd|4342|0
+A|Is that,|%|4342|0
+B|I almost never watch T V news.|sd|4342|1
+A|Really?|bh|4342|0
+A|Wow.|ba|4342|0
+A|I ,|%|4342|0
+B|I get most of my news driving back and forth to work listening to the radio.|sd|4342|1
+A|Uh, what, what station do you listen to?|qw|4342|0
+B|Uh, it's a local radio station.|sd|4342|1
+B|It's called, uh, K L I F, cliff.|sd|4342|1
+A|Cliff, I see,|b^m|4342|0
+A|so, uh, it's not affiliated with anything, is it.|qy|4342|0
+A|Not it's not a network station.|qy^d|4342|0
+B|No.|nn|4342|1
+B|No.|nn|4342|1
+A|Okay,|bk|4342|0
+A|yeah,|b|4342|0
+A|because I, I listen to, uh, public radio a lot|sd|4342|0
+A|and they have, they have K C R W, which I, I, I saw a thing recently, they may be trying to start their own, uh, cable TV outlet, I guess.|sd|4342|0
+A|They're getting a little, getting a little feisty now|sd|4342|0
+B|Well, this has, this station has a lot of just ongoing news|sd|4342|1
+A|Uh,|%|4342|0
+B|and occasionally in the morning, I'll pick up something like, uh, C N N or that,|sd|4342|1
+B|but I hate watching the, like, ten o'clock news|sd|4342|1
+B|or,|%|4342|1
+A|Yeah,|b|4342|0
+A|so you have a paper or something or,|qy^d|4342|0
+B|Yeah,|ny|4342|1
+B|we have a well, we have, uh, DALLAS MORNING NEWS which is the big paper in Dallas.|sd|4342|1
+A|Uh-huh.|b|4342|0
+B|We read, I read it pretty much from cover to cover.|sd|4342|1
+A|Yeah.|b|4342|0
+A|How do you like it?|qw|4342|0
+A|It's been, it's been a while since I read the Dallas news.|sd|4342|0
+A|I, uh, fact, last time I read the Dallas, Dallas news I was in Arkansas.|sd|4342|0
+A|I, uh ,|%|4342|0
+B|The TIMES HERALD went out of business here|sd|4342|1
+A|Oh, yeah?|bh|4342|0
+B|and so we really only have one Dallas newspaper and one, Fort Worth newspaper.|sd|4342|1
+A|Well, that must be pretty bad.|sv|4342|0
+A|So, how did that happen, anyway?|qw|4342|0
+B|Uh, financial trouble.|sd|4342|1
+A|No,|ar|4342|0
+A|not how,|ar|4342|0
+A|I mean, when did it, when did they ,|qw|4342|0
+B|Oh, when did it happen?|br|4342|1
+A|Yeah.|aa|4342|0
+B|I guess they closed down about three months ago.|sd|4342|1
+A|Oh, really.|b|4342|0
+A|Um.|%|4342|0
+B|So, how do you keep up?|qw|4342|1
+A|Oh, me, I, uh, good grief, I read the TIMES, LOS ANGELES TIMES.|sd|4342|0
+A|There's, quite a task if you've ever run into one.|sd|4342|0
+A|They're, uh|%|4342|0
+B|Yes, they're very voluminous.|aa|4342|1
+A|Yeah,|aa|4342|0
+A|they're thick.|bf|4342|0
+A|Uh, if there's something you want to know, it's, it's in the TIMES and then, and in detail. *repair bracketing wrong|sv|4342|0
+A|Uh, they, uh, we, we used to have two papers here in town|sd|4342|0
+A|and then the HERALD EXAMINER collapsed about two years ago because of, oh, I don't know, just nobody was buying it really.|sd|4342|0
+B|So there really is only one major L A now?|qy^d|4342|1
+A|Yeah,|ny|4342|0
+A|pretty much.|sd|4342|0
+A|Uh, there used to be, fact, I think there still is, the, uh, the DAILY NEWS which runs out of the San Fernando Valley|sd|4342|0
+A|and, uh, they're not bad as far as a, uh, you know, as far as a local paper goes.|sd|4342|0
+A|In fact, it was kind of weird, because I met the, uh, I met the, I met the editor, uh, while I was on, uh, while I was doing jury service in Santa Monica one time|sd|4342|0
+A|It was like we just sat around and talk about newspapers and stuff.|sd|4342|0
+A|He was a really cool guy. Uh, you know, went to Columbia University and all this stuff.|sd|4342|0
+A|And, uh it's, it's a pretty good paper,|sd|4342|0
+A|but, uh, you know, it's not, it's not the TIMES.|sd|4342|0
+B|Yeah.|b|4342|1
+A|Although I, you know, I'm sorry to see some of their, uh,|sd|4342|0
+A|there's, there's a daily news, uh, news rack right around the corner from where I live, which means that they're, they're expanding, I guess.|sd|4342|0
+A|But, uh, and occasionally I, I pick up like TIME magazine or something I think, uh, if they've got an interesting lead story,|sd|4342|0
+A|but you know, it's,|%|4342|0
+A|I, I don't have time.|sd|4342|0
+B|I used to read TIME magazine a lot,|sd|4342|1
+B|but I don't read it much anymore.|sd|4342|1
+A|Yeah,|b|4342|0
+A|that's, that's kind of a problem for them.|sv|4342|0
+A|There's a lot of people who fall into that, category.|sv|4342|0
+B|And then we have a local rag here in town that I pick up periodically and read just to see what's going on in our little community. Because we don't get an awful lot of coverage in the DALLAS MORNING NEWS.|sd|4342|1
+A|Uh-huh.|b|4342|0
+A|I see.|bk|4342|0
+A|Yeah,|b|4342|0
+A|the big dailies don't like to, don't like to step much out of their, uh, out of their home turf,|sv|4342|0
+A|I have to admit, the TIMES is kind of provincial, too.|sv|4342|0
+A|It's basically anything that's south of downtown, they don't bother to cover.|sv|4342|0
+B|Now, they have started here running a three day, or three times a week Plano section.|sd|4342|1
+A|Uh-huh.|b|4342|0
+B|And it's just sort of a, you know, four or five pages that covers what's going on in Plano.|sd|4342|1
+B|But it's still not an awful lot of news.|sd|4342|1
+A|Yeah,|aa|4342|0
+A|I know.|sd|4342|0
+A|I, uh, it was, it was a big discovery when, when the TIMES, when the TIMES found out there was a place called Orange County|sd|4342|0
+A|I mean, the way they, I mean, the way they've been handling it before, they practically, they practically acted like their reporters needed to shots to go south of the L A county border|sd|4342|0
+B|Oh, I would imagine in, uh, you know, in, in Dallas they have plenty happening in Dallas to cover, that it gets hard covering all of the suburbs|sd|4342|1
+B|and, of course, they tend to cover the county,|sd|4342|1
+B|and we're not in Dallas county,|sd|4342|1
+B|so they tend to ignore places outside of the county.|sd|4342|1
+A|Oh, really?|bh|4342|0
+A|Yeah,|b|4342|0
+A|yeah,|b|4342|0
+A|I, I, I find that attitude kind of arrogant, though.|sd|4342|0
+A|It's like you're taking our money,|sd|4342|0
+A|but you're not bothering to cover the things that are interesting to us.|^q|4342|0
+B|Yeah.|b|4342|1

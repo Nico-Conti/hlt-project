@@ -1,0 +1,208 @@
+B|Okay.|fo_o_fw_"_by_bc|2934
+B|How's the weather been out there?|qw|2934
+A|Well, the last three days it's been pretty rainy.|sd|2934
+A|We went to the beach|sd|2934
+B|Uh-huh.|b|2934
+A|and, uh, it started, uh, let's see, around four o'clock,|sd|2934
+A|and, uh, it had thunder and lightning,|sd|2934
+A|it was, and then, you know, it was just overcast and rainy for, uh, the next two or three days straight.|sd|2934
+A|How about yours?|qo|2934
+B|It's pretty normal for this year, you know, uh,|sd|2934
+B|they have tornados about once a week,|sd|2934
+B|and it rains about every three days.|sd|2934
+B|The last two years before, they've had record rainfall.|sd|2934
+B|By this time of the year they'd had enough rainfall for the whole year,|sd|2934
+B|but this time we're only, um, I think, maybe five inches ahead of, of, uh, normal.|sd|2934
+A|Uh-huh.|b|2934
+B|So it's not been bad at all.|sd|2934
+A|You're from Virginia?|qy^d|2934
+B|I'm from Texas.|ng|2934
+A|Oh, from Texas.|bk|2934
+B|Uh-huh.|ny|2934
+B|And, uh|%|2934
+A|I heard they had some flooding down there.|sd|2934
+B|Um, they had some flooding in Houston the other day, real, real bad over, I think it was over the weekend.|sd|2934
+A|Uh-huh.|b|2934
+A|Um.|b|2934
+B|The radar just looked nasty with a bunch of red splotches all across it.|sd|2934
+A|Uh-huh.|b|2934
+A|Well, the last couple of years, we're, um, we're over as far as our rainfall goes.|sd|2934
+A|Before that it was really dry,|sd|2934
+A|and, uh, everybody was, you know, talking about rationing water and doing this and doing that.|sd|2934
+A|Not really rationing water, but just cutting down.|sd|2934
+B|that's, that's right.|aa|2934
+A|And, uh, it seems like, uh, you know, the weather pattern is just shifting, and, uh, that, uh, jet stream is moving, uh, into our area, North Carolina and across,|sd|2934
+B|There|%|2934
+A|but it's, uh, changing latitude.|sd|2934
+B|Uh-huh,|b|2934
+B|so you get a lot more rain that way.|bf|2934
+A|Oh, yeah.|aa|2934
+B|Uh-huh.|b|2934
+B|Brings in that cold air|sd|2934
+B|and mixes it with the, with the warm air coming off the Atlantic Ocean.|sd|2934
+A|Uh-huh.|b|2934
+B|That's what,|%|2934
+A|It's finally cleared up.|sd|2934
+A|It's just now still a little overcast,|sd|2934
+A|but the but the sun has finally started popping out.|sd|2934
+B|Uh-huh.|b|2934
+B|Is the temperature like sixties to eighties there too,|qy|2934
+B|or,|%|2934
+A|Oh yeah,|ny|2934
+A|well, right now, as a matter of fact I'm fixing to go play tennis.|sd|2934
+A|It's, um, I'd say it's at least seventy-nine, eighty, well, about seventy-eight, seventy-nine degrees.|sd|2934
+B|Um, do you get east winds a lot of the time from the ocean|qy|2934
+B|or,|%|2934
+A|Um, actually the, uh, the wind normally blows, let's see, let me think about this, south, southwest.|arp_nd|2934
+B|Uh-huh.|b|2934
+A|Yeah,|b|2934
+A|uh, but but actually our, I guess our weather pattern comes from the, uh, blows north east,|ar|2934
+A|yeah|%|2934
+B|Uh-huh.|b|2934
+A|you're right,|sd|2934
+A|it blows north east.|sd|2934
+B|That's the way it does here most of the time.|sd|2934
+A|Uh-huh.|b|2934
+B|But, uh, sometimes it just comes straight from the north|sd|2934
+B|and then it, and then it doesn't veer off to the east until you get down to Houston, or, or, uh, maybe mid, mid-Texas|sd|2934
+A|Uh-huh.|b|2934
+B|depends on how strong the cold fronts are.|sd|2934
+A|How how far are you from Houston?|qw|2934
+B|Um, well, uh, Richardson's a suburb of Dallas.|sd|2934
+A|Oh, I see,|bk|2934
+A|so you, so you don't you don't get anything off the Gulf, uh, immediately from, from the ocean.|qy^d|2934
+B|Hardly ever, unless there's a hurricane or something like that.|ng|2934
+A|Uh-huh.|b|2934
+B|Well, uh, it's kind of early|%|2934
+B|I was going to say, the weather man on, on, uh, one of our stations was talking about the way that the weather's doing now is like tropical weather,|sd|2934
+B|and he was afraid if it kept doing that, that they'd have early hurricanes this year.|sd|2934
+A|Um. Well, we've had some, you know, pretty, pretty rough winds.|sd|2934
+A|Oh, uh, Bangladesh, boy, they, they caught it bad|sv|2934
+B|Yeah.|aa|2934
+B|Kind of wiped them|sv|2934
+A|But we'll probably have our share of the hurricanes.|sv|2934
+A|I know, uh, Hurricane Hugo,|sd|2934
+A|you probably heard about that.|qy^d|2934
+B|Uh-huh.|ny|2934
+A|Uh, last year.|sd|2934
+B|Wiped everything out.|sv|2934
+A|Yeah,|aa|2934
+A|and they're still, uh, rebuilding from that storm,|sd|2934
+A|and so the, the beaches here just get really beat up|sd|2934
+A|and it usually comes this way|sd|2934
+B|Yeah.|b|2934
+A|It comes up from, uh, Miami uh, down around, or, you know, around the Bahamas,|sd|2934
+B|Uh-huh.|b|2934
+A|and it usually travels, uh, northwest,|sd|2934
+A|and, uh, it'll go up the coast quite a ways before it finally hits.|sd|2934
+B|Do do you get many tornados this time of year|qy|2934
+B|or,|%|2934
+A|Um, let's see,|^h|2934
+A|two years ago we had one,|sd|2934
+A|as a matter of fact it went within a mile of my house.|sd|2934
+B|Um.|b|2934
+A|And, um, it was real odd.|sd|2934
+A|The barometric pressure drops during a tornado,|sd|2934
+A|and our, uh, fire alarm went off.|sd|2934
+B|Huh.|b|2934
+A|So of course that woke everybody up,|sd|2934
+A|and we knew what was going on, to, uh, you know, go downstairs or go into the bathroom and, uh, take cover.|sd|2934
+B|Right.|b|2934
+A|But, uh, we get, uh,|%|2934
+A|yeah,|ny|2934
+A|we're, we're, uh, we get our share of tornados.|sd|2934
+B|Uh-huh.|b|2934
+B|And, uh, the, uh, uh,|%|2934
+B|you, you aren't in the mountains or anything like that, are you?|qy|2934
+A|No,|nn|2934
+A|huh-uh.|nn|2934
+B|There's just there's just hills.|qy^d|2934
+A|We're about two hours from the beach.|sd|2934
+B|Uh-huh.|b|2934
+A|So, uh, you know, it's, uh, barometric pressure I believe is higher in the mountains,|sd|2934
+A|and we we catch some winds, you know, a few winds coming off of them, I think.|sd|2934
+B|Uh-huh.|b|2934
+A|But, uh, let's see,|^h|2934
+A|you all just had a tornado, uh, over close to Oklahoma and Texas?|qy|2934
+B|Yeah,|ny|2934
+B|they, they had a lot of them.|sd|2934
+B|They had a, a huge one that was on, um, INSIDE EDITION the other night, in, uh, the southern part of Kansas.|sd|2934
+A|Uh-huh.|b|2934
+B|Um, they took a bunch of film of it.|sd|2934
+B|It, uh, kind of chased them.|sd|2934
+B|It was a few hundred yards away|sd|2934
+B|and it chased them under an underpass,|sd|2934
+B|and it was tossing around the car right before it got there,|sd|2934
+A|Oh, gosh.|ba|2934
+B|and it tore up the people inside the car.|sd|2934
+A|Oh, did it?|bh|2934
+B|And the the camera man on the news crew held the camera out,|sd|2934
+B|they were hiding underneath the underpass,|sd|2934
+B|and he held the camera out as the tornado went by.|sd|2934
+A|Um.|b|2934
+B|And the, the wind, you know, it had a mike on it,|sd|2934
+B|and the wind and everything was incredible.|sd|2934
+A|Um. Boy I would have like to have heard that.|sd|2934
+A|That would have been something.|sv|2934
+B|I'm surprised they didn't, they, because we saw it on the news a couple of days in a row|sd|2934
+B|and that, and you know, and that was way up in Kansas.|sd|2934
+A|Uh-huh.|b|2934
+B|But over here, it's a lot, it's a big thing about tornados and people that get pictures of them.|sd|2934
+A|Uh-huh.|b|2934
+A|I used to live in Amarillo originally.|sd|2934
+B|Yeah|b|2934
+A|So I'm,|%|2934
+B|you can really see them well there.|qy^d|2934
+A|Oh yeah.|ny|2934
+A|We used to sit out, uh, especially in Borger, we use to sit out on our back, uh, picnic table and watch them come out of the sky through the funnel clouds|sd|2934
+B|Yeah.|b|2934
+A|and the only time we got worried is if it hit the ground.|sd|2934
+A|But otherwise we'd just sit back there and watch them go in and out of those clouds.|sd|2934
+B|It's really strange the way it does that.|sv|2934
+A|Yeah.|b|2934
+B|Especially the way it starts.|sv|2934
+B|It starts, you know, just like a little swirl in the clouds,|sd|2934
+B|and, and, uh, then it just grows from there.|sd|2934
+A|Yeah.|b|2934
+B|And it, and, and usually it's not even raining when it starts.|sd|2934
+B|It's just.|%|2934
+A|Yeah,|aa|2934
+A|you'd be amazed at how clear the sky was,|sd|2934
+A|but the clouds are just really, uh, uh, rolling kind of just real pillowy, I guess.|sd|2934
+B|Uh-huh.|b|2934
+B|That's right,|aa|2934
+B|and they're black,|sd|2934
+B|and sometimes they're even green colored.|sd|2934
+A|Oh, well I was in that, uh, big tornado went through Wichita Falls.|sd|2934
+B|Oh, yeah.|b|2934
+A|And, uh, the sky,|%|2934
+A|I mean, we were right in the middle of it, when, I mean, signs and telephone poles were dropping all around us.|sd|2934
+B|Uh-huh.|b|2934
+A|And a whole roof of a restaurant came off.|sd|2934
+A|And, uh, it was a eerie, uh, a real eerie blue-green color.|sd|2934
+B|Yeah.|b|2934
+A|And the lightning was almost continuous, just, uh, you know, as if you put your hand on one of those electric, uh, things that causes lightning.|sd|2934
+B|Uh-huh.|b|2934
+A|Uh, I think it was called the storm.|sd|2934
+B|Yeah,|aa|2934
+B|that's it.|aa|2934
+A|But, um, the the whole sky was full of that eerie blue-green, uh, lightning.|sd|2934
+B|Wow.|ba|2934
+B|And that's about, that's what we get this time of year, just, all the way, sometimes all the way through June,|sd|2934
+B|the last, especially the last two years, it's rained, uh, what, I think it rained nine inches in, in one, one of the Junes the last two years.|sd|2934
+A|Um.|b|2934
+B|And this year,|%|2934
+B|we usually get about five inches in May,|sd|2934
+B|and it's, it's over that.|sd|2934
+A|Uh-huh.|b|2934
+A|We haven't got that much rain,|sd|2934
+A|but, uh, when it rains, it's, it's been downpouring.|sd|2934
+B|Uh-huh.|b|2934
+B|All right,|b|2934
+B|well I hope you have good weather the rest of the summer.|fc|2934
+A|You, too.|fc|2934
+B|Have fun playing tennis.|fc|2934
+A|Okay,|fc|2934
+A|thanks.|fc|2934
+B|Bye-bye.|fc|2934
+A|Bye.|fc|2934

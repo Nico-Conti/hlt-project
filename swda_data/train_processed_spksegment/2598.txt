@@ -1,0 +1,358 @@
+B|Do you want to start?|qy|2598|0
+A|Yeah,|aa|2598|1
+A|I'm trying to think what I've seen lately.|^h|2598|1
+A|I|%|2598|1
+A|well we just finished watching, uh, TEENAGE MUTANT NINJA TURTLES on tape, you know|sd|2598|1
+B|Did you watch DANCES WITH WOLVES,|qy|2598|0
+B|did you see the movie?|qy|2598|0
+A|Yeah,|ny|2598|1
+A|we, we've seen that,|sd|2598|1
+A|yeah.|ny|2598|1
+B|Did you like it?|qy|2598|0
+A|Yeah,|ny|2598|1
+A|it was great,|sd|2598|1
+A|have you seen it?|qy|2598|1
+B|I thought it was very well done.|sv|2598|0
+A|Yeah,|b|2598|1
+A|I, um,|%|2598|1
+B|How about GHOST?|qo|2598|0
+A|We, we saw, an, we liked it|sd|2598|1
+A|but, you know, I didn't think it was as good as all the, uh, hype was about it.|sv|2598|1
+B|Right,|b|2598|0
+B|I feel the same way about that too.|sd|2598|0
+B|It was okay.|sv|2598|0
+A|Yeah,|b|2598|1
+A|I|%|2598|1
+A|I, I couldn't see it worth getting a nomination for, uh, best picture.|sv|2598|1
+B|No,|aa|2598|0
+B|no.|aa|2598|0
+B|And, uh,|%|2598|0
+B|let's see, uh,|^h|2598|0
+B|the most recent ones that I've seen are those two, GHOST and, uh, DANCES WITH WOLVES,|sd|2598|0
+B|but I rent, uh, uh, videos,|sd|2598|0
+B|do you?|qy|2598|0
+A|Yeah,|ny|2598|1
+A|yeah,|ny|2598|1
+A|and so we just,|%|2598|1
+B|You, you watch many?|qy|2598|0
+A|Uh, it depends, um, you know, it depends on|no|2598|1
+B|Do you like the classics like, uh, GONE WITH THE WIND and, uh, you know the older movies.|qy^d|2598|0
+A|I'd like to see those,|na|2598|1
+A|I keep, you know, um, you know, there's like three movies that I, I keep telling myself that I should see one of these, you know, some day that I haven't seen, you know, that, that are classics, you know.|sd|2598|1
+A|Because I've never seen CITIZEN KANE,|sd|2598|1
+B|Yeah,|b|2598|0
+B|that was good.|sv|2598|0
+A|and never seen, I've never seen CASABLANCA and never seen GONE WITH THE WIND.|sd|2598|1
+B|I think I've seen most of Humphrey Bogart's movies, but, in, in, you know a long time ago,|sd|2598|0
+A|Uh-huh.|b|2598|1
+B|and, uh, like the MALTESE FALCON and all those, uh, uh,|sd|2598|0
+A|Oh, I, I|%|2598|1
+A|we saw part of THE AFRICAN QUEEN on, on T V a couple of years ago,|sd|2598|1
+B|Yeah,|b|2598|0
+B|that was good,|sv|2598|0
+B|yeah.|b|2598|0
+A|and I've, I've I've been wanting to see all of it|sd|2598|1
+A|but we just, you know, we walk into the video store|sd|2598|1
+A|and we're like well why don't we go see this now|sd|2598|1
+A|so.|%|2598|1
+B|Yeah,|b|2598|0
+B|yeah,|b|2598|0
+B|it's true.|ba|2598|0
+A|But, um, I|%|2598|1
+A|one of the movies we saw recently, we saw, uh, MISERY.|sd|2598|1
+B|Oh, I didn't see that one.|sd|2598|0
+A|That was good, um,|sv|2598|1
+B|Really.|b|2598|0
+A|oh, it was great.|sv|2598|1
+A|And it,|%|2598|1
+A|you think, you know, for a Stephen, you know, it because it was by Stephen King it would be really gory|sv|2598|1
+A|but there's only one,|sd|2598|1
+A|well there's a couple scenes, at, at the end there's, there is, you know some blood and everything|sd|2598|1
+A|and there's one really bad scene where it's, I mean, there's not blood but it's pretty graphic|sd|2598|1
+B|Yeah.|b|2598|0
+A|But it's, um, it's a really good movie, um.|sv|2598|1
+B|Really,|b|2598|0
+B|is that the one where, uh, the guy gets captured by that women?|qy|2598|0
+A|Yeah,|ny|2598|1
+A|yeah,|ny|2598|1
+B|Okay,|bk|2598|0
+B|yeah.|b|2598|0
+A|he's a writer|sd|2598|1
+A|and, um, she's his biggest fan|sd|2598|1
+A|and she's also  a little, a little on the nutso side.|sd|2598|1
+B|Yeah,|b|2598|0
+B|right.|b|2598|0
+B|Uh-huh.|b|2598|0
+B|Did you see PACIFIC HEIGHTS?|qy|2598|0
+A|No,|nn|2598|1
+A|we haven't, um,|sd|2598|1
+B|I saw that one,|sd|2598|0
+B|that one wasn't that great either.|sv|2598|0
+A|Oh, it wasn't?|bh|2598|1
+B|Well I didn't think so,|ng|2598|0
+B|no.|nn|2598|0
+A|I, I got,|%|2598|1
+A|I heard like mixed reviews, um, of that,|sd|2598|1
+A|we|%|2598|1
+B|How about SILENCE OF THE LAMBS?|qo|2598|0
+A|That's, that's on our list of things to see|sd|2598|1
+B|I know,|ba|2598|0
+B|I, I wanted to see,|sd|2598|0
+B|I, I was curious if you had seen it|sd|2598|0
+B|and that, uh,|%|2598|0
+A|our big thing is, um,|sd|2598|1
+A|you know, movie prices up here|sd|2598|1
+A|I think it's like six bucks now in the theaters,|sd|2598|1
+B|Yeah.|b|2598|0
+A|you know. So it's like,|%|2598|1
+A|you know, a lot of things we try to catch like at the dollar theater or matinees|sd|2598|1
+A|and then a lot of other stuff we just wait until it comes out on tape.|sd|2598|1
+B|That's us too,|sd|2598|0
+B|yeah,|aa|2598|0
+B|yeah|aa|2598|0
+B|true.|ba|2598|0
+B|I know, it's too bad that they've gotten so expensive.|sv|2598|0
+A|well one movie we saw in the last couple of months that we really enjoyed was, uh, EDWARD SCISSORHANDS.|sd|2598|1
+B|Oh, really.|b|2598|0
+A|Yeah,|ny|2598|1
+A|have you seen that?|qy|2598|1
+B|No.|nn|2598|0
+A|Oh, it was great|sv|2598|1
+B|Really.|b|2598|0
+A|Yeah|ny|2598|1
+A|it was,|sv|2598|1
+B|I thought it was kind of maybe for kids more, than|sd|2598|0
+A|No,|ar|2598|1
+A|no,|ar|2598|1
+A|it's, um, it's an odd film|sd|2598|1
+A|and it's really interesting that,|sd|2598|1
+A|I like the director a lot, um, a guy named Tim Burton.|sd|2598|1
+B|Uh-huh.|b|2598|0
+A|Did you ever see the movie BEETLEJUICE?|qy|2598|1
+B|Uh, part of it,|na|2598|0
+B|I,  I never really watched the whole thing.|sd|2598|0
+A|Oh,|bk|2598|1
+A|Oh,|bk|2598|1
+A|yeah,|b|2598|1
+A|well if you, if you liked BEETLEJUICE you'll probably like EDWARD SCISSORHANDS,|sv|2598|1
+A|if you didn't like BEETLEJUICE you'll probably won't like EDWARD SCISSORHANDS.|sv|2598|1
+B|Oh, really.|b|2598|0
+A|Yeah,|ny|2598|1
+A|it's, um,|%|2598|1
+A|Burton's kind of, uh,|%|2598|1
+A|he's, a very odd, odd man|sd|2598|1
+A|but he's,|%|2598|1
+A|I think he's very interesting|sd|2598|1
+A|and, uh, I liked those two movies of his a lot.|sd|2598|1
+B|Uh-huh.|b|2598|0
+A|He did BATMAN also, which, you know|sd|2598|1
+B|Yeah,|b|2598|0
+B|that was pretty good, though, really.|sv|2598|0
+A|It was good,|aa|2598|1
+A|but I mean, he was, um,|%|2598|1
+B|When you think of what it takes to make some of those kind of movies, you know.|sv|2598|0
+A|Yeah.|aa|2598|1
+B|You see it for, uh, you know a couple of hours or an hour|sd|2598|0
+B|and it really,|%|2598|0
+B|there's a lot in it when you look at the scenery and the cars,  and all the different stuff like that, you know.|sd|2598|0
+A|Oh, yeah, oh.|aa|2598|1
+A|Yeah.|b|2598|1
+B|Whose your favorite actress or actor?|qw|2598|0
+A|Um, don't really know,|sd|2598|1
+A|I like Costner a lot|sd|2598|1
+A|but, uh,  I'm a big, I'm a big baseball fan|sd|2598|1
+B|Uh-huh.|b|2598|0
+A|so, you know, after BULL DURHAM and FIELD OF DREAMS, you know,|sd|2598|1
+B|Yeah.|b|2598|0
+A|Um, although, you know,|%|2598|1
+B|That was good,|sv|2598|0
+B|I saw that movie too.|sd|2598|0
+B|That was very good.|sv|2598|0
+A|Which one?|qw|2598|1
+B|FIELD OF DREAMS.|sd|2598|0
+A|Yeah,|aa|2598|1
+A|FIELD OF DREAMS was good,|sv|2598|1
+A|um, and, I, I think, I liked the other movies he's done.|sd|2598|1
+A|NO WAY OUT was really good|sd|2598|1
+A|and,|%|2598|1
+B|Oh, yeah,|aa|2598|0
+B|yeah.|b|2598|0
+A|did you ever see SILVERADO?|qy|2598|1
+B|SILVERADO,|b^m|2598|0
+B|uh, who, who was that with?|qw|2598|0
+A|Um, let's see.|^h|2598|1
+A|Danny Glover, Scott Glen, Kevin Kline, um, Brian Dennehy , Jeff Goldblum's in.|sd|2598|1
+A|Uh, John Kreas is in it if you don't blink.|sd|2598|1
+B|That,|%|2598|0
+B|the|%|2598|0
+B|the, the title sounds familiar,|sd|2598|0
+B|I'm trying to|^h|2598|0
+A|It was, it was a big western,|sd|2598|1
+A|I mean, I think Roseanne Arquett was in it too, another one that if you blink you'd miss her.|sd|2598|1
+A|Uh, it was,|%|2598|1
+A|and I think it was like a three hour movie or two and a half hours,|sd|2598|1
+A|and, and it was one of those ones that could have been four hours if they hadn't cut a lot out.|sd|2598|1
+B|Oh, really.|b|2598|0
+A|Um, but it was, it was really good Um,|sv|2598|1
+B|I, I might have seen part of that because the name sounds familiar although I I would remember, I think in, with him in it.|sd|2598|0
+A|Uh-huh.|b|2598|1
+B|How about REVENGE,|qo|2598|0
+B|did you see that with him?|qy|2598|0
+A|No,|nn|2598|1
+A|I didn't,|sd|2598|1
+A|is that any good?|qy|2598|1
+B|With, uh, Anthony Quinn.|sd|2598|0
+B|I thought it was,|na|2598|0
+B|I like everything he's done so far.|sd|2598|0
+A|Oh, okay.|bk|2598|1
+B|You know, it's, uh, one of those movies that it's not a great movie|sv|2598|0
+B|but it was okay.|sv|2598|0
+A|Yeah,|b|2598|1
+A|we were in the video store today|sd|2598|1
+A|and somebody was recommending it to somebody.|sd|2598|1
+A|You know the, the people who run the video store was recommending it to somebody else.|sd|2598|1
+B|Yeah|b|2598|0
+B|it was, it was not a bad movie.|sv|2598|0
+A|Huh, well, I'll have to catch it one of these days.|oo_co_cc|2598|1
+A|You|%|2598|1
+A|you, you said you seen NO WAY OUT?|qy|2598|1
+B|Yeah,|ny|2598|0
+B|that was excellent.|sd|2598|0
+A|Yeah,|aa|2598|1
+A|that was very good.|sv|2598|1
+A|Um, he was in THE UNTOUCHABLES, too.|sd|2598|1
+B|Now that's another one I wanted to see.|sd|2598|0
+B|in fact, that was advertised not too long ago.|sd|2598|0
+A|Yeah,|b|2598|1
+A|it was on, um,|%|2598|1
+B|Cable?|qy^d|2598|0
+A|no,|nn|2598|1
+A|it was on one of the networks, I think last weekend.  Uh, or two weeks ago.|sd|2598|1
+B|Okay,|bk|2598|0
+B|I know I saw, yeah, something about it.|sd|2598|0
+A|Yeah,|b|2598|1
+A|I, um, I wish, I, I mean I'd seen it when, when, you know, it was originally in the theaters|sd|2598|1
+A|and, um, I saw it, you know, I saw part of it again.|sd|2598|1
+B|Uh-huh.|b|2598|0
+A|I mean I like, you know, I like Costner,|sd|2598|1
+A|I like Sean Connery,|sd|2598|1
+A|and, uh, there's this one, there's this one actor,|sd|2598|1
+A|it's really silly that I enjoy him a lot|sd|2598|1
+A|but I, I've really enjoyed him in everything I've seen him in, a guy named Charles Martin Smith.|sd|2598|1
+B|I don't know him.|sd|2598|0
+A|Um, you've probably seen him|sd|2598|1
+A|and just, an,|%|2598|1
+A|you know, oh, that's who the guy is.|sd|2598|1
+A|Do you remember,|qy|2598|1
+A|did you ever see AMERICAN GRAFFITI?|qy|2598|1
+B|No,|nn|2598|0
+B|I, I don't think so.|sd|2598|0
+A|Oh.|bk|2598|1
+A|Did you ever see the movie STAR MAN.|qy|2598|1
+B|Yes.|ny|2598|0
+A|Okay,|bk|2598|1
+A|in STAR MAN, he was the guy chasing after, um, Jeff Bridges and Karen Allen, or Nancy Allen.|sd|2598|1
+B|Okay,|b|2598|0
+B|okay.|b|2598|0
+A|You know,|%|2598|1
+A|short nerdy guy with glasses.|sd|2598|1
+B|Yeah,|b|2598|0
+B|yeah.|b|2598|0
+A|He's, he's just,|%|2598|1
+A|I, I don't know why but he's always a lot of fun in every movie he's in.|sd|2598|1
+A|He was in the UNTOUCHABLES.|sd|2598|1
+A|He was the accountant|sd|2598|1
+B|Oh, oh I know who you mean.|sd|2598|0
+A|Yeah.|b|2598|1
+B|He was in, uh, uh, HONEY DON'T SHRINK THE KIDS, wasn't he?|qy|2598|0
+A|No,|nn|2598|1
+A|no,|nn|2598|1
+A|you're thinking of Rick Moranis.|sv|2598|1
+A|He looks like Rick Moranis|sd|2598|1
+A|but he's not|sd|2598|1
+B|Oh, okay,|bk|2598|0
+B|all right,|b|2598|0
+B|yeah,|b|2598|0
+B|that's the one I was thinking of.|sd|2598|0
+B|But I have, I've seen quite a few movies,|sd|2598|0
+B|I, I enjoy them.|sd|2598|0
+B|I think that, uh, it's, it's kind of like, uh, good entertainment. An, uh, an escape type of thing.|sd|2598|0
+A|Yeah.|b|2598|1
+A|Yeah.|b|2598|1
+B|How about some of the ads,|qo|2598|0
+B|do you go by the ads when you look at them, or the reviews?|qy|2598|0
+B|Do they influence you a lot.|qy^d|2598|0
+A|Uh, a little of,|na|2598|1
+A|a review usually won't make me go see a movie I hadn't already wanted to see.|sd|2598|1
+B|Yeah.|b|2598|0
+B|Did you see GOODFELLAS?|qy|2598|0
+A|No,|nn|2598|1
+A|it's uh,|%|2598|1
+A|I want to see it.|sd|2598|1
+B|That that was pretty good.|sv|2598|0
+B|Um, and,|%|2598|0
+A|Um, we want to see GODFATHER PART THREE also|sd|2598|1
+A|but my, my girlfriend's seen part one and part two although she saw them years ago,|sd|2598|1
+B|Uh-huh.|b|2598|0
+A|but I've never seen either of the first, you know, of the, of the GODFATHER movies|sd|2598|1
+A|so, we're probably going to like rent those some time and then try to see GODFATHER PART THREE somewhere.|sd|2598|1
+B|I was just going to say, you should see those, uh, first if you can.|sv|2598|0
+A|Yeah.|b|2598|1
+B|If if you read the book it's, uh, even better.|sv|2598|0
+B|The book was excellent.|sv|2598|0
+A|Oh, okay,|b|2598|1
+A|I haven't,  never read it.|sd|2598|1
+B|Yeah.|b|2598|0
+B|and, uh, I was a little disappointed in the third|sd|2598|0
+B|it's GODFATHER THREE.|sd|2598|0
+B|It was not bad|sv|2598|0
+B|but, I expected more, I think.|sd|2598|0
+A|Uh-huh.|b|2598|1
+A|We just rented, um, a couple weeks ago, a movie called THE FRESHMAN,|sd|2598|1
+A|with, um,|%|2598|1
+A|it's got Matthew Broderick in it and, um, uh, Marlon Brando.|sd|2598|1
+A|And Brando like does a parody of the character he played in THE GODFATHER.|sd|2598|1
+B|Oh, really.|b|2598|0
+A|Um, yeah,|ny|2598|1
+A|it's, it's one of the reasons why, you know THE GODFATHER's been on our minds lately.|sd|2598|1
+A|Um, but, uh,  there's a bunch of scenes from, uh, uh, from THE GODFATHER that's used because Matthew Broderick's going to film school.|sd|2598|1
+A|And, uh, in his classes they're using, there's a they're running a bunch of scenes from THE GODFATHER|sd|2598|1
+A|and then he's running into Marlon Brando who is playing, you know, this you know this, uh, organized crime head.|sd|2598|1
+B|Uh-huh.|b|2598|0
+A|So, it's um, it was, it was a fun movie.|sv|2598|1
+A|Uh.|%|2598|1
+B|or, uh,|%|2598|0
+A|I liked RAINMAN,|sd|2598|1
+A|I thought, I thought it was interesting that he was doing|sd|2598|1
+B|Oh, yeah,|aa|2598|0
+B|that was good,|sv|2598|0
+B|I liked RAINMAN, too.|sd|2598|0
+A|Yeah,|b|2598|1
+A|well I'm,|%|2598|1
+A|being from Baltimore, of course, I'm a big Barry Levinson fan since, uh, he, he's, you know, he's done a bunch of Baltimore movies.|sd|2598|1
+B|Uh-huh.|b|2598|0
+A|Um,|%|2598|1
+A|Barry Levinson did, um, DINER and TINMAN, and AVALON which are all set in Baltimore.|sd|2598|1
+B|Yeah,|b|2598|0
+B|they sound familiar.|sd|2598|0
+B|I probably saw parts of those.|sd|2598|0
+B|You know, a lot of times I'll I'll start watching a movie|sd|2598|0
+B|and I'm tired|%|2598|0
+B|and it,|%|2598|0
+A|Uh-huh.|b|2598|1
+B|next thing you know, it's, it's|%|2598|0
+B|especially if there's commercial in it|sd|2598|0
+B|and then the titles might sound familiar|sd|2598|0
+B|but I really don't know what they're all about.|sd|2598|0
+A|of the three of those, DINER's probably the best.|sv|2598|1
+A|I mean, they're, they're all pretty good,|sv|2598|1
+A|but DINER is really worth seeing.|sv|2598|1
+B|Is that the one set in the fifties, or sixties.|qy^d|2598|0
+A|Uh, late fifties,|na|2598|1
+A|yeah.|ny|2598|1
+B|Late fifties,|b^m|2598|0
+B|yeah,|b|2598|0
+B|I think I saw that one.|sd|2598|0
+A|Okay|b|2598|1
+A|and, uh,|%|2598|1
+B|How about Meryl Streep,|qo|2598|0

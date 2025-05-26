@@ -1,0 +1,151 @@
+A|Doug, you want to start?|ad|3332
+B|Sure.|aa|3332
+A|You don't use any credit cards, I don't imagine.|qy^d|3332
+B|No.|nn|3332
+B|Of course I use, credit cards.|sd|3332
+B|I have a couple of credit cards and, uh, use them.|sd|3332
+A|Yeah.|b|3332
+A|Uh-huh,|b|3332
+A|do you use them a lot?|qy|3332
+B|Oh, we try not to.|ng|3332
+A|Uh-huh.|b|3332
+B|We're on a pretty strict and tight budget.|sd|3332
+A|Uh-huh.|b|3332
+B|We use the credit cards, however, when we're at a situation where we don't have either the cash or the checkbook handy.|sd|3332
+A|Uh-huh.|b|3332
+B|Or we use credit cards also, if we want to get an extended warranty on an item that we're purchasing.|sd|3332
+B|So. So, yes,|%|3332
+A|Oh, well, that's an idea,|ba|3332
+A|that's a thought,|ba|3332
+A|uh-huh.|b|3332
+B|and basically we use it mainly when we're traveling or out of state or or somewhere where, you know, they don't take local, they don't take out of state checks|sd|3332
+A|Uh-huh.|b|3332
+A|Uh-huh.|b|3332
+A|Uh-huh.|b|3332
+B|and so when we're traveling some.|sd|3332
+B|Do you use credit cards often?|qy|3332
+A|My husband loves them|no|3332
+A|Uh, we do use them.|sd|3332
+A|Uh, we try not to,|sd|3332
+A|but, he, he's one who believes in credit cards,|sd|3332
+A|and he uses them quite a bit.|sd|3332
+B|Uh-huh.|b|3332
+A|He likes using them and then just pay at the end of the month|sd|3332
+B|Oh, yeah,|b|3332
+B|well that's, that's a good thing, because lot of people don't pay at the end of the month|sv|3332
+A|He, he likes that,|sd|3332
+A|Uh-huh.|b|3332
+B|and they just pay the minimum required balance.|sd|3332
+A|And that's when you get into expenses.|sv|3332
+B|Yes,|aa|3332
+B|and you get in over your head.|sv|3332
+A|Right.|aa|3332
+B|It'll, uh,|%|3332
+B|some people I know also try to use it as float where they buy something now|sd|3332
+A|Uh-huh.|b|3332
+B|and say, well, I'm going to buy this when it's good and on sale|sd|3332
+B|and then I can go ahead and pay for it when I get my check at the end of the month|^q|3332
+A|Uh-huh.|b|3332
+B|when I'm being paid.|^q|3332
+A|Right.|b|3332
+A|Well, sometimes you do come on bargains and that,|sd|3332
+A|and it's really useful.|sv|3332
+B|That's true.|aa|3332
+A|And some places won't take, you know, like personal checks or cash, even|sd|3332
+B|Uh-huh.|b|3332
+A|but they would take a credit card.|sd|3332
+B|Right.|aa|3332
+B|How how are the laws in Pennsylvania, uh, as, as regard, well not the laws, but the rates, credit card rates in Pennsylvania?|qo|3332
+B|For example down here, when you go up to a gas station you get an extra charge for credit cards than you would by paying for cash.|sd|3332
+A|Uh-huh.|b|3332
+A|Right.|b|3332
+B|Are they the same there?|qy|3332
+A|We,|%|3332
+A|yeah,|ny|3332
+A|we have the same thing up here,|sd|3332
+A|so we don't deal where they do that|sd|3332
+A|We you know, we go to places where they don't charge extra.|sd|3332
+A|Some of them charge five cents a gallon, even,|sd|3332
+A|like the gas stations more,|sd|3332
+B|That's pretty steep.|ba|3332
+A|And, uh, we just try to avoid, you know, the ones that do that,|sd|3332
+A|we just don't, uh, go there because there's enough other ones around that don't charge you anything|sd|3332
+B|Yes.|b|3332
+A|extra because actually, to me, credit cards are the same as cash,|sd|3332
+B|Uh-huh,|b|3332
+B|uh-huh.|b|3332
+A|to me they are, anyway,|sd|3332
+B|Yes,|aa|3332
+B|because you make the deduction at the time of the purchase|sd|3332
+B|and, and so that the end of the month or when you get your credit card bill are you saying that that way you're not left stranded and high and dry|qy|3332
+A|Right.|aa|3332
+A|Right,|aa|3332
+A|yeah.|aa|3332
+A|Yes.|aa|3332
+A|Yeah,|ny|3332
+A|right.|na|3332
+B|Very good.|ba|3332
+B|You're, you're one of the good, I guess, good faithful shoppers that don't get into a problem when it comes to budgeting their money.|sd|3332
+A|Well, I can't say we never have.|sd|3332
+A|Now we have, you know, at times, made payments on our things,|sd|3332
+B|Uh-huh.|b|3332
+A|but we try not to.|sd|3332
+A|We try hard,|sd|3332
+B|Well, yeah,|b|3332
+B|well, I see that as an advantage to a credit card, also|sv|3332
+A|Uh-huh.|b|3332
+B|that you can can find yourselves in those situations and use a credit card to to help yourself.|sv|3332
+A|Uh-huh.|b|3332
+A|Right.|b|3332
+A|Right.|b|3332
+B|So I think that there's a great advantage to a credit card in those situations.|sv|3332
+A|Uh-huh.|b|3332
+A|Yeah,|b|3332
+A|because sometimes, uh, there's times when you may, maybe couldn't take advantage of something|sv|3332
+B|Uh-huh.|b|3332
+A|but with a credit card you can.|sv|3332
+A|So.|%|3332
+B|Uh-huh,|b|3332
+B|uh-huh.|b|3332
+B|Um, do you have, uh, multiple credit cards?|qy|3332
+A|Uh.|%|3332
+B|And do you find that advantageous|qy|3332
+B|or,|qy|3332
+A|Well, I think we're narrowing it down, actually.|sd|3332
+A|Uh, uh, like I said, my husband likes them,|sd|3332
+A|and we have quite a few,|sd|3332
+A|but we really get, when you get down to the nitty gritty, there's probably three that we use most of the time.|sd|3332
+B|Uh-huh.|b|3332
+B|Right.|b|3332
+B|We're, we're actually in the same boat.|sd|3332
+A|Uh-huh.|b|3332
+B|We like to use three, uh, basic credit cards.|sd|3332
+A|Uh-huh.|b|3332
+B|That way we're not confused|sd|3332
+B|and we don't have an awful lot of expenses or surprises when it comes the end of the month.|sd|3332
+A|Uh-huh,|b|3332
+A|uh-huh.|b|3332
+B|And, do you find that you get an awful lot of credit card applications through the mail?|qy|3332
+A|Oh, yes.|ny|3332
+B|Once a week,|sd|3332
+B|twice a week,|sd|3332
+B|or three times a week.|sd|3332
+A|Well, it's not every week,|sd|3332
+A|but you, you do get them.|sd|3332
+A|They make it very readily available.|sd|3332
+B|Yeah.|b|3332
+A|Almost too much so.|sv|3332
+A|But I I really don't like it the charges that, you know,|sd|3332
+A|we try to limit, look at that also,|sd|3332
+A|what they charge per year to use our money, you know|sd|3332
+B|Right,|b|3332
+B|so the annual fee.|bf|3332
+B|Right,|b|3332
+B|right,|b|3332
+A|they're charging us to spend our money,|sd|3332
+A|and, I, I'm not real crazy about that,|sd|3332
+A|so we try to look at that also.|sd|3332
+B|Yes,|b|3332
+B|so there is the basic annual fee for the credit card plus they charge any where from seventeen to twenty-three percent uh, based upon what the state will allow,|sd|3332
+A|Uh-huh,|b|3332
+A|Right.|b|3332

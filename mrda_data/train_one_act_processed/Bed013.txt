@@ -1,0 +1,1448 @@
+me045|as usual.|S|Bed013
+me003|yes.|S|Bed013
+me003|whew!|D|Bed013
+me003|i almost forgot about the meeting.|S|Bed013
+me003|i woke up twenty minutes ago thinking what did i forget.|S|Bed013
+mn015|it's great how the brain sort of does that.|S|Bed013
+me045|something's not right here.|S|Bed013
+me003|internal alarms.|S|Bed013
+mn015|okay.|S|Bed013
+mn015|so the news for me is a. my forthcoming travel plans.|S|Bed013
+mn015|in two weeks from today.|S|Bed013
+me003|yes.|B|Bed013
+mn015|yeah?|Q|Bed013
+mn015|more or less.|S|Bed013
+mn015|i'll be off to sicily and germany for a couple three days.|S|Bed013
+me003|now what are what are you doing there?|Q|Bed013
+me003|i forgot.|S|Bed013
+mn015|okay i'm flying to sicily basically to drop off simon there with his grandparents.|S|Bed013
+mn015|and then i'm flying to germany to go to a moku-treffen.|S|Bed013
+mn015|which is the meeting of all the module responsible people in smartkom.|S|Bed013
+me003|huh.|B|Bed013
+mn015|and represent i.c.i.|S|Bed013
+mn015|and myself i guess there.|S|Bed013
+mn015|and um|F|Bed013
+mn015|that's the huh actual reason.|S|Bed013
+mn015|and then i'm also going up to e.m.l. for a day.|S|Bed013
+mn015|and then i'm going to meet the very big boss wolfgang walster in saarbruecken and the system system integration people in kaiserslautern.|S|Bed013
+mn015|and then i'm flying back via sicily.|S|Bed013
+mn015|pick up my son.|S|Bed013
+mn015|come back here on the fourth of july.|S|Bed013
+mn015|and uh|F|Bed013
+me045|what a great time to be coming back to the u.s. of a..|S|Bed013
+me003|god bless america.|S|Bed013
+me045|you'll see maybe see the fireworks from your plane coming in.|S|Bed013
+mn015|and i'm sure all the the people at the airport will be happy to work on that day.|S|Bed013
+me045|yeah.|S|Bed013
+me045|you'll get even better service than usual.|S|Bed013
+mn015|uhhuh.|B|Bed013
+me003|wait aren't you flying on lufthansa though?|Q|Bed013
+mn015|alitalia.|S|Bed013
+me003|oh well then the you know it's not a big deal.|S|Bed013
+me003|once you get to the united states it'll be a problem.|S|Bed013
+me003|but|F|Bed013
+mn015|yeah.|S|Bed013
+mn015|and um|F|Bed013
+mn015|that's that bit of news.|S|Bed013
+mn015|and the other bit of news is we had you know uh i was visited by my german project manager.|S|Bed013
+mn015|who a. did like what we did.|S|Bed013
+mn015|what we're doing here.|S|Bed013
+mn015|and b. is planning to come here either three weeks in july or three weeks in august to actually work.|S|Bed013
+me003|on|D|Bed013
+mn015|with us.|S|Bed013
+me003|oh.|S|Bed013
+mn015|and we sat around and we talked.|S|Bed013
+mn015|and he came up we came up with a pretty strange idea.|S|Bed013
+mn015|and that's what i'm going to lay on you now.|S|Bed013
+mn015|and um maybe it might be ultimately the most interesting thing for eva.|S|Bed013
+mn015|because she has been known to complain about the fact that the stuff we do here is not weird enough.|S|Bed013
+fn050|okay.|S|Bed013
+mn015|so this is so weird it should even make you happy.|S|Bed013
+fn050|uh okay.|S|Bed013
+me045|oh great.|S|Bed013
+mn015|imagine if you will that we have a system that does all that understanding that we want it to do based on utterances.|S|Bed013
+me003|uhhuh.|B|Bed013
+mn015|it should be possible to make that system produce questions.|S|Bed013
+mn015|so if you have the knowledge of how to interpret where is x. under given conditions situational user discourse and ontological conditions you should also be able to make that same system ask where is x. .|S|Bed013
+me045|uhhuh.|B|Bed013
+mn015|in a certain way.|S|Bed013
+mn015|based on certain intentions.|S|Bed013
+mn015|so instead of just being able to observe phenomenon um and guess the intention we might be able just to sort of give it an intention and make it produce an utterance.|S|Bed013
+me045|huh.|B|Bed013
+me003|well like in a.i. they generally do the take in.|S|Bed013
+me003|and then they also do the generation phase like nancy's thing.|S|Bed013
+me003|or uh|F|Bed013
+me003|you remember in the the hand thing in one eighty two like not only was it able to recognize but it was also to generate based upon situations.|S|Bed013
+me003|you mean that sort of thing?|Q|Bed013
+mn015|absolutely.|S|Bed013
+me003|okay.|S|Bed013
+mn015|and once you've done that what we can do is have the system ask itself.|S|Bed013
+mn015|and answer.|S|Bed013
+mn015|understand the answer.|S|Bed013
+mn015|ask something else.|S|Bed013
+mn015|and enter a dialogue with itself.|S|Bed013
+mn015|so the the basic the same idea as having two chess computers play against each other.|S|Bed013
+me045|except this smacks a little bit more of a schizophrenic computer than a.i.|S|Bed013
+mn015|yeah you if you want you can have two parallel machines um asking each other.|S|Bed013
+mn015|what would that give us?|Q|Bed013
+mn015|would a. be something completely weird and strange.|S|Bed013
+mn015|and b. if you look at all the factors we will never observe people let's say in wheelchairs under you know in under all conditions.|S|Bed013
+me045|that's good.|S|Bed013
+mn015|you know when they say x. and there is a ride at the goal and the parking is good we can never collect enough data.|S|Bed013
+me045|uhhuh.|B|Bed013
+mn015|it's it's it's not possible.|S|Bed013
+me045|right right.|S|Bed013
+mn015|but maybe one could do some learning.|S|Bed013
+mn015|if you get the system to speak to itself you may find break downs and errors and you may be able to learn.|S|Bed013
+mn015|and make it more robust.|S|Bed013
+mn015|maybe learn new things.|S|Bed013
+mn015|and um|F|Bed013
+mn015|so there's no no end of potential things one could get out of it if that works.|S|Bed013
+mn015|and he would like to actually work on that with us.|S|Bed013
+mn015|so|F|Bed013
+me003|well then he probably should be coming back a year from now.|S|Bed013
+mn015|yeah i|D|Bed013
+mn015|see the the generation bit making the system generate generate something is shouldn't be too hard.|S|Bed013
+me003|well once the system understands things.|S|Bed013
+me045|yeah no problem.|S|Bed013
+me003|i just don't think i think we're probably a year away from getting the system to understand things.|S|Bed013
+mn015|yeah well if we can get it to understand one thing like our where is run through we can also maybe make it say or ask where is x. or not.|S|Bed013
+me045|huh i don't know.|S|Bed013
+me045|i'm sort of have the impression that getting it to say the right thing in the right circumstances is much more difficult than getting it to understand something given the circumstances and so on.|S|Bed013
+me045|you know i mean just because it's sort of harder to learn to speak correctly in a foreign language rather than learning to understand it right?|S|Bed013
+me045|i mean|D|Bed013
+me045|just the fact that we'll get the point is that getting it to understand one construction doesn't mean that it will always know exactly when it's correct to use that construction right?|S|Bed013
+mn015|it's it's uh|D|Bed013
+mn015|well i've i've done generation and language production research for four four and a half years.|S|Bed013
+mn015|and so it's it's you're right.|S|Bed013
+mn015|it's not the same as the understanding.|S|Bed013
+mn015|it's in some ways easier and some ways harder nuh?|S|Bed013
+me045|yeah.|S|Bed013
+mn015|but um|F|Bed013
+mn015|i think it'd be fun to look at it or into that question.|S|Bed013
+me045|nnn yeah.|B|Bed013
+mn015|it's a pretty strange idea.|S|Bed013
+mn015|and so that's that's but|D|Bed013
+me003|the basic idea i guess would be to give allow the system to have intentions basically.|S|Bed013
+me003|because that's basically what needs to be added to the system for it.|S|Bed013
+mn015|well look at|D|Bed013
+mn015|eee i think even think even|D|Bed013
+mn015|what it would be the the prior intention.|S|Bed013
+mn015|so let's uh uh let's say we have this|D|Bed013
+me003|well we'd have to seed that.|S|Bed013
+me003|i mean|D|Bed013
+mn015|no let's we have to we have some some top down processing given certain setting.|S|Bed013
+mn015|okay now we change nothing and just say ask something.|S|Bed013
+mn015|right?|Q|Bed013
+mn015|what would it ask?|Q|Bed013
+me003|it wouldn't know what to ask.|S|Bed013
+me003|i mean|D|Bed013
+mn015|it|D|Bed013
+me003|unless it was in a situation.|S|Bed013
+me003|we'd have to set up a situation where it didn't know where something was and it wanted to go there.|S|Bed013
+mn015|yeah.|S|Bed013
+fn050|uhhuh.|B|Bed013
+mn015|yeah.|S|Bed013
+me003|which means that we'd need to set up an intention inside of the system right?|S|Bed013
+mn015|uh|D|Bed013
+me003|which is basically i don't know where something is and i need to go there.|S|Bed013
+me045|yeah.|B|Bed013
+mn015|ooh do we really need to do that?|Q|Bed013
+mn015|because|D|Bed013
+me003|well no i guess not.|S|Bed013
+mn015|it's i know it's it's strange.|S|Bed013
+mn015|but look at it look at our bayes-net.|S|Bed013
+mn015|if we don't have let's assume we don't have any input from the language right?|S|Bed013
+mn015|so there's also nothing we could query the ontology.|S|Bed013
+mn015|but we have a certain user setting.|S|Bed013
+mn015|if you just ask what is the likelihood of that person wanting to enter some something it'll give you an answer.|S|Bed013
+mn015|right?|Q|Bed013
+mn015|that's just how they are.|S|Bed013
+me003|sure.|S|Bed013
+mn015|and so whatever that is it's the generic default intention that it would find out.|S|Bed013
+mn015|which is wanting to know where something is.|S|Bed013
+mn015|maybe nnn and wanting|D|Bed013
+mn015|i don't know what it's going to be.|S|Bed013
+mn015|but there's going to be something that|D|Bed013
+me045|well you're not going to are you going to get a variety of intentions out of that then?|Q|Bed013
+me045|i mean you're just talking about like given this user what's the what is it what is that user most likely to want to do.|S|Bed013
+me045|and have it talk about|D|Bed013
+mn015|well you can observe some user and context stuff and ask what's the posterior probabilities of all of our decision nodes.|S|Bed013
+me045|okay.|D|Bed013
+mn015|you could even say let's take all the priors.|S|Bed013
+mn015|let's observe nothing and query all the posterior probabilities.|S|Bed013
+mn015|it's going to tell us something.|S|Bed013
+mn015|right?|Q|Bed013
+mn015|and|D|Bed013
+me003|well it will assign values to all the nodes yes.|S|Bed013
+mn015|yes and come up with posterior probabilities for all the values of the decision nodes.|S|Bed013
+mn015|which if we have an algorithm that filters out whatever the the best or the most consistent answer out of that will give us the intention ex nihilo.|S|Bed013
+mn015|and that is exactly what would happen if we ask it to produce an utterance.|S|Bed013
+mn015|it would be based on that extension ex nihilo.|S|Bed013
+mn015|which we don't know what it is.|S|Bed013
+mn015|but it's there.|S|Bed013
+mn015|so we wouldn't even have to to kick start it by giving it a certain intention or observing anything on the decision node.|S|Bed013
+mn015|and whatever that maybe that would lead to what is the castle.|S|Bed013
+me003|i'm just|D|Bed013
+mn015|or what is that whatever.|S|Bed013
+me003|i guess what i'm afraid of is if we don't you know set up a situation we'll just get a bunch of garbage out.|S|Bed013
+me003|like you know everything's exactly thirty percent.|S|Bed013
+mn015|no.|S|Bed013
+fn050|huh.|D|Bed013
+mn015|yeah so what we actually then need to do is is write a little script that changes all the settings.|S|Bed013
+mn015|you know goes through all the permutations.|S|Bed013
+mn015|which is we did a|D|Bed013
+mn015|didn't we calculate that once?|Q|Bed013
+me003|well that was that was absurdly low in the last meeting.|S|Bed013
+mn015|it's a|D|Bed013
+fn050|uh|D|Bed013
+me003|because i went and looked at it.|S|Bed013
+me003|because i was thinking that could not be right.|S|Bed013
+me003|and it would it was on the order of twenty output nodes and something like twenty|D|Bed013
+fn050|and like thirty input nodes.|S|Bed013
+me003|thirty input nodes.|S|Bed013
+fn050|or some|D|Bed013
+me003|so to test every output node uh would at least|D|Bed013
+me003|let's see so it would be two to the thirty for every output node.|S|Bed013
+me003|which is very very large.|S|Bed013
+mn015|oh that's|D|Bed013
+me045|oh.|S|Bed013
+mn015|that's that's nothing for those neural guys.|S|Bed013
+mn015|i mean they train for millions and millions of epochs.|S|Bed013
+mn015|so|F|Bed013
+me003|well i'm talking about|D|Bed013
+me003|oh i was going to take a drink of my water.|S|Bed013
+me003|i'm talking about billions and billions and billions and|D|Bed013
+me003|a number|D|Bed013
+me003|two to the thirty is like|D|Bed013
+me003|bhaskara said we had calculated out and bhaskara believes that it's larger than the number of particles in the universe.|S|Bed013
+me003|and if|D|Bed013
+me045|i don't know if that's right or not.|S|Bed013
+me045|that's big.|S|Bed013
+me045|that's just that's uh it's a billion right?|S|Bed013
+me003|two to the thirty?|Q|Bed013
+me003|well two to the thirty is a billion.|S|Bed013
+me003|but if we have to do it two to the twenty times then that's a very very large number.|S|Bed013
+me045|right.|S|Bed013
+me045|argh.|S|Bed013
+me045|oh okay.|S|Bed013
+me045|yeah yeah that's big.|S|Bed013
+me003|because you have to query the node for every uh or query the net two to the twenty times.|S|Bed013
+me045|sure.|S|Bed013
+me045|all right.|S|Bed013
+me003|or not two to|D|Bed013
+me003|excuse me twenty times.|S|Bed013
+me045|okay so is it comes to twenty billion or something?|S|Bed013
+me003|yes.|S|Bed013
+me045|that's pretty big though.|S|Bed013
+me003|as far as|D|Bed013
+me003|that's that's big.|S|Bed013
+me003|actually|D|Bed013
+me003|oh we calculated a different number before.|S|Bed013
+me003|how did we do that?|Q|Bed013
+fn050|huh.|B|Bed013
+me045|i remember there being some other one floating around.|S|Bed013
+me045|but anyway uh|F|Bed013
+fn050|i don't really know.|S|Bed013
+me045|yeah it's anyway the point is that given all of these different factors it's uh it's it's still going to be impossible to run through all of the possible situations or whatever.|S|Bed013
+fn050|ooo it's just big.|S|Bed013
+me045|but i mean this'll get us a bit closer at least right?|S|Bed013
+me045|i mean|F|Bed013
+me003|if it takes us a second to do for each one and let's say it's twenty billion then that's twenty billion seconds.|S|Bed013
+me003|which is|D|Bed013
+me045|yeah.|B|Bed013
+me003|eva do the math.|S|Bed013
+me045|long.|S|Bed013
+fn050|can't.|S|Bed013
+me003|hours and hours and hours and hours.|S|Bed013
+me003|but we can do randomized testing.|S|Bed013
+me045|tah-dah!|S|Bed013
+me003|which probabilistically will be good enough.|S|Bed013
+mn015|uhhuh.|B|Bed013
+mn015|yeah so it be it's an idea that one could for for example run run past um|D|Bed013
+mn015|what's that guy's name?|Q|Bed013
+mn015|you know he's usually here.|S|Bed013
+me045|here in the group?|Q|Bed013
+mn015|jer|D|Bed013
+me045|jerry feldman?|Q|Bed013
+mn015|oh yeah that's the guy.|S|Bed013
+mn015|we we we we|D|Bed013
+me003|wait who?|S|Bed013
+me045|yeah that would the the bald guy.|S|Bed013
+me003|oh my advisor.|S|Bed013
+mn015|and um|F|Bed013
+mn015|so this is just an idea that's floating around.|S|Bed013
+mn015|and we'll see what happens.|S|Bed013
+mn015|and um huh|F|Bed013
+mn015|what other news do i have?|Q|Bed013
+mn015|well we fixed some more things from the smartkom system.|S|Bed013
+mn015|but that's not really of general interest.|S|Bed013
+mn015|um|F|Bed013
+mn015|oh questions.|S|Bed013
+mn015|yeah.|F|Bed013
+mn015|i'll ask eva about the e. bayes and she's working on that.|S|Bed013
+mn015|how is the generation x.m.l. thing?|Q|Bed013
+me003|i'm going to work on that today and tomorrow.|S|Bed013
+mn015|okay no need to do it today or tomorrow even.|S|Bed013
+mn015|do it next week or|D|Bed013
+me003|i'm going to finish it today uh hopefully.|S|Bed013
+mn015|okay.|S|Bed013
+me003|i want to do one of those things where i stay here.|S|Bed013
+me003|because uh if i go home i can't finish it.|S|Bed013
+me003|i've tried about five times so far where i work for a while and then i'm like i'm hungry.|S|Bed013
+me003|so i go home and then i think|D|Bed013
+me045|i'm not going back.|S|Bed013
+me003|yeah.|S|Bed013
+me003|either that or i think to myself i can work at home.|S|Bed013
+me003|and then i try to work at home but i fail miserably.|S|Bed013
+me045|yeah.|D|Bed013
+me003|like i ended up at blakes last night.|S|Bed013
+me045|non conducive.|S|Bed013
+me003|no.|S|Bed013
+me003|i almost got into a brawl.|S|Bed013
+me003|but i did not finish the uh smartkom.|S|Bed013
+me003|but i've been looking into it.|S|Bed013
+me003|i it's not like it's a blank slate.|S|Bed013
+me003|i found everything that i need.|S|Bed013
+me003|and and uh|D|Bed013
+mn015|but|D|Bed013
+me003|at the|D|Bed013
+me003|uh furthermore i told jerry that i was going to finish it before he got back.|S|Bed013
+me003|so|F|Bed013
+mn015|okay.|S|Bed013
+me045|that's approaching.|S|Bed013
+me045|he's coming back when?|Q|Bed013
+me045|uh next|D|Bed013
+me003|well i think we think we'll see him definitely on tuesday for the next|D|Bed013
+me003|or no wait.|S|Bed013
+me003|the meetings are on thursday.|S|Bed013
+mn015|maybe.|S|Bed013
+mn015|who knows?|Q|Bed013
+me003|maybe.|S|Bed013
+me045|okay.|S|Bed013
+me003|well we'll see him next week.|S|Bed013
+me045|all right.|S|Bed013
+mn015|that's good.|S|Bed013
+mn015|yeah.|F|Bed013
+mn015|the paper.|S|Bed013
+me045|huh.|B|Bed013
+mn015|huh.|B|Bed013
+me003|i was thinking about that.|S|Bed013
+me003|i think|D|Bed013
+me003|i will try to work on the smartkom stuff.|S|Bed013
+me003|and i'll if i can finish it today i'll help you with that tomorrow.|S|Bed013
+me003|if you work on it.|S|Bed013
+me003|i don't have a problem with us working on it though.|S|Bed013
+me003|so|F|Bed013
+mn015|okay.|S|Bed013
+mn015|so you would say it's funky.|S|Bed013
+me003|and it|D|Bed013
+mn015|cool.|S|Bed013
+me003|i mean we just i mean it wouldn't hurt to write up a paper.|S|Bed013
+me003|because then i mean yeah i was talking with nancy.|S|Bed013
+me003|and nancy said you don't know whether you have a paper to write up until you write it up.|S|Bed013
+me003|so|F|Bed013
+me045|yeah.|B|Bed013
+mn015|well|D|Bed013
+me003|and since jerry's coming back we can run it by him too.|S|Bed013
+me003|so|F|Bed013
+mn015|yep.|S|Bed013
+mn015|um what's your input?|Q|Bed013
+me045|well um i don't have much experience with uh conference papers for in the computer science realm.|S|Bed013
+me045|and so when i looked at what you had which was apparently a complete submission i just sort of said|D|Bed013
+me045|what just|D|Bed013
+me045|i i didn't really know what to do with it.|S|Bed013
+me045|like this is the sort of the basic outline of the system or whatever.|S|Bed013
+me045|or|F|Bed013
+me045|or|F|Bed013
+me045|here's an idea right.|S|Bed013
+me045|that's what that paper was.|S|Bed013
+me045|here's here's one possible thing you could do.|S|Bed013
+mn015|uhhuh.|S|Bed013
+me045|short.|S|Bed013
+me045|eight pages.|S|Bed013
+me045|and i just don't know what you have in mind for expanding.|S|Bed013
+me045|like i'd i what i didn't do is go to the web site of the conference.|S|Bed013
+me045|and look at what they're looking for or whatever.|S|Bed013
+mn015|uhhuh.|B|Bed013
+mn015|well it seems to me that um|D|Bed013
+me003|wait is this a computer science conference?|Q|Bed013
+me003|or is it a|D|Bed013
+mn015|um well it's more.|S|Bed013
+mn015|it's both right?|S|Bed013
+mn015|it's it's sort of cognitive neural psycho linguistic.|S|Bed013
+mn015|but all for the sake of doing computer science.|S|Bed013
+mn015|so it's sort of cognitive psycho neural plausibly motivated architectures of natural language processing.|S|Bed013
+mn015|so it seems pretty interdisciplinary.|S|Bed013
+mn015|and i mean the keynote speaker is tomasello.|S|Bed013
+me045|right oh yeah.|S|Bed013
+mn015|and blah blah blah.|S|Bed013
+mn015|so|F|Bed013
+mn015|the the question is what could we actually do and and and keep a straight face while doing it.|S|Bed013
+mn015|and|D|Bed013
+me003|well i really can't keep a straight face doing anything.|S|Bed013
+mn015|my idea is|D|Bed013
+me045|setting that aside.|S|Bed013
+mn015|well you can say we have done a little bit.|S|Bed013
+mn015|and that's this.|S|Bed013
+mn015|and uh sort of the rest is position paper.|S|Bed013
+mn015|we want to also do that.|S|Bed013
+mn015|which is not too good.|S|Bed013
+mn015|might be more interesting to do something like let's assume um we're right.|S|Bed013
+mn015|we have as jerry calls it a delusion of adequacy.|S|Bed013
+mn015|and take a where is x. sentence.|S|Bed013
+me045|uhhuh.|B|Bed013
+mn015|and say we will just talk about this.|S|Bed013
+mn015|and how we cognitively neurally psycho-linguistically construction grammar ally motivated envision uh understanding that.|S|Bed013
+me045|huh.|D|Bed013
+mn015|so we can actually show how we parse it.|S|Bed013
+mn015|that should be able to we should be able to come up with you know a sort of a a parse.|S|Bed013
+me045|right.|B|Bed013
+mn015|it's on.|S|Bed013
+mn015|just just put it on.|S|Bed013
+fe004|okay.|D|Bed013
+me003|did ben harass you?|Q|Bed013
+fe004|hi.|D|Bed013
+fe004|yes.|S|Bed013
+me003|good.|S|Bed013
+fe004|was he supposed to harass me?|Q|Bed013
+me003|yes.|S|Bed013
+fe004|well he just told me that you came looking for me.|S|Bed013
+mn015|you|D|Bed013
+me003|oh.|S|Bed013
+mn015|you will suffer in hell.|S|Bed013
+fe004|figure this out.|D|Bed013
+mn015|you know that.|S|Bed013
+me045|backwards.|S|Bed013
+me045|there's a diagram somewhere which tells you how to put that|D|Bed013
+fe004|i know.|S|Bed013
+fe004|i didn't understand that either.|S|Bed013
+mn015|this is it.|S|Bed013
+me003|no wait you have to put it on exactly like that.|S|Bed013
+mn015|yeah.|B|Bed013
+me003|so put that those things over your ears like that.|S|Bed013
+fe004|okay.|S|Bed013
+me003|see the how the plastic things arch out like that?|Q|Bed013
+me003|there we go.|S|Bed013
+fe004|okay.|S|Bed013
+fe004|it hurts.|S|Bed013
+me003|it hurts it hurts real bad.|S|Bed013
+fe004|it does.|S|Bed013
+me045|but that's what you get for coming late to the meeting.|S|Bed013
+fe004|i'm sorry i didn't mean to|D|Bed013
+fe004|i'm sorry.|S|Bed013
+fe004|i'm sorry oh these are all the same.|S|Bed013
+fe004|okay this is not very on target.|S|Bed013
+me003|is your mike on?|Q|Bed013
+mn015|yeah it is.|S|Bed013
+fe004|shoot.|S|Bed013
+me003|okay.|S|Bed013
+fe004|all right you guys can continue talking about whatever you were talking about before.|S|Bed013
+me045|um|F|Bed013
+mn015|we're talking about this um alleged paper that we may just sort of|D|Bed013
+fe004|oh which johno mentioned to me.|S|Bed013
+mn015|yeah.|B|Bed013
+fe004|uhhuh.|S|Bed013
+mn015|and i just sort of brought forth the idea that we take a sentence where is the powder tower.|S|Bed013
+fe004|uhhuh.|B|Bed013
+mn015|and we we pretend to parse it.|S|Bed013
+mn015|we pretend to understand it.|S|Bed013
+mn015|and we write about it.|S|Bed013
+me045|huh.|D|Bed013
+me045|about how all of these things|D|Bed013
+fe004|what's the part that's not pretend?|Q|Bed013
+fe004|the writing?|Q|Bed013
+mn015|okay then we pretend to write about.|S|Bed013
+me045|the submitting to a major international conference yeah.|S|Bed013
+fe004|which conference is it for?|Q|Bed013
+mn015|it's the whatever architectures uh you know where|D|Bed013
+mn015|there is this conference it's the seventh already international conference on neurally cognitively motivated architectures of natural language processing.|S|Bed013
+fe004|oh wow interesting.|S|Bed013
+mn015|and the keynote speakers are tomasello macwhinney.|S|Bed013
+mn015|macwhinney i think.|S|Bed013
+fe004|whinney macwhinney uhhuh.|S|Bed013
+me045|macwhinney.|S|Bed013
+fe004|so interesting both like child language people.|S|Bed013
+mn015|yeah.|B|Bed013
+mn015|yep.|S|Bed013
+fe004|okay.|S|Bed013
+mn015|so maybe you want to write something too.|S|Bed013
+fe004|yeah maybe i want to go.|S|Bed013
+me045|huh huh.|B|Bed013
+fe004|um why are they speaking at it if it|D|Bed013
+fe004|is is it normally like like dialogue systems or you know other n.l.p. ish things?|Q|Bed013
+mn015|no no no no no no no no it's it's like a|D|Bed013
+fe004|oh it's cognitive.|S|Bed013
+fe004|okay.|S|Bed013
+mn015|yeah yeah.|S|Bed013
+mn015|even neuro.|S|Bed013
+fe004|and|F|Bed013
+fe004|uh both learning and like comprehension production that kind of stuff.|S|Bed013
+mn015|psycho.|S|Bed013
+mn015|you could look at the web site.|S|Bed013
+fe004|okay.|S|Bed013
+mn015|i'll|D|Bed013
+fe004|okay.|S|Bed013
+mn015|and the and and the deadline is the fifteenth of june.|S|Bed013
+fe004|i don't know about it.|S|Bed013
+fe004|yeah that's pretty soon.|S|Bed013
+me045|huh.|B|Bed013
+mn015|hey plenty of time.|S|Bed013
+me045|why we've got over a week!|S|Bed013
+mn015|it would be nice to go write two papers actually.|S|Bed013
+mn015|yeah and one one from your perspective and one from our|D|Bed013
+fe004|uhhuh.|B|Bed013
+fe004|i mean that's the kind of thing that maybe like um the general uh sort of like n.t.l. ish like whatever the previous simulation based maybe you're talking about the same kind of thing a general paper about the approach here would probably be appropriate.|S|Bed013
+mn015|yeah.|S|Bed013
+fe004|and good to do at some point anyway.|S|Bed013
+mn015|yeah.|S|Bed013
+fe004|um|F|Bed013
+mn015|well i i also think that if we sort of write about what we have done in the past six months we we we could sort of craft a nice little paper that if it gets rejected which could happen doesn't hurt.|S|Bed013
+fe004|uhhuh.|B|Bed013
+mn015|because it's something we uh|D|Bed013
+fe004|having it is still a good thing.|S|Bed013
+mn015|having it is a good good thing.|S|Bed013
+fe004|yeah.|B|Bed013
+mn015|it's a nice exercise.|S|Bed013
+mn015|it's|D|Bed013
+mn015|i usually enjoy writing papers.|S|Bed013
+mn015|it's not i don't regard it as a painful thing.|S|Bed013
+fe004|uhhuh it's fun.|S|Bed013
+mn015|and um we should all do more for our publication lists.|S|Bed013
+mn015|and it just never hurts.|S|Bed013
+mn015|and keith and or johno will go probably.|S|Bed013
+me003|will i?|Q|Bed013
+fe004|when is it and where?|Q|Bed013
+me045|huh.|B|Bed013
+mn015|in case of|D|Bed013
+mn015|it's on the twenty second of september in saarbruecken germany.|S|Bed013
+fe004|uh it's in germany.|S|Bed013
+fe004|uh okay i i see.|S|Bed013
+fe004|tomasello's already in germany anyway.|S|Bed013
+fe004|so makes sense okay.|S|Bed013
+me045|just|D|Bed013
+fe004|um okay.|F|Bed013
+fe004|so is the what are you just talking about you know the details of how to do it or whether to do it or what it would be?|Q|Bed013
+me045|what would one possibly put in such a paper.|S|Bed013
+mn015|what to write about.|S|Bed013
+fe004|or what to write about.|S|Bed013
+mn015|what is our what's our take home message.|S|Bed013
+mn015|what what do we actually|D|Bed013
+mn015|because i mean it i don't like papers where you just talk about what you plan to do.|S|Bed013
+mn015|i mean it's obvious that we can't do any kind of evaluation.|S|Bed013
+mn015|and have no you know we can't write an a.c.l. type paper where we say okay we've done this.|S|Bed013
+fe004|uhhuh.|D|Bed013
+mn015|and now we're whatever percentage better than everybody else you know.|S|Bed013
+fe004|uhhuh.|D|Bed013
+mn015|it's far too early for that.|S|Bed013
+mn015|but uh we we can tell them what we think.|S|Bed013
+mn015|i mean that's|D|Bed013
+mn015|never hurts to try.|S|Bed013
+mn015|and um|F|Bed013
+mn015|maybe even that's maybe the time to introduce the the new formalism that you guys have cooked up.|S|Bed013
+fe004|uhhuh.|B|Bed013
+me045|are in the process of|D|Bed013
+me003|but that|D|Bed013
+fe004|how many pages?|Q|Bed013
+me003|don't they need to finish the formalism?|Q|Bed013
+mn015|it's just like four pages.|S|Bed013
+fe004|four pages?|Q|Bed013
+mn015|i mean it's it's not even a|D|Bed013
+me045|yeah.|D|Bed013
+fe004|okay so it's a little thing.|S|Bed013
+mn015|uhhuh.|S|Bed013
+fe004|oh.|S|Bed013
+me003|well you said it was four thousand lines.|S|Bed013
+me045|oh.|S|Bed013
+me003|is that what you|D|Bed013
+fe004|okay four pages is like really not very much space.|S|Bed013
+mn015|i don't know.|S|Bed013
+mn015|did you look at it?|Q|Bed013
+mn015|yeah it depends on the format.|S|Bed013
+me045|oh my gosh oh i thought you were i thought we were talking about something.|S|Bed013
+me045|which was much more like ten or something.|S|Bed013
+mn015|no that's i mean that's actually a problem.|S|Bed013
+mn015|it's it's more difficult to write on four pages than on eight.|S|Bed013
+fe004|it's|D|Bed013
+fe004|yeah.|B|Bed013
+me045|yeah.|S|Bed013
+fe004|and it's also difficult to even if you had a lot of substance it's hard to demonstrate that in four pages basically.|S|Bed013
+me045|yeah.|S|Bed013
+fe004|um|F|Bed013
+me045|that would be hard.|S|Bed013
+mn015|well i uh maybe it's just four thousand lines.|S|Bed013
+fe004|i mean it's still it's still|D|Bed013
+mn015|i i don't they don't want any|D|Bed013
+mn015|they don't have a tex style guide.|S|Bed013
+fe004|uhhuh uhhuh.|B|Bed013
+mn015|they just want ascii.|S|Bed013
+mn015|pure ascii lines.|S|Bed013
+fe004|okay.|S|Bed013
+mn015|whatever.|S|Bed013
+mn015|why for whatever reason.|S|Bed013
+mn015|i don't know.|S|Bed013
+fe004|not including figures and such?|Q|Bed013
+mn015|i don't know.|S|Bed013
+mn015|very unspecific unfortunately.|S|Bed013
+fe004|okay.|S|Bed013
+fe004|well|D|Bed013
+mn015|we'll just uh|D|Bed013
+me003|i would say that's closer to six pages actually.|S|Bed013
+me003|four thousand lines of ascii?|Q|Bed013
+mn015|okay then.|S|Bed013
+me045|four thousand lines.|S|Bed013
+mn015|it's|D|Bed013
+me045|i mean isn't isn't it about fifty fifty five sixty lines to a page?|Q|Bed013
+mn015|i don't quote me on this.|S|Bed013
+mn015|this is numbers i i have from looking|D|Bed013
+me003|how many characters are on a line?|Q|Bed013
+mn015|okay.|S|Bed013
+fe004|ascii?|Q|Bed013
+mn015|let's let's what should we should should we uh um discuss this over tea?|Q|Bed013
+mn015|and all of us look at the web.|S|Bed013
+mn015|oh i can't.|S|Bed013
+mn015|i'm wizarding today.|S|Bed013
+fe004|okay look at the web page.|S|Bed013
+mn015|um|F|Bed013
+mn015|look at the web page and let's talk about it maybe tomorrow afternoon.|S|Bed013
+fe004|more cues for us to find it are like neural|D|Bed013
+mn015|johno will send you a link.|S|Bed013
+fe004|oh you have a link okay okay.|S|Bed013
+me003|i got an email.|S|Bed013
+fe004|okay.|S|Bed013
+me003|by the way keith is comfortable with us calling him cool keith.|S|Bed013
+fe004|oh cool keith.|S|Bed013
+me045|he he decided i'm chilling in the five one o..|S|Bed013
+fe004|cool cool keith.|S|Bed013
+me045|yeah.|S|Bed013
+fe004|excellent.|S|Bed013
+mn015|okay.|S|Bed013
+fe004|that's a very cool t. shirt.|S|Bed013
+me045|thank you.|S|Bed013
+mn015|and i'm also flying|D|Bed013
+me045|i got this from the two one two.|S|Bed013
+fe004|new york?|Q|Bed013
+fe004|excellent.|S|Bed013
+me045|yeah.|S|Bed013
+fe004|sorry yes?|S|Bed013
+mn015|i'm flying to sicily next in a two weeks from now.|S|Bed013
+fe004|oh lucky you.|S|Bed013
+mn015|and a week of business in germany.|S|Bed013
+mn015|i should mention that for you.|S|Bed013
+mn015|and otherwise you haven't missed much.|S|Bed013
+mn015|except for a really weird idea.|S|Bed013
+mn015|but you'll hear about that soon enough|D|Bed013
+fe004|the idea that you and i already know about?|Q|Bed013
+fe004|that you already told me.|S|Bed013
+fe004|not that|D|Bed013
+mn015|no no no.|S|Bed013
+fe004|okay.|S|Bed013
+mn015|yeah that is something for the rest of the gang to to|D|Bed013
+me045|the thing with the goats and the helicopters?|Q|Bed013
+mn015|change the watchband.|S|Bed013
+mn015|it's time to walk the sheep.|S|Bed013
+fn050|like|D|Bed013
+fe004|okay.|S|Bed013
+mn015|um|F|Bed013
+mn015|did you catch that allusion?|Q|Bed013
+mn015|it's time to walk the sheep.|S|Bed013
+me045|no.|S|Bed013
+mn015|it's uh presumably one of the watergate codes they uh|D|Bed013
+me045|oh.|S|Bed013
+mn015|anyways|D|Bed013
+mn015|um um|F|Bed013
+mn015|don't make any plans for spring break next year.|S|Bed013
+mn015|that's|D|Bed013
+me045|oh shoot.|S|Bed013
+mn015|that's the other thing.|S|Bed013
+mn015|we're going to do an e.d.u. internal workshop in sicily.|S|Bed013
+fe004|that's what that's what he says.|S|Bed013
+mn015|i've already got the funding.|S|Bed013
+fe004|i that's great.|S|Bed013
+mn015|so i mean|D|Bed013
+fe004|does that mean does that mean you'll get you'll fly us there?|Q|Bed013
+me045|we'll see.|S|Bed013
+mn015|no that's|D|Bed013
+mn015|yeah that's what it means.|S|Bed013
+fe004|hhh!|D|Bed013
+fe004|okay cool.|S|Bed013
+me045|huh.|B|Bed013
+me003|and he'll put us up too.|S|Bed013
+fe004|i know i know about that part.|S|Bed013
+fe004|i know about the the almond trees and stuff.|S|Bed013
+fe004|not joking.|S|Bed013
+mn015|okay.|D|Bed013
+fe004|name a vegetable.|S|Bed013
+fe004|okay oh um kiwi.|S|Bed013
+me045|yeah.|B|Bed013
+mn015|huh too easy.|S|Bed013
+fe004|coconut.|S|Bed013
+fe004|pineapple.|S|Bed013
+fe004|see?|Q|Bed013
+fe004|mango.|S|Bed013
+mn015|too easy.|S|Bed013
+fe004|okay okay too easy?|S|Bed013
+mn015|yeah mangos go everywhere.|S|Bed013
+mn015|so do kiwi.|S|Bed013
+fe004|really?|Q|Bed013
+fe004|oh okay but i was trying to find something that he didn't grow on his farm.|S|Bed013
+mn015|but coconut pineapple that's that's tricky yeah.|S|Bed013
+fe004|sorry.|S|Bed013
+fe004|anyway|D|Bed013
+fe004|cantaloupe.|S|Bed013
+me045|so but we have to decide what like sort of the general idea of|D|Bed013
+me003|potatoes.|S|Bed013
+me003|so sorry.|S|Bed013
+me045|um|F|Bed013
+me045|i mean we're going to have an example case.|S|Bed013
+me045|um right?|Q|Bed013
+me045|i the the point is to like this where is case or something.|S|Bed013
+mn015|yeah maybe you have it would be kind of the paper would have in my vision a nice flow if we could say well here is the here is parsing if you want to do it right.|S|Bed013
+mn015|here is understanding if you want to do it right.|S|Bed013
+mn015|and you know without going into technical|D|Bed013
+me045|uhhuh.|B|Bed013
+fe004|but then in the end we're not doing like those things right yet right?|S|Bed013
+fe004|would that be clear in the paper or not?|Q|Bed013
+mn015|that would be clear.|S|Bed013
+mn015|we would|D|Bed013
+mn015|i i mailed around a little paper that i have.|S|Bed013
+fe004|okay.|S|Bed013
+fe004|it would be like this is the idea.|S|Bed013
+mn015|we could sort of say this is|D|Bed013
+fe004|oh i didn't get that.|S|Bed013
+fe004|did i?|Q|Bed013
+fe004|oops.|S|Bed013
+mn015|no.|S|Bed013
+fe004|did i?|Q|Bed013
+fe004|oops sorry.|S|Bed013
+me003|no i don't think you got it.|S|Bed013
+mn015|see this if if you're not around and don't partake in the discussions and you don't get any email.|S|Bed013
+fe004|i'm sorry i'm sorry i'm sorry sorry.|S|Bed013
+mn015|and|F|Bed013
+fe004|okay go on.|S|Bed013
+fe004|so parsing done right is like chicken done right.|S|Bed013
+mn015|so we could we could say this is what what's sort of state of the art today nuh?|S|Bed013
+fe004|okay.|S|Bed013
+mn015|and say this is bad nuh?|S|Bed013
+fe004|yeah.|S|Bed013
+mn015|and then we can say uh well what we do is this.|S|Bed013
+fe004|okay.|S|Bed013
+mn015|yeah.|D|Bed013
+fe004|parsing done right interpretation done right example.|S|Bed013
+mn015|uhhuh yeah and|D|Bed013
+fe004|and how much to get into the cognitive neural part?|Q|Bed013
+me003|that's the only that's the question mark.|S|Bed013
+me003|don't you need to reduce it if it's a or reduce it if it's a cognitive neuro|D|Bed013
+fe004|well you don't have|D|Bed013
+fe004|i mean the conference may be cognitive neural.|S|Bed013
+fe004|doesn't mean that every paper has to be both.|S|Bed013
+mn015|yeah and you can you can just point to the to the literature.|S|Bed013
+me045|huh.|B|Bed013
+fe004|like n.l.p. cognitive neural.|S|Bed013
+mn015|you can say that construction based.|D|Bed013
+mn015|you know|D|Bed013
+fe004|so so this paper wouldn't particularly deal with that side.|S|Bed013
+fe004|although it could reference the n.t.l. ish sort of like um approach.|S|Bed013
+mn015|uhhuh.|B|Bed013
+fe004|yeah.|S|Bed013
+mn015|yeah.|S|Bed013
+fe004|the fact that the methods here are all compatible with or designed to be compatible with whatever neurological stuff.|S|Bed013
+mn015|uhhuh.|D|Bed013
+fe004|yeah i guess four pages you could|D|Bed013
+fe004|i mean you could definitely it's definitely possible to do it.|D|Bed013
+fe004|it's just it'd just be small.|S|Bed013
+fe004|like introducing the formalism might be not really possible in detail.|S|Bed013
+fe004|but you can use an example of it.|S|Bed013
+me045|well looking at|D|Bed013
+me045|yeah looking at that paper that that you had i mean you know like you didn't really explain in detail what was going on in the x.m.l. cases or whatever.|S|Bed013
+me045|you just sort of said well you know here's the general idea.|S|Bed013
+me045|some stuff gets put in there.|S|Bed013
+me045|you know hopefully you can you can say something like constituents tells you what the construction is made out of you know without going into this intense detail.|S|Bed013
+fe004|yeah yeah.|B|Bed013
+fe004|so it be like using the formalism rather than you know introducing it per se.|S|Bed013
+me045|yeah.|S|Bed013
+fe004|so|F|Bed013
+me045|give them the one paragraph whirlwind tour of what this is for.|S|Bed013
+fe004|yeah.|S|Bed013
+me045|and yeah.|F|Bed013
+mn015|uhhuh.|D|Bed013
+fe004|and people will sort of figure out or ask about the bits that are implicit.|S|Bed013
+mn015|yeah.|B|Bed013
+mn015|so this will be sort of documenting what we think and documenting what we have in terms of the bayes-net stuff.|S|Bed013
+fe004|uhhuh.|B|Bed013
+mn015|and since there's never a bad idea to document things no?|S|Bed013
+fe004|that's that's definitely a good idea.|S|Bed013
+mn015|that would be my uh|D|Bed013
+mn015|we we should sketch out the details maybe tomorrow afternoon-ish if everyone is around.|S|Bed013
+mn015|i don't know.|S|Bed013
+me045|i think so.|S|Bed013
+mn015|you probably wouldn't be part of it.|S|Bed013
+mn015|maybe you want|D|Bed013
+mn015|think about it.|S|Bed013
+mn015|um|F|Bed013
+mn015|you may may ruin your career forever if you appear.|S|Bed013
+me003|yeah you might get blacklisted.|S|Bed013
+mn015|and um|F|Bed013
+mn015|the uh other thing|D|Bed013
+mn015|yeah we actually have we made any progress on what we decided uh last week?|Q|Bed013
+mn015|i'm sure you read the transcript of last week's meeting in red.|S|Bed013
+mn015|so so you're up to dated caught up.|S|Bed013
+fe004|no sorry.|S|Bed013
+mn015|we decided that we're going to take a where is something question.|S|Bed013
+mn015|and pretend we have parsed it.|S|Bed013
+mn015|and see what we could possibly hope to observe on the discourse side.|S|Bed013
+me003|remember i came in and i started asking you about how we were going to sort out the uh decision nodes?|Q|Bed013
+fe004|yes.|S|Bed013
+fe004|what'd you say?|Q|Bed013
+me003|i remember you talking to me just not what you said.|S|Bed013
+fe004|i do remember you talking to me.|S|Bed013
+fe004|um|F|Bed013
+fe004|a few more bits.|S|Bed013
+me003|well there was like we needed to or uh in my opinion we need to design a bayes another sub-bayes-net.|S|Bed013
+me003|you know it was whether it was whether we would have a bayes-net on the output and on the input.|S|Bed013
+fe004|oh.|B|Bed013
+me003|or whether the construction was going to be in the bayes-net.|S|Bed013
+fe004|oh yeah okay.|S|Bed013
+me003|and outside of it.|S|Bed013
+me003|and|F|Bed013
+fe004|okay.|S|Bed013
+fe004|so that was was that the question?|Q|Bed013
+fe004|was that what|D|Bed013
+me003|well that was related to what we were talking about.|S|Bed013
+mn015|should i introduce it as sudo-square?|Q|Bed013
+me003|yeah sure.|S|Bed013
+mn015|we have to put this in the paper.|S|Bed013
+mn015|if we write it.|S|Bed013
+mn015|this is this is my only constraint.|S|Bed013
+mn015|the|D|Bed013
+mn015|so|F|Bed013
+mn015|the sudo-square is situation user discourse right ontology.|S|Bed013
+me045|oh i saw the diagram in the office.|S|Bed013
+fe004|oh my god that's amazing!|S|Bed013
+mn015|huh.|B|Bed013
+mn015|yeah whatever.|S|Bed013
+fe004|no way!|S|Bed013
+me045|way.|S|Bed013
+mn015|is it?|Q|Bed013
+fe004|someone's going to start making phil collins jokes.|S|Bed013
+mn015|yeah.|B|Bed013
+mn015|huh?|Q|Bed013
+fe004|sorry.|S|Bed013
+me045|oh god i hope not.|S|Bed013
+me003|what?|Q|Bed013
+fe004|you guys are too young.|S|Bed013
+me045|you know like sussudio.|S|Bed013
+me045|that horrible horrible song that should never have been created.|S|Bed013
+fe004|yeah come on.|S|Bed013
+me003|oh oh oh oh.|S|Bed013
+fe004|i know that was horrible.|S|Bed013
+me003|i've blocked every aspect of phil collins out of my mind.|S|Bed013
+fe004|sussudio.|S|Bed013
+fn050|what?|D|Bed013
+fe004|i'm sorry i haven't.|S|Bed013
+fe004|not on purpose.|S|Bed013
+me045|in here.|D|Bed013
+mn015|oh well also he's talking about suicide.|S|Bed013
+mn015|and that's that's not a notion i want to have evoked.|S|Bed013
+fe004|no he's not.|S|Bed013
+mn015|he is.|S|Bed013
+fe004|really?|Q|Bed013
+fe004|oops i didn't really listen to it.|S|Bed013
+mn015|the|D|Bed013
+fe004|i was too young.|S|Bed013
+me045|huh.|B|Bed013
+me045|it sounds too rocking for that.|S|Bed013
+fe004|anyway|D|Bed013
+fe004|yeah.|S|Bed013
+me045|anyway so what's going on here?|Q|Bed013
+me045|so what are what|D|Bed013
+me045|was wollte der kuenstler uns damit sagen?|Q|Bed013
+mn015|so|F|Bed013
+fe004|stop excluding me.|S|Bed013
+mn015|okay so we have tons of little things here.|S|Bed013
+mn015|and we've|D|Bed013
+fe004|i can't believe that that's never been thought of before.|S|Bed013
+me003|wait what are the dots?|Q|Bed013
+me003|i don't remember what the dots were.|S|Bed013
+me045|those are little bugs.|S|Bed013
+mn015|okay.|F|Bed013
+fe004|cool keith.|S|Bed013
+mn015|you know these are our whatever belief net decision nodes.|S|Bed013
+mn015|and they all contribute to these things down here.|S|Bed013
+me003|oh oh.|B|Bed013
+fe004|wait wait what's the middle thing?|S|Bed013
+mn015|that's e.d.u.|S|Bed013
+me045|that's a|D|Bed013
+mn015|our|D|Bed013
+fe004|but i mean|D|Bed013
+me045|that's|D|Bed013
+mn015|you.|S|Bed013
+mn015|we.|S|Bed013
+mn015|us.|S|Bed013
+fe004|but what is it?|Q|Bed013
+mn015|well in the moment it's a bayes-net.|S|Bed013
+mn015|and it has sort of fifty not yet specified interfaces.|S|Bed013
+mn015|okay uh i have taken care that we actually can build little interfaces to other modules that will tell us whether the user likes these things and the or these things.|S|Bed013
+mn015|and he whether he's in a wheelchair or not.|S|Bed013
+fe004|okay.|B|Bed013
+fe004|is that supposed to be the international sign for interface?|Q|Bed013
+mn015|i think so yeah.|S|Bed013
+fe004|huh okay.|S|Bed013
+me003|i'd i'd never seen it before either.|S|Bed013
+fe004|okay just|D|Bed013
+fe004|cool.|S|Bed013
+mn015|huh so|F|Bed013
+me045|because things fit onto that see?|S|Bed013
+fe004|yeah.|B|Bed013
+fe004|cool.|S|Bed013
+me045|in a vaguely obscene fashion.|S|Bed013
+mn015|no this is a r.m.e. core by agent design.|S|Bed013
+mn015|i don't know.|S|Bed013
+fe004|that's so great.|S|Bed013
+mn015|there's maybe a different|D|Bed013
+me045|so wait.|S|Bed013
+me045|what what are these letters again?|Q|Bed013
+me045|situation user discourse and|D|Bed013
+mn015|situation user ontology.|S|Bed013
+fe004|user?|Q|Bed013
+me045|ontology.|S|Bed013
+fe004|what about the utterance?|Q|Bed013
+mn015|that's here.|S|Bed013
+me045|it's|D|Bed013
+fn050|discourse.|S|Bed013
+fe004|oh discourse.|S|Bed013
+mn015|yeah.|S|Bed013
+me045|discourse is all things linguistic yeah.|S|Bed013
+fe004|so that's not like context okay.|S|Bed013
+mn015|so this this includes the the current utterance plus all the previous utterances.|S|Bed013
+fe004|interesting.|S|Bed013
+fe004|uhhuh.|B|Bed013
+fe004|user.|S|Bed013
+mn015|and for example irena gurevich is going to be here uh end of july.|S|Bed013
+fe004|user.|S|Bed013
+mn015|she's a new linguist working for e.m.l.|S|Bed013
+mn015|and what she would like to do for example is great for us.|S|Bed013
+mn015|she would like to take the|D|Bed013
+fn050|ouch.|S|Bed013
+mn015|so|F|Bed013
+mn015|we have discussed in terms of the eva|D|Bed013
+fe004|grateful for us?|Q|Bed013
+mn015|uh|F|Bed013
+fe004|did you just say grateful for us?|Q|Bed013
+fe004|okay sorry.|S|Bed013
+fe004|anyway|D|Bed013
+mn015|think of back at the eva vector.|S|Bed013
+mn015|and johno coming up with the idea that if the person discussed the discussed the admission fee in uh previously that might be a good indication that how do i get to the castle ? actually he wants to enter.|S|Bed013
+fe004|uhhuh.|B|Bed013
+mn015|or you know how do i get to x. .|S|Bed013
+mn015|discussing the admission fee in the previous utterance is a good indication.|S|Bed013
+me045|uhhuh.|B|Bed013
+mn015|so|F|Bed013
+mn015|we don't want a hard code a set of lexemes or things that person's you know sort of filter or uh search the discourse history.|S|Bed013
+fe004|uhhuh.|B|Bed013
+mn015|so what would be kind of cool is that if we encounter concepts that are castle tower bank hotel we run it through the ontology.|S|Bed013
+mn015|and the ontology tells us it has um admission opening times.|S|Bed013
+mn015|it has admission fees.|S|Bed013
+mn015|it has this it has that.|S|Bed013
+mn015|and then we we we make a thesaurus lexicon look up.|S|Bed013
+mn015|and then search dynamically through the uh discourse history for occurrences of these things in a given window of utterances.|S|Bed013
+fe004|uhhuh.|B|Bed013
+mn015|and that might you know give us additional input to belief a. versus b. .|S|Bed013
+mn015|or e. versus a. .|S|Bed013
+fe004|so it's not just a particular word's|D|Bed013
+fe004|okay so the you're looking for a few keys that you know are cues to sorry a few specific cues to some intention.|S|Bed013
+me003|you can dynamically look up keys yeah.|S|Bed013
+mn015|yeah.|S|Bed013
+me045|uh so wait so um since this since this sort of technical stuff is going over my head.|S|Bed013
+fe004|okay.|S|Bed013
+me003|and then grep basically.|S|Bed013
+me045|the the point is that you uh that when someone's talking about a castle you know that it's the sort of thing that people are likely to want to go into?|Q|Bed013
+me045|or is it the fact that if there's an admission fee then one of the things we know about admission fees is that you pay them in order to go in?|Q|Bed013
+me045|and then the idea of entering is active in the discourse or something and then.|S|Bed013
+mn015|well|D|Bed013
+me045|blah blah blah.|S|Bed013
+me045|i mean|F|Bed013
+mn015|the the idea is even more general.|S|Bed013
+mn015|the idea is to say we encounter a certain entity in a in in a utterance.|S|Bed013
+mn015|so let's look up everything we the ontology gives us about that entity.|S|Bed013
+mn015|what stuff it does what roles it has.|S|Bed013
+mn015|what parts whatever it has.|S|Bed013
+mn015|functions.|S|Bed013
+mn015|and then we look in the discourse whether any of that or any surface structure corresponding to these roles functions ah has ever occurred.|S|Bed013
+me045|oh okay.|B|Bed013
+mn015|and then the discourse history can tell us yeah or no.|S|Bed013
+me045|okay.|S|Bed013
+mn015|and then it's up for us to decide what to do with it.|S|Bed013
+me045|okay.|S|Bed013
+mn015|so|D|Bed013
+me045|so|F|Bed013
+me045|no go ahead.|S|Bed013
+mn015|so we may think that if you say um where is the theater um whether or not he has talked about tickets before then we he's probably want to go there to see something.|S|Bed013
+me045|uhhuh.|B|Bed013
+me045|okay.|B|Bed013
+mn015|or where is the opera in paris.|S|Bed013
+mn015|yeah.|S|Bed013
+mn015|lots of people go to the opera to take pictures of it and to look at it.|S|Bed013
+me045|uhhuh okay.|B|Bed013
+mn015|and lots of people go to attend a performance.|S|Bed013
+me045|uhhuh.|B|Bed013
+mn015|and the discourse can maybe tell us what's more likely if we know what to look for in previous statements.|S|Bed013
+mn015|and so we can hard code for opera look for tickets look for this look for that.|S|Bed013
+me045|okay.|B|Bed013
+me045|okay.|B|Bed013
+mn015|or look for mozart look for|D|Bed013
+mn015|but the smarter way is to go via the ontology.|S|Bed013
+mn015|and dynamically then look up stuff.|S|Bed013
+me045|okay but you're still doing look up so that when the person so the point is that when the person says where is it then you sort of say let's go back and look at other things and then decide.|S|Bed013
+me045|rather than the other possibility which is that all through discourse as they talk about different things.|S|Bed013
+me045|you know like|D|Bed013
+me045|prior to the where is it question they say you know how much does it cost to get in you know to to see a movie around here.|S|Bed013
+me045|um where is the closest theater.|S|Bed013
+me045|the the the point is that by mentioning admission fees that just sort of stays active now.|S|Bed013
+mn015|yeah.|B|Bed013
+me045|you know that becomes part of like their sort of current ongoing active conceptual structure.|S|Bed013
+mn015|uhhuh.|B|Bed013
+me045|and then um over in your bayes-net or whatever when when the person says where is it you've already got you know since they were talking about admission and that evokes the idea of entering um then when they go and ask where is it then you're enter node is already active.|S|Bed013
+me045|because that's what the person is thinking about.|S|Bed013
+mn015|uhhuh.|B|Bed013
+mn015|yeah.|B|Bed013
+me045|i mean that's the sort of cognitive linguistic y way.|S|Bed013
+me045|and probably not practical.|S|Bed013
+mn015|yeah ultimately that's also what we want to get at.|S|Bed013
+mn015|i think that's that's the correct way.|S|Bed013
+mn015|so of course we have to keep memory of what was the last intention.|S|Bed013
+me045|uhhuh.|B|Bed013
+mn015|and how does it fit to this and what does it tell us in terms of of the the what we're examining.|S|Bed013
+me045|huh yeah.|B|Bed013
+mn015|and furthermore i mean we can idealize that you know people don't change topics.|S|Bed013
+me045|uhhuh.|B|Bed013
+mn015|but they do.|S|Bed013
+mn015|but even for that there is a student of ours who's doing a dialogue act um recognition module.|S|Bed013
+me045|right.|S|Bed013
+me045|uhhuh.|B|Bed013
+mn015|so maybe we're even in a position where we can take your approach.|S|Bed013
+mn015|which is of course much better as to say how how do these pieces|D|Bed013
+me045|huh.|B|Bed013
+me045|and much harder to program.|S|Bed013
+mn015|huh?|Q|Bed013
+me045|and much harder to to program.|S|Bed013
+mn015|yeah how how do these pieces fit together.|S|Bed013
+mn015|uhhuh.|B|Bed013
+mn015|and um|F|Bed013
+mn015|but okay nevertheless so these are issues.|S|Bed013
+mn015|but we what we actually decided last week is to and this is again for your benefit is to um pretend we have observed and parsed an utterance such as where is the powder tower.|S|Bed013
+mn015|or where is the zoo.|S|Bed013
+mn015|and specify um what what we think the the output uh observe out input nodes for our bayes-nets for the sub d. for the discourse bit should be.|S|Bed013
+mn015|so that and i will i will then come up with the ontology side uh bits and pieces.|S|Bed013
+mn015|so that we can say okay we we always just look at this utterance.|S|Bed013
+mn015|that's the only utterance we can do.|S|Bed013
+mn015|it's hard coded.|S|Bed013
+mn015|like srini sort of hand parsed.|S|Bed013
+mn015|hand crafted.|S|Bed013
+mn015|but this is what we hope to be able to observe in general from utterances and from ontologies.|S|Bed013
+mn015|and then we can sort of fiddle with these things to see what it actually produces in terms of output.|S|Bed013
+me045|uh.|B|Bed013
+mn015|so we need to find out what the where is x. construction will give us in terms of semantics.|S|Bed013
+mn015|and simspec type things.|S|Bed013
+fe004|just|D|Bed013
+fe004|okay just where is x. ?|S|Bed013
+mn015|uhhuh.|B|Bed013
+fe004|or any variants of that.|S|Bed013
+mn015|yeah.|S|Bed013
+mn015|no!|S|Bed013
+mn015|um look at it this way.|S|Bed013
+mn015|yeah.|F|Bed013
+mn015|what did we decide?|Q|Bed013
+mn015|we decided sort of the the prototypical where is x. where you know we don't really know does he want to go there or just want to know where it is.|S|Bed013
+me045|well we were|D|Bed013
+mn015|so the difference of where is the railway station versus where where where is greenland nuh.|S|Bed013
+me045|uhhuh.|B|Bed013
+me003|uh i was just dancing sorry.|S|Bed013
+mn015|we're not videotaping any of this.|S|Bed013
+mn015|so|F|Bed013
+me003|uh uh.|D|Bed013
+me045|so um we're supposed to|D|Bed013
+me045|i mean we're talking about sort of anything that has the semantics of request for location right?|S|Bed013
+me045|actually|D|Bed013
+me045|or|D|Bed013
+me045|i mean anyway the node in the uh the ultimate uh in in the bayes-net thing when you're done the the node that we're talking about um is one that says request for location true or something like that right?|S|Bed013
+me045|um and and exactly how that gets activated you know like whether we want the sentence how do i get there to activate that node or not you know that's that's sort of the issue that sort of the linguistic y side has to deal with right.|S|Bed013
+mn015|yeah but it|D|Bed013
+mn015|well actually more more the other way around.|S|Bed013
+mn015|we wanted something that represents uncertainty uh in terms of going there or just wanting to know where it is for example.|S|Bed013
+mn015|some generic information.|S|Bed013
+me045|okay.|B|Bed013
+mn015|and so this is prototypically found in the where is something question surface structure.|S|Bed013
+me045|okay.|B|Bed013
+mn015|which can be you know should be maps to something that activates both.|S|Bed013
+mn015|i mean the idea is to|D|Bed013
+me003|i don't|D|Bed013
+me045|all right okay.|S|Bed013
+me003|hhh.|D|Bed013
+mn015|let's have it fit nicely with the paper.|S|Bed013
+me003|i guess i don't|D|Bed013
+me003|i don't see how we would be able to distinguish between the two intentions just from the utterance though.|S|Bed013
+mn015|the|D|Bed013
+me003|i mean uh or before we don't before we cranked it through the bayes-net.|S|Bed013
+me003|i mean|F|Bed013
+mn015|yeah we we wouldn't.|S|Bed013
+mn015|that's exactly what we want.|S|Bed013
+mn015|we want to get|D|Bed013
+me003|we would?|Q|Bed013
+mn015|no we wouldn't.|S|Bed013
+me003|okay.|S|Bed013
+me003|but then so basically it's just a for every construction we have a node in the net right?|S|Bed013
+me003|and we turn on that node.|S|Bed013
+mn015|yeah.|S|Bed013
+me045|oy.|S|Bed013
+mn015|what what is this going to|D|Bed013
+mn015|exactly.|S|Bed013
+mn015|what is the uh|D|Bed013
+mn015|well|F|Bed013
+me003|and then given that we know that the construction has these two things we can set up probabilities.|S|Bed013
+me003|we can basically define all the tables for for those.|S|Bed013
+mn015|yeah it should be so we have|D|Bed013
+mn015|um|F|Bed013
+mn015|let's assume we we call something like a loc x. node and a path x. node.|S|Bed013
+mn015|and what we actually get if we just look at the discourse where is x. should activate.|S|Bed013
+mn015|or should|D|Bed013
+me045|huh.|B|Bed013
+mn015|huh should be both.|S|Bed013
+mn015|whereas maybe where is x. located we find from the data is always just asked when the person wants to know where it is.|S|Bed013
+mn015|and how do i get to is always asked when the person just wants to know how to get there.|S|Bed013
+mn015|right?|Q|Bed013
+mn015|so we want to sort of come up with what gets uh input and how in case of a where is question.|S|Bed013
+mn015|so what what would the outcome of of your parser look like?|Q|Bed013
+mn015|and what other discourse information from the discourse history could we hope to get squeeze out of that utterance?|Q|Bed013
+mn015|so define the the input into the bayes-net based on what the utterance where is x. gives us.|S|Bed013
+mn015|so definitely have an entity node here which is activated via the ontology.|S|Bed013
+mn015|so where is x. produces something that is stands for x. whether it's castle bank restroom toilet whatever.|S|Bed013
+mn015|and then the ontology will tell us|D|Bed013
+fe004|that it has a location or something like that.|S|Bed013
+fe004|or the ontology will tell us where actually it is located.|S|Bed013
+mn015|no not at all.|S|Bed013
+fe004|okay.|S|Bed013
+mn015|where it is located we have a user proximity node here somewhere.|S|Bed013
+fe004|okay okay.|S|Bed013
+mn015|which tells us how far the user how far away the user is in respect to that uh entity.|S|Bed013
+fe004|okay.|S|Bed013
+fe004|so you're talking about for instance the construction obviously involves this entity or refers refers to this entity.|S|Bed013
+mn015|uhhuh.|B|Bed013
+fe004|and from the construction also you know that it is a location.|S|Bed013
+fe004|is or a thing thing that can be located.|S|Bed013
+fe004|right ontology says this thing has a location slot.|S|Bed013
+fe004|and that's the thing that is being that is the content of the question that's being queried by one interpretation of where is x. .|S|Bed013
+fe004|and another one is um path from current user current location to that location.|S|Bed013
+mn015|uhhuh.|B|Bed013
+fe004|so|F|Bed013
+fe004|so is the question|D|Bed013
+fe004|i mean it's just that i'm not sure what the|D|Bed013
+fe004|is the question for this particular construction how we specify that that's the information it provides?|Q|Bed013
+fe004|or or asked for?|Q|Bed013
+fe004|both sides right?|S|Bed013
+mn015|yeah you don't need to even do that.|S|Bed013
+mn015|it's just sort of what what would be observed in uh in that case.|S|Bed013
+fe004|observed when you heard the speaker say where is x. or when when that's been parsed?|Q|Bed013
+mn015|uhhuh.|S|Bed013
+fe004|so these little circles you have by the d. .|S|Bed013
+fe004|is that|D|Bed013
+mn015|that's exactly what we're looking for.|S|Bed013
+fe004|okay okay.|S|Bed013
+me003|i i just i don't like having characterizing the constructions with location and path.|S|Bed013
+me003|or characterizing them like that.|S|Bed013
+me003|because you don't it seems like in the general case you wouldn't know how how to characterize them.|S|Bed013
+mn015|you wouldn't.|S|Bed013
+me003|i mean or for when.|S|Bed013
+me003|there could be an interpretation that we don't have a node for in the|D|Bed013
+me003|i mean it just seems like has to have uh a node for the construction and then let the chips fall where they may.|S|Bed013
+me003|versus uh saying this construction either can mean location or path.|S|Bed013
+me003|and in this and since since it can mean either of those things it would light both of those up.|S|Bed013
+mn015|it's the same.|S|Bed013
+me003|thoughts?|Q|Bed013
+me003|questions?|Q|Bed013
+me045|i'm thinking about it.|S|Bed013
+me045|um|F|Bed013
+mn015|it will be the same.|S|Bed013
+mn015|so i think in here we have i'll go there right.|S|Bed013
+me003|answers?|Q|Bed013
+mn015|and we have our info on.|S|Bed013
+mn015|so in my my case this would sort of make this happy and this would make the go there happy.|S|Bed013
+mn015|what you're saying is we have a where x. question where x. node that makes both happy.|S|Bed013
+mn015|right?|Q|Bed013
+mn015|that's what you're proposing which is in my mind.|S|Bed013
+mn015|just as fine.|S|Bed013
+mn015|so if we have a construction node where is x. it's going to both get the posterior probability that it's info on up.|S|Bed013
+me003|huh yeah.|B|Bed013
+mn015|info on is true up and that go there is true up as well.|S|Bed013
+mn015|which would be exactly analogous to what i'm proposing is this makes uh makes something here true.|S|Bed013
+mn015|and this makes something also something here true.|S|Bed013
+mn015|and this makes this true up and this makes this true up as well.|S|Bed013
+me045|i kind of like it better without that extra level of indirection too.|S|Bed013
+me045|you know with with this points to this points to that and so on.|S|Bed013
+me045|because i don't know it|D|Bed013
+mn015|yeah because we get we get tons of constructions i think.|S|Bed013
+fe004|uh|D|Bed013
+me045|yeah.|B|Bed013
+mn015|because you know huh people have many ways of asking for the same thing.|S|Bed013
+me003|yeah sure.|S|Bed013
+fe004|yeah.|D|Bed013
+mn015|and|F|Bed013
+fe004|so|D|Bed013
+me003|i i changed my mind actually.|S|Bed013
+me045|okay.|S|Bed013
+fe004|so i agree with that.|S|Bed013
+fe004|i have a different kind of question.|S|Bed013
+fe004|might be related.|S|Bed013
+fe004|which is okay so implicitly everything in e.d.u. we're always inferring the speaker intent right?|S|Bed013
+fe004|like what they want.|S|Bed013
+fe004|either the information that they want or|D|Bed013
+fe004|it's always information that they want probably of some kind.|S|Bed013
+fe004|right?|Q|Bed013
+fe004|or i i don't know.|S|Bed013
+mn015|the system doesn't massage you no no.|S|Bed013
+fe004|or what's something that they|D|Bed013
+fe004|i i i don't|D|Bed013
+fe004|okay.|S|Bed013
+fe004|so um|F|Bed013
+fe004|let's see.|S|Bed013
+fe004|so i don't know if the i mean if just there's more here that's not shown that you it's already like part of the system whatever.|S|Bed013
+fe004|but where is x. like the fact that it is you know a speech act whatever|D|Bed013
+fe004|it is a question.|S|Bed013
+fe004|it's a question that um queries on some particular thing x. .|S|Bed013
+fe004|and x. is that location.|S|Bed013
+fe004|there's like a lot of structure in representing that.|S|Bed013
+mn015|yep yeah.|S|Bed013
+fe004|so that seems different from just having the node location x..|S|Bed013
+fe004|and that goes into edu right?|S|Bed013
+mn015|yeah precisely.|S|Bed013
+mn015|that's that's|D|Bed013
+mn015|so|D|Bed013
+fe004|so is that what you're talking about?|Q|Bed013
+mn015|exactly we have we have specified two.|S|Bed013
+fe004|what kinds of structure we want.|S|Bed013
+mn015|okay the next one would be here just for mood.|S|Bed013
+me045|uhhuh.|B|Bed013
+fe004|uhhuh.|B|Bed013
+mn015|the next one would be what we can squeeze out of the uh|D|Bed013
+mn015|i don't know maybe we want to observe the uh um uh the length of of the words used and or the prosody.|S|Bed013
+fe004|huh.|B|Bed013
+mn015|and and make conclusions about the user's intelligence.|S|Bed013
+fe004|okay so in some ways|D|Bed013
+mn015|i don't know.|S|Bed013
+mn015|yeah.|B|Bed013
+fe004|um so in some ways in the other sort of parallel set of more linguistic meetings we've been talking about possible semantics of some construction.|S|Bed013
+me045|uhhuh.|B|Bed013
+fe004|right?|Q|Bed013
+fe004|where it was|D|Bed013
+fe004|the simulation that's according to it you know that that corresponds to it and as well the as discourse.|S|Bed013
+mn015|uhhuh.|B|Bed013
+fe004|whatever discourse information.|S|Bed013
+fe004|such as the mood.|S|Bed013
+fe004|and you know other stuff.|S|Bed013
+fe004|so are we looking for a sort of abbreviation of that that's tailored to this problem?|Q|Bed013
+fe004|because that that has you know basically you know it's in progress still.|S|Bed013
+fe004|it's in development still.|S|Bed013
+fe004|but it definitely has various feature slots attributes um bindings between things.|S|Bed013
+mn015|uhhuh.|B|Bed013
+mn015|yeah.|B|Bed013
+mn015|that's exactly um why i'm proposing it's too early to have to think of them of all of these discourse things that one could possibly observe.|S|Bed013
+fe004|uhhuh.|B|Bed013
+fe004|uhhuh.|B|Bed013
+mn015|so let's just assume|D|Bed013
+fe004|for the subset of|D|Bed013
+mn015|human beings are not allowed to ask anything but where is x. .|S|Bed013
+fe004|okay.|S|Bed013
+mn015|this is the only utterance in the world.|S|Bed013
+mn015|what could we observe from that?|Q|Bed013
+fe004|okay that exactly where is x. .|S|Bed013
+mn015|in|D|Bed013
+fe004|not the the choices of where is x. or how do i get to x. .|S|Bed013
+fe004|just where is x. .|S|Bed013
+me045|yeah.|S|Bed013
+mn015|just just where is x. .|S|Bed013
+fe004|okay.|S|Bed013
+mn015|and but you know do it do it in such a way that we know that people can also say is the town hall in front of the bank that we need something like a w.h. focus nuh.|S|Bed013
+mn015|should be should be there that you know this the whatever we get from the|D|Bed013
+fe004|wait so do or do not take other kinds of constructions into account?|Q|Bed013
+mn015|well if you if you can oh definitely do.|S|Bed013
+fe004|okay where possible.|S|Bed013
+mn015|where possible right?|S|Bed013
+fe004|okay.|S|Bed013
+mn015|if if if it's not at all triggered by our thing then it's irrelevant.|S|Bed013
+fe004|uhhuh.|B|Bed013
+mn015|and it doesn't hurt to leave it out for the moment.|S|Bed013
+mn015|um but|F|Bed013
+fe004|okay.|S|Bed013
+fe004|um it seems like for instance where is x. the fact that it might mean um tell me how to get to x.|D|Bed013
+fe004|like|F|Bed013
+fe004|do so would you want to say that those two are both like|D|Bed013
+fe004|those are the two interpretations right.|S|Bed013
+fe004|the the ones that are location or path.|S|Bed013
+fe004|so you could say that the construction is a question asking about this location.|S|Bed013
+fe004|and then you can additionally infer if they're asking about the location it's because they want to go to that place.|S|Bed013
+mn015|uhhuh.|B|Bed013
+fe004|in which case the you're jumping a step step and saying oh i know where it is.|S|Bed013
+me045|yeah.|D|Bed013
+fe004|but i also know how to get they want to seem they seem to want to get there so i'm going to tell them.|S|Bed013
+fe004|so there's like structure|D|Bed013
+me045|right this it's not it's not that this is sort of like semantically ambiguous between these two.|S|Bed013
+fe004|do you sort of uh that|D|Bed013
+mn015|uhhuh.|D|Bed013
+me045|it's really about this.|S|Bed013
+me045|but why would you care about this?|Q|Bed013
+me045|well it's because you also want to know this or something like that right.|S|Bed013
+mn015|uhhuh.|B|Bed013
+fe004|so it's like you infer the speaker intent.|S|Bed013
+fe004|and then infer a plan a larger plan from that for which you have the additional information.|S|Bed013
+me045|yeah.|S|Bed013
+mn015|uhhuh.|B|Bed013
+fe004|you're just being extra helpful.|S|Bed013
+mn015|yep.|S|Bed013
+fe004|um|F|Bed013
+mn015|think uh well this is just a mental exercise.|S|Bed013
+fe004|yeah.|S|Bed013
+mn015|if you think about|D|Bed013
+mn015|focus on this question how would you design that.|S|Bed013
+me045|uhhuh.|B|Bed013
+mn015|is it do you feel confident about saying this is part of the language already to to detect those plans?|Q|Bed013
+mn015|and why would anyone care about location?|Q|Bed013
+mn015|if not you know|D|Bed013
+me045|huh.|B|Bed013
+mn015|and so forth.|S|Bed013
+mn015|or do you actually|D|Bed013
+mn015|i mean this is perfectly legitimate.|S|Bed013
+mn015|and i i would not have any problems with erasing this.|S|Bed013
+mn015|and say that's all we can activate based on the utterance out of context.|S|Bed013
+fe004|uhhuh.|B|Bed013
+fe004|and just by an additional link.|S|Bed013
+fe004|oh.|S|Bed013
+mn015|what?|Q|Bed013
+me045|right.|S|Bed013
+fe004|right.|B|Bed013
+mn015|and then the the the miracle that we get out the intention go there happens based on what we know about that entity about the user about his various beliefs goals desires blah blah blah.|S|Bed013
+fe004|like|D|Bed013
+fe004|with context and enough user information.|S|Bed013
+fe004|yeah.|B|Bed013
+me045|yeah.|B|Bed013
+mn015|absolutely fine.|S|Bed013
+mn015|but this is the sort of thing i i propose that we think about.|S|Bed013
+fe004|okay.|B|Bed013
+mn015|so that we actually end up with um um nodes for the discourse and ontology.|S|Bed013
+mn015|so that we can put them into our bayes-net.|S|Bed013
+mn015|never change them.|S|Bed013
+mn015|so we all there is is where is x. .|S|Bed013
+mn015|and eva can play around with the observed things.|S|Bed013
+mn015|and we can run our better javabayes and have it produce some output.|S|Bed013
+mn015|and for the first time in in in the world we look at our output.|S|Bed013
+mn015|and um and see uh whether it it's any good.|S|Bed013
+fe004|okay.|S|Bed013
+mn015|you know?|Q|Bed013
+mn015|i mean|F|Bed013
+me045|here's hoping.|S|Bed013
+mn015|huh?|Q|Bed013
+me045|here's hoping right.|S|Bed013
+me045|now cross your fingers.|S|Bed013
+mn015|yeah i i mean for me this is just a matter of curiosity.|S|Bed013
+mn015|i want to would like to look at uh what this ad hoc process of designing a belief net would actually produce.|S|Bed013
+me045|yeah yeah.|B|Bed013
+fe004|huh.|B|Bed013
+mn015|if if we ask it where is something.|S|Bed013
+mn015|and maybe it also enables you to think about certain things more specifically.|S|Bed013
+mn015|um come up with interesting questions to which you can find interesting answers.|S|Bed013
+mn015|and additionally it might fit in really nicely with the paper.|S|Bed013
+me045|uhhuh.|B|Bed013
+mn015|because if if if we want an example for the paper i suggest there it is.|S|Bed013
+me045|yeah.|B|Bed013
+mn015|so this might be a nice opening paragraph for the paper as saying you know people look at kinds of at ambiguities.|S|Bed013
+mn015|and um|F|Bed013
+mn015|in the literature there's bank.|S|Bed013
+mn015|and whatever kinds of garden path phenomenon.|S|Bed013
+me045|uhhuh.|B|Bed013
+mn015|and we can say well that's all nonsense.|S|Bed013
+mn015|a. uh these things are never really ambiguous in discourse.|S|Bed013
+mn015|b. don't ever occur really in discourse.|S|Bed013
+mn015|but normal statements that seem completely unambiguous such as where is the blah blah actually are terribly complex and completely ambiguous.|S|Bed013
+me045|uhhuh.|B|Bed013
+me045|uhhuh.|B|Bed013
+mn015|and so what everybody else has been doing so far in in in you know has been completely nonsensical and can all go into the wastepaper bin.|S|Bed013
+mn015|and the only|D|Bed013
+me045|that's always a good way to begin yeah yeah.|S|Bed013
+mn015|yeah.|F|Bed013
+mn015|and the the the only|D|Bed013
+me003|i am great.|S|Bed013
+mn015|yeah.|D|Bed013
+me045|all others are useless.|S|Bed013
+mn015|yeah.|B|Bed013
+me045|that's good.|D|Bed013
+mn015|nice overture.|S|Bed013
+mn015|but you know just not really.|S|Bed013
+mn015|okay i'm exaggerating.|S|Bed013
+mn015|but that might be you know saying hey you know some stuff is is actually complex if you look at it in in in the vacuum.|S|Bed013
+me045|uhhuh.|B|Bed013
+mn015|and and ceases to be complex in reality.|S|Bed013
+mn015|and some stuff that's as that's absolutely straightforward in the vacuum is actually terribly complex in reality.|S|Bed013
+mn015|would be nice sort of uh also nice um up linguistics um type message.|S|Bed013
+me045|uhhuh.|B|Bed013
+me045|true.|S|Bed013
+mn015|versus the old top down school.|S|Bed013
+mn015|i'm running out of time.|S|Bed013
+mn015|okay.|F|Bed013
+me003|when do you need to start wizarding?|Q|Bed013
+mn015|at four ten.|S|Bed013
+mn015|okay this is the other bit of news.|S|Bed013
+mn015|the subjects today know fey.|S|Bed013
+mn015|so she can't be here and do the wizarding.|S|Bed013
+me045|huh.|B|Bed013
+mn015|so i'm going to do the wizarding.|S|Bed013
+mn015|and thilo's going to do the instructing.|S|Bed013
+me003|huh.|B|Bed013
+mn015|also we're getting a a person who just got fired uh from her job.|S|Bed013
+mn015|uh a person from oakland who is interested in maybe continuing the wizard bit once fey leaves in august.|S|Bed013
+mn015|and um she's going to look at it today.|S|Bed013
+mn015|which is good news in the sense that if we want to continue after the after july we can.|S|Bed013
+mn015|we could.|S|Bed013
+mn015|and um|F|Bed013
+mn015|and that's also maybe interesting for keith and whoever if you want to get some more stuff into the data collection.|S|Bed013
+mn015|remember this we can completely change the set-up any time we want.|S|Bed013
+me045|uhhuh.|B|Bed013
+me045|okay.|S|Bed013
+mn015|look at the results we've gotten so far for the first whatever fifty some subjects.|S|Bed013
+fe004|fifty?|Q|Bed013
+fe004|you've had fifty so far?|Q|Bed013
+fe004|or|D|Bed013
+mn015|no we're approaching twenty now.|S|Bed013
+fe004|okay.|S|Bed013
+mn015|but until fey is leaving we surely will hit the some of the higher numbers.|S|Bed013
+fe004|yeah.|B|Bed013
+fe004|huh.|B|Bed013
+mn015|and um|F|Bed013
+mn015|so that's cool.|S|Bed013
+mn015|can do more funky stuff.|S|Bed013
+me045|sure.|D|Bed013
+me045|yeah i'll have to look more into that data.|S|Bed013
+me045|is that around?|Q|Bed013
+me045|like because that's pretty much getting posted or something right away when you get it.|S|Bed013
+me045|or|D|Bed013
+mn015|um|F|Bed013
+me045|i guess it has to be transcribed huh?|S|Bed013
+mn015|we have uh uh found someone here who's hand hand transcribing the first twelve.|S|Bed013
+me045|okay.|S|Bed013
+mn015|first dozen subjects.|S|Bed013
+me045|uhhuh.|B|Bed013
+mn015|just so we can build a a language model for the recognizer.|S|Bed013
+me045|okay.|S|Bed013
+mn015|but um so those should be available soon.|S|Bed013
+me045|okay.|S|Bed013
+mn015|the first twelve.|S|Bed013
+mn015|and|F|Bed013
+mn015|i can|D|Bed013
+me045|you know|F|Bed013
+me045|i mean you know that i that i looked at the first the first one and got enough data to keep me going for you know probably most of july.|S|Bed013
+me045|so but um|F|Bed013
+me045|yeah probably not the right way to do it actually.|S|Bed013
+mn015|but you can listen to|D|Bed013
+mn015|you can listen to all of them from your solaris box.|S|Bed013
+me045|okay.|S|Bed013
+mn015|if you want.|S|Bed013
+me045|right.|B|Bed013
+mn015|it's always fun.|S|Bed013

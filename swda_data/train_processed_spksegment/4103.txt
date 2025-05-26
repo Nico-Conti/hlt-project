@@ -1,0 +1,90 @@
+A|Uh, the question was kind of interesting to me because I was just trying to put together a, uh, long term financial plan and monthly budget.|sv|4103|0
+A|The only thing I do now is, uh, put the data into Quicken.|sd|4103|0
+A|I don't know if you are familiar with that.|qy^d|4103|0
+B|Yeah,|ny|4103|1
+B|I have some friends of mine who use Quicken|sd|4103|1
+B|and, uh, I've considered using it once myself,|sd|4103|1
+B|but I decided that the amount of information that would have to go in would be a lot of time keeping that up to date.|sd|4103|1
+A|Uh-huh.|b|4103|0
+B|So I, I kind of gave up on the idea of using Quicken, at least for now.|sd|4103|1
+A|Um. I've found it's the only reliable way to keep a check book balanced actually because what will happen is my wife will write a few checks and then, well, uh, uh, not bother to total it|sd|4103|0
+B|Uh-huh.|b|4103|1
+A|and then it comes in to doing all the arithmetic.|sd|4103|0
+A|So it really helps with that.|sv|4103|0
+B|Yeah,|b|4103|1
+B|well, it's similar problems|sd|4103|1
+B|but, uh, we just have the one check book|sd|4103|1
+B|and we try to keep it up to date as much as possible|sd|4103|1
+B|and occasionally we will get behind like you say|sd|4103|1
+B|but, uh, it doesn't really seem to be too, too tight if we just remember to keep everything up, up to date and balanced.|sd|4103|1
+A|Uh-huh.|b|4103|0
+B|Well, how to you handle that, the long range or medium range planning on finances?|qo|4103|1
+A|Well, actually we haven't had to. Uh, until just recently.|sd|4103|0
+A|I guess we've got a, a daughter who is eighteen months and another one on the way|sd|4103|0
+A|so we needed to start doing more of that just for, uh, you know, saving for college and things like that.|sd|4103|0
+B|Uh-huh.|b|4103|1
+A|We tried a way, try to put away two and four thousand a year just for that.|sd|4103|0
+B|Yeah.|b|4103|1
+B|Well that's pretty good if you can do that.|sv|4103|1
+B|I know.|sd|4103|1
+B|I have a daughter who's ten|sd|4103|1
+B|and we haven't really put much away for her college up to this point|sd|4103|1
+B|but, uh, we're to the point now where our financial income is enough that we can consider putting some away for college,|sd|4103|1
+A|Uh-huh.|b|4103|0
+B|so we are going to be starting a regular payroll deduction in the fall|sd|4103|1
+A|Um.|%|4103|0
+B|and then the money that I will be making this summer we'll be putting away for the college fund.|sd|4103|1
+A|Um. Sounds good.|ba|4103|0
+A|Yeah,|%|4103|0
+A|I guess we're, we're just at the point, uh,|sd|4103|0
+A|my wife worked until we had a family|sd|4103|0
+A|and then, you know, now we're just going on the one income|sd|4103|0
+A|so it's a lot more interesting trying to, uh,|sv|4103|0
+B|Uh-huh.|b|4103|1
+A|find some extra payroll deductions is probably the only way we will be able to, uh, do it.|sv|4103|0
+A|You know, kind of enforce the savings.|sd|4103|0
+B|Uh-huh.|b|4103|1
+A|But, uh, it will be interesting to see|sv|4103|0
+B|Well our situation is just a little bit, kind of the opposite of that cause my wife was not working for some time and was going to school and just recently, uh, took on a full time job, well almost full time.|sd|4103|1
+A|Um.|%|4103|0
+B|So, it's only recently that we've had the money where we could start putting away large sums of it for, uh, long range goals like college and sickness and travel and that kind of thing.|sd|4103|1
+A|Um.|%|4103|0
+A|That sounds good.|ba|4103|0
+A|But, uh, uh, I was just curious, what, uh, part of the country.|qw|4103|0
+B|Oh, Stockton.|sd|4103|1
+A|Oh, okay.|bk|4103|0
+B|How about you?|qo|4103|1
+A|Uh, Cincinnati, actually.|sd|4103|0
+A|I was kind of wondering if they would be collecting people with, uh, the western accents or something like that.|sd|4103|0
+A|I don't know how many people are, uh, getting involved in this|sd|4103|0
+A|but uh, well that's interesting.|sv|4103|0
+B|Uh-huh.|b|4103|1
+A|I'm, uh, uh, actually, uh, I was kind of interested if you found out about the study by, uh, reading TELECOM DIGEST|qy^d|4103|0
+A|or was there another?|qrr|4103|0
+B|Uh, a colleague of mine at, uh, work got some information over, uh, the computer network called INTERNET.|sd|4103|1
+A|Oh, okay.|bk|4103|0
+A|Yeah,|b|4103|0
+A|that is how I got it as well|sd|4103|0
+A|but, uh,|%|4103|0
+B|And he just forwarded that on to me|sd|4103|1
+B|and, uh, it sounded like it would be an interesting project to participate in|sv|4103|1
+A|Uh-huh.|b|4103|0
+B|so I sent back mail.|sd|4103|1
+A|Yeah,|b|4103|0
+A|it will be interesting to see what, It would be interesting to see how the data base,|sv|4103|0
+A|so, well, I guess we're talking about the experiment.|sd|4103|0
+B|Uh-huh.|b|4103|1
+A|Uh, probably need to try to get back on the topic|sv|4103|0
+A|but, uh, it's hard to talk about finances without without getting to, uh, dollar figures I guess you know,|sv|4103|0
+B|Uh-huh.|b|4103|1
+A|we could talk about some of the long range goals|oo_co_cc|4103|0
+A|and,|%|4103|0
+B|Well what other long range goals do you have besides college?|qo|4103|1
+A|Uh, well I think, either my wife or I would like to pursue advanced degrees at some point|sd|4103|0
+B|Uh-huh.|b|4103|1
+A|uh, I guess we will have to factor that in if we are not working for employers that happen to fund that.|sd|4103|0
+A|It seems like every year my employer just gives back, you know, a little bit your tuition reimbursement.|sv|4103|0
+B|Uh-huh.|b|4103|1
+A|I mean they use to reimburse one hundred percent|sd|4103|0
+A|and now it's, uh, now it's reimbursement depending on the grade you get in class|sd|4103|0
+A|and, uh, it's a real shame from what we had before, uh, because we're,|sd|4103|0

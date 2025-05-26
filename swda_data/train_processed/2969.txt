@@ -1,0 +1,289 @@
+A|Okay.|fo_o_fw_"_by_bc|2969
+A|What you mean, my voice?|qy|2969
+B|Yes.|ny|2969
+A|Oh, no|ar|2969
+A|I am from Kentucky. Originally|sd|2969
+B|Oh, well.|b|2969
+A|So,|%|2969
+B|Well, the topic today was gardening, and lawn care?|sd|2969
+A|Uh-huh.|b|2969
+B|Ooh.|%|2969
+A|I know,|aa|2969
+A|we are about to hit it in ten, few minutes.|sd|2969
+A|I figured I could make this call and get it over with.|sd|2969
+A|We are going to mow and trim and edge,|sd|2969
+B|Yeah.|b|2969
+A|and that is all we have been doing all weekend.|sd|2969
+B|You know what?|qh|2969
+B|It seems like we are doing it here forever.|sv|2969
+B|We bought a, a large house that was completely unlandscaped.|sd|2969
+B|I mean, it, it was probably was up to your shoulder in, in thistles.|sd|2969
+B|That was all that was there.|sd|2969
+A|Uh-huh.|b|2969
+B|And we hired a professional landscaper to do it.|sd|2969
+B|And I have since then probably ripped out half of what he has done because it has always been incorrectly planted|sd|2969
+B|or the plants do not make the winter time.|sd|2969
+B|And so I am kind of at this point getting a little bit broke and deciding that what we are going to do is we are just going to struggle through the rest of this year, probably through the Fall too. And, uh, rip up, rip out all the rest of these junipers or anything that requires, uh, more care than I am willing to give the kids and replace it with hollies.|sd|2969
+A|Uh-huh.|b|2969
+A|Uh, how many kids do you have?|qw|2969
+B|Just two,|sd|2969
+A|Okay.|bk|2969
+B|but they are just eighteen months apart so it seems like a lot more.|sd|2969
+A|What year, I mean, how old are they?|qw|2969
+B|Four and five.|sd|2969
+A|Four and five.|b^m|2969
+A|Goodness.|ba|2969
+B|Uh-huh.|b|2969
+A|I have got a four year, uh, a four year old and a four month old. And an eight year old stepdaughter.|sd|2969
+B|Oh, well, I have a twenty six year old stepson,|sd|2969
+B|and I do not know if that counts.|sd|2969
+A|Well, you do not have to tend to him.|sd|2969
+B|Well, I did for many years.|sd|2969
+B|So,|%|2969
+A|Oh, you did.|qy^d|2969
+A|Okay.|b|2969
+A|It is over with.|qy^d|2969
+B|Yeah.|ny|2969
+A|He is gone.|bf|2969
+B|Yeah.|aa|2969
+B|It is over with.|sd|2969
+B|Uh, back to gardening.|sd|2969
+B|Are you one of these, uh, Howard Garrett, organic enthusiasts or a, Neil Sperry, nuke the lawn with chemicals?|qy|2969
+A|If I can just nuke it, I would do it.|sd|2969
+A|But I do not.|sd|2969
+A|I just,|%|2969
+A|it is like, oh, I will get out there and pull my weeds.|sd|2969
+A|I do not have a real big front yard.|sd|2969
+A|But I do have half of it is a flower bed, just about, all by the porch.|sd|2969
+B|Uh-huh.|b|2969
+B|Uh-huh.|b|2969
+A|Because the porch is pretty big,|sd|2969
+A|I live in town.|sd|2969
+A|But just pulling all the weeds out of that just drives me nuts.|sd|2969
+A|I do not like it.|sd|2969
+A|And I just went out this weekend and bought me some plants and stuff.|sd|2969
+A|And I just plowed through the whole nine yards.|sd|2969
+A|Got up everything.|sd|2969
+A|There was some plants that are just Spring bloomers|sd|2969
+B|Uh-huh.|b|2969
+A|and I,|%|2969
+A|the when the blooms died, the leaves were just horrible looking.|sd|2969
+B|Uh-huh.|b|2969
+A|So I just broke all them off.|sd|2969
+A|It was a hyacinth.|sd|2969
+A|Have you ever seen those?|qy|2969
+B|Oh, yeah.|ny|2969
+A|Oh, they are pretty in the Spring|sv|2969
+A|But the leaves, I do not like them.|sd|2969
+A|You know, once,|%|2969
+B|All right,|b|2969
+B|now are you sure they are hyacinths?|qy|2969
+B|Because that is a bulb.|sd|2969
+A|Yeah.|ny|2969
+A|It is a bulb.|sd|2969
+B|Well you should of just ripped the whole thing out.|ad|2969
+A|No,|ar|2969
+A|because I do like the, I like the plant in the Spring.|sd|2969
+A|I love those pink flowers.|sd|2969
+A|They are just pretty.|sv|2969
+A|So I just cut the leaves off and transplant and put some other plants down. Because I want them to come back up next year.|sd|2969
+B|Have you had,|%|2969
+B|is this the first year they have been up?|qy|2969
+A|Yeah.|ny|2969
+B|Well, let me tell you, they do not come back very well at all.|sv|2969
+B|Maybe they will if, up further north.|sd|2969
+B|But down,|%|2969
+B|and you are not that much further north.|sd|2969
+B|I have probably planted oh, around here, um, maybe six hundred bulbs.|sd|2969
+A|Of hyacinths?|br|2969
+B|No,|nn|2969
+B|I have probably have done hyacinths.|sd|2969
+A|Oh, of everything.|bf|2969
+B|But I have just learned from doing hyacinths that if you really like them what you do is you dig the bulbs up and then you throw them away after they are done blooming. Because they do not take the heat here.|sd|2969
+B|And if they do come back next year, they are going to look real puny.|sv|2969
+A|Oh, they will?|qy^d|2969
+B|Yep.|ny|2969
+A|Huh.|%|2969
+B|About the only bloom, bulb that repeats well in my area is the, uh, uh, daffodil and some of the narcissus bulb.|sv|2969
+A|Okay.|b|2969
+A|Now I have got some daffodils.|sd|2969
+A|And, everybody down here calls these flags. Uh, the irises I guess, uh,|sd|2969
+B|They call them flags?|br|2969
+A|That is what they call them down here.|sd|2969
+A|They get, uh, just one bloom on the plant.|sd|2969
+A|I do not, I am not sure what they are called.|sd|2969
+B|When does it, when does it bloom?|qw|2969
+A|But I do not much,|%|2969
+A|Well, I think they are stopped blooming now, in the Spring.|sd|2969
+A|It has got|sd|2969
+B|And what color?|qw|2969
+A|oh, they come in all different colors.|sd|2969
+A|The blooms are, on some of them is yellow, purple, white. Just all different colors.|sd|2969
+B|And you only get one of them?|qy|2969
+A|Well, I mean, per bulb.|sd|2969
+A|You get one big flower that looks like a lily.|sd|2969
+A|I do not know what they are called.|sd|2969
+A|I have always called them,|sd|2969
+A|well, I do not know what I have called them|sd|2969
+A|But when I come down here, everybody told me they are flags.|sd|2969
+B|You know what I bet you they are?|bh|2969
+B|And I am a pretty, I am a pretty good gardener|sd|2969
+B|because I have killed a lot of things here|sd|2969
+B|and, and I have planted a lot of them.|sd|2969
+B|And, and I work on a, uh, landscape committee for our neighborhood.|sd|2969
+A|Uh-huh.|b|2969
+B|And our neighborhood is a planned development with, I think, it is seven hundred and fifty-five families.|sd|2969
+A|Uh-huh.|b|2969
+B|But we have about sixty acres that we have to plant.|sd|2969
+B|I am going to bet you that is a lily. Because it is,|sv|2969
+A|Yeah.|aa|2969
+A|It is some type of lily.|sv|2969
+B|And I will get, uh,|sd|2969
+B|is it,|%|2969
+B|what color is, is yours blooming?|qw|2969
+A|I have got some in the backyard that bloomed blue. Which I would not, would have liked those in the front because they match my porch and stuff better. And then some on the side of the house with the dusty purple color. With little purple spots that it, it will fade into a solid purple.|sd|2969
+B|And what does the foliage look like?|qw|2969
+B|Does it fit that,|qy|2969
+A|Green spiky leaves.|sd|2969
+A|Now it looks almost like a hyacinth only a, a lot higher.|sd|2969
+B|Oh,|%|2969
+A|And it is a bulb.|sd|2969
+B|oh, oh.|%|2969
+B|Oh, I bet you those are, I bet you what those things are, uh, is a Dutch iris.|sv|2969
+A|Dutch irises.|b^m|2969
+B|I bet you it is a Dutch iris.|sv|2969
+A|Uh-huh.|b|2969
+B|Does it, does it on its little, on its, on the flower, does it have a beard on it at all? Any kind of fuzzies?|qy|2969
+A|You know, I, I really do not know.|no|2969
+B|I am going to bet you that,|sv|2969
+B|that has got to be blooming this time of year.|sv|2969
+B|It has,|%|2969
+A|No,|ar|2969
+A|they are, they have, they're died down. I am sorry, they are dead now.|sd|2969
+B|Well, I was just going to correct myself.|sd|2969
+A|They bloom in the Spring.|sd|2969
+B|Because they would have bloomed pretty early.|sd|2969
+A|Yeah.|b|2969
+B|Well,|%|2969
+A|They bloomed in the Spring.|sd|2969
+B|Yeah.|b|2969
+B|Right about after the daffodils?|qy^d|2969
+A|Right about the same time or after.|na|2969
+B|Okay.|bk|2969
+B|I will bet you those are Dutch iris.|sv|2969
+A|I would took, I took and just mowed over them last year.|sd|2969
+B|Uh-huh.|b|2969
+A|And, uh, we have been,|sd|2969
+A|I, I do not much care for them.|sd|2969
+A|After the bloom dies, they are not pretty.|sv|2969
+A|And to me it just looks like a bunch of leaves.|sd|2969
+B|Well,|%|2969
+A|But I took them out of my front yard,|sd|2969
+A|and I just threw them on the side, intending to transplant them or throw them away or something. And forgot about them through the whole Winter.|sd|2969
+B|Yep.|b|2969
+A|Well, I went out there this Spring,|sd|2969
+A|and they had took root right where they were, on top of each other.|sd|2969
+A|And they told me that they are the hardest things to, you know, to kill.|sd|2969
+B|Well|%|2969
+A|But they are real easy to grow.|sd|2969
+B|Ooh.|ba|2969
+A|Does that help?|qy|2969
+B|Well then it is not, it is not a Dutch iris then.|sd|2969
+B|Oh, gosh.|ba|2969
+A|I do not, I am not sure what it is.|sd|2969
+A|They said that they are irises.|sd|2969
+A|It is some type of iris though.|sd|2969
+B|Huh.|%|2969
+A|But they call them flags up here or down here, down here.|sd|2969
+B|Well, I am not so sure that Texans know what, what they have got.|sv|2969
+A|Yeah.|b|2969
+A|I do not know what it is.|sd|2969
+A|I am, I am not on, I am just getting into gardening this year.|sd|2969
+B|Did you just move down here?|qy|2969
+A|Uh, we moved here a year ago|na|2969
+A|Yeah,|ny|2969
+A|last Spring.|sd|2969
+A|We moved in here May, this house, May of last year.|sd|2969
+A|So it was really too late to do much.|sv|2969
+B|Um. Who, who, who, who.|%|2969
+B|Because I have got a flower, I have got, I have probably got, do, do, do, do, I do not know how many square feet it is, a big circular driveway.|sd|2969
+B|The whole, uh, perimeter bordering the house is all in Texas wildflower beds.|sd|2969
+B|And I am into that.|sd|2969
+A|Oh.|b|2969
+B|And it, and it looks quite formal.|sd|2969
+B|I mean it really does,|sd|2969
+B|it looks quite formal.|sd|2969
+A|Well, that is,|%|2969
+B|But it has been about three or four years of, uh, uh, playing around with flowers to decide which ones actually grow here.|sd|2969
+A|Well, what kind of blue?|qw|2969
+A|I am wanting I want blue and purple and, you know, just different shades of that. Because my, my house is gray,|sd|2969
+B|You want blue?|qy|2969
+A|and blue looks so pretty against it.|sv|2969
+B|Uh-huh.|b|2969
+B|Ooh, blue is hard, you know.|sv|2969
+B|Do you want a perennial flower that will bloom all Summer?|qy|2969
+A|I bought,|sd|2969
+A|well, I would like to have one that would bloom next year too.|sd|2969
+A|That will come back up.|sd|2969
+B|Okay.|bk|2969
+B|Put in a perennial blue salvia.|ad|2969
+B|Now it is going to grow about, um, the plant itself will grow about eighteen inches tall.|sd|2969
+A|Uh-huh.|b|2969
+B|And it will send out a flower spike.|sd|2969
+B|You will see them blooming now.|sd|2969
+B|It is a wildflower here,|sd|2969
+B|but you can get them in the nursery.|sd|2969
+A|I am looking for a pen.|sd|2969
+A|I want to write this down because,|sd|2969
+A|well, that is where I went this year.|sd|2969
+A|Because I waited too late to really plant stuff.|sd|2969
+A|But I did not know that these hyacinths,|sd|2969
+A|like I said, I do not know anything about plants.|sd|2969
+A|I did not know the hyacinths were going to die.|sd|2969
+B|Yep.|b|2969
+B|Well, the, you know, nursery men will will sell you things here.|sd|2969
+B|And they are, they are kind of in a labor of love.|sd|2969
+B|The other thing to do if you, really like the hyacinths, and I do, is that before you plant those bulbs, stick them in the refrigerator for five weeks or so to cool them.|ad|2969
+A|Yeah.|b|2969
+A|That is what I did with my plants.|sd|2969
+A|I had bought these, uh, colossians Celosias or whatever.|sd|2969
+B|Yep.|b|2969
+A|And they will not grow down here.|sd|2969
+B|Huh-uh.|b|2969
+A|Okay.|b|2969
+A|Perennial.|sd|2969
+B|Uh-huh.|b|2969
+A|Blue.|sd|2969
+B|Salvia.|^2|2969
+A|Salvia.|b^m|2969
+B|Uh-huh.|b|2969
+B|And now that will bloom all Summer long|sd|2969
+B|and it will, it, but it insists on full sun.|sd|2969
+A|Okay,|b|2969
+A|I bought me, oh, I guess, I just went and bought me just about nineteen dollars worth of little buds, planted, uh, already grown.|sd|2969
+B|Uh-huh.|b|2969
+B|Uh-huh.|b|2969
+A|And it looks pretty good out there.|sd|2969
+B|I will tell you another plant that is purply|sd|2969
+A|Uh-huh.|b|2969
+B|it, it is dark purply, kind of a purply blue red.|sd|2969
+A|Uh-huh.|b|2969
+B|It is really a pretty plant.|sv|2969
+B|It is sold down here as Purple Buddy.|sd|2969
+A|Purple Buddy?|br|2969
+B|Now, it's not,|%|2969
+B|yeah,|ny|2969
+B|it is not a perennial,|sd|2969
+B|it is an annual.|sd|2969
+B|But it will take the heat down here.|sd|2969
+A|Purple Buddy.|sd|2969
+B|Purple Buddy.|sd|2969
+B|Its proper name is Gomphrena.|sd|2969
+A|How do you spell that?|qw|2969
+B|G o m p h r e n a.|sd|2969
+B|Gomphrena.|sd|2969
+B|And is sold as Purple Buddy or sometimes sold as straw flower.|sd|2969
+A|Okay.|bk|2969
+B|And they make, uh, oh, about a foot high plant.|sd|2969
+B|And they send out this, this spike that has this purple ball on the top of it.|sd|2969
+B|But that purple ball,|sd|2969

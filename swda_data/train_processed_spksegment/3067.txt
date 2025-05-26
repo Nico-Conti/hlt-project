@@ -1,0 +1,190 @@
+B|Okay, uh.|fo_o_fw_"_by_bc|3067|0
+A|Do you have annual family reunions|qy|3067|1
+A|or,|%|3067|1
+B|Uh, yeah,|ny|3067|0
+B|uh, our,|%|3067|0
+B|the|%|3067|0
+B|my mother's side of the family is quite large, or well, was quite large at one time,|sd|3067|0
+B|and, uh, they, uh, for as long as I can remember, have had, uh, a yearly reunion, um,|sd|3067|0
+B|back, uh, early on they used to, to rotate them from from to, to different people's houses, in the family.|sd|3067|0
+A|Uh-huh.|b|3067|1
+B|And,|%|3067|0
+A|All local.|qy^d|3067|1
+A|Were they like all in Dallas?|qy|3067|1
+B|Uh, no, no not, no,|nn|3067|0
+B|this was, well, I am actually from Mississippi,|sd|3067|0
+B|and, so that's,|%|3067|0
+A|Oh.|bk|3067|1
+B|it, it was around there generally.|sd|3067|0
+A|Uh-huh,|b|3067|1
+A|uh-huh.|b|3067|1
+B|Uh, that's where the family grew.|sd|3067|0
+A|Just from city to city then .|qy^d|3067|1
+B|Yeah,|ny|3067|0
+B|and it was not only in Mississippi, in some other places, as well,|sd|3067|0
+A|Uh-huh,|b|3067|1
+A|uh-huh.|b|3067|1
+B|so. It was, uh, it was a big deal,|sd|3067|0
+B|but, uh, they tried to, to centralize it in one spot.|sd|3067|0
+B|So, in the past couple of years they had it at a state park every year.|sd|3067|0
+A|Uh-huh,|b|3067|1
+A|uh-huh.|b|3067|1
+B|We rent a pavilion and, and do that|sd|3067|0
+B|and that's usually works out to be pretty good.|sd|3067|0
+B|And, uh, they will rent a pavilion on a weekend,|sd|3067|0
+B|and uh|%|3067|0
+A|Do you go back?|qy|3067|1
+B|I have not gone back lately.|ng|3067|0
+B|In fact, uh, this past Sunday was the, was the reunion,|sd|3067|0
+B|but I did not get to go.|sd|3067|0
+B|Uh, I have,|%|3067|0
+A|Is it choice or just business|qy|3067|1
+A|or,|%|3067|1
+B|Not getting to go.|qy|3067|0
+A|Uh-huh.|ny|3067|1
+B|Uh, just, uh, the distance involved|sd|3067|0
+B|and,|%|3067|0
+A|Uh-huh,|b|3067|1
+A|uh-huh.|b|3067|1
+B|uh, just not,|%|3067|0
+B|I have a younger daughter now|sd|3067|0
+B|and, uh, I,|%|3067|0
+B|it's kind of hard to get her, get her there, and everything.|sd|3067|0
+A|Uh-huh.|b|3067|1
+B|But I am going to, to, uh, hopefully next year get to go back, cause, uh, a lot of the family has not, uh, on her side, my mother's side, has not seen, you know, my daughter,|sd|3067|0
+B|so|%|3067|0
+A|Oh.|b|3067|1
+A|Do you have brothers and sisters?|qy|3067|1
+B|I have one brother,|sd|3067|0
+B|so.|%|3067|0
+A|Uh-huh,|b|3067|1
+A|uh-huh.|b|3067|1
+A|And, is your mother still living?|qy|3067|1
+B|Yes.|ny|3067|0
+A|Oh, so, so you go back and visit with her anyway.|qy^d|3067|1
+A|Would you not?|^g|3067|1
+B|Right,|na|3067|0
+B|yeah.|na|3067|0
+A|I mean, either way there was family reunion time, or not,|qy|3067|1
+B|Right, I, I usually see her a, couple times a year|na|3067|0
+B|so that's no, no big thing.|sd|3067|0
+B|But, uh, I, uh, I do, I do enjoy the reunions.|sd|3067|0
+B|The only problem is that now, uh, originally when we had them, uh, they were mainly my mother's|sd|3067|0
+A|Relatives,|^2|3067|1
+A|right.|%|3067|1
+B|uh, father's.|sd|3067|0
+B|My mother's father's family had quite a few, uh, brothers and sisters.|sd|3067|0
+A|Uh-huh.|b|3067|1
+B|So, it was a large reunion of, of, of that group, uh, from that descendants.|sd|3067|0
+A|Uh-huh.|b|3067|1
+B|And, uh, a lot of those people have,|sd|3067|0
+B|and at time, you know, they all knew one another.|sd|3067|0
+A|Right,|b|3067|1
+A|right.|b|3067|1
+B|And now it has gotten, uh, that, uh, a lot of those people are have, uh, have died off,|sd|3067|0
+B|or, you know, what we are left with is the, the relatives of, of, of that group.|sd|3067|0
+A|The next generation,|^2|3067|1
+A|uh-huh.|%|3067|1
+B|And so, uh, it's not quite as close as it used to be.|sd|3067|0
+B|So, I think people feel less of a desire to really go.|sd|3067|0
+B|I know that,|%|3067|0
+A|why do you think that it's less close than it used to be?|qo|3067|1
+B|Well, I, I just think that, uh, you know, at that|%|3067|0
+B|when, when they were|%|3067|0
+B|you know, the, those were all brothers and sisters a lot|sd|3067|0
+B|and or they were all in the same geographical location.|sd|3067|0
+A|Uh-huh,|b|3067|1
+A|uh-huh,|b|3067|1
+A|uh-huh.|b|3067|1
+B|You know, back around, you know, in the twenties and thirties when they were growing up, uh, you know, they were all located together, in one small community.|sd|3067|0
+A|Right,|b|3067|1
+A|right.|b|3067|1
+A|Right.|b|3067|1
+B|And as, as time grew, I mean when time went on the family grew and moved away and so forth.|sd|3067|0
+B|And now when they come together it's, it's generally, you know,|sd|3067|0
+B|like say the kids of those people who are not, you know, anywhere near one another and I do not think they feel the, the closeness that they used to be there. Which is a shame|sd|3067|0
+A|Uh-huh.|b|3067|1
+B|but that's just how it is.|sd|3067|0
+B|My mother was complaining last year about you know,|sd|3067|0
+B|it's dwindling down every year,|sd|3067|0
+B|you know, that's just, I think that's just|%|3067|0
+A|Is that just family's lack of priority, anymore, maybe yes ,|qy|3067|1
+A|we get so involved in our work lives and just, social lives and so forth.|sv|3067|1
+B|Well, yeah.|b|3067|0
+B|Yeah,|aa|3067|0
+B|that's, uh,|%|3067|0
+B|yeah,|%|3067|0
+B|I think that's some of it.|aa|3067|0
+B|But, you know, I have,|%|3067|0
+B|uh, I, I,|%|3067|0
+B|it's just the way, you know, I think society is now, is that we are not, we do not have the extensive family we used to.|sv|3067|0
+A|Uh-huh.|b|3067|1
+B|It's more of a, you know, a smaller, smaller unit,|sv|3067|0
+B|and you know, we, we tend to try to do things, I think with our immediate family, as opposed to the extended family. Of people that we may or may not remember or know, you know, very well.|sv|3067|0
+A|Right,|aa|3067|1
+A|right.|aa|3067|1
+B|Uh|%|3067|0
+A|It really makes an effort on, to, do this anymore.|sv|3067|1
+B|Right,|b|3067|0
+B|it requires a lot of effort to, to, to do that sort of thing.|sv|3067|0
+A|Right,|aa|3067|1
+A|right.|aa|3067|1
+B|I mean, I, I used to enjoy going,|sd|3067|0
+B|I mean I still do kind of enjoy it,|sd|3067|0
+B|but, uh, it's, it does not, it's not as many people there that I really, really enjoy seeing.|sd|3067|0
+A|Right,|b|3067|1
+A|right.|b|3067|1
+B|You know, I,|%|3067|0
+B|it's going just for the sake of getting together,|sd|3067|0
+B|I think for the family.|sd|3067|0
+B|And,|%|3067|0
+A|Do you correspond with anybody other than your mother and brother that's in that group? On a regular basis, not just Christmas cards.|qy|3067|1
+B|Uh,|^h|3067|0
+B|Um, um, no,|nn|3067|0
+B|not really.|sd|3067|0
+B|in that,|%|3067|0
+B|but, then again, uh, well, I, you know, I have some aunts that, uh, I, I, I do.|sd|3067|0
+B|That's about|%|3067|0
+B|my mother's sisters, you know,|sd|3067|0
+A|Uh-huh,|b|3067|1
+A|uh-huh.|b|3067|1
+B|but I feel closer to them, because I kind of grew up with them.|sd|3067|0
+B|But, But, uh, as, you know, for the rest of that group, no not really.|sd|3067|0
+A|Right.|b|3067|1
+B|Uh, you know, and, and generally when I was growing up a lot of those people, the only time I ever saw them was at the reunion,|sd|3067|0
+B|so, uh|%|3067|0
+A|Right,|b|3067|1
+A|right.|b|3067|1
+B|you do not really feel that that really close to them.|sd|3067|0
+A|Right.|aa|3067|1
+A|In my, my, uh, father's family, we get together every year at a different location, either Dallas or Oklahoma City.|sd|3067|1
+A|They had chosen Santa Barbara, California for this summer and, and did not get enough people that were willing to go that far, because most of us live either in the midwest, or like in the Texas, Oklahoma area.|sd|3067|1
+B|Uh-huh.|b|3067|0
+A|And, uh, so they cancelled that one and, uh, are looking next year bringing it back closer,|sd|3067|1
+A|but we have a letter, a family letter, that circulates,|sd|3067|1
+B|Uh-huh.|b|3067|0
+A|and it usually goes through me twice a year|sd|3067|1
+A|and what you do is take out the last letter you wrote that's on the bottom and put the, your new letter on the top,|sd|3067|1
+A|and then that's the way it's kept in order.|sd|3067|1
+A|And then, about twice a year then you are kept up with what is going on and when you meet them at the reunion, you do not feel like, I do not know anything about this person.|sd|3067|1
+A|You have, read something about what is going on and about their children and so forth.|sd|3067|1
+B|That's a good idea.|ba|3067|0
+A|So, you are kind of, half way acquainted that way.|sd|3067|1
+B|Right.|b|3067|0
+A|And that, that's been a, that's been a nice way of keeping us all aware of each other, I think.|sd|3067|1
+B|Yeah.|ny|3067|0
+B|Right.|b|3067|0
+A|We tried to start that in my husband's family.|sd|3067|1
+A|His mother's side decided they were going to have a reunion a couple of years ago,|sd|3067|1
+A|and I said, well let's start this letter,|sd|3067|1
+A|and it just never|sd|3067|1
+A|my husband's sisters started it and sent it to us|sd|3067|1
+A|and that's as far as it got.|sd|3067|1
+A|I sent it, on to the next one,|sd|3067|1
+B|Yeah.|b|3067|0
+A|and, and, but we are going in a couple of weeks to the next one, in Scottsdale, Arizona, for that family.|sd|3067|1
+B|Uh-huh.|b|3067|0
+A|We are real glad we got together because since that, that time there were only like two of the, one sister and one sister-in-law of the original family left.|sd|3067|1
+A|And the sister-in-law died|sd|3067|1
+A|and the sister is in a nursing home,|sd|3067|1
+A|so, we are glad that we took that opportunity two years ago.|sd|3067|1

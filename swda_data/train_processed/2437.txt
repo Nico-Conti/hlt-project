@@ -1,0 +1,231 @@
+A|Are, are you a T I-er?|qy|2437
+B|No,|nn|2437
+B|no,|nn|2437
+B|I work there as a temporary.|sd|2437
+A|Oh, really.|b|2437
+B|But, are you at T I?|qy|2437
+A|Oh yeah.|ny|2437
+B|So you have to do the random drug testing.|qy^d|2437
+A|Oh, yeah,|ny|2437
+A|yeah,|ny|2437
+A|yeah.|ny|2437
+A|In fact with me, this is, it's not much to talk about,|sd|2437
+A|I'm so much for it.|sd|2437
+A|I don't really have much to comment about it.|sd|2437
+A|There've been some interesting subject that they've called about.|sv|2437
+A|How many times have you called,|qw|2437
+A|or have you been participating in this?|qrr|2437
+B|Oh, about ten or eleven calls.|sd|2437
+A|Oh, you got ten,|sd|2437
+A|well you, you've passed me up.|sd|2437
+B|Right.|b|2437
+A|This is about six times.|sd|2437
+B|Oh.|b|2437
+B|As contract person we have to do random drug testing, too.|sd|2437
+A|Yeah.|b|2437
+B|It doesn't bother me.|sd|2437
+B|I don't feel like it's really a violation of privacy or anything.|sd|2437
+A|No,|aa|2437
+A|I think it's good.|sv|2437
+A|In fact, I don't know what the statistics were,|sd|2437
+A|but I think that they were surprised to find it so low.|sd|2437
+A|I think they were expecting to find, uh, like the national average at T I.|sd|2437
+A|And I think it was tremendously down.|sd|2437
+B|As far as the number of drug users, you mean?|qy|2437
+A|Yeah|ny|2437
+B|Huh.|b|2437
+A|as far as the number of people they actually found that were drug users.|sd|2437
+A|But I think that on when I was at T I of course, we had all the information before they started.|sd|2437
+B|Right.|b|2437
+A|And they said that a certain number of people that the heavy drug users would either quit or go in rehabilitation programs.|sd|2437
+A|And I think that's what helps, you know, that in the warning that you have a drug program, the people that are worried about it or are taking drugs, actually go|sv|2437
+A|and then usually a lot of them partake in some of the benefits of rehabilitation and everything.|sv|2437
+B|Right,|b|2437
+B|yeah,|b|2437
+B|so that's real beneficial for the company and the employee.|sv|2437
+A|Yeah,|b|2437
+A|and our numbers have been way down.|sd|2437
+A|I don't know what they were.|sd|2437
+B|When I worked for the temporary agency as a permanent person,|sd|2437
+B|and so we had,|%|2437
+B|when we sent temporaries to T I, we had to have their drug tested.|sd|2437
+A|Yeah.|b|2437
+B|And we did have a couple of cases where we really, the person said that they hadn't used anything,|sd|2437
+B|and their test came back positive,|sd|2437
+B|and normally we didn't retest them.|sd|2437
+B|But there were a couple of people that we really thought that they were telling the truth|sd|2437
+B|and we retested them like the next day,|sd|2437
+B|and they came back negative the second time.|sd|2437
+A|Oh, really.|b|2437
+B|So that, that's the only thing, I think, that might be a little bit of a problem.|sv|2437
+A|Oh, you're,|%|2437
+A|that's a good point,|sv|2437
+A|but at T I they, before they had the testing, I've forgotten, seems like it's a year ago September, something like that, they told us that the agency that did it was the one that did it for the government.|sd|2437
+A|And, of course, that's critical, just as the point that you brought up that whoever does your testing's got to be, you know, have a lot of quality control, that they keep track of everything.|sd|2437
+A|They don't make mistakes.|sd|2437
+A|That would be terribly embarrassing for someone to really come back positive|sv|2437
+B|Right.|b|2437
+A|and they were not.|sd|2437
+A|And I haven't heard of any,|sd|2437
+A|now I'm not in personnel or anything.|sd|2437
+B|Yeah.|b|2437
+A|But, uh, they say that there, it's almost down to zero where people come back and say they are positive and they're not.|sd|2437
+A|In other words, there's very few mistakes,|sd|2437
+A|and that, of course, has got to be critical.|sd|2437
+A|It's got to be, if you have a drug testing program,|sv|2437
+A|it's got to be with a very, very good agency.|sv|2437
+A|You don't just have some local group do it.|sv|2437
+A|It's got to be a highly qualified agency.|sv|2437
+B|Right,|b|2437
+B|yeah,|b|2437
+B|not just some doctor's office somewhere.|sd|2437
+A|No,|aa|2437
+A|you don't want to do that.|sv|2437
+A|It's got to be a laboratory that does quality control and double check.|sv|2437
+A|And I think that T I is latched themselves up with an established group.|sd|2437
+A|And that would be good for any company that does it, and not to have just a very casual thing.|sv|2437
+A|It's got to be with a, you know, first class, totally independent agency. Not local of course.|sv|2437
+A|Ours, I think, well I think it was in the south somewhere,|sv|2437
+A|but it wasn't even in Dallas, you know, the one that did us.|sd|2437
+B|Oh really.|b|2437
+A|Yeah.|aa|2437
+B|Huh. Do they have a policy where they counsel people if they come back positive,|qy|2437
+B|or do they fire them right away.|qrr|2437
+A|Oh, no.|nn|2437
+A|They're not fired.|sd|2437
+A|They are, they have one chance to then go in a program.|sd|2437
+A|You come back positive, you have one chance to go in, and go into, they have a lot of, uh, rehabilitation, both for alcohol and for drug use,|sd|2437
+A|and they have, uh, a lot of, uh, they have an agency where you can go for personal problems, financial or whatever.|sd|2437
+B|Right.|b|2437
+A|And so they, they, they don't,|sd|2437
+A|no,|nn|2437
+A|it's not firing first.|sd|2437
+A|It's, uh, definitely trying to encourage people to rehabilitate.|sd|2437
+A|In fact, again, before you go, you know, that's why I said, when they first started it, they had a rehabilitation program in effect that said if you worried about this and you may have taken drugs, go ahead and get rehabilitated first,|sd|2437
+A|and they won't say anything about it.|sd|2437
+B|Right.|b|2437
+B|I think that's really good.|sv|2437
+A|Oh sure.|b|2437
+B|I know some places just fire people on the spot if they come back positive or something.|sd|2437
+A|Oh yeah,|b|2437
+A|no,|aa|2437
+A|that's not right.|sv|2437
+A|It's really an illness, or whatever you want to say that it is.|sv|2437
+A|You know, it's a weakness and all,|sv|2437
+A|and who, all of us have weaknesses of one kind or another.|sv|2437
+A|And I think that those people that have that and however they got into it,|sv|2437
+A|I have children,|sd|2437
+A|I always worry about the, the classical thing that you see on T V, where the drug pushers give it to the kids for free, you know, and get them sucked in,|sd|2437
+A|and then they sell it to them.|sd|2437
+A|You know the classical thing is to give it away.|sd|2437
+B|Right.|b|2437
+A|I always worry about my teenage daughters going to some party|sd|2437
+A|and they slip it to them.|sd|2437
+A|I don't know,|h|2437
+A|I don't even have that much knowledge to know whether that would get them addicted or not, you know.|sd|2437
+A|That's a real worry.|sd|2437
+B|Yeah,|b|2437
+B|some of the stories you read about cocaine, that's like people try it one time and they're addicted.|sd|2437
+B|My husband is a counselor,|sd|2437
+B|and he works, mostly with adolescents.|sd|2437
+A|Oh, you know a lot about that.|qy^d|2437
+B|So yeah,|ny|2437
+B|I hear a lot of horror stories about things like that.|sd|2437
+A|Uh-huh.|b|2437
+B|But most of the time it's they get into the wrong crowd first,|sd|2437
+B|and then they start a drug problem.|sd|2437
+A|Yeah.|b|2437
+B|It's usually not a one time accidental thing, I don't think.|sv|2437
+A|Yeah,|b|2437
+A|I know,|ba|2437
+A|I'm glad of that.|sd|2437
+A|And I have, knock wood, pretty good luck, or very good luck with my daughters on so far,|sd|2437
+A|that's my conference call,|sd|2437
+A|I have one daughter still at home.|sd|2437
+A|One's at U T|sd|2437
+A|and one's at home, gets dozen calls a night.|sd|2437
+B|Oh, well I'll let you go if you want to go ahead and take that,|ad|2437
+A|No,|ar|2437
+A|no,|ar|2437
+A|I don't care about that,|sd|2437
+A|she'll be on the phone all night.|sd|2437
+B|Yeah,|b|2437
+B|it seems if you watch what kind of crowd that start running around with and kind of keep up with who their friends are that's best way to avoid trouble, from what I can gather.|sv|2437
+A|Right.|b|2437
+A|Do you have children?|qy|2437
+B|No|nn|2437
+B|not yet,|sd|2437
+B|we're expecting a baby in July,|sd|2437
+A|Oh, great,|ba|2437
+B|so we're starting.|sd|2437
+A|Fantastic experience.|sv|2437
+A|I've got two, as I said, I've at U T now in Austin, and one at home,|sd|2437
+A|and I always say that I've learned so much more from them than I ever taught them.|sd|2437
+B|Yeah.|b|2437
+A|It's a fantastic experience.|sv|2437
+B|Oh, we're really excited about it.|sd|2437
+A|Oh yeah.|b|2437
+B|You know, one thing my husband believes is if you suspect your kids are having any kind of problems, he believes you should take your kids in for a random testing, like on a Saturday morning, if they've been out at a party Friday night.|sd|2437
+A|Yeah.|b|2437
+B|If you're not too sure what's going on, he tells parents all the time, haul them into the doctor's office and get them checked.|sd|2437
+A|The key thing that I think, that we try to do, is that bring all the friends over here.|sv|2437
+A|Have our house as a place where they can come at any time, so that you always see their friends rather than make them not welcome|sv|2437
+B|Right.|b|2437
+A|and they're always over in someone else's house.|sv|2437
+A|So our, we've been lucky that our house is usually the place where the kids could come, you know.|sd|2437
+B|Uh-huh,|b|2437
+B|yeah,|b|2437
+B|I think that's a really good thing to encourage.|sv|2437
+A|And then you can keep an eye, you can make judgments and make comments or whatever you want.|sv|2437
+A|But at least you see what's going on,|sv|2437
+A|and you always have your house welcome, then your children think that, you know, you're cool parents and all that.|sv|2437
+B|Right|b|2437
+A|Well good luck with your expected baby there.|fo_o_fw_"_by_bc|2437
+B|Oh well, thanks.|ft|2437
+A|My wife was yelling, was talking in my ear,|sd|2437
+A|she said, reminded me to say that they're very cheap until they get to start driving.|sd|2437
+B|Uh-huh.|b|2437
+A|And we have one, of course, I say, in college driving. And one going to drive this summer,|sd|2437
+A|so kids are, cost you practically nothing, because you always get so many things from your relatives and everything.|sd|2437
+A|But you wait until they go and get a car, insurance, that's when they get expensive.|sd|2437
+A|As they get older you know, they cost practically nothing from one to five,|sd|2437
+B|Yeah.|b|2437
+A|and then slowly but surely starts to creep up when they start to take lessons,|sd|2437
+A|but it's well worth it and everything.|sd|2437
+B|Yeah,|b|2437
+B|uh, yeah,|b|2437
+B|I think it'll be neat.|sd|2437
+A|Be a, be a great experience really.|sv|2437
+A|You still there?|qy|2437
+A|Okay,|bk|2437
+A|I thought I was cut off there.|sd|2437
+A|You know, I don't have much to say about drug testing.|sd|2437
+B|No,|aa|2437
+B|I can't think of anything else to say about that either.|sd|2437
+A|So you've done this ten times?|qy|2437
+B|Yeah.|ny|2437
+A|Did you get the booklet on how to get the gifts and all?|qy|2437
+B|No,|nn|2437
+B|I don't work for T I,|sd|2437
+B|so I get cash.|sd|2437
+A|Oh, okay.|bk|2437
+A|I didn't know what they were going to do.|sd|2437
+A|They sent us a little booklet,|sd|2437
+A|I just got it a week or so ago saying, you know, so many calls will be something a prize and everything.|sd|2437
+B|Right.|b|2437
+A|Well that great.|ba|2437
+A|Well what kind of cash?|qw|2437
+A|I've forgotten what they going to do.|sd|2437
+B|Hm.|%|2437
+A|Was it five dollars a call?|qy|2437
+B|Yeah,|ny|2437
+B|five dollars a call.|sd|2437
+A|Well, hope they follow through and everything.|sd|2437
+B|Well technically we're not supposed to talk about the phone calls while we're on them|sd|2437
+B|so I guess we better get off.|ad|2437
+A|Right,|aa|2437
+A|yeah,|aa|2437
+B|It was good talking to you.|fc|2437
+A|Alright.|fc|2437
+A|Bye-bye now.|fc|2437
+B|Bye.|fc|2437

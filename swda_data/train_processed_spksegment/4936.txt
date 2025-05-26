@@ -1,0 +1,117 @@
+A|Why don't you start?|ad|4936|0
+B|Oh, I don't know.|h|4936|1
+B|I, uh, I refinished a couple of old, uh, dressers that were handed down.|sd|4936|1
+B|You know, nice it's nice tongue and groove, uh, uh, construction.|sd|4936|1
+B|Uh, that's been, I've been pretty successful with that.|sd|4936|1
+A|Things you already owned or things that you've picked up just to do that?|qy|4936|0
+B|What?|br|4936|1
+A|Are they things you already owned or you pick them up just to do that refinishing?|qy|4936|0
+B|No,|nn|4936|1
+B|I've done some other things too. Uh, you know.|sd|4936|1
+A|Yeah.|b|4936|0
+A|I've done both|sd|4936|0
+B|Yeah.|b|4936|1
+A|Uh, uh, my wife has picked up a couple of things saying, uh, boy if we could refinish that, that would be a beautiful piece of furniture|sd|4936|0
+A|and, uh, we've done it a couple of times.|sd|4936|0
+A|I guess that  we've been fairly successful with those.|sd|4936|0
+B|Oh, yeah.|b|4936|1
+A|That's, uh, that's a kind of low risk sort of project, isn't it I guess.|sv|4936|0
+B|Yeah.|aa|4936|1
+B|That's a good way to get started.|sv|4936|1
+A|Uh, I have a, a, uh, really nice desk. A nicer desk than I could afford. Which I got because my sister who worked in a hospital, uh liberated it after a fire|sd|4936|0
+B|Uh-huh|b|4936|1
+A|and, uh, we stripped it all the way down and refinished it|sd|4936|0
+A|and it turned out to be really nice, uh, a nice desk. Maple top I think or or something of that sort.|sd|4936|0
+B|Uh-huh|b|4936|1
+B|Uh-huh|b|4936|1
+B|Yeah.|b|4936|1
+B|I, I, uh, put together a, a, up rolltop desk from scratch.|sd|4936|1
+A|Oh, really?|bh|4936|0
+B|You know, a kit.|sd|4936|1
+A|Oh. I'm jealous.|ba|4936|0
+B|Yeah.|b|4936|1
+B|Still had to cut it and everything,|sd|4936|1
+B|but it was fun.|sd|4936|1
+A|Uh-huh.|b|4936|0
+A|Yeah|b|4936|0
+A|I, I do do things, uh, that might be too crude to be called woodworking.|sd|4936|0
+A|I've built my own deck and, uh things like that.|sd|4936|0
+B|Uh-huh.|b|4936|1
+B|Yeah.|b|4936|1
+B|I, I've done the same. You know, like the trim around the house you know  the baseboards and things like that.|sd|4936|1
+A|And, uh  I definitely have begun to accumulate tools too.|sd|4936|0
+A|My, I, uh I picked up a bunch of Craftsman tools from the forties that my wife's father owned when he was alive|sd|4936|0
+B|Uh-huh.|b|4936|1
+A|and so I do have a band saw and a router and, uh, things like that out in the garage.|sd|4936|0
+A|But I can't say I use them very often|sd|4936|0
+B|Um. Yeah|b|4936|1
+B|, I'm looking at trying to get a router right now.|sd|4936|1
+A|They're handy, uh, they  they come in handy at the most unusual times.|sv|4936|0
+A|Putting doors in is the time when I'm,|sd|4936|0
+A|uh, I bought myself a, uh, template for making mortices and doors|sd|4936|0
+A|and that's a whole lot easier than doing it with a chisel|sd|4936|0
+B|I'll bet.|aa|4936|1
+A|But I've, also, I've also used them for building drawers where you, uh, for rabbeting and, uh, because, uh, rabbeting on my table, on my, uh, radial arm saw is a little bit uncertain|sd|4936|0
+B|Uh-huh.|b|4936|1
+A|So, I got one for Christmas a few years ago and used it quite a bit for the first eight months I had it|sd|4936|0
+A|and now I use it twice a year maybe|sd|4936|0
+B|Yeah.|b|4936|1
+B|My my brother's used it a lot for making drawers.|sd|4936|1
+B|I don't  know,|h|4936|1
+A|The big,|%|4936|0
+B|what, what's your opinion of what a good router is like?|qw|4936|1
+B|You know I,|%|4936|1
+A|Uh, I guess it,|%|4936|0
+B|Because he was tell me like the ones that you dial in aren't all that great.|sd|4936|1
+B|They've plastic parts and stuff.|sd|4936|1
+A|The ones that what?|br|4936|0
+B|That you dial in on the side.|sd|4936|1
+A|Uh, I have never even I have never even looked at one closely.|sd|4936|0
+A|Uh, the, the little use that I've gotten from my router, I would say, uh, I would spend my money on the bits|sd|4936|0
+B|Uh-huh.|b|4936|1
+B|Uh-huh.|b|4936|1
+A|Uh, I have a, I'd guess you'd call a medium quality Craftsman router|sd|4936|0
+A|and the, uh,|%|4936|0
+B|How strong is it?|qw|4936|1
+A|It's strong enough for any job where you don't try to take more than say three-eighths of an inch at a time.|sd|4936|0
+A|But the problem is that the, uh, as with|%|4936|0
+A|any, any time you buy a, a  tool with a, a, as a, as a package the bits that they give you are low end.|sv|4936|0
+B|Don't they,|%|4936|1
+B|Uh-huh.|b|4936|1
+B|Uh-huh.|b|4936|1
+A|So the price of a good set of, uh, carbide steel, uh, bits is probably, uh, I mean, a, a good set of bits is probably going to run you a hundred dollars|sv|4936|0
+A|and, uh, uh, if you're going to use for a lifetime I suppose it's worth it.|sv|4936|0
+A|Because uh,|%|4936|0
+A|I imagine if I go and sharpen them myself, uh, they won't last|sv|4936|0
+A|And I've never had the bits sharpened|sd|4936|0
+A|So.  That's a thing to consider is to,|sv|4936|0
+B|Uh-huh.|b|4936|1
+B|They, they really get hot don't they?|qy|4936|1
+A|Yeah.|ny|4936|0
+A|And they, they dull after awhile.|sd|4936|0
+A|Especially, I did some cabinets in, uh, ash and oak|sd|4936|0
+B|Uh-huh.|b|4936|1
+A|and, uh, that, that wears a bit down.|sv|4936|0
+A|We remodeled and saved a bunch of really nice ash cabinets, uh which had been in the original, remodeling of our kitchen.|sd|4936|0
+B|Uh-huh.|b|4936|1
+B|Right.|b|4936|1
+A|And I saved them and built an oven cabinet out of one and another cabinet out of another by using the faces and so forth|sd|4936|0
+A|And, uh, routing hardwood will, uh, take the edge off a cheap bit pretty fast|sv|4936|0
+A|So.|%|4936|0
+B|Yeah.|b|4936|1
+B|I've cut some one by eight oak before|sd|4936|1
+B|Boy was that fun.|sd|4936|1
+A|Right.|b|4936|0
+A|That's, uh,|%|4936|0
+B|Big solid pieces of oak are just tough.|sv|4936|1
+A|And then you take the blade to the to get sharpened, right|qy|4936|0
+B|Well, that was, you know, with a, with a circular saw.|arp_nd|4936|1
+A|Uh-huh.|b|4936|0
+B|Like, oh my gosh.|ba|4936|1
+A|Right.|b|4936|0
+B|Is this going to be fun|qh|4936|1
+A|Yeah|b|4936|0
+A|Well I've used mine on treated wood|sd|4936|0
+A|and now all my blades need sharpening. Because, uh, treated wood will also chew them up.|sd|4936|0
+B|Yeah.|b|4936|1
+B|Treated wood can really make you sick too.|sv|4936|1

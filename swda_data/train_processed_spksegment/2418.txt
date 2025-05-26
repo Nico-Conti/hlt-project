@@ -1,0 +1,277 @@
+A|Get us going.|ad|2418|0
+B|Okay.|aa|2418|1
+A|Are, are you at T I Austin|qy|2418|0
+A|or,|%|2418|0
+B|Well, I left T I in January|ng|2418|1
+B|but I signed up for this before I did.|sd|2418|1
+A|Oh, that's great.|ba|2418|0
+A|No,|%|2418|0
+A|uh, uh, my daughter has talked to, my daughter up here with us,|sd|2418|0
+A|I have another one,|sd|2418|0
+A|and she's talked to students, uh,|sd|2418|0
+A|so I guess they have, uh, sent this to their customers and people in colleges and things.|sd|2418|0
+A|So they're,|%|2418|0
+A|if you're a computer user,|sd|2418|0
+A|so my daughter has talked to two students, uh, that were non, T I|sd|2418|0
+B|Oh, I think that's a, that's a good idea.|sv|2418|1
+A|So I guess,|sd|2418|0
+A|Oh, yeah.|b|2418|0
+B|All right.|b|2418|1
+A|we're on finances,|ad|2418|0
+A|have you, have you retired|qy|2418|0
+A|or, uh,|%|2418|0
+B|Oh, no,|nn|2418|1
+B|no,|nn|2418|1
+B|no,|nn|2418|1
+B|no|nn|2418|1
+A|Oh.|bk|2418|0
+B|Actually I left T I, um, had basically set my sights to leave T I when they announced there would be no salary increases in ninety-one, because I, I definitely need to make a little more money,|sd|2418|1
+A|Oh, yeah.|b|2418|0
+B|and, uh, I haven't really accomplished that yet,|sd|2418|1
+B|but I'm trying.|sd|2418|1
+A|Oh, yeah,|b|2418|0
+A|it's, uh, that's,|%|2418|0
+A|the finances,|%|2418|0
+A|I guess we're on the subject of finances,|sv|2418|0
+A|it is tough.|sv|2418|0
+A|Uh, I've been with T I,|sd|2418|0
+A|I'm just going to be fifteen years this year|sd|2418|0
+A|and, and that's a tough thing, uh, the salary thing.|sv|2418|0
+A|T I doesn't quite always do it right.|sv|2418|0
+A|Well, what about our, our, our financial budget.|qo|2418|0
+A|Well, you, you should have a lot of information on a budget, then, if you're, uh,|qy^d|2418|0
+B|I wish I did.|ng|2418|1
+B|I, I hope you're, you're a person who does things better than,|qy^d|2418|1
+B|I, I don't have a budget.|sd|2418|1
+B|That's one of my goals for this year is to try to get myself in a good, oh, long-range planning budget mode.|sd|2418|1
+B|Um, I'm a single mom|sd|2418|1
+B|and I've been just, uh, trying to get,|sd|2418|1
+A|Well, you, you, you deserve an honor for that, a gold star for that, I guess|sv|2418|0
+B|Thank you,|ft|2418|1
+B|it's nice to have someone understand that.|sv|2418|1
+A|Right,|aa|2418|0
+A|sure.|aa|2418|0
+B|how about yourself,|qo|2418|1
+B|do you have a budget you live by?|qy|2418|1
+A|Well, I guess I do,|na|2418|0
+A|I do have a long-term budget|sd|2418|0
+A|I got a daughter in college and one going to be in college|sd|2418|0
+A|so that, I've been thinking about that for quite a while.|sd|2418|0
+A|Now monthly, no.|sd|2418|0
+A|I'll tell you a funny story about budgeting,|sd|2418|0
+A|and I've been married twenty-six years|sd|2418|0
+A|and I did, you know, that the macho thing,|sd|2418|0
+A|the man always did the bills for, I don't know, fifteen years or more,|sd|2418|0
+B|Uh-huh.|b|2418|1
+A|and I got so sick of it, trying to balance the budget, uh, one,|sd|2418|0
+A|and I always tried to show my wife, you know, here's how you,|sd|2418|0
+A|once a year I'd say, here's how you do the budget in case I get sick,|sd|2418|0
+A|or here's how you do the checks, you know.|sd|2418|0
+B|Right.|b|2418|1
+A|One day I gave her the checkbook|sd|2418|0
+A|and I said, I'm not doing this anymore.|sd|2418|0
+A|You do it,|^q|2418|0
+A|you learn it,|^q|2418|0
+A|and I've been happy ever since.|sd|2418|0
+B|Well, that's great.|ba|2418|1
+B|How about your,|qo|2418|1
+A|She does it all now for about ten years,|sd|2418|0
+A|and I don't even,|sd|2418|0
+A|she complains to me about it,|sd|2418|0
+A|she threatens me to give it back to me,|sd|2418|0
+A|and I said, I've been a happy man since I haven't, fooled with that checkbook, you know|sd|2418|0
+B|Oh.|b|2418|1
+A|So I know it's a big pain to try to do that.|sv|2418|0
+B|It really is.|aa|2418|1
+B|It, it really is.|aa|2418|1
+B|You know, that was always a, a major problem in our marriage.|sd|2418|1
+B|What I have always identified is I am basically good with money.|sd|2418|1
+B|It, I don't really need a budget to tell me not to spend it.|sd|2418|1
+B|I, think that comes from never having enough.|sv|2418|1
+A|Right.|b|2418|0
+B|You know, I'm always afraid of I'm going to need some and where will it be.|sd|2418|1
+A|Right,|b|2418|0
+A|oh, yeah.|b|2418|0
+B|So, um, no,|nn|2418|1
+B|I, I've, I've finally worked myself into a spot where I can budget.|sd|2418|1
+B|When I, when I was first divorced, I had, um, I sat down and budgeted|sd|2418|1
+B|and I had outgo that was much higher than what I had coming in.|sd|2418|1
+A|Yes,|aa|2418|0
+A|I think, uh, that that is a tough, uh,|sv|2418|0
+A|we all,|%|2418|0
+A|seems to seems to be that way.|sv|2418|0
+B|I tried to hang onto a house that was way too expensive for me,|sd|2418|1
+B|and, and so now that I've gotten, you know, I lost the house. Now that I've gotten past that, I can sit down and say, okay,|sd|2418|1
+A|Yeah.|b|2418|0
+B|this is the reality.|^q|2418|1
+B|This is how much money I have each month.|^q|2418|1
+B|The scary thing is, as far as long term, I don't have anything.|sd|2418|1
+B|I don't know if you have an I R A or, uh, you know,|qy^d|2418|1
+B|and I've got two girls, also,|sd|2418|1
+B|and I haven't saved anything for their college|sd|2418|1
+B|and,|%|2418|1
+A|Yeah,|b|2418|0
+A|that's, you need to do that. I'll, I'll, I'll give you a hint.|ad|2418|0
+A|I don't know if you're a a radio talk, uh, person listener.|qy^d|2418|0
+A|Do you listen to radio talk shows?|qy|2418|0
+B|Sometimes I have.|na|2418|1
+A|Listen to Bruce Williams, uh, for financial advice.|ad|2418|0
+B|Uh-huh.|aa|2418|1
+A|He's on, oh,|sd|2418|0
+A|I don't know what he's going to be in Austin.|sd|2418|0
+A|He's on five seventy here.|sd|2418|0
+A|oh,|sd|2418|0
+A|he's nationally famous.|sd|2418|0
+A|He's a college graduate type guy.|sd|2418|0
+A|He's been in all,|sd|2418|0
+A|he's an entrepreneur|sd|2418|0
+A|and he gives very practical financial advice about cars, very, you know, not, not nothing college level, basic stuff.|sd|2418|0
+A|His name is Bruce Williams,|sd|2418|0
+A|he's on national radio.|sd|2418|0
+A|Uh, I don't know, what it would be down there.|sd|2418|0
+A|You might want to,|ad|2418|0
+A|whatever your radio talk shows are down there, he's on that channel.|sd|2418|0
+A|It's, uh, it's five seventy up here.|sd|2418|0
+B|Well, I'll check that out.|aa|2418|1
+B|Uh-huh.|b|2418|1
+A|And I'd listen to talk shows for everything, for gardening and everything, just when I'm doing chores,|sd|2418|0
+A|and, uh, he gives a wealth of information, very practical stuff|sd|2418|0
+B|You've learned a lot.|qy^d|2418|1
+A|and, and he will help you avoid a lot of little things, uh, financially.|sd|2418|0
+B|Well, that's, that's good to know how,|ba|2418|1
+A|Yeah,|aa|2418|0
+A|there, there's a lot of advice out there for how to get a budget.|sv|2418|0
+A|And I, I'm not expert, again, because, I don't really do it monthly.|sd|2418|0
+B|Uh-huh.|b|2418|1
+B|Well, you must have done something.|sv|2418|1
+B|You're, you're helping your children in school|sd|2418|1
+B|and you're you know.|sd|2418|1
+A|Right.|aa|2418|0
+A|I did start a college fund.|sd|2418|0
+A|I'm not, uh, I have one again at U T down there now, her first year,|sd|2418|0
+B|Uh-huh.|b|2418|1
+A|and she's almost gone through her whole college fund, you know|sd|2418|0
+B|Excuse me, Jim,|ad|2418|1
+B|could you hold on?|ad|2418|1
+B|I have someone at the door.|sd|2418|1
+A|Sure, go ahead.|aa|2418|0
+B|I'll be right back.|oo_co_cc|2418|1
+A|Sure.|b|2418|0
+B|in Thank you.|ft|2418|1
+B|I think we might have just screwed up the computer|sd|2418|1
+B|but we'll find out.|sd|2418|1
+A|Oh, no,|ba|2418|0
+A|yeah,|%|2418|0
+A|right ,|%|2418|0
+A|they give us ten minutes, uh.|sd|2418|0
+B|Oh.|b|2418|1
+A|Uh, the only advice I give you on college would be, there's a lot of scholarship money out there.|sv|2418|0
+A|My daughter got a little bit, not much, only first year|sd|2418|0
+A|she got about two thousand dollars worth,|sd|2418|0
+A|and you ought to, well, as your daughters approach the college age, uh, start finding out about the scholarship monies because there is a lot of money out there|ad|2418|0
+A|and, uh,|%|2418|0
+B|And, and how did your daughter get scholarship money on?|qw|2418|1
+A|Uh, band.|sd|2418|0
+A|She got, you know, five hundred dollars at a, at a clip through bands, through leadership.|sd|2418|0
+A|Uh, there's all kinds of civic organizations that will give you, you know, one shot money.|sd|2418|0
+A|Uh, you get a president's award if you're, you're in, in high school doing|sd|2418|0
+A|this up by, here in Arlington. Uh,|sd|2418|0
+A|there's a lot of,|sd|2418|0
+A|and, of course, you, if you, you score high on the S A T, you can get, you know, two thousand a year, you know, or more.|sd|2418|0
+B|Uh-huh.|b|2418|1
+B|Wow.|ba|2418|1
+A|You can get yearly money as long as you keep up your grades.|sd|2418|0
+A|She, she did very well in school|sd|2418|0
+A|and, uh, but she only got first year money.|sd|2418|0
+A|She got about two thousand dollars.|sd|2418|0
+A|It was only five hundred, dollars at a clip from this organization.|sd|2418|0
+B|Uh-huh.|b|2418|1
+A|We called.|sd|2418|0
+A|There were, there were two or three people,|sd|2418|0
+A|there was some little civic organization in Dallas that gave money away|sd|2418|0
+A|and only two or three people applied.|sd|2418|0
+A|She applied and got five hundred dollars from that.|sd|2418|0
+B|Wow,|ba|2418|1
+A|So, look into that bit,|ad|2418|0
+B|oh, I'm definitely going to be actively looking into that.|aa|2418|1
+A|The year that they graduate, you know, before, though, you know, while they're graduating , there's all kinds of little bitty money that little clubs will give away, churches and everything,|sd|2418|0
+A|and they don't even have a dozen applicants because, uh, uh, the kids are going off after the big money.|sd|2418|0
+B|Uh-huh.|b|2418|1
+A|Uh, of course, you have to have some sort of record in high school, uh, of, of achievement and everything,|sd|2418|0
+A|but sometimes it's just, uh,|sd|2418|0
+A|like our band gave money away.|sd|2418|0
+A|We're a band booster club.|sd|2418|0
+A|We gave, we give, uh, two five hundred dollar scholarships just to kids, uh, who we think were worthy, you know|sd|2418|0
+A|so, There's money out there.|sd|2418|0
+B|Well, that's great to know.|ba|2418|1
+B|Yeah,|b|2418|1
+B|that's good.|ba|2418|1
+A|Go ahead,|ad|2418|0
+A|you can talk.|ad|2418|0
+A|I, I don't want to, I want to chew up the whole line here.|sd|2418|0
+B|Oh, well, you're doing, you're doing just fine,|sv|2418|1
+B|and, and, uh, actually I, when I talk I usually like to ask a lot of questions.|sd|2418|1
+B|I was wondering what you do at T I.|qw^d|2418|1
+A|Oh, I'm an engineer.|sd|2418|0
+A|I'm, uh, in fact, I'm working the night because of the cutbacks and everything.|sd|2418|0
+A|Uh, my job,|sd|2418|0
+A|there were three managers jobs that were just dissolved|sd|2418|0
+A|and so they put me on nights.|sd|2418|0
+A|I, I call this my recession job.|sd|2418|0
+B|Oh, goodness.|ba|2418|1
+A|And I'm working nights just kind of covering, uh, shutdown equipment and everything, and just being available, here.|sd|2418|0
+B|Uh-huh.|b|2418|1
+B|Uh-huh.|b|2418|1
+A|I don't mind.|sd|2418|0
+A|Uh, it beats being laid off and everything.|sd|2418|0
+A|And, uh, you, you got to be a little flexible.|sv|2418|0
+B|Oh, absolutely.|aa|2418|1
+B|Yeah.|b|2418|1
+A|Uh, in my old age I'm trying to just hang in there until I get my kids through school|sd|2418|0
+A|and then I'd like to teach, maybe mathematics or something.|sd|2418|0
+A|I'm trying to study for that now.|sd|2418|0
+B|Oh, I hope you can do that.|sd|2418|1
+A|Right, uh,|b|2418|0
+B|What, what I did is|sd|2418|1
+B|I was approached|sd|2418|1
+B|and, and I've, I went to T I just right at the time that, uh, my marriage was ending.|sd|2418|1
+B|I had been a, a stay at home mom|sd|2418|1
+B|and, and I, I was very fortunate in starting,|sd|2418|1
+A|Uh-huh.|b|2418|0
+B|and I really enjoyed it while I was at T I,|sd|2418|1
+B|but, you know, the cutbacks were really getting to be rather frightening|sd|2418|1
+B|and I had less than five years|sd|2418|1
+B|and, also, I wanted to make a little bit more money.|sd|2418|1
+B|So I decided I'd like to go out and try sales.|sd|2418|1
+A|Oh, yeah.|b|2418|0
+B|And, uh, I'm, I'm out trying to sell telephone systems to businesses.|sd|2418|1
+A|Right.|b|2418|0
+B|And the potential there is fantastic.|sd|2418|1
+A|Oh, sure.|b|2418|0
+B|The reality of it is it's tough|sd|2418|1
+A|Well, it's tough right now for everybody.|sv|2418|0
+B|Exactly.|aa|2418|1
+A|Up here in the Dallas Metroplex it's awful.|sd|2418|0
+A|Hey, I've got another clue for you for college.|sd|2418|0
+B|Uh-huh.|b|2418|1
+A|Another clue for you for college money.|sd|2418|0
+B|Okay.|b|2418|1
+A|Go to work for U T.|ad|2418|0
+A|Uh, we have a friend who works, who is a secretary for T C U, you know, up here?|sd|2418|0
+B|Yes.|b|2418|1
+A|They give you scholarship, a hundred percent, if you're, if you work for T C U.|sd|2418|0
+B|They do?|bh|2418|1
+A|Yes.|ny|2418|0
+A|So check that one out, you know.|ad|2418|0
+B|I'm going to check that.|aa|2418|1
+B|I've got, I've got two friends that work at, at U T.|sd|2418|1
+B|I didn't know that all.|sd|2418|1
+A|Ask them about it.|ad|2418|0
+A|Call them.|ad|2418|0
+B|Definitely, I will.|aa|2418|1
+A|And, because it's full, full scholarship.|sd|2418|0
+A|Now, it's, uh, not room and board,|sd|2418|0
+B|Uh-huh.|b|2418|1
+A|but it's tuition, full tuition paid if your parent works at T C U.|sd|2418|0
+B|Well, that sounds fantastic.|ba|2418|1
+A|And her, her mother went over there just for that ...|sd|2418|0

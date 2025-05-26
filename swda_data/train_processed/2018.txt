@@ -1,0 +1,216 @@
+B|Hello.|fp|2018
+A|Hello,|fp|2018
+B|Hi.|fp|2018
+A|Hello|fp|2018
+A|this is Lois.|fp|2018
+B|Hi,|fp|2018
+B|hi,|fp|2018
+B|this is Lisa.|fp|2018
+A|And, uh, I called you know, from that, the, the T I Data Base Calling Instructions.|sd|2018
+B|Uh-huh.|b|2018
+B|Yeah,|b|2018
+B|I got a call yesterday too.|sd|2018
+B|This is a different subject though.|sd|2018
+A|Yeah,|b|2018
+A|this is about changes in the women in the,|sd|2018
+B|Uh-huh.|b|2018
+A|Uh, there's really a lot, isn't there.|qy|2018
+B|Yeah|ny|2018
+A|I think there really is.|sv|2018
+B|It's kind of an easy thing to talk about.|sv|2018
+A|Oh, I guess the work force would be the main, wouldn't it.|qy|2018
+B|Yeah, uh,|ny|2018
+B|I think you have to push one|ad|2018
+B|and then we can start recording it.|ad|2018
+A|Okay|aa|2018
+A|All right.|aa|2018
+B|Okay.|b|2018
+A|Are you ready now?|qy|2018
+B|Yes.|ny|2018
+A|Okay,|b|2018
+A|like I said I guess it would be the work force, you know, as far as changes in the generations.|sv|2018
+B|Yes,|aa|2018
+B|I know because, I know when my mother was a, you know, going into the work force there wasn't very many opportunities for her, I guess,|sd|2018
+B|she's in her late forties.|sd|2018
+B|You were expected to stay home and take care of the kids|sd|2018
+B|and I've never faced that at all.|sd|2018
+A|Uh, no,|aa|2018
+A|I think now, you go to work when they're six weeks old, you know,|sv|2018
+B|Uh-huh.|b|2018
+A|and you stay there.|sv|2018
+A|And I feel like the next generation, you'll probably just work right along with your husband, you know.|sv|2018
+B|Yeah,|aa|2018
+B|uh-huh,|aa|2018
+B|I think it's definitely gotten better.|sv|2018
+A|Oh, I do to, much.|aa|2018
+A|And it's just going to get better.|sv|2018
+B|Uh-huh.|b|2018
+A|It really is.|sv|2018
+B|Because women are in every field now,|sd|2018
+B|I mean I can't think of a field that they're not involved in.|sd|2018
+A|Oh, I can't either, not a one.|sd|2018
+B|And I know at least in the medical field, it seems like they've come out with a lot further advances as far as female medications and things since women have gotten into the doctor field.|sd|2018
+A|Uh-huh.|b|2018
+B|I don't think that men really took the time to work on that sort of thing.|sv|2018
+A|Yeah,|b|2018
+A|even in Washington, you know, there seems to be a lot more women involved.|sv|2018
+B|Yeah.|b|2018
+B|Hopefully, the next generation, it won't even be an issue,|sv|2018
+B|I mean people will just look at you as a person and not as a man or a woman,|sv|2018
+A|Yeah,|b|2018
+A|yeah.|b|2018
+B|I think that would be the best goal.|sv|2018
+A|Oh, I do too,|aa|2018
+A|just your qualifications|bf|2018
+A|and that would be it.|bf|2018
+B|Uh-huh,|aa|2018
+B|exactly,|aa|2018
+B|not what color you are, how old you are, what your male or female.|sv|2018
+B|That would be wonderful,|sv|2018
+B|I guess it's kind of an ideal world though, huh|sv|2018
+A|Yeah,|aa|2018
+A|I kind of think, maybe in time, that, you know, you'll go by social security numbers, you know,|sv|2018
+B|Yeah.|b|2018
+A|and that way they can't say well they picked a male over a female, female over a male, you know,|sv|2018
+B|Exactly,|aa|2018
+B|or the way you look,|sv|2018
+B|or the way you, you know,|sv|2018
+A|Yeah,|b|2018
+A|yeah.|b|2018
+B|your age or anything.|sv|2018
+B|I think that would be a wonderful way to do it.|sv|2018
+A|I do to|aa|2018
+A|just go by your social security number and then look at you qualifications that, you know, that you have.|sv|2018
+B|Uh-huh,|aa|2018
+B|and then,|%|2018
+A|And then if you get it, you know then,|sv|2018
+B|Uh-huh,|aa|2018
+B|also, with, uh, women in the work force they've gotten a lot more options as far as, you know, what's it called, job sharing.|sd|2018
+A|Uh-huh.|b|2018
+B|Like if you and another lady were to share the same full time job, or,|sd|2018
+A|Oh, yeah.|b|2018
+A|As a matter of fact, that's what I'm doing.|sd|2018
+B|Is it.|bh|2018
+A|Uh-huh,|ny|2018
+A|it sure is.|sd|2018
+B|That would be great.|sv|2018
+A|It sure is.|aa|2018
+B|Or, a lot of women I know now and my, uh, one of my supervisors, when she went on L O A to have her baby, we hooked up, uh, uh, a terminal at her house|sd|2018
+B|and she, you know, we could send her messages,|sd|2018
+B|and, and she kept in touch like that, and basically, just worked out of her house.|sd|2018
+A|Oh.|b|2018
+B|I would just take her the actual paperwork once, uh, every week or two,|sd|2018
+B|and that worked out great too.|sd|2018
+A|Yeah,|aa|2018
+A|yeah|aa|2018
+A|that is.|sv|2018
+B|And that's a real attractive option, if you have the, the technology for it.|sv|2018
+A|Uh-huh.|b|2018
+B|All it was, was, you know,|sd|2018
+B|I mean, she just used a phone modem|sd|2018
+B|and she was like she was sitting in the office,|sd|2018
+B|so I think that's real nice too, to come up with different options.|sv|2018
+B|Do you like the job sharing?|qy|2018
+A|Oh, I do,|na|2018
+B|Do you?|bh|2018
+A|I really do,|sd|2018
+A|I think it's great.|sd|2018
+B|Do you work like half days, or half weeks or,|qy|2018
+A|Uh, well like, one week she'll work three days and I'll work two|sd|2018
+A|and she'll work two,|sd|2018
+B|Oh, oh that's great,|ba|2018
+A|and we just share off like that.|sd|2018
+B|Uh-huh.|b|2018
+B|Do you get the full benefits?|qy|2018
+A|Uh-huh,|ny|2018
+A|yeah|ny|2018
+A|we get the full benefits.|sd|2018
+B|Oh, that's wonderful.|ba|2018
+A|But we've just really got a wonderful system that we're working under.|sd|2018
+B|Yeah,|aa|2018
+B|especially with children, and so many things going on, that would be great.|sv|2018
+A|Yeah.|b|2018
+A|It really is,|sd|2018
+A|and that way we're not really missing any thing out, you know, of children,|sd|2018
+B|Either way,|^2|2018
+A|uh-huh.|%|2018
+B|yeah,|aa|2018
+B|you have your career and your home life,|bf|2018
+B|and that would be a nice way, especially if you have young children.|sv|2018
+A|Oh, it is,|sd|2018
+A|it is,|sd|2018
+A|well both of ours is school age,|sd|2018
+A|but we don't want to miss any of those P T A and, you know, all of that.|sd|2018
+B|Uh-huh,|aa|2018
+B|oh, no,|aa|2018
+B|I think,|%|2018
+B|yeah.|%|2018
+B|My son's just in day-care|sd|2018
+B|but even that they have extracurricular activities|sd|2018
+B|and the older they get the more that you're involved in that.|sd|2018
+A|Uh-huh.|b|2018
+A|I think it's great,|sv|2018
+A|I really,|%|2018
+B|Yeah,|b|2018
+A|and I look for more of that in the next generation.|sd|2018
+B|I do too, especially as women get up in management and, and can be in on those decision making,|sd|2018
+B|you know, when that subject comes up they can say yes,|sd|2018
+B|that would be wonderful.|sv|2018
+A|Yes,|aa|2018
+A|oh, I do too.|sd|2018
+B|Plus, I bet it cuts, cuts down on your absenteeism because you've got two days off that you can do everything,|sv|2018
+B|so you don't have to, you know, unless you're just really sick, or the child's sick.|sv|2018
+A|Most of the time now, you know, it's just the weekend,|sd|2018
+A|or just forget it.|sd|2018
+B|Uh-huh,|b|2018
+B|oh yeah,|b|2018
+B|I have to plan way in advance, because,|sd|2018
+B|or, what I've done is found like doctors' and dentists' office with extended hours.|sd|2018
+A|Uh-huh.|b|2018
+B|That's been real helpful too,|sd|2018
+B|like my doctor stays open til nine in the evening.|sd|2018
+B|So that's real helpful,|sd|2018
+B|so you don't, you know, have to do it during office hours, run out on your lunch hour.|sd|2018
+B|I don't know how many times I've done that to do something, post office or the bank or any kind of errand,|sd|2018
+A|To do,|b^m|2018
+A|yeah.|b|2018
+B|so.|%|2018
+A|Uh-huh.|aa|2018
+A|Well I think we've really come a long way in that because,|sv|2018
+B|Uh-huh,|aa|2018
+B|I guess I take it for granted, kind of, because, I just,|sd|2018
+B|it's always been that way.|sd|2018
+A|Uh-huh.|b|2018
+B|But I know,|%|2018
+A|Yeah,|b|2018
+A|but I can remember back growing up, my mother,|sd|2018
+A|I mean it was|%|2018
+A|she always worked,|sd|2018
+A|but it wasn't that easy for her to just take off.|sd|2018
+B|Oh no,|aa|2018
+B|I can remember my mother getting in trouble if, you know, one of was sick,|sd|2018
+B|and I know she probably didn't make hardly anything, you know, compared to the work that she did.|sd|2018
+A|Oh yeah.|aa|2018
+B|I think there is still some discrimination there where as, you know, men and women work in the same job,|sd|2018
+B|I think men get paid more,|sd|2018
+A|Oh, I do too.|aa|2018
+B|but I think that's improving.|sv|2018
+B|It's such a slow process|sv|2018
+B|it's frustrating,|sv|2018
+B|but, you can see that it's wrong|sv|2018
+A|Yes,|b|2018
+A|yes.|b|2018
+B|and you just want to make it right,|sv|2018
+B|but at least the wheels are moving forward.|sv|2018
+A|They really are.|aa|2018
+B|Yeah,|aa|2018
+B|I think it's getting better, not worse.|sv|2018
+B|Well, I should probably get back to my job|fc|2018
+A|I know,|fc|2018
+A|I know the feeling.|fc|2018
+B|Call again.|fc|2018
+A|Okay,|fc|2018
+A|I sure will.|fc|2018
+A|Bye-bye.|fc|2018
+B|Okay,|fc|2018
+B|bye-bye.|fc|2018

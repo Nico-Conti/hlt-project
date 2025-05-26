@@ -1,0 +1,107 @@
+A|Okay.|fo_o_fw_"_by_bc|2163
+B|Okay.|fo_o_fw_"_by_bc|2163
+A|I was trying to get my children quiet for a minute.|sd|2163
+B|Okay. Yes,|b|2163
+A|a deep Well, credit cards, boy, that's an easy topic,|sv|2163
+A|isn't it|qy|2163
+B|it is|sv|2163
+B|It's one we all hold dear and near, I'm sure.|sv|2163
+A|Oh, yes,|aa|2163
+A|yes.|aa|2163
+A|I guess I've had some good experience and some bad experience with them.|sd|2163
+B|Yeah,|b|2163
+B|most of mine's been pretty good, although I'm, I guess I'm like a lot of other people, now,|sd|2163
+B|I'm trying to, to pay off my credit cards|sd|2163
+B|and, and, uh, I've done pretty good at it.|sd|2163
+B|Yeah.|%|2163
+A|Uh-huh|b|2163
+A|Well, I do fairly good until I go in the store and I see something I want You know not need, want.|sd|2163
+B|Yeah.|b|2163
+B|Uh-huh,|b|2163
+B|there is a big difference|sv|2163
+A|There's a big difference there.|sv|2163
+B|Yeah,|b|2163
+B|yeah.|b|2163
+A|But most of mine that I use is strictly gasoline.|sd|2163
+B|Yeah,|b|2163
+B|oh yeah,|b|2163
+B|I, I do that,|sd|2163
+B|I do that,|sd|2163
+B|but the rest, like I said, the rest of them I've been trying to, to pay off and, uh, get back on a cash basis, except for gas.|sd|2163
+A|Uh-huh.|b|2163
+B|It's too easy to, to run into the gas station.|sd|2163
+A|Oh, it sure is especially when you work out of town and everything, that way|sd|2163
+B|And, .|%|2163
+B|Uh-huh.|b|2163
+A|At least that's for me.|sd|2163
+B|Yeah,|b|2163
+B|yeah.|b|2163
+A|Yeah.|b|2163
+B|So.|%|2163
+A|But yeah,|b|2163
+A|I've, I've talked to some who's really had some bad experience|sd|2163
+A|and kind of knock on wood I haven't yet, not bad.|sd|2163
+B|Yeah,|b|2163
+B|well that's,|%|2163
+A|You know, I just, I'm just shocked at the end of the month, to see what damage I have did,|sd|2163
+A|but I try to keep it pretty reasonable.|sd|2163
+B|Yeah,|b|2163
+B|yeah.|b|2163
+B|Well, I've been pretty lucky in that respect.|sd|2163
+B|I don't charge, like I say, I've, I been trying to, to not charge except for emergencies.|sd|2163
+A|Uh-huh.|b|2163
+B|And, uh, so, but I haven't really had any bad problems with credit cards.|sd|2163
+B|There's, you know,|%|2163
+B|they have, uh, wonderful features,|sv|2163
+B|they're there when you need them. You know, like in emergencies, or whatever.|sv|2163
+A|Yeah,|b|2163
+A|yeah.|b|2163
+A|And then they have bad drawbacks, too.  I mean high interest,|sv|2163
+B|Yeah.|aa|2163
+B|It's, it's awfully easy.|sv|2163
+A|it's like paying twice.|sd|2163
+B|That's true,|ba|2163
+B|that's true,|ba|2163
+A|Yes,|b|2163
+A|so, .|%|2163
+B|I try to,|%|2163
+B|I did switch to one, uh, sponsored by the credit union, though. That seems to be a pretty low interest. Yeah, compared to some of the other ones.|sd|2163
+A|Oh, uh-huh.|b|2163
+A|Yeah,|b|2163
+A|yeah.|b|2163
+B|And you don't have an annual fee there,|sd|2163
+B|and that helps.|sd|2163
+A|Oh, yes.|aa|2163
+A|Uh, we used to have, you know, like several,|sd|2163
+A|but right now, we're just more or less at American Express, you know,|sd|2163
+B|Uh-huh.|b|2163
+A|and that way we can go ahead and pay it off when it comes in.|sd|2163
+B|Yeah,|b|2163
+B|that's one way to do it, because that, that forces you to pay for it instead of saying, well, I'll just pay on it this month|sd|2163
+A|Yeah.|b|2163
+A|Pay fifteen,|^2|2163
+A|yeah.|b|2163
+B|and|%|2163
+A|Yes,|aa|2163
+A|I know,|sd|2163
+A|yeah.|b|2163
+B|Yeah.|b|2163
+A|And when you pay fifteen dollars a month it sure takes a long time.|sv|2163
+B|Takes a long time,|b^m|2163
+B|that's right.|ba|2163
+A|It sure does.|ba|2163
+B|And now without the benefits of being able to deduct interest off, off your income tax that's, you know.|sv|2163
+A|Uh-huh.|b|2163
+B|Of course it's been going down for a number of years,|sd|2163
+B|but this is the last year you can take anything.|sd|2163
+B|So.|%|2163
+A|Uh-huh,|b|2163
+A|yeah.|b|2163
+B|So.|%|2163
+A|Well, I've enjoyed talking to you.|fc|2163
+B|Well, I've enjoyed talking to you.|fc|2163
+A|And maybe we'll get to talk again.|fc|2163
+B|Okay.|fc|2163
+A|Okay,|fc|2163
+A|bye-bye.|fc|2163
+B|Bye-bye.|fc|2163

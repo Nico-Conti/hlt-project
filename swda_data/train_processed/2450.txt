@@ -1,0 +1,66 @@
+A|So what kind of weather have you had in Dallas?|qw|2450
+B|Well, it's been very windy,|sv|2450
+A|Really?|bh|2450
+A|Yeah|aa|2450
+A|see, I didn't, I don't,|%|2450
+A|I thought, uh, I thought,|sv|2450
+A|I lived in Euless|sd|2450
+A|and I thought it was pretty normal,|sv|2450
+A|but anyway, but I guess you're right though it has been real hot,|sv|2450
+A|because it, um,|%|2450
+A|I've had to use the air conditioner in March,|sd|2450
+B|we've already had to use that,|sd|2450
+A|my husband usually,|%|2450
+B|and we've had like,|sd|2450
+B|I mean, this is probably typical though, uh, we,|h|2450
+B|like tornado weather and tornado warnings,|sd|2450
+B|and, uh,|%|2450
+A|Uh-huh.|b|2450
+B|so, uh, you know, I, I forget from year to year.|sd|2450
+B|I'm getting too old.|sd|2450
+B|But, the, uh, it, the wind's blowing very hard,|sv|2450
+A|Yeah.|b|2450
+B|but I guess, you know, we're just out of March, and, uh will bring the rain in, uh, April.|sd|2450
+A|Yeah,|b|2450
+A|I know,|sd|2450
+A|The trees are real pretty right now and everything.|sv|2450
+A|And, uh, I don't know.|h|2450
+A|I know the pollen is real high,|sd|2450
+B|Yes,|ny|2450
+B|it is.|sd|2450
+B|Seems very high.|sv|2450
+B|It hasn't bothered me,|sd|2450
+B|but I know that people that have allergies it seems to be pretty high.|sd|2450
+A|I know.|sd|2450
+A|It's been bothering me a lot,|sd|2450
+A|but|%|2450
+A|yeah,|%|2450
+A|I think, I think the weather overall has been, um, probably like you said, probably a little bit warm|sv|2450
+A|and, Uh,|%|2450
+B|A little bit warm and a little bit blowy, I think.|sv|2450
+A|Anyway,|%|2450
+A|so we basically live in the same area|sd|2450
+A|so it's real hard to,|sv|2450
+B|Really hard to make too big of different comparisons, right?|^2|2450
+A|I know.|aa|2450
+B|Yeah.|ny|2450
+A|I just think it's been warm,|sv|2450
+A|and it's been hot,|sv|2450
+A|and I liked it,|sd|2450
+A|and it's beautiful,|sv|2450
+A|and all the trees are pretty,|sv|2450
+A|and I wish it would stay like this all the time|sv|2450
+B|Yes,|aa|2450
+B|I could stand this all summer.|sd|2450
+A|So yeah,|aa|2450
+A|I could too.|sd|2450
+A|And, uh, gah, I don't think we can say anything else really.|sv|2450
+B|I don't think we can either,|aa|2450
+B|let's cut off.|ad|2450
+A|Yeah,|aa|2450
+A|that sounds like a good deal.|sv|2450
+A|Well, you have a nice day.|fc|2450
+B|You too.|fc|2450
+A|And we'll talk to you later.|fc|2450
+B|Bye-bye.|fc|2450
+A|Bye.|fc|2450

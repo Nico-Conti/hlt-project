@@ -1,0 +1,212 @@
+A|Well, what movies have you seen recently, Valerie?|qw|3108|0
+B|Let's see,|^h|3108|1
+B|the last one we saw was THELMA AND LOUISE.|sd|3108|1
+A|Oh, we haven't seen that one yet.|sd|3108|0
+B|Well, don't bother|ad|3108|1
+A|Oh, it wasn't that good.|qy^d|3108|0
+B|Well, oh, from a woman's point of view and it was very, uh, chauvinistic as far as women go.|sv|3108|1
+B|Uh, it was, it was entertaining,|sd|3108|1
+B|but, yeah,|%|3108|1
+B|I don't think the general audience would, would go for it.|sv|3108|1
+A|The most recent one that, uh, my wife and I have seen was the CITY SLICKER.|sv|3108|0
+B|How was that?|qw|3108|1
+A|That was excellent.|sd|3108|0
+A|It was just a really, a really funny movie.|sd|3108|0
+B|That is one I've been dying to see.|sd|3108|1
+A|At the same time, it had a story line about people trying to find themselves.|sd|3108|0
+A|There were parts that were sad.|sd|3108|0
+A|I mean, it just ran the gamut of emotion.|sd|3108|0
+B|Uh-huh,|b|3108|1
+B|uh-huh,|b|3108|1
+B|and,|%|3108|1
+A|And, but it was just all around entertaining.|sd|3108|0
+B|How long did that movie run?|qw|3108|1
+A|Uh, it's still on, to the best of my knowledge.|sd|3108|0
+B|But, I mean, time wise, how long,|qw|3108|1
+B|was it two hour|qy|3108|1
+A|Oh.|b|3108|0
+B|or,|%|3108|1
+A|Uh, it's, I think it's less than two hours.|sd|3108|0
+B|Uh-huh.|b|3108|1
+B|Okay,|bk|3108|1
+B|okay.|bk|3108|1
+A|We, we rented one recently that seemed to go on forever|sd|3108|0
+B|That always seems to happen when you rent them, you know|sv|3108|1
+A|Yeah,|aa|3108|0
+A|but this one, it was fairly long.|sd|3108|0
+A|I, I'm guessing probably an hour and forty-five minutes, maybe.|sd|3108|0
+B|Uh-huh,|b|3108|1
+B|uh-huh,|b|3108|1
+B|and, uh, it,|%|3108|1
+A|But excellent acting by Billy Crystal and Bruno Kirby,|sd|3108|0
+B|Was it, oh, good.|ba|3108|1
+B|Uh-huh.|b|3108|1
+A|uh, who was the,|sd|3108|0
+A|oh, Jack Palance had an excellent part in there as the old cowboy.|sd|3108|0
+B|Oh, great.|ba|3108|1
+A|So we really enjoyed that.|sd|3108|0
+B|Oh, well, I'm looking forward to seeing that one.|sd|3108|1
+B|That was next on our list,|sd|3108|1
+B|so, uh,|%|3108|1
+A|Yeah,|b|3108|0
+A|I think that, uh, I can highly recommend that movie this, to see.|sd|3108|0
+B|Okay,|b|3108|1
+B|okay,|b|3108|1
+B|good deal|ba|3108|1
+A|Yeah.|b|3108|0
+B|good deal.|ba|3108|1
+B|Do you rent movies very often,|qy|3108|1
+B|or,|%|3108|1
+A|Uh, we generally rent a couple a week.|sd|3108|0
+A|Uh, in order to get a decent movie to have on a weekend, you've got to rent it on Thursday.|sv|3108|0
+B|Right.|b|3108|1
+B|Right.|b|3108|1
+A|They get they get taken up at the store,|sd|3108|0
+B|That's exactly right.|aa|3108|1
+A|so,|%|3108|0
+B|Uh-huh,|b|3108|1
+B|uh-huh.|b|3108|1
+A|We will rent two or three movies on Thursday|sd|3108|0
+A|and, uh, with luck, you'll have one or two that are good.|sv|3108|0
+B|Yeah,|aa|3108|1
+B|right,|aa|3108|1
+B|right.|aa|3108|1
+A|Most of them are a coin flip|sv|3108|0
+B|Oh, gosh.|ba|3108|1
+B|Yeah,|b|3108|1
+B|yeah.|b|3108|1
+B|And we usually have, oh, we don't get out as much as we like.|sd|3108|1
+B|We have two children,|sd|3108|1
+B|so we occasionally get out to the movies|sd|3108|1
+A|Yeah.|b|3108|0
+B|but, uh, it's, it's fun, it's a fun thing to do to get out and be entertained for once.|sd|3108|1
+A|Yeah, well,|b|3108|0
+A|Quite frequently, we have our grandchildren on the weekends|sd|3108|0
+B|Uh-huh.|b|3108|1
+A|and, uh, we'll try to rent something that they can see as well as something else that we can see|sd|3108|0
+A|and, Uh, Uh, generally try to stay in the at least P G range.|sd|3108|0
+B|Uh-huh.|b|3108|1
+B|What ages are they?|qw|3108|1
+B|Have you found trouble finding movies for them|qy|3108|1
+B|or,|%|3108|1
+B|Right.|b|3108|1
+A|The, uh, the oldest is nine,|sd|3108|0
+A|the youngest is three.|sd|3108|0
+A|He doesn't really pay attention.|sd|3108|0
+B|Yeah,|b|3108|1
+B|yeah.|b|3108|1
+A|The five year old doesn't have the attention span, either.|sd|3108|0
+B|Uh-huh,|b|3108|1
+B|uh-huh.|b|3108|1
+A|But the, the nine year old will watch anything that's on T V|sd|3108|0
+B|Uh-oh, uh-oh, yeah.|b|3108|1
+A|So,|%|3108|0
+B|They have been doing that.|sd|3108|1
+B|We've been waiting for a, a good movie out this summer for the kids to see.|sd|3108|1
+B|The last one they saw was HOME ALONE|sd|3108|1
+B|and, uh, they enjoyed that,|sd|3108|1
+B|but, uh, I missed that one.|sd|3108|1
+B|My husband took the kids to see that one|sd|3108|1
+B|so,|%|3108|1
+A|Yeah,|b|3108|0
+A|my wife took, uh, I think the kids to see that one,|sd|3108|0
+A|but we can generally find something at the store for them to watch.|sd|3108|0
+B|Uh-huh.|b|3108|1
+B|Yeah,|b|3108|1
+B|yeah,|b|3108|1
+B|well, that's a good deal.|ba|3108|1
+A|The,|%|3108|0
+A|uh, oh, we saw this movie,|sd|3108|0
+A|PRESUMED INNOCENT was the one we rented, uh last weekend.|sd|3108|0
+B|Okay,|b|3108|1
+B|let me think if I have rented that one.|^h|3108|1
+A|Harrison Ford.|sd|3108|0
+B|Harrison Ford and, how does the story line go?|qw|3108|1
+A|It's, uh, he is a prosecuting attorney|sd|3108|0
+A|and, uh, another prosecutor in the, a woman prosecutor in there is murdered|sd|3108|0
+B|Oh, okay,|bk|3108|1
+B|we haven't seen that one.|sd|3108|1
+A|and he's trying to find it,|sd|3108|0
+A|but, course, it's one of these with a twist where it looks like he's the one that wound up killing her|sd|3108|0
+A|so it's, And it's an extremely long movie.|sd|3108|0
+B|Uh-huh,|b|3108|1
+B|uh-huh.|b|3108|1
+A|It's, it's over two hours long.|sd|3108|0
+B|Oh, gosh,|ba|3108|1
+B|oh, gosh.|ba|3108|1
+A|Which,|%|3108|0
+A|uh, my wife she likes the suspense movies.|sd|3108|0
+A|I enjoy them to a degree.|sd|3108|0
+B|Uh-huh.|b|3108|1
+B|I think that's the one I wanted to pick up the other day,|sd|3108|1
+B|and then my husband wasn't going to be able to watch it with me,|sd|3108|1
+B|so I thought I better save that one for another day|sd|3108|1
+A|Save that for another day.|b^m|3108|0
+B|Yeah,|aa|3108|1
+B|because I think he'd like that one.|sd|3108|1
+A|Yeah.|b|3108|0
+B|You enjoyed that one, then.|qy^d|3108|1
+A|Yeah,|ny|3108|0
+A|I think you, it's, uh, it's something I think you would enjoy,|sd|3108|0
+A|yes.|ny|3108|0
+B|Uh-huh,|b|3108|1
+B|okay,|bk|3108|1
+B|well, that's a good one to put on the list.|sd|3108|1
+A|It, it's like most suspense movies,|sd|3108|0
+A|what was|qw|3108|0
+A|it was on T V recently, uh, FATAL ATTRACTION.|sd|3108|0
+B|Uh-huh.|b|3108|1
+A|It's one that, once you've seen it once and, uh, the suspense there is not really you really can't see it again|sd|3108|0
+B|Right,|b|3108|1
+B|okay.|b|3108|1
+A|so you know all the story and who did what and when it happened,|sd|3108|0
+B|Uh-huh.|b|3108|1
+A|so once, once you seen one that's a suspenseful type movie like that, then it's, it's not good for a second watching particularly.|sv|3108|0
+B|Uh-huh,|b|3108|1
+B|okay.|b|3108|1
+B|Uh-huh,|b|3108|1
+B|uh-huh|b|3108|1
+A|At least I don't think so|sd|3108|0
+B|I don't think too many of them are anymore.|sv|3108|1
+B|It's, it's a shame,|sv|3108|1
+B|but, uh,|%|3108|1
+A|I don't know,|h|3108|0
+A|we've watched WEEKEND AT BERNIE'S any number of times|sd|3108|0
+B|I know|aa|3108|1
+A|It's just slapstick comedy|sd|3108|0
+B|Oh, no|ba|3108|1
+B|Oh|b|3108|1
+A|Sit there and laugh,|sd|3108|0
+A|and, my one grandson and I,|sd|3108|0
+A|my wife can't understand it,|sd|3108|0
+A|but we like BILL AND TED'S EXCELLENT ADVENTURE which is another funny one|sd|3108|0
+B|Oh, gosh.|ba|3108|1
+B|Yeah,|aa|3108|1
+B|we've heard about that one,|sd|3108|1
+B|but we haven't seen that one either|sd|3108|1
+B|So, well, it sounds like you and your grandson like the same kinds of movies.|sv|3108|1
+A|Yeah,|aa|3108|0
+A|we like to laugh|sd|3108|0
+B|Oh, God.|ba|3108|1
+A|I, I have a theory.|sd|3108|0
+A|I like movies for entertainment.|sd|3108|0
+A|I don't want to uh, go away depressed from watching a movie.|sd|3108|0
+B|Right.|b|3108|1
+B|Right,|b|3108|1
+B|right.|b|3108|1
+B|I agree,|aa|3108|1
+B|I agree.|aa|3108|1
+A|Life's depressing enough|sv|3108|0
+B|That's for sure|aa|3108|1
+A|Well, I've certainly enjoyed talking with you.|fc|3108|0
+B|Well, you, too, Jim.|fc|3108|1
+A|Okay,|fc|3108|0
+A|bye.|fc|3108|0
+B|Thanks for punching in|ft|3108|1
+B|and, uh|%|3108|1
+A|Have a nice weekend.|fc|3108|0
+B|I hope you see a good movie soon.|fc|3108|1
+A|Okay.|fc|3108|0
+B|Okay.|fc|3108|1
+A|Bye.|fc|3108|0
+B|Bye-bye.|fc|3108|1

@@ -1,0 +1,145 @@
+B|Okay.|fo_o_fw_"_by_bc|3725|0
+A|Your family have reunions on a regular basis?|qy|3725|1
+B|Probably, once every five years.|no|3725|0
+A|Once every five years?|qy|3725|1
+B|Uh-huh.|ny|3725|0
+A|Yeah.|b|3725|1
+A|Uh, you have got a pretty big family.|qy^d|3725|1
+B|Yeah|ny|3725|0
+B|and that is the hardest part about getting the the stuff together|sd|3725|0
+B|and everyone is spread out all over Timbuktu.|sd|3725|0
+A|Oh, yeah.|b|3725|1
+B|And you?|qy|3725|0
+A|Yeah,|ny|3725|1
+A|we have a pretty big family,|sd|3725|1
+A|but most of us,|%|3725|1
+A|well, uh, uh, I am originally from West Virginia.|sd|3725|1
+B|Uh-huh.|b|3725|0
+A|Most of the family is right in the West Virginia, uh, uh, what they call Tri-State area, uh, northern West Virginia, eastern Ohio, southwestern Pennsylvania.|sd|3725|1
+B|Yeah.|b|3725|0
+A|Most everybody is right in that area.|sd|3725|1
+B|That makes it a lot easier.|sv|3725|0
+B|A lot more convenient.|sv|3725|0
+B|That is why we only do it once every five or ten years.|sd|3725|0
+A|Yeah.|b|3725|1
+B|because it is always that hard to get everyone together.|sv|3725|0
+A|Yeah.|b|3725|1
+A|They put one together for our family about once every June.|sd|3725|1
+A|It was on my grandmother's birthday,|sd|3725|1
+A|but she is, she is gone now.|sd|3725|1
+B|Yeah,|b|3725|0
+B|see that is kind of what happened with ours.|sd|3725|0
+B|That is why we have not had one in a long time.|sd|3725|0
+A|Yeah.|b|3725|1
+A|Uh.|b|3725|1
+B|So, so, to make one successful, I mean, I mean what do you all do.|qo|3725|0
+A|Oh,|^h|3725|1
+B|Do you all just start planning real far ahead of time?|qy|3725|0
+A|Pardon.|br|3725|1
+B|Uh, do you all start planning real far ahead of time?|qy|3725|0
+A|Well, no.|nn|3725|1
+A|There is kind of a set pattern to it.|sd|3725|1
+A|There is, uh,|%|3725|1
+A|so, uh, the day it happens is ninety-eight percent of the planning usually.|sd|3725|1
+B|Oh, really|bh|3725|0
+A|Yeah.|ny|3725|1
+A|Uh, we, uh, get together, at the, uh, the park, uh, the, uh, the park, and playground area of the Church I was raised in|sd|3725|1
+B|Yeah.|b|3725|0
+A|and, uh, everybody brings lots of food|sd|3725|1
+A|and some put up the volleyball net and sit around and tell stories and catch up and play volleyball all day and get really fat|sd|3725|1
+B|Eat a lot.|qy^d|3725|0
+A|Oh, gosh.|ba|3725|1
+B|It is a lot harder for us because we are like I said we are spread out|sd|3725|0
+A|Yeah.|b|3725|1
+B|and so we have to plan anywhere from six, well really probably a year ahead of time so that everyone, can uh, start their, uh, vacation time.|sd|3725|0
+A|Schedule vacation time|b|3725|1
+A|and yeah.|b|3725|1
+A|We|%|3725|1
+A|uh, Sat, uh, Sunday afternoon or, uh, sometimes it has been like on a Saturday afternoon.|sd|3725|1
+B|Uh-huh.|b|3725|0
+A|Usually, it is like Sunday afternoon|sd|3725|1
+A|and most people do not have more than you know a couple of hours drive at tops to get there and back.|sd|3725|1
+B|Yeah.|b|3725|0
+B|Yeah,|b|3725|0
+B|is that one of your, uh,|qy|3725|0
+B|I mean, uh,|%|3725|0
+A|Well, where I am calling from is southern Mississippi.|sd|3725|1
+A|So, we have got, uh, uh, my wife and I have, uh, a bit longer ways to go than most.|sd|3725|1
+B|But, you also manage to make them.|qy^d|3725|0
+A|uh, actually, we, we have only made one of them since we got married about four years ago. One of the family reunions.|arp_nd|3725|1
+B|Yeah.|b|3725|0
+A|But we are both in school|sd|3725|1
+A|so that makes it kind of tough.|sd|3725|1
+B|Yeah.|b|3725|0
+A|They usually, uh, they have been happening, uh, just after the summer semester starts.|sd|3725|1
+B|You can't really get away.|qy^d|3725|0
+A|Usually not.|ng|3725|1
+A|We managed to get to one.|sd|3725|1
+A|That was before I started school|sd|3725|1
+A|and she took that summer off.|sd|3725|1
+A|But, uh,|%|3725|1
+B|Well, now that we have been talking about it, I, uh, I am kind of getting home sick now.|sd|3725|0
+B|Because it has been over three years since I have been home  to see my grandparents.|sd|3725|0
+A|Oh goodness.|ba|3725|1
+B|Well, my, my grandfather is the only one that is still around.|sd|3725|0
+A|Yeah.|b|3725|1
+B|And see, my grandmother is the one that use to plan this stuff basically.|sd|3725|0
+A|Yeah.|b|3725|1
+B|So, unless the aunts and uncles really get on the ball and put stuff together, it is kind of like.|sd|3725|0
+B|She was like the glue,|sd|3725|0
+B|so.|%|3725|0
+A|Yeah,|b|3725|1
+A|I understand.|ba|3725|1
+A|Where is home for you?|qw|3725|1
+B|Originally, uh, I, uh, was born in Missouri.|sd|3725|0
+A|Yeah.|b|3725|1
+B|But, uh, you know, we have relatives scattered out all over Louisiana, Mississippi, uh, here in Texas|sd|3725|0
+A|Yeah.|b|3725|1
+B|but it is harder for everyone to get in, get home.|sd|3725|0
+A|Yeah.|b|3725|1
+A|Well, maybe this year you can find a more central location.|qy^d|3725|1
+B|Well, but the majority of them are in, like, just like how you said in close, close quarters.|arp_nd|3725|0
+B|So it is easier for us few stragglers to go home.|sd|3725|0
+A|Oh, okay.|bk|3725|1
+A|Then the majority of them are still in the Missouri area.|qy^d|3725|1
+B|Yeah.|ny|3725|0
+A|Okay.|bk|3725|1
+A|You know our family right now, uh, the most of it, there is only a few stragglers, uh, with any distance.|sd|3725|1
+A|There is one cousin out in Colorado, uh, uh, some cousins over in Phoenix, uh,|sd|3725|1
+A|I got a sister over in, in, uh, Washington State|sd|3725|1
+A|Uh, the rest of them are within, you know, a couple hours drive.|sd|3725|1
+B|Well, uh, how do you all communicate? Like to plan it and every thing.|qo|3725|0
+B|Do you all just call each other up on the phone and say this is the weekend we are going to do it,|qy|3725|0
+B|or do you all like mail out stuff?|qrr|3725|0
+A|That is pretty much it.|na|3725|1
+A|Yeah.|ny|3725|1
+A|It is going to be such and such, uh, weekend|^q|3725|1
+A|and, uh, you all come.|^q|3725|1
+B|Yeah.|b|3725|0
+A|That is about it|sd|3725|1
+A|And you know this is the standard pattern.|sd|3725|1
+A|It, uh,|%|3725|1
+A|everybody brings their favorite dish|sd|3725|1
+A|and, somebody brings the volleyball net,|sd|3725|1
+A|somebody brings a whole lot of ice for the watermelon|sd|3725|1
+A|and,|%|3725|1
+B|Well, uh, uh, I guess probably the last one I went to I met so many people that I had not seen in probably ten, over ten years.|sd|3725|0
+B|It was like, don't you remember me.|sd|3725|0
+B|And I am like no|sd|3725|0
+A|Am I related to you?|^q|3725|1
+B|Yeah.|aa|3725|0
+B|I know.|aa|3725|0
+A|Yeah,|b|3725|1
+A|I married your cousin's brother's uncle or something like that.|^q|3725|1
+B|Do you,|%|3725|0
+B|I mean, is that since,|%|3725|0
+B|I mean do you have them every year?|qy|3725|0
+A|Uh, yeah,|ny|3725|1
+A|every year.|sd|3725|1
+A|And, uh, still, you wind up meeting people you, uh, you never knew you were related to. Let alone|qy^d|3725|1
+B|Yeah.|ny|3725|0
+A|And,|%|3725|1
+B|Well, I think that is probably why our is probably so interesting is cause we don't have them that often|sv|3725|0
+A|Oh, yeah.|b|3725|1
+B|and then when we do, and everyone finally does get together,|sd|3725|0
+B|it is like after the, you know,|%|3725|0

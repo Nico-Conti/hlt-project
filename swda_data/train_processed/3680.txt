@@ -1,0 +1,82 @@
+A|tell me what you think about the Vietnam war.|ad|3680
+B|Okay.|aa|3680
+B|Well, I'm a Vietnam era veteran,|sd|3680
+B|and, uh, I was, uh, fortunate not to have to serve in the theater,|sd|3680
+B|however, my support roll in the service was to support those in the theater of operation. Uh,|sd|3680
+B|I'm of the old school that believes that, uh, the, uh, uh, contracts that we made back years ago needed to be honored.|sd|3680
+B|However, uh, I think we could have executed the war and gotten it over a whole lot quicker. Uh,|sv|3680
+B|but those are my personal thoughts,|sd|3680
+B|and I think that if we'd let the generals run the war like we let the generals run World War Two we'd had got it over a whole lot quicker and lost a lot fewer people.|sv|3680
+B|But as it was, the politicians ran the, the Korean conflict and ultimately the Vietnam thing,|sv|3680
+B|and we managed to come out, uh, losers all the way around.|sv|3680
+B|And so this is what ultimately triggered us, uh, United States, uh, per se, being, uh, deciding to get out of the role of world policeman.|sv|3680
+B|Your views,|ad|3680
+A|Uh, as I understand it, and I, uh, don't know a lot about it, uh, we got in there because of France|sv|3680
+B|Well.|%|3680
+A|uh, France was there first.|sd|3680
+A|They had,|%|3680
+B|We got into it because of SEATO agreement, back just right after World War Two that, uh, we pledged a mutual, uh, uh, defense of, of the South Vietnamese,|sd|3680
+B|and as it turned out they were in a civil war one with another,|sd|3680
+B|and really we|%|3680
+B|I, I question us, you know, now,|sd|3680
+B|of course hindsight is all too clear.|sd|3680
+A|Sure.|b|3680
+B|Uh, so, we're, we, we have to, have to deal with, with the, uh, situation as, as we played it.|sv|3680
+A|Jerry, what did you think of people like, uh, Jane Fonda, another war anti-war activist.|qw|3680
+B|I,|%|3680
+B|don't get me started on those people.|sv|3680
+B|You know, before she, before Jane Fonda did, did what she did, I thought she was a wonderful person,|sv|3680
+B|but after, uh, uh, well,|%|3680
+B|I, I just don't have anything, want anything to do with her any more,|sd|3680
+B|because you support, uh, you support your government.|sv|3680
+A|Right or wrong?|qy|3680
+B|Uh, okay,|na|3680
+B|right or wrong,|sd|3680
+B|I don't think is, is, we can determine whether we were right or wrong,|sv|3680
+B|because, you're, you're having to deal with, again, uh,|sv|3680
+B|I think we could have made a different agreement back in the the late forties era that would have kept of there.|sv|3680
+A|Uh-huh.|b|3680
+A|Uh, you know, I, I didn't realize that we'd signed some type of deal like that.|sd|3680
+A|I thought we came in as first advisors to the French, and then they decided to pull out|sd|3680
+A|and,|%|3680
+B|Can you hold just a second, Terry?|ad|3680
+A|Sure.|aa|3680
+B|One moment please.|ad|3680
+A|Sure to someone else or|aa|3680
+A|Wonder what happens to this little beastie on call waiting or something.|t1|3680
+A|Huh, fascinating.|t1|3680
+A|Well that's not,|t1|3680
+B|Sorry for the delay.|fa|3680
+A|That's okay.|bd|3680
+B|Uh, yeah,|%|3680
+B|this is,|%|3680
+B|the, uh, the, the, uh, mutual defense thing was, uh,|sd|3680
+B|we, we,|%|3680
+B|it was complicated,|sv|3680
+B|and I don't think everybody knows the whole situation.|sv|3680
+B|I don't.|sd|3680
+B|But from what I can gather, is we went and said yeah, we will help the South Vietnamese, uh, should they ask.|sd|3680
+B|Well, the French went in and tried their old style warfare, and, uh, got soundly thrashed.|sd|3680
+B|And we didn't do a whole lot better.|sd|3680
+A|Um. No,|aa|3680
+A|I had thought that they had, uh, colonies there, or something.|qy^d|3680
+B|Well, yeah,|ny|3680
+B|that was the old French colony, but see, the French, the French were our, uh, allies in NATO|sd|3680
+A|Right.|bk|3680
+B|and they're also our allies in SEATO, which was the Southeast Asia Treaty Organization, which has since been, uh, disbanded as far as I know,|sd|3680
+B|you know, NATO is, is on the way of being disbanded. Uh,|sd|3680
+B|but, uh, the, you know, the French, yeah|%|3680
+B|we go in as an ally to the French and says yeah, we'll, we'll help you out, if you get in a bind.|sd|3680
+B|Well, they got in a bind and says we don't want to, you know, play any more|sd|3680
+A|Uh-huh.|b|3680
+B|so, uh, we, we kind of, we kind of got, got the ball rolling ourselves versus a bunch of top secret silly uh, um, oh, operations and then the full scale, you know, full scale troops, et cetera, et cetera, et cetera.|sd|3680
+A|Yeah,|b|3680
+A|I'm thirty-two,|sd|3680
+A|so, uh, I|%|3680
+A|well, I missed it.|sd|3680
+A|Seventy-four is when they quit sending troops.|sd|3680
+B|Uh, yeah,|aa|3680
+B|yeah|aa|3680
+B|roughly.|aap_am|3680
+A|Yeah.|aa|3680
+A|I was just probably three or four years,|sd|3680

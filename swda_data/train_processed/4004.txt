@@ -1,0 +1,85 @@
+A|How do you feel about the Viet Nam war?|qo|4004
+B|Huh, well, um, you know, I guess it's pretty deep feelings, uh,|sd|4004
+B|I just, uh, went back and rented, uh, the movie, what is it, GOOD MORNING VIET NAM|sd|4004
+A|Uh-huh.|b|4004
+B|and, uh.|%|4004
+A|Yeah,|b|4004
+A|I saw that as well.|sd|4004
+B|Got that, uh, uh, some insight there, to, to kind of help me put together the feelings.|sd|4004
+B|I really appreciated the, the whole, uh, English class where the, uh, the, uh, fellow just wouldn't do it, you know,|sd|4004
+B|the guy's gouging, gouging your eyes out,|sd|4004
+B|what are you going to do?|qh|4004
+A|Uh-huh.|b|4004
+B|You know, what for him to finish me off|sd|4004
+B|And, uh, it, it was, uh, good to remember the, uh, that, that kind of Asian philosophy  that, uh.|sd|4004
+A|Uh-huh.|b|4004
+A|Well, were  you ever in Viet Nam|qy|4004
+A|or,|%|4004
+B|No,|nn|4004
+B|no,|nn|4004
+B|I was kind of an in-between, uh, finally drew a high draft number,|sd|4004
+B|and you?|qy|4004
+A|Um, I was much too young,|ng|4004
+A|I was born in sixty-seven,|sd|4004
+A|so.|%|4004
+B|Oh|b|4004
+A|Um, you know, both my, well, both my brothers were, um, draft age,|sd|4004
+A|but neither of them wound up going over, which, I think they were very happy for.|sd|4004
+B|Well, I, personally, uh, you know, uh, I just went in limbo.|sd|4004
+B|I had a passport and was ready to go or um, out of the country or join special forces, either one.|sd|4004
+A|Uh-huh.|b|4004
+A|Yeah.|b|4004
+A|Uh-huh.|b|4004
+B|I mean, I just didn't know.|sd|4004
+B|So, uh.|%|4004
+A|Well, um, so well do you, do you feel that it was worth what we did over there?|qy|4004
+B|Um, yeah,|ny|4004
+B|just a second.|ad|4004
+A|Okay.|aa|4004
+B|Okay.|t3|4004
+B|Sure,|t3|4004
+B|now. Well, Mark, um, what was that again?|qw|4004
+A|Um, do you think, I mean, do you think, our the investment in lives and money was worth it?|qy|4004
+B|No,|nn|4004
+B|not, not really.|ng|4004
+A|I totally agree with that. Um.|aa|4004
+B|Um.|%|4004
+A|What, what effects do you think it's had on our country?|qw|4004
+B|Downside. Um, uh, well,|bf|4004
+B|the says we should, uh, go into the grief that, that's there|sd|4004
+B|and, you know, presidents have always avoided that as a country.|sd|4004
+A|Uh-huh.|b|4004
+B|So it's pretty serious, really, you know,|sv|4004
+B|lot of things that aren't being addressed.|sv|4004
+A|Uh-huh.|b|4004
+A|I think you know, that's pretty typical that, of the entire, entire involvement over that, you know, that nothing was really addressed,|sv|4004
+A|it it wasn't, you know, it was never|sv|4004
+A|we, we announced that we were going to war,|sd|4004
+A|it was such a gradual and subtle, you know um, you know increasement of, of force that.|sd|4004
+B|Yeah.|b|4004
+B|Gulf of Tonkin, uh, resolution|^2|4004
+B|and was it a dolphin or a torpedo.|qh|4004
+B|You remember that?|qy|4004
+A|I vaguely remember we, um, we had a, we had a, um, spy ship torpedoed or something.|na|4004
+B|Yeah,|b|4004
+B|yeah,|b|4004
+B|only only it was foggy|sd|4004
+B|and finally President Johnson said, well, they're weren't really sure whether it was a dolphin or a torpedo.|sd|4004
+A|Oh|b|4004
+B|Isn't that something?|bh|4004
+A|Uh-huh. Um,|ny|4004
+A|so, um, do, do, do you think that like, uh, um, for example like in, in this past war, in the Persian Gulf war that, uh, that you see, it seemed to me that, that Bush was going, going to extraordinary lengths to, um, you know, prepare the country for war.|qy|4004
+B|Uh-huh.|b|4004
+B|Hey Mark I've got to go, um.|ad|4004
+A|Yeah.|b|4004
+A|Okay.|aa|4004
+B|We'll see you.|fc|4004
+B|I guess our five minutes are up according to me.|sd|4004
+B|Are they to you?|qy|4004
+A|Uh, I wasn't really keeping count.|sd|4004
+A|But I guess,|sd|4004
+A|good-bye.|fc|4004
+B|Yeah,|fc|4004
+B|okay,|fc|4004
+B|bye-bye.|fc|4004
+A|Bye.|fc|4004

@@ -1,0 +1,204 @@
+A|Do you have any?|qy|3016
+B|I'm trying to think offhand|no|3016
+B|I can't think of anything, you know.|ng|3016
+A|I have, I have one,|sd|3016
+B|Okay.|bk|3016
+A|and it's a real pet peeve of mine.|sd|3016
+A|It seems I, I do work during the day|sd|3016
+A|and when I'm home, uh, you know I'm either cooking or running doing, things or, uh, laundry or stuff.|sd|3016
+B|Uh-huh.|b|3016
+A|And I hate when the phone rings and it turns out to be a telephone salesman.|sd|3016
+B|Oh|b|3016
+A|And it's real,|%|3016
+A|the two pet peeves that,|sd|3016
+A|number one, I really feel that that's my private, you know, my own home.|sd|3016
+B|Uh-huh.|b|3016
+A|And I|%|3016
+A|and if I want something, I will get it.|sd|3016
+B|Uh-huh.|b|3016
+A|I will go out and get it myself.|sd|3016
+A|And I will never, I never buy anything from a telephone, salesperson.|sd|3016
+B|Oh, I wouldn't, either,|aa|3016
+B|no.|aa|3016
+A|So, I really feel that it is a real invasion, they're invading my time and my space by, you know, interfering in whatever I'm doing|sd|3016
+B|Uh-huh.|b|3016
+A|and I,|%|3016
+A|it really bothers me.|sd|3016
+B|Uh-huh.|b|3016
+A|Um, it's a little bit like junk mail but except you can't, you know, ignore it, uh, quite as easily.|sv|3016
+B|Yeah.|b|3016
+A|And I, I try to be polite,|sd|3016
+A|but at the same point,|sd|3016
+B|That doesn't always work.|^2|3016
+A|Well, I just say thank you very much for calling but I'm not interested,|sd|3016
+A|and then I hang up before they can say anything.|sd|3016
+B|Oh, really?|bh|3016
+A|Yes,|ny|3016
+A|and it works very well|sv|3016
+B|Oh|b|3016
+A|Because you don't hear, you know how,|sd|3016
+A|they can say anything they want|sd|3016
+A|it's just,|%|3016
+A|but I just feel that's my big thing on the invasion of, my thing on invasion of privacy.|sd|3016
+B|Uh-huh.|b|3016
+A|And, um, I have, uh, I sort of have a sort like|sd|3016
+A|you can prevent yourself from getting junk mail by getting yourself off of mailing lists.|sd|3016
+A|I wish that there were a way that you could, um, get your you know, submit your telephone number to the phone company and have a penalty for anyone who calls you to sell things, from a|sd|3016
+B|Uh-huh,|b|3016
+B|well, how do you get your name off the junk mailing list?|qw|3016
+A|Uh, you, you, you, you do that by, uh, um,|sd|3016
+A|the postal service has some information which you fill out and they send,|sd|3016
+A|it's for every company,|sd|3016
+A|I mean you can't do it for any|sd|3016
+B|Uh-huh.|b|3016
+A|you know, but you can then send it|sd|3016
+A|and they can|sd|3016
+A|they tell,|%|3016
+A|that company is not allowed to sent it, you any junk mail.|sd|3016
+B|Oh, really?|bh|3016
+A|If you get junk mail on a regular basis from any particular company you can,|sd|3016
+B|Oh, I didn't even know that.|b|3016
+A|Yeah,|b|3016
+A|yeah,|b|3016
+A|you have to go to the post office and ask them for the form that you fill out to, not to get, you know, junk mail from specific companies.|sd|3016
+B|Oh, wow.|ba|3016
+A|And I wish there were something like that where you can call the telephone company|sd|3016
+B|Yeah.|b|3016
+A|and you could say that, uh, have your your number put in a registry.|sd|3016
+A|And then anyone making these calls have to check that registry for that area and could not, should, and is not allowed under penalty of, you know, being reported or something to call you.|sd|3016
+B|Uh-huh.|b|3016
+B|Yeah.|b|3016
+A|So that would be one way of doing it.|sd|3016
+B|I can't really think of anything that invades my privacy,|sd|3016
+B|but one of my pet peeves, you came up with the telephone is, when you have an answering machine and they hang up before they leave a message.|sd|3016
+A|Uh-huh.|b|3016
+B|I can't stand that.|sd|3016
+B|I think that is so stupid, you know,|sd|3016
+B|because,|%|3016
+A|Oh, I'm guilty of that sometimes|sd|3016
+A|because I've called and there really wasn't any significant message|sd|3016
+A|and I, and I wasn't going to be available to be called back.|sd|3016
+B|Uh-huh.|b|3016
+A|And it was sort of like, oh, the hell,|sd|3016
+A|I'm not going to spend the time giving, leaving a message,|sd|3016
+A|and, uh, I'll call later, if I'm available.|sd|3016
+B|Yeah.|b|3016
+A|The other thing that, um, that there is recourse to and that's another thing, is when you, you use your credit card and then they ask for a telephone number.|sd|3016
+B|Uh-huh.|b|3016
+A|Well, legally now they're not allowed,|sd|3016
+A|they're|%|3016
+A|you do not have to give a telephone number.|sd|3016
+B|Oh, really?|bh|3016
+A|Yes.|ny|3016
+A|And I don't really like announcing in public|sd|3016
+B|Uh-huh.|b|3016
+A|you know, when you're sitting there,|sd|3016
+A|my telephone and I don't like the way telephone numbers can be used.|sd|3016
+B|Uh-huh.|b|3016
+A|We once had a situation where someone was using a credit card number of ours and he actually had our phone number,|sd|3016
+A|but it turned out it had to have been my husband's office phone number.|sd|3016
+A|And, uh, we were able, we weren't actually able to trace it, but we were able to, to discard the charges.|sd|3016
+B|Uh-huh.|b|3016
+A|Um, but it was,|sd|3016
+B|I don't like how they|sd|3016
+B|the,|%|3016
+B|I, I realize that this is your identification|sd|3016
+B|but I worked with someone that got hold of his, charge cards, and his social security number.|sd|3016
+A|Uh-huh.|b|3016
+A|Uh-huh.|b|3016
+A|Yeah,|b|3016
+A|same with my husband.|sd|3016
+A|It was the charge card and social security number.|sd|3016
+B|And, you know, I don't, I don't like, I don't ever get anything over the phone because I don't want to give my social security number out.|sd|3016
+A|Well, you should never give the social security number.|sd|3016
+A|Uh, if sometimes, if you charge,|sd|3016
+A|sometimes I charge theater tickets over the phone.|sd|3016
+B|Uh-huh.|b|3016
+A|And then, you know, because they pick them up at the box office we'll call.|sd|3016
+A|But, um, that's the only thing I would ever have ever used it for the phone|sd|3016
+A|and that was because I initiated it.|sd|3016
+B|Yes.|b|3016
+A|Uh, and occasionally I do order things from catalogs over the phone.|sd|3016
+B|Uh-huh.|b|3016
+A|But again it's, I initiate it not the company.|sd|3016
+A|The other thing is though you do not have to,|sd|3016
+A|if you're buying something in a store and they and you pay for it by charge and they ask you for your telephone number, you do not have to give it.|sd|3016
+A|That is one, that's a law that went into effect, I don't know a year or two ago.|sd|3016
+B|Oh, I never even knew that.|sd|3016
+A|And, uh, you can just say I'm sorry that uh, I'm not required to give that by law|sd|3016
+A|and then they won't,|%|3016
+A|a lot of stores will still ask.|sd|3016
+B|Uh-huh.|b|3016
+A|But, uh, the credit card company, you know, accepts the charges.|sd|3016
+A|I mean|%|3016
+A|a|%|3016
+A|the credit cards company's responsibility.|sd|3016
+B|Uh-huh.|b|3016
+B|Well, is there any, like pet peeves that you have that don't necessarily invade your privacy?|qy|3016
+A|So in this ,|%|3016
+A|Um, well, this would, this is limited to the privacy issue, the invasion of privacy.|sd|3016
+B|Oh, okay.|bk|3016
+A|Yeah,|b|3016
+A|and I guess, uh, that was my, that's probably my biggest one in terms of invasion of privacy. For people outside the family, of course,|sd|3016
+A|I've got little pet peeves, you know, with my family.|sd|3016
+A|You know. But of course,|%|3016
+A|I guess that just comes with the, uh, with the territory with a family that|sv|3016
+A|does a mother can do some privacy.|%|3016
+B|I really, can't think of any that would invade my privacy you know.|sd|3016
+A|But, uh,|%|3016
+A|Uh-huh.|b|3016
+A|Nothing that you felt that, you know,|qy^d|3016
+A|any experiences you've had at work?|qy^d|3016
+B|No.|nn|3016
+B|I, you know,|%|3016
+B|I, I really can't say anything that would really bother me.|sd|3016
+A|So many things I think over the years have been, um, accepted, I mean when you, uh, that are no longer done.|sd|3016
+B|Uh-huh.|b|3016
+A|I mean I can remember when I was very young, much younger and I applied for a job|sd|3016
+A|they said, well, aren't you planning to have children.|sd|3016
+A|Well, I mean, that's none of their business.|sv|3016
+B|Yeah.|b|3016
+A|And but of course, now by law they can't ask that.|sd|3016
+B|Yeah.|b|3016
+A|So I mean there has been I think a lot to, done to protect privacy.|sv|3016
+B|Yeah,|aa|3016
+B|especially between women and,|sd|3016
+A|How do you feel,|qo|3016
+A|Uh-huh.|b|3016
+A|Yeah.|b|3016
+B|they've gotten a lot with, uh,|%|3016
+B|applications and stuff and aren't allowed to ask.|sd|3016
+A|That's right.|ba|3016
+B|No,|nn|3016
+B|because,|%|3016
+B|I think it's for the better of like|sd|3016
+B|you mean like for working and stuff?|qy|3016
+A|Yeah,|ny|3016
+A|uh-huh.|ny|3016
+B|No,|nn|3016
+B|I don't because I think whenever, and something like that|sd|3016
+B|they're looking out for everyone.|sv|3016
+B|They're not,|%|3016
+A|Yeah.|b|3016
+B|you know, I think it's more safety than anything else.|sv|3016
+A|I feel that way too.|aa|3016
+A|I sometimes feel you know, sometimes individual rights including the right to privacy have to be sacrificed for a greater benefit.|sv|3016
+B|Yeah.|b|3016
+B|Because I know,|%|3016
+A|You know, for example airline pilots.|sd|3016
+A|I mean I do want my pilot to be sober|sv|3016
+B|Yeah.|b|3016
+B|Because I know,|%|3016
+B|I worked at a still mill in this summer.|sd|3016
+B|And I know, that, um, I've covered for people that came in drunk, you know, on the late shift or something,|sd|3016
+A|Uh-huh.|b|3016
+A|Yeah,|b|3016
+A|yeah.|b|3016
+B|and it, and it's dangerous.|sd|3016
+B|I don't even like having them around.|sd|3016
+B|I kind of do their work for them because they make it more hazardous than what it is without them, you know.|sd|3016
+A|That's right.|ba|3016
+A|Yeah,|b|3016
+A|I know|%|3016
+A|yeah,|%|3016
+A|I feel, you know, I think some of the people that oppose, you know, mandatory drug testing for certain areas say, well, it's not,|sv|3016

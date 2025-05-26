@@ -1,0 +1,112 @@
+A|Okay,|fo_o_fw_"_by_bc|3219
+A|why don't you start|ad|3219
+A|so you probably have a job you need to get to pretty soon.|sv|3219
+B|I'm already on my job|sd|3219
+A|Oh, you are,|bf|3219
+B|so, you, you reached me at my job.|sd|3219
+A|Oh, wonderful,|ba|3219
+A|well how do you dress for work?|qw|3219
+B|My, my dress for work, uh, most of the time is, uh, rather comfortable and casual uh, usually, uh, slacks and a soft colored shirt.|sd|3219
+A|Uh-huh.|b|3219
+B|The, um, thing that, that distinguishes me a lot of the time when I have to dress real professionally for a meeting or something is I wear a clerical collar and a suit and, uh, all of that sort of thing,|sd|3219
+A|Uh-huh.|b|3219
+B|but when I don't need to dress up for a, a meeting or a service of some sort, I don't.|sd|3219
+A|Uh-huh.|b|3219
+A|So you're in a church there?|qy^d|3219
+B|Yes.|ny|3219
+A|Uh-huh.|b|3219
+A|Well, I'm working, this is my first morning to work down at our little church preschool,|sd|3219
+A|and they've told me to wear just something terribly comfortable because these are two year olds,|sd|3219
+A|and they have a lot of, uh, they have BIBLE lessons|sd|3219
+A|and they have all the things during the morning,|sd|3219
+A|but they still have snack time and play time,|sd|3219
+A|so, I'm going to be dressing just in casual slacks and T-shirts, probably not blue jeans, but little bit short of that, just, just tennis shoes and play clothes.|sd|3219
+B|Well, around there you can probably wear, uh, T-shirts and other things,|sv|3219
+B|but around here, at this time of the year we are into sweaters and, uh, coats.|sd|3219
+A|Yeah.|b|3219
+A|I'm envious|sd|3219
+A|Well, it's a beautiful day here,|sd|3219
+A|and it's in the sixties,|sd|3219
+A|but we still have a lot of hot afternoons,|sd|3219
+A|it's supposed to be eighty-five today,|sd|3219
+A|so you'll still see people,|sd|3219
+A|it, it's kind of an in between change, that they're in their play clothes, I mean, they're in their summer clothes during the afternoons, because you just can't stand the sweaters,|sd|3219
+A|but in the mornings people are dressing for work in their sweaters because they just want it to be fall so badly|sd|3219
+B|Today, today we, we wear coats|sd|3219
+B|and as the day, uh, warms up, we may go to light jackets,|sd|3219
+A|Did you?|bh|3219
+B|but I don't think there's an escape from light jackets.|sd|3219
+A|I understand.|ba|3219
+B|The wind will take away a lot of body heat.|sd|3219
+A|Well, so are the people around you, um, dressing similar to you?|qy|3219
+B|Very similar.|na|3219
+A|Uh-huh,|b|3219
+A|so you don't have to, you don't have to buy the lot of the wardrobe that some of the people in banking and that kind of thing do.|bf|3219
+B|No,|aa|3219
+B|I'm not stuck with that kind of a, uh, situation.|sd|3219
+A|Well, that's good.|ba|3219
+A|That's good.|ba|3219
+B|As I say, unless it happens to be,|sd|3219
+B|now yesterday I had to dress up, and and, uh, be more formal because I had a, a formal meeting at noon time,|sd|3219
+A|Uh-huh.|b|3219
+B|but then I can go home later in the day and, and be a little more casual|sd|3219
+A|Well that's wonderful|ba|3219
+B|and then if I have a, a meeting of people that I know, I can be very casual in the evening.|sd|3219
+A|Well, my husband has to take the bus into Dallas, and doesn't return all day,|sd|3219
+A|so he has to dress,|sd|3219
+A|and he just really hates it,|sd|3219
+A|they have the long sleeve shirts and the whole tie and the whole suit,|sd|3219
+A|and even when his job is not going to be with people all day long, he said it's just part of the uniform and the expected image that they have to dress.|sd|3219
+B|Yeah,|b|3219
+B|that's, around here in a lot of places that's the way it is|sd|3219
+A|Uh-huh.|b|3219
+B|I mean, there, there are expected, uh, dress codes|sd|3219
+A|Uh-huh.|b|3219
+B|and the people need to follow that.|sd|3219
+B|I think, uh, years ago, I used to be far more, uh, committed to the idea of, of a dress code|sd|3219
+A|Uh-huh.|b|3219
+B|but I've relaxed a lot more as I've gotten older and become more comfortable with myself.|sd|3219
+A|Well, I think that's, I think that's great.|ba|3219
+A|I think that's good.|ba|3219
+B|It's taken a long time to break away, from, from that|sd|3219
+A|I understand.|ba|3219
+B|but now that I've broken away from it, I'm, I'm glad I have.|sd|3219
+A|Well, another interesting thing on the our, our end here is how, even in my forties, how much younger I dress than my mother would have in her forties,|sd|3219
+A|and I will run around to the store in things, in slacks and tennis shoes,|sd|3219
+A|and she,|%|3219
+B|You mean you don't need to wear little old house dresses any more?|bf|3219
+A|Right,|aa|3219
+A|and pearls,|sd|3219
+A|and she would not have even probably owned a pair of tennis shoes after she got out of high school,|sd|3219
+A|so, uh, she tells me I dress young,|sd|3219
+A|but that's okay|sd|3219
+B|That's a good idea,|ba|3219
+B|that's a good idea.|ba|3219
+A|Well, there's not a lot more I can think of to discuss on clothing.|sd|3219
+B|No,|aa|3219
+B|there, you know,|%|3219
+A|I guess this is what you call a natural end|sv|3219
+B|Yeah,|aa|3219
+B|what kind, what kind of shoes do they wear down there?|qw|3219
+A|Well, we wear,|sd|3219
+A|of course, like I said, if my husband's going downtown, he's got the whole, uh, you know, the dress men's dress shoes|sd|3219
+B|Uh-huh.|b|3219
+A|but for as out here, just anything that the moms,|sd|3219
+A|we all kind of have our own little dress code of just either tennis shoes or little loafers and, and, uh, tights, and things that feel comfortable to us around our kids.|sd|3219
+B|We, we can wear pretty much that, although, um, tennis shoes are kind of out in, in almost every, every situation unless you want to look like a gook|sd|3219
+A|Yeah,|aa|3219
+A|I'm sure they are there.|sv|3219
+A|Yeah,|aa|3219
+A|I'm sure they are.|sv|3219
+A|That's right,|aa|3219
+A|I'm sure that true.|sv|3219
+A|It's a lot different than working in a kids preschool.|sv|3219
+B|A lot different.|b^m|3219
+A|That's right.|aa|3219
+A|Well, you all have a nice day there.|fc|3219
+B|You too,|fc|3219
+B|and thank you for calling.|ft|3219
+A|Thank you very much.|ft|3219
+B|Uh-huh.|fc|3219
+A|Bye-bye.|fc|3219
+B|Bye.|fc|3219

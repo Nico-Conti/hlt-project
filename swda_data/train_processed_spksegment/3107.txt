@@ -1,0 +1,129 @@
+A|There we go.|fo_o_fw_"_by_bc|3107|0
+A|Uh, so, uh, what do you consider the most important benefit besides salary?|qo|3107|0
+B|Boy, I, I don't know.|no|3107|1
+B|That's a, that's a, a tough one.|sv|3107|1
+B|Uh, uh, and it's, uh, I suppose it's, it's changes as, uh, as my perception changes of, of what, uh, I'm getting gypped on|sd|3107|1
+B|and|%|3107|1
+A|That week,|^2|3107|0
+A|right.|%|3107|0
+B|this week or this month, uh, uh, uh, we're just, uh, going through, uh, uh, well, there's a couple of changes to the, to the, uh, our health plan|na|3107|1
+B|and, uh, and I guess right now the one in my mind is health insurance|sd|3107|1
+B|but, uh, If I step back I'm not sure I'd, I'd, uh, say that.|sd|3107|1
+A|Um.|b|3107|0
+B|What, what about you?|qo|3107|1
+A|Well, uh, I, right now I'm in sort of a weird situation.|sd|3107|0
+A|I'm a graduate student that, uh|sd|3107|0
+B|Oh, okay.|bk|3107|1
+A|I don't have that many benefits per se|sd|3107|0
+B|Yes,|b|3107|1
+B|okay,|b|3107|1
+A|Uh, sort of get,|%|3107|0
+B|But, but, on the other hand, one of these days you'll be out looking for a,|sv|3107|1
+A|Yeah,|aa|3107|0
+A|yeah.|aa|3107|0
+A|My wife has a real job|sd|3107|0
+A|and I can see from her angle.|sd|3107|0
+A|Uh, uh, I think health insurance is real, real important. I've, I've, I've, I've discovered.|sv|3107|0
+B|Yeah.|b|3107|1
+A|I mean, even in my case it's sort of, they're really, uh, a pain in the neck about it up here|sd|3107|0
+A|because the university makes me buy a small,|sd|3107|0
+A|they, they have a mandatory, they have what they call the mandatory portion of their health insurance|sd|3107|0
+B|Yeah.|b|3107|1
+A|they offer insurance to everyone,|sd|3107|0
+A|but then the basics that are major medical, they, they force you to buy here.|sd|3107|0
+A|Now I'm covered by my wife's anyway,|sd|3107|0
+A|but I still pay them a hundred dollars a semester for, uh, mandatory.|sd|3107|0
+B|Right,|b|3107|1
+B|okay.|b|3107|1
+A|So that's sort of annoying that I'm paying for something I'm not getting in that case.|sd|3107|0
+A|I'd rather that, that went to something else.|sd|3107|0
+B|And, and, yeah,|b|3107|1
+B|and the benefits you're getting for that hundred dollars a semester, uh, you, you never use because you just use your wife's.|bf|3107|1
+A|Right.|aa|3107|0
+A|I mean, uh,|%|3107|0
+A|and, and, and it turns out that actually, uh, the benefits they, you know, that, that hundred dollars sort of would, would entitle me to go to the university health services here, you know, and, and use them|sd|3107|0
+A|and it turns out that I do think they're they're excellent physicians there.|sd|3107|0
+A|So, through my wife's H M O, we've registered for them as our primary care physicians|sd|3107|0
+A|so we go there anyway,|sd|3107|0
+A|so they're, they're, so if they were to bill, which, which I believe they don't,|sd|3107|0
+A|but if they were to bill the H M O for my business, they could, in, in theory, be getting paid twice for the same thing.|sd|3107|0
+A|But they're not, thank God.|sd|3107|0
+A|Uh, but anyway, uh, otherwise, I would imagine, uh, good vacation is, is important, although I don't know if that's really a deciding factor for many people on a job.|sv|3107|0
+A|I don't, you know,|sd|3107|0
+B|Uh, yeah,|b|3107|1
+B|I, it, uh, the, the, that, that's a, a negative about, uh, where, where I am in that, uh, well, I came out of, uh, I worked five years civil service|sd|3107|1
+B|and there it's, uh, if I remember right, you well, they, they accumulate it as hours per week or something like that and, or hours per pay period or something,|sd|3107|1
+B|but, anyway it works out as I remember basically to, uh,|sd|3107|1
+B|you start at, at, uh, two and a half weeks or something like that,|sd|3107|1
+B|and it, at three years, uh, it goes to four weeks I believe,|sd|3107|1
+B|and I, I'm coming up on, I've been at T I now, uh, uh, coming up on fifteen years|sd|3107|1
+B|and it, and it just, uh, this year is going to go to four weeks here|sd|3107|1
+B|so,|%|3107|1
+A|Oh, wow.|ba|3107|0
+B|Uh, uh,|b|3107|1
+A|So that's really,|%|3107|0
+B|Yeah,|b|3107|1
+B|that's a, that, that is a, a, a negative, but, uh, but, not, probably not at, probably not a deciding factor,|sv|3107|1
+B|but, uh,|%|3107|1
+A|Yeah.|aa|3107|0
+A|I mean, I don't, you know, I don't, I know my wife, uh,|sd|3107|0
+A|I think she gets, you know, about two weeks a year, I guess|sd|3107|0
+B|Yeah.|b|3107|1
+A|but they're pretty good about it if she wants other time off.|sd|3107|0
+A|They, you know, usually let her,|sd|3107|0
+B|Well, that, that,|%|3107|1
+B|yeah,|%|3107|1
+B|that's, that's the thing is how, how flexible they are for comp time kinds of kinds of things|sv|3107|1
+A|Yeah.|b|3107|0
+B|and, uh, uh, that's the, the, the, uh,|%|3107|1
+B|yeah.|%|3107|1
+B|That's a, why it hasn't made all that much difference is because the, with the civil service, that you could take, you could take your vacation in increments of one hour|sd|3107|1
+A|Oh, really.|b|3107|0
+B|and, uh, and, but, uh, there wasn't, uh, anything as far as comp time,|sd|3107|1
+B|so you tend to dribble away a week of it a year, uh, you know, an hour here a couple hours there kind of a thing.|sd|3107|1
+A|Just,|%|3107|0
+A|yeah.|%|3107|0
+A|Yeah.|b|3107|0
+B|Uh, whereas, uh, here I, uh, things are free enough to, that, uh, the, the actual vacation time per year probably isn't that, isn't that much different,|sv|3107|1
+B|but, uh, But, uh,|%|3107|1
+A|That's, well, that's a that's reasonable, I think.|sv|3107|0
+B|Yeah.|aa|3107|1
+B|I think the, I think the health insurance,|%|3107|1
+B|I think that's, that's going through changes everywhere to, uh,|sv|3107|1
+B|the, they've, uh, uh, gone through a couple years ago here where they, uh, will cover you much better if you go to their designated hospitals|sd|3107|1
+B|and now they're in the process of developing a list of, of, uh, designated doctors, uh,|sd|3107|1
+B|so that just routine visits, uh, they will compensate much better for, if you go to their designated doctors.|sd|3107|1
+A|Yeah.|b|3107|0
+B|Which, which, uh,|%|3107|1
+B|my assumption is that, that will not include my doctor since, uh, he keeps real busy without having to, to, uh,|sd|3107|1
+A|Weigh all sorts of other things.|^2|3107|0
+B|Yeah.|b|3107|1
+A|Yeah,|b^m|3107|0
+A|I think, I was watching something the other day about that actually on, uh, a news special or something like that|sd|3107|0
+A|and they were saying how in some sense that, that's good because that makes health care affordable for everyone and makes, you know, lowers the cost of everything and all insurance|sd|3107|0
+A|and in other cases it's actually bad because it winds up people, you know, don't get to, they have much less of a choice in who they can use and stuff like that|sd|3107|0
+A|so,|%|3107|0
+B|Well, and, and I think in the, in the, in the much bigger picture than, uh, to some extent hospitals and doctors have some, uh, fixed amount|sv|3107|1
+B|and, if, if you don't work for somebody that's got enough clout to, to, uh, uh, give you, you know, give you these rates and make this agreement then, uh, you're not covered by that,|sv|3107|1
+A|Uh-huh.|b|3107|0
+B|and, and the added costs get passed on to you,|sv|3107|1
+B|so uh, I'm not, I'm not sure,|h|3107|1
+A|Right.|b|3107|0
+B|it, my, uh, one of the phrases I use is that, that it's moving towards, uh, private socialized medicine. That, uh, in terms of the negatives of, of always heard in terms of socialized medicine, you have no choice on who you, who you go to for a doctor and things like that, uh, where it's the government that decides,|sv|3107|1
+B|here it's, it's, uh,|%|3107|1
+A|Least off, who decides.|sv|3107|0
+B|Yeah,|aa|3107|1
+B|uh, and, but it, but it's the, the same, the effect is the same as the,|sv|3107|1
+B|you, you, uh, get left out of the loop more.|sv|3107|1
+B|I, I, I know that their, uh, idea is that, uh, if, if you have to pay a bigger share, you'll, you'll be more careful about spending the, spending the money and, and helping hold down the costs|sv|3107|1
+A|Right.|b|3107|0
+B|but, uh, I, I, I don't know,|h|3107|1
+B|in terms of, in terms of, uh, the health care, I, uh, find that, that, uh, although I've, I've been lucky enough to never have any big problems, but that, that, uh, the cost is not a, a big factor.|sd|3107|1
+B|I want to, I want to know if the doctor's doing the right thing to make me get better.|sd|3107|1
+A|Right.|b|3107|0
+A|You want to know that, that, that when you pick a doctor, you know, you, you could pick one who you could have some sort of a feeling about.|sv|3107|0
+B|Yeah.|b|3107|1
+B|Yeah|aa|3107|1
+B|and,|%|3107|1
+A|Yeah,|%|3107|0
+A|that, that's the,|%|3107|0

@@ -1,0 +1,133 @@
+A|So, how do you feel about capital punishment?|qo|3509
+B|Well, I, I'm not really certain how I, uh, I'm not certain that, that it does a lot of good. I mean, that it ends up, ends up effectively, uh, uh, uh, avoiding a lot of the crimes that have capital punishment  penalties.|sd|3509
+A|Right,|b|3509
+A|you don't think,|%|3509
+B|Yet, on the other hand, uh, I don't know,|h|3509
+B|I mean, there is things that|%|3509
+B|seems like it's, it's, it's the right thing to do.|sv|3509
+B|Now, you know, I mean somebody, a serial killer or somebody goes in and machine guns, you know, fifty, fifty children in a school yard,|sv|3509
+B|you kind of,|%|3509
+B|I don't know.|h|3509
+B|What about yourself?|qo|3509
+A|I, uh, I have the same dilemma, I think. Uh,|sd|3509
+A|it's, you know, it seems right sometimes|sv|3509
+A|and then other times, you don't know.|sv|3509
+B|Uh-huh.|b|3509
+A|Uh,|b|3509
+B|I mean, people, like,|%|3509
+B|I,|%|3509
+B|it's been,|%|3509
+B|I mean, like the Arab societies and stuff end up, uh, having effective, effective punishments|sv|3509
+B|and, and they're extremely severe.|sv|3509
+B|Uh, I, you know, I think to a certain degree, the reason that it, it doesn't serve as a deterrent, uh, may be because you never know if it's going to be applied. Right,|sv|3509
+B|unlike, uh, like in, in Arab societies. If you get, get caught stealing, they chop off your hand|sv|3509
+B|and  and you walk around the rest of your life with one hand|sv|3509
+A|Right.|b|3509
+B|and everybody knows exactly what, what for.|sv|3509
+A|Right.|b|3509
+B|Uh, and, you know, and here, with our court system and, and ways of sort of screwing it around and stuff you can, you can kind of always count on the fact,|sv|3509
+B|or, or there is a good chance you're going to get off.|sv|3509
+A|Uh-huh.|aa|3509
+A|And also, it doesn't seem like it does that many harm,|sv|3509
+A|I mean, sure, their life is taken,|sv|3509
+A|but they'd spend the rest of their life in jail anyway,|sv|3509
+A|so I think sometimes they'd prefer just to get it over with|sv|3509
+A|so it's more of the easy way out than making them pay for the for the you know, what they've done.|sv|3509
+B|some people,|%|3509
+B|Yeah.|b|3509
+B|Except that, I mean, the, the average cost to to society of having somebody in jail for all their life is, is extremely high. I mean, something, I, I was amazed at. Uh, uh, per year,|sv|3509
+B|it's something like twenty thousand dollars per inmate per year. To keep people in jail.|sd|3509
+A|Yeah.|b|3509
+B|Uh, you know, and it's sort of a sort of a crass perspective on the usage of capital punishment,|sv|3509
+A|Uh-huh.|b|3509
+B|but on the other hand, uh, uh, you know, I don't, I don't know if it's that is, that is that serious that they're really never going to be out of jail, uh ...|sd|3509
+A|Right,|aa|3509
+A|but then again, also, you can't bring back lives that have been taken anyway,|sd|3509
+A|so uh, it's,|%|3509
+B|Uh-huh|b|3509
+A|it doesn't,|%|3509
+A|it seems by, that by,|%|3509
+A|I don't know,|h|3509
+A|doesn't ever really, uh ...|%|3509
+B|Oh, I know,|aa|3509
+B|I mean, you can't,|%|3509
+B|it doesn't,  Taking , taking one more life doesn't, doesn't, doesn't get things back the way they were, right.|sv|3509
+A|Yeah.|b|3509
+A|Right.|aa|3509
+A|It doesn't bring back every,|aa|3509
+B|Yeah,|b|3509
+B|I don't know, I, I don't, I really don't know, uh,|h|3509
+A|What state are you in?|qw|3509
+B|I'm in Texas.|sd|3509
+A|Oh, really?|bh|3509
+A|In Dallas?|qy|3509
+B|No,|nn|3509
+B|I'm in Austin.|sd|3509
+A|Oh, really?|bh|3509
+B|Where, where are you calling from?|qw|3509
+A|Uh, right now I'm in Utah,|sd|3509
+A|but I'm from Plano, Texas.|sd|3509
+B|Oh, I see,|bk|3509
+B|uh-huh.|%|3509
+A|So, uh, uh, what are the laws like in Texas?|qw|3509
+B|It's, Texas is, has, is one of the, one of the well,|%|3509
+B|I guess there is more and more states that are, that are going back to capital punishment.|sd|3509
+B|Uh, Texas has had it for a while.|sd|3509
+B|It's one of the quickest,|sd|3509
+B|it, it,|%|3509
+B|once it was, it was reallowed,|sd|3509
+B|I think it was outlawed for a while, but, uh, by the supreme court, I mean, or, the interpretation of the constitution|sd|3509
+B|and it seems like everybody stopped|sd|3509
+B|and then, and then once they sort of reallowed it, Texas was one of the first to, uh, to actually, uh, implement it again.|sd|3509
+A|Oh, really?|bh|3509
+B|They do it by, uh, by, do it by lethal injection.|sd|3509
+A|Uh-huh.|b|3509
+B|Uh, I'm originally from Kansas|sd|3509
+B|and in Kansas also, uh, they, they almost immediately put back capital punishment|sd|3509
+B|and, uh, there they do it by hanging.|sd|3509
+A|Wow.|ba|3509
+B|Still, uh, they have,|%|3509
+B|I still remember the, the, the movie, uh, IN COLD BLOOD.|sd|3509
+B|I don't know if you've ever,|qy^d|3509
+B|I'm sure you're familiar with it,|qy^d|3509
+B|but, have you seen the movie?|qy|3509
+A|I haven't,|ng|3509
+A|no.|nn|3509
+B|Yeah.|b|3509
+B|That way.|sd|3509
+A|And they do it that way?|qy|3509
+B|Yeah,|ny|3509
+B|well, they, they show it,|sd|3509
+B|not, not,|%|3509
+B|I mean, the, the movie was made in, like, nineteen sixty-two or something like that|sd|3509
+A|Huh.|b|3509
+B|and so it's, uh, it's not particularly graphic,|sd|3509
+B|but on the other hand it's, it's fairly impressive to watch them, you know, walk into the room with gallows.|sd|3509
+B|It's kind of a barn like structure.|sd|3509
+A|Wow.|ba|3509
+A|I think they're there,|sd|3509
+A|I think that capital punishment is, is, uh, in in Utah also.|sd|3509
+A|I'm not really familiar.|sd|3509
+B|Is that right?|bh|3509
+B|Are you there in school?|qy|3509
+A|Yeah,|ny|3509
+A|I am.|sd|3509
+B|Yeah.|b|3509
+A|So, but I think they|%|3509
+A|a long time ago, I, I remember my dad was telling me this, I think, that, uh, they do it by, like, a bunch of men have guns|sd|3509
+A|and one of them has the real gun in it.|sd|3509
+B|Uh-huh,|b|3509
+B|has, has a,|%|3509
+B|yeah.|%|3509
+A|So they don't know who killed,|sd|3509
+B|Has a real bullets|qy^d|3509
+B|and the rest of them have blanks?|qy^d|3509
+A|Right.|na|3509
+B|Yeah,|b|3509
+B|I, I certainly wouldn't want to be the executioner,|sd|3509
+B|I know that|aa|3509
+A|Yeah,|b|3509
+A|no.|aa|3509
+B|I've always said that if I, if I had to kill and clean and do my own, my own meat, I think I'd become a vegetarian.|sd|3509
+A|I know.|aa|3509
+B|As long as you're sort of safely removed from it, it seems, seems not so, so bad, I guess.|sv|3509

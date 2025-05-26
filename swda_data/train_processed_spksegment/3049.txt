@@ -1,0 +1,213 @@
+A|What was one of the latest ones that you've seen, actually?|qw|3049|0
+B|Oh, I I think we rented PRETTY WOMAN a couple weeks, months ago.|sd|3049|1
+A|Uh.|b|3049|0
+A|Right.|b|3049|0
+A|The last two years, I have done more theater movie going than I have actually watched videos at home.|sd|3049|0
+A|I've, uh,  uh, become available to come and go more often,|sd|3049|0
+B|Uh-huh.|b|3049|1
+A|so I said "hey, it's worth it,|sd|3049|0
+A|I'll just go at the matinee hour|^q|3049|0
+A|and I can see what I please."|^q|3049|0
+B|Yeah.|b|3049|1
+A|It's no more costly than renting one.|sd|3049|0
+A|The last,|%|3049|0
+A|see I went about two or three weeks ago and saw F X TWO|sd|3049|0
+A|and that is a really good movie, if you like special effects,|sv|3049|0
+A|kind of gory and lots of, you know action.|sd|3049|0
+B|Uh-huh.|b|3049|1
+B|I have not done that one,|sd|3049|1
+B|I don't know if I have even heard of that one.|sd|3049|1
+A|Um, do you know that I don't follow performers,|sd|3049|0
+B|Oh.|b|3049|1
+A|I don't follow actors.|sd|3049|0
+A|Some I know,|sd|3049|0
+B|Uh-huh.|b|3049|1
+A|some I don't.|sd|3049|0
+B|Yeah.|b|3049|1
+A|Uh, and he was|%|3049|0
+A|the guy, the guy that played in it, he was not the star, but the one that played in it that I liked best was the one who was in, uh, oh, the one about the old people.|sd|3049|0
+B|COCOON?|qy^d|3049|1
+A|COCOON,|sd|3049|0
+A|uh-huh.|ny|3049|0
+B|Okay.|b|3049|1
+A|He was a blond haired, heavyset alien in COCOON.|sd|3049|0
+B|Oh, okay.|b|3049|1
+A|I don't, I don't know what his name is.|sd|3049|0
+B|Uh, I think I know who you are talking about though.|sd|3049|1
+A|Yeah.|b|3049|0
+A|At any rate, I also saw not long ago ONCE AROUND.|sd|3049|0
+A|That was with Richard Dreyfuss.|sd|3049|0
+B|Okay.|b|3049|1
+A|And, that one was just a very poignant story,|sv|3049|0
+A|it, it, it had people,|sd|3049|0
+A|it was, it was you know, a lot of people said it was a really funny movie,|sd|3049|0
+A|but it was,  a very, it was a poignant humor|sv|3049|0
+B|Uh-huh.|b|3049|1
+A|and there was, it was like, uh, uh, STEEL MAGNOLIAS.|sv|3049|0
+A|The characters played very well off one another.|sv|3049|0
+B|Uh-huh.|b|3049|1
+A|And there was humor involved,|sd|3049|0
+A|but the story was a very dramatic story,|sv|3049|0
+A|and I enjoyed it very much.|sd|3049|0
+A|What are some others that you have seen lately?|qw|3049|0
+B|Oh, I'm trying to think, uh,|^h|3049|1
+B|just the other night on H B O we watched THE HUNT FOR RED OCTOBER,  again|sd|3049|1
+A|Oh, whoa,|ba|3049|0
+A|yes.|b|3049|0
+B|and that's one that,|%|3049|1
+A|That's one I can watch,  over and over and over again.|sd|3049|0
+B|Yeah.|aa|3049|1
+B|I was going to read while it was on,|sd|3049|1
+B|but then when it started, I just couldn't, you know, read.|sd|3049|1
+B|That was a really good movie.|sv|3049|1
+A|It sure was.|aa|3049|0
+A|And, you know, the second time you see it, you understand more subtleties in it.|sv|3049|0
+A|There are a number of good movies like that.|sv|3049|0
+B|Yeah,|b|3049|1
+B|there's quite a few, uh, movies out now that I would like to go see.|sd|3049|1
+B|My husband,  is not a real big movie goer,|sd|3049|1
+A|Uh-huh.|b|3049|0
+A|Uh-huh.|b|3049|0
+B|and I guess, more than anything, that is why we don't go.|sd|3049|1
+A|Yeah.|b|3049|0
+B|Plus, by the time you get a baby-sitter, and then pay to go to the movies it just gets pretty expensive.|sv|3049|1
+A|Uh-huh.|b|3049|0
+A|Right.|b|3049|0
+A|You don't work?|qy^d|3049|0
+B|No,|nn|3049|1
+B|I stay at home.|sd|3049|1
+A|Okay.|bk|3049|0
+A|Well, you are going to have to find a mother's day out and have him call in sick one day.|ad|3049|0
+B|Yeah.|b|3049|1
+B|Go during the day,|bf|3049|1
+B|that's right.|aa|3049|1
+A|That's right.|sd|3049|0
+A|There's nothing wrong with that.|sv|3049|0
+A|Go in the early hours,|ad|3049|0
+A|it's a matinee,|sd|3049|0
+A|it's not crowded|sd|3049|0
+A|and the price is as reasonable as renting a video.|sv|3049|0
+B|Yeah.|b|3049|1
+A|And that's the way I do it|sd|3049|0
+A|and I go quite frequently.|sd|3049|0
+B|Uh-huh.|b|3049|1
+A|If you are going to be planning on doing that,|sd|3049|0
+A|now I was WARLOCK too, which is supposed to be the story of a, uh, witch hunt that is, you know, magically shot into the present time.|sd|3049|0
+B|Uh-huh.|b|3049|1
+A|And, the first five minutes or ten minutes of the movie was, I was very well persuaded to walk out. Very well persuaded,|sd|3049|0
+A|there was more gore than I was interested in seeing.|sd|3049|0
+B|Uh-huh.|b|3049|1
+A|But, as the movie settles down to a comfortable action, uh, I can't really that it would have gotten more than a star and a half from me either.|sd|3049|0
+A|But,  uh, the action was comfortable|sd|3049|0
+B|Yeah.|b|3049|1
+A|and, of course, I enjoyed those good guy, bad guy type conflicts things.|sd|3049|0
+A|So, I enjoyed that movie, after the first few minutes of gore.|sd|3049|0
+A|And there were some others,|sd|3049|0
+A|but they were done a little more tastefully.|sv|3049|0
+B|Yeah.|b|3049|1
+A|But, uh, in the first scene, the warlock chopped off a guy's finger because he wanted the ring and then bit his tongue out and spit it off in the omelet|sd|3049|0
+B|Uh.|b|3049|1
+A|and I could not handle that.|sd|3049|0
+A|I said "whoa, I'm glad I have not had dinner".|sd|3049|0
+A|Then, uh, I saw AWAKENING,|sd|3049|0
+A|that's a wonderful, wonderful job by Robin Williams and Peter De Niro.|sv|3049|0
+A|I, uh, I, uh,|%|3049|0
+B|Robert De Niro?|br|3049|1
+A|Robert De Niro,|sd|3049|0
+A|what did I say, Peter?|qw|3049|0
+B|I think you said Peter.|sd|3049|1
+A|I said Robert De Niro.|sd|3049|0
+B|Yeah.|b|3049|1
+A|And, he has done a really good job of characterizing the, uh, disabled person.|sv|3049|0
+B|Uh-huh.|b|3049|1
+A|And, of course, Robin Williams always just has a, an air about him that you can't help but enjoy what he is doing.|sv|3049|0
+A|Even when he's sad, you know, you great faith that he will get happy again.|sv|3049|0
+B|Uh-huh.|b|3049|1
+A|And then, oh, let's see, there's a couple or three that I would like to go see before they go into videos.|sd|3049|0
+A|I guess, I can wait another month|sd|3049|0
+A|and they will be videos.|sd|3049|0
+B|Yeah|b|3049|1
+A|One is SILENCE OF THE LAMBS.|sd|3049|0
+A|I've heard a lot about that one.|sd|3049|0
+A|They say if you really want to be, uh, you really want some suspense, that's the one to see.|sd|3049|0
+A|And, I understand that's a sequel to an earlier movie that showed about two weeks ago on television. Uh.|sd|3049|0
+B|Well, you know, I think I read about that too.|sd|3049|1
+A|Uh-huh.|b|3049|0
+A|And then THELMA AND LOUISE,|sd|3049|0
+A|I think it's time we had a lady abuse the guys movie.|sv|3049|0
+A|It's about time for one of those.|sv|3049|0
+A|I want to go see that.|sd|3049|0
+B|Yeah.|b|3049|1
+A|And I'm going to try to get in DANCES WITH WOLVES.|sd|3049|0
+B|Oh, you haven't,|qy^d|3049|1
+B|I've heard that is wonderful.|sd|3049|1
+A|Uh-huh,|b|3049|0
+A|I've heard it's wonderful too,|sd|3049|0
+A|but I, it's just that they are both very long uh, movies,|sd|3049|0
+B|Yeah.|b|3049|1
+A|and the matinee starts before I can get away from work.|sd|3049|0
+B|Oh.|b|3049|1
+A|And, after, after that I get involved in other things and don't want to don't want to go back.|sd|3049|0
+B|Yeah.|b|3049|1
+B|Yeah,|b|3049|1
+B|I've heard that's,|sd|3049|1
+B|we, uh, we, uh, rented the other one,|sd|3049|1
+B|I was trying to think of the other one that we had rented lately, uh, was PRESUMED INNOCENT, with, uh, Harrison Ford,|sd|3049|1
+B|I guess he's in there.|sd|3049|1
+A|Uh-huh.|b|3049|0
+B|And, I thought that was really good.|sv|3049|1
+A|You know, I saw that|sd|3049|0
+A|and I really I cannot remember too much about it.|sd|3049|0
+B|It was the one where he was a defense,|sd|3049|1
+B|uh, not defense,|ar|3049|1
+B|he was a|sd|3049|1
+A|Uh-huh.|b|3049|0
+B|And there was a murder of one of the women that was in the, the D A office.|sd|3049|1
+A|Uh-huh.|b|3049|0
+B|And then he ended up being accused of it.|sd|3049|1
+A|Oh, that's right,|aa|3049|0
+A|I remember now.|sd|3049|0
+A|Yeah,|aa|3049|0
+A|I remember.|sd|3049|0
+B|Yeah,|b|3049|1
+B|so, I mean it really kind of had a turn at the end, when you found out who it was|sd|3049|1
+A|Uh-huh.|b|3049|0
+A|Well, I've had a hard time enjoying Harrison Ford in anything since the Indiana Jones movies.|sd|3049|0
+A|I think he ought to stay Indiana Jones.|sv|3049|0
+A|I realize that he would like his career to develop,|sd|3049|0
+A|but I don't want to see him in other things.|sd|3049|0
+A|But, uh, I tell you, Sean Connery in the HUNT FOR RED OCTOBER,|sd|3049|0
+A|I, I never did care for him as, in the James Bond movies.|sd|3049|0
+A|I don't know|h|3049|0
+A|he was too .|%|3049|0
+B|I was never into those movies, either.|aa|3049|1
+A|Yeah,|b|3049|0
+A|I didn't care for the type of movie,|sd|3049|0
+A|but he was always slick, and greasy, and seemed to be conceited and had more women than he needed|sv|3049|0
+A|and I didn't like him.|sd|3049|0
+A|But, he has really developed into a marvelous character actor as he has come older.|sv|3049|0
+B|Yeah,|b|3049|1
+B|I thought he looked real good with a beard, too.|sv|3049|1
+A|Oh, yeah,|aa|3049|0
+A|yeah,|aa|3049|0
+A|he does|sv|3049|0
+A|and there is just a, there's a,|%|3049|0
+A|I don't know, uh,|h|3049|0
+A|I think that beard gives him a look that he is always grinning, whether he is or not.|sv|3049|0
+B|Yeah.|b|3049|1
+A|And he, he has that merry look about his eyes that looks like he stays in mischief all time.|sv|3049|0
+A|And, I enjoy those,|sd|3049|0
+A|and I enjoy some of the Michael J. Fox movies.|sd|3049|0
+A|I didn't care too much for the last one either.|sd|3049|0
+A|It just was not enough to it.|sv|3049|0
+B|What was the last one?|qw|3049|1
+B|I'm trying to think.|sd|3049|1
+A|Uh.|%|3049|0
+B|Uh, the last,|%|3049|1
+B|like, BACK TO THE FUTURE then was the last one .|sd|3049|1
+A|No,|ar|3049|0
+A|no,|ar|3049|0
+A|no,|ar|3049|0
+A|it was called, uh, HARD WAY, where he was an actor, trying to portray trying to portray, portray a policeman.|sd|3049|0
+B|Oh, okay,|b|3049|1
+A|And that,|%|3049|0

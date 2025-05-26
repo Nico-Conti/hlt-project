@@ -1,0 +1,148 @@
+A|So, what kind of a house do you live in?|qw|3371
+B|I'm in a, uh, in a ranch.|sd|3371
+B|A, uh,|%|3371
+B|it was about, uh, sixteen hundred square feet when I bought it,|sd|3371
+B|and, uh, it's about two thousand square feet now,|sd|3371
+B|but it's one of those typical, uh, ranches that you find around here.|sd|3371
+B|Oh, it's, uh, built in the, probably built in the late fifties|sd|3371
+B|so it's not, um, what you would find, uh, where you live.|sd|3371
+B|But, uh, for the older, uh, ranch homes it's pretty typical I guess.|sd|3371
+A|Uh-huh.|b|3371
+A|Well, our home is, uh, probably, for our area it's probably one of the lower income homes out here.|sd|3371
+A|Uh, most of the, the homes that they're building,|sd|3371
+A|well, I shouldn't say all of them,|h|3371
+A|but most of them now are up in the millions of dollars.|sd|3371
+B|Really?|bh|3371
+A|Oh yeah,|ny|3371
+A|there's,|%|3371
+B|How many square feet do you have?|qw|3371
+A|We have got about, uh, twenty, I'd say about twenty-four hundred.|sd|3371
+B|Four bedrooms?|qy|3371
+A|Uh, we've got five bedrooms, because we built onto our garage.|sd|3371
+B|Five bedrooms.|b^m|3371
+B|Uh-huh.|b|3371
+A|A, a bedroom for my mother,|sd|3371
+A|and, uh,|%|3371
+B|I made a, I made a fourth bedroom out of, uh, a made a fourth bedroom out of one of our, out of our living room and then added a, uh, what we call a sunroom to get the, you know,|sd|3371
+A|Oh.|b|3371
+B|when, when we added four hundred square feet to our house|sd|3371
+A|Oh, that's great.|ba|3371
+B|so that,|%|3371
+A|Well, this, this house is very comfortable.|sd|3371
+A|We've got two living areas|sd|3371
+A|and that, that's the thing I probably like the most about it.|sd|3371
+B|How many stories?|qw|3371
+B|Just one?|qy|3371
+A|It's just one story.|sd|3371
+A|Yeah.|ny|3371
+A|It's a Fox and Jacobs home.|sd|3371
+B|How are they built?|qw|3371
+A|Um, we've been real happy with it.|sd|3371
+B|Yeah.|b|3371
+B|I've heard that,|sd|3371
+B|I've heard the construction is pretty good on Fox and Jacobs.|sd|3371
+A|Of course, I'm not a carpenter or anything like that.|h|3371
+A|They could probably come in and say, gee, this is not straight|sd|3371
+A|and this is under something|^q|3371
+A|but,|%|3371
+B|But I mean it doesn't give you trouble?|qy^d|3371
+A|No.|nn|3371
+B|Uh-huh.|b|3371
+A|No,|nn|3371
+A|we haven't had a lot of problems with it at all.|sd|3371
+B|No cracked slab or anything like that?|qy^d|3371
+A|No.|nn|3371
+B|All right.|bk|3371
+A|We've been real lucky.|sd|3371
+A|So,|%|3371
+B|And is it, um, a natural gas and,|sd|3371
+A|Yeah.|b|3371
+B|You know what I miss though?|qh|3371
+B|Basements.|sd|3371
+A|Oh, yeah.|ba|3371
+B|I I sure wish they could build basements in homes in Texas.|sd|3371
+A|Yeah,|b|3371
+A|I, I've heard a lot of people say that.|sd|3371
+A|That's for sure.|ba|3371
+A|Uh, we have an attic that we've just put, you know, plywood over the beams and things up in the attic|sd|3371
+A|and so that, has replaced it to some extent|sd|3371
+B|So you,|%|3371
+A|but certainly not,|sd|3371
+B|Can you stand up in it?|qy|3371
+A|Uh, in parts.|na|3371
+A|I mean you couldn't, you really couldn't use it for a room.|sd|3371
+B|So you have a probably a more pitched roof than is typical around here.|qy^d|3371
+A|Yes.|ny|3371
+B|ours is pitched so shallow that you, uh, don't get much room in the attic.|sd|3371
+A|Yeah.|b|3371
+A|Yeah,|b|3371
+A|we, uh, we've got, you know,|sd|3371
+A|I'll store all our Christmas stuff and whatever else junk up there.|sd|3371
+B|So, five bedrooms and two living, two family|bf|3371
+A|Two living areas.|b^m|3371
+A|We have a living room and dining room at the front of the house,|sd|3371
+B|Uh-huh.|b|3371
+A|and then we have a, the, uh, family room, kitchen, and playroom at the rear of the house which has been really nice.|sd|3371
+B|Uh-huh.|b|3371
+A|In fact, I really enjoy the playroom that,|sd|3371
+A|you would think that would not be a real bonus, you know, to a house,|sd|3371
+A|but of all the rooms in the house I'd say that was, that was the one that's been really nice to have|sd|3371
+B|Isn't it funny how families end up living in one room in the house most of the time.|qh|3371
+A|I think that's true.|aa|3371
+B|You|%|3371
+A|Yeah.|b|3371
+A|Probably our family room is the, the biggest. Uh,|sd|3371
+B|Right.|b|3371
+B|Some people, I mean,|%|3371
+B|families seem to migrate towards one, one room and carry on most of their activities there,|sv|3371
+B|and, uh, uh, some rooms, we have one room that we never use.|sd|3371
+A|Yeah.|b|3371
+B|I mean might as well not even heat and cool it.|sd|3371
+A|Yeah.|b|3371
+B|Strange.|sv|3371
+A|Well, that's kind of the way our living room and dining room is,|sd|3371
+B|Uh-huh.|b|3371
+A|but it is nice to have it because there's, uh, with our size of family it's nice to know that there's one that's always straight and clean if you have someone come just on the spur of the moment.|sd|3371
+B|Right,|b|3371
+B|right.|b|3371
+B|Uh-huh.|b|3371
+A|So|%|3371
+B|So you've been fairly happy with it.|bf|3371
+B|How long have you been in it?|qw|3371
+A|Seventeen years.|sd|3371
+B|Wow.|ba|3371
+B|Boy, it doesn't seem that long|sd|3371
+B|but it is because we, uh, came to this area about the same time|sd|3371
+A|Uh-huh.|b|3371
+B|We've been fifteen, fifteen years in the, in the house that we're living in.|sd|3371
+A|Oh, wow.|ba|3371
+B|And we, the, the principal feature I like about ours is that it's pier and beam.|sd|3371
+A|Oh, uh-huh.|b|3371
+B|Yours is a slab I assume.|qy^d|3371
+A|Yes,|ny|3371
+A|it is.|sd|3371
+B|Yeah,|b|3371
+B|ours is a pier and beam which has allowed me to go under it and do a whole lot of different things that I could not have done if it was slab.|sd|3371
+A|Uh-huh.|b|3371
+B|I've done a lot of electrical and plumbing and other work that, by myself and saved a lot of money that I couldn't have done if the house was on a slab.|sd|3371
+A|Well, that's interesting.|ba|3371
+B|But that's because it's so old.|sd|3371
+A|Yeah.|b|3371
+B|It's thirty-five, thirty-six years old when they used to build like that,|sd|3371
+B|and, uh,|%|3371
+A|Uh-huh.|b|3371
+A|Well, my husband wouldn't do that anyway.|sd|3371
+A|That's his, that's his,|%|3371
+B|I know,|aa|3371
+B|he's not a handy,|sd|3371
+B|right?|^g|3371
+A|worst thing in life is to have to repair something.|sd|3371
+B|I, on the other hand, uh, do a lot too much of it|sd|3371
+A|So,|%|3371
+B|and, uh, I've gotten good at it which in a, in a way is bad because then you, uh, you start to take pleasure in it|sd|3371
+A|Well, uh, that's great.|ba|3371
+A|We just kind of save everything for when Al , uh, for, for when his Dad comes to visit|sd|3371
+A|and then he does all the repairing, you know,|sd|3371
+A|he does|sd|3371
+B|Right.|b|3371
+B|My Dad is actually, uh,|sd|3371

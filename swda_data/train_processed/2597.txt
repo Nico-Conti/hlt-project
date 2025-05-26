@@ -1,0 +1,195 @@
+B|Well, this is a good subject, isn't it?|qy|2597
+A|Yeah.|ny|2597
+B|It's, it's something that you can really talk about.|sv|2597
+A|Yeah.|b|2597
+B|Um, I don't know what we're going to do about it,|sd|2597
+B|but,  but it's certainly something that has a lot of things to talk about.|sv|2597
+A|Uh-huh.|b|2597
+B|Um, you know, when they say the Middle East,  it's such a big area|sd|2597
+A|Uh-huh.|b|2597
+B|and there's so many different problems there.|sd|2597
+B|Uh, what do you want to concentrate on.|qw|2597
+A|It doesn't matter to me.|sd|2597
+B|Well, uh, I'll tell you something,|fo_o_fw_"_by_bc|2597
+B|um, I, I have a sister-in-law from Israel,|sd|2597
+A|Uh-huh.|b|2597
+B|and, and they're really quite, uh, arrogant about it all.|sd|2597
+B|They, they believe that they, they belong there|sd|2597
+B|and they've belonged there forever,|sd|2597
+B|and, the Palestinians and the Arabs are, uh, more or less,|sd|2597
+B|they, they consider them second class.|sd|2597
+A|Uh-huh.|b|2597
+B|So, they're really quite arrogant about it.|sd|2597
+B|I don't, uh, I don't know if that contributes to the problem.|sd|2597
+A|Well how did they feel about the, uh, the United States intervening with Patriot missiles,|qw|2597
+A|did, did they,|%|2597
+B|Oh, uh, I'm, I'm sure this is the one time that the Israelis are really happy to have their big brothers, the Americans,|sv|2597
+A|Uh-huh|b|2597
+B|but, I didn't really talk about that with her.|sd|2597
+B|She, um, um, my sister-in-law now lives in, um, Switzerland.|sd|2597
+A|Oh.|b|2597
+B|But, um, when they were living in Israel, it was, it was, the, the Palestinians, they, they come in an,|sd|2597
+B|and they're, they're nothing but really servants for them,|sd|2597
+B|and they really treat them like second class citizens.|sd|2597
+B|They, they don't really want them around|sd|2597
+B|but they like them around because they do all the menial labor and such.|sd|2597
+A|Uh-huh.|b|2597
+B|But they, they really do,|sd|2597
+B|they look down on them.|sd|2597
+B|And, I don't know, being,|%|2597
+B|I, I live in, uh, Vermont|sd|2597
+B|and being up here we pretty much treat everybody, you know, as someone that has merit, even if they're poor, or if they're Hispanic or if they're black.|sd|2597
+B|We give everybody pretty much the benefit of a doubt because we don't see all the crime and, all the hurt in the big cities, you know.|sd|2597
+A|Uh-huh.|b|2597
+B|if I lived in Washington, D C I think I'd have a different attitude about Black people|sd|2597
+B|because I've heard that it, it, the, they're terrible, you know,|sd|2597
+B|it's just like it's a dog eat dog world.|sv|2597
+B|And here, you know, all, all my black friends are professionals|sd|2597
+B|and they're, they don't, you know, they don't go out and abuse drugs|sd|2597
+B|and they, they send their kids to school|sd|2597
+B|and they, they, they uh, you know really encourage them to go to college and stuff.|sd|2597
+A|Uh-huh.|b|2597
+B|So it's just a different world.|sv|2597
+A|Well I live in San Antonio|sd|2597
+A|and fifty percent of the population is minority.|sd|2597
+B|Oh, um, I talked to someone about San Antonio,|sd|2597
+A|Uh-huh.|b|2597
+B|and, um, they said that they, they have, you have quite the problem with, uh, the ghettos,|sd|2597
+B|I don't know,|h|2597
+B|do they call it the barrio down there.|qy|2597
+A|That's the barrios|na|2597
+A|but it's, it's I don't think it's any different of a problem than any other major city.|sv|2597
+A|It's just Hispanics here instead of Blacks.|sv|2597
+B|Yeah,|b|2597
+B|but I heard that San Antonio, unlike like, like a city like San Diego it it just has a really bad problem.|sd|2597
+A|I grew up outside of Houston|sd|2597
+A|and I don't think, uh, as far as gang violence and things, I don't think it's any worse here than in Houston.|sv|2597
+B|Yeah,|b|2597
+B|like say Houston.|fo_o_fw_"_by_bc|2597
+B|Now I would, now me not even knowing anything about Houston, I would think that it's a pretty calm city.|sv|2597
+A|Houston is not at all.|ar|2597
+B|No, huh,|qy|2597
+B|there's a lot of crime?|qy|2597
+A|Yes|ny|2597
+A|there's quite a bit of crime.|sd|2597
+B|Oh, my, um,|ba|2597
+B|yeah,|b|2597
+B|like I, we're so protected up here,|sv|2597
+B|it's, it's really strange.|sv|2597
+B|I mean our red light district, I mean, uh, you could go walking around down there and pretty much not fear for your life, you know,|sd|2597
+A|Uh-huh.|b|2597
+B|and we're just so protected.|sv|2597
+B|But, it's, it's, over in the Mid East, especially Israel, it's just like Israelis have a like a totalitarian system, when it comes to the Palestinians.|sd|2597
+B|You know, the Israelis can do anything they want|sd|2597
+B|but when it comes to Palestinians, if they're out in the street at night, it's, it's really looked on as odd.|sd|2597
+B|Um, usually they're, they're bussed in to the, the, um, Jewish neighborhoods, and the Jewish cities|sd|2597
+B|and then at night they're bussed out to the occupied territories.|sd|2597
+A|Huh.|b|2597
+B|So they don't have that.|sd|2597
+B|But, uh, what do you think about the mess that's, we've created in Iraq?|qo|2597
+A|I think it's unfortunate, uh, as far as the Kurds are concerned,|sd|2597
+A|it,|%|2597
+A|I|%|2597
+B|It's just what do you do for them,|sv|2597
+B|you want to do something for them,|sv|2597
+B|but you don't want to get so directly involved that you're occupying the, the country.|sv|2597
+A|Yeah,|aa|2597
+A|yeah,|aa|2597
+A|we can't get involved in their civil war, um, unfortunately,|sv|2597
+A|but we've kind of driven these people out.|sv|2597
+B|To do it,|aa|2597
+B|yeah,|aa|2597
+B|but you see President Bush is telling them rebel, you know, uh, uprise.|sd|2597
+B|And that's what they did|sd|2597
+B|and now they're like asking him for help|sd|2597
+B|and he's like, no we can't get involved.|sd|2597
+B|What my husband had very strong feelings,|sd|2597
+B|he, uh, agreed with, um, the General Schwartzkopf,|sd|2597
+B|he said, um, he should have let, Bush should have let him finish his job.|sd|2597
+A|Sure.|ba|2597
+B|He should, he should have let them, um, corner the Republican Guards,|sd|2597
+A|Well I think the war ended too soon.|sv|2597
+B|Yeah,|aa|2597
+B|exactly,|aa|2597
+B|that's what everyone says.|sd|2597
+A|Yeah.|b|2597
+B|everyone I talk to, they says, you know,|sd|2597
+B|it's real easy to say that.|sv|2597
+A|We, we didn't damage enough of their arsenal.|sv|2597
+A|We damaged most of it|sd|2597
+A|but we, we should have gotten, made sure we got everything.|sv|2597
+B|Yeah,|aa|2597
+B|I don't think the higher ups were thinking about what this guy's going to do with the rest of his war machine.|sv|2597
+B|They're going, oh, well it's not going to hurt us|sv|2597
+B|so we're just going to let them go,|^q|2597
+B|but really we didn't think about the people that he was going,|sv|2597
+B|and I mean, he, he's just,|%|2597
+A|Unfortunately though, the, the original goal of the mission was to drive them out of Kuwait.|sd|2597
+A|And once that was accomplished it,|sd|2597
+B|They, yeah, they, they did, they stuck right to their goals,|sd|2597
+A|Yeah.|b|2597
+B|and right,|%|2597
+B|what they were going to say.|sd|2597
+B|And the American people, when this first started, they were even reluctant to let them do that.|sd|2597
+A|Yeah.|b|2597
+B|So they were, they were playing it very safe,|sv|2597
+B|but, you know, it, an ounce what do they say, an ounce of hind sight is worth, whatever.|sv|2597
+A|Yeah.|b|2597
+B|they, I don't know, they, it, Schwartzkopf knew what had to be done|sd|2597
+B|and it's too bad that he just didn't have the ability just to do it, to you know, the, uh, the go ahead to do it.|sv|2597
+A|Yeah.|b|2597
+B|Because he had the|%|2597
+B|he knew what was going to happen, more than any of us.|sd|2597
+B|it was going to make such a mess.|sd|2597
+B|I mean I feel really sorry for these people,|sd|2597
+B|these people are middle class people, just like us.|sd|2597
+B|Can you imagine if someone started bombing your neighborhood,|qh|2597
+A|Yeah.|b|2597
+B|and you knew this,|qh|2597
+B|these people are going to come|sd|2597
+B|and if you were in your house they were going to take you and beat you.|sd|2597
+B|Of course, you're going, just going pick everything up that you can carry|sv|2597
+B|and you're going to run.|sv|2597
+A|Uh-huh.|b|2597
+B|And it, it's just too bad that we couldn't see that.|sv|2597
+A|I just have a feeling that the military involvement isn't over yet. That I, I still feel like there's more to come.|sv|2597
+A|I don't think this whole issue is settled as far as we're concerned.|sv|2597
+B|Well you know what I was hoping?|qh|2597
+B|I was hoping Iran was going to take a very, um, dramatic stand and invade, you know,|sd|2597
+B|and then like Iran's the big bad guy, you know,|sd|2597
+B|but, really, if, if they were going to save people's lives,|%|2597
+A|They've got sixty or so of Iraq's planes.|sd|2597
+B|Yeah,|aa|2597
+B|I know,|aa|2597
+B|it's like they were using them as friends when we were having the conflict|sv|2597
+B|but, I, I, you know, I almost swear, I'm kind of disappointed with the Iranians,|sd|2597
+B|why they didn't go save,|%|2597
+B|I mean, I don't know if the Kurdish,|%|2597
+B|I know the Shiites are their people.|sd|2597
+A|Uh-huh.|b|2597
+B|But, I don't know,|h|2597
+B|I think they have a bond with the, the Kurds.|sv|2597
+A|There are some Kurds living in Iran.|sd|2597
+B|Yeah,|b|2597
+B|I, I think they should have just done more, uh,|sv|2597
+B|and maybe if the world could have given them some type of aid.|sv|2597
+B|It's, it's just so complicated.|sv|2597
+A|I was real surprised that Israel stayed out of it as, as much as they did.|sd|2597
+B|Oh, yeah,|b|2597
+B|well, you,|%|2597
+B|knowing them, they're very, um, oh,|%|2597
+B|I don't know,|h|2597
+B|almost compare them to a very egotistical man.|sd|2597
+A|Uh-huh.|b|2597
+B|You're damn right,|aa|2597
+B|I'm going to protect my family, you know,|sd|2597
+B|so, I, I was amazed too.|sd|2597
+B|I was really, I was really, um, proud of them, though, that they stayed out of it.|sd|2597
+B|But,|%|2597
+A|Yeah,|b|2597
+A|it and from, from what I can tell if they had gotten into it, it would have started a whole new war.|sv|2597
+B|Oh yeah,|b|2597
+B|I was, I|%|2597
+B|that part scared me.|sd|2597
+B|That, that, um, the Egyptians would pull out|sd|2597
+B|and I just saw atomic bomb,|sv|2597

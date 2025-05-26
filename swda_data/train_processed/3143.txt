@@ -1,0 +1,155 @@
+A|Okay.|fo_o_fw_"_by_bc|3143
+A|Um, does, is this something that concerns you?|qy|3143
+B|or Well, I think it does, um, especially because I just moved to Massachusetts and, uh, they're having real problems because they have so many, uh, police layoffs.|sv|3143
+A|Uh-huh.|b|3143
+B|And, uh, personally I don't live in a real bad section of town|sd|3143
+B|but, uh, just because of the general area I live in, the insurance rates are real high on your car|sd|3143
+B|and, there's a lot of crime within a few miles of me|sd|3143
+A|Right|b|3143
+B|How about you?|qo|3143
+A|Yeah,|^h|3143
+A|well, I live outside of Dallas|sd|3143
+A|and it's kind of in a little suburb.|sd|3143
+A|So, I feel pretty safe out here|sd|3143
+A|but I know the murder rate is going up every year  in Dallas|sv|3143
+B|Yeah,|b|3143
+B|I, uh.|%|3143
+A|and that worries me.|sd|3143
+B|Yeah,|b|3143
+B|I recently moved here|sd|3143
+B|and when I was looking for a job there was a lot of openings right in, the, in the worst areas of town|sd|3143
+B|and, uh, my husband, was, was,|sd|3143
+B|what he his concerns were|sd|3143
+B|well not that I think you'll get involved in anything but it just be an innocent bystander, just to be in that location|^q|3143
+B|and I thought how sad it was that just to be in a wrong location at the wrong time|sv|3143
+A|Yeah.|b|3143
+B|and, and a lot of kids, you know, are caught that way.|sv|3143
+B|But,|%|3143
+A|Yeah,|b|3143
+A|there's a little boy just got shot and killed like last weekend down in what they call the projects, which is  you know, sort of a bad area.|sd|3143
+B|Uh-huh.|b|3143
+A|But he was just out riding his Big Wheel|sd|3143
+A|and a couple of drug people got into a fight with a gun|sd|3143
+A|and he got hit and killed by a stray bullet.|sd|3143
+B|Yeah,|b|3143
+B|that   exactly what happened down here.|sd|3143
+A|That's really sad.|sv|3143
+A|I've,|%|3143
+A|so you know it must be  frustrating for the parents who can't get out of a situation like that.|sv|3143
+B|Uh-huh|b|3143
+A|It'd be so scary.|sv|3143
+B|I know they asked in the topic for ideas on how to control crime|sd|3143
+B|and it doesn't seem like anything is working|sv|3143
+A|It really doesn't,|aa|3143
+A|it's kind of scary.|sv|3143
+A|I think that, uh, I think the laws have gotten so lenient, you know|sv|3143
+A|the court systems are too lenient.|sv|3143
+A|I think that's part of the problem.|sv|3143
+B|But, in, in, on the other hand they have to be because the jails are full.|sv|3143
+B|We can't, at least in this area, you know, they don't have any room to put anybody|sd|3143
+B|so a lot of people just get out, you know, back on the streets because there's no, they can't keep that many people in the buildings they have.|sv|3143
+A|Yeah,|aa|3143
+A|they do that here, too.|sd|3143
+A|But I say, you know, they commit crimes let them be overcrowded, you know let them suffer a little bit.|ad|3143
+B|Uh-huh.|b|3143
+B|I know it,|sd|3143
+B|they have all sorts of, of rights, that, you know, are questionable.|sv|3143
+B|Maybe they gave up that right when they committed the crimes.|sv|3143
+A|Yeah,|aa|3143
+A|I think so.|sd|3143
+A|I think if they knew it was going to be really horrible, wherever they were going, maybe they'd think twice about doing it.|sv|3143
+B|That's true,|aa|3143
+B|maybe the punishment should be more severe.|sv|3143
+A|Yeah.|b|3143
+A|You know, the other thing that worries about it is, kids that are doing such bad crimes so young, you know, like eleven and twelve and thirteen year olds that just go out and kill people.|sv|3143
+B|I know it.|sd|3143
+A|They,|%|3143
+A|I don't know if that's just a symptom of society and the breakdown of family and everything|sv|3143
+A|but that worries me,|sd|3143
+A|I wonder  what the next generation will be like.|sd|3143
+B|Yeah.|b|3143
+B|exactly|aa|3143
+B|because they get involved in things so young that they don't really, realize what they're involved in.|sv|3143
+A|Yeah.|b|3143
+B|And, uh, some people prey on that, you know,|sv|3143
+B|they'll take, uh, kids who don't really realize the seriousness even at fifteen. And, uh, get them involved in things because, uh,|sv|3143
+A|Yeah.|b|3143
+B|well I don't know,|h|3143
+B|I was watching on, a movie on T V,|sd|3143
+B|I don't know how true those can be,|h|3143
+B|but you know, they, one guy got all sorts of kids under eighteen to do it by telling them, you know, you won't have a record because you're under eighteen.|sd|3143
+B|They'd steal cars and everything.|sd|3143
+A|Oh.|b|3143
+B|So, I guess if they had, more of a deterrent, if they had more severe punishments it might be,|sv|3143
+B|but the courts are so backlogged right now it takes forever just to go to trial.|sv|3143
+A|Yeah.|b|3143
+B|I think it would concern me even more if I had children, which I don't,|sv|3143
+B|but if I had children I wouldn't know where to raise them  to protect them.|sd|3143
+A|yeah.|b|3143
+A|Yeah,|b|3143
+A|because it seems like now, even in the country, you hear about bad things happening.|sv|3143
+B|Uh-huh.|b|3143
+B|It's true,|sv|3143
+B|they, uh, and they, they talk about too, the gangs spreading, you know,|sd|3143
+B|like everybody thinks of them only in L A and New York|sv|3143
+B|but they spread out to cover more area|sd|3143
+B|and, I don't know, if, if gangs occur much down in Texas. Do they?|qy|3143
+A|Yeah,|ny|3143
+A|I think they have them in Dallas because I hear them talking about in the schools, different things happening,|sv|3143
+A|and they've had some drive-by shootings outside of the schools.|sd|3143
+B|Yeah,|b|3143
+B|the same in some of the areas around here|sd|3143
+B|but I've never had any personal, you know, I never met anybody that I knew had anything to do with it. Or seen anybody,|sd|3143
+A|Me either|sd|3143
+B|but, uh, that's a scary thing too because at that age kids want so much to belong to a group.|sv|3143
+B|And, I think that a lot of people that sort of control them, control what they're doing are older, you know, business, you know, trying to control whatever. You know,|sv|3143
+A|Yeah,|b|3143
+A|seemed like, like in the fifties when gangs were big|sv|3143
+A|it was just to be part of the gang|sv|3143
+A|but now they're so much into selling drugs  and weapons and all that,|sv|3143
+B|Uh-huh.|b|3143
+A|it's pretty scary.|sv|3143
+B|It's true.|aa|3143
+B|And the weapons, my God, the weapons that people have are,|sv|3143
+B|some people are seemed to be armed better than the military or the same as the military.|sv|3143
+B|I don't know where they get them|sd|3143
+A|Really,|b|3143
+A|yeah,|b|3143
+A|those machine guns and all that.|bf|3143
+B|Uh-huh.|aa|3143
+A|Yeah,|b|3143
+A|that's scary.|sv|3143
+A|It's a wonder there's anybody who's willing to be a policeman anymore.|sv|3143
+B|That's the other thing, uh,|aa|3143
+B|is it's hard to even,|sv|3143
+B|I can't even think of what the benefits of the job would really be.|sd|3143
+B|Especially if you're an inner city, you know, you can't really feel like you're putting much of a dent in what's going on.|sv|3143
+B|And, you're putting your life on your, on the line everyday.|sv|3143
+A|Yeah.|b|3143
+A|Dallas, they were saying in Dallas that they can't hire anymore policemen|sd|3143
+A|but they keep losing them all the time|sd|3143
+A|and that, uh, you know,|%|3143
+A|eventually we're going to be way short on the number we need because  they won't let them hire any new ones|sv|3143
+B|I,|%|3143
+A|and  they keep leaving.|sd|3143
+B|Uh,|%|3143
+B|Yeah.|b|3143
+B|I just read an article yesterday, um, where this, what used to be a nice town in this area, they had a lot of budget cutbacks.|sd|3143
+B|Massachusetts is broke right now|sd|3143
+B|and a lot of the towns are declaring bankruptcy|sd|3143
+B|and, they had to cut twenty guys from their forces|sd|3143
+B|and the crime wave rate went up almost instantly because it was so well publicized that everybody in the area knew that town wouldn't be patrolled as well.|sd|3143
+B|And so, it's like|%|3143
+A|Yeah|b|3143
+A|, they figure, what a heyday, huh|bf|3143
+B|This is a depressing conversation though|sv|3143
+A|It really is|aa|3143
+A|Well, there's someone at the door|sd|3143
+A|so I guess I'll have to go see what my dog is barking about.|sd|3143
+A|But it was nice talking to you|fc|3143
+B|Okay,|fc|3143
+B|I hope things look up|fc|3143
+A|Well thanks|fc|3143
+A|same for you.|fc|3143
+B|Bye-bye.|fc|3143
+A|Bye.|fc|3143

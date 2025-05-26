@@ -1,0 +1,206 @@
+A|Where do you live?|qw|2249
+B|Uh, in the Houston area.|sd|2249
+A|Uh-huh.|b|2249
+A|Well, I used to.|sd|2249
+A|I lived there for a long time.|sd|2249
+A|But I'm now in Palo Alto, California which is, I think, the recycling capital of the world.|sd|2249
+B|Oh, that's great.|ba|2249
+A|So, we have many recycling activities|sd|2249
+A|and I'm, and in full, uh, support of all of them.|sd|2249
+B|Oh, we are too.|sd|2249
+B|Our community is, uh, just starting to get organized about it.|sd|2249
+B|They just opened up a recycling center where we go and donate our, our things and dump them off ourselves.|sd|2249
+A|Uh-huh.|b|2249
+B|And, uh, it,|%|2249
+A|Well, that's something|ba|2249
+A|but it, it seems to me that we've gotten a whole lot better, um, cooperation out here, uh, by setting it up so that we pay just a little bit extra, uh,|sd|2249
+A|actually I don't think we pay very much extra at all too,|sd|2249
+A|but the, uh, garbage men, come by, uh, on your regular garbage day and pick up the recycling out at the curb.|sd|2249
+B|Uh-huh.|b|2249
+B|I think that's great.|sv|2249
+B|There's a few places in Houston where they're trying that out.|sd|2249
+B|I don't know if it's, the, if they've done it citywide yet or not where they have the color coded, uh, bags and, uh, bins.|qy^d|2249
+A|Yeah,|ny|2249
+A|we have burlap sacks,|sd|2249
+B|Oh.|b|2249
+A|and they give us one for aluminum and, uh, steel, one for metals, and one for glass,|sd|2249
+B|Uh-huh.|b|2249
+A|and then you can either bundle your newspapers or put them in grocery bags.|sd|2249
+A|So, we have, we leave three little piles, that they need out on the curb every Thursday|sd|2249
+A|and the garbage men come by and, uh, collect them and leave us new bags when ours get old and ratty or leave the ones if they're still in good shape.|sd|2249
+B|Oh, that's great.|ba|2249
+A|And, the, it really pays for itself because, oh, then the city, gets the money from the recycling.|sv|2249
+B|Uh-huh.|b|2249
+B|Yeah,|aa|2249
+B|we're, we're all for it.|sd|2249
+B|Our, um,|%|2249
+B|we've got several bins in our, on, in our garage where we, uh, you know, sort things out and, and take it to, to the appropriate places.|sd|2249
+A|Yeah,|b|2249
+A|the one thing I wish we could recycle is magazines.|sd|2249
+A|But they claim that because of the way they're bound they, uh, it's too expensive to recycle them.|sd|2249
+A|At my office, we have two big cardboard boxes in the library where everybody goes to pick up their mail,|sd|2249
+B|Yes.|b|2249
+A|and they're, uh,|%|2249
+A|one's for white paper|sd|2249
+A|and one's for colored paper|sd|2249
+A|so anything like manuscripts or computer paper or things like that goes in those boxes,|sd|2249
+B|Uh-huh.|b|2249
+A|but we get tons of catalogs and things like that and magazines,|sd|2249
+A|and there's no way to get rid of them.|sv|2249
+A|It just seems like such a waste.|sv|2249
+B|Oh, it does.|aa|2249
+B|It does.|aa|2249
+B|But I'm sure that they can, uh, find some sort of, uh, use for them if, you know, you know, there,|sv|2249
+B|I've seen talk about, uh, using garbage for, uh, energy.|sd|2249
+A|Uh-huh.|b|2249
+B|And so, you know, you could also apply the magazines toward that.|sv|2249
+A|Well, that would be a help.|ba|2249
+A|I wish they would do that here.|sd|2249
+A|We have got so little landfill space left that we're going to run out before the end of this decade.|sv|2249
+B|Yes.|aa|2249
+A|And it's really going to be a mess when they have to start hunting for places to put the things.|sv|2249
+B|Oh, I know it.|aa|2249
+A|We did have, uh, another novel, uh, experiment start this year.|sd|2249
+A|Now we can put all our yard clippings out.|sd|2249
+B|Oh.|b|2249
+A|You can, you buy these super giant heavy-duty paper bags,|sd|2249
+A|they're about four-feet high.|sd|2249
+B|Uh-huh.|b|2249
+A|And you get them for I think it's about fifty cents apiece at the grocery store you, um, usually buy them by the dozen.|sd|2249
+B|Uh-huh.|b|2249
+A|And then you put all your yard clippings and, uh, leaf rakings and anything that will be compostible .|sd|2249
+B|Oh, uh-huh.|b|2249
+A|And those and they, the garbage men also pick those up on Thursdays.|sd|2249
+B|Oh, that's great.|ba|2249
+A|And then the, uh, they take them to a special part of our dump where composting is now in full swing,|sd|2249
+A|and at the end of every year, uh, they sell all the composts to nurserymen and to local people who want to put it on their flower beds|sd|2249
+B|Right,|b|2249
+B|well, that's a great idea.|ba|2249
+B|I wish we were that, uh, involved in, uh, or that our city was so involved in, that involved in recycling, like that|sd|2249
+A|Yeah.|b|2249
+B|because, you know, I've talked to many people|sd|2249
+B|and we wouldn't mind going its extra effort to do it. Uh,|sd|2249
+A|If they make it so that it's not a horrendous inconvenience, I think most people would.|sv|2249
+B|Yeah,|aa|2249
+B|oh, yeah. You know,|aa|2249
+B|and I don't mind, you know,|sd|2249
+B|at first it was the, the little extra money that you got, you know, returning the cans in and stuff like that.|sd|2249
+A|Right.|b|2249
+B|But now, you know, I don't mind as long as things are getting recycled, you know, that we don't get reimbursed.|sd|2249
+A|No,|aa|2249
+A|I think it's, it's, to me more of a convenience to have them come pick it up, then to get that two cents when you take it to the store.|sv|2249
+B|Uh-huh.|b|2249
+B|Oh, I, oh, I know it.|aa|2249
+A|We still have bins at the grocery stores where you can turn in bottles and cans, for cash.|sd|2249
+B|Uh-huh.|b|2249
+A|But so few people, uh, have enough to make that worthwhile you'd spend more in gas getting down there then you get back.|sv|2249
+B|Right.|aa|2249
+B|Yes.|aa|2249
+B|And then the, plus the time that you waste standing in line is valuable also.|sv|2249
+A|Now do the grocery stores in Houston have recycling for their paper bags and plastic bags?|qy|2249
+B|We have,|%|2249
+B|I know of one that, the one that we use, uh, has, uh, recycling for the bags.|na|2249
+A|Uh-huh.|b|2249
+B|And, uh, and they're promoting the cloth bags. You know, the reusable cloth bags.|sd|2249
+A|Yeah,|b|2249
+A|well, we can get a nickel apiece for any paper bags that we bring back to be reused.|sd|2249
+B|Oh, that's great.|ba|2249
+A|They just take it off like they do a coupon.|sd|2249
+A|They can just subtract it from your bill,|sd|2249
+B|Oh.|b|2249
+A|and they have a giant bin by the front door for the plastic bags,|sd|2249
+B|Uh-huh.|b|2249
+A|and they say, as long as it's clean they don't want a plastic bag that's full of goop|sd|2249
+B|Yes.|b|2249
+A|Here they don't want your rotted tomatoes.|sd|2249
+A|But they want any clean and dry plastic bag|sd|2249
+A|so I keep,|%|2249
+A|and the thing is, I hardly have room now for all the things that we're saving it to recycle,|sd|2249
+A|so right outside the back door, I've got the two burlap bags hung up for the cans and bottles,|sd|2249
+B|Uh-huh.|b|2249
+A|and there, right outside the, that place where the garbage can is we have the bag for the newspapers,|sd|2249
+A|and now we've got the bag for the plastic bags|sd|2249
+B|I understand, uh,|ba|2249
+B|my husband about once a weekend he'll go, uh, to a couple of areas where he knows that the people just throw cans out.|sd|2249
+A|Oh, yeah.|b|2249
+B|And he'll go pick them up because he just can't stand that.|sd|2249
+B|He, he,|%|2249
+A|Well, how nice,|ba|2249
+A|that's great.|ba|2249
+B|And, uh, it's so, you know,|%|2249
+B|he, we have all our piles of, of recyclables also.|sd|2249
+A|Uh-huh.|b|2249
+B|I remember at Christmas the, the only thing that I'm,|sd|2249
+B|when you were talking about the composting, the only thing that our city did that was they uh, provided a place for us to take our Christmas trees. Uh, to for them to mulch. For, for city use.|sd|2249
+A|Uh-huh.|b|2249
+A|Yeah.|b|2249
+A|Well, that's,|%|2249
+A|they just put all our Christmas trees in the regular, uh, compost, pickup|sd|2249
+B|Uh-huh.|b|2249
+A|so they did say that you had to put it out within, I think it was, uh, three weeks after, Christmas.|sd|2249
+B|Uh-huh.|b|2249
+B|Right.|b|2249
+A|And, uh, otherwise you would have to treat it like you would any other lawn refuse.|sd|2249
+A|It would have to be cut into four-foot lengths.|sd|2249
+A|So, you know , if we have branches or something, they have to be cut in four-foot lengths,|sd|2249
+B|Uh-huh.|b|2249
+A|but otherwise, uh, they have to be in one of their paper bags.|sd|2249
+B|Well, that sounds like you all really have a, a great system worked out there.|bf|2249
+A|And they even picked up our, uh, Styrofoam packing materials.|sd|2249
+A|They brought, uh, the week after Christmas they left a plastic bag on everybody's front doorknob with a little note on it saying, we're trying something new next week only, if you have any, uh, of those little, uh, Styrofoam peanuts that, any of your Christmas presents were packed in, put them in this bag and leave it out with your recycling|sd|2249
+B|Uh-huh.|b|2249
+B|Uh-huh.|b|2249
+A|and we'll, uh, take all of those back and try to recycle them.|^q|2249
+B|Right.|b|2249
+B|Well, see that's one,|%|2249
+A|But I,|%|2249
+A|that's not going to be a regular feature.|sd|2249
+A|That was just a one time thing right after Christmas.|sd|2249
+B|Well, the,|%|2249
+B|but, uh, something does need to be done about the Styrofoam that, uh,|sv|2249
+A|Well, those things must take up a huge amount of space in landfills.|sv|2249
+B|Oh, yeah,|aa|2249
+B|I mean, they don't, uh, uh,|%|2249
+A|They don't mash|sv|2249
+B|No.|aa|2249
+A|They don't compress at all.|sv|2249
+A|And they stay forever.|sv|2249
+B|Right.|aa|2249
+B|And I've seen where some places have taken a plastic and, uh, they're recycling them into other plastics. And the Styrofoam also into insulation and things like that|sd|2249
+A|Uh-huh.|b|2249
+B|and I think that would be great if they could get something organized along those lines.|sv|2249
+A|Yeah,|aa|2249
+A|I do too.|aa|2249
+A|The difficulty with that is that very few people have enough to make it worthwhile.|sv|2249
+A|It, they really have to rely on businesses that generate a lot of that stuff.|sv|2249
+B|Right.|b|2249
+A|Uh, because otherwise, uh, you know, they're not going to go house-to-house collecting it,|sv|2249
+A|and you're not going to bother if you have one bag full, to drive all the way to some recycling center to turn in just your little plastic peanuts|sv|2249
+B|Uh-huh.|b|2249
+B|Right|aa|2249
+B|Oh, I was thinking about, you know, like the, uh, the Styrofoam used at, uh, the fast-food restaurants, that if everybody, uh,|sv|2249
+A|Yeah.|b|2249
+B|and so,|%|2249
+B|yeah,|%|2249
+B|I know like our cafeteria here uses a lot of Styrofoam|sd|2249
+B|but, uh,|%|2249
+A|Now we quit that about two years ago, no, three years ago when we got china mugs for everybody.|sd|2249
+B|Huh.|b|2249
+A|So, and the only difficulty with that is that we're in the middle of a five-year drought|sd|2249
+A|and so it's a real difficult choice whether we want Styrofoam cups to fill up our landfills or, uh, china cups to use up our water|sd|2249
+A|But at the moment we're using the china cups,|sd|2249
+A|and everybody gets one at the beginning of the year,|sd|2249
+A|and then, uh, your supposed to keep it recycled every day.|sd|2249
+B|Well, that's good.|ba|2249
+B|That's a,|%|2249
+A|Yeah.|b|2249
+B|they should last awhile|sv|2249
+A|Well, let us hope that everybody's going to be paying more attention to this and that we will get, uh, better reuse of things|sv|2249
+A|because,|%|2249
+B|I believe we are.|sv|2249
+B|I I have to believe everybody is starting to pay attention and take heed of what is happening.|sv|2249
+A|Yep.|b|2249
+B|And so it will, it will be good, in the long run.|sv|2249
+A|It sure will.|aa|2249
+B|Well, I enjoyed it.|fc|2249
+A|Well, good to talk,|fc|2249

@@ -1,0 +1,238 @@
+A|Okay,|fo_o_fw_"_by_bc|2122|0
+A|so, uh, do you own a P C?|qy|2122|0
+B|Um, no,|nn|2122|1
+B|not personally|sd|2122|1
+B|but,|%|2122|1
+A|But you have one at work.|qy^d|2122|0
+B|Yes,|ny|2122|1
+B|uh-huh,|ny|2122|1
+B|Yeah,|ny|2122|1
+B|several|sd|2122|1
+A|Okay,|b|2122|0
+A|and, now because, um,|sd|2122|0
+A|see I'm, I'm doing my, uh, Master's in Computer Science and Computer Engineering.|sd|2122|0
+B|Uh-huh.|b|2122|1
+A|And, um, and I, I don't have one,|sd|2122|0
+A|but I have to use them, like during, especially during my undergrad.|sd|2122|0
+B|Right.|b|2122|1
+B|Uh-huh.|b|2122|1
+A|You, you use, um,|%|2122|0
+A|like your first couple of years you use personal computers because, uh, you know, the software.|sv|2122|0
+A|You know, like it's easier for you to go to and run a program, you know, through the disk, because, um, the grader can do it at home.|sv|2122|0
+B|Uh-huh.|b|2122|1
+B|Uh-huh.|b|2122|1
+B|Yeah.|b|2122|1
+A|Then, as the, you know, as you go up higher, like in your senior level, you're doing projects which are, are so big,|sv|2122|0
+A|and you have to have so many people sharing the same data, that you can't use personal computers, so you have to use, you know, a main frame.|sv|2122|0
+B|Uh-huh.|b|2122|1
+B|Right,|aa|2122|1
+B|right.|aa|2122|1
+B|Yeah,|%|2122|1
+B|I know I, uh, I do have a, uh, you know, a computer at home,|sd|2122|1
+B|but it's one that the company has loaned me.|sd|2122|1
+A|Oh, okay.|bk|2122|0
+B|And, that, that's been my situation, is that, uh, that way I can get in, access our, uh, computers that I have up here and, you know, do work from home.|sd|2122|1
+A|But does it have, uh, like, a disk drive?|qy|2122|0
+B|Oh yeah.|ny|2122|1
+B|Yeah,|ny|2122|1
+B|yeah,|ny|2122|1
+B|yeah,|ny|2122|1
+A|Oh, okay,|bk|2122|0
+A|because, uh, the ones that we use, you know, are like UNIX base systems.|sd|2122|0
+B|Right.|b|2122|1
+B|Uh-huh.|b|2122|1
+A|And, so they don't have a disk drive.|sd|2122|0
+B|Right.|b|2122|1
+A|You know, so you can't,|sd|2122|0
+A|the only way that you can do it is through a modem.|sd|2122|0
+B|Right.|b|2122|1
+A|And, you, you know, you just do it that way.|sd|2122|0
+B|Yeah.|b|2122|1
+A|But, that's, uh, that's the only way that you can get to, through to the system,|sd|2122|0
+A|you can't store it anywhere.|sd|2122|0
+B|Right.|aa|2122|1
+B|Yeah,|aa|2122|1
+B|no|fo_o_fw_"_by_bc|2122|1
+B|I, um, I, I have both, because that, that's what I use all the time is UNIX Systems. Um, versus the DOS.|sd|2122|1
+B|But then I teach DOS classes, uh, at night.|sd|2122|1
+A|Oh, okay.|bk|2122|0
+B|Uh-huh,|b|2122|1
+B|part time.|sd|2122|1
+B|So,|%|2122|1
+A|And then you also have to do all your grading on the P C.|bf|2122|0
+B|Well, that, that's the really neat thing, I teach in the continuing education classes, so I don't, uh, I don't have to have any grades, no grade books, so that's great|sd|2122|1
+A|Oh, okay.|bk|2122|0
+B|But, no,|fo_o_fw_"_by_bc|2122|1
+B|I find that I use the, the personal computer a lot though for my WordPerfect, and also for my spread sheets.|sd|2122|1
+A|Okay.|b|2122|0
+A|Yeah.|b|2122|0
+B|Um, so I think it's extremely helpful and very useful.|sd|2122|1
+A|Well, uh, for us it's, uh, uh, you know, it's like for doing like, you know, like resumes, and, presentations.|sd|2122|0
+B|Uh-huh.|b|2122|1
+B|Um, um. Uh-huh.|b|2122|1
+A|We use like for example, a Mackintosh, which is a lot easier for graphics, than the than you know, the I B M P C's or anything compatible with that.|sd|2122|0
+B|Yeah.|b|2122|1
+B|Right.|b|2122|1
+A|Due, due to the fact that, well, you know, I, I haven't tested the, the P S two yet.|sd|2122|0
+B|Um, um. Uh-huh.|b|2122|1
+A|but I don't know if the software is as easily, you know, like you can manage it a lot easier than, than the old one.|sd|2122|0
+B|Right.|b|2122|1
+A|The old one you had to go pick a line, use little arrows to go onto the screen and check where you wanted to start, and where, you know, with the mouse you do it, you know, like, a hundred times faster.|sd|2122|0
+B|Right.|b|2122|1
+B|That's true.|aa|2122|1
+B|That's true.|aa|2122|1
+A|And, uh, you also get, you know,|sd|2122|0
+A|when you see it on the Mackintosh with, you know, the one I have,|sd|2122|0
+A|that doesn't have any color,|sd|2122|0
+A|you can look at it|sd|2122|0
+A|and that's the way it's going to print out.|sd|2122|0
+B|Uh-huh.|b|2122|1
+A|And, especially if you have a laser printer, it's going to print out the same way as it's on the screen.|sd|2122|0
+B|Oh, Uh-huh.|b|2122|1
+A|And, so, with, you know, with the I B M what would happen is, uh, since the software that I had was, it was basically, you know, you only see part of the page.|sd|2122|0
+B|Uh-huh.|b|2122|1
+A|And, so, the whole page you, you never can actually see it,|sd|2122|0
+B|Oh.|b|2122|1
+A|you just draw it|sd|2122|0
+A|and they have to zoom out and zoom in|sd|2122|0
+A|and, you know, it's like, every time that you have to do something is, it's really a pain.|sd|2122|0
+B|What a hassle,|ba|2122|1
+B|yeah,|b|2122|1
+B|yeah.|b|2122|1
+A|And, also, you know, it's like for, for presentations,|sd|2122|0
+A|it's like if you have to do any statistical data it can be easily represented on a, on a P C.|sd|2122|0
+B|Uh-huh.|b|2122|1
+A|it can be easily represented on a, on a P C.|sd|2122|0
+A|You know, like years back when you didn't have that you would have to map out all this, all these numbers.|sd|2122|0
+B|Yeah.|b|2122|1
+A|and get a graph which you weren't sure if it was okay or not, you know.|sd|2122|0
+B|Right.|b|2122|1
+B|Yeah.|b|2122|1
+A|But, with a, with a new system I can calculate everything so fast, you know, like for spread sheets.|sd|2122|0
+B|Uh-huh.|b|2122|1
+B|Right.|b|2122|1
+B|Right.|b|2122|1
+A|You can see what the trend is over the years.|sv|2122|0
+B|Yeah.|b|2122|1
+B|And, I love all the windows that they have out now too,|sd|2122|1
+A|Yeah,|b|2122|0
+A|that, that|%|2122|0
+B|they have really simplified things.|sv|2122|1
+A|I, I had a, I had a program due|sd|2122|0
+A|and uh, one, one window I had the program|sd|2122|0
+A|and the other one I had the program running. so if there was ever a mistake, I could easily check, you know,|sd|2122|0
+B|Right.|b|2122|1
+B|Right.|b|2122|1
+A|I could look at the program and say, this is where I made the error.|sd|2122|0
+B|Right.|b|2122|1
+A|Instead of saying, where did I make the error?|sd|2122|0
+B|Uh-huh.|b|2122|1
+A|You know, go back and forth|sd|2122|0
+A|and, and, you know, you always, you know,|sd|2122|0
+A|the old ones you had to go out of your program, load up, um, uh, well load up the program again, in this case.|sd|2122|0
+B|Uh-huh.|b|2122|1
+A|After you load it up change it, hope that's right, get out of that, run the program, run, uh-huh, as long as it took, and then go back and see if that worked or not.|sd|2122|0
+B|Yes.|b|2122|1
+B|Yes.|b|2122|1
+B|Yeah.|b|2122|1
+A|But with windows you can have the program|sd|2122|0
+A|and say it messed up in line fifty-four.|sd|2122|0
+B|Yeah.|b|2122|1
+A|So, you take a look at line fifty-four,|sd|2122|0
+A|you take a look at the output at the same time,|sd|2122|0
+A|and you can see that, where it messed up, because, you know it's like in the old computers, the ones that, uh, we're using here a couple of years ago, you would always have to have a printout,|sd|2122|0
+B|Uh-huh.|b|2122|1
+B|Yeah.|b|2122|1
+B|Yeah,|aa|2122|1
+B|right,|aa|2122|1
+B|right.|aa|2122|1
+B|Yeah,|%|2122|1
+B|I know, I, uh, I remember my college days And having to do that too.|sd|2122|1
+A|did, did you learn it in computer science?|qy|2122|0
+B|Oh, yeah,|ny|2122|1
+B|uh-huh.|ny|2122|1
+B|I sure did.|sd|2122|1
+A|And, when was this.|qw|2122|0
+B|Uh, I graduated in eighty-six.|sd|2122|1
+A|Oh, okay.|bk|2122|0
+B|Yeah.|b|2122|1
+B|So it's been fairly recent.|sd|2122|1
+A|Yeah,|b|2122|0
+A|I know because, uh, all I know is that when I came here in eighty-seven, they still had, uh, it was the last year to, to put all your punch cards in.|sd|2122|0
+B|The cards.|^2|2122|1
+B|Oh, oh dear.|ba|2122|1
+B|I didn't have to bother with that at all, thank goodness.|sd|2122|1
+B|Yeah.|%|2122|1
+A|So, yeah.|b|2122|0
+A|No,|fo_o_fw_"_by_bc|2122|0
+A|but it, it was just sensational because I walked in|sd|2122|0
+A|and they go, Oh, my God, they're still using this.|sd|2122|0
+B|Yes.|b|2122|1
+A|It was like, this is the last year you can put your punch cards in and get your program out|sd|2122|0
+A|and, you know You can get a hard copy of it,|sd|2122|0
+B|Wow,|ba|2122|1
+B|wow.|ba|2122|1
+A|and that's about it.|sd|2122|0
+B|Uh-huh,|b|2122|1
+B|wow.|ba|2122|1
+A|So. But, I mean, the price of computers has gone down.|sd|2122|0
+A|They said that, um, if the auto industry would have kept the same trend as the computer industry has ever since, you know, it started, they said that, uh, cars would cost two dollars|sd|2122|0
+B|Uh-huh.|b|2122|1
+A|and they would run forever.|sd|2122|0
+B|Oh, that would be great.|sv|2122|1
+A|So, I mean it's like, you know, the, the joke with the Yugo, you know,|sd|2122|0
+A|it's like, yeah, you know, like when your, uh, car runs out of gas just throw it away.|sd|2122|0
+B|Uh-huh.|b|2122|1
+A|And, that, that's the way it would be.|sv|2122|0
+B|Wow.|ba|2122|1
+A|It's like yeah, I think I'll buy a new car today, you know,|sd|2122|0
+A|so,|%|2122|0
+A|Yeah,|b|2122|0
+A|but I mean the price has really gone down.|sd|2122|0
+A|I mean, I B M which, uh,|sd|2122|0
+A|an I B M P C in like in nineteen eighty-one it would cost you five thousand dollars,|sd|2122|0
+B|Oh, sure,|aa|2122|1
+B|oh, sure.|aa|2122|1
+A|and now you can get it, you know, like for, one thousand dollars, because, you know, because of the parts basically.|sd|2122|0
+B|Right.|aa|2122|1
+B|Yeah,|aa|2122|1
+B|and the two eighty-six too,|sd|2122|1
+B|so, yeah.|%|2122|1
+A|Yeah.|aa|2122|0
+A|The parts and the labor is what they're charging you,|sd|2122|0
+A|they're not charging you, you know, over pricing, it because it's like, if we sell it for less, you know, it's like we're losing money, you know.|sd|2122|0
+B|Uh-huh.|b|2122|1
+B|Right.|b|2122|1
+A|It's like we want to sell it to break even at least.|sd|2122|0
+B|Uh-huh.|b|2122|1
+A|And, I think they stopped producing the I B M P C.|sd|2122|0
+B|Uh-huh.|b|2122|1
+A|And, uh, and the, uh, P C Junior was a total failure, to them.|sd|2122|0
+B|Oh.|b|2122|1
+B|Yeah.|b|2122|1
+A|They had, uh,|sd|2122|0
+A|they're trying to get out small computers,|sd|2122|0
+A|but, the only problem was that when they took that one out, the small computer was the I B M P C|sd|2122|0
+A|And, so, you couldn't, you know,|sd|2122|0
+A|it's like, sure bring out. into the market something that's smaller when nobody uses anything that's smaller than, you know, this, you know.|sd|2122|0
+B|Yeah.|b|2122|1
+A|And, so.|%|2122|0
+B|Oh. Uh-huh.|b|2122|1
+A|But, over the past years it's like I B M has been producing like|sd|2122|0
+A|every two years they bring out a whole new system. You know, like the P C X T, A T, and the P S one, P S two things, you know,|sd|2122|0
+A|and so. It's just that you have to always compete|sv|2122|0
+A|and, uh, Mackintosh took a lot of the market from a lot of schools.|sd|2122|0
+B|Yeah.|b|2122|1
+A|Because of, of their, you know,|sd|2122|0
+A|you can work with it a lot easier.|sv|2122|0
+B|Yeah.|aa|2122|1
+B|That's true.|aa|2122|1
+A|So, that's what they're trying to do.|sd|2122|0
+A|Oh, well, I'll leave you back to your work.|ad|2122|0
+B|Well.|%|2122|1
+B|Okay.|aa|2122|1
+A|And, uh, have a good lunch.|sv|2122|0
+B|Thanks.|ft|2122|1
+B|Bye.|fc|2122|1
+A|All right,|fc|2122|0
+A|bye, bye.|fc|2122|0

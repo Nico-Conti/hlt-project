@@ -1,0 +1,315 @@
+A|Uh, books.|fo_o_fw_"_by_bc|2226|0
+B|Yes.|b|2226|1
+A|Mainly I read the Bible these days.|sd|2226|0
+B|That's very good.|ba|2226|1
+B|I do, too.|sd|2226|1
+A|Good, that's great to hear.|sd|2226|0
+A|Uh, and Christian literature.|sd|2226|0
+B|Uh-huh.|b|2226|1
+A|Uh, I've kind of,|%|2226|0
+A|I used to read a lot of, uh, novels,|sd|2226|0
+A|but it seems as though if you really want to set a side time to read the Bible and you work and and whatever, uh, that pretty well takes up your time for reading.|sv|2226|0
+B|Uh-huh.|b|2226|1
+B|Yeah,|aa|2226|1
+B|it does.|sv|2226|1
+B|It,|%|2226|1
+A|And I, I been praying that God would put a desire to read the Bible in my heart|sd|2226|0
+A|and he really has.|sd|2226|0
+A|It's getting, to where a just really want to read it.|sd|2226|0
+B|That's good.|ba|2226|1
+B|That's good.|ba|2226|1
+B|It, it, it's, uh, it's hard for me to find time, also, to read.|sd|2226|1
+B|Uh, a lot of times I do just read magazines and stuff like that for, you know, because I don't have a lot of time,|sd|2226|1
+B|but when I do get to sit down and, and read, I like to read the Bible|sd|2226|1
+B|and I like to read,|sd|2226|1
+B|I read to my daughter a lot, too.|sd|2226|1
+A|Do you?|bh|2226|0
+B|And, uh, I like to read, you know,|sd|2226|1
+B|I have Bible storybooks|sd|2226|1
+A|Uh-huh,|b|2226|0
+A|uh-huh.|b|2226|0
+B|so I like reading those to her|sd|2226|1
+B|and she really enjoys those.|sd|2226|1
+B|So that's good.|sd|2226|1
+B|And it, and it's kind of short because we don't, woe don't have a lot of time, to, to read,|sd|2226|1
+A|Uh-huh.|b|2226|0
+B|so, it's real enjoyable. For both of us.|sd|2226|1
+A|Yeah.|b|2226|0
+A|Have you ever read any of Frank E Peretti's?|qy|2226|0
+B|Frank E|b^m|2226|1
+B|no|nn|2226|1
+B|I guess I haven't.|sd|2226|1
+A|Uh, THIS PRESENT DARKNESS and, uh, uh, I forget the the other,|sd|2226|0
+A|well he, uh, he's also written a lot of children,|sd|2226|0
+A|how old is your daughter.|qw|2226|0
+B|Five.|sd|2226|1
+A|Five,|b^m|2226|0
+A|okay,|bh|2226|0
+A|he's written some children's books as well|sd|2226|0
+A|and they're all spiritually, uh, oriented,|sd|2226|0
+B|Oh, really?|bh|2226|1
+A|yeah.|b|2226|0
+B|What's his name again?|qw|2226|1
+B|Peretti|qy^d|2226|1
+A|Frank E Peretti,|sd|2226|0
+B|Frank E Peretti|b^m|2226|1
+A|P E R E T T I.|sd|2226|0
+B|I have to look for those.|oo_co_cc|2226|1
+A|Uh-huh.|b|2226|0
+A|Yeah,|aa|2226|0
+A|do|ad|2226|0
+A|because, uh, I love to read his, his, uh, children's books just|sd|2226|0
+B|Just to read them.|^2|2226|1
+B|Well, that's good.|ba|2226|1
+A|Yeah,|b|2226|0
+A|oh, they're good,|sv|2226|0
+A|they're great.|sv|2226|0
+B|That's good.|ba|2226|1
+A|And it's like, uh, uh, usually about a family of, uh, archaeologists and the spiritual fights that they get into, like, uh, uh, digging in old ruins, and running across, like, uh, the old gods and things.|sd|2226|0
+B|Uh-huh.|b|2226|1
+B|Oh|b|2226|1
+B|Yeah.|b|2226|1
+B|Oh, that sounds pretty neat.|ba|2226|1
+A|Yeah,|b|2226|0
+A|it is.|sv|2226|0
+A|It's real exciting.|sv|2226|0
+B|Oh, I'll have to look for those.|oo_co_cc|2226|1
+A|And it also teaches them spiritual warfare you know,|sd|2226|0
+B|Right.|b|2226|1
+A|so,|%|2226|0
+B|Well, that's neat.|ba|2226|1
+B|Well, I I have a,|sd|2226|1
+B|my daughter has PRECIOUS MOMENTS collection|sd|2226|1
+A|Uh-huh.|b|2226|0
+B|and I like that because it's a, it's real easy to, uh, follow for her,|sd|2226|1
+B|you know, uh, gosh, if, if I read straight out of the Bible to her she'd never understand any of it.|sd|2226|1
+A|Well, it's hard for me.|sd|2226|0
+B|That's right|ba|2226|1
+B|It is, it is real hard to, to follow and understand,|sv|2226|1
+A|Uh-huh.|b|2226|0
+B|and, uh, I've got a Bible that, uh, has a little bit of a, uh, a glossary in the back|sd|2226|1
+B|and it helps explain who people are.|sd|2226|1
+B|That's, that's about the hardest thing is, who's related to who|sd|2226|1
+A|I know it,|aa|2226|0
+A|and especially it's hard to keep your interest in those begats.|sv|2226|0
+B|Yeah.|aa|2226|1
+B|Yes.|b|2226|1
+B|Yes,|aa|2226|1
+B|it sure is,|sd|2226|1
+B|but, but it is good reading|sv|2226|1
+B|and it's good for us, and and everything.|sv|2226|1
+A|Uh-huh,|b|2226|0
+A|that's right.|b|2226|0
+B|I really do enjoy it.|sd|2226|1
+B|But, uh, I also,|%|2226|1
+B|but then on the other extreme I like to read, uh, uh, I guess I don't know, horror, Steven King type books.|sd|2226|1
+A|Uh-huh,|b|2226|0
+A|yeah,|b|2226|0
+A|I've read a lot of his, too.|sd|2226|0
+B|The,|%|2226|1
+B|and I, I like that,|sd|2226|1
+B|that's good fun reading.|sv|2226|1
+A|Yeah.|b|2226|0
+A|Can't put them down.|sd|2226|0
+B|No|aa|2226|1
+B|you can't,|sv|2226|1
+B|you really can't.|sv|2226|1
+B|They are good|sv|2226|1
+B|and ooh they just, they're just so suspenseful.|sv|2226|1
+A|Uh-huh,|b|2226|0
+A|yeah.|b|2226|0
+B|I really do enjoy his.|sd|2226|1
+A|Uh, there's another guy.|sd|2226|0
+A|Oh, what can,|%|2226|0
+A|what is his name|t1|2226|0
+A|Oh, durn|ba|2226|0
+A|you would, well|%|2226|0
+A|you know when you're recording you can't|sv|2226|0
+B|I know|ba|2226|1
+A|Uh, oh, Dean, uh, Kratz, or Kranz|sd|2226|0
+A|or,|%|2226|0
+B|Judith Krantz?|qy^d|2226|1
+A|who?|br|2226|0
+B|Judith Krantz.|sd|2226|1
+B|I know her.|sd|2226|1
+A|Uh, no,|nn|2226|0
+A|it's a guy.|sd|2226|0
+B|Oh, okay.|bk|2226|1
+A|And he, he writes the same thing, though.|sd|2226|0
+A|It's that real, gruesome horror stories.|sd|2226|0
+B|Oh.|b|2226|1
+B|Ooh.|b|2226|1
+B|Yeah.|b|2226|1
+B|That's good.|ba|2226|1
+A|Yeah.|b|2226|0
+A|Koontz.|sd|2226|0
+A|Uh, his last name ends in a Z, I know that.|sd|2226|0
+B|Yeah,|b|2226|1
+B|oh, I think I know who you're talking about.|sd|2226|1
+B|Uh, I've seen,|sd|2226|1
+B|I don't think I can pronounce it either,|sd|2226|1
+B|but|%|2226|1
+A|Yeah, uh,|b|2226|0
+B|Yeah,|b|2226|1
+B|I'm in a book club|sd|2226|1
+B|and I think I've seen his books in there|sd|2226|1
+A|Uh-huh.|b|2226|0
+B|I've never read any of his.|sd|2226|1
+B|But they're real,|%|2226|1
+A|I kind of got burnt out on Steven King, though.|sd|2226|0
+A|It seems like it's all the|sd|2226|0
+A|did you ever read the, uh, uh, oh,|qy|2226|0
+A|it's one of his first books, THE STAND.|qy^d|2226|0
+B|Yes.|ny|2226|1
+B|That, oh, that long thing.|sd|2226|1
+A|I know it.|ba|2226|0
+A|And that seems like all of his books have kind of come from that, I mean.|sd|2226|0
+B|Yeah,|aa|2226|1
+B|they do kind of follow or, Are similar.|sv|2226|1
+A|You know, that,|%|2226|0
+A|Uh-huh.|b|2226|0
+A|I love that book, though.|sd|2226|0
+A|I thought it was great.|sd|2226|0
+B|Yeah,|aa|2226|1
+B|it really was,|sv|2226|1
+B|and I loved THE SHINING.|sd|2226|1
+A|Ooh, yes|ba|2226|0
+B|That was, that was my favorite.|sd|2226|1
+A|Oh, those hedges when they started moving.|sd|2226|0
+B|Yeah,|b|2226|1
+B|yeah.|b|2226|1
+A|Whenever they they made that into a movie, I was thinking oh, my gosh if they show that, I'll just die.|sd|2226|0
+A|For some reason that scared me more than anything.|sd|2226|0
+B|Yeah,|b|2226|1
+B|that is,|%|2226|1
+B|he just brings stuff alive, you know.|sv|2226|1
+A|Yeah.|b|2226|0
+B|You could just visualize everything.|sd|2226|1
+A|Uh-huh.|b|2226|0
+B|That's,|%|2226|1
+A|And that was a pretty scary movie, too.|sv|2226|0
+B|Yeah,|aa|2226|1
+B|I think they did a pretty good job,|sv|2226|1
+B|but they didn't follow it exactly,|sd|2226|1
+A|Yeah|b|2226|0
+B|but they did give it, you know, do it justice.|sd|2226|1
+A|Uh-huh.|b|2226|0
+A|That's right.|ba|2226|0
+B|But, uh, most of the time they don't with, when, follow books very well when they make them into movies|sv|2226|1
+A|Yeah,|aa|2226|0
+A|that's true.|ba|2226|0
+A|I liked IT as well.|sd|2226|0
+B|Yeah,|b|2226|1
+B|yeah, uh,|b|2226|1
+A|That's, another big fat one.|sd|2226|0
+B|I did, too.|sd|2226|1
+B|Yeah.|b|2226|1
+B|Yeah,|aa|2226|1
+B|that was good.|ba|2226|1
+B|I liked, uh, I also liked, uh, CUJO.|sd|2226|1
+B|Did you read that one?|qy|2226|1
+A|Yeah,|ny|2226|0
+B|And,|%|2226|1
+A|except it broke my heart.|sd|2226|0
+B|Yeah,|b|2226|1
+A|I'm a dog lover.|sd|2226|0
+B|Me, too|sd|2226|1
+B|And then, uh, NIGHT STAND,|sd|2226|1
+B|is that NIGHT,|qy|2226|1
+A|No,|nn|2226|0
+A|it was, uh,|sd|2226|0
+B|DEAD, DEAD ZONE.|sd|2226|1
+B|That's one I liked.|sd|2226|1
+A|What?|br|2226|0
+B|DEAD ZONE.|sd|2226|1
+A|Oh, yeah.|b|2226|0
+B|That was a,|%|2226|1
+A|I've read that one, too.|sd|2226|0
+B|That was a real good one.|sv|2226|1
+A|He's written a lot of books.|sd|2226|0
+A|Boy, he just sits down eight hours a day. Just like any other job.|sd|2226|0
+B|I know it.|ba|2226|1
+B|Right,|b|2226|1
+B|and then he has some under, uh, another name. That he's written.|sd|2226|1
+A|That's right.|ba|2226|0
+A|That one about the Gypsies, or that, hunger|sd|2226|0
+B|Yeah.|b|2226|1
+A|or, uh,|%|2226|0
+B|Yeah,|b|2226|1
+B|uh, I think his name was Bachman.|sd|2226|1
+B|He wrote under the name of Bachman.|sd|2226|1
+A|Yeah,|b|2226|0
+A|Richard Bachman.|sd|2226|0
+B|Yeah.|b|2226|1
+B|He is really interesting.|sv|2226|1
+A|Yeah,|b|2226|0
+A|he's so prolific.|sv|2226|0
+B|Yeah|b|2226|1
+B|Ooh, I wish I could do that|sd|2226|1
+A|Oh, I know it.|ba|2226|0
+A|And I have gone back|sd|2226|0
+A|and, after I, I graduated, I read some of the old classics that I just bluffed my way through and have found that I enjoy them quite a bit, too, uh,|sd|2226|0
+B|Uh-huh.|b|2226|1
+B|I do, too.|sd|2226|1
+B|I love old, good old,|sd|2226|1
+A|Once you can get into the language,|sv|2226|0
+A|you know, the|%|2226|0
+B|Yeah|b|2226|1
+A|It's like, it's English,|sd|2226|0
+A|but it's not the same English they speak today.|sd|2226|0
+B|Right.|b|2226|1
+A|So it's kind of hard to keep, you know, at it,|sd|2226|0
+A|but|%|2226|0
+B|That's true,|ba|2226|1
+B|but I,|%|2226|1
+B|That's, that was one of my favorite subjects in school was, uh literature.|sd|2226|1
+A|Yeah,|b|2226|0
+A|me, too.|sd|2226|0
+B|I used to love those old, good, good old books.|sd|2226|1
+A|Uh-huh.|b|2226|0
+B|I didn't mind doing that at all|sd|2226|1
+A|Nathaniel Hawthorne is pretty scary himself.|sd|2226|0
+B|Yeah,|b|2226|1
+B|yeah.|b|2226|1
+B|I liked, uh, oh,|%|2226|1
+B|gosh why can't I think of their names,|^h|2226|1
+B|uh, shoot,|^h|2226|1
+B|the one that wrote, uh, WUTHERING HEIGHTS.|qy^d|2226|1
+A|No,|ar|2226|0
+B|No|nn|2226|1
+B|that was another one.|sd|2226|1
+B|Yeah,|b|2226|1
+B|yeah.|b|2226|1
+B|Uh, well, you know who I'm talking about|sv|2226|1
+A|Yeah.|b|2226|0
+B|Yeah,|b|2226|1
+B|those are good old good old books and classics,|sv|2226|1
+A|Yeah,|b|2226|0
+A|uh-huh.|b|2226|0
+B|that's right.|ba|2226|1
+A|Right,|b|2226|0
+A|right.|b|2226|0
+B|Sure is neat|ba|2226|1
+A|That's why I like to watch that MASTERPIECE THEATRE on channel thirteen, because they'll take a classic and, and, uh, televise it you know, put it into a viewing format, more or less.|sd|2226|0
+B|Yeah.|b|2226|1
+B|Right.|b|2226|1
+B|Right.|b|2226|1
+B|A lot of people just don't have time to read nowadays.|sv|2226|1
+A|Uh-huh.|b|2226|0
+B|I know it's, it's really hard for me.|sd|2226|1
+B|I work two jobs and uh, have my daughter and teach Sunday school and go to school, myself,|sd|2226|1
+A|Do you?|bh|2226|0
+B|so it's, it's hard for me to sit down and read,|sd|2226|1
+A|Well, I can imagine.|ba|2226|0
+B|but when I do I just, just love it.|sd|2226|1
+A|Yeah,|b|2226|0
+A|yeah|b|2226|0
+A|me, too.|sd|2226|0
+A|Well, I think we've accomplished five minutes|sv|2226|0
+A|so,|%|2226|0
+B|I think we have, too.|sv|2226|1
+B|Thank you very much.|fc|2226|1
+A|It's good talking to you.|fc|2226|0
+B|You, too.|fc|2226|1
+B|Bye-bye.|fc|2226|1
+A|Bye-bye.|fc|2226|0

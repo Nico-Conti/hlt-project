@@ -1,0 +1,219 @@
+B|Well, we have,|%|4314|0
+B|we used to, when I was younger|sd|4314|0
+A|Yeah.|b|4314|1
+B|we'd go every weekend.|sd|4314|0
+A|All right .|b|4314|1
+B|But we haven't done whole lot of it lately.|sd|4314|0
+A|Yeah.|b|4314|1
+A|I'm kind of into it.|sd|4314|1
+A|I'm, uh, kind of a sailor.|sd|4314|1
+B|Yeah.|b|4314|0
+A|I'm up in Minneapolis now,|sd|4314|1
+A|but I was in Florida|sd|4314|1
+A|so, uh, yeah,|%|4314|1
+A|I was kind of into it for a while there.|sd|4314|1
+B|Were you sailboating?|qy|4314|0
+A|Yeah,|ny|4314|1
+A|for the most part.|sd|4314|1
+A|Yeah|ny|4314|1
+B|Yeah.|b^m|4314|0
+A|I had a little sail,|sd|4314|1
+B|Well, we don't get to do a whole lot of that up here|sd|4314|0
+A|No|b|4314|1
+B|Just motorboat's all we,|sd|4314|0
+A|What part of Texas you from?|qw|4314|1
+B|Uh, Nacogdoches.|sd|4314|0
+A|Okay,|bk|4314|1
+A|whereabouts is that?|qw|4314|1
+B|That's between Houston and Dallas.|sd|4314|0
+A|Okay,|bk|4314|1
+A|all right.|bk|4314|1
+B|It's the oldest town in Texas.|sd|4314|0
+A|Is that right?|bh|4314|1
+B|Yeah.|ny|4314|0
+A|Wow,|ba|4314|1
+A|that's pretty wild.|ba|4314|1
+B|We have, uh, Lake Sam Rayburn out here and Lake Nacogdoches,|sd|4314|0
+B|so we do a lot of boating on.|sd|4314|0
+A|Okay,|b|4314|1
+A|so you got some lakes around you can do that on.|bf|4314|1
+B|Yeah.|aa|4314|0
+A|You do skiing and stuff|qy^d|4314|1
+A|or,|%|4314|1
+B|Yeah,|ny|4314|0
+B|little bit.|sd|4314|0
+A|Yeah?|bh|4314|1
+A|All right.|%|4314|1
+B|Just got through snow skiing|sd|4314|0
+A|Yeah?|bh|4314|1
+B|Yeah.|ny|4314|0
+A|All right.|b|4314|1
+B|Just came back from Denver|sd|4314|0
+B|but,|%|4314|0
+A|Yeah,|b|4314|1
+A|that sounds good.|ba|4314|1
+A|Yeah,|%|4314|1
+A|we've, uh, our,|%|4314|1
+A|the snow up here is really kind of starting to melt now.|sd|4314|1
+B|Yeah,|b|4314|0
+B|it, it, it was heavy when we were there though.|sd|4314|0
+A|Yeah.|b|4314|1
+B|I didn't see any boats there, though.|sd|4314|0
+A|Not, not, not too many, no.|aa|4314|1
+A|But, uh, no,|%|4314|1
+A|I just got back from a weekend.|sd|4314|1
+A|We went and, uh, had a, kind of a picnic in the woods type thing.|sd|4314|1
+A|It was pretty nice,|sd|4314|1
+A|but, uh, no, I, I have, uh, I had a boat last summer that I took out, a catamaran that I do, did a lot of sailing on and stuff.|sd|4314|1
+B|Yeah?|bh|4314|0
+A|That's a lot of fun,|ba|4314|1
+A|but, uh, my parents are pretty big sailors, too,|sd|4314|1
+A|they're kind of into it.|sd|4314|1
+B|Uh, all we, all we have up here mostly bass boats.|sd|4314|0
+A|Oh, yeah,|b|4314|1
+A|I guess it's pretty, uh, fishing's a pretty big thing, huh?|qy|4314|1
+B|Uh-huh.|ny|4314|0
+A|Yeah.|b|4314|1
+B|Lot of, lot of fishing going on up here.|sd|4314|0
+A|Yeah.|b|4314|1
+A|All right.|b|4314|1
+A|So, where about in Texas is that?|qw|4314|1
+A|Is that centrally located|qy|4314|1
+A|or,|%|4314|1
+B|It's, uh, well,|%|4314|0
+B|you ever heard of Lufkin?|qy|4314|0
+A|Uh, no,|nn|4314|1
+A|what, what major city is nearby?|qw|4314|1
+B|Houston.|sd|4314|0
+A|Okay,|bk|4314|1
+A|and that's south or north of there or something?|qy|4314|1
+B|Let me see,|^h|4314|0
+B|Houston's north.|sd|4314|0
+A|Yeah?|bh|4314|1
+A|Okay.|bk|4314|1
+B|Dallas is south.|sd|4314|0
+A|Oh, okay,|bk|4314|1
+A|all right.|bk|4314|1
+A|Well, that sounds pretty good.|ba|4314|1
+A|Does, uh,|%|4314|1
+A|I guess the weather,|%|4314|1
+A|does that stay pretty constant there|qy|4314|1
+A|or,|%|4314|1
+B|It's, it's gets cold at night, and then warm in the afternoons.|ng|4314|0
+A|Yeah?|bh|4314|1
+B|Probably seventies, eighties in the afternoon.|sd|4314|0
+A|Okay,|bk|4314|1
+A|well, that's pretty temperate.|ba|4314|1
+A|Yeah,|%|4314|1
+A|that's not too bad.|ba|4314|1
+A|But, uh, yeah,|%|4314|1
+A|have you done, uh, any other boating then|qy|4314|1
+A|or,|%|4314|1
+B|No,|nn|4314|0
+B|I hadn't done any in a uh, lately,|sd|4314|0
+B|but that's all,|sd|4314|0
+B|I used to uh, have a friend that owned, his daddy owned a boat shop.|sd|4314|0
+A|Yeah?|bh|4314|1
+B|And we used to, when I was in high school, we used to go out, go boating every day just about.|sd|4314|0
+A|Oh, that's great.|ba|4314|1
+A|Yeah,|%|4314|1
+A|I,|%|4314|1
+B|And we had a different boat every day.|sd|4314|0
+A|Oh, that's fantastic.|ba|4314|1
+A|Yeah,|%|4314|1
+A|I used to, uh, kind of be that way myself when I lived in, uh, north western Florida in the panhandle,|sd|4314|1
+A|I used to sail about every day.|sd|4314|1
+A|I'd work, go to work,|sd|4314|1
+B|I'd like to do some sailing.|sd|4314|0
+A|Yeah,|b|4314|1
+A|it's a lot of fun.|sd|4314|1
+A|It's, uh,|%|4314|1
+A|especially if you get a, a pretty fast boat|sd|4314|1
+A|like those catamarans are pretty fast.|sd|4314|1
+B|Yeah,|aa|4314|0
+B|what,|%|4314|0
+A|You can actually,|%|4314|1
+B|Do, if you get one like that do have somebody teach you that|qy|4314|0
+B|or they just,|%|4314|0
+A|Well, actually, I, I've known how to sail pretty much my whole life.|arp_nd|4314|1
+A|Uh, my family's pretty into it|sd|4314|1
+B|Yeah.|b|4314|0
+A|and, uh, I took sailing lessons when I was about six|sd|4314|1
+A|and then, uh|%|4314|1
+B|Is it pretty easy?|qy|4314|0
+A|Yeah,|ny|4314|1
+A|it, it's kind of a thing where you get the hang of it after a while, you know, uh, just kind of get a feel for the wind and how it works and, and the physics behind it.|sd|4314|1
+B|Yeah.|b|4314|0
+A|So it's, it's not too bad,|sd|4314|1
+A|it's pretty easy to get the hang of, I think|sd|4314|1
+A|and, uh, generally, everybody I've, I've known has kind of gotten into it,|sd|4314|1
+A|but some people are more motorboaters, you know which is fine.|sv|4314|1
+B|Yeah.|b|4314|0
+B|Well, that's about all we have|sv|4314|0
+A|Yeah,|b|4314|1
+A|yeah,|b|4314|1
+A|lot of people don't, don't see the excitement in sailing,|sv|4314|1
+A|but, then, again, they may they may never have tried anything like, uh, catamaran|sv|4314|1
+B|Uh-huh.|b|4314|0
+A|and, uh, that's when you really start getting into speed. You know,|sd|4314|1
+A|you actually, some catamarans you can actually pull people behind, the skiers,|sd|4314|1
+A|they get so fast, you know.|sd|4314|1
+B|I didn't know that.|sd|4314|0
+A|Yeah,|b|4314|1
+A|they get pretty quick,|sd|4314|1
+A|but|%|4314|1
+B|That that would be something.|ba|4314|0
+A|uh,|%|4314|1
+A|Yeah,|aa|4314|1
+A|yeah,|aa|4314|1
+A|I haven't, I haven't personally done that,|sd|4314|1
+A|but, uh, the races,|%|4314|1
+A|I, I work with a guy right now that, uh, races catamarans in the summertime|sd|4314|1
+B|Uh-huh.|b|4314|0
+A|and, uh, he's pretty gassed about it.|sd|4314|1
+A|He's got a good, uh,|sd|4314|1
+B|What kind of, what lake do you all use?|qw|4314|0
+A|Well, he, uh, he's from Detroit|arp_nd|4314|1
+B|Uh-huh.|b|4314|0
+A|so he usually goes on one of the Great Lakes, I think, and does his sailing. Uh,|sd|4314|1
+A|for me, I, I go back to Orlando, uh, in about a month, and so, down there, basically just go to the coast.|sd|4314|1
+A|We're about thirty miles from Coco Beach and the east coast,|sd|4314|1
+A|and there's a lot of places there you can go, you know.|sd|4314|1
+A|So, uh, so that's a good thing.|sd|4314|1
+B|Yeah.|b|4314|0
+A|But, yeah, so, what do you do for a job?|qw|4314|1
+B|Uh, I build transformers.|sd|4314|0
+A|Oh, really?|bh|4314|1
+B|Yeah.|ny|4314|0
+A|Okay,|bk|4314|1
+A|is that for T I|qy|4314|1
+A|or,|%|4314|1
+B|No,|nn|4314|0
+B|it's for Cooper Industries.|sd|4314|0
+A|Okay.|bk|4314|1
+A|Are they primarily electronic, then?|qy|4314|1
+B|Yeah.|ny|4314|0
+A|Okay.|bk|4314|1
+B|Well|%|4314|0
+A|Well that,|%|4314|1
+B|they have a, you know, worldwide,|sd|4314|0
+B|but|%|4314|0
+A|Right.|b|4314|1
+B|all we do here is make transformers electronics and stuff like that.|sd|4314|0
+A|Oh, okay.|b|4314|1
+A|Great.|ba|4314|1
+A|Yeah,|%|4314|1
+A|how do you like it down there in Texas?|qo|4314|1
+B|It's real nice.|sd|4314|0
+A|Yeah?|bh|4314|1
+B|Been here all my life.|sd|4314|0
+A|Oh, no doubt.|ba|4314|1
+B|Yeah.|b|4314|0
+A|Okay.|b|4314|1
+A|I've never been to Texas.|sd|4314|1
+A|I've been to Oklahoma,|sd|4314|1
+A|but, uh, that's about as far as,|%|4314|1
+B|Oh, it's, Oklahoma's nothing like it.|sd|4314|0
+A|Yeah?|bh|4314|1
+A|Okay,|%|4314|1
+A|well, that's good, because I didn't like Oklahoma that well|sd|4314|1

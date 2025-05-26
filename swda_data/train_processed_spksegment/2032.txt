@@ -1,0 +1,322 @@
+A|Okay,|fo_o_fw_"_by_bc|2032|0
+A|so we've got to talk about music.|ad|2032|0
+B|Okay. Well, no that's really when I grew up,|aa|2032|1
+A|And, um, do you like classic rock, or modern rock, or which kind?|qy|2032|0
+A|No,|ba|2032|0
+A|not a seventies baby.|qy|2032|0
+B|so that's really what I like better,|sd|2032|1
+B|is that kind of music|sd|2032|1
+B|I mean,|%|2032|1
+A|Is it disco,|qy|2032|0
+A|or is it like,|qrr|2032|0
+B|No,|nn|2032|1
+B|no,|nn|2032|1
+B|no,|nn|2032|1
+B|not that kind of music|sd|2032|1
+A|but,|%|2032|0
+B|No,|nn|2032|1
+B|more like, uh, rock, um, you know, like Led Zepplin type|sd|2032|1
+A|Oh, okay.|b|2032|0
+A|So, so they can get like the Doors and Led Zepplin.|bf|2032|0
+B|Right.|b|2032|1
+A|Yeah,|aa|2032|0
+A|that's cool.|aa|2032|0
+B|Right.|b|2032|1
+A|And, how about the Rolling Stones?|qy|2032|0
+B|Oh, sure,|ba|2032|1
+B|sure|ba|2032|1
+B|I went to their concert last year when they were here.|sd|2032|1
+A|Oh, that's when, that's when they took, toured.|sd|2032|0
+A|How about, um, Pink Floyd?|qy|2032|0
+B|Sure,|na|2032|1
+B|yeah,|ny|2032|1
+B|I like them.|sd|2032|1
+A|Okay.|bk|2032|0
+A|So, so then we got, we got some same things|sv|2032|0
+A|because,|%|2032|0
+B|Okay,|b|2032|1
+B|well, I just didn't know that much about music|sd|2032|1
+B|and I wasn't sure what kind of music.|sd|2032|1
+A|No,|aa|2032|0
+A|it's very hard|sv|2032|0
+A|because, see, well, I mean, in the whole spectrum I'd rather listen, you know,|%|2032|0
+A|I listen to heavy metal or classic rock.|sd|2032|0
+B|What, what kind of heavy metal are we talking about?|qw|2032|1
+B|What,|%|2032|1
+A|We're talking about what they, what they call hard rock.|sd|2032|0
+B|Okay,|bk|2032|1
+B|like, give me some examples.|ad|2032|1
+A|Like, for example, let's see, uh, Bad Company,|sd|2032|0
+A|what,|%|2032|0
+B|Oh, well, Bad Company's not bad,|sv|2032|1
+B|that's not,|%|2032|1
+A|well, they're like, for example, A C D C.|sd|2032|0
+B|Yeah,|b|2032|1
+B|A C D C|b^m|2032|1
+A|Why,|qo|2032|0
+A|have you heard of them?|qy|2032|0
+B|Yes|ny|2032|1
+A|Okay.|bk|2032|0
+A|And, stuff like that.|sd|2032|0
+A|That's, that's, that's not really hard rock.|sv|2032|0
+B|Well, okay.|b|2032|1
+B|Okay,|ba|2032|1
+B|I guess I didn't really consider that heavy metal.|sv|2032|1
+A|Okay.|bk|2032|0
+B|I mean, I, I think, when you say heavy metal, I'm, I'm thinking about like Cinderella, you know.|sd|2032|1
+A|Well, Cinderella is, is hard rock, heavy metal.|sd|2032|0
+B|Well, see, I don't really care for Cinderella|sd|2032|1
+B|But, I like A C D C's okay.|sd|2032|1
+A|But, see, for example, they have, see what,|sd|2032|0
+A|but other bands consider it like really hard rock.|sd|2032|0
+A|It's like brash metal, which all they do is like, they have this guitar and they just bang at the guitar,|sd|2032|0
+A|and the guitar is set like, really low,|sd|2032|0
+B|Yeah.|b|2032|1
+B|No,|b|2032|1
+B|I don't really care for that too much, I guess.|sd|2032|1
+A|and, what happens is like, oh, everybody gets like totally into the music|sd|2032|0
+A|and then they start dancing around,|sd|2032|0
+B|Uh-huh.|b|2032|1
+A|and they just bump into each other,|sd|2032|0
+B|Uh-huh.|b|2032|1
+A|like, like they hit each other with their shoulders,|sd|2032|0
+B|Uh-huh.|b|2032|1
+A|and, then, you knock people down,|sd|2032|0
+A|and what you do is, you also try to get up on stage and jump down on top of all these other people.|sd|2032|0
+B|Is that the kind of music that you like?|qy|2032|1
+A|No,|nn|2032|0
+A|I don't like that music.|sd|2032|0
+B|Oh, okay.|bk|2032|1
+A|But, that's, that's what they do.|sd|2032|0
+A|That's, that's what some people call like really heavy metal.|sd|2032|0
+B|Oh, okay.|b|2032|1
+A|And, see, the difference, I guess, between hard rock and heavy metal is that the lyrics also.|sd|2032|0
+A|Like really, like heavy metal, is considered, like the words heavy metal|sd|2032|0
+A|and, like, you always thought about, like, suicide. And killing people and stuff like that.|sd|2032|0
+B|Yeah.|b|2032|1
+A|And, just hard rock has,|%|2032|0
+A|they, they don't talk about that,|sd|2032|0
+A|they just talk about, like, life in general.|sd|2032|0
+B|Right.|b|2032|1
+A|Like, Queen's Reich, if you ever heard of them.|qy^d|2032|0
+B|Oh, sure.|na|2032|1
+B|Of course.|na|2032|1
+A|Yeah.|b|2032|0
+B|you, you're talking Queen,|bf|2032|1
+B|is that what you said?|br|2032|1
+A|Okay,|b|2032|0
+A|well, no.|ar|2032|0
+A|I said Queen's Reich,|sd|2032|0
+A|but, but, oh, but you got to like Queen also.|sv|2032|0
+B|Oh, oh, oh, okay,|bk|2032|1
+B|Right.|b|2032|1
+A|So because,|%|2032|0
+B|Well sure,|b|2032|1
+B|because Queen was real popular when I was growing up.|sd|2032|1
+A|Yeah,|b|2032|0
+A|especially, uh, oh God, what is it, A Night At The Opera?|h|2032|0
+A|Don't they have a,|qy|2032|0
+A|no|ar|2032|0
+A|let's see, the one that they have the, the whole opera singing in the background.|qw^d|2032|0
+B|Oh! Right,|ba|2032|1
+A|Bo, Bo, Bohemian Rhapsody.|sd|2032|0
+B|right,|aa|2032|1
+B|yeah,|aa|2032|1
+B|yeah.|aa|2032|1
+A|Yeah,|b|2032|0
+A|that, that was great.|sv|2032|0
+A|I heard that the other day on the radio|sd|2032|0
+A|and I pumped it up.|sd|2032|0
+A|Because, I mean, I just love that song.|sd|2032|0
+B|Yeah,|aa|2032|1
+B|that, that was a real good one.|sv|2032|1
+A|Yeah,|b|2032|0
+A|but they had,|%|2032|0
+A|that, that whole record was pretty good.|sv|2032|0
+A|But then, they started going downhill like everybody else.|sv|2032|0
+B|Well, that's true.|aa|2032|1
+B|They came up with some pretty weird stuff after that.|sv|2032|1
+A|Yeah,|b|2032|0
+A|they're, they're still around,|sd|2032|0
+A|they've got a new C D out,|sd|2032|0
+A|but I, I wouldn't buy it.|sd|2032|0
+A|Because see, what happens is, the old, see|sd|2032|0
+A|I like, I like the old Rolling Stones.|sd|2032|0
+A|I don't like the new stuff.|sd|2032|0
+B|Of the Stones?|qy|2032|1
+A|Yeah.|ny|2032|0
+B|Yeah.|aa|2032|1
+B|I agree.|aa|2032|1
+B|That's the|%|2032|1
+B|the older stuff is the best of it.|sv|2032|1
+B|The, the new stuff's kind of more like, today's rock and roll, which I, don't really care for today's rock and roll too much.|sv|2032|1
+A|Yeah.|b|2032|0
+A|Well, for example, I used to like old Phil Collins.|sd|2032|0
+B|Right.|b|2032|1
+B|Yes,|aa|2032|1
+B|definitely.|aa|2032|1
+B|I agree.|aa|2032|1
+A|And, and, then what happened was that Phil Collins said, hey I can make money, a lot of money doing this,|sd|2032|0
+A|and then he came out with, uh, see, for example, his, his record like, No Jacket Required.|sd|2032|0
+B|Uh-huh.|b|2032|1
+A|That was good,|sv|2032|0
+A|but it was on his way of going downhill,|sv|2032|0
+A|because he said, I can make a lot of money just singing alone,|sd|2032|0
+A|and then he came out with the Invisible Touch, with, uh, Genesis|sd|2032|0
+A|and that really,|%|2032|0
+A|like now, I hate Phil Collins,|sd|2032|0
+A|I can't stand him.|sd|2032|0
+B|Right.|b|2032|1
+A|Because, I look at him|sd|2032|0
+A|and I say, you know, you were singing at this time, and with these people,|sd|2032|0
+A|and you were great,|^q|2032|0
+A|and now you're singing all this stuff that, doesn't matter what you, what you sing or what you record,|^q|2032|0
+A|it's still going to be a number one hit.|^q|2032|0
+A|And so, that's, that's what gets me mad.|sd|2032|0
+B|Yeah.|b|2032|1
+A|But, did, did you go see that new Doors movie?|qy|2032|0
+B|No,|nn|2032|1
+B|not yet.|sd|2032|1
+B|I guess I've been, kind of considering it.|sd|2032|1
+B|Have you seen it yet?|qy|2032|1
+A|Yeah.|ny|2032|0
+A|I saw it when it opened.|sd|2032|0
+B|Was it really good?|qy|2032|1
+A|Yeah. you know, like those guys that criticize movies?|ny|2032|0
+B|Uh-huh.|b|2032|1
+B|Right.|na|2032|1
+A|And, they both loved the movie, right?|sd|2032|0
+B|Uh-huh.|b|2032|1
+A|They said the music's great,|sd|2032|0
+A|it took me back to the sixties, and stuff like that.|^q|2032|0
+B|Uh-huh.|b|2032|1
+A|And then, one of them said, well, everything is great,|sd|2032|0
+A|but I'm going to give it thumbs down.|^q|2032|0
+A|And they go,|sd|2032|0
+A|but why?|^q|2032|0
+A|Because it's like, the end is, like, really depressing.|sd|2032|0
+A|And so,|%|2032|0
+B|Oh.|b|2032|1
+A|But it, but it's like the movie is so well made,|sv|2032|0
+A|and the music that goes with it just picks you up, see,|sv|2032|0
+A|I was never, I was born in nineteen hundred sixty-nine.|sd|2032|0
+B|Oh, okay.|b|2032|1
+A|So, I mean, so for me,|%|2032|0
+B|So, you didn't really grow up with that kind of music then.|bf|2032|1
+A|No,|aa|2032|0
+A|but you learn to.|sd|2032|0
+A|I mean it's just that, like the, the sixties music's got a lot to say.|sv|2032|0
+B|Right.|b|2032|1
+A|I, I never found out what a lot of the seventies music had too.|sd|2032|0
+A|You know, I was like,|%|2032|0
+B|Well no,|ar|2032|1
+B|I've never liked disco.|sd|2032|1
+A|Hey,|ba|2032|0
+A|but I bet you were out there with your bell bottomed pants,|sv|2032|0
+B|Well, that's true|aa|2032|1
+B|That's true.|aa|2032|1
+B|But, I was more in the late|sd|2032|1
+B|well, I|%|2032|1
+B|like mid to late seventies, like between seventy-five and, and, seventy-nine, was more my era.|sd|2032|1
+A|Yeah,|b|2032|0
+A|yeah.|b|2032|0
+A|Did, did you go to college?|qy|2032|0
+B|Well, no.|nn|2032|1
+B|I'm going right now|sd|2032|1
+A|Oh, that's cool.|ba|2032|0
+B|But uh, no|nn|2032|1
+B|I didn't go then.|sd|2032|1
+B|But see, I graduated high school in seventy-eight,|sd|2032|1
+A|Okay.|b|2032|0
+B|so, you know, in seventy-eight, you know rock was starting to get really heavy, you know,|sd|2032|1
+B|and real, um, I don't know,|h|2032|1
+A|Yeah,|b|2032|0
+A|yeah.|b|2032|0
+B|disco was pretty much dead by then.|sd|2032|1
+A|Yeah.|b|2032|0
+B|So, so that's what I mean,|sd|2032|1
+B|disco wasn't really my time.|sd|2032|1
+A|Well, they always say that the seventies was the lowest point in, in progression, ever in history.|sd|2032|0
+A|So,|%|2032|0
+B|About music?|br|2032|1
+A|No,|ar|2032|0
+A|about everything.|sd|2032|0
+B|Oh. Okay.|b|2032|1
+A|So, it's like, nothing happened during the seventies.|sd|2032|0
+A|Everything happened during the sixties,|sd|2032|0
+A|the seventies I don't know what they're called, you know,|sd|2032|0
+A|it's like, like|%|2032|0
+A|the, the eighties are called, like the progressive years, or the, or, you know, like the technology years, because of all the computers and stuff.|sd|2032|0
+B|Uh-huh.|b|2032|1
+A|But the seventies got nothing.|sd|2032|0
+A|I mean, nobody cared to name it|sd|2032|0
+B|That's kind of funny|ba|2032|1
+A|So.|%|2032|0
+B|You're right.|aa|2032|1
+B|I never thought of that.|sd|2032|1
+B|The disco years, that's what they're calling them, are gone.|sd|2032|1
+A|Yeah,|aa|2032|0
+A|I know.|aa|2032|0
+A|Can you imagine the, like a big picture of John Travolta, ta-da, what is it SATURDAY NIGHT FEVER?|qo|2032|0
+A|Him just standing there.|sv|2032|0
+B|Yeah,|aa|2032|1
+B|right.|aa|2032|1
+A|Yeah,|b|2032|0
+A|that's a good example to look for in history.|sv|2032|0
+A|Well, from now on we're going to go from the, from nineteen sixty-nine when they took the first step on the moon, to nineteen eighties.|^q|2032|0
+A|Okay,|^q|2032|0
+A|what happened in the middle?|^q|2032|0
+A|Don't worry,|^q|2032|0
+A|don't worry,|^q|2032|0
+A|you're not, you're not missing anything, you know,|^q|2032|0
+A|so,|%|2032|0
+B|That's true.|aa|2032|1
+B|Well, except for Vietnam.|arp_nd|2032|1
+A|Yeah,|aa|2032|0
+A|really.|aa|2032|0
+A|And, that's, that's why I guess, everybody,|%|2032|0
+B|You know with,|%|2032|1
+A|yeah,|b|2032|0
+A|it's like they don't want to talk about that,|sv|2032|0
+A|so they just, don't name it.|sv|2032|0
+A|I mean, it was, it was, I guess it was pretty bad times.|sv|2032|0
+B|Yeah.|aa|2032|1
+B|Well, that's very true|aa|2032|1
+B|But,|%|2032|1
+A|Oh, well, let's see,|^h|2032|0
+A|yeah,|%|2032|0
+A|okay,|fo_o_fw_"_by_bc|2032|0
+A|we've been talking for seven minutes,|sd|2032|0
+A|so,|%|2032|0
+B|Oh, good.|ba|2032|1
+B|I haven't even been keeping track.|sd|2032|1
+A|Okay,|fo_o_fw_"_by_bc|2032|0
+A|all right,|fo_o_fw_"_by_bc|2032|0
+A|so um, I'm going to leave you alone.|oo_co_cc|2032|0
+A|Uh what, what are you doing?|qw|2032|0
+A|Do you have a family?|qy|2032|0
+B|Uh, yeah.|ny|2032|1
+A|Okay.|bk|2032|0
+B|We're kind of, I was kind of in the middle of supper,|sd|2032|1
+B|but it's not a big deal,|bd|2032|1
+A|Oh, I'm sorry.|fa|2032|0
+B|I just left it.|bd|2032|1
+B|No,|ar|2032|1
+B|it's okay,|bd|2032|1
+B|because see I didn't, see|%|2032|1
+B|somebody tried to call me last night|sd|2032|1
+B|but I didn't have my number yet,|sd|2032|1
+B|I just got it today.|sd|2032|1
+A|Oh, okay.|bk|2032|0
+B|And so, you know, it's okay.|bd|2032|1
+B|I, I told them I'd be available during this time,|sd|2032|1
+B|so, anyway.|%|2032|1
+A|Okay.|fo_o_fw_"_by_bc|2032|0
+A|All right.|fo_o_fw_"_by_bc|2032|0
+A|So then, uh, have fun doing this.|fc|2032|0
+A|It is not,  that bad.|fc|2032|0
+B|Okay,|fc|2032|1
+B|thanks.|fc|2032|1
+A|Bye, bye.|fc|2032|0
+B|Great,|fc|2032|1
+B|Bye.|fc|2032|1

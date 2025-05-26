@@ -1,0 +1,117 @@
+A|Okay,|fo_o_fw_"_by_bc|4028|0
+A|um, I guess we're going to talk, describe, uh, job benefits,|sd|4028|0
+A|and so what do you think, next to salary do you rank, is the most important job benefits?|qw|4028|0
+B|Uh, I would say the medical, uh, group insurance area as far as, uh, covering medical costs for yourself or family members.|sv|4028|1
+A|Uh-huh.|b|4028|0
+A|Uh-huh.|b|4028|0
+A|Well, um, does your company have good benefits in that, in that regard?|qy|4028|0
+B|Yeah,|ny|4028|1
+B|I think,|%|4028|1
+B|I work for a public school system, district|sd|4028|1
+A|Uh-huh.|b|4028|0
+B|and, uh, so it's different than a company where most companies fund almost the entire thing,|sd|4028|1
+B|where the school district does, um, the employee must pick up a greater figure in the way of, uh, costs.|sd|4028|1
+A|Oh, yeah.|b|4028|0
+B|But overall, um, I've been pleased with it over the years.|sd|4028|1
+A|Uh-huh.|b|4028|0
+B|I think the biggest frustration is because of the cost of insurance going up every year, our district has had to alter, uh, you know, change companies,|sv|4028|1
+B|or now we're on a managed care thing, which has stressed a lot of people out although it has not disturbed me any.|sd|4028|1
+A|Uh-huh.|b|4028|0
+A|I see.|b|4028|0
+B|How about yourself?|qo|4028|1
+A|Uh, well I'm,|%|4028|0
+A|my medical coverage is with an H M O|sd|4028|0
+B|Uh-huh.|b|4028|1
+A|um, so, that's, in my opinion, that's that's bordering on a health clinic,|sv|4028|0
+A|but it seems to be a good way to maintain costs and still provide a good amount of coverage.|sv|4028|0
+B|Right,|aa|4028|1
+B|yeah.|aa|4028|1
+A|Um.|%|4028|0
+B|Our district did that for the ninety-one and the ninety school year, or calendar years,|sd|4028|1
+B|and I was in the H M O,|sd|4028|1
+B|and, um, I was because my, my same doctor, you know, agreed to be in it for, uh,|sd|4028|1
+B|they usually sign a contract or something|sd|4028|1
+A|Uh-huh.|b|4028|0
+B|and, um, uh, I did have surgery last summer|sd|4028|1
+B|and I paid ten dollars when I went to see him that first day,|sd|4028|1
+B|and I've never seen another bill,|sd|4028|1
+B|so I I have to say it really works.|sd|4028|1
+A|Right.|b|4028|0
+B|But, again, I was fortunate because my doctor agreed to be in it.|sd|4028|1
+B|Uh, if you've been going to a doctor for, you know, ten years or something and he elects not to join, it can be very stressful for you know, those people.|sv|4028|1
+A|Yes.|aa|4028|0
+A|That's right,|aa|4028|0
+A|yeah,|%|4028|0
+A|I'm, I'm fairly young myself,|sd|4028|0
+A|I've only been,|sd|4028|0
+A|when I first started working which,|sd|4028|0
+A|three years ago is when I first got into full time employment|sd|4028|0
+B|Uh-huh.|b|4028|1
+A|and, uh, at that time I immediately joined the H M O,|sd|4028|0
+A|and I never really,|%|4028|0
+A|so the only doctor I, I've kind of consistently had has been through the H M O,|sd|4028|0
+A|and, uh you know, for me it's worked out real good.|sd|4028|0
+B|Yeah.|b|4028|1
+B|Right,|b|4028|1
+B|but if you, you know, have a family and, and, um, everybody's gone to different doctors, uh, it is hard to give up somebody who you feel knows you and your body and your, just has, you know, all the medical history|sv|4028|1
+B|and you feel comfortable with it.|sd|4028|1
+A|Uh-huh.|b|4028|0
+B|I, I'm sure it would be very stressful|sv|4028|1
+B|and, my husband and I have just elected that if that happens, I will go and just pay.|sd|4028|1
+B|You can continue to go to your own doctor|sd|4028|1
+A|Uh-huh.|b|4028|0
+B|but your benefits are not as, you know, good,|sd|4028|1
+B|so, uh.|%|4028|1
+A|Uh-huh.|b|4028|0
+A|Yeah,|%|4028|0
+A|um, like you, you mentioned you work for a school system.|sd|4028|0
+A|I work for, uh, Georgia Tech in the  research branch,|sd|4028|0
+B|Oh, all right.|b|4028|1
+A|and I guess another one that, that I rank up there high is the, uh, kind of job flexibility and time off, um, I enjoy as a benefit.|sv|4028|0
+B|I do too.|aa|4028|1
+B|Are you talking about like Spring Break|qy|4028|1
+B|and,|%|4028|1
+A|Right|na|4028|0
+B|Right.|b^m|4028|1
+A|yeah,|b|4028|0
+A|getting a lot of breaks between quarters and that, and having a lot of vacation.|bf|4028|0
+B|Right.|aa|4028|1
+B|It, it really, um,|%|4028|1
+B|I don't think most of our teachers,|sv|4028|1
+B|now I'm not a teacher,|h|4028|1
+B|I am a secretarial executive assistant,|sd|4028|1
+B|but I don't think the teachers could stand the stress all, all year long frankly.|sv|4028|1
+A|Uh-huh.|b|4028|0
+B|It is just, Texas has really, um, you know,|sv|4028|1
+B|they want everybody educated, no matter what it costs,|sd|4028|1
+B|uh, and it, it would be just,|%|4028|1
+B|we all look forward to,|sv|4028|1
+B|like in two weeks we have Spring Break,|sd|4028|1
+B|and I don't know who looks forward to it more, the students or the teachers and the staff.|sv|4028|1
+A|Uh-huh.|b|4028|0
+A|Right.|b|4028|0
+B|What do you do there?|qw|4028|1
+A|Well, um, I'm not actually on the teaching faculty,|sd|4028|0
+A|but we have a large research organization associated with the university,|sd|4028|0
+A|and that's who I work with.|sd|4028|0
+B|Okay.|bk|4028|1
+A|Um, and we're given, you know, a good bit of flexibility in what we do.|sd|4028|0
+A|We can kind of pursue our own interests in terms of the research areas that we study.|sd|4028|0
+B|Well, that's good.|ba|4028|1
+B|Yeah,|b|4028|1
+B|I would think that that type of employment, you're, you're, one day you might be really tuned in and the next day, oh, a little luke warm or something|sv|4028|1
+A|Right.|aa|4028|0
+B|and, um, it's good that they allow you that.|sv|4028|1
+A|Right.|aa|4028|0
+B|It, um,|%|4028|1
+B|as I say, the schools,|sd|4028|1
+B|now we do have to work, you know, the day,|sd|4028|1
+B|but we do get many days off,|sd|4028|1
+B|and, uh, we all look forward to it.|sd|4028|1
+A|Uh-huh.|b|4028|0
+B|That's the only reason I work there, is that my children now have graduated, and graduated from college|sd|4028|1
+B|but at the  time, I worked there because my hours and days were the same as theirs|sd|4028|1
+A|Oh, yeah.|b|4028|0
+A|Uh-huh.|b|4028|0
+B|and, uh, I've just continued to, uh, stay there|sd|4028|1
+A|Are there, are there any things that, that you'd like to see changed in terms of the, the benefits?|qy|4028|0

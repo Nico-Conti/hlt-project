@@ -1,0 +1,252 @@
+A|Our community doesn't really have any organized recycling drive.|sd|2111|0
+B|Where do you live?|qw|2111|1
+A|I live in San Antonio.|sd|2111|0
+B|San Antonio!|ba|2111|1
+A|Uh-huh.|b|2111|0
+B|Well, uh, I live in Garland|sd|2111|1
+B|and we're just beginning to,|%|2111|1
+B|we, we just built a real big recycling center, that recycles everything imaginable|sd|2111|1
+A|Uh-huh.|b|2111|0
+B|but, as far as, uh, trash pick up and stuff that a lot of the communities are doing, they're testing that.|sd|2111|1
+A|Uh-huh.|b|2111|0
+B|So, they're really not full, full force into it,|sd|2111|1
+B|but they're trying,|sd|2111|1
+B|so we're attempting it,|sd|2111|1
+B|but I wish we could do more.|sd|2111|1
+A|Yeah,|b|2111|0
+A|there's, there's been no emphasis on recycling at all in San Antonio.|sd|2111|0
+A|I used to work for the power company here|sd|2111|0
+A|and there was discussion for a while about, uh, building a garbage burning, uh, electric generation plant|sd|2111|0
+B|Uh-huh.|b|2111|1
+A|but it just wasn't cost effective, at the time.|sd|2111|0
+B|Oh.|b|2111|1
+A|And there's, there's a little recycling trucks and things throughout the city|sd|2111|0
+A|but there isn't any, uh, advertising campaign.|sd|2111|0
+A|There's just not any push to recycle.|sd|2111|0
+B|Huh.|b|2111|1
+A|I recycle my newspapers and, uh, my aluminum stuff.|sd|2111|0
+B|Right,|aa|2111|1
+B|that's what I do.|sd|2111|1
+A|But, uh, they make it as hard as possible,|sv|2111|0
+A|it's not very convenient to do.|sd|2111|0
+B|Right,|aa|2111|1
+B|when they put centers and stuff like that.|sv|2111|1
+A|Uh-huh.|b|2111|0
+B|Yeah,|aa|2111|1
+B|well we have those, uh, which I think is one of the best things is those cash for cans.|sv|2111|1
+B|I don't know if you all have those things around.|qy^d|2111|1
+A|Yes.|ny|2111|0
+B|And I really like that because that makes it real convenient because they're in almost every shopping center,|sd|2111|1
+B|and you can just stop by.|sd|2111|1
+B|Now everything else like the uh, paper and plastic and stuff you still have to go to the centers|sd|2111|1
+B|but, but for aluminum that's real nice|sv|2111|1
+A|Uh-huh.|b|2111|0
+B|and I started doing that at work.|sd|2111|1
+B|Um, I put out a, a trash can and, and for people to put their aluminum cans in,|sd|2111|1
+A|Uh-huh.|b|2111|0
+B|and that's really helped a lot,|sd|2111|1
+B|I mean, everybody's pitched in|sd|2111|1
+B|and, you know, it doesn't bother them to walk little bit farther put their aluminum in a can rather than just throwing it in their trash can.|sd|2111|1
+A|Yeah.|b|2111|0
+A|Yeah.|b|2111|0
+B|So, I really, I really like that,|sd|2111|1
+B|but, people are really concerned,|sv|2111|1
+B|it's just that sometimes it's not the right people, which is really, really sad because, I wish we would do more|sv|2111|1
+A|Yeah.|b|2111|0
+B|At work we started, uh, all the recycling stuff.|sd|2111|1
+B|They're really trying,|sd|2111|1
+B|I think what started it at work was that planet earth thing we had last year.|sd|2111|1
+A|Yes.|b|2111|0
+B|And, uh, that really, started a lot of stuff off,|sd|2111|1
+B|but, you know sometimes it dwindles down.|sv|2111|1
+A|Yeah,|b|2111|0
+A|where I work now we recycle all the computer paper.|sd|2111|0
+B|That's good.|ba|2111|1
+A|But that's about the extent of it.|sd|2111|0
+B|Well that's, uh,|%|2111|1
+B|at least your trying something.|ba|2111|1
+A|Yeah,|aa|2111|0
+A|yeah,|aa|2111|0
+B|It's just yeah,|%|2111|1
+B|it would be nice if it could be more.|sv|2111|1
+A|And I'm sure that the, uh, driving factor for recycling the computer paper is that we get paid to do so.|sv|2111|0
+B|Oh do you really.|bh|2111|1
+A|We sell the paper back to the, uh, to a paper manufacturing company.|sd|2111|0
+B|Well that's a neat idea.|ba|2111|1
+A|Well, it, it defrays the cost of buying the paper, I think.|sv|2111|0
+A|I,|%|2111|0
+A|not by much, but it does defray it some.|sv|2111|0
+B|Right.|b|2111|1
+A|Enough to make it worth our while to have several bins through out the building.|sv|2111|0
+B|Well that's, that's really good,|ba|2111|1
+B|I mean at least they're trying.|ba|2111|1
+A|Yeah.|b|2111|0
+B|Yeah|b|2111|1
+B|I know a lot of companies that waste so much that,|sd|2111|1
+B|I'm even trying,|%|2111|1
+B|you know that was one thing we noticed last week that we had some new people move into our building And they were just used one time and thrown in the dumpster|sd|2111|1
+A|Yes.|b|2111|0
+B|and I thought, I don't understand this, you know.|sd|2111|1
+A|Yeah.|b|2111|0
+B|We're trying to cut cost and everything like that, and, and recycle and all that stuff|^q|2111|1
+B|and, and here we are wasting.|^q|2111|1
+B|And I don't understand, sometimes, the way, the thinking, the logic behind it.|sd|2111|1
+A|Well the last time, uh, someone moved offices in my building|%|2111|0
+A|and, uh, the, uh, properties people came in with all, with the good cardboard boxes.|sd|2111|0
+A|Not the cheap ones of course. And packed everything up and moved them and left them lying around,|sd|2111|0
+B|Uh-huh.|b|2111|1
+A|I, I took several home because I'm moving pretty soon|sd|2111|0
+A|and they're good boxes.|sd|2111|0
+B|That's exactly what I did.|sd|2111|1
+A|And they were just going to throw them away.|sd|2111|0
+B|Exactly what I did, exactly.|sd|2111|1
+A|Yeah.|b|2111|0
+B|Because I didn't want to waste that.|sd|2111|1
+A|Huh-uh.|b|2111|0
+B|And it's hard enough to find good packing boxes .|sv|2111|1
+A|Right|aa|2111|0
+A|and, and these boxes are,|%|2111|0
+A|you can unfold them.|sd|2111|0
+B|Right.|aa|2111|1
+A|So, you know, there, they don't take up much storage space.|sd|2111|0
+B|Exactly right,|aa|2111|1
+B|well that's very good|ba|2111|1
+A|Yeah,|b|2111|0
+A|yeah|b|2111|0
+A|I, I felt a little guilty about taking the boxes for about two seconds until I realized they would be thrown away,|sd|2111|0
+A|so.|%|2111|0
+B|Right,|aa|2111|1
+B|right,|aa|2111|1
+A|I thought, well I was doing them a favor by taking them.|sd|2111|0
+B|I found about five, uh, about nine of them that had not even been folded into boxes, that were in the dumpsters.|sd|2111|1
+A|Yeah.|b|2111|0
+B|Oh gosh,|ba|2111|1
+B|so many people need, so many people go to the grocery store and stuff and get those boxes, when, you know, these are perfect,|sd|2111|1
+A|Uh-huh.|b|2111|0
+B|so.|%|2111|1
+A|Yeah,|b|2111|0
+A|the ones at the grocery store, half the time, they've pulled the lid off|sd|2111|0
+A|so you can't use it anyway.|sd|2111|0
+B|Right,|aa|2111|1
+B|right,|aa|2111|1
+B|right.|aa|2111|1
+A|Those|%|2111|0
+A|and the real sturdy boxes that copy room paper comes in, with the nice lids. Those get thrown away.|sd|2111|0
+B|Uh-huh,|b|2111|1
+B|right.|aa|2111|1
+A|And I am constantly scouting out the copy room for those boxes.|sd|2111|0
+B|That's exactly what I do.|sd|2111|1
+A|Those are perfect boxes to put files in.|sd|2111|0
+B|Uh-huh.|b|2111|1
+B|They're good for storage and stuff like that.|sd|2111|1
+B|That's what I do with a lot of my daughter's things is I'll store her, you know, like her out dated or, out of, out of season clothes in them|sd|2111|1
+B|and they're just perfect.|sd|2111|1
+A|What, what I've done in the past,|%|2111|0
+A|I don't have any now,|sd|2111|0
+A|but I would buy some cheap wallpaper from somewhere and cover those nice boxes with the lids,|sd|2111|0
+B|Uh-huh.|b|2111|1
+A|and you can stack them up and, and leave them out and put things in them, even.|sd|2111|0
+B|And they look just as good.|^2|2111|1
+B|That's a smart idea.|ba|2111|1
+A|Uh-huh,|b|2111|0
+A|yeah.|aa|2111|0
+B|I think I'll have to try that.|sd|2111|1
+B|That's really cute.|ba|2111|1
+A|Yeah|b|2111|0
+A|well, you know, it's cheaper than going and buying the kind at Target that are all ready with the little design on them or whatever.|sd|2111|0
+B|They're the exact same thing.|sv|2111|1
+B|That's all they are,|sv|2111|1
+B|they just made them look fancy.|sv|2111|1
+A|Uh-huh,|b|2111|0
+A|yeah.|aa|2111|0
+B|You saved me some money.|sd|2111|1
+B|And you're recycling|sd|2111|1
+A|yeah.|aa|2111|0
+B|Well that's neat.|ba|2111|1
+B|Well do you all have, uh,|%|2111|1
+B|we have places that, uh, pay for paper to recycle,|sd|2111|1
+B|I know you do yours at work,|sd|2111|1
+B|but for newspaper.|%|2111|1
+A|Uh-huh.|b|2111|0
+B|But ours are real hard to find.|sd|2111|1
+B|That's the one thing that really discourages me.|sd|2111|1
+B|I saved you know, I recycle paper,|sd|2111|1
+B|but they,|%|2111|1
+B|it's almost like they don't want the paper, because they don't pay, at all,|sv|2111|1
+B|I mean, they're real hard to find the places that pay.|sd|2111|1
+B|And that's really discouraging.|sd|2111|1
+B|I mean, I just go ahead and take it to the, the regular place, where it's, you know, they just accept it.|sd|2111|1
+B|But they, uh, I think they should|sd|2111|1
+B|yeah,|%|2111|1
+B|if they want people to recycle I think it's, uh, you know,|sv|2111|1
+B|like the aluminum, you know,|%|2111|1
+B|it gets people to, uh, doing it, you know,|sv|2111|1
+B|you might, you don't have to pay them a lot.|sv|2111|1
+A|Yeah,|b|2111|0
+A|I live near a Walmart|sd|2111|0
+A|and there's a big, uh, uh, huge dumpster looking thing sitting out front,|sd|2111|0
+A|in fact I think there's two of them, that have several openings,|sd|2111|0
+B|Uh-huh.|b|2111|1
+A|and it's for recycling|sd|2111|0
+A|and they have aluminum and newspaper and plastic and some other category,|sd|2111|0
+B|Uh-huh.|b|2111|1
+A|I don't,|%|2111|0
+A|maybe there's two for aluminum.|sd|2111|0
+A|And you don't get paid|sd|2111|0
+A|but it's real convenient just to chunk the newspapers in there.|sd|2111|0
+B|Well that's, that's good.|ba|2111|1
+A|Yeah.|b|2111|0
+B|I,|%|2111|1
+B|the one thing I don't like about the newspaper also is, uh,|%|2111|1
+B|like at work we have two different trash cans at your desk.|sd|2111|1
+B|You have one for paper and one for just your normal trash,|sd|2111|1
+A|Uh-huh.|b|2111|0
+B|but in, uh, in the paper one you have to separate.|sd|2111|1
+B|You have to make sure you don't throw away any of the slick paper, like magazines.|sd|2111|1
+A|Uh-huh.|b|2111|0
+B|You can't throw any of that away|sd|2111|1
+B|and you can't throw certain file type things away,|sd|2111|1
+B|and I just think it's such a hassle,|sd|2111|1
+B|it seems like it would be, it would be easy to take it all,|sv|2111|1
+B|I don't know,|h|2111|1
+B|of course, I don't know all that about recycling|h|2111|1
+B|so, it probably is a hassle.|sv|2111|1
+A|Uh-huh.|b|2111|0
+B|But I do get tired of having to separate paper, you know.|sd|2111|1
+A|Uh-huh.|b|2111|0
+A|It gets to be, uh,|%|2111|0
+A|I guess you have to make it a habit,|sv|2111|0
+A|I mean, you have to get so used to doing it that it's a habit.|sv|2111|0
+B|Right,|aa|2111|1
+B|right.|aa|2111|1
+B|And we had, uh, a write up in our paper, uh, this last time at work about, um,|sd|2111|1
+B|they come and empty your trash every other day they do your normal trash|sd|2111|1
+B|and every other day they do your recycling trash.|sd|2111|1
+A|Uh-huh.|b|2111|0
+B|And somebody was writing in complaining that the people had, uh, dumped all the trash in the same bin.|sd|2111|1
+A|Oh.|b|2111|0
+B|And when they were questioned about it they said well, we're running late,|sd|2111|1
+B|or we didn't have time to do those bins or something|sd|2111|1
+B|and that's real discouraging. Thinking you're sitting there working to separate it|sd|2111|1
+B|and then they,|%|2111|1
+A|And someone else isn't going to take the time to put it in two separate bags.|^2|2111|0
+B|Right,|aa|2111|1
+B|right,|aa|2111|1
+B|so they're, they're really, trying to start keeping an eye out for those, you know|%|2111|1
+B|talking to the people again about, you know,|%|2111|1
+B|separate them|%|2111|1
+B|because that is discouraging when you, when you do that the|sv|2111|1
+B|It was hard to get used to those two different trash cans.|sd|2111|1
+A|Uh-huh.|b|2111|0
+B|But luckily that will all get straightened out|sd|2111|1
+B|and, and they'll, they'll start separating them.|sd|2111|1
+B|Because, I don't mind doing that,|sd|2111|1
+B|I feel like I'm doing, uh, doing something for the community when I'm doing that.|sd|2111|1
+A|Yeah.|b|2111|0
+B|But anyway.|%|2111|1
+A|Well, I've enjoyed talking to you.|fc|2111|0
+B|You too.|fc|2111|1
+A|Well, I, thank you.|fc|2111|0
+A|Bye,|fc|2111|0
+A|bye.|fc|2111|0
+B|Bye.|fc|2111|1

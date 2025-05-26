@@ -1,0 +1,158 @@
+B|Okay, I guess we're on.|sd|2038
+A|Yeah.|b|2038
+B|Central America, have you ever lived in Central America.|qy|2038
+A|I wasn't in Central America|ng|2038
+A|but, uh, talking about Latin America, I kind of, I consider Latin America to include Central and South America|sd|2038
+A|and I did live in, uh, San Polo Brazil for four years.|sd|2038
+B|Do you, do you think that, that we should have given up the Panama Canal?|qy|2038
+A|Uh, realistically, I,|%|2038
+A|yes,|ny|2038
+A|I don't see the, the Panama Canal that hasn't had a whole lot of usefulness to us recently since it's not, not really big enough to, uh, accommodate the, the shipping that it once did|sv|2038
+A|and, uh, maybe it would be better that we let the Panamanians run it however, I think, we're certainly justified in, uh, our actions dealing with, uh, Noriega in this ...|sv|2038
+B|Well, there are those that, that, that think that, that, that the Panama Canal has some considerable strategic importance, particularly for the military.|sv|2038
+B|Interestingly enough my father was, who was in World War One, and as, uh, as a civil engineer they, they, they offered him a commission as a captain if he would, uh, go in and, and, uh, help with the defenses of the Panama Canal.|sd|2038
+B|He had worked for United Fruit Company there,|sd|2038
+A|Uh-huh.|b|2038
+B|and they, uh, they, in fact, they had,|sd|2038
+B|this was in the, the late twenties|sd|2038
+B|and they in fact used some of the equipment that had been left over|sd|2038
+B|and, uh, he turned them down.|sd|2038
+B|It, it's interesting that, that most people don't realize how small the canal is.|sd|2038
+B|Have you ever been there?|qy|2038
+A|No,|nn|2038
+A|I haven't.|sd|2038
+B|It's, it's really,|sd|2038
+B|I, I haven't been there,|sd|2038
+B|I've been to, been to Salvador|sd|2038
+B|and, and, uh, in fact, we went back to visit some friends of, of my fathers, that we went in fifty-seven I guess.|sd|2038
+B|And interestingly enough the canal is quite small and, and realistically could be sabotaged quite, quite easily.|sv|2038
+B|The thing I find interesting, though, is that, uh, is the whole colonial approach|sv|2038
+B|and, and, and do we, do we support the Sandinistas or, or do we support, uh,|qh|2038
+B|you know, when they thought, uh, they thought that Nicaragua, if you gave them a free election, they would vote for the,|sv|2038
+B|Will you, uh,|%|2038
+B|did you ever studied the, the political makeup there, in, in, in Nicaragua.|qy|2038
+A|I have a, a little bit,|na|2038
+A|I can't say that I'm, I would be an, an expert on, on the region,|sd|2038
+A|but, uh, certainly, uh, I, it, it gets, it there,|%|2038
+A|your,|%|2038
+A|you've got this, this toss up|sv|2038
+A|or not, not so much a toss up but a, a dilemma when, when you want a country to have its, its, um, own, uh, dominion, or its free rein over its, its own people.|sv|2038
+A|and now we're, we're in this dilemma over, uh, United States is, believes in democracy and, and self determination, where|sv|2038
+A|but that|%|2038
+A|on the other hand we believe in self preservation and, uh, agree with the, or, not so much agree with but are terribly concerned about, uh, Soviet influence in, in what's considered to be the United States sphere of the world which is not only, you, we used to see spheres|sv|2038
+A|but now we're in a situation where the United States is, looks like we're it now.|sv|2038
+B|Well the interesting part about it is that, if, realistically it was economic.|sv|2038
+B|I don't know if you read any of the history on where the Panama Canal|qy^d|2038
+B|but there was an option to build it across Nicaragua,|sd|2038
+B|uh, and, uh, there were, uh, there's a big, there's a big lake,|sd|2038
+A|Uh-huh.|b|2038
+B|and, um, from a technical standpoint it wouldn't have been a lot more difficult to have built it in Nicaragua,|sd|2038
+B|but the, the United States, uh, had some,|sd|2038
+B|and I've forgotten what the political influence was|sd|2038
+B|but there were economic ties then.|sd|2038
+B|The issue of, of|sd|2038
+B|if, if it's in the economic interest of the United States, uh, do we go in and, and prevail|qh|2038
+B|and, and, uh, in other words do we make the world safe for democracy,|qh|2038
+A|Right.|b|2038
+B|but if there's no economic benefit,|sv|2038
+B|and I think particularly if you're, if you're looking at the, at the, at the peasant, uh, whether he's in Central America, regardless of where he is, is his life, is his life better off under communism or, or uh, or Democratic government.|qh|2038
+B|You look at Salvador where the,|sd|2038
+A|Well he doesn't care as long as he's feeding his, uh, his family.|sv|2038
+B|Yeah,|b|2038
+B|and, and the question is, does the government make a difference.|qh|2038
+B|If they'll mostly leave him alone, uh,|sv|2038
+B|and I think that's the difficulty they, that, that we have that, uh, it, it reality doesn't make, uh, doesn't make any difference if he has no income.|sv|2038
+B|And apparently even some of our alleged, uh, Central American leaders that, uh, are mostly democratic have done some pretty terrible things,|sv|2038
+B|so it's, uh,|%|2038
+A|Yeah,|b|2038
+A|well,|%|2038
+A|in looking,|%|2038
+A|if you look at the region in, in, uh,|sd|2038
+A|to their detriment they came from, uh, this, uh, hundreds of years of Spanish control|sd|2038
+A|and the, and the Spaniards have, uh, horrible history of corrupt, uh, government, greedy, uh, rulers who have been, uh, manipulating, manipulating their public for their own, their own good.|sd|2038
+A|I mean, if you go back to the kings and, and the, the conquistadors coming in and, and the incredibly horrible things they did to the, uh, the native tribes,|sd|2038
+A|I mean they make, uh, they make the things that Custer did look like, uh, like trivial.|sv|2038
+A|And, uh, you get,|%|2038
+B|It is, it is interesting, that, that, you know we, we look at the exploitation|sd|2038
+B|and, and, and then we accuse some other people of exploiting them|sv|2038
+B|and, and Americans have, uh, have a pretty good reputation of exploiting,|sv|2038
+B|you know we basically the Panama Canal we went in and, and took it.|sv|2038
+A|Oh, absolutely|aa|2038
+A|and, you know we set up ...|sd|2038
+B|and we stole it fair and square,|sv|2038
+A|An,|%|2038
+A|I mean, Ted, Teddy Roosevelt didn't have the reputation, speak softly and carry a big stick for, uh, for nothing|sv|2038
+A|and, uh,|%|2038
+A|Right.|b|2038
+B|what's the, what's America's role there|qh|2038
+B|and it, it, uh,|%|2038
+B|with, with other things going on, it, it seems to have lessened,|sv|2038
+B|but you've still got, uh, Cuba that accepts, exerts some influence.|sv|2038
+A|The only, the only thing I see about Cuba though, is, uh, after Fidel Castro dies, I don't think they'll be a communist power anymore.|ar|2038
+A|I, I can't see communism in that country carrying on past him.|sv|2038
+B|Well, when you take a, a situation where I think in particular in Salvador where there is a significant under class excuse me,|sv|2038
+B|and that, uh,|%|2038
+B|you know, having a, a lot of difficulty, uh, surviving, uh, the question is would they, you know, would they be better off under communism.|qh|2038
+A|Yeah.|b|2038
+B|and I wouldn't, don't know that I would advocate communism|sv|2038
+B|but, uh, the question is can, uh, can you, can, uh, can a democracy, uh, afford the,|qh|2038
+B|it's like the street people that are starting to show up all other the U S, is that, that's essentially an underclass|sv|2038
+A|Right.|b|2038
+B|and when you get enough of them, uh, you know communism would feed them all.|sv|2038
+A|well, I, I don't know if maybe communism is the right, the right word for it|arp_nd|2038
+A|but what we would,|sd|2038
+A|there would have to be some kind of,|sd|2038
+A|there, there may be a point at which, at which, you've, uh, you might want to consider some kind of socialistic, uh, organization or socialistic set up to, to deal with the problem and then be able to gradually transform back to a democracy.|sv|2038
+B|Well that,|%|2038
+B|yeah,|%|2038
+B|if the guys got some incentive,|sv|2038
+B|if he's got, uh,|sv|2038
+B|you know, if he, if he can raise enough, uh, coffee and bananas to, uh, where he's got something to protect,|sv|2038
+B|other, you know,|%|2038
+A|Right,|b|2038
+A|right.|b|2038
+B|whether he can export or at least, uh, set up trade and all then democracy of a considerable interest.|sv|2038
+A|But cocoa leaves sell real well right now, it seems,|sv|2038
+A|yeah.|%|2038
+B|Yeah,|b|2038
+B|as well as some other various things that are growing in tropical environments.|sv|2038
+A|Absolutely.|aa|2038
+A|I don't,|%|2038
+A|it's going to be hard to, um,|sv|2038
+A|we,|%|2038
+A|if you, you,|%|2038
+A|that, that's where your absolutely right is we've got to do something in that region to encourage, uh, or to make, to make him growing bananas profitable again, I mean.|sv|2038
+B|Yes,|aa|2038
+B|but the, but the question is, you know, if somebody offered you, you know, a thousand dollars a day to, to grow something in your backyard, would you do it.|qh|2038
+A|Right.|b|2038
+B|Well not that we could be bought,|sv|2038
+B|but, uh,|%|2038
+A|I've got to watch what I say here,|sd|2038
+A|I never know when the D I A may be, uh, listening on my phone|sd|2038
+B|Well of course, everything we're saying is being recorded|sd|2038
+B|and ...|%|2038
+A|Right,|b|2038
+B|Of course,|b|2038
+B|of course.|b|2038
+A|yeah,|b|2038
+A|it's tempting,|sv|2038
+A|it's got to be, it's got to be horribly tempting for those, those peasants.|sv|2038
+B|Particularly, if you're hungry.|^2|2038
+A|Yeah,|b|2038
+A|yeah,|b|2038
+A|you,|%|2038
+A|it's not, it's not just a matter of, uh, of having an extra car or having a better car, this is a matter for them of, of feeding themselves their wife and their family|sv|2038
+A|and, and you,|%|2038
+A|there's a certain degree of honor in being able to feed your family|sv|2038
+A|and there's dishonor in not being able to do it|sv|2038
+A|and ...|%|2038
+B|Uh, starving to death is not a, not a whole lot of fun either|sv|2038
+B|and, that,|%|2038
+A|No,|aa|2038
+A|no.|aa|2038
+A|Uh-huh.|b|2038
+B|In reality, I think, what they were doing is basically going in and trying to feed some people and help them protect themselves,|sv|2038
+B|not that they,|%|2038
+B|I'm, I'm not sure the Catholic church is, is, is particularly political|sd|2038
+B|but, you know, if ...|%|2038
+A|Right.|b|2038

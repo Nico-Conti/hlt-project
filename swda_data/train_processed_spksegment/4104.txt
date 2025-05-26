@@ -1,0 +1,121 @@
+A|Anyway, uh|fo_o_fw_"_by_bc|4104|0
+B|How about you.|qo|4104|1
+B|What do you do with your budget?|qw|4104|1
+A|What do I do,|t1|4104|0
+A|uh, at the moment it's under chaos.|sd|4104|0
+A|Uh, right now I'm just, uh,|sd|4104|0
+A|I, I don't really have a budget per se.|sd|4104|0
+A|I'm, I, uh, it's called living within your means You know, which means at the moment, paying off the VISA bill and keeping everything else under control and hoping the car doesn't collapse|sd|4104|0
+B|Uh-huh.|b|4104|1
+B|Yeah.|aa|4104|1
+B|That's true.|aa|4104|1
+A|Uh, but, uh, no|fo_o_fw_"_by_bc|4104|0
+A|I don't really have a budget at the moment.|sd|4104|0
+A|Uh, but I have uh, I have a rough feel for how much money I can afford to spend each month|sd|4104|0
+A|and then I don't, usually don't exceed that unless I, unless the VISA bill gets out of hand for one reason or another, like if I have car expenses|sd|4104|0
+A|and then that, then it goes through the moon,|sd|4104|0
+A|so.|%|4104|0
+B|Yeah,|b|4104|1
+B|that's sort of a problem.|sv|4104|1
+A|Yeah,|b|4104|0
+A|so uh, what do|qw|4104|0
+B|We're trying, we're trying to, uh,|sd|4104|1
+B|so far we are in the clear credit wise|sd|4104|1
+B|but, uh, the other side of it is,|sd|4104|1
+B|so, not much on that side of it to add to it.|sd|4104|1
+B|We're trying to think of how to put away some savings and stuff like that|sd|4104|1
+B|but,|%|4104|1
+A|So you can afford to get a house?|qy^d|4104|0
+B|Yeah,|ny|4104|1
+B|we'd like to do that some day.|sd|4104|1
+B|We have this dream.|sd|4104|1
+A|Yeah.|b|4104|0
+B|But, we don't know how long it will be a dream.|sd|4104|1
+B|We, we're kind of real, we're real happy that we don't have any debt,|sd|4104|1
+B|but we're at the same time we're real scared about incurring it in this, uh, economy right now|sv|4104|1
+B|so we're stepping real careful and trying to see what's the best way to save what, the little bit that we do get, you know, on top of expenses every month.|sd|4104|1
+A|Yeah.|b|4104|0
+A|So, what do you and your husband do?|qw|4104|0
+B|We're missionaries actually.|sd|4104|1
+A|Are you really?|bh|4104|0
+B|Yeah,|ny|4104|1
+B|uh-huh.|ny|4104|1
+B|And, uh, it will be easier once we get overseas cause we have, uh, like, uh, uh, support quota|sd|4104|1
+A|Um.|%|4104|0
+B|and it's cheaper to live overseas than it is to live here.|sd|4104|1
+A|No kidding.|ba|4104|0
+B|And it doesn't get switched very easily once you come home.|sd|4104|1
+A|I see.|b|4104|0
+B|So,|%|4104|1
+A|Overseas, where would you be going?|qw|4104|0
+B|Africa,|sd|4104|1
+B|Nigeria.|sd|4104|1
+A|Really.|b|4104|0
+B|Yeah.|b|4104|1
+A|Really.|b|4104|0
+A|How long would you be there?|qw|4104|0
+B|About four years.|sd|4104|1
+B|We're career|sd|4104|1
+B|so, we, we go over seas for four years|sd|4104|1
+B|and then we come back for a year.|sd|4104|1
+B|We go over four,|sd|4104|1
+B|we come back for a year.|sd|4104|1
+A|With, with what Church?|qw|4104|0
+B|Uh, we're with Wycliff Bible Translators.|sd|4104|1
+A|Oh yes.|bk|4104|0
+A|Yes,|bk|4104|0
+B|So.|%|4104|1
+A|I, uh, I know who they are.|sd|4104|0
+A|They, uh, they have an office, uh, in in Costa Mesa as I recall.|sd|4104|0
+B|Yeah,|b|4104|1
+B|they could very well|sv|4104|1
+B|and,|%|4104|1
+A|There, there was, uh, you know, there was a fairly large building that that was well that belongs to them.|sd|4104|0
+A|So, uh, are you, uh, are you, uh, active in translation?|qy|4104|0
+B|Uh, we will be.|no|4104|1
+B|I was over, over four years doing language surveying which is the first step.|sd|4104|1
+B|You're kind of like the scout that goes ahead of the team and assesses the need.|sd|4104|1
+A|Uh-huh|b|4104|0
+B|And, uh, came home and got married|sd|4104|1
+B|and we will go back as translators cause we want to raise a family|sd|4104|1
+B|and it is easier to raise a family as translators.|sd|4104|1
+B|Well, I always wanted to do translation,|sd|4104|1
+B|but as long as I was single and foot loose so to speak it's easier.|sd|4104|1
+B|You know they really need surveyors cause you could, you're free to travel anywhere.|sd|4104|1
+B|You don't have kids hanging around you and stuff.|sd|4104|1
+A|True,|aa|4104|0
+A|true enough.|aa|4104|0
+A|So, uh, what, what, uh, what languages do you speak besides English, of course?|qw|4104|0
+B|Well, I have a smattering of about ten different ones,|sd|4104|1
+B|but there's,|%|4104|1
+B|I'm not bilingual in any of them because I kept switching from one area to the other, you know,|sd|4104|1
+B|since I did you know, complete a survey in one area, I'd switch to the other.|sd|4104|1
+A|Uh-huh|b|4104|0
+B|So I know the greetings in about ten, and how to do market stuff,|sd|4104|1
+B|but in about, uh, about five I guess, I can do better in it.|sd|4104|1
+B|And my French is pretty good|sd|4104|1
+B|but it's, uh, French|%|4104|1
+B|so, uh, I'm terrified to speak in, uh in France.|sd|4104|1
+A|In France.|^2|4104|0
+B|Yeah,|aa|4104|1
+B|because they're real snobby about their language|sv|4104|1
+B|and French is street French|sd|4104|1
+B|and I just picked it up off the street|sd|4104|1
+B|and I knew what I was, I knew what I was communicating,|sd|4104|1
+B|but I didn't know what I was saying.|sd|4104|1
+B|I never sat there and got a direct translation|sd|4104|1
+B|and said something here when I came home and French to somebody|sd|4104|1
+B|and he paled and said, uh, I'm not going to tell you what you said.|sd|4104|1
+B|So, since then I have refrained from speaking any French|sd|4104|1
+B|So.|%|4104|1
+B|In|%|4104|1
+A|Uh,|%|4104|0
+B|I don't know what I said to him|sd|4104|1
+B|but, uh, I didn't ask him either.|sd|4104|1
+A|Must have been terrible.|ba|4104|0
+A|The, uh,|%|4104|0
+A|was it Henry Macon said that the, the, uh, language was like a man slowly bleeding to death.|qy|4104|0
+A|So they hemorrhaged him to death without new infusions that will eventually die|^q|4104|0
+A|and I, it just amazes me that the French don't recognize that.|sv|4104|0
+A|Free style English is just,|sv|4104|0
+A|takes on,|%|4104|0

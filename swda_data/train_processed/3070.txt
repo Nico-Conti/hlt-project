@@ -1,0 +1,193 @@
+B|Does your family normally have a reunion?|qy|3070
+B|Do you have one,|qy|3070
+A|Well,|%|3070
+B|that's been,|%|3070
+A|on my father's side we've really there, uh,|%|3070
+B|Uh-huh.|b|3070
+A|On my mother's side we've had several,|na|3070
+A|not,  it's not really on a regular basis,|sd|3070
+B|Uh-huh.|b|3070
+A|but usually sometimes every few summers.|sd|3070
+A|Well, all, see, all the family lives in once place, except for a few of us are scattered about.|sd|3070
+B|Right.|b|3070
+A|So they're pretty much just reunited always|sd|3070
+B|Uh-huh.|b|3070
+A|so it's, it's just once in a while we get the special gathering with everyone together.|sd|3070
+B|Well, it might be a good time for you to to, to start a tradition.|ad|3070
+A|I know,|aa|3070
+A|that's|%|3070
+B|You could be responsible for that yourself.|ad|3070
+A|do that,|%|3070
+A|that's true.|aa|3070
+B|Sure.|b|3070
+A|How about your family?|qo|3070
+B|Well, in my family, let's see, last October was the forty fifth annual  uh, reunion.|sd|3070
+A|Wow,|ba|3070
+A|you're,  a pro at this.|sv|3070
+B|The first Sunday in October, the Jordan family gets together.|sd|3070
+A|Oh, that's good.|ba|3070
+B|And all of the descendants of the Civil War, I mean, yeah, the Civil War veterans come together,|sd|3070
+B|and they come as far away from California,|sd|3070
+B|and there's usually oh, between a hundred and fifty and two hundred and fifty people.|sd|3070
+A|And then where do you meet?|qw|3070
+B|Uh, there's a big community hall in Vernon Texas,|sd|3070
+A|Okay.|bk|3070
+B|and, uh, that seems to be sort of a middle ground for all of the Texas family.|sd|3070
+A|Okay.|bk|3070
+A|Do you have relatives in Vernon then?|qy|3070
+B|Uh-huh.|ny|3070
+A|Okay.|bk|3070
+B|Right,|na|3070
+B|uh-huh.|ny|3070
+B|A lot of the older family lives in Vernon.|sd|3070
+A|Right.|b|3070
+B|Um, all of his direct descendants, descendants have now died|sd|3070
+B|and the grandchildren are in their seventies and eighties.|sd|3070
+A|Oh.|bk|3070
+B|So we're talking about second and third great children here.|sd|3070
+A|Right.|b|3070
+B|Uh, I take my boys well, I took them up until this year,|sd|3070
+B|they're grown and gone from home now|sd|3070
+A|Oh.|b|3070
+B|so they, they take their family.|sd|3070
+A|Right.|b|3070
+B|But, uh, let's see,|^h|3070
+B|that would make them, grandfather, great grandfather, great great grandfather,|sd|3070
+B|okay,|%|3070
+B|so it would be the second great grandchild.|sd|3070
+B|And so they,|%|3070
+A|Okay,|b|3070
+A|so this town hall that you meet in, is that like a, um,|qy|3070
+B|Well, it's a community center, it's a community hall.|arp_nd|3070
+B|It's,  a great big open building that has a wonderful kitchen it in,|sd|3070
+A|Okay.|bk|3070
+B|and, uh, you just bring the covered dishes.|sd|3070
+B|Every, every family brings a, a dish of some kind,|sd|3070
+B|and you get all the wonderful old family recipes,  that have been handed,  down for years|sd|3070
+A|Potato salad and, uh,|qy^d|3070
+B|Well, we try to stay away from those things which might have, uh, salmonella in them.|arp_nd|3070
+A|Oh, that's good.|ba|3070
+B|And we choose to bring congealed salad.|sd|3070
+B|You can bring a congealed vegetable salad,  as opposed to potato salad.|sd|3070
+A|Right.|b|3070
+B|And we are very conscious of, most of us are very conscious of, of, uh, sanitation aspects,  whatever you've got to carry for any distance.|sd|3070
+A|Right.|b|3070
+B|I always, take home baked bread.|sd|3070
+A|Oh, that's nice.|ba|3070
+B|Uh, that happens to be my specialty for that family.|sd|3070
+B|I do other things very well,|sd|3070
+A|Right.|b|3070
+B|but there are others in the family who do them better.|sd|3070
+A|Do they always have the, the one person in the family who knows, or everyone thinks they know how to make this the best,  so that's what they get to cook.|qy|3070
+B|Uh-huh.|ny|3070
+A|Well, that's good.|ba|3070
+A|Well , I had a professor in anthropology at school who studied family reunions,|sd|3070
+A|so I learned a lot about them.|sd|3070
+A|I haven't,  been to a lot,|sd|3070
+B|Uh-huh.|b|3070
+A|but we talked,  a lot about the, the rituals,|sd|3070
+B|Uh-huh.|b|3070
+A|you all equated the family reunions as,  with the Protestant.|sv|3070
+B|Uh-huh.|b|3070
+A|It was the Protestant version of the Catholic pilgrimage.|sv|3070
+B|Uh-huh.|b|3070
+A|It was, it was an interesting theory.|sd|3070
+A|She talked about the, uh, the Catholics|sd|3070
+A|all, it's a home centered, you know, it's all family centered anyway,|sv|3070
+A|so you usually are living where your parents live|sv|3070
+A|and it's all,|%|3070
+A|your, you don't have to come home,|sv|3070
+A|so the Catholics would make a pilgrimage in older Europe,|sd|3070
+A|but when the Protestant ethic happened in America, there were people who ever went out and, you know, went away from the family to seek their fortune, and then had to come back home for their reunion, so that,  became their version of the pilgrimage.|sd|3070
+B|Uh-huh.|b|3070
+B|Right.|b|3070
+A|But she had,|%|3070
+A|it was interesting, you know,|sd|3070
+A|I don't know how valid it is,|sd|3070
+A|but she talked about that and how the, the big picnic table was the symbolic communion of the people gathering together, and, um, you know, about the bread and the ritual placement.|sd|3070
+A|Do you have a, a certain way that everything is placed out on the table every, every year?|qy|3070
+A|Is there kind of a, you know,|qy|3070
+A|salads go first and things like that?|qy|3070
+B|Well, it's, uh,|%|3070
+B|we have, uh, uh, kind of a core group that, that serves as, quote, officers of the organization,|arp_nd|3070
+A|Right.|b|3070
+B|and they plan the reunions,|sd|3070
+B|the organize the, you know, who is going to see to it that the coffee pot gets there, who's going to rent the tables, who's going to see to it that the silverware gets turned back to the caterer.|sd|3070
+B|Uh, and each year it's done a little bit differently, because different people serve in those roles.|sd|3070
+A|Well, that's pretty .|ba|3070
+B|We have a biographer who, who continues every year to save clippings on any family member,|sd|3070
+B|and they're entered into a, a wonderful, uh, scrap book. And pictures of new babies and new people who have been added and, and obituaries to those who are gone.|sd|3070
+B|And it keeps the family alive,  even, you know, even though it's very fluid.|sd|3070
+A|Sure does.|aa|3070
+A|That's wonderful.|ba|3070
+B|And they're very dedicated to that,|sd|3070
+B|and, uh, it's been really wonderful.|sd|3070
+B|It helps you hang onto your roots.|sv|3070
+A|Yeah.|aa|3070
+A|I wish we'd,|sd|3070
+B|And it helps you feel a strong sense of belonging.|sv|3070
+B|My husband, on the other hand, was not very close to his family.|sd|3070
+B|His family was very scattered and very diverse.|sd|3070
+A|Right.|b|3070
+B|And I asked him, I got to talking to him,|sd|3070
+B|I said, well, how is his nephew doing.|sd|3070
+B|"Well, I don't know,|^q|3070
+B|I haven't,  talked to my brother in three years."|^q|3070
+B|I said , "Well, how's your brother doing?"|sd|3070
+B|"I don't know."|^q|3070
+B|Uh, you know, my son keeps in touch with him, I think,|^q|3070
+B|but I don't.|^q|3070
+A|Right.|b|3070
+B|I said, "Hey, wouldn't you like to know what's happening with these people?"|sd|3070
+B|"Yeah,|^q|3070
+B|but I'm, you know,|^q|3070
+B|it's too much trouble."|^q|3070
+B|So I got busy, got together, and put a reunion together for his family. And succeeded in getting all of his brothers and sisters and all of their offspring but one to our place down at Lake Tawakoni.|sd|3070
+A|Wow.|ba|3070
+A|You're just, uh,|%|3070
+A|Oh, that's incredible.|ba|3070
+B|Liked to kill me, because I it was, I didn't have that group cooperation,|sd|3070
+B|I did,  it by myself.|sd|3070
+A|Right.|b|3070
+B|And, uh, nobody brought covered dishes.|sd|3070
+B|We had a great big fish fry,|sd|3070
+B|and, you know, I fixed a salad in a number three tub.|sd|3070
+A|Right|b|3070
+B|And, and, uh, it was an enormous task to bring all of those people together with just one or two people helping.|sd|3070
+B|And, uh, we had to provide sleeping arrangements for all of them|sd|3070
+B|and I told him,|%|3070
+A|Have you, have you done this repetitively, or just once?|qy|3070
+B|We did it that year,|sd|3070
+B|and then the following summer, we did not have all of the family there.|sd|3070
+B|We sent invitations.|sd|3070
+B|We said, "Please let us know if you're coming."|sd|3070
+B|It was when, uh, his mother, his step father had died the year before,|sd|3070
+A|Oh.|bk|3070
+B|and it,|%|3070
+B|his mother was alone, and so they came to support her,|sd|3070
+B|and then one by one, his you know, his sisters, he began to lose family members,|sd|3070
+A|See, that's|%|3070
+A|we've we had a problem with that.|sd|3070
+B|and it was difficult to hold them together.|sd|3070
+B|And then, of course, he died two years ago,|sd|3070
+B|so, you know, that family has gone down to one brother and one sister now.|sd|3070
+A|Oh.|bk|3070
+B|And, uh, it,|%|3070
+B|I think that's what happens when they get scattered,|sv|3070
+B|the, the family unit, you know, falls,  into disrepair.|sv|3070
+A|Right.|aa|3070
+A|That's our, was our problem.|sd|3070
+A|We had, uh, the first reunion, or the first, you know, major reunion was probably six or seven years ago.|sd|3070
+B|Uh-huh.|b|3070
+A|And then the second reunion, people who maybe, you know, had sacrificed things to come to the first one thought, oh, well, it's not that big a thing this year,|sd|3070
+B|Uh-huh.|b|3070
+A|and so it kind of wound down,|sd|3070
+B|Uh-huh.|b|3070
+A|and then finally, you know, you're lucky to get, you know, you get the Shreveport relatives there, but no one else|sd|3070
+A|so that,|%|3070
+B|Uh-huh.|b|3070
+B|Well, see, we manage, those people who are at that core group manage to keep, keep the vigor alive.|sd|3070
+B|They'll send out news bulletins.|sd|3070
+B|Two or three times a year you'll get a news|sd|3070
+B|hey, guess who got, you know, elected to the legislature,|^q|3070
+B|or guess who our local sheriff,|^q|3070

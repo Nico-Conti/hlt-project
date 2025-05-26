@@ -1,0 +1,150 @@
+B|Hi, Clarice.|fp|3189|0
+B|Um, have you had a family reunion recently?|qy|3189|0
+A|Yes,|ny|3189|1
+A|just this last summer we went back to Utah,|sd|3189|1
+A|and we met, it was my,|sd|3189|1
+A|we usually go to my family reunion,|sd|3189|1
+A|but this one was my husband's|sd|3189|1
+B|Uh-huh.|b|3189|0
+A|and they're usually quite similar, I think.|sd|3189|1
+B|Are you both from Utah originally?|qy|3189|0
+A|No,|nn|3189|1
+A|he's from here|sd|3189|1
+B|Oh, uh-huh.|bk|3189|0
+A|but, uh, most of his people are from Oregon,|sd|3189|1
+A|so we kind of met halfway|sd|3189|1
+B|Uh-huh.|b|3189|0
+A|and so, this was one,|sd|3189|1
+A|and they, um, planned it up in the mountains and got a cabin and had, you know,|sd|3189|1
+B|Oh, how nice.|ba|3189|0
+A|things like that have to be planned,|sv|3189|1
+A|like they had planned|sd|3189|1
+A|that, we went to the reunion in end of June and first of July that part the fourth of July weekend,|sd|3189|1
+B|Uh-huh.|b|3189|0
+B|Uh-huh.|b|3189|0
+A|but we had to plan everything like clear in December, January to reserve that.|sd|3189|1
+B|Sure,|b|3189|0
+B|sure,|b|3189|0
+B|Now was this his entire family, cousins, aunts, uncles like that or his immediate family?|qy|3189|0
+A|Uh-huh.|b|3189|1
+A|No|nn|3189|1
+B|Oh, wow.|ba|3189|0
+A|this was everybody.|sd|3189|1
+B|Oh wow,|ba|3189|0
+B|how many people were there?|qw|3189|0
+A|Oh, I, oh, I, jeez, I think over, um, three hundred were there.|sd|3189|1
+B|Wow.|ba|3189|0
+A|It was quite a large|sd|3189|1
+B|Wow.|ba|3189|0
+A|it was a great big lodge,|sd|3189|1
+A|and so we had plenty of room and everything,|sd|3189|1
+A|and some of them live in that area,|sd|3189|1
+A|so it wasn't too hard for them to come in the day and leave.|sd|3189|1
+B|Uh-huh.|b|3189|0
+A|But, um, that was a great big thing,|sd|3189|1
+A|and we do that with his family about every five years,  a great big one.|sd|3189|1
+A|And then like immediate family we do, like we try to do one thing once a year.|sd|3189|1
+B|Now how many, how many people are in his immediate family?|qw|3189|0
+A|Well, he has eight brothers and sisters|sv|3189|1
+B|Oh, wow.|ba|3189|0
+A|so that's big by itself.|sd|3189|1
+B|Wow,|ba|3189|0
+B|it really is,|aa|3189|0
+B|and you get together once a year.|qy^d|3189|0
+A|Yeah.|ny|3189|1
+B|Wow,|ba|3189|0
+A|So we have a little shindig with them.|sd|3189|1
+B|Are they all here in the area,|qy|3189|0
+B|or are they scattered?|qrr|3189|0
+A|Um they're close, in a close proximity.|sd|3189|1
+A|Um, let's see,|^h|3189|1
+A|there are four of them who live here in Texas, and his mom and dad.|sd|3189|1
+B|Uh-huh.|b|3189|0
+A|So, um, the others live in close neighboring, um, states, like Nevada, Arizona I think like that,|sd|3189|1
+B|Uh-huh.|b|3189|0
+A|yeah|%|3189|1
+B|Oh wow,|ba|3189|0
+B|that's wonderful.|sd|3189|0
+A|so, it's been fun.|sd|3189|1
+A|How about you?|qo|3189|1
+B|Well, we don't really get together,|sd|3189|0
+B|I, I would love to,|sd|3189|0
+B|and that's why I checked that I wanted to do that, because I would love to plan a family reunion sometime.|sd|3189|0
+B|Um, I have a sister in Colorado, and, uh, a sister in upstate New York, and a sister in Connecticut, and here I am in Texas.|sd|3189|0
+B|So we're kind of scattered right now.|sd|3189|0
+A|Uh-huh.|b|3189|1
+B|And, uh, my, my cousins have a, you know, they put on a family reunion, um, once a year,|sd|3189|0
+B|but it's always like the second week in September,|sd|3189|0
+B|so it's,|%|3189|0
+B|the kids are already back in school|sd|3189|0
+A|Uh-huh.|b|3189|1
+B|and so, and that's back in the|sd|3189|0
+A|That's hard.|ba|3189|1
+B|and that's in New York,|sd|3189|0
+B|and there's no way, I mean there's just no possible way.|sd|3189|0
+A|Yeah,|b|3189|1
+A|Yeah.|b|3189|1
+B|And it's not really a weekend,|sd|3189|0
+B|it's just like a day kind of thing, because most of them are, you know, um,|sd|3189|0
+B|my family moved to Connecticut,|sd|3189|0
+B|the rest of the family stayed in New York and, uh, on Long Island,|sd|3189|0
+A|Uh-huh.|b|3189|1
+B|and so, they're all kind of local and close,|sd|3189|0
+B|and so they just have a, you know, a day picnic,|sd|3189|0
+B|and, uh, I've always thought it would be so neat, even if it were just my immediate family, to have like a weekend type thing|sd|3189|0
+A|Yeah.|b|3189|1
+B|that would be so wonderful|sd|3189|0
+A|It really is fun,|sd|3189|1
+A|and my mom's family does it once a year, just like you said|sd|3189|1
+B|Uh-huh.|b|3189|0
+A|once a year, um, they have a, a, a Wednesday through a, a Saturday type thing.|sd|3189|1
+A|You can come and go as you please type thing.|sd|3189|1
+B|Oh, wow.|ba|3189|0
+A|And they do that once a year.|sd|3189|1
+A|I kind of missed it this year, and felt bad,|sd|3189|1
+A|but you can't go every year,|sv|3189|1
+A|you just cannot do that.|sv|3189|1
+B|Yeah,|b|3189|0
+B|yeah,|b|3189|0
+B|Yeah.|b|3189|0
+A|Um.|b|3189|1
+B|And do they, they have a hotel,|qy|3189|0
+B|or where do you stay?|qrr|3189|0
+A|Um, basically, they just stay with each other, brothers or sisters.|sd|3189|1
+A|There are enough in the area to, to just kind of span yourself out.|sd|3189|1
+B|Take everybody,|^2|3189|0
+B|yeah.|%|3189|0
+A|Whoever's mom and dad it is, you usually go and stay with them,|sd|3189|1
+A|like I go stay with my mother,|sd|3189|1
+A|and my cousins, they just go stay with their mom and dad, you know kind of thing.|sd|3189|1
+B|Uh-huh,|b|3189|0
+B|uh-huh.|b|3189|0
+A|And so it's not hard in, in that respect because they all are pretty centralized in one Utah area|sd|3189|1
+B|Yeah,|b|3189|0
+B|yeah,|b|3189|0
+A|so that's not hard,|sd|3189|1
+A|but the real planning, that's the real key|sd|3189|1
+B|Oh, that sounds so wonderful,|ba|3189|0
+B|isn't that nice.|qh|3189|0
+B|Yeah.|b|3189|0
+A|and they send out,|sd|3189|1
+A|my mom's family now,|sd|3189|1
+A|this is the first reunion with my husband's family I've really been involved with,|sd|3189|1
+A|but my mom's family, each brother and sister takes a turn one year,|sd|3189|1
+A|and that's how they divide it up|sd|3189|1
+B|Uh-huh.|b|3189|0
+B|But then one brother and sister from each family.|sd|3189|0
+B|Uh-huh.|b|3189|0
+A|and each one of them take their turn.|sd|3189|1
+B|Oh, wow,|ba|3189|0
+B|uh-huh.|b|3189|0
+A|And then the, the parent who's turn it is, the child whose turn it is her children help her,|sd|3189|1
+B|Uh-huh.|b|3189|0
+A|like if it was my mother's turn all of us children would help her put it on kind of thing.|sd|3189|1
+B|Oh, I see, uh-huh.|ba|3189|0
+B|Uh-huh.|b|3189|0
+B|Uh-huh.|b|3189|0
+B|Oh, wow,|ba|3189|0
+A|Yeah,|b|3189|1
+A|and, um, the thing is, that, um, the, the real part is there are two mailings that go out,|sd|3189|1
+A|and the first one is to just kind of give an approximate date and time so you can start making,|sd|3189|1

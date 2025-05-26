@@ -1,0 +1,216 @@
+B|Okay.|fo_o_fw_"_by_bc|3135
+B|Do you, have you ever had to put your children in, child care, Mary Dell?|qy|3135
+A|Oh yes.|ny|3135
+A|I'm an old experienced hand.|sd|3135
+A|I started back when it wasn't, stylish to do that at all.|sd|3135
+A|My daughter that's seventeen now I worked even when she was a baby.|sd|3135
+B|Uh-huh.|b|3135
+B|Oh.|b|3135
+A|And I had private care for both my daughters until they were two|sd|3135
+A|and then I was really lucky to have put them in a, Methodist day school at Preston Hollow Methodist, right off  of Walnut Hill and Preston.|sd|3135
+B|Uh-huh.|b|3135
+B|Uh-huh.|b|3135
+A|And it was a wonderful environment.|sd|3135
+A|I, I just wish all kids, if they have to be put in day school, could have that kind of place|sd|3135
+B|Uh-huh.|b|3135
+B|I see.|b|3135
+A|So, it worked well.|sd|3135
+B|Oh.|b|3135
+A|How about you?|qo|3135
+B|Well, I have, uh, a nine year old and a six year old|sd|3135
+B|and neither one of them has ever been in in, uh, day care for the reason of, of me working|sd|3135
+A|Uh-huh.|b|3135
+A|Uh-huh.|b|3135
+B|but, uh, they both went through preschool.|sd|3135
+A|Yeah.|b|3135
+B|And, uh, we've just been real lucky  I think, anyway. To not,|sv|3135
+A|Uh-huh.|b|3135
+A|It's not hard to find anything that's part-time.|sv|3135
+A|So many of the churches have really strong  preschool and children's day out|sv|3135
+B|Right,|aa|3135
+B|like half day programs.|^2|3135
+B|Uh-huh.|%|3135
+B|Uh-huh.|b|3135
+A|but, it was a nightmare back when Cheryl was little|sd|3135
+A|and this is one of the few churches that did it.|sd|3135
+A|There were a couple downtown Dallas|sd|3135
+A|but they were so, seemed, cold and impersonal,|sv|3135
+A|I just couldn't hack it.|sd|3135
+B|Uh-huh.|b|3135
+A|And what I liked about Preston Hollow is that the people that were there when Cheryl was two, which was fifteen years ago, many of them are still there today.|sd|3135
+A|So there  was real continuity.|sd|3135
+B|Oh.|b|3135
+A|She went back as a teenager|sd|3135
+A|and these people that had changed her diapers when she was three were still there.|sd|3135
+B|Oh, my gosh.|ba|3135
+A|So, it, it was really neat.|sv|3135
+A|But it was because they had a director that had always done it as a labor of love|sd|3135
+A|and  she just kept good people and  real cheerful place, lots of arts and crafts,|sd|3135
+B|Uh-huh.|b|3135
+B|Oh my goodness|ba|3135
+A|and I'm really glad my kids had it because Plano schools do so little of that.  That if they hadn't had it before they hit first grade they were never going to have any art or music or any of the interpretive stuff.|sd|3135
+B|Right.|aa|3135
+B|Right.|aa|3135
+B|Yeah.|aa|3135
+B|Uh-huh.|aa|3135
+B|Yeah,|aa|3135
+B|that is, uh, a big drawback I think in that, in the, uh, public schools out here. You know, to,|sv|3135
+A|Uh-huh.|b|3135
+B|you're lucky to have an art teacher|sv|3135
+B|and if you do you get them once a week or something, you know.|sd|3135
+A|Or pay for it after school.|^2|3135
+A|Our Emily's in the third grade over at Huffman|sd|3135
+A|and they started a pilot program where we can pay private tuition so that they can take French and music and art|sd|3135
+A|and   you know, I willingly did it|sd|3135
+B|Oh is that right?|bh|3135
+B|I had no idea.|sd|3135
+A|but I thought, this makes me angry.|sd|3135
+A|This is something that ought to be in the schools  rather than some of the other stuff they do.|sv|3135
+B|Oh my goodness.|ba|3135
+B|And with our budget cuts, I'm sure  that's not going to not going to change anytime soon.|sv|3135
+A|Yeah.|b|3135
+A|Well that's the only way they're. Yeah, well, that's the only way they're going to be able to do it.|sv|3135
+A|And parents who really want their kids to have any humanities are going to have to do that.|sv|3135
+B|Oh my goodness.|ba|3135
+A|So, in some ways I think the, the day schools do serve those purposes.|sv|3135
+B|Yeah.|aa|3135
+B|That's true.|aa|3135
+B|Well even the preschools, you know they get so much of that in preschool|sv|3135
+B|and then when they hit kindergarten, you know, it's like wham  Culture shock.|sv|3135
+A|Yeah.|b|3135
+A|Yeah.|b|3135
+B|It's just,|%|3135
+A|Put the colors away|bf|3135
+B|Yeah,|aa|3135
+B|yeah.|aa|3135
+B|Get the computers out|ad|3135
+A|Which is too bad.|sv|3135
+B|and, you know.|%|3135
+A|Uh-huh.|b|3135
+B|hard.|sv|3135
+A|Uh-huh.|b|3135
+B|It's so difficult for them.|sv|3135
+B|Um, did you have your children, did you say in home, in, in, private care,|qy|3135
+B|was that in your home or in someone else's home?|qy|3135
+A|Until they were two.|sd|3135
+A|Yeah.|ny|3135
+A|Yeah,|ny|3135
+A|both times they were at our house.|sd|3135
+B|Uh-huh.|b|3135
+B|So you were able to have somebody come there.|qy^d|3135
+A|And that was hard too.|sd|3135
+A|I, I lucked out with really good people both times|sd|3135
+A|but I know so many people that are never able to find that|sd|3135
+A|and I'd practically give my paycheck away to do it,|sd|3135
+A|so|%|3135
+B|Yeah.|b|3135
+B|Yeah.|b|3135
+B|Did you have a nanny|qy|3135
+B|or did you have someone  that lived in with you?|qrr|3135
+A|Yeah.|ny|3135
+A|Well no,|nn|3135
+A|she didn't live with us.|sd|3135
+A|Uh, the first one was an, elderly lady who was putting a, a daughter through nursing school  just purely on baby-sitting money.|sd|3135
+B|Oh.|b|3135
+B|Oh my goodness.|ba|3135
+A|And she kept Cheryl during the day and then did more baby-sitting at night.|sd|3135
+B|Uh-huh.|b|3135
+A|And she was neat because she was like the grandmother that my kids never had  because both our parents are dead.|sd|3135
+B|Yeah.|b|3135
+B|Oh.|b|3135
+A|So that, that was a plus from  that respect as well.|sd|3135
+B|Oh gosh.|ba|3135
+A|And then with Emily it was a neighborhood friend that kept her.|sd|3135
+B|Uh-huh.|b|3135
+B|Uh-huh.|b|3135
+A|So,|%|3135
+B|I have, uh,|sd|3135
+A|I just cannot fathom putting a little bitty baby in a commercial care center.|sv|3135
+B|Uh-huh.|b|3135
+B|I was just listening to a program this morning,|sd|3135
+B|oh well, I guess it was on the HOME SHOW,|sd|3135
+B|but they were talking about, uh, a new, uh,|sd|3135
+B|oh I can't even think of the name of it.|sd|3135
+B|I was halfway listening while I was painting|sd|3135
+A|Uh-huh.|b|3135
+B|Um, it's some kind of advisory board they've put together for parents and children|sd|3135
+A|Uh-huh.|b|3135
+B|and they've now moved it to Washington, D C|sd|3135
+B|and the, the doctor that was on there, the pediatrician said, you know, I can't imagine leaving a three week old and taking them to a nursery day-care   and leaving them there.|sd|3135
+A|Yeah.|b|3135
+A|Oh that would be hard.|sv|3135
+B|You know, so, um,|%|3135
+A|Well, they give a lot more leave.|sv|3135
+A|I work at N C N B now,|sd|3135
+A|and our benefits for maternal and, and parental care and even for elderly people are, are really expanding.|sd|3135
+B|Uh-huh.|b|3135
+A|We have more options now then we did when I, my kids were born,|sd|3135
+A|with being able to take off full-time longer of, you can phase your schedule in so that it's not full-time for   up to six months.|sd|3135
+B|Uh-huh.|b|3135
+B|Oh boy, that's great.|ba|3135
+A|It's really neat.|sv|3135
+A|I've, I've had a couple of assistants that came back just three days a week|sd|3135
+A|or they've, you know, whatever schedule they want from a pay standpoint.|sd|3135
+B|Uh-huh.|b|3135
+B|Uh-huh.|b|3135
+A|We try to work it with their hours.|sd|3135
+A|And that helps because you don't have to just wean yourself cold turkey and say  okay, I never get to see my baby for eight hours a day again.|sd|3135
+B|Yeah.|b|3135
+B|Right.|b|3135
+B|Right.|b|3135
+A|And the bank has a lot of programs now for child care referrals.|sd|3135
+A|I've,|%|3135
+A|of course it's too late for me so  I've, I've not tried them to see how effective they are|sd|3135
+B|Yeah|b|3135
+A|but  I think we're finally beginning to make progress but just not very fast|sv|3135
+B|Uh-huh.|b|3135
+B|Uh-huh.|b|3135
+B|God, it's amazing|ba|3135
+A|And for our age group it's too late, too little, too late.|sd|3135
+B|Right.|b|3135
+B|Right.|b|3135
+A|But I, I do think it's an area that needs to be looked at and improved because more of us are going to have to work.|sv|3135
+B|Uh-huh.|b|3135
+B|Uh-huh.|b|3135
+A|Two income families I think are here to stay.|sv|3135
+B|Well and I would think, you know, since big business is supposedly why the government makes the decisions they do you know, the, the people that work in big business have families|sv|3135
+A|Uh-huh.|b|3135
+A|Right.|b|3135
+B|they have children.|sd|3135
+A|Yeah.|b|3135
+B|So, it's only to their advantage that they get these programs going and  working|sv|3135
+A|Oh sure.|aa|3135
+B|and, uh,|%|3135
+A|You retain employees and keep them longer.|sv|3135
+A|That's, that was the rationale they gave when they were giving us information about our Employee Assistance Programs that  they want us to be happy and want us to be able to cope with trying to split ourselves in fifteen million pieces|sd|3135
+B|Uh-huh.|b|3135
+B|Uh-huh.|b|3135
+B|Right.|b|3135
+B|Right.|b|3135
+B|Right.|b|3135
+A|So, I, I hope it helps.|sd|3135
+A|It seems to help the new mothers  not have to come back full-time.|sv|3135
+B|Oh that's good.|ba|3135
+A|because that's hard.|sv|3135
+B|That's good to know.|ba|3135
+B|I have a couple of friends that, have, have found the, uh, you know, a a private home to take their children to when they're young until they hit the preschool age.|sd|3135
+A|Uh-huh.|b|3135
+A|Uh-huh.|b|3135
+B|And they|%|3135
+B|usually, you know, you'll find a, a woman that's keeping like six children or four to six children in the home|sv|3135
+A|Uh-huh.|b|3135
+B|and my future, future sister-in-law's mother does that too, full-time.|sd|3135
+A|Well in Plano though the problem is, you find,|sd|3135
+A|and this is what I found with Emily.|sd|3135
+A|I, from the time she started first grade, I wanted her out in Plano area.|sd|3135
+B|Uh-huh.|b|3135
+A|And I kept finding neighbors and friends|sd|3135
+A|and they'd move.|sd|3135
+B|Oh.|b|3135
+A|She ended up being in a different home every year.|sd|3135
+B|Too transit.|bf|3135
+B|Uh-huh.|b|3135
+A|And I finally decided I didn't like that because it was traumatic to her to get so attached to a family and then have them move.|sd|3135
+B|And her surroundings.|^2|3135
+A|So this year I, I tried Kinder-Care|sd|3135
+A|and, then she's old enough to|sd|3135

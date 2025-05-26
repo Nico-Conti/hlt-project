@@ -1,0 +1,207 @@
+A|Do you all, do you get together with family reunions|qy|2963
+A|or,|%|2963
+B|Yes,|ny|2963
+B|we try to.|sd|2963
+B|Uh, we have not in some years now.|sd|2963
+B|And I think we are going to try to have one this summer.|sd|2963
+A|Oh, that will be fun if you have not done it in a while.|sv|2963
+B|My aunt is planning it.|sd|2963
+A|Uh, where is your family from?|qw|2963
+B|Uh, Missouri.|sd|2963
+A|Oh.|b|2963
+A|Is it?|bh|2963
+B|Southwest part of Missouri.|sd|2963
+A|So you are going to have to go there?|qy^d|2963
+B|That will, will be where it is. Uh, if, if she gets it planned.|na|2963
+A|Yeah.|b|2963
+B|I have been out of town,|sd|2963
+B|so I do not know what she has been doing.|sd|2963
+B|But, uh, they are all getting very, very old.|sd|2963
+A|Oh.|b|2963
+B|All my aunts and uncles.|sd|2963
+B|So we need to see them soon.|sd|2963
+A|Yeah.|b|2963
+B|So,|%|2963
+A|My family is from Kentucky.|sd|2963
+A|Most of them is down there.|sd|2963
+B|Uh-huh.|b|2963
+A|I have got an uncle in Louisiana and another sister here in Texas.|sd|2963
+B|Right.|b|2963
+B|Do you all get together often?|qy|2963
+B|Or,|%|2963
+A|We did when I was growing up.|sd|2963
+A|It was every summer we got together.|sd|2963
+B|Uh-huh.|b|2963
+A|Now, my grandmother just passed away this last year.|sd|2963
+B|Right.|b|2963
+A|So, you know,|%|2963
+B|I think as we get older, it is more difficult to, uh, when|sd|2963
+A|she was|%|2963
+B|all my aunts and uncles are in their eighties now,|sd|2963
+B|so it is, uh,|%|2963
+A|Uh-huh.|b|2963
+B|I have to, uh, I will probably have to take charge and do it one of these, uh, one of these, uh, days.|sd|2963
+A|Yeah.|b|2963
+B|But, uh, I still have elderly parents alive.|sd|2963
+A|Well it, It sure does.|sv|2963
+B|So, uh, it takes a lot of effort to either get everybody called or written and settle on a date, you know that,|sd|2963
+B|And if they are,|%|2963
+A|Well, we,|%|2963
+A|in Kentucky it wasn't hard because everybody lives so close together.|sd|2963
+A|We just did it word by you know, by word of mouth.|sd|2963
+B|Right.|b|2963
+A|You know. And, uh, my uncle in Louisiana, he is the only one that, you know, had to travel.|sd|2963
+B|Uh-huh.|b|2963
+A|And now I have got a sister in Germany,|sd|2963
+A|and we are just scattered all over the place.|sd|2963
+B|Oh, my gosh.|ba|2963
+B|Yeah.|b|2963
+A|So it is going to be hard this time.|sd|2963
+B|So the,|%|2963
+A|But we have got a huge family.|sd|2963
+B|Yeah.|b|2963
+B|And we need to have more and more of them.|sv|2963
+B|I I think, I hope that is not a lost art, that people getting together as they do spread out all over the world.|sd|2963
+A|Yeah.|aa|2963
+A|Because it is so fun.|sv|2963
+B|Yeah,|b|2963
+A|I mean, we, my mother has got like thirteen brothers and sisters|sd|2963
+B|it is.|aa|2963
+B|Oh, I see.|ba|2963
+A|Yeah.|b|2963
+A|She has got a huge family.|sd|2963
+A|And every one of them have five or six kids. And most of them, you know, have got kids|sd|2963
+B|Uh-huh.|b|2963
+B|Sure, that makes a big crowd.|bf|2963
+A|Yeah.|aa|2963
+A|It is,|sd|2963
+B|Yeah.|b|2963
+A|we just, we had two baseball bleachers full of people,|sd|2963
+B|Is that?|bh|2963
+A|and there are still about eight or six, eight or ten people taking pictures.|sd|2963
+B|Is that right?|bh|2963
+A|Yes.|ny|2963
+A|And it was just,|sd|2963
+A|the last time we had one it was so fun.|sd|2963
+B|That is wonderful.|ba|2963
+B|I hope,|%|2963
+A|Yeah.|b|2963
+B|well, we need to have another one.|sd|2963
+B|I hope my aunt is successful as, uh, later.|sd|2963
+B|Well, it is probably not going to be done because I have not heard from them.|sd|2963
+B|I, it was supposed to be this June,|sd|2963
+B|so I do not imagine there is anything coming.|sd|2963
+B|This is hardly, almost June.|sd|2963
+A|Yeah.|b|2963
+A|Well, I, we have always had ours in a park or something.|sd|2963
+B|So,|%|2963
+B|Uh-huh.|b|2963
+A|But it has away been the same park|sd|2963
+A|and there is nothing really special there.|sd|2963
+A|Only thing is, it is big,|sd|2963
+B|Yeah,|b|2963
+B|that is,|%|2963
+A|and it is open.|sd|2963
+B|we have it usually at this, uh, at this one park because there is a pavilion there, in case it rains.|sd|2963
+A|Uh-huh.|b|2963
+B|And, uh, you have to have it, uh, fairly early in the summer or it is too hot up there.|sd|2963
+A|Uh-huh.|b|2963
+A|In Missouri?|qy|2963
+B|In Missouri,|na|2963
+B|yeah.|ny|2963
+B|It is too it is not,|%|2963
+B|it is just, uh, very humid,|sd|2963
+B|and the old people cannot take it anymore.|sd|2963
+A|Well, that was part of the problem with the ones we have.|sd|2963
+B|Uh-huh.|b|2963
+A|Now, the kids would sneak off.|sd|2963
+A|And we were just being kids,|sd|2963
+A|and we found what we thought was just an old water hole.|sd|2963
+A|So we was going swimming.|sd|2963
+A|And, like I said, we was just big kids.|sd|2963
+A|We was like eight and ten years old.|sd|2963
+B|Uh-huh.|b|2963
+A|And our parents came and caught us.|sd|2963
+A|We had been playing in the sump.|sd|2963
+A|It was part of the sewage cleaning system.|sd|2963
+B|Isn't that great?|bh|2963
+B|Yeah,|b|2963
+B|Yeah.|b|2963
+A|to child in Kyle, don't.|t3|2963
+A|speaking to I have got a four year old.|sd|2963
+B|Yeah.|b|2963
+B|Well, that keeps you busy.|sv|2963
+B|Yeah.|b|2963
+A|Yeah.|b|2963
+A|But if we could have gotten it by a lake or something, I thought that would have been much better.|sd|2963
+B|Yeah.|aa|2963
+B|It would have been. Something for the young people to to do.|sv|2963
+A|Yeah.|b|2963
+A|Well they,|%|2963
+A|there was, uh, I am sorry, there was, uh, I remember now, there was like, uh, a baby pool, just about a foot deep.|sd|2963
+B|Yeah.|b|2963
+A|Yes,|fo_o_fw_"_by_bc|2963
+A|I remember my little brother riding a bicycle through it.|sd|2963
+A|We were all kids anyway noise heard in|sd|2963
+B|Every family has all that going on,|sv|2963
+B|I am sure.|sd|2963
+B|So, uh,|%|2963
+A|Oh, but I love it, all the different foods, because that,|sd|2963
+A|yeah,|%|2963
+B|Oh, I do too.|aa|2963
+B|That is the best part of it.|sv|2963
+A|That's the,|%|2963
+B|Everybody bringing something for a potluck picnic|sv|2963
+A|yeah.|b|2963
+B|and oh, grand,|%|2963
+B|yeah.|%|2963
+A|So, how long did you say it has been since you all had one?|qw|2963
+B|I do not know.|no|2963
+B|I think it has been, uh, four, three or four years. Or five even, uh, since they have had it, tried to get everybody together.|sd|2963
+B|They are just spread out so much,|sd|2963
+B|and, and we really need to, uh, no matter what kind of crowd they get.|sd|2963
+A|Yeah.|b|2963
+B|I hope,|%|2963
+A|Well, I have been married almost five,|sd|2963
+A|so I guess it has been seven years since we have had one.|sd|2963
+B|Uh-huh.|b|2963
+A|And since then we have lost, oh, well, just our grandmother.|sd|2963
+B|Yeah.|b|2963
+A|That is surprising.|sv|2963
+B|Well, time flies so fast,|sv|2963
+B|it may have been that, that long since we have one.|sd|2963
+B|It is hard to remember,|sd|2963
+B|but I think it has been about four or five years.|sd|2963
+A|Uh-huh.|b|2963
+B|So, uh, anyway I, I hope both our families get to have one soon.|sd|2963
+A|Oh, if I can ever get down to Kentucky.|sd|2963
+A|It has been like four years since I have been home.|sd|2963
+B|Yeah.|b|2963
+B|It is difficult with little ones.|sv|2963
+A|Yeah.|b|2963
+B|I know when we had, had our,|sd|2963
+A|That is, the reason, that is the reason I don't.|sd|2963
+A|I would get on a bus any day by myself,|sd|2963
+A|but I won't do it with the babies.|sd|2963
+B|Uh-huh.|b|2963
+B|Sure.|b|2963
+A|Because, uh, I have got, uh, a four month old and a four year old.|sd|2963
+B|Oh, Lord.|ba|2963
+A|So I am just starting.|sd|2963
+A|And I just quit too|sd|2963
+B|Oh, I am telling you.|^h|2963
+B|That is, uh,|%|2963
+A|Uh, I won't be adding any more to the family reunion|sd|2963
+B|No,|aa|2963
+B|I hope, it, I know it takes a lot of effort right with, with that, with two little ones like that.|sd|2963
+A|Yeah.|b|2963
+A|They are good kids though.|sd|2963
+B|Yeah.|b|2963
+A|So, uh, I am not too upset.|sd|2963
+A|Anyways, I have enjoyed talking to you.|fc|2963
+B|Enjoyed talking to you.|fc|2963
+A|All right.|fc|2963
+B|Good luck in everything.|fc|2963
+A|All right, you too.|fc|2963
+B|Bye-bye.|fc|2963
+A|Bye-bye.|fc|2963

@@ -1,0 +1,148 @@
+A|How do you usually keep up with current events?|qw|2154
+B|Normally I listen to C N N or HEADLINE NEWS about an, hour a day,|sd|2154
+B|and then I supplement that with, uh, radio news from my car radio and from a news magazine once a week, and a newspaper if I have time.|sd|2154
+A|Do you,|%|2154
+A|Yeah,|b|2154
+A|I don't usually have time to read the newspaper everyday,|sd|2154
+A|so I try to listen to the radio in the morning and, and try to catch one of the morning talk shows,|sd|2154
+A|and then I usually end up flipping through C N N and HEADLINE NEWS during the evening.|sd|2154
+A|I always try to read the Sunday paper just because it usually gives a summary of the, the week's hot events.|sd|2154
+A|So, I try to, I try to catch that, if nothing else.|sd|2154
+B|That's true,|aa|2154
+B|and, and how do you rate the, uh,|%|2154
+B|are you pleased with the news coverage that you're receiving?|qy|2154
+A|For, for local news I think we do real well where it's,|sd|2154
+A|we live in a kind of small town,|sd|2154
+A|but I think we get excellent local coverage, um ,|sd|2154
+A|and I like the national news that we see,|sd|2154
+A|we, we watch N B C|sd|2154
+A|and I think they do a real good job.|sv|2154
+A|So, I'm, I've been real pleased with the quality of the news we get,|na|2154
+A|how about you?|qo|2154
+B|On the whole, I'm pleased when I have an opportunity to hear just the facts.|sd|2154
+B|I would much prefer that they keep their analysis to themselves. Um, since I don't necessarily agree with it or it tends to be extraordinarily trite.|sd|2154
+A|Right.|b|2154
+B|Uh, I think I'm fed up with trite.|sd|2154
+B|There seems to be more and more of it,|sv|2154
+B|and I understand the void that, uh, comes naturally with both radio presentations and television presentations|sv|2154
+B|and as expensive as they are to produce, they certainly don't want any dead airspace.|sv|2154
+A|Uh-huh.|b|2154
+A|Yeah,|b|2154
+A|but I think there's enough news out there that they could pass on more factual information to us,|sv|2154
+A|and like you said, save the commentaries because I'm going to listen to the, the news and draw my own opinions.|aa|2154
+A|I don't really need their help to do that.|sv|2154
+B|I, I, we're certainly in agreement there.|sv|2154
+A|I don't think radio is as bad to do that as T V is.|sv|2154
+B|Radio seems to have a full platter or full plate of different things that they need to get done.|sv|2154
+B|They're, maybe they're a little more efficient, or have more to do over that same time frame.|sv|2154
+A|Uh-huh.|b|2154
+A|Right.|b|2154
+B|I don't know which that answer is.|sd|2154
+B|Uh, I think the, my greatest complaint about news programs is programs like SIXTY MINUTES.|sd|2154
+B|Do you watch that?|qy|2154
+A|I used to,|ng|2154
+A|but I don't anymore, maybe once or twice a year.|sd|2154
+B|Well, I used to watch SIXTY MINUTES until they did two programs, uh , that I knew both the people and the incidences,|sd|2154
+A|Uh-huh.|b|2154
+B|and I knew that they had presented an extremely slanted viewpoint, that was, in my estimate, nowhere near truth but was much better for ratings.|sd|2154
+A|Really?|bh|2154
+A|Yes.|b|2154
+B|And it, ever since that time I just don't watch. Uh,|sd|2154
+B|so, I guess we have the, the same reaction whether we came about it from the same place or not.|sv|2154
+A|Yeah.|b|2154
+A|Well, I had heard a couple of people, you know, that I had talked to about certain programs say that, you know, they had read other things besides what SIXTY MINUTES presented and that they didn't present it nearly the same way as the, you know, news articles or whatever they had, they had already been familiar with.|sd|2154
+A|So, I started questioning just how, how bias they really were,|sd|2154
+A|so.|%|2154
+B|I don't know I don't know how old you are,|qw^d|2154
+B|but it seems to me like the last, uh, newscaster that presented news in just the nice simple factual way that I wanted to hear was Walter Cronkite.|sd|2154
+A|Huh.|b|2154
+B|So, I don't, I don't know if you're familiar with him or not.|qy^d|2154
+A|No,|nn|2154
+A|not really, you know,|sd|2154
+A|in the last few years just his kind of informal segments I've seen|sd|2154
+A|but I never got to see his actual nightly news.|sd|2154
+A|I liked,|%|2154
+A|I, I did grow up with David Brinkley. Uh,|sd|2154
+B|Well, Brinkley was sort of trying to be in the mold, of Cronkite|sv|2154
+A|Uh-huh.|b|2154
+B|and he did a, a pretty good job.|sv|2154
+B|THE HUNTLEY, BRINKLEY REPORT was quite excellent, over the years.|sv|2154
+A|Yeah,|aa|2154
+A|we, we used to watch, um, him and I guess, John Chancellor.|sd|2154
+A|And I always liked David Brinkley|sd|2154
+A|and and I used to enjoy John Chancellor's style of reporting,|sd|2154
+A|but on the nightly news, now, he goes into his commentary|sd|2154
+A|and that's where I get, get into the problem with, with him.|sd|2154
+A|I frequently disagree with his commentaries,|sd|2154
+A|so.|%|2154
+B|Well, once they've reported the facts, all they can offer is an opinion anymore.|sv|2154
+A|Right.|aa|2154
+A|What did you think of the news coverage of the war?|qw|2154
+B|Well, I almost felt like it was too much.|sd|2154
+B|Indeed, I found myself restricting my viewing to a couple of hours a day, one in the morning and one in the evening.|sd|2154
+A|Uh-huh.|b|2154
+B|Uh, I spent a number of years in the service as an intelligence analyst,|sd|2154
+A|Really?|bh|2154
+B|and I don't need their fill-ins, you know|sv|2154
+A|Did that help you understand a lot what was going on your, your prior experience with the military did,|qy|2154
+B|Yes,|ny|2154
+B|but I, I think it helps me everyday in trying to review the state that the world is in and try to guess where we're going.|sd|2154
+A|I wondered if it would help you sometimes fill-in the gaps or recognize discrepancies that other people, people like myself might not pick up on.|qy^d|2154
+B|Well, I, I think, uh, my background is probably what absolutely turned me off with SIXTY MINUTES.|arp_nd|2154
+A|Okay.|bk|2154
+A|What weekly, um, magazine do you look at,|qw|2154
+A|is it,|%|2154
+B|I like U S NEWS and WORLD REPORT.|sd|2154
+B|At one time or another I've taken them all for a year.|sd|2154
+A|Uh-huh.|b|2154
+B|I believe in giving anything a chance.|sd|2154
+A|Sure.|aa|2154
+B|Uh, but I keep coming back to that one,|sd|2154
+B|so, I, that's kind of my favorite.|sd|2154
+A|Does that give a pretty good overview of everything|qy|2154
+A|or like, does it give, um, I guess, little encapsulated reports and, and then a few big stories?|qrr|2154
+B|It's primarily, um, a few big stories and then lots of high-level reports.|sd|2154
+A|Yeah.|b|2154
+B|Uh, here's what went on in Asia over the past week,|^q|2154
+B|and there's maybe a page of that, little brief paragraphs, unless that was one of their, the focus of their main stories.|sd|2154
+A|That sounds good if you were short on time, you could get a summary real quick.|sv|2154
+B|Uh, it too is one those|%|2154
+B|in the interest of efficiency we all have to find ways,|sv|2154
+B|and I do most of my reading in the bathroom.|sd|2154
+A|Right.|b|2154
+B|Um, and it's one of those that I can read either an article or a couple of pages of those brief excerpts in the time frame that I'm going to spend in there.|sd|2154
+A|Right.|b|2154
+B|And it just seems to fit nicely, so that I can get it read in about three days.|sd|2154
+A|Well, we're working on a NEWSWEEK, uh,|sd|2154
+A|for the last couple of months we got, you know, an introductory subscription,|sd|2154
+A|so, we decided to try it because prior to that all we got were things like GLAMOUR or SPORTS ILLUSTRATED.|sd|2154
+A|So, we decided to try to bring one in that was a little bit better for us, so to speak.|sd|2154
+B|Well, to broaden your horizons, make you think about different things anyway.|sv|2154
+A|It can't hurt,|sv|2154
+B|Well, anytime that we stop and think it can't hurt.|sv|2154
+A|No.|aa|2154
+A|I, I even, I enjoy reading T NEWS,|sd|2154
+A|I try to catch it because it's another example,|sd|2154
+A|they just, they just show you the words and the facts|sd|2154
+A|and they, they don't offer any commentary,|sd|2154
+A|and it gives me a quick chance to, to be caught up during the day. Because, you know, we don't listen to the radio at work at all.|sd|2154
+A|So, I don't like to go the whole day without hearing anything.|sd|2154
+B|Oh, I'm with you,|sd|2154
+B|I have to check T NEWS every, every day.|sd|2154
+B|It's my noontime dose of facts.|sd|2154
+A|Yeah,|b|2154
+A|and the other thing we have that I like to check sometimes is, um, TALKING FINGERS,|sd|2154
+A|do you have that?|qy|2154
+B|No.|nn|2154
+A|You have different telephone numbers that you can dial,|sd|2154
+A|and then you dial in an access code|sd|2154
+A|and it will, depending on what topic you called in to hear about whether it was the news or the weather or a soap opera update, it will give you, um, updated information.|sd|2154
+A|So, that can give you, you know, current news updates, current weather updates, things like that|sd|2154
+A|and it's, it's offered through the local phone company free of charge.|sd|2154
+A|So, that's, an interesting alternative occasionally that I like to use.|sd|2154
+B|Huh.|b|2154
+B|Well, it does sound very interesting,|ba|2154
+A|It, It really is, yeah, it really is nice, I mean, because it gives you a wide variety of things you can call and talk, and find out about.|sd|2154
+B|maybe our phone company out here will get around to, offering something like that.|sd|2154
+A|So, that is something you might keep your eyes open for,|ad|2154
+A|I think it's, it's catching on throughout the country|sv|2154

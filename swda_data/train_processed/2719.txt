@@ -1,0 +1,276 @@
+A|Do you exercise a lot?|qy|2719
+B|Oh, it's uh, scaled back considerably.|no|2719
+B|Uh, right now my exercise is pretty much limited to, uh, softball league and occasional ride on the bike,|sd|2719
+B|but uh, I uh, I was just recently, well, recently nine months ago, got married and bought a house|sd|2719
+B|so my outside activities have been curtailed a lot.|sd|2719
+A|Is mowing the lawn a new exercise|qy|2719
+B|Yeah,|ny|2719
+B|lawn,|b^m|2719
+B|it's a forty year old house,|sd|2719
+B|so, we are doing a lot of refurbish work,|sd|2719
+A|Oh, my.|ba|2719
+B|and yeah,|%|2719
+B|painting, lawn, gutters.|sd|2719
+B|You name it, all kinds of stuff, flower beds.|sd|2719
+A|I think that's considered exercise whether you want it or not.|sv|2719
+B|Yeah,|aa|2719
+B|that, that's true,|aa|2719
+B|that's true.|aa|2719
+B|It's, there's always something to do|sd|2719
+B|and uh, and, and uh, it keeps me going.|sd|2719
+B|But...|%|2719
+A|Well, you're, you are so far ahead of me.|sv|2719
+A|I used to uh, I used to walk two miles a day,|sd|2719
+B|Uh-huh.|b|2719
+A|and I really enjoyed it.|sd|2719
+B|Yeah.|b|2719
+A|Because the two miles, went fairly quickly.|sd|2719
+A|I could do it in twenty-eight minutes.|sd|2719
+B|Yeah.|b|2719
+A|And that's not stopping and talking to everyone along the way,|sd|2719
+B|Right.|b|2719
+A|but it's a lot. You know.|sd|2719
+A|It's not too strenuous,|sd|2719
+A|and I could sort all kinds of things out and make plans and everything,|sd|2719
+A|but I don't know what I did to my knee.|sd|2719
+A|I was crawling under a desk, hooking up a computer.|sd|2719
+B|Uh-huh.|b|2719
+A|And I mashed it wrong, or I did something.|sd|2719
+B|Oh, gosh.|ba|2719
+A|And the doctor has had me on medication,|sd|2719
+A|and she doesn't want me to walk,|sd|2719
+A|she said, that's you know, while it's healing, you're going to mess it up,|sd|2719
+A|so I can't walk.|sd|2719
+B|Wow.|ba|2719
+A|And uh, she said, you know, the most conservative approach, you do the medicine, you do the medicine again and again, before you think of surgery.|sd|2719
+B|Uh-huh.|b|2719
+A|And I don't want her to think of surgery on my knee.|sd|2719
+A|I don't want anyone to think about that ever.|sd|2719
+B|No,|aa|2719
+B|that, that's a tough situation.|ba|2719
+A|That's that microscopic stuff, you know.|sd|2719
+B|Uh-huh.|b|2719
+A|uh-huh,|%|2719
+A|not my kneecap.|sd|2719
+A|So, I'm, I'm being very good.|sd|2719
+B|Yeah.|b|2719
+A|But, I miss it.|sd|2719
+A|I really do,|sd|2719
+A|and I.|%|2719
+B|Oh, that,|%|2719
+B|it's so aggravating to uh, to have an injury like that.|sv|2719
+B|My wife, uh, runs or likes to run,|sd|2719
+B|but uh, she's,|%|2719
+B|well, we moved, we moved down to the north end of Oak Cliff in the Castle Park area.|sd|2719
+A|Oh, really.|bh|2719
+B|Yeah,|ny|2719
+B|and she started running down there and all the hills.|sd|2719
+A|Uh-huh.|b|2719
+B|And she lasted about two weeks,|sd|2719
+B|and her ankles couldn't take it anymore.|sd|2719
+B|She was used to running, you know flat tracks and whatnot,|sd|2719
+B|and uh, ever since that, it's just been real difficult.|sd|2719
+B|It's real aggravating, because she starts in|sd|2719
+B|and her ankles will start hurting again and stuff. Even if she does get on flat ground,|sd|2719
+B|so she's kind of in the same mode.|sd|2719
+B|She was all ready to get back into it and start running, uh five K's, and ten K's and stuff this spring,|sd|2719
+B|and she just hasn't been able to stick with the training schedule long enough to really get back in shape.|sd|2719
+B|And, when you want to do it, it's really, really aggravating.|sv|2719
+B|You know, it, it's one thing to get motivated to start doing the exercise,|sv|2719
+B|and it's another thing to, to already be past that and then not be able to because of your health.|sv|2719
+A|I can you understand that.|aa|2719
+B|Yeah.|b|2719
+A|Uh, I don't really want to,|sd|2719
+A|I just, know I need to.|sd|2719
+B|Well, it's...|%|2719
+A|I make myself do it|sd|2719
+A|and if I do it, okay,|sd|2719
+A|I don't love it,|sd|2719
+A|but I will do it.|sd|2719
+B|Sure.|ba|2719
+A|Uh, it's not anything I would want to,|sd|2719
+A|but I can really tell the difference, since I have not been able to walk.|sd|2719
+A|I have got to be so much more careful with what I do.|sd|2719
+B|Yeah,|b|2719
+B|yeah.|b|2719
+A|It's depressing.|sv|2719
+B|Uh-huh,|b|2719
+B|it is,|aa|2719
+B|and you know, you, you don't well.|%|2719
+B|Speaking for myself I don't sleep as well, when I am not exercising,|sd|2719
+B|and uh, it's really, it's harder to get out of bed in the morning and all kinds of stuff,|sd|2719
+B|it, your body just gets used to it.|sv|2719
+B|Yeah,|%|2719
+B|I, I don't particularly enjoy it.|sd|2719
+B|Well I, I used to lift weights an awful lot, and stuff like that.|sd|2719
+B|I do enjoy riding bike,|sd|2719
+B|but as far as the working out and lifting and things like that. Uh, I, I can't say I really enjoyed it all that much,|sd|2719
+B|but once I got used to it, it was habit forming.|sd|2719
+B|It was,|%|2719
+B|I felt so bad if I didn't,|sd|2719
+B|physically, I mean|sd|2719
+B|I just,|%|2719
+B|my body was, was, was uh, tuned into that, that mode,|sd|2719
+B|and if I, if I skipped it then it kind of threw the, the whole, the whole system out of whack.|sd|2719
+A|Right.|b|2719
+B|Yeah.|b|2719
+A|Right|b|2719
+A|boy,|ba|2719
+A|hopefully my, my knee is a hundred percent better.|sd|2719
+A|Maybe I can get back into it.|sd|2719
+B|Yeah.|aa|2719
+B|That's for sure.|aa|2719
+A|Let me ask you a question off the subject though.|oo_co_cc|2719
+B|Okay.|bk|2719
+A|You're in, you're living in the Castle Park area?|qy|2719
+B|That's right.|na|2719
+A|I grew up in Oak Cliff.|sd|2719
+B|Did you really?|qy|2719
+A|Yes,|ny|2719
+A|I did.|sd|2719
+A|Uh, just close to Methodist Hospital.|sd|2719
+B|Okay,|bk|2719
+B|yeah.|b|2719
+A|On Candy,|sd|2719
+A|C a n d y.|sd|2719
+B|Right.|b|2719
+A|Oh, in fact, I lived there oh, until nineteen, late nineteen fifties.|sd|2719
+B|Okay,|b|2719
+B|okay.|b|2719
+A|And that area, is it changing back again?|qy|2719
+A|So many people are moving back into those old houses and are restoring them.|sd|2719
+B|Yeah,|ny|2719
+B|it is.|sd|2719
+B|Uh, we're on, we're on a little street called Bison Trail.|sd|2719
+B|It's only about a block and a half long,|sd|2719
+B|but it's, it's over on the other end.|sd|2719
+B|It, it's over by the far edge of, uh, Stephen's Park Golf Course.|sd|2719
+A|Oh, I know exactly where that is.|bk|2719
+B|Yeah,|b|2719
+B|it's, it's uh,|%|2719
+B|you know where the little bridge is on North Oak Cliff Boulevard?|qy|2719
+A|Yeah,|ny|2719
+A|sure.|na|2719
+B|Yeah,|b|2719
+B|we are just south of that little bridge, back-up on the hill in the trees there,|sd|2719
+B|and yeah,|%|2719
+B|uh, our street is uh, an awful lot of retired people,|sd|2719
+B|but the other half,|%|2719
+B|in fact, our one little block and a half there, four houses sold last summer|sd|2719
+B|and three sold the summer before,|sd|2719
+B|and everybody in their late twenties to mid-thirties are buying, and, and starting to rebuild and fix things up again|sd|2719
+B|and everybody is real excited.|sd|2719
+A|Oh, that's, that's wonderful.|ba|2719
+B|Yeah.|aa|2719
+A|That is a gorgeous, gorgeous place.|ba|2719
+B|Oh, it's, it's a lot of fun,|sd|2719
+B|the people are great.|sd|2719
+B|There too, we've got a real active neighborhood association.|sd|2719
+B|And uh, we have, well, we've got four regular parties every year|sd|2719
+B|and we do a neighborhood recycling program and, all that kind of stuff.|sd|2719
+B|So, it's a lot of fun|sd|2719
+B|and it is, it's a really beautiful area.|sd|2719
+B|And some, some of the people, uh, some of the higher dollars lawyers and stuff downtown too, are picking up some of those great big houses,|sd|2719
+B|and they're, they're getting them at a real bargain.|sd|2719
+A|they are.|ba|2719
+B|You know.|^h|2719
+B|They're, they're getting four thousand square feet for a hundred fifty, a hundred and seventy-five thousand dollars.|sd|2719
+A|Hm.|b|2719
+B|And, uh, and they're just going to town with them.|sd|2719
+B|They're, people are putting in pools and, and completely redoing the outside restoring to the original, you know, nineteen thirty, nineteen forties look.|sd|2719
+A|Oh, wow.|ba|2719
+B|And it, it's it's really coming around.|sd|2719
+B|I guess...|%|2719
+A|I need to go over there and just drive around and look.|sd|2719
+B|It's, it's worth the trip.|sv|2719
+A|Oh, I'm sure it must be.|ba|2719
+A|I'm just,|%|2719
+A|we had a lovely little house over there,|sd|2719
+A|it was like a two story.|sd|2719
+B|Uh-huh.|b|2719
+A|Well, story and a half, really, because we had a basement.|sd|2719
+B|Okay.|b|2719
+A|And the guy that built it was weird,|sd|2719
+A|I mean weird|sd|2719
+B|Yeah.|b|2719
+A|It's one of these really creative houses, that I grew up in that nothing was on the same level with anything else.|sd|2719
+B|Okay.|b|2719
+B|Oh, wow.|ba|2719
+A|And I just loved the neighborhood.|sd|2719
+B|Yeah.|b|2719
+A|And I mean, everyone, everyone had houses like that.|sd|2719
+A|They were all completely different.|sd|2719
+B|Uh-huh,|b|2719
+B|that's right.|aa|2719
+A|and so neat.|sd|2719
+B|Yeah,|b|2719
+B|ours is kind of a little ranch style with a great big, oh, I guess, it's twenty-eight by fifteen front porch.|sd|2719
+A|Oh.|b|2719
+B|Next door, we've got an Austin stone.|sd|2719
+B|Across the street, the guy,|%|2719
+B|it was burnt out about two years ago|sd|2719
+B|and, and the guy moved in and completely redid|sd|2719
+B|it's got, oh, it's got a rounded front on it.|sd|2719
+B|It's all brick,|sd|2719
+B|and he's, he's landscaped his yard|sd|2719
+B|and he's about ready to put in a pool and things like that.|sd|2719
+B|So, yeah,|%|2719
+B|there's a variety,|sd|2719
+B|you just don't see it anywhere else, as far as the different styles in the houses and whatnot.|sd|2719
+A|Now, why couldn't your wife run around the golf course?|qw|2719
+A|Is that not good?|qy|2719
+B|Oh, she could, a little bit.|sd|2719
+B|We,|%|2719
+B|I tell you what,|fo_o_fw_"_by_bc|2719
+B|we got into the fitness center at Methodist|sd|2719
+B|and they have a quarter mile track there.|sd|2719
+B|So she has started doing that rather than uh, rather than take off.|sd|2719
+B|The problem is she's a school teacher|sd|2719
+B|and for her, she can't run in the morning.|sd|2719
+B|For her to get home and try to run at six o'clock in the night, in the winter time, it's starting to get dark|sd|2719
+B|and, you know, you don't want to,|%|2719
+B|she doesn't want to be out by herself anywhere in Dallas.|sd|2719
+B|Regardless whether it's north Dallas or whatnot, when she goes over to this fitness center, it's fenced in,|sd|2719
+B|and there's somebody in the building, watching her and all that,|sd|2719
+B|so there's a lot of consideration.|sd|2719
+A|Yes,|aa|2719
+A|I, I really hear that, you know,|sd|2719
+A|I think, you know, you're in Oak Cliff.|sd|2719
+B|Uh-huh.|b|2719
+A|But, I'm in Plano.|^q|2719
+A|In west Plano.|sd|2719
+B|Yeah.|b|2719
+A|And we live on one of those blocks that it's a neighborhood watch block.|sd|2719
+B|Uh-huh.|b|2719
+A|We all know each other,|sd|2719
+A|and the street doesn't go anywhere.|sd|2719
+B|Right.|b|2719
+A|If you are on the street, you better belong there. Because it's not a through street.|sv|2719
+B|That's right.|aa|2719
+B|That's right.|aa|2719
+A|And, still, I want to get up early in the morning and walk. Before this knee business.|sd|2719
+B|Uh-huh.|b|2719
+A|And my husband had a lot of heartburn with that.|sd|2719
+B|Yeah.|b|2719
+A|I mean, it looked darker to him, because he, he was in the house with the lights on.|sd|2719
+B|Right.|b|2719
+A|When I was out walking, it, was more of a predawn type,|sd|2719
+A|pretty, but,|sd|2719
+A|huh-huh,|ar|2719
+A|he didn't think it looked predawn to him.|sd|2719
+B|Yeah.|b|2719
+A|It looked dark.|sd|2719
+B|Yeah.|b|2719
+A|And even he was real concerned about that.|sd|2719
+A|So, it's not just because you are in Oak Cliff,|sv|2719
+A|it's just because you're smart.|sv|2719
+B|That's true.|aa|2719
+A|That you don't do things like that.|sv|2719
+B|It only takes one time.|sv|2719
+A|That's right.|aa|2719
+B|It's a hard lesson to learn.|sv|2719
+A|There's only one crazy out there, you know, to make any difference.|sv|2719
+B|Yeah,|aa|2719
+B|yeah,|aa|2719
+B|you know, it goes all over|sv|2719
+B|well, you got the.|%|2719

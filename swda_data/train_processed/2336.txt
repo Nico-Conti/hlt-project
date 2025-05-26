@@ -1,0 +1,174 @@
+A|Okay,|fo_o_fw_"_by_bc|2336
+A|so what kind of car are you thinking about getting?|qw|2336
+B|Well, none at the moment|sd|2336
+A|Well, when you decide to.|sd|2336
+B|No,|fo_o_fw_"_by_bc|2336
+B|no,|fo_o_fw_"_by_bc|2336
+B|no.|fo_o_fw_"_by_bc|2336
+B|I currently drive a, a Ford Taurus.|sd|2336
+A|Uh-huh.|b|2336
+B|And I would I would imagine that if I change or if I get another car, a new car, I will go with the Taurus or something similar, uh, in that regard.|sd|2336
+A|So you like the Ford?|qy|2336
+B|Absolutely.|na|2336
+B|I have had it for about two years now|sd|2336
+A|Uh-huh.|b|2336
+B|and it's uh, it's everything it's supposed to be.|sd|2336
+B|Uh, I haven't had a minute's trouble with it|sd|2336
+A|Uh-huh.|b|2336
+B|and, uh, the only thing I have against it in that's it's a Taurus,|sd|2336
+B|but I still feel a little, even after two years, I still feel uncomfortable driving it, because I had a Honda before that|sd|2336
+A|Uh-huh.|b|2336
+B|and so it's a little bit larger.|sd|2336
+A|Right.|b|2336
+B|But that's the only, the only difference that I see, really.|sd|2336
+B|But I would,|%|2336
+B|my, my criteria would be, at the moment it would be, uh, American, uh, personally,|sd|2336
+A|Uh-huh.|b|2336
+A|Yeah,|b|2336
+A|it's the,|%|2336
+A|this,|%|2336
+A|the car I had before this one was a Thunderbird as a matter of fact,|sd|2336
+B|Uh-huh.|b|2336
+A|and, uh, I loved it,|sd|2336
+A|I really did.|sd|2336
+A|But, uh, um, I finally decided to go check out what the, uh, what the, uh, foreign cars were.|sd|2336
+A|So I bought myself a, a, a Nissan a two forty S X.|sd|2336
+B|Uh-huh.|b|2336
+A|But even though I love the car I've got now, I think my next car will probably be American again because if I can at all do it, I'd like to stay American,|sd|2336
+B|Uh-huh.|b|2336
+A|I always have, up until now.|sd|2336
+A|I just for one time decided to go outside.|sd|2336
+A|So.|%|2336
+B|Well, my wife drives a, still has a, a Honda Accord,|sd|2336
+A|Uh-huh.|b|2336
+B|and it's a very, it's an excellent automobile. And, uh, but, you know, price and so forth,|sd|2336
+A|Uh-huh.|b|2336
+B|I'm not a real car fan.|sd|2336
+B|So, I, I, I do not, uh, opt for, uh, something that would be, you know, expensive you know,|sd|2336
+A|Right.|b|2336
+B|I want, I want something that's serviceable, serviceable, something that I can use|sd|2336
+A|Uh-huh.|b|2336
+B|and, uh, and I,|%|2336
+B|and with the Taurus,|sd|2336
+B|I have a Taurus, uh, L X,|sd|2336
+B|and it's, you know,|%|2336
+B|you're talking when you think about price, it's several thousand dollars lower than the comparable Honda or Nissan or something along those lines.|sd|2336
+A|Uh-huh.|b|2336
+B|And as I said, as far I'm concerned, it, it has been extremely, uh, uh, serviceable and everything I wanted.|sd|2336
+A|Well, Ford's done a real good job in the last, uh, say, ten years or at least the last five to six years, so, of really turning around their, um, quality, I think, um.|sv|2336
+B|Uh-huh.|b|2336
+B|Oh, I think so too.|aa|2336
+B|Now, I, you know,|%|2336
+B|in travel and renting automobiles uh, in,|sd|2336
+A|Uh-huh.|b|2336
+B|I've driven, you know, Chevrolet automobiles and so and Dodge,|sd|2336
+B|and I,|%|2336
+B|if it's Chevrolet, I just will not touch it.|sd|2336
+A|Um.|%|2336
+B|Uh, I had a Chevrolet before I bought my Taurus.|sd|2336
+B|I purchased a, a Chevy, um, Citation.|sd|2336
+A|Oh, yeah,|b|2336
+A|those were not good cars.|sv|2336
+B|And, uh, I was ready to get rid of it two months after I bought it,|sd|2336
+A|Uh-huh.|b|2336
+B|And, uh, so I, I shopped around,|sd|2336
+B|and I would, I probably, if I had thought I, uh, wanted to pay the amount of money, I probably would have gone with, uh, uh, an Accord or even a, a Civic, or something comparable from Nissan or Toyota,|sd|2336
+A|Uh-huh.|b|2336
+A|Right.|b|2336
+B|and, uh, but it was just,|%|2336
+B|I had, I have a friend who, uh, has a, uh, an auto shop,|sd|2336
+B|and he purchased one of the first Sables that was, uh, manufactured for his wife, a Sable station wagon,|sd|2336
+B|and he just absolutely swore by it.|sd|2336
+A|Uh-huh.|b|2336
+B|And it was upon his recommendation and so forth for, you know, comparable, comparably equipped, you know, with cruise control and air conditioning and A M F M radio, and all these other things|sd|2336
+A|Uh-huh.|b|2336
+B|uh, it was just,|%|2336
+B|there was no, there was no comparison. Uh,|sd|2336
+B|the only thing that I find, you know, if I would have anything against it is that it still has that soft American ride.|sd|2336
+A|Right.|b|2336
+B|Uh, not, uh,|%|2336
+B|that's about the only thing I find, you know, disadvantageous to it.|sd|2336
+B|But, my criteria, is simply something that looks good, something that's serviceable,|sd|2336
+B|and I, you know, I drive around a lot,|sd|2336
+B|but, uh, and it's, you know, it's very comfortable on the highway.|sd|2336
+B|I can drive for, you know, ten hours or so and not really be tired in any way.|sd|2336
+A|Uh-huh.|b|2336
+B|But those are my criteria,|sd|2336
+B|and I, I probably in another six months to a year or something will probably start looking around again,|sd|2336
+B|and if there's something out there that, uh, is comparable to what I have now, I'll go ahead and get it.|sd|2336
+A|Uh-huh.|b|2336
+A|You know, the only thing I'm looking, at right now, um,|sd|2336
+A|I just, I just bought, you know, the Nissan that I've got about, uh, say, nine months ago,|sd|2336
+A|I guess it was|%|2336
+A|So the only thing that, that would get me to change cars right now would be if,|sd|2336
+A|see, at the moment I'm single,|sd|2336
+A|and if I were to get married and have a family that would have to have something to do with it.|sd|2336
+A|But, uh, I don't have any plans for probably another two, three years of even looking, you know.|sd|2336
+B|Uh-huh.|b|2336
+A|Uh, cars are too expensive right now to, uh to even think about buying new cars every couple of years, you know|sv|2336
+B|I,|%|2336
+B|yeah.|b|2336
+A|it's|%|2336
+B|In our parking lots, uh, two or three days ago I saw one of the new Honda sports cars.|sd|2336
+A|Uh-huh.|b|2336
+B|Uh, I, I can't remember what the name is.|sd|2336
+B|It's the thirty-five or forty thousand dollar one, whatever it is,|sd|2336
+B|and it looked, it resembled a Mazaratti of very, very closely.|sd|2336
+A|Um.|%|2336
+B|And it's an absolutely beautiful automobile and well appointed and so forth,|sd|2336
+A|Uh-huh.|b|2336
+B|but to pay that much money for an automobile, uh, is just,|sd|2336
+B|I can't, I can't conceive of doing that|sd|2336
+A|Yeah,|b|2336
+A|that's, uh,|%|2336
+A|I went to a, a car show down here about, uh, about two weeks ago,|sd|2336
+A|and, um, you know, of course they had the normal, the Ford, the, the Chevrolet, that stuff.|sd|2336
+A|But then you started looking at the, uh, uh,|sd|2336
+A|they had Ferrari there, they had, uh, B M W and all these other kinds of cars.|sd|2336
+A|And Ferrari didn't even let you near the car,|sd|2336
+A|I mean, they were,|sd|2336
+A|that's how expensive they were.|sd|2336
+B|Uh-huh.|b|2336
+A|And then you saw, uh, hundred thousand dollar cars,|sd|2336
+A|you saw eighty thousand dollar cars,|sd|2336
+A|and even, even though I, I, I do enjoy cars, I enjoy, um, driving them, I enjoy, uh, riding in them and everything, but, I can't see buying, or paying more for a car than I would for a house, you know.|sd|2336
+B|That's true. Well,|ba|2336
+A|That doesn't seem likely.|sv|2336
+B|The difference there is, too, uh, is between us is that I am not really crazy about driving.|sd|2336
+A|Uh-huh.|b|2336
+B|I never have been, since, you know, my parents had to force me to get my driver's license when I was young when I was sixteen.|sd|2336
+A|Uh-huh.|b|2336
+B|So I've never really cared.|sd|2336
+B|Now, what I was, you know,|%|2336
+B|before I was married and before I went to graduate school, I used to do little sports car racing.|sd|2336
+B|I never, it was never my own car|sd|2336
+A|Uh-huh.|b|2336
+B|it was always someone else's.|sd|2336
+B|And that sort of thing I enjoy,|sd|2336
+B|but to go out and drive, uh, never has really been, had any appeal to me in that regard.|sd|2336
+A|Uh-huh.|b|2336
+B|So Well I guess we've discussed that enough|sv|2336
+B|don't you think.|qy^d|2336
+A|I think so.|na|2336
+B|We won't, we don't, we won't get the recorder or the, uh, system to shut us off, uh, tonight.|sd|2336
+B|That's happened to me almost every time I've,|sd|2336
+A|That's happened to me once,|sd|2336
+A|So, uh,|%|2336
+B|Well, it's very easy when you get a you get on a topic that, you know, you enjoy.|sd|2336
+A|Yeah,|b|2336
+A|like, uh, I think the one time I did it was on the Mid, the Mid East, the crisis out there.|sd|2336
+B|Oh, yeah.|b|2336
+A|That was, had a great conversation,|sd|2336
+A|but, uh, then they came off and told us we couldn't do it any more.|sd|2336
+A|So.|%|2336
+B|Well I was talking to a lady last evening,|sd|2336
+B|and we were talking about fishing,|sd|2336
+B|and, uh, we were cut off, well,|sd|2336
+B|we were told to quit.|sd|2336
+A|Yeah.|b|2336
+B|Okay.|b|2336
+B|Well, you have a pleasant evening.|fc|2336
+A|You too.|fc|2336
+B|Take care.|fc|2336
+A|Bye-bye.|fc|2336
+B|Good-bye.|fc|2336

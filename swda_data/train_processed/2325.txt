@@ -1,0 +1,355 @@
+A|Okay.|fo_o_fw_"_by_bc|2325
+A|So, uh, then, do you keep kids?|qy|2325
+A|Is this two year old yours|qy|2325
+A|or do you keep children for other people?|qrr|2325
+B|No.|nn|2325
+B|I have two children.|sd|2325
+B|I have a two year old and a three and a half year old.|sd|2325
+A|Oh, that's exactly what I have.|sd|2325
+B|Really?|bh|2325
+A|Yes.|ny|2325
+B|That's wild.|ba|2325
+A|I know.|ba|2325
+A|I,|%|2325
+A|my, my little girl was three and a half in March|sd|2325
+A|and my son was two in January.|sd|2325
+B|Oh, boy.|ba|2325
+B|Well, mine was two in March|sd|2325
+B|and the three and a half year old will be four in, in July.|sd|2325
+A|That's pretty close.|ba|2325
+B|So that is pretty close|ba|2325
+A|Yeah.|b|2325
+B|But I'm home with the kids all day|sd|2325
+B|and I have really, uh, tried to make that a priority even though it's financially a big strain on us.|sd|2325
+A|Yes,|aa|2325
+A|it is.|aa|2325
+B|But,|%|2325
+A|Have you been able to do that all along|qy|2325
+A|or,|%|2325
+B|Pretty much,|na|2325
+B|pretty much.|na|2325
+B|Uh, I work part-time|sd|2325
+B|but, uh, my husband's able, you know, mostly to take care of them when I'm working.|sd|2325
+B|So.  But, uh, we adopted these two little guys|sd|2325
+A|Yeah.|b|2325
+A|Oh, how neat.|ba|2325
+B|and that was another reason why I really wanted to be here because, you know, they have had a couple foster homes already.|sd|2325
+A|How old were they when you adopted?|qw|2325
+B|The baby was eleven weeks old|sd|2325
+B|and his brother was  twenty, twenty-two months.|sd|2325
+A|So he probably doesn't remember.|sv|2325
+A|Oh.|b|2325
+B|Yeah.|b|2325
+B|So.|%|2325
+A|Yeah,|aa|2325
+A|definitely needed.|aa|2325
+A|Well, that's, that's pretty interesting.|ba|2325
+A|Well, I have always wanted to be able to stay home with my kids you know.|sd|2325
+B|Yeah.|b|2325
+A|That was always my dream, you know.|sd|2325
+A|I wasn't necessarily a career person|sd|2325
+B|Yeah.|b|2325
+A|but as long as I was single and had to work, I was going to get a good job and do the best I could.|sd|2325
+B|Yeah.|b|2325
+A|And my husband was in the type of business that, you know,|sd|2325
+A|it's insurance|sd|2325
+A|so you have to build a clientele|sd|2325
+A|and by the time we had kids I couldn't quit.|sd|2325
+B|Oh, boy.|ba|2325
+A|And so I haven't been able to quit yet.|sd|2325
+A|So I've had to deal a lot with child care|sd|2325
+A|and course, we're hoping within, hopefully, the next two years I'll be able to quit and stay home.|sd|2325
+B|Yeah.|b|2325
+A|But, uh, I started out, uh,|sd|2325
+A|my best friend kept my kids from the time my daughter was born  until she went to work last year in August|sd|2325
+B|Oh, that's neat.|ba|2325
+A|and it worked out pretty good.|sd|2325
+A|You know, we had always said from the beginning that if it gets in the way of the friendship then I'll take them somewhere else.|sd|2325
+A|You know, the friendship is more important.|sd|2325
+B|Yeah,|b|2325
+B|yeah.|b|2325
+A|And, uh, it was a wonderful experience for my kids because she really loved them, you know.|sd|2325
+A|She loved them like they were hers|sd|2325
+A|and I I knew, you know,|sd|2325
+B|Yeah.|b|2325
+A|I had good peace of mind.|sd|2325
+A|I knew that they were taken care of|sd|2325
+A|and,|%|2325
+B|That's the hardest thing I think, you know  to, to deal with is that people love your, kids.|sv|2325
+A|Yeah.|b|2325
+B|I put, uh, my oldest in a preschool program just for him to have the experience of two mornings a week of being with other kids and starting to learn some taking turns and, you know  that kind of thing|sd|2325
+A|Uh-huh.|b|2325
+A|Yeah.|b|2325
+B|and, uh, he was in there for three months when I pulled him out|sd|2325
+B|and the, the teacher had eleven kids.|sd|2325
+B|It was excellent, supposedly.|sd|2325
+B|The reputation was fantastic for this place.|sd|2325
+B|Was supposed to be an excellent school|sd|2325
+B|and I had several friends who had, had recommended it, too.|sd|2325
+B|But it really gets down to the particular teacher.|sv|2325
+A|Huh.|b|2325
+B|And she was a new teacher at the school|sd|2325
+B|and she had eleven, you know, three year olds in a room|sd|2325
+B|and I just think it was way too much.|sv|2325
+B|The were almost all boys.|sd|2325
+A|But she had no help?|qy|2325
+B|Pardon?|br|2325
+A|She had no help?|qy|2325
+A|She was alone with them.|qy^d|2325
+B|I didn't think much.|na|2325
+B|I don't think much.|na|2325
+A|Oh, that is hard.|ba|2325
+B|Yeah.|b|2325
+B|And she was just my, uh,|sd|2325
+B|three year old is real active.|sd|2325
+A|Yeah.|b|2325
+B|And she just kept saying how wild he was.|sd|2325
+B|Well, you know, there was kind of a connotation there of him being, you know, it being a problem.|sd|2325
+B|Like he ran back from the bathroom singing and skipping she said.|sd|2325
+B|Well, you know, at three years old  I don't find that to be a behavioral problem  You know|sv|2325
+A|Jeez.|ba|2325
+A|I don't either|aa|2325
+A|So.|%|2325
+B|I mean, it's kind of like she was, there was so much going on that she felt like she needed to control more|sv|2325
+A|Yeah.|b|2325
+B|and it's really hard to|sd|2325
+B|you can't control eleven three year olds with one person, you know.|sv|2325
+A|You have to let them have some wild time  if that's considered wild|^2|2325
+B|Yeah, you know.|aa|2325
+B|So I just finally took him out. Plus financial reasons.|sd|2325
+A|Yeah.|b|2325
+B|It was expensive.|sd|2325
+B|But I was real careful and visited and everything ahead of time.|sd|2325
+B|But I still felt like even after all the checking I did, you know, you really can't know everything about what's going to happen.|sv|2325
+B|I felt safe that the kids weren't going to be left alone somewhere in a room where a teacher could do something inappropriate with them, you know, because there was enough classrooms close together that it was like a house with different classrooms.|sd|2325
+A|Right.|b|2325
+B|And I  felt like that was a big factor for me.|sd|2325
+A|Right.|b|2325
+B|That they would would be safe you know, from any kind of abuse or that  kind of thing.|sd|2325
+A|Yes.|b|2325
+A|Yeah.|b|2325
+A|Well, when, when my friend decided to go back to work, and whenever we had problems, it worked out okay because she would come and tell me|sd|2325
+A|and we'd work it out.|sd|2325
+B|Yeah.|b|2325
+A|After that, I found another girl that had gone to church with us that, you know, they needed it financially.|sd|2325
+A|She had a little boy that was the same age as my little boy|sd|2325
+A|and I though,|%|2325
+A|well, you know, we'll try her.|sd|2325
+A|But she came to our house|sd|2325
+A|and that just did not work.|sd|2325
+B|Uh-huh.|b|2325
+A|Uh, I mean, she loved the kids|sd|2325
+A|and she was good with them.|sd|2325
+A|But, uh, you know, they were filthy when I'd get home.|sd|2325
+A|Now I understand kids go out and play|sd|2325
+A|and they get dirty|sd|2325
+B|Yeah.|b|2325
+A|but I mean filthy.|sd|2325
+A|I'm talking sand in the ears and the eyes and the hair|sd|2325
+A|and the|%|2325
+B|Oh, gosh.|ba|2325
+A|and I was, like, gosh.|sd|2325
+A|And then, you know, my own furniture and stuff was like, you know,|sd|2325
+A|the kitchen table, the, I'd find peanut butter and jelly all over the table and the chairs|sd|2325
+A|and the,|%|2325
+B|You had to come home and clean before you could  even do anything probably.|bf|2325
+A|and clean,|sd|2325
+A|and I was like,|sd|2325
+A|Yeah.|b|2325
+A|And then, in the end, uh, she basically ended up stealing a hundred dollars from me|sd|2325
+A|so I was, I had a pretty bad taste in my mouth.|sd|2325
+A|She told me about five thirty one afternoon, it was a Friday, that she wasn't keeping kids anymore as of Monday morning.|sd|2325
+B|Oh gosh.|ba|2325
+A|Well, you know, I work eight to five thirty|sd|2325
+A|so what am I supposed to do|qh|2325
+B|Yeah.|b|2325
+A|So I, well, I had been sick|sd|2325
+A|and I,|%|2325
+A|it ended up that I didn't go to work Monday because I was sick.|sd|2325
+A|So I stayed home with them|sd|2325
+A|and we went to some of the Kindercares.|sd|2325
+B|Oh, yeah.|b|2325
+B|I was, I took the kids there once just to try it.|sd|2325
+B|They had a free day at Kindercare.|sd|2325
+A|Yeah.|b|2325
+B|Yeah.|b|2325
+A|Well, that's what they said.|sd|2325
+A|There were two pretty near our house|sd|2325
+A|and they said, well, bring them in this week for a free day|sd|2325
+A|so I lined up someone Tuesday.|sd|2325
+A|They had a Mother's Day Out that my baby-sitter took them to, you know, which was fine.|sd|2325
+A|They liked it.|sd|2325
+A|They had been going to it for years.|sd|2325
+B|Uh-huh.|b|2325
+A|And so I stayed with them Monday.|sd|2325
+A|Tuesday they went to that.|sd|2325
+A|Wednesday I took them to one Kindercare.|sd|2325
+A|Thursday I took them to another Kindercare|sd|2325
+A|and then Friday my husband and I split.|sd|2325
+A|But on Thursday I didn't like the Kindercares.|sd|2325
+B|I didn't either.|aa|2325
+B|I had  one bad, I had two bad experiences just that one day with medicine that my son was supposed to have for a cold that they never gave him.|sd|2325
+A|They,|%|2325
+A|They didn't give him.|b^m|2325
+B|And the other one was that the, the younger one got bit really badly by another child|sd|2325
+A|Oh.|b|2325
+A|Oh, that's horrible.|ba|2325
+A|And doing something with him.|sd|2325
+B|Yeah.|b|2325
+A|Well, not only was it going to cost me like a hundred and fifty dollars more a month, which I didn't have you know. I didn't, I, you know,|sd|2325
+B|Yeah.|b|2325
+A|we're, we're a Christian family|sd|2325
+A|and, you know, they, because they're, you know, like public, they're not private you know. They can't pray,|sd|2325
+B|Yeah.|b|2325
+A|they can't talk about God.|sd|2325
+A|They can't do anything like that|sd|2325
+A|and I don't want them indoctrinated  you know,|sd|2325
+B|So you feel like your values aren't getting,|bf|2325
+B|yeah,|b|2325
+B|yeah.|b|2325
+A|but I'd like them to be able to say, gee, God made the flowers, you know, and   things like that.|sd|2325
+B|Yeah,|b|2325
+B|yeah.|b|2325
+B|God loves you.|^q|2325
+A|Yeah.|b|2325
+B|You know, basic things like that.|sd|2325
+A|Yeah,|b|2325
+A|basic.|^2|2325
+B|Yeah.|aa|2325
+A|So, uh, I talked to another lady at church.|sd|2325
+A|It was like Thursday of that week|sd|2325
+A|and she said oh, I found the most wonderful place that I've been taking my daughter|sd|2325
+A|and I've know this girl,|^q|2325
+A|I went to college with her|^q|2325
+A|so I really, I, you, I, I value her opinion.|sd|2325
+A|And she told me about a private one.|sd|2325
+A|It, it was associated with one of the churches here.|sd|2325
+A|It's not the church I go to|sd|2325
+A|but it's, you know, it, it was Lubbock View Christian Church|sd|2325
+A|and it's a private academy.|sd|2325
+B|Uh-huh.|b|2325
+A|And so I went over there|sd|2325
+A|and I talked to the lady.|sd|2325
+A|Well, they have like a three year waiting list.|sd|2325
+A|But she said, I had a mother tell me that she may take a job in San Antonio|sd|2325
+A|and she has a three year old and a toddler, which mine was at the time.|sd|2325
+B|Yeah.|b|2325
+A|And she said I should know something by tomorrow, which was Friday,|sd|2325
+A|and she said if she leaves, she said, I'll let you have her spot.|sd|2325
+B|Wow.|ba|2325
+A|And so Friday afternoon at five thirty, she called me|sd|2325
+A|and she said she's going.|sd|2325
+A|You can bring your kids Monday|^q|2325
+B|Oh, what luck.|ba|2325
+A|I know.|ba|2325
+A|I was just like, God set this, up for me.|sd|2325
+B|Really|b|2325
+A|He knew I needed this|sd|2325
+A|and, uh, so since October then, they have been going there|sd|2325
+A|and|%|2325
+A|I love it.|sd|2325
+A|I have been at  such peace with myself.|sd|2325
+B|Oh, that's great.|ba|2325
+A|It's just been better than even when they were with my best friend because we don't have the little day to day hassles|sd|2325
+A|and the cost was not near as much as the Kindercares were going to be.|sd|2325
+B|Yeah|b|2325
+B|Oh, really?|bh|2325
+B|Wow.|ba|2325
+A|Did you hear my printer in the background.|qy|2325
+A|I'm sorry.|fa|2325
+A|I hope you can understand what I|sd|2325
+B|That's okay|bd|2325
+B|I got the dryer going in the background|sd|2325
+A|Yeah.|b|2325
+B|so|%|2325
+A|I was only about twenty dollars more a month than I was paying because being a private institution they're nonprofit.|sd|2325
+B|Yeah.|b|2325
+A|So, they don't have to charge as much.|sd|2325
+B|Oh, that's great.|ba|2325
+A|And the hours are wonderful|sd|2325
+A|and I just, I think it's the best thing.|sd|2325
+A|I told Russ that we should have done this a long time ago you know|sd|2325
+B|Yeah.|b|2325
+A|It's great.|ba|2325
+A|So I guess as long as I have to work, I feel good that they're there.|sd|2325
+A|they're getting the love, the care.|sd|2325
+A|They have a little curriculum.|sd|2325
+A|They teach them, you know, the alphabet, the numbers, the things which, you know, if they learn, they learn.|sd|2325
+A|If they don't, they don't.|sd|2325
+A|I don't feel like I have to indoctrinate them by age three|sd|2325
+B|Yeah.|b|2325
+A|but it's kind of neat when they  come home with it, you know.|sd|2325
+B|Yeah.|b|2325
+B|They think it's fun.|bf|2325
+B|It's not a big, you know trauma to them to learn something.|bf|2325
+B|Yeah.|%|2325
+A|Oh, and the teachers.|sd|2325
+A|Well, Taylor got bit several times|sd|2325
+A|and Taylor bit several times|sd|2325
+A|and the teachers dealt with that.|sd|2325
+A|We're like, hey they're two|sd|2325
+A|and we keep them apart|^q|2325
+A|and we scold them|^q|2325
+A|and we correct them|^q|2325
+A|and, you know, they mark it all down|sd|2325
+A|and they let you know|sd|2325
+A|and, and, you know, they get over it real quick|sd|2325
+A|and he doesn't do it anymore|sd|2325
+A|and they work at the potty|sd|2325
+B|Yeah.|b|2325
+A|I just, just|%|2325
+A|so mu,|%|2325
+A|I don't know.|h|2325
+A|I just feel like a big burden was lifted|sd|2325
+B|Really.|b|2325
+B|Because sometimes it is a burden having them all day because I can't  do anything with them here.|sd|2325
+A|It is.|aa|2325
+B|I can't even go grocery shopping right now  with the two of them because the baby is so into everything|sd|2325
+B|and the older brother is you know, running around all over the place|sd|2325
+B|so  it is, it's hard.|sd|2325
+A|and that's hard.|sd|2325
+B|Yeah.|b|2325
+A|Yeah|b|2325
+B|Yeah.|b|2325
+B|So.|%|2325
+A|Well, and it, it, you know,|%|2325
+A|but I|%|2325
+A|I, I, I wish you could find a good Mother's Day Out because that would be good for your  peace of mind also.|sd|2325
+B|Yeah,|b|2325
+B|I need to.|sd|2325
+B|Even for just a couple days a, mornings a week or something to have something like that,|sd|2325
+A|Yeah.|b|2325
+B|so I, I think I'm going to look for that.|sd|2325
+B|Remind me of that now that you mention it|sd|2325
+A|Yeah.|b|2325
+A|Yeah.|b|2325
+B|and that's not that big a deal, you know.|sd|2325
+A|Yeah.|b|2325
+B|For a couple times|sd|2325
+A|And that's usually like, you know,|sd|2325
+A|I don't know when mine were going to Mother's Day Out,|sd|2325
+A|it was like from nine to three|sd|2325
+A|so that was a pretty good pretty good time, you know.|sd|2325
+B|Yeah.|b|2325
+A|My baby-sitter would take them and then pick them up.|sd|2325
+B|Yeah|b|2325
+A|So, that worked out real good.|b|2325
+B|That's sounds good.|ba|2325
+A|Well, I'm tickled to death.|sd|2325
+A|I hope you find something|sd|2325
+A|and  it was good talking to you.|fc|2325
+B|Well, thanks.|fc|2325
+B|Did we cover everything we need to?|fc|2325
+A|Well, I guess.|fc|2325
+B|Okay.|fc|2325
+A|It said child care criteria|fc|2325
+B|Okay.|fc|2325
+A|and I think we both listed an experience|fc|2325
+B|Yeah.|fc|2325
+B|Okay.|fc|2325
+B|Well, great.|fc|2325
+B|Well, thanks a lot.|fc|2325
+B|You have a good day.|fc|2325
+A|And you too.|fc|2325
+B|Bye-bye|fc|2325
+A|Bye|fc|2325

@@ -1,0 +1,133 @@
+A|return anything.|fo_o_fw_"_by_bc|3633|0
+B|Well, really,  the only things that I have returned have not been faulty,|sd|3633|1
+B|it's been because of the size or  some problem like that.|sd|3633|1
+A|Right.|b|3633|0
+B|I really haven't had to return things because they didn't perform the way they were supposed to.|sd|3633|1
+A|Most the time they have a pretty good guarantee,|sv|3633|0
+A|yeah.|%|3633|0
+A|The only thing I've had lately is, uh, my kids got all these Barbie kind of toys for, uh, Christmas|sd|3633|0
+A|and, uh, it takes them less than a day|sd|3633|0
+A|and they're broken in one way or another.|sd|3633|0
+A|But I don't know if that's just kids, or if that's, uh,|sd|3633|0
+A|maybe those type of products should be for older kids|sv|3633|0
+B|Uh-huh.|b|3633|1
+B|What age are your children?|qw|3633|1
+A|I have a five and a half and a three and a half year old that play with them|sd|3633|0
+B|Uh-huh|b|3633|1
+A|And, uh, I don't think they're unduly rough,|sd|3633|0
+A|but maybe they are.|sd|3633|0
+A|I don't know.|h|3633|0
+A|But, uh, a lot of the little Barbie sets they come with real little pieces|sd|3633|0
+A|and they're easily lost and easily broken|sd|3633|0
+A|but,|%|3633|0
+B|Uh-huh.|b|3633|1
+B|Well, my daughter is twenty-one now,|sd|3633|1
+B|so it's been a while since we've had Barbie things|sd|3633|1
+A|It's been a while since they've, uh, gone through the Barbie stuff .|bf|3633|0
+B|But we did have Barbies, we did have Barbies and things,|sd|3633|1
+B|and there|%|3633|1
+B|seems to me that that became a craze when she was already, oh, like, you know, third, fourth, fifth grade.|sd|3633|1
+A|Right.|b|3633|0
+B|So she wasn't in it for very long before she was out of it,|sd|3633|1
+B|but, uh, I don't remember her breaking a lot of stuff.|sd|3633|1
+A|Don't remember her breaking, uh,|b^m|3633|0
+B|No,|nn|3633|1
+B|I don't.|sd|3633|1
+B|But I also don't remember lots of little pieces|sd|3633|1
+B|They've got so many different things with it now.|sv|3633|1
+A|Well, that's one thing they've got.|aa|3633|0
+A|They've got every type of imaginable,|sv|3633|0
+A|camping on the beach, and all of these come with, oh, like tiny, tiny little plates and little sunglasses.|sd|3633|0
+A|And, uh|%|3633|0
+B|Goodness.|ba|3633|1
+A|my three and a half year old has wanted this Ken doll,|sd|3633|0
+A|and so I finally got her a Ken doll,|sd|3633|0
+A|and, uh, less than a week later the arm was broken.|sd|3633|0
+B|Oh, dear.|ba|3633|1
+A|But they were real good about replacing it.|sd|3633|0
+A|That's one nice thing, is they're real good about replacing it.|sd|3633|0
+B|Well, uh, I guess if they'll replace them, then they assume they shouldn't have broken.|sv|3633|1
+A|Right.|aa|3633|0
+A|Well, the, the, you know, those little arms are supposed to twist almost any way|sd|3633|0
+A|and|%|3633|0
+B|Any direction.|^2|3633|1
+A|she's not that strong, that I would  she's not that big of a girl that I think could really take a grip on it like a bigger kid could, you know.|sd|3633|0
+B|Uh-huh.|b|3633|1
+B|Right.|b|3633|1
+B|Yeah.|b|3633|1
+B|The main thing that they've, they had when my daughter was playing with Barbies was just clothes.|sd|3633|1
+A|Yes.|b|3633|0
+B|You know, that was about it.|sd|3633|1
+A|That was about it.|b^m|3633|0
+B|Uh-huh.|b|3633|1
+A|And the Barbie doll itself is usually pretty durable and that kind of stuff|sv|3633|0
+A|but,|%|3633|0
+B|And the main thing my kids seem to be into nowadays are electronics.|sd|3633|1
+B|My, my children are twenty-one and twenty-five and twenty-eight.|sd|3633|1
+A|Oh, is that right?|bh|3633|0
+B|Uh-huh|ny|3633|1
+B|and,|%|3633|1
+A|Well, do you see that there's a big problem with electronic things?|qy|3633|0
+B|No,|nn|3633|1
+B|not really.|sd|3633|1
+B|We, uh, haven't had that much, you know, problem with things that we have bought.|sd|3633|1
+B|They seem to, to last.|sd|3633|1
+B|In fact, when they offer us extended warranties, we, we don't buy them because we've,|sd|3633|1
+A|Don't buy them because you don't need them.|^2|3633|0
+A|Yes.|b|3633|0
+B|And, uh, it seems like it's just a, an added tack on.|sv|3633|1
+B|Plus a lot of the credit cards now, you know, will guarantee,|sv|3633|1
+B|if you purchase on your credit card  you know, then they put an extended warranty on it if it doesn't work or if you have a problem with it in a certain period of time,|sv|3633|1
+A|Oh, yeah. .|b|3633|0
+B|so it seems  like it's a waste of money.|sv|3633|1
+A|Yes.|b|3633|0
+A|Well, you almost assume if you're going to have problems with it, it's usually before that warranty would expire|sv|3633|0
+A|any,|%|3633|0
+A|the first one.|%|3633|0
+B|Uh-huh.|aa|3633|1
+B|And like I've even bought, on a recliner once I bought, you know, a, a, an extended warranty for cleaning and stuff like that,|sd|3633|1
+B|and I never used it.|sd|3633|1
+A|You never even needed it.|b|3633|0
+B|And so it seems ridiculous.|sv|3633|1
+B|And like washers and dryers and things like that, I've never had one go out.|sd|3633|1
+B|In fact, they usually,|%|3633|1
+B|when they do go out, it's either something my husband can buy the part and fix|sd|3633|1
+B|and we don't even have a repairman come,|sd|3633|1
+B|or it means it's old enough that it's time to replace the whole thing.|sd|3633|1
+A|It's time to replace it.|b^m|3633|0
+B|Uh-huh.|b|3633|1
+A|Yes.|b|3633|0
+B|So, I mean,|%|3633|1
+A|I think these extended warranties are gimmicks, really.|sv|3633|0
+B|I do too.|aa|3633|1
+A|A lot of it.|sv|3633|0
+A|We bought, when we first married, we bought one on our T V|sd|3633|0
+A|and that there's,|%|3633|0
+A|it was a five year, after the first five years,|sd|3633|0
+A|and it was ridiculous.|sd|3633|0
+B|Uh-huh.|b|3633|1
+B|And they charge you a pretty good price for them too.|sv|3633|1
+A|Yes.|aa|3633|0
+A|They're a pretty healthy price,|sv|3633|0
+A|and you're trying to think oh, maybe I'll need this.|sv|3633|0
+A|You never, you always think gosh, if I say no, then I won't, you know.|sv|3633|0
+B|Uh-huh.|b|3633|1
+A|But,|%|3633|0
+B|Well, my husband  finally just put his foot down|sd|3633|1
+A|I don't know.|h|3633|0
+B|and he said we're not going to buy any of these anymore,|sd|3633|1
+B|and if it goes out, well  you know.|sd|3633|1
+A|You probably  got your worth out of it anyway.|sv|3633|0
+B|Uh-huh,|aa|3633|1
+B|and, uh, so we really have been fairly happy with things,|sd|3633|1
+B|but now we take good care of things|sd|3633|1
+B|and we don't, uh, run out and buy a lot of, of things either.|sd|3633|1
+B|And since our kids aren't little anymore, I'm not buying a lot of those little things that can get broken.|sd|3633|1
+A|Yes,|b|3633|0
+A|the little,|%|3633|0
+A|well, you probably are real careful of the brands you buy|qy^d|3633|0
+A|and the, when you do buy things, you probably watch what kind of, type of .|qy^d|3633|0
+B|Well, you look at the consumer guide.|arp_nd|3633|1
+A|Yes.|b|3633|0
+B|And, uh, you go around|sd|3633|1
+B|and you look at the different ones and find the ones that have the,|sd|3633|1

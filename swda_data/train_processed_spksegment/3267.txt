@@ -1,0 +1,39 @@
+A|Wondering how you keep up on the news.|qw^d|3267|0
+B|Primarily with our local newspaper and T V.|sd|3267|1
+A|Uh-huh.|b|3267|0
+B|I listen to the radio but not, um, not like I did when I was working.|sd|3267|1
+B|I am recently retired|sd|3267|1
+B|to that means I have a lot of time to watch the news on T V.|sd|3267|1
+B|How do you gain your news?|qw|3267|1
+A|I guess the, I get the WASHINGTON POST|sd|3267|0
+B|Okay.|bk|3267|1
+A|and that is a pretty big newspaper|sv|3267|0
+A|and I think that's almost exclusive me, my first of the news.|sd|3267|0
+A|Though I have the radio on when I go to work, I don't think the news usually hits,|sd|3267|0
+A|because I'm not going right on the hour.|sd|3267|0
+B|Oh, I see.|bk|3267|1
+A|You know.|b|3267|0
+B|Well, that's, that is one of the handicaps with both T V and, and radio.|sv|3267|1
+B|If you're not available on the hour or half hour, then you lose out on an awful lot.|sv|3267|1
+B|Well, what is your newspaper?|qw|3267|1
+B|That is the WASHINGTON POST|qy^d|3267|1
+A|Right.|na|3267|0
+B|is that correct?|qy|3267|1
+B|I have read that when we were in that area,|sd|3267|1
+B|and it is a splendid newspaper.|sd|3267|1
+A|Uh-huh.|b|3267|0
+B|So, what more do we need to discuss tonight?|qw|3267|1
+B|That seems like a very short one.|sv|3267|1
+A|Right.|aa|3267|0
+A|I think that, you know, we, we've resolved the issue|sv|3267|0
+A|and that's what we were asked to do.|sd|3267|0
+B|Well, I can discuss a lot of the news that we have,|sd|3267|1
+B|but, uh, I feel that that's not part of our responsibility.|sd|3267|1
+A|Right.|b|3267|0
+A|Right.|b|3267|0
+B|So thank you for calling.|fc|3267|1
+A|Oh, okay.|fc|3267|0
+A|Well, thanks for discussing it.|fc|3267|0
+B|All right.|fc|3267|1
+A|Bye-bye.|fc|3267|0
+B|Good-bye.|fc|3267|1

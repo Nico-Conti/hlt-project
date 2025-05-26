@@ -1,0 +1,170 @@
+A|Okay, um,|fo_o_fw_"_by_bc|3688
+A|do you have any pets now?|qy|3688
+B|Well, we don't right now,|ng|3688
+B|no.|nn|3688
+B|We've, uh,|%|3688
+B|I grew up with, uh, with pets.|sd|3688
+B|My folks and I always had a dog and a cat,  some,  birds,|sd|3688
+A|Yeah.|b|3688
+B|but, uh, right now we don't have anything.|sd|3688
+A|Oh, okay.|bk|3688
+A|Um, that,|%|3688
+B|What about you?|qo|3688
+A|a matter of choice, or compulsion?|qy|3688
+B|Well, we've just, uh,|%|3688
+B|it seems like, we've always been at a place where we'd have to go away for the summer or something|sd|3688
+B|and, uh, it was,  never convenient to have anything.|sd|3688
+A|Yeah.|b|3688
+B|we were thinking about getting a dog if we get into a house.|sd|3688
+A|Yeah.|b|3688
+B|Uh, someplace where there, you know,|sd|3688
+B|we can take care of it and everything.|sd|3688
+B|We've got,  some children who would just really, uh, enjoy having an animal, you know, a dog, I think|sd|3688
+A|Yeah.|b|3688
+B|and, What about you all?|qo|3688
+A|Yeah.|b|3688
+A|Well, right now I'm a student,|arp_nd|3688
+A|and campus housing does not even allow thinking about that|sd|3688
+B|Oh, no.|ba|3688
+A|No,|b^m|3688
+A|we almost got chased out of here for feeding a stray cat.|sd|3688
+B|Is that right?|bh|3688
+A|Yeah.|ny|3688
+A|They're very strict about it.|sd|3688
+B|But you like, uh, you like pets and things?|qy|3688
+A|Oh, I love animals.|na|3688
+B|Oh, yeah .|b|3688
+A|I was raised,|%|3688
+A|our house when I, when I was growing up there was almost never, uh, at least one cat in the house.|sd|3688
+B|Uh-huh.|b|3688
+A|It was almost always at least one cat, sometimes, you know, like fifteen or twenty. But, uh, always cats in the house.|sd|3688
+B|Oh, yeah.|b|3688
+B|We, we,  enjoyed them.|sd|3688
+A|Oh.|b|3688
+B|We like, we like pets,|sd|3688
+B|but, uh, you know, you've got to deal with, uh, taking care of them and, and feeding them and everything like that.|sv|3688
+A|Yeah.|b|3688
+B|And our kids are,|%|3688
+B|we've got some children|sd|3688
+B|and they're not, not used to it, you know, on a daily basis.|sd|3688
+B|They, they, uh,|%|3688
+A|How old are your kids?|qw|3688
+B|Oh, from fourteen down to seven.|sd|3688
+A|Okay.|bk|3688
+B|You sound like you've got some small ones in the background.|qo|3688
+A|One.|sd|3688
+B|Is that right?|bh|3688
+A|Our first.|sd|3688
+A|He's about eleven weeks now.|sd|3688
+B|Oh, great.|ba|3688
+A|Yeah.|b|3688
+B|Congratulations.|ba|3688
+A|Yeah.|b|3688
+B|Where are you from?|qw|3688
+A|Uh, originally?|qy|3688
+B|Uh-huh.|ny|3688
+A|West Virginia.|sd|3688
+B|Okay.|bk|3688
+A|Um, I don't know how familiar you are with that area of the country|qy^d|3688
+A|but,|%|3688
+B|I've been to Charleston.|sd|3688
+A|Charleston, West Virginia?|qy|3688
+B|Yes,|ny|3688
+B|uh-huh.|ny|3688
+A|Okay,|bk|3688
+A|that's pretty much the south end of the state, or the southern quarter of the state, anyway?|qy|3688
+B|Uh-huh.|ny|3688
+A|Okay,|bk|3688
+A|in the north end of the state, you've got that little narrow strip of West Virginia going up between Ohio and Pennsylvania|sd|3688
+B|Uh-huh.|b|3688
+A|Right at the base of that northern peninsula is my hometown.|sd|3688
+B|Uh-huh|b|3688
+B|Well, that's, yeah, that's interesting.|ba|3688
+B|So it's really up north in the country, really, .|bf|3688
+A|Yeah,|aa|3688
+B|I guess so.|b|3688
+A|yeah.|aa|3688
+A|It's,|%|3688
+A|well, um, my parents' house is like three miles south of where the Mason-Dixon Line would have hit the Ohio River had it continued that far.|sd|3688
+B|Gosh.|ba|3688
+B|I see.|b|3688
+A|So,|%|3688
+B|It's pretty nice country up there?|qy|3688
+A|Oh, it's beautiful.|na|3688
+B|Hills, or what?|qy|3688
+A|Uh, well, from my neck of the woods, it's hilly.|sd|3688
+B|Uh-huh.|b|3688
+A|Um, you know, uh, maybe three hundred, four hundred feet elevation, uh,  type variations from the valleys up to the hills, the hilltops.|sd|3688
+B|Uh-huh|b|3688
+B|Is it farmland?|qy|3688
+A|Um, not a lot of farmland there.|ng|3688
+A|Mostly it's, uh,|%|3688
+A|I mean, you know, there's, you know, individuals with their own, own uh, growing their own food.|sd|3688
+A|Uh, most of the agriculture, it's more in the way of, uh, sheep and cattle.|sd|3688
+B|Oh, yes.|b|3688
+A|And even that's, you know, small time mostly.|sd|3688
+B|Sure.|b|3688
+A|Uh, the biggest chunk of what's going on there is, is, uh, industry.|sd|3688
+B|Uh-huh.|b|3688
+A|It's coal mines and chemical plants and power plants.|sd|3688
+B|Okay.|bk|3688
+A|Uh, aluminum plants.|sd|3688
+A|There's like two aluminum plants .|sd|3688
+B|What are you, what are you studying there at Heidelberg ?|qw|3688
+A|Computer engineering.|sd|3688
+B|Oh, yeah.|b|3688
+B|What year?|qw|3688
+A|Uh, just finished up my fourth semester.|sd|3688
+B|Well, great.|ba|3688
+A|Yeah.|b|3688
+B|Yeah.|b^m|3688
+B|I hope that works out well.|sd|3688
+A|Yeah,|b|3688
+A|it's a big change.|sd|3688
+B|Yeah.|b|3688
+A|I spent,  twenty years as a mechanic|sd|3688
+B|What's,|%|3688
+A|so,|%|3688
+B|Oh, did you?|bh|3688
+A|Yeah.|ny|3688
+B|Well, you've got some experience behind you in the work force.|sv|3688
+A|Yeah.|aa|3688
+B|Yeah.|b^m|3688
+B|Are you, uh, shooting for a bachelor's now, or a master's, or what?|qy|3688
+A|I'm working on a bachelor's degree.|sd|3688
+B|Oh, okay,|bk|3688
+B|good.|ba|3688
+A|I'm working on a bachelor's degree.|sd|3688
+A|It'll be|%|3688
+B|Hope it's a good program there.|qy^d|3688
+A|Pardon?|br|3688
+B|Hope it's a good program there.|qy|3688
+A|Uh, it seems to me, from what I've been able to find out.|na|3688
+B|Yeah,|b|3688
+B|good.|ba|3688
+A|That's considered a pretty good program.|sd|3688
+A|It's nice and small, which means, you know, if you don't get the class this semester, then you've got to wait or three or four you know, anywhere from two to four semesters to get,  it again.|sv|3688
+B|Huh|b|3688
+A|But, uh, it's worth it once you get it.|sv|3688
+B|Well, yes,|aa|3688
+B|that's good.|ba|3688
+B|And probably a good, uh, student teacher ratio and things.|qy^d|3688
+A|Oh, yeah,|ny|3688
+A|yeah.|ny|3688
+B|Yeah|b^m|3688
+A|Most the class are pretty small.|sd|3688
+B|Good.|ba|3688
+A|That works out real well.|sd|3688
+B|Well, I, I was wondering what, if you all were to get a pet, like if you were to move into an apartment|qw|3688
+B|or a house somewhere, what would you get?|qw|3688
+A|Uh, well, um, first off we'd probably wind up with a, a cat or maybe a puppy.|sd|3688
+B|Uh-huh.|b|3688
+A|I, I, I'm partial towards the larger dogs.|sd|3688
+B|Uh-huh.|b|3688
+A|Um, our last, we've, we've had a couple of cats before we moved on campus.|sd|3688
+B|Uh-huh.|b|3688
+A|Uh, had a hamster or two,|sd|3688
+A|and they, they got,  to be a lot of fun.|sd|3688
+B|A hamster.|b|3688
+B|Oh, yeah.|b|3688
+A|Uh, it's amazing how much character,|sv|3688

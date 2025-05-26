@@ -1,0 +1,155 @@
+A|A, uh, Golden Retriever.|sd|4179|0
+B|Ooh, that's one of my favorite kinds of dogs.|sd|4179|1
+A|Yeah.|b|4179|0
+A|Is it really?|bh|4179|0
+B|How long have you had it?|qw|4179|1
+A|We've had him for,|sd|4179|0
+A|let's see, he just had his fourth birthday.|sd|4179|0
+B|Fourth birthday.|b^m|4179|1
+A|Yeah,|b|4179|0
+A|and we got him when he was about eight weeks old|sd|4179|0
+A|and, uh, he's pretty okay,|sd|4179|0
+A|we like him.|sd|4179|0
+B|Does he shed a lot?|qy|4179|1
+A|He does.|na|4179|0
+A|That's the one thing we don't like about him.|sd|4179|0
+A|In fact, we threaten him in the summertime that we might just shave all of his hair off.|sd|4179|0
+A|He'd probably look pretty funny if we did that.|sv|4179|0
+B|How much does he weigh now?|qw|4179|1
+A|He, actually, he just went to the vet yesterday to get his shots and everything,|sd|4179|0
+A|and they put him on the scale|sd|4179|0
+A|and he's up to ninety four now.|sd|4179|0
+B|Oh.|b|4179|1
+A|But he's not a real, he's not a real tall, uh, dog for a Golden Retriever.|sd|4179|0
+A|He's kind of stocky, shorter and stockier.|sd|4179|0
+B|Um.|b|4179|1
+A|But,|%|4179|0
+B|Is he good with family?|qy|4179|1
+A|He is.|na|4179|0
+A|It's, uh, just me and my wife|sd|4179|0
+A|and, uh, he's kind of our temporary substitute for having kids.|sd|4179|0
+A|We treat him like our kid right now so he's spoiled rotten.|sd|4179|0
+B|Yeah,|b|4179|1
+B|I can understand that|sd|4179|1
+A|Because I,|%|4179|0
+A|Get away with that a little bit more with pets than you can with kids|sv|4179|0
+B|Uh-huh.|b|4179|1
+A|How about you?|qo|4179|0
+B|Well, we have a cat who's also about four years old.|sd|4179|1
+A|Oh.|b|4179|0
+B|And he's our spoiled child right now, too|sd|4179|1
+A|Uh-huh.|b|4179|0
+B|And he also sheds a lot.|sd|4179|1
+A|Yeah.|b|4179|0
+B|But, we, uh, we hope to get a Golden Retriever someday.|sd|4179|1
+B|But we figure we'll get the kids and then the, the dog|sd|4179|1
+A|That's probably a good idea.|sv|4179|0
+A|They're good though.|sv|4179|0
+A|Uh, have you ever had a Retriever before?|qy|4179|0
+B|No,|nn|4179|1
+B|but my husband had one when he was growing up.|sd|4179|1
+A|Because I, I find that they're good around other animals like cats and other dogs.|sv|4179|0
+A|They don't tend to get real jealous or territorial.|sv|4179|0
+A|They like to play.|sv|4179|0
+B|Um.|b|4179|1
+A|Especially with the kids.|sv|4179|0
+A|They love to play with kids.|sv|4179|0
+B|Is, is your dog an inside and outdoors?|qy|4179|1
+A|No,|nn|4179|0
+A|he's pretty much an inside dog.|sd|4179|0
+B|Um.|b|4179|1
+A|He stays in.|sd|4179|0
+A|We, we're kind of in a, not a real busy neighborhood, but more so than I'd want him to be out too much|sv|4179|0
+A|and he doesn't like it if we tie him outside.|sd|4179|0
+B|Oh, really?|bh|4179|1
+A|He's really a wimp.|sd|4179|0
+A|And when it comes to being alone,|sd|4179|0
+A|uh, now if you give him the freedom to walk around and go wherever he wants, he likes that,|sd|4179|0
+A|but he does not like to be tied outside.|sd|4179|0
+A|He'll, he'll just bark and bark and bark.|sd|4179|0
+B|Um, when he gets outside, does, in, does he run away and then eventually come back?|qy|4179|1
+A|No,|nn|4179|0
+A|he's, uh, taken to the training pretty well|sd|4179|0
+A|and, uh, he knows where our yard is|sd|4179|0
+A|and we have a pretty small yard,|sd|4179|0
+A|but he seems to know the boundaries.|sv|4179|0
+B|Um.|b|4179|1
+A|And he usually is good about staying within them,|sd|4179|0
+A|although our next door neighbors have a dog, too|sd|4179|0
+A|and, uh, she, she is good friends with my dog.|sd|4179|0
+B|Oh, yeah?|bh|4179|1
+A|And so he often gets to smelling her scent and will go over there to sniff around and stuff|sd|4179|0
+A|but, he's pretty good.|sd|4179|0
+A|He stays out of the street|sd|4179|0
+A|and, uh, if I catch him I call him|sd|4179|0
+A|and he comes back.|sd|4179|0
+A|So he, he's pretty good about taking to commands and and things.|sd|4179|0
+B|Um.|b|4179|1
+B|Did you bring him to a doggy obedience school or just train him on your own|qy|4179|1
+A|No|nn|4179|0
+A|we never did.|sd|4179|0
+B|and,|%|4179|1
+A|I, I trained him on my own|sd|4179|0
+A|and, uh, this is the first dog I've had all my own as an adult.|sd|4179|0
+B|Uh-huh.|b|4179|1
+A|We've had kid, or we've had dogs when I was a kid,|sd|4179|0
+A|but this, this is the first one that I, uh, took in,|sd|4179|0
+A|so I wasn't sure if I'd be able to get it all right the first time,|sd|4179|0
+A|but, uh, he, he seems to have picked it up pretty well.|sv|4179|0
+A|I never really to hit him or anything.|sd|4179|0
+B|Uh-huh.|b|4179|1
+A|Just, you know firm tone of voice and those sorts of things.|sd|4179|0
+B|Huh.|b|4179|1
+B|Really?|bh|4179|1
+A|I, I see other people out there|sd|4179|0
+A|and they hit their dogs and try to,|sd|4179|0
+A|and, and those horrible collars that they put on them with invisible fencing,|sd|4179|0
+A|least I,|%|4179|0
+B|Invisible what?|br|4179|1
+A|Invisible fencing,|sd|4179|0
+A|have you heard of that?|qy|4179|0
+B|No,|nn|4179|1
+B|what is that?|qw|4179|1
+A|It's, uh, it's a system you can put in your yard where you bury these little, uh, transducers or emitters in your yard at the perimeter|sd|4179|0
+B|Oh.|b|4179|1
+A|and then they wear a collar with a special little attachment on it|sd|4179|0
+A|and if they get too close to that perimeter, it it zaps them.|sd|4179|0
+B|Oh.|b|4179|1
+B|Boy.|ba|4179|1
+A|Yeah|b|4179|0
+B|I'd be afraid to walk around if I was that dog|sd|4179|1
+A|Yeah,|b|4179|0
+A|well, a friend of mine at work here said that he tried it with his dog|sd|4179|0
+A|and he wanted to see what he was subjecting his dog to|sd|4179|0
+A|so he held on to the collar|sd|4179|0
+A|and he walked out to the perimeter.|sd|4179|0
+A|He said it was a good jolt.|sd|4179|0
+B|Oh, really?|bh|4179|1
+A|Yeah,|ny|4179|0
+A|and so, I, I don't take too well to, to those sorts of training techniques.|sv|4179|0
+B|Um.|b|4179|1
+A|I don't think they're always necessary.|sv|4179|0
+A|If you put enough patience into,|sv|4179|0
+B|Yeah,|aa|4179|1
+B|just be consistent and diligent with it|bf|4179|1
+A|Uh-huh.|aa|4179|0
+B|and, um,|%|4179|1
+A|It's, uh, is your cat an indoor cat or an outdoor cat?|qy|4179|0
+B|Yeah|ny|4179|1
+B|he's indoor and all declawed because I know the, uh, average life span of an outdoor cat is eighteen months.|sd|4179|1
+A|Somebody just told me that|sd|4179|0
+B|Yeah.|b|4179|1
+A|because of the leukemia?|qy^d|4179|0
+B|Yeah,|ny|4179|1
+B|that and also just, uh, getting hit, I guess, or getting beat up.|sv|4179|1
+B|And the average life span of an indoor cat is eighteen years|sd|4179|1
+A|Wow.|ba|4179|0
+B|So,|%|4179|1
+A|Quite a difference.|bf|4179|0
+B|Yeah.|aa|4179|1
+A|What, uh, what kind of climate do you have?|qw|4179|0
+B|Well, uh, it's, we just moved recently|sd|4179|1
+B|so now we're in the, uh, Dallas area|sd|4179|1
+B|and it's very very nice|sd|4179|1
+A|Oh.|b|4179|0
+B|and,|%|4179|1

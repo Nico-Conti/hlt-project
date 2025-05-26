@@ -1,0 +1,163 @@
+A|There you go.|fo_o_fw_"_by_bc|2995|0
+B|What do you think invades your privacy? heavily|qo|2995|1
+A|Oh, well people that call on the phone all the time to try to sell you something. You know, that, that try to sell you the newspaper, and, uh, carpet cleaning, and, uh, what else, roof repair|sv|2995|0
+A|And enough,|%|2995|0
+A|well I think it's a waste of paper, the people that always leave, uh, junk mail and, because, um, you just end up throwing it away most of the time.|sv|2995|0
+A|Probably eighty percent of the, the junk mail that you get is, is, um, something that you don't need.|sv|2995|0
+A|And the same way with those calls.|sv|2995|0
+A|What is it,|t1|2995|0
+A|oh M C I, M C I really does.|sd|2995|0
+A|Even when you tell them no, they keep calling back.|sd|2995|0
+B|M C I|b|2995|1
+B|what's that?|qw|2995|1
+A|M C I|^h|2995|0
+A|it's the long distance telephone company.|sd|2995|0
+B|Oh, now see I, I really don't have much trouble with, I just say no thank you and hang up.|sd|2995|1
+A|Uh-huh,|b|2995|0
+A|well they they won't take a no for an answer here for some reason.|sd|2995|0
+A|They just keep calling back.|sd|2995|0
+B|I had a carpet service call up three times, all within in an hour,|sd|2995|1
+A|Uh-huh.|b|2995|0
+B|but, I, uh, I do telemarketing,|sd|2995|1
+A|Uh-huh.|b|2995|0
+B|so, uh, I'm very polite|sd|2995|1
+B|and I just say no thank you, and say no thank you very politely|sd|2995|1
+B|and I hang up and, don't bother me after that.|sd|2995|1
+A|Uh|b|2995|0
+A|Yeah.|b|2995|0
+B|So I think the only thing that really bothers me is if when somebody contacts me|sd|2995|1
+B|and they try to get information out of me.|sd|2995|1
+A|Uh-huh.|b|2995|0
+B|Like the Census Bureau, United States Census Bureau.|sd|2995|1
+A|Oh yeah.|b|2995|0
+B|That bothered me.|sd|2995|1
+A|Uh-huh.|b|2995|0
+B|I didn't feel they had a right to know how many bedrooms were in my house even.|sd|2995|1
+A|Right.|b|2995|0
+B|That I think is my invasion privacy because it's the government|sv|2995|1
+B|and I don't understand what their need to know is.|sd|2995|1
+A|Uh-huh.|b|2995|0
+B|And I think that is my biggest objection to anything as far as invading my privacy. If somebody wants personal information out of me,|sd|2995|1
+B|but telephone calls I figure, they don't bother me one way or the other.|sd|2995|1
+A|Uh-huh.|b|2995|0
+B|Uh, I know when I do telemarketing, um, I'm a soft person,|sd|2995|1
+B|if, if someone says I am not interested I'll just say fine and back out.|sd|2995|1
+A|Uh-huh.|b|2995|0
+B|And I make very good sales,|sd|2995|1
+B|but I'm not, uh, as I said, I'm not half as pushy as these people because, I don't really care.|sd|2995|1
+B|I mean, if, if they're not interested fine.|sd|2995|1
+B|You know that's it.|sd|2995|1
+A|You can't force them to be.|sv|2995|0
+B|Right.|b|2995|1
+A|No.|sv|2995|0
+B|And I'm not pushing something down their throat that, uh, I don't think is a good item anyway.|sd|2995|1
+A|Uh-huh.|b|2995|0
+B|That I don't think I could do anyway.|sd|2995|1
+B|But I feel like, oh, movie stars, or|%|2995|1
+B|sure, it's part of their, I guess they're portray being a movie star|sv|2995|1
+B|they get themselves in these rag sheets|sv|2995|1
+B|but, uh, I think they go too far.|sv|2995|1
+A|Oh, yeah|b|2995|0
+B|I think that's invasion of privacy.|sv|2995|1
+A|because they follow them around twenty-four hours a day.|sd|2995|0
+B|Yeah|b|2995|1
+A|And you know they do Ted Kennedy.|sd|2995|0
+B|Oh, yeah.|b|2995|1
+A|Of course, he's breaking the law all the time,|sv|2995|0
+A|so it's a different story then.|sv|2995|0
+A|You know, but, but Ed McMahon, I mean, you know, who cares about Ed McMahon.|qh|2995|0
+A|He's probably hasn't done anything interesting in the last thirty years that they've been on the air, you know.|sv|2995|0
+A|And he has a chauffeur.|sd|2995|0
+A|Maybe he drinks|sv|2995|0
+A|but he never drives a car either, you know,|sv|2995|0
+A|it's not the same with Johnny Carson.|sv|2995|0
+B|No,|aa|2995|1
+B|I think my, seriously my classification of, of invasion of privacy is trying to get personal information, and putting it falsely out or just bombarding me for the answers.|sv|2995|1
+A|Uh-huh.|b|2995|0
+A|Without your, and without your permission.|qy^d|2995|0
+B|Right.|na|2995|1
+A|Uh-huh.|b|2995|0
+B|This to me is, is my invasion of privacy.|sv|2995|1
+A|Right.|b|2995|0
+B|Anytime I can honestly say no, or, throw the paper away, or,|sd|2995|1
+B|but you can always write to, uh, oh I forgot the name of it and stop the junk mail.|sd|2995|1
+B|That I've done. Because I don't want junk mail anyway,|sd|2995|1
+B|so I wrote to them when it came on the air,|sd|2995|1
+B|so I don't get any of that bull,|sd|2995|1
+B|it works by the way.|sd|2995|1
+A|Oh, good.|ba|2995|0
+B|But, uh, the telephone doesn't bother me because I leave it half the time, on, uh, you know, answering service anyway, unless I'm home,|sd|2995|1
+A|Uh-huh.|b|2995|0
+B|so I figure I can turn it off one way or the other,|sd|2995|1
+B|but I think that's the only bottom line thing that I dislike.|sd|2995|1
+B|Because it does,|%|2995|1
+B|other than the U S Census, um,|sd|2995|1
+B|what was it.|t1|2995|1
+B|Oh the, the carpet place that called me three times,|sd|2995|1
+A|Uh-huh.|b|2995|0
+B|that I felt was invasion because it was the same carpet place, and called me three times.|sd|2995|1
+B|I mean one should be sufficient.|sv|2995|1
+A|That's right.|aa|2995|0
+B|But, if people don't use the telephone,|%|2995|1
+B|it's like I don't know when the police has their project going|sd|2995|1
+B|and I don't know when the other ones have their project going and when they want to pick up down my street for things.|sd|2995|1
+B|That's the only way I know.|sd|2995|1
+A|Uh-huh.|b|2995|0
+B|And, uh, that's|%|2995|1
+A|Well you have to have the telephone,|sv|2995|0
+A|but you can't, you know,|%|2995|0
+A|and, and it's, sometimes it's hard to screen out all the calls that you don't want.|sv|2995|0
+B|Well see there's no way of knowing,|sv|2995|1
+A|Uh-huh.|b|2995|0
+B|that's, you know, that's the problem.|sv|2995|1
+B|Like the product I sell, uh, I sell mostly to older people which can't get it in a normal public situation.|sd|2995|1
+B|The only way we'd get to them is by telephone.|sd|2995|1
+A|Um.|b|2995|0
+B|And, uh, most of them like it because the company I work for is nationwide, and, uh, reputable|sd|2995|1
+B|and they know that hey, we're backing it, one hundred percent.|sd|2995|1
+A|uh-huh.|b|2995|0
+B|But, if we were denied the right to call people up, these people would never be able to get it.|sd|2995|1
+B|Because your normal companies that offer it, do not offer it in the amounts that we do|sd|2995|1
+B|and they'd never have it then, at that point.|sd|2995|1
+A|Uh-huh.|b|2995|0
+B|Because we offer it in a very low, you know, quantity.|sd|2995|1
+B|So I mean, I, I don't know what to do as far as that's concerned.|sd|2995|1
+B|But it is nerve racking.|sv|2995|1
+B|I mean it is nerve racking to have the telephone,|sv|2995|1
+B|but at least, as I said, you can always say no thank you|sv|2995|1
+A|Right,|aa|2995|0
+A|uh-huh.|aa|2995|0
+B|I gather you get a lot of telephone calls.|bf|2995|1
+A|Sometimes,|aa|2995|0
+A|yeah,|aa|2995|0
+A|some days it just rings off the wall.|sd|2995|0
+B|Yes,|b|2995|1
+B|yes,|b|2995|1
+B|yes.|b|2995|1
+B|In other words you own your own home.|qy^d|2995|1
+A|No,|nn|2995|0
+A|no.|nn|2995|0
+B|I think that's where they hit most of us.|sv|2995|1
+B|Like I own my own home.|sd|2995|1
+A|Uh-huh.|b|2995|0
+B|And you just know about what time,|sv|2995|1
+B|like some days I hate staying home because the phone rings all the time,|sv|2995|1
+B|but, uh, I don't know,|h|2995|1
+B|I haven't been able to figure that out.|sd|2995|1
+B|Something else to do about it.|sd|2995|1
+B|When they call up and want to say, well tell me this, this, this, this and I'll give you a free something or other, My answer is no thank you, I don't need it.|sd|2995|1
+A|Uh-huh.|b|2995|0
+B|And they say, well don't you want to know what's free,|sd|2995|1
+B|and I no|sd|2995|1
+B|If I have to give them so much to answer the questions to get fifty rolls of film or something like that, they're taking something away from me|sv|2995|1
+B|and I don't like that.|sd|2995|1
+A|Right.|aa|2995|0
+A|Yeah|aa|2995|0
+A|even if, I guess it's for coupons, they, they have a survey they run|sd|2995|0
+A|and it, I guess it, one of them is supposed to be a smokers survey|sd|2995|0
+A|but the questions go a lot farther than having to do anything with smoking.|sd|2995|0
+B|Uh-huh.|b|2995|1
+A|And they ask, you know, they start out|sd|2995|0
+A|and they ask you even, even to your income level.|sd|2995|0
+A|I think that's, you know,|sv|2995|0
+A|whether you buy a T V dinner or not, I don't think it has anything to do with,|sv|2995|0

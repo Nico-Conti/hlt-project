@@ -1,0 +1,133 @@
+A|What are you guys having for Christmas?|qo|3549|0
+B|What are we having?|^h|3549|1
+B|Let's see|^h|3549|1
+B|Well, I'm not planning the menu.|sd|3549|1
+A|Oh, you're not.|bh|3549|0
+B|No|nn|3549|1
+B|We usually go out to either one of our folks,|sd|3549|1
+B|they both live close to|sd|3549|1
+A|Yeah.|b|3549|0
+B|but, um, I don't know,|sd|3549|1
+B|it seems like a, a big thing for Christmas is usually ham.|sv|3549|1
+A|Well, funny you should mention that.|sd|3549|0
+A|I'm a pig farmer|sd|3549|0
+B|Oh, you are|bh|3549|1
+A|Yeah.|ny|3549|0
+B|huh.|b|3549|1
+A|Well, now, it's kind of a hobby more than anything else,|sd|3549|0
+A|but we're going to have, uh, wild boar|sd|3549|0
+B|My goodness.|ba|3549|1
+A|we, uh, we killed a boar the other day,|sd|3549|0
+A|it was, you know, mating with the sows,|sd|3549|0
+A|and you can't use the piglets, you know,|sd|3549|0
+A|so.|%|3549|0
+B|Huh.|b|3549|1
+A|It's about six months of no use,|sd|3549|0
+A|so, we, uh, we shot him and cleaned him out and had him, you know, processed into ham,|sd|3549|0
+A|and, uh, we're also going to have a little roast suckling pig, because I, I've got one that's got a, a hernia|sd|3549|0
+B|Oh, really.|bh|3549|1
+A|and rather than, you know, pay the vet four hundred dollars for surgery, we'll just cook him and eat him|sd|3549|0
+B|Is that, is that hard?|qy|3549|1
+A|Well, no,|nn|3549|0
+A|hey, I tell you what, preparing a little pig is, is a snap,|sd|3549|0
+A|I'm telling you, real easy, easier than chicken.|sd|3549|0
+B|Oh, really.|bh|3549|1
+A|Yeah,|ny|3549|0
+A|you just, uh,|%|3549|0
+A|you kill him, you know,|sd|3549|0
+A|you probably,|%|3549|0
+A|most guys just shoot them in the head,|sd|3549|0
+A|they go, you know,|sd|3549|0
+A|in a second they're gone|sd|3549|0
+B|Oh.|b|3549|1
+A|and then you just dip the carcass in, uh, boiling water, pull it out, and there's a, we use a little raspy brush, pulls the hair off, and, uh, gut it, and, uh, just stick it down in a pit with some cloves and, uh, some pineapple, about three pineapples, you know, sliced them up, and, uh, cover him up with, uh, wet, uh, sacks, feed sacks is what I usually use *more than one utt??  and then start a charcoal fire on top of him.|sd|3549|0
+B|Huh.|b|3549|1
+B|Oh, my goodness.|ba|3549|1
+A|And after about six hours, you put the fire out and dig that baby out of there,|sd|3549|0
+A|and it's the best eating you ever had.|sd|3549|0
+B|Oh, well, does a boar taste just like regular ham?|qy|3549|1
+A|Yep,|ny|3549|0
+A|just like a pig|sd|3549|0
+B|Does it.|bh|3549|1
+A|I mean, you know, uh, it has a lot less fat.|sd|3549|0
+B|Huh.|b|3549|1
+A|This wild boar weighed probably about three hundred and thirty pounds|sd|3549|0
+B|Oh my.|ba|3549|1
+A|and he dressed out to almost two hundred and ten pounds.|sd|3549|0
+B|Oh, my goodness.|ba|3549|1
+A|Well, you know, we took the skin and the head and the and the feet off,|sd|3549|0
+A|and that was about, you know, a hundred, hundred pounds of just ham.|sd|3549|0
+B|Oh, well, how many people are you planning on serving at Christmas?|qw|3549|1
+A|Oh, well, we're, you know, we're not going to eat the whole thing|sd|3549|0
+B|Eat it all,|b^m|3549|1
+B|yeah|b|3549|1
+A|It would take a year.|sd|3549|0
+A|But, uh, you know, we're going to drive up to Kansas City, see my wife's folks,|sd|3549|0
+A|and, uh, she, she,|%|3549|0
+A|what's, what's what's your mother cooking for Christmas|qw|3549|0
+A|yeah,|%|3549|0
+A|well her mom's doing brisket.|sd|3549|0
+B|I don't,|sd|3549|1
+B|what is brisket?|qw|3549|1
+A|Brisket?|bh|3549|0
+A|It's a part of the cow that they used to throw away.|sd|3549|0
+B|Huh.|b|3549|1
+A|It's just tough as a boot|sd|3549|0
+B|Oh.|b|3549|1
+A|and, uh, you know, they used to use it for leather, I think|sd|3549|0
+B|Oh, my goodness.|ba|3549|1
+A|I mean, no,|ar|3549|0
+A|I was kidding.|sd|3549|0
+B|Yeah.|b|3549|1
+A|But, uh, it's, it's a part of the loin, you know, the rib cage,|sd|3549|0
+A|and it has a lot of muscle in it and a lot of, gristle where it attaches to the ribs,|sd|3549|0
+A|so it's really, really a tough piece of meat|sd|3549|0
+B|Oh, my goodness.|ba|3549|1
+A|but it's so tasty, you can't stand it.|sd|3549|0
+B|Huh.|b|3549|1
+A|So you just take it|sd|3549|0
+A|and you marinate it for a couple of days|sd|3549|0
+B|And that softens it up, huh.|bf|3549|1
+B|Huh.|b|3549|1
+A|And then, uh, you just put it in the oven,|sd|3549|0
+A|takes about four hours to cook one.|sd|3549|0
+A|They weigh about anywhere from ten to twenty pounds.|sd|3549|0
+B|Oh, gee.|ba|3549|1
+A|And, uh, we're going to have that.|sd|3549|0
+B|Well, what else do you serve with your pig?|qw|3549|1
+A|Oh, well, we'll have cranberries and hominy|sd|3549|0
+A|and, uh, we, we are, we're big on olives and cucumbers and stuff up here.|sd|3549|0
+B|Huh.|b|3549|1
+A|We have olives, black olives and cucumbers and, uh, tomatoes,|sd|3549|0
+A|we still have tomatoes|sd|3549|0
+B|Oh, do you?|bh|3549|1
+A|yeah,|ny|3549|0
+A|fresh tomatoes.|sd|3549|0
+B|Oh, we, we just got lots of snow|sd|3549|1
+A|Well, it started to freeze up around here, you know,|sd|3549|0
+A|there's nothing between you and us but our barb wire, and half of that's down.|sd|3549|0
+A|I mean it's thirty degrees this morning.|sd|3549|0
+B|Oh, really.|bh|3549|1
+A|Yeah.|ny|3549|0
+B|Huh.|b|3549|1
+A|But, uh, it'll go up to fifty or sixty almost.|sd|3549|0
+B|Oh, my goodness.|ba|3549|1
+B|I didn't know it got that low at night.|sd|3549|1
+A|Oh, yeah.|aa|3549|0
+A|Well, it's desert, you know,|sd|3549|0
+A|where, where we are, it's, it's, it's, uh, the edge of the desert,|sd|3549|0
+A|I mean, it's part of the Great Plains.|sd|3549|0
+A|So in the day time in the summer it goes up to a hundred, hundred and ten|sd|3549|0
+B|Oh, gee.|ba|3549|1
+A|and at night it goes down to about sixty.|sd|3549|0
+B|My goodness.|ba|3549|1
+A|Yeah,|aa|3549|0
+A|we get a fifty degree temperature swing in about four hours.|sd|3549|0
+B|Oh, boy.|ba|3549|1
+A|So everything that lives around here is real tough|sd|3549|0
+B|Oh|b|3549|1
+A|That's trees, you know,|sd|3549|0
+A|we got hundred year old trees that are, you know, twenty feet tall.|sd|3549|0
+B|Oh, gee.|ba|3549|1
+A|That's all the bigger they get,|sd|3549|0
+A|they, you know, they're just hard as a rock.|sd|3549|0

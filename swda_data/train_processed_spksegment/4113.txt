@@ -1,0 +1,92 @@
+A|Uh, so, do you think our politicians are honest at this point in time?|qy|4113|0
+B|Generally, I don't think they are.|ng|4113|1
+B|Uh, my, my personal opinion is that, uh, the politicians are out for their own good because they, they're entrenched.|sv|4113|1
+A|Uh-huh.|b|4113|0
+B|They don't ever have to go out and get a real job.|sv|4113|1
+B|They just stay in their current job,|sv|4113|1
+A|Uh-huh.|b|4113|0
+B|you know what I mean?|qh|4113|1
+A|I agree, uh, with, with both of those things,|aa|4113|0
+A|but, uh, do you see any way of like altering it so that they would become more honest?|qy|4113|0
+B|I think by putting term limitations on you could, you could slow down some of the problems.|sv|4113|1
+A|Uh-huh.|b|4113|0
+B|Uh, but it has to be not just at the national level but at the, you know, the state and the local level, too.|sv|4113|1
+B|I know some senators,|sv|4113|1
+B|and I don't know which ones,|h|4113|1
+B|but they've been in office since the, the nineteen forties|sv|4113|1
+A|Uh-huh.|b|4113|0
+B|and I,|%|4113|1
+B|they've never had a job.|sv|4113|1
+B|I mean they've never gone out in the real world and, and paid normal taxes.|sv|4113|1
+A|Um.|b|4113|0
+B|I know they pay taxes,|sv|4113|1
+B|but they don't|%|4113|1
+A|Yeah.|b|4113|0
+B|you know, they, they get paid a hundred and twenty-five grand a year. Which is more than twice my salary by quite a bit|sv|4113|1
+A|Uh-huh.|b|4113|0
+B|and, you know, I'm going, like, I, I don't understand how they're supposed to be my servants and yet they're paid more than I am|sd|4113|1
+A|Uh-huh.|b|4113|0
+B|and they work less, you know, less than I do.|sv|4113|1
+A|Uh-huh.|b|4113|0
+A|Uh, the only the only problem I see with term limitations, uh, is that I think that the bureaucracy in our government as is in, with most governments is just so complex that there's a very you know, there, there is a learning curve and that, you know, you can't just send someone off to Washington and expect, you know, his first day to be an effective, uh, Congress person.|sv|4113|0
+A|Uh, I think, I think there really is a, there's a lot they need to learn, you know, when you get there.|sv|4113|0
+B|I think, I think that's true,|aa|4113|1
+B|however, I think that's always been true.|sv|4113|1
+A|Uh-huh.|b|4113|0
+B|I mean, that's true of the Presidency, too,|sv|4113|1
+B|and we seem to be able to get along with the President turnover ever eight years or four years.|sv|4113|1
+B|And, uh,|%|4113|1
+A|Yeah|b|4113|0
+A|but,|%|4113|0
+B|They,|%|4113|1
+B|I mean, there is a lot to learn,|sv|4113|1
+B|but maybe it will keep them on their toes and a little bit more active in trying to catch up.|sv|4113|1
+B|I think two years is too short.|sv|4113|1
+A|Uh-huh.|b|4113|0
+B|I think it would have to be extended, uh, you know,|sv|4113|1
+B|a term limitation for Congress would be like three terms or even four terms|sv|4113|1
+B|or you would increase the length of the, of each term of a Congressman.|sv|4113|1
+B|Uh, but maybe standardizing on, on a, a four year term for Congress Senate and the, the Presidency and then, uh, staggering them so that you don't,|sv|4113|1
+A|Uh-huh.|b|4113|0
+B|we aren't tackling a massive ballot every four years.|sv|4113|1
+A|Uh, the other, the other thing that, uh, bothers me about our system is just that, uh, in, for, for, in, in, in Congress the amount of power any, any particular Congress critter has is based on their seniority and how long they've been there|sv|4113|0
+A|so it's, you know, for, you know, uh,|%|4113|0
+A|so unless you have actual, you know, across the board uh, limitations, the, uh, you know, the idea of,|sv|4113|0
+A|well, we're going to just, we're,|^q|4113|0
+A|I'm, I'm just going to, you know, vote, vote against the incumbent every time doesn't work,|sv|4113|0
+A|you know, it's going to wind up hurting your state if all the other states aren't doing it at the same time.|sv|4113|0
+B|Uh-huh.|aa|4113|1
+B|I think, I think that that's true,|aa|4113|1
+B|but then you have, you have the same abuse of power on the flip side of that coin.|sv|4113|1
+A|Uh-huh.|b|4113|0
+B|Uh, the C I A is moving out to West Virginia which is a really stupid location for a large agency like that and for almost any agency.|sv|4113|1
+B|I mean, the action isn't in West Virginia.|sv|4113|1
+B|I hate to tell the the senator from West Virginia this information,|sd|4113|1
+B|but it really doesn't|sv|4113|1
+B|the world does not revolve around West Virginia uh, as far as this country is concerned,|sv|4113|1
+B|the world does revolve around D C, you know as far as the politics in this country are concerned, the national politics|sv|4113|1
+A|Uh-huh|b|4113|0
+B|and the C I A is a, a very large, very high profile agency and to have it located out in West Virginia,|sv|4113|1
+B|yeah, you know,|%|4113|1
+B|it might only be two hour drive from here, but that's a two hour drive|sd|4113|1
+A|Yeah.|b|4113|0
+B|and, uh, you know, it, it's a, I think it's a mistake to move large agencies like that|sv|4113|1
+A|Uh-huh.|b|4113|0
+B|or is it the F B I.|t1|4113|1
+B|I don't remember,|sd|4113|1
+B|but I think there's,|%|4113|1
+A|Well, I mean,|%|4113|0
+A|I don't see why it makes a big difference the C I A because, you know, officially they don't do, they don't have any operations within the United States other than administrative.|sv|4113|0
+B|Yeah,|aa|4113|1
+B|that's officially.|aa|4113|1
+A|Uh-huh.|b|4113|0
+B|I mean, we all know that that's not necessarily true.|sv|4113|1
+B|But I, I think that there are, there are advantages to having seniority and, uh, or, not having a complete turnover every, some small number of years.|sv|4113|1
+B|I think there are, I mean there's an institutional memory that you need to maintain.|sv|4113|1
+A|Uh-huh.|b|4113|0
+B|But I think that, uh, all, with all the perks that we've given them,|sv|4113|1
+B|I mean, I heard on the radio back a, a few weeks ago, uh, during the incidents where they were, you know, like they aren't paying their, their restaurant bills|sd|4113|1
+B|and they're bouncing checks all over the place|sd|4113|1
+A|Uh-huh|b|4113|0
+A|Uh-huh.|b|4113|0
+B|uh, one of the radio stations over here listed off every single one of the perks.|sd|4113|1

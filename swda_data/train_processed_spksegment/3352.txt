@@ -1,0 +1,116 @@
+A|I've, uh,|%|3352|0
+A|are you there?|qy|3352|0
+B|Yes, sir,|ny|3352|1
+B|I'm right here.|sd|3352|1
+A|All right|bk|3352|0
+A|Okay, um,|%|3352|0
+A|I'm in an area where, um, we can, uh, enjoy it year round,|sd|3352|0
+A|so, I've actually been, uh, uh, been out within the past couple of weeks.|sd|3352|0
+A|I'm mainly a freshwater fisherman.|sd|3352|0
+A|How about yourself?|qo|3352|0
+B|Well, actually I've done both kinds|sd|3352|1
+A|Uh-huh.|b|3352|0
+B|uh, I'm originally from the State of Virginia and, uh, lived near, near Virginia Beach where we could, uh, surf cast and, uh catch a lot of things in the ocean there.|sd|3352|1
+A|Uh-huh.|b|3352|0
+A|Did you Did you ever do the James River?|qy|3352|0
+B|I don't believe I have fished the James River.|ng|3352|1
+B|There's a possibility, but that was so long ago|sd|3352|1
+A|Uh-huh.|b|3352|0
+B|I moved here to, to State College, uh, in nineteen fifty-five|sd|3352|1
+A|Uh-huh.|b|3352|0
+B|and that has pretty well limited my fishing to fresh water|sd|3352|1
+A|Uh-huh.|b|3352|0
+B|and we have a lot of, uh, beautiful fresh water streams that come through this area.|sd|3352|1
+B|I'm in an area called Center County, which is in the very center of the State of Pennsylvania,|sd|3352|1
+A|I've I've been in that area|sd|3352|0
+A|and the trout fishing is supposed to be legendary.|sd|3352|0
+B|The trout fishing is really, uh, beautiful.|sd|3352|1
+B|As I say, the, the streams are, oh, eight, ten, fifteen feet wide and so forth,|sd|3352|1
+B|and, uh, you, you stand on the edge and you, you cast out and you, you work, uh, from your feet most of the time|sd|3352|1
+A|Uh-huh,|b|3352|0
+A|for brookies.|^2|3352|0
+B|and then there are, there are a few lakes of course, close|sd|3352|1
+A|Yeah,|b|3352|0
+A|what do you like, brookies or, uh, rainbows|qy|3352|0
+A|or,|%|3352|0
+B|I,|%|3352|1
+B|wherever the area,|%|3352|1
+B|whatever the fish is the specialist in that area, I, uh, I enjoy fishing for it,|sd|3352|1
+B|and I try to,|sd|3352|1
+B|I haven't fished in several years I'll have to admit, but when I do fish, I do contact, uh, some of the local specialists so that I can then find out the, uh, the type of lures that they use and where they fish, and any unique, uh, techniques that would help you.|sd|3352|1
+A|Uh-huh.|b|3352|0
+A|Yeah.|b|3352|0
+A|Do you fly fish, or are those streams too small?|qy|3352|0
+B|Uh, no,|na|3352|1
+B|we, we fly fish.|na|3352|1
+A|Yeah.|b|3352|0
+B|Uh-huh.|b|3352|1
+A|I used to do that a little when I lived up in New York,|sd|3352|0
+A|but right now it's, uh, uh, bass and striped bass is the only thing that I go for down in in, uh, Texas.|sd|3352|0
+B|Uh-huh.|b|3352|1
+B|Oh, that's a pretty big fish.|sv|3352|1
+A|Uh, yeah,|aa|3352|0
+A|they're, they've, uh,|%|3352|0
+A|the striped bass have accommodated themselves to the big fresh water lakes,|sd|3352|0
+A|and they're pretty exciting when they're, when they're running.|sd|3352|0
+B|Uh-huh.|b|3352|1
+A|It's a salt water fish in fresh water, uh, environment.|sd|3352|0
+B|Well, our, our streams here are replanted with fish about every year so that, well, they, they, they, uh, they have a pretty good idea of, of, uh, what the number of fish are in these various locations,|sd|3352|1
+A|It's all put and take.|sd|3352|0
+B|and and they have have certain areas that they plant, you know, a hundred here and a hundred there,|sd|3352|1
+A|Uh-huh.|b|3352|0
+B|and this is, of course, X number of weeks or months before fishing season opens|sd|3352|1
+B|so,|%|3352|1
+A|What's the season?|qw|3352|0
+A|April to October or something like that?|qy^d|3352|0
+B|That sounds about right|na|3352|1
+A|Uh-huh.|b|3352|0
+B|uh-huh,|ny|3352|1
+B|pretty close.|sd|3352|1
+A|Uh|%|3352|0
+B|You know.|%|3352|1
+A|what's a license cost?|qw|3352|0
+B|Well, as I say, it's been several years,|sd|3352|1
+B|but the licenses weren't that expensive,|sd|3352|1
+B|I,|%|3352|1
+B|seems to stick in my mind, five to seven dollars is about all, from what I remember it.|sd|3352|1
+A|Yeah.|b|3352|0
+A|Uh-huh.|b|3352|0
+A|It's about the same as Texas.|sd|3352|0
+B|Uh-huh.|b|3352|1
+A|Yeah.|b|3352|0
+B|And I have, oh, probably a half a dozen different kinds of, uh, fishing poles and, and fly rods and so forth,|sd|3352|1
+B|and, and I had been so busy in my work in these last few years that I haven't had time to fish.|sd|3352|1
+B|But I'm going to be retiring at the end of December,|sd|3352|1
+B|and I, I hope, uh, the next fishing season, that I can sort of get back in and, uh, enjoy that.|sd|3352|1
+B|That, that was a really enjoyable, uh, thing for me to do.|sd|3352|1
+A|Well, I have all sons, so I think I'm probably going to be fishing for a long time|sd|3352|0
+B|Huh, I just have one son and he, he lives out of the state now, rather, in the eastern corner of it,|sd|3352|1
+B|so, I don't think he has time to fish either|sd|3352|1
+A|I caught the disease from my father,|sd|3352|0
+A|and I'm passing it on to my children.|sd|3352|0
+A|It's really|sd|3352|0
+B|Oh, is that right?|bh|3352|1
+A|They love it,|sd|3352|0
+A|yeah.|ny|3352|0
+B|Oh, my goodness.|ba|3352|1
+A|Right.|b|3352|0
+B|Well, I, I, the disease I caught was simply because, uh, I, I was in the Norfolk Portsmouth area,|sd|3352|1
+B|and people there,|%|3352|1
+A|Uh-huh.|b|3352|0
+B|there's, there's so much water around that, you, you're either boating or you're fishing|sd|3352|1
+A|Right.|b|3352|0
+A|Right.|b|3352|0
+B|and, uh, I fairly enjoyed at that time.|sd|3352|1
+B|I have a small aluminum boat here that, uh,|sd|3352|1
+A|Uh-huh.|b|3352|0
+B|when I go on one of the large lakes that we have here that I enjoy fishing for, for trout from that,|sd|3352|1
+A|Uh, uh, I don't, I don't know about the lakes in central Pennsylvania.|sd|3352|0
+A|Are there many?|qy|3352|0
+B|Well, as I say, I'm in Center County.|sd|3352|1
+B|There's, um, there're two different size lakes about, well, five, six miles from State College.|no|3352|1
+A|Uh-huh.|b|3352|0
+B|Now these aren't huge lakes from your point of view|sv|3352|1
+A|Uh-huh.|b|3352|0
+B|but they are probably fifteen, twenty acres maybe which, which here is a lot of water,|sd|3352|1
+A|Uh-huh.|b|3352|0

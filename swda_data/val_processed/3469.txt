@@ -1,0 +1,124 @@
+A|Okay.|fo_o_fw_"_by_bc|3469
+A|What do you think about it?|qo|3469
+B|Uh, well, immigration,|sd|3469
+B|I know they're really strict right now because my husband is from out of the country|sd|3469
+B|and, uh, we had to go through a whole, very long process to, uh, to, assure the government that he was, uh, marrying me and not to be a resident here.|sd|3469
+A|Uh-huh.|b|3469
+A|That's|sv|3469
+A|yeah,|b|3469
+A|I think that's, uh, I think it's a little crazy.|sv|3469
+A|I worked with Spanish people for about two years|sd|3469
+B|Uh-huh.|b|3469
+A|and just, it was incredible to me to see the things that they had to go through when they were really some of the best workers.|sv|3469
+B|Yeah,|aa|3469
+B|that's true.|aa|3469
+B|I mean, you can't just come over to the country because, uh, you want to.|sv|3469
+A|Right.|b|3469
+B|You know, that's not good enough.|sv|3469
+B|You have to have a, have to have a darn good reason of, political or whatever.|sv|3469
+A|Right,|aa|3469
+A|exactly.|aa|3469
+B|Not a good, not a good easy way to get in.|sv|3469
+A|Yeah,|b|3469
+A|I think, you know, I think in a lot of ways the law is good because it tries to, to protect, you know, the people who are in the states.|sv|3469
+B|Exactly.|aa|3469
+B|My mother, uh, actually knew a woman in another state that used to marry men just,|sd|3469
+A|Uh-huh.|b|3469
+B|she'd never even meet them|sd|3469
+B|and she'd just get money for it.|sd|3469
+A|Oh, you're kidding.|bh|3469
+B|Huh-uh.|nn|3469
+B|So,|%|3469
+A|Sounds like a lot of fun.|sv|3469
+A|Yeah,|%|3469
+A|it's amazing to me how, how many things they would allow to occur before, you know, you can come in.|sv|3469
+B|Exactly.|aa|3469
+B|But, I mean, with the new laws, it's it's tough now.|sv|3469
+A|Right.|b|3469
+A|Yeah,|b|3469
+A|it's kind of frustrating, too, for those who are legitimate now.|sv|3469
+B|Exactly.|aa|3469
+A|You know, I think,|%|3469
+B|Well, and, you know, uh, my grandparents came to this country just wanting a better life, you know|sd|3469
+A|Uh-huh.|b|3469
+B|and they got here,|sd|3469
+B|but now it's a, you know, it's so strict that you can't just do that.|sv|3469
+A|Right,|aa|3469
+A|exactly.|aa|3469
+A|And I think it's important that they, you know, they allow a good number of people in every year|sv|3469
+A|because really they're the ones who work the hardest and do the jobs that, that we don't want to do.|sv|3469
+B|I agree.|aa|3469
+A|And I just,|%|3469
+A|I don't know,|h|3469
+A|I have, personally I have a problem with it,|sd|3469
+A|I think, that, you know, if someone wants to come in and they can prove that they're going to work and they're going to be a good citizen that we shouldn't close our door.|sv|3469
+B|Exactly.|aa|3469
+B|If they're not going to be on welfare or, or, or whatever.|sv|3469
+B|They're going to be a productive citizen Zen.|sv|3469
+A|And, you know, I, I believe that if someone goes on welfare that's when, you, you know, send them back to their country.|sv|3469
+B|Yeah.|b|3469
+A|And, I think a lot of times we're so busy trying to keep them out that we're spending twice as much money as we would just allowing them in|sv|3469
+A|and,|%|3469
+B|Well, think of how many illegal aliens have, have, have been, uh, uh, sent back to Mexico just to find their way back.|sv|3469
+A|Yeah,|b|3469
+A|and that's, that's what I think.|sv|3469
+A|You know, I, I have to laugh|sd|3469
+A|because, like I said, I worked with a lot of those|sd|3469
+A|and they'd been deported two or three times|sd|3469
+A|and just basically what they do is they get caught when they wanted to go home for Christmas. Or for any other time.|sd|3469
+B|That's right,|sv|3469
+B|that's our money.|sv|3469
+B|Yes,|aa|3469
+B|that's true.|sv|3469
+A|But, I think, you know, I think all in all there's a lot of improvements.|sv|3469
+A|I think the general idea is good|sv|3469
+A|but, but there could be some work done in the area.|sv|3469
+B|I, I think|%|3469
+B|I, I agree.|aa|3469
+A|Well good|ba|3469
+A|Anyway, do you have anything else in the, the subject, uh that you might want to talk about?|qy|3469
+B|Uh, I, uh,|%|3469
+B|boy|ba|3469
+B|this is spur of the moment, uh,|h|3469
+B|but, I, I don't really see any, any changes that I think of really blatant right now|sv|3469
+B|other than I think they ought to take, you know, on a case by case basis and not necessarily make it a, uh, political refugee.|sv|3469
+A|Yeah,|aa|3469
+A|absolutely.|aa|3469
+A|I think a lot of times we take, you know, basically who we want to|sv|3469
+A|because if you, if you have connections, it's a lot easier to get in.|sv|3469
+B|Exactly.|aa|3469
+B|Connections and money.|^2|3469
+A|Yeah,|aa|3469
+A|and I think, you know, it should be more of a thing that's based upon someone's intent, you know. And that it should be equal to all|sv|3469
+B|Yeah.|b|3469
+A|and then not like the United States,|sv|3469
+A|basically, it's not who you know,|sv|3469
+A|it it doesn't become a thing of who you know, but, but how the type of person you are.|sv|3469
+B|I agree.|aa|3469
+A|And it should be based on those kinds of things so the good people, like probably your husband, can get in|sv|3469
+B|Yeah|b|3469
+B|Well, we got him past that,|sd|3469
+B|but, uh,|%|3469
+A|Well, great.|ba|3469
+B|I know there's a lot of other people out there, would probably do a good job here.|sv|3469
+A|Yep.|b|3469
+A|Well, let's see,|^h|3469
+A|is there anything I believe in|qy|3469
+B|I think that's it.|sv|3469
+B|Is this like a very short call?|qy|3469
+A|No,|nn|3469
+A|I'm not sure how long they're supposed to be,|sd|3469
+A|but, I've enjoyed it.|sd|3469
+A|It's good hearing your, your point of view|sd|3469
+A|and I think that's neat.|sv|3469
+A|I think we agree a lot on that|sv|3469
+A|and I've learned something from it.|sd|3469
+B|I did, too.|aa|3469
+B|Well, it was nice talking to you.|fc|3469
+A|Well, thanks,|ft|3469
+A|I'm glad you're home.|fc|3469
+A|You have a good evening, all right?|fc|3469
+B|You, too.|fc|3469
+A|Thanks,|ft|3469
+A|bye-bye.|fc|3469
+B|Bye.|fc|3469

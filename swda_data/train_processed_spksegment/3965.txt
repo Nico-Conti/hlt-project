@@ -1,0 +1,145 @@
+B|Okay.|fo_o_fw_"_by_bc|3965|0
+A|Okay.|b^m|3965|1
+A|Do you, uh, do any woodworking?|qy|3965|1
+B|I do,|na|3965|0
+B|and I really love it. Um.|sd|3965|0
+A|Oh, um, what do you do,|qo|3965|1
+A|for a hobby or for,|qy|3965|1
+B|Uh-huh,|ny|3965|0
+B|I do it for a hobby|sd|3965|0
+A|Uh-huh.|b|3965|1
+B|and I have my own equipment,|sd|3965|0
+B|and I have a jig saw and a scroll saw and, uh, in the process of getting a router|sd|3965|0
+A|Uh-huh.|b|3965|1
+B|and so, I like to cut out my wood, and then tole paint on the items that I cut out.|sd|3965|0
+B|What kind of things do you like to do with wood?|qo|3965|0
+A|Well, I'm not the one that cuts them out.|arp_nd|3965|1
+A|My husband cuts them out|arp_nd|3965|1
+B|Uh-huh.|b|3965|0
+A|but, uh, he likes using the little band saws and jig saws more than the stroll saw, because the stroll saw is, is a lot slower|sd|3965|1
+B|Uh-huh.|b|3965|0
+B|Uh-huh.|b|3965|0
+A|and then, uh, he's got a router,|sd|3965|1
+A|but now he wants a plunge router.|sd|3965|1
+B|Oh.|bk|3965|0
+B|Yeah.|b|3965|0
+A|But anyhow, he cuts them out,|sd|3965|1
+A|and then I, I took a tole painting class to learn how to paint them right, you know.|sd|3965|1
+B|Oh.|bk|3965|0
+B|Uh-huh.|b|3965|0
+B|Uh-huh.|b|3965|0
+A|And what we want to do is, you know, make them, and then maybe take them to these craft shows or flea market things and and see if we can sell some of them.|sd|3965|1
+B|Uh-huh.|b|3965|0
+B|Yes.|b|3965|0
+A|But, uh, I really like it so far.|sd|3965|1
+B|Oh, that is fun.|ba|3965|0
+A|And then my neighbor had a little doll made out of wood|sd|3965|1
+B|Uh-huh.|b|3965|0
+A|so I took a pattern off of that,|sd|3965|1
+A|and then it's just a wooden doll with a painted face|sd|3965|1
+B|Uh-huh.|b|3965|0
+A|and then you, you make the dress for it,|sd|3965|1
+A|and you drill holes around the top of the head|sd|3965|1
+A|and you, you stick in uh, like rope and tie ribbons around it.|sd|3965|1
+B|Oh.|b|3965|0
+B|Uh-huh,|b|3965|0
+B|the twine.|b|3965|0
+B|Yeah,|b|3965|0
+B|those are so cute.|sv|3965|0
+A|It looked really cute, you know.|sd|3965|1
+A|So I've got a couple of those started.|sd|3965|1
+B|They are really cute.|sv|3965|0
+A|Yeah,|aa|3965|1
+A|and then uh, but as far as wood work, that's all we've been doing right now.|sd|3965|1
+B|Oh, that is, that sounds really fun.|ba|3965|0
+B|well, they have a really fancy boutique out here in Ogden, Utah|sd|3965|0
+A|Uh-huh.|b|3965|1
+B|and I just got back from that today,|sd|3965|0
+B|so if you could get your projects into boutiques, oh, they are wonderful.|sv|3965|0
+A|Uh-huh.|b|3965|1
+B|You could make a lot of money from those.|sv|3965|0
+A|What do you do?|qo|3965|1
+A|I wonder how you,|qw^d|3965|1
+A|you just, they buy them from you,|qy^d|3965|1
+A|or you just given them to them on consignment or something?|qrr|3965|1
+B|Uh, apparently,|na|3965|0
+B|like that boutique, um, they take, oh what was it, twenty percent of the sell price.|sd|3965|0
+A|Uh-huh.|b|3965|1
+B|You would put your sell price|sd|3965|0
+A|Uh-huh,|b|3965|1
+A|uh-huh.|b|3965|1
+B|uh, and then they would take twenty percent off of that at the counter.|sd|3965|0
+A|Um, I see.|bk|3965|1
+A|Uh-huh,|b|3965|1
+A|uh-huh.|b|3965|1
+B|And so then at the end of the boutique, which usually runs for a week, then they give you what you earned|sd|3965|0
+A|Uh-huh,|b|3965|1
+A|uh-huh.|b|3965|1
+B|So, you have to decide what your price is going to be and then up it twenty percent so you can get what you need out of it.|sd|3965|0
+A|Uh-huh.|b|3965|1
+A|Uh-huh.|b|3965|1
+B|So if the customers are willing to pay it, then you get a profit.|sd|3965|0
+A|Oh, these little things are so cute, though, you know.|sv|3965|1
+B|They are.|aa|3965|0
+A|I.|%|3965|1
+B|I, I have seen those.|sd|3965|0
+B|Those are darling.|sv|3965|0
+A|I went through some of the books down here at the craft shop, you know|sd|3965|1
+B|Uh-huh.|b|3965|0
+A|and, uh, there's a lots of little things you can get to cut out.|sd|3965|1
+A|In fact, I just sent to Shop Smith  back in Ohio for a rocking horse pattern.|sd|3965|1
+B|Oh.|%|3965|0
+B|Oh, that's what I want, is a Shop Smith|sd|3965|0
+A|Yeah,|b|3965|1
+A|we, well,  Gene's got one of those too|sd|3965|1
+B|That's my|%|3965|0
+B|Oh, does he?|bh|3965|0
+B|Oh, that's my ultimate dream|sd|3965|0
+A|Yeah,|ny|3965|1
+A|so anyhow.|%|3965|1
+B|Oh, you're lucky.|ba|3965|0
+A|Yeah,|aa|3965|1
+A|well, uh, he's retired now|sd|3965|1
+B|Uh-huh.|b|3965|0
+A|and, uh, I'm kind of semi retired.|sd|3965|1
+A|My company went bankruptcy,|sd|3965|1
+A|so I'm drawing my pension from them,|sd|3965|1
+A|but I'm still looking for a part time job, you know.|sd|3965|1
+B|Uh-huh.|b|3965|0
+A|But, uh, he has all day long that he can, you know, work on this stuff and do do cut outs like that, you know.|sd|3965|1
+B|Oh.|b|3965|0
+B|How fun.|ba|3965|0
+A|And he's got a lot, a lot of tools,|sd|3965|1
+B|Oh, how nice.|ba|3965|0
+B|I'm jealous.|sd|3965|0
+B|Yes.|b|3965|0
+A|But, um, these little wooden things, they seem to sell really good.|sd|3965|1
+B|Uh-huh.|b|3965|0
+A|Um, I know a lot of people that have gotten them, you know.|sd|3965|1
+A|My next door neighbor, every time she sees something, she thinks it's so cute she wants to buy it, you know|sd|3965|1
+B|Uh-huh.|b|3965|0
+B|Oh.|b|3965|0
+A|So, I'm just hoping that, you know, that we can get some cut out and painted, you know, before summer starts because we don't want to have garage sales or anything like that in the winter time, you know.|sd|3965|1
+B|Uh-huh.|b|3965|0
+B|No.|b|3965|0
+B|Uh-huh.|b|3965|0
+A|But, uh.|%|3965|1
+B|Well, how is the market for things like that in California?|qw|3965|0
+A|It seems, it seems like they go real good, you know.|sd|3965|1
+B|Uh-huh.|b|3965|0
+A|I mean, the country, anyhow, out here|%|3965|1
+B|Uh-huh.|b|3965|0
+A|and I live out in the valley|sd|3965|1
+B|Uh-huh.|b|3965|0
+A|and country seems to be the in thing out here you know,|sd|3965|1
+B|Oh.|b|3965|0
+A|everybody wants little country pieces.|sd|3965|1
+A|So anything that looks like it might be country is what they want, you know.|sd|3965|1
+B|They just snap it right up, huh.|qy|3965|0
+A|Yeah.|ny|3965|1
+B|Oh.|bk|3965|0
+A|And, uh, this little rabbit that I made in, uh, tole painting class, you know, is like a welcome.|sd|3965|1
+A|It's got a, it's going to have little wooden hearts holding it, in its hands and then welcome written on those little wooden hearts.|sd|3965|1
+B|Uh-huh.|b|3965|0
+B|Oh.|b|3965|0
+A|And,|%|3965|1

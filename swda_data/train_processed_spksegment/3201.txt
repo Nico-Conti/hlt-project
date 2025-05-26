@@ -1,0 +1,135 @@
+A|So do you have any recycling programs there?|qy|3201|0
+B|Um, I don't really think we have anything in the works as of yet.|ng|3201|1
+A|Uh-huh.|b|3201|0
+B|Uh, we're a pretty small town|sd|3201|1
+B|and, uh, the closest thing we have are bins like out in front of Wal-Mart that show, you know, plastics, paper liter bottles, et cetera, et cetera.|sd|3201|1
+A|Oh, uh-huh.|b|3201|0
+A|Yeah.|b|3201|0
+A|We've progressed a little bit farther than that.|sd|3201|0
+B|Yeah.|b|3201|1
+A|Um, actually they have, uh,|sd|3201|0
+A|parts of town,|sd|3201|0
+A|it may have even spread all over the whole town,|sd|3201|0
+A|and, um, they will have these green bins|sd|3201|0
+B|Uh-huh.|b|3201|1
+A|and it's just as standard as a, a regular trash can that they come by and pick up and dump.|sd|3201|0
+B|Yeah.|b|3201|1
+A|And, uh, just along with a trash can you have this, this green plastic bin,|sd|3201|0
+A|and you put your bottles in it and paper and, uh, you know, all those things that|sd|3201|0
+A|aluminum.|sd|3201|0
+A|You know, anything that can be recycled you just put in that bin.|sd|3201|0
+B|Oh.|b|3201|1
+A|And, uh, I guess you can|sd|3201|0
+A|and a lot of the restaurants they just have, uh, places where you can throw away, especially beer places, where you can throw away green bottles, and then the brown bottles.|sd|3201|0
+B|Yeah.|b|3201|1
+B|Huh.|%|3201|1
+A|And, uh, oh, I don't know,|h|3201|0
+A|I guess they're, you know, clear bottles.|sd|3201|0
+B|Yeah.|b|3201|1
+A|So, um, you know a lot of people do have those separated.|sd|3201|0
+A|And, of course, they have the, um, dumpsters, uh, the, the igloos.|sd|3201|0
+B|Yeah.|b|3201|1
+A|Uh, and they have those strategically placed around the city.|sd|3201|0
+B|Oh.|b|3201|1
+A|And, uh, they're, they're actually going to extend it, I think, one of these days maybe to apartment complexes|sd|3201|0
+A|and, uh,|%|3201|0
+B|Oh, that would be good.|sv|3201|1
+A|Yeah,|b|3201|0
+A|things of that nature.|h|3201|0
+A|So, I guess when you live in a bigger city it, it really becomes, uh, necessary.|sv|3201|0
+B|Yeah,|b|3201|1
+B|see, it's not anywhere near that.|sd|3201|1
+B|Uh, we, you know,|%|3201|1
+B|as far as our little pitch in to it we do recycle our aluminum cans.|sd|3201|1
+A|Oh, yeah.|b|3201|0
+B|But that's as far as we go|sd|3201|1
+B|because I take them to a girl at work,|sd|3201|1
+B|and she goes and cashes them in because, you know,|sd|3201|1
+B|I just I can do that for her|sd|3201|1
+A|Uh-huh.|b|3201|0
+B|and and I don't want the hassle because we have to go to another town to do it.|sd|3201|1
+A|Yeah.|b|3201|0
+A|Oh, really?|bh|3201|0
+B|Yeah,|ny|3201|1
+A|Huh.|%|3201|0
+B|see we don't have anything here in Belton.|sd|3201|1
+B|It's, it's a pretty small little town.|sd|3201|1
+A|Yeah,|b|3201|0
+A|I remember my grandparents and I used to always get out there on the road and pick up beer cans.|sd|3201|0
+B|Yeah.|b|3201|1
+A|And, uh,|%|3201|0
+B|So, you know, that's about all the, that we're doing here.|sd|3201|1
+B|Uh, they're, uh, getting a little bit more on,|sd|3201|1
+B|they need to a lot a more community awareness of just what is it mean to recycle, and what can you recycle and what you can't. Because, you know, not a lot of people do really know what, you know, what it's for.|sv|3201|1
+A|Uh-huh.|b|3201|0
+A|Yeah,|b|3201|0
+A|they're doing a real good job of, uh, separating it here.|sd|3201|0
+A|And, of course, there you know you have a specific place to put your paper.|sd|3201|0
+B|Yeah.|b|3201|1
+A|And, uh, they try to get you to go ahead and separate it,|sd|3201|0
+A|but they actually have the door to door pickup.|sd|3201|0
+A|Um, and it's, uh, I think it started out to be, um, just kind of a test, a pilot project.|sd|3201|0
+B|Uh-huh.|b|3201|1
+A|And it went over so well that they just extended it.|sd|3201|0
+A|And it's almost, uh,|sd|3201|0
+A|I don't know if it's done by a private company or not.|sd|3201|0
+A|It may be.|sd|3201|0
+A|But, uh, they just go around to each, uh, door and pick it up.|sd|3201|0
+B|Wow, that's excellent.|ba|3201|1
+A|Yeah.|b|3201|0
+B|That's good.|ba|3201|1
+A|Let's see.|^h|3201|0
+A|Oh, and every year, of course, the phone books um, they tell everybody across the city to, uh, put all their phone books in, uh, the, uh, recycle bins.|sd|3201|0
+B|Yeah.|b|3201|1
+B|Oh.|b|3201|1
+A|Because, you know, phone books are pretty,|sd|3201|0
+A|well, for a bigger city they're pretty thick.|sd|3201|0
+B|Yeah,|aa|3201|1
+B|they are .|sd|3201|1
+A|And sometimes you might have two or three.|sd|3201|0
+B|Exactly.|aa|3201|1
+A|So, uh, that's, that's a big savings right there in itself.|sv|3201|0
+B|Yeah,|aa|3201|1
+B|see ours just goes in the regular trash.|sd|3201|1
+A|Yeah,|b|3201|0
+B|It just, you know, there's not a whole lot.|sd|3201|1
+A|huh.|%|3201|0
+B|And there are, you know, some places that will set up you know for old newspapers and stuff.|sd|3201|1
+A|Uh-huh.|b|3201|0
+B|But usually it's, it, it hasn't caught on yet.|sd|3201|1
+B|I'm hoping it will soon.|sd|3201|1
+A|Uh-huh.|b|3201|0
+A|Well, the thing about newspapers and paper,|sd|3201|0
+A|recycled paper is actually very expensive.|sd|3201|0
+B|Yeah.|b|3201|1
+A|So, when you see something that's on recycled paper, they've actually gone to a lot of expense to do that.|sd|3201|0
+A|It's, uh,|b|3201|0
+A|they're not coming out ahead at all.|sd|3201|0
+A|It's, uh, it's really a cost.|sd|3201|0
+B|Huh. I wasn't totally aware of that.|sd|3201|1
+A|Yeah.|b|3201|0
+B|So.|%|3201|1
+A|I mean it, it sounds good to the public|sv|3201|0
+A|but there's really a big cost incurred when you do recycle something.|sd|3201|0
+A|Now, aluminum I don't know.|sd|3201|0
+A|They may be coming out ahead.|sv|3201|0
+A|But I know, for a fact that the paper, uh, on that end they're not, you know.|sd|3201|0
+B|Yeah.|b|3201|1
+A|It's just good to recycle|sv|3201|0
+A|but it's, uh, not to their advantage.|sd|3201|0
+B|Yeah.|b|3201|1
+A|And it costs less.|sd|3201|0
+B|Huh. Well,|%|3201|1
+A|I can't think of anything else.|sd|3201|0
+B|I can't either. Because we're, we're at a very, you know, beginning stages,|sd|3201|1
+A|Okay.|b|3201|0
+B|so.|%|3201|1
+A|Uh-huh.|b|3201|0
+B|We look forward to it to get better .|sd|3201|1
+A|Well, I hope you all, um, uh, come along a little farther in the future.|sd|3201|0
+B|Yeah,|aa|3201|1
+B|me too.|sd|3201|1
+A|It was nice talking to you.|fc|3201|0
+B|You too.|fc|3201|1
+A|Bye-bye.|fc|3201|0
+B|Bye.|fc|3201|1

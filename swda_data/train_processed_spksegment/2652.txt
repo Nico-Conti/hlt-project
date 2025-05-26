@@ -1,0 +1,227 @@
+A|Okay.|%|2652|0
+A|Guess we can go ahead.|sd|2652|0
+A|Uh, well, I guess you know it's, you know,|sd|2652|0
+A|since living in Dallas it's always so hot, so in the summertime, I just, I wear lots of shorts, so because I don't work during the day.|sd|2652|0
+B|Uh-huh.|b|2652|1
+A|So, do you work?|qy|2652|0
+B|Yes,|ny|2652|1
+B|uh-huh,|ny|2652|1
+B|yeah,|ny|2652|1
+B|I do work.|sd|2652|1
+A|Oh.|b|2652|0
+B|Uh, and,|%|2652|1
+B|but I work at a manufacturing plant,|sd|2652|1
+B|so I wear a lot of blue jeans,  and T-shirts.|sd|2652|1
+A|Uh-huh.|b|2652|0
+A|Uh-huh.|b|2652|0
+B|But occasionally I have to get dressed up and wear panty hose and a dress,  and high heel shoes|sd|2652|1
+A|Uh-huh.|b|2652|0
+B|and I feel really uncomfortable doing that|sd|2652|1
+B|and,  in the plant so, uh, it's, it's a problem for me.|sd|2652|1
+A|Yeah.|b|2652|0
+A|Uh-huh.|b|2652|0
+B|But, normally I just wear blue jeans and a T-shirt.|sd|2652|1
+A|Uh-huh.|b|2652|0
+B|Very, very, comfortable.|sd|2652|1
+B|I like that so much better than having to wear dress clothes.|sd|2652|1
+A|Yeah,|aa|2652|0
+A|yeah,|aa|2652|0
+A|and buying suits and stuff, yeah, because just being at home|bf|2652|0
+A|and, I work at home,|sd|2652|0
+A|so,  I just have, you know, I just wear my, you know, my shorts and stuff like that.|sd|2652|0
+B|Uh-huh.|b|2652|1
+A|I don't go out and spend lots of money on, uh, different, you know, suits and stuff, you know.|sd|2652|0
+B|Uh-huh,|b|2652|1
+B|uh-huh.|b|2652|1
+A|But when I,|sd|2652|0
+A|before I got married, you know, I was working|sd|2652|0
+A|so I, uh, you know, I had more suits and stuff then|sd|2652|0
+A|but,|%|2652|0
+B|Right|b|2652|1
+A|Worry about all that kind of stuff|sd|2652|0
+B|Well, I have plenty of suits and dress clothes because I'm like you, when I first started working,  uh, I have all these suits and blouses and skirts and mix and match, and that kind of stuff|sd|2652|1
+A|Uh-huh.|b|2652|0
+A|Uh-huh.|b|2652|0
+B|but now that I, you know, work in the manufacturing plant, then it's just, it's so much more difficult for me to, to actually get dressed up to come in to work like that.|sd|2652|1
+A|Right.|b|2652|0
+B|Uh, but occasionally I have to because, uh, part of my job is teaching,  and training,|sd|2652|1
+A|Uh-huh.|b|2652|0
+B|and, uh, so you have to look just a little bit nicer than your normal,  garb|sd|2652|1
+A|When you're training, right.|bf|2652|0
+A|Yeah.|b|2652|0
+B|Than your normal garb|sd|2652|1
+B|But I'm like you, too, uh, I moved from Ohio down to here|sd|2652|1
+A|Uh-huh,|b|2652|0
+A|moved from,  Winter.|bf|2652|0
+B|and I had mostly polyesters and,  wools and winter clothes and buying all these cotton clothes,|sd|2652|1
+A|Uh-huh.|b|2652|0
+B|and then, of course, you have to iron them all the time.|sd|2652|1
+A|Uh-huh.|b|2652|0
+B|That's really,|%|2652|1
+B|that's been a problem for me.|sd|2652|1
+A|Yeah,|aa|2652|0
+A|because I came from Wyoming|sd|2652|0
+A|and I had wool suits and wool skirts|sd|2652|0
+A|and, You know, I've got all these clothes that I never wear,  because you can't wear them here.|sd|2652|0
+B|Right.|aa|2652|1
+B|Right.|aa|2652|1
+A|And, uh, the seasons are just so much different.|sd|2652|0
+A|You have so much summer.|sd|2652|0
+B|Uh-huh.|b|2652|1
+A|And, uh, so then when I, you know, I finally get a chance to go out with my husband it's like a real chore to find something nice to wear|sd|2652|0
+B|That's true, that's true.|aa|2652|1
+A|Yeah|b|2652|0
+B|Well, I know, I was just now, uh, uh, putting away a lot of my winter clothes,|sd|2652|1
+A|Uh-huh.|b|2652|0
+B|and I was going through here|sd|2652|1
+B|and I was thinking, I haven't worn this in three years.|sd|2652|1
+A|Yeah.|b|2652|0
+B|And, because it's a wool skirt|sd|2652|1
+B|and there's just not that many opportunities to wear it.|sd|2652|1
+A|Yeah.|b|2652|0
+B|And I have five or six wool skirts,|sd|2652|1
+A|Uh-huh.|b|2652|0
+B|so I was thinking well, maybe, you know, I need to think about getting rid of them,|sd|2652|1
+B|but no, I folded it up neatly and put it away maybe next year|sd|2652|1
+A|Yeah.|aa|2652|0
+A|You hate to get rid of it, because you know how much you spent on them.|bf|2652|0
+B|Uh-huh,|aa|2652|1
+B|uh-huh.|aa|2652|1
+A|And it's real hard to get rid of some of that stuff, I know.|sd|2652|0
+A|So,|%|2652|0
+B|Well, I know last year, uh, well, this past winter, it wasn't that cold.|sd|2652|1
+A|Uh-huh.|b|2652|0
+B|But the previous winter we had more, uh, cold weather where I was able to actually wear,  your double and triple layerings of, uh, clothes yeah, like you would when you're up north.|sd|2652|1
+A|Uh-huh.|b|2652|0
+A|Clothes,|b^m|2652|0
+A|yeah.|b|2652|0
+B|So  that's really interesting.|sv|2652|1
+A|Uh-huh.|b|2652|0
+A|Yeah,|aa|2652|0
+A|yeah,|aa|2652|0
+A|and I, I just don't spend, you know,|sd|2652|0
+A|right now my clothes come from Target, you know|sd|2652|0
+B|Yes,|aa|2652|1
+B|yes,|aa|2652|1
+B|yes,|aa|2652|1
+B|and they're all one hundred percent cotton|sd|2652|1
+B|and|%|2652|1
+A|Yes,|aa|2652|0
+A|and they,|%|2652|0
+A|you take them out of the drier|sd|2652|0
+A|and they're wadded up in a ball.|sd|2652|0
+B|Yes,|aa|2652|1
+B|yes,|aa|2652|1
+B|I know.|sd|2652|1
+A|Oh|b|2652|0
+A|I'm so glad to meet somebody that, that their iron board is their permanent fixture in their house.|sd|2652|0
+B|It is, it is.|sd|2652|1
+A|You know, I have very little furniture,|sd|2652|0
+A|but my ironing board is part of my decor|sd|2652|0
+A|so,|%|2652|0
+B|That's true,|aa|2652|1
+B|and, and I've been looking at these, uh, uh, like in Home Depot where you can go and they've got, that ironing boards that will just flip right down off of the uh, uh, what, the, the, the door.|sd|2652|1
+A|Uh-huh.|b|2652|0
+B|And, uh,|%|2652|1
+B|and then you can actually have one where you can put it inside of a wall, you know, to have it,  permanently attached,|sd|2652|1
+A|Uh-huh.|b|2652|0
+B|and that's what I'm thinking I'm going to have to do because mine's sitting right out in front of my bedroom|sd|2652|1
+B|and it's just, it's just an eyesore, I think,  with all the,|sd|2652|1
+A|Yeah,|b|2652|0
+A|well, yeah|aa|2652|0
+A|it is, it is,|aa|2652|0
+A|but it's like, uh, I just don't want to do it|sd|2652|0
+B|Uh-uh,|aa|2652|1
+B|uh-uh.|aa|2652|1
+A|Yeah.|b|2652|0
+B|No.|fo_o_fw_"_by_bc|2652|1
+B|I've been thinking about putting the ironing board in the closet,  and, and running, you know, a line in there for my iron so I could do it in there|sd|2652|1
+A|Uh-huh.|b|2652|0
+B|and I wouldn't have to have that eyesore|sd|2652|1
+A|Yeah|b|2652|0
+A|that's an idea.|ba|2652|0
+B|Yeah.|b|2652|1
+A|Yeah.|b|2652|0
+B|So, I have a big closet.|sd|2652|1
+A|Yeah,|b|2652|0
+A|I, you know,|%|2652|0
+A|if I have,|%|2652|0
+A|if I know I'm having somebody come over to the house and there's a possibility they might be going back into my room,  I will put it away,|sd|2652|0
+B|Uh-huh.|b|2652|1
+B|Yeah|b|2652|1
+A|but I iron our clothes as we go along,|sd|2652|0
+B|Uh-huh.|b|2652|1
+A|so, you know,|%|2652|0
+B|I no longer do that weekly thing,  because I have so many,|sd|2652|1
+A|Right,|aa|2652|0
+A|no.|aa|2652|0
+B|and I'm like you,  I, the night before or that day, I will iron whatever it is that we need|sd|2652|1
+A|Uh-huh.|b|2652|0
+B|and that's it.|sd|2652|1
+A|Uh-huh.|b|2652|0
+B|Because it's too many,|sd|2652|1
+B|hundred percent cotton.|sd|2652|1
+A|Uh-huh.|aa|2652|0
+A|You can't iron it all|bf|2652|0
+A|and,|%|2652|0
+B|Uh-huh.|b|2652|1
+A|Yeah.|b|2652|0
+A|And then with my kids, they're always getting into, you know,|sd|2652|0
+A|they can't decide what they want to wear so they,  change their minds, you know, I know, I mean my oldest is only four,|sd|2652|0
+B|Uh-huh.|b|2652|1
+A|but she's still changes her mind two or three times,  before she figures out what she's going to wear|sd|2652|0
+B|Right.|b|2652|1
+A|so,|%|2652|0
+B|Right.|aa|2652|1
+B|Oh, I know, I know.|aa|2652|1
+A|And then they never put anything back.|sd|2652|0
+B|No,|aa|2652|1
+B|no|aa|2652|1
+B|of course not.|aa|2652|1
+B|No,|aa|2652|1
+B|that, uh, that would be too simple.|sv|2652|1
+A|Uh-huh.|b|2652|0
+A|Yeah,|b|2652|0
+B|Absolutely not|aa|2652|1
+B|That's right.|aa|2652|1
+A|Our lot in life is to make her life miserable|^q|2652|0
+A|so,|%|2652|0
+B|Uh-huh,|aa|2652|1
+B|absolutely, absolutely.|aa|2652|1
+A|Uh.|%|2652|0
+B|Oh.|b|2652|1
+A|Yeah,|b|2652|0
+A|well that's,|%|2652|0
+A|it's been good talking to you, to see somebody, hear somebody that does the same thing I do because I tell people what I do|sd|2652|0
+A|and they just go, oh, how do you do that?|sd|2652|0
+A|It's like, it's easy, you just do it, you know.|sd|2652|0
+B|That's right|aa|2652|1
+A|Uh-huh.|b|2652|0
+B|So, uh,|%|2652|1
+B|but, yeah,|%|2652|1
+B|I, uh, I know several of my girlfriends, though, we, uh, we all keep our ironing boards out and just, uh, an ever present thing in our household|sd|2652|1
+B|so,|%|2652|1
+A|Yeah,|b|2652|0
+A|yeah.|b|2652|0
+A|I don't think I'd know what to do if it wasn't there, you know.|sd|2652|0
+A|My husband wouldn't know where to hang his dirty clothes.|sd|2652|0
+B|There you go.|ba|2652|1
+A|You know.|fo_o_fw_"_by_bc|2652|0
+B|Things that need to be mended,  things that have to get ironed,|sd|2652|1
+A|Yeah.|aa|2652|0
+A|He wouldn't know where to put things|sd|2652|0
+A|so,|%|2652|0
+B|Uh-huh,|aa|2652|1
+B|uh-huh,|aa|2652|1
+B|uh-huh.|aa|2652|1
+B|That's true.|aa|2652|1
+A|Yeah|b|2652|0
+A|so,|%|2652|0
+B|Oh, well, it was nice talking with you.|fc|2652|1
+A|Oh, it was nice talking with you, too.|fc|2652|0
+B|Okay,|fc|2652|1
+B|take care.|fc|2652|1
+A|Take care.|fc|2652|0
+A|Bye-bye.|fc|2652|0
+B|Uh-huh,|fc|2652|1
+B|bye-bye.|fc|2652|1

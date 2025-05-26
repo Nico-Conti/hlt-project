@@ -1,0 +1,235 @@
+B|I guess we're on.|sv|2549
+A|Well, hang on|ad|2549
+A|let me try it again because usually um.|oo_co_cc|2549
+B|Do you usually get a message?|qy|2549
+A|Yeah.|ny|2549
+B|Um.|%|2549
+A|Um.|%|2549
+B|Hang on let me check on it .|oo_co_cc|2549
+B|I don't know.|h|2549
+A|Well, let me try it once more|oo_co_cc|2549
+A|Well, I think we're on, maybe.|sv|2549
+B|Okay.|b|2549
+A|I guess we'll find out|sd|2549
+B|Yeah.|b|2549
+A|So, in Maryland are you, uh, are you a Skins fan?|qy|2549
+B|Um, well, not, not really from, you know,|ng|2549
+B|I really wasn't from here|sd|2549
+B|so, uh, the teams I really root for in football are the Niners and the Seahawks, um, you know, mostly because, only the Niners because I used to live out in California, you know, like, I like Seattle because I like Seattle|sd|2549
+A|Yeah.|b|2549
+B|and besides I like the city.|sd|2549
+A|Oh, okay.|bk|2549
+A|So, you were out there in San Francisco?|bf|2549
+B|Uh, yeah.|ny|2549
+B|San Jose, actually but but close,|sd|2549
+A|Oh, yeah?|bh|2549
+A|Oh,|b|2549
+B|Yeah.|b|2549
+A|Yeah,|b|2549
+A|it's, um, um, other than the, uh, the big catch, uh, with the Forty-niners and the Cowboys back a few year ago I like San Francisco.|sd|2549
+B|Oh, okay.|b|2549
+A|But, uh, I, I don't know|h|2549
+A|I, I never really was a Cowboys fan until I moved down to Texas.|sd|2549
+B|Oh, is that where you are now?|qy|2549
+A|Yeah.|ny|2549
+B|Oh, okay.|bk|2549
+A|I'm in Dallas|sd|2549
+A|and, uh, uh, I guess when you're down here in Dallas you finally get indoctrinated into the Cowboys um, because, uh, you know this is a big football territory down here.|qy^d|2549
+B|Uh-huh.|b|2549
+B|Oh, yeah.|ny|2549
+A|And, uh, uh, unfortunately, of course, the Cowboys have been doing so bad in the past few years.|sv|2549
+B|Uh-huh.|b|2549
+A|That, uh, uh,|%|2549
+A|I don't know,|h|2549
+A|everybody's kind of,|%|2549
+A|they're still behind them|sv|2549
+A|but, uh, it's not like it used to be.|sv|2549
+B|Yeah.|b|2549
+B|Well, you know, you, you back the winners|sv|2549
+B|and you don't back them when they're not doing well|sv|2549
+A|That's right|ba|2549
+A|But I think, uh, actually, uh, in, in trying to follow, uh, you know the Cowboys over the years I think, uh, uh, they used to have a, um, a philosophy for, well I don't know, probably the last twenty-five years except for about the last about five or six years uh, they always went out and tried to draft the, the best, um, athletes. And didn't really put them draft for any particular spot.|sd|2549
+B|Uh-huh.|b|2549
+B|Uh-huh.|b|2549
+A|But they would go out and try to go for, uh, the best people and then mold them into different areas or find their natural niche.|sd|2549
+B|Uh-huh.|b|2549
+A|And then about five years ago, four or five years ago, uh, they started going after, uh, uh, specific players or positions, you know,|sd|2549
+A|like the press would get down on Landry,|sd|2549
+A|and this is when Schramm was still there.|sd|2549
+B|Uh-huh.|b|2549
+A|And, um, they'd go after them saying, uh, jeez what you really need is a defensive end.|sd|2549
+A|So they'd go out and try to find a defensive end|sd|2549
+A|and when they, when they drafted somebody and he didn't work out at that spot it really wasn't a good enough athlete to move to any place else.|sd|2549
+B|Uh-huh.|b|2549
+A|And, uh, so I think it was kind ever interesting.|sv|2549
+A|I think the decline of the, uh, of the Cowboys as a powerhouse really kind of started with, uh, not drafting people, the best athletes.|sv|2549
+B|Yeah.|b|2549
+B|It makes sense because, you know, you, you've got the flexibility if they're good athlete they can, you know, do a bunch of different things.|sv|2549
+A|Yeah,|b|2549
+A|yeah.|b|2549
+B|Um.|%|2549
+A|But,|%|2549
+B|And I don't, you know,|%|2549
+B|my, my, my, my main sport is baseball|sd|2549
+B|but, you know, um, I've been enjoying football|sd|2549
+B|but I don't know it as well.|sd|2549
+A|Yeah.|b|2549
+B|Um, I just, you know, um,|%|2549
+B|Cowboys are going to have a problem aren't they?|qy|2549
+B|Is it, is it this year they don't have a draft pick because of the Walker trade|qy|2549
+B|or what was the whole deal on that?|qw|2549
+A|Uh, they still have some, some, uh, some draft picks, uh,  that they got,|sd|2549
+B|They don't,  have anything high do they?|qy|2549
+A|No.|nn|2549
+A|Actually, they picked up some from Minnesota.|sd|2549
+A|I think it was, uh, Minnesota's ,|sd|2549
+B|Oh, that's right,|ba|2549
+B|that's right.|sd|2549
+B|They,|%|2549
+B|it went the other way.|sd|2549
+A|Yeah.|b|2549
+B|What was I thinking.|sd|2549
+B|They gave up, they, they traded Herschel, to Minnesota.|sd|2549
+A|They traded Walker,|sd|2549
+A|yeah|aa|2549
+B|Yeah,|b|2549
+B|okay.|b|2549
+B|My brain is really working well tonight.|sd|2549
+A|That's okay,|bd|2549
+A|they, um, um,|%|2549
+A|I've got a friend that, uh, lives right next to the Cowboys' training camp.|sd|2549
+B|Uh-huh.|b|2549
+A|And, uh, uh, he gets, he sees them out running a lot|sd|2549
+A|and every once in a while gets a chance to talk to some of the guys|sd|2549
+A|and they're all, uh, they're all thinking that, uh, man, they, they, they really got something going this year,|sd|2549
+B|Uh-huh.|b|2549
+A|but I, I guess, uh, when you have a whole bunch of, uh, professional athletes that get together at the beginning of the year everybody's got great hopes.|sv|2549
+A|You, know, I guess it's the same way with baseball or, or anybody, you know,|sv|2549
+B|Uh-huh.|b|2549
+A|Spring training until you actually start going out and getting, uh, getting out against the competition everything probably looks pretty good.|sv|2549
+B|Oh, yeah.|b|2549
+B|I mean, you know, if you go to,|sv|2549
+B|I, I, you know, I'm sure if you go to any of the twenty-eight coaches in football in training camp they say, oh, we're going to be Super Bowl Champs|sv|2549
+B|because, I know, I know in baseball, you know, any manager you go to say, well, we're going to be in the World Series, even though, you know, there's not a prayer|sv|2549
+A|Yeah,|b|2549
+A|really|b|2549
+A|Yeah,|b|2549
+B|Uh,|%|2549
+A|yeah,|b|2549
+A|really.|b|2549
+B|this is the way it is.|sv|2549
+B|Well, Kim , I mean, didn't the Cowboys even finish,|qy|2549
+B|they finished pretty close to five hundred last year didn't they?|qy|2549
+A|Yeah,|ny|2549
+A|they did. As a matter of fact, uh,|sd|2549
+B|Because they only won one game the year before, right?|qy|2549
+A|Yeah.|ny|2549
+B|Okay.|bk|2549
+B|Yeah,|b|2549
+B|I enjoyed that because it was against the Skins.|sd|2549
+A|Well, you don't, uh, you don't like the Skins?|qy^d|2549
+B|Um, no.|nn|2549
+B|I, I, I live near Baltimore|sd|2549
+B|and, um, um, I, I really don't like D C a whole lot at all|sd|2549
+A|Oh, okay.|bk|2549
+B|And, um, I mean, I'm really,|%|2549
+B|they're, they, they got a big thing because of the, you know, the, the expansion going on in baseball.|sv|2549
+B|D C is like talking about how, how they're going to get a baseball team and everything.|sd|2549
+B|It's like you guys aren't going to get a baseball team, I'm sorry it's not going to happen.|sd|2549
+A|Jeez.|ba|2549
+B|But, of course, you know, the, the, the one, the griping is that if, you know, if, if Washington doesn't get a, uh, a baseball team then Baltimore shouldn't get a football team. Which is probably true,|sv|2549
+B|but anyway, um, I just, I've never liked D C a whole lot|sd|2549
+B|and a really hate the Redskins. And a lot of it's because, you know, I got a lot of people, you know, at work with and everything that are big Redskin fans.|sd|2549
+A|Well, of course,|ba|2549
+A|Yeah.|b|2549
+A|Oh, yeah.|ba|2549
+A|Yeah, um,|b|2549
+A|of course, then you're not that far from Philadelphia.|sd|2549
+B|Yeah,|b|2549
+B|I've, I've never liked Philadelphia, the city a whole lot.|sd|2549
+B|The only reason I really enjoy the Eagles at all is because, uh, I really like Randall Cunningham.|sd|2549
+A|Oh, okay.|b|2549
+A|I,|%|2549
+A|it was Buddy Ryan, the one that I can't, uh, uh, stand too much.|sd|2549
+B|well, considering how, how well he gets along with, uh, Jimmy Johnson that doesn't surprise me.|sd|2549
+A|Yeah,|b|2549
+A|really. Oh.|b|2549
+B|Yeah,|b|2549
+B|there was, um, uh, there was this, uh, in,|%|2549
+B|the Baltimore Sun has this, uh, cartoonist in the sports section|sd|2549
+B|and, uh, when, uh,|%|2549
+B|last,|%|2549
+B|I guess it was January, when, um, Jimmy Johnson got named coach of the year or whatever.|sd|2549
+A|Uh-huh.|b|2549
+B|It was the same year that Buddy Ryan got fired.|sd|2549
+B|And, uh, he had this cartoon in there about Jimmy Johnson's big day, you know,|sd|2549
+B|the first thing is the phone call from the, you know, from the league saying he was, uh, um, you know, uh, was coach of the year|sd|2549
+B|and the second was this phone call from Buddy Ryan, I got fired can you believe that|sd|2549
+A|Uh, oh, jeez.|ba|2549
+A|Yeah, uh,|b|2549
+A|actually, uh, you said you lived near, uh, Baltimore?|qy^d|2549
+B|Yeah.|ny|2549
+A|You're out, uh,|%|2549
+A|I used to travel out that way a lot|sd|2549
+A|and, uh, actually I used to drive a lot between Baltimore and Washington|sd|2549
+A|and,|%|2549
+B|No.|ar|2549
+B|I lived,|sd|2549
+B|do you know what Ellicott City is?|qy|2549
+A|Um, no.|nn|2549
+A|Oh, okay.|b|2549
+B|but well, Route Seventy and, and uh, Route Forty.|sd|2549
+A|Yeah.|b|2549
+A|I used to go out of B W I a lot.|sd|2549
+B|Yeah,|b|2549
+B|that's not far from where the, uh, the new football stadium would be if we got an N F L team|sd|2549
+A|Oh, yeah?|qy^d|2549
+B|Yeah.|b|2549
+B|Well, they've, they've built a new stadium downtown, um,|sd|2549
+B|it's opening next year.|sd|2549
+B|So,|%|2549
+A|Is that near, near the, what do they,|%|2549
+A|I forgot the name of it.|sd|2549
+A|Is it the, the Wharf or the, the, uh Inner Harbor.|qy|2549
+B|The Inner Harbor.|na|2549
+B|Yeah.|ny|2549
+B|It's, um, a couple of blocks west.|sd|2549
+B|There's a big, um, there is an old railroad yard, basically, um,|sd|2549
+A|Yeah.|b|2549
+B|there's a big long railroad shed|sd|2549
+B|and then there's, uh, an old station|sd|2549
+B|and they're building the stadium on the other side of the shed from the Inner Harbor, which is really stupid because one of the big selling points of the new stadium is supposed to be this view of the Inner Harbor|sd|2549
+B|and the only way you're going to have a view of is this big brick wall um,|sd|2549
+A|Great.|b|2549
+B|but, you know, they're building the baseball stadium|sd|2549
+B|and they've got land set aside for a football stadium if they ever get a N F L team.|sd|2549
+A|Um. Yeah.|aa|2549
+B|So it's, um, real easy access from, from south of Baltimore like, um, like the airport or more importantly for the Orioles from Washington D C.|sd|2549
+B|The Orioles say they get twenty-five percent of their population, I mean, uh, their attendance from D C.|sd|2549
+A|I tell you what I,|%|2549
+A|the,|%|2549
+A|there's,|%|2549
+A|the Colts still, you know, still to me are the Baltimore Colts.|sd|2549
+B|Uh-huh.|b|2549
+A|You know?|qy|2549
+B|Yeah.|ny|2549
+B|They really ought to change the name I think in Indianapolis.|sv|2549
+B|I, uh, never been real thrilled with, well, not, you know,|sd|2549
+B|sitting here and talking about all the cities that I hate,|sd|2549
+B|I, uh, I went to Purdue University for a couple of years and, uh, really learned to hate Indianapolis while I was out there|sd|2549
+A|Oh, okay.|b|2549
+B|And, um, I was not real happy when, uh, when they, uh, left to go, go there of all places|sd|2549
+A|Jeez.|ba|2549
+A|Yeah,|b|2549
+A|so, uh, uh, you know, did you graduate from Purdue?|qy|2549
+B|No,|nn|2549
+B|I, I, uh, I transferred to Delaware and graduated there.|sd|2549
+A|Delaware?|qy^d|2549
+B|Yeah.|ny|2549
+A|Oh, there's not a whole lot in Delaware.|sd|2549
+B|Yeah,|b|2549
+B|but it's close to Philadelphia and Baltimore,|sd|2549
+A|Yeah,|b|2549
+B|so it's,|%|2549
+A|that's true. coast, right?|ba|2549
+B|Uh, kind of all over the place but, east coast lately,|na|2549

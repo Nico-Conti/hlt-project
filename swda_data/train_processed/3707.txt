@@ -1,0 +1,136 @@
+A|Uh, we have a Sheltie Collie, a miniature Sheltie.|sd|3707
+B|Do you?|bh|3707
+A|Yeah.|ny|3707
+A|It's about, oh, about six months old,|sd|3707
+A|and we're|%|3707
+A|we live in an apartment,|sd|3707
+A|so, we don't have a yard,|sd|3707
+A|so it has to stay inside|sd|3707
+A|and we're having a difficult time trying to train it.|sd|3707
+B|How old is it?|qw|3707
+A|It's about six months.|sd|3707
+B|Uh, you, you're, you're in the roughest stages of pet  ownership, I think.|sv|3707
+A|Really?|bh|3707
+A|But they're supposed to be real intelligent dogs,|sv|3707
+A|but I guess every one, one one, one of them, or every once in a while, you get one that's not so intelligent because this one, it.|sv|3707
+B|Well. I don't, I don't know if that has anything to do with the intelligence, really, the, the, the training bit, uh.|sv|3707
+B|I've had dogs through the years.|sd|3707
+B|Right now I've got two, and three cats,|sd|3707
+B|but, uh, and my son and daughter-in-law have kind of a Sheltie mix,|sd|3707
+B|and we watched it this summer for two to three months,|sd|3707
+B|and it wasn't trained quite fully either|sd|3707
+A|Uh-huh.|b|3707
+B|and, uh, but it was a sweet and an intelligent dog.|sd|3707
+A|Yeah,|b|3707
+A|so how'd you all, how do you,|%|3707
+A|what's the best method?|qw|3707
+B|I don't know.|h|3707
+B|I, I'm old fashioned,|h|3707
+B|and when I got my, my dogs, when they, when they did something I hollered at them and threw them outside.|sd|3707
+A|Right.|b|3707
+B|They say that's not the way to do it now.|sv|3707
+B|You're just supposed to|sv|3707
+A|Stand outside with them until they.|^2|3707
+B|No,|ar|3707
+B|just, just, put them outside, I guess. Unless you catch them in the act.|sv|3707
+A|Well, we're hardly ever at home,|sd|3707
+A|so it's kind of difficult,|sv|3707
+B|Yeah.|b|3707
+A|and, you know, you don't want to, you don't want to spank it or scare it, or anything like that,|sv|3707
+A|so.|%|3707
+B|No,|aa|3707
+B|no,|aa|3707
+B|you don't want to do that,|sv|3707
+B|but, uh.|%|3707
+A|Yeah,|b|3707
+A|we, we try to take it, you know,|sd|3707
+A|it gets, it gets frustrating when you take it outside|sv|3707
+A|and, you know  and then it runs right inside|sd|3707
+B|Does, does it just want to sniff around?|qy|3707
+B|Does it just want to sniff around and play when it's outside?|qy|3707
+A|Yeah,|ny|3707
+A|a lot of times,|sd|3707
+A|and you know, it won't it's little job outside|sd|3707
+B|Yeah.|b|3707
+A|and it comes inside.|sd|3707
+B|Have you praised it and given it a treat maybe when it does something outside?|qy|3707
+A|Uh, yeah,|ny|3707
+A|we've tried that,|sd|3707
+A|and, uh, you know, there's certain spots in the house where he likes to go,|sd|3707
+B|Yeah.|b|3707
+A|so, and he chews on plants and all that,|sd|3707
+A|but, you know, that's natural  for a little puppy. Huh?|sv|3707
+B|That's nothing, huh.|^2|3707
+B|Well, it, it, it'll, it'll catch on pretty soon, I'll, I'll bet you.|sv|3707
+B|I, I have a sixteen year old, almost sixteen year old Golden Retriever,|sd|3707
+B|and she's gone the other way,|sd|3707
+B|because she's so old, she doesn't have much control|sd|3707
+A|Oh, really.|bh|3707
+B|so we're battling with that problem|sd|3707
+A|Oh, that's sad.|ba|3707
+B|and she still feels good.|sd|3707
+B|Uh, she can't hear worth a darn or see very well,|sd|3707
+B|but she's got a great appetite,|sd|3707
+B|and she knows we're there, by smell.|sd|3707
+A|How old is it?|qw|3707
+B|She'll be sixteen in May.|sd|3707
+A|Man that's sad.|ba|3707
+B|And yeah,|b|3707
+B|but we can't bear to do anything because she's been our friend for all these years,|sd|3707
+A|Oh, of course not.|aa|3707
+B|so we're putting up with all her accidents,|sd|3707
+A|I couldn't.|sd|3707
+B|and the|%|3707
+B|two nights ago, she had diarrhea,|sd|3707
+B|and so that was a bad one.|sd|3707
+B|But, uh, I think we're buying a carpet shampooer this weekend|sd|3707
+A|That is really sad.|ba|3707
+A|What, what's the deal,|qh|3707
+A|we, we try to, we're trying to take it on walks now, you know|sd|3707
+B|Uh-huh.|b|3707
+A|and we can't because it's not accustomed to being on a leash|sd|3707
+B|Yeah.|b|3707
+A|and so it, I mean this dog really feels like it's being killed or something when you try to, you know, tug on it to walk it.|sd|3707
+A|I mean, it just goes like a mad dog,|sd|3707
+A|I mean it just jumps up and down and starts yapping,|sd|3707
+A|and  it's, you know, I mean, it's not even close to even being trained on a leash.|sd|3707
+B|Does it, oh.|ba|3707
+B|Uh-huh.|b|3707
+B|You know, maybe you you can get it signed up this spring or summer for some of the dog obedience classes.|sv|3707
+A|Uh-huh.|b|3707
+A|Well, we've heard bad, we've heard some bad things about some of those, you know,|sd|3707
+A|they sometimes misuse their license or whatever you know,|sv|3707
+B|Oh.|b|3707
+A|they treat them bad.|sv|3707
+B|Well, you know, we went, we went to the junior college, Richland|sd|3707
+A|Oh, really?|bh|3707
+B|and we took,|sd|3707
+B|my, my daughter was living at home then,|sd|3707
+B|and she took our Golden Retriever, oh, not the Golden Retriever, the Norwegian Elk Hound over there|sd|3707
+A|Oh, really?|bh|3707
+B|and, it, it, it's a pretty good class,|sv|3707
+B|and they did pretty good, except this dog is,|sd|3707
+B|she's just pretty,|sd|3707
+B|she's not smart|sd|3707
+A|Uh-huh.|b|3707
+B|So, she didn't learn a lot,|sd|3707
+B|but it, I think it calmed her down a little bit,|sv|3707
+B|and she's used to being around other dogs now.|sd|3707
+A|How long did it take?|qw|3707
+B|I think it was like a six week program.|sd|3707
+A|Every, what?|br|3707
+B|Uh, I think it was one night a week for like six weeks,|sd|3707
+A|Oh, really?|bh|3707
+B|and, uh, you know, it was a group class, outside.|sd|3707
+B|It was fairly reasonable, too.|sv|3707
+A|Well, Sheltie Collies are, you know, timid,|sv|3707
+A|and they don't really,|sv|3707
+A|unless they get used to something, they're really nervous|sv|3707
+A|and.|%|3707
+B|Yeah,|b|3707
+B|they're, they're usually, a high-strung dog aren't they?|qy|3707
+A|Yeah,|ny|3707
+A|yeah,|ny|3707
+A|and, uh, if they're not accustomed to something, they, they're really scared.|sv|3707
+A|So.|%|3707
+B|Um, our, our friend has a,|sd|3707

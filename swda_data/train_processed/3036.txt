@@ -1,0 +1,116 @@
+A|Well, uh, if you had to pick a, a type of music that you like, would you be able to? *functions as a qw|qy|3036
+B|Well, I could pick country music. *answered as if to a qw|arp_nd|3036
+A|Country music?|qy|3036
+A|I,|%|3036
+B|As I've gotten older, I've started listening more to the words of music and to the softer melodies.|sd|3036
+B|Not originally.|ng|3036
+A|Not originally.|b^m|3036
+A|Where you from?|qw|3036
+B|Georgia.|sd|3036
+A|Georgia.|b^m|3036
+A|Okay, well, see|bk|3036
+A|I'm, I'm from Chicago,|sd|3036
+A|so uh, I'm kind of in a different category here. Uh,|sd|3036
+B|If you had to pick one, what would you choose?|qw|3036
+A|Uh, I would probably go with,|sd|3036
+A|it's tough, uh, I think I would just stick with the classics. Only because, uh, I like music just for music's sake|sd|3036
+A|and uh, you know, I'm from the era where, you know, we had all the rock and roll.|sd|3036
+A|I'm forty|sd|3036
+A|so I'm, you know, part of that whole deal|sd|3036
+A|and, uh, that was a real interesting time|sd|3036
+A|and, you know, the music sort of made the whole time very rich with sound.|sd|3036
+A|Uh, but I think I'd stick back with my Beethoven and my Bach and my Mozart|sd|3036
+A|I mean because it's just,|sd|3036
+A|it will always be there.|sd|3036
+A|It's classic|sd|3036
+A|and I don't have to worry about, you know, what's current and what's not because I haven't been current with music for a long time.|sd|3036
+A|But, you know, same, uh,|%|3036
+A|and, as far as country music is, I've never really, uh, listened to it.|sd|3036
+A|I mean because that's just,|sd|3036
+A|it was,|%|3036
+A|it wasn't part of what I knew,|sd|3036
+A|so, there you go|h|3036
+B|Well, I understand what you're saying.|sd|3036
+B|I think if you would listen to it a little, you would discover that it has a lot of roots from the, both from the classics and from some of the rock and roll of the era that, that we both lived through.|sv|3036
+A|Right,|b|3036
+A|yeah.|b|3036
+B|Uh|%|3036
+A|I,|%|3036
+A|it's, it's a different perspective on everything, too.|sv|3036
+A|I, I know, well, whenever they talk about, uh, country music, it's about, it seems sad to me.|sv|3036
+A|It's always about some guy losing some girl and then, you know, playing the guitar and singing about it.|sv|3036
+B|Well, there's some joy in it also.|sd|3036
+B|But, mostly it, it just tells a story about life.|sd|3036
+A|Yeah.|b|3036
+A|Well, I must say, though, uh, I listen to Amy Grant.|sd|3036
+A|Do you consider her country?|qy|3036
+B|I don't know.|no|3036
+B|I'm not all that familiar with her work.|sd|3036
+A|Uh, uh, let's see. Well, name some people that are country that I should listen to|ad|3036
+A|That would be good.|sv|3036
+B|Well, I kind of like, uh, I like groups like the Statler Brothers. And the Judds, certainly.|sd|3036
+A|Okay.|bk|3036
+A|Oh, okay,|bk|3036
+A|I, I must admit that's, yeah, they're fantastic,|sv|3036
+A|so, uh, uh,|%|3036
+B|Reba McIntire is a little too country for me.|sd|3036
+A|She's something, though.|sv|3036
+A|She's got so much energy|sv|3036
+B|That's true.|aa|3036
+A|Well, I guess I, I have listened in on some of the stuff and not really realized it that I do like some of that.|sd|3036
+A|Uh, Dolly Parton, she's kind of,|sv|3036
+A|is she kind of country?|qy|3036
+B|Oh, yes.|ny|3036
+A|Kind of|b|3036
+B|That's certainly where her roots are.|sd|3036
+A|Right down there.|bf|3036
+A|Uh, uh, how about the Oak Ridge Boys.|qo|3036
+B|Very much so.|na|3036
+A|Very much.|b^m|3036
+A|Okay,|bk|3036
+A|well, I like them, too.|sd|3036
+A|So I guess I've had a smattering|sd|3036
+A|and I just, uh, you know, picked,|sd|3036
+A|I've picked up a little bit along the way that I probably wouldn't have if I'd stayed up north, you know.|sd|3036
+B|That's true.|aa|3036
+A|You know, so, well, I think there's music all around anyway.|sv|3036
+A|I mean, I think life is just music,|sv|3036
+A|so, you know, you can hear it wherever you want|sv|3036
+A|and, uh, and I've, I've kind of shied away from some of the new stuff because I just don't understand it.|sd|3036
+A|But maybe twenty years from now they'll look at it as classic rock and roll which I really like|sv|3036
+A|so,|%|3036
+B|Well, it's just difficult for me to believe that anybody's ever going to make a, a record of the rap songs of the eighties.|sd|3036
+A|Yeah,|aa|3036
+A|the greatest hits,|bf|3036
+A|right,|aa|3036
+B|Yeah|b|3036
+A|Yeah.|b|3036
+A|Yeah,|b|3036
+A|so, I mean, it, it, it'll, if it stands the test of time, we'll see.|sd|3036
+B|That's true.|aa|3036
+A|And, uh, then it'll,|%|3036
+A|if it survives, then it'll just probably be one or two songs that sort of, hey listen what we listened to|sv|3036
+B|Yeah|b|3036
+A|Can you believe this sort of thing,|qh|3036
+A|but, uh, you know, I, I think of,|%|3036
+A|I get real tickled when I listen to some of these old Beatle, uh, music, you know, the orchestration of it and that it's so popular still|sd|3036
+A|and, and, uh, you know, all these rocks, rock stations call it classic soft rock, you know|sd|3036
+B|Right.|b|3036
+A|But we used to listen to it full blast|sd|3036
+B|Of course.|aa|3036
+A|Yeah.|b|3036
+A|So, it's kind of funny the way we listened to the stuff,|sv|3036
+A|but, I don't know.|h|3036
+A|Well, you got any more?|qy|3036
+B|Well, the big key is that, I think you've already stated, that all music is rooted in the classics|sv|3036
+B|and it has grown from there. this short.|sv|3036
+A|Well, that's,|%|3036
+A|Okeydoke,|aa|3036
+A|well, it was great.|sv|3036
+A|Yeah.|b|3036
+A|And we'll, uh, listen to some more music|oo_co_cc|3036
+A|and, uh, I'll look at some country.|oo_co_cc|3036
+B|You bet.|ba|3036
+A|Okay.|b|3036
+A|Bye-bye|fc|3036
+B|Bye-bye.|fc|3036

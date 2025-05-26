@@ -1,0 +1,216 @@
+A|Okay,|fo_o_fw_"_by_bc|3099
+A|so what were you saying?|qw|3099
+B|Do you work with, do you work around children when you work?|qy|3099
+A|No,|nn|3099
+A|no,|nn|3099
+A|not at all.|sd|3099
+A|I work with computers.|sd|3099
+B|With computers.|b^m|3099
+A|Yep,|ny|3099
+A|they what,|%|3099
+B|Okay,|bk|3099
+B|do you|%|3099
+A|one thing I,|%|3099
+B|but you have friends that have children.|qy^d|3099
+A|I have some friends that have children, uh, not that many actually.|na|3099
+B|Uh-huh.|b|3099
+A|Uh.|b|3099
+B|What is child care like in New York?|qw|3099
+B|What is,|%|3099
+A|I do not really know,|no|3099
+A|excuse me,|fa|3099
+A|too much about child care in New York|no|3099
+B|Does the company you work for have, child care on premises for, employees?|qy|3099
+A|Excuse me one second.|ad|3099
+A|Huh-uh|nn|3099
+A|No,|nn|3099
+A|not at all,|sd|3099
+A|in fact my situation is a little bit strange,|sd|3099
+A|I was, uh, a student for many years, and then graduated and went and worked in France for awhile.|sd|3099
+A|And, I, have just come back and was doing consulting work.|sd|3099
+B|Oh.|bk|3099
+B|Oh, my.|ba|3099
+A|So I am just taking a little bit of time off right now.|sd|3099
+B|A sabbatical|qy^d|3099
+A|Uh, and, and I might,|%|3099
+B|Well I hope you can stay as long as possible with it.|sd|3099
+A|Yeah,|b|3099
+A|well hopefully I can do some consulting work at home.|sd|3099
+A|And, if I can do that it will,|sd|3099
+A|Yeah,|%|3099
+B|Oh yeah,|b^m|3099
+A|I'll be able to spend the time with my daughter, and not have to worry too much about child care.|sd|3099
+A|But, uh, I might start to go crazy with it too.|sd|3099
+B|Right.|b|3099
+A|It is a little,|%|3099
+A|I miss the intellectual stimulation.|sd|3099
+B|Right.|b|3099
+A|But at the same time I really, it would break my heart to give her to a stranger right now.|sd|3099
+A|And,|%|3099
+B|I think it does when, when they are real little|sv|3099
+B|and they are changing every day,|sv|3099
+A|Oh, yes.|aa|3099
+B|there's,|%|3099
+B|and you just miss the little things,|sv|3099
+A|Yeah.|b|3099
+B|and, and, uh,|%|3099
+A|Well, I think for me, the important concerns, I do not think I would put her in day care for joint , situation right now, unless it was like one other child with a, with a person.|sd|3099
+B|Uh-huh.|b|3099
+B|Uh-huh.|b|3099
+A|I would not want her to be into a, in a large day care situation so young. Because I think a little infant just does not get the stimulation they need.|sv|3099
+B|Uh-huh.|b|3099
+B|That's right.|aa|3099
+A|Maybe if I needed to work part time, like four hours a day, I might do that, cause like, you should get enough stimulation from you the rest of the time.|sd|3099
+A|But, uh, I just think that, you know, when there's two year olds running around, the, whoever is taking care of, the care givers are going to pay attention to the two year olds.|sv|3099
+B|That's right.|aa|3099
+A|And only when the infant screams, are they going to go there,|sv|3099
+B|That's right.|aa|3099
+A|and if not, the infant is going to lay in the crib all day, and maybe have a mobile above it to play with.|sv|3099
+B|Right.|b|3099
+A|And, you know, I play with her most of the time she is awake|sd|3099
+A|and I think that is so important.|sv|3099
+B|Right.|aa|3099
+B|Well that, it is important for the bonding that they do it, with the mother.|sv|3099
+A|Yeah.|b|3099
+A|Well, such as things for learning gives the child stimulation I think is important.|sv|3099
+B|Right.|b|3099
+A|And, uh,|%|3099
+B|Our oldest grandson, when he was eighteen months old went into a, a Montessori, day care system.|sd|3099
+A|Uh-huh.|b|3099
+B|And they took infants starting at six weeks,|sd|3099
+B|and they have a program, uh, in, that was devised by this montessori person|sd|3099
+B|and, uh, and a certain type of stimulations|sd|3099
+B|and there's times of day that even when the child is awake that they, that they lay quietly and look at certain things|sd|3099
+B|they keep, deliberately keep the room not real bright.|sd|3099
+A|Uh-huh.|b|3099
+B|And, and, uh, they have different things they will, they will put them down on the floor,|sd|3099
+B|and of course, they never have more than like five,|sd|3099
+B|and, and they will put them down on the floor|sd|3099
+B|and they will have I think one of them was a little mirror|sd|3099
+B|and some were just different objects that have, had a definite purpose for kids, you know,|sd|3099
+A|Uh-huh.|b|3099
+B|and there's something about their eyes.|sd|3099
+A|Yeah,|b|3099
+B|Uh,|b|3099
+A|well she's, she's just been doing all kinds of stuff where she's, you know ,|sd|3099
+B|How old is she?|qw|3099
+A|She's two months now, nine weeks.|sd|3099
+B|Oh, yeah.|b|3099
+A|And she's just drastically moving her eyes from one side to another and things like that.|sd|3099
+B|Uh-huh.|b|3099
+A|And she's just started that like yesterday or the day before,|sd|3099
+B|Uh-huh,|b|3099
+B|uh-huh.|b|3099
+A|and so every days are different.|sd|3099
+B|Uh-huh.|b|3099
+A|And I think that, you know, I think child care for infants is much harder than when they are older,|sv|3099
+A|and I will probably be going back to work around January, whereas she will be about, eight or nine months old.|sd|3099
+B|Um.|b|3099
+B|A little older .|^2|3099
+A|And so I think, you know, she will be at a,|%|3099
+A|I have heard it's a rough age to put them into a,|sd|3099
+B|It is because that's when they are clinging to mama,|aa|3099
+A|Yeah.|b|3099
+B|so you might have a real problem with that.|sv|3099
+B|I think it,  it hurts the parents to leave when the child is crying,|sv|3099
+A|But, but I think it,|%|3099
+B|so it, you know, it would be ideal if you could get somebody in so you are not really leaving the child in a strange place.|sv|3099
+A|Yeah.|aa|3099
+A|We are just going to have, to see how things work out.|sd|3099
+B|But that's unusual.|ba|3099
+A|Uh, but I am trying to, you know, leave her a fair amount, even at this young age, with her grandparents, just to, go to a movie and things like that. So that she is used to other people taking care of her.|sd|3099
+B|Uh-huh.|b|3099
+B|Is it your parents or your husband's parents?|qy|3099
+A|My parents,|sd|3099
+A|my husband's parents are in France.|sd|3099
+A|So, it's a little bit harder|sd|3099
+A|but during, you know,|%|3099
+A|she's met them already.|sd|3099
+B|Oh.|bk|3099
+A|Not that she will remember them,|sd|3099
+A|but she's met them.|sd|3099
+B|Right,|b|3099
+B|right.|b|3099
+B|That's nice when, uh,|%|3099
+B|I, my, I have three grandchildren,|sd|3099
+B|another one coming in September,|sd|3099
+B|and I,|%|3099
+B|it would, if they were where I could not get my hands on them, I am afraid I would probably go crazy.|sd|3099
+A|Uh-huh.|b|3099
+B|You know, I, I like that,|sd|3099
+A|Are they all nearby?|qy|3099
+B|but if, it you do not have to put them in child care, that's, that's an ideal situation for you, is to stay with them|sv|3099
+B|as,|%|3099
+B|or you can set up your work program and your husband's so that one of you is there all the time.|ad|3099
+A|Yeah.|aa|3099
+B|That's, that's wonderful for the child.|sv|3099
+B|But,|%|3099
+A|Well, if I work part time that might be doable.|sd|3099
+B|Right|aa|3099
+B|And you need to look at, when you, if you do decide to go with child care, you really need to, to look at what your options are and, and look at the, what they offer,|ad|3099
+B|drop in at times that are unexpected.|ad|3099
+A|Yeah,|aa|3099
+A|well,|%|3099
+B|The,|%|3099
+A|right now the situation is so tight at many places, that it's even hard to have a choice.|sv|3099
+B|Uh.|b|3099
+B|Uh.|b|3099
+A|Incredible,|ba|3099
+A|but you know, since this is,|%|3099
+A|people before they get pregnant are finding child care for the kids|sv|3099
+B|Uh-huh,|aa|3099
+B|uh-huh.|aa|3099
+A|And, you know, I just find that incredible.|sv|3099
+A|And my sister-in-law is going to have a baby very, very soon|sd|3099
+A|and she is intending to stay home with the baby.|sd|3099
+B|Oh.|b|3099
+A|And, you know, maybe do some free lance type work at home.|sd|3099
+A|And so, if I go back to work on a part time basis, I am hoping I can leave my daughter with her. Because, her daughter again will be a couple of months, my daughter will be about six months older than hers.|sd|3099
+B|Oh, that would be wonderful.|ba|3099
+A|And,|%|3099
+B|Uh-huh,|b|3099
+B|uh-huh.|b|3099
+A|it will be a little rough when she is a very, very little infant,|sv|3099
+B|Uh-huh,|aa|3099
+B|uh-huh.|aa|3099
+A|but like when she is a month or so, my sister-in-law has had lots and lots of experience dealing with baby-sitting for large families.|sd|3099
+B|Oh.|b|3099
+A|And so, uh, she might be able to do it a couple of hours a day|sd|3099
+A|and we might even be able to do it on a trade off basis. That I watch, their baby when they want to go out to dinner or to movies or whatever, or if she wants an afternoon off. Even if she wants an afternoon just to work. Uh, and not be bothered,|sd|3099
+B|Right.|b|3099
+B|Right.|b|3099
+B|Right.|b|3099
+B|Uh-huh,|b|3099
+B|uh-huh.|b|3099
+A|we might be able to exchange that way.|sd|3099
+B|Uh-huh.|b|3099
+A|And so we will just have to see how things work out.|sd|3099
+A|But I think the whole, you know, ideally I think, uh, business should have the, day care centers there, whether it's the parents who take turns watching the kids, or whether|sv|3099
+B|I do too.|aa|3099
+A|they hire a couple of people|sv|3099
+A|and, uh, you know, parents come down to supervise or, whatever.|sv|3099
+B|Really well trained people.|^2|3099
+B|Right,|b|3099
+A|Yeah.|b|3099
+B|and have, have some kind of real good program, set up so that you, when you go you can be assured that if there's an emergency that person in charge knows C P R or first aid|sv|3099
+A|Yeah.|b|3099
+B|or, and have some kind of program set up, like you say, to stimulate the kids, or educate them in some manner. And have the, you know, the right toys and the right setting and, uh, have, a, an organized type of program set up so that the kids have a schedule, you know,|sv|3099
+A|Oh, yeah.|b|3099
+B|that's real important to little kids.|sv|3099
+A|Yeah,|aa|3099
+A|well she's,|%|3099
+A|my daughter does not seem to be on a real schedule yet,|sd|3099
+A|and it's probably my fault, because I do not have a real schedule now.|sd|3099
+B|Uh-huh.|b|3099
+A|But,|%|3099
+B|They, they adjust to what the parents|sv|3099
+A|Yeah,|aa|3099
+A|well she's been staying up late at night and, you know, sleeping late in the mornings and things is just fine by me|sd|3099
+B|Uh-huh.|b|3099
+B|you know that works until they start school.|sv|3099
+A|Right.|b|3099
+B|And that's a problem,|ba|3099
+B|society is geared to a, a day person|sv|3099
+B|and it's,|%|3099
+B|I have another friend whose brother and his wife have done this,|sd|3099
+B|they stay up until all hours of the night.|sd|3099

@@ -1,0 +1,139 @@
+A|Uh, did you watch the Bulls this morning?|qy|3796|0
+B|You know what,|fo_o_fw_"_by_bc|3796|1
+B|I watched a little bit of, uh, of the Bulls game|sd|3796|1
+B|and I, uh, had to leave.|sd|3796|1
+B|Uh, in fact I, I think the Bulls were ahead when I, uh, when I left.|sd|3796|1
+B|Who won the game?|qw|3796|1
+A|They won in a squeaker.|sd|3796|0
+A|They won by they won by two points.|sd|3796|0
+B|Is that right?|bh|3796|1
+A|Uh, they were behind as they headed into each quarter|sd|3796|0
+A|and then they came back in the second half|sd|3796|0
+A|and at the end, I think they were, uh, looked, they looked like they were closing it out|sd|3796|0
+A|and then Detroit kept coming back|sd|3796|0
+A|and uh, Isaiah missed a three point attempt, at the end|sd|3796|0
+B|Uh-huh.|b|3796|1
+A|and, uh, I think the Bulls won by two.|sd|3796|0
+A|I think they do, as a matter of fact.|na|3796|0
+B|Yeah.|b|3796|1
+A|One of the, uh, commentators said that they expected that the Bulls would, uh, if they continued at their current pace, uh, set an N B A record for seventy wins in a season.|sd|3796|0
+B|Wow.|ba|3796|1
+A|Yeah,|b|3796|0
+A|they looked real good|sd|3796|0
+A|and,|%|3796|0
+B|They, they do,|aa|3796|1
+B|and they, you know,|%|3796|1
+B|I think by, uh, by relieving some of the pressure off of, uh, of, uh, uh,|sv|3796|1
+B|Michael Jordan really helped them out.|sv|3796|1
+B|You know, he doesn't have, they don't have to rely on him to score you know, thirty or forty points at every  at every game|sv|3796|1
+A|Right.|b|3796|0
+B|so,|%|3796|1
+A|Yeah,|b|3796|0
+A|well, they, they're, they're balancing their attack|sv|3796|0
+B|Oh, I know,|aa|3796|1
+B|I'm,|%|3796|1
+B|yeah,|%|3796|1
+B|I saw the I saw the Warriors, uh, just a little bit of the highlights of the Warriors, uh, Dallas game.|sd|3796|1
+A|I saw the, the second half of the game last night|sd|3796|0
+A|and they were impressive.|sd|3796|0
+B|They look good.|sv|3796|1
+A|Billy Owens looks like he was,|sd|3796|0
+A|that was a good move for the Warriors to trade for him.|sv|3796|0
+B|Yeah,|aa|3796|1
+B|now, I don't, uh, I haven't kept up with what was going on with, uh, with the,|sd|3796|1
+A|Well, they traded away, uh, Mitch Richmond,|sd|3796|0
+A|or is it Tim Hardaway.|t1|3796|0
+A|One of the two, uh, who, along with, uh, Chris Mullen was, you know,|sd|3796|0
+A|though three were three of the best in the N B A,|sv|3796|0
+A|and and, they made a heck of a threesome|sv|3796|0
+B|Uh-huh.|b|3796|1
+A|and they traded either Richmond or Hardaway to Sacramento for Billy Owens|sd|3796|0
+A|and, uh,|%|3796|0
+B|Good move.|sv|3796|1
+A|Yeah,|aa|3796|0
+A|oh, yeah,|aa|3796|0
+A|he's really worked out well.|sv|3796|0
+A|They've got the Warriors have got a team, uh,|sv|3796|0
+A|and, uh, I think that will be real interesting to see what they can do.|sv|3796|0
+A|They're ahead,|sd|3796|0
+A|and the Lakers are down, I guess in fourth, uh, position in the west|sd|3796|0
+A|and I don't know,|h|3796|0
+B|Yeah.|b|3796|1
+A|in the east, I don't know, uh,|sd|3796|0
+A|is it Boston in, uh, first place?|qy|3796|0
+B|Uh, I think Boston's in first.|na|3796|1
+B|Uh, I, you know, I haven't kept up with any of the other, uh, teams.|sd|3796|1
+B|I'm so depressed with the Dallas Mavericks, you know.|sd|3796|1
+A|Boy,|ba|3796|0
+A|they've had a hard time.|sv|3796|0
+A|They said  they've lost a lot of squeakers.|sd|3796|0
+B|Oh, man!|ba|3796|1
+B|That,|%|3796|1
+B|well, yeah,|b|3796|1
+B|but, I mean, just this whole year has been just disastrous for them|sv|3796|1
+B|and, uh, you know, they're going, I, I think they're going for an all time record of how many you know, losses in a row they can, they they can, uh, pull out.|sd|3796|1
+A|Yeah.|b|3796|0
+B|It's unbelievable.|sv|3796|1
+A|How do people in Texas deal with Dallas, Houston and San Antonio.|qw|3796|0
+A|Do you, for example, like San  Antonio in Dallas?|qy|3796|0
+B|Uh,|%|3796|1
+B|Well, actually, actually, the, the, the Dallas area here, uh, pulls for Dallas.|sd|3796|1
+B|Uh, San Antonio pulls for San Antonio,|sd|3796|1
+B|and Houston pulls for, for the Rockets.|sd|3796|1
+A|So there isn't much crossover, huh,|bf|3796|0
+B|There really,|%|3796|1
+B|I mean, not a whole lot. You know,|sd|3796|1
+B|I mean, you find them, they're, find them be, to be pretty loyal, uh, in, with the local teams.|sd|3796|1
+A|Yeah.|b|3796|0
+B|Uh, you know, it's kind of, I guess it's kind of like, uh, there in the Bay area, you know, you don't find a whole lot of, uh, of Sacramento fans.|sd|3796|1
+A|Yeah,|aa|3796|0
+A|it's true,|aa|3796|0
+A|because San Antonio isn't that close to you, are they?|qy|3796|0
+B|Really isn't,|ng|3796|1
+B|uh-uh.|nn|3796|1
+A|No.|aa|3796|0
+B|It's, you know, it's, it's about the same, uh, same distance from here to to San Antonio as it is from there to Sacramento.|sd|3796|1
+A|Is it?|bh|3796|0
+A|Yeah,|b|3796|0
+A|so it's not something you'd drive,|bf|3796|0
+B|So it's, yeah, it's not really a local, you know,|sd|3796|1
+A|Yeah,|b|3796|0
+A|I was thinking maybe David Robinson made a bit of a difference with kids and that sort of thing.|sd|3796|0
+B|Uh, he does a lot of local stuff there in San Antonio|sd|3796|1
+B|and they, I mean, they have got a great club. You know.|sd|3796|1
+A|They've done a good job.|sv|3796|0
+A|I mean, of course, drafting a franchise like him certainly,|sv|3796|0
+B|Yeah|b|3796|1
+B|Yeah|aa|3796|1
+B|that always makes a big difference.|sv|3796|1
+A|Yeah,|aa|3796|0
+A|I mean, that's|%|3796|0
+B|So,|%|3796|1
+A|I think the way it, uh, I think that's the way it works now in basketball.|sv|3796|0
+A|You, you know Magic was a franchise for the Lakers and, you know, uh, Bird for the, for the, uh, Celtics|sd|3796|0
+B|Yeah.|b|3796|1
+A|and,|%|3796|0
+B|And, you know, uh, you know, I used to think that, that one, one player really doesn't make a club,|sd|3796|1
+B|but it really does, you know.|sv|3796|1
+A|Well, it ,|%|3796|0
+B|You get somebody like Magic|sv|3796|1
+B|and you can see the decline in that team.|sv|3796|1
+A|Well, yeah.|b|3796|0
+B|Once he left, you know, it's, it's just not the same, uh, it's not the same team.|sv|3796|1
+B|There's not the leadership there that they used to rely on him for.|sv|3796|1
+A|Well, I think you're right|aa|3796|0
+A|and I think Isaiah Thomas would fit in Detroit|sv|3796|0
+A|and I think those things do make a difference|sv|3796|0
+A|and there are marquee players.|sv|3796|0
+A|And I think  I think Jordan and the, and the Bulls have to be, uh, considered the likely favorites.|sv|3796|0
+B|Oh, yeah.|b|3796|1
+A|I don't know who would meet them in the west.|sd|3796|0
+A|Uh, I don't know how good Portland will turn out to be by the end of the year.|sd|3796|0
+A|They were so|sv|3796|0
+B|Who won that Portland game?|qw|3796|1
+A|You know, I wasn't, I, I I watched only a few minutes of it|sd|3796|0
+A|and I wasn't paying attention.|sd|3796|0
+A|Uh, and so I don't know, uh,|sd|3796|0
+B|Uh,|%|3796|1
+A|But Phoenix, you know, Phoenix and Portland have both been very good clubs|sv|3796|0
+A|and,|%|3796|0

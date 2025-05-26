@@ -1,0 +1,332 @@
+A|Okay.|fo_o_fw_"_by_bc|2566
+A|Do you have any children?|qy|2566
+B|No.|nn|2566
+B|I don't.|sd|2566
+A|You don't.|bf|2566
+B|Do you?|qy|2566
+A|Yes,|ny|2566
+A|I have, uh, one. A five year old daughter.|sd|2566
+B|Uh-huh.|b|2566
+B|Did you ever have her in child care?|qy|2566
+A|Yes,|ny|2566
+A|I do.|sd|2566
+A|She was, um, at a private, well,|sd|2566
+A|I stayed off work with her for little over of a year when she was born.|sd|2566
+B|Uh-huh.|b|2566
+A|And then I had her at a private sitter for, I guess, two, two and a half years after that.|sd|2566
+B|And how did you choose that sitter?|qh|2566
+A|Um, she was referred to me by a couple of people|sd|2566
+A|and she turned out to be wonderful.|sd|2566
+A|I couldn't have asked for anything better, I don't think.|sd|2566
+B|Yeah.|b|2566
+A|I didn't want to send her straight to a day care.|sd|2566
+B|Right.|b|2566
+A|And, even though she was that old, I still didn't want her to go to a day care.|sd|2566
+B|Yeah.|b|2566
+A|And this lady, you would think it was her own.|sd|2566
+B|Really?|bh|2566
+A|Yeah.|ny|2566
+A|She's real good.|sd|2566
+B|It's hard to find people like that.|sv|2566
+A|Yes.|aa|2566
+A|It is.|sv|2566
+A|And, um, now I have got her in a Montessori school.|sd|2566
+B|Uh-huh.|b|2566
+A|And she's really, really doing good and learning a lot.|sd|2566
+A|And, actually, I've started working up there in the afternoons, too.|sd|2566
+A|So,|%|2566
+B|Oh, yeah.|b|2566
+B|Well, that's neat.|ba|2566
+A|well, yeah.|aa|2566
+A|I guess. I'm going to quit as soon as school, the school season's over.|sd|2566
+A|But, uh, I really enjoyed being with her up there.|sd|2566
+A|I hate it for her,|sd|2566
+A|she has to stay that much longer,|sd|2566
+B|Yeah.|b|2566
+A|but,|%|2566
+B|Do they have classes for them during the summer, too?|qy|2566
+A|Yeah.|ny|2566
+A|They, they go uh, year-round, uh teach them.|sd|2566
+B|Huh.|b|2566
+A|Now, in the summer they have like a lot of field trips.|sd|2566
+B|Yeah.|b|2566
+A|There's a field trip just about every day if they want to go on one, and stuff like that.|sd|2566
+A|It's a lot more lax.|sd|2566
+A|But, but they still go through all their, uh, curriculum as usual.|sd|2566
+B|What kind of questions did you ask about the private sitter before you took her over there?|qw|2566
+A|Um, gosh|^h|2566
+A|I|%|2566
+A|my husband and I both went.|sd|2566
+A|We kind of give her the third degree|sd|2566
+B|Uh, good|ba|2566
+B|I'm glad to hear that.|sd|2566
+A|Yeah.|b|2566
+A|Well, we went over to her house,|sd|2566
+A|so we told her, you know,|sd|2566
+A|well, we didn't tell her, we just told here we'd be over that day.|sd|2566
+A|We didn't tell her when.|sd|2566
+A|So, that way I didn't think,  you know, the house would be, you know, cleaned or anything for me specifically.|sd|2566
+B|Yeah.|b|2566
+B|Right.|b|2566
+A|And, um, she had a daughter,|sd|2566
+A|and I want to say her daughter was like six or seven, right around first, second grade.|sd|2566
+A|And, um, at the time she kept one other child, um, about a four year old, I believe.|sd|2566
+A|But it was only like a part-time basis.|sd|2566
+A|So, we went over there|sd|2566
+A|and we questioned her about what she fed them and, um, what she did with them during the day and, um, you know, just how she treated them, how, how her daughter was with the children when her daughter got home from school and  stuff like that|sd|2566
+B|Yeah.|b|2566
+A|And, uh, we really seem to be pleased with her.|sd|2566
+A|And, um,|%|2566
+B|Did you, did you introduce your daughter to her before you made,  your decision?|qy|2566
+A|Yes,|ny|2566
+A|Oh, yes.|ny|2566
+A|And she still loves her to death.|sd|2566
+A|I,  mean, when they see each other, you know, they just love each other to death.|sd|2566
+A|And she literally spent almost the entire amount that I paid her on my daughter. Either making her clothes or,  buying her things.|sd|2566
+B|Really?|bh|2566
+B|Yeah.|b|2566
+A|So, we're real, real lucky.|sd|2566
+A|But uh,|%|2566
+A|so she stayed with her about, roughly two years,|sd|2566
+A|and she, um, she had to go back to work,|sd|2566
+A|they had some other expenses that came up|sd|2566
+A|so she had to go, I guess, get a real job|sd|2566
+B|Yeah.|b|2566
+B|Get a real job, full time.|bf|2566
+A|Yeah.|aa|2566
+A|So, uh,|%|2566
+B|So, what made you decide to put her in a Montessori school?|qw|2566
+A|Well, I checked a lot of places out, you know, the Kinder Cares and the,  stuff like that.|sd|2566
+A|And, uh, I live in Garland.|sd|2566
+A|And, there's this Montessori school that's nearby|sd|2566
+A|and, um, it had been recommended by some friends of ours|sd|2566
+A|but, uh, it, it's an older place.|sd|2566
+A|And so, I, uh, checked out all the new places that were near us|sd|2566
+A|and then I checked that place out|sd|2566
+A|and, uh, even though it was older, it was, it was real comfortable and,  I guess, kind of homey.|sd|2566
+B|Uh-huh.|b|2566
+B|Yeah.|b|2566
+A|And they didn't just play all day long. You know,|sd|2566
+A|like, I noticed a lot of these other schools that I went asked: Can I have some Jell-O? Speaker A answered: and interviewed on, or interviewed at, um, they did a lot of play work and stuff.|sd|2566
+A|And then they,|%|2566
+A|almost all of them had a Montessori section.|sd|2566
+B|Huh.|b|2566
+A|And I thought, well, gosh, that must be pretty good, you know, if everybody's trying to incorporate a little bit of it into,  into,  their school.|sd|2566
+B|Yeah.|b|2566
+B|Yeah.|b|2566
+A|And they made sure they pointed it out, you know.|sd|2566
+A|But after I looked at this place, and I took Randi with me, uh, I think just about to every place.|sd|2566
+A|One place I think I didn't take her.|sd|2566
+B|Uh-huh.|b|2566
+A|And, I just kind of let her go, see, see what she felt like doing.|sd|2566
+B|Yeah.|b|2566
+A|And that place, boy,|sd|2566
+A|if somebody came and she liked them and she went outside with them and, it's hard to drag her away|sd|2566
+A|So, I felt more comfortable at,  that place.|sd|2566
+B|That's,  the true test.|ba|2566
+A|Yeah.|b|2566
+B|Yeah.|b|2566
+A|And she was real comfortable.|sd|2566
+A|And she has really, really done good.|sd|2566
+A|I, I,|%|2566
+A|it's hard to tell how much has been that or how much is just her.|sd|2566
+B|Yeah.|b|2566
+A|But, she seems to me to be, you know, pretty quick and smart|sd|2566
+A|and she's already reading and writing and stuff,  like that.|sd|2566
+B|That's good.|ba|2566
+A|And she just turned five last month.|sd|2566
+B|Huh, that,  is good then.|ba|2566
+A|So,|%|2566
+A|Yeah.|aa|2566
+A|I think so.|sd|2566
+A|I mean, I didn't want to rush school at her the whole time,|sd|2566
+A|but,|sd|2566
+B|No,|aa|2566
+B|especially we're going to spend the next eighteen years,  in school|sv|2566
+A|Exactly.|aa|2566
+A|I wanted,  to quit my job so I could stay home with her the next five months,  because I know she's going to have to face that|sd|2566
+B|Yeah,|b|2566
+B|really|b|2566
+A|And, oh, my God. Here we go,  you know.|ba|2566
+B|That's right.|ba|2566
+A|I just hate that,|sd|2566
+A|but, anyway. So, you don't have any children.|sd|2566
+A|Do you have any nieces or nephews then ?|qy|2566
+B|Yeah.|ny|2566
+B|Yeah.|ny|2566
+B|I have a nephew.|sd|2566
+B|He's a little brat.|sd|2566
+B|He goes to a really crummy day school.|sd|2566
+B|My sister's not real bright,|sd|2566
+B|so, but he, he's always sick.|sd|2566
+B|I mean, he has always got some kind of, cold or something.|sd|2566
+B|And, I don't know,|h|2566
+B|I don't think this place is a very good place for him.|sd|2566
+B|It's just kind of convenient|sd|2566
+B|and she's the kind that goes for convenience over anything else.|sd|2566
+A|Oh, really.|b|2566
+A|Just easy to get them,  there and|sv|2566
+B|Yeah.|aa|2566
+B|Exactly.|aa|2566
+A|Well, that's a shame.|ba|2566
+B|Yeah.|b|2566
+B|I don't think she checks things out very well  Which,  really surprises me.|sv|2566
+A|Oh, really?|bh|2566
+A|That's,  scary.|sv|2566
+B|It is scary.|sv|2566
+B|Yeah.|%|2566
+A|Yeah.|b|2566
+A|I I was petrified.|sd|2566
+B|I know.|ba|2566
+B|I would be, too|sd|2566
+A|I mean, that's, uh,|%|2566
+A|I don't know,|h|2566
+A|that's just it.|sd|2566
+A|And that's why I don't mind paying more.|sd|2566
+B|Yeah.|b|2566
+A|Um, I don't know.|h|2566
+A|I just feel|sd|2566
+B|Too many horror stories out there that,  you know.|sd|2566
+A|Yes.|b|2566
+A|And that's one reason I like working up there a little bit is,  because I know what's really going on.|sd|2566
+B|Oh, yeah.|ba|2566
+B|That's right.|ba|2566
+B|I think that's an ideal situation.|sv|2566
+A|Because you don't know, uh,|sv|2566
+A|because like at her school, um, as soon as you drive up it's got like a circular type drive|sd|2566
+A|They sit|sd|2566
+A|and they have car callers|sd|2566
+A|and, and some kid goes out and gets the kid|sd|2566
+A|and,  it's time to go|sd|2566
+B|Yeah.|b|2566
+B|Huh.|b|2566
+A|Well, at first that always kind of bothered me.|sd|2566
+A|I mean, not bothered me,|h|2566
+A|but I thought, well, you know, I'd like to see what she's doing, you,  know|sd|2566
+B|Yeah.|b|2566
+A|But now that I'm there, I mean, it's, it's a lot more convenient because there's so many kids that doddle. You know, when their parents come,|sd|2566
+B|Uh-huh.|b|2566
+A|and it's hard to get them out,|sd|2566
+A|and a lot of parents have places to go and and things like that.|sd|2566
+B|That's right.|ba|2566
+A|And it's late at night,|sd|2566
+A|so, you know, now it doesn't bother me at all|sd|2566
+A|but,|%|2566
+B|Is that where the,|qy|2566
+B|over there off of, like,|qy|2566
+B|I'm not sure what the street is,|h|2566
+B|is it off of, near Country Club,|qy|2566
+A|Yeah.|ny|2566
+B|and all,|%|2566
+A|Sixty-six.|sd|2566
+A|That one that's, set back in the woods?|qy^d|2566
+B|yeah.|ny|2566
+B|Yeah.|ny|2566
+A|Yeah.|b|2566
+B|I, I,  I've seen the signs|sd|2566
+A|That's it.|sd|2566
+B|but I've never actually seen the place itself, you,  know.|sd|2566
+A|Yeah.|b|2566
+B|It's pretty, set far back, off the road.|sd|2566
+A|Right.|b|2566
+A|Right.|b|2566
+A|It|%|2566
+A|and that's something I like, too,|sd|2566
+B|Yeah.|b|2566
+A|because  a lot of those places are like, you know the one over here on seventy-eight, Skaggs.|sd|2566
+B|Definitely.|ba|2566
+B|Uh-huh.|b|2566
+A|That little Kinder Care, whatever it is?|qy^d|2566
+B|Yeah.|ny|2566
+A|You know, it's right there on,|sd|2566
+A|which this is on a highway, too.|sd|2566
+A|But it's set back,  enough to,|sd|2566
+B|Right.|b|2566
+B|Yeah.|b|2566
+B|There's a difference.|sd|2566
+A|I'm scared, I would be scared to death my child might accidentally get out,|sd|2566
+A|or or, if that seems like a real accessible place to where you could,  you know, go, in and get one.|sd|2566
+B|Uh-huh.|b|2566
+B|Yep.|b|2566
+B|That's right.|ba|2566
+B|Or, you know, or a car accident.|sd|2566
+A|Yeah.|b|2566
+A|And,  that was one of the places I had checked out.|sd|2566
+B|Yeah.|b|2566
+A|And it was, it, it was brand new when I checked it out|sd|2566
+A|and, of course, it was beautiful and,  clean and smelled wonderful in there,|sd|2566
+B|Yeah.|b|2566
+A|but, you know, I, that,|%|2566
+A|I didn't base everything on that.|sd|2566
+B|No,|aa|2566
+B|because that all wears off.|sv|2566
+A|That's right.|ba|2566
+A|That's exactly right.|aa|2566
+A|You get some kids in there|sv|2566
+A|and it's,  over quick.|sv|2566
+B|Yep.|b|2566
+A|But, um, I've been real pleased, knock on wood.|sd|2566
+A|I'm scared to death her going to public school.|sd|2566
+B|Really?|bh|2566
+A|I don't know,|h|2566
+A|I,|%|2566
+A|I do know why because you know,  drugs and, everything else|sd|2566
+B|I would be, too.|ba|2566
+B|Yeah.|b|2566
+B|Yeah.|b|2566
+A|and, they talk about how soon they start that|sd|2566
+B|Yeah.|b|2566
+A|and that scares me.|sd|2566
+B|I know.|ba|2566
+B|It is scary.|sv|2566
+A|I mean, you're just with them,|sv|2566
+B|Do they teach them in school right now where she's at about drugs?|qy|2566
+A|Yeah.|ny|2566
+A|They've, um, they've had police officers come in and talk to them about it.|sd|2566
+B|Good.|ba|2566
+A|But, of course, they still have no concept of,  what in the world drugs are, you, know|sd|2566
+B|Right.|b|2566
+B|Right.|b|2566
+A|but,|%|2566
+B|And what to do when they're faced with it.|^2|2566
+A|Right.|b|2566
+A|But I just think of her, you know,|sd|2566
+A|next year she's going to be five, six years old in kindergarten, in same school with, you know, uh, I guess ten year olds.|sd|2566
+A|Isn't that,  six, sixth, sixth grade, you know,|qy|2566
+B|Yeah.|ny|2566
+A|and that's a big gap.|sd|2566
+B|It is.|ba|2566
+A|And that's, uh, that, I can honestly see the peer pressure there.|sd|2566
+B|Uh-huh.|b|2566
+A|And that,  just,  terrifies me to death. And stuff,|sd|2566
+B|Oh, I can,  see it, too.|aa|2566
+A|those kids getting snatched|sv|2566
+A|and I'm, I'm probably a little too over protective|sd|2566
+B|Uh-huh.|b|2566
+A|but, Well, nowadays you have to be.|sv|2566
+B|Nothing wrong with that|sv|2566
+B|Yes.|aa|2566
+B|You do.|sv|2566
+A|If,|%|2566
+B|I don't, I don't think there's anything wrong with that.|sv|2566
+A|So, I at first thought, you know, when I didn't have kids,|sd|2566
+A|I was going, God, how can you be so protective beginning with You,  know|sd|2566
+B|Uh-huh|b|2566
+A|but, it's easy now|sd|2566
+B|Uh-huh.|b|2566
+B|Now you understand|sv|2566
+A|Yeah.|aa|2566
+A|Definitely.|aa|2566
+B|That's what I'm thinking what your mom and dad always used to say, when you have kids of your own,  you'll understand|sd|2566
+A|That's exactly right|ba|2566
+A|and I do.|sd|2566
+B|Uh-huh.|b|2566
+A|But anyway.|%|2566
+A|Well, are you ever, are you, are you, are you married|qy|2566
+B|Yes.|ny|2566
+A|Are y'all planning on having kids?|qy|2566
+A|Or,|%|2566
+A|Well, that's good.|ba|2566
+B|Yeah.|b|2566
+A|Because they're really neat.|sv|2566
+A|It's just.|%|2566

@@ -1,0 +1,110 @@
+A|I,|%|4565
+A|you know, actually in this modern day and age, it seems like, uh, uh, we have more and more leisure time because, uh, we have so many convenience, appliances and whatnot.|sv|4565
+A|We don't even have to cook dinner anymore.|sv|4565
+B|Yes.|aa|4565
+B|Yeah,|aa|4565
+B|really.|aa|4565
+A|Uh, but I, uh, I've heard, I don't know this for a fact, but I've heard that a lot of families really don't spend a great deal of time together.|sd|4565
+A|That the kids maybe on the average get, uh, something like thirty seconds of quality time with the parents.|sv|4565
+B|That's what I've heard too. Uh,|sd|4565
+A|It seems bizarre to me.|sv|4565
+A|I don't quite understand it, although I think probably the, the worst thing that's happening in the world, at least the modern world today, is television.|sv|4565
+B|Yeah.|b|4565
+A|Not so much because, uh, it's bad per se, although there is some pretty crappy programming|sv|4565
+A|and I there's also some, uh, I think, uh, poorer lifestyles illustrated but simply because it dominates so much discussionary time.|sv|4565
+B|Right.|b|4565
+A|It's so darned easy to turn the thing on.|sv|4565
+B|I know it.|aa|4565
+B|I've, I tell myself sometimes, just sit down after work,|sd|4565
+A|So I refuse to have one in the house.|sd|4565
+B|Oh really?|bh|4565
+A|Yeah.|ny|4565
+B|Well good for you.|ba|4565
+B|Good for you.|ba|4565
+B|A lot of people, I talk to a lot of people about that|sd|4565
+B|and I've thought about it myself|sd|4565
+B|and I though about it a lot|sd|4565
+A|Uh-huh.|b|4565
+B|But, uh, I still haven't done it yet.|sd|4565
+B|Well that's good.|ba|4565
+A|Well I'll tell you.|^h|4565
+A|Television sure makes child rearing easy on you.|sv|4565
+A|I mean the kids can be a real pest, uh,|sv|4565
+A|and turning the T V on is almost like magic, you know,|sv|4565
+A|it's like sticking, uh, an electrode into their pleasure center|sv|4565
+A|and you don't have to worry about them.|sv|4565
+B|That's true|aa|4565
+B|I've noticed that.|sd|4565
+A|But I don't think it's too good.|sv|4565
+B|I don't think so either.|aa|4565
+A|Uh, so, you know, I don't know,|h|4565
+A|I take advantage,|%|4565
+A|I don't have a great deal of time to spend with the kids,|sd|4565
+A|but I take advantage of, um, dinner time.|sd|4565
+A|We always eat together|sd|4565
+A|and, you know, whenever you're with your kids, you want to interact with them rather than just ignore them.|sv|4565
+B|Do you keep your kids, uh, active in sports or anything|qy|4565
+B|or,|%|4565
+A|Uh, I guess our big outlet is music. Uh|sd|4565
+B|Oh, okay.|bk|4565
+A|our thirteen year old son plays violin|sd|4565
+A|and our, nine year old daughter plays cello|sd|4565
+B|Okay.|bk|4565
+A|and, uh, when our son started playing violin, I took up violin|sd|4565
+A|and when our daughter started playing cello, I took up cello.|sd|4565
+A|So there's plenty of, plenty of interactive time in, uh, practicing. Although neither kid likes to practice.|sd|4565
+A|I guess that's not a big surprise.|sv|4565
+B|No.|aa|4565
+B|Not for kids|sv|4565
+A|But I I imagine with infants you are, most of your time is sort of spent taking care of them rather than interacting with them.  Although,|sv|4565
+B|Yeah.|aa|4565
+B|Well  I, I try and read to them|sd|4565
+B|and I take them to the park and stuff|sd|4565
+A|Oh, you know, reading is so good.|sv|4565
+A|I, uh, I took great pleasure in reading to my kids when they were little|sd|4565
+A|and I still try to read to them, although our son is not liking that anymore.|sd|4565
+B|Yeah.|b|4565
+B|Well, they get to that stage.|sv|4565
+A|Uh, but I read, you know|%|4565
+A|there's this DOCTOR SEUSS sleep book.|sd|4565
+A|Have you ever seen that yet?|qy|4565
+B|Sleep book,|^h|4565
+B|no.|nn|4565
+A|Yeah,|b|4565
+A|it's called a sleep book|sd|4565
+A|and, uh, you ought to get it.|ad|4565
+A|I tell you I read that book to my kids so many times I almost have the thing memorized.|sd|4565
+A|Uh,|b|4565
+B|We've got quite a few of DOCTOR SEUSS' books.|sd|4565
+A|Yeah.|b|4565
+A|Well, I think, I think his sleep book is my favorite.|sd|4565
+B|Oh, really?|bh|4565
+A|Uh-huh.|ny|4565
+B|Well, yeah|b|4565
+B|I like to, I like to do it|sd|4565
+B|and they enjoy reading.|sd|4565
+B|I've, actually I never read a lot growing up|sd|4565
+B|and I never read until a few years ago|sd|4565
+B|I just started picking up books|sd|4565
+B|and so I've found that, you know, it's really important to me to get to read.|sd|4565
+B|To, I like to get away in a book, you know?|sd|4565
+A|Uh-huh,|b|4565
+A|uh-huh.|b|4565
+B|And so I've put a lot more emphasis on that, on my kids  to try and,|sd|4565
+A|Uh-huh.|b|4565
+A|So how  much time do you think you spend with your kids on the average per each day?|qw|4565
+B|Oh, I probably spend an hour or two.|sd|4565
+A|Oh that's great.|ba|4565
+B|My wife works at night,|sd|4565
+B|so she does, uh, Tupperware,|sd|4565
+B|so she's gone a lot at nights|sd|4565
+B|and so  I spend a lot of time with them|sd|4565
+A|Oh, I see.|b|4565
+A|how old are your kids again?|qw|4565
+B|They're two and one.|sd|4565
+A|Two and one.|b^m|4565
+B|Uh-huh.|b|4565
+A|Yeah,|b|4565
+A|so you have your hands full with them,|sv|4565
+A|that's for sure|sv|4565
+B|Yeah|aa|4565

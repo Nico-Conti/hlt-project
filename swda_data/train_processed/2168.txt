@@ -1,0 +1,259 @@
+A|I've kind of gotten out of the habit of doing this.|sd|2168
+A|It's been down this weekend.|sd|2168
+B|V in Well, I haven't tried,|sd|2168
+B|but this is,|%|2168
+B|I haven't called in a couple of days,|sd|2168
+B|but education in public schools.|sd|2168
+B|I have a son who's graduating, uh, in May,|sd|2168
+B|and there's some interesting problems of, of, of how you, how do you challenge the kids today.|qh|2168
+B|And I have some real hang-ups.|sd|2168
+B|I think that, uh, if your, if your kid's not ambitious, he can sure get lost.|sv|2168
+A|In the school systems?|qy|2168
+B|Yes.|ny|2168
+A|That's right.|aa|2168
+A|What school system does he go to?|qw|2168
+B|In North Garland,|sd|2168
+B|he goes|%|2168
+A|Okay.|bk|2168
+B|What school system are you familiar with?|qw|2168
+A|Okay,|^h|2168
+A|my children go to Garland,|sd|2168
+A|and I teach in Dallas.|sd|2168
+B|oh,|%|2168
+B|okay,|bk|2168
+B|well, I have a daughter that's in the, in,  in the I B program at Garland.|sd|2168
+B|In the,|%|2168
+B|are you familiar with the International Baccalaureate program.|qy|2168
+A|Well, yeah,|ny|2168
+A|yeah,|ny|2168
+A|yeah.|ny|2168
+B|Uh, do your kids go to Garland High, you said?|qy|2168
+A|No,|nn|2168
+A|no,|nn|2168
+A|they're still in elementary.|sd|2168
+B|Oh, okay.|bk|2168
+A|So, yeah.|b|2168
+B|Well, there's a,|%|2168
+B|it's, um,|%|2168
+B|she went from Austin Academy when it opened up, over to, uh, to North Garland for ninth grade.|sd|2168
+A|Uh-huh.|b|2168
+B|But at North Garland, the, the difficulty I see with the education system is that, uh, is that, you can, you can, you can get some masses,|sv|2168
+B|but unless, if the kid's really dedicated, it seems like they do all right.|sv|2168
+B|But if, if, if your child is just pressing along, uh,|sv|2168
+B|I, I'm firmly convinced that teachers aren't being paid enough.|sv|2168
+B|Would you, argue with that?|qy|2168
+A|I'm definitely not,|nn|2168
+A|are you kidding?|qh|2168
+A|No.|nn|2168
+B|Well you know the, the, the thing that I don't see, and maybe you would take issue with it is that if, if we went to, if there was an opportunity for teachers to teach year around.|sv|2168
+A|No,|aa|2168
+A|I want that|sd|2168
+B|Well would,|%|2168
+A|I think it would be better for the teachers and for the children, because we would do away with so much of the burn-out that we have.|sv|2168
+A|I know when you get the kids that have gone the summer being out of school, then it's like they've lost so much ground, we spend at least the first six weeks just backing up, reteaching what they had the year before. You know.|sv|2168
+B|Well how do we how do we get that?|qw|2168
+A|Well, we're starting pilot schools.|sv|2168
+A|It's|%|2168
+A|Dallas is doing it I know.|sd|2168
+A|I think Plano, don't they have some,|qy^d|2168
+A|and Richardson's supposed to start some pilot schools, going to school year around.|sd|2168
+B|Yeah.|b|2168
+A|And then we, you know, we investigated this by flying some people out from Dallas to observe some of the schools in California that already had it.|sd|2168
+B|Does it work well out there?|qy|2168
+A|Yeah,|ny|2168
+A|it seems to,|sv|2168
+A|and one thing, it'll save us money, because we've got the buildings sitting there,|sv|2168
+A|right,|b|2168
+A|and we might as well use them.|sv|2168
+B|Well, what about the, what about the issue of air conditioning.|qh|2168
+B|Isn't that a an area of concern in the cost of air conditioning?|qy|2168
+A|Well, air conditioning, what's, and, and heating.|^h|2168
+B|Oh, yeah.|b|2168
+A|Isn't air conditioning less than heating, because we have to, just up|qy|2168
+A|like, if we get in the thirties, we raise it up to the seventies,|sd|2168
+A|right,|b|2168
+A|that's forty degrees.|sd|2168
+B|Yeah.|b|2168
+A|Isn't it less?|qy|2168
+B|Yeah,|ny|2168
+B|it's, it's less degree days,|sd|2168
+B|you're right.|sd|2168
+B|But I think, I think,|%|2168
+A|And it's not like the kids are going to go a lot longer,|sv|2168
+A|really, if you go year around there's not thirty days difference.|sv|2168
+B|Yeah.|b|2168
+B|well how do they do it?|qw|2168
+B|Do they put, uh, long,|qy|2168
+B|do they put two or three week breaks between?|qy|2168
+A|There's different ways to do it.|^h|2168
+A|Like I, I think going two six weeks and then having two, two weeks off, each after a two six weeks period is one way.|sd|2168
+B|Is that,|qy|2168
+B|from, from what you've seen, is that the desirable way to do it?|qy|2168
+A|See, I don't know, because I've never seen it in action.|no|2168
+B|Oh, you said you had some people from California.|sd|2168
+B|Oh I thought you,|sd|2168
+A|No,|nn|2168
+A|the school system in Dallas has sent people there to do that.|sd|2168
+B|Oh, okay.|bk|2168
+A|No.|nn|2168
+B|But you didn't go.|qy^d|2168
+A|But I think I'd like it,|ng|2168
+A|and I know a lot of teachers that would like to try it.|sd|2168
+B|Well, the, the other issue has to, that I hear that the local commentator I listen to some the idea that the numbers of administration and the fact that the principal,|sd|2168
+B|do you see that the principals aren't really in charge?|qy|2168
+A|The principal's, their hands are tied, by all the administrators,|sv|2168
+A|and I heard that in Dallas, it's one out of every three is actually in the classroom of the educators that were hired|sd|2168
+B|Well I had heard that one of the comments when they, when they brought it,|sd|2168
+A|It's just,|%|2168
+A|you don't even know who all your bosses are.|sv|2168
+A|It's ridiculous.|sd|2168
+B|Um. Then why the,|%|2168
+B|the one they brought in, the new superintendent for Dallas schools, the um,|sd|2168
+B|can't think of his name,|sd|2168
+B|but the idea yeah, that he had suggested that, that maybe they could reduce the number of administrators and, and some of the people who were administrators saying, that, that, uh, that's not what he was hired for.|sd|2168
+A|Marvin Edwards.|^2|2168
+B|But they resented the fact that he would try to save some costs there.|sv|2168
+A|Well, you know he did, supposedly cut administrators,|sd|2168
+A|but what they've done is create other offices for those same people, and just renamed their jobs and, you know, opened up other other things.|sv|2168
+B|Um.|b|2168
+A|One thing we've got going is called reading and initiative,|sd|2168
+A|and they've hired all these administrators in on that, you know.|sd|2168
+B|Well, you know, the other thing that bothers me is the amount of money that it that it took to contest the, the football, um, issue.|sv|2168
+A|Pass or no fail, what is it?|qw|2168
+B|Yeah|b|2168
+B|but the|%|2168
+A|No play.|sd|2168
+B|I can't think of the name of the school, that, that, uh,|sd|2168
+A|No play.|sd|2168
+B|but in any event they, they, they kept arguing.|sd|2168
+A|Carter High School.|^2|2168
+B|Yeah.|aa|2168
+A|Yeah.|b|2168
+B|And they went to court,|sd|2168
+B|I mean, you know,|%|2168
+B|guess I, I'm sympathetic with the kids,|sd|2168
+B|but, but how much money did that cost Dallas to, to, to fight that in court.|qh|2168
+A|And all the things that Dallas fights, costs thousands, probably millions of dollars, I bet you.|sv|2168
+B|But just think of all the, the, all the lawyers you've kept employed,|sd|2168
+B|see.|%|2168
+A|Yeah,|b|2168
+A|I know.|ba|2168
+A|And psychologists and stuff.|sd|2168
+B|That's right,|aa|2168
+A|That's right.|aa|2168
+B|and, and all these other people are out running around.|sd|2168
+B|I guess that's the only problem with jobs being relatively scarce,|sd|2168
+B|so. But you need to keep all these people employed,|sv|2168
+B|right?|^g|2168
+A|No,|nn|2168
+A|we do not.|sv|2168
+B|And, and|%|2168
+A|No|nn|2168
+B|You mean, you mean, we need a little more of our tax money, like maybe, uh,|sv|2168
+A|We need more of the tax money to actually get down to the students, because it's pretty frustrating when you see you don't even have paper,|sv|2168
+A|and you're trying to ration it, you know,|sv|2168
+A|now that's sad, when there's supposed to be what, you know, one thousand, what, sixty-five dollars, something like that, spent on each pupil.|sv|2168
+B|Yeah.|b|2168
+A|Um, it's, it's wrong.|sv|2168
+A|Anyway, I was thinking about|sd|2168
+A|one thing that's wrong with schools is that we're not teaching to the children's modalities,|sv|2168
+A|and I think in nineteen, uh, ninety-three we're supposed to begin that.|sv|2168
+A|If, if a child is a visual learner, we're supposed to present him with all these visual things,|sd|2168
+A|and if he has to learn just by kinesthetic, we're supposed to teach whatever way that that child has to have it, learns the best way.|sd|2168
+A|And that's going to be quite a problem.|sv|2168
+B|Oh that's,|%|2168
+A|But if we could do something like that I'm sure it would certainly help.|sv|2168
+B|Um, that's interesting,|ba|2168
+B|and how many administrators is that going to take?|qw|2168
+A|I don't know,|h|2168
+A|no telling,|sd|2168
+A|I don't know.|h|2168
+A|And, you know, at nongraded schools.|%|2168
+A|They've had one in Gladewater for years and years and years.|sd|2168
+A|If we could just let these kids go at their own rate.|sv|2168
+A|I have children even,|sd|2168
+A|I, I teach Chapter One,|sd|2168
+A|and it's for kids that have fallen behind in their reading according to, like I T B S scores.|sd|2168
+B|Yeah.|b|2168
+A|And some of the kids, really they shouldn't be in there,|sd|2168
+A|and they're, you know, they're not being challenged,|sd|2168
+A|and they're not being challenged in their home,|sd|2168
+A|and we always have to teach toward the middle of the road.|sd|2168
+B|Yeah,|b|2168
+B|well, that's, that's part of where my son is, um, would like to go to Rice,|sd|2168
+B|but I don't think he's,|%|2168
+B|well, the, the difficulty is, is, is the people that get in are, are, are overachievers.|sv|2168
+A|Uh-huh.|b|2168
+B|And he's not an overachiever.|sd|2168
+B|But the same time, everybody can't go,|sv|2168
+B|but it,|%|2168
+B|the question of, of, you know, of how far should you take a kid in the motivation,|qh|2168
+B|I'm not sure,|h|2168
+B|I think maybe there's too much responsibility put on the teachers to motivate these kids.|sv|2168
+B|I had a, a friend that was administrator in Richardson said if the parents read books, then the kids probably would read books.|sd|2168
+A|Right.|b|2168
+B|But that a lot of the schools I would think the kids you're talking to, question of, of how much reading do those kids' parents do.|sv|2168
+A|My children's parents aren't even there at night most of the time to do anything with them.|sd|2168
+B|Well.|%|2168
+B|Well, but that's the point, as I would say, uh|sv|2168
+A|Yeah.|b|2168
+B|and that is, that's what makes,|sv|2168
+B|there's a lot of problems.|sd|2168
+B|But anyway, um, I'm trying to think how much longer.|sd|2168
+B|I had a conversation, week or so ago|sd|2168
+B|and we got carried away,|sd|2168
+B|and they cut,|%|2168
+B|it beeps in at ten minutes.|sd|2168
+A|I know it,|sd|2168
+A|I know it|sd|2168
+A|I went for a couple|sd|2168
+A|and I didn't know that there was even a cut off or anything.|sd|2168
+A|Oh another things that's wrong with schools,|sv|2168
+A|this is big,|sv|2168
+A|there's too much emphasis on test.|sv|2168
+A|We're spending the first hour of every day teaching for the test at my school,|sd|2168
+A|and we're going to do that until at least the first part of May.|sd|2168
+B|Huh.|b|2168
+B|Well see, that's in the Garland schools,|sd|2168
+B|the numbers,|%|2168
+B|they, I don't think they have to do that because most everybody passes.|sd|2168
+A|But see, they're not in Dallas.|sd|2168
+B|Well, opportunity,|sv|2168
+B|right?|^g|2168
+B|If you get graded on percent improvement.|sd|2168
+B|But see, that.|%|2168
+A|Yeah,|ny|2168
+A|we're not working with the same type of students that most of these kids in Garland are.|sd|2168
+B|Yeah.|b|2168
+B|And unfortunately, the, uh, that's, that's tough,|ba|2168
+B|that's a real challenge though.|sv|2168
+B|But, uh.|%|2168
+A|But see, what we're doing is we're turning these kids off to school even more than they are.|sv|2168
+B|Yeah.|b|2168
+A|And we're not teaching toward the test,|sd|2168
+A|we're teaching, you know,|sd|2168
+A|I always objected, you know,|sd|2168
+A|it's like there's not a whole lot of, you know, fun time like we used to have in school.|sv|2168
+A|Like our principal says, I want every child to be on task all the time.|sd|2168
+B|Yeah.|b|2168
+A|And you can't do that as adults.|sv|2168
+A|But we're expecting kids to.|sv|2168
+A|And like after, after recess, play|%|2168
+B|Yeah.|b|2168
+A|we don't get that.|sd|2168
+A|Okay.|b|2168
+B|Yeah.|b|2168
+A|If they finish before their thirty minutes is up, then they can go out and play for like maybe five or ten minutes, probably be the most.|sd|2168
+B|Yeah.|b|2168
+A|But we always got that,|sd|2168
+A|didn't you?|^g|2168
+B|Well, yeah,|ny|2168
+B|you know, our son had that,|sd|2168
+B|he was, had an attention deficit disorder,|sd|2168
+B|and they were keeping him from recess|sd|2168
+B|and in reality that's, uh, that's one of those really tough situations.|sd|2168
+B|I think the kids need some time to play.|sv|2168
+A|Yeah.|b|2168
+B|But, people like, if more people like you though that understand the problems get in and and change some education|sv|2168
+B|so. Uh, I got some background noise there|sd|2168
+B|but I guess ...|%|2168

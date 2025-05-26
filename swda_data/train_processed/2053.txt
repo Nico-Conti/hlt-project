@@ -1,0 +1,176 @@
+A|Um, what kind of hobbies do you have?|qw|2053
+B|Um, I do a lot of cross-stitching and painting, when I do have spare time.|sd|2053
+A|Really,|b|2053
+A|I like cross-stitch too.|sd|2053
+B|Oh, I love it.|sd|2053
+A|I just have a hard time finding any spare time lately.|sd|2053
+B|That's my case also.|aa|2053
+B|I've got a new born|sd|2053
+B|and there's just no time.|sd|2053
+A|Uh-huh.|b|2053
+B|Have you been cross-stitching long?|qy|2053
+A|Oh, several years.|sd|2053
+A|My husband is even interested in it now.|sd|2053
+A|He likes to help me design, um, you know, projects that are, a little more customized.|sd|2053
+B|Oh, really.|b|2053
+B|Mine, sort of, he looks at the pattern|sd|2053
+B|and he says how do you get that from there to the material|sd|2053
+A|Not that hard.|sv|2053
+B|Oh, it's not.|aa|2053
+A|I really enjoy it.|sd|2053
+A|Uh-huh.|b|2053
+B|I do a lot of my own patterns also.|sd|2053
+A|Yeah.|b|2053
+B|In fact, I did one, BILL THE CAT, you know, from Glenn County that, uh, was a real good one to do.|sd|2053
+A|Oh, yeah.|b|2053
+B|It was tough,|sd|2053
+B|but, uh, yeah.|%|2053
+B|Do you have any others,|qy|2053
+B|or is this mainly cross-stitching?|qy|2053
+A|Um, I do mostly that, um,|sd|2053
+A|not very artistic really for like painting and stuff.|sd|2053
+B|Oh, uh-huh.|b|2053
+B|Um, Yeah.|%|2053
+A|But, now I don't know.|sd|2053
+B|I'm still trying to get all the D M C colors|sd|2053
+A|Oh, really|b|2053
+A|Yeah,|b|2053
+A|I've got the kits to put them all in.|sd|2053
+A|I don't have them all yet certainly.|sd|2053
+B|Yeah,|aa|2053
+B|right.|aa|2053
+B|Yeah.|aa|2053
+B|Yeah.|b|2053
+B|I got to counting the other day|sd|2053
+B|and, uh, I think I have, what was it two hundred,|sd|2053
+B|and I got to thinking the money that I've got invested in this is, uh,|sd|2053
+B|it, yeah, it can add up quick.|sd|2053
+A|Oh, yeah.|aa|2053
+A|I just, I just keep an inventory of what I currently have,|sd|2053
+A|and then when I start a new project, I go through and see if I, if I, you know,|sd|2053
+A|just buy the colors that I need of what I'm low on.|sd|2053
+B|Uh-huh.|b|2053
+B|Right.|b|2053
+B|I see.|ba|2053
+B|Well, now can I improvise with adding and using another color instead, you know, what comes close. Because a lot of them are similar.|sd|2053
+A|Uh-huh.|b|2053
+A|Yeah.|aa|2053
+A|A lot of times you can do that.|sv|2053
+A|I think, I|%|2053
+A|the pinks, there's like forty-two different shades of pink.|sd|2053
+B|Good grief|ba|2053
+B|Yeah,|b|2053
+B|there's lots of pinks and greens.|sd|2053
+A|Pinks and greens.|b^m|2053
+A|Yeah.|b|2053
+B|There's lots of shades of greens.|sd|2053
+B|But the colors,|%|2053
+B|I just love all the different colors.|sd|2053
+A|Yeah.|b|2053
+B|They had quite a few new ones come out last year, that they added to.|sd|2053
+B|But, you don't have much spare time either?|qy|2053
+A|Well, not lately|ng|2053
+A|I just started a new job and trying to get acclimated there.|sd|2053
+B|Oh, yes.|bk|2053
+B|And that does take some time.|sv|2053
+B|And if we're trying to get acclimated with the, uh, with having a baby,|sd|2053
+B|and .|%|2053
+A|Yeah.|b|2053
+A|How old?|qw|2053
+B|He's seven months old.|sd|2053
+A|Oh, yeah.|b|2053
+B|And just into everything,|sd|2053
+B|so there's not a spare moment.|sd|2053
+B|Oh, but I wouldn't trade it for the world.|sd|2053
+B|I've been trying to do some bibs for him. And, uh, work on his Christmas stocking.|sd|2053
+A|Oh, yeah.|b|2053
+A|Yeah.|b|2053
+B|We missed it last year,|sd|2053
+B|so hopefully this year he'll have one.|sd|2053
+A|Yeah.|b|2053
+A|Well, last year he was a little bit young for having one.|sv|2053
+B|Right.|aa|2053
+A|He wouldn't have enjoyed it anyway|sv|2053
+A|You would have|sv|2053
+A|but,|%|2053
+B|Right.|aa|2053
+B|If it tasted good, yeah.|sd|2053
+B|All he liked was the lights this year,|sd|2053
+B|so.|%|2053
+A|Oh, yeah.|b|2053
+B|Oh, well, that's neat that you like cross-stitching also.|ba|2053
+A|Yeah,|aa|2053
+A|that's, that's kind of strange that we got the same call.|sv|2053
+B|Yeah.|b|2053
+A|It's a call.|sv|2053
+B|Oh, I'm sorry.|fa|2053
+B|Go ahead.|ad|2053
+A|No,|ar|2053
+A|that's okay.|bd|2053
+B|Okay uh,|aa|2053
+B|but, yeah,|%|2053
+B|I've been doing it for probably ten years or so.|sd|2053
+A|Oh, wow.|ba|2053
+A|No,|%|2053
+A|I just started about, well, five years ago, I think.|sd|2053
+B|But it is peaceful,|sv|2053
+B|I mean it is relaxing to do, once you find the time to do it.|sv|2053
+A|Uh-huh|b|2053
+A|There's also a couple of large projects, baby afghans,|sd|2053
+A|and I got one done|sd|2053
+A|and I think the other one is going. The child is going to be in high school before I get finished.|sd|2053
+B|On that, uh|%|2053
+A|Bear thing .|%|2053
+B|is it one of those afghans that I've seen in the packages with the, with the large squares?|qy|2053
+A|Well, yeah|ny|2053
+A|I just, I bought the cloth and the pattern for it.|sd|2053
+A|I didn't, um, I didn't buy the, uh, I didn't buy a kit.|sd|2053
+B|Oh, uh-huh.|b|2053
+B|Well I've seen the afghans in the stores that are designed for cross-stitching.|sd|2053
+A|Uh-huh.|b|2053
+A|It's that cloth.|sd|2053
+B|Oh, okay.|bk|2053
+A|It's cloth I think.|sd|2053
+B|Uh-huh.|b|2053
+A|And it has the borders and everything already.|sd|2053
+B|Yeah.|b|2053
+B|Those are pretty.|ba|2053
+A|Number one turned out just great,|sd|2053
+A|and the lady said she couldn't believe that they know that I had done it in the colors, that they had decorated the nursery|sd|2053
+A|and I didn't even know it.|sd|2053
+B|Oh, that's a .|ba|2053
+A|I gave it to her|sd|2053
+A|and she said how did you know those are the colors we used.|sd|2053
+A|I said didn't|sd|2053
+B|That was a good .|ba|2053
+A|It worked out that way.|sd|2053
+B|That's great.|ba|2053
+B|Uh, that, uh,|%|2053
+B|now I've got the material to do an afghan that I just never did get around to finishing it.|sd|2053
+A|Uh-huh.|b|2053
+B|I like those.|sd|2053
+B|Those are pretty.|sv|2053
+A|Yeah.|b|2053
+A|Lilly, Lilly , she said, she said it's for your daughter to use.|sd|2053
+A|Oh, no.|ar|2053
+A|She said, I know she doesn't get to touch it.|sd|2053
+A|She hung it on the wall.|sd|2053
+B|Yes,|b|2053
+B|my, uh, grandmother, um, made us a couple of quilts for the baby,|sd|2053
+B|and I was like, oh, I don't want to mess those up.|sd|2053
+A|Yeah|b|2053
+B|Uh, they're just too nice.|sv|2053
+B|I mean you don't get many hand made quilts anymore.|sv|2053
+A|Yeah.|b|2053
+B|Oh, yeah.|b|2053
+A|True.|aa|2053
+B|Well, I've enjoyed this.|fc|2053
+A|Okay.|fc|2053
+B|But, uh, well keep up the good, um,|fc|2053
+B|keep up the cross-stitching.|fc|2053
+A|You too.|fc|2053
+B|All right,|fc|2053
+B|thanks.|fc|2053
+A|Uh-huh,|fc|2053
+A|bye bye.|fc|2053
+B|Bye bye.|fc|2053

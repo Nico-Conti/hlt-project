@@ -1,0 +1,145 @@
+A|Okay, uh,|fo_o_fw_"_by_bc|3746
+A|what kind of hobbies do you have Lori?|qo|3746
+B|Uh, I guess, I, uh, I like to play golf.|sd|3746
+A|Uh-huh.|b|3746
+B|And, uh, I also like to plant flowers and do do some gardening and do arts and crafts.|sd|3746
+A|Uh-huh.|b|3746
+A|Where do you play golf in this area?|qw|3746
+B|Well, we live, uh, pretty close, to the Mesquite Golf Course.|sd|3746
+A|Uh-huh.|b|3746
+B|So, we will play either out there or at Firewheel.|sd|3746
+B|That is usually where we play,|sd|3746
+B|but I have played you know different courses in in the Dallas area.|sd|3746
+A|Do you, uh, do you ride or do you pull a cart when you play golf?|qy|3746
+B|Uh, both|sd|3746
+A|Oh.|b|3746
+B|Not at the same time.|sd|3746
+A|I was going to say, that could be difficult|sd|3746
+B|No, sometimes we ride|sd|3746
+B|and sometimes, uh, we, pull,|sd|3746
+B|we like to, to, uh, a lot of the times just walk, uh, for the exercise.|sd|3746
+B|But|%|3746
+A|Uh-huh.|b|3746
+B|I find that when I ride in a cart, I play better|sd|3746
+B|and I think it is cause I don't get as tired|sv|3746
+A|I think that might be true.|sv|3746
+B|Yeah.|b|3746
+A|I don't like pulling a cart on Firewell golf course because they want you to pull the cart on the path.|sd|3746
+B|I know,|aa|3746
+B|and that makes me so mad|sd|3746
+B|You know, it is like it is not going to do that much damage to the course, but apparently they think differently|sv|3746
+A|That is the reason, I don't play over there.|sd|3746
+B|Yeah.|b|3746
+A|I like the course, but I don't play over there because, you, they don't, uh, you know don't allow you to pull a cart.|sd|3746
+B|Right.|b|3746
+A|And, I don't think a cart damages the turf.|sv|3746
+B|Right.|b|3746
+B|Well, the reason why we play over there is because its where, since we are a Garland resident, they gave us a special deal where you can get, uh, ten rounds of golf for a hundred dollars,|sd|3746
+B|yeah,|%|3746
+B|a hundred dollars|sd|3746
+B|cause it is half price what the normal green fees are.|sd|3746
+A|Uh-huh.|b|3746
+B|So that is why we you know play over there|sd|3746
+B|cause we have got our card|sd|3746
+A|Well, I guess I could use a card too.|sv|3746
+A|I live, uh, very near, uh, very close to the Firewheel Golf Course.|sd|3746
+B|Oh, do you?|bh|3746
+B|So you live in Garland then.|qy^d|3746
+A|Yes,|ny|3746
+A|I live in northwest Garland.|sd|3746
+A|Right up there near the golf course.|sd|3746
+B|Okay,|bk|3746
+B|well we are in south Garland,|sd|3746
+B|but yeah, next time you go, uh, you know, check into it,|ad|3746
+B|they have, uh,|%|3746
+B|it is just like, uh, a bus card|sd|3746
+B|and they just punch it. You know,|sd|3746
+B|it has got one through ten on it|sd|3746
+B|and every time you go they just punch it for you.|sd|3746
+A|Well, in the last two years, I have not played very much golf because I am involved in Boy Scouts.|sd|3746
+B|Oh, okay.|bk|3746
+A|So, I have, uh, I have, uh, I have children  Boy Scout age.|sd|3746
+B|You must have a, a son.|qy^d|3746
+A|I have two boys that are boy scout age,|na|3746
+A|and, uh, so I am very active in Boy Scouts|sd|3746
+B|Oh, okay.|bk|3746
+A|so I would have to say that camping and hiking and canoeing and Boy Scouts is my hobby.|sd|3746
+B|Yeah.|b|3746
+A|But I|%|3746
+B|Oh well that sounds like fun too|ba|3746
+A|but my golf clubs will probably rust before I get to use them again|sd|3746
+A|because my boys are still right at the beginning age|sd|3746
+A|and it is probably going to be six to eight years before they go to college.|sd|3746
+B|Uh-huh.|b|3746
+B|Well, you need to, uh, teach them how to play and take them out on the course with you|sv|3746
+A|That's right.|aa|3746
+A|Lessons are expensive though.|sv|3746
+B|Oh, yeah.|aa|3746
+B|Well you can teach them|sv|3746
+A|Well, they would probably never make it then|ar|3746
+A|because I don't think, uh,|sd|3746
+A|I only took lessons for golf when I was in college.|sd|3746
+B|Uh-huh.|b|3746
+A|Uh, as a course for P E you know so I could graduate.|sd|3746
+B|Right,|b|3746
+B|Right.|b|3746
+B|Uh-huh.|b|3746
+A|But, uh, that is the only time I think I have ever really taken golf lessons|sd|3746
+A|and that was kind of a group scenario and not individual.|sd|3746
+B|Uh-huh.|b|3746
+B|Right.|b|3746
+B|Right.|b|3746
+A|I took one lesson one other time.|sd|3746
+A|Besides that, uh, I just, uh, try to make the club hit the ball.|sd|3746
+B|Right.|aa|3746
+B|Yeah,|aa|3746
+B|I know what you mean|sd|3746
+A|I don't want to play strike out, you know.|sd|3746
+B|Uh-huh.|b|3746
+A|But I have fun doing it,|sd|3746
+A|some, uh, you know, I have some good shots and some bad shots.|sd|3746
+B|Oh yeah.|b|3746
+B|It, it is just nice to get outdoors and do something.|sv|3746
+A|So you said you work, uh, in the gardens too.|sd|3746
+A|Do you have, uh, a special flowers?|qy|3746
+B|Well flower gardens.|no|3746
+B|I like to have,|sd|3746
+B|matter of fact this past weekend I just got finished planting a bunch of tulips and daffodil bulbs.|sd|3746
+B|So, those ought to be coming up around spring time|sd|3746
+A|My wife had, uh, just put in a bunch of, I want to say, they are pansies.|sd|3746
+B|Uh-huh.|b|3746
+A|She put them in like two months ago cause they are winter plants.|sd|3746
+B|Right.|b|3746
+A|And they have been,|sd|3746
+A|we thought even with all the cold weather weather we have had they have been blooming just fine.|sv|3746
+B|Oh, they do great.|sd|3746
+B|I put mine in probably in November.|sd|3746
+A|That is when she did, I think.|sd|3746
+B|Yeah,|b|3746
+B|I think it was November|sd|3746
+B|and I don't do anything to mine, water them or anything|sd|3746
+B|And they just,|sd|3746
+B|they do really good|sd|3746
+B|and I even had, uh, I guess it was last year or the year before, I had some out|sd|3746
+B|and it froze|sd|3746
+B|and the pansies looked terrible, but they came back later.|sd|3746
+B|I didn't do anything to them|sd|3746
+B|so they are, uh, they are good to plant in the winter time.|sd|3746
+B|They last for a long time then.|sd|3746
+B|So, if you start putting them, you know, you can put them out in the spring too,|sd|3746
+B|but once it starts getting real hot then it just kills them cause they can't stand the hot weather.|sd|3746
+A|Uh-huh.|b|3746
+A|Do they survive longer if you plant them in the winter time?|qy|3746
+A|Will they make it through the summer sun?|qy|3746
+B|No,|nn|3746
+B|they won't make it through the summer because it gets too hot,|sd|3746
+B|but they make it through probably winter and spring.|sd|3746
+B|So,|%|3746
+A|Well.|%|3746
+B|Yeah,|%|3746
+B|I have got some of those too,|sd|3746
+B|cause I love flowers|sd|3746
+A|Well, that is good.|ba|3746
+B|Yeah.|b|3746
+B|And I do, I try to do some arts and crafts|sd|3746
+B|and I love to go,|sd|3746

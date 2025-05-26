@@ -1,0 +1,111 @@
+A|Uh, I get most of my news uh, from newspapers really.|sd|4082|0
+A|I read the daily newspaper, uh, the HOUSTON CHRONICLE|sd|4082|0
+A|and sometimes I'll read like the, uh, WALL STREET or the NEW YORK TIMES.|sd|4082|0
+A|I don't subscribe to either,|sd|4082|0
+A|but sometimes I get a hold of copies of it.|sd|4082|0
+A|Uh, how about you?|qo|4082|0
+A|Do you, uh, mostly get things from T V or|qy|4082|0
+B|Yes.|ny|4082|1
+B|I actually get most of my news coverage off uh, computer networks.|sd|4082|1
+B|However, I do also watch television news, uh, usually in the morning once a day|sd|4082|1
+B|and I read the front page of the WALL STREET JOURNAL most every day.|sd|4082|1
+A|Oh.|b|4082|0
+A|Oh that's interesting.|sv|4082|0
+A|You said computer networks.|sd|4082|0
+A|Uh, what, uh, what sort.|qw|4082|0
+A|I am fairly knowledgeable of|sd|4082|0
+B|Uh well, well DOW JONES for example have the, cause the  uh, news wire|sd|4082|1
+A|Uh, okay.|bk|4082|0
+A|That's interesting.|sv|4082|0
+B|and it's picked up and actually available, uh, at my office,|sd|4082|1
+B|so, it's, no fee, or subscription either to read at my leisure|sd|4082|1
+B|and it's sort of by category.|sd|4082|1
+B|For example so I can read a certain business or topics.|sd|4082|1
+A|Oh.|b|4082|0
+A|is it, is it the A P news wire|qy|4082|0
+A|or is it something that is, uh, a little bit different from that?|qrr|4082|0
+B|Well, uh, it's similar to that,|sd|4082|1
+B|but it's DOW JONES, which is, uh, the WALL STREET JOURNALS news wire.|sd|4082|1
+A|Uh, okay.|bk|4082|0
+A|So, that's that's interesting.|sv|4082|0
+A|Okay.|bk|4082|0
+A|Yeah,|%|4082|0
+A|I've had, I had access in the past to, uh, uh, the A P news wire|sd|4082|0
+A|and I thought that was that was pretty a pretty good way to get news.|sv|4082|0
+A|Uh, I've never used the DOW JONES news wire|sd|4082|0
+A|but, uh,|%|4082|0
+A|yeah|%|4082|0
+A|it, uh,|%|4082|0
+A|do you get any, uh, do you read any news magazines or anything like that for sort of like a broader, like more long term analytical sort of approach?|qy|4082|0
+B|Uh, well actually not.|ng|4082|1
+B|Uh, I do, uh, follow, uh, uh, uh,|sd|4082|1
+B|I don't know how to how to describe it|sd|4082|1
+B|so I'll say a religious newspaper which, which talks about issues that are relevant to me in a more broad sense.|sd|4082|1
+B|It's a weekly but, uh, but not, uh, not like BUSINESS WEEK or NEWS WEEK or one of those kinds of things.|sd|4082|1
+A|Yeah|b|4082|0
+B|I'd like to say that however, uh, that I'm overwhelmingly disappointed with the media in general except for the raw news wires|sv|4082|1
+A|In what way?|qw|4082|0
+A|In like, in sort of like, uh, uh, quality or sort of an orientation in terms of like, view point or the way the news is presented or whatever?|qy|4082|0
+B|Uh, I think that it, I think that it has to do with, uh,|sv|4082|1
+B|I personally think, uh,|h|4082|1
+B|I, I have a problem with their viewpoint|sv|4082|1
+B|and I personally think that, uh,  that there's a strong there's a strong bias in the media.|sv|4082|1
+A|Yeah.|b|4082|0
+A|Well you won't offend me.|sv|4082|0
+A|So go ahead and say|ad|4082|0
+A|Yeah.|b|4082|0
+A|Like a liberal type of bias.|bf|4082|0
+B|Yeah.|aa|4082|1
+B|Absolutely.|aa|4082|1
+B|Uh, after all, who, who writes.|qh|4082|1
+B|People who are journalist who are trained to write|sd|4082|1
+B|and they're, that's a liberal, uh, a liberal field at least from academia|sv|4082|1
+A|Yeah.|b|4082|0
+B|and, uh, the other thing that I always notice is that whenever they write about something that I'm an expert in, I find their descriptions to be wrong|sd|4082|1
+A|Yeah.|b|4082|0
+A|Yeah.|b|4082|0
+B|and it,|%|4082|1
+A|They, they generally make mistake on anything technical at least|sv|4082|0
+B|That's right.|aa|4082|1
+B|Well, even if it's not technical. If it's, uh, some social thing or whatever. It doesn't matter.|aap_am|4082|1
+B|If I am an expert in it, they usually make mistakes which makes me believe think I'm not expert in it.|sv|4082|1
+B|They're telling me lies.|sv|4082|1
+A|Yeah.|b|4082|0
+A|Yeah.|b|4082|0
+A|Do you, by mistakes, do you mean just like honest mistakes|qy|4082|0
+A|or do you think they are deliberate sorts of things?|qrr|4082|0
+B|Uh, I think both.|sv|4082|1
+B|Uh, by deliberate I, uh, I mean mistake, mistakes of omission or, uh, or, uh, biased toward a particular view point a particular liberal view point that they have.|sd|4082|1
+A|Yeah.|b|4082|0
+A|Yeah.|b|4082|0
+A|Yeah.|b|4082|0
+A|Yeah.|b|4082|0
+B|So, uh, uh, to give you an example, uh, we will go out of the printing media.|sd|4082|1
+B|I know of cases where, uh, we have one television media where they will show clippings from one event and describe another event but, with the the attempt to give you the impression that what they're talking about is the same thing they are showing you. Which is sort of like a deliberate bias. Which is which is rather disturbing.|sv|4082|1
+A|Huh.|%|4082|0
+A|Huh. That's disturbing.|ba|4082|0
+B|I mean he does that.|sd|4082|1
+A|I haven't really noticed them doing that,|sd|4082|0
+A|but whatever,|h|4082|0
+A|again I don't watch T V news that much now.|sd|4082|0
+A|If I had access to C N N, I would watch T V news more.|sd|4082|0
+A|Uh, I don't you know, but I don't usually.|sd|4082|0
+B|Yeah,|b|4082|1
+B|I don't have access either. Although, I did at one time|sd|4082|1
+B|and it was,|%|4082|1
+B|I did during the Gulf War|sd|4082|1
+B|and it was addictive.|sv|4082|1
+A|Yeah.|b|4082|0
+A|Did you, did you think that C N N, well, the Gulf War coverage would be kind of, uh, an abnormality?|qy|4082|0
+A|I just I guess.|h|4082|0
+A|I would be curious to know what you thought as to how like say C N N T V news compared to the three networks.|qw^d|4082|0
+A|Uh, you know whether you thought it was more of a biased or whatever|qy^d|4082|0
+A|but I, I guess you wouldn't.|sv|4082|0
+A|You probably,|sv|4082|0
+A|if you just watched it during the Gulf War, that probably wouldn't wouldn't tell you much.|sv|4082|0
+B|Yeah,|b|4082|1
+B|well during that small sample, I would think that everyone was just about, just about the same, except the three networks, radio television programming.|sv|4082|1
+A|Yeah.|b|4082|0
+B|So, if at a particular time, you wanted to get the latest and greatest news you could do that by, uh, turning on C N N|sd|4082|1
+A|Yeah.|b|4082|0
+B|and you,|%|4082|1

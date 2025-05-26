@@ -1,0 +1,78 @@
+A|Yeah.|fo_o_fw_"_by_bc|4784
+A|I guess, uh, uh, it's an easy one for me.|sv|4784
+A|I think that's, uh, there's something seriously wrong,|sv|4784
+A|yeah.|b|4784
+B|What is it that you are, you know, particularly upset about?|qw|4784
+A|Uh, I guess, uh, I think they've lost their compass|sv|4784
+A|and, uh, I'm not sure they know exactly what, uh, uh, public education supposed to be for anymore.|sv|4784
+A|But, uh, I voted with my feet|sd|4784
+A|and, uh, my kids go to parochial school.|sd|4784
+B|Uh-huh.|b|4784
+A|So, uh,|%|4784
+B|What do you feel that your kids are getting in the parochial schools that they wouldn't get in a, the public school system?|qo|4784
+A|Well, one hundred percent of the, uh, customers care.|sv|4784
+A|That's one thing.|sv|4784
+A|Everybody cares about the education the kids are getting.|sv|4784
+A|And, uh, they, uh, take an active, relatively active part.|sv|4784
+A|Which, uh, I mean if you're, uh, sending two thousand dollars that way every year, you, uh, watch what goes on and you, uh, uh, pay attention and participate|sv|4784
+A|and, and you can influence the way things are.|sv|4784
+B|So you're saying that the taxpayer who also is really paying through the pocketbook for the education of the child may not be quite so conscious of the fact that they are paying the tuition for that child in the form of, uh, real estate or other taxes|bf|4784
+B|and, and, consequently, they're not so motivated to get involved and make sure things happen the way they'd like to see them happen?|bf|4784
+A|Yeah.|aa|4784
+A|The immediacy just isn't there.|sv|4784
+B|Uh-huh.|b|4784
+A|And, uh, uh, I also think that one of the problems|sv|4784
+A|and, actually, I don't think this, I think this is a cultural problem.|sv|4784
+A|The, uh, problem with public education is really, uh, really a problem with the culture.|sv|4784
+A|And, I guess my evidence for that is the school districts in places like California, for example, where only a minority of the taxpayers have children in school|sv|4784
+A|and you can't get a tax levy passed.|sv|4784
+A|Uh, people are, uh, reluctant to pass, uh, school tax levies even, uh, when the money is needed or would be well spent because it's, uh, they don't have kids in the schools.|sv|4784
+B|Right.|b|4784
+A|I think that's a, a loss of civic virtue and a loss of, uh, uh, the cultural attitude that we used to have that education was first even if it wasn't our kids.|sv|4784
+A|I think that's, uh, that's the principal problem is that, uh, people no longer see it as, uh, as their problem|sv|4784
+A|and there's an immediate problem.|sv|4784
+B|Right.|aa|4784
+B|It troubles me too that the priority seems to be with my particular purse strings rather than the public good|sv|4784
+B|and by definition, for some of us, at least, the public good includes having an educated populace and then  idea that, uh, you can make a sound judgment with respect to small votes in the, at the local level or bigger votes at the national level.|sv|4784
+A|Right.|b|4784
+A|Yeah.|b|4784
+B|Uh, it means that you've got to be informed|sv|4784
+B|and you've got to have a certain level of education to do the reading and the critical thinking involved to come up with a decision.|sv|4784
+A|Yeah.|b|4784
+A|You know, I, I believe that the original idea of public education in the United States, which I guess was controversial at the time of the constitution.|sv|4784
+A|Uh, you know, it barely made it.|sv|4784
+A|I think it was added afterwards|sv|4784
+A|I think the real, the principal was, uh, education for civic participation.|sv|4784
+B|Right.|b|4784
+A|The idea was that everybody should have an education so that they would be a better voter|sv|4784
+A|and you couldn't pull the wool over their eyes.|sv|4784
+B|Right.|aa|4784
+B|It has taken on a more profound,|sv|4784
+B|and you'd think we'd notice it, economic uh, thrust.|sv|4784
+B|Yeah.|b|4784
+A|Well, that's exactly what I was going to say.|sd|4784
+A|Now there seem to be really three reasons for education.|sv|4784
+A|One is education for civic duty.|sv|4784
+A|One is education for economic reasons.|sv|4784
+A|And one is education for civilization.|sv|4784
+A|I mean and I think that one,|sv|4784
+B|Well I'm glad that you added that one.|sd|4784
+B|Yeah,|%|4784
+B|I think that one's significant.|sv|4784
+A|That's what I used to think education was all about when I was a college professor|sd|4784
+A|and then I quit and got disabused of that notion|sd|4784
+A|But, uh, the, uh, uh, now the only thing people seem to agree on is that education is, uh, an economic enterprise to train people for jobs.|sv|4784
+A|And, uh, I'm not sure that people in the education establishment really know what their purpose is.|sv|4784
+A|And I'm really sad to say this,|sd|4784
+A|I never thought I would have|sd|4784
+A|but I really think that, uh, the educational establishment has become part of the problem.|sv|4784
+A|And, uh, that's why I guess I'm sort of, reluctantly, uh, in favor of these, uh, choice programs.|sd|4784
+B|Right.|aa|4784
+B|Well I, I agree with everything that you've said so far|aa|4784
+B|and the only that I'd want to add is that I'm a little more in contact, I think, with public school teachers than perhaps you are, uh, except as a parent of your child|sv|4784
+B|and the sense that I get from public school teachers that I know is that they are very conscious of what they feel they should be doing|sd|4784
+B|and they are the three things that you mentioned.|sd|4784
+B|But they find that they are also being asked to do a bunch of other stuff which they think is only tangentially related|sd|4784
+A|Right.|aa|4784
+A|That's what,|%|4784
+B|like consumer,|%|4784

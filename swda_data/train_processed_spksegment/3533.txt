@@ -1,0 +1,143 @@
+A|Okay,|fo_o_fw_"_by_bc|3533|0
+A|Miss Nancy, we should be in business now.|sd|3533|0
+B|Good.|bk|3533|1
+A|Did you hear the questions that the lady, uh, brought up?|qy|3533|0
+B|Yes.|ny|3533|1
+A|Such as how much time, well,|qy^d|3533|0
+A|I'll ask,|oo_co_cc|3533|0
+A|how much time do you spend with your children,|qw|3533|0
+A|and how many do you have?|qw|3533|0
+B|We have two children,|sd|3533|1
+B|they're both grown and married|sd|3533|1
+B|and with, we have, uh,|%|3533|1
+B|our daughter has three sons,|sd|3533|1
+B|so we see them at least once a week,|sd|3533|1
+B|and we see our son and his wife uh, about every other week|sd|3533|1
+B|and, uh we baby-sit quite frequently.|sd|3533|1
+A|Uh-huh.|b|3533|0
+B|So we're a fairly close-knit family.|sd|3533|1
+B|We're together a lot on special days|sd|3533|1
+B|and, uh, and of course, with the holidays and everything.|sd|3533|1
+A|Well, you're very fortunate.|ba|3533|0
+A|Uh, my my, uh,|%|3533|0
+A|I have two girls and a son,|sd|3533|0
+B|Uh-huh.|b|3533|1
+A|And my oldest daughter lives in Amsterdam, Holland.|sd|3533|0
+B|Oh.|b|3533|1
+A|She  Her husband builds pianos,|sd|3533|0
+A|so it's kind of hard for us to visit with them, as much as I'd like to.  Because we've, we, one thing we do have together is we're both musicians.|sd|3533|0
+B|Oh, yes.|ba|3533|1
+A|I play in several symphony orchestras|sd|3533|0
+A|and,  she is a, a, a concert, uh, harpsichordist. And travels around a good bit in Europe.|sd|3533|0
+B|Uh-huh.|b|3533|1
+B|Oh.|b|3533|1
+B|Uh-huh.|b|3533|1
+A|And, uh, her husband builds forte pianos,|sd|3533|0
+A|which are harpsichord size pianos.|sd|3533|0
+B|Pianos, uh-huh.|b^m|3533|1
+A|And, uh, that's why they're over there.|sd|3533|0
+A|And then I have a, a son who lives in, uh, Warrington, Pennsylvania.|sd|3533|0
+B|Uh-huh.|b|3533|1
+A|And I get to see him maybe once every three months.|sd|3533|0
+A|So I really, we've lost, you know,|sd|3533|0
+A|I'd like to have an everyday contact with children, uh, as well as you do, for that matter,|sd|3533|0
+A|and my young , my youngest daughter lives in New Jersey,|sd|3533|0
+A|and so they,   I don't hardly get to see any of them.|sd|3533|0
+B|Oh, you don't get to see any of yours very often.|bf|3533|1
+A|She works in these, um, Trump type casinos,|sd|3533|0
+A|she and her husband both do.|sd|3533|0
+A|They work,  uh, they're really both, um play, people who play on stage|sd|3533|0
+B|Yes,|b|3533|1
+B|uh-huh.|b|3533|1
+B|Uh-huh.|b|3533|1
+A|and, uh, they're running lights right now and audio and that thing for,  plays and things that go on.|sd|3533|0
+B|Uh-huh.|b|3533|1
+A|But anyhow uh,|%|3533|0
+A|what do you, what activities do you do with your children when you are together?|qw|3533|0
+B|Oh, most the time,|%|3533|1
+B|well, right now it's football season,|sd|3533|1
+B|and our daughter is a big Cowboy fan,|sd|3533|1
+B|as is our husband,|sd|3533|1
+B|so, my husband,|%|3533|1
+B|so she watches that|sd|3533|1
+B|and I play with the grandchildren|sd|3533|1
+B|I enjoy the grandchildren.|sd|3533|1
+B|But, now, like last weekend, um, there's the Soviet space exhibit is here in Dallas,|sd|3533|1
+B|and it ends,  uh, in January,|sd|3533|1
+A|Oh.|b|3533|0
+B|so she and, and the three boys and my husband and I went over into Fort Worth to see the space exhibit|sd|3533|1
+B|and this Sunday,|%|3533|1
+A|The Soviet space exhibit?|qy|3533|0
+B|Uh-huh.|ny|3533|1
+A|My goodness.|ba|3533|0
+B|Yeah Oh, it's been here for quite, uh, some time.|aa|3533|1
+A|I am surprised they would bring anything over here.|sv|3533|0
+B|I think it came here in either September or October|sd|3533|1
+B|and,  it's very interesting, very interesting,|sv|3533|1
+A|Uh-huh.|b|3533|0
+A|I'll bet.|ba|3533|0
+B|and it's been very well done|sv|3533|1
+B|Uh, and this, uh, next Sunday they're coming over after the Cowboy game|sd|3533|1
+B|and, uh,  uh, we're going to go take the boys to see Christmas lights and go to a Santa's village.|sd|3533|1
+A|Uh-huh.|b|3533|0
+B|And, uh, then when our son's over, we have a pool,|sd|3533|1
+B|and he and his wife come and a lot of their friends,|sd|3533|1
+B|and we have cookouts on Sunday uh,|sd|3533|1
+A|Well, that sounds like you have really,  wonderful activities that keep you together.|ba|3533|0
+B|And, uh  we, we do a lot with with our kids,|sd|3533|1
+B|and we we always have.|sd|3533|1
+A|Yeah. Uh-huh. *slash error, should be 'b'|b|3533|0
+B|We've taken a lot of trips with our kids when they were younger.|sd|3533|1
+B|Uh, we're very family oriented.|sd|3533|1
+B|We, um,  we like being with our kids,|sd|3533|1
+B|and the kids seem to enjoy being with us,|sd|3533|1
+B|and their friends enjoy being with us.|sd|3533|1
+B|So which that keeps us very, very young, with all these young people passing in and out and eating,|sd|3533|1
+A|Uh-huh.|b|3533|0
+B|and seems like I've,|%|3533|1
+A|The only problem is, it keeps you pretty busy, keeping everything going,|sv|3533|0
+A|doesn't it?|^g|3533|0
+B|Well, it does|na|3533|1
+B|I'm worried about Christmas.|sd|3533|1
+B|Christmas Eve they all pass through,|sd|3533|1
+B|and then they all end up spending the night Christmas Eve night, so that,  we open our presents on Christmas day|sd|3533|1
+A|Uh-huh.|b|3533|0
+A|Beautiful.|ba|3533|0
+B|and they go out to the other, you know, the in-laws in between some of this,|sd|3533|1
+B|but they're all,  with us,|sd|3533|1
+A|Uh-huh.|b|3533|0
+B|and, uh, then have Christmas dinner with us and then go to other in-laws and things,|sd|3533|1
+B|so we see a lot of them.|sd|3533|1
+B|But we enjoy Christmas Eve night, because they all start arriving by about eleven o'clock,|sd|3533|1
+B|and we open presents about five o'clock Christmas,  morning,|sd|3533|1
+B|and, you know, and, uh, then,  I go to the kitchen and cook,|sd|3533|1
+A|Uh-huh.|b|3533|0
+B|and my sister and, and her husband are coming down,|sd|3533|1
+B|so there's going to be eleven of us for Christmas.|sd|3533|1
+A|That's great.|ba|3533|0
+A|There's a,|%|3533|0
+A|the question now to ask, is it difficult to find time,|sd|3533|0
+A|and you seem to be making out all right.|sv|3533|0
+B|Yeah.|aa|3533|1
+B|Sometimes I'm a little exhausted|sd|3533|1
+A|Well, tell me,|ad|3533|0
+A|what do you think of, uh, of the current trends of how other people spend time with their children and so forth?|qo|3533|0
+B|Oh, I, I think the trends are going back to spending more time with families.|sv|3533|1
+A|Uh-huh.|b|3533|0
+B|I think parents are definitely, uh, spending more and more time.|sv|3533|1
+B|I don't think they're leaving them with baby-sitters, you know.|sv|3533|1
+B|I think, I think family quality time is becoming much more important than it was there  for about, uh, I don't know, eight or nine years.|sv|3533|1
+A|Yes.|b|3533|0
+A|Uh-huh.|b|3533|0
+B|Seems like it went through a spell there where families weren't that big a deal.|sv|3533|1
+B|Parents kind of went and did their thing,|sv|3533|1
+B|kids did their thing. Yes,|sv|3533|1
+A|Well, that's|%|3533|0
+A|no,|aa|3533|0
+A|that's exactly what I was going to say.|aa|3533|0
+A|Of, of course, I find now that I spend more time with my grandchildren in detail.|sd|3533|0
+B|uh-huh.|b|3533|1
+A|I know more about them and watch their growth and how they improve and, and learn much more so than my own kids.|sd|3533|0
+A|When, when your own children are growing up, you just take them for granted|sv|3533|0
+A|and you go ahead and do your thing|sv|3533|0
+A|and,|%|3533|0

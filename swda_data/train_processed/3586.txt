@@ -1,0 +1,210 @@
+A|I'm sorry, um|fa|3586
+B|That's okay,|bd|3586
+B|I didn't hear.|sd|3586
+A|hobbies.|sd|3586
+B|Okay.|b|3586
+A|Let me see,|^h|3586
+A|I don't know if that took or not,|sd|3586
+A|I'll do it again.|oo_co_cc|3586
+B|Okay.|b|3586
+A|Okay.|%|3586
+A|What are your hobbies?|qw|3586
+A|I hear you have kids, right?|qy|3586
+B|You heard her in the background|sd|3586
+B|That's babies.|sd|3586
+A|That's your full time, uh, hobby, right?|qy|3586
+B|Takes a lot of time, huh.|na|3586
+B|I like, uh, most sports.|sd|3586
+B|I like to do that.|sd|3586
+B|I kind of like to do a little bit of sewing.|sd|3586
+A|Uh-huh.|b|3586
+B|Oh, little bit of embroidery work, once in a while.|sd|3586
+A|Uh-huh.|b|3586
+B|What do you like to do?|qo|3586
+A|Um, I try to do some painting, although I'm not very good at it|sd|3586
+B|Well, I'm sure you probably are.|ba|3586
+A|Well, no,|bd|3586
+A|not really.|bd|3586
+B|You like it,|sv|3586
+B|that's the main .|sv|3586
+A|Yeah,|aa|3586
+A|I, I have, you know, I inherited the genes that make me think I'm creative, but not the ones that give me the ability to be.|sd|3586
+B|That's right.|aa|3586
+A|So, I always try.|sd|3586
+A|I, I do some sewing, mostly out of necessity.|sd|3586
+A|Um, I'm making drapes for my house, just because I'm,|sd|3586
+B|Oh, boy, that's hard sewing.|ba|3586
+A|Yeah,|aa|3586
+A|well, it isn't and it is.|aap_am|3586
+A|It is, you know,|%|3586
+A|actually the sewing isn't the hard part,|sd|3586
+A|it's just being able to lay out the material and measure it because you need so much room.|sv|3586
+B|Measure it and get it to,|bf|3586
+B|Well, if it, it depends on how elaborate you get it.|aap_am|3586
+B|If you get pleats and all kinds of,|sv|3586
+A|Yeah,|aa|3586
+A|I've been doing that|sd|3586
+A|and, That,|%|3586
+B|That's a lot of work.|ba|3586
+A|yeah,|aa|3586
+A|that,|%|3586
+A|but usually have to do the pleats by hand.|sd|3586
+A|So that, at least I can do, you know, watching T V or whatever|sd|3586
+B|Oh.|b|3586
+A|but,|%|3586
+B|Right,|b|3586
+B|right.|b|3586
+A|Yeah,|b|3586
+A|and I've, I've gone and, you know, put the needle through my thumb a few times trying to get it through|sd|3586
+A|but,|%|3586
+B|That feels really good.|ba|3586
+A|Yeah,|aa|3586
+A|so that's not really my favorite thing to do or anything, but I, I need to do it.|sd|3586
+B|To do it,|aa|3586
+B|right.|aa|3586
+A|I have, let's see, I have a dog, and a lot of fish.|sd|3586
+A|Keeping fish, I guess is my biggest hobby.|sd|3586
+B|Keeping fish .|b^m|3586
+B|Well, they're probably easier than keeping dogs, though, aren't they.|sv|3586
+A|Um, yes and no.|aap_am|3586
+A|It depends on how frequently they die, and how much that bothers you.|sd|3586
+B|Oh, no.|ba|3586
+B|How much that bothers you,|b^m|3586
+B|and you probably have to clean out the tank too.|sv|3586
+A|That's,|%|3586
+A|you don't have to do as much as, as I thought.|arp_nd|3586
+A|In fact, my problem,|%|3586
+A|I had fish as a kid|sd|3586
+A|and they always died immediately,|sd|3586
+B|Oh, no.|ba|3586
+A|and, what, I'm, what I think now is the reason is I kept the tank too clean|sv|3586
+B|Oh, you're kidding|ba|3586
+A|because you have,|%|3586
+B|because they need to have a little bit of the,|bf|3586
+A|Right,|aa|3586
+A|you need to let the bacteria build up,|sv|3586
+A|and then it keeps all the chemicals in balance.|sv|3586
+B|I see.|b|3586
+A|And I would just take everything out and just like, you know, wash it with scalding hot water|sd|3586
+B|Oh, no.|ba|3586
+A|and it would kill all the bacteria,|sd|3586
+A|and that would screw up all the chemical cycles again|sd|3586
+B|And so you'd have to start all over to build that up probably.|bf|3586
+A|so.|%|3586
+A|Right.|aa|3586
+A|That's right.|aa|3586
+A|So now only, I only clean things to make things look more aesthetically pleasing|sd|3586
+B|Right,|aa|3586
+B|right.|aa|3586
+A|and I don't try and sterilize things|sd|3586
+B|Don't go through the whole nine yards|bf|3586
+B|and they kind of need a little bit of that.|sv|3586
+A|That's right.|aa|3586
+A|That's right.|aa|3586
+B|So you've had fish for a long time.|bf|3586
+A|Well, I've had them,|%|3586
+A|I guess it's been two years now I've had a, a tank here,|sd|3586
+A|and then back at home I used to have a small, you know, five gallon tank.|sd|3586
+A|But that never worked well. I have fifty-five gallons now. *sd|sd|3586
+B|What size do you have now?|qw|3586
+B|Oh, that's a good size.|ba|3586
+A|It's a lot easier.|sd|3586
+B|Have you ever had it, uh, crack or break or leak.|qy|3586
+A|No|nn|3586
+A|No,|nn|3586
+A|not yet.|sd|3586
+B|Fifty-five gallons, you'd hope it would never do that.|sv|3586
+A|That's right,|aa|3586
+A|I really do.|sd|3586
+A|But, you know.|%|3586
+B|Do you have all kinds of different fish|qy|3586
+B|or,|%|3586
+A|Yeah,|ny|3586
+A|I just have, you know, what they call community fish guppies, and platies and, and basic things.|sd|3586
+B|Uh-huh.|b|3586
+A|I don't get into the|sd|3586
+B|Real exotic.|^2|3586
+A|right,|aa|3586
+A|right.|aa|3586
+A|The expensive ones.|sd|3586
+B|Well, they're probably hardy, harder to take care of|sv|3586
+B|and,|%|3586
+A|They are.|aa|3586
+A|They're very expensive|sd|3586
+A|and, you know, when you die, it's like, when they die it's more like an investment.|sv|3586
+B|Yes,|b|3586
+B|I bet it is.|ba|3586
+A|You lost an investment|sv|3586
+A|so,|%|3586
+B|Do you have problems with them, uh, the fish eating each other?|qy|3586
+A|No,|nn|3586
+A|not really.|sd|3586
+A|Only if there's baby fish.|sd|3586
+B|Right.|b|3586
+A|You always have to isolate those.|sd|3586
+B|Then you have to,|%|3586
+B|how do you isolate them?|qw|3586
+A|You get a|sd|3586
+B|A jar or something|qy^d|3586
+B|or.|%|3586
+A|well, no,|nn|3586
+A|they have breeders.|sd|3586
+B|Okay.|bk|3586
+A|It's a little plastic things that sort of floats|sd|3586
+B|Okay.|b|3586
+A|and you put the mother fish in there|sd|3586
+A|and then it's got like a trough underneath her|sd|3586
+B|Okay.|b|3586
+A|so as the babies come out they fall down in the trough|sd|3586
+A|and there's a hole in the middle so they fall into the bottom part of the chamber so the mother can't get to them either.|sd|3586
+B|Oh.|b|3586
+A|And that's, you know,|%|3586
+A|it kind of works,|sd|3586
+A|but it's also got slots in it so the water can circulate|sd|3586
+B|Right.|b|3586
+A|it'll fit out the slots.|sd|3586
+B|It'll go through the slot.|bf|3586
+A|That's right,|aa|3586
+A|so. But, you know, it works, I guess.|sd|3586
+B|That works all right then.|qy^d|3586
+B|They don't, uh, want the mothers to be with the little fish either.|bf|3586
+A|Oh, they'll eat them.|sd|3586
+B|They will.|qy^d|3586
+A|Yeah.|ny|3586
+B|Isn't that odd.|qy|3586
+A|Yes.|ny|3586
+B|You wouldn't think that.|sv|3586
+A|It, and it's funny because the one I have, every single month without fail she has babies.|sd|3586
+B|You're kidding.|ba|3586
+A|Oh, no.|aa|3586
+A|All the time,|sd|3586
+A|and, um, I,|%|3586
+A|and she's supposed to,|%|3586
+A|her variety, it says they won't eat the babies,|sd|3586
+A|and I've seen her do it.|sd|3586
+A|So.|%|3586
+B|And that just makes you sick almost, doesn't it?|qy|3586
+A|Oh, it's|%|3586
+A|well, it makes you understand that, you know, things are different|sd|3586
+B|Things are different in the animal kingdom, huh.|bf|3586
+A|We might, right. We might decide what's proper and what isn't,|sd|3586
+A|but you know, that's the way it is for them.|sv|3586
+B|Yeah.|b|3586
+B|That's kind of the way they do it.|bf|3586
+A|Yeah.|aa|3586
+A|That's it.|aa|3586
+B|Survival of the fittest or something.|bf|3586
+A|Yes,|aa|3586
+A|because if the baby is strong enough, it can swim away fast enough and go hide.|sd|3586
+B|Right.|b|3586
+B|Go hide from them,|bf|3586
+B|well and then, you think, well, how did they do it out in the real world anyway when these fish are in the tropicals or wherever they are kind of trying to keep up with that,|qh|3586
+A|So.|%|3586
+A|Yeah.|b|3586
+A|Yeah,|b|3586
+A|yeah.|b|3586
+B|but. If you're like me, you never have enough time for the hobbies.|qy^d|3586
+A|No,|nn|3586
+A|not really.|sd|3586
+A|I, I try.|sd|3586
+A|I also, I play a couple of instruments.|sd|3586

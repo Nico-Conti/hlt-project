@@ -1,0 +1,242 @@
+A|All right.|fo_o_fw_"_by_bc|2248|0
+A|Now, we used to be big time campers|sd|2248|0
+A|but now we're not quite so much since the kids are involved so much in sports.|sd|2248|0
+B|Uh-huh.|b|2248|1
+B|What type of camping did you do?|qw|2248|1
+A|Well when we, before we had kids, we was in a motorcycle group, you know,|sd|2248|0
+B|Uh-huh.|b|2248|1
+A|we went like twenty or thirty at a time.|sd|2248|0
+A|We took, uh, just our little tents,|sd|2248|0
+B|Uh-huh.|b|2248|1
+A|and we did it that way.|sd|2248|0
+A|Then when we started having children we bought a camper. You know,|sd|2248|0
+B|Oh, uh-huh.|b|2248|1
+A|and we did it that way.|sd|2248|0
+B|Oh, how neat.|ba|2248|1
+A|So, we've always enjoyed camping.|sd|2248|0
+B|Uh-huh.|b|2248|1
+B|Well, I know I have, um, I just have a tent,|sd|2248|1
+B|and the kids and I like to go out and camp in the tent.|sd|2248|1
+A|Uh-huh.|b|2248|0
+B|And then I bought a van|sd|2248|1
+B|and that way I can sleep in the van and be more comfortable|sd|2248|1
+A|yes.|b|2248|0
+A|Now we have friends with a van,|sd|2248|0
+B|Uh-huh.|b|2248|1
+A|and when they go on vacation a lot of times they'll just sleep in the van, you know.|sd|2248|0
+B|Right.|b|2248|1
+B|Yeah.|b|2248|1
+A|Like one night|sd|2248|0
+A|and the next night they'll stay at the motel, you know, or something like that.|sd|2248|0
+B|Uh-huh.|b|2248|1
+A|And they enjoy it.|sd|2248|0
+B|Yes,|b|2248|1
+B|I don't, I don't think I'm a real true, trooper, you know, when it comes, to camping.|sd|2248|1
+A|Oh,|b|2248|0
+A|yeah.|b|2248|0
+A|Oh, me either.|sd|2248|0
+B|All the bugs and stuff|sd|2248|1
+B|But I, I try|sd|2248|1
+A|I hate to be on all that stuff|sd|2248|0
+B|But, but I try, you know, to, uh, to get out there and enjoy everything.|sd|2248|1
+A|Oh, yeah.|ba|2248|0
+B|But what was so fun though is that I had to take my son to the doctor this morning because he went out camping with some friends|sd|2248|1
+B|and he got poison ivy,|sd|2248|1
+A|Oh.|b|2248|0
+B|and it's all over him.|sd|2248|1
+B|The poor thing, you know,|fo_o_fw_"_by_bc|2248|1
+B|so, there's definitely hazards to going camping if you don't know what you're looking at|sv|2248|1
+A|Yes,|aa|2248|0
+A|yes.|aa|2248|0
+B|Oh, shoot.|ba|2248|1
+A|Oh.|b|2248|0
+A|But now, I enjoy it every once in a while,|sd|2248|0
+A|I mean, it's not something I'd want to do real often.|sd|2248|0
+B|Uh-huh.|b|2248|1
+A|I'm a sissy.|sd|2248|0
+B|Yeah.|b|2248|1
+A|I either want to do it in the fall or spring.|sd|2248|0
+B|Right.|aa|2248|1
+B|Right.|aa|2248|1
+A|You know?|qh|2248|0
+B|Definitely when it's cool.|bf|2248|1
+A|Yes.|aa|2248|0
+B|Well, have you done much camping around Texas?|qy|2248|1
+A|Well, not really because usually it's when we go off, you know, like for a couple weeks or so.|ng|2248|0
+B|Uh-huh.|b|2248|1
+B|Uh-huh.|b|2248|1
+A|It's usually like that.|sd|2248|0
+B|Yeah.|b|2248|1
+B|Well, have you camped all over the United States?|qy|2248|1
+A|Just about.|na|2248|0
+B|Wow.|ba|2248|1
+A|Just about.|na|2248|0
+B|See now I haven't so that,|sd|2248|1
+B|I bet you that's an experience there.|sv|2248|1
+A|Oh, it really is.|sd|2248|0
+B|Uh-huh.|b|2248|1
+A|It really is.|sd|2248|0
+B|Uh-huh.|b|2248|1
+A|Also I said we mostly did ours before we started a family.|sd|2248|0
+B|Right,|b|2248|1
+B|right.|b|2248|1
+A|It's a lot easier then.|sd|2248|0
+B|Well, I know my parents like to camp a lot,|sd|2248|1
+B|and they, uh, they've been going to Gulf Shores, Alabama. And, uh, which is really, really neat.|sd|2248|1
+A|Oh, uh-huh.|b|2248|0
+B|They said they've got the white beaches and the sand,|sd|2248|1
+A|Yes.|b|2248|0
+B|and it's not real populated so they can, they feel like they're in the outdoors and still close to the ocean.|sd|2248|1
+A|Uh-huh.|b|2248|0
+B|And, uh, from what I understand from them it's really, really pretty there.|sd|2248|1
+A|Oh.|b|2248|0
+A|I'd like to go anywhere.|sd|2248|0
+A|You know, I just like to go.|sd|2248|0
+B|Uh-huh,|b|2248|1
+B|uh-huh.|b|2248|1
+A|I really do.|sd|2248|0
+B|Well, have you done much camping up in Kentucky and, and those parts, in the mountains?|qy|2248|1
+A|No,|nn|2248|0
+A|not really,|ng|2248|0
+A|not that much.|sd|2248|0
+A|Um, we've been, well, we've been to Wyoming, you know, and Kentucky and Montana and, you know, places like that.|sd|2248|0
+A|But usually if we're with a group of people we really don't stay any one place very long.|sd|2248|0
+B|Uh-huh.|b|2248|1
+A|You know, like if we're just going through and they camp one night and then head on.|sd|2248|0
+B|Right,|b|2248|1
+B|right.|b|2248|1
+A|But now that we have children and we go every blue moon, I'd rather just go to Galveston. You know|sd|2248|0
+B|Yeah|b|2248|1
+B|Oh, yeah,|ba|2248|1
+B|yeah,|b|2248|1
+B|yeah,|b|2248|1
+A|Yes,|aa|2248|0
+A|yes.|aa|2248|0
+A|Yes.|b|2248|0
+B|But we're, uh, we're getting more into it|sd|2248|1
+B|and we've done, uh, we've done quite a bit|sd|2248|1
+B|and, uh, uh, the kids like to go out, you know, as often as they can.|sd|2248|1
+A|Uh-huh.|b|2248|0
+B|Um, so that's good.|sd|2248|1
+B|You know, they're, they're becoming enthusiasts then of camping.|sd|2248|1
+A|Uh-huh.|b|2248|0
+A|It is.|sd|2248|0
+A|My children really enjoys it.|sd|2248|0
+A|They really do.|sd|2248|0
+A|But by the time we really get a chance to it's July, you know,|sd|2248|0
+B|Right.|b|2248|1
+A|and it's so hot.|sd|2248|0
+B|Uh-huh,|b|2248|1
+B|uh-huh.|b|2248|1
+A|And our camper doesn't have an air conditioner.|sd|2248|0
+B|Oh, yeah.|b|2248|1
+A|Yeah,|b|2248|0
+A|it's one of those pop-ups.|sd|2248|0
+A|I'm sure you could put one in probably,|sd|2248|0
+B|Uh-huh.|b|2248|1
+A|but we hadn't did that.|sd|2248|0
+B|Uh-huh,|b|2248|1
+B|uh-huh.|b|2248|1
+B|Yeah,|%|2248|1
+B|well, that's really neat.|ba|2248|1
+A|Yes,|b|2248|0
+B|Well,|%|2248|1
+A|we all enjoy camping.|sd|2248|0
+A|And they're, you know, they're in like and scouts and stuff like that, you know, so, they get to go camping in those organizations also.|sd|2248|0
+B|Uh-huh.|b|2248|1
+B|Uh-huh.|b|2248|1
+A|At least their Daddy goes with them,|sd|2248|0
+A|I don't, when they do that.|sd|2248|0
+B|Yeah.|b|2248|1
+A|But, That really is.|sd|2248|0
+B|Yeah.|b|2248|1
+B|Oh, that's neat.|ba|2248|1
+B|That's really neat.|ba|2248|1
+A|Well, how old is your boys, your children?|qw|2248|0
+B|Well, I, well, I have, um, a son that's, uh, going to be eleven here pretty soon, and then a daughter that's thirteen.|sd|2248|1
+A|Uh-huh.|b|2248|0
+B|So, they're, they're getting old enough to where they can help out with a campfire and, cooking and, and all that kind of stuff too.|sd|2248|1
+A|Oh, yes.|ba|2248|0
+A|Yeah.|b|2248|0
+A|Yes.|b|2248|0
+B|So, that's, that's really neat.|ba|2248|1
+A|It really is.|sd|2248|0
+A|Mine's eleven and eight.|sd|2248|0
+B|Uh-huh.|b|2248|1
+A|So, they really enjoy it too.|sd|2248|0
+B|Yeah,|b|2248|1
+B|yeah.|b|2248|1
+B|Yeah,|b|2248|1
+B|I, I agree with you.|aa|2248|1
+B|They like to get out there|sd|2248|1
+B|and, but this wasn't so fun this last time for Nathan to, to get out there|sd|2248|1
+B|and he didn't realize he was touching poison ivy|sd|2248|1
+B|and it got all into his eye|sd|2248|1
+B|and it was really swollen|sd|2248|1
+B|and, uh, so they had to give him shots and everything,|sd|2248|1
+B|so.|%|2248|1
+B|oh, well, maybe next time he'll stay away from those particular trees, or what, bushes, whatever they are|sd|2248|1
+A|Yeah,|b|2248|0
+A|yes.|b|2248|0
+A|Yes.|b|2248|0
+A|Oh.|b|2248|0
+A|But I have, uh, brother-in-law and a sister, you know, that just really just camp.|sd|2248|0
+A|You know, they love to go camping.|sd|2248|0
+B|Uh-huh.|b|2248|1
+A|They could, they would all the time they wanted, you know, wanted to because there's nothing holding them back.|sd|2248|0
+B|Uh-huh.|b|2248|1
+B|Uh-huh.|b|2248|1
+A|But I'm just not that involved in it.|sd|2248|0
+B|No,|aa|2248|1
+B|now I like to go out like several times a year.|sd|2248|1
+A|Yeah.|b|2248|0
+B|But not on a, on the regular basis.|sd|2248|1
+B|I have some friends who go out every single weekend, when, you know, in the season.|sd|2248|1
+A|Oh.|b|2248|0
+A|Uh-huh.|b|2248|0
+B|Uh, and, and I just couldn't do that, you know.|sd|2248|1
+A|Me, I haven't really as far as entertainment,|sd|2248|0
+A|I don't know what you would do every you know.|sd|2248|0
+B|Yeah,|b|2248|1
+B|yeah.|b|2248|1
+A|But I guess, my entertainment's, television, I guess|sd|2248|0
+B|Just getting away.|^2|2248|1
+B|Yeah,|b|2248|1
+B|right,|b|2248|1
+B|right,|b|2248|1
+B|see, I see, they just want to get away.|sd|2248|1
+A|Uh-huh.|b|2248|0
+B|But every Friday night they'll go home, you know, straight from work|sd|2248|1
+B|and they'll pack up|sd|2248|1
+B|and, you know, and then they'll leave,|sd|2248|1
+B|and I'm just going, you know,|sd|2248|1
+B|by Friday night I just want to crash, you know,|sd|2248|1
+B|and I want to go home and, you know, do all that, and then, uh, get out on the road to boot,|sd|2248|1
+A|Oh, I don't either|sd|2248|0
+B|so.|%|2248|1
+A|Uh-huh.|b|2248|0
+B|But anyway that's their life|sd|2248|1
+A|Yes.|b|2248|0
+A|But they probably live in a city also,|sv|2248|0
+A|don't they?|^g|2248|0
+B|Yeah,|ny|2248|1
+B|yeah,|ny|2248|1
+B|that's true.|sd|2248|1
+A|Well, see, we're in a real small county area,|sd|2248|0
+B|Uh-huh.|b|2248|1
+A|and, you know, that makes a big difference.|sv|2248|0
+B|Now that's true.|aa|2248|1
+B|That's true.|aa|2248|1
+A|Because if we want to go camping we can just go just a few miles, you know|sd|2248|0
+B|Yeah|aa|2248|1
+B|That's true.|aa|2248|1
+A|That makes a difference.|sv|2248|0
+B|Well, it was nice talking with you.|fc|2248|1
+A|It was nice talking to you too,|fc|2248|0
+B|Okay.|fc|2248|1
+A|and we'll probably be talking to you again.|fc|2248|0
+B|Okay,|fc|2248|1
+B|well, take care.|fc|2248|1
+A|okay,|fc|2248|0
+A|bye-bye.|fc|2248|0
+B|Bye-bye.|fc|2248|1

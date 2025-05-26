@@ -1,0 +1,175 @@
+A|Uh, well, let's see.|fo_o_fw_"_by_bc|3104
+B|How many,|qw|3104
+B|you said yours are all,|sd|3104
+B|I mean, that sounds like an army.|sv|3104
+A|Five.|sd|3104
+B|Oh, lord.|ba|3104
+B|That is an army,|sv|3104
+B|I came from a family of six,|sd|3104
+B|and I have only got two,|sd|3104
+B|and they are, one ...|sd|3104
+A|Well any number is nice, let me tell you.|sv|3104
+B|Well, I kind of decided that single, single children that, that, that's not parenting,|sv|3104
+B|that's a hobby.|sv|3104
+A|Yeah.|b|3104
+B|But,|%|3104
+A|It's not as fair to the children either, I do not think.|sv|3104
+B|Well, do not tell that to all my friends.|ad|3104
+B|They are into quality time.|sd|3104
+A|Oh.|b|3104
+B|I am into getting through the day.|sd|3104
+A|Yeah,|b|3104
+A|but sometimes you can hurt them by having too much quality time too.|sv|3104
+B|sounds as if speaker B is washing Well I, I, I can spot a kid who really, you know, whose parents spend every, quality time with them, you know, outside of the work day.|sd|3104
+A|Uh-huh.|b|3104
+A|Uh-huh.|b|3104
+B|And when I take care of some people's kids, you know,|sd|3104
+A|Uh-huh.|b|3104
+B|when they, when they have teachers' holidays, and that kind of stuff, I will take my friends' kids, that are usually in day care,|sd|3104
+A|Uh-huh.|b|3104
+A|Uh-huh.|b|3104
+A|Uh-huh.|b|3104
+B|and you can spot them, because they have no idea how to hang out and mess around.|sv|3104
+A|You can tell.|aa|3104
+A|How to just entertain themselves.|sv|3104
+B|Yeah.|b|3104
+A|Yeah,|b^m|3104
+A|yeah.|b|3104
+B|Really.|b|3104
+A|It's a problem for any child|sv|3104
+A|and you take one that's used to being, uh, busy being, having something to do all the time, it makes a big difference.|sv|3104
+B|It's not a problem for my two,|sd|3104
+B|they are only eighteen months apart|sd|3104
+A|uh, keeps you busy.|qy^d|3104
+B|They can find things to do and mess around, and plot and scheme and everything else.|arp_nd|3104
+A|Yeah.|b|3104
+A|Well, that's great.|ba|3104
+B|You, did all five of yours complete college?|qy|3104
+A|No,|nn|3104
+A|our last daughter, she did not want to go to school.|sd|3104
+A|She's, uh, but she's married now,|sd|3104
+A|they built a home just a couple miles from us.|sd|3104
+A|And,|%|3104
+B|Well, how did you go about selecting a college, then?|qw|3104
+A|Well, we did not do it right all the time|arp_nd|3104
+A|With our first boy, we persuaded him to start here,|sd|3104
+A|and I do not always think you should try to make them stay closer to home.|sv|3104
+A|I think the main thing is to, uh, right now, I think the main thing is to look at what they are interested in. Uh, and take what they are interested in,|sv|3104
+A|and then, then start looking for schools.|sv|3104
+B|Do you think that what they say that they are interested in is, at eighteen is going to be what they are ultimately ultimately graduating at.|qy|3104
+A|No,|nn|3104
+A|not necessarily.|sd|3104
+A|But, Mike, our oldest boy, I think he would have.|sd|3104
+A|He wanted to go to Embrey Riddle|sd|3104
+A|and we talked him into going local here first.|sd|3104
+B|Uh-huh.|b|3104
+A|And he only went a few months and then transferred to Pittsburgh.|sd|3104
+A|He went to aeronautical, uh, oh, just learning to work on engines and that.|sd|3104
+B|Uh-huh.|b|3104
+A|Uh, it has to do with airplanes and everything, which is what his whole life is|sd|3104
+A|And I really wish we would have let him go where he wanted to go originally.|sd|3104
+A|And he would probably be flying, is what he would be doing.|sd|3104
+A|Uh, but, but right now, of course, he's, he's working for Pratt and Whitney in Connecticut|sd|3104
+A|and they build and rebuild non jet engines.|sd|3104
+B|How about the other four, other three who went?|qo|3104
+A|Uh, the other ones, uh, the second one, she chose, we let her go where she wanted to, uh,|sd|3104
+A|we did not want her to go,|sd|3104
+A|but she went to Erie, to Gannan University. Uh, or Gannan College,|sd|3104
+A|I am not sure which it is,|sd|3104
+A|college, I guess.|sd|3104
+A|Uh, she went there two years|sd|3104
+A|and it was more expensive|sd|3104
+A|and she soon realized, you know,|sd|3104
+A|even though she did not like Clarion, she came back and finished at Clarion. Because, it, uh, saved her quite a bit of money|sd|3104
+A|and she got really the same basic education that she wanted.|sd|3104
+B|Uh-huh.|b|3104
+A|And our other two boys, they went to Clarion also. And, uh, did very well there.|sd|3104
+A|And they have all really got, uh, they have all really got really good jobs.|sd|3104
+A|And, uh,|%|3104
+B|When they were, like in junior high and high school, I mean, had they, did they have an idea that they were definitely going to go to college and,|qy|3104
+A|Uh-huh.|b|3104
+A|Uh, yeah,|ny|3104
+A|they kind of had that,|sd|3104
+A|they just expected to go.|sd|3104
+A|Daphne never went,|sd|3104
+A|she always said she would never go to college.|sd|3104
+A|She said, I, I always thought she would change her mind, you know,|sd|3104
+B|Uh-huh.|b|3104
+A|but she did not.|sd|3104
+A|And there's nothing wrong with that, you know, if,|sv|3104
+A|college is not for everybody.|sv|3104
+B|Uh.|b|3104
+A|But, uh, it, it does make a difference in your wage income.|sv|3104
+A|I think it's what they want out of life,|sv|3104
+A|because if they get an education and are willing to go where the jobs are, they can make a, you know, a much better income.|sv|3104
+B|Uh-huh.|b|3104
+A|Like my kids, they are all making more than my husband was making when he retired from the state.|sd|3104
+A|You know, that boggles,  my mind.|sd|3104
+B|Yeah,|b|3104
+B|I was,  I was making more than, I was making three times what my father was making, as an executive in the insurance industry, when he retired.|sd|3104
+A|Uh-huh,|b|3104
+A|uh-huh.|b|3104
+A|Okay,|b|3104
+A|did you go to college?|qy|3104
+B|Yeah,|ny|3104
+A|You did.|bk|3104
+A|See it makes a difference.|sv|3104
+B|I went, uh, four years to undergrad at University of Nebraska at Lincoln, because Lincoln is where, where my parents live.|sd|3104
+A|Uh-huh.|b|3104
+A|Uh-huh.|b|3104
+B|And there really, there really was not a choice,|sd|3104
+A|Uh-huh.|b|3104
+B|I mean the finances, uh, dictated that you had to go there.|sd|3104
+A|Uh. Uh-huh.|b|3104
+B|I kind of,|%|3104
+B|I am not going to say I resent it,|sd|3104
+A|Uh-huh.|b|3104
+B|but I was, well you know, one of the national merit scholarship qualifying and, you know, one of the Rhodes Scholars kids, and the whole bit, uh,|sd|3104
+A|Uh-huh.|b|3104
+A|Uh-huh.|b|3104
+A|Uh-huh.|b|3104
+B|my parents did not even discuss with me going to college out of state, or anyplace else,|sd|3104
+A|Some place else.|b|3104
+B|and I just knew that the finances, you know, would not support it.|sd|3104
+A|Uh-huh.|b|3104
+B|If I had known how, not, I am not going to say easy, but how much less difficult than I thought it would be to get a, uh, scholarship, to go anyplace else, I think that I would definitely, you know, have gone|sd|3104
+A|Uh-huh.|b|3104
+B|Now when I finished there, then I got a scholarship to go the Harvard University in Boston.|sd|3104
+A|Uh-huh.|b|3104
+B|And that was, uh, I think that was probably one of the best things that had ever happened,|sd|3104
+B|I mean I was, taken out of my element, you know, the homogeny midwest, which is a lovely place to grow up, and put into someplace else where, people thought differently, looked differently, sounded differently, you know, different life style.|sd|3104
+A|That's great.|ba|3104
+A|Uh-huh.|b|3104
+A|Uh-huh,|b|3104
+A|uh-huh.|b|3104
+A|Uh-huh.|b|3104
+A|Different life styles,|^2|3104
+A|yes,|%|3104
+A|yes.|%|3104
+B|And I think it was probably one of the best things that ever happened to me.|sd|3104
+A|Uh-huh.|b|3104
+B|Now my kids, I keep saying that, uh, you know, I would like them to go to the best school that they possibly could.|sd|3104
+A|Uh-huh.|b|3104
+B|And I do not know, you know, what the realities, you know, is going to look like, you know,|sd|3104
+B|we are putting money away already.|sd|3104
+A|Uh-huh.|b|3104
+B|Uh, but I really think it's important to put these children someplace where, in addition to, you know, them getting an education, they really need a, you know, a socialization away from what they are raised in. Especially if you lived a pretty insular community|sv|3104
+A|Uh-huh.|b|3104
+B|and, An upper class suburb of Dallas, let me tell you, It's very different.|sd|3104
+A|Right.|b|3104
+A|It's quite a bit different.|^2|3104
+A|See that's the way we are,|sd|3104
+A|we are more of a rural type of an area|sd|3104
+A|and it does make a difference.|sd|3104
+A|I, they say, you should not look at the expense of the college when you are looking.|sd|3104
+B|You should not.|aa|3104
+A|Yeah,|aa|3104
+A|not really.|aa|3104
+A|Because, they say that a lot of times you get more help, with a more expensive college.|sd|3104
+B|Uh-huh.|b|3104
+B|Oh, yeah.|b|3104
+A|And so, in the long run, if it's really what they want, you know, they are better off.|sv|3104
+A|Now our children all pretty much borrowed for their school.|sd|3104
+B|Uh-huh.|b|3104
+A|Uh, we, we did all we could,|sd|3104
+A|but they pretty much had to borrow a lot of their money to go.|sd|3104

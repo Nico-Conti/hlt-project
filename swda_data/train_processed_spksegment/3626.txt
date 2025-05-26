@@ -1,0 +1,105 @@
+A|Uh, let's see.|^h|3626|0
+A|Personal computers.|sd|3626|0
+B|Yes.|b|3626|1
+A|So, do you use them?|qy|3626|0
+B|Uh, yes,|ny|3626|1
+B|um, we own one.|sd|3626|1
+A|Terrific.|ba|3626|0
+A|What kind?|qw|3626|0
+B|Uh, its an Emerson eighty eighty-six, um, two low density floppy drives, and no hard drive yet.|sd|3626|1
+B|But, uh, you know, it's, it comes in mighty handy.|sd|3626|1
+A|Mostly for word processing type things?|qy|3626|0
+B|Uh, yeah,|ny|3626|1
+B|a big chunk of it's word processing.|sd|3626|1
+B|We're also taking programming classes,|sd|3626|1
+B|and, uh, so there's a fair amount of programming getting done on it.|sd|3626|1
+B|But, uh, uh, the, uh,|%|3626|1
+B|right now we got a project going where we're trying to put, uh, all my wife's stray recipes on the disk.|sd|3626|1
+A|Nice.|ba|3626|0
+A|Did you buy a program to handle menus?|qy|3626|0
+B|Uh, it came with a menus program,|sd|3626|1
+B|but, uh, that doesn't,|%|3626|1
+B|it, it|%|3626|1
+B|both, excuse me,|%|3626|1
+B|mostly kind of a pain in the neck without a hard drive|sd|3626|1
+A|Oh, yes.|ba|3626|0
+B|and hopefully sometime this spring we'll be able to get one and get it configured.|sd|3626|1
+A|Eighty eighty-eight is what you said?|br|3626|0
+B|Eighty eighty-six.|sd|3626|1
+A|Eighty,|b^m|3626|0
+A|oh gosh, it's worth your time to just upgrade,|sv|3626|0
+A|they're so darned cheap now.|sv|3626|0
+B|Which,|qw|3626|1
+A|Computers.|sd|3626|0
+B|Uh, impoverished college student.|sd|3626|1
+A|Oh, no.|ba|3626|0
+B|This one went on a credit card,|sd|3626|1
+B|and we got a way out, while to pay it off yet.|sd|3626|1
+A|Uh, I've, I've got one at home too.|sd|3626|0
+A|It's a three eighty-six, thirty-three megahertz, forty, four meg ram and hundred and thirty meg drive|sd|3626|0
+A|and super V G A|sd|3626|0
+A|and, yeah, it's fun.|sd|3626|0
+A|I do programming, too.|sd|3626|0
+A|My job is, uh, E D P auditor,|sd|3626|0
+A|and so I'm into computers all the time.|sd|3626|0
+B|E D P.|b^m|3626|1
+A|Electronic Data Processing.|sd|3626|0
+B|Okay,|bk|3626|1
+B|that sounds like fun job.|sv|3626|1
+A|Yeah,|b|3626|0
+A|I really enjoy it,|sd|3626|0
+A|and it treats me well.|sd|3626|0
+B|Yes.|b|3626|1
+A|Uh, what are you studying in college  computers?|qy|3626|0
+B|Uh.  Computer engineering.|sd|3626|1
+A|How nice.|ba|3626|0
+B|Well, computer engineering technology, uh, which, uh, all I can understand is it's a slightly more hands on version of computer engineering.|sd|3626|1
+B|But, I've got a ways to go yet.|sd|3626|1
+B|So far most of what I've done is getting, gotten core classes out of the way,|sd|3626|1
+B|taken some electronics classes, and one class in, um, with computer logic.|sd|3626|1
+A|How they work is fascinating to me.|sd|3626|0
+B|Oh, yes.|aa|3626|1
+B|I enjoy it myself|sd|3626|1
+B|The, uh, lab for that, uh, computer logic class was a lot of fun.|sd|3626|1
+A|Was it.|bh|3626|0
+A|Did,|%|3626|0
+B|Yeah,|ny|3626|1
+B|we got to hook up a few, uh, counters and, uh, encoders.|sd|3626|1
+A|Hardware stuff, huh.|bf|3626|0
+B|Yeah.|aa|3626|1
+A|What do you think of that fuzzy logic?|qo|3626|0
+B|I've not had a chance to work with it, although, um, my, uh, data structures teacher was telling us something about how fuzzy logic works as far as the concept behind it.|sd|3626|1
+A|Uh-huh.|b|3626|0
+B|Now how you'd implement that software wise or mechanically I don't know,|sd|3626|1
+B|but, uh, it sounds like a very impressive piece of, piece of work.|sd|3626|1
+A|Yeah,|b|3626|0
+A|they're pretty amazing.|sv|3626|0
+A|Uh, I've written a couple of programs for, commercially, uh|sd|3626|0
+B|Yes.|b|3626|1
+A|and it's a fun field.|sd|3626|0
+B|In the fuzzy logic direction?|qy|3626|1
+A|What,|br|3626|0
+A|no,|nn|3626|0
+A|in, uh,|%|3626|0
+A|no,|nn|3626|0
+A|just regular, uh,|sd|3626|0
+A|but you have to take into account, you know, with any computer program all the type of things people can do to you to make your program crash or things you normally don't consider.|sd|3626|0
+B|Yeah.|b|3626|1
+B|Entering bad information of one sort or another|sd|3626|1
+B|and,|%|3626|1
+A|Yeah,|aa|3626|0
+A|pushing keys certain times and, Uh, messing up your files and things like that.|bf|3626|0
+B|Yeah.|b|3626|1
+B|Uh-huh.|b|3626|1
+A|And you're going to be an engineer, computer engineer type.|qy^d|3626|0
+B|Uh, yeah,|ny|3626|1
+B|well, what the computer, what the C E T program seems to be so far is just a broad based specialized from,|sd|3626|1
+B|you get programming, a fair amount of programming,|sd|3626|1
+B|you get hardware,|sd|3626|1
+B|you get, uh, more or less, uh, you get basic electronics courses that, uh, deal with, you know, not only the digital circuitry but, uh, you know, power supplies and, and, uh, just the whole gambit, but mostly towards, uh, computer electronics.|sd|3626|1
+B|So, the idea is that, um, you can go in a variety of direction from C E T major,|sd|3626|1
+B|but I I have more with the hardware than I do with the software,|sd|3626|1
+B|so, yeah|%|3626|1
+B|I pretty much plan on, I mean, so far I'm planning to go in the engineering direction.|sd|3626|1
+A|I don't,|%|3626|0
+A|That's good, uh,|ba|3626|0

@@ -1,0 +1,169 @@
+A|Okay,|%|3007|0
+A|do you have any pets?|qy|3007|0
+B|Yes,|ny|3007|1
+B|I've had, I have had a number of them in my lifetime|sd|3007|1
+B|and I've,|%|3007|1
+B|I am a Golden retriever fan,|sd|3007|1
+A|Oh.|b|3007|0
+B|but I had to replace it with something that the kids could carry.|sd|3007|1
+A|Oh|b|3007|0
+B|Yes.|b|3007|1
+B|Yes.|b|3007|1
+A|Instead of being carried|bf|3007|0
+B|Yes,|aa|3007|1
+B|well, they were,|sd|3007|1
+B|they really wanted something teeny tiny,|sd|3007|1
+B|and I, uh, really wanted that retriever's disposition. Uh, the ultimate to tolerant, trainable disposition,|sd|3007|1
+A|Yeah.|b|3007|0
+A|Really.|b|3007|0
+B|so I called four or five dog trainers because I don't like the little dogs.|sd|3007|1
+A|Uh-huh.|b|3007|0
+B|And, and I asked them, you know, these are the ages of the kids, what do I get.|sd|3007|1
+B|And they all said, Golden Retriever|sd|3007|1
+B|and I said okay, put it under twenty pounds.|sd|3007|1
+B|And the only thing that they could come up with was a Bichon Frize which is a,|sd|3007|1
+A|Huh.|b|3007|0
+B|Do you know what that is?|qy|3007|1
+A|Yes,|ny|3007|0
+A|I've seen those.|sd|3007|0
+A|They're cute.|sv|3007|0
+B|They're cute.|sv|3007|1
+B|They look like an air headed let me tell you.|sv|3007|1
+B|They're calm, they're not yuppie , they're trainable, they're, uh, very personable in a different way that a Golden Retriever is.|sv|3007|1
+B|They're not dignified like a retriever can be.|sv|3007|1
+A|Uh-huh.|b|3007|0
+B|Yeah.|b|3007|1
+B|So how old is your retriever?|qw|3007|1
+A|Oh, she's about four.|sd|3007|0
+A|She's not completely pure.|sd|3007|0
+A|We got her from the, uh, Humane Society when she was a puppy.|sd|3007|0
+A|She looks like a|sd|3007|0
+A|she looks just like a Golden Retriever,|sd|3007|0
+A|but she's a little bit smaller.|sd|3007|0
+A|She's like fifty-five pounds.|sd|3007|0
+B|Well, actually, you know, that's the breed standard for females.|sd|3007|1
+B|What you,|%|3007|1
+A|Is it?|qy|3007|0
+B|yeah,|ny|3007|1
+B|what you see shown and bred now as Golden Retrievers, this, you know, plus eighty to a hundred pound range.|sd|3007|1
+A|Uh-huh.|b|3007|0
+B|That is not breed standard.|sd|3007|1
+A|Huh.|b|3007|0
+B|Fifty-five is the minimum|sd|3007|1
+B|but they usually run about sixty to sixty-five.|sd|3007|1
+B|And the ones that are shown, they are inside that weight allowance.|sd|3007|1
+A|Uh-huh.|b|3007|0
+B|You cannot show your retriever if it's, you know, a hundred plus pounds.|sd|3007|1
+A|Oh, huh.|b|3007|0
+B|So don't say she's small, just say she's perfect.|ad|3007|1
+A|Yeah.|b|3007|0
+A|She's perfect.|b^m|3007|0
+A|Well, she's got a brown nose instead of black too.|sd|3007|0
+B|Uh-huh.|b|3007|1
+A|Which makes her, I guess, unshowable, even if she had papers which she doesn't|sd|3007|0
+B|Yep.|aa|3007|1
+A|but, but we love her anyway.|sd|3007|0
+A|She's just a lot of company to us.|sd|3007|0
+A|We didn't,|%|3007|0
+A|we haven't had any kids|sd|3007|0
+A|and we're expecting a baby this summer,|sd|3007|0
+A|but up until then, she's been our substitute kid|sd|3007|0
+A|and she was a lot of fun.|sd|3007|0
+B|Well, they are, they are the ultimate dog to have around kids so long as your kid is not scared of a big dog, because I had a retriever, actually I had a retriever Irish Setter cross. Which is a really nice animal|sd|3007|1
+A|Right.|b|3007|0
+A|Oh.|b|3007|0
+B|and fortunately it was just like a retriever|sd|3007|1
+B|and then I've had a retriever.|sd|3007|1
+A|I bet it had a pretty coat too.|sd|3007|0
+B|It was gorgeous.|sd|3007|1
+B|It was just gorgeous. I mean just gorgeous.|sd|3007|1
+B|Um, and they both, you know,|sd|3007|1
+B|both the half breed and the pure breed had the, uh, what I consider the, the, the perfect disposition.|sd|3007|1
+B|But you know what, you know what scares me about Golden Retrievers?|qh|3007|1
+B|Since they've become so popular you get what I call backyard breeders. Which is probably where yours came from. People that don't know what they're doing, and they breed them, you know, for a certain characteristic.|sd|3007|1
+B|And in the retrievers it happens to be they like them big, for somehow big is perceived as the better.|sd|3007|1
+B|And when you start doing that you really tamper with, you know, the, all the, the years of, uh, culling litters|sd|3007|1
+B|and, and, uh, you tamper with what the dog innately is.|sd|3007|1
+A|Yeah.|b|3007|0
+B|We|%|3007|1
+B|when I was,|%|3007|1
+B|when I bought my last purebred retriever I mean I looked all over because I wanted one that still looked like a retriever, you know, the short to the ground, stocky, golden, uh, trainable, tractable, quiet animal that could hunt and still be in the house.|sd|3007|1
+A|Right.|b|3007|0
+B|And I ended up getting one that, uh, came out of a, a, a hunting stock because I wanted one that could still perform like a retriever did.|sd|3007|1
+A|Oh.|b|3007|0
+B|And I've seen an awful lot of lately really dumb, dumb retrievers|sd|3007|1
+B|and I'm, and I really fear for the breed because I love that breed,|sd|3007|1
+A|Yeah.|b|3007|0
+B|but I really figure right when it becomes really popular that it's going to be ruined.|sd|3007|1
+A|We have some friends with a brother and sister Golden retriever|sd|3007|0
+A|and those dogs have been having seizures,|sd|3007|0
+A|and I wonder since both of them are having them if it's some kind of breeding problem.|sd|3007|0
+B|Oh, yeah.|aa|3007|1
+B|You bet you.|aa|3007|1
+B|You bet you.|aa|3007|1
+B|You know how they came up with the retriever, don't you, the Golden?|qy^d|3007|1
+A|Huh-uh.|nn|3007|0
+B|It was bred out of several different retrievers,|sd|3007|1
+B|and they bred it for companionship and, uh, uh, disposition and, and ability to hunt.|sd|3007|1
+B|It was kept only by kings.|sd|3007|1
+A|Oh.|b|3007|0
+B|But they selectively culled those litters, I mean, for many hundreds of years|sd|3007|1
+B|and since it slept in the castle with its master, I mean it had, it had to be of a disposition to make it, you know, an animal you could keep around that closely.|sd|3007|1
+B|But they would go through all the litters and destroy the puppies if they were anything other than perfect.|sd|3007|1
+B|Now, you know, that seems like a cruel thing to do.|sd|3007|1
+A|Yeah.|b|3007|0
+B|On the other hand, you sure, you know, they sure created a, a wonderful breed, I mean a wonderful breed.|sv|3007|1
+A|Yeah.|aa|3007|0
+A|They did.|sv|3007|0
+A|I, I had never really had a Golden retriever before.|sd|3007|0
+A|We were going to get a shepherd and something mixed because my husband's family had had shepherds|sd|3007|0
+A|and all the other,|%|3007|0
+A|we looked at some of the shepherd mixes and the puppies weren't very, uh, social and stuff.|sd|3007|0
+B|Uh-huh.|b|3007|1
+A|And we went to a pen of a little bit bigger dogs|sd|3007|0
+A|and all the others were standing there barking and jumping up and down.|sd|3007|0
+A|And one dog would stand there wagging her tail and smiling|sd|3007|0
+A|And that, was mine.|sd|3007|0
+B|Well, I tell you, you know the, the German shepherd is the classic case of what I'm talking about because in America that's called a Rin Tin Tin phenomena.|sd|3007|1
+A|Uh-huh.|b|3007|0
+B|Only in America is there a dog called a German Shepherd.|sd|3007|1
+A|Oh, really?|bh|3007|0
+B|That dog is bred out of three European dogs. The Belgian Tervurien, a German Skutzhund, and a makes a I always forget the third one. I can see it.|sd|3007|1
+B|Uh, uh,|%|3007|1
+B|but the third one is a children's dog.|sd|3007|1
+A|Oh.|b|3007|0
+B|And there are distinct breeds in Europe.|sd|3007|1
+B|Now what happened over here was is that people saw the, the first, um, which would actually have been a Skutzhund which is what Rin Tin Tin was.|sd|3007|1
+A|Uh-huh.|b|3007|0
+B|And everybody wanted Rin Tin Tin.|sd|3007|1
+B|And it was known as a German shepherd here.|sd|3007|1
+B|So they created a breed standard. The American Kennel Club did.|sd|3007|1
+A|Oh.|b|3007|0
+B|That said anything that is a Skutzhund, a, a Tervurien and, uh, Alsatian that's the other one. Alsatian, any inner breeding of that can be called a German shepherd here.|sd|3007|1
+A|Huh.|b|3007|0
+B|And what happened is, is that people wanted this shepherd to shepherd and protect.|sd|3007|1
+B|And they bred a dog that I it's called a, an animal's critical span which basically translates to how much shit will it take before it bites you.|sd|3007|1
+B|That German shepherd, the American German Shepherd here was a, a, a such an unreliable animal that the American Seeing Eye Institute refused to use them, because they would turn on on their handlers.|sd|3007|1
+A|Uh-huh.|b|3007|0
+A|Huh.|b|3007|0
+A|Uh-huh.|b|3007|0
+B|And even, um, uh, police corps which started, you know, finding other breeds to use because this thing, this, this thing known as a German shepherd here, its personality and its dependability and its reliability was just terrible.|sd|3007|1
+B|So about fifteen years ago the German Shepherd Club of America decided amongst themselves that they were going to change this.|sd|3007|1
+B|So they went back to Europe and brought back some good examples of each of the three breeds and bred to a standard what they wanted an American German shepherd to be. Which is a very heavily now Skutzhund and Alsatian,|sd|3007|1
+A|Uh-huh.|b|3007|0
+B|and it's the Alsatian that's the kid's dog.|sd|3007|1
+B|It's just,|%|3007|1
+B|you see them in Europe|sd|3007|1
+B|and they're just lovely.|sv|3007|1
+A|Huh.|b|3007|0
+B|But you'll see,|sd|3007|1
+B|I mean, if you ever start looking in papers now and you start seeing these ads for German Shepherds, they will say on them, bred for disposition, A K C conforming which means that their advertising that this is no longer an indiscriminate dog.|sd|3007|1
+A|Huh.|b|3007|0
+B|This is bred for,|sd|3007|1
+B|and they had to go through and destroy a, for a while there, about seventy-five percent of their puppies that they bred.|sd|3007|1
+A|Wow.|ba|3007|0
+B|Because they were looking for this disposition.|sd|3007|1
+B|And nowadays you, you'll get, you'll get a dog trainer to recommend a specific, you know, breeder handler.|sd|3007|1
+B|They will recommend their shepherds as a children's dog.|sd|3007|1
+A|Huh.|b|3007|0
+B|But ...|%|3007|1

@@ -1,0 +1,48 @@
+A|How would you go about organizing a family reunion?|qw|3202|0
+B|Well,|%|3202|1
+B|for,|%|3202|1
+B|I grew up in the deep south like south Alabama.|sd|3202|1
+B|So whenever I think of family reunions,|%|3202|1
+B|my family, like, got together almost every week.|sd|3202|1
+A|Oh, gee.|ba|3202|0
+B|And there would be like thirty people.|sd|3202|1
+B|So people talk about, you know, big family reunions|sd|3202|1
+B|and I think, like|%|3202|1
+B|I have a friend who just went to, like, Wyoming to some big ranch, you know, where like there were four hundred people for their family reunion.|sd|3202|1
+A|Oh, my.|ba|3202|0
+B|And I,|%|3202|1
+B|so I mean, how I would go about doing it is I would just call all my relatives.|sd|3202|1
+A|Uh-huh.|b|3202|0
+B|Because I, since I came from,|%|3202|1
+B|my father has, uh, five sisters and two brothers|sd|3202|1
+B|and my mother has four brothers and two sisters.|sd|3202|1
+B|So I|%|3202|1
+B|both of my parents had big families,|sd|3202|1
+B|and we always we always got together, just always.|sd|3202|1
+B|Now it's different because I live here|sd|3202|1
+B|and I,|%|3202|1
+B|you know, when I go home I try to see the families, as much of the family as I can|sd|3202|1
+B|but it's real different.|%|3202|1
+A|Yes.|aa|3202|0
+B|And I grew up in a real not, I think not normal setting.|sd|3202|1
+A|With all of you living so close together.|bf|3202|0
+B|Right.|aa|3202|1
+B|I mean Sunday dinner was at my grandmother's|sd|3202|1
+B|and, you know, like I said there would be thirty, you know, thirty people,|sd|3202|1
+B|and everyone would just bring things|sd|3202|1
+B|and my grandmother would cook and cook and cook.|sd|3202|1
+A|Oh.|b|3202|0
+B|And|%|3202|1
+A|Well, I come from a very small family.|sd|3202|0
+A|And we planned a family reunion this spring. Uh, where we are from Texas|sd|3202|0
+A|and my family is from Ohio|sd|3202|0
+A|and we met in Florida.|sd|3202|0
+B|Uh-huh.|b|3202|1
+A|So the seven of us went on a cruise and then went to Disney together.|sd|3202|0
+A|So that's all the family,|sd|3202|0
+A|so planning our family reunion was very easy you know .|sd|3202|0
+B|Yeah,|b|3202|1
+B|I guess so.|aap_am|3202|1
+B|It really sounds like it was fun.|ba|3202|1
+A|Yeah,|aa|3202|0
+A|well, we had a wonderful|sd|3202|0

@@ -1,0 +1,188 @@
+B|All right,|b|3994|0
+B|well do you play any musical instruments or,|qy|3994|0
+A|No,|nn|3994|1
+A|I don't play any.|sd|3994|1
+A|I used to.|sd|3994|1
+B|Oh well,|b|3994|0
+A|I think everybody took piano lessons|sv|3994|1
+A|so,|%|3994|1
+B|Everybody,|sv|3994|0
+B|sure.|aa|3994|0
+B|I, I started when I was in, uh, third grade,|sd|3994|0
+B|and I've, I still play the piano as of today.|sd|3994|0
+A|Do you?|qy|3994|1
+B|Yes,|ny|3994|0
+B|I do.|sd|3994|0
+A|I started,|sd|3994|1
+A|I think I was in the fifth grade|sd|3994|1
+A|and I played it for maybe three months|sd|3994|1
+B|But, then, again, I was also in, uh, the marching band.|sd|3994|0
+B|I played the drums,|sd|3994|0
+B|I played the clarinet,|sd|3994|0
+B|I played the trumpet.|sd|3994|0
+A|Wow|ba|3994|1
+B|Uh, you know, whatever|sd|3994|0
+B|and so I, I still sing,|sd|3994|0
+B|and I sing in the choir today|sd|3994|0
+B|so,|%|3994|0
+A|All right|b|3994|1
+B|I I enjoy the music,|sd|3994|0
+B|it gives me an out.|sd|3994|0
+A|Yeah.|b|3994|1
+B|It always sounds like,|sv|3994|0
+B|for my playing the piano when I was depressed and didn't have anything else to do and there was no one to play with I could always go play with the piano, you know.|sd|3994|0
+A|True|aa|3994|1
+B|So, how long did you play?|qw|3994|0
+A|Only for about three months.|sd|3994|1
+B|Three months.|b^m|3994|0
+A|Yeah,|b|3994|1
+A|me and my brother both took the classes|sd|3994|1
+A|and we got pretty bored quick|sd|3994|1
+B|I was going to say, you got as far as the, uh, chop sticks, huh.|sd|3994|0
+A|Um, well, I could play, uh, the wood chuck song.|sd|3994|1
+B|Oh, the wood chuck song|b^m|3994|0
+A|And I still can to this date.|sd|3994|1
+B|And your mother's saying, and although, the money that we spent for those piano lessons this is all we got was the wood chuck song|sd|3994|0
+A|Yeah.|b|3994|1
+A|Yep,|b|3994|1
+A|they went out and bought us a piano|sd|3994|1
+A|and for three months|sd|3994|1
+B|Oh, bless your heart.|ba|3994|0
+B|Did you ever, did you ever just bang on it or do anything with it at all.|qy|3994|0
+A|Oh, yeah,|ny|3994|1
+A|any time I got bored|sd|3994|1
+B|Oh, okay,|bk|3994|0
+B|but I mean, can you play anything on it, other than wood chuck song?|qy|3994|0
+A|No.|nn|3994|1
+B|No.|b^m|3994|0
+A|And Jaws,|sd|3994|1
+A|but I think everybody can.|sv|3994|1
+B|Okay.|bk|3994|0
+B|I I, I can still read music if I'm lucky|sd|3994|0
+B|because I,|%|3994|0
+B|if I work real hard I can still barely read the music,|sd|3994|0
+B|but, see, I played the piano from the third grade all the way through high school,|sd|3994|0
+A|Yeah.|b|3994|1
+B|so|%|3994|0
+A|Yeah.|b|3994|1
+B|I played uh, concertos and other stuff|sd|3994|0
+B|but,|%|3994|0
+B|I got to the point where I wasn't really reading music, I was memorizing music,|sd|3994|0
+B|so because of that, I can't read music as well as I used to,|sd|3994|0
+B|but anyway,|%|3994|0
+A|Yeah.|b|3994|1
+B|but I enjoy it, though.|sd|3994|0
+B|I find it to be a good out|sd|3994|0
+B|and I still enjoy the marching band|sd|3994|0
+B|and I still enjoy, uh, singing in the choir|sd|3994|0
+B|so,|%|3994|0
+A|Do you sing at choir at your church?|qy|3994|1
+B|Yes,|ny|3994|0
+B|I do.|sd|3994|0
+A|Yeah.|b|3994|1
+B|Yes,|ny|3994|0
+B|I do.|sd|3994|0
+B|That's,|%|3994|0
+B|in fact, that's about the only musical thing that I still do is sing in the choir.|sd|3994|0
+A|Yeah.|b|3994|1
+A|I tried out for choir when I was, think, in the seventh grade|sd|3994|1
+A|and they wouldn't let me in.|sd|3994|1
+A|So, I never tried again.|sd|3994|1
+B|Well, I sing in the choir,|sd|3994|0
+B|I do know if they want me to or not,|sd|3994|0
+B|but at least I do sing in it|sd|3994|0
+A|Yeah,|b|3994|1
+B|That's pretty good.|sv|3994|0
+B|Well,|b|3994|0
+A|I never really learned the music or anything.|sd|3994|1
+A|I never learned,|sd|3994|1
+A|I got right to where I was figuring out where all the keys were on the piano|sd|3994|1
+A|and that's about when I quit.|sd|3994|1
+B|I was at,|%|3994|0
+B|I actually went to the University of Texas at one time thinking that I would, be a musician.|sd|3994|0
+B|I wanted to be a high school band director.|sd|3994|0
+A|Yeah.|b|3994|1
+B|But after one semester of that, I said no, no,|sd|3994|0
+B|this isn't for me.|^q|3994|0
+B|enjoy it, but not for profession, no.|sd|3994|0
+A|Yeah.|b|3994|1
+B|And besides that I kind of learned I wasn't really that good|sd|3994|0
+B|I gave up.|sd|3994|0
+A|Yeah.|b|3994|1
+B|Course, my mom thought I was,|sd|3994|0
+B|but, uh, you know,|%|3994|0
+A|Of course,|aa|3994|1
+A|parents always do.|sv|3994|1
+B|Oh, yeah,|b|3994|0
+B|so,|%|3994|0
+A|They're nice that way.|sv|3994|1
+B|Yes.|aa|3994|0
+B|Well, what else can we uh, talk about,|qy|3994|0
+B|uh,|%|3994|0
+A|Uh, well, I don't,|%|3994|1
+A|so you listen to kind of church music, gospel?|qy^d|3994|1
+B|No,|nn|3994|0
+B|no,|nn|3994|0
+B|I, I listen to K V I L.|sd|3994|0
+A|Oh, yeah?|bh|3994|1
+B|Yeah.|ny|3994|0
+A|Yeah.|b^m|3994|1
+B|So I listen to the radio,|sd|3994|0
+B|I like the pop music.|sd|3994|0
+A|Oh, yeah.|b|3994|1
+B|I like people like Neil Diamond and all, all the folks that you're not supposed to like,|sd|3994|0
+B|but that's who I go for|sd|3994|0
+A|Oh, yeah,|b|3994|1
+A|the jeezer music as I call it.|bf|3994|1
+B|Oh, the jeezer music.|b^m|3994|0
+A|Yeah.|aa|3994|1
+B|Oh, okay,|b|3994|0
+B|well,|b|3994|0
+A|My boss listens to that.|sd|3994|1
+A|We listen to ninety-seven point nine|sd|3994|1
+A|and that's his station, so I call it the jeezer music.|sd|3994|1
+B|Okay,|b|3994|0
+B|now what kind of music do you listen to?|qw|3994|0
+A|Well, I listen to like ninety-seven point one, you know, more,|sd|3994|1
+B|What what is that?|qw|3994|0
+A|It's more, uh,|%|3994|1
+A|I don't know how to explain it,|^h|3994|1
+A|kind of pop, you know, rock.|sd|3994|1
+B|Rock.|b^m|3994|0
+A|Yeah.|aa|3994|1
+B|Hard rock?|bf|3994|0
+A|Well, not hard|ar|3994|1
+B|Not hard rock.|qy^d|3994|0
+A|Just kind of,|%|3994|1
+B|Not like the eagle.|qy^d|3994|0
+A|Huh?|br|3994|1
+B|Is that the eagle?|qy|3994|0
+A|Yeah.|ny|3994|1
+B|Okay,|bk|3994|0
+B|I know, I know what the eagle is.|sd|3994|0
+A|It's not too hard,|sv|3994|1
+A|it's,|%|3994|1
+B|That's not too hard.|aa|3994|0
+A|You know.|%|3994|1
+A|But it's not enough to put you to sleep|sv|3994|1
+B|True,|aa|3994|0
+B|true.|aa|3994|0
+A|Which some of the songs on K V I L can.|sv|3994|1
+B|Well, course, see, I listen to K V I L for the contests.|sd|3994|0
+B|I mean|%|3994|0
+A|Oh, yeah,|b|3994|1
+A|got the bumper sticker, too?|qy^d|3994|1
+B|Oh, yes,|ny|3994|0
+B|oh, yes.|ny|3994|0
+B|You can't drive a car without bumper sticker|sd|3994|0
+B|and you know they're going to call you up.|sd|3994|0
+A|Someday.|^2|3994|1
+B|Yeah|aa|3994|0
+B|Well, listen, I've enjoyed talking.|fc|3994|0
+B|I, I'm sure that the switchboard will probably give us that sign off message very shortly anyway.|fc|3994|0
+A|Okay.|fc|3994|1
+B|I appreciate it.|fc|3994|0
+A|Okay.|fc|3994|1
+B|Catch you later.|fc|3994|0
+A|Bye-bye.|fc|3994|1
+B|Bye-bye.|fc|3994|0

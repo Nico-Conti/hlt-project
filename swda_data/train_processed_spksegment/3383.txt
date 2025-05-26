@@ -1,0 +1,130 @@
+A|Seem to have the topic already on top of tip of your tongue there|sv|3383|0
+A|so why don't you go ahead and start.|ad|3383|0
+B|Yeah.|aa|3383|1
+B|Isn't the, uh, the subject auto repair, for tonight?|qy|3383|1
+A|Yes, sir.|ny|3383|0
+B|Yeah.|%|3383|1
+B|That's great.|ba|3383|1
+B|The reason I say that is pretty timely because just tonight I went out and changed the oil in my car|sd|3383|1
+B|and, that's something I like to do and, uh, something I, something I can do with now the sophisticated auto, cars we have today with all the computers and everything.|sd|3383|1
+A|Okay.|b|3383|0
+A|Right,|aa|3383|0
+A|exactly.|aa|3383|0
+B|It's, uh, and there's not a whole lot you can do without the equipment and electronic analysis that needs to be done on a car,|sv|3383|1
+B|but I do like to get out and tinker with a car|sd|3383|1
+B|and it's something I can do still.|sd|3383|1
+B|Do you enjoy working with your car?|qy|3383|1
+A|I sure do.|na|3383|0
+A|I, uh, in fact, the last thing I have, I've done I, I don't even remember what it is.|sd|3383|0
+A|I've had to have oil changes done myself because I live in an apartment complex, where we are not allowed to, work on our vehicle.|sd|3383|0
+B|Oh, dear.|ba|3383|1
+A|We can't even wash our vehicle,|sd|3383|0
+A|so.|%|3383|0
+B|Oh, that's too bad.|ba|3383|1
+A|Uh, but the last thing I can remember doing|sd|3383|0
+A|I had a sixty-six Mustang,|sd|3383|0
+B|Oh.|b|3383|1
+A|and that was all right because like you said that was pre technology days, I guess.|sd|3383|0
+B|Oh, yes.|aa|3383|1
+A|And, uh, you know, you could do a lot of it yourself still,|sd|3383|0
+A|and, uh, I didn't tinker too much with the engine.|sd|3383|0
+A|It was, it was in pretty good shape,|sd|3383|0
+A|but my main concern and what I enjoy doing was, was the interior.|sd|3383|0
+B|Oh.|b|3383|1
+A|And, uh, it was, it was pretty shelled, uh,|sd|3383|0
+A|but it was fun.|sd|3383|0
+A|It was taking the whole thing, you know, the whole interior apart and, you know, ordering new carpeting and, uh,|sd|3383|0
+B|And did you install all that yourself?|qy|3383|1
+A|Right.|na|3383|0
+B|Well, that was, I bet that was a lot of fun.|qy^d|3383|1
+A|And,|%|3383|0
+A|It, it was.|na|3383|0
+A|I, my wife enjoyed, uh, she, you know, helped out a little.|sd|3383|0
+A|We sanded down the, the insides of the door panels. And painted, those and,|sd|3383|0
+B|Uh-huh.|b|3383|1
+B|Wow.|ba|3383|1
+B|Do you still have the car?|qy|3383|1
+A|No,|nn|3383|0
+A|I sold it.|sd|3383|0
+B|Well, that's too bad.|ba|3383|1
+B|A sixty-seven uh, Mustang is about the, uh, top, top year for the Mustang car.|sv|3383|1
+A|Yeah,|aa|3383|0
+A|it was fun though.|sd|3383|0
+A|It was fun.|sd|3383|0
+A|I, I really enjoyed it,|sd|3383|0
+A|and I was surprised at, at, uh, the availability of parts yet.|sd|3383|0
+B|Yes.|b|3383|1
+A|You know, you can, you can still get factory original parts.|sd|3383|0
+B|Huh.|%|3383|1
+A|But, uh, you pay a premium|sd|3383|0
+A|but you just don't get them.|sd|3383|0
+A|I, I didn't.|sd|3383|0
+A|I went ahead and got, you know, Japanese made duplicates or wherever they were made,|sd|3383|0
+A|Canada.|sd|3383|0
+B|Yeah.|b|3383|1
+A|You know, prefabs and all that stuff|sd|3383|0
+A|but,|%|3383|0
+B|Well, you know, that's, that's fine.|ba|3383|1
+B|I, I don't think that there would be, uh, you know, a, a quality difference.|sv|3383|1
+B|I don't know.|h|3383|1
+B|You wouldn't, you didn't notice the difference, did you?|qy|3383|1
+A|Well, actually there was.|arp_nd|3383|0
+B|Oh.|bk|3383|1
+A|And, uh, I had heard rumors that it was because they couldn't duplicate certain patterns, uh, exactly.|sd|3383|0
+B|Uh-huh.|b|3383|1
+A|And so like the, the glove box was just a little, little wider, little harder to fit in,|sd|3383|0
+B|Oh, dear.|ba|3383|1
+A|and the carpeting, uh, stretched a little too far.|sd|3383|0
+B|Uh-huh.|b|3383|1
+A|I had to cut some of the sides down.|sd|3383|0
+B|Oh, dear.|ba|3383|1
+A|But just, just little things.|sd|3383|0
+A|You know, one of the screws on, on the door uh, window regulators|sd|3383|0
+A|you could get three of the, three of the four to lineup.|sd|3383|0
+A|The fourth one you couldn't get to lineup no matter what you did.|sd|3383|0
+B|Oh, I bet that was frustrating, wasn't it?|qy|3383|1
+A|You know,|%|3383|0
+A|Oh, it was|na|3383|0
+A|but, the end result is after you put your, your panels on, nobody sees that you got one screw missing in your, your window regulator anyway|sd|3383|0
+A|and, it, it runs. It works just the same,|sd|3383|0
+B|Right,|aa|3383|1
+B|right.|aa|3383|1
+A|so.|%|3383|0
+B|Yeah,|aa|3383|1
+B|that's, that's true.|aa|3383|1
+B|Well, you know, that, that is something I really enjoy doing. Um, working on our car too,|sd|3383|1
+B|the, uh, I just changed my oil, oil tonight|sd|3383|1
+B|but, uh, I enjoy also working on things like the brakes|sd|3383|1
+B|and, uh, in fact, just two weeks ago I helped my neighbor out on his brakes on his car.|sd|3383|1
+B|And, uh, either if it's a drum or, or disc brakes, I enjoy working on those kind of things.|sd|3383|1
+A|Disc brakes don't seem to give me too much problem|sd|3383|0
+A|but I, I honestly don't have the tools for the drum.|sd|3383|0
+A|I know you got, uh, certain spring lever that you got to have or some, uh some spring pulley or something that you got to pull that spring back over onto that notch.|sd|3383|0
+B|Yeah.|b|3383|1
+B|Spoons and,|^2|3383|1
+B|Yes,|aa|3383|1
+B|you do|aa|3383|1
+A|Uh, my dad has got all that|sd|3383|0
+A|and, and I, I helped him when I was growing up,|sd|3383|0
+B|Uh-huh.|b|3383|1
+A|but I don't have that stuff now,|sd|3383|0
+B|Yeah.|b|3383|1
+A|because of the drum brakes I, you know, don't have any choice but to take them in.|sd|3383|0
+B|Yeah,|aa|3383|1
+B|that's true.|aa|3383|1
+B|And, you know, it, it doesn't, doesn't hurt every once in a while to have them done professionally too|sv|3383|1
+B|because, um, I was helping my neighbor out|sd|3383|1
+B|and one of his drums needed to be resurfaced|sd|3383|1
+B|and I don't have, of course, the equipment to do that,|sd|3383|1
+A|Sure.|b|3383|0
+B|so he took it into a shop and had it uh, resurfaced and, and fixed that way.|sd|3383|1
+B|But, yeah,|%|3383|1
+B|it is true, uh, you know,|sv|3383|1
+B|I did have a sixty-four Ford truck that I wish I still had and loved to get inside that and tinker around with it and work with it, because you didn't have all the extra, extra stuff, that's in there now.|sd|3383|1
+A|Uh-huh.|b|3383|0
+A|I'll tell you what.|^h|3383|0
+A|The other, the nicest thing about them is, uh, everything was standard.|sd|3383|0
+A|You didn't have to worry about finding a metric anything.|sd|3383|0
+B|Oh, yeah.|b|3383|1
+A|Boy, I tell you.|^h|3383|0
+B|And you know,|%|3383|1

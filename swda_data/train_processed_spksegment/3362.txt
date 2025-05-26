@@ -1,0 +1,95 @@
+A|Okay,|fo_o_fw_"_by_bc|3362|0
+A|I'll let you start this time.|ad|3362|0
+B|Well, how much do you like lawn and garden work?|qw|3362|1
+A|Well, uh, even though it's totally out of my, uh, my degree training, I've been working as, as, in the horticultural aspect, so the last, I don't know, fifteen, twenty years, so Uh, I'm,|arp_nd|3362|0
+B|Oh.|bk|3362|1
+B|Oh, for goodness sakes.|ba|3362|1
+B|What do you do?|qo|3362|1
+A|Well, I work for the state as, as a grounds keeper.|sd|3362|0
+B|Uh-huh,|b|3362|1
+B|well, that's interesting.|ba|3362|1
+B|Um, so, at this time of the year are you doing much garden work?|qy|3362|1
+A|No,|nn|3362|0
+A|mostly snow removal, which we've had a lot of,|sd|3362|0
+A|but, uh, I don't know,|h|3362|0
+A|I, I guess, uh, growing up on the farm and, and that, I, I've always had a big interest, uh.|sd|3362|0
+B|Right.|b|3362|1
+A|I have a, uh, when I have an area to do, I, I always had a big garden and enjoy working on lawns and, and everything.|sd|3362|0
+B|Uh-huh.|b|3362|1
+B|Well I love to work outside, really,|sd|3362|1
+B|and I enjoy flowers and stuff.|sd|3362|1
+B|I don't do a whole lot of it, um, at this exact point in my life, um, because I have two teenage boys,|sd|3362|1
+B|and so they do all the lawn all the lawn care|sd|3362|1
+A|Okay.|b|3362|0
+B|but I still take care of the, you know, flower beds and things like that.|sd|3362|1
+B|I was even planning to go out and to, uh, dig up some hibiscus plants that will not make it through the winter here, but, you know, were planted in the ground since last spring|sd|3362|1
+A|Uh-huh.|b|3362|0
+B|and I was going to dig them up for a friend and for some starters for me,|sd|3362|1
+B|and lo and behold, about five days ago, we had a freeze down to about, oh, twenty-three degrees or something|sd|3362|1
+A|Uh-huh.|b|3362|0
+B|so the hibiscus plants no longer exist|sd|3362|1
+A|Oh, that's terrible.|ba|3362|0
+A|Twenty-three|%|3362|0
+B|And I really feel bad about it,|sd|3362|1
+B|it's a plant that we've had for probably twenty-five years that these were cuttings off of, you know.|sd|3362|1
+A|Yeah.|b|3362|0
+A|Yeah.|b|3362|0
+B|So, they're all gone at this point.|sd|3362|1
+B|Gardening in Texas is really interesting, though.|sd|3362|1
+B|I grew up in Illinois|sd|3362|1
+A|Yeah.|b|3362|0
+B|and, um, Texas is just so hot in the summer and so dry,|sd|3362|1
+B|why, you know, everyone that lives in town and has yards practically has uh, watering system.|sd|3362|1
+A|Uh-huh.|b|3362|0
+B|And so with that, why, our lawns do stay, um, you know, pretty nice all summer, if you water.|sd|3362|1
+A|Uh-huh.|b|3362|0
+B|But in the winter, we have Bermuda grass|sd|3362|1
+A|Uh-huh.|b|3362|0
+B|and in the winter it turns as brown as a grocery sack|sd|3362|1
+A|Right,|b|3362|0
+A|yeah.|b|3362|0
+B|and and I just think it's ugly|sv|3362|1
+B|When I go back home to my parents in Illinois in the winter, you know, and their grass is fairly green.|sd|3362|1
+A|Uh-huh.|b|3362|0
+A|Yeah,|b|3362|0
+A|that's one, one aspect of a lot of those grasses, they go dormant.|sv|3362|0
+A|I think the Saint Augustine and, uh, Centipede grass is another one you have quite a bit of down there|sv|3362|0
+B|Uh-huh,|aa|3362|1
+B|uh-huh.|aa|3362|1
+A|yeah,|b|3362|0
+A|those two.|sv|3362|0
+B|Yeah.|aa|3362|1
+B|Some people have, I think it's fescue that stays green all winter,|sd|3362|1
+A|Yeah.|b|3362|0
+B|but they really have a heck of a time keeping it going in the middle of the summer.|sd|3362|1
+B|They have to water an incredible amount.|sd|3362|1
+B|But, um, those those lawns look nice during the winter,|sd|3362|1
+B|but, you know, they almost stick out like a, I guess not a sore thumb, a pretty thumb.|sd|3362|1
+B|But, you know, when you look at the neighborhoods and they're all brown except the one, you know,|sd|3362|1
+B|it's sort of like, well,|sv|3362|1
+A|Well, I know my folks live, uh, in Arizona there,|sd|3362|0
+A|and, uh, you know, they just grow rocks|sd|3362|0
+B|Right.|b|3362|1
+A|So. I know I was in, uh, Houston when I was working for a company once,|sd|3362|0
+A|and we were taking care of lawns out there,|sd|3362|0
+A|and, uh, that particular year they had just tons of rain, you know,|sd|3362|0
+A|it was raining continuously.|sd|3362|0
+B|Uh-huh.|b|3362|1
+A|And then, I know with all that moisture, a lot of the lawns get a lot of disease problems.|sv|3362|0
+B|Yes,|aa|3362|1
+B|that's true.|aa|3362|1
+B|Yeah,|aa|3362|1
+B|Houston is a lot, um, a lot wetter than, than Dallas, Dallas area,|sd|3362|1
+B|that's where Plano is,|sd|3362|1
+B|and, um, and just humidity you know, just all the time, it's an awfully lot more humid.|sd|3362|1
+A|Uh-huh.|b|3362|0
+A|Are, are you, uh, able to get, uh, sometimes a double crops of, of certain things in your garden?|qy|3362|0
+B|Yes,|ny|3362|1
+B|uh-huh,|ny|3362|1
+B|I think people do.|sd|3362|1
+B|Yeah.|%|3362|1
+B|I don't have a vegetable garden,|sd|3362|1
+B|haven't for, I guess I never have here, actually,|sd|3362|1
+B|but, um, but, yes,|%|3362|1
+B|uh-huh,|%|3362|1
+B|we have Neil Sperry talks on the radio,|%|3362|1

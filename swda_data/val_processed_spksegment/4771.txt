@@ -1,0 +1,93 @@
+A|Up here in Rochester, uh, we're the second cleanest metropolitan city as far as air pollution.|sd|4771|0
+A|I think Grand Rapids was number one.|sd|4771|0
+A|Uh, we really don't have too much of a problem as far as, uh, industry since we're pretty technologically based as far as our industry in the city here.|sd|4771|0
+A|But we do have the same problem a lot of other areas up here in the northeast have|sd|4771|0
+A|and that is the effects of acid rain. coming basically from coal plants in Ohio and Illinois and Indiana.|sv|4771|0
+B|Right.|b|4771|1
+B|Well, that's true.|aa|4771|1
+B|Actually down here we don't have a big problem with, uh, with air pollution.|sd|4771|1
+B|Mainly because we don't have anybody to to either side of us.|sv|4771|1
+B|Uh, which helps out a lot as far as that goes.|sd|4771|1
+B|I wouldn't even necessarily thought of that except when I lived up in Boston and up in, uh, you know,|sd|4771|1
+B|debates would come up up there in Massachusetts and, you know, in that area over, uh, air pollution|sd|4771|1
+B|and their attitude's, basically, well, prevailing ins, winds are to the east|sd|4771|1
+B|so why should we have to worry.|^q|4771|1
+A|Yeah.|b|4771|0
+A|I've, I've, uh, was in Los Angeles once|sd|4771|0
+A|and that was quite a difference as far as pollution goes.|sd|4771|0
+A|I mean you couldn't really see that much|sv|4771|0
+A|Every once in a while we have these air inversions, the weather inversions|sd|4771|0
+B|Oh, yes|b|4771|1
+B|nothing,|%|4771|1
+A|and then it gets hazy around here|sd|4771|0
+A|but they're really,|%|4771|0
+A|we don't have a big problem with it.|sd|4771|0
+A|I think that, uh, what most of the people here in New York state are going after right now is,|sv|4771|0
+A|it's, it's the, uh, ongoing acid rain problem.|sd|4771|0
+A|Especially out in the, uh, uh, Adirondack areas where, you know, the lakes are becoming, uh, changing the acidity of the lakes|sv|4771|0
+A|and we're having problems now because the fish are dying and certain acidic loving plants, uh, or alkaline liking plants are not lasting anymore because the soil levels, the p H is changing as this acid rain continues to fall.|sd|4771|0
+B|Right.|b|4771|1
+A|And I know that there's been battles over the states up here.|sd|4771|0
+A|Uh, you know, Governor Mario going after, you know, governors of Ohio and and Indiana to fix what's going on down there.|sd|4771|0
+A|I remember when I was in Florida,|sd|4771|0
+A|the only problem was that it seemed like it may,|sd|4771|0
+A|it wasn't really pollution, just the steamy weather <laughter>.|sd|4771|0
+B|Oh absolutely,|aa|4771|1
+B|yeah,|aa|4771|1
+B|just muggy.|sv|4771|1
+B|So, yes|aa|4771|1
+B|I think,|%|4771|1
+B|yeah,|aa|4771|1
+B|I think you're right.|sv|4771|1
+B|Our most pollute substance down here is just water.|sv|4771|1
+B|But I I, I, I think, you know, the biggest causes even then a lot of times are, uh, uh, like when I was up in Boston just all the cars. You know, just all over the place.|sv|4771|1
+A|Yeah|b|4771|0
+A|it,|%|4771|0
+B|You just got a lot of, you know, a lot of pollution from those|sv|4771|1
+B|and, uh, you know, if you don't have a wind, it sticks around.|sd|4771|1
+A|Oh, yeah.|b|4771|0
+A|I, you know, I was in Boston once|sd|4771|0
+A|and I remembered seeing some of these things coming through at rush hour, even with the Tee.|sd|4771|0
+A|Uh, just this, it looked like billions of cars massing|sd|4771|0
+B|Absolutely.|aa|4771|1
+A|and if they sit there and then there's nowhere for the air to go.|sv|4771|0
+A|I mean, yeah, that's what's in, you know, Los Angeles is,|sv|4771|0
+A|I think that's biggest problem|sv|4771|0
+A|because when I was in Los Angeles for a time, it's all, you know, from Los Angeles to San Diego it's like all city.|sv|4771|0
+B|Right.|b|4771|1
+A|And there's really, there's nowhere for this to be absorbed, really.|sd|4771|0
+A|Uh, tree planting sometimes can handle, you know, stopping some of the air pollution and that and help|sv|4771|0
+A|but if you have nowhere to do anything.|sd|4771|0
+B|That's, that's very true.|aa|4771|1
+B|Uh, you know, of course then when, when you're not recycling, you've got these incendiary plants and stuff, that can give you some pretty disgusting stuff going up in the atmosphere.|sv|4771|1
+B|But I, you know, you've got, you've got the industry,|sd|4771|1
+B|you've got that,|sd|4771|1
+B|and you got the cars.|sd|4771|1
+B|I think the cars are where, where it's at right now as far as pollution goes, air pollution I mean.|sv|4771|1
+A|Yeah.|b|4771|0
+A|I, you know, Florida doesn't seem to be, at least maybe Miami,|sv|4771|0
+A|but I, I, uh, you know,|%|4771|0
+A|Fort Lauderdale I, I don't know what the big industries are down there, uh,|sd|4771|0
+A|but, you know, up here we have Kodak|sd|4771|0
+B|Right.|b|4771|1
+A|and that's the worst polluter.|sv|4771|0
+A|They put, uh, uh,|%|4771|0
+A|you can smell ether in the air sometimes|sd|4771|0
+A|It keeps the neighborhoods happy I guess.|sv|4771|0
+B|I guess so.|aa|4771|1
+A|Uh, cause they clean the, uh, the lenses for cameras|sd|4771|0
+A|and they, they make film here|sd|4771|0
+A|and they're the worst offender|sv|4771|0
+A|but it's, you know, it's under so much control.|sv|4771|0
+A|You know, sulphur dioxide is the big emittant from them|sd|4771|0
+A|but that's really getting under control now.|sv|4771|0
+B|Right.|b|4771|1
+B|I, you know, I don't know in air what they do.|sd|4771|1
+B|Uh, I, I haven't run across any major pollutants down there that I've, I've really seen a lot of, you know, about.|sd|4771|1
+B|Uh, I, I know I've seen like, uh,|%|4771|1
+B|my grandparents live in Corpus Christi, Texas|sd|4771|1
+B|and I know they've, there's a lot of refineries down there|sd|4771|1
+B|and that, that's some pretty potent stuff they put up in the air.|sv|4771|1
+B|I, but I don't know how, uh, you know,|sd|4771|1
+B|there's a difference in what you can smell and what you, uh, you know, what's bad.|sv|4771|1
+A|Be interesting to see when, as Mexico develops industrially whether, you know, without,|sv|4771|0

@@ -1,0 +1,125 @@
+A|Well, what's your favorite baseball team, Rita?|qw|3403
+B|Well, I suppose I'm supposed to say the Rangers, right|qy|3403
+B|Is that what|qy|3403
+B|is the million dollar question here?|qy|3403
+A|Well, that isn't a, a true false or right or wrong test here.|no|3403
+B|Yeah.|b|3403
+B|Uh, uh, you know, I would like to say the Rangers,|sd|3403
+B|but unfortunately they're not.|sd|3403
+B|I was from Illinois,|sd|3403
+B|and my favorite team was the White Sox.|sd|3403
+A|Not a Cubbies fan, huh.|qy|3403
+B|No,|nn|3403
+B|no,|nn|3403
+B|my family, my dad was,|sd|3403
+B|but I turned out to be a White Sox fan.|sd|3403
+A|Well, that's all right.|bd|3403
+B|I lived in Chicago.|sd|3403
+A|How do you expect them to do this year?|qo|3403
+B|Yeah|b|3403
+B|they did pretty well.|sd|3403
+A|Okay.|bk|3403
+B|What did you think of the World Series?|qo|3403
+A|Well, I'll tell you.|^h|3403
+A|I just, uh, moved down from South Dakota in July,|sd|3403
+A|and, uh, in South Dakota, the Minnesota Twins are the closest professional sports team to where I was living|sd|3403
+B|Uh-huh.|b|3403
+A|and so everybody was a Twins fan,|sd|3403
+A|and I was kind of, uh, didn't have much interest in the Twins, you know,|sd|3403
+A|it was, it was kind of pathetic, I mean,|sd|3403
+A|we only had two radio stations,|sd|3403
+A|and one of them broadcast every Twins game live, you know,|sd|3403
+A|and, and the other one was country.|sd|3403
+B|So you didn't really have a lot of choice, did you.|qy|3403
+A|So, that's right.|na|3403
+A|There's was Twins there, or, you know Skip Williams.|sd|3403
+B|Or country.|^2|3403
+B|Yeah.|b|3403
+B|Oh, uh, and I was routing for the Twins myself because, uh, they, a couple of Ranger players that I had watched when we first moved here, uh, went to Minnesota,|sd|3403
+B|and we used to tease about, my son|sd|3403
+B|and I used to have a bet going about some of the players that had moved from here to Minnesota,|sd|3403
+B|but it was it certainly was an exciting Series, anyway.|sv|3403
+A|It sure was,|aa|3403
+A|it sure was.|aa|3403
+B|What do you think going to happen to the Rangers?|qo|3403
+A|Well, I I would like to assume that they're going to do, do better this coming year,|sd|3403
+B|Or can we predict?|qrr|3403
+A|I was sure hopeful anyway.|sd|3403
+A|When we moved down, uh, I was able to go to my first, you know baseball game, and thought, this is great, this is incredible.|sd|3403
+B|Uh-huh.|b|3403
+A|So I became a Rangers fan.|sd|3403
+A|I didn't really have one in South Dakota.|sd|3403
+A|So I adopted the Rangers,|sd|3403
+A|or rather they adopted me, I guess|sd|3403
+B|Uh-huh.|b|3403
+A|and, uh, it was just exciting, you know,|sd|3403
+A|you can watch baseball on T V|sd|3403
+A|and they hit the long ball,|sd|3403
+A|and it looks like wow, they really hit that ball.|sd|3403
+A|But when you go to the ball park, it's really not all that far you know,|sv|3403
+B|No.|aa|3403
+A|and it's so much more exciting watching a ball come at you,|sv|3403
+A|and.|%|3403
+B|Oh, isn't it though.|ba|3403
+B|You know, but, oh, I, I think going to the ball park just really makes it. Because then you watch it on T V you feel like you're more a part of it too.|sv|3403
+A|That's right,|ba|3403
+A|that's right.|ba|3403
+B|Well, I'm a great sports enthusiast,|sd|3403
+B|so I love, you know, baseball teams,|sd|3403
+B|and they,|%|3403
+B|in fact, on the news tonight, Nolan Ryan was on there.|sd|3403
+B|He was being, he was put in the, which I never knew existed, the Restaurant Hall of Fame|sd|3403
+A|The Restaurant|b^m|3403
+B|The Restaurant Hall of Fame inducted him tonight,|sd|3403
+B|and he, uh, says he's coming back, you know, uh,|sd|3403
+A|Huh.|b|3403
+B|he doesn't know how many years I mean, to pitch.|sd|3403
+A|Right.|b|3403
+B|He'll be at least one more,|sd|3403
+B|and he said he's been saying one more, and it's been two and three, might be two and three more.|sd|3403
+B|He likes it.|sd|3403
+A|That's right|ba|3403
+B|Yeah.|b|3403
+A|and he's still doing great still doing excellent.|sv|3403
+B|That's right.|ba|3403
+B|You know, and he said, I get a kick out of it, you know,|sd|3403
+B|he's, he's such a nice man.|sv|3403
+A|Well, didn't he just sign a twelve year contract with the Rangers?|qy|3403
+B|Yeah,|ny|3403
+B|and he,|%|3403
+B|you know when he quits at being active, he will go into, you know being a, managing and, yeah, you know, being a coach, I'm sure.|sd|3403
+A|Management.|^2|3403
+A|Right.|b|3403
+B|But, he's, uh, he certainly is a good example, uh, for the kids.|sv|3403
+A|That's right.|ba|3403
+B|You know, you like to have someone like that you could point to say, see what a fine man, that, he is.|sv|3403
+A|You know, some of the,|%|3403
+A|like, uh, Ivan Rodriguez wasn't even born when, when, uh, Nolan Ryan started pitching.|sd|3403
+B|That's right.|ba|3403
+A|And it's just incredible to think that there's, uh, there are players who are the sons of ball players that used to play against Nolan or with Nolan, you know,|sv|3403
+B|Uh-huh.|b|3403
+A|and now their sons are.|sd|3403
+B|Oh, he's been a legend for so many years, you know,|sd|3403
+B|and I don't know,|h|3403
+B|were you here, had you moved here yet when he did the exhibition at U T with his son.|qy^d|3403
+B|His son pitched for U T|sd|3403
+B|and he pitched for an exhibition game for the Rangers.|sd|3403
+A|Uh-huh,|nn|3403
+A|I wasn't.|sd|3403
+B|Yeah,|b|3403
+B|it was a,|%|3403
+B|I think it was a little early part of the summer,|sd|3403
+B|and uh, Nolan against.|sd|3403
+A|Was it Nolan against, uh|qy|3403
+A|Ryan against Ryan, huh.|qy|3403
+B|Ryan against Ryan,|na|3403
+B|yeah,|ny|3403
+B|his son pitched for U T|sd|3403
+A|Well that is neat.|ba|3403
+B|and, uh, only, uh, Ryan didn't want too much publicity on it because he didn't want his son getting too nervous about this whole thing.|sd|3403
+A|Uh-huh.|b|3403
+B|A game is a game, you know.|sv|3403
+B|Well, the Rangers really, uh, knocked the socks off of them, which you would expect you know, anyway,|sv|3403
+A|Right.|b|3403
+B|but Nolan I think took himself out after a couple of innings or something, you know, of the game|sd|3403
+B|so,|%|3403

@@ -1,0 +1,166 @@
+A|Okay,|fo_o_fw_"_by_bc|3898|0
+A|Gene|sd|3898|0
+A|So, it's nice to talk with you|fp|3898|0
+A|and, um, food is a very intriguing thing.|sv|3898|0
+A|Our lives are, are built around foods that we like and, nutritionally good for us.|sv|3898|0
+B|Yes, sir.|ba|3898|1
+A|What kind of dining out do you like?|qw|3898|0
+B|Well, there is two kinds.|sd|3898|1
+B|One I guess I'd say is with my wife where we enjoy, uh oh, I guess we usually enjoy a good seafood restaurant.|sd|3898|1
+A|Oh.|b|3898|0
+B|Uh, you know, something nice.|sd|3898|1
+A|Yeah.|b|3898|0
+B|And the other is with my whole family whom we, uh, go somewhere that the kids will enjoy|sd|3898|1
+B|Uh, recently we have been hitting Pancho's up.|sd|3898|1
+B|It's a local Mexican restaurant.|sd|3898|1
+A|Uh-huh.|b|3898|0
+B|because they have got a good rate on, you know, good prices and everything.|sd|3898|1
+A|Pancho's, that's,  a new one.|qy^d|3898|0
+B|Yeah.|b|3898|1
+B|Yeah,|ny|3898|1
+A|Uh-huh.|b|3898|0
+B|it's, it's a chain down uh,|sd|3898|1
+B|it goes up into Colorado and down here.|sd|3898|1
+B|I don't know where else it is.|sd|3898|1
+B|What about you?|qo|3898|1
+A|We have one called Chi Chi's in in our area.|sd|3898|0
+B|Oh, yeah.|b|3898|1
+A|And, uh, we had a restaurant called La Bamba|sd|3898|0
+A|but it's just, it closed recently.|sd|3898|0
+A|But Chi Chi's is a national restaurant, I think.|sv|3898|0
+A|Isn't it Mexican?|qy|3898|0
+B|I think,  think it might be.|sv|3898|1
+A|Do you have it there?|qy|3898|0
+B|I've I think I've seen it around.|sd|3898|1
+B|Yes, sir.|ny|3898|1
+A|Uh-huh.|b|3898|0
+B|Yeah.|b|3898|1
+A|Well, I love Mexican food myself.|sd|3898|0
+B|Oh, do you?|bh|3898|1
+B|Yeah.|%|3898|1
+A|But you go ahead now|ad|3898|0
+B|Oh, we, we do too.|sd|3898|1
+B|We, uh, we enjoy Mexican food.|sd|3898|1
+B|I'm just not impressed with the quality of it.|sd|3898|1
+B|It's just primarily the price that's, uh, satisfying at this point.|sd|3898|1
+B|But the kids,  seem to enjoy it.|sv|3898|1
+A|Is that right?|qy|3898|0
+A|Uh-huh.|b|3898|0
+B|Uh, and, uh, let's see.|^h|3898|1
+B|We've, uh, just recently discovered a super restaurant down here|sd|3898|1
+B|but it's, uh, not part of a chain|sd|3898|1
+B|it's just an individually owned seafood restaurant.|sd|3898|1
+B|But the first one we've been to that, uh, I don't think there was anything on the menu, that, that any of us had|sd|3898|1
+B|that was, uh, not just really super.|sd|3898|1
+B|It's nice to find a place like that.|sv|3898|1
+A|Oh, boy that is wonderful.|ba|3898|0
+B|Yeah.|b|3898|1
+A|Well, I, I agree with you on that.|aa|3898|0
+A|And I was really a seafood addict myself.|sd|3898|0
+A|I, I love crab meat in particular.|sd|3898|0
+B|Um.|%|3898|1
+A|I, uh, I can almost live on, on seafood and almost live on the crab meat if I had to.|sv|3898|0
+B|Oh, boy.|ba|3898|1
+B|Have you ever been to, uh, what is it, Original Book Binders in Philadelphia?|qy|3898|1
+A|I, uh, know the name|^h|3898|0
+A|but I haven't been there.|ng|3898|0
+B|Uh, that's an old established, uh, restaurant.|sd|3898|1
+B|I used to go there when I was in college.|sd|3898|1
+A|Uh-huh.|b|3898|0
+A|Where did you go to college?|qw|3898|0
+B|Uh, I went to the Naval Academy.|sd|3898|1
+A|Oh, the U S ,  Naval Academy?|br|3898|0
+B|And we used to,  we use to go up there on, uh, for football games sometimes. And have some liberty.|sd|3898|1
+A|Uh-huh.|b|3898|0
+B|And,|%|3898|1
+B|yeah,|%|3898|1
+B|we would go over there to, uh,|sd|3898|1
+B|pretty sure it was original, Original Book Binders|sd|3898|1
+B|I think it was,|h|3898|1
+B|yes.|aa|3898|1
+A|I'll be darn.|ba|3898|0
+B|I haven't been back there in years.|sd|3898|1
+A|Well, we're, we're supposed to be talking about dinning out,|sd|3898|0
+A|but I'll just make one comment that, uh, I just retired from Penn State,|sd|3898|0
+A|and, uh, all my work has been in research for the Navy|sd|3898|0
+B|Okay.|b|3898|1
+B|What area?|qw|3898|1
+A|Underwater acoustics.|sd|3898|0
+B|Is that right?|bh|3898|1
+B|Did you have any dealings with the, uh, underwater sound reference laboratory in Orlando, Florida?|qy|3898|1
+A|I have dealt with nearly all of the, all of the research laboratories that the country has.|no|3898|0
+B|Yes, sir.|ba|3898|1
+B|My dad worked there for years, and years.|sd|3898|1
+A|Uh-huh.|b|3898|0
+B|That's that's, uh, that's where I grew up was down in Orlando.|sd|3898|1
+B|So,|%|3898|1
+A|Oh, you grew up in Orlando.|qy^d|3898|0
+A|Uh-huh.|%|3898|0
+B|That's, uh, that's interesting, Well, I was in submarines. Uh,|sd|3898|1
+A|Well, that's what I worked on.|sd|3898|0
+B|Okay,|b|3898|1
+B|yeah,|%|3898|1
+B|must have had some interesting, uh, assignments for you there.|sv|3898|1
+B|when did you retire?|qw|3898|1
+A|The end of last month.|sd|3898|0
+B|Well, great.|ba|3898|1
+B|I'm sure you've seen some interesting developments in acoustics.|qy^d|3898|1
+A|I certainly have|na|3898|0
+B|Yeah.|b|3898|1
+A|So, I hate to, uh,|sd|3898|0
+A|I wish I could talk to you about that, uh,|sd|3898|0
+A|but, uh, I guess we should continue on, uh,|sv|3898|0
+B|Okay.|aa|3898|1
+A|Okay.|b^m|3898|0
+B|Right.|b|3898|1
+B|Where's,|qw|3898|1
+A|How do you like Chinese food?|qw|3898|0
+B|Oh, we, we do enjoy that.|sd|3898|1
+B|Yes, sir.|%|3898|1
+B|Uh, I don't know if we are particularly adventurous,|sv|3898|1
+B|we find something we like, uh, like cashew shrimp or something that's got a good, uh, at a particular restaurant|sd|3898|1
+B|and then we usually stick by it.|sd|3898|1
+B|But do you,  What about you?|qo|3898|1
+A|Uh-huh.|b|3898|0
+A|Well, I, uh, enjoy the Szechuan type of, uh, Chinese food.|sd|3898|0
+B|Hot?|br|3898|1
+A|Yes.|ny|3898|0
+B|Uh-huh.|b|3898|1
+A|Yep, uh,|b|3898|0
+A|it's, uh,|%|3898|0
+A|I, I do a lot of Chinese cooking myself.|sd|3898|0
+A|I have in the past.|sd|3898|0
+A|I haven't done recently,|sd|3898|0
+A|but, uh, it's in the sweet and sour porks and things like are just really delicious meals.|sv|3898|0
+B|Um. Where did you learn how to do Chinese cooking?|qw|3898|1
+A|Uh, just at home.|sd|3898|0
+B|Uh-huh.|b|3898|1
+A|I, I enjoyed the food|sd|3898|0
+A|and I bought a lot of, uh, good cookbooks,|sd|3898|0
+A|and I've been following through on that.|sd|3898|0
+A|When you find the right cookbook, why it works out.|sv|3898|0
+B|Uh-huh.|b|3898|1
+B|What's a good reference cookbook for Chinese food?|qw|3898|1
+A|Okay,|b|3898|0
+A|well, that one's a good question.|^h|3898|0
+A|Here it's right under my nose if I can find it|sd|3898|0
+A|Oh, boy.|ba|3898|0
+B|I guess one of the things we've, uh, started avoiding is the, uh, run of the mill chop suey and things like that.|sd|3898|1
+A|Yeah,|b|3898|0
+A|right.|b|3898|0
+B|But we enjoy trying, uh, different kinds of chicken or, uh, you know, even, uh, shrimp, uh, dishes that are fixed in a Chinese restaurant.|sd|3898|1
+A|One of this book I have is called CHINESE COOKING MADE EASY.|sd|3898|0
+A|Uh, it's a paperback|sd|3898|0
+A|and I think it's by someone named Chang.|sd|3898|0
+A|Yeah,|aa|3898|0
+A|Isabelle Chang.|sd|3898|0
+B|Okay,|bk|3898|1
+B|thanks for that, uh, reference.|ft|3898|1
+A|Yeah,|bd|3898|0
+A|yeah.|bd|3898|0
+A|I think you will enjoy that.|sv|3898|0
+B|Okay,|b|3898|1
+B|good.|ba|3898|1
+B|Yeah.|%|3898|1
+A|Well, it certainly is nice talking with you Gene.|fc|3898|0
+A|And, uh, what is your phone at home?|qw|3898|0

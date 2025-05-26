@@ -1,0 +1,160 @@
+A|All righty.|fo_o_fw_"_by_bc|3203
+B|Okay.|fo_o_fw_"_by_bc|3203
+A|What type of home do you have in Dallas?|qw|3203
+B|We have a, uh, four bedroom split brick home in, in Richardson actually.|sd|3203
+A|Uh-huh.|b|3203
+B|And, uh, we bought it back in about nineteen seventy-three.|sd|3203
+B|So, we've seen it go up in value wise real well|sd|3203
+A|Oh, good|ba|3203
+B|Yes|aa|3203
+A|And it's probably typical of your neighborhood.|qy^d|3203
+B|Yes,|ny|3203
+B|yes.|ny|3203
+B|It, it looks like all the others.|sd|3203
+B|It's, uh,|%|3203
+A|I'm in Plano just, you know, north of where you live.|sd|3203
+B|Uh-huh.|b|3203
+A|And, uh, we live near Coit and Legacy in a relatively new development that just has gone in about two years ago.|sd|3203
+A|So, my home is typical.|sv|3203
+A|It's a, a brick home.|sd|3203
+A|A two story brick home,|sd|3203
+A|and it's typical of of the other homes in our neighborhood too.|sd|3203
+B|Yes,|b|3203
+B|you're in the, the styles that they have started building in the last couple years with the real high ceilings,|qy^d|3203
+A|Yes.|ny|3203
+B|and, uh-huh.|%|3203
+B|those are lovely.|sv|3203
+A|Yes.|aa|3203
+A|The, the one thing we did do instead of having a twenty foot living room ceiling,|sd|3203
+A|we're from the north|sd|3203
+A|and we just couldn't stand the wasted space,|sd|3203
+A|so we had them,|sd|3203
+A|we have a high entry hall|sd|3203
+A|and then we had them level off our living room and dining room ceiling to, um, nine feet so we could get bedrooms above.|sd|3203
+B|Oh.|b|3203
+B|Oh, nice.|ba|3203
+A|So, that way we, we sort of have the entryway that looks typical of the area|sd|3203
+A|but we don't have so much wasted space.|sd|3203
+B|Yes.|b|3203
+A|And we could get more bedrooms per square foot that way.|sd|3203
+B|Have you, um, found in talking to your neighbors that your utilities are quite a bit higher with those high ceilings?|qy|3203
+A|Mine are actually the lowest in the neighborhood.|ng|3203
+B|Are they?|qy|3203
+A|Yeah.|ny|3203
+B|Uh-huh.|b|3203
+B|Well, I would expect so.|sd|3203
+A|Yes.|b|3203
+A|Right,|b|3203
+A|I know.|sd|3203
+A|Our air conditioner, during the summer we,|sd|3203
+A|it's over three fifty a month.|sd|3203
+B|Wow.|ba|3203
+B|Uh-huh.|b|3203
+A|Yeah,|b|3203
+A|just to air-condition it,|sd|3203
+A|so.|%|3203
+B|Well, how many bedrooms do you have in your home?|qw|3203
+A|I have, uh, a master bedroom and a den on the main floor,|sd|3203
+A|and then upstairs I have three bedrooms|sd|3203
+A|and I have,|sd|3203
+A|I'm a writer|sd|3203
+A|and I work in my home|sd|3203
+A|so, above the garage area I have a studio.|sd|3203
+B|Oh, uh-huh.|bk|3203
+A|So, it's not really a bedroom.|sd|3203
+A|It doesn't have a closet|sd|3203
+A|and it, and it's the size of a three car garage.|sd|3203
+B|Uh-huh.|b|3203
+A|So, that's where I work.|sd|3203
+B|That's a pretty good size room.|sv|3203
+A|Yes,|aa|3203
+A|yes.|aa|3203
+B|That's neat.|ba|3203
+A|So we,|%|3203
+A|this is our dream home,|sd|3203
+A|and we just absolutely, love it.|sd|3203
+A|I,|%|3203
+B|Well, it sounds like a real nice one.|ba|3203
+A|Yeah,|b|3203
+A|we're, we're really proud of it.|sd|3203
+A|I just hope we never have to move again.|sd|3203
+A|This is|%|3203
+B|Right.|b|3203
+B|Where did you move from?|qw|3203
+A|Uh, Detroit this last time.|sd|3203
+B|Oh, uh-huh.|bk|3203
+A|We were there two years|sd|3203
+A|and,|%|3203
+B|Uh-huh.|b|3203
+B|Do you like the Dallas area?|qy|3203
+A|Oh, we love it.|sd|3203
+B|And I would imagine that you have found that the homes down here are, uh, a much better value down here, aren't they, than they are,|qy^d|3203
+A|Yes,|ny|3203
+A|and they're much, much better constructed down south than they are up north too.|sd|3203
+B|Oh, really?|bh|3203
+A|The,|%|3203
+B|Now that's interesting.|ba|3203
+A|Uh-huh.|b|3203
+A|The quality of the workmanship, we noticed a tremendous difference.|sd|3203
+B|Uh-huh.|b|3203
+A|and they just didn't care.|sd|3203
+A|If the trim work didn't line up it's just, that's just what you get|sd|3203
+B|That's interesting because I've heard so many people down here say that they don't feel like the quality of the homes, you know, are that good down here.|sd|3203
+A|Oh.|b|3203
+B|And, uh, so that's interesting.|ba|3203
+A|Yes.|b|3203
+A|Well, the carpenter and painter and, you know, everybody the marble man were just there in the house everyday when we would come to check on it as it was being built,|sd|3203
+A|and they'd say just look at this,|sd|3203
+A|and you know, they seemed so proud of everything they did.|sd|3203
+B|Well, that's good.|ba|3203
+A|And it really made a difference to us.|sd|3203
+B|Well, I know as I, as I said our house is about seventeen years old|sd|3203
+B|and, uh, we've been very pleased with it.|sd|3203
+B|We've had no major problems with it.|sd|3203
+B|Knock on wood|sd|3203
+A|Yes.|b|3203
+B|And, uh, you know, it is with, uh, with the, you know, two children growing up and now three grandsons roaming through it, all the time.|sd|3203
+A|Oh.|b|3203
+B|So, and we like our neighborhood.|sd|3203
+B|It, it, has, has grown|sd|3203
+A|Yes.|b|3203
+B|and the majority of the people, you know, keep up the neighborhood.|sd|3203
+A|Uh-huh.|b|3203
+A|That's important too.|sv|3203
+B|And that's very important|sv|3203
+B|and, and as I said it, it has risen in value.|sd|3203
+A|Uh-huh.|b|3203
+B|But we bought back when housing was so low,|sd|3203
+A|Oh.|b|3203
+B|and, you know, and now you know,|%|3203
+B|then it started jumping by leaps and bounds.|sd|3203
+A|Yes.|b|3203
+B|It seems to have leveled off and actually dropped back down a little bit,|sd|3203
+A|Yeah,|b|3203
+B|but we're still fine.|sd|3203
+A|ours is pretty much level in the two years that we've been there.|sd|3203
+B|Uh-huh,|b|3203
+B|uh-huh.|b|3203
+A|We're hoping it takes off again,|sd|3203
+A|but I don't know with the E D S building and Penny's and everything going in up on Legacy, we're hoping that brings in more people.|sd|3203
+B|Yes|b|3203
+B|It should bring up your property values a little bit.|sv|3203
+A|That's what we're hoping because, we're, we're just real close to, to where that is.|sd|3203
+B|Your pricing.|sv|3203
+B|Uh-huh.|b|3203
+A|So,|%|3203
+B|I think once the economic situation in the Dallas area improves, I think the housing will go up.|sv|3203
+A|Uh-huh.|b|3203
+A|I hope so too.|sd|3203
+B|You know. Right now there's a lot on the market for sale because of people having lost their jobs, and everything|sv|3203
+A|Yes.|b|3203
+B|so that's, you know, that keeps prices down and value down|sv|3203
+A|Yeah.|b|3203
+B|and I'm sure the packs , uh, or|sv|3203
+B|would like for it to go up.|sv|3203
+A|Yes,|aa|3203
+A|I'm sure|ba|3203
+A|For that reason it can stay the same,|sv|3203
+B|That's right|ba|3203
+A|but But we love being where we are.|sd|3203
+B|That's right|ba|3203

@@ -1,0 +1,341 @@
+B|Hello.|fp|2340|0
+A|Hello,|fp|2340|1
+A|this is Jim in Dallas.|fp|2340|1
+A|Uh, how you doing?|fp|2340|1
+B|Fine.|fp|2340|0
+B|I'm Callie in Garland.|fp|2340|0
+A|Oh, you're right here,|qy^d|2340|1
+A|okay|%|2340|1
+B|Yes.|ny|2340|0
+A|yeah,|b|2340|1
+A|I'm actually working tonight,|sd|2340|1
+A|I just, uh, called and came in.|sd|2340|1
+B|Oh are you.|b|2340|0
+A|Do you work at T I?|qy|2340|1
+B|Yeah,|ny|2340|0
+B|you?|qy|2340|0
+A|Yeah,|ny|2340|1
+A|I just got a little booklet, uh, this not what we're supposed to talk about, just got a little booklet in the mail with the gifts,|sd|2340|1
+A|and I thought, I better make some calls.|sd|2340|1
+B|I know,|aa|2340|0
+B|I know,|aa|2340|0
+B|they.|%|2340|0
+A|Yeah.|b|2340|1
+A|Well, I haven't had a chance, I haven't got a chance to look at them yet.|sd|2340|1
+B|It was a lot nicer than I expected.|sd|2340|0
+A|My daughter, uh, got a few calls at home.|sd|2340|1
+A|She talked to some student in,|sd|2340|1
+A|I guess they give them to computer students, too, in, uh, Virginia, something like that.|sd|2340|1
+A|She's talked to two students.|sd|2340|1
+B|I've talked to,|sd|2340|0
+B|I don't think they were students,|sd|2340|0
+B|one, I think, worked at a university, university um, and the furthest away I've talked to someone has been New York.|sd|2340|0
+A|Yeah.|b|2340|1
+A|Oh, yeah,|b|2340|1
+A|great.|ba|2340|1
+A|Uh, we're supposed to talk about the elderly now, I guess, uh,|ad|2340|1
+B|Yes,|aa|2340|0
+B|we are.|aa|2340|0
+A|Do you have anybody that you, uh, are close to that decision on, or anything,|qy|2340|1
+A|or, I've thought about it for myself and all,|sd|2340|1
+A|and my my wife's mother is in a retirement home.|sd|2340|1
+A|She's not in a nursing home. Uh.|sd|2340|1
+B|Oh, well that's a,|%|2340|0
+B|did you push the button?|qy|2340|0
+A|Yeah,|ny|2340|1
+A|did I, didn't we push?|qy|2340|1
+B|Did we,|qy^d|2340|0
+A|Let me, I'll hit it again just in case.|sd|2340|1
+B|Okay,|b|2340|0
+B|just in case|sd|2340|0
+A|I did it as she said,|sd|2340|1
+A|yes.|%|2340|1
+A|But, uh, she's she's down in San Antonio|sd|2340|1
+B|Now, what,|%|2340|0
+B|Oh.|b|2340|0
+A|and it's, it's a, uh, it's a brand new one.|sd|2340|1
+A|It's a Catholic, uh, retirement home for nuns.|sd|2340|1
+A|It's at, uh Trinity, uh,|sd|2340|1
+B|Oh.|b|2340|0
+A|no,|ar|2340|1
+A|let me see, Trinity,|^h|2340|1
+A|I keep calling it|sd|2340|1
+A|it's not Trinity,|ar|2340|1
+A|I'll think of,|%|2340|1
+A|Incarnate Word,|sd|2340|1
+A|and they have a retirement home for the nuns|sd|2340|1
+B|Well, isn't that neat.|ba|2340|0
+A|and they take some lay people.|sd|2340|1
+B|Isn't that neat.|ba|2340|0
+A|Yeah,|aa|2340|1
+A|and that one's really super.|sd|2340|1
+A|Now I, I know what they're talking about on regular retirement.|sd|2340|1
+A|Yeah,|%|2340|1
+A|there's not too many,|%|2340|1
+A|they do have a wing where the people who are really sick, you know have nurses.|sd|2340|1
+B|Uh-huh.|b|2340|0
+B|Oh, that's good.|ba|2340|0
+A|And then they have other wings that we visited, uh, that are very nice.|sd|2340|1
+A|I mean it's just super.|sd|2340|1
+B|That's neat.|ba|2340|0
+B|Just supervised more or less than anything and security, I guess.|qy^d|2340|0
+A|Oh, yeah,|ny|2340|1
+A|they, they, they have, uh, like, uh, a guard with locks.|sd|2340|1
+A|We've been there once at night at Christmas.|sd|2340|1
+A|She just went in last year.|sd|2340|1
+B|Oh.|bk|2340|0
+A|She drives and everything,|sd|2340|1
+A|she, she, she's perfectly healthy.|sd|2340|1
+B|Uh-huh.|b|2340|0
+A|Uh,|b|2340|1
+B|What made you all decide to put her, or what made her decide to go?|qw|2340|0
+A|Well, her husband died.|sd|2340|1
+A|They were in the military together,|sd|2340|1
+A|and she just did not want to take care of the house|sd|2340|1
+B|Right|b|2340|0
+A|and she visited the place, and then fell in love with it, and decided to just shun all responsibilities of any kind, so to speak,|sd|2340|1
+A|and so she's happy as, as heck,|sd|2340|1
+B|Well, that's good.|ba|2340|0
+A|and they serve meals, of course.|sd|2340|1
+B|That's great.|ba|2340|0
+A|They have clubs and a swimming pool,|sd|2340|1
+A|so that's nice.|ba|2340|1
+A|Now I, I know the ones where you're really ill, we visited a long time ago when she had a grandmother that was in one.|sd|2340|1
+B|Uh-huh.|b|2340|0
+A|And they were all more or less hospitalized type you know, really, really sick.|sd|2340|1
+B|Right.|b|2340|0
+B|Shut-ins and,|%|2340|0
+A|It's a tough question.|sv|2340|1
+B|Yeah,|aa|2340|0
+B|it really is.|aa|2340|0
+B|I worked in one as a teenager.|sd|2340|0
+B|I volunteered,|sd|2340|0
+A|Oh, you got more experience than I do then on it.|sd|2340|1
+B|Well, it was really, it was really sad, heartbreaking, I guess.|sd|2340|0
+A|Yeah,|aa|2340|1
+A|yeah.|aa|2340|1
+B|And, uh, I just, oh, I just felt for those people, especially the ones that never got visited.|sd|2340|0
+A|Oh, that would be awful.|sv|2340|1
+B|That just bothered me.|sd|2340|0
+A|I never thought about that, you know.|sd|2340|1
+B|That just bothered me so much, especially, you know, at my age,|sd|2340|0
+B|I was probably about fourteen.|sd|2340|0
+A|Uh-huh.|b|2340|1
+B|And that really made a bad impression on me|sd|2340|0
+B|I always thought, not really bad of them, I mean, because they are, most of them I believe are probably pretty good for the people,|sd|2340|0
+B|but, I don't know.|h|2340|0
+B|It's just a, it would be a tough, tough decision.|sv|2340|0
+A|Yeah,|aa|2340|1
+A|I think that, uh, hopefully we as a country are learning a little more about it,|sv|2340|1
+A|and they're getting nicer.|sv|2340|1
+B|Right.|b|2340|0
+A|I've seen on T V where they take animals and young children,|sd|2340|1
+A|in fact my daughter is one.|sd|2340|1
+A|My wife took my daughters one year when they were getting some points for school, took them to an elderly home,|sd|2340|1
+A|and boy that really pumps them up.|sv|2340|1
+B|Helps,|aa|2340|0
+B|yeah.|aa|2340|0
+A|That is very nice to see young people.|sv|2340|1
+A|I think that's one of the sad things, is when you're in an older home.|sv|2340|1
+B|Uh-huh,|aa|2340|0
+B|uh-huh.|aa|2340|0
+A|If you just have people your own age, you never get a chance to see kids or anything or animals or anything, you know|sv|2340|1
+B|Right.|b|2340|0
+B|Right.|b|2340|0
+A|you can't take care of them,|sv|2340|1
+A|kind of obvious you can't take care of children or animals in a nursing home,|sv|2340|1
+B|Right.|b|2340|0
+A|but it's nice to have them visit and everything.|sv|2340|1
+B|Yeah,|aa|2340|0
+B|and get that youth back.|sv|2340|0
+A|Yeah.|b|2340|1
+B|You know, sometimes that even helps them, just being around young people to, because some of them are so, um, just stationary|sv|2340|0
+A|Right.|b|2340|1
+B|I mean, they'll get in a wheelchair|sv|2340|0
+B|or they'll just sit in a chair|sv|2340|0
+B|and, and, until you come along and really try and pump them up, they're just stationary,|sv|2340|0
+B|and I feel like, gosh, that's all they do all day long.|sd|2340|0
+B|So I do, love to see young kids go and, and men take the pets and everything.|sd|2340|0
+B|I think that's a real, real neat idea.|sv|2340|0
+A|Yeah,|aa|2340|1
+A|I think you do get more by by stimulation.|sv|2340|1
+A|My, in fact, my mother in law just visited.|sd|2340|1
+A|She's just about seventy-five. Again, perfectly fine.|sd|2340|1
+B|Yeah.|b|2340|0
+A|But, one, and, and she visited us here in, in Dallas.|sd|2340|1
+A|When she went back, every time she goes back to, uh, San Antonio, my wife has two sisters there, too, she said she's much better,|sd|2340|1
+A|she's much more alive and, and, uh, active when she's been on a visit with somebody else, you know|sd|2340|1
+B|That's,|%|2340|0
+B|Yeah.|b|2340|0
+A|and, and our routine has obviously hectic with teenagers and everything|sd|2340|1
+B|Right.|b|2340|0
+A|and she's much,|%|2340|1
+A|and so the stimulation part is really important. I think, like any animal, anything|sv|2340|1
+B|Right.|b|2340|0
+A|you just lay around, uh, that's the fastest way to die, I think, you know.|sv|2340|1
+B|Stagnant|aa|2340|0
+B|Yeah,|aa|2340|0
+B|that's exactly right.|aa|2340|0
+B|I think they're really neat.|sv|2340|0
+B|Um, of course I've seen those reports on T V, the horrible ones|sd|2340|0
+A|Oh, yeah.|b|2340|1
+B|and that scares me.|sd|2340|0
+A|I'm afraid I'm a T V flipper.|sd|2340|1
+A|Anything bad, I like, I like to, flip, I flip it off.|sd|2340|1
+A|But it's sad,|sv|2340|1
+A|it's sad,|sv|2340|1
+A|yeah.|%|2340|1
+B|It's sad to think that we would do that to people,|sv|2340|0
+B|and you know, I've seen them on T V with, uh, bed sores,|sd|2340|0
+B|and oh, they just stay in the same clothes or the same sheets and not do laundry.|sd|2340|0
+A|Oh, yeah.|b|2340|1
+B|And I just think, how can you do that?|sd|2340|0
+B|These people have given so much of their lives, you know, to, to America you know, whatever,|sv|2340|0
+A|Yeah.|b|2340|1
+B|and here is how we treat them.|sv|2340|0
+B|Just put them in a home and leave them.|sv|2340|0
+A|Right.|aa|2340|1
+A|When I was, uh, younger, we, I lived in the East,|sd|2340|1
+A|I'm from the East really,|sd|2340|1
+A|and it seemed like there were several people that I knew that had their, uh, parents, I guess they would be, but well in their|sd|2340|1
+A|living with them.|sd|2340|1
+B|Uh-huh|b|2340|0
+A|And one of them was even a woman who was fairly old,|sd|2340|1
+A|and I guess she, she had her own separate room.|sd|2340|1
+A|And I think, whether it's more a custom up there, or maybe because I was younger|sd|2340|1
+B|Right.|b|2340|0
+A|and it's just not a custom anymore to have, uh, you know, the grandparents live with you anymore.|sv|2340|1
+A|I guess that, uh well, we aren't getting away from that, which is not right.|sv|2340|1
+B|I think,|%|2340|0
+B|Right.|aa|2340|0
+B|I think it's neat.|sv|2340|0
+B|I think, uh, you learn a lot from them from all their experiences,|sv|2340|0
+A|Oh, yeah.|b|2340|1
+B|and, and that's one of my favorite things to do is sit around and listen to their stories.|sd|2340|0
+A|Oh, right,|b|2340|1
+A|right.|b|2340|1
+B|I think that's neat,|sv|2340|0
+B|because they really have a lot of good insights that my my husband's father is really old.|sv|2340|0
+A|Yeah.|b|2340|1
+B|He, he had him late in life,|sd|2340|0
+B|and he's, he'll be eighty this year.|sd|2340|0
+A|Oh.|b|2340|1
+B|And I just, uh, he lives with different, you know, people in the family.|sd|2340|0
+B|He'll switch from time to time.|sd|2340|0
+B|I just,|%|2340|0
+A|Well, that's nice in a lot of ways.|ba|2340|1
+B|Yeah,|aa|2340|0
+B|I just couldn't imagine locking,|sd|2340|0
+B|not locking him up, but putting him in a home and just,|sd|2340|0
+A|Bet you were surprised that you said that by mistake.|qy^d|2340|1
+A|Yeah,|%|2340|1
+A|right,|%|2340|1
+B|Lock him up.|sd|2340|0
+A|That's what I think about it for me,|sd|2340|1
+A|I think, Well, my kids better not do that to me.|sd|2340|1
+B|I know,|aa|2340|0
+B|I know.|aa|2340|0
+A|I don't want that, you know.|sd|2340|1
+A|So I, I think of it, Well, how would I want to be treated rather than, well,|sd|2340|1
+B|Right,|aa|2340|0
+B|exactly.|aa|2340|0
+A|it's easy to say, Oh, yeah,|sv|2340|1
+A|let's put these old folks in a home,|^q|2340|1
+A|but when I think I don't want to do that, you know.|sd|2340|1
+A|I don't want to be|sd|2340|1
+B|That's right.|aa|2340|0
+A|I'd want to have my little home.|sd|2340|1
+A|I always threaten my daughters,|sd|2340|1
+A|I say, Well, I'm going to build a little house behind yours,|sd|2340|1
+A|and I'll take care of your lawn, he says,|sd|2340|1
+A|but I'm not going to one of those places.|^q|2340|1
+B|Oh, you're going to put me away.|^q|2340|0
+A|Right,|aa|2340|1
+A|yeah.|aa|2340|1
+B|That's what my mother,|sd|2340|0
+B|she always,|%|2340|0
+B|You're going to lock me up one day, aren't you.|^q|2340|0
+B|I can tell,|^q|2340|0
+B|you're going to lock me up.|^q|2340|0
+A|That's what we, that's the way we call it, which is really wrong.|sv|2340|1
+B|I know.|aa|2340|0
+A|But my wife's mother, and the one, she's in San|sd|2340|1
+A|it's everything but.|sd|2340|1
+A|The opposite of what you've seen.|sd|2340|1
+A|I mean it's a little hotel, you might say.|sd|2340|1
+B|Right.|b|2340|0
+B|That's great.|ba|2340|0
+A|Again, a swimming pool, and grounds,|sd|2340|1
+A|and she has enough room.|sd|2340|1
+A|She has two bedrooms, and a, and a separate living area.|sd|2340|1
+B|Gosh.|ba|2340|0
+A|They don't have kitchens or anything|sd|2340|1
+B|Right.|b|2340|0
+A|but they have little, it's like uh, on each floor they have a little kitchen area where you can go down and have a make a meal, you know.|sd|2340|1
+B|Yes.|b|2340|0
+B|Prepare your,|^2|2340|0
+B|Well, that's great.|ba|2340|0
+B|Now can she leave, um, on a day by herself?|qy|2340|0
+A|Oh, yeah,|ny|2340|1
+A|it's, it's, it's nothing like that.|sd|2340|1
+A|It's like living in the hotel.|sd|2340|1
+A|I mean she's totally on her own.|sd|2340|1
+B|Oh, man.|ba|2340|0
+B|That's neat.|ba|2340|0
+A|Uh, and she still drives, which we do, does scare us some, because she has dented a few things, you know,|sd|2340|1
+A|and we keep thinking about that, you know|sd|2340|1
+B|Right.|b|2340|0
+A|because she, they get less alert,|sv|2340|1
+A|and they don't care,|sv|2340|1
+A|and I've seen some of these elderly people on T V you know, the ones from Florida that just run into people|sd|2340|1
+A|and they don't even understand what happened, you know.|sd|2340|1
+B|Right.|b|2340|0
+B|I know,|aa|2340|0
+B|bless their hearts,|ba|2340|0
+B|you hate to hurt them by doing that,|sv|2340|0
+B|that's like their one last thing that they can still do,|sv|2340|0
+A|I know.|aa|2340|1
+B|and you take away that driving ability|sv|2340|0
+B|and that would really be hard.|sv|2340|0
+B|We've, Well, we've thought about doing that for my husband's father, because he,|sd|2340|0
+A|I, I know.|aa|2340|1
+A|Go ahead,|ad|2340|1
+A|I'm sorry.|fa|2340|1
+A|Oh, he still drives?|qy|2340|1
+B|Yeah.|ny|2340|0
+A|That's well, it's wonderful in one respect,|ba|2340|1
+A|but I don't know if you can afford the insurance,|qy^d|2340|1
+A|yeah.|%|2340|1
+B|Well, luckily he drives a big old tank|arp_nd|2340|0
+A|Yeah.|b|2340|1
+B|So, he, I mean, I don't think he, he could get hurt.|sv|2340|0
+B|I just hope to God he doesn't ever hurt anyone.|sd|2340|0
+B|But he he hasn't had any accidents luckily.|sd|2340|0
+A|Right.|b|2340|1
+A|That's good.|ba|2340|1
+A|I mean, people are all different.|sv|2340|1
+B|Yeah,|aa|2340|0
+B|yeah.|aa|2340|0
+A|I, I wonder if they should give them a test, or at least maybe not take their maybe give them a refresher driving course, and just to see how well they are every five years.|sv|2340|1
+B|I saw that on TWENTY TWENTY.|sd|2340|0
+A|Are they doing it?|qy|2340|1
+B|They, um, you know, they're testing that, they're, you know, thinking of doing that.|no|2340|0
+B|And I think that would be a great idea, because I think they do, come, become less aware,|sv|2340|0
+B|and they just, I don't know, they, and they don't hear as well, for one thing|sv|2340|0
+A|Yeah.|b|2340|1
+B|and that doesn't help.|sv|2340|0
+A|Well, everybody needs retraining.|sv|2340|1
+A|It doesn't hurt, uh, you know,|sv|2340|1
+A|the best football players and all the opera singers still have coaches,|sv|2340|1
+A|and I don't know why you couldn't after sixty-five every five years have a refresher course and then take another driving.|sv|2340|1
+B|Right.|b|2340|0
+A|It would sure, the insurance companies would, would probably help pay for some of that, you know.|sv|2340|1
+B|At least that way the burden is not on the family of taking their license or their car away|sv|2340|0
+A|Right,|aa|2340|1
+A|there you go,|ba|2340|1
+A|there's a good point|ba|2340|1
+B|It's on the state|sv|2340|0
+A|very good point.|ba|2340|1
+A|Very good point.|ba|2340|1
+A|But I think they maybe, should do that,|sv|2340|1
+A|and then the families,|%|2340|1

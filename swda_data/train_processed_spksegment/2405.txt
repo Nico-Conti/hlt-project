@@ -1,0 +1,277 @@
+A|Hi,|fp|2405|0
+A|how are you today?|fp|2405|0
+B|I'm great|fp|2405|1
+A|Good.|fp|2405|0
+A|Well as a matter of fact I'm, before we started this conversation I was working on my P C at home.|sd|2405|0
+B|Yeah.|b|2405|1
+A|Do you have one?|qy|2405|0
+B|No,|nn|2405|1
+B|I don't have one at home.|sd|2405|1
+B|I work with one on, at work continually, you know,|sd|2405|1
+A|Yeah.|b|2405|0
+B|but I do not have one of my own at home.|sd|2405|1
+A|Do you have,|%|2405|0
+B|What do you have, at home?|qo|2405|1
+A|We have an, um,|%|2405|0
+A|actually it's a T I computer,|sd|2405|0
+A|but it is the I B M um, clone.|sd|2405|0
+B|Uh-huh.|b|2405|1
+A|It's not the T I P C from back when.|sd|2405|0
+B|Right.|b|2405|1
+B|From the oldies but the goodies.|bf|2405|1
+A|Right.|aa|2405|0
+B|It's probably pretty close to what I have, because I have the same kind of thing at work.|sd|2405|1
+B|I have a three eighty-six S X which is T I computer,|sd|2405|1
+B|but everything in, is in I B M mode.|sd|2405|1
+B|So.|%|2405|1
+A|Yeah,|b|2405|0
+A|that's what we have. Um.|sd|2405|0
+B|Do you use it a lot at home?|qy|2405|1
+A|Well, I really do.|na|2405|0
+A|I, um, am an accountant|sd|2405|0
+A|and, but I work at home.|sd|2405|0
+B|Uh-huh.|b|2405|1
+B|Uh-huh.|b|2405|1
+B|So you're on it a lot.|qy^d|2405|1
+A|So I use it for that quite often.|arp_nd|2405|0
+B|Uh-huh.|b|2405|1
+A|We have, you know, used some of it for some personal things.|sd|2405|0
+A|We keep track of personal budgets and things like that on it.|sd|2405|0
+A|I,|%|2405|0
+A|since it's tax season, I'm doing a lot of taxes,|sd|2405|0
+A|so I do a lot of, um, a lot of that work on it as well.|sd|2405|0
+B|I was amazed when I took our taxes to our tax person|sd|2405|1
+B|and she works out of her home also.|sd|2405|1
+A|Uh-huh.|b|2405|0
+B|And the, uh, software that does the taxes is just incredible.|sv|2405|1
+A|Oh it is.|aa|2405|0
+B|You know, I mean, she just, you know,|%|2405|1
+B|I expected to go and, you know, drop the stuff off and go back two weeks later.|sd|2405|1
+B|And, you know, she had it done and out in twenty minutes on her little P C.|sd|2405|1
+A|Yeah,|b|2405|0
+A|you can.|sd|2405|0
+B|It was great.|sd|2405|1
+A|Yes,|aa|2405|0
+A|you can,|sd|2405|0
+A|that's right.|aa|2405|0
+B|That's wonderful.|ba|2405|1
+B|I have often thought that, that having one at home would be neat.|sd|2405|1
+B|I just don't know if we would really use it that much. You know.|sd|2405|1
+A|We really,|%|2405|0
+A|we we didn't decide to get one until I started working at home.|sd|2405|0
+B|Uh-huh.|b|2405|1
+A|Then, you know, then, we thought, well we can use it for, you know, some personal things.|sd|2405|0
+A|We|%|2405|0
+A|for us it really took, you know, a business application to justify the expense of it.|sd|2405|0
+B|Uh-huh.|b|2405|1
+B|Oh, definitely,|aa|2405|1
+B|definitely.|aa|2405|1
+B|I know my stepfather bought my mother a little personal computer, oh, I guess, probably three years ago for Christmas,|sd|2405|1
+B|and, you know, it's got some stuff on it.|sd|2405|1
+B|It's got a nice little word processing software on it, you know, and some budgeting type things and stuff.|sd|2405|1
+B|And I don't think she's ever touched it you know.|sd|2405|1
+A|Really.|b|2405|0
+B|It just, it just seems like a lot of trouble for something at home.|sv|2405|1
+B|You know, she always seems to have better things to do than to try to sit down and figure out how to use her computer you know.|sd|2405|1
+B|So.|%|2405|1
+A|Right.|aa|2405|0
+A|She could just as easily do those things by hand.|sv|2405|0
+B|Yeah,|aa|2405|1
+B|just as quickly.|sv|2405|1
+A|Yeah.|b|2405|0
+B|Now I know my boss has bought the software, um, that he can, that his checkbook is on, on on a disk,|sd|2405|1
+A|Uh-huh.|b|2405|0
+B|and he goes in and and types his checks on the screen and then hits print,|sd|2405|1
+B|and they print out on the checks,|sd|2405|1
+B|and he's ordered envelopes with the windows in the right places you know,|sd|2405|1
+A|Oh my gosh.|ba|2405|0
+B|and he just whips, out, you know,|sd|2405|1
+B|I saw him yesterday morning over there,|sd|2405|1
+B|and, and he paid his monthly bills,|sd|2405|1
+B|and he just, you know, wrote all the checks on the screen and hit print|sd|2405|1
+B|and it printed out like ten checks,|sd|2405|1
+B|and he just, you know,|%|2405|1
+B|they're perforated,|sd|2405|1
+B|and he just ripped them off.|sd|2405|1
+B|They go through just a continuous thing on the printer|sd|2405|1
+A|Right.|b|2405|0
+B|and he ripped them off and stuck them in the envelopes|sd|2405|1
+B|and there they went.|sd|2405|1
+B|You know, and he said, you know, I can balance my checkbook in seconds, you know because it's all in the computer, you know.|sd|2405|1
+A|Right.|b|2405|0
+B|So.|%|2405|1
+A|And you know there's not going to be those adding mistakes that we all make.|sv|2405|0
+B|That's exactly why.|aa|2405|1
+B|He said, you know, he said, used to be I always sat looking for those, you know.|sd|2405|1
+B|He said this way there isn't any.|sd|2405|1
+B|You know, it does it for you.|^q|2405|1
+B|So. This, you know,|%|2405|1
+B|there are some definitely, some, some advantages to it.|sv|2405|1
+B|It's just a matter of, like you say, are the advantages, does it justify the cost, if you're using it strictly for personal business.|sv|2405|1
+B|So.|%|2405|1
+A|Right|aa|2405|0
+A|I, I think in most cases I'd have to say no.|sv|2405|0
+A|Not unless somebody really enjoys it. Or perhaps is using it for education.|sv|2405|0
+B|Right.|b|2405|1
+A|I have a four year old son,|sd|2405|0
+A|and we have some education programs that he likes.|sd|2405|0
+A|A little Sesame Street one|sd|2405|0
+B|Yeah,|b|2405|1
+B|yeah,|b|2405|1
+A|and we have another one that plays music,|sd|2405|0
+A|and he really likes that one.|sd|2405|0
+B|As he grows up he'll be even more and more too.|sv|2405|1
+A|That's right.|aa|2405|0
+B|That'll be great.|ba|2405|1
+A|And yeah,|%|2405|0
+A|on,|%|2405|0
+A|now I think about it,|sd|2405|0
+A|I guess for, for kids like, as they get older,|sv|2405|0
+A|especially now when they get to junior high school, high school, and even college.|sv|2405|0
+B|Uh-huh.|b|2405|1
+A|I mean, my sister went to college, started about three years ago,|sd|2405|0
+A|and she had to have a, a computer.|sd|2405|0
+B|Really.|b|2405|1
+A|I mean, it was like a necessity.|sd|2405|0
+B|Well, yeah,|b|2405|1
+B|I.|%|2405|1
+A|She couldn't imagine going through college without a computer.|sd|2405|0
+B|Well I'm going through right now.|sd|2405|1
+B|I'm, you know, going part time in the evenings,|sd|2405|1
+B|and, you know, I do,|%|2405|1
+B|yeah,|%|2405|1
+B|everything has to be typed.|sd|2405|1
+B|I mean, they require it.|sd|2405|1
+B|You have to type it you know,|sd|2405|1
+A|Right.|b|2405|0
+B|and, and so I'm up here, you know, nights and weekends you know, working on the little on the P C up here, you know, typing stuff.|sd|2405|1
+B|So I can see where it would be a great advantage to have one at home, you know, if you were going to school.|sd|2405|1
+A|Yeah,|aa|2405|0
+A|any more I don't even know if they have, if a college kid would have a typewriter|qy^d|2405|0
+B|Well, you,|%|2405|1
+B|I don't know.|no|2405|1
+A|Probably not even,|sv|2405|0
+A|no.|nn|2405|0
+B|No,|nn|2405|1
+B|no,|nn|2405|1
+B|and they probably used to have it.|sv|2405|1
+B|I just finished a, a major research paper a couple of weeks ago,|sd|2405|1
+B|and I couldn't imagine not having that thing on a disk where I could go back in and move stuff around and change it.|sd|2405|1
+A|Uh-huh.|b|2405|0
+B|I, I don't know what they used to do before they,|sd|2405|1
+A|Well, unfortunately in our family, my husband and I went through college together|sd|2405|0
+A|and then he went on and got his Master's degree while I was working.|sd|2405|0
+B|Uh-huh.|b|2405|1
+A|And I'm the better typist, of us,|sd|2405|0
+B|Uh-huh.|b|2405|1
+A|and we just had a regular old typewriter, not even a correcting one back then.|sd|2405|0
+B|Oh and you had to type all of his papers.|qy^d|2405|1
+A|It wasn't that long ago,|sd|2405|0
+A|but I typed his Master's papers and things on a typewriter.|sd|2405|0
+B|Oh gosh,|ba|2405|1
+A|Oh boy, to have a computer back then.|sd|2405|0
+B|Oh, cut your time in half at least.|sv|2405|1
+A|At least.|aa|2405|0
+B|At least.|b^m|2405|1
+A|I mean,|%|2405|0
+A|and then of course you have some changes to make, and do the whole thing over.|sv|2405|0
+A|You take out a sentence,|sv|2405|0
+A|on a computer you take it out, bleep, print it out, fine.|sv|2405|0
+B|Uh-huh.|b|2405|1
+A|Take out a sentence on a piece of paper,|%|2405|0
+B|You do the whole thing over.|sv|2405|1
+A|Right.|b|2405|0
+B|That's right.|aa|2405|1
+B|You know, I remember when I was working in high school, you know, I was working in an office, right after I got out of high school|sd|2405|1
+B|I continued working there for probably another year.|sd|2405|1
+B|And we did everything on a typewriter everything.|sd|2405|1
+A|Oh, yeah.|b|2405|0
+B|But it's amazing, you know,|sv|2405|1
+B|then, when, where, you know, someone would have you type a letter, they did it right, they did it right.|sv|2405|1
+B|I mean, they were,|%|2405|1
+A|The first time.|sv|2405|0
+B|Yeah,|aa|2405|1
+B|they sit there|sv|2405|1
+B|and they go, is this really what I want to say,|sv|2405|1
+B|and you typed it|sv|2405|1
+B|and that was it,|sv|2405|1
+B|and now, you know people just send it back over and over and over and over.|sv|2405|1
+A|That's probably one of the problems and frustrations that it's brought about, because people do feel like, Oh well, we can just change it.|sv|2405|0
+B|Well, we'll try this out and see what it looks like.|^q|2405|1
+B|Yeah.|b|2405|1
+A|Yeah,|b^m|2405|0
+A|use it as a, just a,|%|2405|0
+B|Yeah,|b|2405|1
+B|instead of knowing what they want to say before they they just, you know, play with it, and, which in a way is nice to be able to do,|sv|2405|1
+A|Right.|b|2405|0
+B|but, you know, it, it gets a little out of hand sometimes.|sv|2405|1
+B|I've seen it get out of hand up here, you know where we've got a secretary that sits over here that's keeping metrics right now, and keeping up, you know, of all the letters I type, how many how many of them do I make changes on. And on each letter, what types of changes.|sd|2405|1
+A|Oh yeah.|b|2405|0
+B|Are they typos?|qh|2405|1
+B|Are they because I couldn't read it|qh|2405|1
+B|or people just change a, like, one word because they think it sounds better, or whatever.|qh|2405|1
+B|And, you know, she's also keeping a percentage, you know, what percentage of letters am I retyping for whatever reason.|sd|2405|1
+A|Uh-huh.|b|2405|0
+B|And there's like one week, she did retypes on ninety percent of what she typed you know,|sd|2405|1
+A|I believe it.|ba|2405|0
+B|and it's like, you know, it's ridiculous|sv|2405|1
+B|and that was, that was the high week,|sd|2405|1
+B|but it's running about seventy which is still ridiculous to have to make changes to seventy percent of everything that she types.|sv|2405|1
+A|Uh-huh.|b|2405|0
+A|Well, it's good that she does that, I mean, bring it to people's attention.|sv|2405|0
+B|Well, that's exactly right.|aa|2405|1
+B|You know, she keeps, you know keeps several weeks' worth of data and then in addition is keeping copies of all the changes to show, you know, look, this didn't really need to be changed.|sd|2405|1
+B|You know, this is ridiculous and you know, changing, add this time to now.|^q|2405|1
+B|You know, I mean, that's the kind of things, you know, that she's keeping and showing, that, this was a big waste of time, it was a waste of paper, it was a waste, you know to change something like that.|sd|2405|1
+A|Right,|b|2405|0
+B|So. Anyway, maybe, you know, maybe it'll, it'll help in some way,|sv|2405|1
+B|but I don't know.|h|2405|1
+B|There, there definitely even with the few disadvantages like that are far better than the alternative.|sv|2405|1
+A|Oh I have to,|%|2405|0
+B|Without a doubt.|sv|2405|1
+B|Without a doubt.|sv|2405|1
+B|Well, I would like to get one at home some day.|sd|2405|1
+B|We've got a two year old son,|sd|2405|1
+B|and so, you know, some day I would like to get, even just like the video tell, or something like that, you know, just to, to be able to pull in sources from outside would be wonderful.|sd|2405|1
+B|You know so,|%|2405|1
+A|Especially when they're in school, I think they would get a lot out of it.|sv|2405|0
+B|Oh, I do too,|aa|2405|1
+B|I do too.|aa|2405|1
+B|The on line encyclopedia just sounds wonderful,|sv|2405|1
+B|you know, that sounds like such a great idea,|sv|2405|1
+B|you know, it'd be kind of fun to be able to play with it.|sv|2405|1
+B|So. I know, my father had a P C,|sd|2405|1
+B|and when we were in high school it was always fun.|sd|2405|1
+B|We could, um, link in,|sd|2405|1
+B|and I don't even remember now what it was called.|sd|2405|1
+B|But you could link in and talk to other talk to people all over the country, you know.|sd|2405|1
+A|Uh-huh.|b|2405|0
+B|And, like, you have your own little code name, you know,|sd|2405|1
+B|and you'd type in du du du, Hi how are you, du du du,|sd|2405|1
+B|and they'd type back and everybody,|sd|2405|1
+B|and you'd have five or six or seven people talking to each other at the same time,|sd|2405|1
+B|and everything everybody said prints out on your screen as they're typing it,|sd|2405|1
+B|and it was just great fun, you know,|sd|2405|1
+B|It was very expensive, because the whole time you were on there you were on long distance, you know.|sd|2405|1
+B|It was like a long distance phone call.|sd|2405|1
+A|Ooh.|b|2405|0
+B|So, we were each limited to like twenty minutes a day, you know,|sd|2405|1
+B|so.|%|2405|1
+A|Ooh,|b|2405|0
+A|that still could add up.|sv|2405|0
+B|Oh it added up big.|aa|2405|1
+B|Well, you know, we, my parents were divorced|sd|2405|1
+B|and so the time we were like visiting our father in the summer time, you know,|sd|2405|1
+B|so he felt like he could splurge and let us do it.|sd|2405|1
+A|Yeah.|b|2405|0
+B|I'm sure we would not have been allowed to do that under normal situations, you know.|sv|2405|1
+B|But when you're doing the guilty father complex, you know, because he's not there to watch us grow, you can kind of get all kinds of stuff.|sv|2405|1
+B|That's sad.|ba|2405|1
+B|Well, it was nice to talk to you.|fc|2405|1
+A|Yeah,|fc|2405|0
+A|you too.|fc|2405|0
+B|Have a,|%|2405|1
+A|Have a nice day.|fc|2405|0
+B|You too.|fc|2405|1
+A|Bye-bye.|fc|2405|0
+B|Bye.|fc|2405|1

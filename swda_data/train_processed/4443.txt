@@ -1,0 +1,182 @@
+A|Do you play?|qy|4443
+B|Yeah,|ny|4443
+B|I, uh, consider myself a hacker.|sd|4443
+B|How about you?|qo|4443
+A|Well, I'm into it. Uh,|na|4443
+B|Yeah,|b|4443
+B|uh, I'm not as good as I'd like to be|sd|4443
+B|but it's a,|%|4443
+A|Is anybody?|qy|4443
+B|No|nn|4443
+B|I don't think so.|ng|4443
+B|Uh, I'd started playing when I was in elementary school actually.|sd|4443
+B|We lived  really close to a par three golf course.|sd|4443
+A|Really?|bh|4443
+B|And I'd go up there with friends after school a couple of times every week|sd|4443
+B|and then for, uh, for years, I don't know, after elementary school, all through junior high and stuff, I didn't play cause I think I just got so frustrated when I was little I'd, my body wasn't, you know  physically developed and all that kind of stuff|sd|4443
+A|Oh, wow.|ba|4443
+A|Right.|b|4443
+B|and then I'd started picking it up again a couple of years back|sd|4443
+B|and I've really been enjoying it.|sd|4443
+A|Super.|ba|4443
+A|Yeah,|aa|4443
+A|that's kind of the way I did it too actually.|sd|4443
+A|I, I played, uh, just a tiny bit when I was real young|sd|4443
+A|and then, uh, I I got on to a team in high school but wasn't very good still. But, and then quit for awhile|sd|4443
+B|Uh-huh.|b|4443
+A|and recently I picked it up, like you say, about a couple of years ago|sd|4443
+A|and, uh, I've been playing, you know, off and on when I can.|sd|4443
+B|Right.|b|4443
+A|Up in Minneapolis it's not too easy to play in the winter of course|sd|4443
+B|Uh-huh.|b|4443
+A|but I actually live in Florida|sd|4443
+A|so, uh uh, I'll be going back down there in May and hopefully be picking it up a little more regularly.|sd|4443
+B|Uh-huh.|b|4443
+B|Right.|b|4443
+B|the one factor that really bothers me is the expense of playing golf.|sd|4443
+A|I was going to say|aa|4443
+B|I mean it's a great game|sv|4443
+B|but I mean to play a really nice course, you've got to have a really big wallet I mean.|sv|4443
+A|Yeah,|aa|4443
+A|that's, that's true, all too many times.|sv|4443
+B|Yeah.|b|4443
+A|Fortunately, uh, down where I live in Florida, there's some golf courses that are pretty reasonable if you know where to look.|sd|4443
+B|Uh-huh.|b|4443
+A|Uh, one of them is the University of Florida golf course which is open to the public|sd|4443
+B|Right.|b|4443
+A|and that's pretty, pretty good.|sd|4443
+B|Yeah.|b|4443
+B|I, uh, attend the Indiana University|sd|4443
+B|and it's the same way here.|sd|4443
+B|They have a really nice championship style course that is fairly reasonable to play on.|sd|4443
+A|Yeah.|b|4443
+A|Can you get like a, a student discount type of thing|qy|4443
+A|or,|%|4443
+B|Uh, a little bit but not a whole lot.|na|4443
+B|I mean I, you'd think you would|sd|4443
+B|but, uh, you don't|sd|4443
+B|so. I,|%|4443
+A|Yeah.|b|4443
+A|What, what, what are green fees run there?|qw|4443
+B|Uh, well they range anywhere from about five bucks for your basic city type course up to fifty, sixty dollars for a really, really nice course.|sd|4443
+A|Okay.|bk|4443
+A|That's,|%|4443
+A|yeah,|%|4443
+A|that's about the same I guess as it is in Florida.|sd|4443
+A|But,|%|4443
+B|Uh-huh.|b|4443
+B|My dad is a member of a golf club over in my home town|sd|4443
+B|and I can play for free there|sd|4443
+B|and it's a pretty nice course.|sd|4443
+A|Really.|b|4443
+A|Oh, that's super.|ba|4443
+B|Yeah.|aa|4443
+B|And I guess , well it's free for me|sd|4443
+A|Yeah,|b|4443
+A|uh-huh.|b|4443
+B|Somebody's paying|sd|4443
+B|but not me.|sd|4443
+A|Well, that's the way to do it though.|ba|4443
+B|Yeah|aa|4443
+A|That's the way to get in some good practice without having to pay for it all the time|sv|4443
+B|Yeah,|aa|4443
+B|definitely.|aa|4443
+B|As far as watching golf, I mean, I can watch it on T V|sd|4443
+B|but it's kind of boring.|sv|4443
+A|Yeah.|b|4443
+B|It's nice to see those who , guys.|sv|4443
+B|They have such good style that, uh it's, uh, it's pretty fun to watch.|sv|4443
+A|Yeah.|b|4443
+A|They need to get a new photography method.|sv|4443
+A|Because once the guy hits the ball and they got to try to follow the ball  that's, that's a little difficult.|sv|4443
+B|Right.|aa|4443
+B|Yeah.|aa|4443
+A|I mean, it, they do, they do a generally okay job|sv|4443
+A|but like you said, it's, it's kind of boring actually.|sv|4443
+B|Uh-huh.|b|4443
+B|What I really,|%|4443
+B|I, uh, had a chance,|sd|4443
+B|they had the P G A tournament up in Indianapolis last year|sd|4443
+A|Oh, yeah?|bh|4443
+B|and I was able to go and see one of the rounds of that|sd|4443
+B|and that was really fun.|sd|4443
+B|I mean you knew it|sd|4443
+A|Yeah.|aa|4443
+A|I bet that would be .|sv|4443
+B|I never really thought it was, would be that much fun to go to a big golf tournament and watch|sd|4443
+B|but, man, it was, it was something else just to follow those guys around and actually watch them play.|sd|4443
+A|Yeah.|b|4443
+A|Yeah,|b|4443
+A|I've never been to a tournament.|sd|4443
+A|Uh, you know, looking at it on T V, you're thinking, man, what a boring thing, you know.|sv|4443
+B|Right.|aa|4443
+A|But, uh, that's, that's wild though.|sv|4443
+A|I'll have to see if I can't get a chance  to go,|sd|4443
+B|You got|%|4443
+B|I mean it's, uh, it's a lot more exciting than actually than watching it on T V.|sd|4443
+B|And if you pick a group of golfers and follow them around, I mean, it's just, watching them the whole time instead of like on T V, you get to see them make a tee shot|sd|4443
+A|Right.|b|4443
+B|and then they go off to some other hole|sd|4443
+B|and they come back when they're putting,|sd|4443
+B|but, you know, it's really something else.|sd|4443
+A|Yeah,|b|4443
+A|I can imagine.|ba|4443
+A|What do you do for a living?|qw|4443
+B|Uh, I'm a student right now.|sd|4443
+A|Oh, you are?|bh|4443
+B|Yeah.|ny|4443
+A|Which, uh, which university?|qw|4443
+B|At, uh, Indiana University.|sd|4443
+A|Okay.|bk|4443
+A|All right, great.|ba|4443
+A|What are you going into?|qw|4443
+B|Uh, I don't really know.|sd|4443
+B|I'm a math computer science major right now.|sd|4443
+A|Okay.|bk|4443
+A|Definitely not golf, right|qy|4443
+B|No|nn|4443
+B|I|%|4443
+B|it'd be nice to be a pro golfer.|sv|4443
+B|I mean, it seems like that, that would be an okay life just to hang out|sv|4443
+B|and,|%|4443
+A|Yeah.|aa|4443
+A|If you're good, you can really rake in the bucks.|sv|4443
+A|what was  what was that movie that they had out?|qw|4443
+B|Yeah.|b|4443
+A|there was a movie about a professional golfer|sd|4443
+A|and I, I  can't remember.|sd|4443
+B|Huh.|b|4443
+A|It was on network T V a couple of times.|sd|4443
+B|Oh, yeah?|bh|4443
+A|Yeah.|ny|4443
+B|Well, you know, it seems like, well you go to work every weekend. Play, maybe, one, two tournaments a month. You come in about tenth, you'd still  be doing pretty well.|sv|4443
+A|That's right. .|aa|4443
+B|So.|%|4443
+A|Yeah,|aa|4443
+A|that's a good thing.|sv|4443
+B|Yeah.|b|4443
+A|But, uh, yeah.|b|4443
+A|I guess when I get back, I'm going to school in Florida actually.|sd|4443
+A|Uh, and, fortunately, I've been able to, to play some golf on a student budget which is real helpful, you know.|sd|4443
+B|Uh-huh.|b|4443
+A|But, it, it's unfortunate, you know.|sv|4443
+A|You hear about Japan. I guess, you know, it's, it's like two hundred fifty dollar minimum or three hundred dollar minimum just to, like to practice even .|sd|4443
+B|Right|b|4443
+B|Yeah.|b|4443
+B|And those fees to join a club.|sd|4443
+B|Like a million dollars or whatever is just|sv|4443
+A|Yeah.|b|4443
+B|that is out of control.|sv|4443
+B|I mean you'd really want to really be liking your golf.|sv|4443
+A|Yeah.|aa|4443
+A|I guess they have those, uh, driving ranges that are actually stacked one on top of the other.|sd|4443
+B|Yeah|b|4443
+B|I saw one of those on T V.|sd|4443
+B|That is pretty wild.|sv|4443
+A|. Yeah.|b|4443
+A|Yeah,|b|4443
+A|I, I played, uh, uh, eighteen holes with some Japanese guys in, in Gainesville, as a matter of fact.|sd|4443
+A|And it was really wild.|sd|4443
+A|They were into it.|sd|4443
+B|Yeah.|b|4443
+A|You know, they kicked our butt all the way to,|sd|4443

@@ -1,0 +1,323 @@
+A|So, do you fish?|qy|2586|0
+B|Oh, yeah.|ny|2586|1
+B|My dad has a lake cabin,|sd|2586|1
+B|and so we go there for the small lake, uh, just outside of the Dallas Fort Worth area.|sd|2586|1
+B|It takes us about three hours to get there.|sd|2586|1
+B|And we go, and we fish,|sd|2586|1
+B|and we catch a bunch of junk Nothing, nothing to talk about for the most part,|sd|2586|1
+B|but it's fun.|sd|2586|1
+A|Uh, from a boat or from shore?|qy|2586|0
+B|From the dock, from shore.|sd|2586|1
+A|Oh, that's nice.|ba|2586|0
+A|Uh, mostly catfish|qy|2586|0
+A|or,|%|2586|0
+B|Oh, mostly we catch carp.|sd|2586|1
+B|If we're doing good, we catch a catfish or two once in a while.|sd|2586|1
+B|And, you know, we go ahead and eat those.|sd|2586|1
+B|But we've never caught enough to really have what you'd call a fish fry.|sd|2586|1
+B|What we normally do is just, uh, go ahead and clean it up, and then, uh, you know, put it in a bag and freeze it.|sd|2586|1
+B|And, and somebody takes it home and eats it then when there's just a couple people instead of a whole crowd.|sd|2586|1
+B|Usually, there's a pretty good crowd there,|sd|2586|1
+B|so we don't ever catch enough to eat.|sd|2586|1
+B|Carp is usually pretty much fun.|sd|2586|1
+B|Because I've caught up to about an eight pound carp on a little, you know, a little pole with twenty pound test line.|sd|2586|1
+B|And that, that's a pretty good fight.|sd|2586|1
+B|So that's a lot of fun.|sd|2586|1
+A|Yeah.|b|2586|0
+A|A real light line, real light rig?|qy|2586|0
+B|Yeah.|ny|2586|1
+A|Well, that sounds like fun.|sv|2586|0
+B|They fight hard.|sd|2586|1
+A|Fish in Colorado different than that.|sv|2586|0
+B|Yeah?|bh|2586|1
+A|Mostly trout in the mountains.|sd|2586|0
+B|Yeah,|b|2586|1
+B|and in the rivers and stuff?|qy|2586|1
+A|Yeah,|ny|2586|0
+A|yeah,|ny|2586|0
+A|mountain streams and rivers.|sd|2586|0
+B|Are they good to eat?|qy|2586|1
+A|Uh, yeah,|ny|2586|0
+A|very. Yeah, very much there, you know.|sd|2586|0
+B|Oh, you mean size wise they're not very big?|qy|2586|1
+A|Um, by and large, no.|nn|2586|0
+A|But, but they're big fun.|sd|2586|0
+B|Yeah.|b|2586|1
+B|Well, I've been,|sd|2586|1
+B|is that mostly, uh, fly fishing when you're doing that|qy|2586|1
+B|or,|%|2586|1
+A|What?|br|2586|0
+B|Are you fly fishing|qy|2586|1
+B|or are you using a bobber?|qrr|2586|1
+A|I, I, I'm a fly fisherman.|sd|2586|0
+B|Yeah.|b|2586|1
+A|Yeah,|b|2586|0
+A|I, I cast a ways.|sd|2586|0
+A|I'm not highly proficient,|sd|2586|0
+A|but it's fun.|sd|2586|0
+B|I've never even tried that.|sd|2586|1
+B|My,|%|2586|1
+B|if I don't have a reel with a button on it, I tend to get so much backlash, it's not worth the trouble|sd|2586|1
+A|Well, let me explain fly, fly fishing to you then.|oo_co_cc|2586|0
+A|You're not casting a weight on the end of the line?|qy^d|2586|0
+B|Uh-huh.|ny|2586|1
+A|You're casting the weight of the line.|qy|2586|0
+B|With the little thing on the end.|sd|2586|1
+A|Yeah,|b|2586|0
+A|well,  the fly on the end weighs nothing.|sd|2586|0
+B|Yeah,|b|2586|1
+B|I thought it had a weight.|sd|2586|1
+A|It weighs less than the line.|sd|2586|0
+B|Oh.|b|2586|1
+A|So what you do is, you strip off, oh, four, five, six little rolls, coils, of line into your hand.|sd|2586|0
+B|Uh-huh.|b|2586|1
+A|And you whip the line.|sd|2586|0
+B|Um.|b|2586|1
+A|As you whip it, over your head,  or side to side, you slowly feed out more and more.|sd|2586|0
+B|Uh-huh.|b|2586|1
+B|Um. So you're fishing downstream so it will carry some?|qy^d|2586|1
+A|Well, no,|nn|2586|0
+A|no.|nn|2586|0
+A|You fish upstream.|sd|2586|0
+B|Oh, you fish upstream?|qy|2586|1
+A|Right.|na|2586|0
+A|And then you let it carry it downstream.|sd|2586|0
+B|Uh-huh.|b|2586|1
+A|And then you reel it in,|sd|2586|0
+A|and you do it again.|sd|2586|0
+B|You hope that they think it's a bug and,  and eat it.|bf|2586|1
+A|Yeah,|aa|2586|0
+A|exactly.|aa|2586|0
+A|Yeah,|aa|2586|0
+A|exactly.|aa|2586|0
+B|Yeah.|b|2586|1
+A|Jump at it.|bf|2586|0
+A|Uh, from what I'm seeing and hearing and all, the, the big pattern that's really looking forward for spring is the grub pattern.|sd|2586|0
+B|That's a fish?|br|2586|1
+A|No,|nn|2586|0
+A|no.|nn|2586|0
+A|It, it looks like a grub.|sd|2586|0
+A|Yeah.|%|2586|0
+B|Oh, it's a, it's a lure.|bf|2586|1
+A|Okay,|aa|2586|0
+A|whenever you, yeah,|%|2586|0
+A|a lure, a fly.|sd|2586|0
+B|I see.|bk|2586|1
+A|Whenever you have a, something that looks like something else|sd|2586|0
+B|Uh-huh.|b|2586|1
+A|and it's a fly, you call it a pattern.|sd|2586|0
+B|Oh.|b|2586|1
+A|All right, uh, you know, there's bumble bee patterns there's excuse me. Uh, there's bumble patterns, there's mosquito patterns, there's wasp patterns, there's grub patterns.|sd|2586|0
+B|Uh-huh.|b|2586|1
+B|Um.|b|2586|1
+A|Uh,|%|2586|0
+B|Did someone just come up with this design,|qy|2586|1
+B|and, and you're going to make one for yourself,|qy^d|2586|1
+A|Uh,|%|2586|0
+B|or are you going to buy it?|qrr|2586|1
+A|You can buy them.|sd|2586|0
+A|Uh, I've got some.|sd|2586|0
+A|And, They seemed to have been hitting real heavy on it in Fall.|sd|2586|0
+B|Uh-huh.|b|2586|1
+B|Oh, it's just, that, that just happens to be what the fish like this year,|bf|2586|1
+B|huh?|^g|2586|1
+A|Yeah,|ny|2586|0
+A|yeah.|ny|2586|0
+B|Um.|b|2586|1
+A|You know how that changes, the phase of the moon|sd|2586|0
+A|and,|%|2586|0
+B|I guess so.|na|2586|1
+B|We tend to use just bait. And, a few lures,|sd|2586|1
+A|Yeah.|b|2586|0
+A|Yeah,|b|2586|0
+A|I, I, You see, I'm from west Texas.|sd|2586|0
+B|but bait tends to work the best, just some blood bait.|sd|2586|1
+B|Oh, are you?|bh|2586|1
+A|Yeah.|ny|2586|0
+B|Where are you from?|qw|2586|1
+A|Lubbock.|sd|2586|0
+B|Oh, I'm from Midland.|sd|2586|1
+A|Oh, another west Texan.|bf|2586|0
+B|I went to college at Tech,|sd|2586|1
+B|so. You've been out to Buffalo Gap fishing.|qy^d|2586|1
+A|Yeah,|ny|2586|0
+A|yeah.|ny|2586|0
+B|Yeah.|b|2586|1
+B|I've been up there.|sd|2586|1
+A|It, It, it's kind of nice way to get away from everything for the day.|sv|2586|0
+B|I didn't catch anything,|sd|2586|1
+B|but I've been up there|sd|2586|1
+B|Yeah,|aa|2586|1
+B|it's fun.|sv|2586|1
+B|It's lazy.|sv|2586|1
+B|Take a picnic lunch.|sd|2586|1
+B|I used to do that with my dad.|sd|2586|1
+B|Every once in a while we'd go out on a Saturday and just spend the day. Before it got too hot.|sd|2586|1
+A|Yeah.|b|2586|0
+A|Well, there you fish mornings and evenings. And nights.|sd|2586|0
+B|Yeah.|aa|2586|1
+B|Yeah,|aa|2586|1
+B|we do most of our fishing at night.|sd|2586|1
+A|Yeah.|b|2586|0
+B|Just from the heat of it all.|sd|2586|1
+B|That's one advantage you've certainly got on us.|sv|2586|1
+A|It, at times, gets incredibly hot here.|sd|2586|0
+B|It does?|bh|2586|1
+B|I've only been up there once.|sd|2586|1
+B|In the summer. Well,|sd|2586|1
+B|no,|ar|2586|1
+B|I've been up there twice in the summer.|sd|2586|1
+B|But both times it was really pleasant.|sd|2586|1
+B|In fact, it snowed on us in, in, gosh, when was that?|sd|2586|1
+A|June?|qy|2586|0
+B|We were in Mesa Verde Park,|sd|2586|1
+B|and it was like the end of It was just before July fourth.|sd|2586|1
+A|Oh.|b|2586|0
+B|And it was twenty-eight, twenty-nine degrees.|sd|2586|1
+B|We were out in this silly tent with regular little sleeping bags, not knowing any better|sd|2586|1
+B|And here it went and it froze,|sd|2586|1
+B|and it snowed on us.|sd|2586|1
+A|Yeah.|b|2586|0
+B|We did not know what to do about it.|sd|2586|1
+A|Fishing is not just, just dragging fish out of the water.|sv|2586|0
+A|It's, it's a total experience, you know, getting out in nature and,  hearing the crickets, and listening to the birds and,  seeing the squirrels and,  camping out, and eating out,  of doors|sv|2586|0
+B|Yeah.|b|2586|1
+B|Uh-huh.|b|2586|1
+B|Do,|%|2586|1
+B|Yeah.|b|2586|1
+A|and,|%|2586|0
+B|Do you have to,|qy|2586|1
+B|do you wear waders when you fish?|qy|2586|1
+A|Uh, I probably ought to.|ng|2586|0
+A|I just freeze.|sd|2586|0
+B|Oh.|b|2586|1
+B|Goodness, it must be a little bit cold.|bf|2586|1
+A|Yeah,|aa|2586|0
+A|yeah,|aa|2586|0
+A|well, you know,  ankle deep or standing on the bank, and slipping it out there.|sd|2586|0
+B|That's cold water around there.|sd|2586|1
+B|Um. Do you have any,|qy|2586|1
+A|You know, I always intend to just stand on the bank and just kind of slip it,  out there,|sd|2586|0
+B|Oh, I see.|bk|2586|1
+A|and you know how it is.|qy^d|2586|0
+A|The water's kind of,|sd|2586|0
+B|Yeah.|aa|2586|1
+B|And you get, you get a little more carried away with it,|bf|2586|1
+B|and you move a little closer.|bf|2586|1
+A|And then you're in to it just a little bit,|sd|2586|0
+A|and then you splash in|sd|2586|0
+A|and,  the next thing you know, your knees are wet.|sd|2586|0
+B|Yeah.|b|2586|1
+B|Do you have any kids that you take fishing?|qy|2586|1
+A|Uh, got a stepdaughter.|na|2586|0
+B|Uh-huh.|b|2586|1
+A|She's real sweet.|sd|2586|0
+A|And, uh, at times she enjoys it, at times not.|sd|2586|0
+B|Yeah.|b|2586|1
+A|A fuzzy little dog.|sd|2586|0
+B|I have a three and a half year old and a one and a half year old.|sd|2586|1
+A|Oh.|b|2586|0
+B|And the little one, of course, is, could care less.|sd|2586|1
+A|Yeah.|b|2586|0
+B|The, uh, three and a half year old has just gotten to the point,|sd|2586|1
+B|we got him a little pole last year,|sd|2586|1
+B|and just put, uh, his big thing last year was throwing it in the water and reeling it up|sd|2586|1
+B|That was what he considered fishing|sd|2586|1
+B|This year, he's gotten to where he can.|sd|2586|1
+B|We, we were at a friend's, uh, stock pond, we were out at their farm,|sd|2586|1
+B|and, and they had been fishing and let him use the pole while we we all walked off a healthy hundred yards or so and let him fish.|sd|2586|1
+A|Yeah.|b|2586|0
+B|And he started trying to cast it.|sd|2586|1
+B|So, he, he was kind of getting there|sd|2586|1
+B|but he's, He's at a dangerous point right now|sd|2586|1
+A|Yeah,|b|2586|0
+A|you guys sure want to be out of range.|sv|2586|0
+B|He understands the mechanics of pushing the button and throw, but not necessarily the direction it's going to go in.|sd|2586|1
+A|It takes time.|sv|2586|0
+B|Yeah.|b|2586|1
+A|Yeah.|b|2586|0
+A|Last year, we had a, oh, just a wonderful trip up to Travers Lake. * Trapper's Lake in Colorado?|sd|2586|0
+A|Oh, it was cold, and rain the whole time.|sd|2586|0
+A|And we still had a good time out,  of the deal.|sd|2586|0
+B|Yeah.|b|2586|1
+B|Well, that's good.|ba|2586|1
+A|Uh, and Colorado is a beautiful place to live.|sv|2586|0
+B|Oh, yeah.|aa|2586|1
+B|My husband would like to live there,|sd|2586|1
+B|but I don't know. All of our family is here|sd|2586|1
+B|so,|%|2586|1
+A|Well, and you've got to have,|sd|2586|0
+A|you've got to work for a living.|sd|2586|0
+B|Well, yeah,|aa|2586|1
+B|but T I is up there,|sd|2586|1
+B|so that part of it would probably work out|sd|2586|1
+A|What division you all in?|qw|2586|0
+B|I'm sorry, what?|br|2586|1
+A|What division are you all in?|qw|2586|0
+B|We're both, uh,|sd|2586|1
+B|I was, uh, military,|sd|2586|1
+B|but he's division three.|sd|2586|1
+B|It goes back and forth.|sd|2586|1
+B|Division, well,|sd|2586|1
+B|maybe division one right now.|sd|2586|1
+B|He's in computers.|sd|2586|1
+A|Oh.|b|2586|0
+B|So,|%|2586|1
+A|Well, the only thing up here,  is division one.|sd|2586|0
+B|And he's in school,  and everything else.|sd|2586|1
+B|I have some friends who work up there.|sd|2586|1
+A|Oh, yeah?|bh|2586|0
+B|Kathy and Kevin Guy.|sd|2586|1
+A|Okay.|b|2586|0
+A|Yeah.|b|2586|0
+B|Yeah.|b|2586|1
+B|And they like to fish.|sd|2586|1
+B|They've been inviting us to come up there in the summer.|sd|2586|1
+B|Her dad has a cabin,|sd|2586|1
+B|and they go fishing, up there.|sd|2586|1
+A|Oh, fishing's,  fishing is fun up here.|sd|2586|0
+B|So that would be neat to,  try it some time.|sd|2586|1
+A|It's not,|sd|2586|0
+A|It seems like the success ratio, the success rate here is not as good as on some of the better lakes there.|sd|2586|0
+A|But it is fun.|sd|2586|0
+B|Yeah,|b|2586|1
+A|You know,  The, the experience is, is better up here, I think.|sv|2586|0
+B|long as you have a good time, that's the main point|sv|2586|1
+B|so,|%|2586|1
+B|Uh-huh.|b|2586|1
+A|You know, it seems more relaxing, there's more to look at.|sv|2586|0
+B|Definitely more to look at.|aa|2586|1
+A|And, and there's something about listening to water run that's relaxing to the soul You know, if you're, if you're just sitting on a nice hot lake,|sv|2586|0
+B|Yeah.|b|2586|1
+B|Yeah.|aa|2586|1
+B|The only thing you've got to watch is when that creek comes up.|sd|2586|1
+B|We camped next to one, one time when we were there a couple of summers ago.|sd|2586|1
+B|And we figured we were up a long way off.|sd|2586|1
+B|And then it rained that night,|sd|2586|1
+B|and we thought, well, wonder how far off we are?|sd|2586|1
+B|And we got up the next day,|sd|2586|1
+B|and that creek that had been fifty or sixty feet from our site of our tent was now about three feet away|sd|2586|1
+B|And it's like, oh, well, maybe we ought to move just a touch.|sd|2586|1
+B|So, that was kind of funny.|sd|2586|1
+A|Yeah,|b|2586|0
+A|it, it is interesting to watch that water rise all of a sudden.|sv|2586|0
+B|Yeah,|aa|2586|1
+B|I just love the way it looks.|sd|2586|1
+B|I could almost just watch the|sd|2586|1
+B|we, in fact, we have gotten out on, on trips before and just stopped and watched it because there was so much,|sd|2586|1
+B|and if you were there. I mean,|sd|2586|1
+B|it was,|sd|2586|1
+B|one time we were there,|sd|2586|1
+B|and I guess it was late May,|sd|2586|1
+B|so it was really your spring almost,  you know, at, even though it was, it was really summer down here.|sd|2586|1
+A|Uh-huh.|b|2586|0
+B|And, and the, I guess the creek, the mountains were really starting to melt,|sd|2586|1
+B|and the creek was just wild, just running.|sd|2586|1
+B|And, and all the white water and noise and the,|sd|2586|1
+B|it was just beautiful.|sd|2586|1
+A|Yeah.|b|2586|0
+A|it gets foamy almost.|sd|2586|0
+B|Uh-huh.|b|2586|1
+A|And you know it's just pure and pristine. And the froth|sd|2586|0
+B|Yeah.|b|2586|1
+A|and,|%|2586|0

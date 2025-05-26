@@ -1,0 +1,123 @@
+B|Do you have any?|qy|3252|0
+A|Sure.|na|3252|1
+A|I have a Springer Spaniel,|sd|3252|1
+A|and her name is Thumper.|sd|3252|1
+A|She's about seven or eight years old.|sd|3252|1
+A|I got her for Christmas from my family, and, uh, back when we lived in Nebraska.|sd|3252|1
+A|I like to hunt,|sd|3252|1
+A|and, uh, so, I thought that if I had a good hunting dog like Thumper that, boy, I could just go out and get all kinds of game|sd|3252|1
+B|Did it work?|qy|3252|0
+A|Yeah,|ny|3252|1
+A|except we live in Plano, Texas now|sd|3252|1
+B|No,|aa|3252|0
+B|right.|aa|3252|0
+A|so|%|3252|1
+B|I, um, I had a, for many years I had a dog that was part Springer Spaniel.|sd|3252|0
+B|I just love them.|sd|3252|0
+B|Her name was Molly,|sd|3252|0
+B|but she isn't alive any more|sd|3252|0
+B|We had her for, um, fifteen years, I think, my family did, and just loved her.|sd|3252|0
+B|She was the greatest, greatest, um, went through two generations of children in my family and was always very gentle.|sd|3252|0
+A|Do you have a pet now?|qy|3252|1
+B|Yeah,|ny|3252|0
+B|I have a cat now.|sd|3252|0
+B|He just turned seven, also,|sd|3252|0
+B|and he's, I, um, got him in Arizona and, when I used to live there,|sd|3252|0
+A|Oh.|%|3252|1
+B|and he is huge.|sd|3252|0
+B|He is eighteen pounds.|sd|3252|0
+A|What kind of cat is it?|qw|3252|1
+B|Just,|%|3252|0
+B|um, I got him,|sd|3252|0
+B|he was, um, he was born in the wild, like in a, in a shed and had never been in a building when I got him.|sd|3252|0
+A|Uh-huh.|b|3252|1
+B|So he,|%|3252|0
+B|and he's, he, he must be part, cross part with some kind of desert animal, because he's very long and lanky,|sd|3252|0
+B|but he's a very tame spoiled house cat, you know, now that I've had him for seven years.|sd|3252|0
+A|Being born outside, you didn't have any problems house training him?|qy^d|3252|1
+B|No,|nn|3252|0
+B|no|nn|3252|0
+A|That's good.|ba|3252|1
+B|he's,|%|3252|0
+B|yeah,|aa|3252|0
+B|he's great,|sd|3252|0
+B|and uh, he's, uh, he's really spoiled, though|sd|3252|0
+B|So, but he's really big,|sd|3252|0
+B|so, lots of times he, it, he seems to get in fights,|sd|3252|0
+B|and when he was younger I think he started them,|sd|3252|0
+B|and now, I think he barely makes it.|sd|3252|0
+B|I think he gets beat up even though he's big, because he's pretty much overweight, and comes home with a few scratches now and then,|sd|3252|0
+A|Sure.|b|3252|1
+A|And older|^2|3252|1
+B|yeah.|b|3252|0
+A|Well, we went to a cat show at the Plano Center here in town,|sd|3252|1
+A|and, uh, we thought that, we have a cat now,|sd|3252|1
+A|but we thought, Well, if we ever get another cat, you know, we'd want something kind of unique,|sd|3252|1
+A|so, we kind of looked around,|sd|3252|1
+A|and they had everything from hairless cats to Siamese cats and Persian cats|sd|3252|1
+A|and we sort of fell in love with the, uh, Maine Coon cats.|sd|3252|1
+B|Oh, I've seen them.|sd|3252|0
+B|I|%|3252|0
+A|They're huge.|sd|3252|1
+B|yeah,|aa|3252|0
+B|I have seen them.|sd|3252|0
+B|They, um, weren't they, they were|%|3252|0
+B|actually, I can't remember,|sd|3252|0
+B|they were used to be used on ships and in, for, for mousers you know,|sd|3252|0
+A|Oh.|b|3252|1
+B|so they're very nautical, too|sd|3252|0
+A|I'll be darned.|ba|3252|1
+A|I didn't know that.|sd|3252|1
+B|Yeah,|b|3252|0
+B|I just,|%|3252|0
+B|uh, I think I'm, I think I'm being accurate in the, in the area of folklore,|sd|3252|0
+B|but I'm not sure.|sd|3252|0
+A|Well that's interesting.|ba|3252|1
+B|Yeah.|b|3252|0
+A|We kind of like,|sd|3252|1
+A|well, my family didn't necessarily like, like them as much as I did,|sd|3252|1
+A|but the Manx, is that the one that doesn't have a tail|sd|3252|1
+B|Yeah.|b|3252|0
+A|it sort of has a bob tail.|sd|3252|1
+A|I kind of like that, too,|sd|3252|1
+A|but.|%|3252|1
+B|Yeah.|b|3252|0
+B|I'd love to go to a cat show.|sd|3252|0
+B|I'm real, a real cat lover.|sd|3252|0
+B|I'd have a lot more cats if my boyfriend would let let me|sd|3252|0
+B|He doesn't really like mine, let alone another one.|sd|3252|0
+A|Well, I'll tell you an interesting story about how I got my dog,|oo_co_cc|3252|1
+A|and then I suppose our five minutes will be up.|sv|3252|1
+B|Yeah.|aa|3252|0
+B|Okay.|aa|3252|0
+A|I work for a university,|sd|3252|1
+A|and I went to, uh, Omaha, Nebraska to recruit students,|sd|3252|1
+A|and I had some time off in the afternoon,|sd|3252|1
+A|so I went to a, a pet shop,|sd|3252|1
+A|and I saw these little Springer Spaniels|sd|3252|1
+B|Um.|%|3252|0
+A|and so I decided, well, you know, this would really be a nice dog to have,|sd|3252|1
+A|so, when I got back home to Carney, Nebraska, I told my wife about it,|sd|3252|1
+A|and I said, You know, this is just a,|sd|3252|1
+A|I, I, I can just hear the dog crying for me now|^q|3252|1
+B|I know what you mean.|ba|3252|0
+A|And Christmas is coming up, hint, hint,|^q|3252|1
+A|and so, I had to go back the next week, as well as a bunch of other people from the university,|sd|3252|1
+A|and one of the people, uh, that we went with, uh, they were friends of ours,|sd|3252|1
+A|and so, we got to Omaha,|sd|3252|1
+A|and I decided I'd take my friend over and show him the dog,|sd|3252|1
+A|and so I got over there,|sd|3252|1
+A|and she said, Oh, that's too bad, the dog has already been sold.|sd|3252|1
+A|And I didn't realize it,|sd|3252|1
+A|but this guy had somehow worked it out so that he got there a little bit earlier, bought the dog,|sd|3252|1
+A|and she was in the back room,|sd|3252|1
+A|and so that night we had a reception for some of the, uh, potential high school students or college students,|sd|3252|1
+A|and, and, uh, he had the dog the whole time in his room,|sd|3252|1
+A|and, and I had no idea.|sd|3252|1
+A|And so we headed back to Carney that night,|sd|3252|1
+A|and the dog rode in the car|sd|3252|1
+A|and we stopped along the way and had a bite to eat|sd|3252|1
+A|and they left the dog in the car,|sd|3252|1
+A|and I guess while we were inside eating, Thumper just tore the heck out of the inside of the car,|sd|3252|1
+A|and, uh, finally we made it back to, uh, to Carney|sd|3252|1
+A|and,|%|3252|1

@@ -1,0 +1,208 @@
+A|Okay.|fo_o_fw_"_by_bc|3045|0
+A|Uh, do you own a P C by the way?|qy|3045|0
+A|I'm guessing you probably do.|qy^d|3045|0
+B|I don't have one in my home here.|ng|3045|1
+B|My, um, parents have one|sd|3045|1
+B|and they live just about three miles away,|sd|3045|1
+A|Oh.|bk|3045|0
+B|so we use that one.|sd|3045|1
+A|I see.|bk|3045|0
+B|And my in-laws also have one,|sd|3045|1
+B|and they're almost as close.|sd|3045|1
+A|Right.|b|3045|0
+B|They're in Richardson.|sd|3045|1
+A|Uh-huh,|b|3045|0
+A|uh-huh.|b|3045|0
+A|And what kinds of things do you use it for when you when you go to their houses to them?|qw|3045|0
+B|Um, usually, uh, word processing something, um, such as, oh, forms for things, uh,|sd|3045|1
+A|Yeah.|b|3045|0
+B|also I have a nine year old that I've been home schooling for the last three years.|sd|3045|1
+A|Oh.|b|3045|0
+B|And we got,|%|3045|1
+B|uh, the one that my parents have is an Apple Two E.|sd|3045|1
+A|Uh-huh.|b|3045|0
+B|And I have a sister-in-law who is, who works in the Fort Worth school district.|sd|3045|1
+A|Uh-huh.|b|3045|0
+B|And so she got me copies of, uh, several of the Apple programs for school programs,|sd|3045|1
+A|Great.|ba|3045|0
+A|Yeah.|b|3045|0
+B|and so we use those|sd|3045|1
+B|and there's some,|%|3045|1
+B|whenever we go over and visit grandma the kids love to play the computer game,|sd|3045|1
+B|so, that's part of it.|sd|3045|1
+A|Oh, sure.|b|3045|0
+B|Um, my husband has used the one at his folks house for mostly business things. Uh, his resume, his, uh, letter,|sd|3045|1
+A|Yeah.|b|3045|0
+B|he's been applying for jobs and things, so that type of thing. Uh, forms for his photography business, and that kind of thing.|sd|3045|1
+A|Uh-huh.|b|3045|0
+A|Uh-huh.|b|3045|0
+A|Yeah,|b|3045|0
+A|well, I tell you once you get used to having them you, you get spoiled really quickly.|sv|3045|0
+B|Yeah.|b|3045|1
+A|Uh,|b|3045|0
+B|I'm, uh,|%|3045|1
+B|my father had a software company,|sd|3045|1
+A|Oh.|b|3045|0
+B|and they have a bunch of computers leftover from that|sd|3045|1
+A|Uh-huh.|b|3045|0
+B|and we're hoping that they can put together something for us here that we can have the word processing, here|sd|3045|1
+A|Yeah.|b|3045|0
+B|But, um, they're kind of old older|sd|3045|1
+A|Right.|b|3045|0
+B|so I'm not sure that we'll be able to do, get too many other programs for it.|sd|3045|1
+A|Yeah,|b|3045|0
+A|yeah.|b|3045|0
+A|Um, I I'm a, a writer by profession|sd|3045|0
+A|and, uh, when, when I was first here in, in Dallas or in Plano, um, and was finally able to, this is, oh, been like fourteen years ago we moved here. And I was finally able to afford a new typewriter, and I got an I B M Selectric. I thought I had died and gone to heaven because I thought, oh, they're so wonderful.|sd|3045|0
+B|Oh.|b|3045|1
+B|I have one of those.|sd|3045|1
+B|Yeah.|%|3045|1
+A|Well, then, um,|%|3045|0
+B|Mine's broke at the moment,|sd|3045|1
+B|but|%|3045|1
+A|Yeah,|b|3045|0
+A|ours really needs to have some work done on it|sd|3045|0
+A|but, but then my husband, um, worked at T I|sd|3045|0
+A|and I got a, um, this has been years ago he doesn't work there anymore, but he got a, um, uh, the, the T I professional and brought that home|sd|3045|0
+A|and I learned Wordstar on that,|sd|3045|0
+B|Oh.|b|3045|1
+A|and, boy once that happened, there was just no way that I could ever go back to doing anything of length of the typewriter.|sd|3045|0
+B|Yeah,|b|3045|1
+B|I learned, I, I learned Wordstar, uh,|sd|3045|1
+B|I did some typing for my father when he had the company|sd|3045|1
+A|Uh-huh.|b|3045|0
+B|and so I learned that on there too,|sd|3045|1
+B|that was,|%|3045|1
+A|Yeah.|b|3045|0
+A|Have you ever used, do you use WordPerfect ever? Have you ever used WordPerfect?|qy|3045|0
+A|Or,|%|3045|0
+B|I haven't.|ng|3045|1
+B|That's the one that my father,|sd|3045|1
+B|well, I guess I have used it once or twice.|arp_nd|3045|1
+A|Uh-huh.|b|3045|0
+B|Uh, it's the one that's on my father-in-law's computer.|sd|3045|1
+A|Right.|b|3045|0
+B|He's got on I B M.|sd|3045|1
+A|Yeah,|b|3045|0
+A|yeah.|b|3045|0
+A|That's probably where you've used it.|sv|3045|0
+B|And, uh, so that's the program that they're using there.|sd|3045|1
+A|Uh-huh.|b|3045|0
+A|Yeah. Um,|b|3045|0
+A|I have that on my, uh, computer here|sd|3045|0
+A|and also, um, I do some work at U T D|sd|3045|0
+A|and, uh, that's what they have there|sd|3045|0
+A|and it was just so nice to be able just to step into the position and, and already know the you know, already know the, the software.|sd|3045|0
+A|And, um, I don't know from my own experience, um,|sd|3045|0
+A|WordPerfect is just so much better than, than Wordstar at least the version of Wordstar that I used to have.|sd|3045|0
+A|It may be improved by now|sd|3045|0
+A|but,|%|3045|0
+B|That's what I've heard.|sd|3045|1
+A|Yeah,|b|3045|0
+A|it's, uh, Wordstar was never very intuitive to me.|sv|3045|0
+A|I mean you know, you,|%|3045|0
+A|some of the commands just had nothing to do with, you know, what you were supposed to be doing what they, what they did on the computer|sv|3045|0
+A|but, uh,|%|3045|0
+B|Uh-huh.|b|3045|1
+A|I mean like going, um, forward and backward a word or up and down a line that sort of thing just, you know, didn't match with the kinds of keys, you were using.|sv|3045|0
+B|Yeah,|aa|3045|1
+B|you had to, memorize it,|sv|3045|1
+A|Yeah.|b|3045|0
+B|and,|%|3045|1
+A|And, but WordPerfect is just a lot more intuitive in a lot of ways.|sv|3045|0
+A|And you, and it does a lot of things too that if you, if you do any kind of, uh, research or anything like that where you have to, uh, use footnotes, it is just wonderful. Because it keeps track of all your footnotes.|sv|3045|0
+B|Oh.|b|3045|1
+B|Oh, that's neat.|ba|3045|1
+A|Yeah,|aa|3045|0
+A|and if you add it, if you put a footnote in, in the middle, you know, if you come up with some new piece of documentation and you put that in the middle of your paper and have to footnote it, you just change, um, it just automatically changes all your footnoting numbers for you.|sd|3045|0
+B|Oh, how wonderful.|ba|3045|1
+A|So, you know, it's just,|%|3045|0
+B|That, I had heard that that was better. That was a better one.|sd|3045|1
+A|Yeah.|b|3045|0
+A|Yeah.|aa|3045|0
+A|And I think about how it used to be if you were doing a paper and you had to go back and retype everything,|sd|3045|0
+A|and oh, it was just awful.|sv|3045|0
+A|So, um, I don't know I think we have just become really spoiled.|sv|3045|0
+A|But I think, it's a nice kind of way to be spoiled|sv|3045|0
+B|Yeah.|b|3045|1
+B|Yeah,|aa|3045|1
+B|I agree|aa|3045|1
+A|So, um, well, I have not really paid much attention because I|sd|3045|0
+A|clock,|%|3045|0
+A|although I think we've probably been talking at least ten minutes|sd|3045|0
+A|so, um, if you, um, unless you have some other things you want to talk about as having to do with P C|qy^d|3045|0
+B|Not too much.|ng|3045|1
+B|What kind of, what kind of things do you write?|qw|3045|1
+A|Well, um, I was a technical writer for many years, um,|arp_nd|3045|0
+B|Oh|bk|3045|1
+A|and my husband and I actually met in a computer company.|sd|3045|0
+A|Um, I was a tech writer|sd|3045|0
+A|and he was an engineer. And, uh, so I did tech writing for a number of years.|sd|3045|0
+B|to her Go talk to Daddy about it.|t3|3045|1
+B|Excuse me.|ad|3045|1
+A|Oh, sure.|aa|3045|0
+B|to her Go on and talk to Daddy about it|t3|3045|1
+B|Tell Daddy I unplugged it for you.|t3|3045|1
+B|But you don't need to drag it down the hall|t3|3045|1
+A|Got a problem, huh?|qy|3045|0
+A|Um,|%|3045|0
+B|Daddy, Daddy came home and found her playing with the telephone that I had unplugged|sd|3045|1
+A|Oh. Trying to figure out what all that was about, huh?|qy|3045|0
+B|Yeah.|ny|3045|1
+A|But, um, I have,|%|3045|0
+A|um, that, that was the majority of my writing although, um, I have also done oh, free lance magazine writing and some educational writing.|sd|3045|0
+A|And, um, for a while I had a, um, uh, a partnership with a, in an advertising agency with another woman who is a, an artist.|sd|3045|0
+A|So I did some advertising and P R|sd|3045|0
+A|but,|%|3045|0
+B|Huh.|b|3045|1
+A|um, now I'm, actually I'm, I'm not working anymore.|sd|3045|0
+A|I'm a student, I'm a graduate student|sd|3045|0
+A|so I'm doing a lot of writing|sd|3045|0
+A|but, uh, now all of the scholastic majors though,|sd|3045|0
+B|Yeah.|b|3045|1
+A|I've done a little, a lot of different kinds,|sd|3045|0
+A|but I, I just know right now that I couldn't have put out half of what I did if that much without the being in computers|sd|3045|0
+A|so that's been really great.|sd|3045|0
+A|And, uh, I'm, so I'm real spoiled.|sd|3045|0
+B|Yeah.|b|3045|1
+B|I'm anxious some day to have one here.|sd|3045|1
+A|Yeah.|b|3045|0
+B|I'm,|%|3045|1
+B|and they just talked to the other day other day about setting something up again|sd|3045|1
+B|so hopefully pretty soon we'll at least have the word processing.|sd|3045|1
+A|Uh-huh.|b|3045|0
+A|Yeah.|b|3045|0
+B|My nine year old I've decided to teach her how to type using the computer,|sd|3045|1
+A|Good.|ba|3045|0
+B|so.|%|3045|1
+A|That's great.|ba|3045|0
+B|Yeah.|b|3045|1
+A|Yeah.|b^m|3045|0
+B|I've,|%|3045|1
+A|Well, those are skills that she certainly is going to need early on|sv|3045|0
+A|and, you know, the, and it seems like it's getting earlier and earlier with the children.|sv|3045|0
+B|That's right.|aa|3045|1
+A|So, um, I think that that would be a real, a real, uh, advantage to, to her to have that and, uh, do it early,|sv|3045|0
+B|Uh-huh.|b|3045|1
+B|Yeah.|b|3045|1
+A|so. Uh, do|%|3045|0
+B|We've been, we've been, uh, writing a story together.|sd|3045|1
+A|Oh, neat.|ba|3045|0
+B|And so I, and I wanted her to put it into the computer, and then print it out and, make a book with it, you know.|sd|3045|1
+A|Yes.|b|3045|0
+A|Right.|b|3045|0
+A|Oh, great.|ba|3045|0
+B|And so I decided well, if she's going to do that, it would be a whole lot easier if she could type|sd|3045|1
+A|Right|b|3045|0
+B|So we'll slowly learn just to type here and then then put the story in.|sd|3045|1
+A|That's great.|ba|3045|0
+A|Well, that's a, that's a skill that she can use for the rest of her life,|sv|3045|0
+A|so Might as well start now, huh?|sv|3045|0
+B|Yes,|aa|3045|1
+B|yes.|aa|3045|1
+B|I agree.|aa|3045|1
+A|Well, Nola I have enjoyed talking with you thoroughly.|fc|3045|0
+A|This is really going to be fun I think,|fc|3045|0
+B|Yeah.|fc|3045|1
+A|and, um, my husband is a ham radio operator|fc|3045|0
+A|and I think about all the people that he talks to all over the,|fc|3045|0

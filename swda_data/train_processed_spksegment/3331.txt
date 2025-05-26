@@ -1,0 +1,90 @@
+A|Well, what I believe is one of the major uh, things that is wrong with our public school system is that, um, we do not have enough discipline|sv|3331|0
+B|Uh-huh.|b|3331|1
+A|and the parents do not let the teachers discipline the children the way that they need to be disciplined right now.|sv|3331|0
+B|Uh-huh.|b|3331|1
+B|Uh-huh.|aa|3331|1
+B|I agree with that.|aa|3331|1
+A|Uh, when I went to school, I know I was scared to death about being disciplined,|sd|3331|0
+B|You were?|bh|3331|1
+A|and the discipline that my daughter receives now in going to school is just totally different.|sd|3331|0
+B|Uh-huh.|b|3331|1
+B|Uh-huh.|b|3331|1
+A|You know, you just, you did not see, I did not see anybody in my classrooms, when I was going to school, act up the way that kids do these days in the classroom.|sd|3331|0
+B|Yeah.|b|3331|1
+B|Yeah,|aa|3331|1
+B|yeah.|aa|3331|1
+B|From what I understand, they act up pretty bad|sv|3331|1
+A|Yeah,|aa|3331|0
+A|that's right,|aa|3331|0
+A|that's right.|aa|3331|0
+B|What, uh, grade is your daughter in?|qw|3331|1
+A|My, my daughter's in the, um, fourth grade|sd|3331|0
+B|Uh-huh,|b|3331|1
+B|uh-huh.|b|3331|1
+A|and, um, there's children in her classroom that just totally disrupt the classroom, where the teacher cannot teach|sd|3331|0
+B|Uh-huh,|b|3331|1
+B|uh-huh.|b|3331|1
+B|Yeah.|b|3331|1
+A|and when I went to school that just wasn't put up with.|sd|3331|0
+B|Oh, no,|aa|3331|1
+B|uh-huh.|aa|3331|1
+B|They always had a paddle in our school.|sd|3331|1
+A|Uh-huh.|b|3331|0
+A|Well, they, they just don't do that any more.|sv|3331|0
+B|I know.|aa|3331|1
+A|But the school system's afraid of getting sued and, um, all sorts of lawsuits I'm sure because of things like that.|sv|3331|0
+B|Uh-huh.|b|3331|1
+B|Yeah,|aa|3331|1
+B|yeah.|aa|3331|1
+A|And, I also believe we don't, even though I feel like I pay a good share towards the school system, that the teachers are still underpaid|sv|3331|0
+A|and we still don't have enough money towards put in toward public school.|sv|3331|0
+B|Uh-huh,|aa|3331|1
+B|uh-huh.|aa|3331|1
+B|Uh-huh.|aa|3331|1
+A|And, um, I think that if we had enough money and paid the teachers a little bit more, that maybe that could solve some of our problems.|sv|3331|0
+B|Yeah.|aa|3331|1
+B|Wasn't that what part of the lottery is going to go for, if we approve it?|qy|3331|1
+A|Yes|ny|3331|0
+A|supposedly that's what it's suppose to go for,|sd|3331|0
+A|and you know, we'll just have to wait and see whether that's approved or not.|sv|3331|0
+B|Uh-huh.|b|3331|1
+A|You know, I don't know your feelings toward that.|qw^d|3331|0
+A|I guess we shouldn't get into that|ad|3331|0
+A|but, um, and what else, um,|^h|3331|0
+A|I think in some ways that they need to be more careful of the teachers that they hire.|sv|3331|0
+B|Uh-huh.|b|3331|1
+A|I have heard stories, uh, from other parents that I know of, their children are in high school that teachers are out there giving drugs and selling drugs,|sd|3331|0
+B|Uh-huh.|b|3331|1
+B|No.|ar|3331|1
+B|Really?|bh|3331|1
+A|Oh, yeah,|ny|3331|0
+B|Ooh.|bk|3331|1
+A|I've, I've heard some horrible, horrible stories about high, high school teachers|sd|3331|0
+B|Uh-huh.|b|3331|1
+A|and, you know, to be, be more careful of the teachers that we place in our school.|sd|3331|0
+B|Uh-huh. Um.|b|3331|1
+A|Um, that's basically about all that I know that may be wrong with the school system.|sd|3331|0
+A|I think, with what they have to work with, I think they're doing a pretty good job right now.|sv|3331|0
+B|Oh, I do too,|aa|3331|1
+B|I think they're doing real good job.|aa|3331|1
+A|Uh-huh,|b|3331|0
+A|so.|%|3331|0
+B|But, then, what do I know,|qh|3331|1
+B|I don't have any kids.|ng|3331|1
+B|No,|nn|3331|1
+B|none at all|sd|3331|1
+A|Yeah,|bk|3331|0
+A|okay,|bk|3331|0
+A|so this is probably a real hard subject for you.|qy^d|3331|0
+B|Oh, yeah|ny|3331|1
+A|Yeah.|bk|3331|0
+A|Okay,|bk|3331|0
+A|well, I guess, um, we can discontinue our call now.|fc|3331|0
+B|Okay.|fc|3331|1
+A|It was a joy in talking with you.|fc|3331|0
+B|Well, it was good talking to you too.|fc|3331|1
+A|Okay,|fc|3331|0
+A|thanks.|fc|3331|0
+B|We'll see you,|fc|3331|1
+B|bye-bye.|fc|3331|1
+A|Bye.|fc|3331|0

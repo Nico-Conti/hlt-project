@@ -1,0 +1,202 @@
+B|All right|fo_o_fw_"_by_bc|3011|0
+B|so, uh, you live in Dallas?|qy|3011|0
+A|Yes,|ny|3011|1
+A|I live in Dallas.|sd|3011|1
+B|Now I understand that, um, the, the real estate market out there has really gone crazy, up and down, up and down.|qy^d|3011|0
+A|Yeah,|ny|3011|1
+A|I think right now it's, it's kind of bad Uh,|sv|3011|1
+A|I don't live in a house,|sd|3011|1
+A|I live in an apartment|sd|3011|1
+B|Oh.|%|3011|0
+A|Are, are you in a house?|qy|3011|1
+B|Yeah,|ny|3011|0
+B|uh-huh.|ny|3011|0
+A|Okay.|bk|3011|1
+B|Yeah,|b|3011|0
+B|we have a single family home in northern Virginia just outside of Washington.|sd|3011|0
+A|Uh-huh.|b|3011|1
+A|Well, I guess the best I can do is, is, uh, compare apartments|sd|3011|1
+A|If it can compare the one that I have now, with the one that I had the last time, the one that I have now, uh, has a lot more amenities, I guess is the right word, than the one that I moved out of.|sd|3011|1
+A|Uh, this one, you know, gave us free cable and, uh, ceiling fans|sd|3011|1
+A|and, uh, it was practically new when I moved in here|sd|3011|1
+A|and the carpet was new|sd|3011|1
+A|and,|%|3011|1
+B|Huh.|%|3011|0
+B|Do you live in the high-rise?|qy|3011|0
+A|No,|nn|3011|1
+A|it's not a high-rise.|sd|3011|1
+A|It's just a, a two story building.|sd|3011|1
+B|Uh-huh.|bk|3011|0
+A|Uh, but there's, you know, there, there are a lot of buildings|sd|3011|1
+A|but it's just two stories.|sd|3011|1
+A|Uh, on the second floor they have, they don't have a patio|sd|3011|1
+A|but they have a sunroom instead of the patio.|sd|3011|1
+A|On the first floor, um, where I am, there's a patio.|sd|3011|1
+B|Oh, okay.|b|3011|0
+B|So, so you just, you have one floor all to yourself?|qy^d|3011|0
+A|Yeah.|ny|3011|1
+B|Oh, okay.|bk|3011|0
+A|The rooms are nice and large|sd|3011|1
+A|and, let's see, I have, I have two bedrooms.|sd|3011|1
+A|And, uh, ,|%|3011|1
+B|Oh, that's nice.|ba|3011|0
+B|Do you get your own washer, dryer?|qy|3011|0
+A|Well, I, I, I have a washer and dryer area|no|3011|1
+A|and I, I did buy the washer and dryer,|sd|3011|1
+A|but they didn't provide it.|sd|3011|1
+B|Oh.|bk|3011|0
+A|The one that I moved from didn't, didn't have a place to put them,|sd|3011|1
+A|and that's one of the reasons that I did move.|sd|3011|1
+B|Yeah.|b|3011|0
+B|That is nice.|sv|3011|0
+A|Yeah.|b|3011|1
+A|Get tired of dragging clothes to the laundromat|sv|3011|1
+B|Yeah.|aa|3011|0
+A|So, tell me|ad|3011|1
+B|Yeah,|b|3011|0
+B|I've always, uh, been pretty lucky.|sd|3011|0
+B|The real estate out here's been pretty good.|sd|3011|0
+B|It, uh, the, the prices of, well, the prices came down last year.|sd|3011|0
+B|We've, we had sort of like a Dallas syndrome|sd|3011|0
+A|Yeah.|b|3011|1
+B|The past, uh, uh, year and a half prices have gone down which is totally new for northern Virginia.|sd|3011|0
+A|Uh-huh.|b|3011|1
+A|It just , It's a real good ,|sv|3011|1
+B|It just never happened before.|sd|3011|0
+B|So it's really surprising everybody.|sd|3011|0
+B|All the developers don't know what to do|sd|3011|0
+A|Yeah,|b|3011|1
+A|it's a good time to buy, if you're in the market.|sv|3011|1
+B|Yeah,|b|3011|0
+B|we're, uh, we actually have our house on the market because we have two kids|sd|3011|0
+A|Uh-huh.|b|3011|1
+B|and we have a three bedroom house.|sd|3011|0
+B|And it's pretty much filled up right now.|sd|3011|0
+A|Oh, so you want a bigger one.|qy^d|3011|1
+B|Yeah,|ny|3011|0
+B|uh-huh.|ny|3011|0
+B|Get an extra bedroom or a basement.|sd|3011|0
+B|Right now it's just a, a single level rambler.|sd|3011|0
+A|Uh-huh.|b|3011|1
+A|One thing about the houses in, uh, in Dallas, they don't, uh, utilize basements the way they did in New York.|sd|3011|1
+A|My parents in New York had, uh, a, uh, three family house.|sd|3011|1
+B|Uh-huh.|b|3011|0
+A|Actual a,|%|3011|1
+A|two family house where the, the, um, the downstairs and the second floor they had,|sd|3011|1
+A|and then they rented the third floor with the whole apartment, you know.|sd|3011|1
+B|Oh.|b|3011|0
+A|And, uh, they had a basement,|sd|3011|1
+A|and they, you know, they finished the basement,|sd|3011|1
+A|and they were able to rent that out also.|sd|3011|1
+A|But, uh, in Dallas I, I just, I just haven't seen basements in houses.|sd|3011|1
+B|Yeah,|b|3011|0
+B|yeah.|b|3011|0
+A|And I've looked at a lot of them, you know .|sd|3011|1
+B|Yeah,|b|3011|0
+B|a friend of mine was thinking about coming down there,|sd|3011|0
+B|and that's what he said was that, you know, it just wasn't something that people had down there.|sd|3011|0
+A|No,|aa|3011|1
+A|it's|%|3011|1
+B|They put pools and garages on, but, uh, no basements|sd|3011|0
+A|Right.|b|3011|1
+A|I haven't, I haven't, I have yet to see a basement in a house.|sd|3011|1
+B|Huh.|%|3011|0
+A|And, uh,|%|3011|1
+B|Maybe it's all the sand.|sv|3011|0
+B|Is there a lot of sand in,|qy|3011|0
+B|I always think it's like a desert,|sd|3011|0
+B|I don't know.|h|3011|0
+B|Dallas always,|%|3011|0
+A|Well, no.|ar|3011|1
+A|No,|ar|3011|1
+A|no,|ar|3011|1
+A|no,|ar|3011|1
+A|you know, I don't see that kind of sand here. Um,|sd|3011|1
+A|there are some areas though where, where they have a problem with, uh, the houses kind of sinking a little bit into the, to the, uh,|sd|3011|1
+B|Uh-huh.|b|3011|0
+A|or the foundation is sinking or something. You know, just a little, just a little bit, some more than others.|sd|3011|1
+A|But you, you have to know the right spot, to, to pick where that doesn't happen.|sd|3011|1
+B|Yeah.|b|3011|0
+A|And, uh ,|%|3011|1
+B|Well, out here we, um, we live in what used to be, uh, like a prairie or whatever a natural, you know, natural grasslands.|sd|3011|0
+A|Uh-huh.|b|3011|1
+B|And, uh, they,|%|3011|0
+B|it's just, you go down four inches|sd|3011|0
+B|and you get to well, fourteen inches you get to sandstone.|sd|3011|0
+A|Yeah.|b|3011|1
+B|And so any place where they put a basement in they had to blast|sd|3011|0
+A|I see.|b|3011|1
+B|It's just solid sandstone.|sd|3011|0
+A|Huh.|%|3011|1
+A|Where did you say you're at, Colorado?|qy|3011|1
+B|No,|nn|3011|0
+B|Virginia.|sd|3011|0
+A|Virginia,|b^m|3011|1
+A|Virginia.|b|3011|1
+A|That's right .|sd|3011|1
+B|Yeah,|b|3011|0
+B|it's sort of unusual really.|sv|3011|0
+B|Most of Virginia is clay.|sd|3011|0
+A|Anywhere near, uh, Virginia Beach?|qy^d|3011|1
+B|Oh, yeah,|ny|3011|0
+B|uh-huh.|ny|3011|0
+B|Yeah.|ny|3011|0
+B|My, uh, my folks used to live there.|sd|3011|0
+B|Back before I was born, they lived there.|sd|3011|0
+A|Oh.|b|3011|1
+A|Uh-huh.|b|3011|1
+A|Well, different areas in Dallas have different kind,|sd|3011|1
+A|in, uh, in Texas I'll say|sd|3011|1
+A|because down in east Texas there's a lot of red clay.|sd|3011|1
+B|Uh-huh.|b|3011|0
+A|And, uh, in the, in the Dallas, you know, Fort Worth city areas you don't see that.|sd|3011|1
+B|Yeah,|b|3011|0
+B|well, uh, Texas is a big state|sd|3011|0
+B|so I imagine the, the type of houses and, uh, things like that are truly different from area to area|sv|3011|0
+A|Yeah,|b|3011|1
+A|well,|%|3011|1
+B|But, uh, that's the same way out here|sd|3011|0
+B|because, um, well, we, for example, and we live fifteen miles from the beltway that surrounds Washington|sd|3011|0
+A|Uh-huh.|b|3011|1
+B|and anything instead that beltway, the highway, the real estate's forty thousand dollars more expensive.|sd|3011|0
+A|Yeah.|b|3011|1
+B|So, you know, you really can't afford, I, I, I could never afford a house inside the beltway.|sd|3011|0
+B|That's why we came out here.|sd|3011|0
+B|This is called the, the, the country, you know, with only, you know, maybe twenty miles total from D C, twenty-five from the city.|sd|3011|0
+A|Huh.|%|3011|1
+B|But, um, it's considered the country since it's, uh, you know, that far out.|sd|3011|0
+A|Well ,|%|3011|1
+B|But, um, yeah,|b|3011|0
+B|we live out by Dulles Airport.|sd|3011|0
+A|I see.|b|3011|1
+B|Yeah,|b|3011|0
+B|and, uh, that's one of the few places still in northern Virginia|sd|3011|0
+B|they have trailer parks that are down around the corner from here|sd|3011|0
+B|and, you know, it's, it's still pretty rural.|sd|3011|0
+A|Uh-huh.|b|3011|1
+B|Uh, not too much of northern Virginia is like that anymore.|sv|3011|0
+B|Land has gotten so expensive|sd|3011|0
+B|they just can't afford to have low income housing like that.|sv|3011|0
+A|So, is your house in an area by itself?|qy|3011|1
+A|I mean,|%|3011|1
+B|No,|nn|3011|0
+B|we're in a development.|sd|3011|0
+A|it's not connected to another one?|qy^d|3011|1
+B|There's, uh,|%|3011|0
+B|yeah,|ny|3011|0
+B|there's another one half an acre away, or a quarter acre away rather.|sd|3011|0
+A|Oh.|%|3011|1
+A|But it's not, they're not connected are they?|qy|3011|1
+B|Oh, no.|nn|3011|0
+B|Huh-uh.|nn|3011|0
+B|You have to, uh, stay in one single family home.|sd|3011|0
+B|I sort of got spoiled with that when I was growing up.|sd|3011|0
+A|Yeah.|b|3011|1
+B|Uh, my folks, um, had an apartment for a while when we were kids|sd|3011|0
+B|but, um, for the most part they, they always had, you know,|sd|3011|0
+B|and Pennsylvania always had a single family home|sd|3011|0
+B|and so, you know, as soon as we could we, we got a single family home,|sd|3011|0
+A|Uh-huh.|b|3011|1
+B|and that's all I ever knew growing up,|sd|3011|0
+A|Uh-huh.|b|3011|1
+B|so. I stayed in a townhouse for, uh, two years and then, uh, saved up enough money to, to get a,|sd|3011|0
