@@ -15,47 +15,49 @@ def concatenate_files_in_folders(
             (str) output_filename (e.g., "train.txt")
         file_extension (str): Glob pattern for files to concatenate (e.g., "*.txt").
     """
-    script_dir = os.path.dirname(os.path.abspath(__file__)) # Assumes script is in the parent project directory
+    # Get the script's directory. This helps in resolving relative paths for
+    # both input folders and where the final concatenated files will be saved.
+    script_dir = os.path.dirname(os.path.abspath(__file__))
 
     for input_dir_name, output_filename in input_folder_configs:
+        # Construct the full path for the input directory and the target output file.
         input_dir_path = os.path.join(script_dir, input_dir_name)
-        output_filepath = os.path.join(script_dir, output_filename) # Output in the main project directory
+        output_filepath = os.path.join(script_dir, output_filename) # Output file goes in the script's root directory
 
         print(f"\nProcessing directory: '{input_dir_path}'")
         print(f"Outputting to: '{output_filepath}'")
 
+        # Skip this configuration if the input directory doesn't exist.
         if not os.path.isdir(input_dir_path):
             print(f"Warning: Input directory '{input_dir_path}' not found. Skipping.")
             continue
 
-        # Find all files matching the pattern in the input directory
-        # Sorting ensures a consistent order if filenames have a natural sort order
+        # Find all files within the input directory that match the specified extension.
+        # `sorted()` ensures a consistent order of concatenation, which is good practice.
         file_search_pattern = os.path.join(input_dir_path, file_extension)
         files_to_concatenate = sorted(glob.glob(file_search_pattern))
 
+        # If no files are found, create an empty output file and notify.
         if not files_to_concatenate:
             print(f"No files matching '{file_extension}' found in '{input_dir_path}'.")
-            # Create an empty output file if no input files are found
             with open(output_filepath, 'w', encoding='utf-8') as outfile:
-                pass # Creates an empty file
+                pass # This simply creates an empty file
             print(f"Created empty file: '{output_filepath}'")
             continue
 
-        # Open the final output file in write mode (this will overwrite if it exists)
+        # Open the final aggregate output file in write mode ('w').
+        # This will create the file or overwrite it if it already exists.
         with open(output_filepath, 'w', encoding='utf-8') as outfile:
             for individual_filepath in files_to_concatenate:
                 file_basename = os.path.basename(individual_filepath)
                 print(f"  Concatenating: '{file_basename}'")
                 try:
+                    # Open each individual file for reading.
                     with open(individual_filepath, 'r', encoding='utf-8') as infile:
-                        # Read the content of the individual file
-                        content = infile.read()
-                        # Write it to the aggregate output file
-                        outfile.write(content)
-                        # Ensure a newline if the file didn't end with one,
-                        # though our previous scripts should ensure this.
-                        # If `content` is not empty and doesn't end with a newline, add one.
-                        # This is usually not needed if files are well-formed.
+                        content = infile.read() # Read the entire content of the current file.
+                        outfile.write(content)   # Write it to the combined output file.
+                        # Our previous scripts should ensure each file ends with a newline.
+                        # If not, you might uncomment the following to add one for separation:
                         # if content and not content.endswith('\n'):
                         #    outfile.write('\n')
                 except Exception as e:
@@ -65,16 +67,16 @@ def concatenate_files_in_folders(
 if __name__ == "__main__":
     # --- Configuration ---
 
-    # Define the input directories (output from the speaker change script)
-    # and the desired name for the final concatenated output file.
-    # Each tuple is (source_folder_name, target_concatenated_filename)
+    # Define the input folders (these are typically outputs from previous processing steps)
+    # and their corresponding desired output filenames for the concatenated data.
+    # Each tuple: (source_directory_name, target_concatenated_filename).
     CONCATENATION_CONFIGS = [
         ("train_processed_spksegment", "train.txt"),
         ("val_processed_spksegment", "val.txt"),
         ("test_processed_spksegment", "test.txt")
     ]
 
-    # File pattern to look for in each directory for concatenation
+    # The file pattern to search for within each input directory (e.g., "*.txt" will find all .txt files).
     FILE_PATTERN_TO_CONCATENATE = "*.txt"
 
     print("Starting script to concatenate files...")
