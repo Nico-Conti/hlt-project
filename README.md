@@ -60,3 +60,12 @@ We also tested **beam search** decoding (k=5) vs. greedy.
 
 - Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., … Stoyanov, V. (2019). **RoBERTa: A Robustly Optimized BERT Pretraining Approach.** *arXiv preprint* arXiv:1907.11692.
 
+---
+
+## 📑 Detailed Report
+
+For a comprehensive explanation of our methodology, architecture choices, hyperparameter settings, and extended results (including confusion matrices and ablation studies), please refer to the project report:
+
+➡️ [Bi-GRUBERTa Model for Dialogue Act Classification (PDF)](./Bi_GRUBERTa_model_for_Dialogue_Act_Classification.pdf)
+
+The report contains additional diagrams and discussions that complement this README.
